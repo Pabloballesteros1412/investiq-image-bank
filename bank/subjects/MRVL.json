@@ -6,55 +6,118 @@
   "MRVL"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
  "photos": [
   {
-   "shows": "CES 2012 - Marvell",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/CES_2012_-_Marvell_%286937708043%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/CES_2012_-_Marvell_%286937708043%29.jpg/500px-CES_2012_-_Marvell_%286937708043%29.jpg",
-   "size": [
-    1600,
-    1200
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:CES_2012_-_Marvell_(6937708043).jpg"
-  },
-  {
-   "shows": "Park Azorim 023",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Park_Azorim_023.jpg/1920px-Park_Azorim_023.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Park_Azorim_023.jpg/500px-Park_Azorim_023.jpg",
+   "shows": "Marvell 88i6522-LGO1 HDD controller - etched",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marvell_88i6522-LGO1_HDD_controller_-_etched_-_50004308827.jpg/1920px-Marvell_88i6522-LGO1_HDD_controller_-_etched_-_50004308827.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marvell_88i6522-LGO1_HDD_controller_-_etched_-_50004308827.jpg/500px-Marvell_88i6522-LGO1_HDD_controller_-_etched_-_50004308827.jpg",
    "size": [
     1920,
-    1440
+    1846
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Ori~, Attribution, via Wikimedia Commons",
-   "licence": "Attribution",
-   "source": "https://commons.wikimedia.org/wiki/File:Park_Azorim_023.jpg"
+   "credit": "Martijn Boer, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Marvell_88i6522-LGO1_HDD_controller_-_etched_-_50004308827.jpg"
   },
   {
-   "shows": "Marvell Semiconductor KT-SS1074B2-P182 made for Kingston 2000pcs box tag",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Marvell_Semiconductor_KT-SS1074B2-P182_made_for_Kingston_2000pcs_box_tag_20160118.jpg/1920px-Marvell_Semiconductor_KT-SS1074B2-P182_made_for_Kingston_2000pcs_box_tag_20160118.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Marvell_Semiconductor_KT-SS1074B2-P182_made_for_Kingston_2000pcs_box_tag_20160118.jpg/500px-Marvell_Semiconductor_KT-SS1074B2-P182_made_for_Kingston_2000pcs_box_tag_20160118.jpg",
+   "shows": "Marvell 88i6540-LFH1 HDD controller - top metal",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Marvell_88i6540-LFH1_HDD_controller_-_top_metal_-_50004309807.jpg/1920px-Marvell_88i6540-LFH1_HDD_controller_-_top_metal_-_50004309807.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Marvell_88i6540-LFH1_HDD_controller_-_top_metal_-_50004309807.jpg/500px-Marvell_88i6540-LFH1_HDD_controller_-_top_metal_-_50004309807.jpg",
    "size": [
     1920,
-    1440
+    1847
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
+   "credit": "Martijn Boer, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Marvell_88i6540-LFH1_HDD_controller_-_top_metal_-_50004309807.jpg"
+  },
+  {
+   "shows": "Marvell 88i6545-TFJ1 HDD controller - etched",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Marvell_88i6545-TFJ1_HDD_controller_-_etched_-_50053955923.jpg/1920px-Marvell_88i6545-TFJ1_HDD_controller_-_etched_-_50053955923.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Marvell_88i6545-TFJ1_HDD_controller_-_etched_-_50053955923.jpg/500px-Marvell_88i6545-TFJ1_HDD_controller_-_etched_-_50053955923.jpg",
+   "size": [
+    1920,
+    1963
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Martijn Boer, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Marvell_88i6545-TFJ1_HDD_controller_-_etched_-_50053955923.jpg"
+  },
+  {
+   "shows": "Apple AirPort Extreme Base Station (A1408) - controller board - Marvell 88F6281-A1-0212",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Apple_AirPort_Extreme_Base_Station_%28A1408%29_-_controller_board_-_Marvell_88F6281-A1-0212.jpg/1920px-Apple_AirPort_Extreme_Base_Station_%28A1408%29_-_controller_board_-_Marvell_88F6281-A1-0212.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Apple_AirPort_Extreme_Base_Station_%28A1408%29_-_controller_board_-_Marvell_88F6281-A1-0212.jpg/500px-Apple_AirPort_Extreme_Base_Station_%28A1408%29_-_controller_board_-_Marvell_88F6281-A1-0212.jpg",
+   "size": [
+    1920,
+    2066
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
    "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Marvell_Semiconductor_KT-SS1074B2-P182_made_for_Kingston_2000pcs_box_tag_20160118.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_AirPort_Extreme_Base_Station_(A1408)_-_controller_board_-_Marvell_88F6281-A1-0212.jpg"
+  },
+  {
+   "shows": "Crucial CT128M4SSD2 - board - Marvell 88SS9174-BLD2-2890",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg/1920px-Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg/500px-Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg"
+  },
+  {
+   "shows": "WD Caviar WD1600JB-00EVA0 - controller - Marvell 88C5540-LFE-1369",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/WD_Caviar_WD1600JB-00EVA0_-_controller_-_Marvell_88C5540-LFE-1369.jpg/1920px-WD_Caviar_WD1600JB-00EVA0_-_controller_-_Marvell_88C5540-LFE-1369.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/WD_Caviar_WD1600JB-00EVA0_-_controller_-_Marvell_88C5540-LFE-1369.jpg/500px-WD_Caviar_WD1600JB-00EVA0_-_controller_-_Marvell_88C5540-LFE-1369.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:WD_Caviar_WD1600JB-00EVA0_-_controller_-_Marvell_88C5540-LFE-1369.jpg"
+  },
+  {
+   "shows": "Seagate Cheetah 10K.7 ST373207LC - controller - Marvell 88C7500M-LAE1-2132",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Seagate_Cheetah_10K.7_ST373207LC_-_controller_-_Marvell_88C7500M-LAE1-2132.jpg/1920px-Seagate_Cheetah_10K.7_ST373207LC_-_controller_-_Marvell_88C7500M-LAE1-2132.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Seagate_Cheetah_10K.7_ST373207LC_-_controller_-_Marvell_88C7500M-LAE1-2132.jpg/500px-Seagate_Cheetah_10K.7_ST373207LC_-_controller_-_Marvell_88C7500M-LAE1-2132.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Seagate_Cheetah_10K.7_ST373207LC_-_controller_-_Marvell_88C7500M-LAE1-2132.jpg"
   },
   {
    "shows": "Marvell Office - panoramio",
@@ -73,20 +136,36 @@
    "source": "https://commons.wikimedia.org/wiki/File:Marvell_Office_-_panoramio.jpg"
   },
   {
-   "shows": "Marvell Santa Clara May 2011",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Marvell_Santa_Clara_May_2011.jpg/1920px-Marvell_Santa_Clara_May_2011.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Marvell_Santa_Clara_May_2011.jpg/500px-Marvell_Santa_Clara_May_2011.jpg",
+   "shows": "Seagate ST500LT12 - controller - Marvell 88i1064-RAH3-2691",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Seagate_ST500LT12_-_controller_-_Marvell_88i1064-RAH3-2691.jpg/1920px-Seagate_ST500LT12_-_controller_-_Marvell_88i1064-RAH3-2691.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Seagate_ST500LT12_-_controller_-_Marvell_88i1064-RAH3-2691.jpg/500px-Seagate_ST500LT12_-_controller_-_Marvell_88i1064-RAH3-2691.jpg",
    "size": [
     1920,
-    480
+    1920
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "King of Hearts, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Marvell_Santa_Clara_May_2011.jpg"
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Seagate_ST500LT12_-_controller_-_Marvell_88i1064-RAH3-2691.jpg"
+  },
+  {
+   "shows": "Samsung SP0802N - board -Marvell 88i6522-LGO-1763",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Samsung_SP0802N_-_board_-Marvell_88i6522-LGO-1763.jpg/1920px-Samsung_SP0802N_-_board_-Marvell_88i6522-LGO-1763.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Samsung_SP0802N_-_board_-Marvell_88i6522-LGO-1763.jpg/500px-Samsung_SP0802N_-_board_-Marvell_88i6522-LGO-1763.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Samsung_SP0802N_-_board_-Marvell_88i6522-LGO-1763.jpg"
   }
  ]
 }

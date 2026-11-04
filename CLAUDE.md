@@ -19,31 +19,42 @@ Decisions (Pablo, 4 Nov 2026):
   `https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/index.json`.
   `CAROUSEL_CHAT.md` has the block to paste into the chat's project instructions.
 
-## State (4 Nov 2026)
-- Catalog (98 subjects, 777 hand-written shots), extras, universe builder, photo picker, index, gallery
-  (`docs/index.html`, for GitHub Pages) and offline tests (`python -m unittest discover -p "test_*.py"`) done.
-- **Nothing has run against the real APIs yet**. The four Wikimedia hosts are allowed in the environment
-  since 4 Nov, but the APIs (`/w/api.php` on all three) answer anonymous calls from the shared cloud egress
-  with HTTP 429 (`x-envoy-ratelimited`) nearly every time (1 of 12 probes got through); page views work.
-  Fix: a Wikimedia access token in `WIKIMEDIA_TOKEN` (owner-only OAuth 2 consumer; `get_json` sends it as
-  `Authorization: Bearer` and honours `Retry-After`). Don't scrape page HTML to dodge the API limit.
-  Expect to fix small things on the first real run: the S&P 500 wikitext table format (`parse_sp500`, the run
-  stops if it reads fewer than 400 companies), API answer shapes, rate limits, thumbnail addresses.
+## State (4 Nov 2026, evening): first real build done
+- **Built and pushed** on branch `claude/nifty-dijkstra-hpxtiq` (not yet in `main`, which is what the chat reads):
+  583 companies (500 S&P 500 + 83 extras; 3 extras were already in the index), 37 topics, 11 sectors,
+  3,828 photos (3,355 of companies, 473 of topics and sectors). 248 companies have 10 photos of their own,
+  100 have none (Commons has nothing usable under their name: Danaher, EOG, ICE, Intuitive Surgical...): the
+  index gives them `fill_from` = their sector. Tests: `python -m unittest discover -p "test_*.py"` (24, offline).
+- **Network**: the three APIs answer 200 with `WIKIMEDIA_TOKEN` (`Authorization: Bearer`, owner-only OAuth 2
+  consumer of Pablo's account). Without it, the shared cloud egress gets 429 nearly always, and so do anonymous
+  downloads from `upload.wikimedia.org` ("robot policy"); with it they work. In a viewer's browser the photos
+  load normally. Logged-in calls still get the odd 429 with `Retry-After` (honoured, logged on stderr) when
+  more than ~3 requests run at once: the build looks ahead with 2 workers, don't raise it.
+- **Fixed on the first real run**: S&P table rows written `|| cell` and `{{BZX link|CBOE}}`; Commons category
+  from the Wikidata sitelink / P910 / a company-filed category of the same name (+31 by hand, `"manual"`);
+  Wikidata `mul` labels (Apple's CEO); latest-start CEO; the API's `?utm_source=` on file URLs (broke every
+  thumbnail); HTTP 414 on 50 long titles (POST); non-atomic manifest writes.
+- **Picker rules learnt from looking at the photos** (see the module docstring and README): `shows` is the
+  photo's own file name, never the wished scene; CEO photo = the person's Wikidata P18, else a search with the
+  full name that also names the company; category photos need a telling file name, JPEG, no events/sports/
+  sponsorships/protests (NextEra -> NASCAR), only subcategories named after the company or its sites
+  (Blackstone -> Fleetwood Mac); search hits must name the company and a place or thing in the file name;
+  ambiguous short names (the Wikipedia article is something else: Blackstone, Target, Ball) are searched in
+  full; no letters, paintings, survey drawings, screenshots, or pre-1960 photos outside `historic` shots.
+- **Catalog**: every topic and sector photo was checked by eye; ~90 shots rewritten with `must` (words the
+  file name or categories must hold) and per-shot `exclude`. AAPL and DIS leaders updated from Wikidata (John
+  Ternus since Sep 2026, Josh D'Amaro 2026); Wikidata is behind for Intel and Walmart, the catalog is right.
 - Dashboard artifact for Pablo: **https://claude.ai/artifact/GH9JEo598mzHkmJkjAmc1e** (previews do not load
   inside an artifact; the GitHub Pages gallery shows them).
 
 ## Next work (in order)
-1. Check the network: `curl -sS -o /dev/null -w "%{http_code}" -A "InvestIQ-image-bank/2.0" "https://commons.wikimedia.org/w/api.php?action=query&meta=siteinfo&format=json"` must give 200 (same for en.wikipedia.org and www.wikidata.org).
-2. `python image_bank.py universe`; check `bank/universe.json` (about 590 companies; how many lack a Wikidata
-   record or a Commons category; fix by hand with `"manual"`).
-3. `python image_bank.py build --only AAPL,MMM,gold,sector-energy` and check the photos by eye (open the
-   `preview` links, or `python dashboard.py` and the gallery); then `python image_bank.py build`
-   (an hour or more; it resumes if cut). Commit and push in between: that is what the chat reads.
-4. Look at weak subjects (few photos, wrong photos): `exclude` in the manifest, better searches in
-   `catalog.json`, fixes in `universe.json`.
-5. Update the gallery (`python dashboard.py`, commit `docs/`) and the artifact (`python dashboard.py
-   <scratchpad>/banco-imagenes.html --artifact`, publish to the URL above). Ask Pablo to switch on GitHub
-   Pages (Settings → Pages → main, /docs) if he wants the gallery with images.
+1. Get this branch into `main` (PR + merge, Pablo's call): until then the chat reads the old empty index.
+2. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
+3. Weak companies: browse the gallery; for a wrong photo add `"exclude"` + `"manual": ["exclude"]` in the
+   manifest and `build --only <ID>`. For big names with few photos, a hand-written catalog entry (their
+   stores, products, HQ) works better than more rules: e.g. TJX (TJ Maxx, Marshalls), Thermo Fisher, KLA,
+   ServiceNow, Shopify, Snowflake, Palo Alto Networks, Robinhood, Intuitive Surgical (da Vinci robot).
+4. Re-run `universe` when the S&P 500 changes and `build --redo` every few months (dead links, new photos).
 
 ## Rules
 - Free licences only, and every photo keeps its credit line (`credit`).

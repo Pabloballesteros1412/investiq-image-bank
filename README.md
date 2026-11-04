@@ -18,6 +18,14 @@ conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
   básico, energía, servicios públicos, inmobiliario y materiales. Rellenan los huecos de las empresas que no
   llegan a 10 fotos propias, marcadas como genéricas.
 
+## Estado (4 nov 2026)
+
+Primera construcción completa contra Wikimedia: **3.828 fotos**. Las 48 fichas de temas y sectores tienen 10
+fotos (6 tienen 9 u 8), revisadas una a una. De las 583 empresas, 248 tienen 10 fotos propias, 235 tienen
+menos y 100 no tienen ninguna porque Commons no tiene fotos libres a su nombre (Danaher, EOG, ICE, Intuitive
+Surgical...): el índice las completa con las de su sector. Para mejorar una empresa importante con pocas fotos,
+lo más eficaz es escribirle tomas a mano en `catalog.json` (sus tiendas, productos y sede).
+
 ## Construirlo
 
 Hace falta Python 3.9 o superior (sin más paquetes) y acceso a `en.wikipedia.org`, `www.wikidata.org` y

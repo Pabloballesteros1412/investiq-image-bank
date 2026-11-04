@@ -7,5 +7,54 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Ericsson KM266, Dell Wireless 5530 - Skyworks SKY65311-21-6979",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ericsson_KM266%2C_Dell_Wireless_5530_-_Skyworks_SKY65311-21-6979.jpg/1920px-Ericsson_KM266%2C_Dell_Wireless_5530_-_Skyworks_SKY65311-21-6979.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Ericsson_KM266%2C_Dell_Wireless_5530_-_Skyworks_SKY65311-21-6979.jpg/500px-Ericsson_KM266%2C_Dell_Wireless_5530_-_Skyworks_SKY65311-21-6979.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ericsson_KM266,_Dell_Wireless_5530_-_Skyworks_SKY65311-21-6979.jpg"
+  },
+  {
+   "shows": "Huawei B528s-23a GigaCube - board - Skyworks -11A-9815",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Huawei_B528s-23a_GigaCube_-_board_-_Skyworks_77648-11A-9815.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Huawei_B528s-23a_GigaCube_-_board_-_Skyworks_77648-11A-9815.jpg/500px-Huawei_B528s-23a_GigaCube_-_board_-_Skyworks_77648-11A-9815.jpg",
+   "size": [
+    1882,
+    1882
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Huawei_B528s-23a_GigaCube_-_board_-_Skyworks_77648-11A-9815.jpg"
+  },
+  {
+   "shows": "Novatel Wireless Merlin U630 - board - Skyworks SKY77152-11",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Novatel_Wireless_Merlin_U630_-_board_-_Skyworks_SKY77152-11-40858.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Novatel_Wireless_Merlin_U630_-_board_-_Skyworks_SKY77152-11-40858.jpg/500px-Novatel_Wireless_Merlin_U630_-_board_-_Skyworks_SKY77152-11-40858.jpg",
+   "size": [
+    1717,
+    1288
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Novatel_Wireless_Merlin_U630_-_board_-_Skyworks_SKY77152-11-40858.jpg"
+  }
+ ]
 }
