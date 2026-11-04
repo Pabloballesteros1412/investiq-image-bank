@@ -6,6 +6,7 @@
   "STX"
  ],
  "sector": "sector-tech",
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Seagate Headquarters Fremont",
@@ -25,74 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Seagate_Headquarters_Fremont.jpg"
   },
   {
-   "shows": "Seagate products at Octagon ( )",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seagate_products_at_Octagon_%282024-05-25%29.jpg/1280px-Seagate_products_at_Octagon_%282024-05-25%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seagate_products_at_Octagon_%282024-05-25%29.jpg/500px-Seagate_products_at_Octagon_%282024-05-25%29.jpg",
-   "size": [
-    1280,
-    1920
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Wide Awake!, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Seagate_products_at_Octagon_(2024-05-25).jpg"
-  },
-  {
-   "shows": "Bartek Bade Store",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bartek_Bade_Store_20230204.jpg/1920px-Bartek_Bade_Store_20230204.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bartek_Bade_Store_20230204.jpg/500px-Bartek_Bade_Store_20230204.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bartek_Bade_Store_20230204.jpg"
-  },
-  {
-   "shows": "Bartek Bade Store closed",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bartek_Bade_Store_closed_20241222.jpg/1920px-Bartek_Bade_Store_closed_20241222.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bartek_Bade_Store_closed_20241222.jpg/500px-Bartek_Bade_Store_closed_20241222.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bartek_Bade_Store_closed_20241222.jpg"
-  },
-  {
-   "shows": "Seagate Service Center at Guang Hua Digital Plaza",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20181215.jpg/1920px-Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20181215.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20181215.jpg/500px-Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20181215.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20181215.jpg"
-  },
-  {
    "shows": "Seagate Technology Office - Shakopee, Minnesota",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Seagate_Technology_Office_-_Shakopee%2C_Minnesota.jpg/1920px-Seagate_Technology_Office_-_Shakopee%2C_Minnesota.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Seagate_Technology_Office_-_Shakopee%2C_Minnesota.jpg/500px-Seagate_Technology_Office_-_Shakopee%2C_Minnesota.jpg",
@@ -108,74 +41,6 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Seagate_Technology_Office_-_Shakopee,_Minnesota.jpg"
-  },
-  {
-   "shows": "Seagate Technology Taiwan booth, TIPMEE 20190929a",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Seagate_Technology_Taiwan_booth%2C_TIPMEE_20190929a.jpg/1920px-Seagate_Technology_Taiwan_booth%2C_TIPMEE_20190929a.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Seagate_Technology_Taiwan_booth%2C_TIPMEE_20190929a.jpg/500px-Seagate_Technology_Taiwan_booth%2C_TIPMEE_20190929a.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Seagate_Technology_Taiwan_booth,_TIPMEE_20190929a.jpg"
-  },
-  {
-   "shows": "Seagate Technology Headquarters Cupertino",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Seagate_Technology_Headquarters_Cupertino.jpg/1920px-Seagate_Technology_Headquarters_Cupertino.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Seagate_Technology_Headquarters_Cupertino.jpg/500px-Seagate_Technology_Headquarters_Cupertino.jpg",
-   "size": [
-    1920,
-    1272
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "LPS.1, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Seagate_Technology_Headquarters_Cupertino.jpg"
-  },
-  {
-   "shows": "Sign in front of Seagate's headquarters (they make storage devices)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sign_in_front_of_Seagate%27s_headquarters_%28they_make_storage_devices%29.jpg/1920px-Sign_in_front_of_Seagate%27s_headquarters_%28they_make_storage_devices%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sign_in_front_of_Seagate%27s_headquarters_%28they_make_storage_devices%29.jpg/500px-Sign_in_front_of_Seagate%27s_headquarters_%28they_make_storage_devices%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Robert Scoble, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Sign_in_front_of_Seagate%27s_headquarters_(they_make_storage_devices).jpg"
-  },
-  {
-   "shows": "Asustor promotional model standing on one leg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Asustor_promotional_model_standing_on_one_leg_%2814378403073%29.jpg/1280px-Asustor_promotional_model_standing_on_one_leg_%2814378403073%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Asustor_promotional_model_standing_on_one_leg_%2814378403073%29.jpg/500px-Asustor_promotional_model_standing_on_one_leg_%2814378403073%29.jpg",
-   "size": [
-    1280,
-    1927
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Sinchen.Lin, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Asustor_promotional_model_standing_on_one_leg_(14378403073).jpg"
   }
  ]
 }

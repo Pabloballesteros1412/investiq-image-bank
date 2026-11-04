@@ -6,24 +6,8 @@
   "QBTS"
  ],
  "sector": "sector-tech",
+ "fill_from": "sector-tech",
  "photos": [
-  {
-   "shows": "A Field of Dreams",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/A_Field_of_Dreams_%2840054482212%29.jpg/1920px-A_Field_of_Dreams_%2840054482212%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/A_Field_of_Dreams_%2840054482212%29.jpg/500px-A_Field_of_Dreams_%2840054482212%29.jpg",
-   "size": [
-    1920,
-    1729
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Steve Jurvetson from Menlo Park, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:A_Field_of_Dreams_(40054482212).jpg"
-  },
   {
    "shows": "A Wafer of the Latest D-Wave Quantum Computers",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_%2839188583425%29.jpg/1920px-A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_%2839188583425%29.jpg",
@@ -59,57 +43,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:D-Wave_Two_512_qubit_Vesuvius_chip.jpg"
   },
   {
-   "shows": "D-Wave Quantum (D-Wave Systems)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/DWaveSC18-2.jpg/1920px-DWaveSC18-2.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/DWaveSC18-2.jpg/500px-DWaveSC18-2.jpg",
-   "size": [
-    1920,
-    1272
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:DWaveSC18-2.jpg"
-  },
-  {
-   "shows": "Ghost in the Quantum Machine",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ghost_in_the_Quantum_Machine_%2825215168597%29.jpg/1920px-Ghost_in_the_Quantum_Machine_%2825215168597%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ghost_in_the_Quantum_Machine_%2825215168597%29.jpg/500px-Ghost_in_the_Quantum_Machine_%2825215168597%29.jpg",
-   "size": [
-    1920,
-    1813
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Steve Jurvetson from Menlo Park, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ghost_in_the_Quantum_Machine_(25215168597).jpg"
-  },
-  {
-   "shows": "Keeping it Cool",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Keeping_it_Cool_%288762280823%29.jpg/1920px-Keeping_it_Cool_%288762280823%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Keeping_it_Cool_%288762280823%29.jpg/500px-Keeping_it_Cool_%288762280823%29.jpg",
-   "size": [
-    1920,
-    1368
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Steve Jurvetson from Los Altos, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Keeping_it_Cool_(8762280823).jpg"
-  },
-  {
    "shows": "Latest D-Wave 2000 Qubit Processor",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Latest_D-Wave_2000_Qubit_Processor_%2825215169297%29.jpg/1920px-Latest_D-Wave_2000_Qubit_Processor_%2825215169297%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Latest_D-Wave_2000_Qubit_Processor_%2825215169297%29.jpg/500px-Latest_D-Wave_2000_Qubit_Processor_%2825215169297%29.jpg",
@@ -125,57 +58,6 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Latest_D-Wave_2000_Qubit_Processor_(25215169297).jpg"
-  },
-  {
-   "shows": "D-Wave Two quantum computer inside the NASA Advanced Supercomputing Facility",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/D-Wave_Two_quantum_computer_inside_the_NASA_Advanced_Supercomputing_Facility.jpg/1920px-D-Wave_Two_quantum_computer_inside_the_NASA_Advanced_Supercomputing_Facility.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/D-Wave_Two_quantum_computer_inside_the_NASA_Advanced_Supercomputing_Facility.jpg/500px-D-Wave_Two_quantum_computer_inside_the_NASA_Advanced_Supercomputing_Facility.jpg",
-   "size": [
-    1920,
-    1152
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Oleg Alexandrov, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:D-Wave_Two_quantum_computer_inside_the_NASA_Advanced_Supercomputing_Facility.jpg"
-  },
-  {
-   "shows": "Quantum Computer",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Quantum_Computer_%283796519198%29.jpg/1280px-Quantum_Computer_%283796519198%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Quantum_Computer_%283796519198%29.jpg/500px-Quantum_Computer_%283796519198%29.jpg",
-   "size": [
-    1280,
-    1683
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Steve Jurvetson from Los Altos, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Quantum_Computer_(3796519198).jpg"
-  },
-  {
-   "shows": "The Beauty of Quantum Computers",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Beauty_of_Quantum_Computers_%2825215168907%29.jpg/1280px-The_Beauty_of_Quantum_Computers_%2825215168907%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Beauty_of_Quantum_Computers_%2825215168907%29.jpg/500px-The_Beauty_of_Quantum_Computers_%2825215168907%29.jpg",
-   "size": [
-    1280,
-    1529
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Steve Jurvetson from Menlo Park, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:The_Beauty_of_Quantum_Computers_(25215168907).jpg"
   }
  ]
 }

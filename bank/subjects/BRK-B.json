@@ -6,6 +6,7 @@
   "BRK-B"
  ],
  "sector": "sector-financials",
+ "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Warren Buffett at the 2015 SelectUSA Investment Summit",
@@ -26,40 +27,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg"
   },
   {
-   "shows": "Berkshire Hathaway Annual Meeting 2025",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Berkshire_Hathaway_Annual_Meeting_2025.jpg/1920px-Berkshire_Hathaway_Annual_Meeting_2025.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Berkshire_Hathaway_Annual_Meeting_2025.jpg/500px-Berkshire_Hathaway_Annual_Meeting_2025.jpg",
-   "size": [
-    1920,
-    1081
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Good-investing, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Berkshire_Hathaway_Annual_Meeting_2025.jpg"
-  },
-  {
-   "shows": "Omaha to Sioux Falls 151",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Omaha_to_Sioux_Falls_151.jpg/1280px-Omaha_to_Sioux_Falls_151.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Omaha_to_Sioux_Falls_151.jpg/500px-Omaha_to_Sioux_Falls_151.jpg",
-   "size": [
-    1280,
-    1587
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Ambirchfield1, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Omaha_to_Sioux_Falls_151.jpg"
-  },
-  {
    "shows": "BNSF GE Dash-9 C44-9W Kennewick - Wishram WA",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg/1920px-BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg/500px-BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg",
@@ -75,108 +42,6 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg"
-  },
-  {
-   "shows": "The Germain Race Shop in Mooresville, North Carolina",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Germain_Race_Shop_in_Mooresville%2C_North_Carolina.jpg/1920px-The_Germain_Race_Shop_in_Mooresville%2C_North_Carolina.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/The_Germain_Race_Shop_in_Mooresville%2C_North_Carolina.jpg/500px-The_Germain_Race_Shop_in_Mooresville%2C_North_Carolina.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Joetregembo, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:The_Germain_Race_Shop_in_Mooresville,_North_Carolina.jpg"
-  },
-  {
-   "shows": "Kiewit Plaza in midtown Omaha, Nebraska, USA.",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/6/6e/20220503171648%21OmahaKiewitPlaza.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/6/6e/20220503171648%21OmahaKiewitPlaza.jpg",
-   "size": [
-    1280,
-    1897
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "JonClee86, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:OmahaKiewitPlaza.jpg"
-  },
-  {
-   "shows": "2018 Berkshire Sunday at Borsheims",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2018_Berkshire_Sunday_at_Borsheims_%2827069585157%29.jpg/1920px-2018_Berkshire_Sunday_at_Borsheims_%2827069585157%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/2018_Berkshire_Sunday_at_Borsheims_%2827069585157%29.jpg/500px-2018_Berkshire_Sunday_at_Borsheims_%2827069585157%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "BorsheimsJewelry from Omaha, NE, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2018_Berkshire_Sunday_at_Borsheims_(27069585157).jpg"
-  },
-  {
-   "shows": "Berkshire Hathaway for sale sign near Hendricks Park",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berkshire_Hathaway_for_sale_sign_near_Hendricks_Park.jpg/1920px-Berkshire_Hathaway_for_sale_sign_near_Hendricks_Park.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Berkshire_Hathaway_for_sale_sign_near_Hendricks_Park.jpg/500px-Berkshire_Hathaway_for_sale_sign_near_Hendricks_Park.jpg",
-   "size": [
-    1920,
-    1920
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Rick Obst, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Berkshire_Hathaway_for_sale_sign_near_Hendricks_Park.jpg"
-  },
-  {
-   "shows": "24 and 25 Albion Street, Tyburnia, June 2024",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_and_25_Albion_Street%2C_Tyburnia%2C_June_2024.jpg/1280px-24_and_25_Albion_Street%2C_Tyburnia%2C_June_2024.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_and_25_Albion_Street%2C_Tyburnia%2C_June_2024.jpg/500px-24_and_25_Albion_Street%2C_Tyburnia%2C_June_2024.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "No Swan So Fine, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:24_and_25_Albion_Street,_Tyburnia,_June_2024.jpg"
-  },
-  {
-   "shows": "Berkshire Hathaway HomeServices Vermont Realty Group South Main Street Waterbury VT May 2021",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Berkshire_Hathaway_HomeServices_Vermont_Realty_Group_South_Main_Street_Waterbury_VT_May_2021.jpg/1280px-Berkshire_Hathaway_HomeServices_Vermont_Realty_Group_South_Main_Street_Waterbury_VT_May_2021.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Berkshire_Hathaway_HomeServices_Vermont_Realty_Group_South_Main_Street_Waterbury_VT_May_2021.jpg/500px-Berkshire_Hathaway_HomeServices_Vermont_Realty_Group_South_Main_Street_Waterbury_VT_May_2021.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Artaxerxes, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Berkshire_Hathaway_HomeServices_Vermont_Realty_Group_South_Main_Street_Waterbury_VT_May_2021.jpg"
   }
  ]
 }

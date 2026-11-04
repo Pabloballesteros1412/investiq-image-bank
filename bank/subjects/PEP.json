@@ -6,24 +6,8 @@
   "PEP"
  ],
  "sector": "sector-staples",
+ "fill_from": "sector-staples",
  "photos": [
-  {
-   "shows": "PepsiCo Headquarters close up 2011",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PepsiCo_Headquarters_close_up_2011.jpg/1920px-PepsiCo_Headquarters_close_up_2011.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PepsiCo_Headquarters_close_up_2011.jpg/500px-PepsiCo_Headquarters_close_up_2011.jpg",
-   "size": [
-    1920,
-    1285
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "angela n., CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:PepsiCo_Headquarters_close_up_2011.jpg"
-  },
   {
    "shows": "Pepsi 355 ml, 591 ml, and 710 ml, Canada (obverse)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg/1280px-Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg",
@@ -42,92 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Pepsi_355_ml,_591_ml,_and_710_ml,_Canada_(obverse),_2026-03-05.jpg"
   },
   {
-   "shows": "A Lay's Stax chip",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/A_Lay%27s_Stax_chip.jpg/1280px-A_Lay%27s_Stax_chip.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/A_Lay%27s_Stax_chip.jpg/500px-A_Lay%27s_Stax_chip.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jiafei Slay Queen, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:A_Lay%27s_Stax_chip.jpg"
-  },
-  {
-   "shows": "Gatorade Center 4",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gatorade_Center_4.jpg/1920px-Gatorade_Center_4.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gatorade_Center_4.jpg/500px-Gatorade_Center_4.jpg",
-   "size": [
-    1920,
-    1741
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "kallerna, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Gatorade_Center_4.jpg"
-  },
-  {
-   "shows": "Pepsi truck in Ueno Park",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pepsi_truck_in_Ueno_Park.jpg/1920px-Pepsi_truck_in_Ueno_Park.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pepsi_truck_in_Ueno_Park.jpg/500px-Pepsi_truck_in_Ueno_Park.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Sahaib, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Pepsi_truck_in_Ueno_Park.jpg"
-  },
-  {
-   "shows": "Ramon Laguarta Community Engagement",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ramon_Laguarta_Community_Engagement.jpg/1920px-Ramon_Laguarta_Community_Engagement.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ramon_Laguarta_Community_Engagement.jpg/500px-Ramon_Laguarta_Community_Engagement.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.33
-   ],
-   "person": true,
-   "credit": "Qwertyfry38, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ramon_Laguarta_Community_Engagement.jpg"
-  },
-  {
-   "shows": "PepsiCo world headquarters",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PepsiCoHQPurchaseNY.jpg/1920px-PepsiCoHQPurchaseNY.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PepsiCoHQPurchaseNY.jpg/500px-PepsiCoHQPurchaseNY.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Peter Bond from Philadelphia, USA, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:PepsiCoHQPurchaseNY.jpg"
-  },
-  {
    "shows": "PepsiCo HQ Office",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PepsiCo_HQ_Office.jpg/1920px-PepsiCo_HQ_Office.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PepsiCo_HQ_Office.jpg/500px-PepsiCo_HQ_Office.jpg",
@@ -143,40 +41,6 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:PepsiCo_HQ_Office.jpg"
-  },
-  {
-   "shows": "PepsiCo corporate headquarters and poles",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PepsiCo_corporate_headquarters_and_poles.jpg/1920px-PepsiCo_corporate_headquarters_and_poles.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PepsiCo_corporate_headquarters_and_poles.jpg/500px-PepsiCo_corporate_headquarters_and_poles.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Peter Bond, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:PepsiCo_corporate_headquarters_and_poles.jpg"
-  },
-  {
-   "shows": "Samochód handlowca tomaszowskiej fabryki koncernu PepsiCo EN The canvasser's car of the factory PepsiCo from Tomaszow Mazowiecki, Poland",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Samoch%C3%B3d_handlowca_tomaszowskiej_fabryki_koncernu_PepsiCo_EN_The_canvasser%27s_car_of_the_factory_PepsiCo_from_Tomaszow_Mazowiecki%2C_Poland.jpg/1920px-Samoch%C3%B3d_handlowca_tomaszowskiej_fabryki_koncernu_PepsiCo_EN_The_canvasser%27s_car_of_the_factory_PepsiCo_from_Tomaszow_Mazowiecki%2C_Poland.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Samoch%C3%B3d_handlowca_tomaszowskiej_fabryki_koncernu_PepsiCo_EN_The_canvasser%27s_car_of_the_factory_PepsiCo_from_Tomaszow_Mazowiecki%2C_Poland.jpg/500px-Samoch%C3%B3d_handlowca_tomaszowskiej_fabryki_koncernu_PepsiCo_EN_The_canvasser%27s_car_of_the_factory_PepsiCo_from_Tomaszow_Mazowiecki%2C_Poland.jpg",
-   "size": [
-    1920,
-    1094
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Warszawska róg Szerokiej w Tomaszowie Mazowieckim, w województwie łódzkim, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Samoch%C3%B3d_handlowca_tomaszowskiej_fabryki_koncernu_PepsiCo_EN_The_canvasser%27s_car_of_the_factory_PepsiCo_from_Tomaszow_Mazowiecki,_Poland.jpg"
   }
  ]
 }

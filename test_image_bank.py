@@ -458,3 +458,20 @@ class Review(unittest.TestCase):
             self.assertNotIn(mmm[1], again)
             self.assertNotIn(mmm[2], again)
             self.assertIn(mmm[0], again)
+
+
+class ReviewTool(unittest.TestCase):
+    def test_grades_from_sheets_start_the_gate(self):
+        import review
+        with tempfile.TemporaryDirectory() as d:
+            bank, sheets = Path(d) / "bank", Path(d) / "review"
+            bank.mkdir(); sheets.mkdir()
+            (sheets / "sheets.json").write_text(json.dumps({"sheet-001": {"1": {"subject": "X", "file": "File:A.jpg"},
+                                                                          "2": {"subject": "X", "file": "File:B.jpg"},
+                                                                          "3": {"subject": "X", "file": "File:C.jpg"}}}))
+            (sheets / "g.json").write_text(json.dumps({"sheet-001": {"3": [1], "2": [3]}}))
+            self.assertEqual(review.grade(sheets / "g.json", sheets, bank), {1: 1, 2: 1, 3: 1})
+            rv = B.load_review(bank)
+            self.assertEqual((rv["min_grade"], rv["grades"]), (3, {"File:A.jpg": 3, "File:B.jpg": 1, "File:C.jpg": 2}))
+            self.assertFalse(B.published({"file": "File:C.jpg"}, rv))
+            self.assertTrue(B.published({"file": "pexels:7"}, rv))

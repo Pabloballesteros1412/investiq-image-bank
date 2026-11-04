@@ -7,23 +7,5 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": [
-  {
-   "shows": "Quadrupole from a Waters Xevo TQ-S Triple quadrupole mass spectrometer.",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Quadrupole.jpg/1920px-Quadrupole.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Quadrupole.jpg/500px-Quadrupole.jpg",
-   "size": [
-    1920,
-    1080
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "TheSteroidBiochemist, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Quadrupole.jpg"
-  }
- ]
+ "photos": []
 }

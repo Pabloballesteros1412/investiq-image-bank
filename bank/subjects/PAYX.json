@@ -7,40 +7,5 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": [
-  {
-   "shows": "Paychex headquarters",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paychex_headquarters.JPG/1920px-Paychex_headquarters.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Paychex_headquarters.JPG/500px-Paychex_headquarters.JPG",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "DanielPenfield, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Paychex_headquarters.JPG"
-  },
-  {
-   "shows": "RIT building - Golisano Building",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RIT_building_-_Golisano_Building.jpg/1280px-RIT_building_-_Golisano_Building.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RIT_building_-_Golisano_Building.jpg/500px-RIT_building_-_Golisano_Building.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Matthew D. Wilson ( LtPowers ), CC BY-SA 2.5, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.5",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:RIT_building_-_Golisano_Building.jpg"
-  }
- ]
+ "photos": []
 }

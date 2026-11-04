@@ -6,6 +6,7 @@
   "TRV"
  ],
  "sector": "sector-financials",
+ "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "The Travelers Companies, Inc",
@@ -25,23 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:The_Travelers_Companies,_Inc._(55614510202).jpg"
   },
   {
-   "shows": "Travelers - Arctic Refuge Action",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Travelers_-_Arctic_Refuge_Action.jpg/1920px-Travelers_-_Arctic_Refuge_Action.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Travelers_-_Arctic_Refuge_Action.jpg/500px-Travelers_-_Arctic_Refuge_Action.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Insure Our Future, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Travelers_-_Arctic_Refuge_Action.jpg"
-  },
-  {
    "shows": "Travelers Tower, Hartford, Connecticut",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Travelers_Tower%2C_Hartford%2C_Connecticut.jpg/1280px-Travelers_Tower%2C_Hartford%2C_Connecticut.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Travelers_Tower%2C_Hartford%2C_Connecticut.jpg/500px-Travelers_Tower%2C_Hartford%2C_Connecticut.jpg",
@@ -57,125 +41,6 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Travelers_Tower,_Hartford,_Connecticut.jpg"
-  },
-  {
-   "shows": "1000 Windward Concourse, Alpharetta, Georgia March 2017",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/1000_Windward_Concourse%2C_Alpharetta%2C_Georgia_March_2017.jpg/1920px-1000_Windward_Concourse%2C_Alpharetta%2C_Georgia_March_2017.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/1000_Windward_Concourse%2C_Alpharetta%2C_Georgia_March_2017.jpg/500px-1000_Windward_Concourse%2C_Alpharetta%2C_Georgia_March_2017.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Thomson200, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:1000_Windward_Concourse,_Alpharetta,_Georgia_March_2017.jpg"
-  },
-  {
-   "shows": "Chase kiosk & Travelers van B141 St Sandy jeh",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chase_kiosk_%26_Travelers_van_B141_St_Sandy_jeh.jpg/1920px-Chase_kiosk_%26_Travelers_van_B141_St_Sandy_jeh.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chase_kiosk_%26_Travelers_van_B141_St_Sandy_jeh.jpg/500px-Chase_kiosk_%26_Travelers_van_B141_St_Sandy_jeh.jpg",
-   "size": [
-    1920,
-    1260
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jim.henderson, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Chase_kiosk_%26_Travelers_van_B141_St_Sandy_jeh.jpg"
-  },
-  {
-   "shows": "Hartford Travelers Tower Image",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hartford_Travelers_Tower_Image.jpg/1280px-Hartford_Travelers_Tower_Image.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hartford_Travelers_Tower_Image.jpg/500px-Hartford_Travelers_Tower_Image.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "N8dthygreatedtfgsgf, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Hartford_Travelers_Tower_Image.jpg"
-  },
-  {
-   "shows": "Travelers Insurance Company of Hartford, Conn LCCN2003671640",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Travelers_Insurance_Company_of_Hartford%2C_Conn_LCCN2003671640.jpg/1280px-Travelers_Insurance_Company_of_Hartford%2C_Conn_LCCN2003671640.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Travelers_Insurance_Company_of_Hartford%2C_Conn_LCCN2003671640.jpg/500px-Travelers_Insurance_Company_of_Hartford%2C_Conn_LCCN2003671640.jpg",
-   "size": [
-    1280,
-    1718
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Popular Graphic Arts, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Travelers_Insurance_Company_of_Hartford,_Conn_LCCN2003671640.jpg"
-  },
-  {
-   "shows": "Travelers Insurance Company Building corner view",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Travelers_Insurance_Company_Building_corner_view.jpg/1280px-Travelers_Insurance_Company_Building_corner_view.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Travelers_Insurance_Company_Building_corner_view.jpg/500px-Travelers_Insurance_Company_Building_corner_view.jpg",
-   "size": [
-    1280,
-    1669
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Travelers_Insurance_Company_Building_corner_view.jpg"
-  },
-  {
-   "shows": "Travelers Building, by Edmund L. Mitchell, 1961, from the Digital Commonwealth - commonwealth 8p58s313x",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Travelers_Building%2C_by_Edmund_L._Mitchell%2C_1961%2C_from_the_Digital_Commonwealth_-_commonwealth_8p58s313x.jpg/1280px-Travelers_Building%2C_by_Edmund_L._Mitchell%2C_1961%2C_from_the_Digital_Commonwealth_-_commonwealth_8p58s313x.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Travelers_Building%2C_by_Edmund_L._Mitchell%2C_1961%2C_from_the_Digital_Commonwealth_-_commonwealth_8p58s313x.jpg/500px-Travelers_Building%2C_by_Edmund_L._Mitchell%2C_1961%2C_from_the_Digital_Commonwealth_-_commonwealth_8p58s313x.jpg",
-   "size": [
-    1280,
-    1868
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Edmund L. Mitchell, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Travelers_Building,_by_Edmund_L._Mitchell,_1961,_from_the_Digital_Commonwealth_-_commonwealth_8p58s313x.jpg"
-  },
-  {
-   "shows": "Travelers Companies-St Paul",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Travelers_Companies-St_Paul-20061008.jpg/1920px-Travelers_Companies-St_Paul-20061008.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Travelers_Companies-St_Paul-20061008.jpg/500px-Travelers_Companies-St_Paul-20061008.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Michael Hicks from Saint Paul, MN, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Travelers_Companies-St_Paul-20061008.jpg"
   }
  ]
 }

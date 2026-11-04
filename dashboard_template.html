@@ -217,8 +217,8 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
     list.hidden = !!s; detail.hidden = !s;
     if (!s) { apply(); return; }
     var k = s.photos.length, note = "";
-    if (s.kind === "company" && k < T && s.sector && byId[s.sector]) note = "Tiene " + k + ' fotos propias: el chat completa con fotos genéricas de <a href="#' + esc(s.sector) + '">' + esc(byId[s.sector].name) + "</a>.";
-    else if (!k && !s.planned.length) note = s.built ? "Commons no tiene fotos libres que encajen." : "Pendiente: se buscará automáticamente en su categoría de Commons.";
+    if (s.kind === "company" && k < T && s.sector && byId[s.sector]) note = (k ? "Tiene " + k + (k === 1 ? " foto propia aprobada" : " fotos propias aprobadas") : "Ninguna de sus fotos de Commons pasó la revisión") + ': el chat completa con fotos genéricas de <a href="#' + esc(s.sector) + '">' + esc(byId[s.sector].name) + "</a>.";
+    else if (!k && !s.planned.length) note = s.built ? "Ninguna de sus fotos de Commons pasó la revisión." : "Pendiente: se buscará automáticamente en su categoría de Commons.";
     detail.innerHTML = '<a class="back" href="#">← Todas las fichas</a><div class="dh"><h2>' + esc(s.name) + "</h2>" +
       (s.kind === "company" ? s.tickers.map(function (t) { return '<span class="chip">' + esc(t) + "</span>"; }).join("") : '<span class="chip kind">' + KIND[s.kind] + "</span>") +
       '<span class="count">' + k + " de " + T + " fotos</span></div>" + (note ? '<p class="dnote">' + note + "</p>" : "") +

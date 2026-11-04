@@ -6,24 +6,8 @@
   "JPM"
  ],
  "sector": "sector-financials",
+ "fill_from": "sector-financials",
  "photos": [
-  {
-   "shows": "270 Park Avenue Photomontage",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/270_Park_Avenue_Photomontage.jpg/1280px-270_Park_Avenue_Photomontage.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/270_Park_Avenue_Photomontage.jpg/500px-270_Park_Avenue_Photomontage.jpg",
-   "size": [
-    1280,
-    1706
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "CrossingLights, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:270_Park_Avenue_Photomontage.jpg"
-  },
   {
    "shows": "A Chase Bank branch in Knoxville, Tennessee",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/A_Chase_Bank_branch_in_Knoxville%2C_Tennessee.jpg/1920px-A_Chase_Bank_branch_in_Knoxville%2C_Tennessee.jpg",
@@ -42,57 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:A_Chase_Bank_branch_in_Knoxville,_Tennessee.jpg"
   },
   {
-   "shows": "Chase ATM in Greenwood, Indiana - June 2022 - Sarah Stierch",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Chase_ATM_in_Greenwood%2C_Indiana_-_June_2022_-_Sarah_Stierch.jpg/1920px-Chase_ATM_in_Greenwood%2C_Indiana_-_June_2022_-_Sarah_Stierch.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Chase_ATM_in_Greenwood%2C_Indiana_-_June_2022_-_Sarah_Stierch.jpg/500px-Chase_ATM_in_Greenwood%2C_Indiana_-_June_2022_-_Sarah_Stierch.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Chase_ATM_in_Greenwood,_Indiana_-_June_2022_-_Sarah_Stierch.jpg"
-  },
-  {
-   "shows": "JPMorgan Chase Tower 0",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/JPMorgan_Chase_Tower_0.jpg/1920px-JPMorgan_Chase_Tower_0.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/JPMorgan_Chase_Tower_0.jpg/500px-JPMorgan_Chase_Tower_0.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "WhisperToMe, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Tower_0.jpg"
-  },
-  {
-   "shows": "Gaming-Wall-Street BTS Prodigium-266",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gaming-Wall-Street_BTS_Prodigium-266.jpg/1920px-Gaming-Wall-Street_BTS_Prodigium-266.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gaming-Wall-Street_BTS_Prodigium-266.jpg/500px-Gaming-Wall-Street_BTS_Prodigium-266.jpg",
-   "size": [
-    1920,
-    1253
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Tobias Deml, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Gaming-Wall-Street_BTS_Prodigium-266.jpg"
-  },
-  {
    "shows": "Jamie Dimon, CEO of JPMorgan Chase",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg/1920px-Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg/500px-Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg",
@@ -109,57 +42,6 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Jamie_Dimon,_CEO_of_JPMorgan_Chase.jpg"
-  },
-  {
-   "shows": "383 Madison Ave New York",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/8/8b/20210429174802%21383_Madison_Ave_New_York.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/8/8b/20210429174802%21383_Madison_Ave_New_York.jpg",
-   "size": [
-    1280,
-    1920
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Percival Kestreltail, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:383_Madison_Ave_New_York.jpg"
-  },
-  {
-   "shows": "JPMorgan Chase Building Corner 2021",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/JPMorgan_Chase_Building_Corner_2021.jpg/1280px-JPMorgan_Chase_Building_Corner_2021.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/JPMorgan_Chase_Building_Corner_2021.jpg/500px-JPMorgan_Chase_Building_Corner_2021.jpg",
-   "size": [
-    1280,
-    2276
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Dead.rabbit, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Building_Corner_2021.jpg"
-  },
-  {
-   "shows": "JPMorgan Chase Building Front 2021",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/JPMorgan_Chase_Building_Front_2021.jpg/1280px-JPMorgan_Chase_Building_Front_2021.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/JPMorgan_Chase_Building_Front_2021.jpg/500px-JPMorgan_Chase_Building_Front_2021.jpg",
-   "size": [
-    1280,
-    2276
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Dead.rabbit, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Building_Front_2021.jpg"
   },
   {
    "shows": "JPMorgan Chase Tower, Houston, Texas",

@@ -7,57 +7,5 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": [
-  {
-   "shows": "Willis Building (London)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20110522201703%21Willis_Building_%28London%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/6/69/20110522201703%21Willis_Building_%28London%29.jpg",
-   "size": [
-    1280,
-    2602
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Colin, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Willis_Building_(London).jpg"
-  },
-  {
-   "shows": "Willis Towers Watson, Ayawaso North",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Willis_Towers_Watson%2C_Ayawaso_North_%28P1090895%29.jpg/1920px-Willis_Towers_Watson%2C_Ayawaso_North_%28P1090895%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Willis_Towers_Watson%2C_Ayawaso_North_%28P1090895%29.jpg/500px-Willis_Towers_Watson%2C_Ayawaso_North_%28P1090895%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Willis_Towers_Watson,_Ayawaso_North_(P1090895).jpg"
-  },
-  {
-   "shows": "The Willis Towers Watson building, Ipswich, Suffolk",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Willis_Towers_Watson_building%2C_Ipswich%2C_Suffolk_%2837026322353%29.jpg/1920px-The_Willis_Towers_Watson_building%2C_Ipswich%2C_Suffolk_%2837026322353%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Willis_Towers_Watson_building%2C_Ipswich%2C_Suffolk_%2837026322353%29.jpg/500px-The_Willis_Towers_Watson_building%2C_Ipswich%2C_Suffolk_%2837026322353%29.jpg",
-   "size": [
-    1920,
-    1438
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "John Fielding from Norwich, UK, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:The_Willis_Towers_Watson_building,_Ipswich,_Suffolk_(37026322353).jpg"
-  }
- ]
+ "photos": []
 }

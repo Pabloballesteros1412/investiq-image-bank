@@ -6,41 +6,8 @@
   "ADBE"
  ],
  "sector": "sector-tech",
+ "fill_from": "sector-tech",
  "photos": [
-  {
-   "shows": "Adobe World Headquarters 1",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adobe_World_Headquarters_1_2023-11-14.jpg/1920px-Adobe_World_Headquarters_1_2023-11-14.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Adobe_World_Headquarters_1_2023-11-14.jpg/500px-Adobe_World_Headquarters_1_2023-11-14.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "F ASTILY, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Adobe_World_Headquarters_1_2023-11-14.jpg"
-  },
-  {
-   "shows": "Colonel By looking over the Peace tower",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Colonel_By_looking_over_the_Peace_tower.jpg/1920px-Colonel_By_looking_over_the_Peace_tower.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Colonel_By_looking_over_the_Peace_tower.jpg/500px-Colonel_By_looking_over_the_Peace_tower.jpg",
-   "size": [
-    1920,
-    1717
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Ian Mackenzie, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Colonel_By_looking_over_the_Peace_tower.jpg"
-  },
   {
    "shows": "Adobe, Lehi",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe%2C_Lehi_%2853560419845%29.jpg/1920px-Adobe%2C_Lehi_%2853560419845%29.jpg",
@@ -59,75 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Adobe,_Lehi_(53560419845).jpg"
   },
   {
-   "shows": "Adobe Max 2007 Barcelona Catalonia Europe",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Adobe_Max_2007_Barcelona_Catalonia_Europe.jpg/1920px-Adobe_Max_2007_Barcelona_Catalonia_Europe.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Adobe_Max_2007_Barcelona_Catalonia_Europe.jpg/500px-Adobe_Max_2007_Barcelona_Catalonia_Europe.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "cote, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Max_2007_Barcelona_Catalonia_Europe.jpg"
-  },
-  {
-   "shows": "Graphic designer Rafael Esquer in-his-New-York-design-studio-2021",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Graphic_designer_Rafael_Esquer_in-his-New-York-design-studio-2021.jpg/1920px-Graphic_designer_Rafael_Esquer_in-his-New-York-design-studio-2021.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Graphic_designer_Rafael_Esquer_in-his-New-York-design-studio-2021.jpg/500px-Graphic_designer_Rafael_Esquer_in-his-New-York-design-studio-2021.jpg",
-   "size": [
-    1920,
-    1371
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "RafaelEsquer, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Graphic_designer_Rafael_Esquer_in-his-New-York-design-studio-2021.jpg"
-  },
-  {
-   "shows": "Adobe CEO Shantanu Narayen",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_CEO_Shantanu_Narayen.jpg/1920px-Adobe_CEO_Shantanu_Narayen.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adobe_CEO_Shantanu_Narayen.jpg/500px-Adobe_CEO_Shantanu_Narayen.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.33
-   ],
-   "person": true,
-   "credit": "Jolie O'Dell, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Adobe_CEO_Shantanu_Narayen.jpg"
-  },
-  {
-   "shows": "1540 Bwy W45 St Adobe entry 2021 jeh",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg/1280px-1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg/500px-1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg",
-   "size": [
-    1280,
-    1600
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jim.henderson, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg"
-  },
-  {
    "shows": "Shantanu Narayen - the CEO of Adobe Inc",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg/1280px-Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg/500px-Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg",
@@ -143,23 +41,6 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg"
-  },
-  {
-   "shows": "Adobe acquires Marketo. Party at Tokyo office",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Adobe_acquires_Marketo._Party_at_Tokyo_office.jpg/1280px-Adobe_acquires_Marketo._Party_at_Tokyo_office.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Adobe_acquires_Marketo._Party_at_Tokyo_office.jpg/500px-Adobe_acquires_Marketo._Party_at_Tokyo_office.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Syced, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Adobe_acquires_Marketo._Party_at_Tokyo_office.jpg"
   },
   {
    "shows": "Adobe Systems Ottawa office",

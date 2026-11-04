@@ -6,6 +6,7 @@
   "ROST"
  ],
  "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Ross Store 01",
@@ -25,74 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Ross_Store_01.jpg"
   },
   {
-   "shows": "Exit B4 of Powell Street station",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Exit_B4_of_Powell_Street_station_20251102.jpg/1920px-Exit_B4_of_Powell_Street_station_20251102.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Exit_B4_of_Powell_Street_station_20251102.jpg/500px-Exit_B4_of_Powell_Street_station_20251102.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Evan0512, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Exit_B4_of_Powell_Street_station_20251102.jpg"
-  },
-  {
-   "shows": "Ross Dress for Less, Colorado Springs",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ross_Dress_for_Less%2C_Colorado_Springs_%2854556049627%29.jpg/1920px-Ross_Dress_for_Less%2C_Colorado_Springs_%2854556049627%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ross_Dress_for_Less%2C_Colorado_Springs_%2854556049627%29.jpg/500px-Ross_Dress_for_Less%2C_Colorado_Springs_%2854556049627%29.jpg",
-   "size": [
-    1920,
-    1267
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Lumen Wilde, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ross_Dress_for_Less,_Colorado_Springs_(54556049627).jpg"
-  },
-  {
-   "shows": "Mini Mall South Beach Florida 2025",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mini_Mall_South_Beach_Florida_2025.jpg/1280px-Mini_Mall_South_Beach_Florida_2025.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mini_Mall_South_Beach_Florida_2025.jpg/500px-Mini_Mall_South_Beach_Florida_2025.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Phillip Pessar, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mini_Mall_South_Beach_Florida_2025.jpg"
-  },
-  {
-   "shows": "New Ross Downtown Miami FL 2023",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/New_Ross_Downtown_Miami_FL_2023.jpg/1920px-New_Ross_Downtown_Miami_FL_2023.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/New_Ross_Downtown_Miami_FL_2023.jpg/500px-New_Ross_Downtown_Miami_FL_2023.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:New_Ross_Downtown_Miami_FL_2023.jpg"
-  },
-  {
    "shows": "Ross, Erie PA",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ross%2C_Erie_PA_%2854956206918%29.jpg/1920px-Ross%2C_Erie_PA_%2854956206918%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ross%2C_Erie_PA_%2854956206918%29.jpg/500px-Ross%2C_Erie_PA_%2854956206918%29.jpg",
@@ -108,74 +41,6 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ross,_Erie_PA_(54956206918).jpg"
-  },
-  {
-   "shows": "Ross Manteca, California",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ross_Manteca%2C_California.jpg/1920px-Ross_Manteca%2C_California.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ross_Manteca%2C_California.jpg/500px-Ross_Manteca%2C_California.jpg",
-   "size": [
-    1920,
-    1323
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ross_Manteca,_California.jpg"
-  },
-  {
-   "shows": "Ross store - Hillsboro, Oregon",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ross_store_-_Hillsboro%2C_Oregon.JPG/1920px-Ross_store_-_Hillsboro%2C_Oregon.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ross_store_-_Hillsboro%2C_Oregon.JPG/500px-Ross_store_-_Hillsboro%2C_Oregon.JPG",
-   "size": [
-    1920,
-    1574
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ross_store_-_Hillsboro,_Oregon.JPG"
-  },
-  {
-   "shows": "Setting Up Ross Store Historic Overtown",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Setting_Up_Ross_Store_Historic_Overtown_%2854355633082%29.jpg/1920px-Setting_Up_Ross_Store_Historic_Overtown_%2854355633082%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Setting_Up_Ross_Store_Historic_Overtown_%2854355633082%29.jpg/500px-Setting_Up_Ross_Store_Historic_Overtown_%2854355633082%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Setting_Up_Ross_Store_Historic_Overtown_(54355633082).jpg"
-  },
-  {
-   "shows": "Ross Building Signage in Albany, Oregon",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ross_Building_Signage_in_Albany%2C_Oregon.jpg/1920px-Ross_Building_Signage_in_Albany%2C_Oregon.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ross_Building_Signage_in_Albany%2C_Oregon.jpg/500px-Ross_Building_Signage_in_Albany%2C_Oregon.jpg",
-   "size": [
-    1920,
-    672
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Rick Obst, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ross_Building_Signage_in_Albany,_Oregon.jpg"
   }
  ]
 }

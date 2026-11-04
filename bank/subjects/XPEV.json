@@ -6,6 +6,7 @@
   "XPEV"
  ],
  "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "SZ 深圳 Shenzhen 龍華 Longhua Rainbow Shopping Mall shop 小鵬 car showroom May 2023 Px3 01",
@@ -43,23 +44,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:XPeng,_IAA_Summit_2025,_Munich_(20250908-P1049620).jpg"
   },
   {
-   "shows": "SZ 深圳 Shenzhen 福田 Futian 彩田路 Caitian Road 深業上城 UpperHills Shopping mall car roadshow November 2023 R12S 05",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E5%BD%A9%E7%94%B0%E8%B7%AF_Caitian_Road_%E6%B7%B1%E6%A5%AD%E4%B8%8A%E5%9F%8E_UpperHills_Shopping_mall_car_roadshow_November_2023_R12S_05.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E5%BD%A9%E7%94%B0%E8%B7%AF_Caitian_Road_%E6%B7%B1%E6%A5%AD%E4%B8%8A%E5%9F%8E_UpperHills_Shopping_mall_car_roadshow_November_2023_R12S_05.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E5%BD%A9%E7%94%B0%E8%B7%AF_Caitian_Road_%E6%B7%B1%E6%A5%AD%E4%B8%8A%E5%9F%8E_UpperHills_Shopping_mall_car_roadshow_November_2023_R12S_05.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E5%BD%A9%E7%94%B0%E8%B7%AF_Caitian_Road_%E6%B7%B1%E6%A5%AD%E4%B8%8A%E5%9F%8E_UpperHills_Shopping_mall_car_roadshow_November_2023_R12S_05.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Husyewl Lmsiuyu RAUOM, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E5%BD%A9%E7%94%B0%E8%B7%AF_Caitian_Road_%E6%B7%B1%E6%A5%AD%E4%B8%8A%E5%9F%8E_UpperHills_Shopping_mall_car_roadshow_November_2023_R12S_05.jpg"
-  },
-  {
    "shows": "SZ 深圳 Shenzhen 福田 Futian 京基濱河時代商場 KK One Mall shop car showroom June 2024 R12S 01",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%BA%AC%E5%9F%BA%E6%BF%B1%E6%B2%B3%E6%99%82%E4%BB%A3%E5%95%86%E5%A0%B4_KK_One_Mall_shop_car_showroom_June_2024_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%BA%AC%E5%9F%BA%E6%BF%B1%E6%B2%B3%E6%99%82%E4%BB%A3%E5%95%86%E5%A0%B4_KK_One_Mall_shop_car_showroom_June_2024_R12S_01.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%BA%AC%E5%9F%BA%E6%BF%B1%E6%B2%B3%E6%99%82%E4%BB%A3%E5%95%86%E5%A0%B4_KK_One_Mall_shop_car_showroom_June_2024_R12S_01.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%BA%AC%E5%9F%BA%E6%BF%B1%E6%B2%B3%E6%99%82%E4%BB%A3%E5%95%86%E5%A0%B4_KK_One_Mall_shop_car_showroom_June_2024_R12S_01.jpg",
@@ -75,108 +59,6 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%BA%AC%E5%9F%BA%E6%BF%B1%E6%B2%B3%E6%99%82%E4%BB%A3%E5%95%86%E5%A0%B4_KK_One_Mall_shop_car_showroom_June_2024_R12S_01.jpg"
-  },
-  {
-   "shows": "GD 廣東 Guangdong 東莞 Dongguan mall 萬達華府 Wanda Huafu near Ding Sheng Life Square March 2024 R12S 105",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%9D%B1%E8%8E%9E_Dongguan_mall_%E8%90%AC%E9%81%94%E8%8F%AF%E5%BA%9C_Wanda_Huafu_near_Ding_Sheng_Life_Square_March_2024_R12S_105.jpg/1920px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%9D%B1%E8%8E%9E_Dongguan_mall_%E8%90%AC%E9%81%94%E8%8F%AF%E5%BA%9C_Wanda_Huafu_near_Ding_Sheng_Life_Square_March_2024_R12S_105.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%9D%B1%E8%8E%9E_Dongguan_mall_%E8%90%AC%E9%81%94%E8%8F%AF%E5%BA%9C_Wanda_Huafu_near_Ding_Sheng_Life_Square_March_2024_R12S_105.jpg/500px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%9D%B1%E8%8E%9E_Dongguan_mall_%E8%90%AC%E9%81%94%E8%8F%AF%E5%BA%9C_Wanda_Huafu_near_Ding_Sheng_Life_Square_March_2024_R12S_105.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Lausum Guangxina, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%9D%B1%E8%8E%9E_Dongguan_mall_%E8%90%AC%E9%81%94%E8%8F%AF%E5%BA%9C_Wanda_Huafu_near_Ding_Sheng_Life_Square_March_2024_R12S_105.jpg"
-  },
-  {
-   "shows": "SZ 深圳 Shenzhen 龍崗 Longgang 星河 Galaxy Coco Park mall Xpeng car showroom May 2024 R12S 01",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E5%B4%97_Longgang_%E6%98%9F%E6%B2%B3_Galaxy_Coco_Park_mall_Xpeng_car_showroom_May_2024_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E5%B4%97_Longgang_%E6%98%9F%E6%B2%B3_Galaxy_Coco_Park_mall_Xpeng_car_showroom_May_2024_R12S_01.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E5%B4%97_Longgang_%E6%98%9F%E6%B2%B3_Galaxy_Coco_Park_mall_Xpeng_car_showroom_May_2024_R12S_01.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E5%B4%97_Longgang_%E6%98%9F%E6%B2%B3_Galaxy_Coco_Park_mall_Xpeng_car_showroom_May_2024_R12S_01.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Guw Foiursanm Longum, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E5%B4%97_Longgang_%E6%98%9F%E6%B2%B3_Galaxy_Coco_Park_mall_Xpeng_car_showroom_May_2024_R12S_01.jpg"
-  },
-  {
-   "shows": "XPeng Mona M03 002",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/XPeng_Mona_M03_002.jpg/1920px-XPeng_Mona_M03_002.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/XPeng_Mona_M03_002.jpg/500px-XPeng_Mona_M03_002.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "JustAnotherCarDesigner, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:XPeng_Mona_M03_002.jpg"
-  },
-  {
-   "shows": "XPeng (XPeng at Auto Guangzhou 2024)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XPeng_P7%2B_001.jpg/1920px-XPeng_P7%2B_001.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/XPeng_P7%2B_001.jpg/500px-XPeng_P7%2B_001.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "JustAnotherCarDesigner, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:XPeng_P7%2B_001.jpg"
-  },
-  {
-   "shows": "SZ 深圳 Shenzhen 南山 Nanshan 益田假日广场 Yitian Holiday Plaza 商場 Mall 小鵬小車 Xpeng Motors showroom August 2023 Px3 01",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E7%9B%8A%E7%94%B0%E5%81%87%E6%97%A5%E5%B9%BF%E5%9C%BA_Yitian_Holiday_Plaza_%E5%95%86%E5%A0%B4_Mall_%E5%B0%8F%E9%B5%AC%E5%B0%8F%E8%BB%8A_Xpeng_Motors_showroom_August_2023_Px3_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E7%9B%8A%E7%94%B0%E5%81%87%E6%97%A5%E5%B9%BF%E5%9C%BA_Yitian_Holiday_Plaza_%E5%95%86%E5%A0%B4_Mall_%E5%B0%8F%E9%B5%AC%E5%B0%8F%E8%BB%8A_Xpeng_Motors_showroom_August_2023_Px3_01.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E7%9B%8A%E7%94%B0%E5%81%87%E6%97%A5%E5%B9%BF%E5%9C%BA_Yitian_Holiday_Plaza_%E5%95%86%E5%A0%B4_Mall_%E5%B0%8F%E9%B5%AC%E5%B0%8F%E8%BB%8A_Xpeng_Motors_showroom_August_2023_Px3_01.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E7%9B%8A%E7%94%B0%E5%81%87%E6%97%A5%E5%B9%BF%E5%9C%BA_Yitian_Holiday_Plaza_%E5%95%86%E5%A0%B4_Mall_%E5%B0%8F%E9%B5%AC%E5%B0%8F%E8%BB%8A_Xpeng_Motors_showroom_August_2023_Px3_01.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Joahsoam Hauo Mingea, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E7%9B%8A%E7%94%B0%E5%81%87%E6%97%A5%E5%B9%BF%E5%9C%BA_Yitian_Holiday_Plaza_%E5%95%86%E5%A0%B4_Mall_%E5%B0%8F%E9%B5%AC%E5%B0%8F%E8%BB%8A_Xpeng_Motors_showroom_August_2023_Px3_01.jpg"
-  },
-  {
-   "shows": "2025 International Automotive & Supply Chain Expo (Hong Kong) 14-06-2025",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2025_International_Automotive_%26_Supply_Chain_Expo_%28Hong_Kong%29_14-06-2025%2816%29.jpg/1920px-2025_International_Automotive_%26_Supply_Chain_Expo_%28Hong_Kong%29_14-06-2025%2816%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2025_International_Automotive_%26_Supply_Chain_Expo_%28Hong_Kong%29_14-06-2025%2816%29.jpg/500px-2025_International_Automotive_%26_Supply_Chain_Expo_%28Hong_Kong%29_14-06-2025%2816%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "LN9267, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2025_International_Automotive_%26_Supply_Chain_Expo_(Hong_Kong)_14-06-2025(16).jpg"
   }
  ]
 }

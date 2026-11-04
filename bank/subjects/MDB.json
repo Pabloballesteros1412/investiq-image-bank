@@ -9,40 +9,6 @@
  "fill_from": "sector-tech",
  "photos": [
   {
-   "shows": "MongoDB Palo Alto Office 2",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/MongoDB_Palo_Alto_Office_2.jpg/1920px-MongoDB_Palo_Alto_Office_2.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/MongoDB_Palo_Alto_Office_2.jpg/500px-MongoDB_Palo_Alto_Office_2.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "BrokenSegue, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:MongoDB_Palo_Alto_Office_2.jpg"
-  },
-  {
-   "shows": "MongoDB (MongoDB)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MongoDB_1_2018-09-06.jpg/1280px-MongoDB_1_2018-09-06.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MongoDB_1_2018-09-06.jpg/500px-MongoDB_1_2018-09-06.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "F ASTILY, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:MongoDB_1_2018-09-06.jpg"
-  },
-  {
    "shows": "MongoDB headquarters at night",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MongoDB_headquarters_at_night.jpg/1280px-MongoDB_headquarters_at_night.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MongoDB_headquarters_at_night.jpg/500px-MongoDB_headquarters_at_night.jpg",
@@ -58,40 +24,6 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:MongoDB_headquarters_at_night.jpg"
-  },
-  {
-   "shows": "MongoDB replication-н зарчим",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg/1920px-MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg/500px-MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Baagiimgl, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg"
-  },
-  {
-   "shows": "MongoDB NYC Headquarters",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/MongoDB_NYC_Headquarters.jpg/1920px-MongoDB_NYC_Headquarters.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/MongoDB_NYC_Headquarters.jpg/500px-MongoDB_NYC_Headquarters.jpg",
-   "size": [
-    1920,
-    1281
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jerzy Fischer, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:MongoDB_NYC_Headquarters.jpg"
   }
  ]
 }

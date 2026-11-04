@@ -7,40 +7,5 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": [
-  {
-   "shows": "ServiceNow meetup event",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ServiceNowMeetup.jpg/1920px-ServiceNowMeetup.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ServiceNowMeetup.jpg/500px-ServiceNowMeetup.jpg",
-   "size": [
-    1920,
-    1272
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:ServiceNowMeetup.jpg"
-  },
-  {
-   "shows": "ServiceNow office in Petah-Tikva, Israel",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ServiceNow_office_in_Petah-Tikva%2C_Israel.jpg/1920px-ServiceNow_office_in_Petah-Tikva%2C_Israel.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ServiceNow_office_in_Petah-Tikva%2C_Israel.jpg/500px-ServiceNow_office_in_Petah-Tikva%2C_Israel.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Barakpinch, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:ServiceNow_office_in_Petah-Tikva,_Israel.jpg"
-  }
- ]
+ "photos": []
 }

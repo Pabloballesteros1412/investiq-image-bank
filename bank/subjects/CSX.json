@@ -6,126 +6,8 @@
   "CSX"
  ],
  "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
  "photos": [
-  {
-   "shows": "CSX Building in Jacksonville Florida.",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/CSXHQ.JPG/1920px-CSXHQ.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/CSXHQ.JPG/500px-CSXHQ.JPG",
-   "size": [
-    1920,
-    1426
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Mathew105601, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:CSXHQ.JPG"
-  },
-  {
-   "shows": "Calfpasture flooding at Goshen",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Calfpasture_flooding_at_Goshen.jpg/1920px-Calfpasture_flooding_at_Goshen.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Calfpasture_flooding_at_Goshen.jpg/500px-Calfpasture_flooding_at_Goshen.jpg",
-   "size": [
-    1920,
-    1243
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Nyttend, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Calfpasture_flooding_at_Goshen.jpg"
-  },
-  {
-   "shows": "CSX Etowah River Bridge, Emerson GA",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CSX_Etowah_River_Bridge%2C_Emerson_GA.jpg/1920px-CSX_Etowah_River_Bridge%2C_Emerson_GA.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CSX_Etowah_River_Bridge%2C_Emerson_GA.jpg/500px-CSX_Etowah_River_Bridge%2C_Emerson_GA.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:CSX_Etowah_River_Bridge,_Emerson_GA.jpg"
-  },
-  {
-   "shows": "Evansville, IN (via EVWR) to Cross, SC loaded coal N320-27 goes through Devine Jct in Columbia on their way to their final crew change at Andrews Siding. From t",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CSX_N320-27_%2846900700732%29.jpg/1920px-CSX_N320-27_%2846900700732%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CSX_N320-27_%2846900700732%29.jpg/500px-CSX_N320-27_%2846900700732%29.jpg",
-   "size": [
-    1920,
-    1363
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Reginald McDowell, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:CSX_N320-27_(46900700732).jpg"
-  },
-  {
-   "shows": "CSX grain cars in Irvine, KY",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/CSX_grain_cars_in_Irvine%2C_KY.jpg/1920px-CSX_grain_cars_in_Irvine%2C_KY.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/CSX_grain_cars_in_Irvine%2C_KY.jpg/500px-CSX_grain_cars_in_Irvine%2C_KY.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:CSX_grain_cars_in_Irvine,_KY.jpg"
-  },
-  {
-   "shows": "North Chelmsford wye June 2026 1",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/North_Chelmsford_wye_June_2026_1.jpg/1920px-North_Chelmsford_wye_June_2026_1.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/North_Chelmsford_wye_June_2026_1.jpg/500px-North_Chelmsford_wye_June_2026_1.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:North_Chelmsford_wye_June_2026_1.jpg"
-  },
-  {
-   "shows": "Plant City SAL-REA Express House-06",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plant_City_SAL-REA_Express_House-06.jpg/1920px-Plant_City_SAL-REA_Express_House-06.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plant_City_SAL-REA_Express_House-06.jpg/500px-Plant_City_SAL-REA_Express_House-06.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "DanTD, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Plant_City_SAL-REA_Express_House-06.jpg"
-  },
   {
    "shows": "CSX Transportation Building",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CSX_Transportation_Building.jpg/1920px-CSX_Transportation_Building.jpg",
@@ -159,23 +41,6 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:CSX_building,_Jacksonville,_FL,_US.jpg"
-  },
-  {
-   "shows": "CSX Transportation Building at sunset",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/CSX_Transportation_Building_at_sunset.jpg/1920px-CSX_Transportation_Building_at_sunset.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/CSX_Transportation_Building_at_sunset.jpg/500px-CSX_Transportation_Building_at_sunset.jpg",
-   "size": [
-    1920,
-    1555
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jacksonville_Acosta_Bridge_Panorama.jpg : “Jonathan Zander ( Digon3 )” derivative work: Xnatedawgx ( talk ), CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:CSX_Transportation_Building_at_sunset.jpg"
   }
  ]
 }

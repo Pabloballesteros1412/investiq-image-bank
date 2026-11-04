@@ -7,40 +7,5 @@
  ],
  "sector": "sector-energy",
  "fill_from": "sector-energy",
- "photos": [
-  {
-   "shows": "Chesapeake energy arena night",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chesapeake_energy_arena_night.JPG/1920px-Chesapeake_energy_arena_night.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chesapeake_energy_arena_night.JPG/500px-Chesapeake_energy_arena_night.JPG",
-   "size": [
-    1920,
-    1102
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Urbanative, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Chesapeake_energy_arena_night.JPG"
-  },
-  {
-   "shows": "Chesapeake Energy Building",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Chesapeake_Energy_Building.jpg/1280px-Chesapeake_Energy_Building.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Chesapeake_Energy_Building.jpg/500px-Chesapeake_Energy_Building.jpg",
-   "size": [
-    1280,
-    1920
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Adam Stanford, CC BY 3.0, via Wikimedia Commons",
-   "licence": "CC BY 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Chesapeake_Energy_Building.jpg"
-  }
- ]
+ "photos": []
 }

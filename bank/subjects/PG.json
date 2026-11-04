@@ -6,6 +6,7 @@
   "PG"
  ],
  "sector": "sector-staples",
+ "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Cincinnati-procter-and-gamble-headquarters",
@@ -25,108 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Cincinnati-procter-and-gamble-headquarters.jpg"
   },
   {
-   "shows": "Historical Marker, Procter and Gamble World Headquarters, Cincinnati, OH",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Historical_Marker%2C_Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2847221091721%29.jpg/1280px-Historical_Marker%2C_Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2847221091721%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Historical_Marker%2C_Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2847221091721%29.jpg/500px-Historical_Marker%2C_Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2847221091721%29.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Historical_Marker,_Procter_and_Gamble_World_Headquarters,_Cincinnati,_OH_(47221091721).jpg"
-  },
-  {
-   "shows": "COVID-19 Panic Buying",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/COVID-19_Panic_Buying_%2850114211868%29.jpg/1920px-COVID-19_Panic_Buying_%2850114211868%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/COVID-19_Panic_Buying_%2850114211868%29.jpg/500px-COVID-19_Panic_Buying_%2850114211868%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Dick Thomas Johnson from Tokyo, Japan, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:COVID-19_Panic_Buying_(50114211868).jpg"
-  },
-  {
-   "shows": "Procter & Gamble @ Lancy",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Procter_%26_Gamble_%40_Lancy_%2849850732566%29.jpg/1920px-Procter_%26_Gamble_%40_Lancy_%2849850732566%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Procter_%26_Gamble_%40_Lancy_%2849850732566%29.jpg/500px-Procter_%26_Gamble_%40_Lancy_%2849850732566%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Guilhem Vellut from Annecy, France, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Procter_%26_Gamble_@_Lancy_(49850732566).jpg"
-  },
-  {
-   "shows": "Procter & Gamble offices @ Passerelle de Tivoli @ Lancy",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Procter_%26_Gamble_offices_%40_Passerelle_de_Tivoli_%40_Lancy_%2850520218407%29.jpg/1920px-Procter_%26_Gamble_offices_%40_Passerelle_de_Tivoli_%40_Lancy_%2850520218407%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Procter_%26_Gamble_offices_%40_Passerelle_de_Tivoli_%40_Lancy_%2850520218407%29.jpg/500px-Procter_%26_Gamble_offices_%40_Passerelle_de_Tivoli_%40_Lancy_%2850520218407%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Guilhem Vellut from Annecy, France, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Procter_%26_Gamble_offices_@_Passerelle_de_Tivoli_@_Lancy_(50520218407).jpg"
-  },
-  {
-   "shows": "6th Street, Cincinnati, OH",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/6th_Street%2C_Cincinnati%2C_OH_%2833345457068%29.jpg/1280px-6th_Street%2C_Cincinnati%2C_OH_%2833345457068%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/6th_Street%2C_Cincinnati%2C_OH_%2833345457068%29.jpg/500px-6th_Street%2C_Cincinnati%2C_OH_%2833345457068%29.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:6th_Street,_Cincinnati,_OH_(33345457068).jpg"
-  },
-  {
-   "shows": "I-71 pedestrian bridge to Mt. Adams view",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/I-71_pedestrian_bridge_to_Mt._Adams_view_PXL_20250701_224831708.jpg/1920px-I-71_pedestrian_bridge_to_Mt._Adams_view_PXL_20250701_224831708.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/I-71_pedestrian_bridge_to_Mt._Adams_view_PXL_20250701_224831708.jpg/500px-I-71_pedestrian_bridge_to_Mt._Adams_view_PXL_20250701_224831708.jpg",
-   "size": [
-    1920,
-    1446
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Hayden Schiff, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:I-71_pedestrian_bridge_to_Mt._Adams_view_PXL_20250701_224831708.jpg"
-  },
-  {
    "shows": "Procter and Gamble World Headquarters, Cincinnati, OH",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862657%29.jpg/1920px-Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862657%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862657%29.jpg/500px-Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862657%29.jpg",
@@ -142,40 +41,6 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Procter_and_Gamble_World_Headquarters,_Cincinnati,_OH_(32278862657).jpg"
-  },
-  {
-   "shows": "Procter ^ Gamble soap factory, seen from St Clement's Churchyard, West Thurrock - geograph.org.uk",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Procter_%5E_Gamble_soap_factory%2C_seen_from_St_Clement%27s_Churchyard%2C_West_Thurrock_-_geograph.org.uk_-_6570998.jpg/1920px-Procter_%5E_Gamble_soap_factory%2C_seen_from_St_Clement%27s_Churchyard%2C_West_Thurrock_-_geograph.org.uk_-_6570998.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Procter_%5E_Gamble_soap_factory%2C_seen_from_St_Clement%27s_Churchyard%2C_West_Thurrock_-_geograph.org.uk_-_6570998.jpg/500px-Procter_%5E_Gamble_soap_factory%2C_seen_from_St_Clement%27s_Churchyard%2C_West_Thurrock_-_geograph.org.uk_-_6570998.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Marathon, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Procter_%5E_Gamble_soap_factory,_seen_from_St_Clement%27s_Churchyard,_West_Thurrock_-_geograph.org.uk_-_6570998.jpg"
-  },
-  {
-   "shows": "Procter and Gamble Baltimore Plant 2016",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Procter_and_Gamble_Baltimore_Plant_2016.jpg/1920px-Procter_and_Gamble_Baltimore_Plant_2016.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Procter_and_Gamble_Baltimore_Plant_2016.jpg/500px-Procter_and_Gamble_Baltimore_Plant_2016.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Camerafiend, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Procter_and_Gamble_Baltimore_Plant_2016.jpg"
   }
  ]
 }

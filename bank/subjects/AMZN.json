@@ -6,6 +6,7 @@
   "AMZN"
  ],
  "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Amazon Spheres 2018",
@@ -25,23 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Amazon_Spheres_2018.jpg"
   },
   {
-   "shows": "Amazon fulfillment center - Troutdale Oregon",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amazon_fulfillment_center_-_Troutdale_Oregon.jpg/1920px-Amazon_fulfillment_center_-_Troutdale_Oregon.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amazon_fulfillment_center_-_Troutdale_Oregon.jpg/500px-Amazon_fulfillment_center_-_Troutdale_Oregon.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Tedder, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Amazon_fulfillment_center_-_Troutdale_Oregon.jpg"
-  },
-  {
    "shows": "Rivian EDV-700 front",
    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Rivian_EDV-700_front.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Rivian_EDV-700_front.jpg/500px-Rivian_EDV-700_front.jpg",
@@ -57,126 +41,6 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Rivian_EDV-700_front.jpg"
-  },
-  {
-   "shows": "Amazon Box",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amazon_Box.JPG/1920px-Amazon_Box.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amazon_Box.JPG/500px-Amazon_Box.JPG",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "David, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Box.JPG"
-  },
-  {
-   "shows": "Lydia Pintscher und Philippe Saadé at the AWS reInvent 2024",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lydia_Pintscher_und_Philippe_Saad%C3%A9_at_the_AWS_reInvent_2024.jpg/1920px-Lydia_Pintscher_und_Philippe_Saad%C3%A9_at_the_AWS_reInvent_2024.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Lydia_Pintscher_und_Philippe_Saad%C3%A9_at_the_AWS_reInvent_2024.jpg/500px-Lydia_Pintscher_und_Philippe_Saad%C3%A9_at_the_AWS_reInvent_2024.jpg",
-   "size": [
-    1920,
-    1442
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Lydia Pintscher & Philippe Saadé, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Lydia_Pintscher_und_Philippe_Saad%C3%A9_at_the_AWS_reInvent_2024.jpg"
-  },
-  {
-   "shows": "Andy Jassy in 2016",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Andy_Jassy_in_2016.jpg/1920px-Andy_Jassy_in_2016.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Andy_Jassy_in_2016.jpg/500px-Andy_Jassy_in_2016.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.33
-   ],
-   "person": true,
-   "credit": "Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Andy_Jassy_in_2016.jpg"
-  },
-  {
-   "shows": "Amazon Tower I topped out, June 2015",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg/1280px-Amazon_Tower_I_topped_out%2C_June_2015.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon_Tower_I_topped_out%2C_June_2015.jpg/500px-Amazon_Tower_I_topped_out%2C_June_2015.jpg",
-   "size": [
-    1280,
-    1920
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "SounderBruce, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Tower_I_topped_out,_June_2015.jpg"
-  },
-  {
-   "shows": "Amazon Lab126 Headquarters",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Amazon_Lab126_Headquarters.jpg/1920px-Amazon_Lab126_Headquarters.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Amazon_Lab126_Headquarters.jpg/500px-Amazon_Lab126_Headquarters.jpg",
-   "size": [
-    1920,
-    1418
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Lab126_Headquarters.jpg"
-  },
-  {
-   "shows": "Defense Secretary Ash Carter tours Amazon's headquarters in Seattle, March 3, 2016",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Defense_Secretary_Ash_Carter_tours_Amazon%27s_headquarters_in_Seattle%2C_March_3%2C_2016.JPG/1920px-Defense_Secretary_Ash_Carter_tours_Amazon%27s_headquarters_in_Seattle%2C_March_3%2C_2016.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Defense_Secretary_Ash_Carter_tours_Amazon%27s_headquarters_in_Seattle%2C_March_3%2C_2016.JPG/500px-Defense_Secretary_Ash_Carter_tours_Amazon%27s_headquarters_in_Seattle%2C_March_3%2C_2016.JPG",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Navy Petty Officer 1st Class Tim D. Godbee, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Defense_Secretary_Ash_Carter_tours_Amazon%27s_headquarters_in_Seattle,_March_3,_2016.JPG"
-  },
-  {
-   "shows": "Amazon Easy-Amazon Store Kesamudram - Kesamudram- Freedom Sales- indiabuys store Kesamudram",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Easy-Amazon_Store_Kesamudram_-_Kesamudram-_Freedom_Sales-_indiabuys_store_Kesamudram.jpg/1280px-Amazon_Easy-Amazon_Store_Kesamudram_-_Kesamudram-_Freedom_Sales-_indiabuys_store_Kesamudram.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amazon_Easy-Amazon_Store_Kesamudram_-_Kesamudram-_Freedom_Sales-_indiabuys_store_Kesamudram.jpg/500px-Amazon_Easy-Amazon_Store_Kesamudram_-_Kesamudram-_Freedom_Sales-_indiabuys_store_Kesamudram.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "DHARMESHLD, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Easy-Amazon_Store_Kesamudram_-_Kesamudram-_Freedom_Sales-_indiabuys_store_Kesamudram.jpg"
   }
  ]
 }

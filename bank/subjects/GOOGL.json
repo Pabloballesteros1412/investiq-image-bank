@@ -7,41 +7,8 @@
   "GOOG"
  ],
  "sector": "sector-communication",
+ "fill_from": "sector-communication",
  "photos": [
-  {
-   "shows": "Mountain View (CA, USA), Charleston Road, Google-Schild -- 2022 -- 2896",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Google-Schild_--_2022_--_2896.jpg/1920px-Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Google-Schild_--_2022_--_2896.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Google-Schild_--_2022_--_2896.jpg/500px-Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Google-Schild_--_2022_--_2896.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mountain_View_(CA,_USA),_Charleston_Road,_Google-Schild_--_2022_--_2896.jpg"
-  },
-  {
-   "shows": "Google Bay View complex",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Google_Bay_View_complex.jpg/1920px-Google_Bay_View_complex.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Google_Bay_View_complex.jpg/500px-Google_Bay_View_complex.jpg",
-   "size": [
-    1920,
-    413
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Dicklyon, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Google_Bay_View_complex.jpg"
-  },
   {
    "shows": "Waymo Jaguar I-Pace in San Francisco 2023 dllu",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg/1920px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
@@ -60,40 +27,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg"
   },
   {
-   "shows": "Google data center",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Google_data_center.jpg/1920px-Google_data_center.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Google_data_center.jpg/500px-Google_data_center.jpg",
-   "size": [
-    1920,
-    1403
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Lambtron, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Google_data_center.jpg"
-  },
-  {
-   "shows": "YouTube Space LA exterior",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_Space_LA_exterior.jpg/1920px-YouTube_Space_LA_exterior.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/YouTube_Space_LA_exterior.jpg/500px-YouTube_Space_LA_exterior.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Scot Byrd, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:YouTube_Space_LA_exterior.jpg"
-  },
-  {
    "shows": "Sundar Pichai - 2023 ( )",
    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg/500px-Sundar_Pichai_-_2023_%28cropped%29.jpg",
@@ -110,74 +43,6 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg"
-  },
-  {
-   "shows": "Google Campus, Mountain View, CA",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Campus%2C_Mountain_View%2C_CA.jpg/1920px-Google_Campus%2C_Mountain_View%2C_CA.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Google_Campus%2C_Mountain_View%2C_CA.jpg/500px-Google_Campus%2C_Mountain_View%2C_CA.jpg",
-   "size": [
-    1920,
-    1080
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Austin McKinley, CC BY 3.0, via Wikimedia Commons",
-   "licence": "CC BY 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Google_Campus,_Mountain_View,_CA.jpg"
-  },
-  {
-   "shows": "Sede de Alphabet Inc. - Berlín - 001",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sede_de_Alphabet_Inc._-_Berl%C3%ADn_-_20240101_001.jpg/1280px-Sede_de_Alphabet_Inc._-_Berl%C3%ADn_-_20240101_001.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sede_de_Alphabet_Inc._-_Berl%C3%ADn_-_20240101_001.jpg/500px-Sede_de_Alphabet_Inc._-_Berl%C3%ADn_-_20240101_001.jpg",
-   "size": [
-    1280,
-    2276
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Américo Toledano, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Sede_de_Alphabet_Inc._-_Berl%C3%ADn_-_20240101_001.jpg"
-  },
-  {
-   "shows": "Mitte Tucholskystraße Alphabet",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg/1280px-Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg/500px-Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Fridolin freudenfett, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg"
-  },
-  {
-   "shows": "Infographic chart of the new company Alphabet",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/AlphabetOrganisation.jpg/1920px-AlphabetOrganisation.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/AlphabetOrganisation.jpg/500px-AlphabetOrganisation.jpg",
-   "size": [
-    1920,
-    1605
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Brisingoldor, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:AlphabetOrganisation.jpg"
   }
  ]
 }

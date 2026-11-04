@@ -6,42 +6,8 @@
   "KR"
  ],
  "sector": "sector-staples",
+ "fill_from": "sector-staples",
  "photos": [
-  {
-   "shows": "Cincinnati-kroger-building",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cincinnati-kroger-building.jpg/1920px-Cincinnati-kroger-building.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Cincinnati-kroger-building.jpg/500px-Cincinnati-kroger-building.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Derek Jensen, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Cincinnati-kroger-building.jpg"
-  },
-  {
-   "shows": "Rodney McMullen, Kroger CEO (per Wikidata)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/White_House_Coronavirus_Update_Briefing_%2849829648376%29.jpg/1920px-White_House_Coronavirus_Update_Briefing_%2849829648376%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/White_House_Coronavirus_Update_Briefing_%2849829648376%29.jpg/500px-White_House_Coronavirus_Update_Briefing_%2849829648376%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.33
-   ],
-   "person": true,
-   "credit": "The White House from Washington, DC, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:White_House_Coronavirus_Update_Briefing_(49829648376).jpg"
-  },
   {
    "shows": "Kroger Delivery Downtown Miami",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kroger_Delivery_Downtown_Miami_%2852730187976%29.jpg/1920px-Kroger_Delivery_Downtown_Miami_%2852730187976%29.jpg",
@@ -60,57 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Kroger_Delivery_Downtown_Miami_(52730187976).jpg"
   },
   {
-   "shows": "The exterior of a Kroger Marketplace store in Athens, Georgia 01",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_exterior_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_01.jpg/1920px-The_exterior_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_01.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/The_exterior_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_01.jpg/500px-The_exterior_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_01.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:The_exterior_of_a_Kroger_Marketplace_store_in_Athens,_Georgia_01.jpg"
-  },
-  {
-   "shows": "The interior produce section of a Kroger Marketplace store in Athens, Georgia 02",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_interior_produce_section_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_02.jpg/1920px-The_interior_produce_section_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_02.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/The_interior_produce_section_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_02.jpg/500px-The_interior_produce_section_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_02.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:The_interior_produce_section_of_a_Kroger_Marketplace_store_in_Athens,_Georgia_02.jpg"
-  },
-  {
-   "shows": "Central Parkway, Cincinnati, OH",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Central_Parkway%2C_Cincinnati%2C_OH_%2840387838563%29.jpg/1280px-Central_Parkway%2C_Cincinnati%2C_OH_%2840387838563%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Central_Parkway%2C_Cincinnati%2C_OH_%2840387838563%29.jpg/500px-Central_Parkway%2C_Cincinnati%2C_OH_%2840387838563%29.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Central_Parkway,_Cincinnati,_OH_(40387838563).jpg"
-  },
-  {
    "shows": "Kroger Headquarters, Cincinnati, OH",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kroger_Headquarters%2C_Cincinnati%2C_OH_%2833477128798%29.jpg/1280px-Kroger_Headquarters%2C_Cincinnati%2C_OH_%2833477128798%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kroger_Headquarters%2C_Cincinnati%2C_OH_%2833477128798%29.jpg/500px-Kroger_Headquarters%2C_Cincinnati%2C_OH_%2833477128798%29.jpg",
@@ -126,57 +41,6 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Kroger_Headquarters,_Cincinnati,_OH_(33477128798).jpg"
-  },
-  {
-   "shows": "Kroger HQ from northeast 2025",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kroger_HQ_from_northeast_2025.jpg/1280px-Kroger_HQ_from_northeast_2025.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kroger_HQ_from_northeast_2025.jpg/500px-Kroger_HQ_from_northeast_2025.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "User:Visviva, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Kroger_HQ_from_northeast_2025.jpg"
-  },
-  {
-   "shows": "Kroger HQ from northwest 2025",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kroger_HQ_from_northwest_2025.jpg/1280px-Kroger_HQ_from_northwest_2025.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Kroger_HQ_from_northwest_2025.jpg/500px-Kroger_HQ_from_northwest_2025.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "User:Visviva, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Kroger_HQ_from_northwest_2025.jpg"
-  },
-  {
-   "shows": "Kroger - Atlanta Regional Headquarters Sign",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kroger_-_Atlanta_Regional_Headquarters_Sign.jpg/1280px-Kroger_-_Atlanta_Regional_Headquarters_Sign.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kroger_-_Atlanta_Regional_Headquarters_Sign.jpg/500px-Kroger_-_Atlanta_Regional_Headquarters_Sign.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Gulbenk, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Kroger_-_Atlanta_Regional_Headquarters_Sign.jpg"
   }
  ]
 }

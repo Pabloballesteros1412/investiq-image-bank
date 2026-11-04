@@ -20,13 +20,13 @@ conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
   básico, energía, servicios públicos, inmobiliario y materiales. Rellenan los huecos de las empresas que no
   llegan a 10 fotos propias, marcadas como genéricas.
 
-## Estado (4 nov 2026)
+## Estado (4 nov 2026, noche)
 
-Primera construcción completa contra Wikimedia: **3.828 fotos**. Las 48 fichas de temas y sectores tienen 10
-fotos (6 tienen 9 u 8), revisadas una a una. De las 583 empresas, 248 tienen 10 fotos propias, 235 tienen
-menos y 100 no tienen ninguna porque Commons no tiene fotos libres a su nombre (Danaher, EOG, ICE, Intuitive
-Surgical...): el índice las completa con las de su sector. Para mejorar una empresa importante con pocas fotos,
-lo más eficaz es escribirle tomas a mano en `catalog.json` (sus tiendas, productos y sede).
+Primera construcción completa contra Wikimedia: 3.828 fotos. Tras ver una muestra, Pablo decidió quedarse solo
+con las mejores de Commons y usar Unsplash y Pexels. Las 3.828 se revisaron a ojo y **407 tienen nota 3**: son las
+únicas que publica el índice (336 de empresas: 220 empresas tienen al menos una; 71 de temas y sectores). Falta
+lanzar Unsplash y Pexels, que rellenarán temas y sectores: el código está listo, pero el entorno necesita sus
+claves y acceso a sus dominios (ver «Construirlo»).
 
 ## Construirlo
 

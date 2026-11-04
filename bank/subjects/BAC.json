@@ -6,41 +6,8 @@
   "BAC"
  ],
  "sector": "sector-financials",
+ "fill_from": "sector-financials",
  "photos": [
-  {
-   "shows": "View from Empire State Building, New York City, 1512 1371",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/View_from_Empire_State_Building%2C_New_York_City%2C_20231001_1512_1371.jpg/1920px-View_from_Empire_State_Building%2C_New_York_City%2C_20231001_1512_1371.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/View_from_Empire_State_Building%2C_New_York_City%2C_20231001_1512_1371.jpg/500px-View_from_Empire_State_Building%2C_New_York_City%2C_20231001_1512_1371.jpg",
-   "size": [
-    1920,
-    1282
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:View_from_Empire_State_Building,_New_York_City,_20231001_1512_1371.jpg"
-  },
-  {
-   "shows": "Bank of America Corporate Center Charlotte NC",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bank_of_America_Corporate_Center_Charlotte_NC.jpg/1280px-Bank_of_America_Corporate_Center_Charlotte_NC.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Bank_of_America_Corporate_Center_Charlotte_NC.jpg/500px-Bank_of_America_Corporate_Center_Charlotte_NC.jpg",
-   "size": [
-    1280,
-    2276
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Kiran891, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_America_Corporate_Center_Charlotte_NC.jpg"
-  },
   {
    "shows": "Bank of America branch in NYC",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bank_of_America_branch_in_NYC_%2852809555987%29.jpg/1920px-Bank_of_America_branch_in_NYC_%2852809555987%29.jpg",
@@ -59,40 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Bank_of_America_branch_in_NYC_(52809555987).jpg"
   },
   {
-   "shows": "Bank of America ATM in downtown Tallahassee",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bank_of_America_ATM_in_downtown_Tallahassee.jpg/1920px-Bank_of_America_ATM_in_downtown_Tallahassee.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bank_of_America_ATM_in_downtown_Tallahassee.jpg/500px-Bank_of_America_ATM_in_downtown_Tallahassee.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_America_ATM_in_downtown_Tallahassee.jpg"
-  },
-  {
-   "shows": "Bank of America in Dallas Snow 2021",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bank_of_America_in_Dallas_Snow_2021.jpg/1920px-Bank_of_America_in_Dallas_Snow_2021.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Bank_of_America_in_Dallas_Snow_2021.jpg/500px-Bank_of_America_in_Dallas_Snow_2021.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Matthew T Rader, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_America_in_Dallas_Snow_2021.jpg"
-  },
-  {
    "shows": "Brian Moynihan, official portrait, Homeland Security Council (alt)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brian_Moynihan%2C_official_portrait%2C_Homeland_Security_Council_%28alt%29.jpg/1280px-Brian_Moynihan%2C_official_portrait%2C_Homeland_Security_Council_%28alt%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brian_Moynihan%2C_official_portrait%2C_Homeland_Security_Council_%28alt%29.jpg/500px-Brian_Moynihan%2C_official_portrait%2C_Homeland_Security_Council_%28alt%29.jpg",
@@ -109,74 +42,6 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Brian_Moynihan,_official_portrait,_Homeland_Security_Council_(alt).jpg"
-  },
-  {
-   "shows": "Finance companies near Nihonbashi",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Finance_companies_near_Nihonbashi_%2845945%29.jpg/1920px-Finance_companies_near_Nihonbashi_%2845945%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Finance_companies_near_Nihonbashi_%2845945%29.jpg/500px-Finance_companies_near_Nihonbashi_%2845945%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Syced, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Finance_companies_near_Nihonbashi_(45945).jpg"
-  },
-  {
-   "shows": "Los Angeles - Bank America building from Historic LAPD Academy",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Los_Angeles_-_Bank_America_building_from_Historic_LAPD_Academy.JPG/1280px-Los_Angeles_-_Bank_America_building_from_Historic_LAPD_Academy.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Los_Angeles_-_Bank_America_building_from_Historic_LAPD_Academy.JPG/500px-Los_Angeles_-_Bank_America_building_from_Historic_LAPD_Academy.JPG",
-   "size": [
-    1280,
-    1903
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Daniel Mayer (mav), CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_-_Bank_America_building_from_Historic_LAPD_Academy.JPG"
-  },
-  {
-   "shows": "Bank of America Center 2",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bank_of_America_Center_2.jpg/1280px-Bank_of_America_Center_2.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bank_of_America_Center_2.jpg/500px-Bank_of_America_Center_2.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Calliopejen1, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_America_Center_2.jpg"
-  },
-  {
-   "shows": "Bank of America Tower 2026 02",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bank_of_America_Tower_2026_02.jpg/1920px-Bank_of_America_Tower_2026_02.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bank_of_America_Tower_2026_02.jpg/500px-Bank_of_America_Tower_2026_02.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_2026_02.jpg"
   }
  ]
 }

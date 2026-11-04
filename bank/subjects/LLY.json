@@ -6,58 +6,8 @@
   "LLY"
  ],
  "sector": "sector-health",
+ "fill_from": "sector-health",
  "photos": [
-  {
-   "shows": "Eli Lilly",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eli_Lilly.jpg/1280px-Eli_Lilly.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eli_Lilly.jpg/500px-Eli_Lilly.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly.jpg"
-  },
-  {
-   "shows": "Lilly mounjaro KwikPen Tirzepatid 5 mg per dose rate-9442",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lilly_mounjaro_KwikPen_Tirzepatid_5_mg_per_dose_rate-9442.jpg/1920px-Lilly_mounjaro_KwikPen_Tirzepatid_5_mg_per_dose_rate-9442.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lilly_mounjaro_KwikPen_Tirzepatid_5_mg_per_dose_rate-9442.jpg/500px-Lilly_mounjaro_KwikPen_Tirzepatid_5_mg_per_dose_rate-9442.jpg",
-   "size": [
-    1920,
-    1131
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Lilly_mounjaro_KwikPen_Tirzepatid_5_mg_per_dose_rate-9442.jpg"
-  },
-  {
-   "shows": "HK Chai Wan IVE 藥劑實驗室 Pharmaceutical Science Laboratory 肉桂 Room 516",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/HK_Chai_Wan_IVE_%E8%97%A5%E5%8A%91%E5%AF%A6%E9%A9%97%E5%AE%A4_Pharmaceutical_Science_Laboratory_%E8%82%89%E6%A1%82_Room_516.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/HK_Chai_Wan_IVE_%E8%97%A5%E5%8A%91%E5%AF%A6%E9%A9%97%E5%AE%A4_Pharmaceutical_Science_Laboratory_%E8%82%89%E6%A1%82_Room_516.JPG/500px-HK_Chai_Wan_IVE_%E8%97%A5%E5%8A%91%E5%AF%A6%E9%A9%97%E5%AE%A4_Pharmaceutical_Science_Laboratory_%E8%82%89%E6%A1%82_Room_516.JPG",
-   "size": [
-    1600,
-    1200
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Chlaborewan, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:HK_Chai_Wan_IVE_%E8%97%A5%E5%8A%91%E5%AF%A6%E9%A9%97%E5%AE%A4_Pharmaceutical_Science_Laboratory_%E8%82%89%E6%A1%82_Room_516.JPG"
-  },
   {
    "shows": "David A. Ricks 2025",
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/David_A._Ricks_2025.jpg",
@@ -92,91 +42,6 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_Corporate_Center,_Indianapolis,_Indiana,_USA.jpg"
-  },
-  {
-   "shows": "American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2823040%29.jpg/1920px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2823040%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2823040%29.jpg/500px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2823040%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(23040).jpg"
-  },
-  {
-   "shows": "Eli Lilly booth",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Eli_Lilly_booth.jpg/1920px-Eli_Lilly_booth.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Eli_Lilly_booth.jpg/500px-Eli_Lilly_booth.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jaireeodell, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_booth.jpg"
-  },
-  {
-   "shows": "Pablum etc - Indiana State Museum",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pablum_etc_-_Indiana_State_Museum_-_DSC00438.JPG/1920px-Pablum_etc_-_Indiana_State_Museum_-_DSC00438.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pablum_etc_-_Indiana_State_Museum_-_DSC00438.JPG/500px-Pablum_etc_-_Indiana_State_Museum_-_DSC00438.JPG",
-   "size": [
-    1920,
-    1239
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Daderot, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Pablum_etc_-_Indiana_State_Museum_-_DSC00438.JPG"
-  },
-  {
-   "shows": "Eli Lilly clinical trials booth",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eli_Lilly_clinical_trials_booth.jpg/1920px-Eli_Lilly_clinical_trials_booth.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Eli_Lilly_clinical_trials_booth.jpg/500px-Eli_Lilly_clinical_trials_booth.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jaireeodell, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_clinical_trials_booth.jpg"
-  },
-  {
-   "shows": "Lilly HumaPen Ergo-0339",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lilly_HumaPen_Ergo-0339.jpg/1920px-Lilly_HumaPen_Ergo-0339.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Lilly_HumaPen_Ergo-0339.jpg/500px-Lilly_HumaPen_Ergo-0339.jpg",
-   "size": [
-    1920,
-    1289
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Lilly_HumaPen_Ergo-0339.jpg"
   }
  ]
 }

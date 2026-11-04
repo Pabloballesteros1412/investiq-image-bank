@@ -47,14 +47,41 @@ Decisions (Pablo, 4 Nov 2026):
 - Dashboard artifact for Pablo: **https://claude.ai/artifact/GH9JEo598mzHkmJkjAmc1e** (previews do not load
   inside an artifact; the GitHub Pages gallery shows them).
 
+## Pablo's verdict on the first build and the new direction (4 Nov 2026, night)
+- Pablo looked at a random sample and was not sure these were the images he wants: Commons is documentary and
+  uneven (about 4 in 10 good, 3 dull, 3 wrong). Decision: **keep only the best Commons photos, and use Unsplash
+  and Pexels** for topics and sectors.
+- **Review gate** (done): `review.py` makes contact sheets of 30 numbered 4:5 tiles; grades go to
+  `bank/review.json` (3 best, 2 plain, 1 reject, criteria and calibration in `RUBRIC.md`). The index publishes
+  Commons photos only with grade 3; the build never picks a photo graded below 3 again. All 3,828 Commons
+  photos were graded (sheet 1 by me, the rest by 5 parallel subagents with the rubric; a random check of 30
+  grade-3 and 30 grade-2 photos agreed): 407 (10.6%; 1,618 grade 2, 1,803 grade 1) are grade 3, so the index
+  now has 407 photos: 336 of companies (220 of 583 companies have at least one, 25 have three or more; the big
+  names keep 1-6 each) and 71 of topics and sectors (0-4 each, until Unsplash/Pexels fill them). After any new
+  build, new Commons photos stay unpublished until graded.
+- **Unsplash and Pexels** (code done and tested offline, `stock.py`; not run yet): the environment had neither
+  network access to `api.unsplash.com`, `images.unsplash.com`, `api.pexels.com`, `images.pexels.com` nor keys.
+  Pablo was asked to allow the four hosts and add `UNSPLASH_ACCESS_KEY` and `PEXELS_API_KEY` (needs a new
+  session). Topics and sectors run each shot on Unsplash, Pexels and Commons; a stock photo must name every word
+  of the search (or a `must` word) in its description and then wins (+30). Never for real people; no Unsplash+,
+  renders, illustrations or quotes. Answers cached in `.cache/stock/` for 30 days. Unsplash's limit for a new app
+  is 50 requests an hour (~480 searches for topics and sectors: about 10 hours; ask Pablo to apply for
+  production, 5,000/h), Pexels 200/h.
+
 ## Next work (in order)
-1. Get this branch into `main` (PR + merge, Pablo's call): until then the chat reads the old empty index.
-2. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
-3. Weak companies: browse the gallery; for a wrong photo add `"exclude"` + `"manual": ["exclude"]` in the
-   manifest and `build --only <ID>`. For big names with few photos, a hand-written catalog entry (their
-   stores, products, HQ) works better than more rules: e.g. TJX (TJ Maxx, Marshalls), Thermo Fisher, KLA,
-   ServiceNow, Shopify, Snowflake, Palo Alto Networks, Robinhood, Intuitive Surgical (da Vinci robot).
-4. Re-run `universe` when the S&P 500 changes and `build --redo` every few months (dead links, new photos).
+1. New session with the keys: check `curl -sS -o /dev/null -w "%{http_code}" -H "Authorization: $PEXELS_API_KEY"
+   "https://api.pexels.com/v1/search?query=gold"` gives 200 (Unsplash: `-H "Authorization: Client-ID
+   $UNSPLASH_ACCESS_KEY" https://api.unsplash.com/search/photos?query=gold`). Then
+   `python image_bank.py build --kind topic,sector --redo`, look at every topic and sector by eye (contact
+   sheets of the previews, as in this session), fix searches in `catalog.json`, grade any new Commons photos
+   (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
+2. Optional, if Pablo likes the stock look: Unsplash/Pexels for well-known consumer brands too (Apple Store,
+   Nike, Starbucks, Tesla...): `company_photos` would need the stock sources with a strict brand-name match on
+   the description. Ask first: it costs ~600 searches per source.
+3. Get this branch into `main` (PR + merge, Pablo's call): until then the chat reads the old empty index.
+4. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
+5. Big companies left with few published photos: a hand-written catalog entry (stores, products, HQ) and a
+   rebuild + review round for them.
 
 ## Rules
 - Free licences only, and every photo keeps its credit line (`credit`).

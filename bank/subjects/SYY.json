@@ -6,58 +6,8 @@
   "SYY"
  ],
  "sector": "sector-staples",
+ "fill_from": "sector-staples",
  "photos": [
-  {
-   "shows": "Sysco",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/SyscoHQHouston.JPG/1920px-SyscoHQHouston.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/SyscoHQHouston.JPG/500px-SyscoHQHouston.JPG",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "WhisperToMe, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:SyscoHQHouston.JPG"
-  },
-  {
-   "shows": "Brackley, PEI",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Brackley%2C_PEI_%2845455491162%29.jpg/1920px-Brackley%2C_PEI_%2845455491162%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Brackley%2C_PEI_%2845455491162%29.jpg/500px-Brackley%2C_PEI_%2845455491162%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Larry from Charlottetown, PEI, Canada, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Brackley,_PEI_(45455491162).jpg"
-  },
-  {
-   "shows": "Secretary Perdue at Sysco San Diego ( -OSEC-LSC-0345)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg/1920px-Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg/500px-Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "USDAgov, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Secretary_Perdue_at_Sysco_San_Diego_(20190715-OSEC-LSC-0345).jpg"
-  },
   {
    "shows": "Sysco Corporation Headquarters - Houston, Texas",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sysco_Corporation_Headquarters_-_Houston%2C_Texas_%2833648710078%29.jpg/1920px-Sysco_Corporation_Headquarters_-_Houston%2C_Texas_%2833648710078%29.jpg",
@@ -76,40 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Sysco_Corporation_Headquarters_-_Houston,_Texas_(33648710078).jpg"
   },
   {
-   "shows": "Ryan Preece car, Las Vegas Fall 2025",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ryan_Preece_car%2C_Las_Vegas_Fall_2025.jpg/1920px-Ryan_Preece_car%2C_Las_Vegas_Fall_2025.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ryan_Preece_car%2C_Las_Vegas_Fall_2025.jpg/500px-Ryan_Preece_car%2C_Las_Vegas_Fall_2025.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Nascar9919, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ryan_Preece_car,_Las_Vegas_Fall_2025.jpg"
-  },
-  {
-   "shows": "Cross 8th Street and Olive Street (July 2022)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cross_8th_Street_and_Olive_Street_%28July_2022%29.jpg/1920px-Cross_8th_Street_and_Olive_Street_%28July_2022%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cross_8th_Street_and_Olive_Street_%28July_2022%29.jpg/500px-Cross_8th_Street_and_Olive_Street_%28July_2022%29.jpg",
-   "size": [
-    1920,
-    1482
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Benoît Prieur, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Cross_8th_Street_and_Olive_Street_(July_2022).jpg"
-  },
-  {
    "shows": "Here's an International MV belonging to Sysco, at work in Jersey City, New Jersey. The MV was formerly known as the International DuraStar and, prior to that, t",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/International_MV_%2854360105280%29.jpg/1920px-International_MV_%2854360105280%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/International_MV_%2854360105280%29.jpg/500px-International_MV_%2854360105280%29.jpg",
@@ -125,57 +41,6 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:International_MV_(54360105280).jpg"
-  },
-  {
-   "shows": "Sysco Headquarters in Houston.",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sysco_HQ.jpg/1920px-Sysco_HQ.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sysco_HQ.jpg/500px-Sysco_HQ.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "WhisperToMe - Edited by Henry Han, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Sysco_HQ.jpg"
-  },
-  {
-   "shows": "Sysco Food Service Truck - Pallet Delivery",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sysco_Food_Service_Truck_-_Pallet_Delivery_%2849539528381%29.jpg/1920px-Sysco_Food_Service_Truck_-_Pallet_Delivery_%2849539528381%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sysco_Food_Service_Truck_-_Pallet_Delivery_%2849539528381%29.jpg/500px-Sysco_Food_Service_Truck_-_Pallet_Delivery_%2849539528381%29.jpg",
-   "size": [
-    1920,
-    1259
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Sysco_Food_Service_Truck_-_Pallet_Delivery_(49539528381).jpg"
-  },
-  {
-   "shows": "SYSCO semi truck",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SYSCO_semi_truck.jpg/1920px-SYSCO_semi_truck.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SYSCO_semi_truck.jpg/500px-SYSCO_semi_truck.jpg",
-   "size": [
-    1920,
-    960
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Ewkada, CC BY 3.0, via Wikimedia Commons",
-   "licence": "CC BY 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:SYSCO_semi_truck.jpg"
   }
  ]
 }

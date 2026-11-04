@@ -6,24 +6,8 @@
   "META"
  ],
  "sector": "sector-communication",
+ "fill_from": "sector-communication",
  "photos": [
-  {
-   "shows": "Meta Platforms Headquarters Menlo Park California",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Meta_Platforms_Headquarters_Menlo_Park_California.jpg/1920px-Meta_Platforms_Headquarters_Menlo_Park_California.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Meta_Platforms_Headquarters_Menlo_Park_California.jpg/500px-Meta_Platforms_Headquarters_Menlo_Park_California.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "LPS.1, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Headquarters_Menlo_Park_California.jpg"
-  },
   {
    "shows": "Meta Quest 3 display unit",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meta_Quest_3_display_unit.jpg/1920px-Meta_Quest_3_display_unit.jpg",
@@ -42,57 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_display_unit.jpg"
   },
   {
-   "shows": "Brickell Ray Ban Meta Wayfarer Smart Glasses - Colorful facade",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Brickell_Ray_Ban_Meta_Wayfarer_Smart_Glasses_-_Colorful_facade.jpg/1280px-Brickell_Ray_Ban_Meta_Wayfarer_Smart_Glasses_-_Colorful_facade.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Brickell_Ray_Ban_Meta_Wayfarer_Smart_Glasses_-_Colorful_facade.jpg/500px-Brickell_Ray_Ban_Meta_Wayfarer_Smart_Glasses_-_Colorful_facade.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Phillip Pessar, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Brickell_Ray_Ban_Meta_Wayfarer_Smart_Glasses_-_Colorful_facade.jpg"
-  },
-  {
-   "shows": "Lulea Facebook datacenter building",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lulea_Facebook_datacenter_building.jpg/1920px-Lulea_Facebook_datacenter_building.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lulea_Facebook_datacenter_building.jpg/500px-Lulea_Facebook_datacenter_building.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Christopher Down, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Lulea_Facebook_datacenter_building.jpg"
-  },
-  {
-   "shows": "Instagram app on smartphone (grass background)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Instagram_app_on_smartphone_%28grass_background%29.jpg/1920px-Instagram_app_on_smartphone_%28grass_background%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Instagram_app_on_smartphone_%28grass_background%29.jpg/500px-Instagram_app_on_smartphone_%28grass_background%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Santeri Viinamäki (both photo and screenshot), CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Instagram_app_on_smartphone_(grass_background).jpg"
-  },
-  {
    "shows": "Mark Zuckerberg F8 2019 Keynote ( )",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/1280px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg/500px-Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
@@ -109,74 +42,6 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_F8_2019_Keynote_(32830578717)_(cropped).jpg"
-  },
-  {
-   "shows": "An Aerial view of Meta's Main Headquarters with the famed sign in view. Taken on a DJI Mavic 3 Classic; screenshotted from a video.",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Meta_HQ_2023.png/1920px-Meta_HQ_2023.png",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Meta_HQ_2023.png/500px-Meta_HQ_2023.png",
-   "size": [
-    1920,
-    1038
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "InvadingInvader, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Meta_HQ_2023.png"
-  },
-  {
-   "shows": "Meta (Facebook) campus in Bellevue, Washington",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Meta_%28Facebook%29_campus_in_Bellevue%2C_Washington.jpg/1920px-Meta_%28Facebook%29_campus_in_Bellevue%2C_Washington.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Meta_%28Facebook%29_campus_in_Bellevue%2C_Washington.jpg/500px-Meta_%28Facebook%29_campus_in_Bellevue%2C_Washington.jpg",
-   "size": [
-    1920,
-    1083
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Exilexi, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Meta_(Facebook)_campus_in_Bellevue,_Washington.jpg"
-  },
-  {
-   "shows": "26.02.2024 - Home Secretary James Cleverly visits San Francisco to meet leading tech companies",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/26.02.2024_-_Home_Secretary_James_Cleverly_visits_San_Francisco_to_meet_leading_tech_companies_%2853554995140%29.jpg/1920px-26.02.2024_-_Home_Secretary_James_Cleverly_visits_San_Francisco_to_meet_leading_tech_companies_%2853554995140%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/26.02.2024_-_Home_Secretary_James_Cleverly_visits_San_Francisco_to_meet_leading_tech_companies_%2853554995140%29.jpg/500px-26.02.2024_-_Home_Secretary_James_Cleverly_visits_San_Francisco_to_meet_leading_tech_companies_%2853554995140%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "UK Home Office, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:26.02.2024_-_Home_Secretary_James_Cleverly_visits_San_Francisco_to_meet_leading_tech_companies_(53554995140).jpg"
-  },
-  {
-   "shows": "Aerial view of Facebook campus in Menlo Park, September 2019",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aerial_view_of_Facebook_campus_in_Menlo_Park%2C_September_2019.JPG/1920px-Aerial_view_of_Facebook_campus_in_Menlo_Park%2C_September_2019.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Aerial_view_of_Facebook_campus_in_Menlo_Park%2C_September_2019.JPG/500px-Aerial_view_of_Facebook_campus_in_Menlo_Park%2C_September_2019.JPG",
-   "size": [
-    1920,
-    1278
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Facebook_campus_in_Menlo_Park,_September_2019.JPG"
   }
  ]
 }

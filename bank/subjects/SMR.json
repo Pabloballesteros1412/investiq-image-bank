@@ -7,57 +7,5 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": [
-  {
-   "shows": "NuScale-Upper-One-Third-Mockup",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NuScale-Upper-One-Third-Mockup.jpg/1280px-NuScale-Upper-One-Third-Mockup.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NuScale-Upper-One-Third-Mockup.jpg/500px-NuScale-Upper-One-Third-Mockup.jpg",
-   "size": [
-    1280,
-    1920
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Oregon State University, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:NuScale-Upper-One-Third-Mockup.jpg"
-  },
-  {
-   "shows": "NuScale Design Certification Application",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NuScale_Design_Certification_Application_%2832122872232%29.jpg/1920px-NuScale_Design_Certification_Application_%2832122872232%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NuScale_Design_Certification_Application_%2832122872232%29.jpg/500px-NuScale_Design_Certification_Application_%2832122872232%29.jpg",
-   "size": [
-    1920,
-    1516
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Nuclear Regulatory Commission from US, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:NuScale_Design_Certification_Application_(32122872232).jpg"
-  },
-  {
-   "shows": "NuScale Power Plant Design - Eyelevel",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NuScale_Power_Plant_Design_-_Eyelevel.jpg/1920px-NuScale_Power_Plant_Design_-_Eyelevel.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NuScale_Power_Plant_Design_-_Eyelevel.jpg/500px-NuScale_Power_Plant_Design_-_Eyelevel.jpg",
-   "size": [
-    1920,
-    1080
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Oregon State University, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:NuScale_Power_Plant_Design_-_Eyelevel.jpg"
-  }
- ]
+ "photos": []
 }

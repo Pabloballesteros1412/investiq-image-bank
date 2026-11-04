@@ -6,24 +6,8 @@
   "KO"
  ],
  "sector": "sector-staples",
+ "fill_from": "sector-staples",
  "photos": [
-  {
-   "shows": "Coca-Cola Company",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coca-Cola_Company_%2832574368197%29.jpg/1920px-Coca-Cola_Company_%2832574368197%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coca-Cola_Company_%2832574368197%29.jpg/500px-Coca-Cola_Company_%2832574368197%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Netherlands Embassy, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Coca-Cola_Company_(32574368197).jpg"
-  },
   {
    "shows": "Everything Coca Cola Store; Las Vegas, Nevada",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Everything_Coca_Cola_Store%3B_Las_Vegas%2C_Nevada.jpg/1280px-Everything_Coca_Cola_Store%3B_Las_Vegas%2C_Nevada.jpg",
@@ -42,91 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Everything_Coca_Cola_Store;_Las_Vegas,_Nevada.jpg"
   },
   {
-   "shows": "Coca Cola - Mexican death sentence",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coca_Cola_-_Mexican_death_sentence.jpg/1280px-Coca_Cola_-_Mexican_death_sentence.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coca_Cola_-_Mexican_death_sentence.jpg/500px-Coca_Cola_-_Mexican_death_sentence.jpg",
-   "size": [
-    1280,
-    1635
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Tomascastelazo, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Coca_Cola_-_Mexican_death_sentence.jpg"
-  },
-  {
-   "shows": "Bogalusa Coca Cola Bottling Plant",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bogalusa_Coca_Cola_Bottling_Plant.jpg/1920px-Bogalusa_Coca_Cola_Bottling_Plant.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bogalusa_Coca_Cola_Bottling_Plant.jpg/500px-Bogalusa_Coca_Cola_Bottling_Plant.jpg",
-   "size": [
-    1920,
-    1275
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Ktkvtsh, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bogalusa_Coca_Cola_Bottling_Plant.jpg"
-  },
-  {
-   "shows": "VW Coca Cola Truck in Montevideo 02",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VW_Coca_Cola_Truck_in_Montevideo_02.jpg/1280px-VW_Coca_Cola_Truck_in_Montevideo_02.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VW_Coca_Cola_Truck_in_Montevideo_02.jpg/500px-VW_Coca_Cola_Truck_in_Montevideo_02.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Grandmaster Huon, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:VW_Coca_Cola_Truck_in_Montevideo_02.jpg"
-  },
-  {
-   "shows": "Frisco lasipullo",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frisco_lasipullo.jpg/1920px-Frisco_lasipullo.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frisco_lasipullo.jpg/500px-Frisco_lasipullo.jpg",
-   "size": [
-    1920,
-    2057
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Ville Siliämaa, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Frisco_lasipullo.jpg"
-  },
-  {
-   "shows": "Bonn, Haus der Geschichte",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn%2C_Haus_der_Geschichte_%2823%29.jpg/1920px-Bonn%2C_Haus_der_Geschichte_%2823%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn%2C_Haus_der_Geschichte_%2823%29.jpg/500px-Bonn%2C_Haus_der_Geschichte_%2823%29.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Palickap, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bonn,_Haus_der_Geschichte_(23).jpg"
-  },
-  {
    "shows": "Coca-Cola Tower and Guggenheim Building, Atlanta, Northeast view 1",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg/1280px-Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg/500px-Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg",
@@ -142,40 +41,6 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Coca-Cola_Tower_and_Guggenheim_Building,_Atlanta,_Northeast_view_20160717_1.jpg"
-  },
-  {
-   "shows": "Coca-Cola World Headquarters",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coca-Cola_World_Headquarters.jpg/1280px-Coca-Cola_World_Headquarters.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coca-Cola_World_Headquarters.jpg/500px-Coca-Cola_World_Headquarters.jpg",
-   "size": [
-    1280,
-    2276
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "JJonahJackalope, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Coca-Cola_World_Headquarters.jpg"
-  },
-  {
-   "shows": "Headquarters of Coca-Cola West Company",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Headquarters_of_Coca-Cola_West_Company.JPG/1920px-Headquarters_of_Coca-Cola_West_Company.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Headquarters_of_Coca-Cola_West_Company.JPG/500px-Headquarters_of_Coca-Cola_West_Company.JPG",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "そらみみ (Soramimi), CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Headquarters_of_Coca-Cola_West_Company.JPG"
   }
  ]
 }

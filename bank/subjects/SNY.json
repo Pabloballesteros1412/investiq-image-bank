@@ -6,6 +6,7 @@
   "SNY"
  ],
  "sector": "sector-health",
+ "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Paul Hudson, Sanofi CEO (per Wikidata)",
@@ -26,23 +27,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Paul_Hudson_at_the_World_Economic_Forum.jpg"
   },
   {
-   "shows": "Sanofi Hangzhou 01",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sanofi_Hangzhou_01.jpg/1280px-Sanofi_Hangzhou_01.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sanofi_Hangzhou_01.jpg/500px-Sanofi_Hangzhou_01.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Huandy618, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Sanofi_Hangzhou_01.jpg"
-  },
-  {
    "shows": "A Sanofi pharmaceutical plant in Chattanooga, Tennessee 01",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_01.jpg/1280px-A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_01.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_01.jpg/500px-A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_01.jpg",
@@ -58,125 +42,6 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:A_Sanofi_pharmaceutical_plant_in_Chattanooga,_Tennessee_01.jpg"
-  },
-  {
-   "shows": "2023 Magne-B6 Max (suplement diety)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2023_Magne-B6_Max_%28suplement_diety%29.jpg/1920px-2023_Magne-B6_Max_%28suplement_diety%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2023_Magne-B6_Max_%28suplement_diety%29.jpg/500px-2023_Magne-B6_Max_%28suplement_diety%29.jpg",
-   "size": [
-    1920,
-    1354
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2023_Magne-B6_Max_(suplement_diety).jpg"
-  },
-  {
-   "shows": "450 Water Street, Cambridge Crossing",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/450_Water_Street%2C_Cambridge_Crossing.jpg/1280px-450_Water_Street%2C_Cambridge_Crossing.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/450_Water_Street%2C_Cambridge_Crossing.jpg/500px-450_Water_Street%2C_Cambridge_Crossing.jpg",
-   "size": [
-    1280,
-    1554
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:450_Water_Street,_Cambridge_Crossing.jpg"
-  },
-  {
-   "shows": "French Havlane (Loprazolam 1 mg) medicine",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/French_Havlane_%28Loprazolam_1_mg%29_medicine.jpg/1920px-French_Havlane_%28Loprazolam_1_mg%29_medicine.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/French_Havlane_%28Loprazolam_1_mg%29_medicine.jpg/500px-French_Havlane_%28Loprazolam_1_mg%29_medicine.jpg",
-   "size": [
-    1920,
-    1601
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Aopsychopharmaco, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:French_Havlane_(Loprazolam_1_mg)_medicine.jpg"
-  },
-  {
-   "shows": "Tercian en solution buvable",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tercian_en_solution_buvable.jpg/1920px-Tercian_en_solution_buvable.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tercian_en_solution_buvable.jpg/500px-Tercian_en_solution_buvable.jpg",
-   "size": [
-    1920,
-    1585
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Aopsychopharmaco, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Tercian_en_solution_buvable.jpg"
-  },
-  {
-   "shows": "Sanofi-Genzyme building at the Charles River",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sanofi-Genzyme_building_at_the_Charles_River_%2851307549699%29.jpg/1920px-Sanofi-Genzyme_building_at_the_Charles_River_%2851307549699%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sanofi-Genzyme_building_at_the_Charles_River_%2851307549699%29.jpg/500px-Sanofi-Genzyme_building_at_the_Charles_River_%2851307549699%29.jpg",
-   "size": [
-    1920,
-    1246
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Chris Rycroft, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Sanofi-Genzyme_building_at_the_Charles_River_(51307549699).jpg"
-  },
-  {
-   "shows": "Metamizole 500mg-1ml vials white background",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Metamizole_500mg-1ml_vials_white_background.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Metamizole_500mg-1ml_vials_white_background.jpg/500px-Metamizole_500mg-1ml_vials_white_background.jpg",
-   "size": [
-    1746,
-    1569
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Wesalius, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Metamizole_500mg-1ml_vials_white_background.jpg"
-  },
-  {
-   "shows": "Sanofi Imovane 7½mg",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sanofi_Imovane_7%C2%BDmg.JPG/1920px-Sanofi_Imovane_7%C2%BDmg.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Sanofi_Imovane_7%C2%BDmg.JPG/500px-Sanofi_Imovane_7%C2%BDmg.JPG",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Dmitry G, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Sanofi_Imovane_7%C2%BDmg.JPG"
   }
  ]
 }

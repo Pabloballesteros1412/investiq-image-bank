@@ -984,7 +984,7 @@ def save_review(rv, bank=BANK):
     rv = {"about": "Grades of the Wikimedia Commons photos checked by eye (review.py): 3 best, 2 usable but plain, "
                    "1 reject. Only Commons photos graded min_grade or more reach the index; the build never picks a "
                    "photo graded below it again. Unsplash and Pexels photos need no grade.",
-          "min_grade": rv.get("min_grade", 3), **{k: v for k, v in rv.items() if k not in ("about", "min_grade")}}
+          "min_grade": rv.get("min_grade") or 3, **{k: v for k, v in rv.items() if k not in ("about", "min_grade")}}
     rv["grades"] = dict(sorted(rv["grades"].items()))
     write_atomic(Path(bank) / "review.json", json.dumps(rv, indent=1, ensure_ascii=False))
 

@@ -6,58 +6,8 @@
   "HAS"
  ],
  "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
-  {
-   "shows": "SO-Stromkasten Hasbro",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SO-Stromkasten_Hasbro.jpg/1920px-SO-Stromkasten_Hasbro.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SO-Stromkasten_Hasbro.jpg/500px-SO-Stromkasten_Hasbro.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Dat doris, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:SO-Stromkasten_Hasbro.jpg"
-  },
-  {
-   "shows": "Hasbro P-O-X, blue, front",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hasbro_P-O-X%2C_blue%2C_front.jpg/1920px-Hasbro_P-O-X%2C_blue%2C_front.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hasbro_P-O-X%2C_blue%2C_front.jpg/500px-Hasbro_P-O-X%2C_blue%2C_front.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "FreeMediaKid!, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Hasbro_P-O-X,_blue,_front.jpg"
-  },
-  {
-   "shows": "Hasbro, Inc. Pawtucket world headquarters",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hasbro%2C_Inc._Pawtucket_world_headquarters.jpg/1920px-Hasbro%2C_Inc._Pawtucket_world_headquarters.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hasbro%2C_Inc._Pawtucket_world_headquarters.jpg/500px-Hasbro%2C_Inc._Pawtucket_world_headquarters.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Hasbro,_Inc._Pawtucket_world_headquarters.jpg"
-  },
   {
    "shows": "Hasbro, Inc. world headquarters Pawtucket",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hasbro%2C_Inc._world_headquarters_Pawtucket.jpg/1920px-Hasbro%2C_Inc._world_headquarters_Pawtucket.jpg",
@@ -76,57 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Hasbro,_Inc._world_headquarters_Pawtucket.jpg"
   },
   {
-   "shows": "Ifish white",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ifish_white.jpg/1920px-Ifish_white.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ifish_white.jpg/500px-Ifish_white.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Satcom886, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ifish_white.jpg"
-  },
-  {
-   "shows": "Hasbro booth",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hasbro_booth_%2828388090881%29.jpg/1920px-Hasbro_booth_%2828388090881%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Hasbro_booth_%2828388090881%29.jpg/500px-Hasbro_booth_%2828388090881%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Hasbro_booth_(28388090881).jpg"
-  },
-  {
-   "shows": "2950 Hollywood Way, Burbank, California. As of 2014, this office building is home to the Hub Network and Hasbro Studios. Photographed by user Coolcaesar on 1 Ju",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/2950hollywoodway.JPG/1920px-2950hollywoodway.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/2950hollywoodway.JPG/500px-2950hollywoodway.JPG",
-   "size": [
-    1920,
-    1022
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2950hollywoodway.JPG"
-  },
-  {
    "shows": "Mr Potato Head at Hasbro Pawtucket headquarters",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg/1920px-Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg/500px-Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg",
@@ -142,40 +41,6 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg"
-  },
-  {
-   "shows": "Hasbro world headquarters",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hasbro_world_headquarters.jpg/1920px-Hasbro_world_headquarters.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hasbro_world_headquarters.jpg/500px-Hasbro_world_headquarters.jpg",
-   "size": [
-    1920,
-    989
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Hasbro_world_headquarters.jpg"
-  },
-  {
-   "shows": "Hasbro Childrens Hospital, Providence Rhode Island",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hasbro_Childrens_Hospital%2C_Providence_Rhode_Island.jpg/1920px-Hasbro_Childrens_Hospital%2C_Providence_Rhode_Island.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Hasbro_Childrens_Hospital%2C_Providence_Rhode_Island.jpg/500px-Hasbro_Childrens_Hospital%2C_Providence_Rhode_Island.jpg",
-   "size": [
-    1920,
-    1486
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Hasbro_Childrens_Hospital,_Providence_Rhode_Island.jpg"
   }
  ]
 }
