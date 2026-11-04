@@ -1,0 +1,77 @@
+{
+ "id": "HUM",
+ "kind": "company",
+ "name": "Humana",
+ "tickers": [
+  "HUM"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Bruce Broussard, Humana CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/President_Trump_Delivers_Remarks_on_Protecting_Seniors_with_Diabetes_%2849942093502%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/President_Trump_Delivers_Remarks_on_Protecting_Seniors_with_Diabetes_%2849942093502%29_%28cropped%29.jpg/500px-President_Trump_Delivers_Remarks_on_Protecting_Seniors_with_Diabetes_%2849942093502%29_%28cropped%29.jpg",
+   "size": [
+    1176,
+    1238
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "The White House from Washington, DC, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:President_Trump_Delivers_Remarks_on_Protecting_Seniors_with_Diabetes_(49942093502)_(cropped).jpg"
+  },
+  {
+   "shows": "Bruce D. Broussard Headshot 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bruce_D._Broussard_Headshot_2020.jpg/1920px-Bruce_D._Broussard_Headshot_2020.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bruce_D._Broussard_Headshot_2020.jpg/500px-Bruce_D._Broussard_Headshot_2020.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rachel Waters at Waters Photography Studio, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bruce_D._Broussard_Headshot_2020.jpg"
+  },
+  {
+   "shows": "Join the fun at www.freewheelinwaytogo.com/FWWelcome.aspx",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Humana_%282763847208%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Humana_%282763847208%29.jpg/500px-Humana_%282763847208%29.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "freewheelinbiker, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Humana_(2763847208).jpg"
+  },
+  {
+   "shows": "Humana Second-Hand Store in Porto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Humana_Second-Hand_Store_in_Porto.jpg/1280px-Humana_Second-Hand_Store_in_Porto.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Humana_Second-Hand_Store_in_Porto.jpg/500px-Humana_Second-Hand_Store_in_Porto.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Moromalo, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Humana_Second-Hand_Store_in_Porto.jpg"
+  }
+ ]
+}

@@ -539,12 +539,15 @@
    "wiki": "Ameriprise Financial",
    "source": "S&P 500",
    "wikidata": "Q2843129",
-   "commons_category": null,
+   "commons_category": "Ameriprise Financial Center",
    "image": "Ameriprise Financial Center Minneapolis 1.jpg",
    "ambiguous": false,
    "ceo": "James Cracchiolo",
    "ceo_image": null,
-   "id": "AMP"
+   "id": "AMP",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Ametek",
@@ -1195,12 +1198,15 @@
    "wiki": "Bio-Techne",
    "source": "S&P 500",
    "wikidata": "Q19873469",
-   "commons_category": null,
+   "commons_category": "Bio-Techne Corporation",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "TECH"
+   "id": "TECH",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Biogen",
@@ -1483,12 +1489,15 @@
    "wiki": "Bunge Global",
    "source": "S&P 500",
    "wikidata": "Q1009458",
-   "commons_category": null,
+   "commons_category": "Bunge Global SA",
    "image": "VDO Bunge waterfront.jpg",
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "BG"
+   "id": "BG",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "BXP, Inc.",
@@ -2539,12 +2548,15 @@
    "wiki": "CVS Health",
    "source": "S&P 500",
    "wikidata": "Q624375",
-   "commons_category": null,
+   "commons_category": "CVS Pharmacy",
    "image": null,
    "ambiguous": false,
    "ceo": "David Joyner",
    "ceo_image": null,
-   "id": "CVS"
+   "id": "CVS",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "D-Wave Quantum",
@@ -2571,12 +2583,15 @@
    "wiki": "D. R. Horton",
    "source": "S&P 500",
    "wikidata": "Q5203782",
-   "commons_category": null,
+   "commons_category": "D.R. Horton",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "DHI"
+   "id": "DHI",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Danaher Corporation",
@@ -2683,12 +2698,15 @@
    "wiki": "Dell Technologies",
    "source": "S&P 500",
    "wikidata": "Q27500963",
-   "commons_category": null,
+   "commons_category": "Dell",
    "image": "Dell RR1.jpg",
    "ambiguous": false,
    "ceo": "Michael Dell",
    "ceo_image": "Michael Dell 2010.jpg",
-   "id": "DELL"
+   "id": "DELL",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Delta Air Lines",
@@ -2715,12 +2733,15 @@
    "wiki": "Devon Energy",
    "source": "S&P 500",
    "wikidata": "Q1206980",
-   "commons_category": null,
+   "commons_category": "Devon Energy Tower",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "DVN"
+   "id": "DVN",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Dexcom",
@@ -2731,12 +2752,15 @@
    "wiki": "Dexcom",
    "source": "S&P 500",
    "wikidata": "Q15109865",
-   "commons_category": null,
+   "commons_category": "Dexcom, Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "DXCM"
+   "id": "DXCM",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Diageo",
@@ -4812,12 +4836,15 @@
    "wiki": "Joby Aviation",
    "source": "extra",
    "wikidata": "Q54933259",
-   "commons_category": null,
+   "commons_category": "Joby Aviation aircraft",
    "image": "Joby Aviation S4 experimental eVTOL aircraft at Edwards AFB.jpg",
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "JOBY"
+   "id": "JOBY",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Johnson & Johnson",
@@ -5068,12 +5095,15 @@
    "wiki": "Labcorp",
    "source": "S&P 500",
    "wikidata": "Q6466630",
-   "commons_category": null,
+   "commons_category": "Labcorp Holdings Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "LH"
+   "id": "LH",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Lam Research",
@@ -5132,12 +5162,15 @@
    "wiki": "Lennar",
    "source": "S&P 500",
    "wikidata": "Q16981175",
-   "commons_category": null,
+   "commons_category": "Lennar Corporation",
    "image": "Lennar headquarters.jpg",
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "LEN"
+   "id": "LEN",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Lennox International",
@@ -6045,12 +6078,15 @@
    "wiki": "Northern Trust",
    "source": "S&P 500",
    "wikidata": "Q970695",
-   "commons_category": null,
+   "commons_category": "Northern Trust Company Building",
    "image": "Northern Trust Company Building (51574881733).jpg",
    "ambiguous": false,
    "ceo": "Michael G. O'Grady",
    "ceo_image": null,
-   "id": "NTRS"
+   "id": "NTRS",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Northrop Grumman",
@@ -6253,12 +6289,15 @@
    "wiki": "Occidental Petroleum",
    "source": "S&P 500",
    "wikidata": "Q2013357",
-   "commons_category": null,
+   "commons_category": "Occidental Petroleum Corporation",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "OXY"
+   "id": "OXY",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Oklo",
@@ -6349,12 +6388,15 @@
    "wiki": "Oneok",
    "source": "S&P 500",
    "wikidata": "Q11074156",
-   "commons_category": null,
+   "commons_category": "Oneok, Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "OKE"
+   "id": "OKE",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Oracle Corporation",
@@ -6477,12 +6519,15 @@
    "wiki": "Paychex",
    "source": "S&P 500",
    "wikidata": "Q946080",
-   "commons_category": null,
+   "commons_category": "Paychex, Inc.",
    "image": "Paychex headquarters.JPG",
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "PAYX"
+   "id": "PAYX",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "PayPal",
@@ -6861,12 +6906,15 @@
    "wiki": "Qnity Electronics",
    "source": "S&P 500",
    "wikidata": "Q138685636",
-   "commons_category": null,
+   "commons_category": "Qnity Electronics, Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "Q"
+   "id": "Q",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Qualcomm",
@@ -6957,12 +7005,15 @@
    "wiki": "Realty Income",
    "source": "S&P 500",
    "wikidata": "Q7301386",
-   "commons_category": null,
+   "commons_category": "Realty Income Corporation",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "O"
+   "id": "O",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Reddit",
@@ -7053,12 +7104,15 @@
    "wiki": "ResMed",
    "source": "S&P 500",
    "wikidata": "Q7314903",
-   "commons_category": null,
+   "commons_category": "ResMed Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": "Michael Farrell",
    "ceo_image": null,
-   "id": "RMD"
+   "id": "RMD",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Revvity",
@@ -7069,12 +7123,15 @@
    "wiki": "Revvity",
    "source": "S&P 500",
    "wikidata": "Q120467527",
-   "commons_category": null,
+   "commons_category": "Revvity, Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "RVTY"
+   "id": "RVTY",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Rigetti Computing",
@@ -7213,12 +7270,15 @@
    "wiki": "Rollins, Inc.",
    "source": "S&P 500",
    "wikidata": "Q7361273",
-   "commons_category": null,
+   "commons_category": "Rollins Inc.",
    "image": null,
    "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
-   "id": "ROL"
+   "id": "ROL",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Roper Technologies",
@@ -7821,12 +7881,15 @@
    "wiki": "Steel Dynamics",
    "source": "S&P 500",
    "wikidata": "Q7605667",
-   "commons_category": null,
+   "commons_category": "Steel Dynamics, Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "STLD"
+   "id": "STLD",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Steris",
@@ -7965,12 +8028,15 @@
    "wiki": "T. Rowe Price",
    "source": "S&P 500",
    "wikidata": "Q3511946",
-   "commons_category": null,
+   "commons_category": "T. Rowe Price Group, Inc.",
    "image": "100 East Pratt Street.jpg",
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "TROW"
+   "id": "TROW",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Take-Two Interactive",
@@ -8285,12 +8351,15 @@
    "wiki": "TransDigm Group",
    "source": "S&P 500",
    "wikidata": "Q7833612",
-   "commons_category": null,
+   "commons_category": "TransDigm Group Incorporated",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "TDG"
+   "id": "TDG",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Travelers Companies (The)",
@@ -8701,12 +8770,15 @@
    "wiki": "Veralto",
    "source": "S&P 500",
    "wikidata": "Q124721239",
-   "commons_category": null,
+   "commons_category": "Veralto Corporation",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "VLTO"
+   "id": "VLTO",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Verisign",
@@ -8733,12 +8805,15 @@
    "wiki": "Verisk Analytics",
    "source": "S&P 500",
    "wikidata": "Q7921370",
-   "commons_category": null,
+   "commons_category": "Verisk Analytics, Inc.",
    "image": "Jersey-city-new-jersy-night.jpg",
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "VRSK"
+   "id": "VRSK",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Verizon",
@@ -8797,12 +8872,15 @@
    "wiki": "Viatris",
    "source": "S&P 500",
    "wikidata": "Q101983981",
-   "commons_category": null,
+   "commons_category": "Viatris Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": "Scott A. Smith",
    "ceo_image": null,
-   "id": "VTRS"
+   "id": "VTRS",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Vici Properties",
@@ -8909,12 +8987,15 @@
    "wiki": "W. R. Berkley Corporation",
    "source": "S&P 500",
    "wikidata": "Q1369955",
-   "commons_category": null,
+   "commons_category": "W.R. Berkley Corporation",
    "image": "W. R. Berkley Corporation headquarters 1.jpg",
    "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
-   "id": "WRB"
+   "id": "WRB",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "W. W. Grainger",
@@ -8941,12 +9022,15 @@
    "wiki": "Wabtec",
    "source": "S&P 500",
    "wikidata": "Q741707",
-   "commons_category": null,
+   "commons_category": "Wabtec",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "WAB"
+   "id": "WAB",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Walmart",
@@ -9053,12 +9137,15 @@
    "wiki": "Welltower",
    "source": "S&P 500",
    "wikidata": "Q20486917",
-   "commons_category": null,
+   "commons_category": "Welltower Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": "Shankh Mitra",
    "ceo_image": null,
-   "id": "WELL"
+   "id": "WELL",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "West Pharmaceutical Services",
@@ -9277,12 +9364,15 @@
    "wiki": "Zimmer Biomet",
    "source": "S&P 500",
    "wikidata": "Q203552",
-   "commons_category": null,
+   "commons_category": "Zimmer Biomet Holdings, Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "ZBH"
+   "id": "ZBH",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Zoetis",
@@ -9293,12 +9383,15 @@
    "wiki": "Zoetis",
    "source": "S&P 500",
    "wikidata": "Q8073337",
-   "commons_category": null,
+   "commons_category": "Zoetis Inc.",
    "image": null,
    "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
-   "id": "ZTS"
+   "id": "ZTS",
+   "manual": [
+    "commons_category"
+   ]
   },
   {
    "name": "Zoom",

@@ -1,0 +1,60 @@
+{
+ "id": "KHC",
+ "kind": "company",
+ "name": "Kraft Heinz",
+ "tickers": [
+  "KHC"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Kraft Heinz Headquarters Chicago",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kraft_Heinz_Headquarters_Chicago.jpg/1280px-Kraft_Heinz_Headquarters_Chicago.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kraft_Heinz_Headquarters_Chicago.jpg/500px-Kraft_Heinz_Headquarters_Chicago.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lacrossewi, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kraft_Heinz_Headquarters_Chicago.jpg"
+  },
+  {
+   "shows": "H. J. Heinz Company, International Headquarters, 1966 - Advertising Postcard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/H._J._Heinz_Company%2C_International_Headquarters%2C_1966_-_Advertising_Postcard_%284856124865%29.jpg/1920px-H._J._Heinz_Company%2C_International_Headquarters%2C_1966_-_Advertising_Postcard_%284856124865%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/H._J._Heinz_Company%2C_International_Headquarters%2C_1966_-_Advertising_Postcard_%284856124865%29.jpg/500px-H._J._Heinz_Company%2C_International_Headquarters%2C_1966_-_Advertising_Postcard_%284856124865%29.jpg",
+   "size": [
+    1920,
+    1252
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Shook from Moscow, Idaho, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:H._J._Heinz_Company,_International_Headquarters,_1966_-_Advertising_Postcard_(4856124865).jpg"
+  },
+  {
+   "shows": "Tomatoes being transported in Leamington, Ontario",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tomatoes_being_transported_in_Leamington%2C_Ontario.jpg/1920px-Tomatoes_being_transported_in_Leamington%2C_Ontario.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tomatoes_being_transported_in_Leamington%2C_Ontario.jpg/500px-Tomatoes_being_transported_in_Leamington%2C_Ontario.jpg",
+   "size": [
+    1920,
+    1551
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Andrea_44 from Leamington, Ontario , Canada, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tomatoes_being_transported_in_Leamington,_Ontario.jpg"
+  }
+ ]
+}

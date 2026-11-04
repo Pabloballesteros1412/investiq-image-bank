@@ -1,0 +1,44 @@
+{
+ "id": "EVRG",
+ "kind": "company",
+ "name": "Evergy",
+ "tickers": [
+  "EVRG"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Evergy HQ, NW corner, Topeka, KS",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Evergy_HQ%2C_NW_corner%2C_Topeka%2C_KS_2026-03-27.jpg/1280px-Evergy_HQ%2C_NW_corner%2C_Topeka%2C_KS_2026-03-27.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Evergy_HQ%2C_NW_corner%2C_Topeka%2C_KS_2026-03-27.jpg/500px-Evergy_HQ%2C_NW_corner%2C_Topeka%2C_KS_2026-03-27.jpg",
+   "size": [
+    1280,
+    2116
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Evergy_HQ,_NW_corner,_Topeka,_KS_2026-03-27.jpg"
+  },
+  {
+   "shows": "Evergy HQ, SW corner, Topeka, KS",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evergy_HQ%2C_SW_corner%2C_Topeka%2C_KS_2026-03-27.jpg/1280px-Evergy_HQ%2C_SW_corner%2C_Topeka%2C_KS_2026-03-27.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Evergy_HQ%2C_SW_corner%2C_Topeka%2C_KS_2026-03-27.jpg/500px-Evergy_HQ%2C_SW_corner%2C_Topeka%2C_KS_2026-03-27.jpg",
+   "size": [
+    1280,
+    1949
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Evergy_HQ,_SW_corner,_Topeka,_KS_2026-03-27.jpg"
+  }
+ ]
+}

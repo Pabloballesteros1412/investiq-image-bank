@@ -1,0 +1,44 @@
+{
+ "id": "HSIC",
+ "kind": "company",
+ "name": "Henry Schein",
+ "tickers": [
+  "HSIC"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Syringe with a curved tip, sold by Henry Schein and used to irrigate sockets after mandibular third molar (lower wisdom tooth) extraction.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Syringe_1.jpg/1920px-Syringe_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Syringe_1.jpg/500px-Syringe_1.jpg",
+   "size": [
+    1920,
+    1237
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mx. Granger, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Syringe_1.jpg"
+  },
+  {
+   "shows": "Mikrochirurgischer Nadelhalter 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mikrochirurgischer_Nadelhalter_02.JPG/1920px-Mikrochirurgischer_Nadelhalter_02.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mikrochirurgischer_Nadelhalter_02.JPG/500px-Mikrochirurgischer_Nadelhalter_02.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Werneuchen, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Mikrochirurgischer_Nadelhalter_02.JPG"
+  }
+ ]
+}

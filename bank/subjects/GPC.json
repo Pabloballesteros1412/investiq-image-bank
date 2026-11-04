@@ -1,0 +1,28 @@
+{
+ "id": "GPC",
+ "kind": "company",
+ "name": "Genuine Parts Company",
+ "tickers": [
+  "GPC"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Sanyang Genuine Parts Center 20210328a",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sanyang_Genuine_Parts_Center_20210328a.jpg/1920px-Sanyang_Genuine_Parts_Center_20210328a.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sanyang_Genuine_Parts_Center_20210328a.jpg/500px-Sanyang_Genuine_Parts_Center_20210328a.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sanyang_Genuine_Parts_Center_20210328a.jpg"
+  }
+ ]
+}

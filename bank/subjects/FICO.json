@@ -1,0 +1,60 @@
+{
+ "id": "FICO",
+ "kind": "company",
+ "name": "Fair Isaac",
+ "tickers": [
+  "FICO"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "FICO headquarters in San Jose, California. Photographed on June 14, 2020 by user Coolcaesar.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ficoheadquarters.jpg/1920px-Ficoheadquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ficoheadquarters.jpg/500px-Ficoheadquarters.jpg",
+   "size": [
+    1920,
+    1274
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ficoheadquarters.jpg"
+  },
+  {
+   "shows": "Denny hamlin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Denny_hamlin_%2853697712342%29.jpg/1920px-Denny_hamlin_%2853697712342%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Denny_hamlin_%2853697712342%29.jpg/500px-Denny_hamlin_%2853697712342%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Zach Catanzareti Photo, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Denny_hamlin_(53697712342).jpg"
+  },
+  {
+   "shows": "Kyle busch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kyle_busch_%2853698945589%29.jpg/1920px-Kyle_busch_%2853698945589%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kyle_busch_%2853698945589%29.jpg/500px-Kyle_busch_%2853698945589%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Zach Catanzareti Photo, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Kyle_busch_(53698945589).jpg"
+  }
+ ]
+}

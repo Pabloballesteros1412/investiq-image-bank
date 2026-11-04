@@ -1,0 +1,28 @@
+{
+ "id": "KLAC",
+ "kind": "company",
+ "name": "KLA Corporation",
+ "tickers": [
+  "KLAC"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "KLA Corporation Ann Arbor Township Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/0/04/20250513190346%21KLA_Corporation_Ann_Arbor_Township_Office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/0/04/20250513190346%21KLA_Corporation_Ann_Arbor_Township_Office.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DontCallMeLateForDinner, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:KLA_Corporation_Ann_Arbor_Township_Office.jpg"
+  }
+ ]
+}

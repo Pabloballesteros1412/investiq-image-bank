@@ -1,0 +1,45 @@
+{
+ "id": "HLT",
+ "kind": "company",
+ "name": "Hilton Worldwide",
+ "tickers": [
+  "HLT"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Hilton Worldwide headquarters in Virginia seen from Jones Branch Drive",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hilton_Worldwide_headquarters_in_Virginia_seen_from_Jones_Branch_Drive.jpg/1920px-Hilton_Worldwide_headquarters_in_Virginia_seen_from_Jones_Branch_Drive.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hilton_Worldwide_headquarters_in_Virginia_seen_from_Jones_Branch_Drive.jpg/500px-Hilton_Worldwide_headquarters_in_Virginia_seen_from_Jones_Branch_Drive.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Altercari, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hilton_Worldwide_headquarters_in_Virginia_seen_from_Jones_Branch_Drive.jpg"
+  },
+  {
+   "shows": "Christopher J. Nassetta, Hilton Worldwide CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Closing_remarks_%2840854079564%29.jpg/1920px-Closing_remarks_%2840854079564%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Closing_remarks_%2840854079564%29.jpg/500px-Closing_remarks_%2840854079564%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "World Travel & Tourism Council, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Closing_remarks_(40854079564).jpg"
+  }
+ ]
+}

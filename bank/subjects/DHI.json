@@ -1,0 +1,44 @@
+{
+ "id": "DHI",
+ "kind": "company",
+ "name": "D. R. Horton",
+ "tickers": [
+  "DHI"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "The Flying Saucer and D. R. Horton Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_Flying_Saucer_and_D._R._Horton_Tower.jpg/1280px-The_Flying_Saucer_and_D._R._Horton_Tower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/The_Flying_Saucer_and_D._R._Horton_Tower.jpg/500px-The_Flying_Saucer_and_D._R._Horton_Tower.jpg",
+   "size": [
+    1280,
+    1593
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sultry, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Flying_Saucer_and_D._R._Horton_Tower.jpg"
+  },
+  {
+   "shows": "D. R. Horton Tower, Sundance Square",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/D._R._Horton_Tower%2C_Sundance_Square.jpg/1280px-D._R._Horton_Tower%2C_Sundance_Square.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/D._R._Horton_Tower%2C_Sundance_Square.jpg/500px-D._R._Horton_Tower%2C_Sundance_Square.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Josh Berglund from United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:D._R._Horton_Tower,_Sundance_Square.jpg"
+  }
+ ]
+}

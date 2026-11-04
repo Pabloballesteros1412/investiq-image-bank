@@ -1,0 +1,28 @@
+{
+ "id": "DXCM",
+ "kind": "company",
+ "name": "Dexcom",
+ "tickers": [
+  "DXCM"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Dexcom headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dexcom_HQ.jpg/1920px-Dexcom_HQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dexcom_HQ.jpg/500px-Dexcom_HQ.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Leonard Teyssier, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dexcom_HQ.jpg"
+  }
+ ]
+}

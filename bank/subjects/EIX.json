@@ -1,0 +1,28 @@
+{
+ "id": "EIX",
+ "kind": "company",
+ "name": "Edison International",
+ "tickers": [
+  "EIX"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Isabelle Kocher, Engie CEO",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Isabelle_Kocher%2C_Engie_CEO_%2846788523675%29.jpg/1920px-Isabelle_Kocher%2C_Engie_CEO_%2846788523675%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Isabelle_Kocher%2C_Engie_CEO_%2846788523675%29.jpg/500px-Isabelle_Kocher%2C_Engie_CEO_%2846788523675%29.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bartolomej Tomic, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Isabelle_Kocher,_Engie_CEO_(46788523675).jpg"
+  }
+ ]
+}

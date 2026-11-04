@@ -1,0 +1,28 @@
+{
+ "id": "IVZ",
+ "kind": "company",
+ "name": "Invesco",
+ "tickers": [
+  "IVZ"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Invesco building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Invesco_building_%288457673328%29.jpg/1280px-Invesco_building_%288457673328%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Invesco_building_%288457673328%29.jpg/500px-Invesco_building_%288457673328%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "abdallahh from Montréal, Canada, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Invesco_building_(8457673328).jpg"
+  }
+ ]
+}

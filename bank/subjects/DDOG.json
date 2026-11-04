@@ -1,0 +1,44 @@
+{
+ "id": "DDOG",
+ "kind": "company",
+ "name": "Datadog",
+ "tickers": [
+  "DDOG"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Datadog at AWS Toronto Summit 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DatadogAWSTorontoSummit.jpg/1920px-DatadogAWSTorontoSummit.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DatadogAWSTorontoSummit.jpg/500px-DatadogAWSTorontoSummit.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:DatadogAWSTorontoSummit.jpg"
+  },
+  {
+   "shows": "Datadog at Google Cloud Summit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DatadogGoogleCloudSummit.jpg/1280px-DatadogGoogleCloudSummit.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/DatadogGoogleCloudSummit.jpg/500px-DatadogGoogleCloudSummit.jpg",
+   "size": [
+    1280,
+    1933
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:DatadogGoogleCloudSummit.jpg"
+  }
+ ]
+}

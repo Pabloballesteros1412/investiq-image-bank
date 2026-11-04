@@ -1,0 +1,60 @@
+{
+ "id": "IT",
+ "kind": "company",
+ "name": "Gartner",
+ "tickers": [
+  "IT"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Gartner headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gartner_headquarters_cropped.jpg/1920px-Gartner_headquarters_cropped.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gartner_headquarters_cropped.jpg/500px-Gartner_headquarters_cropped.jpg",
+   "size": [
+    1920,
+    1166
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gartner_headquarters.jpg : Coolcaesar at en.wikipedia . derivative work: W Nowicki at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gartner_headquarters_cropped.jpg"
+  },
+  {
+   "shows": "Gartner Benjamin Arnulf Data and Analytics Summit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Gartner_Benjamin_Arnulf_Data_and_Analytics_Summit.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gartner_Benjamin_Arnulf_Data_and_Analytics_Summit.jpg/500px-Gartner_Benjamin_Arnulf_Data_and_Analytics_Summit.jpg",
+   "size": [
+    1832,
+    1031
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "GeneralAB13, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gartner_Benjamin_Arnulf_Data_and_Analytics_Summit.jpg"
+  },
+  {
+   "shows": "Hillside at the Gartner Site",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hillside_at_the_Gartner_Site.jpg/1920px-Hillside_at_the_Gartner_Site.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hillside_at_the_Gartner_Site.jpg/500px-Hillside_at_the_Gartner_Site.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nyttend, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Hillside_at_the_Gartner_Site.jpg"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "EFX",
+ "kind": "company",
+ "name": "Equifax",
+ "tickers": [
+  "EFX"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Equifax",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Equifax_HQ.jpg/1920px-Equifax_HQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Equifax_HQ.jpg/500px-Equifax_HQ.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tyler Lahti, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Equifax_HQ.jpg"
+  }
+ ]
+}

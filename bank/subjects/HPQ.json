@@ -1,0 +1,28 @@
+{
+ "id": "HPQ",
+ "kind": "company",
+ "name": "HP Inc.",
+ "tickers": [
+  "HPQ"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "HP Headquarters Palo Alto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HP_Headquarters_Palo_Alto.jpg/1920px-HP_Headquarters_Palo_Alto.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/HP_Headquarters_Palo_Alto.jpg/500px-HP_Headquarters_Palo_Alto.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "LPS.1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:HP_Headquarters_Palo_Alto.jpg"
+  }
+ ]
+}

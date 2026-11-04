@@ -1,0 +1,28 @@
+{
+ "id": "HBAN",
+ "kind": "company",
+ "name": "Huntington Bancshares",
+ "tickers": [
+  "HBAN"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Columbus Huntington Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Columbus_Huntington_Center.jpg/1280px-Columbus_Huntington_Center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Columbus_Huntington_Center.jpg/500px-Columbus_Huntington_Center.jpg",
+   "size": [
+    1280,
+    1935
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ɱ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Columbus_Huntington_Center.jpg"
+  }
+ ]
+}

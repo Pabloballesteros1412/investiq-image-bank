@@ -1,0 +1,28 @@
+{
+ "id": "FDS",
+ "kind": "company",
+ "name": "FactSet",
+ "tickers": [
+  "FDS"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Xerox headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xerox_headquarters.jpg/1920px-Xerox_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xerox_headquarters.jpg/500px-Xerox_headquarters.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DanielPenfield, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Xerox_headquarters.jpg"
+  }
+ ]
+}

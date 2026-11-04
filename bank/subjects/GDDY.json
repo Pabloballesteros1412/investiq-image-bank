@@ -1,0 +1,28 @@
+{
+ "id": "GDDY",
+ "kind": "company",
+ "name": "GoDaddy",
+ "tickers": [
+  "GDDY"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "James Bladel",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/James_Bladel_%283345225094%29.jpg/1920px-James_Bladel_%283345225094%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/James_Bladel_%283345225094%29.jpg/500px-James_Bladel_%283345225094%29.jpg",
+   "size": [
+    1920,
+    1285
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "icannphotos, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:James_Bladel_(3345225094).jpg"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "ECHO",
+ "kind": "company",
+ "name": "EchoStar",
+ "tickers": [
+  "ECHO"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "EchoStar XIX by United Launch Alliance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EchoStar_XIX_by_United_Launch_Alliance_%2831691606936%29.jpg/1920px-EchoStar_XIX_by_United_Launch_Alliance_%2831691606936%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/EchoStar_XIX_by_United_Launch_Alliance_%2831691606936%29.jpg/500px-EchoStar_XIX_by_United_Launch_Alliance_%2831691606936%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Seeley, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:EchoStar_XIX_by_United_Launch_Alliance_(31691606936).jpg"
+  },
+  {
+   "shows": "Falcon 9 First Stage Booster",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Falcon_9_First_Stage_Booster.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Falcon_9_First_Stage_Booster.jpg/500px-Falcon_9_First_Stage_Booster.jpg",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ColoradoHigh, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Falcon_9_First_Stage_Booster.jpg"
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "id": "INTC",
+ "kind": "company",
+ "name": "Intel",
+ "tickers": [
+  "INTC"
+ ],
+ "sector": "sector-tech",
+ "photos": [
+  {
+   "shows": "Intel Headquarters in 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/1920px-Intel_Headquarters_in_2023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/500px-Intel_Headquarters_in_2023.jpg",
+   "size": [
+    1920,
+    1283
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_Headquarters_in_2023.jpg"
+  },
+  {
+   "shows": "U.S. President Obama Speaks at Intel's Fab 42",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._President_Obama_Speaks_at_Intel%27s_Fab_42.jpg/1280px-U.S._President_Obama_Speaks_at_Intel%27s_Fab_42.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._President_Obama_Speaks_at_Intel%27s_Fab_42.jpg/500px-U.S._President_Obama_Speaks_at_Intel%27s_Fab_42.jpg",
+   "size": [
+    1280,
+    1924
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nick Knupffer, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:U.S._President_Obama_Speaks_at_Intel%27s_Fab_42.jpg"
+  },
+  {
+   "shows": "President Joe Biden receives an overview of the groundbreaking site of the new Intel semiconductor manufacturing facility in New Albany, Ohio, Friday, September",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/P20220909KR-0277_%2852517328564%29.jpg/1920px-P20220909KR-0277_%2852517328564%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/P20220909KR-0277_%2852517328564%29.jpg/500px-P20220909KR-0277_%2852517328564%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The White House, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:P20220909KR-0277_(52517328564).jpg"
+  },
+  {
+   "shows": "Intel Core i9-9900K",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_Core_i9-9900K_20201121_120317.jpg/1920px-Intel_Core_i9-9900K_20201121_120317.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_Core_i9-9900K_20201121_120317.jpg/500px-Intel_Core_i9-9900K_20201121_120317.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_Core_i9-9900K_20201121_120317.jpg"
+  },
+  {
+   "shows": "4th Generation Intel® Core™ Processor Wafer Black",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg/1920px-4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg/500px-4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Intel in Deutschland, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg"
+  },
+  {
+   "shows": "Howard Lutnick with Intel CEO Lip-Bu Tan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Howard_Lutnick_with_Intel_CEO_Lip-Bu_Tan_%282025%29.jpg/1920px-Howard_Lutnick_with_Intel_CEO_Lip-Bu_Tan_%282025%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Howard_Lutnick_with_Intel_CEO_Lip-Bu_Tan_%282025%29.jpg/500px-Howard_Lutnick_with_Intel_CEO_Lip-Bu_Tan_%282025%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "United States Department of Commerce, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Howard_Lutnick_with_Intel_CEO_Lip-Bu_Tan_(2025).jpg"
+  },
+  {
+   "shows": "2200 Mission College Boulevard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2200_Mission_College_Boulevard.jpg/1920px-2200_Mission_College_Boulevard.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/2200_Mission_College_Boulevard.jpg/500px-2200_Mission_College_Boulevard.jpg",
+   "size": [
+    1920,
+    1042
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:2200_Mission_College_Boulevard.jpg"
+  },
+  {
+   "shows": "Intel HQ in Santa Clara, CA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_HQ.jpg/1920px-Intel_HQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_HQ.jpg/500px-Intel_HQ.jpg",
+   "size": [
+    1920,
+    1372
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sixflashphoto, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_HQ.jpg"
+  },
+  {
+   "shows": "Intel Japan Tsukuba Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Intel_Japan_Tsukuba_Office.jpg/1920px-Intel_Japan_Tsukuba_Office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Intel_Japan_Tsukuba_Office.jpg/500px-Intel_Japan_Tsukuba_Office.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "On-chan, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_Japan_Tsukuba_Office.jpg"
+  },
+  {
+   "shows": "Intel HQ exterior 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Intel_HQ_exterior_3.JPG/1920px-Intel_HQ_exterior_3.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Intel_HQ_exterior_3.JPG/500px-Intel_HQ_exterior_3.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_HQ_exterior_3.JPG"
+  }
+ ]
+}

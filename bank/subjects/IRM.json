@@ -1,0 +1,76 @@
+{
+ "id": "IRM",
+ "kind": "company",
+ "name": "Iron Mountain",
+ "tickers": [
+  "IRM"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Iron Mountain EV 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Iron_Mountain_EV_2023.jpg/1280px-Iron_Mountain_EV_2023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Iron_Mountain_EV_2023.jpg/500px-Iron_Mountain_EV_2023.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rmayer27310, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Iron_Mountain_EV_2023.jpg"
+  },
+  {
+   "shows": "Iron Mountain Truck parked outside of 200 Front Street West, Toronto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/IronMountainTruck6.jpg/1920px-IronMountainTruck6.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/IronMountainTruck6.jpg/500px-IronMountainTruck6.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Open Grid Scheduler / Grid Engine, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:IronMountainTruck6.jpg"
+  },
+  {
+   "shows": "Secure Destruction You Can Trust",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Secure_Destruction_You_Can_Trust_%2849858344863%29.jpg/1920px-Secure_Destruction_You_Can_Trust_%2849858344863%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Secure_Destruction_You_Can_Trust_%2849858344863%29.jpg/500px-Secure_Destruction_You_Can_Trust_%2849858344863%29.jpg",
+   "size": [
+    1920,
+    1085
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Secure_Destruction_You_Can_Trust_(49858344863).jpg"
+  },
+  {
+   "shows": "Iron Mountain - Data Pick Up Vehicle, USA - July 2013",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Iron_Mountain_-_Data_Pick_Up_Vehicle%2C_USA_-_July_2013.jpeg/1920px-Iron_Mountain_-_Data_Pick_Up_Vehicle%2C_USA_-_July_2013.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Iron_Mountain_-_Data_Pick_Up_Vehicle%2C_USA_-_July_2013.jpeg/500px-Iron_Mountain_-_Data_Pick_Up_Vehicle%2C_USA_-_July_2013.jpeg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "User:WestportWiki, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Iron_Mountain_-_Data_Pick_Up_Vehicle,_USA_-_July_2013.jpeg"
+  }
+ ]
+}

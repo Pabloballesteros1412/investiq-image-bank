@@ -1,0 +1,60 @@
+{
+ "id": "DRI",
+ "kind": "company",
+ "name": "Darden Restaurants",
+ "tickers": [
+  "DRI"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Cheddar's Scratch Kitchen Brentwood, Tennessee",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cheddar%27s_Scratch_Kitchen_Brentwood%2C_Tennessee.jpg/1920px-Cheddar%27s_Scratch_Kitchen_Brentwood%2C_Tennessee.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cheddar%27s_Scratch_Kitchen_Brentwood%2C_Tennessee.jpg/500px-Cheddar%27s_Scratch_Kitchen_Brentwood%2C_Tennessee.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cheddar%27s_Scratch_Kitchen_Brentwood,_Tennessee.jpg"
+  },
+  {
+   "shows": "Darden headquarters 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Darden_headquarters_01.jpg/1920px-Darden_headquarters_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Darden_headquarters_01.jpg/500px-Darden_headquarters_01.jpg",
+   "size": [
+    1920,
+    1013
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dclemens1971, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Darden_headquarters_01.jpg"
+  },
+  {
+   "shows": "Cheddar's Casual Cafe, Valdosta",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cheddar%27s_Casual_Cafe%2C_Valdosta.JPG/1920px-Cheddar%27s_Casual_Cafe%2C_Valdosta.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cheddar%27s_Casual_Cafe%2C_Valdosta.JPG/500px-Cheddar%27s_Casual_Cafe%2C_Valdosta.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cheddar%27s_Casual_Cafe,_Valdosta.JPG"
+  }
+ ]
+}

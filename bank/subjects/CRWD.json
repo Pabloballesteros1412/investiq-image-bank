@@ -1,0 +1,76 @@
+{
+ "id": "CRWD",
+ "kind": "company",
+ "name": "CrowdStrike",
+ "tickers": [
+  "CRWD"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "150 Mathilda Place",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/150_Mathilda_Place.jpg/1920px-150_Mathilda_Place.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/150_Mathilda_Place.jpg/500px-150_Mathilda_Place.jpg",
+   "size": [
+    1920,
+    1319
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:150_Mathilda_Place.jpg"
+  },
+  {
+   "shows": "CrowdStrike (CrowdStrike)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Crowdstrike_HQ_%2854987419728%29.jpg/1280px-Crowdstrike_HQ_%2854987419728%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Crowdstrike_HQ_%2854987419728%29.jpg/500px-Crowdstrike_HQ_%2854987419728%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crowdstrike_HQ_(54987419728).jpg"
+  },
+  {
+   "shows": "Carrfour self checkout affected by the 2024 CrowdStrike incident",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg/1280px-Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg/500px-Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg",
+   "size": [
+    1280,
+    1705
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Koupip, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg"
+  },
+  {
+   "shows": "Self-serve checkout register affected by CrowdStrike incident - 20 July 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg/1280px-Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg/500px-Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg",
+   "size": [
+    1280,
+    1705
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "CornyShiba, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg"
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "id": "CCI",
+ "kind": "company",
+ "name": "Crown Castle",
+ "tickers": [
+  "CCI"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Crown Castle headquarters in Houston, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cci_hq.jpg/1920px-Cci_hq.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cci_hq.jpg/500px-Cci_hq.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ParaguaneroSwag at English Wikipedia, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cci_hq.jpg"
+  },
+  {
+   "shows": "Crown Castle - Boston, Massachusetts",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crown_Castle_-_Boston%2C_Massachusetts_-_DSC08942.jpg/1920px-Crown_Castle_-_Boston%2C_Massachusetts_-_DSC08942.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crown_Castle_-_Boston%2C_Massachusetts_-_DSC08942.jpg/500px-Crown_Castle_-_Boston%2C_Massachusetts_-_DSC08942.jpg",
+   "size": [
+    1920,
+    1207
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crown_Castle_-_Boston,_Massachusetts_-_DSC08942.jpg"
+  },
+  {
+   "shows": "Crown Castle - Cambridge, MA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Crown_Castle_-_Cambridge%2C_MA_-_DSC04732.jpg/1920px-Crown_Castle_-_Cambridge%2C_MA_-_DSC04732.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Crown_Castle_-_Cambridge%2C_MA_-_DSC04732.jpg/500px-Crown_Castle_-_Cambridge%2C_MA_-_DSC04732.jpg",
+   "size": [
+    1920,
+    1910
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crown_Castle_-_Cambridge,_MA_-_DSC04732.jpg"
+  },
+  {
+   "shows": "Sunesys (Crown Castle)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sunesys_%28Crown_Castle%29_-_20200814_083127.jpg/1280px-Sunesys_%28Crown_Castle%29_-_20200814_083127.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sunesys_%28Crown_Castle%29_-_20200814_083127.jpg/500px-Sunesys_%28Crown_Castle%29_-_20200814_083127.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunesys_(Crown_Castle)_-_20200814_083127.jpg"
+  },
+  {
+   "shows": "Crown Castle Fiber streethole - South Boston, Massachusetts",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Crown_Castle_Fiber_streethole_-_South_Boston%2C_Massachusetts_-_DSC08859.jpg/1920px-Crown_Castle_Fiber_streethole_-_South_Boston%2C_Massachusetts_-_DSC08859.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Crown_Castle_Fiber_streethole_-_South_Boston%2C_Massachusetts_-_DSC08859.jpg/500px-Crown_Castle_Fiber_streethole_-_South_Boston%2C_Massachusetts_-_DSC08859.jpg",
+   "size": [
+    1920,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Crown_Castle_Fiber_streethole_-_South_Boston,_Massachusetts_-_DSC08859.jpg"
+  },
+  {
+   "shows": "Antenna & Mobile Tower McKinney, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Antenna_%26_Mobile_Tower_McKinney%2C_Texas.jpg/1280px-Antenna_%26_Mobile_Tower_McKinney%2C_Texas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Antenna_%26_Mobile_Tower_McKinney%2C_Texas.jpg/500px-Antenna_%26_Mobile_Tower_McKinney%2C_Texas.jpg",
+   "size": [
+    1280,
+    2275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ranch9613, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Antenna_%26_Mobile_Tower_McKinney,_Texas.jpg"
+  },
+  {
+   "shows": "Cellular Tower Wilmeth Rd Mckinney, Texas - August 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cellular_Tower_Wilmeth_Rd_Mckinney%2C_Texas_-_August_2026.jpg/1280px-Cellular_Tower_Wilmeth_Rd_Mckinney%2C_Texas_-_August_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cellular_Tower_Wilmeth_Rd_Mckinney%2C_Texas_-_August_2026.jpg/500px-Cellular_Tower_Wilmeth_Rd_Mckinney%2C_Texas_-_August_2026.jpg",
+   "size": [
+    1280,
+    2275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ranch9613, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cellular_Tower_Wilmeth_Rd_Mckinney,_Texas_-_August_2026.jpg"
+  },
+  {
+   "shows": "Mobile Station Crown Castle bellow attached tower at PGA Pkwy Frisco, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco%2C_Texas.jpg/1920px-Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco%2C_Texas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco%2C_Texas.jpg/500px-Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco%2C_Texas.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ranch9613, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco,_Texas.jpg"
+  },
+  {
+   "shows": "Mobile tower PGA Pkwy Frisco, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mobile_tower_11101_PGA_Pkwy_Frisco%2C_Texas.jpg/1280px-Mobile_tower_11101_PGA_Pkwy_Frisco%2C_Texas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mobile_tower_11101_PGA_Pkwy_Frisco%2C_Texas.jpg/500px-Mobile_tower_11101_PGA_Pkwy_Frisco%2C_Texas.jpg",
+   "size": [
+    1280,
+    2275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ranch9613, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mobile_tower_11101_PGA_Pkwy_Frisco,_Texas.jpg"
+  }
+ ]
+}

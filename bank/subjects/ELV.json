@@ -1,0 +1,29 @@
+{
+ "id": "ELV",
+ "kind": "company",
+ "name": "Elevance Health",
+ "tickers": [
+  "ELV"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Gail Boudreaux, Elevance Health CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gail_Boudreaux_headshot.jpg/1280px-Gail_Boudreaux_headshot.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gail_Boudreaux_headshot.jpg/500px-Gail_Boudreaux_headshot.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Tod Martens, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gail_Boudreaux_headshot.jpg"
+  }
+ ]
+}

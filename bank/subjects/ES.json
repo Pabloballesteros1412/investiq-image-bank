@@ -1,0 +1,108 @@
+{
+ "id": "ES",
+ "kind": "company",
+ "name": "Eversource Energy",
+ "tickers": [
+  "ES"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "345 kV Transmission Lines in Brookfield, Connecticut",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/345_kV_Transmission_Lines_in_Brookfield%2C_Connecticut.jpg/1280px-345_kV_Transmission_Lines_in_Brookfield%2C_Connecticut.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/345_kV_Transmission_Lines_in_Brookfield%2C_Connecticut.jpg/500px-345_kV_Transmission_Lines_in_Brookfield%2C_Connecticut.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Liam Enea, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:345_kV_Transmission_Lines_in_Brookfield,_Connecticut.jpg"
+  },
+  {
+   "shows": "Connecticut Light & Power lines in Wallingford, Connecticut",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Connecticut_Light_%26_Power_lines_in_Wallingford%2C_Connecticut_%2853993129081%29.jpg/1280px-Connecticut_Light_%26_Power_lines_in_Wallingford%2C_Connecticut_%2853993129081%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Connecticut_Light_%26_Power_lines_in_Wallingford%2C_Connecticut_%2853993129081%29.jpg/500px-Connecticut_Light_%26_Power_lines_in_Wallingford%2C_Connecticut_%2853993129081%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ethan Long, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Connecticut_Light_%26_Power_lines_in_Wallingford,_Connecticut_(53993129081).jpg"
+  },
+  {
+   "shows": "Electrical substation in East Springfield, August 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Electrical_substation_in_East_Springfield%2C_August_2026.JPG/1920px-Electrical_substation_in_East_Springfield%2C_August_2026.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Electrical_substation_in_East_Springfield%2C_August_2026.JPG/500px-Electrical_substation_in_East_Springfield%2C_August_2026.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi.1415926535, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Electrical_substation_in_East_Springfield,_August_2026.JPG"
+  },
+  {
+   "shows": "Substation west of Prospect Street, March 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Substation_west_of_Prospect_Street%2C_March_2022.JPG/1920px-Substation_west_of_Prospect_Street%2C_March_2022.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Substation_west_of_Prospect_Street%2C_March_2022.JPG/500px-Substation_west_of_Prospect_Street%2C_March_2022.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi.1415926535, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Substation_west_of_Prospect_Street,_March_2022.JPG"
+  },
+  {
+   "shows": "Williams Street substation in New London, December 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Williams_Street_substation_in_New_London%2C_December_2023.jpg/1920px-Williams_Street_substation_in_New_London%2C_December_2023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Williams_Street_substation_in_New_London%2C_December_2023.jpg/500px-Williams_Street_substation_in_New_London%2C_December_2023.jpg",
+   "size": [
+    1920,
+    1438
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi.1415926535, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Williams_Street_substation_in_New_London,_December_2023.jpg"
+  },
+  {
+   "shows": "NSTAR electrical truck in Back Bay, Boston, MA. 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NSTAR_electrical_truck_in_Back_Bay%2C_Boston%2C_MA._01.jpg/1920px-NSTAR_electrical_truck_in_Back_Bay%2C_Boston%2C_MA._01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NSTAR_electrical_truck_in_Back_Bay%2C_Boston%2C_MA._01.jpg/500px-NSTAR_electrical_truck_in_Back_Bay%2C_Boston%2C_MA._01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Monika M. Wahi, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:NSTAR_electrical_truck_in_Back_Bay,_Boston,_MA._01.jpg"
+  }
+ ]
+}

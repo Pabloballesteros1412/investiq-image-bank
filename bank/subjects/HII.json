@@ -1,0 +1,28 @@
+{
+ "id": "HII",
+ "kind": "company",
+ "name": "Huntington Ingalls Industries",
+ "tickers": [
+  "HII"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "A crane moves the lower stern into place on the nuclear-powered aircraft carrier USS John F. Kennedy (CVN 79)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/A_crane_moves_the_lower_stern_into_place_on_the_nuclear-powered_aircraft_carrier_USS_John_F._Kennedy_%28CVN_79%29._%2834649699544%29.jpg/1920px-A_crane_moves_the_lower_stern_into_place_on_the_nuclear-powered_aircraft_carrier_USS_John_F._Kennedy_%28CVN_79%29._%2834649699544%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/A_crane_moves_the_lower_stern_into_place_on_the_nuclear-powered_aircraft_carrier_USS_John_F._Kennedy_%28CVN_79%29._%2834649699544%29.jpg/500px-A_crane_moves_the_lower_stern_into_place_on_the_nuclear-powered_aircraft_carrier_USS_John_F._Kennedy_%28CVN_79%29._%2834649699544%29.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Official U.S. Navy Page from United States of America John Whalen/U.S. Navy, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:A_crane_moves_the_lower_stern_into_place_on_the_nuclear-powered_aircraft_carrier_USS_John_F._Kennedy_(CVN_79)._(34649699544).jpg"
+  }
+ ]
+}

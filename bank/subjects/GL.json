@@ -1,0 +1,28 @@
+{
+ "id": "GL",
+ "kind": "company",
+ "name": "Globe Life",
+ "tickers": [
+  "GL"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Globe Life Field view from center field",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Globe_Life_Field_view_from_center_field.jpg/1920px-Globe_Life_Field_view_from_center_field.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Globe_Life_Field_view_from_center_field.jpg/500px-Globe_Life_Field_view_from_center_field.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BullDawg2021, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Globe_Life_Field_view_from_center_field.jpg"
+  }
+ ]
+}

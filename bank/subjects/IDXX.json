@@ -1,0 +1,28 @@
+{
+ "id": "IDXX",
+ "kind": "company",
+ "name": "Idexx Laboratories",
+ "tickers": [
+  "IDXX"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Idexx Laboratories - Address: 1345 Denison St, Markham, ON L3R 5V2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/IdexxLaboratoriesMarkham.jpg/1920px-IdexxLaboratoriesMarkham.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/IdexxLaboratoriesMarkham.jpg/500px-IdexxLaboratoriesMarkham.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:IdexxLaboratoriesMarkham.jpg"
+  }
+ ]
+}

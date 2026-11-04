@@ -1,0 +1,28 @@
+{
+ "id": "CVS",
+ "kind": "company",
+ "name": "CVS Health",
+ "tickers": [
+  "CVS"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "CVS Health Rapid COVID Testing Facility",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CVS_Health_Rapid_COVID_Testing_Facility_%2850895507457%29.jpg/1920px-CVS_Health_Rapid_COVID_Testing_Facility_%2850895507457%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CVS_Health_Rapid_COVID_Testing_Facility_%2850895507457%29.jpg/500px-CVS_Health_Rapid_COVID_Testing_Facility_%2850895507457%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Todd Van Hoosear, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CVS_Health_Rapid_COVID_Testing_Facility_(50895507457).jpg"
+  }
+ ]
+}
