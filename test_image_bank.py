@@ -63,6 +63,9 @@ class Fake:
     def search_entity(self, name, ticker):
         return "Q9" if ticker == "TSM" else None
 
+    def articles(self, titles):
+        return {t: {"3M": "Q1", "Alphabet": "disambiguation"}.get(t) for t in titles}
+
     def entities(self, qids, props="labels|claims|sitelinks"):
         ents = {"Q2": {"sitelinks": {"commonswiki": {"title": "Category:Alphabet Inc."}}},
                 "Q3": {"claims": {"P910": [{"mainsnak": {"datavalue": {"value": {"id": "Q30"}}}}]}},
@@ -78,7 +81,8 @@ class Fake:
     def search(self, q):
         self.calls.append(q)
         if q == '"William Brown"':
-            return [cand("File:Someone else.jpg"), cand("File:William Brown 2023.jpg", w=2000, h=3000, restr=["personality"])]
+            return [cand("File:Someone else.jpg"), cand("File:William Brown at the Wedding 2023.jpg", w=2000, h=3000),
+                    cand("File:William Brown 2023.jpg", w=2000, h=3000, cats=["3M people"], restr=["personality"])]
         if q.startswith("3M"):
             return [cand(f"File:{q} view {i}.jpg") for i in range(3)] + [cand("File:Unrelated tower.jpg")]
         return [cand(f"File:{q} photo {i}.jpg") for i in range(4)]
@@ -86,7 +90,7 @@ class Fake:
     def info(self, titles):
         return {t: cand(t) for t in titles if "missing" not in t}
 
-    def category_files(self, cat):
+    def category_files(self, cat, keys=()):
         files = [(f"File:3M building {i}.jpg", "3M") for i in range(1, 4)]            # near-duplicates: one kept
         files += [(f"File:3M plant {c} site.jpg", "3M factories") for c in "abc"]       # same subcategory: two kept
         files += [("File:3M logo.png", "3M"), ("File:Post-it notes macro.jpg", "Post-it"), ("File:Scotch tape roll.jpg", "Scotch tape")]
@@ -139,6 +143,7 @@ class Universe(unittest.TestCase):
             self.assertEqual(uni["GOOGL"]["commons_category"], "Alphabet Inc.")      # from the Commons sitelink
             self.assertEqual(uni["BRK-B"]["commons_category"], "Berkshire Hathaway") # from the main category (P910)
             self.assertEqual(uni["CBOE"]["commons_category"], "Cboe")                # a Commons category named after it
+            self.assertEqual((uni["MMM"]["ambiguous"], uni["GOOGL"]["ambiguous"]), (False, True))
             self.assertEqual((uni["MMM"]["commons_category"], uni["MMM"]["ceo"]), ("3M", "William Brown"))  # current CEO only
             self.assertEqual(uni["TSM"]["wikidata"], "Q9")                           # found by name and ticker
             self.assertEqual(sum(1 for e in uni.values() if "MMM" in e["tickers"]), 1)  # an extra already in the S&P 500
@@ -241,7 +246,7 @@ class Build(unittest.TestCase):
     def test_ceo_image_and_telling_category_photos(self):
         c = {"name": "3M", "tickers": ["MMM"], "commons_category": "3M", "ceo": "William Brown", "ceo_image": "WB portrait.jpg"}
         src = Fake()
-        src.category_files = lambda cat: [("File:P20210825AS-1824 (51645285729).jpg", "Products of 3M"),
+        src.category_files = lambda cat, keys=(): [("File:P20210825AS-1824 (51645285729).jpg", "Products of 3M"),
                                           ("File:3M plant site.jpg", "3M")]
         ph = B.company_photos(c, [], src, set())
         self.assertEqual((ph[0]["file"], ph[0]["how"]), ("File:WB portrait.jpg", "Wikidata CEO"))  # the CEO's own image
@@ -257,6 +262,14 @@ class Build(unittest.TestCase):
         self.assertTrue(B.has_term("3m world headquarters", "3m"))
         self.assertFalse(B.has_term("3mm screws", "3m"))
         self.assertTrue(B.has_term("laronde gold pouring", "gold pour"))
+
+    def test_own_places_and_events(self):
+        keys = ["Blackstone", "Blackstone Inc."]
+        self.assertTrue(B.own_place(cand("File:Blackstone headquarters 345 Park Avenue.jpg"), keys))
+        self.assertFalse(B.own_place(cand("File:Elm Street, East Blackstone MA.jpg"), keys))   # a town, not the firm
+        self.assertTrue(B.EVENTS.search("NextEra Energy Resources 250 NASCAR races"))
+        self.assertFalse(B.EVENTS.search("Apple Park"))
+        self.assertTrue(B.EVENTS.search("2019 NextEra Energy 250"))                               # a race
 
     def test_ceo_search_needs_the_full_name(self):
         src = Fake()
@@ -277,7 +290,7 @@ class Build(unittest.TestCase):
         p = mmm["photos"][0]
         self.assertEqual(set(p) >= {"shows", "url", "preview", "size", "focus", "credit", "licence", "source"}, True)
         self.assertTrue(any("fill_from" in r for r in ix["rules"]))
-        self.assertEqual(B.credits(self.bank), 26)                          # MMM 10, ZZZ 6 (one per search: same name stem), gold 10
+        self.assertEqual(B.credits(self.bank), 25)                          # MMM 10, ZZZ 5 (one per search naming a place: same name stem), gold 10
         self.assertIn("Jane Doe", (self.bank / "CREDITS.md").read_text())
 
     def test_topics_sectors_and_prompts(self):

@@ -39,7 +39,9 @@ with "manual": ["exclude"], then build --only <ID>; "manual": true freezes the s
 bank/universe.json, on a company: "commons_category", "ceo", "image" or "name" corrected by hand and listed
 in "manual" (e.g. "manual": ["commons_category"]) survive the next `universe`.
 """
-import csv, html, json, os, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
+import csv, html, json, os, re, sys, threading, time, unicodedata, urllib.error, urllib.parse, urllib.request
+from collections import OrderedDict
+from concurrent.futures import Future, ThreadPoolExecutor
 from datetime import date
 from pathlib import Path
 
@@ -70,6 +72,18 @@ SKIP_CATEGORY = re.compile(r"\b(logos?|wordmarks?|icons?|maps?|diagrams?|charts?
                            r"executives|staff|personnel|alumni|awards?|visits?)\b", re.I)
 COMPANY_PARENT = re.compile(r"compan|corporat|conglomerat|brands?\b|business|enterprises|manufactur|banks?\b|retail|insur|"
                             r"utilit|restaurant|real estate|REIT|firms?\b|airlines?\b|operators|chains?\b|S&P|NYSE|Nasdaq", re.I)
+# a company's sponsorships, races, teams, shows and events: photos that would pass for the company's own
+EVENTS = re.compile(r"\b(sports?|racing|races?|NASCAR|IndyCar|Formula|Grand Prix|Speedway|motorsports?|sponsor\w*|bowl|"
+                    r"cup|championships?|tournaments?|marathon|stadiums?|arenas?|ballparks?|teams?|players|drivers|concerts?|"
+                    r"festivals?|tours|music|albums?|songs?|films?|movies?|television|TV series|episodes?|video games?|seasons?|"
+                    r"premieres?|parades?|esports|athletes|matches|leagues?)\b|\b[1-9]\d{2}$", re.I)  # races: 'Daytona 500'
+# what a search hit's file name must also say for it to be a company's own place or thing
+BUSINESS = re.compile(r"\b(headquarters|HQ|head office|offices?|stores?|shops?|showroom|factory|factories|plants?|mills?|"
+                      r"refinery|warehouse|distribution|fulfillment|data cent(?:er|re)|buildings?|towers?|campus|cent(?:er|re)|"
+                      r"branch|outlet|restaurants?|caf[eé]|dealership|station|terminal|depot|signs?|signage|trucks?|vans?|"
+                      r"aircraft|airplanes?|planes?|ships?|vessels?|products?|booth|lobby|facility|facilities|site|works|"
+                      r"laborator(?:y|ies)|lab|hospital|clinic|pharmacy|mine|rig|platform|pipeline|substation|power plant|"
+                      r"wind farm|solar|hotel|casino|resort|theme park|campus|corporate|company|inc|corp|plc|ltd|LLC)\b", re.I)
 OLD_PAPER = re.compile(r"\b(letters|manuscripts|documents|artworks|paintings|engravings|drawings|prints|scans|"
                        r"Historic American (?:Buildings Survey|Engineering Record|Landscapes Survey))\b", re.I)
 GENERIC_WORDS = {"inc", "corp", "corporation", "company", "co", "group", "holdings", "holding", "plc", "the", "ltd",
@@ -90,7 +104,8 @@ RULES = [
     "object-fit: cover; object-position: x% y% (x and y times 100).",
     "Credit every photo you use with its exact 'credit' line: small text on the slide, or a final credits slide.",
     "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
-    "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ.",
+    "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ. Roles "
+    "(CEO, chair...) come from Wikidata or the catalog and can be out of date: check before naming one.",
     "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as "
     "illustration, never presented as that company's own premises, products or people.",
 ]
@@ -206,6 +221,7 @@ def get_json(params, url=COMMONS_API, tries=8):
         except urllib.error.HTTPError as e:
             if e.code not in (429, 500, 502, 503, 504):
                 raise
+            print(f"  (HTTP {e.code} from {urllib.parse.urlsplit(url).netloc}, waiting {wait_for(e, attempt)} s)", file=sys.stderr)
             time.sleep(wait_for(e, attempt))
         except urllib.error.URLError:
             if attempt == tries - 1:
@@ -240,15 +256,32 @@ def candidate(page):
 
 
 class Live:
-    """Wikipedia, Wikidata and Commons over the network: the build's only contact with the outside."""
+    """Wikipedia, Wikidata and Commons over the network: the build's only contact with the outside. Answers are
+    kept for a while, so the build can look up the next subjects ahead (workers) while it picks the current one's
+    photos: at most 1 + workers requests at a time."""
 
-    def __init__(self, pause=0.2):
-        self.pause = pause
+    def __init__(self, pause=0.05, workers=2, keep=3000):
+        self.pause, self.workers, self.keep = pause, workers, keep
+        self.cache, self.lock = OrderedDict(), threading.Lock()
 
     def _get(self, url, params):
-        d = get_json(params, url)
-        time.sleep(self.pause)
-        return d
+        key = url + "?" + json.dumps(params, sort_keys=True)
+        with self.lock:
+            fut, mine = self.cache.get(key), False
+            if fut is None:
+                fut, mine = Future(), True
+                self.cache[key] = fut
+                while len(self.cache) > self.keep:
+                    self.cache.popitem(last=False)
+        if mine:
+            try:
+                fut.set_result(get_json(params, url))
+            except Exception as e:
+                with self.lock:
+                    self.cache.pop(key, None)
+                fut.set_exception(e)
+            time.sleep(self.pause)
+        return fut.result()
 
     def sp500(self):
         d = self._get(ENWIKI_API, {"action": "parse", "page": "List of S&P 500 companies", "prop": "wikitext", "redirects": 1})
@@ -305,6 +338,25 @@ class Live:
                     out[n] = t.split(":", 1)[1]
         return out
 
+    def articles(self, titles):
+        """{title: Wikidata id of the article it leads to ('disambiguation' for a disambiguation page, None when
+        there is no article)}."""
+        out = {}
+        titles = list(dict.fromkeys(t for t in titles if t))
+        for i in range(0, len(titles), 50):
+            batch = titles[i:i + 50]
+            q = self._get(ENWIKI_API, {"action": "query", "titles": "|".join(batch), "prop": "pageprops",
+                                       "ppprop": "wikibase_item|disambiguation", "redirects": 1}).get("query", {})
+            alias = {r["from"]: r["to"] for k in ("normalized", "redirects") for r in q.get(k, [])}
+            pages = {p["title"]: p for p in q.get("pages", [])}
+            for t in batch:
+                f = t
+                for _ in range(3):
+                    f = alias.get(f, f)
+                pp = pages.get(f, {}).get("pageprops", {})
+                out[t] = "disambiguation" if "disambiguation" in pp else pp.get("wikibase_item")
+        return out
+
     def search_entity(self, name, ticker):
         """The Wikidata id of the company with that name listed under that ticker, or None."""
         d = self._get(WIKIDATA_API, {"action": "wbsearchentities", "search": name, "language": "en", "type": "item", "limit": 7})
@@ -337,9 +389,11 @@ class Live:
             out.update({t: candidate(p) for t, p in pages.items() if p.get("imageinfo")})
         return out
 
-    def category_files(self, cat, depth=2, max_cats=15, top=80, per_cat=30):
+    def category_files(self, cat, keys=(), depth=2, max_cats=15, top=80, per_cat=30):
         """[(file title, category)] in a Commons category and its subcategories, breadth first, skipping
-        logo, map, document... categories."""
+        logo, map, document... categories, events and sponsorships, and (when keys are given) subcategories whose
+        name does not name the company: a company's category also leads to the firms it owns, the races it
+        sponsors and the bands in its song catalogue."""
         seen, queue, out = set(), [(cat, 0)], []
         while queue and len(seen) < max_cats:
             c, d = queue.pop(0)
@@ -351,7 +405,8 @@ class Live:
             files, subs = [], []
             for m in r.get("query", {}).get("categorymembers", []):
                 name = m["title"].split(":", 1)[-1]
-                if m.get("ns") == 14 and d < depth and not SKIP_CATEGORY.search(name):
+                if (m.get("ns") == 14 and d < depth and not SKIP_CATEGORY.search(name) and not EVENTS.search(name)
+                        and (not keys or any(has_term(name.lower(), k) for k in keys) or (d == 0 and BUSINESS.search(name)))):
                     subs.append(name)
                 elif m.get("ns") == 6 and re.search(r"\.(jpe?g|png)$", name, re.I):
                     files.append(m["title"])
@@ -429,6 +484,13 @@ def commons_category(ent):
     return t.split(":", 1)[1] if t.startswith("Category:") else None
 
 
+def linked(ent):
+    """Items an item is tied to as owner, maker, parent, operator, developer, product or subsidiary."""
+    return {s.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("id")
+            for p in ("P127", "P176", "P749", "P137", "P178", "P1056", "P355", "P1830", "P123")
+            for s in claims(ent, p) if isinstance(s.get("mainsnak", {}).get("datavalue", {}).get("value"), dict)}
+
+
 def label(ent):
     """English label, else the multilingual one ('mul', which Wikidata now uses for many people's names)."""
     labels = ent.get("labels", {})
@@ -498,6 +560,13 @@ def build_universe(cat=None, src=None, bank=BANK, extras=None, log=print):
         if not e["commons_category"]:
             e["commons_category"] = next((found[n] for n in guess[e["name"]] if n in found), None)
     names = src.entities(list(ceo.values()), props="labels|claims")
+    # a short name whose Wikipedia article is something else ('Blackstone', 'Target', 'Ball') is searched in full
+    art = src.articles([short_name(e["name"]) for e in comps])
+    other = src.entities([a for a in art.values() if a and a != "disambiguation"], props="claims")
+    for e in comps:
+        a = art.get(short_name(e["name"]))
+        own = a == e["wikidata"] or e["wikidata"] in linked(other.get(a, {})) or a in linked(ents.get(e["wikidata"] or "", {}))
+        e["ambiguous"] = bool(a) and not own  # the article is the company, or its brand or product ('Netflix', 'Coca-Cola')
     old = {e["id"]: e for e in load_universe(bank)}
     out = []
     for e in comps:
@@ -675,6 +744,30 @@ def telling(cand, c):
                for k in (short_name(c["name"]), c["name"], c.get("commons_category")))
 
 
+def names_company(cand, keys):
+    """Whether a photo's file name, categories or description name the company (a CEO found by search: the
+    'David Joyner' at a building site is not CVS's)."""
+    hay = " ".join([cand["file"], *cand["categories"], cand.get("description", "")]).lower().replace("_", " ")
+    return any(has_term(hay, k) for k in keys)
+
+
+def about(cand, shot, keys):
+    """A hand-written company shot's hit: it names the company, or every word of the search that found it
+    ('iPhone 16 Pro', 'server rack'), so 'Eli Lilly laboratory' does not bring another drugmaker's lab."""
+    if shot.get("must") or names_company(cand, keys):
+        return True
+    hay = " ".join([cand["file"], *cand["categories"], cand.get("description", "")]).lower().replace("_", " ")
+    words = [w for w in re.findall(r"[a-z0-9]+", shot["q"].lower()) if w not in GENERIC_WORDS and len(w) > 1]
+    return all(has_term(hay, w) for w in words)
+
+
+def own_place(cand, keys):
+    """A search hit that is a company's own place or thing: its file name names the company and a building,
+    store, plant, product... ('Elm Street, East Blackstone MA' is not Blackstone's)."""
+    t = clean_title(cand["file"]).lower()
+    return any(has_term(t, k) for k in keys) and bool(BUSINESS.search(t))
+
+
 def short_name(name):
     words = [w for w in re.sub(r"\(.*?\)", " ", name).split() if w.lower().strip(",.") not in GENERIC_WORDS]
     return " ".join(words).strip(" ,.") or name
@@ -683,6 +776,10 @@ def short_name(name):
 def company_photos(c, curated, src, used, no_sa=False, exclude=()):
     """Up to TARGET photos of one company (see the module's docstring for the order)."""
     name, short = c["name"], short_name(c["name"])
+    keys = [k for k in dict.fromkeys([short, name, c.get("commons_category"), *c.get("aliases", [])]) if k]
+    # inside the company's own category its short name is enough; in a search 'Blackstone' alone is also a town,
+    # a building and a river, so an ambiguous name must be found in full
+    strict = ([k for k in keys if k != short] or [name]) if c.get("ambiguous") else keys
     picks, stems = [], set()
 
     def take(cand, shot, shows, how, person=False, category=None, focus=None):
@@ -697,7 +794,7 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
     for sh in curated:
         if len(picks) >= TARGET:
             break
-        r = [x for x in choose(sh, src.search, used, no_sa, exclude) if fresh(x[1])]
+        r = [x for x in choose(sh, src.search, used, no_sa, exclude) if fresh(x[1]) and (sh.get("person") or about(x[1], sh, keys))]
         if r:
             take(r[0][1], sh["id"], describe(r[0][1], sh["scene"]), "catalog", sh.get("person"), focus=sh.get("focus"))
     if c.get("image") and len(picks) < TARGET:
@@ -712,17 +809,18 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
         cand = src.info([t]).get(t) if t else None
         if not (cand and fresh(cand) and score(cand, 0, {"id": "leader", "person": True}, used, no_sa, exclude) is not None):
             r = [x for x in choose({"id": "leader", "q": f'"{c["ceo"]}"', "person": True, "must": [c["ceo"].lower()]},
-                                   src.search, used, no_sa, exclude) if fresh(x[1])]
+                                   src.search, used, no_sa, exclude) if fresh(x[1]) and names_company(x[1], strict)]
             cand = r[0][1] if r else None
         if cand:
             take(cand, "leader", f"{c['ceo']}, {name} CEO (per Wikidata)", "Wikidata CEO", person=True)
     if c.get("commons_category") and len(picks) < TARGET:
-        files = src.category_files(c["commons_category"])
+        files = src.category_files(c["commons_category"], keys)
         infos = src.info([f for f, _ in files])
         ranked = []
         for f, where in files:
             cand = infos.get(f)
-            s = score(cand, 0, {"id": "category"}, used, no_sa, exclude) if cand and telling(cand, c) else None
+            ok = cand and telling(cand, c) and not EVENTS.search(" ".join(cand["categories"]))
+            s = score(cand, 0, {"id": "category"}, used, no_sa, exclude) if ok else None
             if s is not None:
                 ranked.append((s - (0 if where == c["commons_category"] else 3), cand, where))
         ranked.sort(key=lambda x: -x[0])
@@ -744,10 +842,11 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
         if len(picks) >= TARGET:
             break
         n = 0
-        for _, cand, _ in choose({"id": "search", "q": f"{short} {what}".strip(), "must": [short.lower()]}, src.search, used, no_sa, exclude):
+        term = f'"{name}"' if c.get("ambiguous") else short
+        for _, cand, _ in choose({"id": "search", "q": f"{term} {what}".strip(), "must": strict}, src.search, used, no_sa, exclude):
             if len(picks) >= TARGET or n >= 3:
                 break
-            if fresh(cand):
+            if fresh(cand) and own_place(cand, strict) and not EVENTS.search(" ".join(cand["categories"])):
                 take(cand, f"s{len(picks) + 1}", describe(cand, f"{name} {what}".strip()), "Commons search")
                 n += 1
     from_category(TARGET)
@@ -777,10 +876,17 @@ def load_manifest(bank=BANK):
     return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
 
 
+def write_atomic(path, text):
+    """Write a file whole or not at all: a build cut mid-write must not leave half a manifest."""
+    tmp = Path(str(path) + ".tmp")
+    tmp.write_text(text, encoding="utf-8")
+    os.replace(tmp, path)
+
+
 def save_manifest(m, order, bank=BANK):
     rank = {k: i for i, k in enumerate(order)}
     m = dict(sorted(m.items(), key=lambda kv: rank.get(kv[0], 1e9)))
-    (Path(bank) / "manifest.json").write_text(json.dumps(m, indent=1, ensure_ascii=False), encoding="utf-8")
+    write_atomic(Path(bank) / "manifest.json", json.dumps(m, indent=1, ensure_ascii=False))
 
 
 def subjects_of(cat, uni):
@@ -799,6 +905,22 @@ def matches(s, keys):
     return bool(keys & {str(x).lower() for x in [s["id"], *s.get("tickers", []), *s.get("aliases", [])]})
 
 
+def pick(s, src, used, no_sa=False, exclude=()):
+    """The photos of a subject: (photos, ids of hand-written shots without a photo)."""
+    if s["kind"] == "company":
+        return company_photos(s["company"], s["shots"], src, used, no_sa, exclude), []
+    return shot_photos(s, src, used, no_sa, exclude)
+
+
+def look_ahead(s, src, used, no_sa, exclude):
+    """A dry run of a subject's photo picking (thrown away) that fills src's cache with the answers the real run
+    will ask for."""
+    try:
+        pick(s, src, used, no_sa, exclude)
+    except Exception:
+        pass
+
+
 def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False, kinds=("company", "topic", "sector"), log=print, save_every=5):
     cat = catalog if isinstance(catalog, dict) else load_catalog(catalog)
     src = src or Live()
@@ -814,10 +936,28 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
         raise ValueError(f"no subject matches {only}")
     m = load_manifest(bank)
     used = {p["file"] for e in m.values() for p in e.get("photos", [])}
-    for n, s in enumerate(todo, 1):
+
+    def due(s):
         old = m.get(s["id"], {})
-        if old.get("manual") is True or (old.get("checked") and not (redo or keys)):
+        return not (old.get("manual") is True or (old.get("checked") and not (redo or keys)))
+
+    def excluded(s):
+        old = m.get(s["id"], {})
+        return set(old.get("exclude", [])) if "exclude" in (old.get("manual") or []) else set()
+
+    work = [s for s in todo if due(s)]
+    ahead = ThreadPoolExecutor(src.workers) if getattr(src, "workers", 0) else None
+    sent = 0
+    for n, s in enumerate(todo, 1):
+        if not due(s):
             continue
+        if ahead:  # look up the next few subjects while this one is picked
+            k = work.index(s)
+            while sent < min(len(work), k + 1 + 2 * src.workers):
+                if sent > k:
+                    ahead.submit(look_ahead, work[sent], src, set(used), no_sa, excluded(work[sent]))
+                sent += 1
+        old = m.get(s["id"], {})
         man = old.get("manual") or []
         fixed = {f: old[f] for f in man if f in old}
         exclude = set(fixed.get("exclude", []))
@@ -827,12 +967,9 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
         if s["kind"] == "company":
             e["sector"] = s.get("sector")
         try:
-            if s["kind"] == "company":
-                e["photos"] = company_photos(s["company"], s["shots"], src, used, no_sa, exclude)
-            else:
-                e["photos"], missing = shot_photos(s, src, used, no_sa, exclude)
-                if missing:
-                    e["missing"] = missing
+            e["photos"], missing = pick(s, src, used, no_sa, exclude)
+            if missing:
+                e["missing"] = missing
             e["checked"] = date.today().isoformat()
         except Exception as ex:  # one failing subject must not stop the build; the next run retries it
             note = f"{type(ex).__name__}: {ex}"[:300]
@@ -846,6 +983,8 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
         if n % save_every == 0:
             save_manifest(m, [x["id"] for x in subjects], bank)
     save_manifest(m, [x["id"] for x in subjects], bank)
+    if ahead:
+        ahead.shutdown(wait=False, cancel_futures=True)
     return m
 
 
@@ -882,7 +1021,7 @@ def index(bank=BANK, base_url=BASE_URL):
     out = {"about": "InvestIQ image bank for carousels: freely licensed photos from Wikimedia Commons of S&P 500 and well-known "
                     "US-listed companies, market topics and GICS sectors.",
            "rules": RULES, "updated": date.today().isoformat(), "photos": total, "subjects": entries}
-    (bank / "index.json").write_text(json.dumps(out, indent=1, ensure_ascii=False), encoding="utf-8")
+    write_atomic(bank / "index.json", json.dumps(out, indent=1, ensure_ascii=False))
     return total
 
 

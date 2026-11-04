@@ -1,0 +1,168 @@
+{
+ "id": "quantum",
+ "kind": "topic",
+ "name": "Quantum computing",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "IQM Quantum Computer Espoo Finland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/IQM_Quantum_Computer_Espoo_Finland.jpg/1280px-IQM_Quantum_Computer_Espoo_Finland.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/IQM_Quantum_Computer_Espoo_Finland.jpg/500px-IQM_Quantum_Computer_Espoo_Finland.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ragsxl, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:IQM_Quantum_Computer_Espoo_Finland.jpg"
+  },
+  {
+   "shows": "Dilution Fridge 008 16K",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dilution_Fridge_008_16K.png/1920px-Dilution_Fridge_008_16K.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dilution_Fridge_008_16K.png/500px-Dilution_Fridge_008_16K.png",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "OJB Quantum, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dilution_Fridge_008_16K.png"
+  },
+  {
+   "shows": "Superconducting Metamaterial Chip 005",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Superconducting_Metamaterial_Chip_005.png/1920px-Superconducting_Metamaterial_Chip_005.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Superconducting_Metamaterial_Chip_005.png/500px-Superconducting_Metamaterial_Chip_005.png",
+   "size": [
+    1920,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "OJB Quantum, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Superconducting_Metamaterial_Chip_005.png"
+  },
+  {
+   "shows": "Dual linear ion trap",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dual_linear_ion_trap.JPG/1920px-Dual_linear_ion_trap.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Dual_linear_ion_trap.JPG/500px-Dual_linear_ion_trap.JPG",
+   "size": [
+    1920,
+    1231
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mkotl, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dual_linear_ion_trap.JPG"
+  },
+  {
+   "shows": "Scientists at the U.S. Army Research Laboratory researching quantum teleportation",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Scientists_at_the_U.S._Army_Research_Laboratory_researching_quantum_teleportation.jpg/1920px-Scientists_at_the_U.S._Army_Research_Laboratory_researching_quantum_teleportation.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Scientists_at_the_U.S._Army_Research_Laboratory_researching_quantum_teleportation.jpg/500px-Scientists_at_the_U.S._Army_Research_Laboratory_researching_quantum_teleportation.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Army CCDC, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Scientists_at_the_U.S._Army_Research_Laboratory_researching_quantum_teleportation.jpg"
+  },
+  {
+   "shows": "Plantanus occidentalis, American Sycamore, flr., Howard County, Md, -20.38.05 ZS",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Plantanus_occidentalis%2C_American_Sycamore%2C_flr.%2C_Howard_County%2C_Md%2C_2018-05-17-20.38.05_ZS_%2830953906817%29.jpg/1920px-Plantanus_occidentalis%2C_American_Sycamore%2C_flr.%2C_Howard_County%2C_Md%2C_2018-05-17-20.38.05_ZS_%2830953906817%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Plantanus_occidentalis%2C_American_Sycamore%2C_flr.%2C_Howard_County%2C_Md%2C_2018-05-17-20.38.05_ZS_%2830953906817%29.jpg/500px-Plantanus_occidentalis%2C_American_Sycamore%2C_flr.%2C_Howard_County%2C_Md%2C_2018-05-17-20.38.05_ZS_%2830953906817%29.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "USGS Bee Inventory and Monitoring Lab from Beltsville, Maryland, USA, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Plantanus_occidentalis,_American_Sycamore,_flr.,_Howard_County,_Md,_2018-05-17-20.38.05_ZS_(30953906817).jpg"
+  },
+  {
+   "shows": "6 Transmon Superconducting Quantum Processor without Cheesing 012",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/6_Transmon_Superconducting_Quantum_Processor_without_Cheesing_012.png/1920px-6_Transmon_Superconducting_Quantum_Processor_without_Cheesing_012.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/6_Transmon_Superconducting_Quantum_Processor_without_Cheesing_012.png/500px-6_Transmon_Superconducting_Quantum_Processor_without_Cheesing_012.png",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "OJB Quantum, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:6_Transmon_Superconducting_Quantum_Processor_without_Cheesing_012.png"
+  },
+  {
+   "shows": "Cryostat in Deutsches Museum, Munich. This was in an experiment to grow protein crystals in weightlesness. IML-I-Spacelab-Mission, 1992, D2-Spacelab-Mission, 19",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cryostat_2.jpg/1920px-Cryostat_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Cryostat_2.jpg/500px-Cryostat_2.jpg",
+   "size": [
+    1920,
+    1556
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tiia Monto, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cryostat_2.jpg"
+  },
+  {
+   "shows": "A physics laboratory",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A_physics_laboratory.jpg/1920px-A_physics_laboratory.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/A_physics_laboratory.jpg/500px-A_physics_laboratory.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jeremyida002, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_physics_laboratory.jpg"
+  },
+  {
+   "shows": "IBM Quantum System One",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/IBM_Quantum_System_One.jpg/1280px-IBM_Quantum_System_One.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/IBM_Quantum_System_One.jpg/500px-IBM_Quantum_System_One.jpg",
+   "size": [
+    1280,
+    1700
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "OJB Quantum, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg"
+  }
+ ]
+}

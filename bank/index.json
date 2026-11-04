@@ -6,47 +6,88 @@
   "Crop the photo to the slide yourself: 4:5 (1200x1500) or 1:1 (1200x1200), centred on 'focus'. In HTML: object-fit: cover; object-position: x% y% (x and y times 100).",
   "Credit every photo you use with its exact 'credit' line: small text on the slide, or a final credits slide.",
   "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
-  "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ.",
+  "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ. Roles (CEO, chair...) come from Wikidata or the catalog and can be out of date: check before naming one.",
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-04",
- "photos": 50,
+ "photos": 475,
  "subjects": [
   {
-   "id": "MMM",
-   "kind": "company",
-   "name": "3M",
-   "tickers": [
-    "MMM"
+   "id": "sector-tech",
+   "kind": "sector",
+   "name": "Technology sector",
+   "tickers": [],
+   "aliases": [
+    "information technology"
    ],
-   "aliases": [],
    "photos": 10,
-   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MMM.json",
-   "sector": "sector-industrials"
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-tech.json"
   },
   {
-   "id": "AAPL",
-   "kind": "company",
-   "name": "Apple Inc.",
-   "tickers": [
-    "AAPL"
+   "id": "sector-health",
+   "kind": "sector",
+   "name": "Health care sector",
+   "tickers": [],
+   "aliases": [
+    "health care"
    ],
-   "aliases": [],
    "photos": 10,
-   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/AAPL.json",
-   "sector": "sector-tech"
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-health.json"
   },
   {
-   "id": "DIS",
-   "kind": "company",
-   "name": "Walt Disney Company (The)",
-   "tickers": [
-    "DIS"
+   "id": "sector-financials",
+   "kind": "sector",
+   "name": "Financial sector",
+   "tickers": [],
+   "aliases": [
+    "financials"
    ],
-   "aliases": [],
    "photos": 10,
-   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/DIS.json",
-   "sector": "sector-communication"
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-financials.json"
+  },
+  {
+   "id": "sector-consumer-discretionary",
+   "kind": "sector",
+   "name": "Consumer discretionary sector",
+   "tickers": [],
+   "aliases": [
+    "consumer discretionary"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-consumer-discretionary.json"
+  },
+  {
+   "id": "sector-communication",
+   "kind": "sector",
+   "name": "Communication services sector",
+   "tickers": [],
+   "aliases": [
+    "communication services"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-communication.json"
+  },
+  {
+   "id": "sector-industrials",
+   "kind": "sector",
+   "name": "Industrial sector",
+   "tickers": [],
+   "aliases": [
+    "industrials"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-industrials.json"
+  },
+  {
+   "id": "sector-staples",
+   "kind": "sector",
+   "name": "Consumer staples sector",
+   "tickers": [],
+   "aliases": [
+    "consumer staples"
+   ],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-staples.json"
   },
   {
    "id": "sector-energy",
@@ -60,6 +101,189 @@
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-energy.json"
   },
   {
+   "id": "sector-utilities",
+   "kind": "sector",
+   "name": "Utilities sector",
+   "tickers": [],
+   "aliases": [
+    "utilities"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-utilities.json"
+  },
+  {
+   "id": "sector-real-estate",
+   "kind": "sector",
+   "name": "Real estate sector",
+   "tickers": [],
+   "aliases": [
+    "real estate"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-real-estate.json"
+  },
+  {
+   "id": "sector-materials",
+   "kind": "sector",
+   "name": "Materials sector",
+   "tickers": [],
+   "aliases": [
+    "materials"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-materials.json"
+  },
+  {
+   "id": "fed",
+   "kind": "topic",
+   "name": "Federal Reserve & interest rates",
+   "tickers": [],
+   "aliases": [
+    "fed",
+    "interest rates",
+    "fomc",
+    "rate cut",
+    "rate hike"
+   ],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/fed.json"
+  },
+  {
+   "id": "inflation",
+   "kind": "topic",
+   "name": "Inflation & cost of living",
+   "tickers": [],
+   "aliases": [
+    "inflation",
+    "cpi",
+    "prices",
+    "cost of living"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/inflation.json"
+  },
+  {
+   "id": "recession",
+   "kind": "topic",
+   "name": "Recession & slowdown",
+   "tickers": [],
+   "aliases": [
+    "recession",
+    "slowdown",
+    "downturn",
+    "gdp"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/recession.json"
+  },
+  {
+   "id": "jobs",
+   "kind": "topic",
+   "name": "Jobs & labor market",
+   "tickers": [],
+   "aliases": [
+    "jobs",
+    "employment",
+    "unemployment",
+    "payrolls",
+    "labor"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/jobs.json"
+  },
+  {
+   "id": "bull-market",
+   "kind": "topic",
+   "name": "Wall Street & stock market rallies",
+   "tickers": [],
+   "aliases": [
+    "stock market",
+    "wall street",
+    "rally",
+    "bull market",
+    "s&p 500",
+    "record high"
+   ],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bull-market.json"
+  },
+  {
+   "id": "crash",
+   "kind": "topic",
+   "name": "Market crash & volatility",
+   "tickers": [],
+   "aliases": [
+    "crash",
+    "sell-off",
+    "bear market",
+    "volatility",
+    "correction",
+    "panic"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crash.json"
+  },
+  {
+   "id": "ai",
+   "kind": "topic",
+   "name": "Artificial intelligence boom",
+   "tickers": [],
+   "aliases": [
+    "ai",
+    "artificial intelligence",
+    "generative ai",
+    "llm",
+    "chatbot"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ai.json"
+  },
+  {
+   "id": "datacenters",
+   "kind": "topic",
+   "name": "AI data centers & power demand",
+   "tickers": [],
+   "aliases": [
+    "data center",
+    "datacenter",
+    "power demand",
+    "electricity",
+    "grid",
+    "capex"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/datacenters.json"
+  },
+  {
+   "id": "chips",
+   "kind": "topic",
+   "name": "Semiconductors & the chip war",
+   "tickers": [],
+   "aliases": [
+    "semiconductors",
+    "chips",
+    "chip war",
+    "export controls"
+   ],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/chips.json"
+  },
+  {
+   "id": "crypto",
+   "kind": "topic",
+   "name": "Bitcoin & crypto",
+   "tickers": [],
+   "aliases": [
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "ethereum",
+    "btc"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crypto.json"
+  },
+  {
    "id": "gold",
    "kind": "topic",
    "name": "Gold",
@@ -71,6 +295,396 @@
    ],
    "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/gold.json"
+  },
+  {
+   "id": "oil",
+   "kind": "topic",
+   "name": "Oil & energy",
+   "tickers": [],
+   "aliases": [
+    "oil",
+    "crude",
+    "opec",
+    "brent",
+    "wti"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/oil.json"
+  },
+  {
+   "id": "tariffs",
+   "kind": "topic",
+   "name": "Tariffs & trade war",
+   "tickers": [],
+   "aliases": [
+    "tariffs",
+    "trade war",
+    "trade",
+    "imports",
+    "customs"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/tariffs.json"
+  },
+  {
+   "id": "china",
+   "kind": "topic",
+   "name": "China economy",
+   "tickers": [],
+   "aliases": [
+    "china",
+    "chinese economy",
+    "yuan",
+    "beijing"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/china.json"
+  },
+  {
+   "id": "dollar",
+   "kind": "topic",
+   "name": "US dollar & currencies",
+   "tickers": [],
+   "aliases": [
+    "dollar",
+    "usd",
+    "currencies",
+    "fx",
+    "forex",
+    "eurusd"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/dollar.json"
+  },
+  {
+   "id": "bonds",
+   "kind": "topic",
+   "name": "Treasuries, bonds & national debt",
+   "tickers": [],
+   "aliases": [
+    "bonds",
+    "treasuries",
+    "yields",
+    "debt",
+    "deficit",
+    "10-year"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bonds.json"
+  },
+  {
+   "id": "housing",
+   "kind": "topic",
+   "name": "Housing market & mortgages",
+   "tickers": [],
+   "aliases": [
+    "housing",
+    "home market",
+    "mortgages",
+    "home prices",
+    "homebuilders"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/housing.json"
+  },
+  {
+   "id": "earnings",
+   "kind": "topic",
+   "name": "Earnings season",
+   "tickers": [],
+   "aliases": [
+    "earnings",
+    "results",
+    "quarterly results",
+    "guidance",
+    "eps"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/earnings.json"
+  },
+  {
+   "id": "ipo",
+   "kind": "topic",
+   "name": "IPOs",
+   "tickers": [],
+   "aliases": [
+    "ipo",
+    "listing",
+    "initial public offering",
+    "going public"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ipo.json"
+  },
+  {
+   "id": "ev",
+   "kind": "topic",
+   "name": "Electric vehicles",
+   "tickers": [],
+   "aliases": [
+    "ev",
+    "electric vehicles",
+    "electric cars",
+    "batteries"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ev.json"
+  },
+  {
+   "id": "nuclear",
+   "kind": "topic",
+   "name": "Nuclear power & uranium",
+   "tickers": [],
+   "aliases": [
+    "nuclear",
+    "uranium",
+    "smr",
+    "nuclear power"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
+  },
+  {
+   "id": "defense",
+   "kind": "topic",
+   "name": "Defense & geopolitics",
+   "tickers": [],
+   "aliases": [
+    "defense",
+    "defence",
+    "war",
+    "geopolitics",
+    "military",
+    "nato"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/defense.json"
+  },
+  {
+   "id": "consumer",
+   "kind": "topic",
+   "name": "Consumer spending & retail",
+   "tickers": [],
+   "aliases": [
+    "consumer",
+    "retail",
+    "spending",
+    "retail sales",
+    "holiday season"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/consumer.json"
+  },
+  {
+   "id": "banks",
+   "kind": "topic",
+   "name": "Banks & the financial system",
+   "tickers": [],
+   "aliases": [
+    "banks",
+    "banking",
+    "bank crisis",
+    "regional banks",
+    "credit"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/banks.json"
+  },
+  {
+   "id": "investing",
+   "kind": "topic",
+   "name": "Investing basics, retirement & index funds",
+   "tickers": [],
+   "aliases": [
+    "investing",
+    "retirement",
+    "index funds",
+    "etf",
+    "savings",
+    "compound interest",
+    "401k"
+   ],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/investing.json"
+  },
+  {
+   "id": "space",
+   "kind": "topic",
+   "name": "Space economy",
+   "tickers": [],
+   "aliases": [
+    "space",
+    "satellites",
+    "space economy",
+    "rockets"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/space.json"
+  },
+  {
+   "id": "glp1",
+   "kind": "topic",
+   "name": "Weight-loss drugs (GLP-1)",
+   "tickers": [],
+   "aliases": [
+    "glp-1",
+    "weight loss",
+    "obesity drugs",
+    "ozempic",
+    "wegovy",
+    "zepbound"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/glp1.json"
+  },
+  {
+   "id": "politics",
+   "kind": "topic",
+   "name": "US politics & markets",
+   "tickers": [],
+   "aliases": [
+    "politics",
+    "white house",
+    "election",
+    "congress",
+    "president",
+    "shutdown"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/politics.json"
+  },
+  {
+   "id": "europe",
+   "kind": "topic",
+   "name": "Europe & the ECB",
+   "tickers": [],
+   "aliases": [
+    "europe",
+    "ecb",
+    "eurozone",
+    "euro",
+    "cac 40",
+    "dax",
+    "stoxx"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/europe.json"
+  },
+  {
+   "id": "quantum",
+   "kind": "topic",
+   "name": "Quantum computing",
+   "tickers": [],
+   "aliases": [
+    "quantum computing",
+    "quantum computer"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/quantum.json"
+  },
+  {
+   "id": "robotics",
+   "kind": "topic",
+   "name": "Robotics & automation",
+   "tickers": [],
+   "aliases": [
+    "robotics",
+    "robots",
+    "automation",
+    "humanoid"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/robotics.json"
+  },
+  {
+   "id": "cybersecurity",
+   "kind": "topic",
+   "name": "Cybersecurity",
+   "tickers": [],
+   "aliases": [
+    "cybersecurity",
+    "cyber",
+    "hacking",
+    "security"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/cybersecurity.json"
+  },
+  {
+   "id": "india",
+   "kind": "topic",
+   "name": "India economy",
+   "tickers": [],
+   "aliases": [
+    "india",
+    "indian economy",
+    "sensex",
+    "nifty",
+    "rupee"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/india.json"
+  },
+  {
+   "id": "japan",
+   "kind": "topic",
+   "name": "Japan economy",
+   "tickers": [],
+   "aliases": [
+    "japan",
+    "japanese economy",
+    "nikkei",
+    "yen",
+    "bank of japan"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/japan.json"
+  },
+  {
+   "id": "metals",
+   "kind": "topic",
+   "name": "Industrial metals & mining",
+   "tickers": [],
+   "aliases": [
+    "metals",
+    "copper",
+    "silver",
+    "lithium",
+    "mining",
+    "commodities"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/metals.json"
+  },
+  {
+   "id": "travel",
+   "kind": "topic",
+   "name": "Travel & airlines",
+   "tickers": [],
+   "aliases": [
+    "travel",
+    "airlines",
+    "tourism",
+    "hotels",
+    "cruises"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/travel.json"
+  },
+  {
+   "id": "luxury",
+   "kind": "topic",
+   "name": "Luxury goods",
+   "tickers": [],
+   "aliases": [
+    "luxury",
+    "luxury goods",
+    "lvmh",
+    "hermes",
+    "watches"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/luxury.json"
   }
  ]
 }

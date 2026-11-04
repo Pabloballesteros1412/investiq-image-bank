@@ -12,6 +12,7 @@
    "wikidata": "Q159433",
    "commons_category": "3M",
    "image": "3-M Building Maplewood MN1.jpg",
+   "ambiguous": false,
    "ceo": "William M. Brown",
    "ceo_image": null,
    "id": "MMM"
@@ -27,6 +28,7 @@
    "wikidata": "Q4648219",
    "commons_category": "A. O. Smith Corporation",
    "image": null,
+   "ambiguous": false,
    "ceo": "Kevin J. Wheeler",
    "ceo_image": null,
    "id": "AOS"
@@ -42,6 +44,7 @@
    "wikidata": "Q128738",
    "commons_category": "Anheuser-Busch InBev",
    "image": null,
+   "ambiguous": false,
    "ceo": "Michel Doukeris",
    "ceo_image": null,
    "id": "BUD"
@@ -57,6 +60,7 @@
    "wikidata": "Q306764",
    "commons_category": "Abbott Laboratories",
    "image": null,
+   "ambiguous": false,
    "ceo": "Robert Ford",
    "ceo_image": "Robert B Ford.jpg",
    "id": "ABT"
@@ -72,6 +76,7 @@
    "wikidata": "Q14662364",
    "commons_category": "AbbVie Inc.",
    "image": null,
+   "ambiguous": false,
    "ceo": "Robert A. Michael",
    "ceo_image": null,
    "id": "ABBV"
@@ -87,6 +92,7 @@
    "wikidata": "Q338825",
    "commons_category": "Accenture",
    "image": "Grand Canal Square - panoramio.jpg",
+   "ambiguous": false,
    "ceo": "Julie Sweet",
    "ceo_image": "Julie Sweet at the World Economic Forum.jpg",
    "id": "ACN"
@@ -102,6 +108,7 @@
    "wikidata": "Q11463",
    "commons_category": "Adobe Inc.",
    "image": "Adobe World Headquarters.jpg",
+   "ambiguous": true,
    "ceo": "Shantanu Narayen",
    "ceo_image": "Adobe CEO Shantanu Narayen.jpg",
    "id": "ADBE"
@@ -117,6 +124,7 @@
    "wikidata": "Q128896",
    "commons_category": "AMD",
    "image": "2485 Augustine Drive headquarters in Santa Clara, California.jpg",
+   "ambiguous": false,
    "ceo": "Lisa Su",
    "ceo_image": "SXSW-2024-alih-OB7A0861-Lisa Su.jpg",
    "id": "AMD"
@@ -132,6 +140,7 @@
    "wikidata": "Q291508",
    "commons_category": null,
    "image": "AES Corporation (52368078840).jpg",
+   "ambiguous": true,
    "ceo": "Andrés R. Gluski",
    "ceo_image": null,
    "id": "AES"
@@ -147,6 +156,7 @@
    "wikidata": "Q65085822",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": "Max Levchin",
    "ceo_image": "Max Levchin.jpg",
    "id": "AFRM"
@@ -162,6 +172,7 @@
    "wikidata": "Q26311",
    "commons_category": "Aflac",
    "image": "AFLAC Tower Columbus Georgia.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AFL"
@@ -177,6 +188,7 @@
    "wikidata": "Q393762",
    "commons_category": "Agilent Technologies",
    "image": "Agilent-HQ-Lobby.jpg",
+   "ambiguous": false,
    "ceo": "Padraig McDonnell",
    "ceo_image": null,
    "id": "A"
@@ -192,6 +204,7 @@
    "wikidata": "Q407744",
    "commons_category": "Air Products & Chemicals",
    "image": "Air Products Headquarters, Trexlertown.JPG",
+   "ambiguous": false,
    "ceo": "Seifollah Ghasemi",
    "ceo_image": null,
    "id": "APD"
@@ -207,6 +220,7 @@
    "wikidata": "Q63327",
    "commons_category": "Airbnb",
    "image": "888 Brannan, San Francisco, 2016.jpg",
+   "ambiguous": false,
    "ceo": "Brian Chesky",
    "ceo_image": "Brian Chesky 2025.jpg",
    "id": "ABNB"
@@ -222,6 +236,7 @@
    "wikidata": "Q415598",
    "commons_category": "Akamai",
    "image": "Akamaiheadquarters.jpg",
+   "ambiguous": false,
    "ceo": "F. Thomson Leighton",
    "ceo_image": "Tom Leighton, CEO, Akamai.jpg",
    "id": "AKAM"
@@ -237,6 +252,7 @@
    "wikidata": "Q127074",
    "commons_category": "Albemarle Corporation",
    "image": "Albemarle Nieuwendammerkade Amsterdam-Noord.jpg",
+   "ambiguous": true,
    "ceo": "Kent Masters",
    "ceo_image": null,
    "id": "ALB"
@@ -252,6 +268,7 @@
    "wikidata": "Q48739877",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Peter M. Moglia",
    "ceo_image": null,
    "id": "ARE"
@@ -267,6 +284,7 @@
    "wikidata": "Q1359568",
    "commons_category": "Alibaba Group",
    "image": "Alibaba Group provisional office at Xiong'an (20180503164635).jpg",
+   "ambiguous": true,
    "ceo": "Joseph Tsai",
    "ceo_image": null,
    "id": "BABA"
@@ -282,6 +300,7 @@
    "wikidata": "Q30272258",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Joseph M. Hogan",
    "ceo_image": "39. St.Gallen Symposium-Joseph M. Hogan-HSGN 028-01941.JPG",
    "id": "ALGN"
@@ -297,6 +316,7 @@
    "wikidata": "Q16738121",
    "commons_category": "Allegion",
    "image": null,
+   "ambiguous": false,
    "ceo": "John H. Stone",
    "ceo_image": null,
    "id": "ALLE"
@@ -312,6 +332,7 @@
    "wikidata": "Q4732492",
    "commons_category": "Alliant Energy",
    "image": "AlliantEnergySheboyganWisconsinPowerPlant.jpg",
+   "ambiguous": false,
    "ceo": "Lisa M. Barton",
    "ceo_image": null,
    "id": "LNT"
@@ -327,6 +348,7 @@
    "wikidata": "Q2645636",
    "commons_category": "Allstate",
    "image": "Allstate store.JPG",
+   "ambiguous": false,
    "ceo": "Tom Wilson",
    "ceo_image": null,
    "id": "ALL"
@@ -343,6 +365,7 @@
    "wikidata": "Q20800404",
    "commons_category": "Alphabet Inc.",
    "image": "Google Campus, Mountain View, CA.jpg",
+   "ambiguous": true,
    "ceo": "Sundar Pichai",
    "ceo_image": "Sundar Pichai - 2023 (cropped).jpg",
    "id": "GOOGL"
@@ -358,6 +381,7 @@
    "wikidata": "Q445007",
    "commons_category": "Altria Group",
    "image": "Altria Building (8156028882).jpg",
+   "ambiguous": false,
    "ceo": "William F. Gifford, Jr.",
    "ceo_image": null,
    "id": "MO"
@@ -373,6 +397,7 @@
    "wikidata": "Q3884",
    "commons_category": "Amazon.com",
    "image": "Amazon Tower I topped out, June 2015.jpg",
+   "ambiguous": true,
    "ceo": "Andy Jassy",
    "ceo_image": "Andy Jassy.jpg",
    "id": "AMZN"
@@ -388,6 +413,7 @@
    "wikidata": "Q294721",
    "commons_category": "AMC Theatres",
    "image": "AMC Empire 25 NYC.jpg",
+   "ambiguous": false,
    "ceo": "Adam Aron",
    "ceo_image": "Adam Aron momi-2.jpg",
    "id": "AMC"
@@ -403,6 +429,7 @@
    "wikidata": "Q460307",
    "commons_category": "Amcor plc",
    "image": null,
+   "ambiguous": false,
    "ceo": "Peter Konieczny",
    "ceo_image": null,
    "id": "AMCR"
@@ -418,6 +445,7 @@
    "wikidata": "Q462984",
    "commons_category": "Ameren",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AEE"
@@ -433,6 +461,7 @@
    "wikidata": "Q464092",
    "commons_category": "American Electric Power",
    "image": "AEP building.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AEP"
@@ -448,6 +477,7 @@
    "wikidata": "Q194360",
    "commons_category": "American Express",
    "image": "American Express Company Building 65 Broadway entrance.jpg",
+   "ambiguous": false,
    "ceo": "Stephen Squeri",
    "ceo_image": null,
    "id": "AXP"
@@ -463,6 +493,7 @@
    "wikidata": "Q212235",
    "commons_category": "American International Group",
    "image": "AIG Headquarters.jpg",
+   "ambiguous": true,
    "ceo": "Peter Zaffino",
    "ceo_image": "Zaffino-currentheadshot.jpg",
    "id": "AIG"
@@ -478,6 +509,7 @@
    "wikidata": "Q4745263",
    "commons_category": "American Tower",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AMT"
@@ -493,6 +525,7 @@
    "wikidata": "Q467238",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AWK"
@@ -508,6 +541,7 @@
    "wikidata": "Q2843129",
    "commons_category": null,
    "image": "Ameriprise Financial Center Minneapolis 1.jpg",
+   "ambiguous": false,
    "ceo": "James Cracchiolo",
    "ceo_image": null,
    "id": "AMP"
@@ -523,6 +557,7 @@
    "wikidata": "Q470317",
    "commons_category": "Ametek",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AME"
@@ -538,6 +573,7 @@
    "wikidata": "Q470517",
    "commons_category": "Amgen",
    "image": "Amgenheadquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AMGN"
@@ -553,6 +589,7 @@
    "wikidata": "Q474621",
    "commons_category": "Amphenol",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "APH"
@@ -568,6 +605,7 @@
    "wikidata": "Q484930",
    "commons_category": "Analog Devices, Inc.",
    "image": "Analog Devices headquarters 20110504.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ADI"
@@ -583,6 +621,7 @@
    "wikidata": "Q739518",
    "commons_category": "Aon",
    "image": "122 Leadenhall Street - geograph-3968154-by-Julian-Osley.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "AON"
@@ -598,6 +637,7 @@
    "wikidata": "Q119991",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "APA"
@@ -613,6 +653,7 @@
    "wikidata": "Q619121",
    "commons_category": "Apollo Global Management",
    "image": "Solow Building New York August 2012.jpg",
+   "ambiguous": false,
    "ceo": "Marc Rowan",
    "ceo_image": null,
    "id": "APO"
@@ -628,6 +669,7 @@
    "wikidata": "Q312",
    "commons_category": "Apple Inc.",
    "image": "Apple park cupertino 2019.jpg",
+   "ambiguous": true,
    "ceo": "John Ternus",
    "ceo_image": "John Ternus at the Apple 50th Anniversary Kickoff.jpg",
    "id": "AAPL"
@@ -643,6 +685,7 @@
    "wikidata": "Q621610",
    "commons_category": "Applied Materials",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AMAT"
@@ -658,6 +701,7 @@
    "wikidata": "Q27150212",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "APP"
@@ -673,6 +717,7 @@
    "wikidata": "Q643626",
    "commons_category": "Delphi Corporation",
    "image": "Wuppertal Vorm Eichholz 0005.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "APTV"
@@ -688,6 +733,7 @@
    "wikidata": "Q28155430",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ACGL"
@@ -703,6 +749,7 @@
    "wikidata": "Q109369035",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ACHR"
@@ -718,6 +765,7 @@
    "wikidata": "Q632694",
    "commons_category": "Archer Daniels Midland",
    "image": "Ricardo Bofill Taller de Arquitectura United Continental Headquarters, Chicago.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ADM"
@@ -733,6 +781,7 @@
    "wikidata": "Q4789079",
    "commons_category": null,
    "image": "Hdcco-2000-Avenue-of-the-Stars 1.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ARES"
@@ -748,6 +797,7 @@
    "wikidata": "Q2861324",
    "commons_category": "Arista Networks",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ANET"
@@ -763,6 +813,7 @@
    "wikidata": "Q296782",
    "commons_category": "ARM Limited",
    "image": "Cambridge ARM building panorama.jpg",
+   "ambiguous": true,
    "ceo": "Rene Haas",
    "ceo_image": "Rene Haas at SXSW 2025.jpg",
    "id": "ARM"
@@ -778,6 +829,7 @@
    "wikidata": "Q4799191",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AJG"
@@ -793,6 +845,7 @@
    "wikidata": "Q297879",
    "commons_category": "ASML",
    "image": "ASML headquarters Veldhoven.jpg",
+   "ambiguous": false,
    "ceo": "Christophe Fouquet",
    "ceo_image": "Ursula von der Leyen & Christophe Fouquet - 2025.jpg",
    "id": "ASML"
@@ -808,6 +861,7 @@
    "wikidata": "Q4810399",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AIZ"
@@ -823,6 +877,7 @@
    "wikidata": "Q112659289",
    "commons_category": "AST SpaceMobile",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ASTS"
@@ -838,6 +893,7 @@
    "wikidata": "Q731938",
    "commons_category": "AstraZeneca",
    "image": "AstraZeneca HQ in Cambridge UK.jpg",
+   "ambiguous": false,
    "ceo": "Pascal Soriot",
    "ceo_image": "Pascal Soriot 2025.jpg",
    "id": "AZN"
@@ -853,6 +909,7 @@
    "wikidata": "Q35476",
    "commons_category": "AT&T",
    "image": "AT&THQDallas.jpg",
+   "ambiguous": false,
    "ceo": "John Stankey",
    "ceo_image": "John Stankey (54598693935) (cropped).jpg",
    "id": "T"
@@ -868,6 +925,7 @@
    "wikidata": "Q757307",
    "commons_category": "Atlassian",
    "image": null,
+   "ambiguous": false,
    "ceo": "Mike Cannon-Brookes",
    "ceo_image": "Mike Cannon-Brookes Australian businessman.jpg",
    "id": "TEAM"
@@ -883,6 +941,7 @@
    "wikidata": "Q4817084",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ATO"
@@ -898,6 +957,7 @@
    "wikidata": "Q628051",
    "commons_category": "Autodesk",
    "image": "Autodesk headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ADSK"
@@ -913,6 +973,7 @@
    "wikidata": "Q489080",
    "commons_category": "Automatic Data Processing",
    "image": "ADP Headquarters.jpg",
+   "ambiguous": false,
    "ceo": "Maria Black",
    "ceo_image": null,
    "id": "ADP"
@@ -928,6 +989,7 @@
    "wikidata": "Q4826087",
    "commons_category": "AutoZone",
    "image": "Autozonehqmemphis.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AZO"
@@ -943,6 +1005,7 @@
    "wikidata": "Q790650",
    "commons_category": "Avery Dennison",
    "image": "AveryUtrecht-nl.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AVY"
@@ -958,6 +1021,7 @@
    "wikidata": "Q690604",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "AXON"
@@ -973,6 +1037,7 @@
    "wikidata": "Q14772",
    "commons_category": "Baidu",
    "image": "Baidu Technology Park at ZPark Phase II (20220502113650).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BIDU"
@@ -988,6 +1053,7 @@
    "wikidata": "Q804353",
    "commons_category": "Baker Hughes",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BKR"
@@ -1003,6 +1069,7 @@
    "wikidata": "Q4034815",
    "commons_category": "Ball Corporation",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "BALL"
@@ -1018,6 +1085,7 @@
    "wikidata": "Q487907",
    "commons_category": "Bank of America",
    "image": "Bank of America Corporate Center Charlotte, North Carolina.jpg",
+   "ambiguous": false,
    "ceo": "Brian Moynihan",
    "ceo_image": "Brian Moynihan, official portrait, Homeland Security Council.jpg",
    "id": "BAC"
@@ -1033,6 +1101,7 @@
    "wikidata": "Q761965",
    "commons_category": "Baxter International",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BAX"
@@ -1048,6 +1117,7 @@
    "wikidata": "Q813780",
    "commons_category": "Becton Dickinson",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BDX"
@@ -1063,6 +1133,7 @@
    "wikidata": "Q217583",
    "commons_category": "Berkshire Hathaway",
    "image": "OmahaKiewitPlaza.jpg",
+   "ambiguous": false,
    "ceo": "Greg Abel",
    "ceo_image": "Greg Abel.jpg",
    "id": "BRK-B"
@@ -1078,6 +1149,7 @@
    "wikidata": "Q533415",
    "commons_category": "Best Buy",
    "image": "Bestbuystore.jpg",
+   "ambiguous": false,
    "ceo": "Hubert Joly",
    "ceo_image": "Hubert Joly headshot.jpg",
    "id": "BBY"
@@ -1093,6 +1165,7 @@
    "wikidata": "Q625713",
    "commons_category": "BHP Group",
    "image": "Port Hedland, Western Australia.jpg",
+   "ambiguous": false,
    "ceo": "Mike Henry",
    "ceo_image": "Mike Henry (born 1966) at World Economic Forum Davos 2024.png",
    "id": "BHP"
@@ -1108,6 +1181,7 @@
    "wikidata": "Q124545138",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BBAI"
@@ -1123,6 +1197,7 @@
    "wikidata": "Q19873469",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TECH"
@@ -1138,6 +1213,7 @@
    "wikidata": "Q864338",
    "commons_category": "Biogen",
    "image": "Biogen.jpg",
+   "ambiguous": false,
    "ceo": "Michel Vounatsos",
    "ceo_image": "Michel Vounatsos (born 1961) at World Economic Forum Davos 2021.png",
    "id": "BIIB"
@@ -1153,6 +1229,7 @@
    "wikidata": "Q30256699",
    "commons_category": "BioNTech",
    "image": "Mainz.BioNTechSE.20200731.jpg",
+   "ambiguous": false,
    "ceo": "Uğur Şahin",
    "ceo_image": "Ugur Sahin v1.jpg",
    "id": "BNTX"
@@ -1168,6 +1245,7 @@
    "wikidata": "Q648458",
    "commons_category": "Birkenstock",
    "image": "St. Katharinen, Birkenstock.jpg",
+   "ambiguous": false,
    "ceo": "Oliver Reichert",
    "ceo_image": null,
    "id": "BIRK"
@@ -1183,6 +1261,7 @@
    "wikidata": "Q219635",
    "commons_category": "BlackRock, Inc.",
    "image": "50 Hudson Yards.png",
+   "ambiguous": false,
    "ceo": "Larry Fink",
    "ceo_image": "Larry Fink with Valdis Dombrovskis (cropped).jpg",
    "id": "BLK"
@@ -1198,6 +1277,7 @@
    "wikidata": "Q880942",
    "commons_category": "Blackstone Inc.",
    "image": "Blackstone HQ - 345 Park Avenu.jpg",
+   "ambiguous": true,
    "ceo": "Stephen A. Schwarzman",
    "ceo_image": "Stephen Schwarzman, 19 March 2024.jpg",
    "id": "BX"
@@ -1213,6 +1293,7 @@
    "wikidata": "Q110778747",
    "commons_category": "Square, Inc.",
    "image": null,
+   "ambiguous": true,
    "ceo": "Jack Dorsey",
    "ceo_image": "Jack Dorsey 2014.jpg",
    "id": "XYZ"
@@ -1228,6 +1309,7 @@
    "wikidata": "Q29526078",
    "commons_category": "Bloom Energy",
    "image": "Bloom Energy building sign (Sunnyvale).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BE"
@@ -1243,6 +1325,7 @@
    "wikidata": "Q589288",
    "commons_category": "The Bank of New York Mellon",
    "image": "101 Barclays Street.jpg",
+   "ambiguous": false,
    "ceo": "Charlie Scharf",
    "ceo_image": "Charles Scharf in 2020.png",
    "id": "BNY"
@@ -1258,6 +1341,7 @@
    "wikidata": "Q66",
    "commons_category": "Boeing",
    "image": "2004-09-14 1680x3000 chicago boeing building.jpg",
+   "ambiguous": false,
    "ceo": "Kelly Ortberg",
    "ceo_image": "Ortberg-Senate (cropped).png",
    "id": "BA"
@@ -1273,6 +1357,7 @@
    "wikidata": "Q18674747",
    "commons_category": "Booking Holdings",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "BKNG"
@@ -1288,6 +1373,7 @@
    "wikidata": "Q894585",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BSX"
@@ -1303,6 +1389,7 @@
    "wikidata": "Q152057",
    "commons_category": "BP",
    "image": "Stuckey's in Saline County.jpg",
+   "ambiguous": false,
    "ceo": "Meg O'Neill",
    "ceo_image": null,
    "id": "BP"
@@ -1318,6 +1405,7 @@
    "wikidata": "Q266423",
    "commons_category": "Bristol-Myers Squibb",
    "image": "Bristolmyersprincetonfacility.jpg",
+   "ambiguous": false,
    "ceo": "Giovanni Caforio",
    "ceo_image": null,
    "id": "BMY"
@@ -1333,6 +1421,7 @@
    "wikidata": "Q790060",
    "commons_category": "Broadcom",
    "image": "Broadcom Headquarters San Jose.jpg",
+   "ambiguous": false,
    "ceo": "Tan Hock Eng",
    "ceo_image": "Hock Tan 2022.png",
    "id": "AVGO"
@@ -1348,6 +1437,7 @@
    "wikidata": "Q4972280",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BR"
@@ -1363,6 +1453,7 @@
    "wikidata": "Q4976010",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "BRO"
@@ -1378,6 +1469,7 @@
    "wikidata": "Q392221",
    "commons_category": "Brown–Forman",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BF-B"
@@ -1393,6 +1485,7 @@
    "wikidata": "Q1009458",
    "commons_category": null,
    "image": "VDO Bunge waterfront.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BG"
@@ -1408,6 +1501,7 @@
    "wikidata": "Q4844439",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "BXP"
@@ -1423,6 +1517,7 @@
    "wikidata": "Q931200",
    "commons_category": "C.H. Robinson",
    "image": "C.H. Robinson HQ entrance.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CHRW"
@@ -1438,6 +1533,7 @@
    "wikidata": "Q104081972",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Stephen Ehikian",
    "ceo_image": "Stephen Ehikian, Acting Administrator and Deputy Administrator of the General Services Administration (GSA) by appointment.jpg",
    "id": "AI"
@@ -1453,6 +1549,7 @@
    "wikidata": "Q608776",
    "commons_category": "Cadence Design Systems",
    "image": "CadenceHQ.jpg",
+   "ambiguous": false,
    "ceo": "Anirudh Devgan",
    "ceo_image": "Anirudh Devgan.jpg",
    "id": "CDNS"
@@ -1468,6 +1565,7 @@
    "wikidata": "Q5025803",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CPT"
@@ -1483,6 +1581,7 @@
    "wikidata": "Q1028449",
    "commons_category": "Cameco",
    "image": "Cameco.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CCJ"
@@ -1498,6 +1597,7 @@
    "wikidata": "Q1034654",
    "commons_category": "Capital One",
    "image": "Capital One World Headquarters.jpg",
+   "ambiguous": false,
    "ceo": "Richard Fairbank",
    "ceo_image": null,
    "id": "COF"
@@ -1513,6 +1613,7 @@
    "wikidata": "Q902397",
    "commons_category": "Cardinal Health",
    "image": "Cardinal Health headquarters (Dublin, Ohio).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CAH"
@@ -1528,6 +1629,7 @@
    "wikidata": "Q1044059",
    "commons_category": "Carnival Corporation & plc",
    "image": "Carnivalcruiselinesheadquarters.jpg",
+   "ambiguous": true,
    "ceo": "Arnold W. Donald",
    "ceo_image": "Keynote (26689303657).jpg",
    "id": "CCL"
@@ -1543,6 +1645,7 @@
    "wikidata": "Q731912",
    "commons_category": "Carrier Corporation",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CARR"
@@ -1558,6 +1661,7 @@
    "wikidata": "Q16247191",
    "commons_category": "Carvana",
    "image": "Carvana Delorean Back to the Future time machine (47499319902).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CVNA"
@@ -1573,6 +1677,7 @@
    "wikidata": "Q2940968",
    "commons_category": "Casey's General Stores",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CASY"
@@ -1588,6 +1693,7 @@
    "wikidata": "Q459965",
    "commons_category": "Caterpillar Inc.",
    "image": "Caterpillarhq.JPG",
+   "ambiguous": true,
    "ceo": "Joseph E. Creed",
    "ceo_image": null,
    "id": "CAT"
@@ -1603,6 +1709,7 @@
    "wikidata": "Q85751038",
    "commons_category": "Cava (restaurant)",
    "image": "CAVA - Silver Spring, Maryland.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "CAVA"
@@ -1618,6 +1725,7 @@
    "wikidata": "Q30635731",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CBOE"
@@ -1633,6 +1741,7 @@
    "wikidata": "Q1023013",
    "commons_category": "CBRE Group",
    "image": "TC-skyline10.8.12-1267-Edit-4.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "CBRE"
@@ -1648,6 +1757,7 @@
    "wikidata": "Q1023155",
    "commons_category": "CDW",
    "image": "CDWChicago.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CDW"
@@ -1663,6 +1773,7 @@
    "wikidata": "Q125030348",
    "commons_category": "Celsius Holdings",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "CELH"
@@ -1678,6 +1789,7 @@
    "wikidata": "Q470156",
    "commons_category": "Cencora",
    "image": null,
+   "ambiguous": false,
    "ceo": "Steven H. Collis",
    "ceo_image": null,
    "id": "COR"
@@ -1693,6 +1805,7 @@
    "wikidata": "Q5059102",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Sarah London",
    "ceo_image": null,
    "id": "CNC"
@@ -1708,6 +1821,7 @@
    "wikidata": "Q1053560",
    "commons_category": "CenterPoint Energy",
    "image": "Centerpoint energy plaza.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CNP"
@@ -1723,6 +1837,7 @@
    "wikidata": "Q905806",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CF"
@@ -1738,6 +1853,7 @@
    "wikidata": "Q5082076",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CRL"
@@ -1753,6 +1869,7 @@
    "wikidata": "Q1066028",
    "commons_category": "Charles Schwab Corporation",
    "image": "53rd St 6th Av td 19 - CBS Building.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "SCHW"
@@ -1768,6 +1885,7 @@
    "wikidata": "Q2961234",
    "commons_category": "Charter Communications",
    "image": "Charter Communications HQ Stamford.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CHTR"
@@ -1783,6 +1901,7 @@
    "wikidata": "Q319642",
    "commons_category": "Chevron Corporation",
    "image": "Chevron Headquarters 2022.jpg",
+   "ambiguous": true,
    "ceo": "Mike Wirth",
    "ceo_image": null,
    "id": "CVX"
@@ -1798,6 +1917,7 @@
    "wikidata": "Q465751",
    "commons_category": "Chipotle Mexican Grill",
    "image": "Chipotle Brandon.jpeg",
+   "ambiguous": false,
    "ceo": "Steve Ells",
    "ceo_image": null,
    "id": "CMG"
@@ -1813,6 +1933,7 @@
    "wikidata": "Q1089060",
    "commons_category": "Chubb Limited",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "CB"
@@ -1828,6 +1949,7 @@
    "wikidata": "Q5116536",
    "commons_category": "Church & Dwight",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CHD"
@@ -1843,6 +1965,7 @@
    "wikidata": "Q1091783",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CIEN"
@@ -1858,6 +1981,7 @@
    "wikidata": "Q642271",
    "commons_category": "Cigna",
    "image": "Connecticut General Life Insurance Company Headquarters.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CI"
@@ -1873,6 +1997,7 @@
    "wikidata": "Q5120253",
    "commons_category": "Cincinnati Financial",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CINF"
@@ -1888,6 +2013,7 @@
    "wikidata": "Q1092571",
    "commons_category": "Cintas",
    "image": "CintasVehicle3.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CTAS"
@@ -1903,6 +2029,7 @@
    "wikidata": "Q17007851",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "CRCL"
@@ -1918,6 +2045,7 @@
    "wikidata": "Q173395",
    "commons_category": "Cisco",
    "image": "Cisco Systems Headquarters (Building 10), Cisco San Jose Main Campus.jpg",
+   "ambiguous": false,
    "ceo": "Chuck Robbins",
    "ceo_image": "Charles H. Robbins.jpg",
    "id": "CSCO"
@@ -1933,6 +2061,7 @@
    "wikidata": "Q219508",
    "commons_category": "Citigroup",
    "image": "388 Greenwich Street from Battery Park City North Esplanade.jpg",
+   "ambiguous": false,
    "ceo": "Jane Fraser",
    "ceo_image": "Jane Fraser (cropped).jpg",
    "id": "C"
@@ -1948,6 +2077,7 @@
    "wikidata": "Q5122694",
    "commons_category": "Citizens Financial Group",
    "image": "One Citizens Plaza north side.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CFG"
@@ -1963,6 +2093,7 @@
    "wikidata": "Q910368",
    "commons_category": "Clorox",
    "image": "Cloroxheadquarters.jpg",
+   "ambiguous": false,
    "ceo": "Linda J. Rendle",
    "ceo_image": null,
    "id": "CLX"
@@ -1978,6 +2109,7 @@
    "wikidata": "Q4778915",
    "commons_category": "Cloudflare",
    "image": "Cloudflare office entrance area.jpg",
+   "ambiguous": false,
    "ceo": "Matthew Prince",
    "ceo_image": "577181505RR106 TechCrunch D.jpg",
    "id": "NET"
@@ -1993,6 +2125,7 @@
    "wikidata": "Q1023876",
    "commons_category": "CME Group",
    "image": "Cbot-close-night.png",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "CME"
@@ -2008,6 +2141,7 @@
    "wikidata": "Q5013012",
    "commons_category": "CMS Energy",
    "image": "71consumers full.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CMS"
@@ -2023,6 +2157,7 @@
    "wikidata": "Q3295867",
    "commons_category": "The Coca-Cola Company",
    "image": "Coca-ColaHQ.jpg",
+   "ambiguous": false,
    "ceo": "James Quincey",
    "ceo_image": "Macri & Quincey Davos 2018 01 (cropped).jpg",
    "id": "KO"
@@ -2038,6 +2173,7 @@
    "wikidata": "Q1107035",
    "commons_category": "Cognizant Technology Solutions",
    "image": "Cognizant's Delivery Center in Pune- Hinjewadi.jpg",
+   "ambiguous": false,
    "ceo": "Francisco D'Souza",
    "ceo_image": null,
    "id": "CTSH"
@@ -2053,6 +2189,7 @@
    "wikidata": "Q15109887",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "COHR"
@@ -2068,6 +2205,7 @@
    "wikidata": "Q16972754",
    "commons_category": "Coinbase",
    "image": "Congrats Brian Armstrong on the Coinbase IPO! (51124145378).jpg",
+   "ambiguous": false,
    "ceo": "Brian Armstrong",
    "ceo_image": "Brian Armstrong - TechCrunch Disrupt 2018 01.jpg",
    "id": "COIN"
@@ -2083,6 +2221,7 @@
    "wikidata": "Q609466",
    "commons_category": "Colgate-Palmolive",
    "image": "Colgate-Palmolive Building 300 Park Avenue.jpg",
+   "ambiguous": false,
    "ceo": "Noel Wallace",
    "ceo_image": null,
    "id": "CL"
@@ -2098,6 +2237,7 @@
    "wikidata": "Q1113804",
    "commons_category": "Comcast",
    "image": "Comcast Philly.JPG",
+   "ambiguous": false,
    "ceo": "Brian L. Roberts",
    "ceo_image": "Brian Roberts Comcast.jpg",
    "id": "CMCSA"
@@ -2113,6 +2253,7 @@
    "wikidata": "Q5151691",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FIX"
@@ -2128,6 +2269,7 @@
    "wikidata": "Q214763",
    "commons_category": "ConocoPhillips",
    "image": "CPbuilding Anch-AK.jpg",
+   "ambiguous": false,
    "ceo": "Ryan Lance",
    "ceo_image": "ConocoPhillips CEO Ryan Lance (cropped).jpg",
    "id": "COP"
@@ -2143,6 +2285,7 @@
    "wikidata": "Q1127536",
    "commons_category": "Consolidated Edison",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ED"
@@ -2158,6 +2301,7 @@
    "wikidata": "Q1128160",
    "commons_category": "Constellation Brands",
    "image": "Constellation Brands headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "STZ"
@@ -2173,6 +2317,7 @@
    "wikidata": "Q259195",
    "commons_category": "Constellation Energy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CEG"
@@ -2188,6 +2333,7 @@
    "wikidata": "Q1129792",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "COO"
@@ -2203,6 +2349,7 @@
    "wikidata": "Q16951448",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CPRT"
@@ -2218,6 +2365,7 @@
    "wikidata": "Q121875386",
    "commons_category": "CoreWeave",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CRWV"
@@ -2233,6 +2381,7 @@
    "wikidata": "Q5842736",
    "commons_category": "Corning Inc.",
    "image": "Corning Headquarter.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "GLW"
@@ -2248,6 +2397,7 @@
    "wikidata": "Q16838618",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CPAY"
@@ -2263,6 +2413,7 @@
    "wikidata": "Q16988748",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Andy Florance",
    "ceo_image": null,
    "id": "CSGP"
@@ -2278,6 +2429,7 @@
    "wikidata": "Q715583",
    "commons_category": "Costco",
    "image": "Costcoheadquarters.jpg",
+   "ambiguous": false,
    "ceo": "Ron Vachris",
    "ceo_image": null,
    "id": "COST"
@@ -2293,6 +2445,7 @@
    "wikidata": "Q12620655",
    "commons_category": "Coupang",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CPNG"
@@ -2308,6 +2461,7 @@
    "wikidata": "Q1053299",
    "commons_category": "Cement Roadstone Holdings",
    "image": null,
+   "ambiguous": true,
    "ceo": "Jim Mintern",
    "ceo_image": null,
    "id": "CRH"
@@ -2323,6 +2477,7 @@
    "wikidata": "Q24890758",
    "commons_category": "CrowdStrike",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CRWD"
@@ -2338,6 +2493,7 @@
    "wikidata": "Q5189320",
    "commons_category": "Crown Castle",
    "image": "Cci hq.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CCI"
@@ -2353,6 +2509,7 @@
    "wikidata": "Q1024454",
    "commons_category": "CSX Corporation",
    "image": "CSXHQ.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CSX"
@@ -2368,6 +2525,7 @@
    "wikidata": "Q173476",
    "commons_category": "Cummins",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "CMI"
@@ -2383,6 +2541,7 @@
    "wikidata": "Q624375",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "David Joyner",
    "ceo_image": null,
    "id": "CVS"
@@ -2398,6 +2557,7 @@
    "wikidata": "Q5203294",
    "commons_category": "D-Wave Systems",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "QBTS"
@@ -2413,6 +2573,7 @@
    "wikidata": "Q5203782",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DHI"
@@ -2428,6 +2589,7 @@
    "wikidata": "Q1159256",
    "commons_category": "Danaher Corporation",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "DHR"
@@ -2443,6 +2605,7 @@
    "wikidata": "Q742196",
    "commons_category": "Darden Restaurants",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DRI"
@@ -2458,6 +2621,7 @@
    "wikidata": "Q16248637",
    "commons_category": "Datadog",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DDOG"
@@ -2473,6 +2637,7 @@
    "wikidata": "Q5207184",
    "commons_category": "DaVita",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DVA"
@@ -2488,6 +2653,7 @@
    "wikidata": "Q1181953",
    "commons_category": null,
    "image": "Deckers Brands Headquarters Building 1.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DECK"
@@ -2503,6 +2669,7 @@
    "wikidata": "Q496302",
    "commons_category": "John Deere",
    "image": "Mannheim - John Deere.JPG",
+   "ambiguous": true,
    "ceo": "John May",
    "ceo_image": null,
    "id": "DE"
@@ -2518,6 +2685,7 @@
    "wikidata": "Q27500963",
    "commons_category": null,
    "image": "Dell RR1.jpg",
+   "ambiguous": false,
    "ceo": "Michael Dell",
    "ceo_image": "Michael Dell 2010.jpg",
    "id": "DELL"
@@ -2533,6 +2701,7 @@
    "wikidata": "Q188920",
    "commons_category": "Delta Air Lines",
    "image": "N508DN, a350 (39758160940).jpg",
+   "ambiguous": false,
    "ceo": "Ed Bastian",
    "ceo_image": "Ed Bastian Delta CEO.jpg",
    "id": "DAL"
@@ -2548,6 +2717,7 @@
    "wikidata": "Q1206980",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DVN"
@@ -2563,6 +2733,7 @@
    "wikidata": "Q15109865",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DXCM"
@@ -2578,6 +2749,7 @@
    "wikidata": "Q161140",
    "commons_category": "Diageo",
    "image": "Diageo, Park Royal-geograph-6558248-by-N-Chadwick.jpg",
+   "ambiguous": false,
    "ceo": "Ivan Menezes",
    "ceo_image": "First Minister meets new recruits to the Diageo apprentice scheme (cropped).jpg",
    "id": "DEO"
@@ -2593,6 +2765,7 @@
    "wikidata": "Q65091423",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FANG"
@@ -2608,6 +2781,7 @@
    "wikidata": "Q5275969",
    "commons_category": "Digital Realty",
    "image": "DigitalRealtyDatacenterMarkham1.jpg",
+   "ambiguous": false,
    "ceo": "Andrew P. Power",
    "ceo_image": null,
    "id": "DLR"
@@ -2623,6 +2797,7 @@
    "wikidata": "Q145168",
    "commons_category": "Dollar General",
    "image": "DGheadquartersTN.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DG"
@@ -2638,6 +2813,7 @@
    "wikidata": "Q5289230",
    "commons_category": "Dollar Tree",
    "image": "Dollar Tree, Griffin.JPG",
+   "ambiguous": false,
    "ceo": "Macon Foscue Brock, Jr.",
    "ceo_image": null,
    "id": "DLTR"
@@ -2653,6 +2829,7 @@
    "wikidata": "Q677464",
    "commons_category": "Dominion Energy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "D"
@@ -2668,6 +2845,7 @@
    "wikidata": "Q839466",
    "commons_category": "Domino's Pizza",
    "image": "Domino's Pizza Lobby Entrance Domino's Farms Ann Arbor Township Michigan.JPG",
+   "ambiguous": false,
    "ceo": "Russell J. Weiner",
    "ceo_image": null,
    "id": "DPZ"
@@ -2683,6 +2861,7 @@
    "wikidata": "Q20714323",
    "commons_category": "DoorDash",
    "image": "Track Cleanup Sonoma 2022.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DASH"
@@ -2698,6 +2877,7 @@
    "wikidata": "Q16974527",
    "commons_category": "Dover Corporation",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "DOV"
@@ -2713,6 +2893,7 @@
    "wikidata": "Q855639",
    "commons_category": "Dow Chemical Company",
    "image": null,
+   "ambiguous": true,
    "ceo": "Jim Fitterling",
    "ceo_image": "Jim Fitterling (born 1962) at World Economic Forum Davos 2021.png",
    "id": "DOW"
@@ -2728,6 +2909,7 @@
    "wikidata": "Q21189310",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DKNG"
@@ -2743,6 +2925,7 @@
    "wikidata": "Q5206232",
    "commons_category": "DTE Energy",
    "image": "EdisonPlazaJK.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DTE"
@@ -2758,6 +2941,7 @@
    "wikidata": "Q1264404",
    "commons_category": "Duke Energy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DUK"
@@ -2773,6 +2957,7 @@
    "wikidata": "Q2918660",
    "commons_category": "Duolingo",
    "image": "Duolingo, mem-referenco, 1.jpeg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DUOL"
@@ -2788,6 +2973,7 @@
    "wikidata": "Q221062",
    "commons_category": "DuPont",
    "image": null,
+   "ambiguous": false,
    "ceo": "Edward D. Breen",
    "ceo_image": null,
    "id": "DD"
@@ -2803,6 +2989,7 @@
    "wikidata": "Q48872",
    "commons_category": "Eaton Corporation",
    "image": "Eaton factory, 2018 Győr.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "ETN"
@@ -2818,6 +3005,7 @@
    "wikidata": "Q58024",
    "commons_category": "EBay",
    "image": "EBay headquarters 2018.jpg",
+   "ambiguous": false,
    "ceo": "Jamie Iannone",
    "ceo_image": null,
    "id": "EBAY"
@@ -2833,6 +3021,7 @@
    "wikidata": "Q1280748",
    "commons_category": "EchoStar",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ECHO"
@@ -2848,6 +3037,7 @@
    "wikidata": "Q1282031",
    "commons_category": "Ecolab",
    "image": "Ecolab.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ECL"
@@ -2863,6 +3053,7 @@
    "wikidata": "Q662095",
    "commons_category": "Edison International",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EIX"
@@ -2878,6 +3069,7 @@
    "wikidata": "Q16966841",
    "commons_category": "Edwards Lifesciences",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EW"
@@ -2893,6 +3085,7 @@
    "wikidata": "Q677488",
    "commons_category": "Elevance Health",
    "image": null,
+   "ambiguous": false,
    "ceo": "Gail Boudreaux",
    "ceo_image": "Gail Boudreaux headshot.jpg",
    "id": "ELV"
@@ -2908,6 +3101,7 @@
    "wikidata": "Q5370289",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EME"
@@ -2923,6 +3117,7 @@
    "wikidata": "Q1335585",
    "commons_category": "Emerson Electric",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EMR"
@@ -2938,6 +3133,7 @@
    "wikidata": "Q1344587",
    "commons_category": "Entergy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ETR"
@@ -2953,6 +3149,7 @@
    "wikidata": "Q1275577",
    "commons_category": "EOG Resources",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EOG"
@@ -2968,6 +3165,7 @@
    "wikidata": "Q5323987",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "EQT"
@@ -2983,6 +3181,7 @@
    "wikidata": "Q5384453",
    "commons_category": "Equifax",
    "image": "Equifax HQ.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EFX"
@@ -2998,6 +3197,7 @@
    "wikidata": "Q851641",
    "commons_category": "Equinix",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EQIX"
@@ -3013,6 +3213,7 @@
    "wikidata": "Q5388314",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ERIE"
@@ -3028,6 +3229,7 @@
    "wikidata": "Q27964091",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ESS"
@@ -3043,6 +3245,7 @@
    "wikidata": "Q1260606",
    "commons_category": "Estée Lauder Companies",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EL"
@@ -3058,6 +3261,7 @@
    "wikidata": "Q1381973",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "EG"
@@ -3073,6 +3277,7 @@
    "wikidata": "Q7987107",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EVRG"
@@ -3088,6 +3293,7 @@
    "wikidata": "Q7261135",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Charles Giancarlo",
    "ceo_image": "CHG.png",
    "id": "P"
@@ -3103,6 +3309,7 @@
    "wikidata": "Q3344199",
    "commons_category": "Eversource Energy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ES"
@@ -3118,6 +3325,7 @@
    "wikidata": "Q1383669",
    "commons_category": "Exelon",
    "image": "Chase Tower in Chicago.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EXC"
@@ -3133,6 +3341,7 @@
    "wikidata": "Q2962826",
    "commons_category": "Chesapeake Energy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EXE"
@@ -3148,6 +3357,7 @@
    "wikidata": "Q8085893",
    "commons_category": "Expedia Group",
    "image": "Expedia Group south entrance.jpg",
+   "ambiguous": false,
    "ceo": "Ariane Gorin",
    "ceo_image": null,
    "id": "EXPE"
@@ -3163,6 +3373,7 @@
    "wikidata": "Q1384324",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "EXPD"
@@ -3178,6 +3389,7 @@
    "wikidata": "Q5422162",
    "commons_category": "Extra Space Storage",
    "image": null,
+   "ambiguous": false,
    "ceo": "Joseph D. Margolis",
    "ceo_image": null,
    "id": "EXR"
@@ -3193,6 +3405,7 @@
    "wikidata": "Q156238",
    "commons_category": "ExxonMobil",
    "image": "Exxon Mobil Building - Flickr - pinemikey.jpg",
+   "ambiguous": false,
    "ceo": "Darren Woods",
    "ceo_image": "Darren Woods (born c. 1965) at WEF Special Meeting on Global Collaboration, Growth and Energy for Development, 2024.png",
    "id": "XOM"
@@ -3208,6 +3421,7 @@
    "wikidata": "Q3029296",
    "commons_category": "F5 Networks",
    "image": "F5 Tower - July 2017.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "FFIV"
@@ -3223,6 +3437,7 @@
    "wikidata": "Q1885491",
    "commons_category": null,
    "image": "Xerox headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FDS"
@@ -3238,6 +3453,7 @@
    "wikidata": "Q1392999",
    "commons_category": "FICO",
    "image": "Ficoheadquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FICO"
@@ -3253,6 +3469,7 @@
    "wikidata": "Q3067119",
    "commons_category": "Fastenal",
    "image": "Quakertown Fastenal location April 30 2018.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FAST"
@@ -3268,6 +3485,7 @@
    "wikidata": "Q27988152",
    "commons_category": null,
    "image": "Federal Realty HQ roofline North Bethesda MD 2024-05-24 19-07-32.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FRT"
@@ -3283,6 +3501,7 @@
    "wikidata": "Q459477",
    "commons_category": "FedEx",
    "image": "FedEx Super Hub ~` 27 - panoramio.jpg",
+   "ambiguous": false,
    "ceo": "Raj Subramaniam",
    "ceo_image": null,
    "id": "FDX"
@@ -3298,6 +3517,7 @@
    "wikidata": "Q459477",
    "commons_category": "FedEx",
    "image": "FedEx Super Hub ~` 27 - panoramio.jpg",
+   "ambiguous": false,
    "ceo": "Raj Subramaniam",
    "ceo_image": null,
    "id": "FDXF"
@@ -3313,6 +3533,7 @@
    "wikidata": "Q5444235",
    "commons_category": null,
    "image": "Ferguson Enterprises New Corporate Headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FERG"
@@ -3328,6 +3549,7 @@
    "wikidata": "Q27586",
    "commons_category": "Ferrari",
    "image": "フェラーリ本社前 (36309429124).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "RACE"
@@ -3343,6 +3565,7 @@
    "wikidata": "Q1411295",
    "commons_category": "Fidelity National Information Services",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FIS"
@@ -3358,6 +3581,7 @@
    "wikidata": "Q1411810",
    "commons_category": "Fifth Third Bank",
    "image": "Fifth Third Bank Headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FITB"
@@ -3373,6 +3597,7 @@
    "wikidata": "Q1138888",
    "commons_category": "First Solar",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FSLR"
@@ -3388,6 +3613,7 @@
    "wikidata": "Q1419248",
    "commons_category": "FirstEnergy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FE"
@@ -3403,6 +3629,7 @@
    "wikidata": "Q1420513",
    "commons_category": "Fiserv",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FISV"
@@ -3418,6 +3645,7 @@
    "wikidata": "Q1140680",
    "commons_category": "Flextronics",
    "image": "Flextronics, Aug 06.JPG",
+   "ambiguous": true,
    "ceo": "Revathi Advaithi",
    "ceo_image": "Flex Revathi 0033-Peter-Prato-Retouched.jpg",
    "id": "FLEX"
@@ -3433,6 +3661,7 @@
    "wikidata": "Q44294",
    "commons_category": "Ford Motor Company",
    "image": "FordGlassHouse.jpg",
+   "ambiguous": false,
    "ceo": "Jim Farley",
    "ceo_image": null,
    "id": "F"
@@ -3448,6 +3677,7 @@
    "wikidata": "Q2749364",
    "commons_category": "Fortinet",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FTNT"
@@ -3463,6 +3693,7 @@
    "wikidata": "Q27919383",
    "commons_category": "Fortive",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "FTV"
@@ -3479,6 +3710,7 @@
    "wikidata": "Q60238941",
    "commons_category": "Fox Corporation",
    "image": "1211 Avenue of the Americas.jpg",
+   "ambiguous": true,
    "ceo": "Lachlan Murdoch",
    "ceo_image": "Lachlan Murdoch in May 2013.jpg",
    "id": "FOXA"
@@ -3494,6 +3726,7 @@
    "wikidata": "Q744683",
    "commons_category": "Franklin Templeton Investments",
    "image": "One Franklin Parkway.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "BEN"
@@ -3509,6 +3742,7 @@
    "wikidata": "Q1453620",
    "commons_category": "Freeport McMoran",
    "image": "One Central Park East - West - 2011-04-15.JPG",
+   "ambiguous": false,
    "ceo": "Richard Adkerson",
    "ceo_image": null,
    "id": "FCX"
@@ -3524,6 +3758,7 @@
    "wikidata": "Q202210",
    "commons_category": "GameStop",
    "image": "GameStop (14666287269).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GME"
@@ -3539,6 +3774,7 @@
    "wikidata": "Q658789",
    "commons_category": "Garmin",
    "image": "Garmin hq.JPG",
+   "ambiguous": false,
    "ceo": "Gary Burrell",
    "ceo_image": null,
    "id": "GRMN"
@@ -3554,6 +3790,7 @@
    "wikidata": "Q174198",
    "commons_category": "Gartner",
    "image": "Gartner headquarters cropped.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IT"
@@ -3569,6 +3806,7 @@
    "wikidata": "Q1485061",
    "commons_category": "GE Aviation",
    "image": "General Electric Building 570 Lexington.jpg",
+   "ambiguous": false,
    "ceo": "H. Lawrence Culp Jr.",
    "ceo_image": "Larry Culp in Beijing, 2026.jpg",
    "id": "GE"
@@ -3584,6 +3822,7 @@
    "wikidata": "Q1152374",
    "commons_category": "GE Healthcare",
    "image": "CAT scanner.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GEHC"
@@ -3599,6 +3838,7 @@
    "wikidata": "Q118957699",
    "commons_category": "GE Vernova",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GEV"
@@ -3614,6 +3854,7 @@
    "wikidata": "Q677085",
    "commons_category": "Gen Digital",
    "image": "NortonLifeLock Inc HQ 111519.jpg",
+   "ambiguous": false,
    "ceo": "Vincent Pilette",
    "ceo_image": "Vincent Pilette.jpg",
    "id": "GEN"
@@ -3629,6 +3870,7 @@
    "wikidata": "Q5531627",
    "commons_category": "Generac Power Systems",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GNRC"
@@ -3644,6 +3886,7 @@
    "wikidata": "Q502940",
    "commons_category": "General Dynamics",
    "image": "General Dynamics Headquarters.jpg",
+   "ambiguous": false,
    "ceo": "Phebe Novakovic",
    "ceo_image": null,
    "id": "GD"
@@ -3659,6 +3902,7 @@
    "wikidata": "Q629998",
    "commons_category": "General Mills",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GIS"
@@ -3674,6 +3918,7 @@
    "wikidata": "Q81965",
    "commons_category": "General Motors",
    "image": "GM Renaissance Center - Hôtel le plus haut en Amérique du Nord - panoramio.jpg",
+   "ambiguous": false,
    "ceo": "Mary Barra",
    "ceo_image": "Mary Barra, official portrait, Homeland Security Council.jpg",
    "id": "GM"
@@ -3689,6 +3934,7 @@
    "wikidata": "Q5533818",
    "commons_category": "Genuine Parts Company",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GPC"
@@ -3704,6 +3950,7 @@
    "wikidata": "Q663596",
    "commons_category": "Gilead Sciences",
    "image": "333 Lakeside Drive.jpg",
+   "ambiguous": false,
    "ceo": "Daniel O'Day",
    "ceo_image": null,
    "id": "GILD"
@@ -3719,6 +3966,7 @@
    "wikidata": "Q5570544",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GPN"
@@ -3734,6 +3982,7 @@
    "wikidata": "Q7825574",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GL"
@@ -3749,6 +3998,7 @@
    "wikidata": "Q1416215",
    "commons_category": "GoDaddy",
    "image": "Godaddy-headquarters-location.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GDDY"
@@ -3764,6 +4014,7 @@
    "wikidata": "Q193326",
    "commons_category": "Goldman Sachs",
    "image": "GoldmanSachsHeadquarters.JPG",
+   "ambiguous": false,
    "ceo": "David M. Solomon",
    "ceo_image": "David Solomon.jpg",
    "id": "GS"
@@ -3779,6 +4030,7 @@
    "wikidata": "Q212322",
    "commons_category": "GlaxoSmithKline",
    "image": "GlaxoSmithKline Headquarters on the Great West Road in Brentford - panoramio.jpg",
+   "ambiguous": true,
    "ceo": "Emma Walmsley",
    "ceo_image": "Emma Walmsley at The Francis Crick Institute (cropped).jpg",
    "id": "GSK"
@@ -3794,6 +4046,7 @@
    "wikidata": "Q656165",
    "commons_category": "Halliburton",
    "image": "Halliburton North Belt Sign 04 - West Side (Red Sign Removed).jpg",
+   "ambiguous": false,
    "ceo": "David J. Lesar",
    "ceo_image": null,
    "id": "HAL"
@@ -3809,6 +4062,7 @@
    "wikidata": "Q444110",
    "commons_category": "The Hartford",
    "image": "Fire mark for Hartford Fire Insurance Company in Hartford, Connecticut.jpg",
+   "ambiguous": true,
    "ceo": "Christopher Swift",
    "ceo_image": null,
    "id": "HIG"
@@ -3824,6 +4078,7 @@
    "wikidata": "Q501476",
    "commons_category": "Hasbro",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HAS"
@@ -3839,6 +4094,7 @@
    "wikidata": "Q1630431",
    "commons_category": "Hospital Corporation of America",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HCA"
@@ -3854,6 +4110,7 @@
    "wikidata": "Q16975567",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "DOC"
@@ -3869,6 +4126,7 @@
    "wikidata": "Q905086",
    "commons_category": "Henry Schein",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HSIC"
@@ -3884,6 +4142,7 @@
    "wikidata": "Q1056637",
    "commons_category": "Hershey Company",
    "image": "Hershey Factory.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "HSY"
@@ -3899,6 +4158,7 @@
    "wikidata": "Q19923099",
    "commons_category": "HPE",
    "image": null,
+   "ambiguous": false,
    "ceo": "Antonio Neri",
    "ceo_image": "Antonio Neri, Hewlett Packard Enterprise.jpg",
    "id": "HPE"
@@ -3914,6 +4174,7 @@
    "wikidata": "Q1057464",
    "commons_category": "Hilton Worldwide",
    "image": "Hilton Worldwide headquarters in Virginia seen from Jones Branch Drive.jpg",
+   "ambiguous": false,
    "ceo": "Christopher J. Nassetta",
    "ceo_image": "Closing remarks (40854079564).jpg",
    "id": "HLT"
@@ -3929,6 +4190,7 @@
    "wikidata": "Q64363662",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HIMS"
@@ -3944,6 +4206,7 @@
    "wikidata": "Q864407",
    "commons_category": "Home Depot",
    "image": "Home Depot aerial.jpg",
+   "ambiguous": false,
    "ceo": "Ted Decker",
    "ceo_image": null,
    "id": "HD"
@@ -3959,6 +4222,7 @@
    "wikidata": "Q5893992",
    "commons_category": "Honeywell Aerospace",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HONA"
@@ -3974,6 +4238,7 @@
    "wikidata": "Q898208",
    "commons_category": "Honeywell",
    "image": "HON HQ photo.jpg",
+   "ambiguous": false,
    "ceo": "Vimal Kapur",
    "ceo_image": "Vimal Kapur (born 1965) at World Economic Forum Annual Meeting 2025.png",
    "id": "HON"
@@ -3989,6 +4254,7 @@
    "wikidata": "Q1454852",
    "commons_category": "Hormel Foods",
    "image": "Hormel Corporate Headquarters, Austin, Minnesota.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HRL"
@@ -4004,6 +4270,7 @@
    "wikidata": "Q1630559",
    "commons_category": "Host Hotels & Resorts",
    "image": "Host Hotels HQ Bethesda MD HST 20210314 181959 1 crop.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HST"
@@ -4019,6 +4286,7 @@
    "wikidata": "Q25104597",
    "commons_category": "Arconic",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HWM"
@@ -4034,6 +4302,7 @@
    "wikidata": "Q21404084",
    "commons_category": null,
    "image": "HP Headquarters Palo Alto.jpg",
+   "ambiguous": true,
    "ceo": "Enrique Lores",
    "ceo_image": "Enrique Lores (cropped).jpg",
    "id": "HPQ"
@@ -4049,6 +4318,7 @@
    "wikidata": "Q190464",
    "commons_category": "HSBC",
    "image": "8-Canada-Square (cropped).jpg",
+   "ambiguous": false,
    "ceo": "Noel Quinn",
    "ceo_image": "Noel Quinn (born 1962) at World Economic Forum Davos 2021.png",
    "id": "HSBC"
@@ -4064,6 +4334,7 @@
    "wikidata": "Q21036456",
    "commons_category": "Hubbell Incorporated",
    "image": "HubbellHQ1.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "HUBB"
@@ -4079,6 +4350,7 @@
    "wikidata": "Q910866",
    "commons_category": "Humana Inc.",
    "image": null,
+   "ambiguous": false,
    "ceo": "Bruce Broussard",
    "ceo_image": "President Trump Delivers Remarks on Protecting Seniors with Diabetes (49942093502) (cropped).jpg",
    "id": "HUM"
@@ -4094,6 +4366,7 @@
    "wikidata": "Q798819",
    "commons_category": "Huntington Bancshares",
    "image": "Columbus Huntington Center.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HBAN"
@@ -4109,6 +4382,7 @@
    "wikidata": "Q7257522",
    "commons_category": "HII",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HII"
@@ -4124,6 +4398,7 @@
    "wikidata": "Q37156",
    "commons_category": "IBM",
    "image": "IBM Watson.PNG",
+   "ambiguous": false,
    "ceo": "Arvind Krishna",
    "ceo_image": "Arvind Krishna (born 1962) at World Economic Forum Davos 2021.png",
    "id": "IBM"
@@ -4139,6 +4414,7 @@
    "wikidata": "Q5970002",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "IEX"
@@ -4154,6 +4430,7 @@
    "wikidata": "Q1758392",
    "commons_category": "Idexx Laboratories",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IDXX"
@@ -4169,6 +4446,7 @@
    "wikidata": "Q1510378",
    "commons_category": "Illinois Tool Works",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ITW"
@@ -4184,6 +4462,7 @@
    "wikidata": "Q2068984",
    "commons_category": "Illumina (company)",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "ILMN"
@@ -4199,6 +4478,7 @@
    "wikidata": "Q6015591",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "INCY"
@@ -4214,6 +4494,7 @@
    "wikidata": "Q55453962",
    "commons_category": "Ingersoll Rand",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IR"
@@ -4229,6 +4510,7 @@
    "wikidata": "Q104480795",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "PODD"
@@ -4244,6 +4526,7 @@
    "wikidata": "Q248",
    "commons_category": "Intel",
    "image": "2200 Mission College Boulevard.jpg",
+   "ambiguous": false,
    "ceo": "Michelle Johnston Holthaus",
    "ceo_image": null,
    "id": "INTC"
@@ -4259,6 +4542,7 @@
    "wikidata": "Q20011294",
    "commons_category": "Interactive Brokers",
    "image": "Interactive Brokers Exterior.tif",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IBKR"
@@ -4274,6 +4558,7 @@
    "wikidata": "Q841458",
    "commons_category": "Intercontinental Exchange",
    "image": null,
+   "ambiguous": false,
    "ceo": "Jeffrey Sprecher",
    "ceo_image": "Jeffrey Sprecher.jpg",
    "id": "ICE"
@@ -4289,6 +4574,7 @@
    "wikidata": "Q1666568",
    "commons_category": "International Flavors & Fragrances",
    "image": "Iff-hq.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IFF"
@@ -4304,6 +4590,7 @@
    "wikidata": "Q202972",
    "commons_category": "International Paper",
    "image": "International Paper Co., Cullen, LA IMG 5138.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IP"
@@ -4319,6 +4606,7 @@
    "wikidata": "Q1318848",
    "commons_category": "Intuit",
    "image": "Intuitheadquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "INTU"
@@ -4334,6 +4622,7 @@
    "wikidata": "Q2743863",
    "commons_category": "Intuitive Surgical",
    "image": "Laproscopic Surgery Robot.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ISRG"
@@ -4349,6 +4638,7 @@
    "wikidata": "Q522617",
    "commons_category": "Invesco",
    "image": "Invesco Global Headquarters, Atlanta Georgia, 2026-04-26, from North-west perspective.webp",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IVZ"
@@ -4364,6 +4654,7 @@
    "wikidata": "Q85769855",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "INVH"
@@ -4379,6 +4670,7 @@
    "wikidata": "Q47462183",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IONQ"
@@ -4394,6 +4686,7 @@
    "wikidata": "Q305473",
    "commons_category": "IQVIA",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "IQV"
@@ -4409,6 +4702,7 @@
    "wikidata": "Q1673079",
    "commons_category": "Iron Mountain Incorporated",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "IRM"
@@ -4424,6 +4718,7 @@
    "wikidata": "Q4041705",
    "commons_category": "J.B. Hunt Transport Services",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "JBHT"
@@ -4439,6 +4734,7 @@
    "wikidata": "Q7742790",
    "commons_category": "The J.M. Smucker Company",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SJM"
@@ -4454,6 +4750,7 @@
    "wikidata": "Q2171646",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "JBL"
@@ -4469,6 +4766,7 @@
    "wikidata": "Q6113060",
    "commons_category": "Jack Henry & Associates",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "JKHY"
@@ -4484,6 +4782,7 @@
    "wikidata": "Q3157622",
    "commons_category": null,
    "image": "HarwoodCenterbuildingDallas.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "J"
@@ -4499,6 +4798,7 @@
    "wikidata": "Q3598926",
    "commons_category": "JD.com",
    "image": "Building 1, JD.com Headquarters (20240925134055).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "JD"
@@ -4514,6 +4814,7 @@
    "wikidata": "Q54933259",
    "commons_category": null,
    "image": "Joby Aviation S4 experimental eVTOL aircraft at Edwards AFB.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "JOBY"
@@ -4529,6 +4830,7 @@
    "wikidata": "Q333718",
    "commons_category": "Johnson & Johnson",
    "image": "Johnson & Johnson HQ - IMG 2615.JPG",
+   "ambiguous": true,
    "ceo": "Joaquin Duato",
    "ceo_image": "JnJ Duato cropped.jpg",
    "id": "JNJ"
@@ -4544,6 +4846,7 @@
    "wikidata": "Q667865",
    "commons_category": "Johnson Controls",
    "image": "JohnsonControlsRichmondHill.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "JCI"
@@ -4559,6 +4862,7 @@
    "wikidata": "Q192314",
    "commons_category": "JPMorgan Chase",
    "image": "383 Madison Ave New York.jpg",
+   "ambiguous": false,
    "ceo": "Jamie Dimon",
    "ceo_image": "Jamie Dimon, CEO of JPMorgan Chase.jpg",
    "id": "JPM"
@@ -4574,6 +4878,7 @@
    "wikidata": "Q118905792",
    "commons_category": "Kenvue",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "KVUE"
@@ -4589,6 +4894,7 @@
    "wikidata": "Q3116111",
    "commons_category": "Keurig Dr Pepper",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "KDP"
@@ -4604,6 +4910,7 @@
    "wikidata": "Q1740314",
    "commons_category": "KeyBank",
    "image": null,
+   "ambiguous": false,
    "ceo": "Beth E. Mooney",
    "ceo_image": null,
    "id": "KEY"
@@ -4619,6 +4926,7 @@
    "wikidata": "Q17551096",
    "commons_category": "Keysight",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "KEYS"
@@ -4634,6 +4942,7 @@
    "wikidata": "Q1741634",
    "commons_category": "Kimberly-Clark",
    "image": null,
+   "ambiguous": false,
    "ceo": "Thomas J. Falk",
    "ceo_image": null,
    "id": "KMB"
@@ -4649,6 +4958,7 @@
    "wikidata": "Q6410043",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "KIM"
@@ -4664,6 +4974,7 @@
    "wikidata": "Q931032",
    "commons_category": "Kinder Morgan",
    "image": "KindermorganbuildingHouston.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "KMI"
@@ -4679,6 +4990,7 @@
    "wikidata": "Q1570773",
    "commons_category": "Kohlberg Kravis Roberts",
    "image": "Hudson Yards from Hudson Commons (95131p).jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "KKR"
@@ -4694,6 +5006,7 @@
    "wikidata": "Q624649",
    "commons_category": "KLA Corporation",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "KLAC"
@@ -4709,6 +5022,7 @@
    "wikidata": "Q19681433",
    "commons_category": "The Kraft Heinz Company",
    "image": "Kraft Heinz Headquarters Chicago.jpg",
+   "ambiguous": false,
    "ceo": "Bernardo Hees",
    "ceo_image": null,
    "id": "KHC"
@@ -4724,6 +5038,7 @@
    "wikidata": "Q153417",
    "commons_category": "Kroger",
    "image": "Cincinnati-kroger-building.jpg",
+   "ambiguous": false,
    "ceo": "Rodney McMullen",
    "ceo_image": "White House Coronavirus Update Briefing (49829648376).jpg",
    "id": "KR"
@@ -4739,6 +5054,7 @@
    "wikidata": "Q30291091",
    "commons_category": "L3Harris Technologies",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LHX"
@@ -4754,6 +5070,7 @@
    "wikidata": "Q6466630",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LH"
@@ -4769,6 +5086,7 @@
    "wikidata": "Q1342041",
    "commons_category": "Lam Research",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LRCX"
@@ -4784,6 +5102,7 @@
    "wikidata": "Q1506045",
    "commons_category": "Las Vegas Sands",
    "image": "Venetian Las Vegas, NV.jpg",
+   "ambiguous": false,
    "ceo": "Sheldon Adelson",
    "ceo_image": "Sheldon Adelson 2019 (1).jpg",
    "id": "LVS"
@@ -4799,6 +5118,7 @@
    "wikidata": "Q502132",
    "commons_category": "Leidos",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LDOS"
@@ -4814,6 +5134,7 @@
    "wikidata": "Q16981175",
    "commons_category": null,
    "image": "Lennar headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LEN"
@@ -4829,6 +5150,7 @@
    "wikidata": "Q224751",
    "commons_category": "Lennox International",
    "image": "AirConditionerLennox.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LII"
@@ -4844,6 +5166,7 @@
    "wikidata": "Q98139925",
    "commons_category": "Li Auto",
    "image": "Li Auto Beijing Manufacturing Base (20240329140107).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LI"
@@ -4859,6 +5182,7 @@
    "wikidata": "Q632240",
    "commons_category": "Eli Lilly and Company",
    "image": "Eli Lilly Corporate Center, Indianapolis, Indiana, USA.jpg",
+   "ambiguous": true,
    "ceo": "David A. Ricks",
    "ceo_image": "David A. Ricks 2025.jpg",
    "id": "LLY"
@@ -4874,6 +5198,7 @@
    "wikidata": "Q682759",
    "commons_category": "The Linde Group",
    "image": "Storage tanks by Linde group, Schiedam-8228.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "LIN"
@@ -4889,6 +5214,7 @@
    "wikidata": "Q1061903",
    "commons_category": "Live Nation Entertainment",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LYV"
@@ -4904,6 +5230,7 @@
    "wikidata": "Q7240",
    "commons_category": "Lockheed Martin",
    "image": "Lockheed Martin headquarters.jpg",
+   "ambiguous": false,
    "ceo": "James D. Taiclet",
    "ceo_image": "Jim Taiclet at the House Armed Services Committee (2023) 02.png",
    "id": "LMT"
@@ -4919,6 +5246,7 @@
    "wikidata": "Q826526",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "L"
@@ -4934,6 +5262,7 @@
    "wikidata": "Q1373493",
    "commons_category": "Lowe's",
    "image": "Lowe’s, Chico (2026)-L1000836.jpg",
+   "ambiguous": false,
    "ceo": "Marvin Ellison",
    "ceo_image": null,
    "id": "LOW"
@@ -4949,6 +5278,7 @@
    "wikidata": "Q28027517",
    "commons_category": "Lucid Motors",
    "image": "Lucid Showroom Miami Worldcenter 29 June 2023 - 2.jpg",
+   "ambiguous": false,
    "ceo": "Marc Winterhoff",
    "ceo_image": "Lucid Gravity European Premiere, Munich (20250909-P1050422).jpg",
    "id": "LCID"
@@ -4964,6 +5294,7 @@
    "wikidata": "Q6702957",
    "commons_category": "Lululemon",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LULU"
@@ -4979,6 +5310,7 @@
    "wikidata": "Q138786899",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LITE"
@@ -4994,6 +5326,7 @@
    "wikidata": "Q17077936",
    "commons_category": "Lyft",
    "image": null,
+   "ambiguous": false,
    "ceo": "Logan Green",
    "ceo_image": "Logan Green.jpg",
    "id": "LYFT"
@@ -5009,6 +5342,7 @@
    "wikidata": "Q899255",
    "commons_category": "LyondellBasell",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "LYB"
@@ -5024,6 +5358,7 @@
    "wikidata": "Q3272257",
    "commons_category": "M&T Bank",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MTB"
@@ -5039,6 +5374,7 @@
    "wikidata": "Q458363",
    "commons_category": "Marathon Petroleum",
    "image": "Marathon Petroleum Co. HQ.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MPC"
@@ -5054,6 +5390,7 @@
    "wikidata": "Q1141173",
    "commons_category": "Marriott International",
    "image": null,
+   "ambiguous": false,
    "ceo": "Anthony Capuano",
    "ceo_image": null,
    "id": "MAR"
@@ -5069,6 +5406,7 @@
    "wikidata": "Q1786345",
    "commons_category": "Marsh McLennan",
    "image": "Marsh & McLennan Headquarters at 1166 Avenue of the Americas.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MRSH"
@@ -5084,6 +5422,7 @@
    "wikidata": "Q6776123",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MLM"
@@ -5099,6 +5438,7 @@
    "wikidata": "Q1347782",
    "commons_category": "Marvell Technology Group",
    "image": null,
+   "ambiguous": false,
    "ceo": "Matt Murphy",
    "ceo_image": null,
    "id": "MRVL"
@@ -5114,6 +5454,7 @@
    "wikidata": "Q6782872",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MAS"
@@ -5129,6 +5470,7 @@
    "wikidata": "Q489921",
    "commons_category": "Mastercard",
    "image": null,
+   "ambiguous": false,
    "ceo": "Michael Miebach",
    "ceo_image": null,
    "id": "MA"
@@ -5144,6 +5486,7 @@
    "wikidata": "Q1915049",
    "commons_category": "McCormick & Company",
    "image": "McCormick Hq.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "MKC"
@@ -5159,6 +5502,7 @@
    "wikidata": "Q38076",
    "commons_category": "McDonald's",
    "image": "New-McDonald-HU-lg (43261171540).jpg",
+   "ambiguous": false,
    "ceo": "Chris Kempczinski",
    "ceo_image": "Chris Kempczinski, McDonald’s President and CEO.jpg",
    "id": "MCD"
@@ -5174,6 +5518,7 @@
    "wikidata": "Q570473",
    "commons_category": "McKesson Corporation",
    "image": "McKesson Plaza east side 1.JPG",
+   "ambiguous": false,
    "ceo": "Brian S. Tyler",
    "ceo_image": null,
    "id": "MCK"
@@ -5189,6 +5534,7 @@
    "wikidata": "Q642189",
    "commons_category": "Medtronic",
    "image": "2009-0610-001-Fridley-MedtronicHQ.JPG",
+   "ambiguous": false,
    "ceo": "Geoffrey S Martha",
    "ceo_image": "Geoffrey Straub Martha (born 1969) at World Economic Forum Davos 2021.png",
    "id": "MDT"
@@ -5204,6 +5550,7 @@
    "wikidata": "Q950419",
    "commons_category": "MercadoLibre",
    "image": "Mercadolibre edificio saavedra.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MELI"
@@ -5219,6 +5566,7 @@
    "wikidata": "Q247489",
    "commons_category": "Merck & Co., Inc.",
    "image": "Merck office Upper Gwynedd Township Montgomery County.jpg",
+   "ambiguous": true,
    "ceo": "Rob Davis",
    "ceo_image": null,
    "id": "MRK"
@@ -5234,6 +5582,7 @@
    "wikidata": "Q380",
    "commons_category": "Meta Platforms, Inc.",
    "image": "Meta HQ 2023.png",
+   "ambiguous": false,
    "ceo": "Mark Zuckerberg",
    "ceo_image": "Mark Zuckerberg F8 2019 Keynote (32830578717) (cropped).jpg",
    "id": "META"
@@ -5249,6 +5598,7 @@
    "wikidata": "Q607131",
    "commons_category": "MetLife",
    "image": "MetLIfe GC.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MET"
@@ -5264,6 +5614,7 @@
    "wikidata": "Q680186",
    "commons_category": "Mettler Toledo",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MTD"
@@ -5279,6 +5630,7 @@
    "wikidata": "Q568532",
    "commons_category": "MGM Resorts International",
    "image": "LasVegas-MGMgrand.jpg",
+   "ambiguous": false,
    "ceo": "William Hornbuckle",
    "ceo_image": null,
    "id": "MGM"
@@ -5294,6 +5646,7 @@
    "wikidata": "Q1545076",
    "commons_category": "Microchip Technology",
    "image": null,
+   "ambiguous": false,
    "ceo": "Ganesh Moorthy",
    "ceo_image": null,
    "id": "MCHP"
@@ -5309,6 +5662,7 @@
    "wikidata": "Q1197548",
    "commons_category": "Micron Technology",
    "image": "Micron Fab in Taichung, Taiwan.jpeg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MU"
@@ -5324,6 +5678,7 @@
    "wikidata": "Q2283",
    "commons_category": "Microsoft",
    "image": "Aerial Microsoft West Campus August 2009.jpg",
+   "ambiguous": false,
    "ceo": "Satya Nadella",
    "ceo_image": "MS-Exec-Nadella-Satya-2017-08-31-22 (cropped).jpg",
    "id": "MSFT"
@@ -5339,6 +5694,7 @@
    "wikidata": "Q27988239",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MAA"
@@ -5354,6 +5710,7 @@
    "wikidata": "Q17081612",
    "commons_category": "Moderna",
    "image": "Moderna Headquarters, December 2020.jpg",
+   "ambiguous": false,
    "ceo": "Stéphane Bancel",
    "ceo_image": "Stephane Bancel.png",
    "id": "MRNA"
@@ -5369,6 +5726,7 @@
    "wikidata": "Q12857502",
    "commons_category": "Mondelēz International",
    "image": "ThreeParkwayNorth3.jpeg",
+   "ambiguous": false,
    "ceo": "Dirk Van de Put",
    "ceo_image": null,
    "id": "MDLZ"
@@ -5384,6 +5742,7 @@
    "wikidata": "Q4546965",
    "commons_category": "MongoDB",
    "image": "MongoDB Palo Alto Office 2.jpg",
+   "ambiguous": false,
    "ceo": "Chirantan \"CJ\" Desai",
    "ceo_image": null,
    "id": "MDB"
@@ -5399,6 +5758,7 @@
    "wikidata": "Q22058448",
    "commons_category": "Monolithic Power Systems",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MPWR"
@@ -5414,6 +5774,7 @@
    "wikidata": "Q1945295",
    "commons_category": "Monster Beverage Corporation",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MNST"
@@ -5429,6 +5790,7 @@
    "wikidata": "Q675585",
    "commons_category": "Moody's",
    "image": "7 World Trade Center.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MCO"
@@ -5444,6 +5806,7 @@
    "wikidata": "Q334204",
    "commons_category": "Morgan Stanley",
    "image": "Morgan Stanley Times Square.jpg",
+   "ambiguous": false,
    "ceo": "Ted Pick",
    "ceo_image": null,
    "id": "MS"
@@ -5459,6 +5822,7 @@
    "wikidata": "Q7752327",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "MOS"
@@ -5474,6 +5838,7 @@
    "wikidata": "Q634815",
    "commons_category": "Motorola",
    "image": null,
+   "ambiguous": false,
    "ceo": "Greg Brown",
    "ceo_image": null,
    "id": "MSI"
@@ -5489,6 +5854,7 @@
    "wikidata": "Q768773",
    "commons_category": "MSCI",
    "image": "7 World Trade Center.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "MSCI"
@@ -5504,6 +5870,7 @@
    "wikidata": "Q1472929",
    "commons_category": "Nasdaq, Inc.",
    "image": "NYC - Midtown Manhattan – Times Square – Broadway by night - panoramio (2).jpg",
+   "ambiguous": false,
    "ceo": "Adena Friedman",
    "ceo_image": "Adena Friedman, President, NASDAQ (40040735371).jpg",
    "id": "NDAQ"
@@ -5519,6 +5886,7 @@
    "wikidata": "Q727883",
    "commons_category": "NetApp",
    "image": "NetApp Headquarters Sunnyvale.jpg",
+   "ambiguous": false,
    "ceo": "George Kurian",
    "ceo_image": null,
    "id": "NTAP"
@@ -5534,6 +5902,7 @@
    "wikidata": "Q116452644",
    "commons_category": "Netflix",
    "image": "101 Albright Way.jpg",
+   "ambiguous": false,
    "ceo": "Ted Sarandos",
    "ceo_image": "Ted Sarandos 2024.jpg",
    "id": "NFLX"
@@ -5549,6 +5918,7 @@
    "wikidata": "Q1785405",
    "commons_category": "Newmont Mining Corporation",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NEM"
@@ -5565,6 +5935,7 @@
    "wikidata": "Q14289857",
    "commons_category": "News Corporation",
    "image": "1211 Avenue of the Americas.jpg",
+   "ambiguous": true,
    "ceo": "Robert James Thomson",
    "ceo_image": "Robert Thomson 2014 (cropped).jpg",
    "id": "NWSA"
@@ -5580,6 +5951,7 @@
    "wikidata": "Q967868",
    "commons_category": "NextEra Energy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NEE"
@@ -5595,6 +5967,7 @@
    "wikidata": "Q483915",
    "commons_category": "Nike, Inc.",
    "image": "Nikeworldheadquarters.jpg",
+   "ambiguous": true,
    "ceo": "Elliott Hill",
    "ceo_image": null,
    "id": "NKE"
@@ -5610,6 +5983,7 @@
    "wikidata": "Q29921278",
    "commons_category": "NIO",
    "image": "NIO House.jpg",
+   "ambiguous": true,
    "ceo": "William Li",
    "ceo_image": null,
    "id": "NIO"
@@ -5625,6 +5999,7 @@
    "wikidata": "Q1984481",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NI"
@@ -5640,6 +6015,7 @@
    "wikidata": "Q1998662",
    "commons_category": "Nordson Corporation",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NDSN"
@@ -5655,6 +6031,7 @@
    "wikidata": "Q1321054",
    "commons_category": "Norfolk Southern Railway",
    "image": "NorfolkSouthernTower.jpeg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NSC"
@@ -5670,6 +6047,7 @@
    "wikidata": "Q970695",
    "commons_category": null,
    "image": "Northern Trust Company Building (51574881733).jpg",
+   "ambiguous": false,
    "ceo": "Michael G. O'Grady",
    "ceo_image": null,
    "id": "NTRS"
@@ -5685,6 +6063,7 @@
    "wikidata": "Q329953",
    "commons_category": "Northrop Grumman",
    "image": null,
+   "ambiguous": false,
    "ceo": "Kathy J. Warden",
    "ceo_image": "Kathy Warden (54075793969) (cropped).jpg",
    "id": "NOC"
@@ -5700,6 +6079,7 @@
    "wikidata": "Q60767471",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NCLH"
@@ -5715,6 +6095,7 @@
    "wikidata": "Q507154",
    "commons_category": "Novartis",
    "image": "Novartis Campus - Novartis Pavillon (53992600334).jpg",
+   "ambiguous": false,
    "ceo": "Vasant Narasimhan",
    "ceo_image": "Global Investment Game Changers Summit I 2018 (44788377434).jpg",
    "id": "NVS"
@@ -5730,6 +6111,7 @@
    "wikidata": "Q818846",
    "commons_category": "Novo Nordisk",
    "image": "Novo Nordisk headquarters building Denmark.jpg",
+   "ambiguous": false,
    "ceo": "Mike Doustdar",
    "ceo_image": "P20251106AM-1752 President Donald Trump makes an announcement on lowering drug prices in the Oval Office.jpg",
    "id": "NVO"
@@ -5745,6 +6127,7 @@
    "wikidata": "Q6955139",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NRG"
@@ -5760,6 +6143,7 @@
    "wikidata": "Q25422888",
    "commons_category": "Nubank",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NU"
@@ -5775,6 +6159,7 @@
    "wikidata": "Q1645081",
    "commons_category": "Nucor",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NUE"
@@ -5790,6 +6175,7 @@
    "wikidata": "Q7067710",
    "commons_category": "NuScale Power",
    "image": "Nuscale-portland-office.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SMR"
@@ -5805,6 +6191,7 @@
    "wikidata": "Q182477",
    "commons_category": "Nvidia",
    "image": "NVIDIA Headquarters.jpg",
+   "ambiguous": false,
    "ceo": "Jensen Huang",
    "ceo_image": "Jen-Hsun Huang 2025.jpg",
    "id": "NVDA"
@@ -5820,6 +6207,7 @@
    "wikidata": "Q6955706",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "NVR"
@@ -5835,6 +6223,7 @@
    "wikidata": "Q1155668",
    "commons_category": "NXP Semiconductors",
    "image": "NXP HQ Nijmegen.jpg",
+   "ambiguous": false,
    "ceo": "Kurt Sievers",
    "ceo_image": null,
    "id": "NXPI"
@@ -5850,6 +6239,7 @@
    "wikidata": "Q7071951",
    "commons_category": "O'Reilly Auto Parts",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ORLY"
@@ -5865,6 +6255,7 @@
    "wikidata": "Q2013357",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "OXY"
@@ -5880,6 +6271,7 @@
    "wikidata": "Q110706493",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "OKLO"
@@ -5895,6 +6287,7 @@
    "wikidata": "Q7083862",
    "commons_category": "Old Dominion Freight Line",
    "image": "14th St 7th Av td (2019-07-11) 14 (cropped).jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "ODFL"
@@ -5910,6 +6303,7 @@
    "wikidata": "Q1519267",
    "commons_category": "Omnicom Group",
    "image": null,
+   "ambiguous": false,
    "ceo": "John D. Wren",
    "ceo_image": null,
    "id": "OMC"
@@ -5925,6 +6319,7 @@
    "wikidata": "Q43452713",
    "commons_category": "On (company)",
    "image": null,
+   "ambiguous": true,
    "ceo": "David Allemann",
    "ceo_image": null,
    "id": "ONON"
@@ -5940,6 +6335,7 @@
    "wikidata": "Q1671509",
    "commons_category": "ON Semiconductor",
    "image": null,
+   "ambiguous": false,
    "ceo": "Hassane El-Khoury",
    "ceo_image": null,
    "id": "ON"
@@ -5955,6 +6351,7 @@
    "wikidata": "Q11074156",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "OKE"
@@ -5970,6 +6367,7 @@
    "wikidata": "Q19900",
    "commons_category": "Oracle Corporation",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "ORCL"
@@ -5985,6 +6383,7 @@
    "wikidata": "Q1134069",
    "commons_category": "Otis Elevator Company",
    "image": "Otis Escalator 506 NCE (Daniel Åhs).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "OTIS"
@@ -6000,6 +6399,7 @@
    "wikidata": "Q1477661",
    "commons_category": "Paccar",
    "image": "Paccar Tower.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PCAR"
@@ -6015,6 +6415,7 @@
    "wikidata": "Q16983334",
    "commons_category": "Packaging Corporation of America",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PKG"
@@ -6030,6 +6431,7 @@
    "wikidata": "Q2047336",
    "commons_category": "Palantir Technologies",
    "image": null,
+   "ambiguous": false,
    "ceo": "Alexander C. Karp",
    "ceo_image": "Alex Karp attends AI Summit (53302457013) 4-5 ratio.jpg",
    "id": "PLTR"
@@ -6045,6 +6447,7 @@
    "wikidata": "Q7128508",
    "commons_category": "Palo Alto Networks",
    "image": "Palo Alto Networks Headquarters South Side 2018.jpg",
+   "ambiguous": false,
    "ceo": "Nikesh Arora",
    "ceo_image": "Nikesh Arora(cropped).jpg",
    "id": "PANW"
@@ -6060,6 +6463,7 @@
    "wikidata": "Q1470619",
    "commons_category": "Parker Hannifin",
    "image": "Parker Hannifin's Global Headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PH"
@@ -6075,6 +6479,7 @@
    "wikidata": "Q946080",
    "commons_category": null,
    "image": "Paychex headquarters.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PAYX"
@@ -6090,6 +6495,7 @@
    "wikidata": "Q483959",
    "commons_category": "PayPal",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PYPL"
@@ -6105,6 +6511,7 @@
    "wikidata": "Q47015652",
    "commons_category": "PinDuoDuo.com",
    "image": "202309 Jin Hongqiao International Center at Night.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "PDD"
@@ -6120,6 +6527,7 @@
    "wikidata": "Q7165001",
    "commons_category": "Pentair",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PNR"
@@ -6135,6 +6543,7 @@
    "wikidata": "Q334800",
    "commons_category": "PepsiCo",
    "image": "PepsiCoHQPurchaseNY.jpg",
+   "ambiguous": false,
    "ceo": "Ramon Laguarta",
    "ceo_image": "Ramon Laguarta.jpg",
    "id": "PEP"
@@ -6150,6 +6559,7 @@
    "wikidata": "Q210047",
    "commons_category": "Petrobras",
    "image": "Edise.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PBR"
@@ -6165,6 +6575,7 @@
    "wikidata": "Q206921",
    "commons_category": "Pfizer",
    "image": "Pfizer World Headquarters Entrance.jpg",
+   "ambiguous": false,
    "ceo": "Albert Bourla",
    "ceo_image": "Albert Bourla.jpg",
    "id": "PFE"
@@ -6180,6 +6591,7 @@
    "wikidata": "Q1815011",
    "commons_category": "Pacific Gas and Electric Company",
    "image": "2009-0725-CA-Fresno-SJLightPowerCorp.jpg",
+   "ambiguous": false,
    "ceo": "Geisha Williams",
    "ceo_image": null,
    "id": "PCG"
@@ -6195,6 +6607,7 @@
    "wikidata": "Q1852556",
    "commons_category": "Philip Morris International",
    "image": "PM Lausanne.jpg",
+   "ambiguous": false,
    "ceo": "Jacek Olczak",
    "ceo_image": "NYCW 2025 - Jacek Olczak 02 (cropped).jpg",
    "id": "PM"
@@ -6210,6 +6623,7 @@
    "wikidata": "Q1656230",
    "commons_category": "Phillips 66",
    "image": null,
+   "ambiguous": false,
    "ceo": "Greg Garland",
    "ceo_image": null,
    "id": "PSX"
@@ -6225,6 +6639,7 @@
    "wikidata": "Q26110522",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PNW"
@@ -6240,6 +6655,7 @@
    "wikidata": "Q255381",
    "commons_category": "Pinterest",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PINS"
@@ -6255,6 +6671,7 @@
    "wikidata": "Q38928",
    "commons_category": "PNC Financial Services",
    "image": "PNCColumbus.JPG",
+   "ambiguous": false,
    "ceo": "William S. Demchak",
    "ceo_image": null,
    "id": "PNC"
@@ -6270,6 +6687,7 @@
    "wikidata": "Q48754",
    "commons_category": "PPG Industries",
    "image": "One PPG Place, 2015-03-10, 01.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PPG"
@@ -6285,6 +6703,7 @@
    "wikidata": "Q2044512",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "PPL"
@@ -6300,6 +6719,7 @@
    "wikidata": "Q3403513",
    "commons_category": "Principal Financial Group",
    "image": "Photo 801grand north-eastside des moines usa 2007-06-15.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PFG"
@@ -6315,6 +6735,7 @@
    "wikidata": "Q212405",
    "commons_category": "Procter & Gamble",
    "image": "Cincinnati-procter-and-gamble-headquarters.jpg",
+   "ambiguous": false,
    "ceo": "Jon Moeller",
    "ceo_image": null,
    "id": "PG"
@@ -6330,6 +6751,7 @@
    "wikidata": "Q7248721",
    "commons_category": "Progressive Corporation",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "PGR"
@@ -6345,6 +6767,7 @@
    "wikidata": "Q16983765",
    "commons_category": "Prologis",
    "image": "Pier 1 from the water, June 2019.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PLD"
@@ -6360,6 +6783,7 @@
    "wikidata": "Q2114414",
    "commons_category": "Prudential Insurance",
    "image": "Newark skyline Prudential Headquarters.jpg",
+   "ambiguous": false,
    "ceo": "John Strangfeld",
    "ceo_image": "John Strangfeld, CEO, Prudential Financial.JPG",
    "id": "PRU"
@@ -6375,6 +6799,7 @@
    "wikidata": "Q1760641",
    "commons_category": "PTC Inc.",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "PTC"
@@ -6390,6 +6815,7 @@
    "wikidata": "Q930919",
    "commons_category": "Public Service Enterprise Group",
    "image": "PSE&G 2.JPG",
+   "ambiguous": false,
    "ceo": "Ralph Izzo",
    "ceo_image": null,
    "id": "PEG"
@@ -6405,6 +6831,7 @@
    "wikidata": "Q1156045",
    "commons_category": "Public Storage",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PSA"
@@ -6420,6 +6847,7 @@
    "wikidata": "Q7259716",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PHM"
@@ -6435,6 +6863,7 @@
    "wikidata": "Q138685636",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "Q"
@@ -6450,6 +6879,7 @@
    "wikidata": "Q544847",
    "commons_category": "Qualcomm",
    "image": "Qualcomm headquarters.jpg",
+   "ambiguous": false,
    "ceo": "Cristiano Amon",
    "ceo_image": "CristianoAmon.jpeg",
    "id": "QCOM"
@@ -6465,6 +6895,7 @@
    "wikidata": "Q7268886",
    "commons_category": "Quanta Services",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "PWR"
@@ -6480,6 +6911,7 @@
    "wikidata": "Q7271456",
    "commons_category": "Quest Diagnostics",
    "image": null,
+   "ambiguous": false,
    "ceo": "Steve Rusckowski",
    "ceo_image": "Steve Rusckowski at the World Economic Forum.jpg",
    "id": "DGX"
@@ -6495,6 +6927,7 @@
    "wikidata": "Q1641437",
    "commons_category": "Ralph Lauren Corporation",
    "image": "Gertrude Rhinelander Waldo House (51660337406).jpg",
+   "ambiguous": true,
    "ceo": "Patrice Louvet",
    "ceo_image": "Patrice Louvet (born 1964) at World Economic Forum Annual Meeting 2025.png",
    "id": "RL"
@@ -6510,6 +6943,7 @@
    "wikidata": "Q7298901",
    "commons_category": "Raymond James Financial, Inc.",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "RJF"
@@ -6525,6 +6959,7 @@
    "wikidata": "Q7301386",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "O"
@@ -6540,6 +6975,7 @@
    "wikidata": "Q1136",
    "commons_category": "Reddit",
    "image": null,
+   "ambiguous": false,
    "ceo": "Steve Huffman",
    "ceo_image": "Web Summit 2017 - Centre Stage Day 2 CG1 7885 (38232183112) (cropped).jpg",
    "id": "RDDT"
@@ -6555,6 +6991,7 @@
    "wikidata": "Q7308000",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "REG"
@@ -6570,6 +7007,7 @@
    "wikidata": "Q7308054",
    "commons_category": "Regeneron",
    "image": "New Eastview office bldg jeh.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "REGN"
@@ -6585,6 +7023,7 @@
    "wikidata": "Q917131",
    "commons_category": "Regions Financial Corporation",
    "image": "SKYSCRAPERS - NARA - 545376.tif",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "RF"
@@ -6600,6 +7039,7 @@
    "wikidata": "Q7314415",
    "commons_category": "Republic Services",
    "image": null,
+   "ambiguous": false,
    "ceo": "Don Slager",
    "ceo_image": "Don Slager Portrait.jpeg",
    "id": "RSG"
@@ -6615,6 +7055,7 @@
    "wikidata": "Q7314903",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Michael Farrell",
    "ceo_image": null,
    "id": "RMD"
@@ -6630,6 +7071,7 @@
    "wikidata": "Q120467527",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "RVTY"
@@ -6645,6 +7087,7 @@
    "wikidata": "Q38819634",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "RGTI"
@@ -6660,6 +7103,7 @@
    "wikidata": "Q295223",
    "commons_category": "Rio Tinto",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "RIO"
@@ -6675,6 +7119,7 @@
    "wikidata": "Q7338847",
    "commons_category": "Rivian Automotive",
    "image": "Rivian Normal Plant Floor.jpg",
+   "ambiguous": false,
    "ceo": "Robert \"RJ\" Scaringe",
    "ceo_image": "Rivian founder and CEO Robert \"RJ\" Scaringe at the debut of the Rivian R1S SUV at the 2018 Los Angeles Auto Show, November 27, 2018 (cropped).jpg",
    "id": "RIVN"
@@ -6690,6 +7135,7 @@
    "wikidata": "Q18155123",
    "commons_category": "Robinhood (company)",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "HOOD"
@@ -6705,6 +7151,7 @@
    "wikidata": "Q67186598",
    "commons_category": "Roblox",
    "image": null,
+   "ambiguous": false,
    "ceo": "David Baszucki",
    "ceo_image": null,
    "id": "RBLX"
@@ -6720,6 +7167,7 @@
    "wikidata": "Q116319",
    "commons_category": "Rocket Lab",
    "image": "200131-D-RQ659-0001.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "RKLB"
@@ -6735,6 +7183,7 @@
    "wikidata": "Q1529234",
    "commons_category": "Rockwell Automation",
    "image": "Rockwell Automation Headquarters.jpg",
+   "ambiguous": false,
    "ceo": "Blake Moret",
    "ceo_image": "Blake Moret at World Economic Forum Davos 2021.png",
    "id": "ROK"
@@ -6750,6 +7199,7 @@
    "wikidata": "Q15995436",
    "commons_category": "Roku",
    "image": "Roku 1 2017-02-23.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ROKU"
@@ -6765,6 +7215,7 @@
    "wikidata": "Q7361273",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "ROL"
@@ -6780,6 +7231,7 @@
    "wikidata": "Q16932392",
    "commons_category": "Roper Technologies",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ROP"
@@ -6795,6 +7247,7 @@
    "wikidata": "Q3442791",
    "commons_category": "Ross Stores",
    "image": "Ross Store 01.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ROST"
@@ -6810,6 +7263,7 @@
    "wikidata": "Q735261",
    "commons_category": "Royal Bank of Canada",
    "image": "L'Édifice de la Banque Royale.jpg",
+   "ambiguous": false,
    "ceo": "Gordon Nixon",
    "ceo_image": null,
    "id": "RY"
@@ -6825,6 +7279,7 @@
    "wikidata": "Q427881",
    "commons_category": "Royal Caribbean Group",
    "image": "Royal Caribbean headquarters.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "RCL"
@@ -6840,6 +7295,7 @@
    "wikidata": "Q89368734",
    "commons_category": "Raytheon Technologies",
    "image": "Raytheon headquarters.jpg",
+   "ambiguous": true,
    "ceo": "Greg Hayes",
    "ceo_image": null,
    "id": "RTX"
@@ -6855,6 +7311,7 @@
    "wikidata": "Q868587",
    "commons_category": "McGraw-Hill",
    "image": "55 Water Street and north wing.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SPGI"
@@ -6870,6 +7327,7 @@
    "wikidata": "Q941127",
    "commons_category": "Salesforce",
    "image": "Salesforce Tower SF 2017 (cropped).jpg",
+   "ambiguous": false,
    "ceo": "Marc Benioff",
    "ceo_image": "Marc Benioff.jpg",
    "id": "CRM"
@@ -6885,6 +7343,7 @@
    "wikidata": "Q260833",
    "commons_category": "SanDisk",
    "image": "WDC office (Milpitas, CA).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SNDK"
@@ -6900,6 +7359,7 @@
    "wikidata": "Q158205",
    "commons_category": "Sanofi",
    "image": "Sanofi-Aventis Barcelona.jpg",
+   "ambiguous": false,
    "ceo": "Paul Hudson",
    "ceo_image": "Paul Hudson at the World Economic Forum.jpg",
    "id": "SNY"
@@ -6915,6 +7375,7 @@
    "wikidata": "Q552581",
    "commons_category": "SAP",
    "image": "Sap-wdf.jpg",
+   "ambiguous": false,
    "ceo": "Christian Klein",
    "ceo_image": "Christian Klein (born 1980) at World Economic Forum Davos 2023.png",
    "id": "SAP"
@@ -6930,6 +7391,7 @@
    "wikidata": "Q7388926",
    "commons_category": "SBA Communications",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SBAC"
@@ -6945,6 +7407,7 @@
    "wikidata": "Q1425316",
    "commons_category": "Schlumberger",
    "image": "SchlumbergerSolutionsCenterHoustonTX.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SLB"
@@ -6960,6 +7423,7 @@
    "wikidata": "Q93520415",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": "Forrest Li",
    "ceo_image": null,
    "id": "SE"
@@ -6975,6 +7439,7 @@
    "wikidata": "Q705392",
    "commons_category": "Seagate Technology",
    "image": "Seagate Headquarters Fremont.jpg",
+   "ambiguous": false,
    "ceo": "Stephen J. Luczo",
    "ceo_image": "Portrait of Stephen J. Luczo from acrofan.jpg",
    "id": "STX"
@@ -6990,6 +7455,7 @@
    "wikidata": "Q7449804",
    "commons_category": "Sempra",
    "image": "Sempra Energy HQ San Diego.jpg",
+   "ambiguous": false,
    "ceo": "Jeffrey W. Martin",
    "ceo_image": "Jeffrey W. Martin .jpg",
    "id": "SRE"
@@ -7005,6 +7471,7 @@
    "wikidata": "Q7455653",
    "commons_category": "ServiceNow",
    "image": "ServiceNowGlobalHQ.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "NOW"
@@ -7020,6 +7487,7 @@
    "wikidata": "Q154950",
    "commons_category": "Shell plc",
    "image": "The Shell Centre (8709496019).jpg",
+   "ambiguous": true,
    "ceo": "Wael Sawan",
    "ceo_image": "Wael Sawan, Vice President Commerical, Qatar Shell (4327237111).jpg",
    "id": "SHEL"
@@ -7035,6 +7503,7 @@
    "wikidata": "Q48881",
    "commons_category": "Sherwin-Williams",
    "image": "Sherwin Williams Orenco - Hillsboro, Oregon.JPG",
+   "ambiguous": false,
    "ceo": "Heidi Petzerling-Galle",
    "ceo_image": null,
    "id": "SHW"
@@ -7050,6 +7519,7 @@
    "wikidata": "Q7501150",
    "commons_category": "Shopify",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SHOP"
@@ -7065,6 +7535,7 @@
    "wikidata": "Q2287759",
    "commons_category": "Simon Property Group",
    "image": "Simon HQs.jpg",
+   "ambiguous": false,
    "ceo": "David Simon",
    "ceo_image": null,
    "id": "SPG"
@@ -7080,6 +7551,7 @@
    "wikidata": "Q141613344",
    "commons_category": "Skydance Corporation",
    "image": "Times Sq Feb 2022 06.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SKYD"
@@ -7095,6 +7567,7 @@
    "wikidata": "Q7538146",
    "commons_category": "Skyworks Solutions",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SWKS"
@@ -7110,6 +7583,7 @@
    "wikidata": "Q1536176",
    "commons_category": "Smurfit Kappa",
    "image": "Smurfit Kappa Lauenburg, Germany.jpg",
+   "ambiguous": false,
    "ceo": "Anthony Smurfit",
    "ceo_image": "Tony Smurfit.jpg",
    "id": "SW"
@@ -7125,6 +7599,7 @@
    "wikidata": "Q27022329",
    "commons_category": "Snap Inc.",
    "image": null,
+   "ambiguous": true,
    "ceo": "Evan Spiegel",
    "ceo_image": "Evan Spiegel, founder of Snapchat.jpg",
    "id": "SNAP"
@@ -7140,6 +7615,7 @@
    "wikidata": "Q1631922",
    "commons_category": "Snap-on",
    "image": "Snap-on logo.svg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SNA"
@@ -7155,6 +7631,7 @@
    "wikidata": "Q22078063",
    "commons_category": "Snowflake Inc.",
    "image": null,
+   "ambiguous": true,
    "ceo": "Frank Slootman",
    "ceo_image": "Frank Slootman Snowflake.jpg",
    "id": "SNOW"
@@ -7170,6 +7647,7 @@
    "wikidata": "Q17020720",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SOFI"
@@ -7185,6 +7663,7 @@
    "wikidata": "Q124795355",
    "commons_category": "Solventum",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SOLV"
@@ -7200,6 +7679,7 @@
    "wikidata": "Q41187",
    "commons_category": "Sony",
    "image": "Sony headquaters 1.jpg",
+   "ambiguous": false,
    "ceo": "Kenichiro Yoshida",
    "ceo_image": "Kenichiro Yoshida.jpg",
    "id": "SONY"
@@ -7215,6 +7695,7 @@
    "wikidata": "Q7564622",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Keyvan Mohajer",
    "ceo_image": null,
    "id": "SOUN"
@@ -7230,6 +7711,7 @@
    "wikidata": "Q2304693",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "SO"
@@ -7245,6 +7727,7 @@
    "wikidata": "Q503308",
    "commons_category": "Southwest Airlines",
    "image": "Southwest Airlines plane.jpg",
+   "ambiguous": false,
    "ceo": "Bob Jordan",
    "ceo_image": null,
    "id": "LUV"
@@ -7260,6 +7743,7 @@
    "wikidata": "Q193701",
    "commons_category": "SpaceX",
    "image": "SpaceX Crew Dragon (More cropped).jpg",
+   "ambiguous": false,
    "ceo": "Elon Musk",
    "ceo_image": "Elon Musk (54816836217) (cropped 2) (b).jpg",
    "id": "SPCX"
@@ -7275,6 +7759,7 @@
    "wikidata": "Q689141",
    "commons_category": "Spotify",
    "image": "Spotify HK Stockholm.jpg",
+   "ambiguous": false,
    "ceo": "Gustav Söderström",
    "ceo_image": null,
    "id": "SPOT"
@@ -7290,6 +7775,7 @@
    "wikidata": "Q706094",
    "commons_category": "Stanley Black & Decker, Inc.",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SWK"
@@ -7305,6 +7791,7 @@
    "wikidata": "Q37158",
    "commons_category": "Starbucks",
    "image": "Starbuckscenter.jpg",
+   "ambiguous": false,
    "ceo": "Brian Niccol",
    "ceo_image": "Brian Niccol.jpg",
    "id": "SBUX"
@@ -7320,6 +7807,7 @@
    "wikidata": "Q2037125",
    "commons_category": "State Street Bank",
    "image": "State Street Bank - One Congress, Boston, MA.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "STT"
@@ -7335,6 +7823,7 @@
    "wikidata": "Q7605667",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "STLD"
@@ -7350,6 +7839,7 @@
    "wikidata": "Q80947821",
    "commons_category": "Steris",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "STE"
@@ -7365,6 +7855,7 @@
    "wikidata": "Q1192211",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "MSTR"
@@ -7380,6 +7871,7 @@
    "wikidata": "Q2357515",
    "commons_category": "Stryker Corporation",
    "image": "Stryker-headquarters (2).jpg",
+   "ambiguous": true,
    "ceo": "Kevin A. Lobo",
    "ceo_image": null,
    "id": "SYK"
@@ -7395,6 +7887,7 @@
    "wikidata": "Q1817174",
    "commons_category": "Super Micro Computer",
    "image": "Supermicro Green Computing Park.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SMCI"
@@ -7410,6 +7903,7 @@
    "wikidata": "Q18387139",
    "commons_category": "Synchrony Financial",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SYF"
@@ -7425,6 +7919,7 @@
    "wikidata": "Q2303478",
    "commons_category": "Synopsys",
    "image": "Synopsys Headquarters Mountain View.jpg",
+   "ambiguous": false,
    "ceo": "Aart de Geus",
    "ceo_image": "Aart de Geus.jpg",
    "id": "SNPS"
@@ -7440,6 +7935,7 @@
    "wikidata": "Q2376711",
    "commons_category": "Sysco",
    "image": "SyscoHQHouston.JPG",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "SYY"
@@ -7455,6 +7951,7 @@
    "wikidata": "Q3511885",
    "commons_category": "T-Mobile US",
    "image": "T-Mobile Headquarters in Bellevue, WA.jpg",
+   "ambiguous": false,
    "ceo": "Mike Sievert",
    "ceo_image": "Mike Sievert.jpg",
    "id": "TMUS"
@@ -7470,6 +7967,7 @@
    "wikidata": "Q3511946",
    "commons_category": null,
    "image": "100 East Pratt Street.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TROW"
@@ -7485,6 +7983,7 @@
    "wikidata": "Q94933",
    "commons_category": "Take-Two Interactive",
    "image": "44th St 6th Av td 26 - 1133 Avenue of the Americas.jpg",
+   "ambiguous": false,
    "ceo": "Kelly Sumner",
    "ceo_image": "Headshot of Kelly Sumner for profile.jpg",
    "id": "TTWO"
@@ -7500,6 +7999,7 @@
    "wikidata": "Q56273715",
    "commons_category": "Tapestry, Inc.",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "TPR"
@@ -7515,6 +8015,7 @@
    "wikidata": "Q7685824",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TRGP"
@@ -7530,6 +8031,7 @@
    "wikidata": "Q1046951",
    "commons_category": "Target Corporation",
    "image": "Target2398.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "TGT"
@@ -7545,6 +8047,7 @@
    "wikidata": "Q1194832",
    "commons_category": "TD Canada Trust",
    "image": "Mies van der rohe 3-6-2006.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TD"
@@ -7560,6 +8063,7 @@
    "wikidata": "Q663452",
    "commons_category": "TE Connectivity",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TEL"
@@ -7575,6 +8079,7 @@
    "wikidata": "Q7696127",
    "commons_category": "Teledyne Technologies Incorporated",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TDY"
@@ -7590,6 +8095,7 @@
    "wikidata": "Q2404292",
    "commons_category": "Teradyne",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TER"
@@ -7605,6 +8111,7 @@
    "wikidata": "Q478214",
    "commons_category": "Tesla, Inc.",
    "image": "Gigafactory Texas Building 1 June 2022.jpg",
+   "ambiguous": true,
    "ceo": "Elon Musk",
    "ceo_image": "Elon Musk (54816836217) (cropped 2) (b).jpg",
    "id": "TSLA"
@@ -7620,6 +8127,7 @@
    "wikidata": "Q193412",
    "commons_category": "Texas Instruments",
    "image": "TI signboard Dallas.png",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TXN"
@@ -7635,6 +8143,7 @@
    "wikidata": "Q7707900",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TPL"
@@ -7650,6 +8159,7 @@
    "wikidata": "Q2140315",
    "commons_category": "Textron",
    "image": "Textron building in Providence, Rhode Island.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TXT"
@@ -7665,6 +8175,7 @@
    "wikidata": "Q643674",
    "commons_category": "Thermo Fisher Scientific Inc",
    "image": "Thermo Fisher headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TMO"
@@ -7680,6 +8191,7 @@
    "wikidata": "Q1285819",
    "commons_category": "TJX Companies, Inc.",
    "image": null,
+   "ambiguous": false,
    "ceo": "Carol Meyrowitz",
    "ceo_image": null,
    "id": "TJX"
@@ -7695,6 +8207,7 @@
    "wikidata": "Q120435068",
    "commons_category": "TKO Group Holdings",
    "image": null,
+   "ambiguous": true,
    "ceo": "Ari Emanuel",
    "ceo_image": "Ari Emanuel (27449561892) (2).jpg",
    "id": "TKO"
@@ -7710,6 +8223,7 @@
    "wikidata": "Q154037",
    "commons_category": "TotalEnergies",
    "image": null,
+   "ambiguous": false,
    "ceo": "Patrick Pouyanné",
    "ceo_image": "Patrick Pouyanné, PDG du groupe Total (cropped).jpg",
    "id": "TTE"
@@ -7725,6 +8239,7 @@
    "wikidata": "Q53268",
    "commons_category": "Toyota",
    "image": "Headquarter of Toyota Motor Corporation 3.JPG",
+   "ambiguous": false,
    "ceo": "Kōji Satō",
    "ceo_image": null,
    "id": "TM"
@@ -7740,6 +8255,7 @@
    "wikidata": "Q15109925",
    "commons_category": "Tractor Supply Company",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TSCO"
@@ -7755,6 +8271,7 @@
    "wikidata": "Q131744111",
    "commons_category": "Trane Technologies",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TT"
@@ -7770,6 +8287,7 @@
    "wikidata": "Q7833612",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TDG"
@@ -7785,6 +8303,7 @@
    "wikidata": "Q942471",
    "commons_category": "Travelers Insurance Company",
    "image": "Prospect Street, Hartford.jpg",
+   "ambiguous": false,
    "ceo": "Jay S. Fishman",
    "ceo_image": null,
    "id": "TRV"
@@ -7800,6 +8319,7 @@
    "wikidata": "Q2297063",
    "commons_category": "Trimble",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "TRMB"
@@ -7815,6 +8335,7 @@
    "wikidata": "Q795486",
    "commons_category": "BB&T",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TFC"
@@ -7830,6 +8351,7 @@
    "wikidata": "Q713418",
    "commons_category": "TSMC",
    "image": "TSMC Fab5.JPG",
+   "ambiguous": false,
    "ceo": "C. C. Wei",
    "ceo_image": "10.27 總統出席「第9屆工業技術研究院院士授證典禮」 (50536154856).jpg",
    "id": "TSM"
@@ -7845,6 +8367,7 @@
    "wikidata": "Q7858039",
    "commons_category": "Twilio",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TWLO"
@@ -7860,6 +8383,7 @@
    "wikidata": "Q48802335",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TYL"
@@ -7875,6 +8399,7 @@
    "wikidata": "Q1325987",
    "commons_category": "Tyson Foods",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "TSN"
@@ -7890,6 +8415,7 @@
    "wikidata": "Q739084",
    "commons_category": "U.S. Bancorp",
    "image": "US Bancorp Center Minneapolis 1.jpg",
+   "ambiguous": false,
    "ceo": "Gunjan Kedia",
    "ceo_image": null,
    "id": "USB"
@@ -7905,6 +8431,7 @@
    "wikidata": "Q780442",
    "commons_category": "Uber (company)",
    "image": "Self driving Uber prototype in San Francisco.jpg",
+   "ambiguous": false,
    "ceo": "Dara Khosrowshahi",
    "ceo_image": "CEO of Uber Technologies Dara Khosrowshahi in New York - 2019 (cropped).jpg",
    "id": "UBER"
@@ -7920,6 +8447,7 @@
    "wikidata": "Q193199",
    "commons_category": "UBS",
    "image": "UBS Switzerland Headquarters Zürich (Ank Kumar) 03.jpg",
+   "ambiguous": false,
    "ceo": "Sergio Ermotti",
    "ceo_image": "Sergio P. Ermotti.jpg",
    "id": "UBS"
@@ -7935,6 +8463,7 @@
    "wikidata": "Q27988153",
    "commons_category": "UDR, Inc.",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "UDR"
@@ -7950,6 +8479,7 @@
    "wikidata": "Q55080120",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Daniel Dines",
    "ceo_image": "2021 - Centre Stage EN6 5562 (51652161468) (cropped).jpg",
    "id": "PATH"
@@ -7965,6 +8495,7 @@
    "wikidata": "Q7880076",
    "commons_category": "Ulta Beauty stores",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ULTA"
@@ -7980,6 +8511,7 @@
    "wikidata": "Q157062",
    "commons_category": "Unilever",
    "image": "Unilever House Mars 2014 01.jpg",
+   "ambiguous": false,
    "ceo": "Fernando Fernández",
    "ceo_image": null,
    "id": "UL"
@@ -7995,6 +8527,7 @@
    "wikidata": "Q20183163",
    "commons_category": "Union Pacific Railroad",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "UNP"
@@ -8010,6 +8543,7 @@
    "wikidata": "Q174769",
    "commons_category": "United Airlines",
    "image": "United Airlines, N69063, Boeing 767-424 ER (49597633137).jpg",
+   "ambiguous": false,
    "ceo": "Scott Kirby",
    "ceo_image": "Scott Kirby, United Airlines.jpg",
    "id": "UAL"
@@ -8025,6 +8559,7 @@
    "wikidata": "Q155026",
    "commons_category": "United Parcel Service",
    "image": "HTS Systems UPS Ground.jpg",
+   "ambiguous": false,
    "ceo": "Carol Tomé",
    "ceo_image": null,
    "id": "UPS"
@@ -8040,6 +8575,7 @@
    "wikidata": "Q7889101",
    "commons_category": "United Rentals",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "URI"
@@ -8055,6 +8591,7 @@
    "wikidata": "Q2103926",
    "commons_category": "UnitedHealth Group",
    "image": null,
+   "ambiguous": false,
    "ceo": "Stephen J. Hemsley",
    "ceo_image": null,
    "id": "UNH"
@@ -8070,6 +8607,7 @@
    "wikidata": "Q7893816",
    "commons_category": "Unity Technologies",
    "image": null,
+   "ambiguous": false,
    "ceo": "Matthew Bromberg",
    "ceo_image": null,
    "id": "U"
@@ -8085,6 +8623,7 @@
    "wikidata": "Q7893967",
    "commons_category": "Universal Health Services",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "UHS"
@@ -8100,6 +8639,7 @@
    "wikidata": "Q583268",
    "commons_category": "Vale (company)",
    "image": "Carajas Mine.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "VALE"
@@ -8115,6 +8655,7 @@
    "wikidata": "Q1283291",
    "commons_category": "Valero Energy Corporation",
    "image": "Valero campus (2).JPG",
+   "ambiguous": false,
    "ceo": "Lane Riggs",
    "ceo_image": null,
    "id": "VLO"
@@ -8130,6 +8671,7 @@
    "wikidata": "Q24204493",
    "commons_category": "Veeva Systems",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "VEEV"
@@ -8145,6 +8687,7 @@
    "wikidata": "Q19865761",
    "commons_category": "Ventas",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "VTR"
@@ -8160,6 +8703,7 @@
    "wikidata": "Q124721239",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "VLTO"
@@ -8175,6 +8719,7 @@
    "wikidata": "Q734338",
    "commons_category": "Verisign",
    "image": "Verisignheadquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "VRSN"
@@ -8190,6 +8735,7 @@
    "wikidata": "Q7921370",
    "commons_category": null,
    "image": "Jersey-city-new-jersy-night.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "VRSK"
@@ -8205,6 +8751,7 @@
    "wikidata": "Q467752",
    "commons_category": "Verizon",
    "image": "Verizon Building (8156005279).jpg",
+   "ambiguous": false,
    "ceo": "Dan Schulman",
    "ceo_image": "Dan Schulman.jpg",
    "id": "VZ"
@@ -8220,6 +8767,7 @@
    "wikidata": "Q2744099",
    "commons_category": "Vertex Pharmaceuticals",
    "image": null,
+   "ambiguous": false,
    "ceo": "Reshma Kewalramani",
    "ceo_image": null,
    "id": "VRTX"
@@ -8235,6 +8783,7 @@
    "wikidata": "Q5370909",
    "commons_category": "Vertiv",
    "image": null,
+   "ambiguous": false,
    "ceo": "Giordano Albertazzi",
    "ceo_image": null,
    "id": "VRT"
@@ -8250,6 +8799,7 @@
    "wikidata": "Q101983981",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Scott A. Smith",
    "ceo_image": null,
    "id": "VTRS"
@@ -8265,6 +8815,7 @@
    "wikidata": "Q54263910",
    "commons_category": null,
    "image": "Caesars Palace Las Vegas.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "VICI"
@@ -8280,6 +8831,7 @@
    "wikidata": "Q328840",
    "commons_category": "Visa Inc.",
    "image": "Visa headquarters - August 2025 - Sarah Stierch.jpg",
+   "ambiguous": true,
    "ceo": "Ryan McInerney",
    "ceo_image": null,
    "id": "V"
@@ -8295,6 +8847,7 @@
    "wikidata": "Q104158381",
    "commons_category": null,
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "VST"
@@ -8310,6 +8863,7 @@
    "wikidata": "Q187740",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "VMRK"
@@ -8325,6 +8879,7 @@
    "wikidata": "Q1685287",
    "commons_category": "Vulcan Materials Company",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "VMC"
@@ -8340,6 +8895,7 @@
    "wikidata": "Q63197674",
    "commons_category": "Corteva",
    "image": null,
+   "ambiguous": false,
    "ceo": "Chuck Magro",
    "ceo_image": null,
    "id": "VYLR"
@@ -8355,6 +8911,7 @@
    "wikidata": "Q1369955",
    "commons_category": null,
    "image": "W. R. Berkley Corporation headquarters 1.jpg",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "WRB"
@@ -8370,6 +8927,7 @@
    "wikidata": "Q1627894",
    "commons_category": "W. W. Grainger",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "GWW"
@@ -8385,6 +8943,7 @@
    "wikidata": "Q741707",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "WAB"
@@ -8400,6 +8959,7 @@
    "wikidata": "Q483551",
    "commons_category": "Walmart",
    "image": "Walmart 7.jpg",
+   "ambiguous": false,
    "ceo": "Doug McMillon",
    "ceo_image": "Doug McMillon Profile Photo.png",
    "id": "WMT"
@@ -8415,6 +8975,7 @@
    "wikidata": "Q7414",
    "commons_category": "The Walt Disney Company",
    "image": "Walt Disney Studios Alameda Entrance.jpg",
+   "ambiguous": true,
    "ceo": "Josh D'Amaro",
    "ceo_image": "Josh D'Amaro Warrior Games 2022 (cropped).jpg",
    "id": "DIS"
@@ -8430,6 +8991,7 @@
    "wikidata": "Q2552219",
    "commons_category": "Waste Management (corporation)",
    "image": "FirstCityTowerWasteManagement.JPG",
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "WM"
@@ -8445,6 +9007,7 @@
    "wikidata": "Q1322011",
    "commons_category": "Waters Corporation",
    "image": null,
+   "ambiguous": true,
    "ceo": null,
    "ceo_image": null,
    "id": "WAT"
@@ -8460,6 +9023,7 @@
    "wikidata": "Q8027166",
    "commons_category": "WEC Energy Group",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "WEC"
@@ -8475,6 +9039,7 @@
    "wikidata": "Q744149",
    "commons_category": "Wells Fargo",
    "image": "Wellsfargohq.jpg",
+   "ambiguous": false,
    "ceo": "Charlie Scharf",
    "ceo_image": "Charles Scharf in 2020.png",
    "id": "WFC"
@@ -8490,6 +9055,7 @@
    "wikidata": "Q20486917",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": "Shankh Mitra",
    "ceo_image": null,
    "id": "WELL"
@@ -8505,6 +9071,7 @@
    "wikidata": "Q30338243",
    "commons_category": "West Pharmaceutical Services",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "WST"
@@ -8520,6 +9087,7 @@
    "wikidata": "Q738770",
    "commons_category": "Western Digital",
    "image": "Western Digital Headquarters.jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "WDC"
@@ -8535,6 +9103,7 @@
    "wikidata": "Q1780382",
    "commons_category": "Weyerhaeuser Company",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "WY"
@@ -8550,6 +9119,7 @@
    "wikidata": "Q930639",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "WMB"
@@ -8565,6 +9135,7 @@
    "wikidata": "Q2581220",
    "commons_category": "Williams-Sonoma",
    "image": null,
+   "ambiguous": false,
    "ceo": "Laura J. Alber",
    "ceo_image": "Laura J. Alber (born 1968) at World Economic Forum Davos 2023.png",
    "id": "WSM"
@@ -8580,6 +9151,7 @@
    "wikidata": "Q21189883",
    "commons_category": null,
    "image": "Willis Building (London).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "WTW"
@@ -8595,6 +9167,7 @@
    "wikidata": "Q8034666",
    "commons_category": "Workday, Inc.",
    "image": "Workday Headquarters.jpg",
+   "ambiguous": true,
    "ceo": "Aneel Bhusri",
    "ceo_image": "Aneel Bhusri (8518025145) (cropped).jpg",
    "id": "WDAY"
@@ -8610,6 +9183,7 @@
    "wikidata": "Q2274089",
    "commons_category": "Wynn Resorts",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "WYNN"
@@ -8625,6 +9199,7 @@
    "wikidata": "Q1486956",
    "commons_category": "Xcel Energy",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "XEL"
@@ -8640,6 +9215,7 @@
    "wikidata": "Q63035278",
    "commons_category": "XPeng",
    "image": "SZ 深圳 Shenzhen 龍華 Longhua Rainbow Shopping Mall shop 小鵬 car showroom May 2023 Px3 01.jpg",
+   "ambiguous": false,
    "ceo": "He Xiaopeng",
    "ceo_image": "XPeng, IAA Summit 2025, Munich (20250908-P1049620).jpg",
    "id": "XPEV"
@@ -8655,6 +9231,7 @@
    "wikidata": "Q3146975",
    "commons_category": "Xylem Inc.",
    "image": "Xylem 04.jpg",
+   "ambiguous": true,
    "ceo": "Matthew Pine",
    "ceo_image": "Matthew Pine (P-070311-00-20) (cropped).jpg",
    "id": "XYL"
@@ -8670,6 +9247,7 @@
    "wikidata": "Q668737",
    "commons_category": "Yum! Brands",
    "image": "Tacobellkfcrestaurants.jpg",
+   "ambiguous": false,
    "ceo": "Greg Creed",
    "ceo_image": null,
    "id": "YUM"
@@ -8685,6 +9263,7 @@
    "wikidata": "Q2443609",
    "commons_category": "Zebra Technologies",
    "image": "Zebra TC-56 (IMG 0339).jpg",
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ZBRA"
@@ -8700,6 +9279,7 @@
    "wikidata": "Q203552",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ZBH"
@@ -8715,6 +9295,7 @@
    "wikidata": "Q8073337",
    "commons_category": null,
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ZTS"
@@ -8730,6 +9311,7 @@
    "wikidata": "Q17460900",
    "commons_category": "Zoom Video Communications",
    "image": "Zoomheadquarters.jpg",
+   "ambiguous": true,
    "ceo": "Eric S. Yuan",
    "ceo_image": "Eric Yuan 2025 (cropped).jpg",
    "id": "ZM"
@@ -8745,6 +9327,7 @@
    "wikidata": "Q8074786",
    "commons_category": "Zscaler",
    "image": null,
+   "ambiguous": false,
    "ceo": null,
    "ceo_image": null,
    "id": "ZS"

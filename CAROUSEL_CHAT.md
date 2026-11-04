@@ -19,7 +19,8 @@ Banco de imágenes de InvestIQ
 - Pon el crédito de cada foto que uses tal cual aparece en "credit", en letra pequeña en la diapositiva o en
   una diapositiva final de créditos.
 - Solo recortar: no retoques, no redibujes y no generes imágenes parecidas. En las fotos de personas reales
-  ("person": true) no des a entender que esa persona respalda InvestIQ.
+  ("person": true) no des a entender que esa persona respalda InvestIQ. Los cargos (CEO, presidente...) pueden
+  estar desfasados: compruébalos antes de nombrarlos.
 - Si una empresa tiene "fill_from", sus fotos propias no llegan a 10: puedes completar con las de ese
   sector, pero son genéricas y nunca las presentes como de la empresa.
 ```
