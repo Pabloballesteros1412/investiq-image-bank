@@ -1,7 +1,2 @@
-# full-size photos stay out of Git; the slide crops and previews are committed so the carousel chat can fetch them
-bank/**/*.jpg
-!bank/**/*.4x5.jpg
-!bank/**/*.1x1.jpg
-!bank/**/*.thumb.jpg
 __pycache__/
 *.pyc

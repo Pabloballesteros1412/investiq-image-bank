@@ -1,109 +1,110 @@
 # Banco de imágenes de InvestIQ para carruseles
 
-Un banco de fotos propio, reales y con licencia libre, para que el chat de Claude que hace los carruseles de
-InvestIQ las use: 5 o 6 por cada gran empresa y por cada tema de mercado, ya recortadas a 4:5 y 1:1, con
-el crédito de cada foto y un índice (`bank/index.json`) que el chat lee para encontrarlas. Cómo conectarlo al
-chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
+Un banco de fotos propio, reales y con licencia libre, para el chat de Claude que hace los carruseles de
+InvestIQ. Tiene 10 fotos por cada empresa del S&P 500 y por cada empresa famosa que cotiza en EE. UU., 10 por
+cada tema de mercado y 10 por cada sector. Las fotos no se copian: el banco guarda el enlace de cada una en
+Wikimedia Commons, qué muestra, su crédito y dónde recortarla. El chat lo lee en `bank/index.json`. Cómo
+conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
 
-- **50 empresas** (297 tomas): AAPL, MSFT, NVDA, AMZN, GOOGL, META, TSLA, AVGO, ORCL, NFLX, PLTR, AMD, INTC,
-  TSM, ASML, CRM, ADBE, IBM, MU, SPCX, BRK-B, JPM, V, MA, LLY, NVO, UNH, JNJ, PFE, WMT, COST, XOM, CVX, KO, PEP,
-  MCD, NKE, DIS, SBUX, HD, BA, CAT, LMT, GE, GS, BAC, BLK, UBER, MSTR, COIN.
-  Normalmente: sede, producto o fábrica, tienda o planta, evento, y su CEO o fundador.
-- **29 temas** (171 tomas): Fed y tipos, inflación, recesión, empleo, Wall Street alcista, crash y volatilidad,
-  IA, centros de datos y energía, semiconductores, bitcoin y cripto, oro, petróleo, aranceles, China, dólar,
-  bonos y deuda, vivienda, temporada de resultados, salidas a bolsa, coches eléctricos, nuclear y uranio,
-  defensa, consumo, bancos, invertir y jubilación, economía espacial, fármacos GLP-1, política de EE. UU.,
-  Europa y BCE.
-
-Qué muestra cada toma está en `catalog.json`. Para añadir una empresa o un tema, o cambiar una toma, se edita
-ahí y después se ejecutan `python image_bank.py check` y `python image_bank.py build --only <ID>`.
+- **Empresas (unas 590):** las del S&P 500, que se leen de Wikipedia en cada `universe`, más 86 empresas
+  famosas que cotizan en EE. UU. y no están en el índice (`extras.json`: TSMC, ASML, Novo Nordisk, Alibaba,
+  Shopify, Spotify, SpaceX, Rivian, IonQ...). 50 de ellas tienen además tomas escritas a mano en `catalog.json`
+  (sede, producto, tienda, evento, CEO).
+- **37 temas:** Fed, inflación, recesión, empleo, Wall Street, crash, IA, centros de datos, chips, cripto, oro,
+  petróleo, aranceles, China, dólar, bonos, vivienda, resultados, salidas a bolsa, coches eléctricos, nuclear,
+  defensa, consumo, bancos, invertir, espacio, GLP-1, política de EE. UU., Europa, computación cuántica,
+  robótica, ciberseguridad, India, Japón, metales, viajes y lujo.
+- **11 sectores GICS:** tecnología, salud, finanzas, consumo discrecional, comunicación, industria, consumo
+  básico, energía, servicios públicos, inmobiliario y materiales. Rellenan los huecos de las empresas que no
+  llegan a 10 fotos propias, marcadas como genéricas.
 
 ## Construirlo
 
-Hace falta Python 3.9 o superior, Pillow (`pip install pillow`) y acceso a `commons.wikimedia.org` y
-`upload.wikimedia.org`.
+Hace falta Python 3.9 o superior (sin más paquetes) y acceso a `en.wikipedia.org`, `www.wikidata.org` y
+`commons.wikimedia.org`.
 
+```bash
+python image_bank.py universe
+```
 ```bash
 python image_bank.py build
 ```
 
-Tarda unos 20–30 minutos la primera vez. Si se corta, vuelve a ejecutarlo: solo hace lo que falta. Después,
-sube los cambios a GitHub (`git add bank && git commit && git push`) para que el chat vea las fotos nuevas.
+`universe` lee la lista del S&P 500 y busca cada empresa en Wikidata: su categoría de Commons, su CEO y su
+imagen principal. `build` busca las fotos. La primera vez tarda una hora o más; si se corta, vuelve a
+ejecutarlo y solo hace lo que falta. Al terminar, sube los cambios (`git add -A && git commit && git push`):
+el chat ve el banco nuevo en cuanto están en GitHub.
 
 | Comando | Qué hace |
 |---|---|
-| `build` | busca y descarga las tomas que faltan, y genera el índice, los créditos, los prompts y la hoja de revisión |
-| `build --only NVDA,gold` | repite esas empresas o temas (sirve el ID, el ticker o un alias) |
-| `build --redo` | repite todas las tomas, menos las corregidas a mano |
+| `universe` | rehace la lista de empresas (`bank/universe.json`); conviene repetirlo cuando cambie el S&P 500 |
+| `build` | busca las fotos de todo lo que falta y genera el índice, los créditos y los prompts |
+| `build --only NVDA,gold` | repite esas empresas, temas o sectores (sirve el ID, el ticker o un alias) |
+| `build --kind topic,sector` | solo temas y sectores (o solo `company`) |
+| `build --redo` | repite todo, menos lo corregido a mano |
 | `build --no-sa` | descarta las fotos CC BY-SA (ver Licencias) |
-| `build --formats 4x5,1x1,16x9,9x16` | recortes que se generan (por defecto 4x5 y 1x1; también hay 3x4 para TikTok) |
-| `index --base-url URL` | vuelve a generar `index.json` con otra dirección pública (por defecto, la del repo en GitHub) |
-| `list NVDA --format 1x1` | rutas y créditos de las fotos de una empresa o tema |
-| `sheet` · `credits` · `prompts [--all]` | vuelve a generar solo la hoja de revisión, los créditos o los prompts |
-| `check` | valida `catalog.json` |
+| `index --base-url URL` | vuelve a generar el índice con otra dirección pública (por defecto, la del repo en GitHub) |
+| `list NVDA` | enlaces, descripción y crédito de las fotos de una empresa, tema o sector |
+| `credits` · `prompts [--all]` | vuelve a generar solo los créditos o los prompts |
+| `check` | valida `catalog.json` y `extras.json` |
+| `python dashboard.py` | vuelve a generar la galería (`docs/index.html`) |
 
-## Qué genera (en `bank/`)
+## Qué genera
 
-- `<ID>/<toma>.4x5.jpg` (1200×1500, diapositiva vertical de Instagram y documento de LinkedIn),
-  `<toma>.1x1.jpg` (1200×1200, cuadrada) y `<toma>.thumb.jpg` (miniatura). Ejemplo: `bank/NVDA/leader.4x5.jpg`.
-  Estos archivos van a Git (unos 250 MB en total) para que el chat los descargue por su enlace público.
-  La foto a tamaño completo (`<toma>.jpg`, lado largo de 2560 px) se queda fuera de Git y sirve para hacer
-  nuevos recortes.
-- `index.json`: lo que lee el chat de carruseles. Por cada foto: qué muestra, si sale una persona real, el
-  enlace de cada recorte, el crédito y la fuente, más las reglas de uso.
-- `manifest.json`: el detalle completo de cada toma (archivo de Commons, autor, licencia, año, avisos y tres
-  alternativas).
-- `CREDITS.md` y `credits.csv`: el crédito de cada foto.
-- `review.html`: todas las tomas de un vistazo. Las que conviene revisar salen en naranja.
-- `prompts.jsonl`: un prompt de imagen con IA para cada toma sin foto. Nunca incluye tomas de personas reales.
-
-## Panel
-
-`python dashboard.py salida.html` genera una página con todas las tomas: su estado, su foto (cuando está
-descargada), su crédito, el enlace a Commons y el prompt de IA. Está publicada en
-https://claude.ai/artifact/GH9JEo598mzHkmJkjAmc1e. Las miniaturas se publican junto a la página
-(`dashboard.thumb_files()`).
+- `bank/index.json`: todas las fichas (empresas, temas, sectores) con su número de fotos, el enlace a su
+  archivo y las reglas de uso para el chat.
+- `bank/subjects/<ID>.json`: las fotos de cada ficha. Por cada foto: `url` (la foto en Commons, de 1280 o
+  1920 px de ancho), `preview` (500 px), `shows` (qué muestra), `focus` (el punto donde centrar el recorte),
+  `credit`, `licence` y `source` (su página en Commons). Si una empresa tiene menos de 10, `fill_from` indica
+  el sector que la completa.
+- `bank/universe.json`: la lista de empresas con su ficha de Wikidata.
+- `bank/manifest.json`: el detalle completo (archivo, autor, año, cómo se encontró, avisos).
+- `bank/CREDITS.md` y `bank/credits.csv`: el crédito de cada foto.
+- `bank/prompts.jsonl`: un prompt de imagen con IA para cada toma escrita a mano que se quede sin foto.
+  Nunca incluye tomas de personas reales.
+- `docs/index.html`: la galería para revisar el banco con las miniaturas. Se publica con GitHub Pages
+  (Settings → Pages → Branch `main`, carpeta `/docs`).
 
 ## Cómo elige cada foto
 
-Busca en Wikimedia Commons con la consulta de la toma y, si salen menos de tres fotos válidas, con las
-alternativas. Solo acepta fotos que cumplen todo esto:
+Una empresa recibe primero sus tomas escritas a mano (si las tiene), después su imagen principal de Wikidata,
+una foto de su CEO, las mejores fotos de su categoría de Commons y subcategorías (como mucho dos por
+subcategoría y sin casi duplicados) y, si aún faltan, búsquedas de su sede, tiendas, fábricas y oficinas en
+las que aparezca el nombre de la empresa. Los temas y sectores tienen 10 búsquedas escritas a mano.
+
+Solo acepta fotos que cumplen todo esto:
 
 - licencia libre: CC0, dominio público, CC BY o CC BY-SA;
-- al menos 1600 px de lado largo y 1000 px de lado corto;
+- al menos 1600 px de lado largo y 1000 px de lado corto, en JPEG o PNG;
 - un nombre de archivo que no indique logo, mapa, gráfico, diagrama, captura o ilustración;
-- que no la use ya otra toma.
+- que no se use ya en otra ficha.
 
-Puntúan mejor las fotos destacadas o de calidad de Commons, las que recortan bien a 4:5 y 1:1 (las
-panorámicas puntúan peor), las recientes (salvo en tomas históricas) y las de licencia más libre. En las
-fotos de personas, el recorte se centra en el tercio superior, donde suele estar la cara.
+Puntúan mejor las fotos destacadas o de calidad de Commons, las que recortan bien a 4:5 y 1:1, las recientes
+(salvo en tomas históricas) y las de licencia más libre.
 
-## Revisar y corregir a mano
+Muchas empresas poco conocidas no tendrán 10 fotos libres propias: el índice lo dice y el chat las completa
+con las de su sector.
 
-Se abre `bank/review.html` y, para cada toma que no convenza, se edita la toma en `bank/manifest.json`. Hay
-que listar en `"manual"` el campo que se cambia. Los cambios se mantienen en cada `build`.
+## Corregir a mano
 
-- `"exclude": ["File:…"], "manual": ["exclude"]`: no usar nunca esas fotos (pasa a la siguiente).
-- `"prefer": "File:…", "manual": ["prefer"]`: usar esa foto (por ejemplo, una de las alternativas).
-- `"focus": [0.3, 0.4], "manual": ["focus"]`: el punto que conservan los recortes (0–1, de izquierda a
-  derecha y de arriba abajo).
-- `"manual": true`: no tocar nunca esa toma.
-
-Después: `python image_bank.py build --only <ID>`.
+- **Una foto mala:** en `bank/manifest.json`, en la ficha, añade `"exclude": ["File:…"]` y
+  `"manual": ["exclude"]`, y después ejecuta `python image_bank.py build --only <ID>`.
+- **Una ficha que no se debe tocar más:** `"manual": true`.
+- **Una empresa con la categoría de Commons, el CEO o el nombre equivocados:** en `bank/universe.json`,
+  corrige el campo y añade `"manual": ["commons_category"]` (o el campo que sea). Se mantiene en cada
+  `universe`.
+- **Una empresa que falta o sobra:** añádela o quítala en `extras.json`.
 
 ## Licencias
 
-- **Crédito.** CC BY y CC BY-SA obligan a citar al autor y la licencia. El texto está listo en el campo
-  `credit` de cada foto, por ejemplo: «Daniel L. Lu, CC BY-SA 4.0, via Wikimedia Commons». En un carrusel
-  basta con ponerlo en letra pequeña en la diapositiva o en una diapositiva final de créditos.
-- **CC BY-SA.** Se discute si un carrusel que incluye una foto CC BY-SA tiene que publicarse con esa misma
-  licencia. Para evitar la duda, usa `--no-sa`: solo deja CC0, dominio público y CC BY, a cambio de menos
-  fotos.
+- **Crédito.** CC BY y CC BY-SA obligan a citar al autor y la licencia. El texto está listo en `credit`,
+  por ejemplo: «Daniel L. Lu, CC BY-SA 4.0, via Wikimedia Commons». En un carrusel basta con ponerlo en letra
+  pequeña en la diapositiva o en una diapositiva final de créditos.
+- **CC BY-SA.** Se discute si un carrusel con una foto CC BY-SA tiene que publicarse con esa misma licencia.
+  Para evitar la duda, usa `--no-sa`: deja solo CC0, dominio público y CC BY, a cambio de menos fotos.
 - **Personas y marcas.** Las fotos de personas (los CEO) sirven para un uso informativo, no para dar a
-  entender que la persona respalda InvestIQ. Los logos y los productos que salen en las fotos siguen siendo
-  marcas de sus dueños. El manifiesto avisa cuando Commons marca una foto con restricciones
-  (`personality`, `trademarked`).
-- **CEO.** Comprueba el cargo antes de publicar. El catálogo nombra a quien sale en la foto, pero los cargos
-  cambian.
-- **Repo público.** Para que el chat descargue las fotos, el repo tiene que ser público. Solo contiene el
-  código, el catálogo y fotos con licencia libre con sus créditos.
+  entender que la persona respalda InvestIQ. Los logos y productos que salen en las fotos siguen siendo
+  marcas de sus dueños.
+- **CEO.** Wikidata dice quién es el CEO, pero puede ir con retraso: comprueba el cargo antes de publicar.
+- **Enlaces.** Si una foto se borra de Commons, su enlace deja de funcionar. Repetir `build --redo` de vez en
+  cuando renueva el banco.

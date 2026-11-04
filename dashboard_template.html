@@ -3,7 +3,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
 <style>
-/* Layout: InvestIQ "page room" — sticky search bar, subject index on the left, contact sheets of photo frames (4:5 crop guide) on the right. */
+/* Layout: InvestIQ "page room" — sticky search bar, a grid of subject cards with a strip of previews; #ID opens one subject's 10 photos. */
 :root {
   --bg: #f2f5fb;
   --surface: #ffffff;
@@ -14,15 +14,12 @@
   --accent: #2563eb;
   --accent-soft: rgba(59, 130, 246, 0.10);
   --frame: #e9edf5;
-  --frame-line: #b9c2d3;
   --caution: #b25b00;
   --caution-bg: #fffbf0;
   --gain: #058a3f;
   --gain-bg: #f0faf5;
-  --loss: #bf4800;
   --font: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Inter", system-ui, sans-serif;
   --fs-title: clamp(26px, 4vw, 38px);
-  --fs-h2: 19px;
   --fs-body: 14px;
   --fs-small: 12px;
   --fs-micro: 11px;
@@ -32,35 +29,34 @@
   :root:not([data-theme="light"]) {
     --bg: #0c0e13; --surface: #16191f; --ink: #f5f5f7; --ink-2: #a1a1a6; --ink-3: #8a8a90;
     --line: rgba(255, 255, 255, 0.10); --accent: #60a5fa; --accent-soft: rgba(96, 165, 250, 0.14);
-    --frame: #1d212a; --frame-line: #3d4452; --caution: #f0a24a; --caution-bg: rgba(240, 162, 74, 0.10);
-    --gain: #4ade80; --gain-bg: rgba(74, 222, 128, 0.10); --loss: #fb8c4a; color-scheme: dark;
+    --frame: #1d212a; --caution: #f0a24a; --caution-bg: rgba(240, 162, 74, 0.10);
+    --gain: #4ade80; --gain-bg: rgba(74, 222, 128, 0.10); color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0c0e13; --surface: #16191f; --ink: #f5f5f7; --ink-2: #a1a1a6; --ink-3: #8a8a90;
   --line: rgba(255, 255, 255, 0.10); --accent: #60a5fa; --accent-soft: rgba(96, 165, 250, 0.14);
-  --frame: #1d212a; --frame-line: #3d4452; --caution: #f0a24a; --caution-bg: rgba(240, 162, 74, 0.10);
-  --gain: #4ade80; --gain-bg: rgba(74, 222, 128, 0.10); --loss: #fb8c4a; color-scheme: dark;
+  --frame: #1d212a; --caution: #f0a24a; --caution-bg: rgba(240, 162, 74, 0.10);
+  --gain: #4ade80; --gain-bg: rgba(74, 222, 128, 0.10); color-scheme: dark;
 }
 * { box-sizing: border-box; }
-body {
-  background: var(--bg); color: var(--ink); font-family: var(--font); font-size: var(--fs-body);
-  line-height: 1.45; letter-spacing: -0.005em; font-variant-numeric: tabular-nums;
-}
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: var(--fs-body); line-height: 1.45; letter-spacing: -0.005em; font-variant-numeric: tabular-nums; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+[hidden] { display: none !important; }
+img { max-width: 100%; }
 .wrap { max-width: 1320px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 6px; }
 
-header.top { padding-block: 28px 18px; display: grid; gap: 14px; }
+header.top { padding-block: 28px 18px; display: grid; gap: 12px; }
 .eyebrow { font-size: var(--fs-micro); font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); }
 h1 { font-size: var(--fs-title); font-weight: 700; letter-spacing: -0.025em; line-height: 1.1; margin: 0; text-wrap: balance; }
 .summary { display: flex; flex-wrap: wrap; gap: 6px 18px; color: var(--ink-2); }
 .summary b { color: var(--ink); font-weight: 600; }
 .meter { height: 6px; border-radius: 3px; background: var(--frame); overflow: hidden; max-width: 520px; }
 .meter i { display: block; height: 100%; background: var(--gain); }
-.notice { background: var(--caution-bg); border: 1px solid var(--line); border-radius: var(--radius); padding-block: 12px; padding-inline: 16px; max-width: 820px; display: grid; gap: 4px; }
+.notice { background: var(--caution-bg); border: 1px solid var(--line); border-radius: var(--radius); padding-block: 12px; padding-inline: 16px; max-width: 860px; display: grid; gap: 4px; }
 .notice strong { color: var(--caution); font-weight: 600; }
 .notice p { margin: 0; color: var(--ink-2); }
 
@@ -69,47 +65,44 @@ h1 { font-size: var(--fs-title); font-weight: 700; letter-spacing: -0.025em; lin
 .search { flex: 1 1 260px; min-width: 0; display: flex; align-items: center; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding-inline: 12px; }
 .search input { flex: 1; min-width: 0; border: 0; background: transparent; color: var(--ink); font: inherit; padding-block: 9px; outline: none; }
 .search svg { flex: none; color: var(--ink-3); }
-.seg { display: inline-flex; background: var(--frame); border-radius: 10px; padding: 3px; }
+.seg { display: inline-flex; flex-wrap: wrap; background: var(--frame); border-radius: 10px; padding: 3px; }
 .seg input { position: absolute; opacity: 0; pointer-events: none; }
 .seg label { padding: 6px 12px; border-radius: 8px; cursor: pointer; color: var(--ink-2); font-weight: 500; font-size: 13px; }
 .seg input:checked + label { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08); }
 .seg input:focus-visible + label { outline: 2px solid var(--accent); }
 .count { color: var(--ink-3); font-size: var(--fs-small); white-space: nowrap; }
 
-.layout { display: grid; grid-template-columns: 220px minmax(0, 1fr); gap: 28px; padding-block: 20px 60px; }
-nav.index { position: sticky; top: calc(env(safe-area-inset-top, 0px) + 72px); align-self: start; max-height: calc(100vh - 96px); overflow-y: auto; display: grid; gap: 14px; padding-right: 4px; }
-nav.index h4 { margin: 0 0 4px; font-size: var(--fs-micro); font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-3); }
-nav.index ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 1px; }
-nav.index a { display: flex; justify-content: space-between; gap: 8px; padding: 4px 8px; border-radius: 7px; color: var(--ink-2); font-size: 13px; }
-nav.index a:hover { background: var(--accent-soft); color: var(--ink); text-decoration: none; }
-nav.index a span:first-child { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-nav.index a .n { color: var(--ink-3); font-size: var(--fs-micro); }
-
-main { display: grid; gap: 34px; min-width: 0; }
-section.subject { display: grid; gap: 12px; scroll-margin-top: calc(env(safe-area-inset-top, 0px) + 72px); }
-.sh { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 10px; }
-.sh h2 { font-size: var(--fs-h2); font-weight: 600; letter-spacing: -0.018em; margin: 0; }
+main { padding-block: 20px 60px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+a.card { display: grid; gap: 8px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px; color: var(--ink); min-width: 0; }
+a.card:hover { text-decoration: none; border-color: var(--accent); }
+.card .head { display: flex; align-items: baseline; gap: 6px 8px; flex-wrap: wrap; min-width: 0; }
+.card .head b { font-weight: 600; font-size: 15px; letter-spacing: -0.012em; }
+.card .n { margin-left: auto; }
+.strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 4px; }
+.strip span { aspect-ratio: 4 / 5; border-radius: 6px; background: var(--frame); overflow: hidden; display: block; }
+.strip img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .chip { font-size: var(--fs-micro); font-weight: 600; padding: 2px 7px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); letter-spacing: 0.02em; }
 .chip.kind { background: var(--frame); color: var(--ink-2); }
-.sh .tally { margin-left: auto; color: var(--ink-3); font-size: var(--fs-small); }
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 12px; }
-
-article.shot { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; min-width: 0; }
-.frame { position: relative; aspect-ratio: 16 / 9; max-width: 100%; background: var(--frame); display: flex; align-items: center; justify-content: center; }
-.frame img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-.frame .crop { position: absolute; top: 8%; bottom: 8%; left: 50%; width: calc(84% * 9 / 16 * 4 / 5); transform: translateX(-50%); border: 1px dashed var(--frame-line); border-radius: 3px; }
-.frame .fmt { position: absolute; left: 8px; bottom: 6px; font-size: 10px; color: var(--ink-3); letter-spacing: 0.04em; }
-.frame .file { position: relative; font-size: var(--fs-small); color: var(--ink-2); background: var(--frame); padding: 2px 6px; border-radius: 5px; }
-.pill { position: absolute; top: 8px; right: 8px; font-size: 10px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; padding: 3px 7px; border-radius: 20px; }
-.pill.pending { background: var(--surface); color: var(--ink-2); border: 1px solid var(--line); }
+.pill { font-size: 10px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; padding: 3px 7px; border-radius: 20px; white-space: nowrap; }
+.pill.pending { background: var(--frame); color: var(--ink-2); }
 .pill.ok { background: var(--gain-bg); color: var(--gain); }
-.pill.missing, .pill.error { background: var(--caution-bg); color: var(--loss); }
+.pill.low { background: var(--caution-bg); color: var(--caution); }
+.empty { color: var(--ink-2); padding-block: 40px; text-align: center; }
+
+.detail { display: grid; gap: 14px; }
+.back { font-size: 13px; }
+.dh { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 10px; }
+.dh h2 { font-size: 24px; font-weight: 700; letter-spacing: -0.02em; margin: 0; text-wrap: balance; }
+.dnote { color: var(--ink-2); margin: 0; max-width: 760px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; }
+article.shot { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; min-width: 0; }
+.frame { position: relative; aspect-ratio: 4 / 5; max-width: 100%; background: var(--frame); display: flex; align-items: center; justify-content: center; color: var(--ink-3); font-size: var(--fs-small); text-align: center; padding: 12px; }
+.frame img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
 .body { padding: 10px 12px 12px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
-.scene { margin: 0; font-size: 13px; color: var(--ink); }
-.tags { display: flex; flex-wrap: wrap; gap: 5px; }
-.tag { font-size: 10px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--caution); background: var(--caution-bg); padding: 2px 6px; border-radius: 5px; }
-.tag.hist { color: var(--ink-2); background: var(--frame); }
-.credit { font-size: var(--fs-micro); color: var(--ink-3); margin: 0; }
+.scene { margin: 0; font-size: 13px; }
+.tag { align-self: flex-start; font-size: 10px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; color: var(--caution); background: var(--caution-bg); padding: 2px 6px; border-radius: 5px; }
+.credit { font-size: var(--fs-micro); color: var(--ink-3); margin: 0; overflow-wrap: anywhere; }
 .actions { margin-top: auto; display: flex; flex-wrap: wrap; gap: 6px; }
 .btn { font: inherit; font-size: 12px; font-weight: 500; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; display: inline-flex; align-items: center; gap: 4px; }
 .btn:hover { background: var(--accent-soft); text-decoration: none; }
@@ -118,12 +111,6 @@ article.shot { background: var(--surface); border: 1px solid var(--line); border
 details.prompt { font-size: var(--fs-small); color: var(--ink-2); }
 details.prompt summary { cursor: pointer; color: var(--ink-3); }
 details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); padding: 8px; border-radius: 8px; color: var(--ink); }
-.empty { color: var(--ink-2); padding-block: 40px; text-align: center; }
-
-@media (max-width: 900px) {
-  .layout { grid-template-columns: minmax(0, 1fr); }
-  nav.index { display: none; }
-}
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
 </style>
 
@@ -132,9 +119,9 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
   <h1>Banco de imágenes</h1>
   <div class="summary" id="summary"></div>
   <div class="meter" aria-hidden="true"><i id="meter" style="width:0%"></i></div>
-  <div class="notice" id="notice">
-    <strong>Todavía no hay fotos descargadas</strong>
-    <p>El entorno donde trabaja Claude no tiene acceso a Wikimedia Commons. En cuanto se den los permisos, cada recuadro mostrará su foto, su crédito y sus recortes 4:5 y 1:1 para el chat de carruseles. Mientras tanto, cada toma enlaza a su búsqueda en Commons y lleva su prompt para generarla con IA.</p>
+  <div class="notice">
+    <strong id="notice-title"></strong>
+    <p id="notice-text"></p>
   </div>
 </header>
 
@@ -142,118 +129,118 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
   <div class="wrap">
     <label class="search" for="q">
       <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true"><circle cx="7" cy="7" r="5.25" stroke="currentColor" stroke-width="1.5"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
-      <input id="q" type="search" placeholder="Buscar ticker, empresa, tema o escena" autocomplete="off">
+      <input id="q" type="search" placeholder="Buscar ticker, empresa, tema o sector" autocomplete="off">
     </label>
     <div class="seg" role="radiogroup" aria-label="Mostrar">
       <input type="radio" name="kind" id="k-all" value="all" checked><label for="k-all">Todo</label>
       <input type="radio" name="kind" id="k-company" value="company"><label for="k-company">Empresas</label>
       <input type="radio" name="kind" id="k-topic" value="topic"><label for="k-topic">Temas</label>
+      <input type="radio" name="kind" id="k-sector" value="sector"><label for="k-sector">Sectores</label>
     </div>
     <span class="count" id="count"></span>
   </div>
 </div>
 
-<div class="wrap layout">
-  <nav class="index" id="index" aria-label="Índice"></nav>
-  <main id="main"></main>
-</div>
+<main class="wrap">
+  <div id="list"><div class="cards" id="cards"></div><p class="empty" id="empty" hidden>Nada coincide con la búsqueda.</p></div>
+  <div id="detail" class="detail" hidden></div>
+</main>
 
 <script type="application/json" id="data">__DATA__</script>
 <script>
 (function () {
-  var subjects = JSON.parse(document.getElementById("data").textContent);
-  var STATUS = { pending: "Pendiente", ok: "Descargada", missing: "Sin foto libre", error: "Error" };
+  var D = JSON.parse(document.getElementById("data").textContent);
+  var S = D.subjects, T = D.target;
+  var KIND = { company: "Empresa", topic: "Tema", sector: "Sector" };
   var esc = function (s) { return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); };
   var commons = function (q) { return "https://commons.wikimedia.org/w/index.php?search=" + encodeURIComponent(q) + "&title=Special:MediaSearch&type=image"; };
+  var byId = {}; S.forEach(function (s) { byId[s.id] = s; });
+  var img = function (src, alt) { return '<img src="' + esc(src) + '" alt="' + esc(alt || "") + '" loading="lazy" onerror="this.remove()">'; };
 
-  var total = 0, ok = 0, people = 0, companies = 0, topics = 0;
-  subjects.forEach(function (s) {
-    if (s.kind === "company") companies++; else topics++;
-    s.shots.forEach(function (sh) { total++; if (sh.status === "ok") ok++; if (sh.person) people++; });
-  });
+  var n = { company: 0, topic: 0, sector: 0 }, photos = 0;
+  S.forEach(function (s) { n[s.kind]++; photos += s.photos.length; });
+  var goal = S.length * T;
   document.getElementById("summary").innerHTML =
-    "<span><b>" + companies + "</b> empresas</span><span><b>" + topics + "</b> temas</span><span><b>" + total + "</b> tomas</span>" +
-    "<span><b>" + people + "</b> de personas reales</span><span><b>" + ok + "</b> de " + total + " fotos descargadas</span>";
-  document.getElementById("meter").style.width = (total ? (100 * ok / total) : 0).toFixed(1) + "%";
-  if (ok > 0) document.getElementById("notice").hidden = true;
+    (D.universe ? "<span><b>" + n.company + "</b> empresas</span>" : "<span><b>" + n.company + "</b> empresas con tomas escritas a mano (el resto del S&amp;P 500 se añade al construir)</span>") +
+    "<span><b>" + n.topic + "</b> temas</span><span><b>" + n.sector + "</b> sectores</span><span><b>" + photos.toLocaleString("es") + "</b> de " + goal.toLocaleString("es") + " fotos</span>";
+  document.getElementById("meter").style.width = (goal ? 100 * photos / goal : 0).toFixed(1) + "%";
+  var nt = document.getElementById("notice-title"), nx = document.getElementById("notice-text");
+  if (photos === 0) {
+    nt.textContent = "Todavía no hay fotos";
+    nx.textContent = "Se buscarán en Wikimedia Commons en cuanto el entorno tenga acceso: 10 por cada empresa del S&P 500 y empresas famosas que cotizan en EE. UU., 10 por tema y 10 por sector. Mientras tanto, cada tema enseña sus búsquedas y sus prompts de IA.";
+  } else {
+    nt.textContent = "Fotos enlazadas desde Wikimedia Commons";
+    nx.textContent = "Cada foto lleva su crédito obligatorio. Si una empresa tiene menos de 10, el chat de carruseles la completa con fotos genéricas de su sector. Si las miniaturas no se ven aquí, abre la galería pública del repo.";
+  }
 
-  var main = document.getElementById("main");
-  var html = "";
-  subjects.forEach(function (s) {
-    var done = s.shots.filter(function (x) { return x.status === "ok"; }).length;
-    var chips = s.kind === "company" ? s.tickers.map(function (t) { return '<span class="chip">' + esc(t) + "</span>"; }).join("") : '<span class="chip kind">Tema</span>';
-    html += '<section class="subject" id="' + esc(s.id) + '" data-kind="' + s.kind + '"><div class="sh"><h2>' + esc(s.name) + "</h2>" + chips +
-      '<span class="tally">' + done + " de " + s.shots.length + "</span></div><div class=\"grid\">";
-    s.shots.forEach(function (sh, i) {
-      var text = [s.id, s.name, s.tickers.join(" "), s.aliases.join(" "), sh.id, sh.scene, sh.q].join(" ").toLowerCase();
-      var tags = (sh.person ? '<span class="tag">Persona real: solo foto</span>' : "") + (sh.historic ? '<span class="tag hist">Histórica</span>' : "");
-      var credit = sh.credit ? '<p class="credit">' + esc(sh.credit) + "</p>" : "";
-      var actions = '<a class="btn primary" href="' + esc(sh.page || commons(sh.q)) + '" target="_blank" rel="noopener">' + (sh.page ? "Ver en Commons" : "Buscar en Commons") + " ↗</a>";
-      if (sh.prompt) actions += '<button class="btn copy" type="button" data-s="' + esc(s.id) + '" data-i="' + i + '">Copiar prompt</button>';
-      var prompt = sh.prompt ? '<details class="prompt"><summary>Prompt IA</summary><p>' + esc(sh.prompt) + "</p></details>" : "";
-      var inside = sh.thumb ? '<img src="' + esc(sh.thumb) + '" alt="' + esc(sh.scene) + '" loading="lazy">'
-        : '<span class="crop"></span><span class="fmt">4:5 · 1:1</span><span class="file">' + esc(s.id + "/" + sh.id) + ".jpg</span>";
-      html += '<article class="shot" data-text="' + esc(text) + '"><div class="frame">' + inside +
-        '<span class="pill ' + esc(sh.status) + '">' + esc(STATUS[sh.status] || sh.status) + "</span></div>" +
-        '<div class="body"><p class="scene">' + esc(sh.scene) + "</p>" + (tags ? '<div class="tags">' + tags + "</div>" : "") + credit +
-        '<div class="actions">' + actions + "</div>" + prompt + "</div></article>";
-    });
-    html += "</div></section>";
-  });
-  html += '<p class="empty" id="empty" hidden>Nada coincide con la búsqueda.</p>';
-  main.innerHTML = html;
-
-  var idx = function (kind, label) {
-    return "<div><h4>" + label + "</h4><ul>" + subjects.filter(function (s) { return s.kind === kind; }).map(function (s) {
-      var done = s.shots.filter(function (x) { return x.status === "ok"; }).length;
-      return '<li data-id="' + esc(s.id) + '"><a href="#' + esc(s.id) + '"><span>' + esc(s.kind === "company" ? s.tickers[0] + " · " + s.name : s.name) + '</span><span class="n">' + done + "/" + s.shots.length + "</span></a></li>";
-    }).join("") + "</ul></div>";
-  };
-  document.getElementById("index").innerHTML = idx("company", "Empresas") + idx("topic", "Temas");
-
-  var byId = {};
-  subjects.forEach(function (s) { byId[s.id] = s; });
-  main.addEventListener("click", function (e) {
-    var b = e.target.closest(".copy");
-    if (!b) return;
-    var text = byId[b.dataset.s].shots[+b.dataset.i].prompt;
-    var done = function () { b.textContent = "Copiado"; b.classList.add("done"); setTimeout(function () { b.textContent = "Copiar prompt"; b.classList.remove("done"); }, 1600); };
-    var fallback = function () {
-      var d = b.closest(".body").querySelector("details.prompt");
-      d.open = true;
-      var r = document.createRange(); r.selectNodeContents(d.querySelector("p"));
-      var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(r);
-      b.textContent = "Texto seleccionado";
-    };
-    try { navigator.clipboard.writeText(text).then(done, fallback); } catch (err) { fallback(); }
-  });
+  function card(s) {
+    var k = s.photos.length, st = k >= T ? "ok" : k ? "low" : "pending", label = k >= T ? "Completa" : k ? k + " de " + T : (s.built ? "Sin fotos" : "Pendiente");
+    var chips = s.kind === "company" ? s.tickers.slice(0, 2).map(function (t) { return '<span class="chip">' + esc(t) + "</span>"; }).join("") : '<span class="chip kind">' + KIND[s.kind] + "</span>";
+    var strip = "";
+    for (var i = 0; i < 4; i++) strip += "<span>" + (s.photos[i] ? img(s.photos[i].preview) : "") + "</span>";
+    return '<a class="card" href="#' + esc(s.id) + '" data-id="' + esc(s.id) + '"><div class="head"><b>' + esc(s.name) + "</b>" + chips +
+      '<span class="n"><span class="pill ' + st + '">' + label + "</span></span></div><div class=\"strip\">" + strip + "</div></a>";
+  }
+  document.getElementById("cards").innerHTML = S.map(card).join("");
+  var cards = Array.prototype.slice.call(document.querySelectorAll("a.card"));
+  var text = {}; S.forEach(function (s) { text[s.id] = [s.id, s.name, s.tickers.join(" "), s.aliases.join(" "), KIND[s.kind]].join(" ").toLowerCase(); });
 
   var q = document.getElementById("q");
-  var sections = Array.prototype.slice.call(main.querySelectorAll("section.subject"));
   function apply() {
     var words = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
-    var kind = document.querySelector('input[name="kind"]:checked').value;
-    var shown = 0, subj = 0;
-    sections.forEach(function (sec) {
-      var any = 0;
-      if (kind !== "all" && sec.dataset.kind !== kind) { sec.hidden = true; } else {
-        sec.querySelectorAll("article.shot").forEach(function (a) {
-          var hit = words.every(function (w) { return a.dataset.text.indexOf(w) !== -1; });
-          a.hidden = !hit; if (hit) any++;
-        });
-        sec.hidden = any === 0;
-      }
-      var li = document.querySelector('#index li[data-id="' + sec.id + '"]');
-      if (li) li.hidden = sec.hidden;
-      shown += any; if (!sec.hidden) subj++;
+    var kind = document.querySelector('input[name="kind"]:checked').value, shown = 0;
+    cards.forEach(function (c) {
+      var s = byId[c.dataset.id];
+      var hit = (kind === "all" || s.kind === kind) && words.every(function (w) { return text[s.id].indexOf(w) !== -1; });
+      c.hidden = !hit; if (hit) shown++;
     });
-    document.getElementById("count").textContent = shown + " tomas · " + subj + (subj === 1 ? " grupo" : " grupos");
+    document.getElementById("count").textContent = shown + (shown === 1 ? " ficha" : " fichas");
     document.getElementById("empty").hidden = shown > 0;
     try { localStorage.setItem("iq-bank-kind", kind); } catch (e) {}
   }
+
+  function shot(p) {
+    return '<article class="shot"><div class="frame">' + img(p.preview, p.shows) + esc(p.shows) + '</div><div class="body"><p class="scene">' + esc(p.shows) + "</p>" +
+      (p.person ? '<span class="tag">Persona real</span>' : "") + '<p class="credit">' + esc(p.credit) + '</p><div class="actions">' +
+      '<a class="btn primary" href="' + esc(p.url) + '" target="_blank" rel="noopener">Abrir foto ↗</a><a class="btn" href="' + esc(p.page) + '" target="_blank" rel="noopener">Commons ↗</a></div></div></article>';
+  }
+  function planned(p, i) {
+    return '<article class="shot"><div class="frame">Pendiente</div><div class="body"><p class="scene">' + esc(p.scene) + "</p>" +
+      (p.person ? '<span class="tag">Persona real: solo foto</span>' : "") + '<div class="actions"><a class="btn primary" href="' + esc(commons(p.q)) + '" target="_blank" rel="noopener">Buscar en Commons ↗</a>' +
+      (p.prompt ? '<button class="btn copy" type="button" data-i="' + i + '">Copiar prompt</button>' : "") + "</div>" +
+      (p.prompt ? '<details class="prompt"><summary>Prompt IA</summary><p>' + esc(p.prompt) + "</p></details>" : "") + "</div></article>";
+  }
+  var detail = document.getElementById("detail"), list = document.getElementById("list"), current = null;
+  function show() {
+    var id = decodeURIComponent(location.hash.slice(1)), s = byId[id];
+    current = s || null;
+    list.hidden = !!s; detail.hidden = !s;
+    if (!s) { apply(); return; }
+    var k = s.photos.length, note = "";
+    if (s.kind === "company" && k < T && s.sector && byId[s.sector]) note = "Tiene " + k + ' fotos propias: el chat completa con fotos genéricas de <a href="#' + esc(s.sector) + '">' + esc(byId[s.sector].name) + "</a>.";
+    else if (!k && !s.planned.length) note = s.built ? "Commons no tiene fotos libres que encajen." : "Pendiente: se buscará automáticamente en su categoría de Commons.";
+    detail.innerHTML = '<a class="back" href="#">← Todas las fichas</a><div class="dh"><h2>' + esc(s.name) + "</h2>" +
+      (s.kind === "company" ? s.tickers.map(function (t) { return '<span class="chip">' + esc(t) + "</span>"; }).join("") : '<span class="chip kind">' + KIND[s.kind] + "</span>") +
+      '<span class="count">' + k + " de " + T + " fotos</span></div>" + (note ? '<p class="dnote">' + note + "</p>" : "") +
+      '<div class="grid">' + (k ? s.photos.map(shot).join("") : s.planned.map(planned).join("")) + "</div>";
+    window.scrollTo(0, 0);
+  }
+  detail.addEventListener("click", function (e) {
+    var b = e.target.closest(".copy");
+    if (!b || !current) return;
+    var t = current.planned[+b.dataset.i].prompt;
+    var done = function () { b.textContent = "Copiado"; b.classList.add("done"); setTimeout(function () { b.textContent = "Copiar prompt"; b.classList.remove("done"); }, 1600); };
+    var fallback = function () {
+      var d = b.closest(".body").querySelector("details.prompt"); d.open = true;
+      var r = document.createRange(); r.selectNodeContents(d.querySelector("p"));
+      var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(r); b.textContent = "Texto seleccionado";
+    };
+    try { navigator.clipboard.writeText(t).then(done, fallback); } catch (err) { fallback(); }
+  });
   try { var saved = localStorage.getItem("iq-bank-kind"); if (saved) { var r = document.getElementById("k-" + saved); if (r) r.checked = true; } } catch (e) {}
-  q.addEventListener("input", apply);
-  document.querySelectorAll('input[name="kind"]').forEach(function (r) { r.addEventListener("change", apply); });
-  apply();
+  q.addEventListener("input", function () { if (location.hash) location.hash = ""; apply(); });
+  document.querySelectorAll('input[name="kind"]').forEach(function (r) { r.addEventListener("change", function () { if (location.hash) location.hash = ""; apply(); }); });
+  window.addEventListener("hashchange", show);
+  show();
 })();
 </script>

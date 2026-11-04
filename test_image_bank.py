@@ -1,59 +1,152 @@
 """Offline tests of the image bank (no network): python -m unittest discover -p "test_*.py" """
-import io, json, tempfile, unittest
+import json, tempfile, unittest
 from pathlib import Path
-
-from PIL import Image
 
 import image_bank as B
 
+UP = "https://upload.wikimedia.org/wikipedia/commons/a/ab/"
 
-def cand(file, w=4000, h=2667, lic="cc-by-sa-4.0", short="CC BY-SA 4.0", year=2021, cats=(), mime="image/jpeg", restr=()):
-    return {"file": file, "w": w, "h": h, "mime": mime, "url": "https://upload.wikimedia.org/x/" + file, "page": "https://commons.wikimedia.org/wiki/" + file,
+
+def cand(file, w=4000, h=3000, lic="cc-by-sa-4.0", short="CC BY-SA 4.0", year=2021, cats=(), mime="image/jpeg", restr=()):
+    name = file.split(":", 1)[-1].replace(" ", "_")
+    return {"file": file, "w": w, "h": h, "mime": mime, "orig": UP + name, "page": "https://commons.wikimedia.org/wiki/" + name,
             "licence": short, "licence_code": lic, "licence_url": "https://creativecommons.org/licenses/by-sa/4.0", "author": "Jane Doe",
             "year": year, "categories": list(cats), "restrictions": list(restr), "description": ""}
 
 
-def size(path):
-    with Image.open(path) as im:
-        return im.size
+SP500_WIKITEXT = """Intro text.
+{| class="wikitable sortable" id="constituents"
+! Symbol !! Security !! GICS Sector !! GICS Sub-Industry
+|-
+|{{NyseSymbol|MMM}}
+|[[3M]]
+|Industrials
+|Industrial Conglomerates
+|-
+| {{NasdaqSymbol|GOOGL}} || [[Alphabet Inc.|Alphabet Inc. (Class A)]] || Communication Services || Interactive Media
+|-
+| {{NasdaqSymbol|GOOG}} || [[Alphabet Inc.|Alphabet Inc. (Class C)]] || Communication Services || Interactive Media
+|-
+|{{NyseSymbol|BRK.B}}
+|[[Berkshire Hathaway]]
+|[[Financials]]
+|Multi-Sector Holdings
+|}
+{| class="wikitable" id="changes"
+|-
+| not a constituent || [[Old Co]] || x
+|}"""
 
 
-def jpeg(w=3000, h=2000):
-    b = io.BytesIO()
-    Image.new("RGB", (w, h), (120, 90, 60)).save(b, "JPEG")
-    return b.getvalue()
+class Fake:
+    """Wikipedia, Wikidata and Commons answers for the tests."""
+
+    def __init__(self, n_sp=3):
+        self.calls = []
+        self.n_sp = n_sp
+
+    def sp500(self):
+        rows = B.parse_sp500(SP500_WIKITEXT)
+        return rows + [{"ticker": f"X{i}", "name": f"Filler {i}", "wiki": f"Filler {i}", "sector": "Utilities"} for i in range(self.n_sp)]
+
+    def wikidata_ids(self, titles):
+        return {t: {"3M": "Q1", "Alphabet Inc.": "Q2", "Berkshire Hathaway": "Q3"}.get(t) for t in titles}
+
+    def search_entity(self, name, ticker):
+        return "Q9" if ticker == "TSM" else None
+
+    def entities(self, qids, props="labels|claims"):
+        ents = {"Q1": {"claims": {"P373": [{"mainsnak": {"datavalue": {"value": "3M"}}}],
+                                  "P18": [{"mainsnak": {"datavalue": {"value": "3M HQ Maplewood.jpg"}}}],
+                                  "P169": [{"mainsnak": {"datavalue": {"value": {"id": "Q100"}}}, "qualifiers": {"P582": [{}]}},
+                                           {"mainsnak": {"datavalue": {"value": {"id": "Q101"}}}}]}},
+                "Q101": {"labels": {"en": {"value": "William Brown"}}},
+                "Q100": {"labels": {"en": {"value": "Old Boss"}}}}
+        return {q: ents.get(q, {}) for q in qids if q}
+
+    def search(self, q):
+        self.calls.append(q)
+        if q == '"William Brown"':
+            return [cand("File:Someone else.jpg"), cand("File:William Brown 2023.jpg", w=2000, h=3000, restr=["personality"])]
+        if q.startswith("3M"):
+            return [cand(f"File:{q} view {i}.jpg") for i in range(3)] + [cand("File:Unrelated tower.jpg")]
+        return [cand(f"File:{q} photo {i}.jpg") for i in range(4)]
+
+    def info(self, titles):
+        return {t: cand(t) for t in titles if "missing" not in t}
+
+    def category_files(self, cat):
+        files = [(f"File:3M building {i}.jpg", "3M") for i in range(1, 4)]            # near-duplicates: one kept
+        files += [(f"File:3M plant {c} site.jpg", "3M factories") for c in "abc"]       # same subcategory: two kept
+        files += [("File:3M logo.png", "3M"), ("File:Post-it notes macro.jpg", "Post-it"), ("File:Scotch tape roll.jpg", "Scotch tape")]
+        return files
 
 
-SHOT = {"id": "hq", "q": "Apple Park", "scene": "Apple Park"}
 MINI = {"style": "Photo.", "negative": "text", "subjects": [
-    {"id": "AAPL", "kind": "company", "name": "Apple", "tickers": ["AAPL"], "shots": [
-        {"id": f"s{i}", "q": "Apple Park", "scene": f"scene {i}"} for i in range(5)] + [
-        {"id": "leader", "q": "Tim Cook", "scene": "Tim Cook", "person": True}]},
-    {"id": "gold", "kind": "topic", "name": "Gold", "aliases": ["bullion"], "shots": [
-        {"id": f"g{i}", "q": "gold bars", "scene": f"gold {i}"} for i in range(5)]},
-]}
+    {"id": "MMM", "kind": "company", "name": "3M", "tickers": ["MMM"], "shots": [{"id": "hq", "q": "3M Center", "scene": "3M Center campus"}]},
+    {"id": "gold", "kind": "topic", "name": "Gold", "aliases": ["bullion"], "shots": ["gold bars", "gold coins"] + [f"gold thing {i}" for i in range(8)]},
+] + [{"id": sid, "kind": "sector", "name": g, "gics": g, "shots": [f"{g} view {i}" for i in range(10)]} for g, sid in B.SECTORS.items()]}
+B.norm_catalog(MINI)
 
 
 class Catalog(unittest.TestCase):
-    def test_real_catalog_is_valid(self):
-        cat = B.load_catalog()
-        self.assertGreaterEqual(len([s for s in cat["subjects"] if s["kind"] == "company"]), 40)
-        self.assertGreaterEqual(len([s for s in cat["subjects"] if s["kind"] == "topic"]), 25)
-        for s in cat["subjects"]:
-            self.assertIn(len(s["shots"]), (5, 6), s["id"])
+    def test_real_catalog_and_extras_are_valid(self):
+        cat = json.loads(B.CATALOG.read_text(encoding="utf-8"))
+        self.assertEqual(B.check_catalog(cat, B.load_extras()), [])
+        kinds = [s["kind"] for s in cat["subjects"]]
+        self.assertGreaterEqual(kinds.count("topic"), 35)
+        self.assertEqual(kinds.count("sector"), 11)
+        self.assertGreaterEqual(len(B.load_extras()), 80)
 
     def test_problems_are_reported(self):
-        bad = {"subjects": [{"id": "X", "kind": "company", "name": "X", "shots": [{"id": "a", "q": "x", "scene": "x"}] * 2}]}
-        p = B.check_catalog(bad)
-        self.assertTrue(any("2 shots" in x for x in p) and any("repeated shot" in x for x in p))
+        bad = {"subjects": [{"id": "x", "kind": "topic", "name": "X", "shots": ["a", "a"]}]}
+        p = B.check_catalog(bad, [{"ticker": "Z", "name": "Z", "sector": "Nope"}])
+        for words in ("2 shots", "repeated shot", "missing sector subjects", "GICS sector"):
+            self.assertTrue(any(words in x for x in p), words)
 
-    def test_find_by_ticker_and_alias(self):
-        self.assertEqual(B.find_subject(MINI, "aapl")["id"], "AAPL")
-        self.assertEqual(B.find_subject(MINI, "Bullion")["id"], "gold")
-        self.assertIsNone(B.find_subject(MINI, "nope"))
+    def test_plain_string_shots(self):
+        self.assertEqual(B.norm_shot("Gold bars, London"), {"id": "gold-bars-london", "q": "Gold bars, London", "scene": "Gold bars, London"})
+
+
+class Universe(unittest.TestCase):
+    def test_sp500_table(self):
+        rows = B.parse_sp500(SP500_WIKITEXT)
+        self.assertEqual([r["ticker"] for r in rows], ["MMM", "GOOGL", "GOOG", "BRK-B"])
+        self.assertEqual((rows[1]["wiki"], rows[1]["name"], rows[1]["sector"]), ("Alphabet Inc.", "Alphabet Inc. (Class A)", "Communication Services"))
+        self.assertEqual(rows[3]["sector"], "Financials")
+
+    def test_universe(self):
+        with tempfile.TemporaryDirectory() as d:
+            src = Fake(n_sp=400)
+            extras = [{"ticker": "TSM", "name": "TSMC", "wiki": None, "sector": "Information Technology"},
+                      {"ticker": "MMM", "name": "3M again", "wiki": "3M", "sector": "Industrials"}]
+            uni = {e["id"]: e for e in B.build_universe(MINI, src, d, extras, log=lambda *_: None)}
+            self.assertEqual(uni["GOOGL"]["tickers"], ["GOOGL", "GOOG"])          # two share classes, one company
+            self.assertEqual(uni["GOOGL"]["name"], "Alphabet Inc.")
+            self.assertEqual(uni["BRK-B"]["wikidata"], "Q3")
+            self.assertEqual((uni["MMM"]["commons_category"], uni["MMM"]["ceo"]), ("3M", "William Brown"))  # current CEO only
+            self.assertEqual(uni["TSM"]["wikidata"], "Q9")                           # found by name and ticker
+            self.assertEqual(sum(1 for e in uni.values() if "MMM" in e["tickers"]), 1)  # an extra already in the S&P 500
+            # a hand correction survives the next run
+            u = json.loads((Path(d) / "universe.json").read_text())
+            next(e for e in u["companies"] if e["id"] == "MMM").update(commons_category="3M Company", manual=["commons_category"])
+            (Path(d) / "universe.json").write_text(json.dumps(u))
+            uni = {e["id"]: e for e in B.build_universe(MINI, src, d, extras, log=lambda *_: None)}
+            self.assertEqual(uni["MMM"]["commons_category"], "3M Company")
+
+    def test_a_broken_wikipedia_table_stops_the_run(self):
+        with tempfile.TemporaryDirectory() as d, self.assertRaises(RuntimeError):
+            B.build_universe(MINI, Fake(n_sp=0), d, [], log=lambda *_: None)
+
+    def test_wikidata_helpers(self):
+        ent = {"claims": {"P414": [{"qualifiers": {"P249": [{"datavalue": {"value": "BRK.B"}}]}}]}}
+        self.assertTrue(B.has_ticker(ent, "BRK-B"))
+        self.assertFalse(B.has_ticker(ent, "BRK-A"))
 
 
 class Choosing(unittest.TestCase):
+    SHOT = {"id": "hq", "q": "Apple Park", "scene": "Apple Park"}
+
     def test_licences(self):
         self.assertEqual(B.licence_kind(cand("a", lic="cc-by-sa-4.0")), "by-sa")
         self.assertEqual(B.licence_kind(cand("a", lic="cc-by-2.0", short="CC BY 2.0")), "by")
@@ -62,164 +155,137 @@ class Choosing(unittest.TestCase):
         self.assertIsNone(B.licence_kind(cand("a", lic="gfdl", short="GFDL")))
 
     def test_rejections(self):
-        self.assertIsNone(B.score(cand("File:Small.jpg", w=1200, h=800), 0, SHOT))
-        self.assertIsNone(B.score(cand("File:Apple logo.png"), 0, SHOT))
-        self.assertIsNone(B.score(cand("File:Map of Cupertino.jpg"), 0, SHOT))
-        self.assertIsNone(B.score(cand("File:A.jpg", lic="gfdl", short="GFDL"), 0, SHOT))
-        self.assertIsNone(B.score(cand("File:A.jpg"), 0, SHOT, used={"File:A.jpg"}))
-        self.assertIsNone(B.score(cand("File:A.jpg"), 0, SHOT, no_sa=True))
-        self.assertIsNone(B.score(cand("File:A.svg", mime="image/svg+xml"), 0, SHOT))
-        self.assertIsNotNone(B.score(cand("File:Apple Park plant.jpg"), 0, SHOT))  # "plan" is not "plant"
-        self.assertIsNotNone(B.score(cand("File:Crypto chart.jpg"), 0, {**SHOT, "allow": ["chart"]}))
+        S = self.SHOT
+        self.assertIsNone(B.score(cand("File:Small.jpg", w=1200, h=800), 0, S))
+        self.assertIsNone(B.score(cand("File:Apple logo.png", mime="image/png"), 0, S))
+        self.assertIsNone(B.score(cand("File:Map of Cupertino.jpg"), 0, S))
+        self.assertIsNone(B.score(cand("File:A.jpg", lic="gfdl", short="GFDL"), 0, S))
+        self.assertIsNone(B.score(cand("File:A.jpg"), 0, S, used={"File:A.jpg"}))
+        self.assertIsNone(B.score(cand("File:A.jpg"), 0, S, no_sa=True))
+        self.assertIsNone(B.score(cand("File:A.tif", mime="image/tiff"), 0, S))      # thumbnails named differently
+        self.assertIsNone(B.score(cand("File:" + "x" * 170 + ".jpg"), 0, S))
+        self.assertIsNone(B.score(cand("File:Some tower.jpg"), 0, {**S, "must": ["3m"]}))
+        self.assertIsNotNone(B.score(cand("File:Tower.jpg", cats=["3M buildings"]), 0, {**S, "must": ["3m"]}))
+        self.assertIsNotNone(B.score(cand("File:Apple Park plant.jpg"), 0, S))     # "plan" is not "plant"
 
     def test_ranking(self):
-        plain = B.score(cand("File:A.jpg"), 0, SHOT)
-        self.assertGreater(B.score(cand("File:B.jpg", cats=["Featured pictures on Wikimedia Commons"]), 3, SHOT), plain)
-        self.assertLess(B.score(cand("File:C.jpg", w=2000, h=3000), 0, {**SHOT, "orient": "landscape"}), plain)
-        self.assertEqual(B.score(cand("File:C.jpg", w=2000, h=3000), 0, SHOT), plain)       # 4:5 slides: portrait is fine
-        self.assertLess(B.score(cand("File:P.jpg", w=6000, h=2000), 0, SHOT), plain)        # a panorama crops badly
-        self.assertLess(B.score(cand("File:D.jpg", year=1975), 0, SHOT), plain)           # old photo
-        self.assertEqual(B.score(cand("File:D.jpg", year=1929), 0, {**SHOT, "historic": True}), B.score(cand("File:E.jpg", year=None), 0, SHOT))
-        self.assertGreater(B.score(cand("File:F.jpg", lic="cc-by-4.0", short="CC BY 4.0"), 0, SHOT), plain)  # freer licence
+        S = self.SHOT
+        plain = B.score(cand("File:A.jpg"), 0, S)
+        self.assertGreater(B.score(cand("File:B.jpg", cats=["Featured pictures on Wikimedia Commons"]), 3, S), plain)
+        self.assertEqual(B.score(cand("File:C.jpg", w=3000, h=4000), 0, S), plain)       # portrait crops well to 4:5
+        self.assertLess(B.score(cand("File:P.jpg", w=6000, h=2000), 0, S), plain)        # a panorama does not
+        self.assertLess(B.score(cand("File:D.jpg", year=1975), 0, S), plain)
+        self.assertGreater(B.score(cand("File:F.jpg", lic="cc-by-4.0", short="CC BY 4.0"), 0, S), plain)
 
-    def test_fallback_queries_only_when_needed(self):
-        asked = []
-        def search(q):
-            asked.append(q)
-            return [cand(f"File:{q} {i}.jpg") for i in range(4)] if q == "main" else [cand("File:alt.jpg")]
-        r = B.choose({"id": "x", "q": "main", "alt": ["other"], "scene": "x"}, search)
-        self.assertEqual(asked, ["main"])
-        self.assertEqual(r[0][1]["file"], "File:main 0.jpg")
-        asked.clear()
-        r = B.choose({"id": "x", "q": "none", "alt": ["other"], "scene": "x"}, lambda q: asked.append(q) or ([cand("File:alt.jpg")] if q == "other" else []))
-        self.assertEqual((asked, r[0][1]["file"]), (["none", "other"], "File:alt.jpg"))
+    def test_links_and_sizes(self):
+        url, prev, size = B.links(cand("File:Big photo.jpg", w=4000, h=3000))
+        self.assertEqual(url, UP.replace("commons/", "commons/thumb/") + "Big_photo.jpg/1920px-Big_photo.jpg")
+        self.assertEqual((prev.endswith("/500px-Big_photo.jpg"), size), (True, [1920, 1440]))
+        url, _, size = B.links(cand("File:Tall.jpg", w=3000, h=4000))
+        self.assertEqual((url.endswith("/1280px-Tall.jpg"), size), (True, [1280, 1707]))  # narrowest that keeps 1500 px of height
+        url, _, size = B.links(cand("File:Mid.jpg", w=1800, h=1200))
+        self.assertEqual((url, size), (UP + "Mid.jpg", [1800, 1200]))                    # smaller than 1920: the original
 
-
-class Crops(unittest.TestCase):
-    def test_sizes_focus_and_enlargement(self):
-        im = Image.new("RGB", (2560, 1707))
-        out, k = B.crop(im, (1920, 1080))
-        self.assertEqual(out.size, (1920, 1080))
-        self.assertLess(k, 1.25)
-        out, k = B.crop(im, (1080, 1920), (0.0, 0.5))   # focus at the left edge: the crop is clamped inside
-        self.assertEqual(out.size, (1080, 1920))
-        self.assertGreater(k, 1.0)
+    def test_descriptions(self):
+        self.assertEqual(B.describe(cand("File:Apple_Park_aerial_2019-05-03.jpg"), "x"), "Apple Park aerial")
+        self.assertEqual(B.describe(cand("File:IMG_4521.JPG"), "fallback"), "fallback")
+        self.assertEqual(B.stem("File:Apple Park 03.jpg"), B.stem("File:Apple Park 7.jpg"))
 
 
 class Build(unittest.TestCase):
     def setUp(self):
         self.tmp = tempfile.TemporaryDirectory()
         self.bank = Path(self.tmp.name)
-        self.calls = []
+        self.src = Fake()
+        uni = [{"id": "MMM", "name": "3M", "tickers": ["MMM"], "sector": "Industrials", "commons_category": "3M",
+                "image": "3M HQ Maplewood.jpg", "ceo": "William Brown", "wikidata": "Q1"},
+               {"id": "ZZZ", "name": "Zeta Corp", "tickers": ["ZZZ"], "sector": "Utilities", "wikidata": None}]
+        (self.bank / "universe.json").write_text(json.dumps({"companies": uni}))
 
     def tearDown(self):
         self.tmp.cleanup()
 
-    def search(self, q):
-        self.calls.append(q)
-        if q == "Tim Cook":
-            return [cand("File:Tim Cook 2023.jpg", w=2000, h=3000, restr=["personality"])]
-        return [cand(f"File:{q} {i}.jpg") for i in range(8)]
-
     def run_build(self, **kw):
-        return B.build(MINI, self.bank, search_fn=self.search, info_fn=lambda t: cand(t), fetch_fn=lambda u: jpeg(), pause=0, log=lambda *_: None, **kw)
+        return B.build(MINI, self.bank, self.src, log=lambda *_: None, **kw)
 
-    def test_full_build_outputs(self):
-        m = self.run_build()
-        shots = m["AAPL"]["shots"]
-        self.assertTrue(all(s["status"] == "ok" for e in m.values() for s in e["shots"].values()))
-        files = [s["file"] for e in m.values() for s in e["shots"].values()]
-        self.assertEqual(len(files), len(set(files)))                     # never the same photo twice
-        self.assertEqual(size(self.bank / "AAPL" / "s0.4x5.jpg"), (1200, 1500))
-        self.assertEqual(size(self.bank / "AAPL" / "s0.1x1.jpg"), (1200, 1200))
-        self.assertEqual(max(size(self.bank / "AAPL" / "s0.jpg")), 2560)
-        self.assertEqual(shots["leader"]["focus"], [0.5, 0.33])
-        self.assertIn("restrictions: personality", shots["leader"]["flags"])
-        self.assertEqual(shots["s0"]["credit"], "Jane Doe, CC BY-SA 4.0, via Wikimedia Commons")
-        self.assertEqual(len(shots["s0"]["alternates"]), 3)
-        self.assertEqual(B.credits(self.bank), 11)
-        self.assertIn("Jane Doe", (self.bank / "CREDITS.md").read_text())
-        self.assertEqual(B.prompts(MINI, self.bank), 0)
-        self.assertEqual(B.prompts(MINI, self.bank, all_shots=True), 10)  # the person is never generated
-        self.assertEqual(B.sheet(MINI, self.bank), (11, 11))
-        self.assertEqual(len(B.lookup("bullion", "1x1", self.bank, MINI)), 5)
+    def test_company_photos(self):
+        m = self.run_build(only="MMM")
+        ph = m["MMM"]["photos"]
+        self.assertEqual(len(ph), B.TARGET)
+        self.assertEqual([p["how"] for p in ph[:3]], ["catalog", "Wikidata main image", "Wikidata CEO"])
+        self.assertEqual((ph[2]["shows"], ph[2]["person"], ph[2]["focus"]), ("William Brown, 3M CEO", True, [0.5, 0.33]))
+        self.assertIn("restrictions: personality", ph[2]["flags"])
+        files = [p["file"] for p in ph]
+        self.assertEqual(len(files), len(set(files)))
+        self.assertEqual(sum("3M building" in f for f in files), 1)                     # near-duplicates
+        self.assertLessEqual(sum(p.get("category") == "3M factories" for p in ph), 2)   # two per subcategory
+        self.assertNotIn("File:3M logo.png", files)
+        self.assertNotIn("File:Unrelated tower.jpg", files)                             # searches must name the company
+        self.assertEqual(ph[0]["shows"], "3M Center campus")
 
-    def test_dashboard_shows_downloaded_previews(self):
-        import dashboard as D
-        self.run_build(only="gold")
-        rows = {s["id"]: s for s in D.data(MINI, self.bank)}
-        self.assertEqual(rows["gold"]["shots"][0]["thumb"], "gold/g0.thumb.jpg")
-        self.assertIsNone(rows["AAPL"]["shots"][0]["thumb"])
-        self.assertIsNone(rows["AAPL"]["shots"][5]["prompt"])          # a real person: no AI prompt
-        self.assertEqual(sorted(D.thumb_files(self.bank)), [f"gold/g{i}.thumb.jpg" for i in range(5)])
-
-    def test_index_for_the_carousel_chat(self):
-        self.run_build(only="gold")
-        self.assertEqual(B.index(MINI, self.bank, "https://example.org/bank"), 5)
+    def test_index_for_the_chat(self):
+        self.run_build(kinds=("company", "topic"))
+        self.assertGreater(B.index(self.bank, "https://example.org/bank"), 10)
         ix = json.loads((self.bank / "index.json").read_text())
-        gold = next(s for s in ix["subjects"] if s["id"] == "gold")
-        p = gold["photos"][0]
-        self.assertEqual((p["4x5"], p["1x1"], p["thumb"]), ("https://example.org/bank/gold/g0.4x5.jpg",
-                         "https://example.org/bank/gold/g0.1x1.jpg", "https://example.org/bank/gold/g0.thumb.jpg"))
-        self.assertEqual(p["credit"], "Jane Doe, CC BY-SA 4.0, via Wikimedia Commons")
-        self.assertEqual(next(s for s in ix["subjects"] if s["id"] == "AAPL")["photos"], [])
-        self.assertTrue(any("credit" in r for r in ix["rules"]))
+        rec = {s["id"]: s for s in ix["subjects"]}
+        self.assertEqual(rec["MMM"]["file"], "https://example.org/bank/subjects/MMM.json")
+        self.assertNotIn("fill_from", rec["MMM"])                                       # 10 photos of its own
+        self.assertEqual(rec["ZZZ"]["fill_from"], "sector-utilities")                  # fewer than 10: its sector fills in
+        self.assertEqual(B.lookup("bullion", self.bank)[0]["credit"], "Jane Doe, CC BY-SA 4.0, via Wikimedia Commons")
+        mmm = json.loads((self.bank / "subjects" / "MMM.json").read_text())
+        p = mmm["photos"][0]
+        self.assertEqual(set(p) >= {"shows", "url", "preview", "size", "focus", "credit", "licence", "source"}, True)
+        self.assertTrue(any("fill_from" in r for r in ix["rules"]))
+        self.assertEqual(B.credits(self.bank), 26)                          # MMM 10, ZZZ 6 (one per search: same name stem), gold 10
+        self.assertIn("Jane Doe", (self.bank / "CREDITS.md").read_text())
 
-    def test_second_build_is_incremental(self):
-        self.run_build()
-        self.calls.clear()
-        self.run_build()
-        self.assertEqual(self.calls, [])
-        self.run_build(only="gold")
-        self.assertEqual(set(self.calls), {"gold bars"})
+    def test_topics_sectors_and_prompts(self):
+        m = self.run_build(kinds=("topic", "sector"))
+        self.assertEqual(len(m["gold"]["photos"]), 10)
+        self.assertEqual(len(m["sector-energy"]["photos"]), 10)
+        self.assertTrue(m["gold"]["photos"][0]["shows"].startswith("gold bars"))
+        self.assertEqual(B.prompts(MINI, self.bank), 1)                                 # the company's hand-written shot
+        self.assertEqual(B.prompts(MINI, self.bank, all_shots=True), 121)
 
-    def test_manual_corrections_survive(self):
-        m = self.run_build()
-        first = m["AAPL"]["shots"]["s0"]["file"]
-        m["AAPL"]["shots"]["s0"].update(exclude=[first], manual=["exclude"])
-        m["AAPL"]["shots"]["s1"].update(prefer="File:Chosen.jpg", focus=[0.2, 0.5], manual=["prefer", "focus"])
-        m["gold"]["shots"]["g0"]["manual"] = True
-        m["gold"]["shots"]["g0"]["note"] = "frozen"
+    def test_incremental_exclusions_and_frozen(self):
+        m = self.run_build(only="MMM")
+        first = m["MMM"]["photos"][0]["file"]
+        self.src.calls.clear()
+        self.run_build(kinds=("company",))                                              # MMM is done: only ZZZ is searched
+        self.assertTrue(all("Zeta" in q for q in self.src.calls))
+        m = B.load_manifest(self.bank)
+        m["MMM"].update(exclude=[first], manual=["exclude"])
+        m["ZZZ"]["manual"] = True
+        m["ZZZ"]["note"] = "frozen"
         (self.bank / "manifest.json").write_text(json.dumps(m))
-        m = self.run_build(redo=True)
-        s0, s1 = m["AAPL"]["shots"]["s0"], m["AAPL"]["shots"]["s1"]
-        self.assertNotEqual(s0["file"], first)
-        self.assertEqual(s0["exclude"], [first])
-        self.assertEqual((s1["file"], s1["focus"]), ("File:Chosen.jpg", [0.2, 0.5]))
-        self.assertEqual(m["gold"]["shots"]["g0"]["note"], "frozen")
+        m = self.run_build(redo=True, kinds=("company",))
+        self.assertNotIn(first, [p["file"] for p in m["MMM"]["photos"]])
+        self.assertEqual(m["MMM"]["exclude"], [first])
+        self.assertEqual(m["ZZZ"]["note"], "frozen")
 
-    def test_missing_and_errors(self):
-        self.search = lambda q: [cand("File:tiny.jpg", w=800, h=600)]
-        m = self.run_build(only="gold")
-        self.assertEqual({s["status"] for s in m["gold"]["shots"].values()}, {"missing"})
-        self.assertEqual(B.prompts(MINI, self.bank), 10)   # gold x5 + AAPL never built x5 (person left out)
+    def test_errors_keep_previous_photos(self):
+        self.run_build(only="gold", kinds=("topic",))
         def boom(q): raise OSError("network down")
-        self.search = boom
-        m = self.run_build(only="AAPL")
-        self.assertEqual(m["AAPL"]["shots"]["s0"]["status"], "error")
+        self.src.search = boom
+        m = self.run_build(only="gold", kinds=("topic",))
+        self.assertEqual(len(m["gold"]["photos"]), 10)
+        self.assertIn("network down", m["gold"]["error"])
+        self.assertNotIn("checked", m["gold"])                                          # retried on the next run
 
-    def test_error_keeps_a_good_photo(self):
-        self.run_build()
-        def boom(q): raise OSError("network down")
-        self.search = boom
-        m = self.run_build(only="gold")
-        g0 = m["gold"]["shots"]["g0"]
-        self.assertEqual(g0["status"], "ok")
-        self.assertIn("kept the previous photo", g0["note"])
-        self.assertTrue((self.bank / "gold" / "g0.jpg").exists())
+    def test_companies_need_the_universe(self):
+        (self.bank / "universe.json").unlink()
+        with self.assertRaises(SystemExit):
+            self.run_build()
 
     def test_commons_answer_parsing(self):
         page = {"title": "File:Apple Park.jpg", "index": 1, "imageinfo": [{"width": 6000, "height": 4000, "mime": "image/jpeg",
-                "url": "https://upload.wikimedia.org/o.jpg", "thumburl": "https://upload.wikimedia.org/t3840.jpg",
-                "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apple_Park.jpg",
+                "url": UP + "Apple_Park.jpg", "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apple_Park.jpg",
                 "extmetadata": {"LicenseShortName": {"value": "CC BY-SA 4.0"}, "License": {"value": "cc-by-sa-4.0"},
                                 "Artist": {"value": '<a href="//x">Daniel L. Lu</a>'}, "DateTimeOriginal": {"value": "2018-05-03 10:00"},
                                 "Categories": {"value": "Apple Park|Quality images"}, "Restrictions": {"value": ""}}}]}
         c = B.candidate(page)
-        self.assertEqual((c["author"], c["year"], c["url"]), ("Daniel L. Lu", 2018, "https://upload.wikimedia.org/t3840.jpg"))
+        self.assertEqual((c["author"], c["year"], c["orig"]), ("Daniel L. Lu", 2018, UP + "Apple_Park.jpg"))
         self.assertEqual(c["categories"], ["Apple Park", "Quality images"])
-        page["imageinfo"][0].update(width=3000, height=2000)
-        self.assertEqual(B.candidate(page)["url"], "https://upload.wikimedia.org/o.jpg")
 
 
 if __name__ == "__main__":
