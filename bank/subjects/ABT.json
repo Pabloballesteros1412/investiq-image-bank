@@ -1,0 +1,61 @@
+{
+ "id": "ABT",
+ "kind": "company",
+ "name": "Abbott Laboratories",
+ "tickers": [
+  "ABT"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Robert Ford, Abbott Laboratories CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Robert_B_Ford.jpg/1280px-Robert_B_Ford.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Robert_B_Ford.jpg/500px-Robert_B_Ford.jpg",
+   "size": [
+    1280,
+    1638
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Abbott Laboratories, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Robert_B_Ford.jpg"
+  },
+  {
+   "shows": "Corona test equipment",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Corona_test_equipment.jpg/1920px-Corona_test_equipment.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Corona_test_equipment.jpg/500px-Corona_test_equipment.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ellywa, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Corona_test_equipment.jpg"
+  },
+  {
+   "shows": "ID Now testing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ID_Now_testing_%2851038387158%29.jpg/1920px-ID_Now_testing_%2851038387158%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/ID_Now_testing_%2851038387158%29.jpg/500px-ID_Now_testing_%2851038387158%29.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Secretary of Defense, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:ID_Now_testing_(51038387158).jpg"
+  }
+ ]
+}

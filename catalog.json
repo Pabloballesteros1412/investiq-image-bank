@@ -441,13 +441,13 @@
   {"id": "jobs", "kind": "topic", "name": "Jobs & labor market", "aliases": ["jobs", "employment", "unemployment", "payrolls", "labor"], "shots": [
    {"id": "hiring", "q": "now hiring sign", "alt": ["help wanted sign", "hiring sign"], "scene": "A 'now hiring' sign in a shop window"},
    {"id": "job-fair", "q": "job fair", "alt": ["career fair", "job fair recruiting"], "scene": "Job seekers talking to recruiters at a job fair"},
-   {"id": "office", "q": "office workers", "alt": ["open plan office", "office employees"], "scene": "An open-plan office full of workers"},
-   {"id": "factory", "q": "factory workers assembly line", "alt": ["assembly line workers", "manufacturing workers"], "scene": "Workers on a factory assembly line"},
+   {"id": "office", "q": "office workers", "alt": ["open plan office workers", "coworking space"], "must": ["office workers", "coworking", "open office", "open-plan office", "open plan office", "office interior"], "scene": "An open-plan office full of workers"},
+   {"id": "factory", "q": "factory workers assembly line", "alt": ["assembly line workers"], "must": ["factory", "assembly line", "production line"], "scene": "Workers on a factory assembly line"},
    {"id": "construction", "q": "construction workers", "alt": ["construction worker hard hat", "building site workers"], "scene": "Construction workers in hard hats on a building site"},
    {"id": "bls", "q": "Frances Perkins Building", "alt": ["United States Department of Labor", "Department of Labor building"], "scene": "The U.S. Department of Labor building in Washington"},
    "warehouse workers",
    "nurses hospital",
-   "teacher classroom",
+   {"id": "teacher-classroom", "q": "teacher classroom students", "alt": ["classroom lesson"], "must": ["classroom"], "exclude": ["File:Armed teacher in classroom.png"], "scene": "teacher classroom"},
    "home office laptop"
   ]},
   {"id": "bull-market", "kind": "topic", "name": "Wall Street & stock market rallies", "aliases": ["stock market", "wall street", "rally", "bull market", "s&p 500", "record high"], "shots": [
@@ -463,14 +463,14 @@
    "stock market ticker Times Square"
   ]},
   {"id": "crash", "kind": "topic", "name": "Market crash & volatility", "aliases": ["crash", "sell-off", "bear market", "volatility", "correction", "panic"], "shots": [
-   {"id": "red-board", "q": "stock market board red", "alt": ["stock ticker board", "stock prices display"], "scene": "A stock board full of falling red prices"},
+   {"id": "red-board", "q": "stock market screens red", "alt": ["trading floor screens", "stock exchange display"], "must": ["stock market", "stock exchange", "trading floor", "stock prices", "ticker"], "scene": "A stock board full of falling red prices"},
    {"id": "stress", "q": "stressed trader", "alt": ["stock trader stress", "trader head in hands"], "scene": "A stressed trader with head in hands in front of screens"},
    {"id": "storm", "q": "storm clouds Manhattan", "alt": ["storm over city", "lightning skyline"], "scene": "Dark storm clouds over the Manhattan skyline"},
    {"id": "bear-statue", "q": "Bulle und Bär Frankfurt", "alt": ["bull and bear statue", "bear statue stock exchange"], "scene": "The bull and bear statues outside the Frankfurt Stock Exchange"},
    {"id": "1929", "q": "Wall Street crash 1929", "alt": ["crowd Wall Street 1929", "Black Tuesday"], "scene": "Crowds on Wall Street during the 1929 crash, black and white", "historic": true},
    {"id": "ticker", "q": "electronic stock ticker", "alt": ["stock ticker", "LED stock ticker"], "scene": "An electronic stock ticker scrolling prices"},
-   {"id": "1987", "q": "Black Monday 1987", "scene": "Black Monday stock market crash of 1987", "historic": true},
-   "falling stock prices screen",
+   {"id": "1987", "q": "Black Monday 1987 stock market crash", "alt": ["stock market crash 1987"], "must": ["black monday", "1987 crash", "stock market crash"], "scene": "Black Monday stock market crash of 1987", "historic": true},
+   {"id": "falling-stock-prices-screen", "q": "stock prices screen", "alt": ["stock market display board", "stock ticker display"], "must": ["stock market", "stock exchange", "trading floor", "stock prices", "ticker", "stock quotes"], "scene": "falling stock prices screen"},
    "Lehman Brothers headquarters",
    "Occupy Wall Street"
   ]},
@@ -487,28 +487,28 @@
    "smart speaker"
   ]},
   {"id": "datacenters", "kind": "topic", "name": "AI data centers & power demand", "aliases": ["data center", "datacenter", "power demand", "electricity", "grid", "capex"], "shots": [
-   {"id": "hall", "q": "data center", "alt": ["datacenter", "server hall"], "scene": "A long data center hall with server racks"},
-   {"id": "aerial", "q": "data center aerial", "alt": ["data center building", "datacenter campus"], "scene": "A data center campus seen from above"},
-   {"id": "cooling", "q": "data center cooling", "alt": ["cooling towers data center", "chiller plant"], "scene": "Cooling equipment on a data center roof"},
-   {"id": "power-lines", "q": "high voltage power lines", "alt": ["transmission tower", "electricity pylons"], "scene": "High-voltage transmission lines at sunset"},
+   {"id": "hall", "q": "data center servers", "alt": ["server room", "server racks"], "must": ["data center", "datacenter", "data centre", "server room", "servers", "server racks"], "exclude": ["File:Data Center 3 (UNC).jpg", "File:Data Center 2 (UNC).jpg"], "scene": "A long data center hall with server racks"},
+   {"id": "aerial", "q": "Microsoft datacenter", "alt": ["Google data center", "Facebook data center"], "must": ["data center", "datacenter", "data centre"], "scene": "A data center campus seen from above"},
+   {"id": "cooling", "q": "data center cooling", "alt": ["data center roof", "data center chillers"], "must": ["data center", "datacenter", "data centre", "server"], "scene": "Cooling equipment on a data center roof"},
+   {"id": "power-lines", "q": "high voltage power lines", "alt": ["transmission tower", "electricity pylons"], "must": ["power line", "power lines", "transmission", "pylon", "pylons", "high voltage"], "scene": "High-voltage transmission lines at sunset"},
    {"id": "substation", "q": "electrical substation", "alt": ["substation transformer", "power substation"], "scene": "An electrical substation with transformers"},
-   {"id": "cables", "q": "server cables", "alt": ["network cables server", "fiber optic cables"], "scene": "Bundles of network cables in a server rack, macro"},
-   "data center construction",
-   "server room",
-   "data center generators",
-   "hyperscale data center"
+   {"id": "cables", "q": "server cabling", "alt": ["network cables server rack", "patch panel cables"], "must": ["cable", "cables", "cabling"], "scene": "Bundles of network cables in a server rack, macro"},
+   {"id": "data-center-construction", "q": "data center construction", "alt": ["datacenter under construction"], "must": ["data center", "datacenter", "data centre"], "scene": "A data center under construction"},
+   {"id": "server-room", "q": "server room", "must": ["server room", "servers", "server racks", "data center", "datacenter"], "scene": "A server room with rows of racks"},
+   {"id": "data-center-generators", "q": "Google data center", "alt": ["data center building"], "must": ["data center", "datacenter", "data centre"], "scene": "A large data center building"},
+   {"id": "hyperscale-data-center", "q": "Google Data Center The Dalles", "alt": ["Microsoft data center", "Meta data center"], "must": ["data center", "datacenter", "data centre"], "exclude": ["File:Data Center 3 (UNC).jpg", "File:Data Center 2 (UNC).jpg"], "scene": "A hyperscale data center campus"}
   ]},
   {"id": "chips", "kind": "topic", "name": "Semiconductors & the chip war", "aliases": ["semiconductors", "chips", "chip war", "export controls"], "shots": [
-   {"id": "wafer", "q": "wafer chips", "alt": ["semiconductor wafer close-up", "wafer"], "scene": "A shimmering silicon wafer full of chips"},
+   {"id": "wafer", "q": "silicon wafer", "alt": ["semiconductor wafer", "wafer chips"], "must": ["wafer"], "scene": "A shimmering silicon wafer full of chips"},
    {"id": "cleanroom", "q": "cleanroom", "alt": ["clean room", "semiconductor cleanroom"], "scene": "A chip fabrication clean room"},
    {"id": "fab-aerial", "q": "semiconductor fabrication plant", "alt": ["semiconductor factory", "chip factory"], "scene": "A semiconductor factory from above"},
    {"id": "die", "q": "die shot", "alt": ["microprocessor die", "CPU die"], "scene": "Macro photo of a microprocessor die with colourful circuits"},
    {"id": "pcb", "q": "printed circuit board", "alt": ["circuit board macro", "motherboard"], "scene": "A printed circuit board, macro with shallow depth of field"},
-   {"id": "hsinchu", "q": "Hsinchu Science Park", "alt": ["Hsinchu", "Hsinchu Science and Industrial Park"], "scene": "Hsinchu Science Park in Taiwan, heart of the chip industry"},
-   "chip packaging",
-   "photolithography",
-   "photomask",
-   "semiconductor fab construction"
+   {"id": "hsinchu", "q": "TSMC fab", "alt": ["TSMC Hsinchu", "Hsinchu Science Park"], "must": ["tsmc", "fab", "science park"], "exclude": ["File:Hsinchu Science Park Shuttle Bus Orange and Hsinchu Pilot Bus 2025-01-07 (electric bus)2.jpg"], "scene": "Hsinchu Science Park in Taiwan, heart of the chip industry"},
+   {"id": "chip-packaging", "q": "semiconductor packaging", "alt": ["integrated circuit packages", "microchips"], "must": ["semiconductor", "integrated circuit", "microchip", "microchips", "ic package"], "scene": "Packaged microchips"},
+   {"id": "photolithography", "q": "photolithography", "must": ["lithography", "photolithography", "cleanroom", "clean room"], "scene": "Photolithography in a chip cleanroom"},
+   {"id": "photomask", "q": "photomask", "alt": ["photolithography reticle", "lithography mask semiconductor"], "must": ["photomask", "reticle", "lithography"], "scene": "A photomask used to print chips"},
+   {"id": "semiconductor-fab-construction", "q": "semiconductor fab construction", "alt": ["TSMC Arizona", "Intel Ohio fab construction"], "must": ["fab", "semiconductor", "tsmc", "intel"], "scene": "A semiconductor fab under construction"}
   ]},
   {"id": "crypto", "kind": "topic", "name": "Bitcoin & crypto", "aliases": ["bitcoin", "crypto", "cryptocurrency", "ethereum", "btc"], "shots": [
    {"id": "coin", "q": "Bitcoin", "alt": ["Bitcoin coin", "Bitcoin physical"], "scene": "A gold Bitcoin coin on a dark surface"},
@@ -517,10 +517,10 @@
    {"id": "ethereum", "q": "Ethereum", "alt": ["Ethereum coin", "Ether coin"], "scene": "An Ethereum coin"},
    {"id": "chart", "q": "cryptocurrency chart", "alt": ["crypto trading", "Bitcoin price chart"], "scene": "A crypto price chart on a screen", "allow": ["chart"]},
    {"id": "conference", "q": "Bitcoin conference", "alt": ["Bitcoin 2022", "crypto conference"], "scene": "A packed crypto conference hall"},
-   "Dogecoin",
+   {"id": "dogecoin", "q": "Dogecoin", "must": ["dogecoin"], "scene": "Dogecoin"},
    "hardware wallet",
    "Bitcoin accepted here",
-   "Solana"
+   {"id": "solana", "q": "cryptocurrency coins", "alt": ["cryptocurrency", "crypto coins"], "must": ["cryptocurrency", "crypto", "blockchain", "bitcoin"], "scene": "Solana"}
   ]},
   {"id": "gold", "kind": "topic", "name": "Gold", "aliases": ["gold", "precious metals", "bullion"], "shots": [
    {"id": "bars", "q": "gold bars", "alt": ["gold bullion", "gold ingots"], "scene": "Stacked gold bars gleaming under soft light"},
@@ -541,7 +541,7 @@
    {"id": "tanker", "q": "oil tanker", "alt": ["crude oil tanker", "VLCC tanker"], "scene": "A crude oil supertanker at sea"},
    {"id": "opec", "q": "OPEC headquarters", "alt": ["OPEC Vienna", "OPEC meeting"], "scene": "OPEC headquarters in Vienna"},
    {"id": "barrels", "q": "oil barrels", "alt": ["oil drums", "barrels"], "scene": "Rows of oil barrels"},
-   "oil pipeline",
+   {"id": "oil-pipeline", "q": "Trans-Alaska Pipeline", "alt": ["oil pipeline"], "must": ["pipeline"], "exclude": ["File:No Pipelines and Love Water Not Oil signs along The Great River Road in Aitkin County, Minnesota.jpg"], "scene": "oil pipeline"},
    "Strait of Hormuz",
    "oil storage tanks",
    "gas flare"
@@ -578,8 +578,8 @@
    {"id": "wallet", "q": "cash wallet", "alt": ["wallet money", "dollars wallet"], "scene": "Dollar bills in a leather wallet"},
    "one dollar bill",
    "dollar coins",
-   "currency exchange office",
-   "Japanese yen banknotes",
+   {"id": "currency-exchange-office", "q": "currency exchange office", "alt": ["bureau de change", "money exchange counter"], "must": ["exchange office", "bureau de change", "currency exchange", "money exchange", "money changer"], "scene": "currency exchange office"},
+   {"id": "japanese-yen-banknotes", "q": "Japanese yen banknotes", "alt": ["10000 yen notes", "yen bills"], "must": ["yen"], "scene": "Japanese yen banknotes"},
    "Swiss franc banknotes"
   ]},
   {"id": "bonds", "kind": "topic", "name": "Treasuries, bonds & national debt", "aliases": ["bonds", "treasuries", "yields", "debt", "deficit", "10-year"], "shots": [
@@ -589,19 +589,19 @@
    {"id": "bond", "q": "Treasury bond certificate", "alt": ["United States Treasury bond", "bond certificate"], "scene": "A vintage Treasury bond certificate", "historic": true},
    {"id": "cash-room", "q": "Treasury Cash Room", "alt": ["Cash Room Treasury Building"], "scene": "The ornate Cash Room of the Treasury building"},
    {"id": "bessent", "q": "Scott Bessent", "scene": "Scott Bessent, U.S. Treasury Secretary", "person": true},
-   "Bureau of the Fiscal Service",
-   "House of Representatives chamber",
+   {"id": "bureau-of-the-fiscal-service", "q": "Bureau of the Fiscal Service", "must": ["fiscal service", "bureau of the fiscal", "bureau of public debt"], "scene": "Bureau of the Fiscal Service"},
+   {"id": "house-of-representatives-chamber", "q": "United States House of Representatives chamber", "alt": ["US House chamber"], "must": ["united states house", "u.s. house", "us house", "house chamber", "house of representatives chamber"], "scene": "House of Representatives chamber"},
    "Capitol Hill",
-   "government shutdown"
+   {"id": "government-shutdown", "q": "government shutdown closed sign", "alt": ["federal government shutdown"], "must": ["shutdown", "closed"], "scene": "government shutdown"}
   ]},
   {"id": "housing", "kind": "topic", "name": "Housing market & mortgages", "aliases": ["housing", "home market", "mortgages", "home prices", "homebuilders"], "shots": [
    {"id": "suburb", "q": "suburban housing aerial", "alt": ["suburb aerial", "housing development aerial"], "scene": "A suburban housing development from above"},
    {"id": "for-sale", "q": "house for sale sign", "alt": ["for sale sign", "real estate sign"], "scene": "A 'for sale' sign in front of a house"},
    {"id": "construction", "q": "residential construction", "alt": ["housing construction", "new homes construction"], "scene": "New homes under construction"},
-   {"id": "keys", "q": "house keys", "alt": ["keys", "door keys"], "scene": "House keys handed over, close-up"},
+   {"id": "keys", "q": "house keys", "alt": ["new home keys", "keys in door"], "must": ["key", "keys"], "scene": "House keys handed over, close-up"},
    {"id": "apartments", "q": "apartment buildings", "alt": ["apartment complex", "residential buildings"], "scene": "Rows of apartment buildings"},
-   {"id": "open-house", "q": "open house sign", "alt": ["open house real estate"], "scene": "An 'open house' sign on a front lawn"},
-   "new homes aerial",
+   {"id": "open-house", "q": "open house sign", "alt": ["open house real estate"], "must": ["open house"], "scene": "An 'open house' sign on a front lawn"},
+   {"id": "new-homes-aerial", "q": "housing subdivision aerial", "alt": ["new housing development aerial", "suburban subdivision"], "must": ["subdivision", "new homes", "housing development", "housing estate", "suburb", "suburban"], "scene": "new homes aerial"},
    "real estate agent",
    "townhouses",
    "moving boxes"
@@ -610,13 +610,13 @@
    {"id": "terminal", "q": "Bloomberg Terminal", "alt": ["Bloomberg keyboard", "financial terminal"], "scene": "A financial data terminal with keyboard and screens"},
    {"id": "report", "q": "annual report", "alt": ["financial report", "annual report pages"], "scene": "Pages of an annual report with financial tables"},
    {"id": "newspaper", "q": "financial newspaper", "alt": ["Wall Street Journal", "Financial Times newspaper"], "scene": "A financial newspaper folded on a desk with coffee"},
-   {"id": "analyst", "q": "financial analyst", "alt": ["analyst desk monitors", "multiple monitors desk"], "scene": "An analyst at a desk with several monitors"},
-   {"id": "quotes", "q": "stock quotes screen", "alt": ["stock market screen", "stock prices screen"], "scene": "Stock quotes on a screen, close-up"},
+   {"id": "analyst", "q": "financial analyst monitors", "alt": ["trader desk screens", "equity analyst"], "must": ["analyst", "trader", "trading desk", "trading floor"], "scene": "An analyst at a desk with several monitors"},
+   {"id": "quotes", "q": "stock quotes screen", "alt": ["stock prices display", "stock ticker screen"], "must": ["stock", "quotes", "ticker"], "scene": "Stock quotes on a screen, close-up"},
    {"id": "stage", "q": "CEO keynote stage", "alt": ["keynote presentation", "conference keynote"], "scene": "An executive presenting results on stage"},
    "shareholder meeting",
    "investor presentation",
    "stock ticker tape",
-   "stock tables newspaper"
+   {"id": "stock-tables-newspaper", "q": "stock tables newspaper", "alt": ["financial newspaper stock listings", "Wall Street Journal"], "must": ["stock tables", "stock listings", "financial pages", "newspaper", "wall street journal"], "exclude": ["File:Cabman's Shelter, Pont Street, 2026-08-16.jpg"], "scene": "stock tables newspaper"}
   ]},
   {"id": "ipo", "kind": "topic", "name": "IPOs", "aliases": ["ipo", "listing", "initial public offering", "going public"], "shots": [
    {"id": "bell", "q": "New York Stock Exchange opening bell", "alt": ["NYSE bell ringing", "opening bell"], "scene": "Ringing the opening bell at the New York Stock Exchange"},
@@ -626,8 +626,8 @@
    {"id": "times-square", "q": "Times Square billboards", "alt": ["Times Square night", "Times Square"], "scene": "Times Square billboards at night"},
    "NYSE trading floor",
    "Nasdaq MarketSite studio",
-   "ringing the bell",
-   "listing ceremony",
+   {"id": "ringing-the-bell", "q": "opening bell NYSE", "alt": ["ringing the opening bell Nasdaq", "closing bell New York Stock Exchange"], "must": ["opening bell", "closing bell", "nyse", "nasdaq", "stock exchange"], "scene": "ringing the bell"},
+   {"id": "listing-ceremony", "q": "listing ceremony stock exchange", "alt": ["NYSE listing", "Nasdaq listing day"], "must": ["listing", "nyse", "nasdaq", "stock exchange"], "scene": "listing ceremony"},
    "Wall Street flags"
   ]},
   {"id": "ev", "kind": "topic", "name": "Electric vehicles", "aliases": ["ev", "electric vehicles", "electric cars", "batteries"], "shots": [
@@ -635,7 +635,7 @@
    {"id": "station", "q": "charging station", "alt": ["EV charging station", "fast charging station"], "scene": "A row of fast chargers at an EV charging station"},
    {"id": "battery", "q": "lithium-ion battery cells", "alt": ["battery cells", "18650 battery"], "scene": "Lithium-ion battery cells, macro"},
    {"id": "byd", "q": "BYD Seal", "alt": ["BYD Atto 3", "BYD car"], "scene": "A BYD electric car"},
-   {"id": "assembly", "q": "electric vehicle assembly line", "alt": ["car assembly line robots", "car factory"], "scene": "Robots on an electric-car assembly line"},
+   {"id": "assembly", "q": "electric car factory assembly line", "alt": ["Tesla factory", "Gigafactory"], "must": ["assembly", "factory", "gigafactory", "production"], "scene": "Robots on an electric-car assembly line"},
    {"id": "rivian", "q": "Rivian R1T", "alt": ["Rivian R1S", "Rivian"], "scene": "A Rivian electric pickup truck"},
    "electric bus",
    "battery factory",
@@ -655,14 +655,14 @@
    "Diablo Canyon"
   ]},
   {"id": "defense", "kind": "topic", "name": "Defense & geopolitics", "aliases": ["defense", "defence", "war", "geopolitics", "military", "nato"], "shots": [
-   {"id": "pentagon", "q": "The Pentagon", "alt": ["Pentagon aerial", "Pentagon building"], "scene": "The Pentagon seen from above"},
+   {"id": "pentagon", "q": "The Pentagon aerial view", "alt": ["Pentagon building Arlington"], "must": ["pentagon"], "exclude": ["File:Aerial view of the Pentagon during rescue operations post-September 11 attack.JPEG"], "scene": "The Pentagon seen from above"},
    {"id": "fighter", "q": "F-22 Raptor", "alt": ["fighter jet", "F/A-18 Super Hornet"], "scene": "A fighter jet banking in flight"},
-   {"id": "carrier", "q": "aircraft carrier", "alt": ["USS Gerald R. Ford", "Nimitz-class aircraft carrier"], "scene": "An aircraft carrier at sea"},
+   {"id": "carrier", "q": "aircraft carrier", "alt": ["USS Gerald R. Ford", "Nimitz-class aircraft carrier"], "must": ["aircraft carrier", "uss", "carrier strike group"], "scene": "An aircraft carrier at sea"},
    {"id": "nato", "q": "NATO headquarters", "alt": ["NATO headquarters Brussels", "NATO summit"], "scene": "NATO headquarters in Brussels with member flags"},
    {"id": "missile", "q": "Patriot missile launch", "alt": ["missile launch", "missile test"], "scene": "A missile launch at dusk"},
    {"id": "drone", "q": "MQ-9 Reaper", "alt": ["military drone", "Bayraktar TB2"], "scene": "A military drone in flight"},
    "M1 Abrams",
-   "submarine",
+   {"id": "submarine", "q": "US Navy submarine", "alt": ["Virginia-class submarine", "Ohio-class submarine"], "must": ["uss", "submarine", "virginia-class", "ohio-class"], "scene": "submarine"},
    "military parade",
    "Eurofighter Typhoon"
   ]},
@@ -672,10 +672,10 @@
    {"id": "bags", "q": "shopping bags", "alt": ["woman shopping bags", "shopping"], "scene": "A shopper carrying several shopping bags"},
    {"id": "checkout", "q": "checkout line", "alt": ["supermarket checkout", "cash register"], "scene": "A busy checkout line"},
    {"id": "parcels", "q": "packages doorstep", "alt": ["parcel delivery", "delivery boxes"], "scene": "Parcels delivered on a front porch"},
-   {"id": "restaurant", "q": "busy restaurant", "alt": ["restaurant interior", "diners restaurant"], "scene": "A busy restaurant full of diners"},
+   {"id": "restaurant", "q": "busy restaurant", "alt": ["restaurant interior", "diners restaurant"], "must": ["restaurant", "diner", "cafe", "café"], "scene": "A busy restaurant full of diners"},
    "outlet mall",
    "Christmas shopping",
-   "department store",
+   {"id": "department-store", "q": "department store interior", "alt": ["Macy's Herald Square", "department store"], "must": ["department store", "macy", "nordstrom", "bloomingdale"], "exclude": ["File:Relief of furrier, Hudson's Bay Company Department Store, Edmonton, Alberta, 2026-09-27.jpg"], "scene": "department store"},
    "food delivery"
   ]},
   {"id": "banks", "kind": "topic", "name": "Banks & the financial system", "aliases": ["banks", "banking", "bank crisis", "regional banks", "credit"], "shots": [
@@ -696,10 +696,10 @@
    {"id": "retirees", "q": "retired couple", "alt": ["elderly couple", "retirement"], "scene": "A retired couple walking on a beach"},
    {"id": "coins-growth", "q": "coins stack", "alt": ["stacks of coins", "coin stacks"], "scene": "Growing stacks of coins, macro, symbolizing compound growth"},
    {"id": "app", "q": "stock trading app", "alt": ["trading app smartphone", "investing app"], "scene": "A stock trading app on a smartphone"},
-   {"id": "notebook", "q": "financial planning", "alt": ["budget planning notebook", "calculator finance"], "scene": "A notebook, calculator and pen for financial planning"},
+   {"id": "notebook", "q": "notebook financial planning", "alt": ["budget planning notebook", "financial notes calculator"], "must": ["notebook", "notes", "planning", "budget"], "scene": "A notebook, calculator and pen for financial planning"},
    {"id": "certificate", "q": "stock certificate", "scene": "A vintage stock certificate", "historic": true},
    "financial advisor",
-   "investment documents",
+   {"id": "investment-documents", "q": "financial documents calculator", "alt": ["investment paperwork", "financial statements"], "must": ["documents", "paperwork", "statement", "statements", "calculator"], "scene": "investment documents"},
    "young investor smartphone"
   ]},
   {"id": "space", "kind": "topic", "name": "Space economy", "aliases": ["space", "satellites", "space economy", "rockets"], "shots": [
@@ -708,7 +708,7 @@
    {"id": "earth", "q": "Earth from the International Space Station", "alt": ["Earth from space", "Earth at night from space"], "scene": "Earth seen from the International Space Station"},
    {"id": "iss", "q": "International Space Station", "alt": ["ISS"], "scene": "The International Space Station in orbit"},
    {"id": "new-glenn", "q": "New Glenn", "alt": ["Blue Origin New Glenn", "New Shepard"], "scene": "Blue Origin's New Glenn rocket"},
-   {"id": "rocket-lab", "q": "Rocket Lab Electron", "alt": ["Electron rocket", "Rocket Lab"], "scene": "A Rocket Lab Electron rocket launch"},
+   {"id": "rocket-lab", "q": "Rocket Lab Electron", "alt": ["Electron rocket", "Rocket Lab"], "must": ["rocket lab", "electron rocket", "electron launch"], "scene": "A Rocket Lab Electron rocket launch"},
    "Mars rover",
    "James Webb Space Telescope",
    "rocket factory",
@@ -716,18 +716,18 @@
   ]},
   {"id": "glp1", "kind": "topic", "name": "Weight-loss drugs (GLP-1)", "aliases": ["glp-1", "weight loss", "obesity drugs", "ozempic", "wegovy", "zepbound"], "shots": [
    {"id": "pen", "q": "semaglutide", "alt": ["GLP-1 injection pen", "injection pen"], "scene": "A GLP-1 injection pen on a bathroom counter"},
-   {"id": "injection", "q": "subcutaneous injection", "alt": ["self injection", "injection abdomen"], "scene": "A person self-injecting with a pen"},
-   {"id": "scale", "q": "bathroom scale", "alt": ["weighing scale", "body weight scale"], "scene": "Feet on a bathroom scale"},
+   {"id": "injection", "q": "semaglutide injection pen", "alt": ["Ozempic pen", "insulin pen injection"], "must": ["pen", "semaglutide", "ozempic", "wegovy", "injection pen", "insulin"], "scene": "A person self-injecting with a pen"},
+   {"id": "scale", "q": "bathroom scale", "alt": ["weighing scale feet", "body weight scale"], "must": ["bathroom scale", "weighing", "weight scale", "body weight"], "scene": "Feet on a bathroom scale"},
    {"id": "pharmacy", "q": "pharmacy shelves", "alt": ["pharmacy", "drugstore shelves"], "scene": "Pharmacy shelves full of medicines"},
    {"id": "gym", "q": "gym workout", "alt": ["fitness gym", "gym"], "scene": "People exercising in a gym"},
    {"id": "food", "q": "healthy meal", "alt": ["salad bowl", "healthy food"], "scene": "A healthy meal bowl seen from above"},
    "measuring tape waist",
    "nutritionist",
    "jogging park",
-   "fresh vegetables"
+   {"id": "fresh-vegetables", "q": "fresh vegetables", "must": ["vegetables", "vegetable", "salad", "produce"], "scene": "fresh vegetables"}
   ]},
   {"id": "politics", "kind": "topic", "name": "US politics & markets", "aliases": ["politics", "white house", "election", "congress", "president", "shutdown"], "shots": [
-   {"id": "white-house", "q": "White House", "alt": ["White House north facade", "White House Washington"], "scene": "The White House in Washington, D.C."},
+   {"id": "white-house", "q": "White House", "alt": ["White House north facade", "White House Washington"], "must": ["white house"], "scene": "The White House in Washington, D.C."},
    {"id": "capitol-night", "q": "United States Capitol night", "alt": ["Capitol at night", "US Capitol dusk"], "scene": "The U.S. Capitol lit up at night"},
    {"id": "oval-office", "q": "Oval Office", "alt": ["Resolute desk"], "scene": "The Oval Office"},
    {"id": "supreme-court", "q": "United States Supreme Court Building", "alt": ["Supreme Court building", "Supreme Court of the United States"], "scene": "The U.S. Supreme Court building"},
@@ -735,19 +735,19 @@
    {"id": "trump", "q": "Donald Trump", "scene": "Donald Trump, U.S. President", "person": true},
    "United States Senate chamber",
    "presidential debate",
-   "Air Force One",
-   "campaign rally"
+   {"id": "air-force-one", "q": "Air Force One", "must": ["air force one", "vc-25"], "scene": "Air Force One"},
+   {"id": "campaign-rally", "q": "presidential campaign rally", "alt": ["campaign rally crowd"], "must": ["rally"], "scene": "campaign rally"}
   ]},
   {"id": "europe", "kind": "topic", "name": "Europe & the ECB", "aliases": ["europe", "ecb", "eurozone", "euro", "cac 40", "dax", "stoxx"], "shots": [
    {"id": "ecb", "q": "European Central Bank Frankfurt", "alt": ["European Central Bank", "ECB headquarters"], "scene": "The European Central Bank tower in Frankfurt"},
    {"id": "frankfurt", "q": "Frankfurt skyline", "alt": ["Frankfurt am Main skyline", "Frankfurt banking district"], "scene": "Frankfurt's banking district skyline"},
    {"id": "paris-bourse", "q": "Palais Brongniart", "alt": ["Euronext Paris", "Paris Bourse"], "scene": "Palais Brongniart, the historic Paris stock exchange"},
    {"id": "la-defense", "q": "La Défense", "alt": ["La Defense Paris", "La Défense skyline"], "scene": "The La Défense business district in Paris"},
-   {"id": "euro-coins", "q": "euro coins", "alt": ["euro banknotes", "euro"], "scene": "Euro coins and banknotes"},
+   {"id": "euro-coins", "q": "euro coins", "alt": ["euro cent coins", "euro coin"], "must": ["euro coins", "euro coin", "euro-coins", "euro cents", "euro cent"], "exclude": ["File:Confocal measurement of 1-euro-star 3d and euro.png"], "scene": "Euro coins and banknotes"},
    {"id": "lagarde", "q": "Christine Lagarde", "scene": "Christine Lagarde, ECB President", "person": true},
    "Berlaymont",
    "Reichstag building",
-   "Deutsche Börse",
+   {"id": "deutsche-borse", "q": "Frankfurt Stock Exchange", "alt": ["Börse Frankfurt trading floor", "Deutsche Börse"], "must": ["deutsche börse", "deutsche borse", "frankfurt stock exchange", "börse frankfurt", "frankfurter wertpapierbörse"], "scene": "Deutsche Börse"},
    "Brussels European Quarter"
   ]},
   {"id": "quantum", "kind": "topic", "name": "Quantum computing", "aliases": ["quantum computing", "quantum computer"], "shots": [
@@ -756,7 +756,7 @@
    "superconducting qubit",
    "ion trap",
    "quantum computing laboratory",
-   "Google Sycamore",
+   {"id": "google-sycamore", "q": "Google Sycamore", "must": ["google", "quantum"], "scene": "Google Sycamore"},
    "quantum processor",
    "cryostat",
    "physics laboratory",
@@ -765,7 +765,7 @@
   {"id": "robotics", "kind": "topic", "name": "Robotics & automation", "aliases": ["robotics", "robots", "automation", "humanoid"], "shots": [
    "industrial robot",
    "robotic arm factory",
-   "Boston Dynamics Atlas",
+   {"id": "boston-dynamics-atlas", "q": "Boston Dynamics Atlas", "must": ["boston dynamics"], "scene": "Boston Dynamics Atlas"},
    "Boston Dynamics Spot",
    "warehouse robots",
    "surgical robot",
@@ -779,45 +779,45 @@
    "DEF CON",
    "hacker conference",
    "padlock laptop",
-   "server room security",
+   {"id": "server-room-security", "q": "server room", "alt": ["data center security", "server racks locked"], "must": ["server room", "servers", "server racks", "data center", "datacenter"], "scene": "server room security"},
    "CCTV camera",
    "fingerprint scanner",
    "network cables",
-   "computer security",
-   "login screen"
+   {"id": "computer-security", "q": "hacker laptop code", "alt": ["programmer laptop dark", "computer code screen"], "must": ["laptop", "keyboard", "hacker", "code", "programmer"], "scene": "computer security"},
+   {"id": "login-screen", "q": "password login screen", "alt": ["login password laptop"], "must": ["password", "login"], "exclude": ["File:Ubuntu 22.04 login screen.png"], "scene": "login screen"}
   ]},
   {"id": "india", "kind": "topic", "name": "India economy", "aliases": ["india", "indian economy", "sensex", "nifty", "rupee"], "shots": [
    "Mumbai skyline",
-   "Bombay Stock Exchange",
+   {"id": "bombay-stock-exchange", "q": "Bombay Stock Exchange building", "alt": ["Phiroze Jeejeebhoy Towers", "BSE Mumbai"], "must": ["bombay stock exchange", "phiroze jeejeebhoy", "bse", "dalal street"], "scene": "Bombay Stock Exchange"},
    "Bandra Kurla Complex",
    "Bangalore tech park",
    "Indian rupee banknotes",
    "Reserve Bank of India",
-   "Dalal Street",
-   "Indian factory",
+   {"id": "dalal-street", "q": "Dalal Street Mumbai", "alt": ["Dalal Street"], "must": ["dalal street"], "scene": "Dalal Street"},
+   {"id": "indian-factory", "q": "factory workers India", "alt": ["Indian manufacturing plant", "textile factory India"], "must": ["factory", "plant", "manufacturing"], "scene": "Indian factory"},
    "GIFT City",
-   "Delhi Metro"
+   {"id": "delhi-metro", "q": "Delhi Metro train", "alt": ["Delhi Metro station"], "must": ["delhi metro"], "exclude": ["File:A Rooftop Solar System of Delhi Metro at the Welcome Metro Station of Delhi Metro.jpg"], "scene": "Delhi Metro"}
   ]},
   {"id": "japan", "kind": "topic", "name": "Japan economy", "aliases": ["japan", "japanese economy", "nikkei", "yen", "bank of japan"], "shots": [
    "Tokyo Stock Exchange",
    "Tokyo skyline",
    "Bank of Japan",
    "Shibuya Crossing",
-   "Marunouchi",
+   {"id": "marunouchi", "q": "Marunouchi skyline", "alt": ["Marunouchi Tokyo buildings", "Tokyo Station Marunouchi"], "must": ["marunouchi"], "exclude": ["File:Ren Ren Ren, Chinese restaurant in Marunouchi 3.jpg"], "scene": "Marunouchi"},
    "Shinkansen",
    "Osaka skyline",
-   "Japanese factory",
+   {"id": "japanese-factory", "q": "Toyota factory Japan", "alt": ["Japanese car factory assembly line", "Japan factory robots"], "must": ["toyota", "assembly line", "plant", "production line"], "scene": "Japanese factory"},
    "Ginza",
    "Tokyo night"
   ]},
   {"id": "metals", "kind": "topic", "name": "Industrial metals & mining", "aliases": ["metals", "copper", "silver", "lithium", "mining", "commodities"], "shots": [
-   "copper cathodes",
+   {"id": "copper-cathodes", "q": "copper cathodes", "alt": ["copper cathode sheets", "copper ingots"], "must": ["copper"], "scene": "copper cathodes"},
    "copper mine",
-   "lithium mine",
+   {"id": "lithium-mine", "q": "lithium mine", "must": ["lithium"], "scene": "lithium mine"},
    "aluminium ingots",
    "iron ore",
    "nickel mine",
-   "rare earth elements",
+   {"id": "rare-earth-elements", "q": "rare earth mine", "alt": ["rare earth oxides", "Mountain Pass rare earth mine"], "must": ["rare earth", "rare-earth"], "scene": "rare earth elements"},
    "London Metal Exchange",
    "steel mill",
    "mining truck"
@@ -839,10 +839,10 @@
    "Hermès store",
    "Rolex",
    "Champs-Élysées",
-   "Rodeo Drive",
+   {"id": "rodeo-drive", "q": "Rodeo Drive Beverly Hills", "alt": ["Rodeo Drive shops"], "must": ["rodeo drive", "beverly hills"], "exclude": ["File:Skid Rodeo Drive in Skid Row Los Angeles.jpg"], "scene": "Rodeo Drive"},
    "Place Vendôme",
    "jewelry store",
-   "luxury handbag",
+   {"id": "luxury-handbag", "q": "luxury handbag", "alt": ["designer handbag", "leather handbag"], "must": ["handbag", "handbags", "bag", "bags"], "scene": "luxury handbag"},
    "Fifth Avenue shopping",
    "Galeries Lafayette"
   ]},
@@ -853,18 +853,18 @@
    "tech campus",
    "smartphone",
    "circuit board macro",
-   "technology conference",
-   "data center aisle",
+   {"id": "technology-conference", "q": "technology conference keynote", "alt": ["tech conference stage", "developer conference"], "must": ["conference", "keynote", "summit", "expo"], "scene": "technology conference"},
+   {"id": "data-center-aisle", "q": "server room", "alt": ["data center servers", "server racks"], "must": ["data center", "datacenter", "data centre", "server room", "servers", "server racks"], "scene": "data center aisle"},
    "computer chip",
-   "office open space"
+   {"id": "office-open-space", "q": "open plan office", "alt": ["open-plan office", "office interior desks"], "must": ["office"], "scene": "office open space"}
   ]},
   {"id": "sector-health", "kind": "sector", "name": "Health care sector", "gics": "Health Care", "aliases": ["health care"], "shots": [
-   "hospital",
+   {"id": "hospital", "q": "hospital", "must": ["hospital", "medical center", "medical centre"], "scene": "hospital"},
    "pharmaceutical laboratory",
    "pills blister",
    "doctor stethoscope",
-   "MRI scanner",
-   "surgery",
+   {"id": "mri-scanner", "q": "MRI scanner", "alt": ["magnetic resonance imaging machine"], "must": ["mri", "magnetic resonance"], "scene": "MRI scanner"},
+   {"id": "surgery", "q": "surgeons operating room", "alt": ["operating theatre surgery team"], "must": ["operating room", "operating theatre", "operating theater", "surgeons"], "scene": "surgery"},
    "pharmacy",
    "vaccine vial",
    "nurse",
@@ -876,7 +876,7 @@
    "insurance office",
    "credit cards",
    "stock exchange",
-   "banknotes",
+   {"id": "banknotes", "q": "US dollar banknotes", "alt": ["hundred dollar bills"], "must": ["dollar"], "scene": "banknotes"},
    "financial district",
    "bank vault",
    "calculator documents",
@@ -895,15 +895,15 @@
    "fashion boutique"
   ]},
   {"id": "sector-communication", "kind": "sector", "name": "Communication services sector", "gics": "Communication Services", "aliases": ["communication services"], "shots": [
-   "television studio",
+   {"id": "television-studio", "q": "television studio cameras", "alt": ["TV studio"], "must": ["studio"], "scene": "television studio"},
    "cell tower",
    "smartphone social media",
    "fiber optic",
    "satellite dish",
-   "newsroom",
+   {"id": "newsroom", "q": "newsroom journalists", "alt": ["newsroom"], "must": ["newsroom", "news room"], "scene": "newsroom"},
    "movie theater",
-   "video game",
-   "streaming television",
+   {"id": "video-game", "q": "people playing video games", "alt": ["gamers esports tournament", "video game players"], "must": ["playing", "gamer", "gamers", "gaming"], "scene": "video game"},
+   {"id": "streaming-television", "q": "watching television", "alt": ["family watching TV", "smart TV living room"], "must": ["watching", "living room"], "scene": "streaming television"},
    "broadcasting tower"
   ]},
   {"id": "sector-industrials", "kind": "sector", "name": "Industrial sector", "gics": "Industrials", "aliases": ["industrials"], "shots": [
@@ -924,11 +924,11 @@
    "beverage bottling",
    "wheat field",
    "household products shelf",
-   "food processing plant",
+   {"id": "food-processing-plant", "q": "food production line factory", "alt": ["food processing line", "bakery production line"], "must": ["production line", "processing line", "food factory", "bakery", "packaging line", "bottling"], "scene": "food processing plant"},
    "fresh produce",
    "brewery",
    "dairy farm",
-   "packaged food"
+   {"id": "packaged-food", "q": "supermarket shelves packaged food", "alt": ["grocery shelves"], "must": ["shelves", "shelf", "aisle"], "scene": "packaged food"}
   ]},
   {"id": "sector-energy", "kind": "sector", "name": "Energy sector", "gics": "Energy", "aliases": ["energy"], "shots": [
    "oil rig",
@@ -950,8 +950,8 @@
    "hydroelectric dam",
    "electricity meter",
    "substation",
-   "water treatment plant",
-   "lineman",
+   {"id": "water-treatment-plant", "q": "water treatment plant", "alt": ["wastewater treatment plant", "sewage treatment plant"], "must": ["water treatment", "wastewater", "sewage treatment"], "scene": "water treatment plant"},
+   {"id": "lineman", "q": "utility linemen power lines", "alt": ["line workers bucket truck", "electric utility workers"], "must": ["linemen", "line worker", "line workers", "power line", "power lines", "bucket truck", "utility worker", "utility workers"], "scene": "lineman"},
    "gas power station"
   ]},
   {"id": "sector-real-estate", "kind": "sector", "name": "Real estate sector", "gics": "Real Estate", "aliases": ["real estate"], "shots": [
@@ -960,11 +960,11 @@
    "shopping center",
    "logistics park",
    "hotel building",
-   "suburban houses",
+   {"id": "suburban-houses", "q": "suburban houses street", "alt": ["suburban neighborhood houses", "residential street houses"], "must": ["houses", "homes", "neighborhood", "neighbourhood", "residential"], "scene": "suburban houses"},
    "commercial building construction",
    "city skyline",
    "cell tower",
-   "self storage"
+   {"id": "self-storage", "q": "self storage units", "alt": ["self-storage facility", "storage units"], "must": ["self storage", "self-storage", "storage units", "storage facility", "public storage"], "scene": "self storage"}
   ]},
   {"id": "sector-materials", "kind": "sector", "name": "Materials sector", "gics": "Materials", "aliases": ["materials"], "shots": [
    "steel mill",

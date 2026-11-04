@@ -65,7 +65,8 @@ PERSON_FOCUS = (0.5, 0.33)            # faces sit in the upper third
 MIMES = {"image/jpeg", "image/png"}
 BAD_WORDS = ["logo", "logotype", "wordmark", "icon", "map", "diagram", "chart", "graph", "plot", "screenshot",
              "infographic", "coat of arms", "flag of", "seal of", "emblem", "drawing", "illustration", "render",
-             "rendering", "sketch", "plan", "blueprint", "label", "poster", "banner", "stamp", "signature"]
+             "rendering", "sketch", "plan", "blueprint", "label", "poster", "banner", "stamp", "signature",
+             "bioart", "cover art", "figure", "micrograph"]
 SKIP_CATEGORY = re.compile(r"\b(logos?|wordmarks?|icons?|maps?|diagrams?|charts?|graphs?|screenshots?|documents?|advertis\w*|"
                            r"posters?|svg|signatures?|videos?|audio|sounds?|pdf|patents?|drawings?|illustrations?|stamps?|texts?|"
                            r"coats? of arms|flags?|scans?|letters?|annual reports?|share certificates?|people|employees|"
@@ -176,6 +177,8 @@ def check_catalog(cat, extras=None):
                 out.append(f"{sid}/{sh.get('id')}: needs q and scene")
             if sh.get("orient", "any") not in ("landscape", "portrait", "any"):
                 out.append(f"{sid}/{sh.get('id')}: orient must be any, landscape or portrait")
+            if any(not str(x).startswith("File:") for x in sh.get("exclude", [])):
+                out.append(f"{sid}/{sh.get('id')}: exclude lists 'File:...' titles")
             f = sh.get("focus")
             if f is not None and not (len(f) == 2 and all(0 <= v <= 1 for v in f)):
                 out.append(f"{sid}/{sh.get('id')}: focus must be [x, y] between 0 and 1")
@@ -619,7 +622,7 @@ def has_term(hay, term):
 
 def score(c, rank, shot, used=(), no_sa=False, exclude=()):
     """Ranking score of a candidate for a shot, or None when it cannot be used."""
-    if c["file"] in used or c["file"] in exclude or c["mime"] not in MIMES or not c.get("orig"):
+    if c["file"] in used or c["file"] in exclude or c["file"] in shot.get("exclude", ()) or c["mime"] not in MIMES or not c.get("orig"):
         return None
     if len(c["file"].encode()) > 160:  # Commons shortens long names in thumbnail addresses
         return None
@@ -631,6 +634,8 @@ def score(c, rank, shot, used=(), no_sa=False, exclude=()):
     if not w or not h or max(w, h) < lo or min(w, h) < sh or bad_name(c["file"], shot.get("allow", ())):
         return None
     if not shot.get("historic") and OLD_PAPER.search(" ".join(c["categories"])):  # letters, paintings, survey drawings
+        return None
+    if not shot.get("historic") and c.get("year") and c["year"] < 1960:  # wartime banknotes for 'yen banknotes'
         return None
     must = shot.get("must") or ([shot["q"].strip('"').lower()] if shot.get("person") and shot.get("q") else None)  # a person: their name
     if must:

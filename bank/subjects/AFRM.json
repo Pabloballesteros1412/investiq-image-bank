@@ -1,0 +1,29 @@
+{
+ "id": "AFRM",
+ "kind": "company",
+ "name": "Affirm",
+ "tickers": [
+  "AFRM"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Max Levchin, Affirm CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20110218083717%21Max_Levchin.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/2/21/20110218083717%21Max_Levchin.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Morgan Sherwood (flawedartist) from San Francisco (CA), USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Max_Levchin.jpg"
+  }
+ ]
+}

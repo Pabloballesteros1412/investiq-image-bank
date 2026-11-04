@@ -1,0 +1,28 @@
+{
+ "id": "ADP",
+ "kind": "company",
+ "name": "Automatic Data Processing",
+ "tickers": [
+  "ADP"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "ADP Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ADP_Headquarters.jpg/1920px-ADP_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/ADP_Headquarters.jpg/500px-ADP_Headquarters.jpg",
+   "size": [
+    1920,
+    1320
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ADPDigital, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:ADP_Headquarters.jpg"
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "id": "ABNB",
+ "kind": "company",
+ "name": "Airbnb",
+ "tickers": [
+  "ABNB"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "888 Brannan, San Francisco, 2016",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg/1920px-888_Brannan%2C_San_Francisco%2C_2016.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg/500px-888_Brannan%2C_San_Francisco%2C_2016.jpg",
+   "size": [
+    1920,
+    706
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:888_Brannan,_San_Francisco,_2016.jpg"
+  },
+  {
+   "shows": "Brian Chesky, Airbnb CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brian_Chesky_2025.jpg/1280px-Brian_Chesky_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brian_Chesky_2025.jpg/500px-Brian_Chesky_2025.jpg",
+   "size": [
+    1280,
+    1713
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Celeste Sloman, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brian_Chesky_2025.jpg"
+  },
+  {
+   "shows": "Airbnb headquarters in San Francisco",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Airbnb_HQ_%2839902444911%29.jpg/1920px-Airbnb_HQ_%2839902444911%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Airbnb_HQ_%2839902444911%29.jpg/500px-Airbnb_HQ_%2839902444911%29.jpg",
+   "size": [
+    1920,
+    1245
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Jurvetson from Menlo Park, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Airbnb_HQ_(39902444911).jpg"
+  },
+  {
+   "shows": "Not a hotel, apparently",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Not_a_hotel%2C_apparently._%2828067281778%29.jpg/1920px-Not_a_hotel%2C_apparently._%2828067281778%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Not_a_hotel%2C_apparently._%2828067281778%29.jpg/500px-Not_a_hotel%2C_apparently._%2828067281778%29.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Billie Grace Ward from New York, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Not_a_hotel,_apparently._(28067281778).jpg"
+  },
+  {
+   "shows": "Lady Gaga 11 19 2016 -1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lady_Gaga_11_19_2016_-1_%2831174388706%29.jpg/1920px-Lady_Gaga_11_19_2016_-1_%2831174388706%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Lady_Gaga_11_19_2016_-1_%2831174388706%29.jpg/500px-Lady_Gaga_11_19_2016_-1_%2831174388706%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Justin Higuchi from Los Angeles, CA, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lady_Gaga_11_19_2016_-1_(31174388706).jpg"
+  },
+  {
+   "shows": "Atrium of AirBnB Headquarters at 888 Brannan St, San Francisco",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Atrium_of_AirBnB_Headquarters_at_888_Brannan_St%2C_San_Francisco.jpg/1920px-Atrium_of_AirBnB_Headquarters_at_888_Brannan_St%2C_San_Francisco.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Atrium_of_AirBnB_Headquarters_at_888_Brannan_St%2C_San_Francisco.jpg/500px-Atrium_of_AirBnB_Headquarters_at_888_Brannan_St%2C_San_Francisco.jpg",
+   "size": [
+    1920,
+    1341
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Atrium_of_AirBnB_Headquarters_at_888_Brannan_St,_San_Francisco.jpg"
+  },
+  {
+   "shows": "ABANDONED WHITE VAN (IN FRONT OF THE NEW AIRBNB HEADQUARTERS)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ABANDONED_WHITE_VAN_%28IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS%29-119024_%2828373351960%29.jpg/1920px-ABANDONED_WHITE_VAN_%28IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS%29-119024_%2828373351960%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ABANDONED_WHITE_VAN_%28IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS%29-119024_%2828373351960%29.jpg/500px-ABANDONED_WHITE_VAN_%28IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS%29-119024_%2828373351960%29.jpg",
+   "size": [
+    1920,
+    1375
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "William Murphy from Dublin, Ireland, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:ABANDONED_WHITE_VAN_(IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS)-119024_(28373351960).jpg"
+  },
+  {
+   "shows": "Dragoon General Store and AirBnB",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dragoon_General_Store_and_AirBnB.jpg/1920px-Dragoon_General_Store_and_AirBnB.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dragoon_General_Store_and_AirBnB.jpg/500px-Dragoon_General_Store_and_AirBnB.jpg",
+   "size": [
+    1920,
+    1352
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DragoonArizona, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dragoon_General_Store_and_AirBnB.jpg"
+  }
+ ]
+}

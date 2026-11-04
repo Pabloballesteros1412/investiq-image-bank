@@ -1,0 +1,28 @@
+{
+ "id": "ANET",
+ "kind": "company",
+ "name": "Arista Networks",
+ "tickers": [
+  "ANET"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Distro swtich used under The Gathering 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Distro_swtich_used_under_The_Gathering_2025.jpg/1920px-Distro_swtich_used_under_The_Gathering_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Distro_swtich_used_under_The_Gathering_2025.jpg/500px-Distro_swtich_used_under_The_Gathering_2025.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Premeditated, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Distro_swtich_used_under_The_Gathering_2025.jpg"
+  }
+ ]
+}

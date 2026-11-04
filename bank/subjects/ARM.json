@@ -1,0 +1,172 @@
+{
+ "id": "ARM",
+ "kind": "company",
+ "name": "Arm Holdings",
+ "tickers": [
+  "ARM"
+ ],
+ "sector": "sector-tech",
+ "photos": [
+  {
+   "shows": "Cambridge ARM building panorama",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cambridge_ARM_building_panorama.jpg/1920px-Cambridge_ARM_building_panorama.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cambridge_ARM_building_panorama.jpg/500px-Cambridge_ARM_building_panorama.jpg",
+   "size": [
+    1920,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cmglee, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cambridge_ARM_building_panorama.jpg"
+  },
+  {
+   "shows": "Rene Haas, Arm Holdings CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/0/08/20250506100528%21Rene_Haas_at_SXSW_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/0/08/20250506100528%21Rene_Haas_at_SXSW_2025.jpg",
+   "size": [
+    1280,
+    1743
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Rosiestep, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rene_Haas_at_SXSW_2025.jpg"
+  },
+  {
+   "shows": "Windows ARM",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Windows_ARM.jpg/1920px-Windows_ARM.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Windows_ARM.jpg/500px-Windows_ARM.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "KK IN HK, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Windows_ARM.jpg"
+  },
+  {
+   "shows": "Windows on ARM",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Windows_on_ARM.jpg/1920px-Windows_on_ARM.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Windows_on_ARM.jpg/500px-Windows_on_ARM.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "KK IN HK, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Windows_on_ARM.jpg"
+  },
+  {
+   "shows": "AcornRiscPCARM610full",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AcornRiscPCARM610full.jpg/1920px-AcornRiscPCARM610full.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AcornRiscPCARM610full.jpg/500px-AcornRiscPCARM610full.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Teewurzler, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:AcornRiscPCARM610full.jpg"
+  },
+  {
+   "shows": "Amazon Kindle 4 - board - Freescale MCIMX508CVK8B-7114",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg/1920px-Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg/500px-Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg"
+  },
+  {
+   "shows": "Macchiatobin-A8040-ARM",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Macchiatobin-A8040-ARM.jpg/1920px-Macchiatobin-A8040-ARM.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Macchiatobin-A8040-ARM.jpg/500px-Macchiatobin-A8040-ARM.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jakednb, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Macchiatobin-A8040-ARM.jpg"
+  },
+  {
+   "shows": "LEC-iMX8M-F",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LEC-iMX8M-F.png/1920px-LEC-iMX8M-F.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LEC-iMX8M-F.png/500px-LEC-iMX8M-F.png",
+   "size": [
+    1920,
+    1385
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TomaszSwatowski, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:LEC-iMX8M-F.png"
+  },
+  {
+   "shows": "ZTE MF165+ - board - Mediatek MT6280A",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg/1920px-ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg/500px-ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg"
+  },
+  {
+   "shows": "Amazon Dash Button Somat - board - Atmel SAM G55J19-2346",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg/1920px-Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg/500px-Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg"
+  }
+ ]
+}

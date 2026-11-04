@@ -1,0 +1,44 @@
+{
+ "id": "AOS",
+ "kind": "company",
+ "name": "A. O. Smith",
+ "tickers": [
+  "AOS"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "A. O. Smith Corporate Technology Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A._O._Smith_Corporate_Technology_Center.jpg/1920px-A._O._Smith_Corporate_Technology_Center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/A._O._Smith_Corporate_Technology_Center.jpg/500px-A._O._Smith_Corporate_Technology_Center.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kwshermach, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A._O._Smith_Corporate_Technology_Center.jpg"
+  },
+  {
+   "shows": "Plumbex India 2026, Bangalore International Exhibition Centre 114",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Plumbex_India_2026%2C_Bangalore_International_Exhibition_Centre_114.jpg/1920px-Plumbex_India_2026%2C_Bangalore_International_Exhibition_Centre_114.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Plumbex_India_2026%2C_Bangalore_International_Exhibition_Centre_114.jpg/500px-Plumbex_India_2026%2C_Bangalore_International_Exhibition_Centre_114.jpg",
+   "size": [
+    1920,
+    1446
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Plumbex_India_2026,_Bangalore_International_Exhibition_Centre_114.jpg"
+  }
+ ]
+}
