@@ -59,28 +59,38 @@ Decisions (Pablo, 4 Nov 2026):
   now has 407 photos: 336 of companies (220 of 583 companies have at least one, 25 have three or more; the big
   names keep 1-6 each) and 71 of topics and sectors (0-4 each, until Unsplash/Pexels fill them). After any new
   build, new Commons photos stay unpublished until graded.
-- **Unsplash and Pexels** (code done and tested offline, `stock.py`; not run yet): the environment had neither
-  network access to `api.unsplash.com`, `images.unsplash.com`, `api.pexels.com`, `images.pexels.com` nor keys.
-  Pablo was asked to allow the four hosts and add `UNSPLASH_ACCESS_KEY` and `PEXELS_API_KEY` (needs a new
-  session). Topics and sectors run each shot on Unsplash, Pexels and Commons; a stock photo must name every word
+- **Unsplash and Pexels** (code done and tested offline, `stock.py`; not run yet): the four hosts
+  (`api.unsplash.com`, `images.unsplash.com`, `api.pexels.com`, `images.pexels.com`) answer since the second
+  session, but `UNSPLASH_ACCESS_KEY` and `PEXELS_API_KEY` are still not in the environment (Pexels: 401). Pablo
+  was asked to add them (a new session picks them up). Note: `WIKIMEDIA_TOKEN` is now a short placeholder that
+  the egress proxy swaps for the real token (network secret): it only works in the Authorization header to the
+  Wikimedia hosts, which is where `headers()` sends it. Topics and sectors run each shot on Unsplash, Pexels and Commons; a stock photo must name every word
   of the search (or a `must` word) in its description and then wins (+30). Never for real people; no Unsplash+,
   renders, illustrations or quotes. Answers cached in `.cache/stock/` for 30 days. Unsplash's limit for a new app
   is 50 requests an hour (~480 searches for topics and sectors: about 10 hours; ask Pablo to apply for
   production, 5,000/h), Pexels 200/h.
 
+- **Brands** (Pablo chose it, 4 Nov night; code done and tested offline, not run yet): `brands.json` lists the
+  brands and products of 236 consumer-facing companies (as stock descriptions name them: "iPhone", "Big Mac",
+  "Tesla Model 3", "Chase bank"). A company keeps its approved Commons photos first and fills the rest of its 10
+  with Unsplash/Pexels photos found by searching its first 3 brands; a photo counts only if its description names
+  a brand, the full name or an unambiguous short name; at most 2 per photographer. Companies not in brands.json
+  get no stock photos. `build --kind company --stock-only` keeps the approved Commons photos and redoes only the
+  brand photos (no Commons search, nothing to grade). Stock photos are published unless graded below 3
+  (`python review.py sheets --stock` to check them). 394 searches per source.
+
 ## Next work (in order)
 1. New session with the keys: check `curl -sS -o /dev/null -w "%{http_code}" -H "Authorization: $PEXELS_API_KEY"
    "https://api.pexels.com/v1/search?query=gold"` gives 200 (Unsplash: `-H "Authorization: Client-ID
-   $UNSPLASH_ACCESS_KEY" https://api.unsplash.com/search/photos?query=gold`). Then
-   `python image_bank.py build --kind topic,sector --redo`, look at every topic and sector by eye (contact
-   sheets of the previews, as in this session), fix searches in `catalog.json`, grade any new Commons photos
-   (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
-2. Optional, if Pablo likes the stock look: Unsplash/Pexels for well-known consumer brands too (Apple Store,
-   Nike, Starbucks, Tesla...): `company_photos` would need the stock sources with a strict brand-name match on
-   the description. Ask first: it costs ~600 searches per source.
-3. Get this branch into `main` (PR + merge, Pablo's call): until then the chat reads the old empty index.
-4. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
-5. Big companies left with few published photos: a hand-written catalog entry (stores, products, HQ) and a
+   $UNSPLASH_ACCESS_KEY" https://api.unsplash.com/search/photos?query=gold`); the answer shapes in `stock.py`
+   were written from the APIs' documentation, so check one real answer first. Then
+   `python image_bank.py build --kind topic,sector --redo` and `python image_bank.py build --kind company
+   --stock-only`; look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
+   wrong brand terms get fixed in `brands.json`), fix topic searches in `catalog.json`, grade any new Commons
+   photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
+2. Get this branch into `main` (PR + merge, Pablo's call): until then the chat reads the old empty index.
+3. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
+4. Big companies left with few published photos: a hand-written catalog entry (stores, products, HQ) and a
    rebuild + review round for them.
 
 ## Rules

@@ -15,6 +15,8 @@ photo graded below it again. Photos from Unsplash and Pexels need no grade. Comm
 
     python review.py sheets [OUT_DIR]   contact sheets of the Commons photos without a grade (default review/),
                                         30 numbered 4:5 tiles each, and OUT_DIR/sheets.json (tile -> photo)
+    python review.py sheets --stock     the same for Unsplash and Pexels photos without a grade: they are
+                                        published unless graded below min_grade, so this is a check, not a gate
     python review.py grade GRADES.json  merge grades: {"sheet-001": {"3": [tile, ...], "2": [...]}, ...};
                                         tiles not listed get 1. Then: python image_bank.py index
     python review.py stats              how many photos have each grade
@@ -31,9 +33,9 @@ COLS, ROWS = 6, 5
 TW, TH, LABEL = 250, 312, 40
 
 
-def commons_photos(m):
-    """[(subject id, photo)] of the Commons photos in the manifest, by subject."""
-    return [(sid, p) for sid, e in m.items() for p in e.get("photos", []) if B.provider_of(p) == "commons"]
+def commons_photos(m, stock=False):
+    """[(subject id, photo)] of the Commons photos in the manifest (with stock: the Unsplash and Pexels ones)."""
+    return [(sid, p) for sid, e in m.items() for p in e.get("photos", []) if (B.provider_of(p) == "commons") != stock]
 
 
 def preview(p):
@@ -44,7 +46,9 @@ def preview(p):
     if not f.exists() or not f.stat().st_size:
         for attempt in range(6):
             try:
-                with urllib.request.urlopen(urllib.request.Request(p["preview"], headers=B.headers()), timeout=60) as r:
+                # the Wikimedia token goes to Wikimedia only
+                h = B.headers() if "wikimedia.org" in p["preview"] else {"User-Agent": B.UA}
+                with urllib.request.urlopen(urllib.request.Request(p["preview"], headers=h), timeout=60) as r:
                     f.write_bytes(r.read())
                 break
             except urllib.error.HTTPError as e:
@@ -73,13 +77,13 @@ def font(size, bold=False):
         return ImageFont.load_default()
 
 
-def sheets(out="review", bank=B.BANK):
-    """Contact sheets of the Commons photos without a grade; returns the number of sheets."""
+def sheets(out="review", bank=B.BANK, stock=False):
+    """Contact sheets of the Commons (or stock) photos without a grade; returns the number of sheets."""
     from PIL import Image, ImageDraw
     out = Path(out)
     out.mkdir(parents=True, exist_ok=True)
     m, rv = B.load_manifest(bank), B.load_review(bank)
-    todo = [(sid, p) for sid, p in commons_photos(m) if p["file"] not in rv["grades"]]
+    todo = [(sid, p) for sid, p in commons_photos(m, stock) if p["file"] not in rv["grades"]]
     per = COLS * ROWS
     index, f_num, f_bold, f_text = {}, font(22, True), font(13, True), font(12)
     for n in range(0, len(todo), per):
@@ -133,7 +137,8 @@ def stats(bank=B.BANK):
 if __name__ == "__main__":
     a = sys.argv[1:]
     if a[:1] == ["sheets"]:
-        print(sheets(a[1] if len(a) > 1 else "review"), "sheets")
+        rest = [x for x in a[1:] if x != "--stock"]
+        print(sheets(rest[0] if rest else "review", stock="--stock" in a), "sheets")
     elif a[:1] == ["grade"] and len(a) > 1:
         print(grade(a[1], a[2] if len(a) > 2 else "review"))
     elif a[:1] == ["stats"]:

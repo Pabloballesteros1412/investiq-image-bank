@@ -23,10 +23,11 @@ conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
 ## Estado (4 nov 2026, noche)
 
 Primera construcción completa contra Wikimedia: 3.828 fotos. Tras ver una muestra, Pablo decidió quedarse solo
-con las mejores de Commons y usar Unsplash y Pexels. Las 3.828 se revisaron a ojo y **407 tienen nota 3**: son las
-únicas que publica el índice (336 de empresas: 220 empresas tienen al menos una; 71 de temas y sectores). Falta
-lanzar Unsplash y Pexels, que rellenarán temas y sectores: el código está listo, pero el entorno necesita sus
-claves y acceso a sus dominios (ver «Construirlo»).
+con las mejores de Commons y usar Unsplash y Pexels, también para las marcas de las empresas. Las 3.828 se
+revisaron a ojo y **407 tienen nota 3**: son las únicas que publica el índice (336 de empresas: 220 empresas tienen
+al menos una; 71 de temas y sectores). Falta lanzar Unsplash y Pexels, que rellenarán temas, sectores y las
+empresas con marcas: el código está listo y el entorno ya llega a sus dominios, pero faltan sus claves
+(`UNSPLASH_ACCESS_KEY`, `PEXELS_API_KEY`).
 
 ## Construirlo
 
@@ -98,6 +99,19 @@ Pexels solo vale si su descripción nombra todas las palabras de la búsqueda (o
 toma), y entonces gana a la de Commons, porque suelen estar mucho mejor hechas. Nunca se usan para personas
 reales, ni las de Unsplash+ (no tienen licencia libre), ni renders, ilustraciones o frases.
 
+Las 236 empresas con marcas de consumo (`brands.json`: Apple → iPhone, MacBook, Apple Store; McDonald's → Big
+Mac; Tesla → Model 3, Cybertruck) completan con fotos de Unsplash y Pexels los huecos que dejan sus fotos de
+Commons aprobadas, hasta 10. Se buscan sus tres primeras marcas, y una foto solo cuenta si su descripción nombra
+una de sus marcas, su nombre completo o su nombre corto cuando no es ambiguo («Apple» también es una fruta;
+«Amazon», un río). Como mucho dos fotos del mismo fotógrafo por empresa. Para añadir o corregir marcas, se edita
+`brands.json` y se ejecuta:
+
+```bash
+python image_bank.py build --kind company --stock-only
+```
+
+que conserva las fotos de Commons aprobadas, no vuelve a buscar en Commons y solo rehace las de marca.
+
 Una empresa recibe primero sus tomas escritas a mano (si las tiene), después su imagen principal de Wikidata,
 la foto de su CEO (la de la ficha de esa persona en Wikidata; si no hay, una búsqueda con su nombre completo
 que además nombre la empresa), las mejores fotos de su categoría de Commons y de las subcategorías que llevan
@@ -145,7 +159,8 @@ Después de cada `build`, las fotos nuevas de Commons quedan sin publicar hasta 
 python review.py sheets
 ```
 
-crea hojas de 30 fotos numeradas en `review/` (hace falta Pillow). Las notas se apuntan en un JSON
+crea hojas de 30 fotos numeradas en `review/` (hace falta Pillow). Las fotos de Unsplash y Pexels se publican
+sin nota, pero conviene mirarlas (`python review.py sheets --stock`): una nota 1 o 2 las quita. Las notas se apuntan en un JSON
 (`{"sheet-001": {"3": [1, 2], "2": [5]}}`, las que no se nombran quedan con 1) y se guardan con:
 
 ```bash

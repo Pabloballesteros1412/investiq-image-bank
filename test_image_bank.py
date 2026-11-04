@@ -475,3 +475,64 @@ class ReviewTool(unittest.TestCase):
             self.assertEqual((rv["min_grade"], rv["grades"]), (3, {"File:A.jpg": 3, "File:B.jpg": 1, "File:C.jpg": 2}))
             self.assertFalse(B.published({"file": "File:C.jpg"}, rv))
             self.assertTrue(B.published({"file": "pexels:7"}, rv))
+
+
+class BrandStock:
+    """A Pexels-like source with brand photos for the tests."""
+    name = "pexels"
+
+    def __init__(self):
+        self.queries = []
+
+    def search(self, q):
+        self.queries.append(q)
+        rows = [("iphone 15 pro on a wooden table", "Ann"), ("silver iphone in hand", "Ann"), ("iphone and airpods", "Ann"),
+                ("red apple fruit on a table", "Bo"), ("apple store fifth avenue at night", "Cy"),
+                ("3d render of an iphone", "Di"), ("a coca cola bottle on ice", "Ed"), ("macbook pro on desk", "Fa")]
+        return [stock.Pexels.candidate({"id": i + 100 * len(q), "width": 5000, "height": 4000, "url": f"https://www.pexels.com/photo/x-{i}/",
+                                        "photographer": a, "photographer_url": "https://www.pexels.com/@" + a, "alt": alt,
+                                        "src": {"original": f"https://images.pexels.com/photos/{i}/p.jpeg"}})
+                for i, (alt, a) in enumerate(rows)]
+
+
+class Brands(unittest.TestCase):
+    APPLE = {"name": "Apple Inc.", "tickers": ["AAPL"], "commons_category": "Apple Inc.", "ambiguous": True}
+
+    def test_brand_photos_name_the_brand(self):
+        src = Fake()
+        src.stock = [BrandStock()]
+        ph = B.brand_photos(self.APPLE, ["iPhone", "MacBook", "Apple Store", "AirPods"], src, set(), 10)
+        shows = [p["shows"] for p in ph]
+        self.assertEqual(src.stock[0].queries, ["iPhone", "MacBook", "Apple Store"])   # three brands searched
+        self.assertNotIn("Red apple fruit on a table", shows)                          # 'Apple' alone is ambiguous
+        self.assertNotIn("A coca cola bottle on ice", shows)
+        self.assertNotIn("3d render of an iphone", shows)
+        self.assertIn("Apple store fifth avenue at night", shows)
+        self.assertLessEqual(sum(p["author"] == "Ann" for p in ph), 2)                 # one photographer, two at most
+        self.assertEqual(B.brand_photos(self.APPLE, [], Fake(), set(), 10), [])        # no stock source, no photos
+        self.assertTrue(B.has_term(B.flat("Coca-Cola can"), B.flat("coca cola")))
+
+    def test_stock_only_keeps_approved_commons_and_fills_with_brands(self):
+        with tempfile.TemporaryDirectory() as d:
+            bank = Path(d)
+            uni = [{"id": "AAPL", **self.APPLE, "sector": "Information Technology", "wikidata": "Q312"}]
+            (bank / "universe.json").write_text(json.dumps({"companies": uni}))
+            good, plain = cand("File:Apple Park ring.jpg"), cand("File:Apple office corridor.jpg")
+            m = {"AAPL": {"name": "Apple Inc.", "kind": "company", "tickers": ["AAPL"], "sector": "sector-tech", "checked": "x",
+                          "photos": [B.photo(good, "hq", "Apple Park", "catalog", (0.5, 0.5)), B.photo(plain, "c2", "x", "Commons category", (0.5, 0.5))]}}
+            B.save_manifest(m, ["AAPL"], bank)
+            B.save_review({"min_grade": 3, "grades": {good["file"]: 3, plain["file"]: 2}}, bank)
+            src = Fake()
+            src.stock = [BrandStock()]
+            m = B.build(MINI, bank, src, kinds=("company",), redo=True, stock_only=True, log=lambda *_: None,
+                        brands={"AAPL": ["iPhone", "MacBook", "Apple Store"]})
+            files = [p["file"] for p in m["AAPL"]["photos"]]
+            self.assertEqual(files[0], good["file"])                                   # approved Commons first, kept
+            self.assertNotIn(plain["file"], files)
+            self.assertEqual(src.calls, [])                                            # Commons not searched
+            self.assertTrue(all(B.provider_of(p) == "pexels" for p in m["AAPL"]["photos"][1:]))
+            rv = B.load_review(bank)
+            self.assertLessEqual(len(B.published_photos(m["AAPL"], rv)), B.TARGET)
+            bad = m["AAPL"]["photos"][1]["file"]
+            rv["grades"][bad] = 1                                                      # a stock photo can be rejected
+            self.assertNotIn(bad, [p["file"] for p in B.published_photos(m["AAPL"], rv)])
