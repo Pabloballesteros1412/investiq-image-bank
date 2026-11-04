@@ -1,0 +1,44 @@
+{
+ "id": "STE",
+ "kind": "company",
+ "name": "Steris",
+ "tickers": [
+  "STE"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Wall-mounted hand sanitizer dispenser",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wall-mounted_hand_sanitizer_dispenser.JPG/1280px-Wall-mounted_hand_sanitizer_dispenser.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wall-mounted_hand_sanitizer_dispenser.JPG/500px-Wall-mounted_hand_sanitizer_dispenser.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wall-mounted_hand_sanitizer_dispenser.JPG"
+  },
+  {
+   "shows": "Wall-mounted medicated lotion soap",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wall-mounted_medicated_lotion_soap.JPG/1280px-Wall-mounted_medicated_lotion_soap.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wall-mounted_medicated_lotion_soap.JPG/500px-Wall-mounted_medicated_lotion_soap.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wall-mounted_medicated_lotion_soap.JPG"
+  }
+ ]
+}

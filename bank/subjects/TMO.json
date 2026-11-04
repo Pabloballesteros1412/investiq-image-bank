@@ -1,0 +1,28 @@
+{
+ "id": "TMO",
+ "kind": "company",
+ "name": "Thermo Fisher Scientific",
+ "tickers": [
+  "TMO"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Thermo Fisher headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thermo_Fisher_headquarters.jpg/1920px-Thermo_Fisher_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thermo_Fisher_headquarters.jpg/500px-Thermo_Fisher_headquarters.jpg",
+   "size": [
+    1920,
+    1498
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Thermo_Fisher_headquarters.jpg"
+  }
+ ]
+}

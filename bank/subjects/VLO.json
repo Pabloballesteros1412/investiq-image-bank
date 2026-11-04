@@ -1,0 +1,60 @@
+{
+ "id": "VLO",
+ "kind": "company",
+ "name": "Valero Energy",
+ "tickers": [
+  "VLO"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "Valero Three Rivers Refinery Texas 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Valero_Three_Rivers_Refinery_Texas_2020.jpg/1920px-Valero_Three_Rivers_Refinery_Texas_2020.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Valero_Three_Rivers_Refinery_Texas_2020.jpg/500px-Valero_Three_Rivers_Refinery_Texas_2020.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Larry D. Moore, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Valero_Three_Rivers_Refinery_Texas_2020.jpg"
+  },
+  {
+   "shows": "Valero refinery, Port Arthur TX, historical plaque",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Valero_refinery%2C_Port_Arthur_TX%2C_historical_plaque.jpg/1920px-Valero_refinery%2C_Port_Arthur_TX%2C_historical_plaque.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Valero_refinery%2C_Port_Arthur_TX%2C_historical_plaque.jpg/500px-Valero_refinery%2C_Port_Arthur_TX%2C_historical_plaque.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "roy.luck, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Valero_refinery,_Port_Arthur_TX,_historical_plaque.jpg"
+  },
+  {
+   "shows": "Valero oil refinery company - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Valero_oil_refinery_company_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Valero_oil_refinery_company_-_panoramio.jpg/500px-Valero_oil_refinery_company_-_panoramio.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "James Martins, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Valero_oil_refinery_company_-_panoramio.jpg"
+  }
+ ]
+}

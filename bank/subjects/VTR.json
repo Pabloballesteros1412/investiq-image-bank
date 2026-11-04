@@ -1,0 +1,140 @@
+{
+ "id": "VTR",
+ "kind": "company",
+ "name": "Ventas",
+ "tickers": [
+  "VTR"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Antigua Venta del Puñal, Morella",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antigua_Venta_del_Pu%C3%B1al%2C_Morella.jpg/1920px-Antigua_Venta_del_Pu%C3%B1al%2C_Morella.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Antigua_Venta_del_Pu%C3%B1al%2C_Morella.jpg/500px-Antigua_Venta_del_Pu%C3%B1al%2C_Morella.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Juan Emilio Prades Bel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Antigua_Venta_del_Pu%C3%B1al,_Morella.jpg"
+  },
+  {
+   "shows": "Venta Baztan (Urkiaga)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Venta_Baztan_%28Urkiaga%29.jpg/1920px-Venta_Baztan_%28Urkiaga%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Venta_Baztan_%28Urkiaga%29.jpg/500px-Venta_Baztan_%28Urkiaga%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tangopaso, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Venta_Baztan_(Urkiaga).jpg"
+  },
+  {
+   "shows": "Ventas de la Rhune",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ventas_de_la_Rhune.jpg/1920px-Ventas_de_la_Rhune.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ventas_de_la_Rhune.jpg/500px-Ventas_de_la_Rhune.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Yann Lagarde, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ventas_de_la_Rhune.jpg"
+  },
+  {
+   "shows": "Santutxo albiztur",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Santutxo_albiztur.JPG/1920px-Santutxo_albiztur.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Santutxo_albiztur.JPG/500px-Santutxo_albiztur.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joxemai, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Santutxo_albiztur.JPG"
+  },
+  {
+   "shows": "Larruneko telekomunikazio estazioa",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Larruneko_telekomunikazio_estazioa.jpg/1920px-Larruneko_telekomunikazio_estazioa.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Larruneko_telekomunikazio_estazioa.jpg/500px-Larruneko_telekomunikazio_estazioa.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Iñaki LL, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Larruneko_telekomunikazio_estazioa.jpg"
+  },
+  {
+   "shows": "Rhune Venta Txakoli",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rhune_Venta_Txakoli.jpg/1280px-Rhune_Venta_Txakoli.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rhune_Venta_Txakoli.jpg/500px-Rhune_Venta_Txakoli.jpg",
+   "size": [
+    1280,
+    1999
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Marianne Casamance, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rhune_Venta_Txakoli.jpg"
+  },
+  {
+   "shows": "Col d'Ispéguy, venta Irigoieneko",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Col_d%27Isp%C3%A9guy%2C_venta_Irigoieneko.jpg/1920px-Col_d%27Isp%C3%A9guy%2C_venta_Irigoieneko.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Col_d%27Isp%C3%A9guy%2C_venta_Irigoieneko.jpg/500px-Col_d%27Isp%C3%A9guy%2C_venta_Irigoieneko.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tangopaso, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Col_d%27Isp%C3%A9guy,_venta_Irigoieneko.jpg"
+  },
+  {
+   "shows": "Sangre encebollada 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sangre_encebollada_1.jpg/1920px-Sangre_encebollada_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sangre_encebollada_1.jpg/500px-Sangre_encebollada_1.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xemenendura, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sangre_encebollada_1.jpg"
+  }
+ ]
+}

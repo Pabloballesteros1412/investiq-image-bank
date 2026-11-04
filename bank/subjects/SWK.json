@@ -1,0 +1,44 @@
+{
+ "id": "SWK",
+ "kind": "company",
+ "name": "Stanley Black & Decker",
+ "tickers": [
+  "SWK"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Army-Navy Production Award to Stanley Works, presentation program, January 20, 1943 - New Britain Industrial Museum",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Army-Navy_Production_Award_to_Stanley_Works%2C_presentation_program%2C_January_20%2C_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG/1280px-Army-Navy_Production_Award_to_Stanley_Works%2C_presentation_program%2C_January_20%2C_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Army-Navy_Production_Award_to_Stanley_Works%2C_presentation_program%2C_January_20%2C_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG/500px-Army-Navy_Production_Award_to_Stanley_Works%2C_presentation_program%2C_January_20%2C_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG",
+   "size": [
+    1280,
+    1771
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Army-Navy_Production_Award_to_Stanley_Works,_presentation_program,_January_20,_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG"
+  },
+  {
+   "shows": "Stanley Black & Decker HQ",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stanley_Black_%26_Decker_HQ.jpg/1920px-Stanley_Black_%26_Decker_HQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Stanley_Black_%26_Decker_HQ.jpg/500px-Stanley_Black_%26_Decker_HQ.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Leefisher91, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stanley_Black_%26_Decker_HQ.jpg"
+  }
+ ]
+}

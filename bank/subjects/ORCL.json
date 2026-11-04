@@ -1,0 +1,172 @@
+{
+ "id": "ORCL",
+ "kind": "company",
+ "name": "Oracle Corporation",
+ "tickers": [
+  "ORCL"
+ ],
+ "sector": "sector-tech",
+ "photos": [
+  {
+   "shows": "Oracle Campus in Austin 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oracle_Campus_in_Austin_2018.jpg/1920px-Oracle_Campus_in_Austin_2018.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oracle_Campus_in_Austin_2018.jpg/500px-Oracle_Campus_in_Austin_2018.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DronePhotographer, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_Campus_in_Austin_2018.jpg"
+  },
+  {
+   "shows": "Oracle Redwood City May 2011 002",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Oracle_Redwood_City_May_2011_002.jpg/1920px-Oracle_Redwood_City_May_2011_002.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Oracle_Redwood_City_May_2011_002.jpg/500px-Oracle_Redwood_City_May_2011_002.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "King of Hearts, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_Redwood_City_May_2011_002.jpg"
+  },
+  {
+   "shows": "Larry Ellison in Oracle OpenWorld 2010",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Larry_Ellison_in_Oracle_OpenWorld_2010.JPG/1920px-Larry_Ellison_in_Oracle_OpenWorld_2010.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Larry_Ellison_in_Oracle_OpenWorld_2010.JPG/500px-Larry_Ellison_in_Oracle_OpenWorld_2010.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ilan Costica, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Larry_Ellison_in_Oracle_OpenWorld_2010.JPG"
+  },
+  {
+   "shows": "Servers in a Rack",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Servers_in_a_Rack.jpg/1280px-Servers_in_a_Rack.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Servers_in_a_Rack.jpg/500px-Servers_in_a_Rack.jpg",
+   "size": [
+    1280,
+    1924
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Abigor, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Servers_in_a_Rack.jpg"
+  },
+  {
+   "shows": "Larry Ellison on stage",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Larry_Ellison_on_stage.jpg/1920px-Larry_Ellison_on_stage.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Larry_Ellison_on_stage.jpg/500px-Larry_Ellison_on_stage.jpg",
+   "size": [
+    1920,
+    1604
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Oracle Corporate Communications, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Larry_Ellison_on_stage.jpg"
+  },
+  {
+   "shows": "Oracle in San Jose",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Oracle_in_San_Jose.jpg/1920px-Oracle_in_San_Jose.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Oracle_in_San_Jose.jpg/500px-Oracle_in_San_Jose.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Siddharth Patil, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_in_San_Jose.jpg"
+  },
+  {
+   "shows": "Oracle Canada office in Markham.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/OracleMarkham10.jpg/1920px-OracleMarkham10.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/OracleMarkham10.jpg/500px-OracleMarkham10.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:OracleMarkham10.jpg"
+  },
+  {
+   "shows": "Oracle Headquarters in Redwood City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oracle_Headquarters_in_Redwood_City.jpg/1920px-Oracle_Headquarters_in_Redwood_City.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Oracle_Headquarters_in_Redwood_City.jpg/500px-Oracle_Headquarters_in_Redwood_City.jpg",
+   "size": [
+    1920,
+    1357
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Davidlohr Bueso, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_Headquarters_in_Redwood_City.jpg"
+  },
+  {
+   "shows": "Oracle Headquarters Redwood Shores",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Oracle_Headquarters_Redwood_Shores.jpg/1920px-Oracle_Headquarters_Redwood_Shores.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Oracle_Headquarters_Redwood_Shores.jpg/500px-Oracle_Headquarters_Redwood_Shores.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Håkan Dahlström, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_Headquarters_Redwood_Shores.jpg"
+  },
+  {
+   "shows": "USA 17 at Oracle Corporation Headquarters - July 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_%288327%29.jpg/1920px-USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_%288327%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_%288327%29.jpg/500px-USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_%288327%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_(8327).jpg"
+  }
+ ]
+}

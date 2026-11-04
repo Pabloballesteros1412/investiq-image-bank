@@ -1,0 +1,172 @@
+{
+ "id": "NVDA",
+ "kind": "company",
+ "name": "Nvidia",
+ "tickers": [
+  "NVDA"
+ ],
+ "sector": "sector-tech",
+ "photos": [
+  {
+   "shows": "Nvidia sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nvidia_sign.jpg/1920px-Nvidia_sign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nvidia_sign.jpg/500px-Nvidia_sign.jpg",
+   "size": [
+    1920,
+    1562
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Will Buckner, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nvidia_sign.jpg"
+  },
+  {
+   "shows": "Jensen huang stanford 008",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jensen_huang_stanford_2026-04-30_008.jpg/1280px-Jensen_huang_stanford_2026-04-30_008.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jensen_huang_stanford_2026-04-30_008.jpg/500px-Jensen_huang_stanford_2026-04-30_008.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Anderseidesvik, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg"
+  },
+  {
+   "shows": "NVIDIA H100 (极客湾Geekerwan) 024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NVIDIA_H100_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_024.png/1920px-NVIDIA_H100_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_024.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/NVIDIA_H100_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_024.png/500px-NVIDIA_H100_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_024.png",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "极客湾Geekerwan, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:NVIDIA_H100_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_024.png"
+  },
+  {
+   "shows": "Size comparison between RTX 3090 and RTX 4090",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Size_comparison_between_RTX_3090_and_RTX_4090.jpg/1920px-Size_comparison_between_RTX_3090_and_RTX_4090.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Size_comparison_between_RTX_3090_and_RTX_4090.jpg/500px-Size_comparison_between_RTX_3090_and_RTX_4090.jpg",
+   "size": [
+    1920,
+    1593
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Benlisquare, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Size_comparison_between_RTX_3090_and_RTX_4090.jpg"
+  },
+  {
+   "shows": "Chris Benson - Practical AI - NVIDIA GTC 2019 Silicon Valley",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Chris_Benson_-_Practical_AI_-_NVIDIA_GTC_2019_Silicon_Valley.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Chris_Benson_-_Practical_AI_-_NVIDIA_GTC_2019_Silicon_Valley.jpg/500px-Chris_Benson_-_Practical_AI_-_NVIDIA_GTC_2019_Silicon_Valley.jpg",
+   "size": [
+    1837,
+    1837
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Benson, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chris_Benson_-_Practical_AI_-_NVIDIA_GTC_2019_Silicon_Valley.jpg"
+  },
+  {
+   "shows": "Nvidia Jetson Orin NX on a motherboard Computex 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nvidia_Jetson_Orin_NX_on_a_motherboard_Computex_2025.jpg/1920px-Nvidia_Jetson_Orin_NX_on_a_motherboard_Computex_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Nvidia_Jetson_Orin_NX_on_a_motherboard_Computex_2025.jpg/500px-Nvidia_Jetson_Orin_NX_on_a_motherboard_Computex_2025.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nvidia_Jetson_Orin_NX_on_a_motherboard_Computex_2025.jpg"
+  },
+  {
+   "shows": "NVIDIA Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/0/0f/20200813163039%21NVIDIA_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/0/0f/20200813163039%21NVIDIA_Headquarters.jpg",
+   "size": [
+    1920,
+    1197
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg"
+  },
+  {
+   "shows": "View of the NVIDIA headquarters from 2005.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nvidia_HQ.jpg/1920px-Nvidia_HQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Nvidia_HQ.jpg/500px-Nvidia_HQ.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kevin McCarthy, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nvidia_HQ.jpg"
+  },
+  {
+   "shows": "Nvidia Ra'anana office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nvidia_Ra%27anana_office.jpg/1920px-Nvidia_Ra%27anana_office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nvidia_Ra%27anana_office.jpg/500px-Nvidia_Ra%27anana_office.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Amir Shtanger, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nvidia_Ra%27anana_office.jpg"
+  },
+  {
+   "shows": "Nvidia Yokneam Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nvidia_Yokneam_Office.jpg/1920px-Nvidia_Yokneam_Office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nvidia_Yokneam_Office.jpg/500px-Nvidia_Yokneam_Office.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Amir Shtanger (אמיר שטנגר), CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nvidia_Yokneam_Office.jpg"
+  }
+ ]
+}

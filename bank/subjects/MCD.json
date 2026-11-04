@@ -1,0 +1,172 @@
+{
+ "id": "MCD",
+ "kind": "company",
+ "name": "McDonald's",
+ "tickers": [
+  "MCD"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "McDonald's restaurant in Blairsville, Georgia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/McDonald%27s_restaurant_in_Blairsville%2C_Georgia.jpg/1920px-McDonald%27s_restaurant_in_Blairsville%2C_Georgia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/McDonald%27s_restaurant_in_Blairsville%2C_Georgia.jpg/500px-McDonald%27s_restaurant_in_Blairsville%2C_Georgia.jpg",
+   "size": [
+    1920,
+    1383
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_restaurant_in_Blairsville,_Georgia.jpg"
+  },
+  {
+   "shows": "Big Mac hamburger",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Big_Mac_hamburger.jpg/1920px-Big_Mac_hamburger.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Big_Mac_hamburger.jpg/500px-Big_Mac_hamburger.jpg",
+   "size": [
+    1920,
+    1658
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Evan-Amos, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Big_Mac_hamburger.jpg"
+  },
+  {
+   "shows": "McDonald's Bigntasty",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/McDonald%27s_Bigntasty.jpg/1920px-McDonald%27s_Bigntasty.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/McDonald%27s_Bigntasty.jpg/500px-McDonald%27s_Bigntasty.jpg",
+   "size": [
+    1920,
+    1553
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "مانفی, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_Bigntasty.jpg"
+  },
+  {
+   "shows": "McDonalds drive thru Charnwood Australia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/McDonalds_drive_thru_Charnwood_Australia.jpg/1920px-McDonalds_drive_thru_Charnwood_Australia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/McDonalds_drive_thru_Charnwood_Australia.jpg/500px-McDonalds_drive_thru_Charnwood_Australia.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tim Malone, www.timmalone.id.au , aka User:Tdmalone, CC BY-SA 2.5, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonalds_drive_thru_Charnwood_Australia.jpg"
+  },
+  {
+   "shows": "Ambassador Burns with McDonald’s CEO Chris Kempczinski",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ambassador_Burns_with_McDonald%E2%80%99s_CEO_Chris_Kempczinski.jpg/1280px-Ambassador_Burns_with_McDonald%E2%80%99s_CEO_Chris_Kempczinski.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ambassador_Burns_with_McDonald%E2%80%99s_CEO_Chris_Kempczinski.jpg/500px-Ambassador_Burns_with_McDonald%E2%80%99s_CEO_Chris_Kempczinski.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Ambassador of the United States of America to the People's Republic of China, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_McDonald%E2%80%99s_CEO_Chris_Kempczinski.jpg"
+  },
+  {
+   "shows": "Combos de Big Mac y McNífica servidos en el McDonald's del Obelisco de Buenos Aires (Argentina)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires_%28Argentina%29.jpg/1920px-Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires_%28Argentina%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires_%28Argentina%29.jpg/500px-Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires_%28Argentina%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Horacio Cambeiro, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires_(Argentina).jpg"
+  },
+  {
+   "shows": "G838VI microcontroller with 6502 core from the McDonald's Tetris McNugget",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/G838VI.jpg/1920px-G838VI.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/G838VI.jpg/500px-G838VI.jpg",
+   "size": [
+    1920,
+    2179
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Azya52, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:G838VI.jpg"
+  },
+  {
+   "shows": "McDonald's Taiwan headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/McDonald%27s_Taiwan_headquarters_20190728.jpg/1920px-McDonald%27s_Taiwan_headquarters_20190728.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/McDonald%27s_Taiwan_headquarters_20190728.jpg/500px-McDonald%27s_Taiwan_headquarters_20190728.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_Taiwan_headquarters_20190728.jpg"
+  },
+  {
+   "shows": "McDonald's UK Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/McDonald%27s_UK_Headquarters_2007-09-06.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/McDonald%27s_UK_Headquarters_2007-09-06.jpg/500px-McDonald%27s_UK_Headquarters_2007-09-06.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mark Hillary, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_UK_Headquarters_2007-09-06.jpg"
+  },
+  {
+   "shows": "UK Headquarters of McDonald's Corporation",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/UK_Headquarters_of_McDonald%27s_Corporation.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/UK_Headquarters_of_McDonald%27s_Corporation.jpg/500px-UK_Headquarters_of_McDonald%27s_Corporation.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mark Hillary, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:UK_Headquarters_of_McDonald%27s_Corporation.jpg"
+  }
+ ]
+}

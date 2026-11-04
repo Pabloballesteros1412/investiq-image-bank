@@ -1,0 +1,60 @@
+{
+ "id": "NU",
+ "kind": "company",
+ "name": "Nubank",
+ "tickers": [
+  "NU"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Web Summit Rio 2023 - 1169",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Web_Summit_Rio_2023_-_1169_%2852863175994%29.jpg/1920px-Web_Summit_Rio_2023_-_1169_%2852863175994%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Web_Summit_Rio_2023_-_1169_%2852863175994%29.jpg/500px-Web_Summit_Rio_2023_-_1169_%2852863175994%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Web Summit Rio from Rio de Janeiro, Brazil, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Web_Summit_Rio_2023_-_1169_(52863175994).jpg"
+  },
+  {
+   "shows": "David Vélez",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/David_V%C3%A9lez.jpg/1920px-David_V%C3%A9lez.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/David_V%C3%A9lez.jpg/500px-David_V%C3%A9lez.jpg",
+   "size": [
+    1920,
+    1249
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nubank, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:David_V%C3%A9lez.jpg"
+  },
+  {
+   "shows": "Nubank App Area Pix Dec 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nubank_App_Area_Pix_Dec_2023.jpg/1280px-Nubank_App_Area_Pix_Dec_2023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Nubank_App_Area_Pix_Dec_2023.jpg/500px-Nubank_App_Area_Pix_Dec_2023.jpg",
+   "size": [
+    1280,
+    2504
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nubank, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Nubank_App_Area_Pix_Dec_2023.jpg"
+  }
+ ]
+}

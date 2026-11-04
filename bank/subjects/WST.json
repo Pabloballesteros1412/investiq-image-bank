@@ -1,0 +1,44 @@
+{
+ "id": "WST",
+ "kind": "company",
+ "name": "West Pharmaceutical Services",
+ "tickers": [
+  "WST"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "West Pharmaceutical Services in Eschweiler - Pumpe-Stich , Hauptgebäude mit Empfang",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Ew-gummiwest1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ew-gummiwest1.jpg/500px-Ew-gummiwest1.jpg",
+   "size": [
+    1851,
+    1137
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eschweiler ♀, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Ew-gummiwest1.jpg"
+  },
+  {
+   "shows": "West Pharmaceutical Services plant in Kinston",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/West_Pharmaceutical_Services_plant_in_Kinston.jpg/1920px-West_Pharmaceutical_Services_plant_in_Kinston.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/West_Pharmaceutical_Services_plant_in_Kinston.jpg/500px-West_Pharmaceutical_Services_plant_in_Kinston.jpg",
+   "size": [
+    1920,
+    897
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Indy beetle, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:West_Pharmaceutical_Services_plant_in_Kinston.jpg"
+  }
+ ]
+}

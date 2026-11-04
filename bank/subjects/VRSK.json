@@ -1,0 +1,28 @@
+{
+ "id": "VRSK",
+ "kind": "company",
+ "name": "Verisk Analytics",
+ "tickers": [
+  "VRSK"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Jersey-city-new-jersy-night",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/e/e0/20050627182405%21Jersey-city-new-jersy-night.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/e/e0/20050627182405%21Jersey-city-new-jersy-night.jpg",
+   "size": [
+    1920,
+    1431
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Unknown author, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Jersey-city-new-jersy-night.jpg"
+  }
+ ]
+}

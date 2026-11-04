@@ -1,0 +1,44 @@
+{
+ "id": "PNR",
+ "kind": "company",
+ "name": "Pentair",
+ "tickers": [
+  "PNR"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Pentair Building - US Corporate Headquarters Office Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pentair_Building_-_US_Corporate_Headquarters_Office_Building_%2834514586172%29.jpg/1920px-Pentair_Building_-_US_Corporate_Headquarters_Office_Building_%2834514586172%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Pentair_Building_-_US_Corporate_Headquarters_Office_Building_%2834514586172%29.jpg/500px-Pentair_Building_-_US_Corporate_Headquarters_Office_Building_%2834514586172%29.jpg",
+   "size": [
+    1920,
+    1246
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Pentair_Building_-_US_Corporate_Headquarters_Office_Building_(34514586172).jpg"
+  },
+  {
+   "shows": "GASAG Biogas plant in Schwedt",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GASAG_Biogas_plant_in_Schwedt_%28053%29.jpg/1920px-GASAG_Biogas_plant_in_Schwedt_%28053%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GASAG_Biogas_plant_in_Schwedt_%28053%29.jpg/500px-GASAG_Biogas_plant_in_Schwedt_%28053%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Vasyatka1, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:GASAG_Biogas_plant_in_Schwedt_(053).jpg"
+  }
+ ]
+}

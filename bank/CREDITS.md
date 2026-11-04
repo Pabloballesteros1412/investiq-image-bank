@@ -2556,6 +2556,2093 @@ Photos from Wikimedia Commons, linked from there. Credit them as shown when the 
 - SAIC headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [SAIC headquarters.jpg](https://commons.wikimedia.org/wiki/File:SAIC_headquarters.jpg)
 - Portal VACIS x-ray: Thufir, CC BY-SA 3.0, via Wikimedia Commons. [Portal VACIS x-ray.JPG](https://commons.wikimedia.org/wiki/File:Portal_VACIS_x-ray.JPG)
 
+## Lennar (LEN)
+
+- Lennar headquarters: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Lennar headquarters.jpg](https://commons.wikimedia.org/wiki/File:Lennar_headquarters.jpg)
+- Lennar Corp San Ramon office: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Lennar Corp San Ramon office.jpg](https://commons.wikimedia.org/wiki/File:Lennar_Corp_San_Ramon_office.jpg)
+
+## Lennox International (LII)
+
+- Lennox air conditioner: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [AirConditionerLennox.jpg](https://commons.wikimedia.org/wiki/File:AirConditionerLennox.jpg)
+- Praha-Smíchov (GM-00-148): GoogolManiac, CC BY 4.0, via Wikimedia Commons. [Praha-Smíchov (GM-00-148).jpg](https://commons.wikimedia.org/wiki/File:Praha-Sm%C3%ADchov_(GM-00-148).jpg)
+- Two Firefighters: Rennett Stowe from USA, CC BY 2.0, via Wikimedia Commons. [Two Firefighters (2495197205).jpg](https://commons.wikimedia.org/wiki/File:Two_Firefighters_(2495197205).jpg)
+- Lennox Merit series 13ACXN030-230 2.5 ton: Bruxton, CC BY-SA 4.0, via Wikimedia Commons. [Lennox Merit series 13ACXN030-230 2.5 ton.png](https://commons.wikimedia.org/wiki/File:Lennox_Merit_series_13ACXN030-230_2.5_ton.png)
+
+## Li Auto (LI)
+
+- Li Auto Beijing Manufacturing Base: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Li Auto Beijing Manufacturing Base (20240329140107).jpg](https://commons.wikimedia.org/wiki/File:Li_Auto_Beijing_Manufacturing_Base_(20240329140107).jpg)
+- SZ 深圳 Shenzhen 龍崗 Longgang 仁恆夢中心 Yanlord Dream mall Li car showroom June 2024 R12S 01: Romanic Mira Angela, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 龍崗 Longgang 仁恆夢中心 Yanlord Dream mall Li car showroom June 2024 R12S 01.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E5%B4%97_Longgang_%E4%BB%81%E6%81%86%E5%A4%A2%E4%B8%AD%E5%BF%83_Yanlord_Dream_mall_Li_car_showroom_June_2024_R12S_01.jpg)
+- SZ 深圳 Shenzhen 南山區 Nanshan 萬象前海 Qianhai MIXC Shopping Mall shop clothing Lacoste July 2024 R12S 理想牌 Li Auto car roadshow: Hausheuim Toamwd 066, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 南山區 Nanshan 萬象前海 Qianhai MIXC Shopping Mall shop clothing Lacoste July 2024 R12S 理想牌 Li Auto car roadshow.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1%E5%8D%80_Nanshan_%E8%90%AC%E8%B1%A1%E5%89%8D%E6%B5%B7_Qianhai_MIXC_Shopping_Mall_shop_clothing_Lacoste_July_2024_R12S_%E7%90%86%E6%83%B3%E7%89%8C_Li_Auto_car_roadshow.jpg)
+- SZ 深圳 Shenzhen 龍華 Longhua 景龍建設路 Jinglong Jianshe Road 壹方天地 Uniwalk Mall shop Li Auto Showroom February 2024 R12S 01: Rlwo MEUAD 20082, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 龍華 Longhua 景龍建設路 Jinglong Jianshe Road 壹方天地 Uniwalk Mall shop Li Auto Showroom February 2024 R12S 01.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_%E6%99%AF%E9%BE%8D%E5%BB%BA%E8%A8%AD%E8%B7%AF_Jinglong_Jianshe_Road_%E5%A3%B9%E6%96%B9%E5%A4%A9%E5%9C%B0_Uniwalk_Mall_shop_Li_Auto_Showroom_February_2024_R12S_01.jpg)
+- Moscow, Li Auto grey, Sept 2025 02: Retired electrician, CC0, via Wikimedia Commons. [Moscow, Li Auto grey, Sept 2025 02.jpg](https://commons.wikimedia.org/wiki/File:Moscow,_Li_Auto_grey,_Sept_2025_02.jpg)
+- Li Auto Mega front quarter, Guangzhou: Gaganrawat6374, CC0, via Wikimedia Commons. [Li Auto Mega front quarter, Guangzhou, 202311171312.jpg](https://commons.wikimedia.org/wiki/File:Li_Auto_Mega_front_quarter,_Guangzhou,_202311171312.jpg)
+- SZ 深圳 Shenzhen 鹽田 Yantian 深鹽路 Shenyan Road 壹海城 One Mall shop 理想牌 Li Auto 電車 EV car showroom 小車 July 2023 Px3 01: ZHAJOOWMC Hroapwcua, CC BY-SA 4.0, via Wikimedia Commons. [SZ 深圳 Shenzhen 鹽田 Yantian 深鹽路 Shenyan Road 壹海城 One Mall shop 理想牌 Li Auto 電車 EV car showroom 小車 July 2023 Px3 01.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%B9%BD%E7%94%B0_Yantian_%E6%B7%B1%E9%B9%BD%E8%B7%AF_Shenyan_Road_%E5%A3%B9%E6%B5%B7%E5%9F%8E_One_Mall_shop_%E7%90%86%E6%83%B3%E7%89%8C_Li_Auto_%E9%9B%BB%E8%BB%8A_EV_car_showroom_%E5%B0%8F%E8%BB%8A_July_2023_Px3_01.jpg)
+- Li Auto R&D Headquarters, Block A: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Li Auto R&D Headquarters, Block A (20240528135037).jpg](https://commons.wikimedia.org/wiki/File:Li_Auto_R%26D_Headquarters,_Block_A_(20240528135037).jpg)
+- Li Auto i6 Rear in Store: Eddydolce, CC0, via Wikimedia Commons. [Li Auto i6 Rear in Store.jpg](https://commons.wikimedia.org/wiki/File:Li_Auto_i6_Rear_in_Store.jpg)
+- Body of Li Auto MEGA at Auto Guangzhou 2023: Tim Wu, CC BY-SA 4.0, via Wikimedia Commons. [Body of Li Auto MEGA at Auto Guangzhou 2023 20231126.jpg](https://commons.wikimedia.org/wiki/File:Body_of_Li_Auto_MEGA_at_Auto_Guangzhou_2023_20231126.jpg)
+
+## Lilly (Eli) (LLY)
+
+- Eli Lilly: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Eli Lilly.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly.jpg)
+- Lilly mounjaro KwikPen Tirzepatid 5 mg per dose rate-9442: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Lilly mounjaro KwikPen Tirzepatid 5 mg per dose rate-9442.jpg](https://commons.wikimedia.org/wiki/File:Lilly_mounjaro_KwikPen_Tirzepatid_5_mg_per_dose_rate-9442.jpg)
+- HK Chai Wan IVE 藥劑實驗室 Pharmaceutical Science Laboratory 肉桂 Room 516: Chlaborewan, CC BY-SA 3.0, via Wikimedia Commons. [HK Chai Wan IVE 藥劑實驗室 Pharmaceutical Science Laboratory 肉桂 Room 516.JPG](https://commons.wikimedia.org/wiki/File:HK_Chai_Wan_IVE_%E8%97%A5%E5%8A%91%E5%AF%A6%E9%A9%97%E5%AE%A4_Pharmaceutical_Science_Laboratory_%E8%82%89%E6%A1%82_Room_516.JPG)
+- David A. Ricks 2025: Virginia Office of the Governor, CC BY 4.0, via Wikimedia Commons. [David A. Ricks 2025.jpg](https://commons.wikimedia.org/wiki/File:David_A._Ricks_2025.jpg)
+- Eli Lilly Corporate Center, Indianapolis, Indiana, USA: Momoneymoproblemz, CC BY-SA 4.0, via Wikimedia Commons. [Eli Lilly Corporate Center, Indianapolis, Indiana, USA.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_Corporate_Center,_Indianapolis,_Indiana,_USA.jpg)
+- American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad: Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons. [American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad (23040).jpg](https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(23040).jpg)
+- Eli Lilly booth: Jaireeodell, CC BY-SA 4.0, via Wikimedia Commons. [Eli Lilly booth.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_booth.jpg)
+- Pablum etc - Indiana State Museum: Daderot, public domain, via Wikimedia Commons. [Pablum etc - Indiana State Museum - DSC00438.JPG](https://commons.wikimedia.org/wiki/File:Pablum_etc_-_Indiana_State_Museum_-_DSC00438.JPG)
+- Eli Lilly clinical trials booth: Jaireeodell, CC BY-SA 4.0, via Wikimedia Commons. [Eli Lilly clinical trials booth.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_clinical_trials_booth.jpg)
+- Lilly HumaPen Ergo-0339: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Lilly HumaPen Ergo-0339.jpg](https://commons.wikimedia.org/wiki/File:Lilly_HumaPen_Ergo-0339.jpg)
+
+## Linde plc (LIN)
+
+- Storage tanks by Linde group, Schiedam-8228: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Storage tanks by Linde group, Schiedam-8228.jpg](https://commons.wikimedia.org/wiki/File:Storage_tanks_by_Linde_group,_Schiedam-8228.jpg)
+- Linde-Gasometer Bitterfeld: Ikar.us, CC BY 3.0 de, via Wikimedia Commons. [Linde-Gasometer Bitterfeld.jpg](https://commons.wikimedia.org/wiki/File:Linde-Gasometer_Bitterfeld.jpg)
+- Steam Methane Reformer (fossil Hydrogen production) by Linde at the Leuna chemical site.: Hannob, CC0, via Wikimedia Commons. [Lindesmr.jpg](https://commons.wikimedia.org/wiki/File:Lindesmr.jpg)
+- Oxygen Special Train in Kanpur: Apurba Biswas, CC0, via Wikimedia Commons. [Oxygen Special Train in Kanpur.jpg](https://commons.wikimedia.org/wiki/File:Oxygen_Special_Train_in_Kanpur.jpg)
+- Sawankhalok Hospital Ambulance, Sukhothai, Thailand - 01: Chainwit., CC BY 4.0, via Wikimedia Commons. [Sawankhalok Hospital Ambulance, Sukhothai, Thailand (2025) - img 01.jpg](https://commons.wikimedia.org/wiki/File:Sawankhalok_Hospital_Ambulance,_Sukhothai,_Thailand_(2025)_-_img_01.jpg)
+- Tacherting, Linde AG Schalchen, Gleisanschluss, 1: Renardo la vulpo, CC0, via Wikimedia Commons. [Tacherting, Linde AG Schalchen, Gleisanschluss, 1.jpeg](https://commons.wikimedia.org/wiki/File:Tacherting,_Linde_AG_Schalchen,_Gleisanschluss,_1.jpeg)
+- HK blue male uniform Linde Group n close up hand holding smartphone with gold chain September 2025 N13P: POLANWOK Shingua, CC0, via Wikimedia Commons. [HK blue male uniform Linde Group n close up hand holding smartphone with gold chain September 2025 N13P.jpg](https://commons.wikimedia.org/wiki/File:HK_blue_male_uniform_Linde_Group_n_close_up_hand_holding_smartphone_with_gold_chain_September_2025_N13P.jpg)
+- Linde Hydraulics plant: Linhyd, CC BY 3.0, via Wikimedia Commons. [Linde Hydraulics plant.jpg](https://commons.wikimedia.org/wiki/File:Linde_Hydraulics_plant.jpg)
+- Linde (previously AGA) air separation plant in Washington, West Virginia: Snoopywv, CC BY-SA 3.0, via Wikimedia Commons. [Linde (previously AGA) air separation plant in Washington, West Virginia..JPG](https://commons.wikimedia.org/wiki/File:Linde_(previously_AGA)_air_separation_plant_in_Washington,_West_Virginia..JPG)
+- 991Linde Group in the Philippines: Judgefloro, CC0, via Wikimedia Commons. [991Linde Group in the Philippines.jpg](https://commons.wikimedia.org/wiki/File:991Linde_Group_in_the_Philippines.jpg)
+
+## Live Nation Entertainment (LYV)
+
+- 9348 Civic Center Drive: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [9348 Civic Center Drive.jpg](https://commons.wikimedia.org/wiki/File:9348_Civic_Center_Drive.jpg)
+- Cornerstone, Murat Shrine Temple (Old National Centre), New Jersey Street and Massachusetts Avenue, Indianapolis, IN: w_lemay, CC BY-SA 2.0, via Wikimedia Commons. [Cornerstone, Murat Shrine Temple (Old National Centre), New Jersey Street and Massachusetts Avenue, Indianapolis, IN.jpg](https://commons.wikimedia.org/wiki/File:Cornerstone,_Murat_Shrine_Temple_(Old_National_Centre),_New_Jersey_Street_and_Massachusetts_Avenue,_Indianapolis,_IN.jpg)
+- Murat Shrine Temple (Old National Centre), New Jersey Street and Massachusetts Avenue, Indianapolis, IN: w_lemay, CC BY-SA 2.0, via Wikimedia Commons. [Murat Shrine Temple (Old National Centre), New Jersey Street and Massachusetts Avenue, Indianapolis, IN - 54377303457.jpg](https://commons.wikimedia.org/wiki/File:Murat_Shrine_Temple_(Old_National_Centre),_New_Jersey_Street_and_Massachusetts_Avenue,_Indianapolis,_IN_-_54377303457.jpg)
+- Gracie Abrams Madrid "The Secret Of Us Tour": Nataliaagalvez, CC BY 4.0, via Wikimedia Commons. [Gracie Abrams Madrid "The Secret Of Us Tour".jpg](https://commons.wikimedia.org/wiki/File:Gracie_Abrams_Madrid_%22The_Secret_Of_Us_Tour%22.jpg)
+
+## Lockheed Martin (LMT)
+
+- F-35 Heritage Flight Team performs in Bell Fort Worth Alliance AirShow: Airman 1st Class Alexander Cook, public domain, via Wikimedia Commons. [F-35 Heritage Flight Team performs in Bell Fort Worth Alliance AirShow.jpg](https://commons.wikimedia.org/wiki/File:F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg)
+- C-130J Super Hercules Dyess AFB Air Show 2018 22: Balon Greyjoy, CC0, via Wikimedia Commons. [20180512 C-130J Super Hercules Dyess AFB Air Show 2018 22.jpg](https://commons.wikimedia.org/wiki/File:20180512_C-130J_Super_Hercules_Dyess_AFB_Air_Show_2018_22.jpg)
+- A-LF676-472 - U.S. Patriot battery deployed in Slovakia transfers authority to NATO: 2nd Lt. Emily Park, public domain, via Wikimedia Commons. [220811-A-LF676-472 - U.S. Patriot battery deployed in Slovakia transfers authority to NATO.jpg](https://commons.wikimedia.org/wiki/File:220811-A-LF676-472_-_U.S._Patriot_battery_deployed_in_Slovakia_transfers_authority_to_NATO.jpg)
+- Gov. Malloy and Lockheed Martin reach deal to keep Sikorsky headquarters and jobs in Connecticut: Dannel Malloy, CC BY 2.0, via Wikimedia Commons. [Gov. Malloy and Lockheed Martin reach deal to keep Sikorsky headquarters and jobs in Connecticut (29233440514).jpg](https://commons.wikimedia.org/wiki/File:Gov._Malloy_and_Lockheed_Martin_reach_deal_to_keep_Sikorsky_headquarters_and_jobs_in_Connecticut_(29233440514).jpg)
+- NASA's Orion Spacecraft Parachutes Tested at U.S. Army Yuma Proving Ground: NASA, public domain, via Wikimedia Commons. [NASA's Orion Spacecraft Parachutes Tested at U.S. Army Yuma Proving Ground.jpg](https://commons.wikimedia.org/wiki/File:NASA%27s_Orion_Spacecraft_Parachutes_Tested_at_U.S._Army_Yuma_Proving_Ground.jpg)
+- Jim Taiclet at the House Armed Services Committee 01: U.S. House Armed Services Committee, CC BY 3.0, via Wikimedia Commons. [Jim Taiclet at the House Armed Services Committee (2023) 01.png](https://commons.wikimedia.org/wiki/File:Jim_Taiclet_at_the_House_Armed_Services_Committee_(2023)_01.png)
+- Lockheed Martin headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Lockheed Martin headquarters.jpg](https://commons.wikimedia.org/wiki/File:Lockheed_Martin_headquarters.jpg)
+- Lockheed Martin Factory, Lockheed Martin Drive, Liverpool, NY: Warren LeMay from Chicago, IL, United States, CC BY-SA 2.0, via Wikimedia Commons. [Lockheed Martin Factory, Lockheed Martin Drive, Liverpool, NY (54416574299).jpg](https://commons.wikimedia.org/wiki/File:Lockheed_Martin_Factory,_Lockheed_Martin_Drive,_Liverpool,_NY_(54416574299).jpg)
+- Lockheed Martin Office, Colorado Springs: Lumen Wilde, CC BY 2.0, via Wikimedia Commons. [Lockheed Martin Office, Colorado Springs (54557169938).jpg](https://commons.wikimedia.org/wiki/File:Lockheed_Martin_Office,_Colorado_Springs_(54557169938).jpg)
+- Lockheed Martin Waterton Campus: Sdkb, CC BY-SA 4.0, via Wikimedia Commons. [Lockheed Martin Waterton Campus.jpg](https://commons.wikimedia.org/wiki/File:Lockheed_Martin_Waterton_Campus.jpg)
+
+## Lowe's (LOW)
+
+- Lowe’s, Chico -L1000836: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons. [Lowe’s, Chico (2026)-L1000836.jpg](https://commons.wikimedia.org/wiki/File:Lowe%E2%80%99s,_Chico_(2026)-L1000836.jpg)
+- Florida I95sb Exit 329 exit only: Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons. [Florida I95sb Exit 329 exit only.jpg](https://commons.wikimedia.org/wiki/File:Florida_I95sb_Exit_329_exit_only.jpg)
+- PA 462 eb from PA 741, July 2025: Mr. Matté (if there is an issue with this image, contact me using this image's Commons talk page , my Commons user talk page , or my English Wikipedia user talk page ; I'll know about it a lot faster), CC BY-SA 4.0, via Wikimedia Commons. [PA 462 eb from PA 741, July 2025.jpg](https://commons.wikimedia.org/wiki/File:PA_462_eb_from_PA_741,_July_2025.jpg)
+- Water Reached to Within Inches of the Floorboards of the New Refuge Office Under Construction at Bald Knob National Wildlife Refuge: U.S. Fish and Wildlife Service Southeast Region, public domain, via Wikimedia Commons. [Water Reached to Within Inches of the Floorboards of the New Refuge Office Under Construction at Bald Knob National Wildlife Refuge (5759087958).jpg](https://commons.wikimedia.org/wiki/File:Water_Reached_to_Within_Inches_of_the_Floorboards_of_the_New_Refuge_Office_Under_Construction_at_Bald_Knob_National_Wildlife_Refuge_(5759087958).jpg)
+- Me-at-mother ship: Jmuller1959, CC BY-SA 4.0, via Wikimedia Commons. [Me-at-mother ship.jpg](https://commons.wikimedia.org/wiki/File:Me-at-mother_ship.jpg)
+- Brownbag Lowe's Global Technology Center Mid-April 2024: City Dweller 2, CC BY-SA 4.0, via Wikimedia Commons. [Brownbag Lowe's Global Technology Center Mid-April 2024.jpg](https://commons.wikimedia.org/wiki/File:Brownbag_Lowe%27s_Global_Technology_Center_Mid-April_2024.jpg)
+- Design Center Tower: City Dweller 2, CC BY-SA 4.0, via Wikimedia Commons. [Design Center Tower.jpg](https://commons.wikimedia.org/wiki/File:Design_Center_Tower.jpg)
+- A Lowe's store in Murphy, North Carolina: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [A Lowe's store in Murphy, North Carolina.jpg](https://commons.wikimedia.org/wiki/File:A_Lowe%27s_store_in_Murphy,_North_Carolina.jpg)
+- Lowe's store in Antioch, California: Thomasfan1916, CC BY-SA 4.0, via Wikimedia Commons. [Lowe's store in Antioch, California.jpg](https://commons.wikimedia.org/wiki/File:Lowe%27s_store_in_Antioch,_California.jpg)
+- Lowe's Home Improvement Store: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Lowe's Home Improvement Store (48614532991).jpg](https://commons.wikimedia.org/wiki/File:Lowe%27s_Home_Improvement_Store_(48614532991).jpg)
+
+## Lucid Motors (LCID)
+
+- Lucid Showroom Miami Worldcenter 29 June 2023 - 2: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Lucid Showroom Miami Worldcenter 29 June 2023 - 2.jpg](https://commons.wikimedia.org/wiki/File:Lucid_Showroom_Miami_Worldcenter_29_June_2023_-_2.jpg)
+- Marc Winterhoff, Lucid Motors CEO (per Wikidata): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Lucid Gravity European Premiere, Munich (20250909-P1050422).jpg](https://commons.wikimedia.org/wiki/File:Lucid_Gravity_European_Premiere,_Munich_(20250909-P1050422).jpg)
+- United States Environmental Protection Agency (USEPA) visit to Arizona in September 2024 - 10: usepagov, public domain, via Wikimedia Commons. [United States Environmental Protection Agency (USEPA) visit to Arizona in September 2024 - 10.jpg](https://commons.wikimedia.org/wiki/File:United_States_Environmental_Protection_Agency_(USEPA)_visit_to_Arizona_in_September_2024_-_10.jpg)
+- Auto 2024, Zurich (PANA1018): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Auto 2024, Zurich (PANA1018).jpg](https://commons.wikimedia.org/wiki/File:Auto_2024,_Zurich_(PANA1018).jpg)
+- Lucid battery pack - detail: Votpuske, CC BY-SA 4.0, via Wikimedia Commons. [Lucid battery pack - detail.jpg](https://commons.wikimedia.org/wiki/File:Lucid_battery_pack_-_detail.jpg)
+- GIMS 2024, Le Grand-Saconnex (GIMS0011-2): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [GIMS 2024, Le Grand-Saconnex (GIMS0011-2).jpg](https://commons.wikimedia.org/wiki/File:GIMS_2024,_Le_Grand-Saconnex_(GIMS0011-2).jpg)
+- Lucid Air Sapphire GIMS 2024 1X7A2363: Alexander-93, CC BY-SA 4.0, via Wikimedia Commons. [Lucid Air Sapphire GIMS 2024 1X7A2363.jpg](https://commons.wikimedia.org/wiki/File:Lucid_Air_Sapphire_GIMS_2024_1X7A2363.jpg)
+- Lucid Motors Brickell City Centre, Miami FL, June 2021 door open: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Lucid Motors Brickell City Centre, Miami FL, June 2021 door open.jpg](https://commons.wikimedia.org/wiki/File:Lucid_Motors_Brickell_City_Centre,_Miami_FL,_June_2021_door_open.jpg)
+- Lucid Air Dream edition, IAA Open Space 2023, Munich: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Lucid Air Dream edition, IAA Open Space 2023, Munich (P1120050).jpg](https://commons.wikimedia.org/wiki/File:Lucid_Air_Dream_edition,_IAA_Open_Space_2023,_Munich_(P1120050).jpg)
+- Lucid Air IAA 2023 1X7A0513: Alexander-93, CC BY-SA 4.0, via Wikimedia Commons. [Lucid Air IAA 2023 1X7A0513.jpg](https://commons.wikimedia.org/wiki/File:Lucid_Air_IAA_2023_1X7A0513.jpg)
+
+## Lululemon Athletica (LULU)
+
+- Haus Marktgasse 12 in Zürich mit Lululemon-Laden: Fred Romero from Paris, France, CC BY 2.0, via Wikimedia Commons. [Zürich (48688341717).jpg](https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_(48688341717).jpg)
+- Lululemon Kingsway Mall 2021: Rowanswiki, CC0, via Wikimedia Commons. [Lululemon Kingsway Mall 2021.jpg](https://commons.wikimedia.org/wiki/File:Lululemon_Kingsway_Mall_2021.jpg)
+- Lululemon on Robson street is closing temporarily because of COVID-19 Concerns: GoToVan from Vancouver, Canada, CC BY 2.0, via Wikimedia Commons. [Lululemon on Robson street is closing temporarily because of COVID-19 Concerns (49699835006).jpg](https://commons.wikimedia.org/wiki/File:Lululemon_on_Robson_street_is_closing_temporarily_because_of_COVID-19_Concerns_(49699835006).jpg)
+- Creekwalk Shopping Center, Colorado Springs: Lumen Wilde, CC BY 2.0, via Wikimedia Commons. [Creekwalk Shopping Center, Colorado Springs (54557269080).jpg](https://commons.wikimedia.org/wiki/File:Creekwalk_Shopping_Center,_Colorado_Springs_(54557269080).jpg)
+- Lululemon Aventura Mall: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Lululemon Aventura Mall (48624856991).jpg](https://commons.wikimedia.org/wiki/File:Lululemon_Aventura_Mall_(48624856991).jpg)
+- Sports underwear front zipper lululemon: Everring, CC BY-SA 4.0, via Wikimedia Commons. [Sports underwear front zipper lululemon.jpg](https://commons.wikimedia.org/wiki/File:Sports_underwear_front_zipper_lululemon.jpg)
+- Belly wrap: lululemon athletica, CC BY 2.0, via Wikimedia Commons. [Belly wrap.jpg](https://commons.wikimedia.org/wiki/File:Belly_wrap.jpg)
+- Lululemon Athletica Toronto Eaton Centre: Rowanlovescars, CC BY-SA 4.0, via Wikimedia Commons. [Lululemon Athletica Toronto Eaton Centre.jpg](https://commons.wikimedia.org/wiki/File:Lululemon_Athletica_Toronto_Eaton_Centre.jpg)
+- Lululemon store at Grand Emporium: Windmemories, CC BY-SA 4.0, via Wikimedia Commons. [20241231 Lululemon store at Grand Emporium.jpg](https://commons.wikimedia.org/wiki/File:20241231_Lululemon_store_at_Grand_Emporium.jpg)
+- Cross-legged sitting, female: lululemon athletica, CC BY 2.0, via Wikimedia Commons. [Cross-legged sitting, female.jpg](https://commons.wikimedia.org/wiki/File:Cross-legged_sitting,_female.jpg)
+
+## Lyft (LYFT)
+
+- Logan Green, Lyft CEO (per Wikidata): TechCrunch, CC BY 2.0, via Wikimedia Commons. [TechCrunch Disrupt NY 2015 - Day 2 (17385183755).jpg](https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_NY_2015_-_Day_2_(17385183755).jpg)
+- Electric scooters dumped (SXSW 2019): Anthony Quintano, CC BY 2.0, via Wikimedia Commons. [Electric scooters dumped (SXSW 2019).jpg](https://commons.wikimedia.org/wiki/File:Electric_scooters_dumped_(SXSW_2019).jpg)
+- I love lyft: Stock Catalog, CC BY 2.0, via Wikimedia Commons. [I love lyft (40834806644).jpg](https://commons.wikimedia.org/wiki/File:I_love_lyft_(40834806644).jpg)
+- Lyft Electric Scooter in Austin, Texas: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Lyft Electric Scooter in Austin, Texas (46833069604).jpg](https://commons.wikimedia.org/wiki/File:Lyft_Electric_Scooter_in_Austin,_Texas_(46833069604).jpg)
+- Lyft & Uber logos: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [LyftUberCar.jpg](https://commons.wikimedia.org/wiki/File:LyftUberCar.jpg)
+- The Hill vending box DC: Visviva, CC0, via Wikimedia Commons. [The Hill vending box DC.jpg](https://commons.wikimedia.org/wiki/File:The_Hill_vending_box_DC.jpg)
+- Brightline Miami Station: Phillip Pessar from Miami, USA, CC BY 2.0, via Wikimedia Commons. [Brightline Miami Station (42120684015).jpg](https://commons.wikimedia.org/wiki/File:Brightline_Miami_Station_(42120684015).jpg)
+- Lyft Shuttle van on Massachusetts Avenue, July 2026: Pi.1415926535, CC BY-SA 4.0, via Wikimedia Commons. [Lyft Shuttle van on Massachusetts Avenue, July 2026.jpg](https://commons.wikimedia.org/wiki/File:Lyft_Shuttle_van_on_Massachusetts_Avenue,_July_2026.jpg)
+- Lyft sign, N. Mississipi, PDX, 2016: Another Believer, CC BY-SA 3.0, via Wikimedia Commons. [Lyft sign, N. Mississipi, PDX, 2016.jpg](https://commons.wikimedia.org/wiki/File:Lyft_sign,_N._Mississipi,_PDX,_2016.jpg)
+- Fiserv Forum and Deer District in Milwaukee photographed in May 2024 —0110: SecretName101, CC BY 4.0, via Wikimedia Commons. [Fiserv Forum and Deer District in Milwaukee photographed in May 2024 —0110.jpg](https://commons.wikimedia.org/wiki/File:Fiserv_Forum_and_Deer_District_in_Milwaukee_photographed_in_May_2024_%E2%80%940110.jpg)
+
+## LyondellBasell (LYB)
+
+- Oil refinery in Houston 2018a: Antony-22, CC BY-SA 4.0, via Wikimedia Commons. [Oil refinery in Houston 2018a.jpg](https://commons.wikimedia.org/wiki/File:Oil_refinery_in_Houston_2018a.jpg)
+- Wesseling Germany LyondellBasell-01: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons. [Wesseling Germany LyondellBasell-01.jpg](https://commons.wikimedia.org/wiki/File:Wesseling_Germany_LyondellBasell-01.jpg)
+- Wesseling Germany LyondellBasell-Knapsack-Pipeline-01: CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons. [Wesseling Germany LyondellBasell-Knapsack-Pipeline-01.jpg](https://commons.wikimedia.org/wiki/File:Wesseling_Germany_LyondellBasell-Knapsack-Pipeline-01.jpg)
+- Flare, Bayport Industrial District, Harris County, Texas: Jim Evans, CC BY-SA 4.0, via Wikimedia Commons. [Flare, Bayport Industrial District, Harris County, Texas.jpg](https://commons.wikimedia.org/wiki/File:Flare,_Bayport_Industrial_District,_Harris_County,_Texas.jpg)
+- LyondellBasell Houston Refinery - 2: Rifleman 82, CC BY-SA 4.0, via Wikimedia Commons. [LyondellBasell Houston Refinery - 2.jpg](https://commons.wikimedia.org/wiki/File:LyondellBasell_Houston_Refinery_-_2.jpg)
+
+## M&T Bank (MTB)
+
+- Exterior of an M&T Bank branch in Shelburne, Vermont: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Exterior of an M&T Bank branch in Shelburne, Vermont.jpg](https://commons.wikimedia.org/wiki/File:Exterior_of_an_M%26T_Bank_branch_in_Shelburne,_Vermont.jpg)
+- Binghamton, NY - Binghamton Savings Bank Building 01: Photo by Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [Binghamton, NY - Binghamton Savings Bank Building 01.jpg](https://commons.wikimedia.org/wiki/File:Binghamton,_NY_-_Binghamton_Savings_Bank_Building_01.jpg)
+- M&T Bank - Worcester Common: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [M&T Bank - Worcester Common.jpg](https://commons.wikimedia.org/wiki/File:M%26T_Bank_-_Worcester_Common.jpg)
+- Main Street Newark, Delaware: pasa47, CC BY 2.0, via Wikimedia Commons. [Main Street Newark, Delaware.jpg](https://commons.wikimedia.org/wiki/File:Main_Street_Newark,_Delaware.jpg)
+- Postmodern architecture in downtown Buffalo, New York: Andre Carrotflower, CC BY-SA 4.0, via Wikimedia Commons. [Postmodern architecture in downtown Buffalo, New York - 20200131.jpg](https://commons.wikimedia.org/wiki/File:Postmodern_architecture_in_downtown_Buffalo,_New_York_-_20200131.jpg)
+- Hamburg Savings and Trust Company, Hamburg, PA: JJonahJackalope, CC BY-SA 4.0, via Wikimedia Commons. [Hamburg Savings and Trust Company, Hamburg, PA.jpg](https://commons.wikimedia.org/wiki/File:Hamburg_Savings_and_Trust_Company,_Hamburg,_PA.jpg)
+- M&T Bank Building taken on: SlipperyDude, CC BY-SA 4.0, via Wikimedia Commons. [M&T Bank Building taken on 2025.05.25.jpg](https://commons.wikimedia.org/wiki/File:M%26T_Bank_Building_taken_on_2025.05.25.jpg)
+- M&T Bank Kenmore Branch - former First National Bank of Kenmore - Kenmore, New York: Andre Carrotflower, CC BY-SA 4.0, via Wikimedia Commons. [M&T Bank Kenmore Branch - former First National Bank of Kenmore - Kenmore, New York - 20220331.jpg](https://commons.wikimedia.org/wiki/File:M%26T_Bank_Kenmore_Branch_-_former_First_National_Bank_of_Kenmore_-_Kenmore,_New_York_-_20220331.jpg)
+- Shakti Yoga - fmr M&T Bank Grant & Boyd Branch - Buffalo, New York: Andre Carrotflower, CC BY-SA 4.0, via Wikimedia Commons. [Shakti Yoga - fmr M&T Bank Grant & Boyd Branch - Buffalo, New York - 20200714.jpg](https://commons.wikimedia.org/wiki/File:Shakti_Yoga_-_fmr_M%26T_Bank_Grant_%26_Boyd_Branch_-_Buffalo,_New_York_-_20200714.jpg)
+- Buffalo M&T Bank Building - panoramio: Bohao Zhao, CC BY 3.0, via Wikimedia Commons. [Buffalo M&T Bank Building - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Buffalo_M%26T_Bank_Building_-_panoramio.jpg)
+
+## Marathon Petroleum (MPC)
+
+- Marathon Petroleum Co. HQ: The original uploader was Avanatt at English Wikipedia ., public domain, via Wikimedia Commons. [Marathon Petroleum Co. HQ.JPG](https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_Co._HQ.JPG)
+
+## Marriott International (MAR)
+
+- MEA Sukhumvit Park Bangkok: BKKSP, CC0, via Wikimedia Commons. [MEA Sukhumvit Park Bangkok.jpg](https://commons.wikimedia.org/wiki/File:MEA_Sukhumvit_Park_Bangkok.jpg)
+- Marriott Headquarters: MDGovpics, CC BY 2.0, via Wikimedia Commons. [Marriott Headquarters - 52576461289.jpg](https://commons.wikimedia.org/wiki/File:Marriott_Headquarters_-_52576461289.jpg)
+- Marriott International - Headquarters Office: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Marriott International - Headquarters Office.jpg](https://commons.wikimedia.org/wiki/File:Marriott_International_-_Headquarters_Office.jpg)
+- Marriott at China Wedding Expo Beijing, Spring 2021: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Marriott at China Wedding Expo Beijing, Spring 2021 (20210425121318).jpg](https://commons.wikimedia.org/wiki/File:Marriott_at_China_Wedding_Expo_Beijing,_Spring_2021_(20210425121318).jpg)
+- N522MH, a 2021 Gulfstream G650ER beloning to Marriott International (opb. Executive Jet Management), at KBLM: Szeremeta, CC BY 4.0, via Wikimedia Commons. [N522MH, a 2021 Gulfstream G650ER beloning to Marriott International (opb. Executive Jet Management), at KBLM.png](https://commons.wikimedia.org/wiki/File:N522MH,_a_2021_Gulfstream_G650ER_beloning_to_Marriott_International_(opb._Executive_Jet_Management),_at_KBLM.png)
+- Courtyard by Marriott New York Manhattan-Central Park 2023 jeh: Jim.henderson, CC BY-SA 3.0, via Wikimedia Commons. [Courtyard by Marriott New York Manhattan-Central Park 2023 jeh.jpg](https://commons.wikimedia.org/wiki/File:Courtyard_by_Marriott_New_York_Manhattan-Central_Park_2023_jeh.jpg)
+- Hotel mera w sopocie: Panek, CC BY-SA 4.0, via Wikimedia Commons. [Hotel mera w sopocie.jpg](https://commons.wikimedia.org/wiki/File:Hotel_mera_w_sopocie.jpg)
+- Marriott International Headquarters 01: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [Marriott International Headquarters 01.jpg](https://commons.wikimedia.org/wiki/File:Marriott_International_Headquarters_01.jpg)
+- Marriott Intl HQ - August 2022a - Crop: User:Moreau1, CC0, via Wikimedia Commons. [Marriott Intl HQ - August 2022a - Crop.jpg](https://commons.wikimedia.org/wiki/File:Marriott_Intl_HQ_-_August_2022a_-_Crop.jpg)
+- Custom furniture & Grant styled carpet installed by Marriott International in the lobby: Abhishek Padmanabhuni, CC BY-SA 4.0, via Wikimedia Commons. [Custom furniture & Grant styled carpet installed by Marriott International in the lobby.jpg](https://commons.wikimedia.org/wiki/File:Custom_furniture_%26_Grant_styled_carpet_installed_by_Marriott_International_in_the_lobby.jpg)
+
+## Marsh McLennan (MRSH)
+
+- Marsh & McLennan Headquarters at 1166 Avenue of the Americas: Americasroof ( talk ), CC BY-SA 3.0, via Wikimedia Commons. [Marsh & McLennan Headquarters at 1166 Avenue of the Americas.jpg](https://commons.wikimedia.org/wiki/File:Marsh_%26_McLennan_Headquarters_at_1166_Avenue_of_the_Americas.jpg)
+- 1166 Avenue of the Americas: Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [1166 Avenue of the Americas (55283845089).jpg](https://commons.wikimedia.org/wiki/File:1166_Avenue_of_the_Americas_(55283845089).jpg)
+
+## Marvell Technology (MRVL)
+
+- CES 2012 - Marvell: The Conmunity - Pop Culture Geek from Los Angeles, CA, USA, CC BY 2.0, via Wikimedia Commons. [CES 2012 - Marvell (6937708043).jpg](https://commons.wikimedia.org/wiki/File:CES_2012_-_Marvell_(6937708043).jpg)
+- Park Azorim 023: Ori~, Attribution, via Wikimedia Commons. [Park Azorim 023.jpg](https://commons.wikimedia.org/wiki/File:Park_Azorim_023.jpg)
+- Marvell Semiconductor KT-SS1074B2-P182 made for Kingston 2000pcs box tag: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Marvell Semiconductor KT-SS1074B2-P182 made for Kingston 2000pcs box tag 20160118.jpg](https://commons.wikimedia.org/wiki/File:Marvell_Semiconductor_KT-SS1074B2-P182_made_for_Kingston_2000pcs_box_tag_20160118.jpg)
+- Marvell Office - panoramio: Viktor Lapinskii, CC BY-SA 3.0, via Wikimedia Commons. [Marvell Office - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Marvell_Office_-_panoramio.jpg)
+- Marvell Santa Clara May 2011: King of Hearts, CC BY-SA 3.0, via Wikimedia Commons. [Marvell Santa Clara May 2011.jpg](https://commons.wikimedia.org/wiki/File:Marvell_Santa_Clara_May_2011.jpg)
+
+## Masco (MAS)
+
+- Masco Headquarters Taylor Michigan: Dwight Burdette, CC BY 3.0, via Wikimedia Commons. [Masco Headquarters Taylor Michigan.JPG](https://commons.wikimedia.org/wiki/File:Masco_Headquarters_Taylor_Michigan.JPG)
+- Masco Cabinetry headquarters Ann Arbor Township: Dwight Burdette, CC BY 3.0, via Wikimedia Commons. [Masco Cabinetry headquarters Ann Arbor Township.JPG](https://commons.wikimedia.org/wiki/File:Masco_Cabinetry_headquarters_Ann_Arbor_Township.JPG)
+- MASCO bus at JFK UMass station, January 2019: Beantowndude316 from USA, CC BY 2.0, via Wikimedia Commons. [MASCO bus at JFK UMass station, January 2019.jpg](https://commons.wikimedia.org/wiki/File:MASCO_bus_at_JFK_UMass_station,_January_2019.jpg)
+
+## Mastercard (MA)
+
+- Mastercard Lounge: Vmzp85, CC BY-SA 4.0, via Wikimedia Commons. [Mastercard Lounge (2).jpg](https://commons.wikimedia.org/wiki/File:Mastercard_Lounge_(2).jpg)
+- Mastercard Chip: TipFox, CC BY-SA 4.0, via Wikimedia Commons. [Mastercard Chip.jpg](https://commons.wikimedia.org/wiki/File:Mastercard_Chip.jpg)
+- Mobile Payment: Richard Tanzer Fotografie / VeroPay, CC BY-SA 3.0, via Wikimedia Commons. [Mobile Payment.jpg](https://commons.wikimedia.org/wiki/File:Mobile_Payment.jpg)
+- BS S-Cash-Point: TeWeBs, CC BY-SA 4.0, via Wikimedia Commons. [BS S-Cash-Point.JPG](https://commons.wikimedia.org/wiki/File:BS_S-Cash-Point.JPG)
+- Close-up of a woman looking at a credit card while working on her laptop: Shixart1985, CC BY 2.0, via Wikimedia Commons. [Close-up of a woman looking at a credit card while working on her laptop.jpg](https://commons.wikimedia.org/wiki/File:Close-up_of_a_woman_looking_at_a_credit_card_while_working_on_her_laptop.jpg)
+- Michael Miebach: Drew Gurian, CC BY-SA 4.0, via Wikimedia Commons. [Michael Miebach.jpg](https://commons.wikimedia.org/wiki/File:Michael_Miebach.jpg)
+- Bank Card Specimen: HuangWending18072009, CC0, via Wikimedia Commons. [Bank Card Specimen.jpg](https://commons.wikimedia.org/wiki/File:Bank_Card_Specimen.jpg)
+- Castles Technology payment terminal with BCA Debit Mastercard ( ): VulcanSphere, CC BY 4.0, via Wikimedia Commons. [Castles Technology payment terminal with BCA Debit Mastercard (2026-04-19).jpg](https://commons.wikimedia.org/wiki/File:Castles_Technology_payment_terminal_with_BCA_Debit_Mastercard_(2026-04-19).jpg)
+- A Tonik debit card: Flankbed, CC BY 4.0, via Wikimedia Commons. [A Tonik debit card.jpg](https://commons.wikimedia.org/wiki/File:A_Tonik_debit_card.jpg)
+- Maribank debit card: Flankbed, CC BY 4.0, via Wikimedia Commons. [Maribank debit card.jpg](https://commons.wikimedia.org/wiki/File:Maribank_debit_card.jpg)
+
+## McCormick & Company (MKC)
+
+- McCormick & Company Global Headquarters , opened October 2, 2018, in Hunt Valley, Maryland , US: User:JGHowes , photographer, Attribution, via Wikimedia Commons. [McCormick Hq.jpg](https://commons.wikimedia.org/wiki/File:McCormick_Hq.jpg)
+- McCormick-Spice: Baltimore County Government, public domain, via Wikimedia Commons. [McCormick-Spice (44147658825).jpg](https://commons.wikimedia.org/wiki/File:McCormick-Spice_(44147658825).jpg)
+- HK SYP 西環 Sai Ying Pun 第二街 Second Street Island Crest shop Market Place Supermarket food goods May 2020 SS2 11: Zhfunga Kwoue, CC BY-SA 4.0, via Wikimedia Commons. [HK SYP 西環 Sai Ying Pun 第二街 Second Street Island Crest shop Market Place Supermarket food goods May 2020 SS2 11.jpg](https://commons.wikimedia.org/wiki/File:HK_SYP_%E8%A5%BF%E7%92%B0_Sai_Ying_Pun_%E7%AC%AC%E4%BA%8C%E8%A1%97_Second_Street_Island_Crest_shop_Market_Place_Supermarket_food_goods_May_2020_SS2_11.jpg)
+- McCormick Garlic Juice: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [McCormick Garlic Juice.jpg](https://commons.wikimedia.org/wiki/File:McCormick_Garlic_Juice.jpg)
+- Ponderosa Market spice shelf: https://www.flickr.com/photos/cogdog/, CC BY 2.0, via Wikimedia Commons. [Ponderosa Market spice shelf.jpg](https://commons.wikimedia.org/wiki/File:Ponderosa_Market_spice_shelf.jpg)
+- Spice containers, hot sauces, black pepper, cayenne, cinnamon: Michael Scialdone, CC BY 2.0, via Wikimedia Commons. [Spice containers, hot sauces, black pepper, cayenne, cinnamon.jpg](https://commons.wikimedia.org/wiki/File:Spice_containers,_hot_sauces,_black_pepper,_cayenne,_cinnamon.jpg)
+- McCormick & Company Spices: Cinnamonspice241, CC BY-SA 4.0, via Wikimedia Commons. [McCormick & Company Spices.jpg](https://commons.wikimedia.org/wiki/File:McCormick_%26_Company_Spices.jpg)
+- McCormick headquarters: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [McCormick headquarters.jpg](https://commons.wikimedia.org/wiki/File:McCormick_headquarters.jpg)
+- Air Canada Dinner: Unknown author, CC BY 3.0, via Wikimedia Commons. [Air Canada Dinner.jpg](https://commons.wikimedia.org/wiki/File:Air_Canada_Dinner.jpg)
+
+## McDonald's (MCD)
+
+- McDonald's restaurant in Blairsville, Georgia: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [McDonald's restaurant in Blairsville, Georgia.jpg](https://commons.wikimedia.org/wiki/File:McDonald%27s_restaurant_in_Blairsville,_Georgia.jpg)
+- Big Mac hamburger: Evan-Amos, CC0, via Wikimedia Commons. [Big Mac hamburger.jpg](https://commons.wikimedia.org/wiki/File:Big_Mac_hamburger.jpg)
+- McDonald's Bigntasty: مانفی, CC BY-SA 4.0, via Wikimedia Commons. [McDonald's Bigntasty.jpg](https://commons.wikimedia.org/wiki/File:McDonald%27s_Bigntasty.jpg)
+- McDonalds drive thru Charnwood Australia: Tim Malone, www.timmalone.id.au , aka User:Tdmalone, CC BY-SA 2.5, via Wikimedia Commons. [McDonalds drive thru Charnwood Australia.jpg](https://commons.wikimedia.org/wiki/File:McDonalds_drive_thru_Charnwood_Australia.jpg)
+- Ambassador Burns with McDonald’s CEO Chris Kempczinski: Ambassador of the United States of America to the People's Republic of China, public domain, via Wikimedia Commons. [Ambassador Burns with McDonald’s CEO Chris Kempczinski.jpg](https://commons.wikimedia.org/wiki/File:Ambassador_Burns_with_McDonald%E2%80%99s_CEO_Chris_Kempczinski.jpg)
+- Combos de Big Mac y McNífica servidos en el McDonald's del Obelisco de Buenos Aires (Argentina): Horacio Cambeiro, CC BY 3.0, via Wikimedia Commons. [Combos de Big Mac y McNífica servidos en el McDonald's del Obelisco de Buenos Aires (Argentina).jpg](https://commons.wikimedia.org/wiki/File:Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires_(Argentina).jpg)
+- G838VI microcontroller with 6502 core from the McDonald's Tetris McNugget: Azya52, CC0, via Wikimedia Commons. [G838VI.jpg](https://commons.wikimedia.org/wiki/File:G838VI.jpg)
+- McDonald's Taiwan headquarters: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [McDonald's Taiwan headquarters 20190728.jpg](https://commons.wikimedia.org/wiki/File:McDonald%27s_Taiwan_headquarters_20190728.jpg)
+- McDonald's UK Headquarters: Mark Hillary, CC BY 2.0, via Wikimedia Commons. [McDonald's UK Headquarters 2007-09-06.jpg](https://commons.wikimedia.org/wiki/File:McDonald%27s_UK_Headquarters_2007-09-06.jpg)
+- UK Headquarters of McDonald's Corporation: Mark Hillary, CC BY 2.0, via Wikimedia Commons. [UK Headquarters of McDonald's Corporation.jpg](https://commons.wikimedia.org/wiki/File:UK_Headquarters_of_McDonald%27s_Corporation.jpg)
+
+## McKesson (MCK)
+
+- McKesson Plaza east side 1: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [McKesson Plaza east side 1.JPG](https://commons.wikimedia.org/wiki/File:McKesson_Plaza_east_side_1.JPG)
+- McKesson Canada - Address: 131 McNabb St, Markham, ON L3R 5V7: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [McKessonCanada.jpg](https://commons.wikimedia.org/wiki/File:McKessonCanada.jpg)
+- 5995 Windward Pkwy, Alpharetta, GA March 2017: Thomson200, CC0, via Wikimedia Commons. [5995 Windward Pkwy, Alpharetta, GA March 2017.jpg](https://commons.wikimedia.org/wiki/File:5995_Windward_Pkwy,_Alpharetta,_GA_March_2017.jpg)
+- McKesson Pharmacy Systems Livonia Michigan: Dwight Burdette, CC BY 3.0, via Wikimedia Commons. [McKesson Pharmacy Systems Livonia Michigan.JPG](https://commons.wikimedia.org/wiki/File:McKesson_Pharmacy_Systems_Livonia_Michigan.JPG)
+- Little Current, ON P0P, Canada - panoramio: shanhitex, CC BY 3.0, via Wikimedia Commons. [Little Current, ON P0P, Canada - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Little_Current,_ON_P0P,_Canada_-_panoramio.jpg)
+- Riverdale Fitness: Jeff Hitchcock from Seattle, WA, USA, CC BY 2.0, via Wikimedia Commons. [Riverdale Fitness (36892964924).jpg](https://commons.wikimedia.org/wiki/File:Riverdale_Fitness_(36892964924).jpg)
+- Kyrsten Sinema visits McKesson in Tempe in 2016: Kyrsten Sinema, public domain, via Wikimedia Commons. [Kyrsten Sinema visits McKesson in Tempe in 2016.jpg](https://commons.wikimedia.org/wiki/File:Kyrsten_Sinema_visits_McKesson_in_Tempe_in_2016.jpg)
+- McKesson Europe Head Office Stuttgart: AlessiaSpiegel, CC BY-SA 4.0, via Wikimedia Commons. [McKesson Europe Head Office Stuttgart.jpg](https://commons.wikimedia.org/wiki/File:McKesson_Europe_Head_Office_Stuttgart.jpg)
+- Lyman-Eliel Drug Company Building (McKesson Building), N 1st Avenue and 3rd Street, Warehouse District, Minneapolis, MN: w_lemay, CC BY-SA 2.0, via Wikimedia Commons. [Lyman-Eliel Drug Company Building (McKesson Building), N 1st Avenue and 3rd Street, Warehouse District, Minneapolis, MN - 51763063314.jpg](https://commons.wikimedia.org/wiki/File:Lyman-Eliel_Drug_Company_Building_(McKesson_Building),_N_1st_Avenue_and_3rd_Street,_Warehouse_District,_Minneapolis,_MN_-_51763063314.jpg)
+- Palace Hotel SF & McKesson Plaza: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [Palace Hotel SF & McKesson Plaza.JPG](https://commons.wikimedia.org/wiki/File:Palace_Hotel_SF_%26_McKesson_Plaza.JPG)
+
+## Medtronic (MDT)
+
+- 2009-0610-001-Fridley-MedtronicHQ: Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons. [2009-0610-001-Fridley-MedtronicHQ.JPG](https://commons.wikimedia.org/wiki/File:2009-0610-001-Fridley-MedtronicHQ.JPG)
+- Medtronic Micro-Minix pacemaker from 1993 - Science Museum, London: The wub, CC BY-SA 4.0, via Wikimedia Commons. [Medtronic Micro-Minix pacemaker from 1993 - Science Museum, London.jpg](https://commons.wikimedia.org/wiki/File:Medtronic_Micro-Minix_pacemaker_from_1993_-_Science_Museum,_London.jpg)
+- Medtronic MiniMed 780G insulinpump: MailariX, CC BY-SA 4.0, via Wikimedia Commons. [Medtronic MiniMed 780G insulinpump.jpg](https://commons.wikimedia.org/wiki/File:Medtronic_MiniMed_780G_insulinpump.jpg)
+- Guardian 4 glucose sensor needle 02: Marius Vassnes, CC BY-SA 4.0, via Wikimedia Commons. [Guardian 4 glucose sensor needle 02.jpg](https://commons.wikimedia.org/wiki/File:Guardian_4_glucose_sensor_needle_02.jpg)
+- The old headquarters of Medtronic , built in 1960 in Fridley, Minnesota , USA.: Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons. [2012-0907-OldMedtronicHQ.jpg](https://commons.wikimedia.org/wiki/File:2012-0907-OldMedtronicHQ.jpg)
+- Defibrillator monitor Lifepak 12: Pöllö, CC BY 3.0, via Wikimedia Commons. [Defibrillator monitor Lifepak 12.jpg](https://commons.wikimedia.org/wiki/File:Defibrillator_monitor_Lifepak_12.jpg)
+- Medtronic Headquarters Office Building - Mounds View, Minnesota: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Medtronic Headquarters Office Building - Mounds View, Minnesota (43381897454).jpg](https://commons.wikimedia.org/wiki/File:Medtronic_Headquarters_Office_Building_-_Mounds_View,_Minnesota_(43381897454).jpg)
+- Woman pointing to a screen as Ambassador Burns watches: Ambassador of the United States of America to the People's Republic of China, public domain, via Wikimedia Commons. [Woman pointing to a screen as Ambassador Burns watches.jpg](https://commons.wikimedia.org/wiki/File:Woman_pointing_to_a_screen_as_Ambassador_Burns_watches.jpg)
+- Laien-Defi 2624: Karl Gruber, CC BY-SA 4.0, via Wikimedia Commons. [Laien-Defi 2624.JPG](https://commons.wikimedia.org/wiki/File:Laien-Defi_2624.JPG)
+- Medtronic Paradigm 754.front.ajb: Ajepbah, CC BY-SA 3.0, via Wikimedia Commons. [Medtronic Paradigm 754.front.ajb.jpg](https://commons.wikimedia.org/wiki/File:Medtronic_Paradigm_754.front.ajb.jpg)
+
+## MercadoLibre (MELI)
+
+- Mercadolibre edificio saavedra: Fernando Martello, CC BY-SA 4.0, via Wikimedia Commons. [Mercadolibre edificio saavedra.jpg](https://commons.wikimedia.org/wiki/File:Mercadolibre_edificio_saavedra.jpg)
+- Camioneta de mercadolibre en el centro de xalapa: Koffermejia, CC0, via Wikimedia Commons. [Camioneta de mercadolibre en el centro de xalapa.jpg](https://commons.wikimedia.org/wiki/File:Camioneta_de_mercadolibre_en_el_centro_de_xalapa.jpg)
+- Camionetas de mercadolibre en Tlalnepantla: Koffermejia, CC0, via Wikimedia Commons. [Camionetas de mercadolibre en Tlalnepantla.jpg](https://commons.wikimedia.org/wiki/File:Camionetas_de_mercadolibre_en_Tlalnepantla.jpg)
+
+## Merck & Co. (MRK)
+
+- Merck office Upper Gwynedd Township Montgomery County: Montgomery County Planning Commission, CC BY-SA 2.0, via Wikimedia Commons. [Merck office Upper Gwynedd Township Montgomery County.jpg](https://commons.wikimedia.org/wiki/File:Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg)
+- Vet Pen Kit: Bricetofly, CC0, via Wikimedia Commons. [Vet Pen Kit.jpg](https://commons.wikimedia.org/wiki/File:Vet_Pen_Kit.jpg)
+- London Pride parade 2025 - 28: MangakaMaiden Photography, CC BY 4.0, via Wikimedia Commons. [London Pride parade 2025 - 28.jpg](https://commons.wikimedia.org/wiki/File:London_Pride_parade_2025_-_28.jpg)
+- Diprosalic ointment tube: Cnbrb, CC BY-SA 4.0, via Wikimedia Commons. [Diprosalic ointment tube.jpeg](https://commons.wikimedia.org/wiki/File:Diprosalic_ointment_tube.jpeg)
+- Merck Research Laboratories: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Merck Research Laboratories.jpg](https://commons.wikimedia.org/wiki/File:Merck_Research_Laboratories.jpg)
+- Merck Sharp & Dohme Beijing Building: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Merck Sharp & Dohme Beijing Building (20230821162138).jpg](https://commons.wikimedia.org/wiki/File:Merck_Sharp_%26_Dohme_Beijing_Building_(20230821162138).jpg)
+- Praha Smichov Svornosti 2: JiriMatejicek, CC BY-SA 4.0, via Wikimedia Commons. [Praha Smichov Svornosti 2.jpg](https://commons.wikimedia.org/wiki/File:Praha_Smichov_Svornosti_2.jpg)
+- Concor (bisoprolol) made by Nanolek, Russia with Merck branding, Aug 2025 01: Retired electrician, CC0, via Wikimedia Commons. [Concor (bisoprolol) made by Nanolek, Russia with Merck branding, Aug 2025 01.jpg](https://commons.wikimedia.org/wiki/File:Concor_(bisoprolol)_made_by_Nanolek,_Russia_with_Merck_branding,_Aug_2025_01.jpg)
+- Familiengrab Merck im Jacobipark mini: Pauli-Pirat, CC BY-SA 4.0, via Wikimedia Commons. [Familiengrab Merck im Jacobipark mini.jpg](https://commons.wikimedia.org/wiki/File:Familiengrab_Merck_im_Jacobipark_mini.jpg)
+- Dahlia Merckii Tafel Jacobipark am Familiengrab: Pauli-Pirat, CC BY-SA 4.0, via Wikimedia Commons. [Dahlia Merckii Tafel Jacobipark am Familiengrab.jpg](https://commons.wikimedia.org/wiki/File:Dahlia_Merckii_Tafel_Jacobipark_am_Familiengrab.jpg)
+
+## MetLife (MET)
+
+- MetLife Building with Grand Central Terminal in the foreground.: Jnn13, CC BY-SA 4.0, via Wikimedia Commons. [MetLIfe GC.JPG](https://commons.wikimedia.org/wiki/File:MetLIfe_GC.JPG)
+- Dutch Kills Green td ( ) 04: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [Dutch Kills Green td (2023-05-12) 04.jpg](https://commons.wikimedia.org/wiki/File:Dutch_Kills_Green_td_(2023-05-12)_04.jpg)
+- MetLife, Viña del Mar: Carlos Figueroa Rojas, CC BY-SA 4.0, via Wikimedia Commons. [MetLife, Viña del Mar 20211006.jpg](https://commons.wikimedia.org/wiki/File:MetLife,_Vi%C3%B1a_del_Mar_20211006.jpg)
+- Queens Plaza North - Met Life Plaza, New York City: Mxn, CC BY-SA 4.0, via Wikimedia Commons. [Queens Plaza North - Met Life Plaza, New York City.jpg](https://commons.wikimedia.org/wiki/File:Queens_Plaza_North_-_Met_Life_Plaza,_New_York_City.jpg)
+- Metro Life Hall Recs Palmer Av jeh: Jim.henderson, public domain, via Wikimedia Commons. [Metro Life Hall Recs Palmer Av jeh.JPG](https://commons.wikimedia.org/wiki/File:Metro_Life_Hall_Recs_Palmer_Av_jeh.JPG)
+- Edificio Torre Metlife, Santiago: Carlos yo, CC BY-SA 4.0, via Wikimedia Commons. [Edificio Torre Metlife, Santiago 20230414.jpg](https://commons.wikimedia.org/wiki/File:Edificio_Torre_Metlife,_Santiago_20230414.jpg)
+- Metlife Agustinas, Santiago: Carlos yo, CC BY-SA 4.0, via Wikimedia Commons. [Metlife Agustinas, Santiago 20220627.jpg](https://commons.wikimedia.org/wiki/File:Metlife_Agustinas,_Santiago_20220627.jpg)
+- Walter Gropius photo MetLife Building fassade New York USA: Unknown author, public domain, via Wikimedia Commons. [Walter Gropius photo MetLife Building fassade New York USA 2005-10-03.jpg](https://commons.wikimedia.org/wiki/File:Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg)
+- Metlife Building Und Chrysler Building: Udo R, CC BY 3.0, via Wikimedia Commons. [Metlife Building Und Chrysler Building (136757291).jpeg](https://commons.wikimedia.org/wiki/File:Metlife_Building_Und_Chrysler_Building_(136757291).jpeg)
+- MetLife Building (ehem. Pan Am Building) und Chrysler Building - panoramio: Johannes Geiger, CC BY-SA 3.0, via Wikimedia Commons. [MetLife Building (ehem. Pan Am Building) und Chrysler Building - panoramio.jpg](https://commons.wikimedia.org/wiki/File:MetLife_Building_(ehem._Pan_Am_Building)_und_Chrysler_Building_-_panoramio.jpg)
+
+## Mettler Toledo (MTD)
+
+- LCBS Load-cell Based Weighing Systems 500kg triangular: IAEA Imagebank, CC BY 2.0, via Wikimedia Commons. [LCBS Load-cell Based Weighing Systems 500kg triangular (03010545) (38975315860).jpg](https://commons.wikimedia.org/wiki/File:LCBS_Load-cell_Based_Weighing_Systems_500kg_triangular_(03010545)_(38975315860).jpg)
+- Renault Trafic II Gruau-Mettler Toledo Service Clients: Cjp24, CC BY-SA 4.0, via Wikimedia Commons. [Renault Trafic II Gruau-Mettler Toledo Service Clients.jpg](https://commons.wikimedia.org/wiki/File:Renault_Trafic_II_Gruau-Mettler_Toledo_Service_Clients.jpg)
+- Biolab Bragança: Yasmim 2603, CC BY-SA 4.0, via Wikimedia Commons. [Biolab Bragança.jpg](https://commons.wikimedia.org/wiki/File:Biolab_Bragan%C3%A7a.jpg)
+
+## MGM Resorts (MGM)
+
+- Bet MGM advertisement at Chicago Union Station - June 2022 - Sarah Stierch: Missvain, CC BY 4.0, via Wikimedia Commons. [Bet MGM advertisement at Chicago Union Station - June 2022 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Bet_MGM_advertisement_at_Chicago_Union_Station_-_June_2022_-_Sarah_Stierch.jpg)
+- Cables - Flickr - Corey Leopold: Corey Leopold, CC BY 2.0, via Wikimedia Commons. [Cables - Flickr - Corey Leopold.jpg](https://commons.wikimedia.org/wiki/File:Cables_-_Flickr_-_Corey_Leopold.jpg)
+- MGM Resorts LoveLoud: Ben P L from Provo, USA, CC BY-SA 2.0, via Wikimedia Commons. [MGM Resorts LoveLoud (44222385842).jpg](https://commons.wikimedia.org/wiki/File:MGM_Resorts_LoveLoud_(44222385842).jpg)
+- From Bally's Atlantic City td ( ) 09 - Borgata Hotel: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [From Bally's Atlantic City td (2019-05-01) 09 - Borgata Hotel.jpg](https://commons.wikimedia.org/wiki/File:From_Bally%27s_Atlantic_City_td_(2019-05-01)_09_-_Borgata_Hotel.jpg)
+- NJ Route 87 nb, MP 0.1, July 2021: Mr. Matté (if there is an issue with this image, contact me using this image's Commons talk page , my Commons user talk page , or my English Wikipedia user talk page ; I'll know about it a lot faster), CC BY-SA 3.0, via Wikimedia Commons. [NJ Route 87 nb, MP 0.1, July 2021.jpg](https://commons.wikimedia.org/wiki/File:NJ_Route_87_nb,_MP_0.1,_July_2021.jpg)
+- Hotel Excalibur Las Vegas: ArticCynda, CC BY-SA 4.0, via Wikimedia Commons. [Hotel Excalibur Las Vegas.jpg](https://commons.wikimedia.org/wiki/File:Hotel_Excalibur_Las_Vegas.jpg)
+- Foxwoods Casino from Lantern Hill , December 2023: Pi.1415926535, CC BY-SA 4.0, via Wikimedia Commons. [Foxwoods Casino from Lantern Hill (1), December 2023.JPG](https://commons.wikimedia.org/wiki/File:Foxwoods_Casino_from_Lantern_Hill_(1),_December_2023.JPG)
+- Luxor Hotel Feb - 2019: Sisternaconstanza, CC BY-SA 4.0, via Wikimedia Commons. [Luxor Hotel Feb - 2019.jpg](https://commons.wikimedia.org/wiki/File:Luxor_Hotel_Feb_-_2019.jpg)
+- Luxor Resort & Casino pool, Las Vegas: YosemiteYamper, CC BY-SA 4.0, via Wikimedia Commons. [Luxor Resort & Casino pool, Las Vegas.jpg](https://commons.wikimedia.org/wiki/File:Luxor_Resort_%26_Casino_pool,_Las_Vegas.jpg)
+- Bellagio Hotel and Casino, Las Vegas, Nevada, USA: Jim G from Silicon Valley, CA, USA, CC BY 2.0, via Wikimedia Commons. [Bellagio Hotel and Casino, Las Vegas, Nevada, USA (16644124514).jpg](https://commons.wikimedia.org/wiki/File:Bellagio_Hotel_and_Casino,_Las_Vegas,_Nevada,_USA_(16644124514).jpg)
+
+## Microchip Technology (MCHP)
+
+- Microsemi Microchip Building Garden Grove California 2021: DigitalIceAge, CC BY 4.0, via Wikimedia Commons. [Microsemi Microchip Building Garden Grove California 2021.JPG](https://commons.wikimedia.org/wiki/File:Microsemi_Microchip_Building_Garden_Grove_California_2021.JPG)
+- Microchip mcmaster mz mit20x2: John McMaster, CC BY 4.0, via Wikimedia Commons. [Microchip 77102 mcmaster mz mit20x2.jpg](https://commons.wikimedia.org/wiki/File:Microchip_77102_mcmaster_mz_mit20x2.jpg)
+- Microchip mcp6022e mcmaster mz mit20x2: John McMaster, CC BY 4.0, via Wikimedia Commons. [Microchip mcp6022e mcmaster mz mit20x2.jpg](https://commons.wikimedia.org/wiki/File:Microchip_mcp6022e_mcmaster_mz_mit20x2.jpg)
+- Time Card: Ahmadexp, CC BY-SA 4.0, via Wikimedia Commons. [Time Card.png](https://commons.wikimedia.org/wiki/File:Time_Card.png)
+- PowerDsine 3524G 24-Port Gigabit Ethernet PoE Midspan Injector with top cover removed, oblique view: Phiarc, CC BY-SA 4.0, via Wikimedia Commons. [PowerDsine 3524G 24-Port Gigabit Ethernet PoE Midspan Injector with top cover removed, oblique view.jpg](https://commons.wikimedia.org/wiki/File:PowerDsine_3524G_24-Port_Gigabit_Ethernet_PoE_Midspan_Injector_with_top_cover_removed,_oblique_view.jpg)
+
+## Micron Technology (MU)
+
+- President Joe Biden receives a briefing about microchips manufacturing, Thursday, October 27, 2022, at Onondaga Community College in Syracuse, New York. (Offici: The White House, public domain, via Wikimedia Commons. [P20221027AS-0855 (52650916156).jpg](https://commons.wikimedia.org/wiki/File:P20221027AS-0855_(52650916156).jpg)
+- Micron Fab in Taichung, Taiwan: Thingreenline4546, CC BY-SA 4.0, via Wikimedia Commons. [Micron Fab in Taichung, Taiwan.jpeg](https://commons.wikimedia.org/wiki/File:Micron_Fab_in_Taichung,_Taiwan.jpeg)
+- TWSC 8GB DDR5-4800 SO-DIMM memory module - rear view: ITEagle Europe - Sebastiaan Broekhoven, CC BY-SA 4.0, via Wikimedia Commons. [TWSC 8GB DDR5-4800 SO-DIMM memory module - rear view.jpg](https://commons.wikimedia.org/wiki/File:TWSC_8GB_DDR5-4800_SO-DIMM_memory_module_-_rear_view.jpg)
+- Speedport Smart 4 Typ A - board - Micron Technology 29F8G08ABACA-0688: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Speedport Smart 4 Typ A - board - Micron Technology 29F8G08ABACA-0688.jpg](https://commons.wikimedia.org/wiki/File:Speedport_Smart_4_Typ_A_-_board_-_Micron_Technology_29F8G08ABACA-0688.jpg)
+- Sanjay Mehrotra - Micron: Micron Technology, CC BY-SA 4.0, via Wikimedia Commons. [Sanjay Mehrotra - Micron.png](https://commons.wikimedia.org/wiki/File:Sanjay_Mehrotra_-_Micron.png)
+- Micron Millenia M55HIPLUS-P166-MT-thumb (edit): Akbkuku, CC BY 4.0, via Wikimedia Commons. [Micron Millenia M55HIPLUS-P166-MT-thumb (edit).jpg](https://commons.wikimedia.org/wiki/File:Micron_Millenia_M55HIPLUS-P166-MT-thumb_(edit).jpg)
+- Rahm Emanuel with Glenn Youngkin (Fusd5IhWcAcrck): Ambassador Rahm Emanuel (United States Embassy in Japan), public domain, via Wikimedia Commons. [Rahm Emanuel with Glenn Youngkin (Fusd5IhWcAcrck).jpg](https://commons.wikimedia.org/wiki/File:Rahm_Emanuel_with_Glenn_Youngkin_(Fusd5IhWcAcrck).jpg)
+- Rahm Emanuel with Manish Bhatia (Fusd9XEWcAAEPpb): Ambassador Rahm Emanuel (United States Embassy in Japan), public domain, via Wikimedia Commons. [Rahm Emanuel with Manish Bhatia (Fusd9XEWcAAEPpb).jpg](https://commons.wikimedia.org/wiki/File:Rahm_Emanuel_with_Manish_Bhatia_(Fusd9XEWcAAEPpb).jpg)
+- Amiga 1000 - memory expansion module - Micron Technology MT4C4256-10-7730: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Amiga 1000 - memory expansion module - Micron Technology MT4C4256-10-7730.jpg](https://commons.wikimedia.org/wiki/File:Amiga_1000_-_memory_expansion_module_-_Micron_Technology_MT4C4256-10-7730.jpg)
+- Crucial CT128M4SSD2 - board - Micron IYDI1 D9LGQ-2887: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Crucial CT128M4SSD2 - board - Micron IYDI1 D9LGQ-2887.jpg](https://commons.wikimedia.org/wiki/File:Crucial_CT128M4SSD2_-_board_-_Micron_IYDI1_D9LGQ-2887.jpg)
+
+## Microsoft (MSFT)
+
+- Microsoft Redmond Campus redevelopment aerial view, Sept. 2021: Atomic Taco, CC BY-SA 2.0, via Wikimedia Commons. [Microsoft Redmond Campus redevelopment aerial view, Sept. 2021.jpg](https://commons.wikimedia.org/wiki/File:Microsoft_Redmond_Campus_redevelopment_aerial_view,_Sept._2021.jpg)
+- Microsoft sign at the Microsoft Visitor Center Building 92: Lectrician1, CC BY-SA 4.0, via Wikimedia Commons. [Microsoft sign at the Microsoft Visitor Center Building 92.jpg](https://commons.wikimedia.org/wiki/File:Microsoft_sign_at_the_Microsoft_Visitor_Center_Building_92.jpg)
+- Microsoft datacenter i Staffanstorp 60: Johan Wessman / News Oresund, CC BY 2.0, via Wikimedia Commons. [20210925 Microsoft datacenter i Staffanstorp 60 (51515782920).jpg](https://commons.wikimedia.org/wiki/File:20210925_Microsoft_datacenter_i_Staffanstorp_60_(51515782920).jpg)
+- Microsoft Surface Pro: KK IN HK, CC BY-SA 4.0, via Wikimedia Commons. [Microsoft Surface Pro.jpeg](https://commons.wikimedia.org/wiki/File:Microsoft_Surface_Pro.jpeg)
+- Xbox-console: Evan-Amos, public domain, via Wikimedia Commons. [Xbox-console.jpg](https://commons.wikimedia.org/wiki/File:Xbox-console.jpg)
+- MS-Exec-Nadella-Satya- -22 ( ): Brian Smale and Microsoft, CC BY-SA 4.0, via Wikimedia Commons. [MS-Exec-Nadella-Satya-2017-08-31-22 (cropped).jpg](https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg)
+- Aerial Microsoft West Campus August 2009: Jelson25, public domain, via Wikimedia Commons. [Aerial Microsoft West Campus August 2009.jpg](https://commons.wikimedia.org/wiki/File:Aerial_Microsoft_West_Campus_August_2009.jpg)
+- Building 92 of Microsoft Redmond Campus - panoramio: Jiaqian AirplaneFan, CC BY 3.0, via Wikimedia Commons. [Building 92 of Microsoft Redmond Campus - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg)
+- Microsoft campus - panoramio: logopop, CC BY-SA 3.0, via Wikimedia Commons. [Microsoft campus - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg)
+- Plaza on the Microsoft Redmond campus: Jonathan Schilling, CC BY-SA 4.0, via Wikimedia Commons. [Plaza on the Microsoft Redmond campus.jpg](https://commons.wikimedia.org/wiki/File:Plaza_on_the_Microsoft_Redmond_campus.jpg)
+
+## Moderna (MRNA)
+
+- Moderna Headquarters, December 2020: Fletcher, CC BY 4.0, via Wikimedia Commons. [Moderna Headquarters, December 2020.jpg](https://commons.wikimedia.org/wiki/File:Moderna_Headquarters,_December_2020.jpg)
+- Stéphane Bancel, Moderna CEO (per Wikidata): Xuthoria, CC BY-SA 4.0, via Wikimedia Commons. [NYCW 2026 - Stéphane Bancel 01.jpg](https://commons.wikimedia.org/wiki/File:NYCW_2026_-_St%C3%A9phane_Bancel_01.jpg)
+- Moderna Headquarters: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [Moderna Headquarters (54960816438).jpg](https://commons.wikimedia.org/wiki/File:Moderna_Headquarters_(54960816438).jpg)
+- 31 FW Airmen receive second Moderna COVID-19 vaccine: U.S. Air Force photo by Airman 1st Class Brooke Keisler, public domain, via Wikimedia Commons. [31 FW Airmen receive second Moderna COVID-19 vaccine (6538675).jpg](https://commons.wikimedia.org/wiki/File:31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_(6538675).jpg)
+- Moderna Building backyard on 10 Lutego: Jack twister, CC0, via Wikimedia Commons. [Moderna Building backyard on 10 Lutego.jpg](https://commons.wikimedia.org/wiki/File:Moderna_Building_backyard_on_10_Lutego.jpg)
+
+## Mondelez International (MDLZ)
+
+- Photograph of Mondelēz International Headquarters, Three Parkway North Deerfield, IL 60015: Mike Mitchell, CC BY-SA 3.0, via Wikimedia Commons. [ThreeParkwayNorth3.jpeg](https://commons.wikimedia.org/wiki/File:ThreeParkwayNorth3.jpeg)
+- Usine des Biscottes - Mondelez, 20 rue Jacques-Gamelin (Toulouse): Abdoucondorcet, CC0, via Wikimedia Commons. [Usine des Biscottes - Mondelez, 20 rue Jacques-Gamelin (Toulouse).jpg](https://commons.wikimedia.org/wiki/File:Usine_des_Biscottes_-_Mondelez,_20_rue_Jacques-Gamelin_(Toulouse).jpg)
+- Mondelēz factory in Tomaszów Mazowiecki, Poland: WrS.tm.pl, public domain, via Wikimedia Commons. [20250623 155847 Mondelēz factory in Tomaszów Mazowiecki, Poland.jpg](https://commons.wikimedia.org/wiki/File:20250623_155847_Mondel%C4%93z_factory_in_Tomasz%C3%B3w_Mazowiecki,_Poland.jpg)
+- Kesselwagen Tunnellöschzug Bludenz: 32-Fuß-Freak, CC BY-SA 4.0, via Wikimedia Commons. [Kesselwagen Tunnellöschzug Bludenz.jpg](https://commons.wikimedia.org/wiki/File:Kesselwagen_Tunnell%C3%B6schzug_Bludenz.jpg)
+
+## MongoDB (MDB)
+
+- MongoDB Palo Alto Office 2: BrokenSegue, CC BY-SA 4.0, via Wikimedia Commons. [MongoDB Palo Alto Office 2.jpg](https://commons.wikimedia.org/wiki/File:MongoDB_Palo_Alto_Office_2.jpg)
+- MongoDB (MongoDB): F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [MongoDB 1 2018-09-06.jpg](https://commons.wikimedia.org/wiki/File:MongoDB_1_2018-09-06.jpg)
+- MongoDB headquarters at night: Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons. [MongoDB headquarters at night.jpg](https://commons.wikimedia.org/wiki/File:MongoDB_headquarters_at_night.jpg)
+- MongoDB replication-н зарчим: Baagiimgl, CC BY-SA 4.0, via Wikimedia Commons. [MongoDB replication-н зарчим..jpg](https://commons.wikimedia.org/wiki/File:MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg)
+- MongoDB NYC Headquarters: Jerzy Fischer, CC BY-SA 4.0, via Wikimedia Commons. [MongoDB NYC Headquarters.jpg](https://commons.wikimedia.org/wiki/File:MongoDB_NYC_Headquarters.jpg)
+
+## Monster Beverage (MNST)
+
+- Monster Beverage Headquarters: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Monster Beverage Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Monster_Beverage_Headquarters.jpg)
+
+## Moody's Corporation (MCO)
+
+- 7 World Trade Center: Sweeneyr, CC BY-SA 3.0, via Wikimedia Commons. [7 World Trade Center.jpg](https://commons.wikimedia.org/wiki/File:7_World_Trade_Center.jpg)
+
+## Morgan Stanley (MS)
+
+- Morgan Stanley Times Square: PLBechly, CC BY-SA 4.0, via Wikimedia Commons. [Morgan Stanley Times Square.jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley_Times_Square.jpg)
+- Morgan Stanley Headquarters: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [Morgan Stanley Headquarters (48105951892).jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley_Headquarters_(48105951892).jpg)
+- Morgan Stanley Children's Hospital: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Morgan Stanley Children's Hospital (51241366103).jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley_Children%27s_Hospital_(51241366103).jpg)
+- Morgan Stanley Tower: PLBechly, CC BY-SA 4.0, via Wikimedia Commons. [Morgan Stanley Tower.jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley_Tower.jpg)
+- Singapore Morgan Stanley 04-12-2024: LN9267, CC BY-SA 4.0, via Wikimedia Commons. [Singapore Morgan Stanley 04-12-2024.jpg](https://commons.wikimedia.org/wiki/File:Singapore_Morgan_Stanley_04-12-2024.jpg)
+- Krispy Kreme Headquarters: Jrayalme, CC BY 3.0, via Wikimedia Commons. [Krispy Kreme Headquarters.JPG](https://commons.wikimedia.org/wiki/File:Krispy_Kreme_Headquarters.JPG)
+- Morgan Stanley, 61 Rue de Monceau, Paris, France September 2016: Guilhem Vellut from Paris, France, CC BY 2.0, via Wikimedia Commons. [Morgan Stanley, 61 Rue de Monceau, 75008 Paris, France September 2016.jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley,_61_Rue_de_Monceau,_75008_Paris,_France_September_2016.jpg)
+- Looking up at the second Morgan Stanley building from Mackenzie Walk - geograph.org.uk: Robert Lamb, CC BY-SA 2.0, via Wikimedia Commons. [Looking up at the second Morgan Stanley building from Mackenzie Walk - geograph.org.uk - 5496600.jpg](https://commons.wikimedia.org/wiki/File:Looking_up_at_the_second_Morgan_Stanley_building_from_Mackenzie_Walk_-_geograph.org.uk_-_5496600.jpg)
+- 1585 Broadway - Morgan Stanley Building: Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [1585 Broadway - Morgan Stanley Building (55283615766).jpg](https://commons.wikimedia.org/wiki/File:1585_Broadway_-_Morgan_Stanley_Building_(55283615766).jpg)
+- Morgan-stanley-building: Americasroof ( talk ), CC BY-SA 3.0, via Wikimedia Commons. [Morgan-stanley-building.jpg](https://commons.wikimedia.org/wiki/File:Morgan-stanley-building.jpg)
+
+## Motorola Solutions (MSI)
+
+- 07R01 IF Amplifier/Demodulator Integrated Circuit Motorola GM350 transceiver: Mister rf, CC BY-SA 4.0, via Wikimedia Commons. [07R01.jpg](https://commons.wikimedia.org/wiki/File:07R01.jpg)
+- 3 digital cellular telephones for the DCS 1800 standard. From left to right: Nortel 1822, Nokia 1620, Motorola mr30: Bohdan Bazooka, CC0, via Wikimedia Commons. [DCS 1800.jpg](https://commons.wikimedia.org/wiki/File:DCS_1800.jpg)
+- Motorola mr30, a digital cellular telephone for DCS 1800 networks. It is a variant of the Motorola Flare.: Bohdan Bazooka, CC0, via Wikimedia Commons. [Motorola mr30.jpg](https://commons.wikimedia.org/wiki/File:Motorola_mr30.jpg)
+- Motorola PRX C451: Bohdan Bazooka, CC0, via Wikimedia Commons. [Motorola PRX C451 (2).jpg](https://commons.wikimedia.org/wiki/File:Motorola_PRX_C451_(2).jpg)
+- Circuits intégrés décalottés: Frédéric BISSON from Rouen, France, CC BY 2.0, via Wikimedia Commons. [Circuits intégrés décalottés (51258135469).jpg](https://commons.wikimedia.org/wiki/File:Circuits_int%C3%A9gr%C3%A9s_d%C3%A9calott%C3%A9s_(51258135469).jpg)
+- "No smoking within 15 ft of entrance" sign, courtyard, trees, lawn, curved walkways, building, Motorola Solutions, Schaumburg, Illinois, USA: Wonderlane, CC0, via Wikimedia Commons. ["No smoking within 15 ft of entrance" sign, courtyard, trees, lawn, curved walkways, building, Motorola Solutions, Schaumburg, Illinois, USA.jpg](https://commons.wikimedia.org/wiki/File:%22No_smoking_within_15_ft_of_entrance%22_sign,_courtyard,_trees,_lawn,_curved_walkways,_building,_Motorola_Solutions,_Schaumburg,_Illinois,_USA.jpg)
+- Circular courtyard, people talking, trees, lawn, curved walkway, building, Motorola Solutions, Schaumburg, Illinois, USA: Wonderlane, CC0, via Wikimedia Commons. [Circular courtyard, people talking, trees, lawn, curved walkway, building, Motorola Solutions, Schaumburg, Illinois, USA.jpg](https://commons.wikimedia.org/wiki/File:Circular_courtyard,_people_talking,_trees,_lawn,_curved_walkway,_building,_Motorola_Solutions,_Schaumburg,_Illinois,_USA.jpg)
+- Expressions, using Motorola Solutions products on the walls, corporate headquarters, Schaumburg, Illinois, USA: Wonderlane, CC0, via Wikimedia Commons. [Expressions, using Motorola Solutions products on the walls, corporate headquarters, Schaumburg, Illinois, USA.jpg](https://commons.wikimedia.org/wiki/File:Expressions,_using_Motorola_Solutions_products_on_the_walls,_corporate_headquarters,_Schaumburg,_Illinois,_USA.jpg)
+- Expressions, being prepared, using Motorola Solutions products on the walls, corporate headquarters, Schaumburg, Illinois, USA: Wonderlane, CC0, via Wikimedia Commons. [Expressions, being prepared, using Motorola Solutions products on the walls, corporate headquarters, Schaumburg, Illinois, USA.jpg](https://commons.wikimedia.org/wiki/File:Expressions,_being_prepared,_using_Motorola_Solutions_products_on_the_walls,_corporate_headquarters,_Schaumburg,_Illinois,_USA.jpg)
+- Red Swingline Stapler - "I Believe You Have My Stapler" - the pass around "Office Space" joke in play, Motorola Solutions, Schaumburg, Illinois, USA: Wonderlane, CC0, via Wikimedia Commons. [Red Swingline Stapler - "I Believe You Have My Stapler" - the pass around "Office Space" joke in play, Motorola Solutions, Schaumburg, Illinois, USA.jpg](https://commons.wikimedia.org/wiki/File:Red_Swingline_Stapler_-_%22I_Believe_You_Have_My_Stapler%22_-_the_pass_around_%22Office_Space%22_joke_in_play,_Motorola_Solutions,_Schaumburg,_Illinois,_USA.jpg)
+
+## MSCI (MSCI)
+
+- MSCI World: Jashuah, CC BY-SA 3.0, via Wikimedia Commons. [MSCI World.png](https://commons.wikimedia.org/wiki/File:MSCI_World.png)
+- Map of all countries included in the MSCI World index as of Sept 28, 2018, created with mapchart.net: Haxxorz596, CC BY-SA 4.0, via Wikimedia Commons. [Msciworldmap.png](https://commons.wikimedia.org/wiki/File:Msciworldmap.png)
+
+## Nasdaq, Inc. (NDAQ)
+
+- NYC - Midtown Manhattan – Times Square – Broadway by night - panoramio: giggel, CC BY 3.0, via Wikimedia Commons. [NYC - Midtown Manhattan – Times Square – Broadway by night - panoramio (2).jpg](https://commons.wikimedia.org/wiki/File:NYC_-_Midtown_Manhattan_%E2%80%93_Times_Square_%E2%80%93_Broadway_by_night_-_panoramio_(2).jpg)
+- Adena Friedman, Nasdaq, Inc. CEO (per Wikidata): Keith Krach, CC BY 2.0, via Wikimedia Commons. [Keith Krach and Adena Friedman, DocuSign IPO April 2018.jpg](https://commons.wikimedia.org/wiki/File:Keith_Krach_and_Adena_Friedman,_DocuSign_IPO_April_2018.jpg)
+- Yoni Assia at the eToro IPO launch event at Nasdaq on May 15, 2025 01: Vanja Savic, CC BY 4.0, via Wikimedia Commons. [Yoni Assia at the eToro IPO launch event at Nasdaq on May 15, 2025 01.jpg](https://commons.wikimedia.org/wiki/File:Yoni_Assia_at_the_eToro_IPO_launch_event_at_Nasdaq_on_May_15,_2025_01.jpg)
+- NASA Artemis II Crew Rings Nasdaq Closing Bell (NHQ202604300005): NASA Headquarters / NASA/Bill Ingalls, public domain, via Wikimedia Commons. [NASA Artemis II Crew Rings Nasdaq Closing Bell (NHQ202604300005).jpg](https://commons.wikimedia.org/wiki/File:NASA_Artemis_II_Crew_Rings_Nasdaq_Closing_Bell_(NHQ202604300005).jpg)
+- Nasdaq, Inc. (NASDAQ): Jbell118, CC BY-SA 4.0, via Wikimedia Commons. [Jourdainbell.jpg](https://commons.wikimedia.org/wiki/File:Jourdainbell.jpg)
+- IPO XPINC - Guilherme Benchimol: XP Divulgação, CC BY-SA 3.0, via Wikimedia Commons. [IPO XPINC - Guilherme Benchimol.jpg](https://commons.wikimedia.org/wiki/File:IPO_XPINC_-_Guilherme_Benchimol.jpg)
+- SmileDirectClub Rings the Nasdaq Bell 1: SDCSteve, CC BY-SA 4.0, via Wikimedia Commons. [SmileDirectClub Rings the Nasdaq Bell 1.jpg](https://commons.wikimedia.org/wiki/File:SmileDirectClub_Rings_the_Nasdaq_Bell_1.jpg)
+- Nasdaq Tower May 2026: Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons. [Nasdaq Tower May 2026.jpg](https://commons.wikimedia.org/wiki/File:Nasdaq_Tower_May_2026.jpg)
+- CreditRich Nasdaq Tower NYC: Aylakinn, CC BY-SA 4.0, via Wikimedia Commons. [CreditRich Nasdaq Tower NYC.jpg](https://commons.wikimedia.org/wiki/File:CreditRich_Nasdaq_Tower_NYC.jpg)
+- NASDAQ Market Site: Luca Marfè at Italia all'ONU, CC BY 2.0, via Wikimedia Commons. [NASDAQ Market Site 201506.jpg](https://commons.wikimedia.org/wiki/File:NASDAQ_Market_Site_201506.jpg)
+
+## NetApp (NTAP)
+
+- NetApp Headquarters Sunnyvale: LPS.1, CC0, via Wikimedia Commons. [NetApp Headquarters Sunnyvale.jpg](https://commons.wikimedia.org/wiki/File:NetApp_Headquarters_Sunnyvale.jpg)
+- FlexPod Converged Infrastracture: Qdrddr, CC BY-SA 4.0, via Wikimedia Commons. [FlexPod Converged Infrastracture.jpg](https://commons.wikimedia.org/wiki/File:FlexPod_Converged_Infrastracture.jpg)
+- NetApp AFF A300: Itshorty, CC BY-SA 3.0, via Wikimedia Commons. [NetApp AFF A300.jpg](https://commons.wikimedia.org/wiki/File:NetApp_AFF_A300.jpg)
+- NetApp SG6060 StorageGRID Webscale: Qdrddr, CC BY-SA 4.0, via Wikimedia Commons. [NetApp SG6060 StorageGRID Webscale.jpg](https://commons.wikimedia.org/wiki/File:NetApp_SG6060_StorageGRID_Webscale.jpg)
+- Wichita Kansas NetApp 2013: Patrick Pelletier, CC BY-SA 3.0, via Wikimedia Commons. [Wichita Kansas NetApp 2013.JPG](https://commons.wikimedia.org/wiki/File:Wichita_Kansas_NetApp_2013.JPG)
+- Crossman VTA 1738: Pedro Xing, CC0, via Wikimedia Commons. [Crossman VTA 1738.JPG](https://commons.wikimedia.org/wiki/File:Crossman_VTA_1738.JPG)
+- MicrosoftTechEdTaiwan2007 NetApp: Rico Shen, CC BY-SA 3.0, via Wikimedia Commons. [MicrosoftTechEdTaiwan2007 NetApp.jpg](https://commons.wikimedia.org/wiki/File:MicrosoftTechEdTaiwan2007_NetApp.jpg)
+- NetApp Building 1: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [NetApp Building 1.jpg](https://commons.wikimedia.org/wiki/File:NetApp_Building_1.jpg)
+- Netapp HQ - panoramio: office, CC BY-SA 3.0, via Wikimedia Commons. [Netapp HQ - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Netapp_HQ_-_panoramio.jpg)
+- Netapp Sunnyvale CA - panoramio: office, CC BY-SA 3.0, via Wikimedia Commons. [Netapp Sunnyvale CA - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Netapp_Sunnyvale_CA_-_panoramio.jpg)
+
+## Netflix (NFLX)
+
+- 101 Albright Way: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [101 Albright Way.jpg](https://commons.wikimedia.org/wiki/File:101_Albright_Way.jpg)
+- Netflix Streaming: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [Netflix Streaming (40845736773).jpg](https://commons.wikimedia.org/wiki/File:Netflix_Streaming_(40845736773).jpg)
+- Netflix button remote: Flickr Stock Catalog, CC BY 2.0, via Wikimedia Commons. [Netflix button remote (40062279010).jpg](https://commons.wikimedia.org/wiki/File:Netflix_button_remote_(40062279010).jpg)
+- Robert Gant at the series premiere of Netflix’s “13 Reasons Why”: Robert Gant, CC BY-SA 4.0, via Wikimedia Commons. [Robert Gant at the series premiere of Netflix’s “13 Reasons Why”.jpg](https://commons.wikimedia.org/wiki/File:Robert_Gant_at_the_series_premiere_of_Netflix%E2%80%99s_%E2%80%9C13_Reasons_Why%E2%80%9D.jpg)
+- SXSW 2016 - Ted Sarandos: Daniel Benavides from Austin, TX, CC BY 2.0, via Wikimedia Commons. [SXSW 2016 - Ted Sarandos (25752599662).jpg](https://commons.wikimedia.org/wiki/File:SXSW_2016_-_Ted_Sarandos_(25752599662).jpg)
+- Clark Olofsson in Netflix -2JPG: Frankie Fouganthin, CC BY 4.0, via Wikimedia Commons. [Clark Olofsson in Netflix -2JPG.jpg](https://commons.wikimedia.org/wiki/File:Clark_Olofsson_in_Netflix_-2JPG.jpg)
+- Views from Shibuya Stream: Syced, CC0, via Wikimedia Commons. [Views from Shibuya Stream.jpg](https://commons.wikimedia.org/wiki/File:Views_from_Shibuya_Stream.jpg)
+- Netflix headquarters: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Netflix headquarters.jpg](https://commons.wikimedia.org/wiki/File:Netflix_headquarters.jpg)
+- NMD19 - Netflix Anbefalingsteknologi, store data og lykkelige brukere: Jarle H. Moe / Nordiske Mediedager, CC BY-SA 2.0, via Wikimedia Commons. [NMD19 - Netflix Anbefalingsteknologi, store data og lykkelige brukere (47810765201).jpg](https://commons.wikimedia.org/wiki/File:NMD19_-_Netflix_Anbefalingsteknologi,_store_data_og_lykkelige_brukere_(47810765201).jpg)
+- IHostage Netflix 2025 - Jesse Schabracq - Apple Store Employee: Actor2025, CC BY-SA 4.0, via Wikimedia Commons. [IHostage Netflix 2025 - Jesse Schabracq - Apple Store Employee.jpg](https://commons.wikimedia.org/wiki/File:IHostage_Netflix_2025_-_Jesse_Schabracq_-_Apple_Store_Employee.jpg)
+
+## Newmont (NEM)
+
+- Bustling Boddington: Astronaut photograph ISS071-E-615072 was acquired on September 9, 2024, Nikon Z9 digital camera using a focal length of 560 millimeters. It is provided by the ISS Crew Earth Observations Facility and the Earth Science and Remote Sensing Unit, Johnson Space Center. The image was taken by a member of the Expedition 71 crew. The image has been cropped and enhanced to improve contrast, and lens artifacts have been removed. The International Space Station Program supports the laboratory as part of the ISS National Lab to help astronauts take pictures of Earth that will be of the greatest value to scientists and the public, and to make those images freely available on the Internet. Additional images taken by astronauts and cosmonauts can be viewed at the NASA/JSC Gateway to Astronaut Photography of Earth. Caption by Chloe Locke, Amentum JETS II Contract at NASA-JSC., public domain, via Wikimedia Commons. [Bustling Boddington (153862).jpg](https://commons.wikimedia.org/wiki/File:Bustling_Boddington_(153862).jpg)
+- EITI Newmont Mine 2008 003 B002: The EITI, CC BY-SA 2.0, via Wikimedia Commons. [EITI Newmont Mine 2008 003 B002.jpg](https://commons.wikimedia.org/wiki/File:EITI_Newmont_Mine_2008_003_B002.jpg)
+- EITI Newmont Mine Ghana 001 B003: The EITI, CC BY-SA 2.0, via Wikimedia Commons. [EITI Newmont Mine Ghana 001 B003.jpg](https://commons.wikimedia.org/wiki/File:EITI_Newmont_Mine_Ghana_001_B003.jpg)
+- Aerial View of Peñasquito Mine: Arturoramos, CC BY-SA 4.0, via Wikimedia Commons. [Aerial View of Peñasquito Mine.jpg](https://commons.wikimedia.org/wiki/File:Aerial_View_of_Pe%C3%B1asquito_Mine.jpg)
+- Cripple Creek 11: Pi3.124, CC BY-SA 4.0, via Wikimedia Commons. [Cripple Creek 11.jpg](https://commons.wikimedia.org/wiki/File:Cripple_Creek_11.jpg)
+- Newmont Gold Quarry mine: Uncle Kick-Kick, CC BY-SA 2.0, via Wikimedia Commons. [Newmont Gold Quarry mine.jpg](https://commons.wikimedia.org/wiki/File:Newmont_Gold_Quarry_mine.jpg)
+
+## News Corp (NWSA)
+
+- Robert James Thomson, News Corp CEO (per Wikidata): Department of Foreign Affairs and Trade, CC BY 4.0, via Wikimedia Commons. [Robert Thomson 2014 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Robert_Thomson_2014_(cropped).jpg)
+- Executive Chairman of News Corp Australia Michael Miller addresses Melbourne Press Club: Emily Kulich/ Melbourne Press Club, CC BY 4.0, via Wikimedia Commons. [Executive Chairman of News Corp Australia Michael Miller addresses Melbourne Press Club.jpg](https://commons.wikimedia.org/wiki/File:Executive_Chairman_of_News_Corp_Australia_Michael_Miller_addresses_Melbourne_Press_Club.jpg)
+- Entrance to the Manor Apartment Hotel, Brisbane, 2020: Kgbo, CC BY-SA 4.0, via Wikimedia Commons. [Entrance to the Manor Apartment Hotel, Brisbane, 2020.jpg](https://commons.wikimedia.org/wiki/File:Entrance_to_the_Manor_Apartment_Hotel,_Brisbane,_2020.jpg)
+- Kitchen in a room in the Manor Apartment Hotel July 2018: Nick-D, CC BY-SA 3.0, via Wikimedia Commons. [Kitchen in a room in the Manor Apartment Hotel July 2018.jpg](https://commons.wikimedia.org/wiki/File:Kitchen_in_a_room_in_the_Manor_Apartment_Hotel_July_2018.jpg)
+- Sir Keith Murdoch House, 31-45 Waymouth Street, Adelaide, February 2023: No Swan So Fine, CC BY-SA 4.0, via Wikimedia Commons. [Sir Keith Murdoch House, 31-45 Waymouth Street, Adelaide, February 2023.jpg](https://commons.wikimedia.org/wiki/File:Sir_Keith_Murdoch_House,_31-45_Waymouth_Street,_Adelaide,_February_2023.jpg)
+- News Corporation Organigram: Empoor at nl.wikipedia, public domain, via Wikimedia Commons. [News Corporation Organigram.png](https://commons.wikimedia.org/wiki/File:News_Corporation_Organigram.png)
+- Giving the finger to News Corp HQ: Cory Doctorow, CC BY-SA 2.0, via Wikimedia Commons. [Giving the finger to News Corp HQ 20161101.jpg](https://commons.wikimedia.org/wiki/File:Giving_the_finger_to_News_Corp_HQ_20161101.jpg)
+- News Corporation Headquarters: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [News Corporation Headquarters (48155642582).jpg](https://commons.wikimedia.org/wiki/File:News_Corporation_Headquarters_(48155642582).jpg)
+- News Corp's Christmas Tree: Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons. [News Corp's Christmas Tree (53430400780).jpg](https://commons.wikimedia.org/wiki/File:News_Corp%27s_Christmas_Tree_(53430400780).jpg)
+- News Internaltional Building in London: Bryantbob, CC BY-SA 3.0, via Wikimedia Commons. [News Internaltional Building in London.JPG](https://commons.wikimedia.org/wiki/File:News_Internaltional_Building_in_London.JPG)
+
+## NextEra Energy (NEE)
+
+- St. Lucie Nuclear Power Plant - view from Indian River: Pburka, CC BY-SA 4.0, via Wikimedia Commons. [St. Lucie Nuclear Power Plant - view from Indian River.jpg](https://commons.wikimedia.org/wiki/File:St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg)
+
+## Nike, Inc. (NKE)
+
+- Nike Headquarters Oregon: Carson, Brandon, CC BY 2.0, via Wikimedia Commons. [Nike Headquarters Oregon.jpg](https://commons.wikimedia.org/wiki/File:Nike_Headquarters_Oregon.jpg)
+- Nike Air Max 90: Mfagoaguna1, CC BY-SA 4.0, via Wikimedia Commons. [Nike Air Max 90.jpg](https://commons.wikimedia.org/wiki/File:Nike_Air_Max_90.jpg)
+- 2023 Buty Nike Air Jordan: Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons. [2023 Buty Nike Air Jordan.jpg](https://commons.wikimedia.org/wiki/File:2023_Buty_Nike_Air_Jordan.jpg)
+- Berlin-Marathon 2015 Runners 14: Denis Barthel, CC BY-SA 4.0, via Wikimedia Commons. [Berlin-Marathon 2015 Runners 14.jpg](https://commons.wikimedia.org/wiki/File:Berlin-Marathon_2015_Runners_14.jpg)
+- Aime Leon Dore Store Nike Sneakers: Chive Cream Cheese, CC BY-SA 4.0, via Wikimedia Commons. [Aime Leon Dore Store Nike Sneakers.jpg](https://commons.wikimedia.org/wiki/File:Aime_Leon_Dore_Store_Nike_Sneakers.jpg)
+- Nike World Headquarters in Beaverton, Oregon, home to Nike, Inc. Photographed by user Coolcaesar on September 9, 2017.: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Nikeworldheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Nikeworldheadquarters.jpg)
+- Chicago in 2022 John Hancock Center (left) and the Allerton Hotel (center): Chris Rycroft from Madison, Wisconsin, United States, CC BY 2.0, via Wikimedia Commons. [Chicago in 2022 John Hancock Center (left) and the Allerton Hotel (center) (52053398679).jpg](https://commons.wikimedia.org/wiki/File:Chicago_in_2022_John_Hancock_Center_(left)_and_the_Allerton_Hotel_(center)_(52053398679).jpg)
+- NIKE Store Karl Johans gate, Oslo: Ssu, CC BY-SA 4.0, via Wikimedia Commons. [NIKE Store Karl Johans gate, Oslo.jpg](https://commons.wikimedia.org/wiki/File:NIKE_Store_Karl_Johans_gate,_Oslo.jpg)
+- Nike Distribution Center - panoramio: trukdotcom, CC BY-SA 3.0, via Wikimedia Commons. [Nike Distribution Center - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Nike_Distribution_Center_-_panoramio.jpg)
+- Edit -1-14 - Flickr - Dane Van: Dane from Oxford, Mi, CC BY 2.0, via Wikimedia Commons. [Edit -1-14 - Flickr - Dane Van.jpg](https://commons.wikimedia.org/wiki/File:Edit_-1-14_-_Flickr_-_Dane_Van.jpg)
+
+## Nio (NIO)
+
+- NIO House: bfishadow, CC BY 2.0, via Wikimedia Commons. [NIO House.jpg](https://commons.wikimedia.org/wiki/File:NIO_House.jpg)
+- GD 廣東 Guangdong 河源市 HeYuan JJ 堅基 JianJi 商業中心 Commercial Center 商場 Plaza Mall shop NIO automobile showroom April 2026 N13P 01: LANENWM Meso Amermbalin, CC0, via Wikimedia Commons. [GD 廣東 Guangdong 河源市 HeYuan JJ 堅基 JianJi 商業中心 Commercial Center 商場 Plaza Mall shop NIO automobile showroom April 2026 N13P 01.jpg](https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%B2%B3%E6%BA%90%E5%B8%82_HeYuan_JJ_%E5%A0%85%E5%9F%BA_JianJi_%E5%95%86%E6%A5%AD%E4%B8%AD%E5%BF%83_Commercial_Center_%E5%95%86%E5%A0%B4_Plaza_Mall_shop_NIO_automobile_showroom_April_2026_N13P_01.jpg)
+- NIO Power Battery Swap: bfishadow, CC BY 2.0, via Wikimedia Commons. [NIO Power Battery Swap.jpg](https://commons.wikimedia.org/wiki/File:NIO_Power_Battery_Swap.jpg)
+- GD 廣東 Guangdong 廣州 Guangzhou 天河區 Tianhe 東方寶泰 PoPark Mall shop NIO Car showroom October 2024 R12S: MPCROOYW GROAHMOIOE, CC0, via Wikimedia Commons. [GD 廣東 Guangdong 廣州 Guangzhou 天河區 Tianhe 東方寶泰 PoPark Mall shop NIO Car showroom October 2024 R12S.jpg](https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_%E5%A4%A9%E6%B2%B3%E5%8D%80_Tianhe_%E6%9D%B1%E6%96%B9%E5%AF%B6%E6%B3%B0_PoPark_Mall_shop_NIO_Car_showroom_October_2024_R12S.jpg)
+- (CHN-Hubei) Nio Showroom @ MixC Wuhan: S5A-0043, CC BY 4.0, via Wikimedia Commons. [(CHN-Hubei) Nio Showroom @ MixC Wuhan 2024-12-04.jpg](https://commons.wikimedia.org/wiki/File:(CHN-Hubei)_Nio_Showroom_@_MixC_Wuhan_2024-12-04.jpg)
+- SZ 深圳 Shenzhen 寶安 BaoAn 萬豐 寶安海岸城 Coastal City mall shop automobile showroom n roadshow July 2024 R12S 17: ZHONG 82035 WANGZ, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 寶安 BaoAn 萬豐 寶安海岸城 Coastal City mall shop automobile showroom n roadshow July 2024 R12S 17.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_17.jpg)
+- NIO Battery Swap station in Oslo, Norway: Premeditated, CC BY-SA 4.0, via Wikimedia Commons. [NIO Battery Swap station in Oslo, Norway (2).jpg](https://commons.wikimedia.org/wiki/File:NIO_Battery_Swap_station_in_Oslo,_Norway_(2).jpg)
+- Hyakujūshi Bank Nio Branch: ラハール, CC BY-SA 4.0, via Wikimedia Commons. [Hyakujūshi Bank Nio Branch.jpg](https://commons.wikimedia.org/wiki/File:Hyakuj%C5%ABshi_Bank_Nio_Branch.jpg)
+- Kagawa Bank Takuma Branch Nio Sub-branch: ラハール, CC BY-SA 4.0, via Wikimedia Commons. [Kagawa Bank Takuma Branch Nio Sub-branch.jpg](https://commons.wikimedia.org/wiki/File:Kagawa_Bank_Takuma_Branch_Nio_Sub-branch.jpg)
+- Kan'onji Shinkin Bank Nio Branch: ラハール, CC BY-SA 4.0, via Wikimedia Commons. [Kan'onji Shinkin Bank Nio Branch.jpg](https://commons.wikimedia.org/wiki/File:Kan%27onji_Shinkin_Bank_Nio_Branch.jpg)
+
+## Nordson Corporation (NDSN)
+
+- DEF-TECH Bharat 2026, KTPO Exhibition and Convention Centre, Bangalore 132: Gpkp, CC BY-SA 4.0, via Wikimedia Commons. [DEF-TECH Bharat 2026, KTPO Exhibition and Convention Centre, Bangalore 132.jpg](https://commons.wikimedia.org/wiki/File:DEF-TECH_Bharat_2026,_KTPO_Exhibition_and_Convention_Centre,_Bangalore_132.jpg)
+- Electronica, Bangalore International Exhibition Centre 231: Gpkp, CC BY-SA 4.0, via Wikimedia Commons. [Electronica, Bangalore International Exhibition Centre (2025) 231.jpg](https://commons.wikimedia.org/wiki/File:Electronica,_Bangalore_International_Exhibition_Centre_(2025)_231.jpg)
+
+## Norfolk Southern (NSC)
+
+- Norfolk Southern Headquarters Norfolk Virginia USA: PghPhxNfk, CC0, via Wikimedia Commons. [NorfolkSouthernTower.jpeg](https://commons.wikimedia.org/wiki/File:NorfolkSouthernTower.jpeg)
+- Freight and Passenger trains - Union, NJ: SonicGamingTV2019, CC BY 4.0, via Wikimedia Commons. [Freight and Passenger trains - Union, NJ.jpg](https://commons.wikimedia.org/wiki/File:Freight_and_Passenger_trains_-_Union,_NJ.jpg)
+- Freight Graffiti Benching - SoCal (03-06-2021): siamesepuppy, CC BY 2.0, via Wikimedia Commons. [Freight Graffiti Benching - SoCal (03-06-2021) (51034664557).jpg](https://commons.wikimedia.org/wiki/File:Freight_Graffiti_Benching_-_SoCal_(03-06-2021)_(51034664557).jpg)
+- 39 NS, Altoona, Pennsylvania: David Wilson, CC BY 2.0, via Wikimedia Commons. [20220913 39 NS, Altoona, Pennsylvania.jpg](https://commons.wikimedia.org/wiki/File:20220913_39_NS,_Altoona,_Pennsylvania.jpg)
+- King Street Overhead Bridge with container train: Nyttend, public domain, via Wikimedia Commons. [King Street Overhead Bridge with container train.jpg](https://commons.wikimedia.org/wiki/File:King_Street_Overhead_Bridge_with_container_train.jpg)
+- Railroad bridge across Miller Ferry Road, Gordon County GA: John Phelan, CC BY 4.0, via Wikimedia Commons. [Railroad bridge across Miller Ferry Road, Gordon County GA.jpg](https://commons.wikimedia.org/wiki/File:Railroad_bridge_across_Miller_Ferry_Road,_Gordon_County_GA.jpg)
+- Railroad bridge over North Massanutten Street: APK, CC BY 4.0, via Wikimedia Commons. [Railroad bridge over North Massanutten Street.jpg](https://commons.wikimedia.org/wiki/File:Railroad_bridge_over_North_Massanutten_Street.jpg)
+- Norfolk Southern Headquarters, Atlanta 2: JJonahJackalope, CC BY-SA 4.0, via Wikimedia Commons. [Norfolk Southern Headquarters, Atlanta 2.jpg](https://commons.wikimedia.org/wiki/File:Norfolk_Southern_Headquarters,_Atlanta_2.jpg)
+- Old Norfolk Southern Building, Atlanta, GA: Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons. [Old Norfolk Southern Building, Atlanta, GA (32532865327).jpg](https://commons.wikimedia.org/wiki/File:Old_Norfolk_Southern_Building,_Atlanta,_GA_(32532865327).jpg)
+- Norfolk Southern Passenger Station, Elizabeth City: Nyttend, public domain, via Wikimedia Commons. [Norfolk Southern Passenger Station, Elizabeth City.jpg](https://commons.wikimedia.org/wiki/File:Norfolk_Southern_Passenger_Station,_Elizabeth_City.jpg)
+
+## Northern Trust (NTRS)
+
+- Northern Trust Company Building: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Northern Trust Company Building (51574881733).jpg](https://commons.wikimedia.org/wiki/File:Northern_Trust_Company_Building_(51574881733).jpg)
+- Milwaukee July 2022 068 (Northern Trust Building): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Milwaukee July 2022 068 (Northern Trust Building).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee_July_2022_068_(Northern_Trust_Building).jpg)
+- Milwaukee August 2022 062 (Northern Trust Building): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Milwaukee August 2022 062 (Northern Trust Building).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee_August_2022_062_(Northern_Trust_Building).jpg)
+- Northern Trust Building Demolition, Miami FL March 2024: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Northern Trust Building Demolition, Miami FL March 2024.jpg](https://commons.wikimedia.org/wiki/File:Northern_Trust_Building_Demolition,_Miami_FL_March_2024.jpg)
+- View of 25 Bank Street and the Northern Trust building from Heron Quays - geograph.org.uk: Robert Lamb, CC BY-SA 2.0, via Wikimedia Commons. [View of 25 Bank Street and the Northern Trust building from Heron Quays - geograph.org.uk - 3354450.jpg](https://commons.wikimedia.org/wiki/File:View_of_25_Bank_Street_and_the_Northern_Trust_building_from_Heron_Quays_-_geograph.org.uk_-_3354450.jpg)
+- View of the Clifford Chance and Northern Trust buildings from outside The Slug and Lettuce - geograph.org.uk: Robert Lamb, CC BY-SA 2.0, via Wikimedia Commons. [View of the Clifford Chance and Northern Trust buildings from outside The Slug and Lettuce - geograph.org.uk - 5496470.jpg](https://commons.wikimedia.org/wiki/File:View_of_the_Clifford_Chance_and_Northern_Trust_buildings_from_outside_The_Slug_and_Lettuce_-_geograph.org.uk_-_5496470.jpg)
+
+## Northrop Grumman (NOC)
+
+- Kathy J. Warden, Northrop Grumman CEO (per Wikidata): Maryland GovPics, CC BY 2.0, via Wikimedia Commons. [Kathy Warden (54075793969) (cropped).jpg](https://commons.wikimedia.org/wiki/File:Kathy_Warden_(54075793969)_(cropped).jpg)
+- 221018-N-BX517-1091 PARIS (Oct. 18, 2022) Sailors embarked to the George H.W. Bush Carrier Strike Group, interact with an exposant from Northrop Grumman during : U.S. Navy photo by Petty Officer 3rd Class Mariano Lopez, public domain, via Wikimedia Commons. [EURONAVAL 2022 (7484436).jpg](https://commons.wikimedia.org/wiki/File:EURONAVAL_2022_(7484436).jpg)
+- Northrop Grumman + Parking Lot: Zatoicy, CC0, via Wikimedia Commons. [Northrop Grumman + Parking Lot.png](https://commons.wikimedia.org/wiki/File:Northrop_Grumman_%2B_Parking_Lot.png)
+- Northrop Grumman Horizontal: Zatoicy, CC0, via Wikimedia Commons. [Northrop Grumman Horizontal.png](https://commons.wikimedia.org/wiki/File:Northrop_Grumman_Horizontal.png)
+- Northrop Grumman Stone: Zatoicy, CC0, via Wikimedia Commons. [Northrop Grumman Stone.png](https://commons.wikimedia.org/wiki/File:Northrop_Grumman_Stone.png)
+- Northrop Grumman Vertical 2: Zatoicy, CC0, via Wikimedia Commons. [Northrop Grumman Vertical 2.png](https://commons.wikimedia.org/wiki/File:Northrop_Grumman_Vertical_2.png)
+- Propulsion Innovation Center Ribbon Cutting and Tour: Maryland GovPics, CC BY 4.0, via Wikimedia Commons. [Propulsion Innovation Center Ribbon Cutting and Tour (55516978645).jpg](https://commons.wikimedia.org/wiki/File:Propulsion_Innovation_Center_Ribbon_Cutting_and_Tour_(55516978645).jpg)
+- Northrop Grumman office in Rolling Meadows, Illinois: Mysterymanblue, CC0, via Wikimedia Commons. [Northrop Grumman office in Rolling Meadows, Illinois.jpg](https://commons.wikimedia.org/wiki/File:Northrop_Grumman_office_in_Rolling_Meadows,_Illinois.jpg)
+- NASA, Northrop Grumman Test Fire SLS BOLE Booster (Water tower): NASA Marshall Space Flight Center / Northrop Gumman/Dylan Baker, public domain, via Wikimedia Commons. [NASA, Northrop Grumman Test Fire SLS BOLE Booster (Water tower).jpg](https://commons.wikimedia.org/wiki/File:NASA,_Northrop_Grumman_Test_Fire_SLS_BOLE_Booster_(Water_tower).jpg)
+- Northrop Grumman flying wing aircraft concept 2011: NASA/Northrop Grumman, public domain, via Wikimedia Commons. [Northrop Grumman flying wing aircraft concept 2011.jpg](https://commons.wikimedia.org/wiki/File:Northrop_Grumman_flying_wing_aircraft_concept_2011.jpg)
+
+## Norwegian Cruise Line Holdings (NCLH)
+
+- Norwegian Cruise Line headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Norwegian Cruise Line headquarters.jpg](https://commons.wikimedia.org/wiki/File:Norwegian_Cruise_Line_headquarters.jpg)
+- Norwegian Cruise Line (NCL) Terminal B at PortMiami (March 11, 2024) 01: Kiran891, CC BY-SA 4.0, via Wikimedia Commons. [Norwegian Cruise Line (NCL) Terminal B at PortMiami (March 11, 2024) 01.jpg](https://commons.wikimedia.org/wiki/File:Norwegian_Cruise_Line_(NCL)_Terminal_B_at_PortMiami_(March_11,_2024)_01.jpg)
+- Norwegian Pearl Cruise Ship of Norwegian Cruise Line in PortMiami Florida: EgorovaSvetlana, CC BY-SA 4.0, via Wikimedia Commons. [Norwegian Pearl Cruise Ship of Norwegian Cruise Line in PortMiami Florida.jpg](https://commons.wikimedia.org/wiki/File:Norwegian_Pearl_Cruise_Ship_of_Norwegian_Cruise_Line_in_PortMiami_Florida.jpg)
+
+## Novartis (NVS)
+
+- Novartis Campus - Novartis Pavillon: Alexandre Prevot from Nancy, France, CC BY-SA 2.0, via Wikimedia Commons. [Novartis Campus - Novartis Pavillon (53992600334).jpg](https://commons.wikimedia.org/wiki/File:Novartis_Campus_-_Novartis_Pavillon_(53992600334).jpg)
+- Vasant Narasimhan, Novartis CEO (per Wikidata): UNCTAD, CC BY-SA 2.0, via Wikimedia Commons. [Global Investment Game Changers Summit I 2018 (44788377434).jpg](https://commons.wikimedia.org/wiki/File:Global_Investment_Game_Changers_Summit_I_2018_(44788377434).jpg)
+- Meeting (Virtual) with Dr. Ann Aerts: IAEA Imagebank, CC BY 2.0, via Wikimedia Commons. [Meeting (Virtual) with Dr. Ann Aerts (01012033) (50586899441).jpg](https://commons.wikimedia.org/wiki/File:Meeting_(Virtual)_with_Dr._Ann_Aerts_(01012033)_(50586899441).jpg)
+- Participation of Olivér Várhelyi, in the 60th anniversary of Novartis facility in Puurs (P- -00-01): Europäische Kommission - Audiovisueller Dienst, Yügen, Julien Pohl, CE - Service audiovisuel, EC - Audiovisual Service, CC BY 4.0, via Wikimedia Commons. [Participation of Olivér Várhelyi, in the 60th anniversary of Novartis facility in Puurs (P-070080-00-01).jpg](https://commons.wikimedia.org/wiki/File:Participation_of_Oliv%C3%A9r_V%C3%A1rhelyi,_in_the_60th_anniversary_of_Novartis_facility_in_Puurs_(P-070080-00-01).jpg)
+- Tobrex (Tobramycin) made by Novartis Belgium for the Russian market, Apr 2026 01: Retired electrician, CC0, via Wikimedia Commons. [Tobrex (Tobramycin) made by Novartis Belgium for the Russian market, Apr 2026 01.jpg](https://commons.wikimedia.org/wiki/File:Tobrex_(Tobramycin)_made_by_Novartis_Belgium_for_the_Russian_market,_Apr_2026_01.jpg)
+- Novartis Institute for Biomedical Research: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [Novartis Institute for Biomedical Research (54960816198).jpg](https://commons.wikimedia.org/wiki/File:Novartis_Institute_for_Biomedical_Research_(54960816198).jpg)
+- Novartis building Asklepios 8 Basel: Choinowski, CC BY-SA 4.0, via Wikimedia Commons. [Novartis building Asklepios 8 Basel.jpg](https://commons.wikimedia.org/wiki/File:Novartis_building_Asklepios_8_Basel.jpg)
+- Novartis Global Research Headquarters, 181 Massachusetts Avenue, Cambridge, Massachusetts: Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons. [Novartis Global Research Headquarters, 181 Massachusetts Avenue, Cambridge, Massachusetts.jpg](https://commons.wikimedia.org/wiki/File:Novartis_Global_Research_Headquarters,_181_Massachusetts_Avenue,_Cambridge,_Massachusetts.jpg)
+- Novartis HQ, Albany St jeh: Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons. [Novartis HQ, Albany St jeh.jpg](https://commons.wikimedia.org/wiki/File:Novartis_HQ,_Albany_St_jeh.jpg)
+- Novartis factory, Pyewipe - geograph.org.uk: Ian S, CC BY-SA 2.0, via Wikimedia Commons. [Novartis factory, Pyewipe - geograph.org.uk - 5620848.jpg](https://commons.wikimedia.org/wiki/File:Novartis_factory,_Pyewipe_-_geograph.org.uk_-_5620848.jpg)
+
+## Novo Nordisk (NVO)
+
+- Novo Nordisk, Bagsværd, NN1, 2025: Toxophilus, CC BY-SA 4.0, via Wikimedia Commons. [Novo Nordisk, Bagsværd, NN1, 2025 (5).jpg](https://commons.wikimedia.org/wiki/File:Novo_Nordisk,_Bagsv%C3%A6rd,_NN1,_2025_(5).jpg)
+- A 3ml Ozempic® semaglutide injection sold in mainland China (1.34mg semaglutide per 1ml injection, pre-filled injection pen): HualinXMN, CC BY-SA 4.0, via Wikimedia Commons. [Ozempic® 3ml.jpg](https://commons.wikimedia.org/wiki/File:Ozempic%C2%AE_3ml.jpg)
+- Wegovy - Semaglutide: Nelson R. de Lima Filho, CC BY 4.0, via Wikimedia Commons. [Wegovy - Semaglutide.jpg](https://commons.wikimedia.org/wiki/File:Wegovy_-_Semaglutide.jpg)
+- Novo Nordisk Kalundborg 003: Johan Wessman / News Oresund, CC BY 2.0, via Wikimedia Commons. [Novo Nordisk Kalundborg 20130729 003 (9720766202).jpg](https://commons.wikimedia.org/wiki/File:Novo_Nordisk_Kalundborg_20130729_003_(9720766202).jpg)
+- Green insulin pen (Insulatard insulin): Marius Vassnes, CC BY-SA 4.0, via Wikimedia Commons. [Green insulin pen (Insulatard insulin).jpg](https://commons.wikimedia.org/wiki/File:Green_insulin_pen_(Insulatard_insulin).jpg)
+- President Donald Trump makes an announcement on lowering drug prices in the Oval Office: The White House, public domain, via Wikimedia Commons. [P20251106AM-1986 President Donald Trump makes an announcement on lowering drug prices in the Oval Office.jpg](https://commons.wikimedia.org/wiki/File:P20251106AM-1986_President_Donald_Trump_makes_an_announcement_on_lowering_drug_prices_in_the_Oval_Office.jpg)
+- Novo Nordisk headquarters building Denmark: News Øresund - Johan Wessman, CC BY 3.0, via Wikimedia Commons. [Novo Nordisk headquarters building Denmark.jpg](https://commons.wikimedia.org/wiki/File:Novo_Nordisk_headquarters_building_Denmark.jpg)
+- Novo Nordisk Headquarters, NN1: Toxophilus, CC BY-SA 4.0, via Wikimedia Commons. [Novo Nordisk Headquarters, NN1.jpg](https://commons.wikimedia.org/wiki/File:Novo_Nordisk_Headquarters,_NN1.jpg)
+- Novo Nordisk USA headquarters: Jonathan Schilling, CC BY-SA 4.0, via Wikimedia Commons. [Novo Nordisk USA headquarters.jpg](https://commons.wikimedia.org/wiki/File:Novo_Nordisk_USA_headquarters.jpg)
+- Novo Nordisk offices and parking lot in Plainsboro: Jonathan Schilling, CC BY-SA 4.0, via Wikimedia Commons. [Novo Nordisk offices and parking lot in Plainsboro.jpg](https://commons.wikimedia.org/wiki/File:Novo_Nordisk_offices_and_parking_lot_in_Plainsboro.jpg)
+
+## NRG Energy (NRG)
+
+- Norwalk Harbor Generating Station - NRG Energy - Manresa Island: Quintin Soloviev, CC BY 4.0, via Wikimedia Commons. [Norwalk Harbor Generating Station - NRG Energy - Manresa Island.jpg](https://commons.wikimedia.org/wiki/File:Norwalk_Harbor_Generating_Station_-_NRG_Energy_-_Manresa_Island.jpg)
+
+## Nubank (NU)
+
+- Web Summit Rio 2023 - 1169: Web Summit Rio from Rio de Janeiro, Brazil, CC BY 2.0, via Wikimedia Commons. [Web Summit Rio 2023 - 1169 (52863175994).jpg](https://commons.wikimedia.org/wiki/File:Web_Summit_Rio_2023_-_1169_(52863175994).jpg)
+- David Vélez: Nubank, CC BY-SA 4.0, via Wikimedia Commons. [David Vélez.jpg](https://commons.wikimedia.org/wiki/File:David_V%C3%A9lez.jpg)
+- Nubank App Area Pix Dec 2023: Nubank, public domain, via Wikimedia Commons. [Nubank App Area Pix Dec 2023.jpg](https://commons.wikimedia.org/wiki/File:Nubank_App_Area_Pix_Dec_2023.jpg)
+
+## Nucor (NUE)
+
+- Looking into Nucor Steel Seattle entrance from SW Charlestown St. 01: Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [Looking into Nucor Steel Seattle entrance from SW Charlestown St. 01.jpg](https://commons.wikimedia.org/wiki/File:Looking_into_Nucor_Steel_Seattle_entrance_from_SW_Charlestown_St._01.jpg)
+- Nucor Steel Seattle from Avalon Way SW near SW Spokane St. 01: Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [Nucor Steel Seattle from Avalon Way SW near SW Spokane St. 01.jpg](https://commons.wikimedia.org/wiki/File:Nucor_Steel_Seattle_from_Avalon_Way_SW_near_SW_Spokane_St._01.jpg)
+- Nucor Steel Seattle sign: Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [Nucor Steel Seattle sign.jpg](https://commons.wikimedia.org/wiki/File:Nucor_Steel_Seattle_sign.jpg)
+- Seattle - looking from Jack Block Park across Terminal 5 to Nucor Steel: Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [Seattle - looking from Jack Block Park across Terminal 5 to Nucor Steel.jpg](https://commons.wikimedia.org/wiki/File:Seattle_-_looking_from_Jack_Block_Park_across_Terminal_5_to_Nucor_Steel.jpg)
+
+## NuScale Power (SMR)
+
+- NuScale-Upper-One-Third-Mockup: Oregon State University, CC BY-SA 2.0, via Wikimedia Commons. [NuScale-Upper-One-Third-Mockup.jpg](https://commons.wikimedia.org/wiki/File:NuScale-Upper-One-Third-Mockup.jpg)
+- NuScale Design Certification Application: Nuclear Regulatory Commission from US, public domain, via Wikimedia Commons. [NuScale Design Certification Application (32122872232).jpg](https://commons.wikimedia.org/wiki/File:NuScale_Design_Certification_Application_(32122872232).jpg)
+- NuScale Power Plant Design - Eyelevel: Oregon State University, CC BY-SA 2.0, via Wikimedia Commons. [NuScale Power Plant Design - Eyelevel.jpg](https://commons.wikimedia.org/wiki/File:NuScale_Power_Plant_Design_-_Eyelevel.jpg)
+
+## Nvidia (NVDA)
+
+- Nvidia sign: Will Buckner, CC BY 2.0, via Wikimedia Commons. [Nvidia sign.jpg](https://commons.wikimedia.org/wiki/File:Nvidia_sign.jpg)
+- Jensen huang stanford 008: Anderseidesvik, CC BY-SA 4.0, via Wikimedia Commons. [Jensen huang stanford 2026-04-30 008.jpg](https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg)
+- NVIDIA H100 (极客湾Geekerwan) 024: 极客湾Geekerwan, CC BY 3.0, via Wikimedia Commons. [NVIDIA H100 (极客湾Geekerwan) 024.png](https://commons.wikimedia.org/wiki/File:NVIDIA_H100_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_024.png)
+- Size comparison between RTX 3090 and RTX 4090: Benlisquare, CC BY-SA 4.0, via Wikimedia Commons. [Size comparison between RTX 3090 and RTX 4090.jpg](https://commons.wikimedia.org/wiki/File:Size_comparison_between_RTX_3090_and_RTX_4090.jpg)
+- Chris Benson - Practical AI - NVIDIA GTC 2019 Silicon Valley: Chris Benson, CC BY-SA 4.0, via Wikimedia Commons. [Chris Benson - Practical AI - NVIDIA GTC 2019 Silicon Valley.jpg](https://commons.wikimedia.org/wiki/File:Chris_Benson_-_Practical_AI_-_NVIDIA_GTC_2019_Silicon_Valley.jpg)
+- Nvidia Jetson Orin NX on a motherboard Computex 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [Nvidia Jetson Orin NX on a motherboard Computex 2025.jpg](https://commons.wikimedia.org/wiki/File:Nvidia_Jetson_Orin_NX_on_a_motherboard_Computex_2025.jpg)
+- NVIDIA Headquarters: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [NVIDIA Headquarters.jpg](https://commons.wikimedia.org/wiki/File:NVIDIA_Headquarters.jpg)
+- View of the NVIDIA headquarters from 2005.: Kevin McCarthy, CC BY 2.0, via Wikimedia Commons. [Nvidia HQ.jpg](https://commons.wikimedia.org/wiki/File:Nvidia_HQ.jpg)
+- Nvidia Ra'anana office: Amir Shtanger, CC BY-SA 3.0, via Wikimedia Commons. [Nvidia Ra'anana office.jpg](https://commons.wikimedia.org/wiki/File:Nvidia_Ra%27anana_office.jpg)
+- Nvidia Yokneam Office: Amir Shtanger (אמיר שטנגר), CC BY-SA 4.0, via Wikimedia Commons. [Nvidia Yokneam Office.jpg](https://commons.wikimedia.org/wiki/File:Nvidia_Yokneam_Office.jpg)
+
+## NXP Semiconductors (NXPI)
+
+- Nxp pcf8574 mcmaster mz mit20x: John McMaster, CC BY 4.0, via Wikimedia Commons. [Nxp pcf8574 mcmaster mz mit20x.jpg](https://commons.wikimedia.org/wiki/File:Nxp_pcf8574_mcmaster_mz_mit20x.jpg)
+- Nxp se050a1hq1 mcmaster mz mit20x: John McMaster, CC BY 4.0, via Wikimedia Commons. [Nxp se050a1hq1 mcmaster mz mit20x.jpg](https://commons.wikimedia.org/wiki/File:Nxp_se050a1hq1_mcmaster_mz_mit20x.jpg)
+- Nxp se050b1hq1 mcmaster mz mit20x: John McMaster, CC BY 4.0, via Wikimedia Commons. [Nxp se050b1hq1 mcmaster mz mit20x.jpg](https://commons.wikimedia.org/wiki/File:Nxp_se050b1hq1_mcmaster_mz_mit20x.jpg)
+- Nxp a7101chtk2 mcmaster mz mit20x: John McMaster, CC BY 4.0, via Wikimedia Commons. [Nxp a7101chtk2 mcmaster mz mit20x.jpg](https://commons.wikimedia.org/wiki/File:Nxp_a7101chtk2_mcmaster_mz_mit20x.jpg)
+- Die mz mit20x - NXP CUL1V2 - John McMaster: John McMaster, CC BY 4.0, via Wikimedia Commons. [Die mz mit20x - NXP CUL1V2 - John McMaster.jpg](https://commons.wikimedia.org/wiki/File:Die_mz_mit20x_-_NXP_CUL1V2_-_John_McMaster.jpg)
+- BGD814: Hybrid amplifier module in a SOT115J package operating with a voltage supply of 24 V (DC). CATV systems operating in the 40 to 870 MHz frequency range. : Mister rf, CC BY-SA 4.0, via Wikimedia Commons. [BGD814 1.jpg](https://commons.wikimedia.org/wiki/File:BGD814_1.jpg)
+- BGY887B: Hybrid amplifier module in a SOT115J package operating with a voltage supply of 24 V (DC). CATV systems operating in the 50 to 860 MHz frequency range,: Mister rf, CC BY-SA 4.0, via Wikimedia Commons. [BGY887B.jpg](https://commons.wikimedia.org/wiki/File:BGY887B.jpg)
+- NXP Semiconductors Taiwan, Kaohsiung Factory: SSR2000, CC BY-SA 3.0, via Wikimedia Commons. [NXP Semiconductors Taiwan, Kaohsiung Factory.JPG](https://commons.wikimedia.org/wiki/File:NXP_Semiconductors_Taiwan,_Kaohsiung_Factory.JPG)
+- Concept truck for NXP promotion in the ENOVA electronics exhibition in Paris Porte de Versailles 2016: Fil22plm, CC BY-SA 4.0, via Wikimedia Commons. [Concept truck for NXP promotion in the ENOVA electronics exhibition in Paris Porte de Versailles 2016.jpg](https://commons.wikimedia.org/wiki/File:Concept_truck_for_NXP_promotion_in_the_ENOVA_electronics_exhibition_in_Paris_Porte_de_Versailles_2016.jpg)
+- Concept truck profile for NXP promotion in the ENOVA electronics exhibition in Paris Porte de Versailles 2016: Fil22plm, CC BY-SA 4.0, via Wikimedia Commons. [Concept truck profile for NXP promotion in the ENOVA electronics exhibition in Paris Porte de Versailles 2016.jpg](https://commons.wikimedia.org/wiki/File:Concept_truck_profile_for_NXP_promotion_in_the_ENOVA_electronics_exhibition_in_Paris_Porte_de_Versailles_2016.jpg)
+
+## O'Reilly Automotive (ORLY)
+
+- O’Reilly Auto Parts - Oneonta, AL: Broiledcorn, CC0, via Wikimedia Commons. [O’Reilly Auto Parts - Oneonta, AL.jpeg](https://commons.wikimedia.org/wiki/File:O%E2%80%99Reilly_Auto_Parts_-_Oneonta,_AL.jpeg)
+- Protest and riot aftermath on west Lake Street: Fibonacci Blue from Minnesota, USA, CC BY 2.0, via Wikimedia Commons. [Protest and riot aftermath on west Lake Street (49945462308).jpg](https://commons.wikimedia.org/wiki/File:Protest_and_riot_aftermath_on_west_Lake_Street_(49945462308).jpg)
+- Sherman the Delivery Van Las Vegas 2025: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Sherman the Delivery Van Las Vegas 2025.jpg](https://commons.wikimedia.org/wiki/File:Sherman_the_Delivery_Van_Las_Vegas_2025.jpg)
+- 66 Pontiac GTO: Greg Gjerdingen from Willmar, USA, CC BY 2.0, via Wikimedia Commons. [66 Pontiac GTO (8731371463).jpg](https://commons.wikimedia.org/wiki/File:66_Pontiac_GTO_(8731371463).jpg)
+- Bowen Circle looking east from Old Glenn Highway, Eagle River, Alaska, Vista Ridge development above: RadioKAOS, CC BY-SA 3.0, via Wikimedia Commons. [Bowen Circle looking east from Old Glenn Highway, Eagle River, Alaska, Vista Ridge development above.jpg](https://commons.wikimedia.org/wiki/File:Bowen_Circle_looking_east_from_Old_Glenn_Highway,_Eagle_River,_Alaska,_Vista_Ridge_development_above.jpg)
+- Canseco's Jefferson Market, Old Jefferson Louisiana, March 2026, exterior: Infrogmation, CC BY-SA 4.0, via Wikimedia Commons. [Canseco's Jefferson Market, Old Jefferson Louisiana, March 2026, exterior.jpg](https://commons.wikimedia.org/wiki/File:Canseco%27s_Jefferson_Market,_Old_Jefferson_Louisiana,_March_2026,_exterior.jpg)
+- Jefferson Hwy, Old Jefferson Louisiana March 2026 - O'Reilly Auto Parts: Infrogmation, CC BY-SA 4.0, via Wikimedia Commons. [Jefferson Hwy, Old Jefferson Louisiana March 2026 - O'Reilly Auto Parts.jpg](https://commons.wikimedia.org/wiki/File:Jefferson_Hwy,_Old_Jefferson_Louisiana_March_2026_-_O%27Reilly_Auto_Parts.jpg)
+- An O'Reilly Auto Parts store in Murphy, North Carolina: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [An O'Reilly Auto Parts store in Murphy, North Carolina.jpg](https://commons.wikimedia.org/wiki/File:An_O%27Reilly_Auto_Parts_store_in_Murphy,_North_Carolina.jpg)
+- Life Today September 14, 2012: Wayne Wilkinson, CC BY 2.0, via Wikimedia Commons. [Life Today September 14, 2012 (7987347227).jpg](https://commons.wikimedia.org/wiki/File:Life_Today_September_14,_2012_(7987347227).jpg)
+- SFMM- Cyclone 500: METRO96, CC BY-SA 4.0, via Wikimedia Commons. [SFMM- Cyclone 500.jpg](https://commons.wikimedia.org/wiki/File:SFMM-_Cyclone_500.jpg)
+
+## Old Dominion (ODFL)
+
+- A Volvo tractor operated by ANAZCO Trucking Co., Inc. pulling an Old Dominion trailer pulling up to a light at 14th Street and 7th Avenue in Chelsea / West Vill: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [14th St 7th Av td (2019-07-11) 14 (cropped).jpg](https://commons.wikimedia.org/wiki/File:14th_St_7th_Av_td_(2019-07-11)_14_(cropped).jpg)
+- Old Dominion Freight Line: Wikideas1, CC0, via Wikimedia Commons. [Old Dominion Freight Line.jpg](https://commons.wikimedia.org/wiki/File:Old_Dominion_Freight_Line.jpg)
+- ODFL Mark on trailer: David Cintron, CC BY-SA 2.0, via Wikimedia Commons. [ODFL Mark on trailer.jpg](https://commons.wikimedia.org/wiki/File:ODFL_Mark_on_trailer.jpg)
+
+## Omnicom Group (OMC)
+
+- Tsinghua University School of Journalism and Communication (Omnicom Building): JULIANISME, CC BY-SA 4.0, via Wikimedia Commons. [Tsinghua University School of Journalism and Communication (Omnicom Building).jpg](https://commons.wikimedia.org/wiki/File:Tsinghua_University_School_of_Journalism_and_Communication_(Omnicom_Building).jpg)
+
+## On (ONON)
+
+- Day 4 at the 2024 United States Olympic Trials (track and field) 174: Habst, CC BY-SA 4.0, via Wikimedia Commons. [Day 4 at the 2024 United States Olympic Trials (track and field) 174.jpg](https://commons.wikimedia.org/wiki/File:Day_4_at_the_2024_United_States_Olympic_Trials_(track_and_field)_174.jpg)
+- On Cloud Running Shoes: Aw1805, CC BY-SA 4.0, via Wikimedia Commons. [On Cloud Running Shoes.jpg](https://commons.wikimedia.org/wiki/File:On_Cloud_Running_Shoes.jpg)
+- OutDoor 2018, Friedrichshafen (1X7A0304): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [OutDoor 2018, Friedrichshafen (1X7A0304).jpg](https://commons.wikimedia.org/wiki/File:OutDoor_2018,_Friedrichshafen_(1X7A0304).jpg)
+
+## ON Semiconductor (ON)
+
+- Onsemi office in Sunnyvale, CA: BrokenSegue, CC BY 4.0, via Wikimedia Commons. [Onsemi office in Sunnyvale, CA.jpg](https://commons.wikimedia.org/wiki/File:Onsemi_office_in_Sunnyvale,_CA.jpg)
+- Onsemi sign outside office in Sunnyvale, CA: BrokenSegue, CC BY 4.0, via Wikimedia Commons. [Onsemi sign outside office in Sunnyvale, CA.jpg](https://commons.wikimedia.org/wiki/File:Onsemi_sign_outside_office_in_Sunnyvale,_CA.jpg)
+- On-semi fd5001a mcmaster mz mit20x: John McMaster, CC BY 4.0, via Wikimedia Commons. [On-semi fd5001a mcmaster mz mit20x.jpg](https://commons.wikimedia.org/wiki/File:On-semi_fd5001a_mcmaster_mz_mit20x.jpg)
+- 5411Carmona, Cavite Roads Landmarks Attractions 01: Judgefloro, CC0, via Wikimedia Commons. [5411Carmona, Cavite Roads Landmarks Attractions 01.jpg](https://commons.wikimedia.org/wiki/File:5411Carmona,_Cavite_Roads_Landmarks_Attractions_01.jpg)
+- Onsemi Factory, Senawang: AyyanD, CC BY-SA 4.0, via Wikimedia Commons. [Onsemi Factory, Senawang (2).jpg](https://commons.wikimedia.org/wiki/File:Onsemi_Factory,_Senawang_(2).jpg)
+- Embedded World 2016, korenix PoE-Switche: Ordercrazy, CC0, via Wikimedia Commons. [Embedded World 2016, korenix PoE-Switche.jpg](https://commons.wikimedia.org/wiki/File:Embedded_World_2016,_korenix_PoE-Switche.jpg)
+- Embedded World 2016, On Semiconductor: Ordercrazy, CC0, via Wikimedia Commons. [Embedded World 2016, On Semiconductor (02).jpg](https://commons.wikimedia.org/wiki/File:Embedded_World_2016,_On_Semiconductor_(02).jpg)
+- View ON Semiconductor Niigata Co., Ltd. from 268km point on Route 17 37. ,138: Tyutyanya, CC BY-SA 4.0, via Wikimedia Commons. [20200506 View ON Semiconductor Niigata Co., Ltd. from 268km point on Route 17 37.326295,138.817689.jpg](https://commons.wikimedia.org/wiki/File:20200506_View_ON_Semiconductor_Niigata_Co.,_Ltd._from_268km_point_on_Route_17_37.326295,138.817689.jpg)
+- Embedded World 2016, SIMCom: Ordercrazy, CC0, via Wikimedia Commons. [Embedded World 2016, SIMCom.jpg](https://commons.wikimedia.org/wiki/File:Embedded_World_2016,_SIMCom.jpg)
+- Embedded World 2016, Stm32 Nucleo: Ordercrazy, CC0, via Wikimedia Commons. [Embedded World 2016, Stm32 Nucleo.jpg](https://commons.wikimedia.org/wiki/File:Embedded_World_2016,_Stm32_Nucleo.jpg)
+
+## Oneok (OKE)
+
+- 110 West 7th Building & ONEOK Parking (garage), Tulsa, OK: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [110 West 7th Building & ONEOK Parking (garage), Tulsa, OK 2026-03-23.jpg](https://commons.wikimedia.org/wiki/File:110_West_7th_Building_%26_ONEOK_Parking_(garage),_Tulsa,_OK_2026-03-23.jpg)
+- Oklahoma History Center May 2016 30 (ONEOK Gallery): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Oklahoma History Center May 2016 30 (ONEOK Gallery).jpg](https://commons.wikimedia.org/wiki/File:Oklahoma_History_Center_May_2016_30_(ONEOK_Gallery).jpg)
+
+## Oracle Corporation (ORCL)
+
+- Oracle Campus in Austin 2018: DronePhotographer, CC0, via Wikimedia Commons. [Oracle Campus in Austin 2018.jpg](https://commons.wikimedia.org/wiki/File:Oracle_Campus_in_Austin_2018.jpg)
+- Oracle Redwood City May 2011 002: King of Hearts, CC BY-SA 3.0, via Wikimedia Commons. [Oracle Redwood City May 2011 002.jpg](https://commons.wikimedia.org/wiki/File:Oracle_Redwood_City_May_2011_002.jpg)
+- Larry Ellison in Oracle OpenWorld 2010: Ilan Costica, CC BY-SA 3.0, via Wikimedia Commons. [Larry Ellison in Oracle OpenWorld 2010.JPG](https://commons.wikimedia.org/wiki/File:Larry_Ellison_in_Oracle_OpenWorld_2010.JPG)
+- Servers in a Rack: Abigor, CC BY-SA 3.0, via Wikimedia Commons. [Servers in a Rack.jpg](https://commons.wikimedia.org/wiki/File:Servers_in_a_Rack.jpg)
+- Larry Ellison on stage: Oracle Corporate Communications, CC BY 2.0, via Wikimedia Commons. [Larry Ellison on stage.jpg](https://commons.wikimedia.org/wiki/File:Larry_Ellison_on_stage.jpg)
+- Oracle in San Jose: Siddharth Patil, CC0, via Wikimedia Commons. [Oracle in San Jose.jpg](https://commons.wikimedia.org/wiki/File:Oracle_in_San_Jose.jpg)
+- Oracle Canada office in Markham.: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [OracleMarkham10.jpg](https://commons.wikimedia.org/wiki/File:OracleMarkham10.jpg)
+- Oracle Headquarters in Redwood City: Davidlohr Bueso, CC BY 2.0, via Wikimedia Commons. [Oracle Headquarters in Redwood City.jpg](https://commons.wikimedia.org/wiki/File:Oracle_Headquarters_in_Redwood_City.jpg)
+- Oracle Headquarters Redwood Shores: Håkan Dahlström, CC BY 2.0, via Wikimedia Commons. [Oracle Headquarters Redwood Shores.jpg](https://commons.wikimedia.org/wiki/File:Oracle_Headquarters_Redwood_Shores.jpg)
+- USA 17 at Oracle Corporation Headquarters - July 2019: Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons. [USA 17 at Oracle Corporation Headquarters - July 2019 (8327).jpg](https://commons.wikimedia.org/wiki/File:USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_(8327).jpg)
+
+## Otis Worldwide (OTIS)
+
+- Otis Escalator 506 NCE (Daniel Åhs): Daniel Åhs Karlsson, CC BY-SA 3.0, via Wikimedia Commons. [Otis Escalator 506 NCE (Daniel Åhs).jpg](https://commons.wikimedia.org/wiki/File:Otis_Escalator_506_NCE_(Daniel_%C3%85hs).jpg)
+- Ford F-150 XL - Double Cab - Otis Elevator Company: FLGALine1999, CC0, via Wikimedia Commons. [Ford F-150 XL - Double Cab - Otis Elevator Company.jpg](https://commons.wikimedia.org/wiki/File:Ford_F-150_XL_-_Double_Cab_-_Otis_Elevator_Company.jpg)
+- Secaucus Junction Bus Plaza station entrance: Djflem, CC0, via Wikimedia Commons. [Secaucus Junction Bus Plaza station entrance.jpg](https://commons.wikimedia.org/wiki/File:Secaucus_Junction_Bus_Plaza_station_entrance.jpg)
+- Cheong Lee Building (revised): Prosperity Horizons, CC BY-SA 4.0, via Wikimedia Commons. [Cheong Lee Building (revised).jpg](https://commons.wikimedia.org/wiki/File:Cheong_Lee_Building_(revised).jpg)
+- HK 上水 Sheung Shui 上水廣場 Landmark North mall shops November 2020 SS2 51: HOWIM ZOABU LYDOAM, CC BY-SA 4.0, via Wikimedia Commons. [HK 上水 Sheung Shui 上水廣場 Landmark North mall shops November 2020 SS2 51.jpg](https://commons.wikimedia.org/wiki/File:HK_%E4%B8%8A%E6%B0%B4_Sheung_Shui_%E4%B8%8A%E6%B0%B4%E5%BB%A3%E5%A0%B4_Landmark_North_mall_shops_November_2020_SS2_51.jpg)
+- Lex 63 Otis Elevator Machine: Subway Rat, CC BY-SA 4.0, via Wikimedia Commons. [Lex 63 Otis Elevator Machine.jpg](https://commons.wikimedia.org/wiki/File:Lex_63_Otis_Elevator_Machine.jpg)
+- OTIS safety barricade: Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons. [OTIS safety barricade.jpg](https://commons.wikimedia.org/wiki/File:OTIS_safety_barricade.jpg)
+- Two Otis Ford Super Duty maintenance trucks on A street in San Diego, CA: Baron Maddock, CC BY 4.0, via Wikimedia Commons. [Two Otis Ford Super Duty maintenance trucks on A street in San Diego, CA.jpg](https://commons.wikimedia.org/wiki/File:Two_Otis_Ford_Super_Duty_maintenance_trucks_on_A_street_in_San_Diego,_CA.jpg)
+- OTIS safety barricades: Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons. [OTIS safety barricades.jpg](https://commons.wikimedia.org/wiki/File:OTIS_safety_barricades.jpg)
+- Vrchlabi Lanovska auto Otis: JiriMatejicek, CC BY-SA 3.0, via Wikimedia Commons. [Vrchlabi Lanovska auto Otis.jpg](https://commons.wikimedia.org/wiki/File:Vrchlabi_Lanovska_auto_Otis.jpg)
+
+## Paccar (PCAR)
+
+- Paccar IMAX Theater 01: Peaceray, CC BY 4.0, via Wikimedia Commons. [Paccar IMAX Theater 01.jpg](https://commons.wikimedia.org/wiki/File:Paccar_IMAX_Theater_01.jpg)
+- DAF, Nufam 2025, Rheinstetten ( - ): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [DAF, Nufam 2025, Rheinstetten (20250927-P1050728).jpg](https://commons.wikimedia.org/wiki/File:DAF,_Nufam_2025,_Rheinstetten_(20250927-P1050728).jpg)
+- Nufam 2023, Rheinstetten: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Nufam 2023, Rheinstetten (P1130609).jpg](https://commons.wikimedia.org/wiki/File:Nufam_2023,_Rheinstetten_(P1130609).jpg)
+- Whitefish Station NRHP Montana4: Burley Packwood, CC BY-SA 4.0, via Wikimedia Commons. [Whitefish Station NRHP 02000766 Montana4.jpg](https://commons.wikimedia.org/wiki/File:Whitefish_Station_NRHP_02000766_Montana4.jpg)
+- Paccar's History in the early 1900: Paccar Inc., public domain, via Wikimedia Commons. [Paccar's History in the early 1900.jpg](https://commons.wikimedia.org/wiki/File:Paccar%27s_History_in_the_early_1900.jpg)
+- Paccar engine, Busworld Europe 2023, Brussels: MB-one, CC BY-SA 4.0, via Wikimedia Commons. [Paccar engine, Busworld Europe 2023, Brussels (P1140270).jpg](https://commons.wikimedia.org/wiki/File:Paccar_engine,_Busworld_Europe_2023,_Brussels_(P1140270).jpg)
+- Paccar Hall during Fall Quarter: Fbwcpsh, CC BY-SA 4.0, via Wikimedia Commons. [Paccar Hall during Fall Quarter.jpg](https://commons.wikimedia.org/wiki/File:Paccar_Hall_during_Fall_Quarter.jpg)
+- PACCAR truck engine 2012: Spielvogel For a gallery of some more of my uploaded pictures see: here ., CC BY-SA 4.0, via Wikimedia Commons. [PACCAR truck engine 2012.jpg](https://commons.wikimedia.org/wiki/File:PACCAR_truck_engine_2012.jpg)
+- PACCAR Interior: Fbwcpsh, CC BY-SA 4.0, via Wikimedia Commons. [PACCAR Interior.jpg](https://commons.wikimedia.org/wiki/File:PACCAR_Interior.jpg)
+- DAF XB 190 Electric FA IAA Transportation 2026: MarcelX42, CC BY-SA 4.0, via Wikimedia Commons. [DAF XB 190 Electric FA IAA Transportation 2026 (DSC6636).jpg](https://commons.wikimedia.org/wiki/File:DAF_XB_190_Electric_FA_IAA_Transportation_2026_(DSC6636).jpg)
+
+## Packaging Corporation of America (PKG)
+
+- Packaging Corporation of America - PCA - Minneapolis: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Packaging Corporation of America - PCA - Minneapolis (25285329737).jpg](https://commons.wikimedia.org/wiki/File:Packaging_Corporation_of_America_-_PCA_-_Minneapolis_(25285329737).jpg)
+- Touring the Packaging Corporation of America in Filer City: Senator Stabenow, CC BY 2.0, via Wikimedia Commons. [Touring the Packaging Corporation of America in Filer City (7799133360).jpg](https://commons.wikimedia.org/wiki/File:Touring_the_Packaging_Corporation_of_America_in_Filer_City_(7799133360).jpg)
+- American Box Board Company (Grand Rapids) 2: Nbierma, CC BY-SA 4.0, via Wikimedia Commons. [American Box Board Company (Grand Rapids) 2.jpg](https://commons.wikimedia.org/wiki/File:American_Box_Board_Company_(Grand_Rapids)_2.jpg)
+
+## Palantir Technologies (PLTR)
+
+- Palantir office in Palo Alto: F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [Palantir 1 2018-09-06.jpg](https://commons.wikimedia.org/wiki/File:Palantir_1_2018-09-06.jpg)
+- Secretary Kerry at the Maritime Operations Center 015: U.S. Department of State from United States, public domain, via Wikimedia Commons. [Secretary Kerry at the Maritime Operations Center 015.jpg](https://commons.wikimedia.org/wiki/File:Secretary_Kerry_at_the_Maritime_Operations_Center_015.jpg)
+- Deputy Prime Minister Oliver Dowden attends AI Summit: UK Government, CC BY 2.0, via Wikimedia Commons. [Deputy Prime Minister Oliver Dowden attends AI Summit (53302457013).jpg](https://commons.wikimedia.org/wiki/File:Deputy_Prime_Minister_Oliver_Dowden_attends_AI_Summit_(53302457013).jpg)
+- Peter Thiel by Gage Skidmore: Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons. [Peter Thiel by Gage Skidmore.jpg](https://commons.wikimedia.org/wiki/File:Peter_Thiel_by_Gage_Skidmore.jpg)
+- Pro-Palestine protest outside Barclays in Aberdeen, 21 February 2026: Lucas Kendall, CC BY-SA 4.0, via Wikimedia Commons. [Pro-Palestine protest outside Barclays in Aberdeen, 21 February 2026 (18).jpg](https://commons.wikimedia.org/wiki/File:Pro-Palestine_protest_outside_Barclays_in_Aberdeen,_21_February_2026_(18).jpg)
+
+## Palo Alto Networks (PANW)
+
+- Palo Alto Networks Headquarters South Side 2018: Namaste jinx, CC BY-SA 4.0, via Wikimedia Commons. [Palo Alto Networks Headquarters South Side 2018.jpg](https://commons.wikimedia.org/wiki/File:Palo_Alto_Networks_Headquarters_South_Side_2018.jpg)
+- Nikesh Arora, Palo Alto Networks CEO (per Wikidata): Nikesh_Arora.jpg : Loic Le Meur derivative work: Boseritwik, CC BY 2.0, via Wikimedia Commons. [Nikesh Arora(cropped).jpg](https://commons.wikimedia.org/wiki/File:Nikesh_Arora(cropped).jpg)
+- The Gathering 2019 - Juniper and Palo Alto equipment: DiFronzo, CC BY 2.0, via Wikimedia Commons. [The Gathering 2019 - Juniper and Palo Alto equipment (46813726495).jpg](https://commons.wikimedia.org/wiki/File:The_Gathering_2019_-_Juniper_and_Palo_Alto_equipment_(46813726495).jpg)
+
+## Parker Hannifin (PH)
+
+- Parker Hannifin's Global Headquarters: Parker Hannifin from Global, United States, CC BY-SA 2.0, via Wikimedia Commons. [Parker Hannifin's Global Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Parker_Hannifin%27s_Global_Headquarters.jpg)
+- Hauptgebäude Parker Hannifin TFDE Bielefeld: IFy, CC BY-SA 4.0, via Wikimedia Commons. [Hauptgebäude Parker Hannifin TFDE Bielefeld.jpg](https://commons.wikimedia.org/wiki/File:Hauptgeb%C3%A4ude_Parker_Hannifin_TFDE_Bielefeld.jpg)
+
+## Paychex (PAYX)
+
+- Paychex headquarters: DanielPenfield, CC BY-SA 3.0, via Wikimedia Commons. [Paychex headquarters.JPG](https://commons.wikimedia.org/wiki/File:Paychex_headquarters.JPG)
+
+## PayPal (PYPL)
+
+- JP 日本 Japan 京都 Kyoto 宇治城 Uji-shi Uji Myouraku shop Nakamura Tokichi Honten Tea House Restaurant June 2026 N13P 26: HAGAT hOMSZE, CC0, via Wikimedia Commons. [JP 日本 Japan 京都 Kyoto 宇治城 Uji-shi Uji Myouraku shop Nakamura Tokichi Honten Tea House Restaurant June 2026 N13P 26.jpg](https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_%E5%AE%87%E6%B2%BB%E5%9F%8E_Uji-shi_Uji_Myouraku_shop_Nakamura_Tokichi_Honten_Tea_House_Restaurant_June_2026_N13P_26.jpg)
+- Paypal Popcorn Promotion-Aktion, Düsseldorf, Februar 2026: Kürschner ( talk ) 16:25, 27 February 2026 (UTC), CC0, via Wikimedia Commons. [Paypal Popcorn Promotion-Aktion, Düsseldorf, Februar 2026 (1).jpg](https://commons.wikimedia.org/wiki/File:Paypal_Popcorn_Promotion-Aktion,_D%C3%BCsseldorf,_Februar_2026_(1).jpg)
+- Tokyo-Game-Show-2025 2071: RuinDig/Yuki Uchida, CC BY 4.0, via Wikimedia Commons. [Tokyo-Game-Show-2025 2071.jpg](https://commons.wikimedia.org/wiki/File:Tokyo-Game-Show-2025_2071.jpg)
+- CSD Berlin 2018 290: Sven Volkens, CC BY-SA 4.0, via Wikimedia Commons. [CSD Berlin 2018 290.jpg](https://commons.wikimedia.org/wiki/File:CSD_Berlin_2018_290.jpg)
+- DUBLIN LGBTQ PRIDE PARADE 2019 -NEAR MOSS STREET - TALBOT BRIDGE: William Murphy from Dublin, Ireland, CC BY-SA 2.0, via Wikimedia Commons. [DUBLIN LGBTQ PRIDE PARADE 2019 -NEAR MOSS STREET - TALBOT BRIDGE--153921 (48154658296).jpg](https://commons.wikimedia.org/wiki/File:DUBLIN_LGBTQ_PRIDE_PARADE_2019_-NEAR_MOSS_STREET_-_TALBOT_BRIDGE--153921_(48154658296).jpg)
+- EXPO26, Hanau (LRM ): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [EXPO26, Hanau (LRM 20260617 120811).jpg](https://commons.wikimedia.org/wiki/File:EXPO26,_Hanau_(LRM_20260617_120811).jpg)
+- 2019 Nissan Micra au SIAM 2020: Bull-Doser, public domain, via Wikimedia Commons. [2019 Nissan Micra au SIAM 2020.jpg](https://commons.wikimedia.org/wiki/File:2019_Nissan_Micra_au_SIAM_2020.jpg)
+- PayPal Honey Headquarters: Busition, CC BY 4.0, via Wikimedia Commons. [PayPal Honey Headquarters.jpg](https://commons.wikimedia.org/wiki/File:PayPal_Honey_Headquarters.jpg)
+- PayPal San Jose Headquarters: Sagar Savla, CC BY-SA 3.0, via Wikimedia Commons. [PayPal San Jose Headquarters.jpg](https://commons.wikimedia.org/wiki/File:PayPal_San_Jose_Headquarters.jpg)
+- HK TKL 調景嶺 Tiu Keng Leng 翠嶺路 Chui Ling Road HabaBike sharing bicycle sidewalk parking March 2018 IX2 PayPal sign n yellow lines: Lungwicjalch, CC BY-SA 4.0, via Wikimedia Commons. [HK TKL 調景嶺 Tiu Keng Leng 翠嶺路 Chui Ling Road HabaBike sharing bicycle sidewalk parking March 2018 IX2 PayPal sign n yellow lines.jpg](https://commons.wikimedia.org/wiki/File:HK_TKL_%E8%AA%BF%E6%99%AF%E5%B6%BA_Tiu_Keng_Leng_%E7%BF%A0%E5%B6%BA%E8%B7%AF_Chui_Ling_Road_HabaBike_sharing_bicycle_sidewalk_parking_March_2018_IX2_PayPal_sign_n_yellow_lines.jpg)
+
+## Pentair (PNR)
+
+- Pentair Building - US Corporate Headquarters Office Building: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Pentair Building - US Corporate Headquarters Office Building (34514586172).jpg](https://commons.wikimedia.org/wiki/File:Pentair_Building_-_US_Corporate_Headquarters_Office_Building_(34514586172).jpg)
+- GASAG Biogas plant in Schwedt: Vasyatka1, CC BY-SA 4.0, via Wikimedia Commons. [GASAG Biogas plant in Schwedt (053).jpg](https://commons.wikimedia.org/wiki/File:GASAG_Biogas_plant_in_Schwedt_(053).jpg)
+
+## PepsiCo (PEP)
+
+- PepsiCo Headquarters close up 2011: angela n., CC BY 2.0, via Wikimedia Commons. [PepsiCo Headquarters close up 2011.jpg](https://commons.wikimedia.org/wiki/File:PepsiCo_Headquarters_close_up_2011.jpg)
+- Pepsi 355 ml, 591 ml, and 710 ml, Canada (obverse): Chris Woodrich, public domain, via Wikimedia Commons. [Pepsi 355 ml, 591 ml, and 710 ml, Canada (obverse), 2026-03-05.jpg](https://commons.wikimedia.org/wiki/File:Pepsi_355_ml,_591_ml,_and_710_ml,_Canada_(obverse),_2026-03-05.jpg)
+- A Lay's Stax chip: Jiafei Slay Queen, CC0, via Wikimedia Commons. [A Lay's Stax chip.jpg](https://commons.wikimedia.org/wiki/File:A_Lay%27s_Stax_chip.jpg)
+- Gatorade Center 4: kallerna, CC BY-SA 4.0, via Wikimedia Commons. [Gatorade Center 4.jpg](https://commons.wikimedia.org/wiki/File:Gatorade_Center_4.jpg)
+- Pepsi truck in Ueno Park: Sahaib, CC BY 4.0, via Wikimedia Commons. [Pepsi truck in Ueno Park.jpg](https://commons.wikimedia.org/wiki/File:Pepsi_truck_in_Ueno_Park.jpg)
+- Ramon Laguarta Community Engagement: Qwertyfry38, CC BY-SA 4.0, via Wikimedia Commons. [Ramon Laguarta Community Engagement.jpg](https://commons.wikimedia.org/wiki/File:Ramon_Laguarta_Community_Engagement.jpg)
+- PepsiCo world headquarters: Peter Bond from Philadelphia, USA, CC BY-SA 2.0, via Wikimedia Commons. [PepsiCoHQPurchaseNY.jpg](https://commons.wikimedia.org/wiki/File:PepsiCoHQPurchaseNY.jpg)
+- PepsiCo HQ Office: Tony Webster, CC BY 2.0, via Wikimedia Commons. [PepsiCo HQ Office.jpg](https://commons.wikimedia.org/wiki/File:PepsiCo_HQ_Office.jpg)
+- PepsiCo corporate headquarters and poles: Peter Bond, CC BY-SA 2.0, via Wikimedia Commons. [PepsiCo corporate headquarters and poles.jpg](https://commons.wikimedia.org/wiki/File:PepsiCo_corporate_headquarters_and_poles.jpg)
+- Samochód handlowca tomaszowskiej fabryki koncernu PepsiCo EN The canvasser's car of the factory PepsiCo from Tomaszow Mazowiecki, Poland: Warszawska róg Szerokiej w Tomaszowie Mazowieckim, w województwie łódzkim, CC0, via Wikimedia Commons. [Samochód handlowca tomaszowskiej fabryki koncernu PepsiCo EN The canvasser's car of the factory PepsiCo from Tomaszow Mazowiecki, Poland.jpg](https://commons.wikimedia.org/wiki/File:Samoch%C3%B3d_handlowca_tomaszowskiej_fabryki_koncernu_PepsiCo_EN_The_canvasser%27s_car_of_the_factory_PepsiCo_from_Tomaszow_Mazowiecki,_Poland.jpg)
+
+## Petrobras (PBR)
+
+- Oil platform P-51 (Brazil)-2: Divulgação Petrobras / ABr, CC BY 3.0 br, via Wikimedia Commons. [Oil platform P-51 (Brazil)-2.jpg](https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil)-2.jpg)
+- Greve Nacional dos Petroleiros: Deputado Rosemberg, public domain, via Wikimedia Commons. [Greve Nacional dos Petroleiros.jpg](https://commons.wikimedia.org/wiki/File:Greve_Nacional_dos_Petroleiros.jpg)
+- Roserberg Greve Nacional dos Petroleiros: Deputado Rosemberg, public domain, via Wikimedia Commons. [Roserberg Greve Nacional dos Petroleiros.jpg](https://commons.wikimedia.org/wiki/File:Roserberg_Greve_Nacional_dos_Petroleiros.jpg)
+- Sâmia Bonfim GREVE PETROLEIROS: Sâmia Bomfim, CC BY 2.0, via Wikimedia Commons. [Sâmia Bonfim GREVE PETROLEIROS.jpg](https://commons.wikimedia.org/wiki/File:S%C3%A2mia_Bonfim_GREVE_PETROLEIROS.jpg)
+- Audiência Pública - Impactos da Privatização da Petrobras no Paraná - foto Kleyton Presidente - 11-11-19: Kleyton Presidente/Assembleia Legislativa do Paraná, public domain, via Wikimedia Commons. [Audiência Pública - Impactos da Privatização da Petrobras no Paraná - foto Kleyton Presidente - 11-11-19 (1) (49049269336).jpg](https://commons.wikimedia.org/wiki/File:Audi%C3%AAncia_P%C3%BAblica_-_Impactos_da_Privatiza%C3%A7%C3%A3o_da_Petrobras_no_Paran%C3%A1_-_foto_Kleyton_Presidente_-_11-11-19_(1)_(49049269336).jpg)
+- Petrobras petrol stations in Piauí: Moacir Ximenes, CC BY 3.0 br, via Wikimedia Commons. [Petrobras petrol stations in Piauí.JPG](https://commons.wikimedia.org/wiki/File:Petrobras_petrol_stations_in_Piau%C3%AD.JPG)
+- Araraquara (2020 October) 337: Sturm, CC BY-SA 4.0, via Wikimedia Commons. [Araraquara (2020 October) 337.jpg](https://commons.wikimedia.org/wiki/File:Araraquara_(2020_October)_337.jpg)
+- Petrobras headquarters: Jim Killock, CC BY-SA 2.0, via Wikimedia Commons. [Petrobras headquarters (7170475049).jpg](https://commons.wikimedia.org/wiki/File:Petrobras_headquarters_(7170475049).jpg)
+- Petrobras Headquarters, Rio de Janeiro: Edmund Nigel Gall, CC BY-SA 2.0, via Wikimedia Commons. [Petrobras Headquarters, Rio de Janeiro.jpg](https://commons.wikimedia.org/wiki/File:Petrobras_Headquarters,_Rio_de_Janeiro.jpg)
+- Petrobras Building - Centro District - Downtown Rio de Janeiro - Brazil: Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0, via Wikimedia Commons. [Petrobras Building - Centro District - Downtown Rio de Janeiro - Brazil (17557155691).jpg](https://commons.wikimedia.org/wiki/File:Petrobras_Building_-_Centro_District_-_Downtown_Rio_de_Janeiro_-_Brazil_(17557155691).jpg)
+
+## Pfizer (PFE)
+
+- Pfizer World Headquarters Entrance: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Pfizer World Headquarters Entrance.jpg](https://commons.wikimedia.org/wiki/File:Pfizer_World_Headquarters_Entrance.jpg)
+- Pfizer-BioNTech COVID-19 vaccine D: U.S. Secretary of Defense, public domain, via Wikimedia Commons. [Pfizer-BioNTech COVID-19 vaccine (2020) D.jpg](https://commons.wikimedia.org/wiki/File:Pfizer-BioNTech_COVID-19_vaccine_(2020)_D.jpg)
+- President Joe Biden visits Kalamazoo, Michigan: The White House, public domain, via Wikimedia Commons. [President Joe Biden visits Kalamazoo, Michigan (01).jpg](https://commons.wikimedia.org/wiki/File:President_Joe_Biden_visits_Kalamazoo,_Michigan_(01).jpg)
+- Pfizer Inc Middleton Research Pharmaceutical laboratory - panoramio: Corey Coyle, CC BY 3.0, via Wikimedia Commons. [Pfizer Inc Middleton Research Pharmaceutical laboratory - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Pfizer_Inc_Middleton_Research_Pharmaceutical_laboratory_-_panoramio.jpg)
+- Paxlovid blister pack, partially opened to reveal one Ritonavir tablet and two Nirmatrelvir tablets.: Kches16414, CC BY-SA 4.0, via Wikimedia Commons. [Paxlovid.jpg](https://commons.wikimedia.org/wiki/File:Paxlovid.jpg)
+- Albert Bourla 2: Abhiram Juvvadi, CC BY-SA 4.0, via Wikimedia Commons. [Albert Bourla 2.jpg](https://commons.wikimedia.org/wiki/File:Albert_Bourla_2.jpg)
+- Connecticut Eastern Railroad Museum (Willimantic, Connecticut): JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons. [Connecticut Eastern Railroad Museum (Willimantic, Connecticut) (31561041158).jpg](https://commons.wikimedia.org/wiki/File:Connecticut_Eastern_Railroad_Museum_(Willimantic,_Connecticut)_(31561041158).jpg)
+- Pfizer World Headquarters: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Pfizer World Headquarters (51921996957).jpg](https://commons.wikimedia.org/wiki/File:Pfizer_World_Headquarters_(51921996957).jpg)
+- Emergency response near former Pfizer Building: Tessa Bury, CC BY 4.0, via Wikimedia Commons. [Emergency response near former Pfizer Building.jpg](https://commons.wikimedia.org/wiki/File:Emergency_response_near_former_Pfizer_Building.jpg)
+- Pfizer world HQ jeh: Jim.henderson, public domain, via Wikimedia Commons. [Pfizer world HQ jeh.JPG](https://commons.wikimedia.org/wiki/File:Pfizer_world_HQ_jeh.JPG)
+
+## PG&E Corporation (PCG)
+
+- 2009-0725-CA-Fresno-SJLightPowerCorp: Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons. [2009-0725-CA-Fresno-SJLightPowerCorp.jpg](https://commons.wikimedia.org/wiki/File:2009-0725-CA-Fresno-SJLightPowerCorp.jpg)
+- Glass Fire - - Sarah Stierch 06: Missvain, CC BY 4.0, via Wikimedia Commons. [Glass Fire - 2021-08-01 - Sarah Stierch 06.jpg](https://commons.wikimedia.org/wiki/File:Glass_Fire_-_2021-08-01_-_Sarah_Stierch_06.jpg)
+- NRC Commissioner Annie Caputo Visits the Diablo Canyon Nuclear Power Plant: Nuclear Regulatory Commission from US, CC BY 2.0, via Wikimedia Commons. [NRC Commissioner Annie Caputo Visits the Diablo Canyon Nuclear Power Plant (52618130385).jpg](https://commons.wikimedia.org/wiki/File:NRC_Commissioner_Annie_Caputo_Visits_the_Diablo_Canyon_Nuclear_Power_Plant_(52618130385).jpg)
+- NRC Staff meet with residents around Diablo Canyon nuclear power plant: Nuclear Regulatory Commission from US, CC BY 2.0, via Wikimedia Commons. [NRC Staff meet with residents around Diablo Canyon nuclear power plant (52884180405).jpg](https://commons.wikimedia.org/wiki/File:NRC_Staff_meet_with_residents_around_Diablo_Canyon_nuclear_power_plant_(52884180405).jpg)
+- Wetlands-and-power-substation: Alfred Twu, CC0, via Wikimedia Commons. [Wetlands-and-power-substation.jpg](https://commons.wikimedia.org/wiki/File:Wetlands-and-power-substation.jpg)
+- October 2021 California rainstorm - Sonoma - - Sarah Stierch 04: Missvain, CC BY 4.0, via Wikimedia Commons. [October 2021 California rainstorm - Sonoma - 2021-10-24 - Sarah Stierch 04.jpg](https://commons.wikimedia.org/wiki/File:October_2021_California_rainstorm_-_Sonoma_-_2021-10-24_-_Sarah_Stierch_04.jpg)
+- PG&E Embarcadero Substation - September 2025 - Sarah Stierch 01: Missvain, CC0, via Wikimedia Commons. [PG&E Embarcadero Substation - September 2025 - Sarah Stierch 01.jpg](https://commons.wikimedia.org/wiki/File:PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_01.jpg)
+- PG&E building on Market St. lamp: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [PG&E building on Market St. lamp.JPG](https://commons.wikimedia.org/wiki/File:PG%26E_building_on_Market_St._lamp.JPG)
+- PG&E Mission substation north bas relief: Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons. [PG&E Mission substation north bas relief.jpg](https://commons.wikimedia.org/wiki/File:PG%26E_Mission_substation_north_bas_relief.jpg)
+- PG&E Substation J (San Francisco): Sanfranman59, CC BY-SA 4.0, via Wikimedia Commons. [PG&E Substation J (San Francisco).jpg](https://commons.wikimedia.org/wiki/File:PG%26E_Substation_J_(San_Francisco).jpg)
+
+## Philip Morris International (PM)
+
+- Philip Morris International's Operation Center in Lausanne, Switzerland: SimonDes, CC BY-SA 4.0, via Wikimedia Commons. [PM Lausanne.jpg](https://commons.wikimedia.org/wiki/File:PM_Lausanne.jpg)
+- Jacek Olczak, Philip Morris International CEO (per Wikidata): Xuthoria, CC BY-SA 4.0, via Wikimedia Commons. [NYCW 2025 - Jacek Olczak 02 (cropped).jpg](https://commons.wikimedia.org/wiki/File:NYCW_2025_-_Jacek_Olczak_02_(cropped).jpg)
+- Philip Morris Blended Leaf Complex: Nyttend, public domain, via Wikimedia Commons. [Philip Morris Blended Leaf Complex.jpg](https://commons.wikimedia.org/wiki/File:Philip_Morris_Blended_Leaf_Complex.jpg)
+- Philip Morris Tobacco Advertising Marlboro Lithuania: User:Willem_90, CC0, via Wikimedia Commons. [Philip Morris Tobacco Advertising Marlboro Lithuania.jpg](https://commons.wikimedia.org/wiki/File:Philip_Morris_Tobacco_Advertising_Marlboro_Lithuania.jpg)
+- Philip Morris International Lausanne: Gzzz, CC BY-SA 4.0, via Wikimedia Commons. [Philip Morris International Lausanne (1).jpg](https://commons.wikimedia.org/wiki/File:Philip_Morris_International_Lausanne_(1).jpg)
+- Muzeum Powstania Warszawskiego - eksponaty: User:Halibutt, CC BY-SA 3.0, via Wikimedia Commons. [Muzeum Powstania Warszawskiego - eksponaty.JPG](https://commons.wikimedia.org/wiki/File:Muzeum_Powstania_Warszawskiego_-_eksponaty.JPG)
+- House of Sampoerna Mei 2015: consigliere ivan from Bontang, Indonesia, CC BY-SA 2.0, via Wikimedia Commons. [House of Sampoerna Mei 2015.jpg](https://commons.wikimedia.org/wiki/File:House_of_Sampoerna_Mei_2015.jpg)
+- 100g Can of Next Tobacco: Gavin C. Stewart, CC BY-SA 4.0, via Wikimedia Commons. [100g Can of Next Tobacco.JPG](https://commons.wikimedia.org/wiki/File:100g_Can_of_Next_Tobacco.JPG)
+- KARO cigarettes Germany ca 1990: Andreas Franzkowiak ( User:Bullenwächter ), CC BY-SA 3.0, via Wikimedia Commons. [KARO cigarettes Germany ca 1990.jpg](https://commons.wikimedia.org/wiki/File:KARO_cigarettes_Germany_ca_1990.jpg)
+- Fushimi Underground -15: 円周率３パーセント, CC BY-SA 4.0, via Wikimedia Commons. [Fushimi Underground 20200912-15.jpg](https://commons.wikimedia.org/wiki/File:Fushimi_Underground_20200912-15.jpg)
+
+## Phillips 66 (PSX)
+
+- Bayway Refinery, New Jersey: Quintin Soloviev, CC BY 4.0, via Wikimedia Commons. [Bayway Refinery, New Jersey.jpg](https://commons.wikimedia.org/wiki/File:Bayway_Refinery,_New_Jersey.jpg)
+- Phillips 66 gas pump in Stanhope, NJ: Magpieturtle, CC BY 4.0, via Wikimedia Commons. [Phillips 66 gas pump in Stanhope, NJ.jpg](https://commons.wikimedia.org/wiki/File:Phillips_66_gas_pump_in_Stanhope,_NJ.jpg)
+- Bayway Refinery td ( ) 01: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [Bayway Refinery td (2022-01-18) 01.jpg](https://commons.wikimedia.org/wiki/File:Bayway_Refinery_td_(2022-01-18)_01.jpg)
+- Bayway Refinery td ( ) 06 - Bayway Office Building (1400 Park Avenue): Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [Bayway Refinery td (2022-01-18) 06 - Bayway Office Building (1400 Park Avenue).jpg](https://commons.wikimedia.org/wiki/File:Bayway_Refinery_td_(2022-01-18)_06_-_Bayway_Office_Building_(1400_Park_Avenue).jpg)
+- Double rainbow 2: Greenhill54321, CC BY-SA 4.0, via Wikimedia Commons. [Double rainbow 2.jpg](https://commons.wikimedia.org/wiki/File:Double_rainbow_2.jpg)
+- Jim McNatt 44-45 P-66 team: Jkirks, public domain, via Wikimedia Commons. [Jim McNatt 44-45 P-66 team.JPG](https://commons.wikimedia.org/wiki/File:Jim_McNatt_44-45_P-66_team.JPG)
+- Phillips 66 and Downtown Indianapolis: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Phillips 66 and Downtown Indianapolis.jpg](https://commons.wikimedia.org/wiki/File:Phillips_66_and_Downtown_Indianapolis.jpg)
+- Phillips 66 station, Bassett, Nebraska, USA: Bkell, public domain, via Wikimedia Commons. [Phillips 66 station, Bassett, Nebraska, USA.jpg](https://commons.wikimedia.org/wiki/File:Phillips_66_station,_Bassett,_Nebraska,_USA.jpg)
+- Phillips 66 gas station Bristow OK 12-59-16: G. Edward Johnson, CC BY 4.0, via Wikimedia Commons. [Phillips 66 gas station Bristow OK 2026-09-15 12-59-16.jpg](https://commons.wikimedia.org/wiki/File:Phillips_66_gas_station_Bristow_OK_2026-09-15_12-59-16.jpg)
+- Phillips 66 gas station: Jirka Matousek from Brussels Taipei Hong Kong Singapore Prague Shenzhen, CC BY 2.0, via Wikimedia Commons. [Phillips 66 gas station (40913947183).jpg](https://commons.wikimedia.org/wiki/File:Phillips_66_gas_station_(40913947183).jpg)
+
+## PNC Financial Services (PNC)
+
+- PNC Building, Downtown Columbus: Huney420, public domain, via Wikimedia Commons. [PNCColumbus.JPG](https://commons.wikimedia.org/wiki/File:PNCColumbus.JPG)
+- PNC Corporate Headquarters - Pittsburgh: Tony Webster from Minneapolis, Minnesota, United States, CC BY-SA 2.0, via Wikimedia Commons. [PNC Corporate Headquarters - Pittsburgh (48171777871).jpg](https://commons.wikimedia.org/wiki/File:PNC_Corporate_Headquarters_-_Pittsburgh_(48171777871).jpg)
+- Selma December 2018 22 (Broad Street): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Selma December 2018 22 (Broad Street).jpg](https://commons.wikimedia.org/wiki/File:Selma_December_2018_22_(Broad_Street).jpg)
+- Chicago Union Station Parking: Jeramey Jannene, CC BY 2.0, via Wikimedia Commons. [Chicago Union Station Parking.jpg](https://commons.wikimedia.org/wiki/File:Chicago_Union_Station_Parking.jpg)
+- 41 West State Street, Trenton, New Jersey 5693: Mdupont, CC BY-SA 4.0, via Wikimedia Commons. [41 West State Street, Trenton, New Jersey 5693.jpg](https://commons.wikimedia.org/wiki/File:41_West_State_Street,_Trenton,_New_Jersey_5693.jpg)
+- Capitol City Brewing: David Jakes from Naperville, USA, CC BY 2.0, via Wikimedia Commons. [Capitol City Brewing (8028424657).jpg](https://commons.wikimedia.org/wiki/File:Capitol_City_Brewing_(8028424657).jpg)
+- Nate McLouth: John Marino from Pittsburgh, The fine US of A, CC BY 2.0, via Wikimedia Commons. [Nate McLouth (2876295002).jpg](https://commons.wikimedia.org/wiki/File:Nate_McLouth_(2876295002).jpg)
+- PNC bank ATMs: myself ( User:Piotrus ), CC BY-SA 3.0, via Wikimedia Commons. [PNC bank ATMs.JPG](https://commons.wikimedia.org/wiki/File:PNC_bank_ATMs.JPG)
+- Cut credit card: Ben Schumin from Montgomery Village, Maryland, USA, CC BY-SA 2.0, via Wikimedia Commons. [Cut credit card (50860524061).png](https://commons.wikimedia.org/wiki/File:Cut_credit_card_(50860524061).png)
+
+## PPG Industries (PPG)
+
+- One PPG Place, , 01: Cbaile19, CC0, via Wikimedia Commons. [One PPG Place, 2015-03-10, 01.jpg](https://commons.wikimedia.org/wiki/File:One_PPG_Place,_2015-03-10,_01.jpg)
+- PPG MoonWalk: 1-Byte, CC BY 4.0, via Wikimedia Commons. [PPG MoonWalk.jpg](https://commons.wikimedia.org/wiki/File:PPG_MoonWalk.jpg)
+- Taller Status en José Ingenieros, Provincia de Buenos Aires: Just a Man, CC BY 4.0, via Wikimedia Commons. [Taller Status en José Ingenieros, Provincia de Buenos Aires.jpg](https://commons.wikimedia.org/wiki/File:Taller_Status_en_Jos%C3%A9_Ingenieros,_Provincia_de_Buenos_Aires.jpg)
+- Plaques in Pittsburgh - 7580: Daderot, public domain, via Wikimedia Commons. [Plaques in Pittsburgh - IMG 7580.JPG](https://commons.wikimedia.org/wiki/File:Plaques_in_Pittsburgh_-_IMG_7580.JPG)
+- PPG Sumaré: Governo do Estado de São Paulo, CC BY 2.0, via Wikimedia Commons. [PPG Sumaré.jpg](https://commons.wikimedia.org/wiki/File:PPG_Sumar%C3%A9.jpg)
+- Canal Crossing clean-up site: Hudconja, CC BY-SA 3.0, via Wikimedia Commons. [Canal Crossing clean-up site.jpg](https://commons.wikimedia.org/wiki/File:Canal_Crossing_clean-up_site.jpg)
+- Ford City, Pennsylvania: Doug Kerr from Albany, NY, United States, CC BY-SA 2.0, via Wikimedia Commons. [Ford City, Pennsylvania (8481100411).jpg](https://commons.wikimedia.org/wiki/File:Ford_City,_Pennsylvania_(8481100411).jpg)
+- Pittsburg Plate Glass Warehouse Detroit: Andrew Jameson, CC BY-SA 4.0, via Wikimedia Commons. [Pittsburg Plate Glass Warehouse Detroit.jpg](https://commons.wikimedia.org/wiki/File:Pittsburg_Plate_Glass_Warehouse_Detroit.jpg)
+- Pittsburgh Plate Glass 2: Elkman, CC BY-SA 4.0, via Wikimedia Commons. [Pittsburgh Plate Glass 2.JPG](https://commons.wikimedia.org/wiki/File:Pittsburgh_Plate_Glass_2.JPG)
+- PPG Delfzijl: Zandcee, CC BY-SA 4.0, via Wikimedia Commons. [PPG Delfzijl.jpg](https://commons.wikimedia.org/wiki/File:PPG_Delfzijl.jpg)
+
+## Principal Financial Group (PFG)
+
+- Principal Financial Group Corporate One: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [Principal Financial Group Corporate One.jpg](https://commons.wikimedia.org/wiki/File:Principal_Financial_Group_Corporate_One.jpg)
+- Principal Financial Building in Downtown Mason City, IA. Taken from Google Earth. Original picture taken by Justin J. Teeter.: Pjt408 at English Wikipedia, public domain, via Wikimedia Commons. [MC building.jpg](https://commons.wikimedia.org/wiki/File:MC_building.jpg)
+- HK Far East Finance Centre BOA Tower Principal Fin: No machine-readable author provided. DaviSements~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, via Wikimedia Commons. [HK Far East Finance Centre BOA Tower Principal Fin.JPG](https://commons.wikimedia.org/wiki/File:HK_Far_East_Finance_Centre_BOA_Tower_Principal_Fin.JPG)
+- Principal - 750 Park: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [Principal - 750 Park.jpg](https://commons.wikimedia.org/wiki/File:Principal_-_750_Park.jpg)
+
+## Procter & Gamble (PG)
+
+- Cincinnati-procter-and-gamble-headquarters: Unknown author, CC BY 2.0, via Wikimedia Commons. [Cincinnati-procter-and-gamble-headquarters.jpg](https://commons.wikimedia.org/wiki/File:Cincinnati-procter-and-gamble-headquarters.jpg)
+- Historical Marker, Procter and Gamble World Headquarters, Cincinnati, OH: Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons. [Historical Marker, Procter and Gamble World Headquarters, Cincinnati, OH (47221091721).jpg](https://commons.wikimedia.org/wiki/File:Historical_Marker,_Procter_and_Gamble_World_Headquarters,_Cincinnati,_OH_(47221091721).jpg)
+- COVID-19 Panic Buying: Dick Thomas Johnson from Tokyo, Japan, CC BY 2.0, via Wikimedia Commons. [COVID-19 Panic Buying (50114211868).jpg](https://commons.wikimedia.org/wiki/File:COVID-19_Panic_Buying_(50114211868).jpg)
+- Procter & Gamble @ Lancy: Guilhem Vellut from Annecy, France, CC BY 2.0, via Wikimedia Commons. [Procter & Gamble @ Lancy (49850732566).jpg](https://commons.wikimedia.org/wiki/File:Procter_%26_Gamble_@_Lancy_(49850732566).jpg)
+- Procter & Gamble offices @ Passerelle de Tivoli @ Lancy: Guilhem Vellut from Annecy, France, CC BY 2.0, via Wikimedia Commons. [Procter & Gamble offices @ Passerelle de Tivoli @ Lancy (50520218407).jpg](https://commons.wikimedia.org/wiki/File:Procter_%26_Gamble_offices_@_Passerelle_de_Tivoli_@_Lancy_(50520218407).jpg)
+- Cincinnati Pride: Hayden Schiff, CC BY 4.0, via Wikimedia Commons. [Cincinnati Pride PXL 20250628 153636593.jpg](https://commons.wikimedia.org/wiki/File:Cincinnati_Pride_PXL_20250628_153636593.jpg)
+- 6th Street, Cincinnati, OH: Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons. [6th Street, Cincinnati, OH (33345457068).jpg](https://commons.wikimedia.org/wiki/File:6th_Street,_Cincinnati,_OH_(33345457068).jpg)
+- Procter and Gamble World Headquarters, Cincinnati, OH: Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons. [Procter and Gamble World Headquarters, Cincinnati, OH (32278862657).jpg](https://commons.wikimedia.org/wiki/File:Procter_and_Gamble_World_Headquarters,_Cincinnati,_OH_(32278862657).jpg)
+- Procter ^ Gamble soap factory, seen from St Clement's Churchyard, West Thurrock - geograph.org.uk: Marathon, CC BY-SA 2.0, via Wikimedia Commons. [Procter ^ Gamble soap factory, seen from St Clement's Churchyard, West Thurrock - geograph.org.uk - 6570998.jpg](https://commons.wikimedia.org/wiki/File:Procter_%5E_Gamble_soap_factory,_seen_from_St_Clement%27s_Churchyard,_West_Thurrock_-_geograph.org.uk_-_6570998.jpg)
+- Procter and Gamble Baltimore Plant 2016: Camerafiend, CC BY-SA 4.0, via Wikimedia Commons. [Procter and Gamble Baltimore Plant 2016.jpg](https://commons.wikimedia.org/wiki/File:Procter_and_Gamble_Baltimore_Plant_2016.jpg)
+
+## Progressive Corporation (PGR)
+
+- Cleveland Guardians: Erik Drost, CC BY 2.0, via Wikimedia Commons. [Cleveland Guardians (51727671862).jpg](https://commons.wikimedia.org/wiki/File:Cleveland_Guardians_(51727671862).jpg)
+- 2023 Cleveland Guardians Home Opener: Erik Drost, CC BY 2.0, via Wikimedia Commons. [2023 Cleveland Guardians Home Opener - 52849296342.jpg](https://commons.wikimedia.org/wiki/File:2023_Cleveland_Guardians_Home_Opener_-_52849296342.jpg)
+- PGR Corp HQ: Stevehockey5, CC BY 4.0, via Wikimedia Commons. [PGR Corp HQ.jpg](https://commons.wikimedia.org/wiki/File:PGR_Corp_HQ.jpg)
+- Rocket Mortgage FieldHouse: Cards84664, CC BY-SA 4.0, via Wikimedia Commons. [Rocket Mortgage FieldHouse (2).jpg](https://commons.wikimedia.org/wiki/File:Rocket_Mortgage_FieldHouse_(2).jpg)
+- Rocket Mortgage FieldHouse (August, 2019): Cards84664, CC BY-SA 4.0, via Wikimedia Commons. [Rocket Mortgage FieldHouse (August, 2019).jpg](https://commons.wikimedia.org/wiki/File:Rocket_Mortgage_FieldHouse_(August,_2019).jpg)
+- Cleveland Fireworks: Erik Drost, CC BY 2.0, via Wikimedia Commons. [Cleveland Fireworks (28517155614).jpg](https://commons.wikimedia.org/wiki/File:Cleveland_Fireworks_(28517155614).jpg)
+- Cleveland Indians Fireworks: Erik Drost, CC BY 2.0, via Wikimedia Commons. [Cleveland Indians Fireworks (18418385694).jpg](https://commons.wikimedia.org/wiki/File:Cleveland_Indians_Fireworks_(18418385694).jpg)
+- Progressive truck, Valdosta: Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons. [Progressive truck, Valdosta.JPG](https://commons.wikimedia.org/wiki/File:Progressive_truck,_Valdosta.JPG)
+- Progressive Sutton Insurance, Tifton: Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons. [Progressive Sutton Insurance, Tifton.JPG](https://commons.wikimedia.org/wiki/File:Progressive_Sutton_Insurance,_Tifton.JPG)
+- Progressive, Valdosta: Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons. [Progressive, Valdosta.JPG](https://commons.wikimedia.org/wiki/File:Progressive,_Valdosta.JPG)
+
+## Prologis (PLD)
+
+- Pier 1 from the water, June 2019: Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons. [Pier 1 from the water, June 2019.JPG](https://commons.wikimedia.org/wiki/File:Pier_1_from_the_water,_June_2019.JPG)
+- ProLogis Delticom Terminal Lehrte: Gerd Fahrenhorst, CC BY 4.0, via Wikimedia Commons. [ProLogis Delticom Terminal Lehrte.jpg](https://commons.wikimedia.org/wiki/File:ProLogis_Delticom_Terminal_Lehrte.jpg)
+- Prologis HH-Steinwerder 2: Gerd Fahrenhorst, CC BY 4.0, via Wikimedia Commons. [Prologis HH-Steinwerder 2.jpg](https://commons.wikimedia.org/wiki/File:Prologis_HH-Steinwerder_2.jpg)
+- From the Q113 td ( ) 100 - Rockaway Boulevard-Idlewild Park: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [From the Q113 td (2018-08-03) 100 - Rockaway Boulevard-Idlewild Park.jpg](https://commons.wikimedia.org/wiki/File:From_the_Q113_td_(2018-08-03)_100_-_Rockaway_Boulevard-Idlewild_Park.jpg)
+- Projekt Heißluftballon-1223: Jean11, CC BY-SA 3.0 de, via Wikimedia Commons. [Projekt Heißluftballon-1223.jpg](https://commons.wikimedia.org/wiki/File:Projekt_Hei%C3%9Fluftballon-1223.jpg)
+- Prologis Park Ichikawa 2 from main gate 2021: Comyu, CC BY-SA 4.0, via Wikimedia Commons. [Prologis Park Ichikawa 2 from main gate 2021.jpg](https://commons.wikimedia.org/wiki/File:Prologis_Park_Ichikawa_2_from_main_gate_2021.jpg)
+- Keisei Transit Bus M105 Prologis Park Ichikawa 1 Erga Mio: Comyu, CC BY-SA 3.0, via Wikimedia Commons. [Keisei Transit Bus M105 Prologis Park Ichikawa 1 Erga Mio.jpg](https://commons.wikimedia.org/wiki/File:Keisei_Transit_Bus_M105_Prologis_Park_Ichikawa_1_Erga_Mio.jpg)
+- LG warehouse in Prologis Park Ryton - geograph.org.uk: David Howard, CC BY-SA 2.0, via Wikimedia Commons. [LG warehouse in Prologis Park Ryton - geograph.org.uk - 6141008.jpg](https://commons.wikimedia.org/wiki/File:LG_warehouse_in_Prologis_Park_Ryton_-_geograph.org.uk_-_6141008.jpg)
+- Monument to the workers at the Coventry Colliery ^ Homefires Plant, Prologis Park, Keresley - geograph.org.uk: A J Paxton, CC BY-SA 2.0, via Wikimedia Commons. [Monument to the workers at the Coventry Colliery ^ Homefires Plant, Prologis Park, Keresley - geograph.org.uk - 6956414.jpg](https://commons.wikimedia.org/wiki/File:Monument_to_the_workers_at_the_Coventry_Colliery_%5E_Homefires_Plant,_Prologis_Park,_Keresley_-_geograph.org.uk_-_6956414.jpg)
+- NCB sign by mineral rail line on perimeter of Prologis Park, Keresley, Coventry - geograph.org.uk: A J Paxton, CC BY-SA 2.0, via Wikimedia Commons. [NCB sign by mineral rail line on perimeter of Prologis Park, Keresley, Coventry - geograph.org.uk - 6838865.jpg](https://commons.wikimedia.org/wiki/File:NCB_sign_by_mineral_rail_line_on_perimeter_of_Prologis_Park,_Keresley,_Coventry_-_geograph.org.uk_-_6838865.jpg)
+
+## Prudential Financial (PRU)
+
+- John Strangfeld, Prudential Financial CEO (per Wikidata): Spaceboyjosh, CC BY-SA 4.0, via Wikimedia Commons. [John Strangfeld, CEO, Prudential Financial.JPG](https://commons.wikimedia.org/wiki/File:John_Strangfeld,_CEO,_Prudential_Financial.JPG)
+- Prudential Tower - Newark, NJ: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [Prudential Tower - Newark, NJ (55176538314).jpg](https://commons.wikimedia.org/wiki/File:Prudential_Tower_-_Newark,_NJ_(55176538314).jpg)
+- Prudential Tower: Gamezilla2019, CC0, via Wikimedia Commons. [Prudential Tower.jpg](https://commons.wikimedia.org/wiki/File:Prudential_Tower.jpg)
+- Dallas Underground Walkways sign: LazyCat256, CC0, via Wikimedia Commons. [Dallas Underground Walkways sign.jpg](https://commons.wikimedia.org/wiki/File:Dallas_Underground_Walkways_sign.jpg)
+- August 2018 in Warsaw: Rakoon, CC0, via Wikimedia Commons. [20180803 094926 August 2018 in Warsaw.jpg](https://commons.wikimedia.org/wiki/File:20180803_094926_August_2018_in_Warsaw.jpg)
+- 29-12-2019 Warszawa Prudential: Cybularny, CC0, via Wikimedia Commons. [29-12-2019 Warszawa Prudential.jpg](https://commons.wikimedia.org/wiki/File:29-12-2019_Warszawa_Prudential.jpg)
+- HK TST 尖沙咀 Tsim Sha Tsui 梳士巴利花園 Salisbury Garden 尖沙咀鐘樓 Clock Tower July 2021 SS2 02: SA SUAR MSITo, CC BY-SA 4.0, via Wikimedia Commons. [HK TST 尖沙咀 Tsim Sha Tsui 梳士巴利花園 Salisbury Garden 尖沙咀鐘樓 Clock Tower July 2021 SS2 02.jpg](https://commons.wikimedia.org/wiki/File:HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E6%A2%B3%E5%A3%AB%E5%B7%B4%E5%88%A9%E8%8A%B1%E5%9C%92_Salisbury_Garden_%E5%B0%96%E6%B2%99%E5%92%80%E9%90%98%E6%A8%93_Clock_Tower_July_2021_SS2_02.jpg)
+- Hie Shrine with view of Prudential Financial building: Immanuelle, CC BY 4.0, via Wikimedia Commons. [Hie Shrine with view of Prudential Financial building.jpg](https://commons.wikimedia.org/wiki/File:Hie_Shrine_with_view_of_Prudential_Financial_building.jpg)
+- HK WC 灣仔 Wan Chai 軒尼詩道 303 Hennessy Road Hip Shing Hong Wanchai Centre May 2022 Px3 02: H220 BONAEIRBONUSHON, CC BY-SA 4.0, via Wikimedia Commons. [HK WC 灣仔 Wan Chai 軒尼詩道 303 Hennessy Road Hip Shing Hong Wanchai Centre May 2022 Px3 02.jpg](https://commons.wikimedia.org/wiki/File:HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%BB%92%E5%B0%BC%E8%A9%A9%E9%81%93_303_Hennessy_Road_Hip_Shing_Hong_Wanchai_Centre_May_2022_Px3_02.jpg)
+- Prudential Tower Tokyo: Akonnchiroll, CC BY-SA 4.0, via Wikimedia Commons. [Prudential Tower Tokyo.jpg](https://commons.wikimedia.org/wiki/File:Prudential_Tower_Tokyo.jpg)
+
+## PTC Inc. (PTC)
+
+- PTC Inc: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [PTC Inc. (54960946690).jpg](https://commons.wikimedia.org/wiki/File:PTC_Inc._(54960946690).jpg)
+
+## Public Service Enterprise Group (PEG)
+
+- The PSE&G (Public Service Enterprise Group) headquarters building at 80 Park Place (just off Broad Street), in Newark, New Jersey. West face about sunset.: Smallbones, CC0, via Wikimedia Commons. [PSE&G 2.JPG](https://commons.wikimedia.org/wiki/File:PSE%26G_2.JPG)
+- 15 40 11 Gas pipe along Westwood Drive in the Mountainview section of Ewing Township, Mercer County, New Jersey: Famartin, CC BY-SA 4.0, via Wikimedia Commons. [2023-09-29 15 40 11 Gas pipe along Westwood Drive in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg](https://commons.wikimedia.org/wiki/File:2023-09-29_15_40_11_Gas_pipe_along_Westwood_Drive_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg)
+- Abandoned PSE&G Line: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [Abandoned PSE&G Line (25973217298).jpg](https://commons.wikimedia.org/wiki/File:Abandoned_PSE%26G_Line_(25973217298).jpg)
+- PSE&G - Elizabeth, NJ: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [PSE&G - Elizabeth, NJ (38185586034).jpg](https://commons.wikimedia.org/wiki/File:PSE%26G_-_Elizabeth,_NJ_(38185586034).jpg)
+- PSE&G 13.2kV & 4.15kV - Haddon Heights, NJ: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [PSE&G 13.2kV & 4.15kV - Haddon Heights, NJ (39925055322).jpg](https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_%26_4.15kV_-_Haddon_Heights,_NJ_(39925055322).jpg)
+- PSE&G 13.2kV - Audubon, NJ: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [PSE&G 13.2kV - Audubon, NJ (25085829067).jpg](https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Audubon,_NJ_(25085829067).jpg)
+- PSE&G 13.2kV - Barrington, NJ: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [PSE&G 13.2kV - Barrington, NJ (25085686467).jpg](https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Barrington,_NJ_(25085686467).jpg)
+- PSE&G 13.2kV - Camden, NJ: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [PSE&G 13.2kV - Camden, NJ (25049676197).jpg](https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Camden,_NJ_(25049676197).jpg)
+- PSE&G 13.2kV - Collingswood, NJ: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [PSE&G 13.2kV - Collingswood, NJ (26084250378).jpg](https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Collingswood,_NJ_(26084250378).jpg)
+- PSE&G 13.2kV - Fort Lee, NJ: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [PSE&G 13.2kV - Fort Lee, NJ (24976070467).jpg](https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Fort_Lee,_NJ_(24976070467).jpg)
+
+## Public Storage (PSA)
+
+- Little Havana, Miami, Florida Public Storage Sharp Angle: Sharon Hahn Darlin, CC BY 2.0, via Wikimedia Commons. [Little Havana, Miami, Florida Public Storage Sharp Angle.jpg](https://commons.wikimedia.org/wiki/File:Little_Havana,_Miami,_Florida_Public_Storage_Sharp_Angle.jpg)
+- Long Island City Queens June 2024 040: Kidfly182, CC BY 4.0, via Wikimedia Commons. [Long Island City Queens June 2024 040.jpg](https://commons.wikimedia.org/wiki/File:Long_Island_City_Queens_June_2024_040.jpg)
+- MBTA 109 bus on Broadway in Everett MA December 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [MBTA 109 bus on Broadway in Everett MA December 2025.jpg](https://commons.wikimedia.org/wiki/File:MBTA_109_bus_on_Broadway_in_Everett_MA_December_2025.jpg)
+- Public Storage at 30 Brodie Dr, Richmond Hill, ON L4B 3K8: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [PublicStorageRichmondHill.jpg](https://commons.wikimedia.org/wiki/File:PublicStorageRichmondHill.jpg)
+- Arrowood Station 04: Mark Clifton, CC BY-SA 2.0, via Wikimedia Commons. [Arrowood Station 04.jpg](https://commons.wikimedia.org/wiki/File:Arrowood_Station_04.jpg)
+- Interstate 95 in Connecticut: Adam Moss from Tonawanda, New York, United States, CC BY-SA 2.0, via Wikimedia Commons. [Interstate 95 in Connecticut (40702907804).jpg](https://commons.wikimedia.org/wiki/File:Interstate_95_in_Connecticut_(40702907804).jpg)
+- Northern Bl 31st St 40th Av td ( ) 02f - Extra Space Storage (30-46 Northern Boulevard): Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [Northern Bl 31st St 40th Av td (2024-08-01) 02f - Extra Space Storage (30-46 Northern Boulevard).jpg](https://commons.wikimedia.org/wiki/File:Northern_Bl_31st_St_40th_Av_td_(2024-08-01)_02f_-_Extra_Space_Storage_(30-46_Northern_Boulevard).jpg)
+- Long Island Expwy td ( ) 055 - Public Storage (49-20 Van Dam Street): Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [Long Island Expwy td (2021-07-28) 055 - Public Storage (49-20 Van Dam Street).jpg](https://commons.wikimedia.org/wiki/File:Long_Island_Expwy_td_(2021-07-28)_055_-_Public_Storage_(49-20_Van_Dam_Street).jpg)
+- Public Storage office in Newington, Virginia: Ser_Amantio_di_Nicolao, CC BY-SA 3.0, via Wikimedia Commons. [Public Storage office in Newington, Virginia.jpg](https://commons.wikimedia.org/wiki/File:Public_Storage_office_in_Newington,_Virginia.jpg)
+- Seattle, September 5, 2024 - 003: Another Believer, CC BY-SA 4.0, via Wikimedia Commons. [Seattle, September 5, 2024 - 003.jpg](https://commons.wikimedia.org/wiki/File:Seattle,_September_5,_2024_-_003.jpg)
+
+## Qualcomm (QCOM)
+
+- Qualcomm headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Qualcomm headquarters.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_headquarters.jpg)
+- Cristiano Amon, Qualcomm CEO (per Wikidata): ©2012 Eric Myer Photography, Inc., CC BY-SA 3.0, via Wikimedia Commons. [CristianoAmon.jpeg](https://commons.wikimedia.org/wiki/File:CristianoAmon.jpeg)
+- Audiência empresarial com o Presidente da Qualcomm, Luiz Tonisi: Ministério da Ciência, Tecnologia e Inovações from Brasília - DF, Brasil, CC BY 2.0, via Wikimedia Commons. [Audiência empresarial com o Presidente da Qualcomm, Luiz Tonisi (51157597702).jpg](https://commons.wikimedia.org/wiki/File:Audi%C3%AAncia_empresarial_com_o_Presidente_da_Qualcomm,_Luiz_Tonisi_(51157597702).jpg)
+- Computer Science Corporation building in Mindspace, Hyderabad: iMahesh, CC BY-SA 4.0, via Wikimedia Commons. [Computer Science Corporation building in Mindspace, Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:Computer_Science_Corporation_building_in_Mindspace,_Hyderabad.jpg)
+- IAA 2021, Munich (IAA10178): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [IAA 2021, Munich (IAA10178).jpg](https://commons.wikimedia.org/wiki/File:IAA_2021,_Munich_(IAA10178).jpg)
+- IAA Summit 2025, Munich ( - ): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [IAA Summit 2025, Munich (20250908-P1049666).jpg](https://commons.wikimedia.org/wiki/File:IAA_Summit_2025,_Munich_(20250908-P1049666).jpg)
+- Qualcomm Semiconductor Corporation Hsinchu: T Gordon Cheng, CC BY-SA 4.0, via Wikimedia Commons. [Qualcomm Semiconductor Corporation Hsinchu 2022-12-07.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_Semiconductor_Corporation_Hsinchu_2022-12-07.jpg)
+- Qualcomm Headquarters La Jolla: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Qualcomm Headquarters La Jolla.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_Headquarters_La_Jolla.jpg)
+- Qualcomm office building, Cambridge Business Park - geograph.org.uk: David Smith, CC BY-SA 2.0, via Wikimedia Commons. [Qualcomm office building, Cambridge Business Park - geograph.org.uk - 7658868.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_office_building,_Cambridge_Business_Park_-_geograph.org.uk_-_7658868.jpg)
+- Qualcomm technologies building in Mindspace, Hyderabad: iMahesh, CC BY-SA 4.0, via Wikimedia Commons. [Qualcomm technologies building in Mindspace, Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_technologies_building_in_Mindspace,_Hyderabad.jpg)
+
+## Quanta Services (PWR)
+
+- Quanta Express at 2026 Sheridan WYO Rodeo 01: Runawaymo, CC BY-SA 4.0, via Wikimedia Commons. [Quanta Express at 2026 Sheridan WYO Rodeo 01.jpg](https://commons.wikimedia.org/wiki/File:Quanta_Express_at_2026_Sheridan_WYO_Rodeo_01.jpg)
+
+## Quest Diagnostics (DGX)
+
+- Steve Rusckowski, Quest Diagnostics CEO (per Wikidata): World Economic Forum, CC BY 3.0, via Wikimedia Commons. [Steve Rusckowski at the World Economic Forum.jpg](https://commons.wikimedia.org/wiki/File:Steve_Rusckowski_at_the_World_Economic_Forum.jpg)
+- Counter space at Quest Diagnostics in Franconia: Ser Amantio di Nicolao, CC BY-SA 3.0, via Wikimedia Commons. [Counter space at Quest Diagnostics in Franconia.jpg](https://commons.wikimedia.org/wiki/File:Counter_space_at_Quest_Diagnostics_in_Franconia.jpg)
+- Entrance to Quest Diagnostics office in Franconia: Ser Amantio di Nicolao, CC BY-SA 3.0, via Wikimedia Commons. [Entrance to Quest Diagnostics office in Franconia.jpg](https://commons.wikimedia.org/wiki/File:Entrance_to_Quest_Diagnostics_office_in_Franconia.jpg)
+- Quest Columbus 2: Ɱ, CC BY-SA 4.0, via Wikimedia Commons. [Quest Columbus 2.jpg](https://commons.wikimedia.org/wiki/File:Quest_Columbus_2.jpg)
+- Seating area, Quest Diagnostics in Franconia: Ser Amantio di Nicolao, CC BY-SA 3.0, via Wikimedia Commons. [Seating area, Quest Diagnostics in Franconia.jpg](https://commons.wikimedia.org/wiki/File:Seating_area,_Quest_Diagnostics_in_Franconia.jpg)
+- Starbucks Coffee and Quest Diagnostics: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Starbucks Coffee and Quest Diagnostics (25108494092).jpg](https://commons.wikimedia.org/wiki/File:Starbucks_Coffee_and_Quest_Diagnostics_(25108494092).jpg)
+- Quest Diagnostics: Northwest Retail, CC BY-SA 2.0, via Wikimedia Commons. [Quest Diagnostics (37053664403).jpg](https://commons.wikimedia.org/wiki/File:Quest_Diagnostics_(37053664403).jpg)
+- Quest Diagnostics Manteca, California: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Quest Diagnostics Manteca, California.jpg](https://commons.wikimedia.org/wiki/File:Quest_Diagnostics_Manteca,_California.jpg)
+
+## Ralph Lauren Corporation (RL)
+
+- Gertrude Rhinelander Waldo House: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Gertrude Rhinelander Waldo House (51660337406).jpg](https://commons.wikimedia.org/wiki/File:Gertrude_Rhinelander_Waldo_House_(51660337406).jpg)
+- Ralph Lauren Aventura Mall FL 2023: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Ralph Lauren Aventura Mall FL 2023.jpg](https://commons.wikimedia.org/wiki/File:Ralph_Lauren_Aventura_Mall_FL_2023.jpg)
+- Ralph's Coffee Rockefeller Center NYC: Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons. [Ralph's Coffee Rockefeller Center NYC.jpg](https://commons.wikimedia.org/wiki/File:Ralph%27s_Coffee_Rockefeller_Center_NYC.jpg)
+- STRIKE Wardrobe Shooting Vintage Fashion 4: Rogi Lensing, CC BY 3.0 de, via Wikimedia Commons. [20201128 STRIKE Wardrobe Shooting Vintage Fashion 4.jpg](https://commons.wikimedia.org/wiki/File:20201128_STRIKE_Wardrobe_Shooting_Vintage_Fashion_4.jpg)
+- JP 日本 Japan 沖繩 OKINAWA Outlet Mall Ashibinaa shop January 2025 R12S 241: Naha Mama Pavilionz, CC0, via Wikimedia Commons. [JP 日本 Japan 沖繩 OKINAWA Outlet Mall Ashibinaa shop January 2025 R12S 241.jpg](https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_shop_January_2025_R12S_241.jpg)
+- HK AM Admiralty Pacific Place mall night July 2026 N13P 01: HUAWSHI teauLung, CC0, via Wikimedia Commons. [HK AM Admiralty Pacific Place mall night July 2026 N13P 01.jpg](https://commons.wikimedia.org/wiki/File:HK_AM_Admiralty_Pacific_Place_mall_night_July_2026_N13P_01.jpg)
+- HK Central IFC Mall shop Polo Ralph Lauren Clothing Store March 2026 N13P 01: Luksongm MWLLOPPEE, CC0, via Wikimedia Commons. [HK Central IFC Mall shop Polo Ralph Lauren Clothing Store March 2026 N13P 01.jpg](https://commons.wikimedia.org/wiki/File:HK_Central_IFC_Mall_shop_Polo_Ralph_Lauren_Clothing_Store_March_2026_N13P_01.jpg)
+- GER Ingolstadt, Ingolstadt Village 0039: -wuppertaler, CC BY 4.0, via Wikimedia Commons. [GER Ingolstadt, Ingolstadt Village 0039.jpg](https://commons.wikimedia.org/wiki/File:GER_Ingolstadt,_Ingolstadt_Village_0039.jpg)
+- HK Central Sunday holiday morning April 2021 SS2 12: CHAORMWIVU Hong Xims, CC BY-SA 4.0, via Wikimedia Commons. [HK Central Sunday holiday morning April 2021 SS2 12.jpg](https://commons.wikimedia.org/wiki/File:HK_Central_Sunday_holiday_morning_April_2021_SS2_12.jpg)
+- HK 中環 Central 歷山大廈 Alexandra House mall food stall Ralph's October 2020 SS2 01: Cheuvkam Luaoi, CC BY-SA 4.0, via Wikimedia Commons. [HK 中環 Central 歷山大廈 Alexandra House mall food stall Ralph's October 2020 SS2 01.jpg](https://commons.wikimedia.org/wiki/File:HK_%E4%B8%AD%E7%92%B0_Central_%E6%AD%B7%E5%B1%B1%E5%A4%A7%E5%BB%88_Alexandra_House_mall_food_stall_Ralph%27s_October_2020_SS2_01.jpg)
+
+## Raymond James Financial (RJF)
+
+- Raymond James Financial: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Raymond James Financial (53872771875).jpg](https://commons.wikimedia.org/wiki/File:Raymond_James_Financial_(53872771875).jpg)
+
+## Reddit (RDDT)
+
+- Steve Huffman, Reddit CEO (per Wikidata): Photo by Cody Glenn/Web Summit via Sportsfile ©SPORTSFILE, CC BY 2.0, via Wikimedia Commons. [Web Summit 2017 - Centre Stage Day 2 CG1 7885 (38232183112) (cropped).jpg](https://commons.wikimedia.org/wiki/File:Web_Summit_2017_-_Centre_Stage_Day_2_CG1_7885_(38232183112)_(cropped).jpg)
+- Fuck spez: reddit.com/r/place, public domain, via Wikimedia Commons. [Fuck spez.png](https://commons.wikimedia.org/wiki/File:Fuck_spez.png)
+- Monthly user submissions to Reddit (linear scale): Authors of the preprint study: Pablo Villalobos, Jaime Sevilla, Lennart Heim, Tamay Besiroglu, Marius Hobbhahn, Anson Ho, CC BY 4.0, via Wikimedia Commons. [Monthly user submissions to Reddit (linear scale).png](https://commons.wikimedia.org/wiki/File:Monthly_user_submissions_to_Reddit_(linear_scale).png)
+- Stellarator progress: Alf Kohn-Seemann, CC BY-SA 4.0, via Wikimedia Commons. [Stellarator progress.png](https://commons.wikimedia.org/wiki/File:Stellarator_progress.png)
+- GOES-R Reddit AMA- October 6, 2016: NOAASatellites, public domain, via Wikimedia Commons. [GOES-R Reddit AMA- October 6, 2016 (29823849470).jpg](https://commons.wikimedia.org/wiki/File:GOES-R_Reddit_AMA-_October_6,_2016_(29823849470).jpg)
+- Hello, Reddit!: NASA's James Webb Space Telescope from Greenbelt, MD, USA, public domain, via Wikimedia Commons. [Hello, Reddit! (8200995434).jpg](https://commons.wikimedia.org/wiki/File:Hello,_Reddit!_(8200995434).jpg)
+- 'Not exactly what I meant with nuclear mushroom, but I'll take it' (Stable Diffusion misgeneration): Author : Stable Diffusion ; Prompt by Sashimi_al_salmone, public domain, via Wikimedia Commons. ['Not exactly what I meant with nuclear mushroom, but I'll take it' (Stable Diffusion misgeneration).png](https://commons.wikimedia.org/wiki/File:%27Not_exactly_what_I_meant_with_nuclear_mushroom,_but_I%27ll_take_it%27_(Stable_Diffusion_misgeneration).png)
+- Pride London 2011 - 123: Tom Morris, CC BY-SA 3.0, via Wikimedia Commons. [Pride London 2011 - 123.jpg](https://commons.wikimedia.org/wiki/File:Pride_London_2011_-_123.jpg)
+- Wordcloud of discussion on Reddit about Wikipedia: Ian Furst, CC BY-SA 3.0, via Wikimedia Commons. [Wordcloud of discussion on Reddit about Wikipedia.png](https://commons.wikimedia.org/wiki/File:Wordcloud_of_discussion_on_Reddit_about_Wikipedia.png)
+
+## Regeneron Pharmaceuticals (REGN)
+
+- New Eastview office bldg jeh: Jim.henderson, CC0, via Wikimedia Commons. [New Eastview office bldg jeh.jpg](https://commons.wikimedia.org/wiki/File:New_Eastview_office_bldg_jeh.jpg)
+- Right Hand Skin Regeneration Day 8: Bdpepp2, CC BY 4.0, via Wikimedia Commons. [Right Hand Skin Regeneration Day 8.jpg](https://commons.wikimedia.org/wiki/File:Right_Hand_Skin_Regeneration_Day_8.jpg)
+- George Yancopoulos 2: AbhiramJuvvadi, CC BY-SA 4.0, via Wikimedia Commons. [George Yancopoulos 2.jpg](https://commons.wikimedia.org/wiki/File:George_Yancopoulos_2.jpg)
+- Rockwood Hall 2018 03: Ɱ, CC BY-SA 4.0, via Wikimedia Commons. [Rockwood Hall 2018 03.jpg](https://commons.wikimedia.org/wiki/File:Rockwood_Hall_2018_03.jpg)
+- Regeneron Pharmaceuticals: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Regeneron Pharmaceuticals (52641236716).jpg](https://commons.wikimedia.org/wiki/File:Regeneron_Pharmaceuticals_(52641236716).jpg)
+
+## Regions Financial Corporation (RF)
+
+- Regions Center (Little Rock): Quintin Soloviev, CC BY 4.0, via Wikimedia Commons. [Regions Center (Little Rock).jpg](https://commons.wikimedia.org/wiki/File:Regions_Center_(Little_Rock).jpg)
+- Jackson December 2018 28 (Regions Bank Building): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Jackson December 2018 28 (Regions Bank Building).jpg](https://commons.wikimedia.org/wiki/File:Jackson_December_2018_28_(Regions_Bank_Building).jpg)
+- New Orleans Poydras Street 3272 Regions Bank: Bjoertvedt, CC BY-SA 4.0, via Wikimedia Commons. [New Orleans Poydras Street IMG 3272 Regions Bank.jpg](https://commons.wikimedia.org/wiki/File:New_Orleans_Poydras_Street_IMG_3272_Regions_Bank.jpg)
+- Wachovia and Regions, downtown Birmingham: Melinda Shelton, CC BY 2.0, via Wikimedia Commons. [Wachovia and Regions, downtown Birmingham.jpg](https://commons.wikimedia.org/wiki/File:Wachovia_and_Regions,_downtown_Birmingham.jpg)
+- Boyle Building, Regions Center, Bank of America Plaza & One Union National Plaza - Little Rock, AR: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Boyle Building, Regions Center, Bank of America Plaza & One Union National Plaza - Little Rock, AR.jpg](https://commons.wikimedia.org/wiki/File:Boyle_Building,_Regions_Center,_Bank_of_America_Plaza_%26_One_Union_National_Plaza_-_Little_Rock,_AR.jpg)
+- Regions Bank Tower: Altairisfar, public domain, via Wikimedia Commons. [Regions Bank Tower.jpg](https://commons.wikimedia.org/wiki/File:Regions_Bank_Tower.jpg)
+- Oakland Cemetery and Regions Bank, Shreveport 3435: Billy Hathorn, CC BY-SA 3.0, via Wikimedia Commons. [Oakland Cemetery and Regions Bank, Shreveport IMG 3435.jpg](https://commons.wikimedia.org/wiki/File:Oakland_Cemetery_and_Regions_Bank,_Shreveport_IMG_3435.jpg)
+- Shreveport September 2015 026 (Regions Tower): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Shreveport September 2015 026 (Regions Tower).jpg](https://commons.wikimedia.org/wiki/File:Shreveport_September_2015_026_(Regions_Tower).jpg)
+- 56 St. Joseph Street Mobile AL 01: Altairisfar, public domain, via Wikimedia Commons. [56 St. Joseph Street Mobile AL 01.JPG](https://commons.wikimedia.org/wiki/File:56_St._Joseph_Street_Mobile_AL_01.JPG)
+- Orlando - Downtown - View Towards Orange County History Museum & Regions Bank Building: Jared, CC BY 2.0, via Wikimedia Commons. [Orlando - Downtown - View Towards Orange County History Museum & Regions Bank Building.jpg](https://commons.wikimedia.org/wiki/File:Orlando_-_Downtown_-_View_Towards_Orange_County_History_Museum_%26_Regions_Bank_Building.jpg)
+
+## Republic Services (RSG)
+
+- Republic Services garbage truck in Kent, WA - 0009: Roc0ast3r, CC0, via Wikimedia Commons. [Republic Services garbage truck in Kent, WA (2025) - 0009.jpg](https://commons.wikimedia.org/wiki/File:Republic_Services_garbage_truck_in_Kent,_WA_(2025)_-_0009.jpg)
+- Republic Services waste collection truck: Eric Polk, CC BY-SA 4.0, via Wikimedia Commons. [Republic Services waste collection truck.jpg](https://commons.wikimedia.org/wiki/File:Republic_Services_waste_collection_truck.jpg)
+
+## Rio Tinto (RIO)
+
+- Rio Tinto Boron mine and plant: Marcin Wichary, CC BY 2.0, via Wikimedia Commons. [Rio Tinto Boron mine and plant.jpg](https://commons.wikimedia.org/wiki/File:Rio_Tinto_Boron_mine_and_plant.jpg)
+- Rio Tinto Building at 155 Charlotte Street, Brisbane City, Queensland, 2023, 01: Kgbo, CC BY-SA 4.0, via Wikimedia Commons. [Rio Tinto Building at 155 Charlotte Street, Brisbane City, Queensland, 2023, 01.jpg](https://commons.wikimedia.org/wiki/File:Rio_Tinto_Building_at_155_Charlotte_Street,_Brisbane_City,_Queensland,_2023,_01.jpg)
+- Rio Tinto Building 4944: Chris Light, CC BY-SA 4.0, via Wikimedia Commons. [Rio Tinto Building 4944.jpg](https://commons.wikimedia.org/wiki/File:Rio_Tinto_Building_4944.jpg)
+- Royal Albert Hotel and Rio Tinto building at 123 Albert Street, Brisbane: Kgbo, CC BY-SA 4.0, via Wikimedia Commons. [Royal Albert Hotel and Rio Tinto building at 123 Albert Street, Brisbane.jpg](https://commons.wikimedia.org/wiki/File:Royal_Albert_Hotel_and_Rio_Tinto_building_at_123_Albert_Street,_Brisbane.jpg)
+
+## Rivian (RIVN)
+
+- Rivian Normal Plant Floor: Photo by Rivian., CC BY-SA 4.0, via Wikimedia Commons. [Rivian Normal Plant Floor.jpg](https://commons.wikimedia.org/wiki/File:Rivian_Normal_Plant_Floor.jpg)
+- Robert "RJ" Scaringe, Rivian CEO (per Wikidata): Richard Truesdell, CC BY-SA 4.0, via Wikimedia Commons. [Rivian founder and CEO Robert "RJ" Scaringe at the debut of the Rivian R1S SUV at the 2018 Los Angeles Auto Show, November 27, 2018 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Rivian_founder_and_CEO_Robert_%22RJ%22_Scaringe_at_the_debut_of_the_Rivian_R1S_SUV_at_the_2018_Los_Angeles_Auto_Show,_November_27,_2018_(cropped).jpg)
+- Rivian Ghostbusters Ecto-R1: Phillip Pessar, CC BY 4.0, via Wikimedia Commons. [Rivian Ghostbusters Ecto-R1.jpg](https://commons.wikimedia.org/wiki/File:Rivian_Ghostbusters_Ecto-R1.jpg)
+- Rivian showroom at Legacy Place, Dedham, MA August 2026: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [Rivian showroom at Legacy Place, Dedham, MA August 2026.jpg](https://commons.wikimedia.org/wiki/File:Rivian_showroom_at_Legacy_Place,_Dedham,_MA_August_2026.jpg)
+- Chevrolet Bolt EV charging at Rivian fast charger in West Hartford, CT July 2026: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [Chevrolet Bolt EV charging at Rivian fast charger in West Hartford, CT July 2026.jpg](https://commons.wikimedia.org/wiki/File:Chevrolet_Bolt_EV_charging_at_Rivian_fast_charger_in_West_Hartford,_CT_July_2026.jpg)
+- Newly Open Rivian Showroom Brickell - facade: Phillip Pessar, CC BY 4.0, via Wikimedia Commons. [Newly Open Rivian Showroom Brickell - facade.jpg](https://commons.wikimedia.org/wiki/File:Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg)
+- Everything Electric Canada 2024: GoToVan, CC BY 2.0, via Wikimedia Commons. [Everything Electric Canada 2024 - 53982399344.jpg](https://commons.wikimedia.org/wiki/File:Everything_Electric_Canada_2024_-_53982399344.jpg)
+- Rivian Mobile Service truck Main Street downtown Montpelier VT May 2023 rear: Artaxerxes, CC BY-SA 4.0, via Wikimedia Commons. [Rivian Mobile Service truck Main Street downtown Montpelier VT May 2023 rear.jpg](https://commons.wikimedia.org/wiki/File:Rivian_Mobile_Service_truck_Main_Street_downtown_Montpelier_VT_May_2023_rear.jpg)
+- Rivian Ecto R-1 Ghostbusters - 17 Oct 2026: Phillip Pessar, CC BY 4.0, via Wikimedia Commons. [Rivian Ecto R-1 Ghostbusters - 17 Oct 2026.jpg](https://commons.wikimedia.org/wiki/File:Rivian_Ecto_R-1_Ghostbusters_-_17_Oct_2026.jpg)
+- Limousine in New York: Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons. [Limousine in New York.jpg](https://commons.wikimedia.org/wiki/File:Limousine_in_New_York.jpg)
+
+## Roblox (RBLX)
+
+- David Baszucki, Roblox CEO (per Wikidata): TechCrunch, CC BY 2.0, via Wikimedia Commons. [TechCrunch Disrupt San Francisco 2018 - day 1 (30633298878).jpg](https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_San_Francisco_2018_-_day_1_(30633298878).jpg)
+- Cosplay at Animate Raleigh 2026 - timx3342: Super Festivals from Ft. Lauderdale, USA, CC BY 4.0, via Wikimedia Commons. [Cosplay at Animate Raleigh 2026 - timx3342 (55264415901).jpg](https://commons.wikimedia.org/wiki/File:Cosplay_at_Animate_Raleigh_2026_-_timx3342_(55264415901).jpg)
+- Roblox building in San Mateo CA January 2026: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [Roblox building in San Mateo CA January 2026.jpg](https://commons.wikimedia.org/wiki/File:Roblox_building_in_San_Mateo_CA_January_2026.jpg)
+- Roblox gift cards: 3df, CC BY-SA 4.0, via Wikimedia Commons. [Roblox gift cards.jpg](https://commons.wikimedia.org/wiki/File:Roblox_gift_cards.jpg)
+- Roblox headquarters: Mliu92, CC BY-SA 3.0, via Wikimedia Commons. [Roblox headquarters.jpg](https://commons.wikimedia.org/wiki/File:Roblox_headquarters.jpg)
+- Quinten Delaere Gaming GWR: Kannotlogin, CC BY-SA 4.0, via Wikimedia Commons. [Quinten Delaere Gaming GWR.jpg](https://commons.wikimedia.org/wiki/File:Quinten_Delaere_Gaming_GWR.jpg)
+- Roblox restrictions by country: Bennett1203, CC BY-SA 4.0, via Wikimedia Commons. [Roblox restrictions by country.jpg](https://commons.wikimedia.org/wiki/File:Roblox_restrictions_by_country.jpg)
+- Roblox HQ at 2850 South Delaware Street: BrokenSegue, CC BY-SA 4.0, via Wikimedia Commons. [Roblox HQ at 2850 South Delaware Street.jpg](https://commons.wikimedia.org/wiki/File:Roblox_HQ_at_2850_South_Delaware_Street.jpg)
+
+## Rocket Lab (RKLB)
+
+- A National Reconnaissance Office (NRO) payload was successfully launched aboard a Rocket Lab Electron rocket from Launch Complex-1, Mahia Peninsula, New Zealand: Scott Andrews, public domain, via Wikimedia Commons. [200131-D-RQ659-0001.JPG](https://commons.wikimedia.org/wiki/File:200131-D-RQ659-0001.JPG)
+- Rocket Lab Leader Visits NASA Stennis (SSC- -s00158): NASA Stennis Space Center / Danny Nowlin, public domain, via Wikimedia Commons. [Rocket Lab Leader Visits NASA Stennis (SSC-20250226-s00158).jpg](https://commons.wikimedia.org/wiki/File:Rocket_Lab_Leader_Visits_NASA_Stennis_(SSC-20250226-s00158).jpg)
+- Engineers at Ames Research Center complete a fit check of the two halves of a space capsule: NASA/Brandon Torres Navarrete, public domain, via Wikimedia Commons. [Engineers at Ames Research Center complete a fit check of the two halves of a space capsule.jpg](https://commons.wikimedia.org/wiki/File:Engineers_at_Ames_Research_Center_complete_a_fit_check_of_the_two_halves_of_a_space_capsule.jpg)
+- Venus Life Finder Probe Cutaway: Darrel Baumgardner, Ted Fisher, Roy Newton, Chris Roden, Pat Zmarzly, Sara Seager, Janusz J. Petkowski, Christopher E. Carr, Jan Špaček, Steven A. Benner, Margaret A. Tolbert, Kevin Jansen, David H. Grinspoon and Christophe Mandy, CC BY 4.0, via Wikimedia Commons. [Venus Life Finder Probe Cutaway.png](https://commons.wikimedia.org/wiki/File:Venus_Life_Finder_Probe_Cutaway.png)
+- CeREs VCLS CubeSat 0002: NASA, public domain, via Wikimedia Commons. [CeREs VCLS CubeSat 0002 (26563127467).jpg](https://commons.wikimedia.org/wiki/File:CeREs_VCLS_CubeSat_0002_(26563127467).jpg)
+- KSC- -PH CSH01 0002: Cory Huston, public domain, via Wikimedia Commons. [KSC-20180410-PH CSH01 0002.jpg](https://commons.wikimedia.org/wiki/File:KSC-20180410-PH_CSH01_0002.jpg)
+- Launch Pad 0D Ribbon-Cutting with Rocket Lab, Wallops Island - 8-28-25: Virginia Office of the Governor, CC BY 4.0, via Wikimedia Commons. [Launch Pad 0D Ribbon-Cutting with Rocket Lab, Wallops Island - 8-28-25 (25).jpg](https://commons.wikimedia.org/wiki/File:Launch_Pad_0D_Ribbon-Cutting_with_Rocket_Lab,_Wallops_Island_-_8-28-25_(25).jpg)
+- CENTRAL INSTRUMENTATION ROOM OF THE ROCKET LABORATORY (grc-1952-c- -scaled): NASA, public domain, via Wikimedia Commons. [CENTRAL INSTRUMENTATION ROOM OF THE ROCKET LABORATORY (grc-1952-c-29112-scaled).jpg](https://commons.wikimedia.org/wiki/File:CENTRAL_INSTRUMENTATION_ROOM_OF_THE_ROCKET_LABORATORY_(grc-1952-c-29112-scaled).jpg)
+- Hydrogen Engine Test at the Rocket Lab (grc-1955-c-37427b): NASA, public domain, via Wikimedia Commons. [Hydrogen Engine Test at the Rocket Lab (grc-1955-c-37427b).jpg](https://commons.wikimedia.org/wiki/File:Hydrogen_Engine_Test_at_the_Rocket_Lab_(grc-1955-c-37427b).jpg)
+- Rocket Lab PREFIRE and Ice Launch (KSC- -PH-RKL01 0005): NASA Kennedy Space Center / Rocket Lab, public domain, via Wikimedia Commons. [Rocket Lab PREFIRE and Ice Launch (KSC-20240605-PH-RKL01 0005).jpg](https://commons.wikimedia.org/wiki/File:Rocket_Lab_PREFIRE_and_Ice_Launch_(KSC-20240605-PH-RKL01_0005).jpg)
+
+## Rockwell Automation (ROK)
+
+- Rockwell Automation Headquarters: a Rockwell Automation Employee, CC BY-SA 4.0, via Wikimedia Commons. [Rockwell Automation Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Rockwell_Automation_Headquarters.jpg)
+- Rockwell Automation Richland Center Plant - panoramio: Corey Coyle, CC BY 3.0, via Wikimedia Commons. [Rockwell Automation Richland Center Plant - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Rockwell_Automation_Richland_Center_Plant_-_panoramio.jpg)
+- Milwaukee April 2026 07 (Rockwell Automation Headquarters): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Milwaukee April 2026 07 (Rockwell Automation Headquarters).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee_April_2026_07_(Rockwell_Automation_Headquarters).jpg)
+- Milwaukee August 2024 045 (Rockwell Automation Headquarters): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Milwaukee August 2024 045 (Rockwell Automation Headquarters).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee_August_2024_045_(Rockwell_Automation_Headquarters).jpg)
+- Allen Bradley PLC: Rahat ( Talk * Contributions ), CC BY-SA 4.0, via Wikimedia Commons. [Allen Bradley PLC.jpeg](https://commons.wikimedia.org/wiki/File:Allen_Bradley_PLC.jpeg)
+- Rockwell Automation Headquarters - panoramio: Corey Coyle, CC BY 3.0, via Wikimedia Commons. [Rockwell Automation Headquarters - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Rockwell_Automation_Headquarters_-_panoramio.jpg)
+
+## Roku (ROKU)
+
+- Roku: F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [Roku 1 2017-02-23.jpg](https://commons.wikimedia.org/wiki/File:Roku_1_2017-02-23.jpg)
+- 1167 Coleman Avenue: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [1167 Coleman Avenue.jpg](https://commons.wikimedia.org/wiki/File:1167_Coleman_Avenue.jpg)
+- Insignia Roku TV Remote: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Insignia Roku TV Remote.jpg](https://commons.wikimedia.org/wiki/File:Insignia_Roku_TV_Remote.jpg)
+- Roku at MAU Vegas 2026: Rosiestep, CC BY-SA 4.0, via Wikimedia Commons. [Roku at MAU Vegas 2026.jpg](https://commons.wikimedia.org/wiki/File:Roku_at_MAU_Vegas_2026.jpg)
+- TCL Roku TV Remote: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [TCL Roku TV Remote.jpg](https://commons.wikimedia.org/wiki/File:TCL_Roku_TV_Remote.jpg)
+- Roku Express: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Roku Express.jpg](https://commons.wikimedia.org/wiki/File:Roku_Express.jpg)
+- Roku Outdoor Wired Camera: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Roku Outdoor Wired Camera.jpg](https://commons.wikimedia.org/wiki/File:Roku_Outdoor_Wired_Camera.jpg)
+- Higashi-Jujo Roku Post Office: ヤンくん, CC BY-SA 4.0, via Wikimedia Commons. [Higashi-Jujo Roku Post Office.jpg](https://commons.wikimedia.org/wiki/File:Higashi-Jujo_Roku_Post_Office.jpg)
+- Akabane-Nishi Roku Post Office: ヤンくん, CC BY-SA 4.0, via Wikimedia Commons. [Akabane-Nishi Roku Post Office.jpg](https://commons.wikimedia.org/wiki/File:Akabane-Nishi_Roku_Post_Office.jpg)
+- Roku Streambar: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Roku Streambar.jpg](https://commons.wikimedia.org/wiki/File:Roku_Streambar.jpg)
+
+## Ross Stores (ROST)
+
+- Ross Store 01: Miosotis Jade, CC BY-SA 4.0, via Wikimedia Commons. [Ross Store 01.jpg](https://commons.wikimedia.org/wiki/File:Ross_Store_01.jpg)
+- Exit B4 of Powell Street station: Evan0512, CC BY 4.0, via Wikimedia Commons. [Exit B4 of Powell Street station 20251102.jpg](https://commons.wikimedia.org/wiki/File:Exit_B4_of_Powell_Street_station_20251102.jpg)
+- Ross Dress for Less, Colorado Springs: Lumen Wilde, CC BY 2.0, via Wikimedia Commons. [Ross Dress for Less, Colorado Springs (54556049627).jpg](https://commons.wikimedia.org/wiki/File:Ross_Dress_for_Less,_Colorado_Springs_(54556049627).jpg)
+- Mini Mall South Beach Florida 2025: Phillip Pessar, CC BY 4.0, via Wikimedia Commons. [Mini Mall South Beach Florida 2025.jpg](https://commons.wikimedia.org/wiki/File:Mini_Mall_South_Beach_Florida_2025.jpg)
+- New Ross Downtown Miami FL 2023: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [New Ross Downtown Miami FL 2023.jpg](https://commons.wikimedia.org/wiki/File:New_Ross_Downtown_Miami_FL_2023.jpg)
+- Ross, Erie PA: Glenn Samonte - Own Work, CC BY 4.0, via Wikimedia Commons. [Ross, Erie PA (54956206918).jpg](https://commons.wikimedia.org/wiki/File:Ross,_Erie_PA_(54956206918).jpg)
+- Seattle- Downtown- Ross Dress for Less boarded up after George Floyd protests: Thayne Tuason, CC BY 4.0, via Wikimedia Commons. [Seattle- Downtown- Ross Dress for Less boarded up after George Floyd protests.jpg](https://commons.wikimedia.org/wiki/File:Seattle-_Downtown-_Ross_Dress_for_Less_boarded_up_after_George_Floyd_protests.jpg)
+- Ross Store in White Lake, Michigan: Bray0829, CC BY-SA 4.0, via Wikimedia Commons. [Ross Store in White Lake, Michigan.png](https://commons.wikimedia.org/wiki/File:Ross_Store_in_White_Lake,_Michigan.png)
+- Ross store - Hillsboro, Oregon: M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Ross store - Hillsboro, Oregon.JPG](https://commons.wikimedia.org/wiki/File:Ross_store_-_Hillsboro,_Oregon.JPG)
+- Setting Up Ross Store Historic Overtown: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Setting Up Ross Store Historic Overtown (54355633082).jpg](https://commons.wikimedia.org/wiki/File:Setting_Up_Ross_Store_Historic_Overtown_(54355633082).jpg)
+
+## Royal Bank of Canada (RY)
+
+- L'Édifice de la Banque Royale: The Cosmonaut, CC BY-SA 2.5 ca, via Wikimedia Commons. [L'Édifice de la Banque Royale.jpg](https://commons.wikimedia.org/wiki/File:L%27%C3%89difice_de_la_Banque_Royale.jpg)
+- RBCWoodbine16Ave: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [RBCWoodbine16Ave.jpg](https://commons.wikimedia.org/wiki/File:RBCWoodbine16Ave.jpg)
+- Royal Bank of Canada, Wiarton: Jason Zhang, CC0, via Wikimedia Commons. [Royal Bank of Canada, Wiarton.jpg](https://commons.wikimedia.org/wiki/File:Royal_Bank_of_Canada,_Wiarton.jpg)
+- The streets of Toronto: Daniel from Glasgow, United Kingdom, CC BY 2.0, via Wikimedia Commons. [The streets of Toronto (54586474964).jpg](https://commons.wikimedia.org/wiki/File:The_streets_of_Toronto_(54586474964).jpg)
+- Edifice de la Banque-de-Quebec: Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons. [Edifice de la Banque-de-Quebec.jpg](https://commons.wikimedia.org/wiki/File:Edifice_de_la_Banque-de-Quebec.jpg)
+- Guichets automatiques RBC: Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons. [Guichets automatiques RBC - 2022-10-22.jpg](https://commons.wikimedia.org/wiki/File:Guichets_automatiques_RBC_-_2022-10-22.jpg)
+- Guichets RBC - 1000 De La Gauchetiere - 01: Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons. [Guichets RBC - 1000 De La Gauchetiere - 01.jpg](https://commons.wikimedia.org/wiki/File:Guichets_RBC_-_1000_De_La_Gauchetiere_-_01.jpg)
+- 39 Post office, Royal Bank and Housing Corp: CambridgeBayWeather, CC BY-SA 4.0, via Wikimedia Commons. [39 Post office, Royal Bank and Housing Corp.JPG](https://commons.wikimedia.org/wiki/File:39_Post_office,_Royal_Bank_and_Housing_Corp.JPG)
+- Royal Bank Building, Calgary: Silver Dovelet, CC BY-SA 4.0, via Wikimedia Commons. [Royal Bank Building, Calgary.jpg](https://commons.wikimedia.org/wiki/File:Royal_Bank_Building,_Calgary.jpg)
+- RBC Building on Wellington, Downtown Toronto, August 30 2025: Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons. [RBC Building on Wellington, Downtown Toronto, August 30 2025.jpg](https://commons.wikimedia.org/wiki/File:RBC_Building_on_Wellington,_Downtown_Toronto,_August_30_2025.jpg)
+
+## Royal Caribbean Group (RCL)
+
+- Royal Caribbean headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Royal Caribbean headquarters.jpg](https://commons.wikimedia.org/wiki/File:Royal_Caribbean_headquarters.jpg)
+- Royal caribbean Terminal 10 Galveston Texas 2023: Larry D. Moore, CC BY 4.0, via Wikimedia Commons. [Royal caribbean Terminal 10 Galveston Texas 2023.jpg](https://commons.wikimedia.org/wiki/File:Royal_caribbean_Terminal_10_Galveston_Texas_2023.jpg)
+- Utopia of the Seas departing Port Canaveral, Florida: Iancrwebb, CC0, via Wikimedia Commons. [Utopia of the Seas departing Port Canaveral, Florida.jpg](https://commons.wikimedia.org/wiki/File:Utopia_of_the_Seas_departing_Port_Canaveral,_Florida.jpg)
+- Night life: Northfielder, CC BY 2.0, via Wikimedia Commons. [Night life (48524372972).jpg](https://commons.wikimedia.org/wiki/File:Night_life_(48524372972).jpg)
+- Royal Caribbean Viking Serenade 1993 off California: SactoDad, CC BY-SA 4.0, via Wikimedia Commons. [Royal Caribbean Viking Serenade 1993 off California.jpg](https://commons.wikimedia.org/wiki/File:Royal_Caribbean_Viking_Serenade_1993_off_California.jpg)
+- Silver Nova Royal Caribbean Group Ensign Port of Rhodes 11 September 2026: Pjotr Mahhonin, CC BY-SA 4.0, via Wikimedia Commons. [Silver Nova Royal Caribbean Group Ensign Port of Rhodes 11 September 2026.jpg](https://commons.wikimedia.org/wiki/File:Silver_Nova_Royal_Caribbean_Group_Ensign_Port_of_Rhodes_11_September_2026.jpg)
+- Bimini-cruise-port-photo-sign: StarrySkye1205, CC0, via Wikimedia Commons. [Bimini-cruise-port-photo-sign.png](https://commons.wikimedia.org/wiki/File:Bimini-cruise-port-photo-sign.png)
+- Perfect-day-cococay-dock-view: StarrySkye1205, CC0, via Wikimedia Commons. [Perfect-day-cococay-dock-view.png](https://commons.wikimedia.org/wiki/File:Perfect-day-cococay-dock-view.png)
+- Contemporary bathtub in Italy: Moheen Reeyad, CC BY-SA 4.0, via Wikimedia Commons. [Contemporary bathtub in Italy (01).jpg](https://commons.wikimedia.org/wiki/File:Contemporary_bathtub_in_Italy_(01).jpg)
+- Rubin after performing on a Royal Caribbean Cruise, on November 28, 2009.: DavidJanet88, CC BY-SA 3.0, via Wikimedia Commons. [Daveinblack.jpg](https://commons.wikimedia.org/wiki/File:Daveinblack.jpg)
+
+## RTX Corporation (RTX)
+
+- Raytheon headquarters: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Raytheon headquarters.jpg](https://commons.wikimedia.org/wiki/File:Raytheon_headquarters.jpg)
+
+## S&P Global (SPGI)
+
+- 55 Water Street and north wing: Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons. [55 Water Street and north wing.jpg](https://commons.wikimedia.org/wiki/File:55_Water_Street_and_north_wing.jpg)
+- ASA conference 2008 - 16: myself ( User:Piotrus ), CC BY-SA 3.0, via Wikimedia Commons. [ASA conference 2008 - 16.JPG](https://commons.wikimedia.org/wiki/File:ASA_conference_2008_-_16.JPG)
+- S&P Global (S&P Global Inc.): Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [S&P Global (55312935517).jpg](https://commons.wikimedia.org/wiki/File:S%26P_Global_(55312935517).jpg)
+
+## Salesforce (CRM)
+
+- Karl the Fog playing with the Salesforce Tower-L1003555: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons. [Karl the Fog playing with the Salesforce Tower-L1003555.jpg](https://commons.wikimedia.org/wiki/File:Karl_the_Fog_playing_with_the_Salesforce_Tower-L1003555.jpg)
+- Construction on the Salesforce Tower Chicago: Chris Rycroft from Cambridge, Massachusetts, United States, CC BY 2.0, via Wikimedia Commons. [Construction on the Salesforce Tower Chicago (52040145187).jpg](https://commons.wikimedia.org/wiki/File:Construction_on_the_Salesforce_Tower_Chicago_(52040145187).jpg)
+- Salesforce Park and bus bridge, seen from Salesforce Tower: Fullmetal2887, CC BY-SA 4.0, via Wikimedia Commons. [Salesforce Park and bus bridge, seen from Salesforce Tower.jpg](https://commons.wikimedia.org/wiki/File:Salesforce_Park_and_bus_bridge,_seen_from_Salesforce_Tower.jpg)
+- Salesforce, North Wall, Dublin: David Kernan, CC BY 4.0, via Wikimedia Commons. [Salesforce, North Wall, Dublin.jpg](https://commons.wikimedia.org/wiki/File:Salesforce,_North_Wall,_Dublin.jpg)
+- Salesforce Tower Indianapolis - June 2022 - Sarah Stierch: Missvain, CC BY 4.0, via Wikimedia Commons. [Salesforce Tower Indianapolis - June 2022 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Salesforce_Tower_Indianapolis_-_June_2022_-_Sarah_Stierch.jpg)
+- Marc Benioff: Salesforce., CC BY-SA 2.0, via Wikimedia Commons. [Marc Benioff.jpg](https://commons.wikimedia.org/wiki/File:Marc_Benioff.jpg)
+- Salesforce Tower SF 2017 ( ): homebucket, CC BY-SA 2.0, via Wikimedia Commons. [Salesforce Tower SF 2017 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Salesforce_Tower_SF_2017_(cropped).jpg)
+- Salesforce Chief Executive Officer Marc Benioff at the Department of Homeland Security headquarters in Washington, D.C. on February 26, 2026 - 2: DHSgov, public domain, via Wikimedia Commons. [Salesforce Chief Executive Officer Marc Benioff at the Department of Homeland Security headquarters in Washington, D.C. on February 26, 2026 - 2.jpg](https://commons.wikimedia.org/wiki/File:Salesforce_Chief_Executive_Officer_Marc_Benioff_at_the_Department_of_Homeland_Security_headquarters_in_Washington,_D.C._on_February_26,_2026_-_2.jpg)
+- Salesforce tower from the Meta office: Alex Sirac, CC BY 4.0, via Wikimedia Commons. [Salesforce tower from the Meta office.jpg](https://commons.wikimedia.org/wiki/File:Salesforce_tower_from_the_Meta_office.jpg)
+- Salesforce Tower Construction, San Francisco: Dllu, CC BY-SA 4.0, via Wikimedia Commons. [Salesforce Tower Construction, San Francisco.jpg](https://commons.wikimedia.org/wiki/File:Salesforce_Tower_Construction,_San_Francisco.jpg)
+
+## Sandisk (SNDK)
+
+- WDC office (Milpitas, CA): AnneElizH, CC BY-SA 4.0, via Wikimedia Commons. [WDC office (Milpitas, CA).jpg](https://commons.wikimedia.org/wiki/File:WDC_office_(Milpitas,_CA).jpg)
+- SanDisk Clip Sport Plus 16GB: Ridiculopathy, CC0, via Wikimedia Commons. [SanDisk Clip Sport Plus 16GB.jpg](https://commons.wikimedia.org/wiki/File:SanDisk_Clip_Sport_Plus_16GB.jpg)
+- Hisense chromebook 11 logic board: CrazyblocksT, CC0, via Wikimedia Commons. [Hisense chromebook 11 logic board.jpg](https://commons.wikimedia.org/wiki/File:Hisense_chromebook_11_logic_board.jpg)
+- SanDisk Extreme PRO USB-C SD Card Reader: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [SanDisk Extreme PRO USB-C SD Card Reader (45328870801).jpg](https://commons.wikimedia.org/wiki/File:SanDisk_Extreme_PRO_USB-C_SD_Card_Reader_(45328870801).jpg)
+- SanDisk čítačka Extreme PRO CFexpress: Ladislav Luppa, CC0, via Wikimedia Commons. [SanDisk čítačka Extreme PRO CFexpress.jpg](https://commons.wikimedia.org/wiki/File:SanDisk_%C4%8D%C3%ADta%C4%8Dka_Extreme_PRO_CFexpress.jpg)
+- SanDisk Extreme Portable SSD 1 TB - front view with cable: ITEagle Europe - Sebastiaan Broekhoven, CC BY-SA 4.0, via Wikimedia Commons. [SanDisk Extreme Portable SSD 1 TB - front view with cable.jpg](https://commons.wikimedia.org/wiki/File:SanDisk_Extreme_Portable_SSD_1_TB_-_front_view_with_cable.jpg)
+- SanDisk Ultra 32GB microSDHC UHS-I A1 Class 10 with SD Adapter SDSQUAR-032G-GN6MN - packaging rear view: ITEagle Europe - Sebastiaan Broekhoven, CC BY-SA 4.0, via Wikimedia Commons. [SanDisk Ultra 32GB microSDHC UHS-I A1 Class 10 with SD Adapter SDSQUAR-032G-GN6MN - packaging rear view.jpg](https://commons.wikimedia.org/wiki/File:SanDisk_Ultra_32GB_microSDHC_UHS-I_A1_Class_10_with_SD_Adapter_SDSQUAR-032G-GN6MN_-_packaging_rear_view.jpg)
+- Sandisk headquarters: Sandisk, CC BY 4.0, via Wikimedia Commons. [Sandisk-HQ.png](https://commons.wikimedia.org/wiki/File:Sandisk-HQ.png)
+- Former SanDisk Headquarters Milpitas: LPS.1, CC0, via Wikimedia Commons. [Former SanDisk Headquarters Milpitas.jpg](https://commons.wikimedia.org/wiki/File:Former_SanDisk_Headquarters_Milpitas.jpg)
+- HK WC 灣仔 Wan Chai 柯布連道 2 O'Brien Street 灣仔電腦城 Wan Chai Computer Centre SanDisk sim mini SD card December 2021 SS2 03: Tauoming Ka Seeai, CC BY-SA 4.0, via Wikimedia Commons. [HK WC 灣仔 Wan Chai 柯布連道 2 O'Brien Street 灣仔電腦城 Wan Chai Computer Centre SanDisk sim mini SD card December 2021 SS2 03.jpg](https://commons.wikimedia.org/wiki/File:HK_WC_%E7%81%A3%E4%BB%94_Wan_Chai_%E6%9F%AF%E5%B8%83%E9%80%A3%E9%81%93_2_O%27Brien_Street_%E7%81%A3%E4%BB%94%E9%9B%BB%E8%85%A6%E5%9F%8E_Wan_Chai_Computer_Centre_SanDisk_sim_mini_SD_card_December_2021_SS2_03.jpg)
+
+## Sanofi (SNY)
+
+- Paul Hudson, Sanofi CEO (per Wikidata): Putting Health at the Heart of Climate Action | Davos 2023 | World Economic Forum, CC BY 3.0, via Wikimedia Commons. [Paul Hudson at the World Economic Forum.jpg](https://commons.wikimedia.org/wiki/File:Paul_Hudson_at_the_World_Economic_Forum.jpg)
+- Sanofi Hangzhou 01: Huandy618, CC0, via Wikimedia Commons. [Sanofi Hangzhou 01.jpg](https://commons.wikimedia.org/wiki/File:Sanofi_Hangzhou_01.jpg)
+- A Sanofi pharmaceutical plant in Chattanooga, Tennessee 01: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [A Sanofi pharmaceutical plant in Chattanooga, Tennessee 01.jpg](https://commons.wikimedia.org/wiki/File:A_Sanofi_pharmaceutical_plant_in_Chattanooga,_Tennessee_01.jpg)
+- 2023 Magne-B6 Max (suplement diety): Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons. [2023 Magne-B6 Max (suplement diety).jpg](https://commons.wikimedia.org/wiki/File:2023_Magne-B6_Max_(suplement_diety).jpg)
+- 450 Water Street, Cambridge Crossing: Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons. [450 Water Street, Cambridge Crossing.jpg](https://commons.wikimedia.org/wiki/File:450_Water_Street,_Cambridge_Crossing.jpg)
+- French Havlane (Loprazolam 1 mg) medicine: Aopsychopharmaco, CC BY-SA 4.0, via Wikimedia Commons. [French Havlane (Loprazolam 1 mg) medicine.jpg](https://commons.wikimedia.org/wiki/File:French_Havlane_(Loprazolam_1_mg)_medicine.jpg)
+- Tercian en solution buvable: Aopsychopharmaco, CC BY-SA 4.0, via Wikimedia Commons. [Tercian en solution buvable.jpg](https://commons.wikimedia.org/wiki/File:Tercian_en_solution_buvable.jpg)
+- Sanofi-Genzyme building at the Charles River: Chris Rycroft, CC BY 2.0, via Wikimedia Commons. [Sanofi-Genzyme building at the Charles River (51307549699).jpg](https://commons.wikimedia.org/wiki/File:Sanofi-Genzyme_building_at_the_Charles_River_(51307549699).jpg)
+- Metamizole 500mg-1ml vials white background: Wesalius, CC BY 4.0, via Wikimedia Commons. [Metamizole 500mg-1ml vials white background.jpg](https://commons.wikimedia.org/wiki/File:Metamizole_500mg-1ml_vials_white_background.jpg)
+- Sanofi Imovane 7½mg: Dmitry G, public domain, via Wikimedia Commons. [Sanofi Imovane 7½mg.JPG](https://commons.wikimedia.org/wiki/File:Sanofi_Imovane_7%C2%BDmg.JPG)
+
+## SAP (SAP)
+
+- Christian Klein, SAP CEO (per Wikidata): Norbert Steinhauser / SAP SE, CC BY-SA 4.0, via Wikimedia Commons. [Christian Klein 2025.jpg](https://commons.wikimedia.org/wiki/File:Christian_Klein_2025.jpg)
+- Mills Lane, Auckland PA03: Paora, CC0, via Wikimedia Commons. [Mills Lane, Auckland PA03.jpg](https://commons.wikimedia.org/wiki/File:Mills_Lane,_Auckland_PA03.jpg)
+- SAP Labs India campus: Arunpayyeri, CC BY-SA 3.0, via Wikimedia Commons. [SAP Labs India campus.jpg](https://commons.wikimedia.org/wiki/File:SAP_Labs_India_campus.jpg)
+- Graphisoft Park: Elekes Andor, CC BY-SA 4.0, via Wikimedia Commons. [Graphisoft Park (2).jpg](https://commons.wikimedia.org/wiki/File:Graphisoft_Park_(2).jpg)
+- Praha Michle Vyskocilova 4 Beta b: JiriMatejicek, CC BY-SA 4.0, via Wikimedia Commons. [Praha Michle Vyskocilova 4 Beta b.jpg](https://commons.wikimedia.org/wiki/File:Praha_Michle_Vyskocilova_4_Beta_b.jpg)
+- SAP Skills for Africa at Mactay Lagos: MacTay2018, CC BY-SA 4.0, via Wikimedia Commons. [SAP Skills for Africa at Mactay Lagos.jpg](https://commons.wikimedia.org/wiki/File:SAP_Skills_for_Africa_at_Mactay_Lagos.jpg)
+- SAP Skills for Nigeria launch: MacTay2018, CC BY-SA 4.0, via Wikimedia Commons. [SAP Skills for Nigeria launch.jpg](https://commons.wikimedia.org/wiki/File:SAP_Skills_for_Nigeria_launch.jpg)
+- SAP AG headquarter Walldorf building 1: Vladislav Bezrukov from Walldorf, Germany, CC BY 2.0, via Wikimedia Commons. [SAP AG headquarter Walldorf building 1.jpg](https://commons.wikimedia.org/wiki/File:SAP_AG_headquarter_Walldorf_building_1.jpg)
+- SAP AG Headquarters 1995: TeWeBs, CC BY-SA 3.0, via Wikimedia Commons. [SAP AG Headquarters 1995.JPG](https://commons.wikimedia.org/wiki/File:SAP_AG_Headquarters_1995.JPG)
+- Ambulant grocery store Tonle Sap Lake Cambodia: Esin Üstün from Istanbul, Turkey, CC BY 2.0, via Wikimedia Commons. [Ambulant grocery store Tonle Sap Lake Cambodia (15789958486).jpg](https://commons.wikimedia.org/wiki/File:Ambulant_grocery_store_Tonle_Sap_Lake_Cambodia_(15789958486).jpg)
+
+## SBA Communications (SBAC)
+
+- SBA Communications tower, former Dakota Ridge Assembly church tower, Jefferson, Co., CO: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [SBA Communications tower, former Dakota Ridge Assembly church tower, Jefferson, Co., CO 2023-09-03.jpg](https://commons.wikimedia.org/wiki/File:SBA_Communications_tower,_former_Dakota_Ridge_Assembly_church_tower,_Jefferson,_Co.,_CO_2023-09-03.jpg)
+
+## Schlumberger (SLB)
+
+- Schlumberger Solutions Center, the headquarters of Schlumberger: WhisperToMe, public domain, via Wikimedia Commons. [SchlumbergerSolutionsCenterHoustonTX.JPG](https://commons.wikimedia.org/wiki/File:SchlumbergerSolutionsCenterHoustonTX.JPG)
+- Merkwiller-Pechelbronn espace culturel doris kuhn09: Didivo67, CC0, via Wikimedia Commons. [Merkwiller-Pechelbronn espace culturel doris kuhn09.jpg](https://commons.wikimedia.org/wiki/File:Merkwiller-Pechelbronn_espace_culturel_doris_kuhn09.jpg)
+- Full moon on Schlumberger Cambridge Research at the blue hour: Valerian Guillot from Cambridge, United Kingdom, CC BY 2.0, via Wikimedia Commons. [Full moon on Schlumberger Cambridge Research at the blue hour. (47101649632).jpg](https://commons.wikimedia.org/wiki/File:Full_moon_on_Schlumberger_Cambridge_Research_at_the_blue_hour._(47101649632).jpg)
+- Schlumberger Well Surveying Corporation Building -- Houston: Jim Evans, CC BY-SA 4.0, via Wikimedia Commons. [Schlumberger Well Surveying Corporation Building -- Houston.jpg](https://commons.wikimedia.org/wiki/File:Schlumberger_Well_Surveying_Corporation_Building_--_Houston.jpg)
+- Bigorange XVIII (ship, 1984) in Esbjerg - close: Thomas Dahlstrøm Nielsen, CC BY-SA 4.0, via Wikimedia Commons. [Bigorange XVIII (ship, 1984) in Esbjerg - close.jpg](https://commons.wikimedia.org/wiki/File:Bigorange_XVIII_(ship,_1984)_in_Esbjerg_-_close.jpg)
+- Bigorange XVIII (ship, 1984) leaving Esbjerg Harbour: Thomas Dahlstrøm Nielsen, CC BY-SA 4.0, via Wikimedia Commons. [Bigorange XVIII (ship, 1984) leaving Esbjerg Harbour.jpg](https://commons.wikimedia.org/wiki/File:Bigorange_XVIII_(ship,_1984)_leaving_Esbjerg_Harbour.jpg)
+- Pechelbronn-Musée du Pétrole: Ji-Elle, CC BY-SA 3.0, via Wikimedia Commons. [Pechelbronn-Musée du Pétrole (19).jpg](https://commons.wikimedia.org/wiki/File:Pechelbronn-Mus%C3%A9e_du_P%C3%A9trole_(19).jpg)
+- The Schlumberger Cambridge Research Centre - geograph.org.uk: David Purchase, CC BY-SA 2.0, via Wikimedia Commons. [The Schlumberger Cambridge Research Centre - geograph.org.uk - 2720220.jpg](https://commons.wikimedia.org/wiki/File:The_Schlumberger_Cambridge_Research_Centre_-_geograph.org.uk_-_2720220.jpg)
+- Horses grazing by the Schlumberger building - geograph.org.uk: Hugh Venables, CC BY-SA 2.0, via Wikimedia Commons. [Horses grazing by the Schlumberger building - geograph.org.uk - 7362881.jpg](https://commons.wikimedia.org/wiki/File:Horses_grazing_by_the_Schlumberger_building_-_geograph.org.uk_-_7362881.jpg)
+- Schlumberger Gould Research Centre: Richard Humphrey, CC BY-SA 2.0, via Wikimedia Commons. [Schlumberger Gould Research Centre.jpg](https://commons.wikimedia.org/wiki/File:Schlumberger_Gould_Research_Centre.jpg)
+
+## Seagate Technology (STX)
+
+- Seagate Headquarters Fremont: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Seagate Headquarters Fremont.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Headquarters_Fremont.jpg)
+- Seagate products at Octagon ( ): Wide Awake!, CC BY 4.0, via Wikimedia Commons. [Seagate products at Octagon (2024-05-25).jpg](https://commons.wikimedia.org/wiki/File:Seagate_products_at_Octagon_(2024-05-25).jpg)
+- Bartek Bade Store: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Bartek Bade Store 20230204.jpg](https://commons.wikimedia.org/wiki/File:Bartek_Bade_Store_20230204.jpg)
+- Bartek Bade Store closed: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Bartek Bade Store closed 20241222.jpg](https://commons.wikimedia.org/wiki/File:Bartek_Bade_Store_closed_20241222.jpg)
+- Seagate Service Center at Guang Hua Digital Plaza: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Seagate Service Center at Guang Hua Digital Plaza 20181215.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20181215.jpg)
+- Seagate Technology Office - Shakopee, Minnesota: Tony Webster, CC BY-SA 2.0, via Wikimedia Commons. [Seagate Technology Office - Shakopee, Minnesota.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Technology_Office_-_Shakopee,_Minnesota.jpg)
+- Seagate Technology Taiwan booth, TIPMEE 20190929a: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Seagate Technology Taiwan booth, TIPMEE 20190929a.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Technology_Taiwan_booth,_TIPMEE_20190929a.jpg)
+- Seagate Technology Headquarters Cupertino: LPS.1, CC0, via Wikimedia Commons. [Seagate Technology Headquarters Cupertino.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Technology_Headquarters_Cupertino.jpg)
+- Sign in front of Seagate's headquarters (they make storage devices): Robert Scoble, CC BY 2.0, via Wikimedia Commons. [Sign in front of Seagate's headquarters (they make storage devices).jpg](https://commons.wikimedia.org/wiki/File:Sign_in_front_of_Seagate%27s_headquarters_(they_make_storage_devices).jpg)
+- Asustor promotional model standing on one leg: Sinchen.Lin, CC BY 2.0, via Wikimedia Commons. [Asustor promotional model standing on one leg (14378403073).jpg](https://commons.wikimedia.org/wiki/File:Asustor_promotional_model_standing_on_one_leg_(14378403073).jpg)
+
+## Sempra (SRE)
+
+- Sempra Energy HQ San Diego: Balintawak, CC BY-SA 4.0, via Wikimedia Commons. [Sempra Energy HQ San Diego.jpg](https://commons.wikimedia.org/wiki/File:Sempra_Energy_HQ_San_Diego.jpg)
+- Jeffrey W. Martin, Sempra CEO (per Wikidata): SCM-SRE, CC BY-SA 4.0, via Wikimedia Commons. [Jeffrey W. Martin .jpg](https://commons.wikimedia.org/wiki/File:Jeffrey_W._Martin_.jpg)
+- Sempra HQ 0003v2 newlogo: Sempra, CC BY-SA 4.0, via Wikimedia Commons. [Sempra HQ 0003v2 newlogo.jpg](https://commons.wikimedia.org/wiki/File:Sempra_HQ_0003v2_newlogo.jpg)
+- Sempra HQ 0013-2-1 newlogo: Ben Friedl, CC BY-SA 4.0, via Wikimedia Commons. [Sempra HQ 0013-2-1 (1) newlogo.jpg](https://commons.wikimedia.org/wiki/File:Sempra_HQ_0013-2-1_(1)_newlogo.jpg)
+- Sempra Energys El Dorado Combined Cycle Power Plant: Doc Searls from Santa Barbara, USA, CC BY 2.0, via Wikimedia Commons. [Sempra Energys El Dorado Combined Cycle Power Plant.jpg](https://commons.wikimedia.org/wiki/File:Sempra_Energys_El_Dorado_Combined_Cycle_Power_Plant.jpg)
+
+## ServiceNow (NOW)
+
+- ServiceNow meetup event: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [ServiceNowMeetup.jpg](https://commons.wikimedia.org/wiki/File:ServiceNowMeetup.jpg)
+- ServiceNow office in Petah-Tikva, Israel: Barakpinch, CC BY-SA 4.0, via Wikimedia Commons. [ServiceNow office in Petah-Tikva, Israel.jpg](https://commons.wikimedia.org/wiki/File:ServiceNow_office_in_Petah-Tikva,_Israel.jpg)
+
+## Shell (SHEL)
+
+- The Shell Centre: Reading Tom from Reading, UK, CC BY 2.0, via Wikimedia Commons. [The Shell Centre (8709496019).jpg](https://commons.wikimedia.org/wiki/File:The_Shell_Centre_(8709496019).jpg)
+- Wael Sawan, Shell CEO (per Wikidata): Chatham House, CC BY 2.0, via Wikimedia Commons. [Wael Sawan, Vice President Commerical, Qatar Shell (4327237111).jpg](https://commons.wikimedia.org/wiki/File:Wael_Sawan,_Vice_President_Commerical,_Qatar_Shell_(4327237111).jpg)
+- Shell Kanister: Adrian Michael, CC BY 4.0, via Wikimedia Commons. [Shell Kanister.jpg](https://commons.wikimedia.org/wiki/File:Shell_Kanister.jpg)
+- Foyer Mauritshuis 12: Hanno Lans, CC BY 4.0, via Wikimedia Commons. [Foyer Mauritshuis 12.jpg](https://commons.wikimedia.org/wiki/File:Foyer_Mauritshuis_12.jpg)
+- Hell No! - Dam Amsterdam: FaceMePLS, CC BY 2.0, via Wikimedia Commons. [Hell No! - Dam Amsterdam.jpg](https://commons.wikimedia.org/wiki/File:Hell_No!_-_Dam_Amsterdam.jpg)
+- Shell (Shell fuel stations): Начинающий, CC0, via Wikimedia Commons. [2026-08-08 нет топлива на АЗС в Москве (улица Борисовские Пруды).jpg](https://commons.wikimedia.org/wiki/File:2026-08-08_%D0%BD%D0%B5%D1%82_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%B0_%D0%BD%D0%B0_%D0%90%D0%97%D0%A1_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5_(%D1%83%D0%BB%D0%B8%D1%86%D0%B0_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%9F%D1%80%D1%83%D0%B4%D1%8B).jpg)
+- Burg Strechau 1: Edelmauswaldgeist, CC0, via Wikimedia Commons. [Burg Strechau 1.jpg](https://commons.wikimedia.org/wiki/File:Burg_Strechau_1.jpg)
+- 011 Shell Centre - global headquarters of Shell plc oil company in London UK: Marek Ślusarczyk ( Tupungato ) Photo portfolio, CC BY 3.0, via Wikimedia Commons. [011 Shell Centre - global headquarters of Shell plc oil company in London UK.jpg](https://commons.wikimedia.org/wiki/File:011_Shell_Centre_-_global_headquarters_of_Shell_plc_oil_company_in_London_UK.jpg)
+- BV30800 (18.07.24, Motorvej 501, Viby J) 6169 Balancer: Lav Ulv from Viby J, Denmark, CC BY 2.0, via Wikimedia Commons. [BV30800 (18.07.24, Motorvej 501, Viby J)DSC 6169 Balancer (47464518512).jpg](https://commons.wikimedia.org/wiki/File:BV30800_(18.07.24,_Motorvej_501,_Viby_J)DSC_6169_Balancer_(47464518512).jpg)
+- Chaqueta Shell: Bene Riobó, CC BY-SA 4.0, via Wikimedia Commons. [Chaqueta Shell.jpg](https://commons.wikimedia.org/wiki/File:Chaqueta_Shell.jpg)
+
+## Sherwin-Williams (SHW)
+
+- Sherwin Williams Orenco - Hillsboro, Oregon: M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Sherwin Williams Orenco - Hillsboro, Oregon.JPG](https://commons.wikimedia.org/wiki/File:Sherwin_Williams_Orenco_-_Hillsboro,_Oregon.JPG)
+- Minneapolis neighborhood North Loop: Fibonacci Blue from Minnesota, USA, CC BY 2.0, via Wikimedia Commons. [Minneapolis neighborhood North Loop (52258192636).jpg](https://commons.wikimedia.org/wiki/File:Minneapolis_neighborhood_North_Loop_(52258192636).jpg)
+- Sherwin-Williams Paints in Gillette, Wyoming: Mr. Satterly, CC0, via Wikimedia Commons. [Sherwin-Williams Paints in Gillette, Wyoming.jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_Paints_in_Gillette,_Wyoming.jpg)
+- Sherwin-Williams Store in Eugene, Oregon: Rick Obst, CC BY 2.0, via Wikimedia Commons. [Sherwin-Williams Store in Eugene, Oregon (52021632131).jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_Store_in_Eugene,_Oregon_(52021632131).jpg)
+- Sherwin Williams, 2855, rue du Centre (Sud-Ouest): Parcours riverain - Ville de Montréal from Canada, CC BY 2.0, via Wikimedia Commons. [Sherwin Williams, 2855, rue du Centre (Sud-Ouest) (35399577953).jpg](https://commons.wikimedia.org/wiki/File:Sherwin_Williams,_2855,_rue_du_Centre_(Sud-Ouest)_(35399577953).jpg)
+- Downtown Cleveland west side: Cards84664, CC BY-SA 4.0, via Wikimedia Commons. [Downtown Cleveland west side (3).png](https://commons.wikimedia.org/wiki/File:Downtown_Cleveland_west_side_(3).png)
+- Key Tower and SW HQ: Cards84664, CC BY-SA 4.0, via Wikimedia Commons. [Key Tower and SW HQ.png](https://commons.wikimedia.org/wiki/File:Key_Tower_and_SW_HQ.png)
+- Sherwin-Williams HQ Construction: Geowizical, CC BY-SA 4.0, via Wikimedia Commons. [Sherwin-Williams HQ Construction.jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_HQ_Construction.jpg)
+- Sherwin-Williams Headquarters (September 2023): Cards84664, CC BY-SA 4.0, via Wikimedia Commons. [Sherwin-Williams Headquarters (September 2023).jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_Headquarters_(September_2023).jpg)
+- Sherwin-Williams HQ August 2025: Geowizical, CC BY-SA 4.0, via Wikimedia Commons. [Sherwin-Williams HQ August 2025.jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_HQ_August_2025.jpg)
+
+## Shopify (SHOP)
+
+- 1st Shopify Toronto Run!: Chester from Toronto, Canada, CC BY 2.0, via Wikimedia Commons. [1st Shopify Toronto Run! (26800524795).jpg](https://commons.wikimedia.org/wiki/File:1st_Shopify_Toronto_Run!_(26800524795).jpg)
+- Shopify 7 inch singles window display: Philafrenzy, CC BY-SA 4.0, via Wikimedia Commons. [Shopify 7 inch singles window display.jpg](https://commons.wikimedia.org/wiki/File:Shopify_7_inch_singles_window_display.jpg)
+
+## Simon Property Group (SPG)
+
+- Simon HQs: The original uploader was Me at English Wikipedia ., public domain, via Wikimedia Commons. [Simon HQs.jpg](https://commons.wikimedia.org/wiki/File:Simon_HQs.jpg)
+- The Mall at Rockingham Park (Salem, New Hampshire): JJBers, CC BY 2.0, via Wikimedia Commons. [The Mall at Rockingham Park (Salem, New Hampshire).jpg](https://commons.wikimedia.org/wiki/File:The_Mall_at_Rockingham_Park_(Salem,_New_Hampshire).jpg)
+- Garcias' Food is tasty and plentiful!: Brendan Purdy from Toronto, Canada, CC BY 2.0, via Wikimedia Commons. [Garcias' Food is tasty and plentiful! (49171481336).jpg](https://commons.wikimedia.org/wiki/File:Garcias%27_Food_is_tasty_and_plentiful!_(49171481336).jpg)
+- Grapevine Mills Eiffel Tower: LazyCat256, CC0, via Wikimedia Commons. [Grapevine Mills Eiffel Tower.jpg](https://commons.wikimedia.org/wiki/File:Grapevine_Mills_Eiffel_Tower.jpg)
+- Grapevine Mills Entry 1: LazyCat256, CC0, via Wikimedia Commons. [Grapevine Mills Entry 1.jpg](https://commons.wikimedia.org/wiki/File:Grapevine_Mills_Entry_1.jpg)
+- Crossroads mall membrane tent: MistressCourtney, CC BY 3.0, via Wikimedia Commons. [Crossroads mall membrane tent.JPG](https://commons.wikimedia.org/wiki/File:Crossroads_mall_membrane_tent.JPG)
+- 2 Arizona Mills: Hunter Trick (TrickHunter), CC BY-SA 4.0, via Wikimedia Commons. [231112-2 Arizona Mills.jpg](https://commons.wikimedia.org/wiki/File:231112-2_Arizona_Mills.jpg)
+- Simon building Indianapolis (35393p): Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons. [Simon building Indianapolis (35393p).jpg](https://commons.wikimedia.org/wiki/File:Simon_building_Indianapolis_(35393p).jpg)
+- Simon Property Group Headquarters - Nov 2009 - vxla: vxla, CC BY 2.0, via Wikimedia Commons. [Simon Property Group Headquarters - Nov 2009 - vxla.jpg](https://commons.wikimedia.org/wiki/File:Simon_Property_Group_Headquarters_-_Nov_2009_-_vxla.jpg)
+- Aerial view of Arundel Mills, September 2018: Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons. [Aerial view of Arundel Mills, September 2018.JPG](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Arundel_Mills,_September_2018.JPG)
+
+## Skydance (SKYD)
+
+- Times Sq Feb 2022 06: Epicgenius, CC BY-SA 4.0, via Wikimedia Commons. [Times Sq Feb 2022 06.jpg](https://commons.wikimedia.org/wiki/File:Times_Sq_Feb_2022_06.jpg)
+- Paramount Skydance One Astor Plaza: Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons. [Paramount Skydance One Astor Plaza.jpg](https://commons.wikimedia.org/wiki/File:Paramount_Skydance_One_Astor_Plaza.jpg)
+- Times Sq Nov 2021 112: Epicgenius, CC BY-SA 4.0, via Wikimedia Commons. [Times Sq Nov 2021 112.jpg](https://commons.wikimedia.org/wiki/File:Times_Sq_Nov_2021_112.jpg)
+- One Astor Plaza May 2010: OptimumPx, public domain, via Wikimedia Commons. [One Astor Plaza May 2010.JPG](https://commons.wikimedia.org/wiki/File:One_Astor_Plaza_May_2010.JPG)
+- Corp 9013 1stpg: 9013tv, public domain, via Wikimedia Commons. [Corp 9013 1stpg.jpg](https://commons.wikimedia.org/wiki/File:Corp_9013_1stpg.jpg)
+- One Astor Plaza1: Trxr4kds at English Wikipedia, public domain, via Wikimedia Commons. [One Astor Plaza1.JPG](https://commons.wikimedia.org/wiki/File:One_Astor_Plaza1.JPG)
+
+## Smurfit Westrock (SW)
+
+- Smurfit Kappa Lauenburg, Germany: Gerd Fahrenhorst, CC BY 3.0, via Wikimedia Commons. [Smurfit Kappa Lauenburg, Germany.jpg](https://commons.wikimedia.org/wiki/File:Smurfit_Kappa_Lauenburg,_Germany.jpg)
+- Smurfit Kappa Eslöv: News Oresund, CC BY 2.0, via Wikimedia Commons. [20180905 Smurfit Kappa Eslöv (31305246198).jpg](https://commons.wikimedia.org/wiki/File:20180905_Smurfit_Kappa_Esl%C3%B6v_(31305246198).jpg)
+- Smurfit Kappa in Herzberg am Harz 3: Gerd Fahrenhorst, CC BY 4.0, via Wikimedia Commons. [Smurfit Kappa in Herzberg am Harz 3.jpg](https://commons.wikimedia.org/wiki/File:Smurfit_Kappa_in_Herzberg_am_Harz_3.jpg)
+- Clementines Clemenules: Roy Zuo, CC BY-SA 4.0, via Wikimedia Commons. [(20251122) Clementines Clemenules.jpg](https://commons.wikimedia.org/wiki/File:(20251122)_Clementines_Clemenules.jpg)
+- Smurfit Kappa, Issac, panneau: Cjp24, CC BY-SA 4.0, via Wikimedia Commons. [Smurfit Kappa, Issac, panneau.jpg](https://commons.wikimedia.org/wiki/File:Smurfit_Kappa,_Issac,_panneau.jpg)
+- Smurfit Kappa, Issac, pile R006: Cjp24, CC BY-SA 4.0, via Wikimedia Commons. [Smurfit Kappa, Issac, pile R006.jpg](https://commons.wikimedia.org/wiki/File:Smurfit_Kappa,_Issac,_pile_R006.jpg)
+- Deventer Op Stelten 2013: Supercarwaar, CC BY-SA 3.0, via Wikimedia Commons. [Deventer Op Stelten 2013.JPG](https://commons.wikimedia.org/wiki/File:Deventer_Op_Stelten_2013.JPG)
+- Smurfit Westrock Covington Mill (Virginia paper mill): Quintin Soloviev, CC BY 4.0, via Wikimedia Commons. [Smurfit Westrock Covington Mill (Virginia paper mill).jpg](https://commons.wikimedia.org/wiki/File:Smurfit_Westrock_Covington_Mill_(Virginia_paper_mill).jpg)
+- Smurfit Westrock Fernandina Beach Mill: Pburka, CC BY-SA 4.0, via Wikimedia Commons. [Smurfit Westrock Fernandina Beach Mill.jpg](https://commons.wikimedia.org/wiki/File:Smurfit_Westrock_Fernandina_Beach_Mill.jpg)
+- Diemelstadt-Wrexen Sauerland Ost 534 pk: Teta, CC BY-SA 3.0, via Wikimedia Commons. [Diemelstadt-Wrexen Sauerland Ost 534 pk.jpg](https://commons.wikimedia.org/wiki/File:Diemelstadt-Wrexen_Sauerland_Ost_534_pk.jpg)
+
+## Snap Inc. (SNAP)
+
+- Evan Spiegel, Snap Inc. CEO (per Wikidata): cellanr, CC BY-SA 2.0, via Wikimedia Commons. [Evan Spiegel, founder of Snapchat.jpg](https://commons.wikimedia.org/wiki/File:Evan_Spiegel,_founder_of_Snapchat.jpg)
+- Snapchat filter: Stock Catalog, CC BY 2.0, via Wikimedia Commons. [Snapchat filter (43252259172).jpg](https://commons.wikimedia.org/wiki/File:Snapchat_filter_(43252259172).jpg)
+- Snap Spectacles: Horaciotorrendell, CC BY-SA 4.0, via Wikimedia Commons. [Snap Spectacles.jpg](https://commons.wikimedia.org/wiki/File:Snap_Spectacles.jpg)
+- Andy Magnes at MAU Vegas 2026: Rosiestep, CC BY-SA 4.0, via Wikimedia Commons. [Andy Magnes at MAU Vegas 2026.jpg](https://commons.wikimedia.org/wiki/File:Andy_Magnes_at_MAU_Vegas_2026.jpg)
+- Peddling those glasses for a dying service: Billie Grace Ward from New York, USA, CC BY 2.0, via Wikimedia Commons. [Peddling those glasses for a dying service (37437007666).jpg](https://commons.wikimedia.org/wiki/File:Peddling_those_glasses_for_a_dying_service_(37437007666).jpg)
+- Snap Inc. Spectacles: Eigentlichich, CC BY-SA 4.0, via Wikimedia Commons. [Snap Inc. Spectacles.jpg](https://commons.wikimedia.org/wiki/File:Snap_Inc._Spectacles.jpg)
+
+## Snap-on (SNA)
+
+- 10 07 09 View south along District of Columbia Route 295 (Kenilworth Avenue Freeway) at the exit for River Terrace in Washington, D.C: Famartin, CC BY-SA 4.0, via Wikimedia Commons. [2019-09-17 10 07 09 View south along District of Columbia Route 295 (Kenilworth Avenue Freeway) at the exit for River Terrace in Washington, D.C..jpg](https://commons.wikimedia.org/wiki/File:2019-09-17_10_07_09_View_south_along_District_of_Columbia_Route_295_(Kenilworth_Avenue_Freeway)_at_the_exit_for_River_Terrace_in_Washington,_D.C..jpg)
+- Snap-on Linerlock: James Case from Philadelphia, Mississippi, U.S.A., CC BY 2.0, via Wikimedia Commons. [Snap-on Linerlock (33757733065).jpg](https://commons.wikimedia.org/wiki/File:Snap-on_Linerlock_(33757733065).jpg)
+- Snap-On Screwdriver Comparison: trebomb, CC BY 2.0, via Wikimedia Commons. [Snap-On Screwdriver Comparison (5930282564).jpg](https://commons.wikimedia.org/wiki/File:Snap-On_Screwdriver_Comparison_(5930282564).jpg)
+- 100th LRS repairs vehicle during base readiness exercise: U.S. Air Force photo by Airman 1st Class Cody Mott, public domain, via Wikimedia Commons. [100th LRS repairs vehicle during base readiness exercise (8658643).jpg](https://commons.wikimedia.org/wiki/File:100th_LRS_repairs_vehicle_during_base_readiness_exercise_(8658643).jpg)
+- Stratton, Colorado: Jeffrey Beall, CC BY 4.0, via Wikimedia Commons. [Stratton, Colorado.JPG](https://commons.wikimedia.org/wiki/File:Stratton,_Colorado.JPG)
+- Snap-on dealer van Westland Michigan: Dwight Burdette, CC BY 3.0, via Wikimedia Commons. [Snap-on dealer van Westland Michigan.JPG](https://commons.wikimedia.org/wiki/File:Snap-on_dealer_van_Westland_Michigan.JPG)
+- Snap-on van, Knaresborough Road, Harrogate (7th September 2017): Mtaylor848, CC BY-SA 4.0, via Wikimedia Commons. [Snap-on van, Knaresborough Road, Harrogate (7th September 2017).jpg](https://commons.wikimedia.org/wiki/File:Snap-on_van,_Knaresborough_Road,_Harrogate_(7th_September_2017).jpg)
+- Snap-on ratcheting screwdriver: J.C. Fields ( Talk ) ( Uploads ), CC BY-SA 3.0, via Wikimedia Commons. [Snap-on ratcheting screwdriver.jpg](https://commons.wikimedia.org/wiki/File:Snap-on_ratcheting_screwdriver.jpg)
+
+## Snowflake (SNOW)
+
+- Frank Slootman, Snowflake CEO (per Wikidata): Alivecoverage, CC BY-SA 4.0, via Wikimedia Commons. [Frank Slootman Snowflake.jpg](https://commons.wikimedia.org/wiki/File:Frank_Slootman_Snowflake.jpg)
+- Snowflake (Snowflake Inc.): Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [SnowflakeBooth.jpg](https://commons.wikimedia.org/wiki/File:SnowflakeBooth.jpg)
+
+## SoFi (SOFI)
+
+- Miami Beach - South Beach Buildings - SoFi - Louver House: Daniel Di Palma, CC BY-SA 4.0, via Wikimedia Commons. [Miami Beach - South Beach Buildings - SoFi - Louver House.jpg](https://commons.wikimedia.org/wiki/File:Miami_Beach_-_South_Beach_Buildings_-_SoFi_-_Louver_House.jpg)
+
+## Sony (SONY)
+
+- Sony headquaters 1: Akonnchiroll, CC BY-SA 4.0, via Wikimedia Commons. [Sony headquaters 1.jpg](https://commons.wikimedia.org/wiki/File:Sony_headquaters_1.jpg)
+- SZ 深圳 Shenzhen 南山區 Nanshan 深圳灣 Shenzhen Bay MixC mall shop May 2026 N13P 139: TWS LUOK Mingaowpuo, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 南山區 Nanshan 深圳灣 Shenzhen Bay MixC mall shop May 2026 N13P 139.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1%E5%8D%80_Nanshan_%E6%B7%B1%E5%9C%B3%E7%81%A3_Shenzhen_Bay_MixC_mall_shop_May_2026_N13P_139.jpg)
+- Sony Mobile i Lund 008: Johan Wessman / News Oresund, CC BY 2.0, via Wikimedia Commons. [20200517 Sony Mobile i Lund 008 (49912209461).jpg](https://commons.wikimedia.org/wiki/File:20200517_Sony_Mobile_i_Lund_008_(49912209461).jpg)
+- Sony Mobile Lund 1112: News Oresund, CC BY 2.0, via Wikimedia Commons. [20201101 Sony Mobile Lund 1112 (50558789306).jpg](https://commons.wikimedia.org/wiki/File:20201101_Sony_Mobile_Lund_1112_(50558789306).jpg)
+- Sony Kingdom event in Roppongi Hills: Syced, CC0, via Wikimedia Commons. [Sony Kingdom event in Roppongi Hills.jpg](https://commons.wikimedia.org/wiki/File:Sony_Kingdom_event_in_Roppongi_Hills.jpg)
+- Sony at the 2025 Bild Expo Presented by B&H Photo: Tzim78, CC BY 4.0, via Wikimedia Commons. [Sony at the 2025 Bild Expo Presented by B&H Photo.jpg](https://commons.wikimedia.org/wiki/File:Sony_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg)
+- Sony a7R III Digital Camera Sensor: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Sony a7R III Digital Camera Sensor (29269149548).jpg](https://commons.wikimedia.org/wiki/File:Sony_a7R_III_Digital_Camera_Sensor_(29269149548).jpg)
+- Building that hosts Sony Imaging Products & Solutions Inc. among others: Syced, CC0, via Wikimedia Commons. [Building that hosts Sony Imaging Products & Solutions Inc. among others.jpg](https://commons.wikimedia.org/wiki/File:Building_that_hosts_Sony_Imaging_Products_%26_Solutions_Inc._among_others.jpg)
+- SONY HQ - panoramio: AMANO Jun-ichi, CC BY 3.0, via Wikimedia Commons. [SONY HQ - panoramio.jpg](https://commons.wikimedia.org/wiki/File:SONY_HQ_-_panoramio.jpg)
+- Lascar Sony Center and Deutsche Bahn Headquarters: Jorge Láscar from Australia, CC BY 2.0, via Wikimedia Commons. [Lascar Sony Center and Deutsche Bahn Headquarters (4472286028).jpg](https://commons.wikimedia.org/wiki/File:Lascar_Sony_Center_and_Deutsche_Bahn_Headquarters_(4472286028).jpg)
+
+## Southwest Airlines (LUV)
+
+- Southwest Airlines plane: Luiz Eduardo, CC BY 2.0, via Wikimedia Commons. [Southwest Airlines plane.jpg](https://commons.wikimedia.org/wiki/File:Southwest_Airlines_plane.jpg)
+- Bob Jordan, Southwest Airlines CEO (per Wikidata): DHSgov, public domain, via Wikimedia Commons. [Bob Jordan in 2025 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Bob_Jordan_in_2025_(cropped).jpg)
+- Southwest Airlines Equipment, Long Island MacArthur Airport, February 20, 2023: AITFFan1, CC0, via Wikimedia Commons. [Southwest Airlines Equipment, Long Island MacArthur Airport, February 20, 2023.jpg](https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Equipment,_Long_Island_MacArthur_Airport,_February_20,_2023.jpg)
+- Southwest Boarding Authorization card HNL: Mds08011, CC BY 4.0, via Wikimedia Commons. [Southwest Boarding Authorization card HNL.jpg](https://commons.wikimedia.org/wiki/File:Southwest_Boarding_Authorization_card_HNL.jpg)
+- Southwest gate at HNL: Mds08011, CC BY 4.0, via Wikimedia Commons. [Southwest gate at HNL.jpg](https://commons.wikimedia.org/wiki/File:Southwest_gate_at_HNL.jpg)
+- Southwest Airlines Arrived At Grand Cayman: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [Southwest Airlines Arrived At Grand Cayman.jpg](https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Arrived_At_Grand_Cayman.jpg)
+- NTSB investigator Jean-pierre Scarfo examining damage to the engine of the Southwest Airlines flight #1380 plane.: National Transportation Safety Board, public domain, via Wikimedia Commons. [NTSB WN 1380 (27695484288).jpg](https://commons.wikimedia.org/wiki/File:NTSB_WN_1380_(27695484288).jpg)
+- Southwest airlines hq from north: Mang9, CC BY-SA 3.0, via Wikimedia Commons. [Southwest airlines hq from north 2009-06-22.jpg](https://commons.wikimedia.org/wiki/File:Southwest_airlines_hq_from_north_2009-06-22.jpg)
+- Boeing 737-700 Southwest winglet, and headquarters, Love Field: Bill Abbott, CC BY-SA 2.0, via Wikimedia Commons. [Boeing 737-700 Southwest winglet, and headquarters, Love Field (2717214038) (3).jpg](https://commons.wikimedia.org/wiki/File:Boeing_737-700_Southwest_winglet,_and_headquarters,_Love_Field_(2717214038)_(3).jpg)
+- Southwest Airlines Corporate Office - Dallas - Texas: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Southwest Airlines Corporate Office - Dallas - Texas.jpg](https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Corporate_Office_-_Dallas_-_Texas.jpg)
+
+## SpaceX (SPCX)
+
+- A vertical panorama of Starship SN16 spacecraft taken on 5 September 2021 at SpaceX's Starbase spaceport, which at the time was intended to fly after Starship S: Lars Plougmann from United States, CC BY-SA 2.0, via Wikimedia Commons. [Starship SN16.jpeg](https://commons.wikimedia.org/wiki/File:Starship_SN16.jpeg)
+- Falcon 9 first stage at LZ-1(two): SpaceX Photos, CC0, via Wikimedia Commons. [Falcon 9 first stage at LZ-1(two).jpg](https://commons.wikimedia.org/wiki/File:Falcon_9_first_stage_at_LZ-1(two).jpg)
+- CRS-9 mission: SpaceX, CC0, via Wikimedia Commons. [CRS-9 mission (28348649546).jpg](https://commons.wikimedia.org/wiki/File:CRS-9_mission_(28348649546).jpg)
+- USA - Texas - Boca Chica - Starbase: Alexander Hatley from Spring, Texas, USA, CC BY 2.0, via Wikimedia Commons. [USA - Texas - Boca Chica - Starbase (51287071435).jpg](https://commons.wikimedia.org/wiki/File:USA_-_Texas_-_Boca_Chica_-_Starbase_(51287071435).jpg)
+- Starlink Flat Panel Dish on Roof of Truck: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Starlink Flat Panel Dish on Roof of Truck (53371298608).jpg](https://commons.wikimedia.org/wiki/File:Starlink_Flat_Panel_Dish_on_Roof_of_Truck_(53371298608).jpg)
+- Dragon 2 hover test: SpaceX Photos, CC0, via Wikimedia Commons. [Dragon 2 hover test (24159153709).jpg](https://commons.wikimedia.org/wiki/File:Dragon_2_hover_test_(24159153709).jpg)
+- SpaceX Crew Dragon (More ): NASA/SpaceX, public domain, via Wikimedia Commons. [SpaceX Crew Dragon (More cropped).jpg](https://commons.wikimedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg)
+- Elon Musk, SpaceX CEO (per Wikidata): Gage Skidmore, CC BY-SA 4.0, via Wikimedia Commons. [Elon Musk (54816836217) (cropped 2) (b).jpg](https://commons.wikimedia.org/wiki/File:Elon_Musk_(54816836217)_(cropped_2)_(b).jpg)
+- The SpaceX Factory: Steve Jurvetson, CC BY 2.0, via Wikimedia Commons. [The SpaceX Factory.jpg](https://commons.wikimedia.org/wiki/File:The_SpaceX_Factory.jpg)
+- Entrance to SpaceX headquarters: Bruno Sanchez-Andrade Nuño from Washington, DC, USA, CC BY 2.0, via Wikimedia Commons. [Entrance to SpaceX headquarters.jpg](https://commons.wikimedia.org/wiki/File:Entrance_to_SpaceX_headquarters.jpg)
+
+## Spotify (SPOT)
+
+- Spotify HK Stockholm: Goombah, CC0, via Wikimedia Commons. [Spotify HK Stockholm.jpg](https://commons.wikimedia.org/wiki/File:Spotify_HK_Stockholm.jpg)
+- 15.06.2025 - Gravação para o podcast "Mano a mano", com Mano Brown: Lula Oficial, CC BY-SA 4.0, via Wikimedia Commons. [15.06.2025 - Gravação para o podcast "Mano a mano", com Mano Brown - 54600352358.jpg](https://commons.wikimedia.org/wiki/File:15.06.2025_-_Grava%C3%A7%C3%A3o_para_o_podcast_%22Mano_a_mano%22,_com_Mano_Brown_-_54600352358.jpg)
+- Apple CarPlay in Nissan Qashqai T1154: Rberchie, CC BY-SA 4.0, via Wikimedia Commons. [Apple CarPlay in Nissan Qashqai 20190501 T1154.jpg](https://commons.wikimedia.org/wiki/File:Apple_CarPlay_in_Nissan_Qashqai_20190501_T1154.jpg)
+- A proportional symbol map depicting the cities in the United States which have streamed BYU Vocal Point's music on YouTube or Spotify during 2018.: Merrillhope, CC BY-SA 4.0, via Wikimedia Commons. [BYUVocalPointStreamsUSA2018.jpg](https://commons.wikimedia.org/wiki/File:BYUVocalPointStreamsUSA2018.jpg)
+- CAT, mascota del F.C. Barcelona: Wilnel José Verdú Guerrero, CC BY-SA 4.0, via Wikimedia Commons. [CAT, mascota del F.C. Barcelona.jpg](https://commons.wikimedia.org/wiki/File:CAT,_mascota_del_F.C._Barcelona.jpg)
+- OneRepublic at Spotify On Stage BKK 2019: Sry85, CC BY-SA 4.0, via Wikimedia Commons. [OneRepublic at Spotify On Stage BKK 2019.jpg](https://commons.wikimedia.org/wiki/File:OneRepublic_at_Spotify_On_Stage_BKK_2019.jpg)
+- Pahua TSQ photo1: Sergio Mario Pastrana, CC BY-SA 4.0, via Wikimedia Commons. [Pahua TSQ photo1.jpg](https://commons.wikimedia.org/wiki/File:Pahua_TSQ_photo1.jpg)
+- Галаўны офіс «Spotify» на Humlegårdsgatan.: Erik Stattin, CC BY-SA 2.0, via Wikimedia Commons. [Spotify HQ.jpg](https://commons.wikimedia.org/wiki/File:Spotify_HQ.jpg)
+- Spotify, King's Cross Railway Station: Philafrenzy, CC BY-SA 4.0, via Wikimedia Commons. [Spotify, King's Cross Railway Station.JPG](https://commons.wikimedia.org/wiki/File:Spotify,_King%27s_Cross_Railway_Station.JPG)
+- Spotify Almedalen 2025: Bene Riobó, CC BY-SA 4.0, via Wikimedia Commons. [Spotify Almedalen 2025.jpg](https://commons.wikimedia.org/wiki/File:Spotify_Almedalen_2025.jpg)
+
+## Stanley Black & Decker (SWK)
+
+- Army-Navy Production Award to Stanley Works, presentation program, January 20, 1943 - New Britain Industrial Museum: Daderot, CC0, via Wikimedia Commons. [Army-Navy Production Award to Stanley Works, presentation program, January 20, 1943 - New Britain Industrial Museum - DSC09905.JPG](https://commons.wikimedia.org/wiki/File:Army-Navy_Production_Award_to_Stanley_Works,_presentation_program,_January_20,_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG)
+- Stanley Black & Decker HQ: Leefisher91, CC BY-SA 4.0, via Wikimedia Commons. [Stanley Black & Decker HQ.jpg](https://commons.wikimedia.org/wiki/File:Stanley_Black_%26_Decker_HQ.jpg)
+
+## Starbucks (SBUX)
+
+- STARBUCKS COFFEE LUSHAN HOTEL STORE, SHENZHEN: Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons. [STARBUCKS COFFEE LUSHAN HOTEL STORE, SHENZHEN.jpg](https://commons.wikimedia.org/wiki/File:STARBUCKS_COFFEE_LUSHAN_HOTEL_STORE,_SHENZHEN.jpg)
+- Starbucks Reserve Roastery and Tasting Room, Seattle, 2023: Another Believer, CC BY-SA 4.0, via Wikimedia Commons. [Starbucks Reserve Roastery and Tasting Room, Seattle, 2023.jpg](https://commons.wikimedia.org/wiki/File:Starbucks_Reserve_Roastery_and_Tasting_Room,_Seattle,_2023.jpg)
+- Starbucks Red Cup: Hiro - Kokoro☆Photo from Kyoto, Japan, CC BY-SA 2.0, via Wikimedia Commons. [Starbucks Red Cup.jpg](https://commons.wikimedia.org/wiki/File:Starbucks_Red_Cup.jpg)
+- Pike Place Starbucks sign: Ken Wuschke, CC BY-SA 3.0, via Wikimedia Commons. [Pike Place Starbucks sign.jpg](https://commons.wikimedia.org/wiki/File:Pike_Place_Starbucks_sign.jpg)
+- Starbucks Soto Headquarters: Mannivu, CC BY-SA 4.0, via Wikimedia Commons. [Starbucks Soto Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Starbucks_Soto_Headquarters.jpg)
+- Brian Niccol (uncropped): Phi Delta Theta, CC BY 2.0, via Wikimedia Commons. [Brian Niccol (uncropped).jpg](https://commons.wikimedia.org/wiki/File:Brian_Niccol_(uncropped).jpg)
+- Starbucks Center in Seattle, Washington (headquarters of Starbucks Coffee). Photographed by user Coolcaesar on May 30, 2016.: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Starbuckscenter.jpg](https://commons.wikimedia.org/wiki/File:Starbuckscenter.jpg)
+- Seattle - Starbucks Center from the water 01: Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons. [Seattle - Starbucks Center from the water 01.jpg](https://commons.wikimedia.org/wiki/File:Seattle_-_Starbucks_Center_from_the_water_01.jpg)
+- SODO - Starbucks Headquarters - Port of Seattle: Latoya Ralliford, CC BY-SA 4.0, via Wikimedia Commons. [SODO - Starbucks Headquarters - Port of Seattle.jpg](https://commons.wikimedia.org/wiki/File:SODO_-_Starbucks_Headquarters_-_Port_of_Seattle.jpg)
+- Seattle - Starbucks HQ from Harbor Island 01: Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons. [Seattle - Starbucks HQ from Harbor Island 01.jpg](https://commons.wikimedia.org/wiki/File:Seattle_-_Starbucks_HQ_from_Harbor_Island_01.jpg)
+
+## State Street Corporation (STT)
+
+- State Street Bank - One Congress, Boston, MA: Daderot, CC0, via Wikimedia Commons. [State Street Bank - One Congress, Boston, MA.jpg](https://commons.wikimedia.org/wiki/File:State_Street_Bank_-_One_Congress,_Boston,_MA.jpg)
+- Boston skyline: Bert Kaufmann from Roermond, Netherlands, CC BY 2.0, via Wikimedia Commons. [Boston skyline (5173948387).jpg](https://commons.wikimedia.org/wiki/File:Boston_skyline_(5173948387).jpg)
+- State Street Bank München: Laura Hoffmann, CC BY 2.0, via Wikimedia Commons. [State Street Bank München (26546054305).jpg](https://commons.wikimedia.org/wiki/File:State_Street_Bank_M%C3%BCnchen_(26546054305).jpg)
+- State Street Banque: User:Fust, public domain, via Wikimedia Commons. [State Street Banque.jpg](https://commons.wikimedia.org/wiki/File:State_Street_Banque.jpg)
+- 78 Sir John Rogerson's Quay, Dublin 2 1: DXR, CC BY-SA 4.0, via Wikimedia Commons. [78 Sir John Rogerson's Quay, Dublin 2 20150807 1.jpg](https://commons.wikimedia.org/wiki/File:78_Sir_John_Rogerson%27s_Quay,_Dublin_2_20150807_1.jpg)
+- State Street (fcm): Photograph: Frank C. Müller , Baden-Baden, CC BY-SA 4.0, via Wikimedia Commons. [State Street (fcm).jpg](https://commons.wikimedia.org/wiki/File:State_Street_(fcm).jpg)
+- Boston Common: InSapphoWeTrust from Los Angeles, California, USA, CC BY-SA 2.0, via Wikimedia Commons. [Boston Common (7194230690).jpg](https://commons.wikimedia.org/wiki/File:Boston_Common_(7194230690).jpg)
+- Boston skyline crop: Bert Kaufmann from Roermond, Netherlands; cropped by Beyond My Ken ( talk ) 07:53, 19 February 2017 (UTC), CC BY 2.0, via Wikimedia Commons. [Boston skyline (5173948387) crop.jpg](https://commons.wikimedia.org/wiki/File:Boston_skyline_(5173948387)_crop.jpg)
+
+## Steel Dynamics (STLD)
+
+- Steel Dynamics Steel Mill, Pittsboro, Indiana: Unknown author, public domain, via Wikimedia Commons. [Steel Dynamics Steel Mill, Pittsboro, Indiana.jpg](https://commons.wikimedia.org/wiki/File:Steel_Dynamics_Steel_Mill,_Pittsboro,_Indiana.jpg)
+
+## Steris (STE)
+
+- Wall-mounted hand sanitizer dispenser: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [Wall-mounted hand sanitizer dispenser.JPG](https://commons.wikimedia.org/wiki/File:Wall-mounted_hand_sanitizer_dispenser.JPG)
+- Wall-mounted medicated lotion soap: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [Wall-mounted medicated lotion soap.JPG](https://commons.wikimedia.org/wiki/File:Wall-mounted_medicated_lotion_soap.JPG)
+
+## Strategy (MicroStrategy) (MSTR)
+
+- Tysons Skyline viewed from Tysons Corner Center: Baron Maddock, CC BY 4.0, via Wikimedia Commons. [Tysons Skyline viewed from Tysons Corner Center.jpg](https://commons.wikimedia.org/wiki/File:Tysons_Skyline_viewed_from_Tysons_Corner_Center.jpg)
+- Gold-coloured Bitcoin coins, macro: Wald-Burger8, CC BY-SA 4.0, via Wikimedia Commons. [Bitcoin 2026.jpg](https://commons.wikimedia.org/wiki/File:Bitcoin_2026.jpg)
+- Michael Saylor 2022: ReasonTV, CC BY 3.0, via Wikimedia Commons. [Michael Saylor 2022.png](https://commons.wikimedia.org/wiki/File:Michael_Saylor_2022.png)
+
+## Stryker Corporation (SYK)
+
+- THL Pflichtbereichsübung in Piberschlag 10.04.2018: Pressestelle BFK Urfahr-Umgebung, CC BY 2.0, via Wikimedia Commons. [THL Pflichtbereichsübung in Piberschlag 10.04.2018 (40677379414).jpg](https://commons.wikimedia.org/wiki/File:THL_Pflichtbereichs%C3%BCbung_in_Piberschlag_10.04.2018_(40677379414).jpg)
+- Media Tour Youth Olympic Village Lausanne (2020 Winter Youth Olympics) by Martin Rulsch 09: Martin Rulsch , Wikimedia Commons, CC BY-SA 4.0, via Wikimedia Commons. [2020-01-09 Media Tour Youth Olympic Village Lausanne (2020 Winter Youth Olympics) by Martin Rulsch 09.jpg](https://commons.wikimedia.org/wiki/File:2020-01-09_Media_Tour_Youth_Olympic_Village_Lausanne_(2020_Winter_Youth_Olympics)_by_Martin_Rulsch_09.jpg)
+- Hospital bed at Pok Oi Hospital: Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons. [Hospital bed at Pok Oi Hospital.jpg](https://commons.wikimedia.org/wiki/File:Hospital_bed_at_Pok_Oi_Hospital.jpg)
+- Stryker Hospital bed in Out patient clinic: Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons. [Stryker Hospital bed in Out patient clinic.jpg](https://commons.wikimedia.org/wiki/File:Stryker_Hospital_bed_in_Out_patient_clinic.jpg)
+- University Medical Center, New Orleans, December 2023 - Rolling bed in corridor: Infrogmation of New Orleans, CC BY-SA 2.0, via Wikimedia Commons. [University Medical Center, New Orleans, December 2023 - Rolling bed in corridor.jpg](https://commons.wikimedia.org/wiki/File:University_Medical_Center,_New_Orleans,_December_2023_-_Rolling_bed_in_corridor.jpg)
+- NEF RKiSH 03: Huhu Uet, CC BY 3.0, via Wikimedia Commons. [NEF RKiSH 03.jpg](https://commons.wikimedia.org/wiki/File:NEF_RKiSH_03.jpg)
+- Stryker Endoscopy building 1: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [Stryker Endoscopy building 1.JPG](https://commons.wikimedia.org/wiki/File:Stryker_Endoscopy_building_1.JPG)
+
+## Supermicro (SMCI)
+
+- The Gathering 2019 - Rack (under constructions, left): DiFronzo, CC BY 2.0, via Wikimedia Commons. [The Gathering 2019 - Rack (under constructions, left) (40763744243).jpg](https://commons.wikimedia.org/wiki/File:The_Gathering_2019_-_Rack_(under_constructions,_left)_(40763744243).jpg)
+- The Gathering 2019 - Switch, server and firewall: DiFronzo, CC BY 2.0, via Wikimedia Commons. [The Gathering 2019 - Switch, server and firewall (46813726365).jpg](https://commons.wikimedia.org/wiki/File:The_Gathering_2019_-_Switch,_server_and_firewall_(46813726365).jpg)
+- Super Micro Computer booth: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Super Micro Computer booth 20190601.jpg](https://commons.wikimedia.org/wiki/File:Super_Micro_Computer_booth_20190601.jpg)
+- ASPEED AST2400 BMC Baseboard management controller: Phiarc, CC BY-SA 4.0, via Wikimedia Commons. [ASPEED AST2400 BMC Baseboard management controller.jpg](https://commons.wikimedia.org/wiki/File:ASPEED_AST2400_BMC_Baseboard_management_controller.jpg)
+- Socketed Intel Celeron G1820 SR1CN: Phiarc, CC BY-SA 4.0, via Wikimedia Commons. [Socketed Intel Celeron G1820 SR1CN.jpg](https://commons.wikimedia.org/wiki/File:Socketed_Intel_Celeron_G1820_SR1CN.jpg)
+- Super Micro Computer promotional models at Computex 20140606a: Sinchen.Lin, CC BY 2.0, via Wikimedia Commons. [Super Micro Computer promotional models at Computex 20140606a.jpg](https://commons.wikimedia.org/wiki/File:Super_Micro_Computer_promotional_models_at_Computex_20140606a.jpg)
+- Supermicro - X11SAE – CeBIT 2016 01: Frank Schwichtenberg, CC BY 4.0, via Wikimedia Commons. [Supermicro - X11SAE – CeBIT 2016 01.jpg](https://commons.wikimedia.org/wiki/File:Supermicro_-_X11SAE_%E2%80%93_CeBIT_2016_01.jpg)
+- Supermicro SuperWorkstation SYS-740A-T: ptwo, CC BY 2.0, via Wikimedia Commons. [Supermicro SuperWorkstation SYS-740A-T.jpg](https://commons.wikimedia.org/wiki/File:Supermicro_SuperWorkstation_SYS-740A-T.jpg)
+- SuperMicro Server: Frédéric BISSON, CC BY 2.0, via Wikimedia Commons. [SuperMicro Server.jpg](https://commons.wikimedia.org/wiki/File:SuperMicro_Server.jpg)
+- Supermicro AOC-S3108L-H8iR SAS RAID controller. Low-profile PCI Express 3.0 x8 card. Provides 8 SAS3 ports, 2GB DRAM cache, hardware RAID 0, 1, 5, 6, 10, 50, 60: Dmitry Nosachev, CC BY-SA 4.0, via Wikimedia Commons. [AOC-S3108L-H8IR.jpg](https://commons.wikimedia.org/wiki/File:AOC-S3108L-H8IR.jpg)
+
+## Synopsys (SNPS)
+
+- Synopsys Headquarters Mountain View: LPS.1, CC0, via Wikimedia Commons. [Synopsys Headquarters Mountain View.jpg](https://commons.wikimedia.org/wiki/File:Synopsys_Headquarters_Mountain_View.jpg)
+- Aart de Geus, Synopsys CEO (per Wikidata): Rachel Nicolas, CC BY-SA 2.0, via Wikimedia Commons. [Aart de Geus.jpg](https://commons.wikimedia.org/wiki/File:Aart_de_Geus.jpg)
+- 675 Almanor Avenue: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [675 Almanor Avenue.jpg](https://commons.wikimedia.org/wiki/File:675_Almanor_Avenue.jpg)
+- Synopsys (Synopsys): Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [SynopsysMarkham.jpg](https://commons.wikimedia.org/wiki/File:SynopsysMarkham.jpg)
+- Synopsys Armenia - Womens Day Celebration (courtesy the American Times): Dfortuna, CC BY-SA 3.0, via Wikimedia Commons. [Synopsys Armenia - Womens Day Celebration (courtesy the American Times).jpg](https://commons.wikimedia.org/wiki/File:Synopsys_Armenia_-_Womens_Day_Celebration_(courtesy_the_American_Times).jpg)
+- Synopsys at dusk - Hillsboro, Oregon: M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Synopsys at dusk - Hillsboro, Oregon.JPG](https://commons.wikimedia.org/wiki/File:Synopsys_at_dusk_-_Hillsboro,_Oregon.JPG)
+- Synopsys north tower - Hillsboro, Oregon: M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Synopsys north tower - Hillsboro, Oregon.JPG](https://commons.wikimedia.org/wiki/File:Synopsys_north_tower_-_Hillsboro,_Oregon.JPG)
+- Synopsys campus building - Hillsboro, Oregon: M. O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Synopsys campus building - Hillsboro, Oregon.JPG](https://commons.wikimedia.org/wiki/File:Synopsys_campus_building_-_Hillsboro,_Oregon.JPG)
+- Synopsys south tower - Hillsboro, Oregon: M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Synopsys south tower - Hillsboro, Oregon.JPG](https://commons.wikimedia.org/wiki/File:Synopsys_south_tower_-_Hillsboro,_Oregon.JPG)
+- Synopsys campus Hillsboro, Oregon: M. O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Synopsys campus Hillsboro, Oregon.JPG](https://commons.wikimedia.org/wiki/File:Synopsys_campus_Hillsboro,_Oregon.JPG)
+
+## Sysco (SYY)
+
+- Sysco: WhisperToMe, public domain, via Wikimedia Commons. [SyscoHQHouston.JPG](https://commons.wikimedia.org/wiki/File:SyscoHQHouston.JPG)
+- Brackley, PEI: Larry from Charlottetown, PEI, Canada, CC BY 2.0, via Wikimedia Commons. [Brackley, PEI (45455491162).jpg](https://commons.wikimedia.org/wiki/File:Brackley,_PEI_(45455491162).jpg)
+- Secretary Perdue at Sysco San Diego ( -OSEC-LSC-0345): USDAgov, public domain, via Wikimedia Commons. [Secretary Perdue at Sysco San Diego (20190715-OSEC-LSC-0345).jpg](https://commons.wikimedia.org/wiki/File:Secretary_Perdue_at_Sysco_San_Diego_(20190715-OSEC-LSC-0345).jpg)
+- Sysco Corporation Headquarters - Houston, Texas: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Sysco Corporation Headquarters - Houston, Texas (33648710078).jpg](https://commons.wikimedia.org/wiki/File:Sysco_Corporation_Headquarters_-_Houston,_Texas_(33648710078).jpg)
+- Ryan Preece car, Las Vegas Fall 2025: Nascar9919, CC BY 4.0, via Wikimedia Commons. [Ryan Preece car, Las Vegas Fall 2025.jpg](https://commons.wikimedia.org/wiki/File:Ryan_Preece_car,_Las_Vegas_Fall_2025.jpg)
+- Cross 8th Street and Olive Street (July 2022): Benoît Prieur, CC0, via Wikimedia Commons. [Cross 8th Street and Olive Street (July 2022).jpg](https://commons.wikimedia.org/wiki/File:Cross_8th_Street_and_Olive_Street_(July_2022).jpg)
+- Here's an International MV belonging to Sysco, at work in Jersey City, New Jersey. The MV was formerly known as the International DuraStar and, prior to that, t: Jason Lawrence, CC BY 2.0, via Wikimedia Commons. [International MV (54360105280).jpg](https://commons.wikimedia.org/wiki/File:International_MV_(54360105280).jpg)
+- Sysco Headquarters in Houston.: WhisperToMe - Edited by Henry Han, CC0, via Wikimedia Commons. [Sysco HQ.jpg](https://commons.wikimedia.org/wiki/File:Sysco_HQ.jpg)
+- Sysco Food Service Truck - Pallet Delivery: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Sysco Food Service Truck - Pallet Delivery (49539528381).jpg](https://commons.wikimedia.org/wiki/File:Sysco_Food_Service_Truck_-_Pallet_Delivery_(49539528381).jpg)
+- SYSCO semi truck: Ewkada, CC BY 3.0, via Wikimedia Commons. [SYSCO semi truck.jpg](https://commons.wikimedia.org/wiki/File:SYSCO_semi_truck.jpg)
+
+## T-Mobile US (TMUS)
+
+- T-Mobile Headquarters in Bellevue, WA: FMM134, CC BY-SA 2.0, via Wikimedia Commons. [T-Mobile Headquarters in Bellevue, WA.jpg](https://commons.wikimedia.org/wiki/File:T-Mobile_Headquarters_in_Bellevue,_WA.jpg)
+- Mike Sievert, T-Mobile US CEO (per Wikidata): T-Mobile USA, CC BY-SA 4.0, via Wikimedia Commons. [Mike Sievert.jpg](https://commons.wikimedia.org/wiki/File:Mike_Sievert.jpg)
+- T-Mobile store in Port Charlotte damaged by Hurricane Ian: PCHS-NJROTC, CC BY-SA 4.0, via Wikimedia Commons. [T-Mobile store in Port Charlotte damaged by Hurricane Ian.jpg](https://commons.wikimedia.org/wiki/File:T-Mobile_store_in_Port_Charlotte_damaged_by_Hurricane_Ian.jpg)
+- 15th St 9th Av td ( ) 33 - T-Mobile (66 Ninth Avenue): Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [15th St 9th Av td (2022-02-09) 33 - T-Mobile (66 Ninth Avenue).jpg](https://commons.wikimedia.org/wiki/File:15th_St_9th_Av_td_(2022-02-09)_33_-_T-Mobile_(66_Ninth_Avenue).jpg)
+- Cherry Hill Mall, August 26th 40: Orizan, CC BY-SA 4.0, via Wikimedia Commons. [Cherry Hill Mall, August 26th 40.jpg](https://commons.wikimedia.org/wiki/File:Cherry_Hill_Mall,_August_26th_40.jpg)
+- Kansas City June 2022 14 (T-Mobile Center): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Kansas City June 2022 14 (T-Mobile Center).jpg](https://commons.wikimedia.org/wiki/File:Kansas_City_June_2022_14_(T-Mobile_Center).jpg)
+- T-Mobile, Newport Terrace, Factoria, Bellevue, Washington: Wonderlane, CC BY 2.0, via Wikimedia Commons. [T-Mobile, Newport Terrace, Factoria, Bellevue, Washington.jpg](https://commons.wikimedia.org/wiki/File:T-Mobile,_Newport_Terrace,_Factoria,_Bellevue,_Washington.jpg)
+- T-Mobile US Retail Store in Waterbury, CT: Mike Mozart, CC BY 2.0, via Wikimedia Commons. [T-Mobile US Retail Store in Waterbury, CT.jpg](https://commons.wikimedia.org/wiki/File:T-Mobile_US_Retail_Store_in_Waterbury,_CT.jpg)
+- Sprint Center: Heath Cajandig, CC BY 2.0, via Wikimedia Commons. [Sprint Center (15946139778).jpg](https://commons.wikimedia.org/wiki/File:Sprint_Center_(15946139778).jpg)
+- experian-letter-redacted: Y2ilm, CC BY-SA 4.0, via Wikimedia Commons. [2015-10-05 experian-letter-redacted.jpg](https://commons.wikimedia.org/wiki/File:2015-10-05_experian-letter-redacted.jpg)
+
+## T. Rowe Price (TROW)
+
+- 100 East Pratt Street: Wallstreethotrod ( talk ), public domain, via Wikimedia Commons. [100 East Pratt Street.jpg](https://commons.wikimedia.org/wiki/File:100_East_Pratt_Street.jpg)
+- Coors Light Roof Deck and T. Rowe Price Videoboard Signs Added At Camden Yards in 2024: Rock & roll is not dead, CC0, via Wikimedia Commons. [Coors Light Roof Deck and T. Rowe Price Videoboard Signs Added At Camden Yards in 2024.jpg](https://commons.wikimedia.org/wiki/File:Coors_Light_Roof_Deck_and_T._Rowe_Price_Videoboard_Signs_Added_At_Camden_Yards_in_2024.jpg)
+
+## Take-Two Interactive (TTWO)
+
+- 44th St 6th Av td 26 - 1133 Avenue of the Americas: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [44th St 6th Av td 26 - 1133 Avenue of the Americas.jpg](https://commons.wikimedia.org/wiki/File:44th_St_6th_Av_td_26_-_1133_Avenue_of_the_Americas.jpg)
+- Kelly Sumner, Take-Two Interactive CEO (per Wikidata): Jdwhampson, CC BY-SA 4.0, via Wikimedia Commons. [Headshot of Kelly Sumner for profile.jpg](https://commons.wikimedia.org/wiki/File:Headshot_of_Kelly_Sumner_for_profile.jpg)
+
+## Tapestry, Inc. (TPR)
+
+- 10 Hudson Yard from 9 Av & 30 St 2016 Dec jeh: Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons. [10 Hudson Yard from 9 Av & 30 St 2016 Dec jeh.jpg](https://commons.wikimedia.org/wiki/File:10_Hudson_Yard_from_9_Av_%26_30_St_2016_Dec_jeh.jpg)
+
+## Target Corporation (TGT)
+
+- Target Corporation: Skinner2398, CC BY-SA 4.0, via Wikimedia Commons. [Target2398.jpg](https://commons.wikimedia.org/wiki/File:Target2398.jpg)
+- Fireside Chat with Target Corporation CEO and Leadership: Maryland GovPics, CC BY 2.0, via Wikimedia Commons. [Fireside Chat with Target Corporation CEO and Leadership (53892205719).jpg](https://commons.wikimedia.org/wiki/File:Fireside_Chat_with_Target_Corporation_CEO_and_Leadership_(53892205719).jpg)
+- Target Catch Basin Inlet: Mds08011, CC BY 4.0, via Wikimedia Commons. [Target Catch Basin Inlet.jpg](https://commons.wikimedia.org/wiki/File:Target_Catch_Basin_Inlet.jpg)
+- Target Corporation CEO Brian Cornell: Maryland GovPics, CC BY 2.0, via Wikimedia Commons. [Target Corporation CEO Brian Cornell (53892287200).jpg](https://commons.wikimedia.org/wiki/File:Target_Corporation_CEO_Brian_Cornell_(53892287200).jpg)
+- Inland Empire CA: Sony 1992, CC0, via Wikimedia Commons. [Inland Empire CA 20230909 212704021.jpg](https://commons.wikimedia.org/wiki/File:Inland_Empire_CA_20230909_212704021.jpg)
+- Target Shopping Cart Dadeland Station: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Target Shopping Cart Dadeland Station (54562935551).jpg](https://commons.wikimedia.org/wiki/File:Target_Shopping_Cart_Dadeland_Station_(54562935551).jpg)
+- ICE protest in Minneapolis-15: Myotus, CC BY 4.0, via Wikimedia Commons. [2026-01-23 ICE protest in Minneapolis-15.jpg](https://commons.wikimedia.org/wiki/File:2026-01-23_ICE_protest_in_Minneapolis-15.jpg)
+- The downtown Minneapolis Target Corporation store with its corporate headquarters tower in the background, Minneapolis, Minnesota, USA, 05-12-07: Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons. [The downtown Minneapolis Target Corporation store with its corporate headquarters tower in the background, Minneapolis, Minnesota, USA, 05-12-07.jpg](https://commons.wikimedia.org/wiki/File:The_downtown_Minneapolis_Target_Corporation_store_with_its_corporate_headquarters_tower_in_the_background,_Minneapolis,_Minnesota,_USA,_05-12-07.jpg)
+- Target Store Conservation Area Sign: Mike Mozart from Funny YouTube, USA, CC BY 2.0, via Wikimedia Commons. [Target Store Conservation Area Sign (13945687379).jpg](https://commons.wikimedia.org/wiki/File:Target_Store_Conservation_Area_Sign_(13945687379).jpg)
+- Target Distribution Center, Tift County: Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons. [Target Distribution Center, Tift County.jpg](https://commons.wikimedia.org/wiki/File:Target_Distribution_Center,_Tift_County.jpg)
+
+## TD Bank (TD)
+
+- New York City COVID19 Images April 16, 2020: Anthony Quintano, CC BY 2.0, via Wikimedia Commons. [New York City COVID19 Images April 16, 2020 - 49784723461.jpg](https://commons.wikimedia.org/wiki/File:New_York_City_COVID19_Images_April_16,_2020_-_49784723461.jpg)
+- Looking up in Toronto: Daniel from Glasgow, United Kingdom, CC BY 2.0, via Wikimedia Commons. [Looking up in Toronto (54598154573).jpg](https://commons.wikimedia.org/wiki/File:Looking_up_in_Toronto_(54598154573).jpg)
+- Canada Trust chip: Travis Goodspeed, CC BY 2.0, via Wikimedia Commons. [Canada Trust chip.jpg](https://commons.wikimedia.org/wiki/File:Canada_Trust_chip.jpg)
+- 205 Yonge Street, Toronto, ON: Thepianokid99, CC BY-SA 4.0, via Wikimedia Commons. [205 Yonge Street, Toronto, ON.jpg](https://commons.wikimedia.org/wiki/File:205_Yonge_Street,_Toronto,_ON.jpg)
+- Conestoga Mall - Waterloo, ON: JFVoll, CC BY-SA 3.0, via Wikimedia Commons. [Conestoga Mall - Waterloo, ON (2026).jpg](https://commons.wikimedia.org/wiki/File:Conestoga_Mall_-_Waterloo,_ON_(2026).jpg)
+- A centuries-old “Submarine” floating in modern times: Roy Hoh, CC BY-SA 4.0, via Wikimedia Commons. [A centuries-old “Submarine” floating in modern times.jpg](https://commons.wikimedia.org/wiki/File:A_centuries-old_%E2%80%9CSubmarine%E2%80%9D_floating_in_modern_times.jpg)
+- Back top of the Dominion Building in 2018: Christian Paul, CC BY-SA 4.0, via Wikimedia Commons. [Back top of the Dominion Building in 2018.jpg](https://commons.wikimedia.org/wiki/File:Back_top_of_the_Dominion_Building_in_2018.jpg)
+- Ghost Like TD Bank Building in Background: Peter Kudlacz, CC BY 2.0, via Wikimedia Commons. [Ghost Like TD Bank Building in Background (6059649798).jpg](https://commons.wikimedia.org/wiki/File:Ghost_Like_TD_Bank_Building_in_Background_(6059649798).jpg)
+- TD Bank Branch in Beaverton, Ontario, September 3 2026: Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons. [TD Bank Branch in Beaverton, Ontario, September 3 2026.jpg](https://commons.wikimedia.org/wiki/File:TD_Bank_Branch_in_Beaverton,_Ontario,_September_3_2026.jpg)
+- RBC & TD Bank Branch: PiggyBank Canada from Toronto, Canada, CC BY 2.0, via Wikimedia Commons. [RBC & TD Bank Branch (51656669967).jpg](https://commons.wikimedia.org/wiki/File:RBC_%26_TD_Bank_Branch_(51656669967).jpg)
+
+## TE Connectivity (TEL)
+
+- TE Connectivity factory at Kunshan: Shwangtianyuan, CC BY-SA 4.0, via Wikimedia Commons. [TE Connectivity factory at Kunshan.jpg](https://commons.wikimedia.org/wiki/File:TE_Connectivity_factory_at_Kunshan.jpg)
+
+## Teradyne (TER)
+
+- Demolition at elevated taken from five story building near Oak Street in Chinatown, looking at Mass Pike and Northampton: Unknown author Unknown author, CC BY-SA 2.0, via Wikimedia Commons. [Demolition at elevated taken from five story building near Oak Street in Chinatown, looking at Mass Pike and Northampton (15410476443).jpg](https://commons.wikimedia.org/wiki/File:Demolition_at_elevated_taken_from_five_story_building_near_Oak_Street_in_Chinatown,_looking_at_Mass_Pike_and_Northampton_(15410476443).jpg)
+
+## Tesla, Inc. (TSLA)
+
+- Gigafactory Texas Building 1 June 2022: Larry D. Moore, CC BY 4.0, via Wikimedia Commons. [Gigafactory Texas Building 1 June 2022.jpg](https://commons.wikimedia.org/wiki/File:Gigafactory_Texas_Building_1_June_2022.jpg)
+- Tesla Model Y MYLE Festival 2025 9570: Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons. [Tesla Model Y (2025) MYLE Festival 2025 DSC 9570.jpg](https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_(2025)_MYLE_Festival_2025_DSC_9570.jpg)
+- Foundation series Cybertruck at dusk in San Jose dllu: Dllu, CC BY-SA 4.0, via Wikimedia Commons. [Foundation series Cybertruck at dusk in San Jose dllu.jpg](https://commons.wikimedia.org/wiki/File:Foundation_series_Cybertruck_at_dusk_in_San_Jose_dllu.jpg)
+- Missoula (MT, USA), Tesla Supercharger -- 2022: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Missoula (MT, USA), Tesla Supercharger -- 2022 -- 194228.jpg](https://commons.wikimedia.org/wiki/File:Missoula_(MT,_USA),_Tesla_Supercharger_--_2022_--_194228.jpg)
+- Latest Tesla Optimus Humanoid Robot: Steve Jurvetson, CC BY 2.0, via Wikimedia Commons. [Latest Tesla Optimus Humanoid Robot.jpg](https://commons.wikimedia.org/wiki/File:Latest_Tesla_Optimus_Humanoid_Robot.jpg)
+- Elon Musk Colorado 2022 (cropped2): U.S. Air Force / Trevor Cokley, public domain, via Wikimedia Commons. [Elon Musk Colorado 2022 (cropped2).jpg](https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg)
+- HK SKD 西貢北 Sai Kung North 海映路 Hoi Ying Road 西沙 Go Park Sai Sha shop TESLA Showroom June 2025 R12S 01: Littootze 622 Miammoel, CC0, via Wikimedia Commons. [HK SKD 西貢北 Sai Kung North 海映路 Hoi Ying Road 西沙 Go Park Sai Sha shop TESLA Showroom June 2025 R12S 01.jpg](https://commons.wikimedia.org/wiki/File:HK_SKD_%E8%A5%BF%E8%B2%A2%E5%8C%97_Sai_Kung_North_%E6%B5%B7%E6%98%A0%E8%B7%AF_Hoi_Ying_Road_%E8%A5%BF%E6%B2%99_Go_Park_Sai_Sha_shop_TESLA_Showroom_June_2025_R12S_01.jpg)
+- tesla-headquarters-group-photo-s1: Steve Jurvetson, CC BY 2.0, via Wikimedia Commons. [2012-06-01-tesla-headquarters-group-photo-s1.jpg](https://commons.wikimedia.org/wiki/File:2012-06-01-tesla-headquarters-group-photo-s1.jpg)
+- Tesla store - Fort Myres: Cuban Boy, CC0, via Wikimedia Commons. [Tesla store - Fort Myres.jpg](https://commons.wikimedia.org/wiki/File:Tesla_store_-_Fort_Myres.jpg)
+- Blue velvet ropes at a Tesla store in Gothenburg: W.carter, CC BY-SA 4.0, via Wikimedia Commons. [Blue velvet ropes at a Tesla store in Gothenburg.jpg](https://commons.wikimedia.org/wiki/File:Blue_velvet_ropes_at_a_Tesla_store_in_Gothenburg.jpg)
+
+## Texas Instruments (TXN)
+
+- TI signboard Dallas: Texas Instruments, CC BY 3.0, via Wikimedia Commons. [TI signboard Dallas.png](https://commons.wikimedia.org/wiki/File:TI_signboard_Dallas.png)
+- Classic Computing in Hof HOF7659 RAW-Export: PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons. [Classic Computing in Hof 20250914 HOF7659 RAW-Export.png](https://commons.wikimedia.org/wiki/File:Classic_Computing_in_Hof_20250914_HOF7659_RAW-Export.png)
+- Texas Instruments Dallas Headquarters June 2018: Crazyblocks, CC0, via Wikimedia Commons. [Texas Instruments Dallas Headquarters June 2018.jpg](https://commons.wikimedia.org/wiki/File:Texas_Instruments_Dallas_Headquarters_June_2018.jpg)
+- Texas Instruments Dallas September 2019: Crazyblocks, CC0, via Wikimedia Commons. [Texas Instruments Dallas September 2019.jpg](https://commons.wikimedia.org/wiki/File:Texas_Instruments_Dallas_September_2019.jpg)
+- Texas Instruments Headquarters (TI): Tony Webster, CC BY 2.0, via Wikimedia Commons. [Texas Instruments Headquarters (TI).jpg](https://commons.wikimedia.org/wiki/File:Texas_Instruments_Headquarters_(TI).jpg)
+- Texas Instruments construction 1: Mds08011, CC BY 4.0, via Wikimedia Commons. [Texas Instruments construction 1.jpg](https://commons.wikimedia.org/wiki/File:Texas_Instruments_construction_1.jpg)
+- Texas Instruments construction in Tucson AZ: Mds08011, CC BY 4.0, via Wikimedia Commons. [Texas Instruments construction in Tucson AZ.jpg](https://commons.wikimedia.org/wiki/File:Texas_Instruments_construction_in_Tucson_AZ.jpg)
+- Texas Instruments TI-99 4A, Google NY office computer museum: Marcin Wichary from San Francisco, U.S.A., CC BY 2.0, via Wikimedia Commons. [Texas Instruments TI-99 4A, Google NY office computer museum.jpg](https://commons.wikimedia.org/wiki/File:Texas_Instruments_TI-99_4A,_Google_NY_office_computer_museum.jpg)
+- Texas Instruments building, Raanana: דוד שי, CC BY-SA 4.0, via Wikimedia Commons. [Texas Instruments building, Raanana.jpg](https://commons.wikimedia.org/wiki/File:Texas_Instruments_building,_Raanana.jpg)
+- 1954 Texas Instruments Trasistor-radio TR-1: Wikisympathisant, CC BY-SA 4.0, via Wikimedia Commons. [1954 Texas Instruments Trasistor-radio TR-1.jpg](https://commons.wikimedia.org/wiki/File:1954_Texas_Instruments_Trasistor-radio_TR-1.jpg)
+
+## Textron (TXT)
+
+- Textron building in Providence, Rhode Island: Kenneth C. Zirkel, CC BY-SA 3.0, via Wikimedia Commons. [Textron building in Providence, Rhode Island.jpg](https://commons.wikimedia.org/wiki/File:Textron_building_in_Providence,_Rhode_Island.jpg)
+- Textron Aviation Defense: aamanatullah, CC BY 2.0, via Wikimedia Commons. [Textron Aviation Defense (25330962207).jpg](https://commons.wikimedia.org/wiki/File:Textron_Aviation_Defense_(25330962207).jpg)
+- Hybrid Fleet Campaign Event - USNAVSOUTH and Salvadoran Navy integrate Robotic and Autonomous Systems during FLEX 2025: U.S. Navy photo by Chief Petty Officer John Fischer, public domain, via Wikimedia Commons. [Hybrid Fleet Campaign Event - USNAVSOUTH and Salvadoran Navy integrate Robotic and Autonomous Systems during FLEX 2025 (9070758).jpg](https://commons.wikimedia.org/wiki/File:Hybrid_Fleet_Campaign_Event_-_USNAVSOUTH_and_Salvadoran_Navy_integrate_Robotic_and_Autonomous_Systems_during_FLEX_2025_(9070758).jpg)
+- Great Texas Airshow 2022 Static Displays220424-F-VZ183-01 RHODES: Joint Base San Antonio from San Antonio, USA, public domain, via Wikimedia Commons. [Great Texas Airshow 2022 Static Displays220424-F-VZ183-01 RHODES (52028183252).jpg](https://commons.wikimedia.org/wiki/File:Great_Texas_Airshow_2022_Static_Displays220424-F-VZ183-01_RHODES_(52028183252).jpg)
+- Aerosonde UAS returns to USS Hershel “Woody” Williams: Sgt. Megan Roses, II MEF Information Group, public domain, via Wikimedia Commons. [Aerosonde UAS returns to USS Hershel “Woody” Williams 6371732.jpg](https://commons.wikimedia.org/wiki/File:Aerosonde_UAS_returns_to_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371732.jpg)
+- Aerosonde UAS to launch from USS Hershel “Woody” Williams: Sgt. Megan Roses, II MEF Information Group, public domain, via Wikimedia Commons. [Aerosonde UAS to launch from USS Hershel “Woody” Williams 6371728.jpg](https://commons.wikimedia.org/wiki/File:Aerosonde_UAS_to_launch_from_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371728.jpg)
+- MTA Kew Gdns Union Tpke td ( ) 04: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [MTA Kew Gdns Union Tpke td (2018-06-09) 04.jpg](https://commons.wikimedia.org/wiki/File:MTA_Kew_Gdns_Union_Tpke_td_(2018-06-09)_04.jpg)
+- Textron Headquarters Building Providence Rhode Island: Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons. [Textron Headquarters Building Providence Rhode Island.jpg](https://commons.wikimedia.org/wiki/File:Textron_Headquarters_Building_Providence_Rhode_Island.jpg)
+- Textron Tower - Providence: AnonymousMouse321, CC BY-SA 4.0, via Wikimedia Commons. [Textron Tower - Providence.jpg](https://commons.wikimedia.org/wiki/File:Textron_Tower_-_Providence.jpg)
+- Textron Tower: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [Textron Tower.jpg](https://commons.wikimedia.org/wiki/File:Textron_Tower.jpg)
+
+## Thermo Fisher Scientific (TMO)
+
+- Thermo Fisher headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Thermo Fisher headquarters.jpg](https://commons.wikimedia.org/wiki/File:Thermo_Fisher_headquarters.jpg)
+
+## TJX Companies (TJX)
+
+- TK Maxx is a subsidiary of the American apparel and home goods company TJX Companies based in Framingham, Massachusetts: John K Thorne, public domain, via Wikimedia Commons. [TK Maxx is a subsidiary of the American apparel and home goods company TJX Companies based in Framingham, Massachusetts.jpg](https://commons.wikimedia.org/wiki/File:TK_Maxx_is_a_subsidiary_of_the_American_apparel_and_home_goods_company_TJX_Companies_based_in_Framingham,_Massachusetts.jpg)
+
+## TKO Group Holdings (TKO)
+
+- 200 Fifth Avenue - Toy Center: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [200 Fifth Avenue - Toy Center (54572078421).jpg](https://commons.wikimedia.org/wiki/File:200_Fifth_Avenue_-_Toy_Center_(54572078421).jpg)
+- Clouds Over 24th Street: Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons. [Clouds Over 24th Street (50000722737).jpg](https://commons.wikimedia.org/wiki/File:Clouds_Over_24th_Street_(50000722737).jpg)
+
+## TotalEnergies (TTE)
+
+- 2094Calamba City Canlubang Roads Landmarks Barangays 41: Judgefloro, CC0, via Wikimedia Commons. [2094Calamba City Canlubang Roads Landmarks Barangays 41.jpg](https://commons.wikimedia.org/wiki/File:2094Calamba_City_Canlubang_Roads_Landmarks_Barangays_41.jpg)
+- 2505Dau Pampanga Landmarks 01: Judgefloro, CC0, via Wikimedia Commons. [2505Dau Pampanga Landmarks 01.jpg](https://commons.wikimedia.org/wiki/File:2505Dau_Pampanga_Landmarks_01.jpg)
+- Lyon 7e - Rue Garibaldi - Première station-service 100 % électrique de Lyon: Romainbehar, CC0, via Wikimedia Commons. [Lyon 7e - Rue Garibaldi - Première station-service 100 % électrique de Lyon.jpg](https://commons.wikimedia.org/wiki/File:Lyon_7e_-_Rue_Garibaldi_-_Premi%C3%A8re_station-service_100_%25_%C3%A9lectrique_de_Lyon.jpg)
+- Berlin Jean-Monnet-Tower: NutzerAusBerlin, CC0, via Wikimedia Commons. [Berlin 20260711 Jean-Monnet-Tower.jpg](https://commons.wikimedia.org/wiki/File:Berlin_20260711_Jean-Monnet-Tower.jpg)
+- Berlin Nord-Süd-Fernbahn Tunnel 01: NutzerAusBerlin, CC0, via Wikimedia Commons. [Berlin 20260711 Nord-Süd-Fernbahn Tunnel 01.jpg](https://commons.wikimedia.org/wiki/File:Berlin_20260711_Nord-S%C3%BCd-Fernbahn_Tunnel_01.jpg)
+- AERO 2025, Friedrichshafen: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [AERO 2025, Friedrichshafen (P1046811).jpg](https://commons.wikimedia.org/wiki/File:AERO_2025,_Friedrichshafen_(P1046811).jpg)
+- Autohof Kirchheim 1: Emilius123, CC BY-SA 4.0, via Wikimedia Commons. [Autohof Kirchheim 1.jpg](https://commons.wikimedia.org/wiki/File:Autohof_Kirchheim_1.jpg)
+- Construction site of The Link tower, future headquarters of TotalEnergies, in La Défense, near Paris: Bretwa, CC BY-SA 4.0, via Wikimedia Commons. [Construction site of The Link tower, future headquarters of TotalEnergies, in La Défense, near Paris - 2023-01-31.jpg](https://commons.wikimedia.org/wiki/File:Construction_site_of_The_Link_tower,_future_headquarters_of_TotalEnergies,_in_La_D%C3%A9fense,_near_Paris_-_2023-01-31.jpg)
+- TotalEnergies Voi service station, 2025: Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons. [TotalEnergies Voi service station, 2025 (03).jpg](https://commons.wikimedia.org/wiki/File:TotalEnergies_Voi_service_station,_2025_(03).jpg)
+- Station TotalEnergies relais Mardié, Loiret, RD 2060 (oct 2023): Sebleouf, CC BY-SA 4.0, via Wikimedia Commons. [Station TotalEnergies relais Mardié, Loiret, RD 2060 (oct 2023).jpg](https://commons.wikimedia.org/wiki/File:Station_TotalEnergies_relais_Mardi%C3%A9,_Loiret,_RD_2060_(oct_2023).jpg)
+
+## Toyota (TM)
+
+- Headquarter of Toyota Motor Corporation 3: Tokumeigakarinoaoshima, CC0, via Wikimedia Commons. [Headquarter of Toyota Motor Corporation 3.JPG](https://commons.wikimedia.org/wiki/File:Headquarter_of_Toyota_Motor_Corporation_3.JPG)
+- Game Boy Pocket Toyota Edition: Dennis Elzinga, CC BY 2.0, via Wikimedia Commons. [Game Boy Pocket Toyota Edition (49138423256).jpg](https://commons.wikimedia.org/wiki/File:Game_Boy_Pocket_Toyota_Edition_(49138423256).jpg)
+- Concesionario Toyota Prana en Villa Devoto: Just a Man, CC BY 4.0, via Wikimedia Commons. [Concesionario Toyota Prana en Villa Devoto.jpg](https://commons.wikimedia.org/wiki/File:Concesionario_Toyota_Prana_en_Villa_Devoto.jpg)
+- Toyota Center Photo: Ckfanypack, CC BY-SA 4.0, via Wikimedia Commons. [Toyota Center Photo .jpg](https://commons.wikimedia.org/wiki/File:Toyota_Center_Photo_.jpg)
+- Toyota hybrid vehicle sales model ( ) 01: OSX, public domain, via Wikimedia Commons. [Toyota hybrid vehicle sales model (2010-10-16) 01.jpg](https://commons.wikimedia.org/wiki/File:Toyota_hybrid_vehicle_sales_model_(2010-10-16)_01.jpg)
+- 2020-08 Kabelgata kulvert: QUB1, CC BY-SA 3.0, via Wikimedia Commons. [2020-08 Kabelgata kulvert.jpg](https://commons.wikimedia.org/wiki/File:2020-08_Kabelgata_kulvert.jpg)
+- C1FDF36E-C3C0-4ECE-935B-9D03B6: Alvaro Raul Montaño Pozo, CC BY-SA 4.0, via Wikimedia Commons. [C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg](https://commons.wikimedia.org/wiki/File:C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg)
+- Headquarters of TOYOTA WOODYOU HOME CORPORATION: Miyuki Meinaka, CC BY-SA 4.0, via Wikimedia Commons. [Headquarters of TOYOTA WOODYOU HOME CORPORATION.jpg](https://commons.wikimedia.org/wiki/File:Headquarters_of_TOYOTA_WOODYOU_HOME_CORPORATION.jpg)
+- Headquarters of TOYOTA COROLLA Shinosaka Co., Ltd: Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons. [Headquarters of TOYOTA COROLLA Shinosaka Co., Ltd.jpg](https://commons.wikimedia.org/wiki/File:Headquarters_of_TOYOTA_COROLLA_Shinosaka_Co.,_Ltd.jpg)
+- Toyota Boshoku Headquarters ac: Asturio Cantabrio, CC BY-SA 4.0, via Wikimedia Commons. [Toyota Boshoku Headquarters ac (1).jpg](https://commons.wikimedia.org/wiki/File:Toyota_Boshoku_Headquarters_ac_(1).jpg)
+
+## Tractor Supply (TSCO)
+
+- Chicks at Tractor Supply - March 2024 - Sarah Stierch: Missvain, CC BY 4.0, via Wikimedia Commons. [Chicks at Tractor Supply - March 2024 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Chicks_at_Tractor_Supply_-_March_2024_-_Sarah_Stierch.jpg)
+- Tractor Supply in Eufaula, AL: FLGALine1999, CC0, via Wikimedia Commons. [Tractor Supply in Eufaula, AL.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_in_Eufaula,_AL.jpg)
+- Tractor Supply Company, Madison County: Mjrmtg, CC0, via Wikimedia Commons. [Tractor Supply Company, Madison County.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Madison_County.jpg)
+- Tractor Supply (in former Walmart) - Thomasville, GA: Winnebaggo, CC0, via Wikimedia Commons. [Tractor Supply (in former Walmart) - Thomasville, GA.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_(in_former_Walmart)_-_Thomasville,_GA.jpg)
+- Tractor Supply Company, Forsyth: Mjrmtg, CC0, via Wikimedia Commons. [Tractor Supply Company, Forsyth.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Forsyth.jpg)
+- Petsense by Tractor Supply (Vicksburg, Mississippi): Ktkvtsh, CC BY 4.0, via Wikimedia Commons. [Petsense by Tractor Supply (Vicksburg, Mississippi).jpg](https://commons.wikimedia.org/wiki/File:Petsense_by_Tractor_Supply_(Vicksburg,_Mississippi).jpg)
+- Tractor Supply Company store near Waynesville, North Carolina: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Tractor Supply Company store near Waynesville, North Carolina.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company_store_near_Waynesville,_North_Carolina.jpg)
+- Tractor Supply Company, GA125, Lowndes County: Mjrmtg, CC BY 4.0, via Wikimedia Commons. [Tractor Supply Company, GA125, Lowndes County.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_GA125,_Lowndes_County.jpg)
+- Tractor Supply Company, Dothan, Alabama: The Bushranger, CC BY-SA 4.0, via Wikimedia Commons. [Tractor Supply Company, Dothan, Alabama.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Dothan,_Alabama.jpg)
+- Tractor Supply Company, Crawfordville, Florida: The Bushranger, CC BY-SA 4.0, via Wikimedia Commons. [Tractor Supply Company, Crawfordville, Florida.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Crawfordville,_Florida.jpg)
+
+## Travelers Companies (The) (TRV)
+
+- The Travelers Companies, Inc: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [The Travelers Companies, Inc. (55614510202).jpg](https://commons.wikimedia.org/wiki/File:The_Travelers_Companies,_Inc._(55614510202).jpg)
+- Travelers - Arctic Refuge Action: Insure Our Future, public domain, via Wikimedia Commons. [Travelers - Arctic Refuge Action.jpg](https://commons.wikimedia.org/wiki/File:Travelers_-_Arctic_Refuge_Action.jpg)
+- Travelers Tower, Hartford, Connecticut: Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons. [Travelers Tower, Hartford, Connecticut.jpg](https://commons.wikimedia.org/wiki/File:Travelers_Tower,_Hartford,_Connecticut.jpg)
+- 1000 Windward Concourse, Alpharetta, Georgia March 2017: Thomson200, CC0, via Wikimedia Commons. [1000 Windward Concourse, Alpharetta, Georgia March 2017.jpg](https://commons.wikimedia.org/wiki/File:1000_Windward_Concourse,_Alpharetta,_Georgia_March_2017.jpg)
+- Chase kiosk & Travelers van B141 St Sandy jeh: Jim.henderson, CC0, via Wikimedia Commons. [Chase kiosk & Travelers van B141 St Sandy jeh.jpg](https://commons.wikimedia.org/wiki/File:Chase_kiosk_%26_Travelers_van_B141_St_Sandy_jeh.jpg)
+- Hartford Travelers Tower Image: N8dthygreatedtfgsgf, CC BY-SA 4.0, via Wikimedia Commons. [Hartford Travelers Tower Image.jpg](https://commons.wikimedia.org/wiki/File:Hartford_Travelers_Tower_Image.jpg)
+- Travelers Insurance Company of Hartford, Conn LCCN2003671640: Popular Graphic Arts, public domain, via Wikimedia Commons. [Travelers Insurance Company of Hartford, Conn LCCN2003671640.jpg](https://commons.wikimedia.org/wiki/File:Travelers_Insurance_Company_of_Hartford,_Conn_LCCN2003671640.jpg)
+- Travelers Insurance Company Building corner view: Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons. [Travelers Insurance Company Building corner view.jpg](https://commons.wikimedia.org/wiki/File:Travelers_Insurance_Company_Building_corner_view.jpg)
+- Travelers Building, by Edmund L. Mitchell, 1961, from the Digital Commonwealth - commonwealth 8p58s313x: Edmund L. Mitchell, public domain, via Wikimedia Commons. [Travelers Building, by Edmund L. Mitchell, 1961, from the Digital Commonwealth - commonwealth 8p58s313x.jpg](https://commons.wikimedia.org/wiki/File:Travelers_Building,_by_Edmund_L._Mitchell,_1961,_from_the_Digital_Commonwealth_-_commonwealth_8p58s313x.jpg)
+- Travelers Companies-St Paul: Michael Hicks from Saint Paul, MN, USA, CC BY 2.0, via Wikimedia Commons. [Travelers Companies-St Paul-20061008.jpg](https://commons.wikimedia.org/wiki/File:Travelers_Companies-St_Paul-20061008.jpg)
+
+## Trimble Inc. (TRMB)
+
+- Trimble X9 3D-Laserscanning System Tablet: Best Tech Nick 25, CC0, via Wikimedia Commons. [Trimble X9 3D-Laserscanning System Tablet.jpg](https://commons.wikimedia.org/wiki/File:Trimble_X9_3D-Laserscanning_System_Tablet.jpg)
+- Brad Keselowski, 2026 Las Vegas Spring, Cup: Nascar9919, CC BY 4.0, via Wikimedia Commons. [Brad Keselowski, 2026 Las Vegas Spring, Cup.jpg](https://commons.wikimedia.org/wiki/File:Brad_Keselowski,_2026_Las_Vegas_Spring,_Cup.jpg)
+- FEMA - - Measuring the height of the Red River of the North in Fargo, ND: Patsy Lynch, public domain, via Wikimedia Commons. [FEMA - 40586 - Measuring the height of the Red River of the North in Fargo, ND.jpg](https://commons.wikimedia.org/wiki/File:FEMA_-_40586_-_Measuring_the_height_of_the_Red_River_of_the_North_in_Fargo,_ND.jpg)
+- FEMA - - Fargo Engineer uses a GPS to measure the height of the river: Patsy Lynch, public domain, via Wikimedia Commons. [FEMA - 40588 - Fargo Engineer uses a GPS to measure the height of the river.jpg](https://commons.wikimedia.org/wiki/File:FEMA_-_40588_-_Fargo_Engineer_uses_a_GPS_to_measure_the_height_of_the_river.jpg)
+- Tracking salmon spawning below Englebright Dam: U.S. Army Corps of Engineers Sacramento District, public domain, via Wikimedia Commons. [Tracking salmon spawning below Englebright Dam (6517185489).jpg](https://commons.wikimedia.org/wiki/File:Tracking_salmon_spawning_below_Englebright_Dam_(6517185489).jpg)
+- EXCON 2025, Bangalore International Exhibition Centre: Gpkp, CC BY-SA 4.0, via Wikimedia Commons. [EXCON 2025, Bangalore International Exhibition Centre (270).jpg](https://commons.wikimedia.org/wiki/File:EXCON_2025,_Bangalore_International_Exhibition_Centre_(270).jpg)
+- en:Road roller with Trimble GPS system: Shaun Greiner, CC BY-SA 2.0, via Wikimedia Commons. [CatCS56.jpg](https://commons.wikimedia.org/wiki/File:CatCS56.jpg)
+- Choke ring antenna Trimble 3305 Enhancer: Nevit, CC BY-SA 3.0, via Wikimedia Commons. [Choke ring antenna Trimble 3305 Enhancer.jpg](https://commons.wikimedia.org/wiki/File:Choke_ring_antenna_Trimble_3305_Enhancer.jpg)
+- InnoTrans 2016 Travelarz: Travelarz, CC BY-SA 3.0 pl, via Wikimedia Commons. [InnoTrans 2016 (141) Travelarz.JPG](https://commons.wikimedia.org/wiki/File:InnoTrans_2016_(141)_Travelarz.JPG)
+- Knights Ferry Rd Flooding Lowndes County GPSing 1: Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons. [Knights Ferry Rd Flooding Lowndes County GPSing 1.JPG](https://commons.wikimedia.org/wiki/File:Knights_Ferry_Rd_Flooding_Lowndes_County_GPSing_1.JPG)
+
+## Truist Financial (TFC)
+
+- First Street, Macon, Georgia, USA, 3 September 2021 - 02: Infrogmation, CC BY-SA 4.0, via Wikimedia Commons. [First Street, Macon, Georgia, USA, 3 September 2021 - 02.jpg](https://commons.wikimedia.org/wiki/File:First_Street,_Macon,_Georgia,_USA,_3_September_2021_-_02.jpg)
+- 818 Town and Country Boulevard - panoramio: JAGarcia, CC BY 3.0, via Wikimedia Commons. [818 Town and Country Boulevard - panoramio.jpg](https://commons.wikimedia.org/wiki/File:818_Town_and_Country_Boulevard_-_panoramio.jpg)
+- BB&T ATM Downtown Miami: Phillip Pessar from Miami, USA, CC BY 2.0, via Wikimedia Commons. [BB&T ATM Downtown Miami (46181265025).jpg](https://commons.wikimedia.org/wiki/File:BB%26T_ATM_Downtown_Miami_(46181265025).jpg)
+- Peachtree Road, Atlanta, March 2017: Thomson200, CC0, via Wikimedia Commons. [Peachtree Road, Atlanta, March 2017.jpg](https://commons.wikimedia.org/wiki/File:Peachtree_Road,_Atlanta,_March_2017.jpg)
+- BB&T Bank, Adel: Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons. [BB&T Bank, Adel.JPG](https://commons.wikimedia.org/wiki/File:BB%26T_Bank,_Adel.JPG)
+- BB&T Building in San Antonio, TX 7901: Billy Hathorn, CC BY-SA 3.0, via Wikimedia Commons. [BB&T Building in San Antonio, TX IMG 7901.JPG](https://commons.wikimedia.org/wiki/File:BB%26T_Building_in_San_Antonio,_TX_IMG_7901.JPG)
+- Footprint of BB&T . Cities with more than one branch have progressively larger points.: Bahamas location map.svg : NordNordWest USA Massachusetts location map.svg : Alexrk2 USA Connecticut location map.svg : Alexrk2 USA New York location map.svg : NordNordWest USA New Jersey location map.svg : Alexrk USA Pennsylvania location map.svg : Alexrk2 USA Delaware location map.svg : Alexrk2 USA Maryland location map.svg : Alexrk2 USA Virginia location map.svg : Alexrk2 USA North Carolina location map.svg : Alexrk2 USA South Carolina location map.svg : Alexrk USA Georgia location map.svg : Alexrk2 USA Florida location map.svg : Eric Gaba ( Sting - fr:Sting ) USA West Virginia location map.svg : Alexrk2 USA Ohio location map.svg : Alexrk2 USA Michigan location map.svg : Alexrk2 USA Kentucky location map.svg : Alexrk2 USA Tennessee location map.svg : Alexrk USA Indiana location map.svg : Alexrk2 USA Alabama location map.svg : Alexrk2 USA Illinois location map.svg : Alexrk2 USA Mississippi location map.svg : Alexrk2 USA Iowa location map.svg : Alexrk2 USA Missouri location map.svg : Alexrk2 USA Arkansas location map.svg : Alexrk2 USA Louisiana location map.svg : Alexrk2 USA Nebraska location map.svg : Alexrk2 USA Kansas location map.svg : Alexrk2 USA Oklahoma location map.svg : Alexrk USA Texas location map.svg : Alexrk USA Wyoming location map.svg : Alexrk USA Colorado location map.svg : NordNordWest USA New Mexico location map.svg : Alexrk2 Mexico location map.svg : NordNordWest Compilation map: Magog the Ogre, CC BY-SA 3.0, via Wikimedia Commons. [BB&T footprint.png](https://commons.wikimedia.org/wiki/File:BB%26T_footprint.png)
+- Truist Financial Center - Hagerstown, Maryland: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [Truist Financial Center - Hagerstown, Maryland.jpg](https://commons.wikimedia.org/wiki/File:Truist_Financial_Center_-_Hagerstown,_Maryland.jpg)
+- BB&T, Albany Ave, Waycross (SE corner): Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons. [BB&T, Albany Ave, Waycross (SE corner).JPG](https://commons.wikimedia.org/wiki/File:BB%26T,_Albany_Ave,_Waycross_(SE_corner).JPG)
+- BB&T, Ashley St, Valdosta: Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons. [BB&T, Ashley St, Valdosta.jpg](https://commons.wikimedia.org/wiki/File:BB%26T,_Ashley_St,_Valdosta.jpg)
+
+## TSMC (TSM)
+
+- TSMC Fab 18 May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 18 May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_May_2025.jpg)
+- 1 TSMC Fab 21 construction: Hunter Trick (TrickHunter), CC BY-SA 4.0, via Wikimedia Commons. [231105-1 TSMC Fab 21 construction.jpg](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg)
+- TSMC Global R＆D Center: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Global R＆D Center.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center.jpg)
+- TSMC Fab 6 front May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 6 front May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_6_front_May_2025.jpg)
+- Semiconductor clean room: Aileen Devlin/ Jefferson Lab from Newport News, USA, public domain, via Wikimedia Commons. [Semiconductor clean room.jpg](https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg)
+- Official Photo by Wang Yu Ching / Office of the President: 總統府, CC BY 2.0, via Wikimedia Commons. [10.27 總統出席「第9屆工業技術研究院院士授證典禮」 (50536154856).jpg](https://commons.wikimedia.org/wiki/File:10.27_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E7%AC%AC9%E5%B1%86%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2%E9%99%A2%E5%A3%AB%E6%8E%88%E8%AD%89%E5%85%B8%E7%A6%AE%E3%80%8D_(50536154856).jpg)
+- TSMC Fab5: Peellden, CC BY-SA 3.0, via Wikimedia Commons. [TSMC Fab5.JPG](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG)
+- TSMC AP2 building May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC AP2 building May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_AP2_building_May_2025.jpg)
+- TSMC factory in Taichung's Central Taiwan Science Park: Briáxis F. Mendes (孟必思), CC BY-SA 4.0, via Wikimedia Commons. [TSMC factory in Taichung's Central Taiwan Science Park.jpg](https://commons.wikimedia.org/wiki/File:TSMC_factory_in_Taichung%27s_Central_Taiwan_Science_Park.jpg)
+- Tsmc factory hsinchu: Arusanov, public domain, via Wikimedia Commons. [Tsmc factory hsinchu.JPG](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG)
+
+## Tyson Foods (TSN)
+
+- Poultry Historic District in Springdale, Arkansas: Brandonrush, CC0, via Wikimedia Commons. [Poultry Historic District in Springdale, Arkansas.jpg](https://commons.wikimedia.org/wiki/File:Poultry_Historic_District_in_Springdale,_Arkansas.jpg)
+- Former drainage ditch of the former Tyson Foods chicken processing plant in Heron Park, in Berlin, Maryland, United States. There are waterfowl in the foregroun: Nolabob, CC BY-SA 4.0, via Wikimedia Commons. [DitchWithWaterfowl.jpg](https://commons.wikimedia.org/wiki/File:DitchWithWaterfowl.jpg)
+- Vice President Mike Pence and Agriculture Secreary Sonny Perdue visit the Tyson Foods facility in Goodlettsville, TN on Monday to advocate for passage of the Un: U.S. Department of Agriculture, public domain, via Wikimedia Commons. [20191018-WH-DMC-0026 (48921444332).jpg](https://commons.wikimedia.org/wiki/File:20191018-WH-DMC-0026_(48921444332).jpg)
+- FEMA - 4794 - Photograph by Jocelyn Augustino taken on 09-19-2001 in Virginia: Jocelyn Augustino, public domain, via Wikimedia Commons. [FEMA - 4794 - Photograph by Jocelyn Augustino taken on 09-19-2001 in Virginia.jpg](https://commons.wikimedia.org/wiki/File:FEMA_-_4794_-_Photograph_by_Jocelyn_Augustino_taken_on_09-19-2001_in_Virginia.jpg)
+- Tyson World Headquarters: Brandonrush, CC BY-SA 3.0, via Wikimedia Commons. [Tyson World Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Tyson_World_Headquarters.jpg)
+- 040i ar exit 279b diagrammatic: Scott5114, CC BY-SA 2.5, via Wikimedia Commons. [040i ar exit 279b diagrammatic.jpg](https://commons.wikimedia.org/wiki/File:040i_ar_exit_279b_diagrammatic.jpg)
+- Tyson Fresh Meats pork plant (Madison, Nebraska) 2: Ammodramus, public domain, via Wikimedia Commons. [Tyson Fresh Meats pork plant (Madison, Nebraska) 2.JPG](https://commons.wikimedia.org/wiki/File:Tyson_Fresh_Meats_pork_plant_(Madison,_Nebraska)_2.JPG)
+
+## U.S. Bancorp (USB)
+
+- Louisville Balloon Glow 2006: Christian von Montfort ( Symbiosus ), public domain, via Wikimedia Commons. [Louisville Balloon Glow 2006.JPG](https://commons.wikimedia.org/wiki/File:Louisville_Balloon_Glow_2006.JPG)
+- US Bank footprint 2013-03: Bahamas location map.svg : NordNordWest Canada Nova Scotia location map.svg : NordNordWest Canada New Brunswick location map.svg : NordNordWest Canada Quebec location map.svg : NordNordWest Canada Ontario location map.svg : NordNordWest Canada Manitoba location map.svg : NordNordWest Canada Alberta location map.svg : NordNordWest Canada British Columbia location map.svg : NordNordWest USA Maine location map.svg : Alexrk2 USA New Hampshire location map.svg : Alexrk2 USA Vermont location map.svg : Alexrk USA Massachusetts location map.svg : Alexrk2 USA Rhode Island location map.svg : NordNordWest USA Connecticut location map.svg : Alexrk2 USA New York location map.svg : NordNordWest USA New Jersey location map.svg : Alexrk USA Pennsylvania location map.svg : Alexrk2 USA Delaware location map.svg : Alexrk2 USA Maryland location map.svg : Alexrk2 USA Virginia location map.svg : Alexrk2 USA North Carolina location map.svg : Alexrk2 USA South Carolina location map.svg : Alexrk USA Georgia location map.svg : Alexrk2 USA Florida location map.svg : Eric Gaba ( Sting - fr:Sting ) USA West Virginia location map.svg : Alexrk2 USA Ohio location map.svg : Alexrk2 USA Michigan location map.svg : Alexrk2 USA Kentucky location map.svg : Alexrk2 USA Tennessee location map.svg : Alexrk USA Indiana location map.svg : Alexrk2 USA Alabama location map.svg : Alexrk2 USA Wisconsin location map.svg : Alexrk2 USA Illinois location map.svg : Alexrk2 USA Mississippi location map.svg : Alexrk2 USA Minnesota location map.svg : Alexrk2 USA Iowa location map.svg : Alexrk2 USA Missouri location map.svg : Alexrk2 USA Arkansas location map.svg : Alexrk2 USA Louisiana location map.svg : Alexrk2 USA North Dakota location map.svg : Alexrk2 USA South Dakota location map.svg : USA Nebraska location map.svg : Alexrk2 USA Kansas location map.svg : Alexrk2 USA Oklahoma location map.svg : Alexrk USA Texas location map.svg : Alexrk USA Montana location map.svg : Alexrk2 USA Wyoming location map.svg : Alexrk USA Colorado location map.svg : NordNordWest USA New Mexico location map.svg : Alexrk2 USA Idaho location map.svg : Alexrk2 USA Utah location map.svg : NordNordWest USA Arizona location map.svg : NordNordWest USA Nevada location map.svg : NordNordWest USA Washington location map.svg : Alexrk2 USA Oregon location map.svg : Alexrk2 USA California location map.svg : NordNordWest Mexico location map.svg : NordNordWest derivative work: Magog the Ogre, CC BY-SA 3.0, via Wikimedia Commons. [US Bank footprint 2013-03.png](https://commons.wikimedia.org/wiki/File:US_Bank_footprint_2013-03.png)
+- Upper Playground Portland and U.S. Bancorp Tower: Will Buckner, CC BY 2.0, via Wikimedia Commons. [Upper Playground Portland and U.S. Bancorp Tower (44576165735).jpg](https://commons.wikimedia.org/wiki/File:Upper_Playground_Portland_and_U.S._Bancorp_Tower_(44576165735).jpg)
+- U.S. Bancorp Tower: CookieMonster755, CC BY-SA 4.0, via Wikimedia Commons. [U.S. Bancorp Tower.JPG](https://commons.wikimedia.org/wiki/File:U.S._Bancorp_Tower.JPG)
+- Aerial of U.S. Bancorp Tower: Pdx.rollingthunder, CC BY-SA 4.0, via Wikimedia Commons. [Aerial of U.S. Bancorp Tower (2016).jpg](https://commons.wikimedia.org/wiki/File:Aerial_of_U.S._Bancorp_Tower_(2016).jpg)
+
+## Uber (UBER)
+
+- Uber car in Kyiv: Nickispeaki, CC BY-SA 4.0, via Wikimedia Commons. [Uber car in Kyiv.jpg](https://commons.wikimedia.org/wiki/File:Uber_car_in_Kyiv.jpg)
+- Uber Eats - Gran Via - Madrid 01: Javier Perez Montes, CC BY-SA 4.0, via Wikimedia Commons. [Uber Eats - Gran Via - Madrid 01.jpg](https://commons.wikimedia.org/wiki/File:Uber_Eats_-_Gran_Via_-_Madrid_01.jpg)
+- Uber offices, Mission Bay (July 2020) -2: HaeB, CC BY-SA 4.0, via Wikimedia Commons. [Uber offices, Mission Bay (July 2020) -2.jpg](https://commons.wikimedia.org/wiki/File:Uber_offices,_Mission_Bay_(July_2020)_-2.jpg)
+- Self driving Uber prototype in San Francisco: Dllu, CC BY-SA 4.0, via Wikimedia Commons. [Self driving Uber prototype in San Francisco.jpg](https://commons.wikimedia.org/wiki/File:Self_driving_Uber_prototype_in_San_Francisco.jpg)
+- SZ 深圳 Shenzhen 南山 Nanshan 前海大道 Qianhai Blvd May 2024 R12S 27: LAUDM Hausdb RIWAMo, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 南山 Nanshan 前海大道 Qianhai Blvd May 2024 R12S 27.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E5%89%8D%E6%B5%B7%E5%A4%A7%E9%81%93_Qianhai_Blvd_May_2024_R12S_27.jpg)
+- CEO of Uber Technologies Dara Khosrowshahi in New York - 2019: The Presidential Office of Ukraine., CC BY 4.0, via Wikimedia Commons. [CEO of Uber Technologies Dara Khosrowshahi in New York - 2019.jpg](https://commons.wikimedia.org/wiki/File:CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019.jpg)
+- Lançamento do Uber Transit: Governo do Estado de São Paulo, CC BY 2.0, via Wikimedia Commons. [Lançamento do Uber Transit.jpg](https://commons.wikimedia.org/wiki/File:Lan%C3%A7amento_do_Uber_Transit.jpg)
+- Uber OTTO at their SF headquarters: Steve Jurvetson, CC BY 2.0, via Wikimedia Commons. [Uber OTTO at their SF headquarters.jpg](https://commons.wikimedia.org/wiki/File:Uber_OTTO_at_their_SF_headquarters.jpg)
+- Uber Self Driving Volvo at Otto Headquarters at 737 Harrison: Dllu, CC BY-SA 4.0, via Wikimedia Commons. [Uber Self Driving Volvo at Otto Headquarters at 737 Harrison.jpg](https://commons.wikimedia.org/wiki/File:Uber_Self_Driving_Volvo_at_Otto_Headquarters_at_737_Harrison.jpg)
+- 50 Lan MRT Shandao Temple Store and Uber Eats scooter night: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [50 Lan MRT Shandao Temple Store and Uber Eats scooter 20241019 night.jpg](https://commons.wikimedia.org/wiki/File:50_Lan_MRT_Shandao_Temple_Store_and_Uber_Eats_scooter_20241019_night.jpg)
+
+## UBS (UBS)
+
+- Sergio Ermotti, UBS CEO (per Wikidata): The official global picture collection of UBS from Switzerland, CC BY 2.0, via Wikimedia Commons. [Sergio P. Ermotti.jpg](https://commons.wikimedia.org/wiki/File:Sergio_P._Ermotti.jpg)
+- COVID-19 UBS in Bern: Hadi, CC0, via Wikimedia Commons. [COVID-19 UBS in Bern.jpg](https://commons.wikimedia.org/wiki/File:COVID-19_UBS_in_Bern.jpg)
+- HK 灣仔 Wan Chai 莊士敦道 Johnston Road black tram body ads UBS n Art Basel April 2024 R12S: Hortasing Faiemm 1806, CC0, via Wikimedia Commons. [HK 灣仔 Wan Chai 莊士敦道 Johnston Road black tram body ads UBS n Art Basel April 2024 R12S.jpg](https://commons.wikimedia.org/wiki/File:HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_black_tram_body_ads_UBS_n_Art_Basel_April_2024_R12S.jpg)
+- UBS @ Rue du Mont Blanc @ Genève: Guilhem Vellut from Annecy, France, CC BY 2.0, via Wikimedia Commons. [UBS @ Rue du Mont Blanc @ Genève (50898533816).jpg](https://commons.wikimedia.org/wiki/File:UBS_@_Rue_du_Mont_Blanc_@_Gen%C3%A8ve_(50898533816).jpg)
+- GER München, Maria-Theresia-Straße 0001: -wuppertaler, CC BY 4.0, via Wikimedia Commons. [GER München, Maria-Theresia-Straße 0001.jpg](https://commons.wikimedia.org/wiki/File:GER_M%C3%BCnchen,_Maria-Theresia-Stra%C3%9Fe_0001.jpg)
+- London Pride 2023: MangakaMaiden Photography, CC BY 2.0, via Wikimedia Commons. [London Pride 2023 - 53079742325.jpg](https://commons.wikimedia.org/wiki/File:London_Pride_2023_-_53079742325.jpg)
+- London Pride parade 2025 - 227: MangakaMaiden Photography, CC BY 4.0, via Wikimedia Commons. [London Pride parade 2025 - 227.jpg](https://commons.wikimedia.org/wiki/File:London_Pride_parade_2025_-_227.jpg)
+- UBS Headquarters, Zurich (Ank Kumar, Infosys Limited) 03: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons. [UBS Headquarters, Zurich (Ank Kumar, Infosys Limited) 03.jpg](https://commons.wikimedia.org/wiki/File:UBS_Headquarters,_Zurich_(Ank_Kumar,_Infosys_Limited)_03.jpg)
+- HK CWB 銅鑼灣 Causeway Bay 高士威道 Causeway Road shop 123 by ELLA Store UBS mini fans May 2026 RA7P: AP22088 NgSaiKeaung Hooo, CC0, via Wikimedia Commons. [HK CWB 銅鑼灣 Causeway Bay 高士威道 Causeway Road shop 123 by ELLA Store UBS mini fans May 2026 RA7P.jpg](https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%AB%98%E5%A3%AB%E5%A8%81%E9%81%93_Causeway_Road_shop_123_by_ELLA_Store_UBS_mini_fans_May_2026_RA7P.jpg)
+- UBS office at Hyderabad: Wasiul Bahar, CC BY-SA 4.0, via Wikimedia Commons. [UBS office at Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:UBS_office_at_Hyderabad.jpg)
+
+## UiPath (PATH)
+
+- Daniel Dines, UiPath CEO (per Wikidata): Web Summit, CC BY 2.0, via Wikimedia Commons. [2021 - Centre Stage EN6 5562 (51652161468) (cropped).jpg](https://commons.wikimedia.org/wiki/File:2021_-_Centre_Stage_EN6_5562_(51652161468)_(cropped).jpg)
+
+## Ulta Beauty (ULTA)
+
+- An Ulta Beauty retail store in Forestville, Maryland: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [An Ulta Beauty retail store in Forestville, Maryland.jpg](https://commons.wikimedia.org/wiki/File:An_Ulta_Beauty_retail_store_in_Forestville,_Maryland.jpg)
+- Claim to Fame Lip Trio - October 2024 - Sarah Stierch: Missvain, CC0, via Wikimedia Commons. [Claim to Fame Lip Trio - October 2024 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Claim_to_Fame_Lip_Trio_-_October_2024_-_Sarah_Stierch.jpg)
+- Closed Ulta Miracle Marketplace, Miami FL Oct 2022: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Closed Ulta Miracle Marketplace, Miami FL Oct 2022.jpg](https://commons.wikimedia.org/wiki/File:Closed_Ulta_Miracle_Marketplace,_Miami_FL_Oct_2022.jpg)
+- Enos Ranch Center - April 2023 - Sarah Stierch: Missvain, CC BY 4.0, via Wikimedia Commons. [Enos Ranch Center - April 2023 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Enos_Ranch_Center_-_April_2023_-_Sarah_Stierch.jpg)
+- Ulta Beauty Miracle Marketplace Miami: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Ulta Beauty Miracle Marketplace Miami (40873840074).jpg](https://commons.wikimedia.org/wiki/File:Ulta_Beauty_Miracle_Marketplace_Miami_(40873840074).jpg)
+- Ulta Beauty stores - October 2023 - Sarah Stierch: Missvain, CC BY 4.0, via Wikimedia Commons. [Ulta Beauty stores - October 2023 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Ulta_Beauty_stores_-_October_2023_-_Sarah_Stierch.jpg)
+- Ulta Beauty, South Point Shopping Center, McDonough: Mjrmtg, CC BY 4.0, via Wikimedia Commons. [Ulta Beauty, South Point Shopping Center, McDonough.jpg](https://commons.wikimedia.org/wiki/File:Ulta_Beauty,_South_Point_Shopping_Center,_McDonough.jpg)
+- Jantzen Beach Super Center - Ulta: M.O. Stevens, CC BY-SA 4.0, via Wikimedia Commons. [Jantzen Beach Super Center - Ulta.JPG](https://commons.wikimedia.org/wiki/File:Jantzen_Beach_Super_Center_-_Ulta.JPG)
+- Connecticut Post Mall, Milford, CT: JJBers, CC BY-SA 4.0, via Wikimedia Commons. [Connecticut Post Mall, Milford, CT.jpg](https://commons.wikimedia.org/wiki/File:Connecticut_Post_Mall,_Milford,_CT.jpg)
+- Shops at Arsenal Yards: Aaustin97, CC BY-SA 4.0, via Wikimedia Commons. [Shops at Arsenal Yards.jpg](https://commons.wikimedia.org/wiki/File:Shops_at_Arsenal_Yards.jpg)
+
+## Unilever (UL)
+
+- Unilever House Mars 2014 01: Arild Vågen, CC BY-SA 3.0, via Wikimedia Commons. [Unilever House Mars 2014 01.jpg](https://commons.wikimedia.org/wiki/File:Unilever_House_Mars_2014_01.jpg)
+- Dancing party - Flickr - The Sasson: Ronny Olsson from Europe, CC BY 2.0, via Wikimedia Commons. [Dancing party - Flickr - The Sasson.jpg](https://commons.wikimedia.org/wiki/File:Dancing_party_-_Flickr_-_The_Sasson.jpg)
+- Marco-Polo-Tower 01: Flocci Nivis, CC BY 4.0, via Wikimedia Commons. [20230318 Marco-Polo-Tower 01.jpg](https://commons.wikimedia.org/wiki/File:20230318_Marco-Polo-Tower_01.jpg)
+- Unilever Ploiesti, Romania: Diana wiki2, CC BY-SA 4.0, via Wikimedia Commons. [Unilever Ploiesti, Romania.jpg](https://commons.wikimedia.org/wiki/File:Unilever_Ploiesti,_Romania.jpg)
+- Amora sauce bulgare: Thomon, CC BY-SA 4.0, via Wikimedia Commons. [Amora sauce bulgare.jpg](https://commons.wikimedia.org/wiki/File:Amora_sauce_bulgare.jpg)
+- Corso Camping Margarine - Van den Bergh en Jurgens NV Rotterdam - Export Kwaliteit: Alex P. Kok, CC BY-SA 4.0, via Wikimedia Commons. [Corso Camping Margarine - Van den Bergh en Jurgens NV Rotterdam - Export Kwaliteit.jpg](https://commons.wikimedia.org/wiki/File:Corso_Camping_Margarine_-_Van_den_Bergh_en_Jurgens_NV_Rotterdam_-_Export_Kwaliteit.jpg)
+- Schlossturmblick Auerbach (Vogtl.), Fenster 7 (Werk Unilever): Aagnverglaser, CC BY-SA 4.0, via Wikimedia Commons. [Schlossturmblick Auerbach (Vogtl.), Fenster 7 (Werk Unilever).jpg](https://commons.wikimedia.org/wiki/File:Schlossturmblick_Auerbach_(Vogtl.),_Fenster_7_(Werk_Unilever).jpg)
+- Unilever Head Office Building Rotterdam: Marcel Douwe Dekker, CC BY-SA 3.0, via Wikimedia Commons. [Unilever Head Office Building Rotterdam.jpg](https://commons.wikimedia.org/wiki/File:Unilever_Head_Office_Building_Rotterdam.jpg)
+- The Unilever Factory - geograph.org.uk: Malcolm Neal, CC BY-SA 2.0, via Wikimedia Commons. [The Unilever Factory - geograph.org.uk - 5694156.jpg](https://commons.wikimedia.org/wiki/File:The_Unilever_Factory_-_geograph.org.uk_-_5694156.jpg)
+- Unilever factory next to Warrington Bank Quay railway station: Rept0n1x, CC BY-SA 3.0, via Wikimedia Commons. [Unilever factory next to Warrington Bank Quay railway station 171009.JPG](https://commons.wikimedia.org/wiki/File:Unilever_factory_next_to_Warrington_Bank_Quay_railway_station_171009.JPG)
+
+## Union Pacific Corporation (UNP)
+
+- 0949 Union Pacific RR, near Moab, Utah: David Wilson, CC BY 2.0, via Wikimedia Commons. [20240912 0949 Union Pacific RR, near Moab, Utah.jpg](https://commons.wikimedia.org/wiki/File:20240912_0949_Union_Pacific_RR,_near_Moab,_Utah.jpg)
+- Stadler KISS EMU delivery en route to Caltrain on Provo Subdivision at 1700 South, Salt Lake City, May 2021: Martijn van Exel, public domain, via Wikimedia Commons. [Stadler KISS EMU delivery en route to Caltrain on Provo Subdivision at 1700 South, Salt Lake City, May 2021.jpg](https://commons.wikimedia.org/wiki/File:Stadler_KISS_EMU_delivery_en_route_to_Caltrain_on_Provo_Subdivision_at_1700_South,_Salt_Lake_City,_May_2021.jpg)
+- 24th St at exit ramp from IL 137 north - North Chicago, IL - July 2025 03: AlphaBeta135, CC BY 4.0, via Wikimedia Commons. [24th St at exit ramp from IL 137 north - North Chicago, IL - July 2025 03.jpg](https://commons.wikimedia.org/wiki/File:24th_St_at_exit_ramp_from_IL_137_north_-_North_Chicago,_IL_-_July_2025_03.jpg)
+- Buckley Rd connector approaching IL 137 - North Chicago, IL - July 2025: AlphaBeta135, CC BY 4.0, via Wikimedia Commons. [Buckley Rd connector approaching IL 137 - North Chicago, IL - July 2025.jpg](https://commons.wikimedia.org/wiki/File:Buckley_Rd_connector_approaching_IL_137_-_North_Chicago,_IL_-_July_2025.jpg)
+- Metra Union Pacific West Train: GR_Pei, public domain, via Wikimedia Commons. [C&NW F59PHI.jpg](https://commons.wikimedia.org/wiki/File:C%26NW_F59PHI.jpg)
+- Level junction between UP Geneva Sub and UP Harvard Sub - Chicago, IL - June 2025: AlphaBeta135, CC BY 4.0, via Wikimedia Commons. [Level junction between UP Geneva Sub and UP Harvard Sub - Chicago, IL - June 2025.jpg](https://commons.wikimedia.org/wiki/File:Level_junction_between_UP_Geneva_Sub_and_UP_Harvard_Sub_-_Chicago,_IL_-_June_2025.jpg)
+- Benching SoCal Freight Graffiti - Oct. 16th 2020: siamesepuppy, CC BY 2.0, via Wikimedia Commons. [Benching SoCal Freight Graffiti - Oct. 16th 2020 (50498959503).jpg](https://commons.wikimedia.org/wiki/File:Benching_SoCal_Freight_Graffiti_-_Oct._16th_2020_(50498959503).jpg)
+- Union Pacific Portland Service Unit headquarters, September 2019: Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons. [Union Pacific Portland Service Unit headquarters, September 2019.JPG](https://commons.wikimedia.org/wiki/File:Union_Pacific_Portland_Service_Unit_headquarters,_September_2019.JPG)
+- Union Pacific Snowed In, circa 1930s - Headquarters, Idaho: Steve Shook from Moscow, Idaho, USA, CC BY 2.0, via Wikimedia Commons. [Union Pacific Snowed In, circa 1930s - Headquarters, Idaho (34016608882).jpg](https://commons.wikimedia.org/wiki/File:Union_Pacific_Snowed_In,_circa_1930s_-_Headquarters,_Idaho_(34016608882).jpg)
+- Union Pacific Railroad Intermodal Terminal, Santa Teresa NM: Dicklyon, CC BY-SA 4.0, via Wikimedia Commons. [Union Pacific Railroad Intermodal Terminal, Santa Teresa NM.jpg](https://commons.wikimedia.org/wiki/File:Union_Pacific_Railroad_Intermodal_Terminal,_Santa_Teresa_NM.jpg)
+
+## United Airlines Holdings (UAL)
+
+- Scott Kirby, United Airlines Holdings CEO (per Wikidata): Provided by United Airlines, CC BY 4.0, via Wikimedia Commons. [Scott Kirby, United Airlines.jpg](https://commons.wikimedia.org/wiki/File:Scott_Kirby,_United_Airlines.jpg)
+- Taoyuan Airport United Airlines: Saimmx, CC0, via Wikimedia Commons. [20260908 094644 Taoyuan Airport United Airlines.jpg](https://commons.wikimedia.org/wiki/File:20260908_094644_Taoyuan_Airport_United_Airlines.jpg)
+- United Airlines Tokyo to Ulaanbaatar inaugural flight: Quintin Soloviev, CC0, via Wikimedia Commons. [United Airlines Tokyo to Ulaanbaatar inaugural flight.jpg](https://commons.wikimedia.org/wiki/File:United_Airlines_Tokyo_to_Ulaanbaatar_inaugural_flight.jpg)
+- United First Class flight - November 15 2023 - Sarah Stierch 01: Missvain, CC BY 4.0, via Wikimedia Commons. [United First Class flight - November 15 2023 - Sarah Stierch 01.jpg](https://commons.wikimedia.org/wiki/File:United_First_Class_flight_-_November_15_2023_-_Sarah_Stierch_01.jpg)
+- Aircraft at Los Angeles International Airport July 2022: Benoît Prieur, CC0, via Wikimedia Commons. [Aircraft at Los Angeles International Airport July 2022 (2).jpg](https://commons.wikimedia.org/wiki/File:Aircraft_at_Los_Angeles_International_Airport_July_2022_(2).jpg)
+- Sky from United airliner (Orlando - NYC) May 2023: Benoît Prieur, CC0, via Wikimedia Commons. [Sky from United airliner (Orlando - NYC) May 2023 (2).jpg](https://commons.wikimedia.org/wiki/File:Sky_from_United_airliner_(Orlando_-_NYC)_May_2023_(2).jpg)
+- Pierre Regional Airport ticket counter: Jeffrey Beall, CC BY 4.0, via Wikimedia Commons. [Pierre Regional Airport ticket counter.JPG](https://commons.wikimedia.org/wiki/File:Pierre_Regional_Airport_ticket_counter.JPG)
+- United Airlines office@Guam: Yūta Ono, CC BY-SA 4.0, via Wikimedia Commons. [United Airlines office@Guam.JPG](https://commons.wikimedia.org/wiki/File:United_Airlines_office@Guam.JPG)
+- Crash site of United Airlines flight 93: Asiriryansamarasekera, CC BY-SA 3.0, via Wikimedia Commons. [Crash site of United Airlines flight 93.jpg](https://commons.wikimedia.org/wiki/File:Crash_site_of_United_Airlines_flight_93.jpg)
+- United Airlines Plane: Yannkemper, CC0, via Wikimedia Commons. [United Airlines Plane.jpg](https://commons.wikimedia.org/wiki/File:United_Airlines_Plane.jpg)
+
+## United Parcel Service (UPS)
+
+- HTS Systems UPS Ground: MobiusDaXter, CC BY-SA 3.0, via Wikimedia Commons. [HTS Systems UPS Ground.jpg](https://commons.wikimedia.org/wiki/File:HTS_Systems_UPS_Ground.jpg)
+- Amazon Hub Locker - Ricky (Tempe, Arizona): Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Amazon Hub Locker - Ricky (Tempe, Arizona).jpg](https://commons.wikimedia.org/wiki/File:Amazon_Hub_Locker_-_Ricky_(Tempe,_Arizona).jpg)
+- UPS semi trailer truck and driver in Arlington Texas: U.S. Department of Agriculture, public domain, via Wikimedia Commons. [UPS semi trailer truck and driver in Arlington Texas.jpg](https://commons.wikimedia.org/wiki/File:UPS_semi_trailer_truck_and_driver_in_Arlington_Texas.jpg)
+- UPS semi truck driver in front of semi-trailer truck in Arlington Texas: U.S. Department of Agriculture, public domain, via Wikimedia Commons. [UPS semi truck driver in front of semi-trailer truck in Arlington Texas.jpg](https://commons.wikimedia.org/wiki/File:UPS_semi_truck_driver_in_front_of_semi-trailer_truck_in_Arlington_Texas.jpg)
+- Packages on UPS conveyor belt: U.S. Department of Agriculture, public domain, via Wikimedia Commons. [Packages on UPS conveyor belt.jpg](https://commons.wikimedia.org/wiki/File:Packages_on_UPS_conveyor_belt.jpg)
+- UPS Arlington Texas facility - Lone Star: U.S. Department of Agriculture, public domain, via Wikimedia Commons. [UPS Arlington Texas facility - Lone Star.jpg](https://commons.wikimedia.org/wiki/File:UPS_Arlington_Texas_facility_-_Lone_Star.jpg)
+- Clark-Lake intersection in Chicago, September 2024: Nairn McWilliams, CC BY-SA 2.0, via Wikimedia Commons. [Clark-Lake intersection in Chicago, September 2024 (54285583882).jpg](https://commons.wikimedia.org/wiki/File:Clark-Lake_intersection_in_Chicago,_September_2024_(54285583882).jpg)
+- Marengo at Magazine, Uptown New Orleans Aug 2025 - 3 Boxes: Infrogmation, CC BY-SA 4.0, via Wikimedia Commons. [Marengo at Magazine, Uptown New Orleans Aug 2025 - 3 Boxes.jpg](https://commons.wikimedia.org/wiki/File:Marengo_at_Magazine,_Uptown_New_Orleans_Aug_2025_-_3_Boxes.jpg)
+- UPS Drop Box, N Crossing Cir, Valdosta: Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons. [UPS Drop Box, N Crossing Cir, Valdosta.jpg](https://commons.wikimedia.org/wiki/File:UPS_Drop_Box,_N_Crossing_Cir,_Valdosta.jpg)
+- Expo Prado 2010: Embajada de los Estados Unidos en Uruguay from Montevideo, Uruguay, public domain, via Wikimedia Commons. [Expo Prado 2010 (5018057455).jpg](https://commons.wikimedia.org/wiki/File:Expo_Prado_2010_(5018057455).jpg)
+
+## United Rentals (URI)
+
+- Florida National Guard: The National Guard Sgt. Michael Baltz/107th Mobile Public Affairs Detachment, public domain, via Wikimedia Commons. [Florida National Guard (49676134843).jpg](https://commons.wikimedia.org/wiki/File:Florida_National_Guard_(49676134843).jpg)
+- 14th St 9th Av Hudson St td ( ) 30 - Chelsea Plaza: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [14th St 9th Av Hudson St td (2019-01-03) 30 - Chelsea Plaza.jpg](https://commons.wikimedia.org/wiki/File:14th_St_9th_Av_Hudson_St_td_(2019-01-03)_30_-_Chelsea_Plaza.jpg)
+- Empire Outlets SI td ( ) 003: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [Empire Outlets SI td (2018-08-02) 003.jpg](https://commons.wikimedia.org/wiki/File:Empire_Outlets_SI_td_(2018-08-02)_003.jpg)
+- My Truck & Boom: Adam Keethler, CC BY-SA 4.0, via Wikimedia Commons. [My Truck & Boom.jpg](https://commons.wikimedia.org/wiki/File:My_Truck_%26_Boom.jpg)
+- United Rentals Light Generator: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [United Rentals Light Generator.jpg](https://commons.wikimedia.org/wiki/File:United_Rentals_Light_Generator.jpg)
+- FEMA - - Loading plywood on boats in Alaska: Ben Brennan, public domain, via Wikimedia Commons. [FEMA - 41712 - Loading plywood on boats in Alaska.jpg](https://commons.wikimedia.org/wiki/File:FEMA_-_41712_-_Loading_plywood_on_boats_in_Alaska.jpg)
+- US Navy -N-9643K-397 Hull preservation and upgrades are in progress aboard the amphibious assault ship USS Bonhomme Richard (LHD 6): U.S. Navy photo by Chief Mass Communication Specialist Joe Kane, public domain, via Wikimedia Commons. [US Navy 101221-N-9643K-397 Hull preservation and upgrades are in progress aboard the amphibious assault ship USS Bonhomme Richard (LHD 6).jpg](https://commons.wikimedia.org/wiki/File:US_Navy_101221-N-9643K-397_Hull_preservation_and_upgrades_are_in_progress_aboard_the_amphibious_assault_ship_USS_Bonhomme_Richard_(LHD_6).jpg)
+- Follow the Arrows: formulanone, CC BY-SA 2.0, via Wikimedia Commons. [Follow the Arrows (50619358112).jpg](https://commons.wikimedia.org/wiki/File:Follow_the_Arrows_(50619358112).jpg)
+- Sheldon Creed 2018 ARCA Madison: Royalbroil, CC BY-SA 4.0, via Wikimedia Commons. [Sheldon Creed 2018 ARCA Madison.jpg](https://commons.wikimedia.org/wiki/File:Sheldon_Creed_2018_ARCA_Madison.jpg)
+- Blackjack engineers tackle “Work Week”: U.S. Space Force image by [null Courtesy], public domain, via Wikimedia Commons. [Blackjack engineers tackle “Work Week” (3156420).jpeg](https://commons.wikimedia.org/wiki/File:Blackjack_engineers_tackle_%E2%80%9CWork_Week%E2%80%9D_(3156420).jpeg)
+
+## UnitedHealth Group (UNH)
+
+- Police watch the UnitedHealthcare Headquarters: Chad Davis, CC BY 2.0, via Wikimedia Commons. [Police watch the UnitedHealthcare Headquarters (54190504937).jpg](https://commons.wikimedia.org/wiki/File:Police_watch_the_UnitedHealthcare_Headquarters_(54190504937).jpg)
+- LHI buildings-2: Wikideas1, CC0, via Wikimedia Commons. [LHI buildings-2.jpg](https://commons.wikimedia.org/wiki/File:LHI_buildings-2.jpg)
+- Corridor on the second level - NÄL hospital 1: W.carter, CC0, via Wikimedia Commons. [Corridor on the second level - NÄL hospital 1.jpg](https://commons.wikimedia.org/wiki/File:Corridor_on_the_second_level_-_N%C3%84L_hospital_1.jpg)
+- Middle-aged female doctor talking to a patient during a video consultation at home in a cozy setting: Shixart1985, CC BY 2.0, via Wikimedia Commons. [Middle-aged female doctor talking to a patient during a video consultation at home in a cozy setting.jpg](https://commons.wikimedia.org/wiki/File:Middle-aged_female_doctor_talking_to_a_patient_during_a_video_consultation_at_home_in_a_cozy_setting.jpg)
+- Food for sale at the counter of Dispensary, Poetry Pharmacy: Andy Li, CC0, via Wikimedia Commons. [Food for sale at the counter of Dispensary, Poetry Pharmacy 2026-09-16.jpg](https://commons.wikimedia.org/wiki/File:Food_for_sale_at_the_counter_of_Dispensary,_Poetry_Pharmacy_2026-09-16.jpg)
+- Stephen Hemsley: Ways and Means Committee of the United States Congress, public domain, via Wikimedia Commons. [Stephen Hemsley.jpg](https://commons.wikimedia.org/wiki/File:Stephen_Hemsley.jpg)
+- UnitedHealthcare Corporate Headquarters, December 8 2024: Chad Davis, CC BY 2.0, via Wikimedia Commons. [UnitedHealthcare Corporate Headquarters, December 8 2024 (54191437643).jpg](https://commons.wikimedia.org/wiki/File:UnitedHealthcare_Corporate_Headquarters,_December_8_2024_(54191437643).jpg)
+- 2008TourDeTaiwan Stage7 Overall Leader: Rico Shen, CC BY-SA 4.0, via Wikimedia Commons. [2008TourDeTaiwan Stage7 Overall Leader.jpg](https://commons.wikimedia.org/wiki/File:2008TourDeTaiwan_Stage7_Overall_Leader.jpg)
+- 2008TourDeTaiwan Stage7 Sprint Leader: Rico Shen, CC BY-SA 4.0, via Wikimedia Commons. [2008TourDeTaiwan Stage7 Sprint Leader.jpg](https://commons.wikimedia.org/wiki/File:2008TourDeTaiwan_Stage7_Sprint_Leader.jpg)
+- Leuven - Brabantse Pijl, 15 april 2015, vertrek (A33): Jérémy-Günther-Heinz Jähnick, CC BY-SA 3.0, via Wikimedia Commons. [Leuven - Brabantse Pijl, 15 april 2015, vertrek (A33).JPG](https://commons.wikimedia.org/wiki/File:Leuven_-_Brabantse_Pijl,_15_april_2015,_vertrek_(A33).JPG)
+
+## Vale (VALE)
+
+- Caminhoneiros paralisados por protestos contra o resultado das eleições presidenciais de 2022 na BR-381 em Timóteo MG: HVL, CC BY 4.0, via Wikimedia Commons. [Caminhoneiros paralisados por protestos contra o resultado das eleições presidenciais de 2022 na BR-381 em Timóteo MG.JPG](https://commons.wikimedia.org/wiki/File:Caminhoneiros_paralisados_por_protestos_contra_o_resultado_das_elei%C3%A7%C3%B5es_presidenciais_de_2022_na_BR-381_em_Tim%C3%B3teo_MG.JPG)
+- VitorJubini MuseuVale VilaVelha ES: MTur Destinos, public domain, via Wikimedia Commons. [VitorJubini MuseuVale VilaVelha ES (39818269840).jpg](https://commons.wikimedia.org/wiki/File:VitorJubini_MuseuVale_VilaVelha_ES_(39818269840).jpg)
+- VitorJubini ParqueBotanicoVale Vitoria ES: MTur Destinos, public domain, via Wikimedia Commons. [VitorJubini ParqueBotanicoVale Vitoria ES (27121156868).jpg](https://commons.wikimedia.org/wiki/File:VitorJubini_ParqueBotanicoVale_Vitoria_ES_(27121156868).jpg)
+- VitorJubini ParqueDaFonteGrande Vitoria ES: MTur Destinos, public domain, via Wikimedia Commons. [VitorJubini ParqueDaFonteGrande Vitoria ES (40098998865).jpg](https://commons.wikimedia.org/wiki/File:VitorJubini_ParqueDaFonteGrande_Vitoria_ES_(40098998865).jpg)
+- 08 09 2021 Visita à Vale: Vice-Presidência da República from Brasiilia, Brasil, CC BY 2.0, via Wikimedia Commons. [08 09 2021 Visita à Vale (51436962932).jpg](https://commons.wikimedia.org/wiki/File:08_09_2021_Visita_%C3%A0_Vale_(51436962932).jpg)
+- Big Yellow: Kolong, CC BY-SA 4.0, via Wikimedia Commons. [Big Yellow.jpg](https://commons.wikimedia.org/wiki/File:Big_Yellow.jpg)
+- Vale S.A. in Vitória (Espírito Santo, Brazil) - 01: Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons. [Vale S.A. in Vitória (Espírito Santo, Brazil) - 01.jpg](https://commons.wikimedia.org/wiki/File:Vale_S.A._in_Vit%C3%B3ria_(Esp%C3%ADrito_Santo,_Brazil)_-_01.jpg)
+- Itabira MG Brasil - Caminhão fora-de-estrada, mineração Vale - panoramio: Josue Marinho, CC BY 3.0, via Wikimedia Commons. [Itabira MG Brasil - Caminhão fora-de-estrada, mineração Vale - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Caminh%C3%A3o_fora-de-estrada,_minera%C3%A7%C3%A3o_Vale_-_panoramio.jpg)
+- Itabira MG Brasil - Mina de Ferro da Vale - panoramio: Josue Marinho, CC BY 3.0, via Wikimedia Commons. [Itabira MG Brasil - Mina de Ferro da Vale - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg)
+- Itabira MG Brasil - Mineração da Vale - panoramio: Josue Marinho, CC BY 3.0, via Wikimedia Commons. [Itabira MG Brasil - Mineração da Vale - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_da_Vale_-_panoramio.jpg)
+
+## Valero Energy (VLO)
+
+- Valero Three Rivers Refinery Texas 2020: Larry D. Moore, CC BY 4.0, via Wikimedia Commons. [Valero Three Rivers Refinery Texas 2020.jpg](https://commons.wikimedia.org/wiki/File:Valero_Three_Rivers_Refinery_Texas_2020.jpg)
+- Valero refinery, Port Arthur TX, historical plaque: roy.luck, CC BY 2.0, via Wikimedia Commons. [Valero refinery, Port Arthur TX, historical plaque.jpg](https://commons.wikimedia.org/wiki/File:Valero_refinery,_Port_Arthur_TX,_historical_plaque.jpg)
+- Valero oil refinery company - panoramio: James Martins, CC BY 3.0, via Wikimedia Commons. [Valero oil refinery company - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Valero_oil_refinery_company_-_panoramio.jpg)
+
+## Ventas (VTR)
+
+- Antigua Venta del Puñal, Morella: Juan Emilio Prades Bel, CC BY-SA 4.0, via Wikimedia Commons. [Antigua Venta del Puñal, Morella.jpg](https://commons.wikimedia.org/wiki/File:Antigua_Venta_del_Pu%C3%B1al,_Morella.jpg)
+- Venta Baztan (Urkiaga): Tangopaso, public domain, via Wikimedia Commons. [Venta Baztan (Urkiaga).jpg](https://commons.wikimedia.org/wiki/File:Venta_Baztan_(Urkiaga).jpg)
+- Ventas de la Rhune: Yann Lagarde, CC BY-SA 4.0, via Wikimedia Commons. [Ventas de la Rhune.jpg](https://commons.wikimedia.org/wiki/File:Ventas_de_la_Rhune.jpg)
+- Santutxo albiztur: Joxemai, CC BY-SA 3.0, via Wikimedia Commons. [Santutxo albiztur.JPG](https://commons.wikimedia.org/wiki/File:Santutxo_albiztur.JPG)
+- Larruneko telekomunikazio estazioa: Iñaki LL, CC BY-SA 4.0, via Wikimedia Commons. [Larruneko telekomunikazio estazioa.jpg](https://commons.wikimedia.org/wiki/File:Larruneko_telekomunikazio_estazioa.jpg)
+- Rhune Venta Txakoli: Marianne Casamance, CC BY-SA 4.0, via Wikimedia Commons. [Rhune Venta Txakoli.jpg](https://commons.wikimedia.org/wiki/File:Rhune_Venta_Txakoli.jpg)
+- Col d'Ispéguy, venta Irigoieneko: Tangopaso, public domain, via Wikimedia Commons. [Col d'Ispéguy, venta Irigoieneko.jpg](https://commons.wikimedia.org/wiki/File:Col_d%27Isp%C3%A9guy,_venta_Irigoieneko.jpg)
+- Sangre encebollada 1: Xemenendura, CC BY 3.0, via Wikimedia Commons. [Sangre encebollada 1.jpg](https://commons.wikimedia.org/wiki/File:Sangre_encebollada_1.jpg)
+
+## Verisign (VRSN)
+
+- VeriSign headquarters in Mountain View, California.: en:User:Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons. [Verisignheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Verisignheadquarters.jpg)
+- Hard Token: Masaru Kamikura from Japan, CC BY 2.0, via Wikimedia Commons. [Hard Token (5727779165).jpg](https://commons.wikimedia.org/wiki/File:Hard_Token_(5727779165).jpg)
+- Samsung S3F8274, Verisign Mini Token: Travis Goodspeed, CC BY 2.0, via Wikimedia Commons. [Samsung S3F8274, Verisign Mini Token (5951824761).jpg](https://commons.wikimedia.org/wiki/File:Samsung_S3F8274,_Verisign_Mini_Token_(5951824761).jpg)
+- Verisign HQ viewed from the RTC Orange Garage: Baron Maddock, CC BY 4.0, via Wikimedia Commons. [Verisign HQ viewed from the RTC Orange Garage.jpg](https://commons.wikimedia.org/wiki/File:Verisign_HQ_viewed_from_the_RTC_Orange_Garage.jpg)
+- VeriSign Mini Token 2008: Travis Goodspeed, CC BY 2.0, via Wikimedia Commons. [VeriSign Mini Token 2008 (5724954959).jpg](https://commons.wikimedia.org/wiki/File:VeriSign_Mini_Token_2008_(5724954959).jpg)
+- Token Verisign: Rollopack, CC BY-SA 3.0, via Wikimedia Commons. [Token Verisign.JPG](https://commons.wikimedia.org/wiki/File:Token_Verisign.JPG)
+
+## Verisk Analytics (VRSK)
+
+- Jersey-city-new-jersy-night: Unknown author, CC BY 2.0, via Wikimedia Commons. [Jersey-city-new-jersy-night.jpg](https://commons.wikimedia.org/wiki/File:Jersey-city-new-jersy-night.jpg)
+
+## Verizon (VZ)
+
+- Verizon Building: Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons. [Verizon Building (8156005279).jpg](https://commons.wikimedia.org/wiki/File:Verizon_Building_(8156005279).jpg)
+- Dan Schulman, Verizon CEO (per Wikidata): PopTech, Kris Klug, CC BY-SA 2.0, via Wikimedia Commons. [Dan Schulman.jpg](https://commons.wikimedia.org/wiki/File:Dan_Schulman.jpg)
+- Altec bucket trucks: Oleg Yunakov, CC0, via Wikimedia Commons. [Altec bucket trucks.jpg](https://commons.wikimedia.org/wiki/File:Altec_bucket_trucks.jpg)
+- Coral Gables, Miami, Florida - 2021: Sharon Hahn Darlin, CC BY 2.0, via Wikimedia Commons. [Coral Gables, Miami, Florida - 2021.jpg](https://commons.wikimedia.org/wiki/File:Coral_Gables,_Miami,_Florida_-_2021.jpg)
+- Manhole in Maryland: Middle river exports, CC0, via Wikimedia Commons. [Manhole in Maryland.jpg](https://commons.wikimedia.org/wiki/File:Manhole_in_Maryland.jpg)
+- U Limericku u kolovozu 2024: August Dominus, CC0, via Wikimedia Commons. [U Limericku u kolovozu 2024.jpg](https://commons.wikimedia.org/wiki/File:U_Limericku_u_kolovozu_2024.jpg)
+- Unknown sim-verizon- mcmaster mz mit20x: John McMaster, CC BY 4.0, via Wikimedia Commons. [Unknown sim-verizon-277132 mcmaster mz mit20x.jpg](https://commons.wikimedia.org/wiki/File:Unknown_sim-verizon-277132_mcmaster_mz_mit20x.jpg)
+- A modern Verizon retail store in Burlington, Vermont: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [A modern Verizon retail store in Burlington, Vermont.jpg](https://commons.wikimedia.org/wiki/File:A_modern_Verizon_retail_store_in_Burlington,_Vermont.jpg)
+- Smashed window at Verizon store in St. Paul, MN on May 28th, 2020: MarkTraceur, CC BY 4.0, via Wikimedia Commons. [Smashed window at Verizon store in St. Paul, MN on May 28th, 2020.jpg](https://commons.wikimedia.org/wiki/File:Smashed_window_at_Verizon_store_in_St._Paul,_MN_on_May_28th,_2020.jpg)
+- Verizon retailer store: Curlyrnd, CC BY-SA 4.0, via Wikimedia Commons. [Verizon retailer store.png](https://commons.wikimedia.org/wiki/File:Verizon_retailer_store.png)
+
+## Vertex Pharmaceuticals (VRTX)
+
+- Vertex Pharmaceuticals: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [Vertex Pharmaceuticals (54960820723).jpg](https://commons.wikimedia.org/wiki/File:Vertex_Pharmaceuticals_(54960820723).jpg)
+
+## Viatris (VTRS)
+
+- Viatris Pharmaceutical Plant in Istanbul, Ortaköy: Harald the Bard, CC BY-SA 4.0, via Wikimedia Commons. [Viatris Pharmaceutical Plant in Istanbul, Ortaköy.jpg](https://commons.wikimedia.org/wiki/File:Viatris_Pharmaceutical_Plant_in_Istanbul,_Ortak%C3%B6y.jpg)
+
+## Vici Properties (VICI)
+
+- Caesars Palace Las Vegas: Jeremy Thompson, CC BY 2.0, via Wikimedia Commons. [Caesars Palace Las Vegas.jpg](https://commons.wikimedia.org/wiki/File:Caesars_Palace_Las_Vegas.jpg)
+
+## Visa Inc. (V)
+
+- Visa headquarters - August 2025 - Sarah Stierch: Missvain, CC0, via Wikimedia Commons. [Visa headquarters - August 2025 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Visa_headquarters_-_August_2025_-_Sarah_Stierch.jpg)
+- Revolut Premium Visa Infinite Card Midnight Blue: MysticalEel07, CC BY-SA 4.0, via Wikimedia Commons. [Revolut Premium Visa Infinite Card Midnight Blue.png](https://commons.wikimedia.org/wiki/File:Revolut_Premium_Visa_Infinite_Card_Midnight_Blue.png)
+- MBTA Contactless Fare Reader on Type 7 Green Line train: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [MBTA Contactless Fare Reader on Type 7 Green Line train.jpg](https://commons.wikimedia.org/wiki/File:MBTA_Contactless_Fare_Reader_on_Type_7_Green_Line_train.jpg)
+- Payment terminal at the Berlin immigration office: Nicbou, CC0, via Wikimedia Commons. [Payment terminal at the Berlin immigration office.jpg](https://commons.wikimedia.org/wiki/File:Payment_terminal_at_the_Berlin_immigration_office.jpg)
+- Paying with a Credit Card: Hloom Templates, CC BY 2.0, via Wikimedia Commons. [Paying with a Credit Card (28886645201).jpg](https://commons.wikimedia.org/wiki/File:Paying_with_a_Credit_Card_(28886645201).jpg)
+- Ryan McInerney: Malibukenz, CC BY-SA 4.0, via Wikimedia Commons. [Ryan McInerney.jpg](https://commons.wikimedia.org/wiki/File:Ryan_McInerney.jpg)
+- 300 Toni Stone Crossing: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [300 Toni Stone Crossing.jpg](https://commons.wikimedia.org/wiki/File:300_Toni_Stone_Crossing.jpg)
+- Old Visa Inc headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Old Visa Inc headquarters.jpg](https://commons.wikimedia.org/wiki/File:Old_Visa_Inc_headquarters.jpg)
+- HK 堅尼地城 Kennedy Town Rock Hill Street Smithfield shop McDonald's payment system alipay Visa Octopus WeChart June 2020 SS2: Nokugsa Simoorbe Hung, CC BY-SA 4.0, via Wikimedia Commons. [HK 堅尼地城 Kennedy Town Rock Hill Street Smithfield shop McDonald's payment system alipay Visa Octopus WeChart June 2020 SS2.jpg](https://commons.wikimedia.org/wiki/File:HK_%E5%A0%85%E5%B0%BC%E5%9C%B0%E5%9F%8E_Kennedy_Town_Rock_Hill_Street_Smithfield_shop_McDonald%27s_payment_system_alipay_Visa_Octopus_WeChart_June_2020_SS2.jpg)
+- Visa Inc. 1: F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [Visa Inc. 1 2019-02-28.jpg](https://commons.wikimedia.org/wiki/File:Visa_Inc._1_2019-02-28.jpg)
+
+## Vulcan Materials Company (VMC)
+
+- Vulcan materials dolcito quarry: Lahti213, CC BY-SA 4.0, via Wikimedia Commons. [Vulcan materials dolcito quarry.jpg](https://commons.wikimedia.org/wiki/File:Vulcan_materials_dolcito_quarry.jpg)
+
+## Vylor (VYLR)
+
+- Bulk carrier Santa Centellar , distant: Mliu92, CC BY-SA 4.0, via Wikimedia Commons. [Bulk carrier Santa Centellar (2025), distant.jpg](https://commons.wikimedia.org/wiki/File:Bulk_carrier_Santa_Centellar_(2025),_distant.jpg)
+- Corteva Wetlands Preserve (distant sunset): Mliu92, CC BY-SA 4.0, via Wikimedia Commons. [Corteva Wetlands Preserve (distant sunset).jpg](https://commons.wikimedia.org/wiki/File:Corteva_Wetlands_Preserve_(distant_sunset).jpg)
+- Senator Stabenow at Dow AgroSciences LLC: Senator Stabenow, CC BY 2.0, via Wikimedia Commons. [Senator Stabenow at Dow AgroSciences LLC (5367202181).jpg](https://commons.wikimedia.org/wiki/File:Senator_Stabenow_at_Dow_AgroSciences_LLC_(5367202181).jpg)
+- Tasse Corteva: Blonder1984, CC BY-SA 4.0, via Wikimedia Commons. [Tasse Corteva.jpg](https://commons.wikimedia.org/wiki/File:Tasse_Corteva.jpg)
+- Delta Energy Center (Calpine), from Corteva Wetlands: Mliu92, CC BY-SA 4.0, via Wikimedia Commons. [Delta Energy Center (Calpine), from Corteva Wetlands.jpg](https://commons.wikimedia.org/wiki/File:Delta_Energy_Center_(Calpine),_from_Corteva_Wetlands.jpg)
+- FFA signs at Corteva Agriscience FFA Pavilion - Indiana State Fair: Dominic, CC0, via Wikimedia Commons. [FFA signs at Corteva Agriscience FFA Pavilion - Indiana State Fair.jpg](https://commons.wikimedia.org/wiki/File:FFA_signs_at_Corteva_Agriscience_FFA_Pavilion_-_Indiana_State_Fair.jpg)
+
+## W. R. Berkley Corporation (WRB)
+
+- W. R. Berkley Corporation headquarters 1: Mx. Granger, CC0, via Wikimedia Commons. [W. R. Berkley Corporation headquarters 1.jpg](https://commons.wikimedia.org/wiki/File:W._R._Berkley_Corporation_headquarters_1.jpg)
+
+## W. W. Grainger (GWW)
+
+- Grainger at Mendenhall Building A, Florida State University: The Bushranger, CC BY-SA 4.0, via Wikimedia Commons. [Grainger at Mendenhall Building A, Florida State University.jpg](https://commons.wikimedia.org/wiki/File:Grainger_at_Mendenhall_Building_A,_Florida_State_University.jpg)
+- W W Grainger Ann Arbor Branch: Dwight Burdette, CC BY 3.0, via Wikimedia Commons. [W W Grainger Ann Arbor Branch.JPG](https://commons.wikimedia.org/wiki/File:W_W_Grainger_Ann_Arbor_Branch.JPG)
+
+## Wabtec (WAB)
+
+- Station approach ^ Wabtec works, Kilmarnock - geograph.org.uk: Peter Whatley, CC BY-SA 2.0, via Wikimedia Commons. [Station approach ^ Wabtec works, Kilmarnock - geograph.org.uk - 4171654.jpg](https://commons.wikimedia.org/wiki/File:Station_approach_%5E_Wabtec_works,_Kilmarnock_-_geograph.org.uk_-_4171654.jpg)
+- Shunters in the Wabtec works at Doncaster - geograph.org.uk: Stephen Craven, CC BY-SA 2.0, via Wikimedia Commons. [Shunters in the Wabtec works at Doncaster - geograph.org.uk - 7420182.jpg](https://commons.wikimedia.org/wiki/File:Shunters_in_the_Wabtec_works_at_Doncaster_-_geograph.org.uk_-_7420182.jpg)
+- Royal train locomotive in the Wabtec works at Doncaster - geograph.org.uk: Stephen Craven, CC BY-SA 2.0, via Wikimedia Commons. [Royal train locomotive in the Wabtec works at Doncaster - geograph.org.uk - 7420185.jpg](https://commons.wikimedia.org/wiki/File:Royal_train_locomotive_in_the_Wabtec_works_at_Doncaster_-_geograph.org.uk_-_7420185.jpg)
+
+## Walt Disney Company (The) (DIS)
+
+- Cinderella Castle January 2021 Portrait: Backattaxk251, CC BY-SA 4.0, via Wikimedia Commons. [Cinderella Castle January 2021 Portrait.jpg](https://commons.wikimedia.org/wiki/File:Cinderella_Castle_January_2021_Portrait.jpg)
+- Sleeping Beauty Castle DLR: Carterhawk, CC BY-SA 3.0, via Wikimedia Commons. [Sleeping Beauty Castle DLR.jpg](https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_Castle_DLR.jpg)
+- Disney Legends Plaza - Walt Disney Studios (Burbank): JeffChristiansen, CC BY 2.0, via Wikimedia Commons. [Disney Legends Plaza - Walt Disney Studios (Burbank).jpg](https://commons.wikimedia.org/wiki/File:Disney_Legends_Plaza_-_Walt_Disney_Studios_(Burbank).jpg)
+- Disney Wish smokestack detail: Declan M. Martin, public domain, via Wikimedia Commons. [Disney Wish smokestack detail.jpg](https://commons.wikimedia.org/wiki/File:Disney_Wish_smokestack_detail.jpg)
+- ESPN Headquarters: AirportExpert, CC0, via Wikimedia Commons. [ESPN Headquarters.jpg](https://commons.wikimedia.org/wiki/File:ESPN_Headquarters.jpg)
+- Josh D'Amaro and Bob Chapek: elisfkc2, CC BY-SA 2.0, via Wikimedia Commons. [Josh D'Amaro and Bob Chapek (49607223226).jpg](https://commons.wikimedia.org/wiki/File:Josh_D%27Amaro_and_Bob_Chapek_(49607223226).jpg)
+- Trevor McFedries chatting with Bob Iger: Village Global, CC BY 2.0, via Wikimedia Commons. [Trevor McFedries chatting with Bob Iger.jpg](https://commons.wikimedia.org/wiki/File:Trevor_McFedries_chatting_with_Bob_Iger.jpg)
+- Lucasfilm, LucasArts, Industrial Light & Magic Foyer (Presidio Complex): Tim-desser, CC0, via Wikimedia Commons. [Lucasfilm, LucasArts, Industrial Light & Magic Foyer (Presidio Complex).jpg](https://commons.wikimedia.org/wiki/File:Lucasfilm,_LucasArts,_Industrial_Light_%26_Magic_Foyer_(Presidio_Complex).jpg)
+- Disney 100 celebration: Trey Madara, CC BY 2.0, via Wikimedia Commons. [Disney 100 celebration.jpg](https://commons.wikimedia.org/wiki/File:Disney_100_celebration.jpg)
+- Bob Weis: Mike Iwerks, CC BY-SA 4.0, via Wikimedia Commons. [Bob Weis.jpg](https://commons.wikimedia.org/wiki/File:Bob_Weis.jpg)
+
+## Waste Management (WM)
+
+- First City Tower, which has the headquarters of Waste Management, Inc: WhisperToMe, public domain, via Wikimedia Commons. [FirstCityTowerWasteManagement.JPG](https://commons.wikimedia.org/wiki/File:FirstCityTowerWasteManagement.JPG)
+- Scouts at the game: Michael Stokes, CC BY 2.0, via Wikimedia Commons. [Scouts at the game (41732571675).jpg](https://commons.wikimedia.org/wiki/File:Scouts_at_the_game_(41732571675).jpg)
+- Granite w Biotite, Feldspar & Quartz 2643: Chris Light, CC BY-SA 4.0, via Wikimedia Commons. [Granite w Biotite, Feldspar & Quartz 2643.jpg](https://commons.wikimedia.org/wiki/File:Granite_w_Biotite,_Feldspar_%26_Quartz_2643.jpg)
+- Waste Management Truck Ottawa: Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons. [Waste Management Truck Ottawa.jpg](https://commons.wikimedia.org/wiki/File:Waste_Management_Truck_Ottawa.jpg)
+- Green WM trash container in Durham: Ildar Sagdejev ( Specious ), CC BY-SA 4.0, via Wikimedia Commons. [2008-07-12 Green WM trash container in Durham.jpg](https://commons.wikimedia.org/wiki/File:2008-07-12_Green_WM_trash_container_in_Durham.jpg)
+- 0461 Mission Viejo: Nandaro, CC BY-SA 4.0, via Wikimedia Commons. [20131228-0461 Mission Viejo.JPG](https://commons.wikimedia.org/wiki/File:20131228-0461_Mission_Viejo.JPG)
+- Waste Management Truck Toronto: GTD Aquitaine at English Wikipedia, public domain, via Wikimedia Commons. [Waste Management Truck Toronto.jpg](https://commons.wikimedia.org/wiki/File:Waste_Management_Truck_Toronto.jpg)
+- Autocar Xpeditor: Michel Curi, CC BY 2.0, via Wikimedia Commons. [Autocar Xpeditor (16932142661).jpg](https://commons.wikimedia.org/wiki/File:Autocar_Xpeditor_(16932142661).jpg)
+- Mack MR Leach 2rII Garbage Truck: Arvell Dorsey Jr. from Chicago, IL, United States, CC BY 2.0, via Wikimedia Commons. [Mack MR Leach 2rII Garbage Truck (15808528062).jpg](https://commons.wikimedia.org/wiki/File:Mack_MR_Leach_2rII_Garbage_Truck_(15808528062).jpg)
+
+## Waters Corporation (WAT)
+
+- Quadrupole from a Waters Xevo TQ-S Triple quadrupole mass spectrometer.: TheSteroidBiochemist, CC BY-SA 4.0, via Wikimedia Commons. [Quadrupole.jpg](https://commons.wikimedia.org/wiki/File:Quadrupole.jpg)
+
+## WEC Energy Group (WEC)
+
+- We Energies Fort Atkinson Office - panoramio: Corey Coyle, CC BY 3.0, via Wikimedia Commons. [We Energies Fort Atkinson Office - panoramio.jpg](https://commons.wikimedia.org/wiki/File:We_Energies_Fort_Atkinson_Office_-_panoramio.jpg)
+- Doors Open Milwaukee 2023 42 (Public Service Building interior): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Doors Open Milwaukee 2023 42 (Public Service Building interior).jpg](https://commons.wikimedia.org/wiki/File:Doors_Open_Milwaukee_2023_42_(Public_Service_Building_interior).jpg)
+- Milwaukee July 2023 003 (Public Service Building): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Milwaukee July 2023 003 (Public Service Building).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee_July_2023_003_(Public_Service_Building).jpg)
+- Presque Isle Power Plant: Rklawton, CC BY-SA 4.0, via Wikimedia Commons. [Presque Isle Power Plant.jpg](https://commons.wikimedia.org/wiki/File:Presque_Isle_Power_Plant.jpg)
+
+## Wells Fargo (WFC)
+
+- One Orlando Centre: Dclemens1971, CC BY 4.0, via Wikimedia Commons. [One Orlando Centre.jpg](https://commons.wikimedia.org/wiki/File:One_Orlando_Centre.jpg)
+- Wells Fargo - Philadelphia: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Wells Fargo - Philadelphia (53590617700).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_-_Philadelphia_(53590617700).jpg)
+- Wells Fargo Bank in Cheyenne Wyoming: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Wells Fargo Bank in Cheyenne Wyoming (54000011678).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_in_Cheyenne_Wyoming_(54000011678).jpg)
+- Wells Fargo Bank Branch West Miami: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Wells Fargo Bank Branch West Miami (49855010962).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_Branch_West_Miami_(49855010962).jpg)
+- 1853 Wells Fargo Express office: Cullen328, CC BY-SA 4.0, via Wikimedia Commons. [1853 Wells Fargo Express office.jpg](https://commons.wikimedia.org/wiki/File:1853_Wells_Fargo_Express_office.jpg)
+- Palm Springs, CA, 2024 - 023: Another Believer, CC BY-SA 4.0, via Wikimedia Commons. [Palm Springs, CA, 2024 - 023.jpg](https://commons.wikimedia.org/wiki/File:Palm_Springs,_CA,_2024_-_023.jpg)
+- Wells Fargo & Company building, North San Juan, California: Cullen328, CC BY-SA 4.0, via Wikimedia Commons. [Wells Fargo & Company building, North San Juan, California.jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_%26_Company_building,_North_San_Juan,_California.jpg)
+- Wells Fargo Center St. Paul 5: AlexiusHoratius ( talk · contribs ), CC BY-SA 3.0, via Wikimedia Commons. [Wells Fargo Center St. Paul 5.jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_St._Paul_5.jpg)
+- Wells Fargo Center from Foshay - Flickr - Mulad: Michael Hicks from Saint Paul, MN, USA, CC BY 2.0, via Wikimedia Commons. [Wells Fargo Center from Foshay - Flickr - Mulad.jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_from_Foshay_-_Flickr_-_Mulad.jpg)
+- Timbuctoo, California – Stewart Brothers Store - Wells Fargo Office: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons. [Timbuctoo, California – Stewart Brothers Store - Wells Fargo Office.jpg](https://commons.wikimedia.org/wiki/File:Timbuctoo,_California_%E2%80%93_Stewart_Brothers_Store_-_Wells_Fargo_Office.jpg)
+
+## West Pharmaceutical Services (WST)
+
+- West Pharmaceutical Services in Eschweiler - Pumpe-Stich , Hauptgebäude mit Empfang: Eschweiler ♀, public domain, via Wikimedia Commons. [Ew-gummiwest1.jpg](https://commons.wikimedia.org/wiki/File:Ew-gummiwest1.jpg)
+- West Pharmaceutical Services plant in Kinston: Indy beetle, CC0, via Wikimedia Commons. [West Pharmaceutical Services plant in Kinston.jpg](https://commons.wikimedia.org/wiki/File:West_Pharmaceutical_Services_plant_in_Kinston.jpg)
+
+## Western Digital (WDC)
+
+- Western Digital Headquarters: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Western Digital Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Western_Digital_Headquarters.jpg)
+- Caviar 2340 Hard Drive Circuit Board Side 1: ComputerUserUser, CC0, via Wikimedia Commons. [Caviar 2340 Hard Drive Circuit Board Side 1.jpg](https://commons.wikimedia.org/wiki/File:Caviar_2340_Hard_Drive_Circuit_Board_Side_1.jpg)
+- Rahm Emanuel and David Goeckeler (FuOLzcbX0AAnwTJ): Ambassador Rahm Emanuel (United States Embassy in Japan), public domain, via Wikimedia Commons. [Rahm Emanuel and David Goeckeler (FuOLzcbX0AAnwTJ).jpg](https://commons.wikimedia.org/wiki/File:Rahm_Emanuel_and_David_Goeckeler_(FuOLzcbX0AAnwTJ).jpg)
+- WD Black booth, Taipei Game Show 20220125a: 玄史生, CC0, via Wikimedia Commons. [WD Black booth, Taipei Game Show 20220125a.jpg](https://commons.wikimedia.org/wiki/File:WD_Black_booth,_Taipei_Game_Show_20220125a.jpg)
+- Western-Digital-F000-REV-X0-1: MarcoTangerino, public domain, via Wikimedia Commons. [Western-Digital-F000-REV-X0-1.jpg](https://commons.wikimedia.org/wiki/File:Western-Digital-F000-REV-X0-1.jpg)
+- HDD001 Rückseite WDC WD3200LUCT-62RC2Y0 corr: PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons. [HDD001 Rückseite WDC WD3200LUCT-62RC2Y0 20210218 corr.jpg](https://commons.wikimedia.org/wiki/File:HDD001_R%C3%BCckseite_WDC_WD3200LUCT-62RC2Y0_20210218_corr.jpg)
+- HDD004 Vorderseite WDC WD3200LUCT-62RC2Y0 corr: PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons. [HDD004 Vorderseite WDC WD3200LUCT-62RC2Y0 20210218 corr.jpg](https://commons.wikimedia.org/wiki/File:HDD004_Vorderseite_WDC_WD3200LUCT-62RC2Y0_20210218_corr.jpg)
+- Western Digital Headquarters in the Santa Teresa district of San Jose, California 2245: Cristiano Tomás, CC BY-SA 4.0, via Wikimedia Commons. [Western Digital Headquarters in the Santa Teresa district of San Jose, California 2245.jpg](https://commons.wikimedia.org/wiki/File:Western_Digital_Headquarters_in_the_Santa_Teresa_district_of_San_Jose,_California_2245.jpg)
+- Robert Ryan giving us insight into Western Digital and building hard disks. Thanks to WD for hosting @MeetBSDCA: Andrew Fresh, CC BY 2.0, via Wikimedia Commons. [Robert Ryan giving us insight into Western Digital and building hard disks. Thanks to WD for hosting @MeetBSDCA (15509078578).jpg](https://commons.wikimedia.org/wiki/File:Robert_Ryan_giving_us_insight_into_Western_Digital_and_building_hard_disks._Thanks_to_WD_for_hosting_@MeetBSDCA_(15509078578).jpg)
+- Western Digital booth, Computex Taipei: Quintin Lin, CC BY-SA 2.0, via Wikimedia Commons. [Western Digital booth, Computex Taipei 20130607.jpg](https://commons.wikimedia.org/wiki/File:Western_Digital_booth,_Computex_Taipei_20130607.jpg)
+
+## Weyerhaeuser (WY)
+
+- 700 Emerald Street, St. Paul - Weyerhaeuser International Paper Demolition - Millberry Apartments: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [700 Emerald Street, St. Paul - Weyerhaeuser International Paper Demolition - Millberry Apartments (43417070614).jpg](https://commons.wikimedia.org/wiki/File:700_Emerald_Street,_St._Paul_-_Weyerhaeuser_International_Paper_Demolition_-_Millberry_Apartments_(43417070614).jpg)
+- Weyerhaeuser Building: AUfish, CC BY 4.0, via Wikimedia Commons. [Weyerhaeuser Building.jpg](https://commons.wikimedia.org/wiki/File:Weyerhaeuser_Building.jpg)
+- Wikipedia Local History Edit-a-thon Central Minnesota-02, Little Falls, MN: Myotus, CC BY 4.0, via Wikimedia Commons. [Wikipedia Local History Edit-a-thon Central Minnesota-02, Little Falls, MN.jpg](https://commons.wikimedia.org/wiki/File:Wikipedia_Local_History_Edit-a-thon_Central_Minnesota-02,_Little_Falls,_MN.jpg)
+- A railroad bridge along Cowiltz River, Washington State USA: Bobjgalindo, CC BY-SA 4.0, via Wikimedia Commons. [A railroad bridge along Cowiltz River, Washington State USA.jpg](https://commons.wikimedia.org/wiki/File:A_railroad_bridge_along_Cowiltz_River,_Washington_State_USA.jpg)
+- A trestle bridge along Cowiltz River, Washington State: Bobjgalindo, CC BY-SA 4.0, via Wikimedia Commons. [A trestle bridge along Cowiltz River, Washington State.jpg](https://commons.wikimedia.org/wiki/File:A_trestle_bridge_along_Cowiltz_River,_Washington_State.jpg)
+- Freight train recedes on the Freehold Secondary in Tennent 2024: Jonathan Schilling, CC BY-SA 4.0, via Wikimedia Commons. [Freight train recedes on the Freehold Secondary in Tennent 2024.jpg](https://commons.wikimedia.org/wiki/File:Freight_train_recedes_on_the_Freehold_Secondary_in_Tennent_2024.jpg)
+- Weyerhaeuser campus: PK-WIKI, CC BY 4.0, via Wikimedia Commons. [Weyerhaeuser campus.jpg](https://commons.wikimedia.org/wiki/File:Weyerhaeuser_campus.jpg)
+- Seattle - Weyerhaeuser Building 01: Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [Seattle - Weyerhaeuser Building 01.jpg](https://commons.wikimedia.org/wiki/File:Seattle_-_Weyerhaeuser_Building_01.jpg)
+- Weyerhaeuser Company HQ 2015-06 094: Chris Light, CC BY-SA 4.0, via Wikimedia Commons. [Weyerhaeuser Company HQ 2015-06 094.jpg](https://commons.wikimedia.org/wiki/File:Weyerhaeuser_Company_HQ_2015-06_094.jpg)
+- Weyerhaeuser headquarters: Arthur Fellig from Seattle, USA, CC BY 2.0, via Wikimedia Commons. [Weyerhaeuser HQ.jpg](https://commons.wikimedia.org/wiki/File:Weyerhaeuser_HQ.jpg)
+
+## Williams-Sonoma, Inc. (WSM)
+
+- 3250 Van Ness Avenue: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [3250 Van Ness Avenue.jpg](https://commons.wikimedia.org/wiki/File:3250_Van_Ness_Avenue.jpg)
+- A Williams Sonoma retail store at The Summit shopping mall in Birmingham, Alabama: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [A Williams Sonoma retail store at The Summit shopping mall in Birmingham, Alabama.jpg](https://commons.wikimedia.org/wiki/File:A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham,_Alabama.jpg)
+- Pride Williams-Sonoma Shops at Merrick Park: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Pride Williams-Sonoma Shops at Merrick Park.jpg](https://commons.wikimedia.org/wiki/File:Pride_Williams-Sonoma_Shops_at_Merrick_Park.jpg)
+- Williams Sonoma Shops At Brickell Park: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Williams Sonoma Shops At Brickell Park (45250500002).jpg](https://commons.wikimedia.org/wiki/File:Williams_Sonoma_Shops_At_Brickell_Park_(45250500002).jpg)
+- Williams-Sonoma Store - The Shoppes at Arbor Lakes - Maple Grove: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Williams-Sonoma Store - The Shoppes at Arbor Lakes - Maple Grove.jpg](https://commons.wikimedia.org/wiki/File:Williams-Sonoma_Store_-_The_Shoppes_at_Arbor_Lakes_-_Maple_Grove.jpg)
+- Williams-Sonoma Chinook Centre: Rowanlovescars, CC BY-SA 4.0, via Wikimedia Commons. [Williams-Sonoma Chinook Centre.jpg](https://commons.wikimedia.org/wiki/File:Williams-Sonoma_Chinook_Centre.jpg)
+- Williams-Sonoma flagship store SF exterior: BrokenSphere, CC BY 3.0, via Wikimedia Commons. [Williams-Sonoma flagship store SF exterior.JPG](https://commons.wikimedia.org/wiki/File:Williams-Sonoma_flagship_store_SF_exterior.JPG)
+- Williams-Sonoma store - Portland, Oregon: M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Williams-Sonoma store - Portland, Oregon.jpg](https://commons.wikimedia.org/wiki/File:Williams-Sonoma_store_-_Portland,_Oregon.jpg)
+- Charleston, South Carolina March 2013 - 24: Dougtone, CC BY-SA 2.0, via Wikimedia Commons. [Charleston, South Carolina March 2013 - 24.jpg](https://commons.wikimedia.org/wiki/File:Charleston,_South_Carolina_March_2013_-_24.jpg)
+- Williams Sonoma: Mike Mozart from Funny YouTube, USA, CC BY 2.0, via Wikimedia Commons. [Williams Sonoma (16467806802).jpg](https://commons.wikimedia.org/wiki/File:Williams_Sonoma_(16467806802).jpg)
+
+## Willis Towers Watson (WTW)
+
+- Willis Building (London): Colin, CC BY-SA 3.0, via Wikimedia Commons. [Willis Building (London).jpg](https://commons.wikimedia.org/wiki/File:Willis_Building_(London).jpg)
+- Willis Towers Watson, Ayawaso North: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Willis Towers Watson, Ayawaso North (P1090895).jpg](https://commons.wikimedia.org/wiki/File:Willis_Towers_Watson,_Ayawaso_North_(P1090895).jpg)
+- The Willis Towers Watson building, Ipswich, Suffolk: John Fielding from Norwich, UK, CC BY 2.0, via Wikimedia Commons. [The Willis Towers Watson building, Ipswich, Suffolk (37026322353).jpg](https://commons.wikimedia.org/wiki/File:The_Willis_Towers_Watson_building,_Ipswich,_Suffolk_(37026322353).jpg)
+
+## Workday, Inc. (WDAY)
+
+- Workday Headquarters: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Workday Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Workday_Headquarters.jpg)
+- Aneel Bhusri, Workday, Inc. CEO (per Wikidata): Loic Le Meur from France, CC BY 2.0, via Wikimedia Commons. [Aneel Bhusri (8518025145) (cropped).jpg](https://commons.wikimedia.org/wiki/File:Aneel_Bhusri_(8518025145)_(cropped).jpg)
+- St. Michan's Church, Dublin. April 2022. 01: Ridiculopathy, CC0, via Wikimedia Commons. [St. Michan's Church, Dublin. April 2022. 01.jpg](https://commons.wikimedia.org/wiki/File:St._Michan%27s_Church,_Dublin._April_2022._01.jpg)
+- The back of St. Michan's Church, Dublin. April 2022. 02: Ridiculopathy, CC0, via Wikimedia Commons. [The back of St. Michan's Church, Dublin. April 2022. 02.jpg](https://commons.wikimedia.org/wiki/File:The_back_of_St._Michan%27s_Church,_Dublin._April_2022._02.jpg)
+- Workday offices: Ben P L from Provo, USA, CC BY-SA 2.0, via Wikimedia Commons. [Workday offices (43168354454).jpg](https://commons.wikimedia.org/wiki/File:Workday_offices_(43168354454).jpg)
+- Workday, Inc. 1: F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [Workday, Inc. 1 2017-08-28.jpg](https://commons.wikimedia.org/wiki/File:Workday,_Inc._1_2017-08-28.jpg)
+- Northwest at Library station in Salt Lake City, Aug 17: An Errant Knight, CC BY-SA 4.0, via Wikimedia Commons. [Northwest at Library station in Salt Lake City, Aug 17.jpg](https://commons.wikimedia.org/wiki/File:Northwest_at_Library_station_in_Salt_Lake_City,_Aug_17.jpg)
+- Slc city center i building: Ricardo630, CC BY-SA 3.0, via Wikimedia Commons. [Slc city center i building.jpg](https://commons.wikimedia.org/wiki/File:Slc_city_center_i_building.jpg)
+
+## Wynn Resorts (WYNN)
+
+- Wynn Al Marjan Island Resort - Aerial View: Wynn Official - PR Limited, CC BY 4.0, via Wikimedia Commons. [Wynn Al Marjan Island Resort - Aerial View.jpg](https://commons.wikimedia.org/wiki/File:Wynn_Al_Marjan_Island_Resort_-_Aerial_View.jpg)
+
+## Xcel Energy (XEL)
+
+- 2023 Denver Auto Show International eMV electric boom truck: Corqe, CC0, via Wikimedia Commons. [2023 Denver Auto Show International eMV electric boom truck.jpg](https://commons.wikimedia.org/wiki/File:2023_Denver_Auto_Show_International_eMV_electric_boom_truck.jpg)
+- Georgetown Energy Museum: Jeffrey Beall, CC BY 4.0, via Wikimedia Commons. [Georgetown Energy Museum.JPG](https://commons.wikimedia.org/wiki/File:Georgetown_Energy_Museum.JPG)
+- Holcombe Dam-2: Wikideas1, CC0, via Wikimedia Commons. [Holcombe Dam-2.jpg](https://commons.wikimedia.org/wiki/File:Holcombe_Dam-2.jpg)
+- XCEL Energy Allen S King power plant: Wikideas1, CC0, via Wikimedia Commons. [XCEL Energy Allen S King power plant.jpg](https://commons.wikimedia.org/wiki/File:XCEL_Energy_Allen_S_King_power_plant.jpg)
+- St. Croix Falls Hydro Generating Station, Wisconsin (Xcel Energy): Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [St. Croix Falls Hydro Generating Station, Wisconsin (Xcel Energy) (42236376485).jpg](https://commons.wikimedia.org/wiki/File:St._Croix_Falls_Hydro_Generating_Station,_Wisconsin_(Xcel_Energy)_(42236376485).jpg)
+- Bay Front Generating Station - Ashland, Wisconsin: Chris857, CC BY-SA 4.0, via Wikimedia Commons. [Bay Front Generating Station - Ashland, Wisconsin.jpg](https://commons.wikimedia.org/wiki/File:Bay_Front_Generating_Station_-_Ashland,_Wisconsin.jpg)
+- Xcel Energy, 790 Buchanan, Amarillo, TX: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [Xcel Energy, 790 Buchanan, Amarillo, TX 2024-03-16.jpg](https://commons.wikimedia.org/wiki/File:Xcel_Energy,_790_Buchanan,_Amarillo,_TX_2024-03-16.jpg)
+- Denver Steam Plant, Xcel Energy, 2006: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [Denver Steam Plant, Xcel Energy, 2006.jpg](https://commons.wikimedia.org/wiki/File:Denver_Steam_Plant,_Xcel_Energy,_2006.jpg)
+- Xcel Energy Center Entrance: Tony Webster, CC BY-SA 4.0, via Wikimedia Commons. [Xcel Energy Center Entrance 15809370042.jpg](https://commons.wikimedia.org/wiki/File:Xcel_Energy_Center_Entrance_15809370042.jpg)
+- Xcel Energy Center: Tony Webster from Portland, Oregon, United States, CC BY 2.0, via Wikimedia Commons. [Xcel Energy Center (15187836344).jpg](https://commons.wikimedia.org/wiki/File:Xcel_Energy_Center_(15187836344).jpg)
+
+## XPeng (XPEV)
+
+- SZ 深圳 Shenzhen 龍華 Longhua Rainbow Shopping Mall shop 小鵬 car showroom May 2023 Px3 01: Mintzeqlaz 0519, CC BY-SA 4.0, via Wikimedia Commons. [SZ 深圳 Shenzhen 龍華 Longhua Rainbow Shopping Mall shop 小鵬 car showroom May 2023 Px3 01.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E8%8F%AF_Longhua_Rainbow_Shopping_Mall_shop_%E5%B0%8F%E9%B5%AC_car_showroom_May_2023_Px3_01.jpg)
+- He Xiaopeng, XPeng CEO (per Wikidata): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [XPeng, IAA Summit 2025, Munich (20250908-P1049620).jpg](https://commons.wikimedia.org/wiki/File:XPeng,_IAA_Summit_2025,_Munich_(20250908-P1049620).jpg)
+- SZ 深圳 Shenzhen 福田 Futian 彩田路 Caitian Road 深業上城 UpperHills Shopping mall car roadshow November 2023 R12S 05: Husyewl Lmsiuyu RAUOM, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 福田 Futian 彩田路 Caitian Road 深業上城 UpperHills Shopping mall car roadshow November 2023 R12S 05.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E5%BD%A9%E7%94%B0%E8%B7%AF_Caitian_Road_%E6%B7%B1%E6%A5%AD%E4%B8%8A%E5%9F%8E_UpperHills_Shopping_mall_car_roadshow_November_2023_R12S_05.jpg)
+- SZ 深圳 Shenzhen 福田 Futian 京基濱河時代商場 KK One Mall shop car showroom June 2024 R12S 01: BISLTAIO Tosmacia, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 福田 Futian 京基濱河時代商場 KK One Mall shop car showroom June 2024 R12S 01.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E4%BA%AC%E5%9F%BA%E6%BF%B1%E6%B2%B3%E6%99%82%E4%BB%A3%E5%95%86%E5%A0%B4_KK_One_Mall_shop_car_showroom_June_2024_R12S_01.jpg)
+- GD 廣東 Guangdong 東莞 Dongguan mall 萬達華府 Wanda Huafu near Ding Sheng Life Square March 2024 R12S 105: Lausum Guangxina, CC0, via Wikimedia Commons. [GD 廣東 Guangdong 東莞 Dongguan mall 萬達華府 Wanda Huafu near Ding Sheng Life Square March 2024 R12S 105.jpg](https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%9D%B1%E8%8E%9E_Dongguan_mall_%E8%90%AC%E9%81%94%E8%8F%AF%E5%BA%9C_Wanda_Huafu_near_Ding_Sheng_Life_Square_March_2024_R12S_105.jpg)
+- SZ 深圳 Shenzhen 龍崗 Longgang 星河 Galaxy Coco Park mall Xpeng car showroom May 2024 R12S 01: Guw Foiursanm Longum, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 龍崗 Longgang 星河 Galaxy Coco Park mall Xpeng car showroom May 2024 R12S 01.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E5%B4%97_Longgang_%E6%98%9F%E6%B2%B3_Galaxy_Coco_Park_mall_Xpeng_car_showroom_May_2024_R12S_01.jpg)
+- XPeng Mona M03 002: JustAnotherCarDesigner, CC0, via Wikimedia Commons. [XPeng Mona M03 002.jpg](https://commons.wikimedia.org/wiki/File:XPeng_Mona_M03_002.jpg)
+- XPeng (XPeng at Auto Guangzhou 2024): JustAnotherCarDesigner, CC0, via Wikimedia Commons. [XPeng P7+ 001.jpg](https://commons.wikimedia.org/wiki/File:XPeng_P7%2B_001.jpg)
+- SZ 深圳 Shenzhen 南山 Nanshan 益田假日广场 Yitian Holiday Plaza 商場 Mall 小鵬小車 Xpeng Motors showroom August 2023 Px3 01: Joahsoam Hauo Mingea, CC BY-SA 4.0, via Wikimedia Commons. [SZ 深圳 Shenzhen 南山 Nanshan 益田假日广场 Yitian Holiday Plaza 商場 Mall 小鵬小車 Xpeng Motors showroom August 2023 Px3 01.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%8D%97%E5%B1%B1_Nanshan_%E7%9B%8A%E7%94%B0%E5%81%87%E6%97%A5%E5%B9%BF%E5%9C%BA_Yitian_Holiday_Plaza_%E5%95%86%E5%A0%B4_Mall_%E5%B0%8F%E9%B5%AC%E5%B0%8F%E8%BB%8A_Xpeng_Motors_showroom_August_2023_Px3_01.jpg)
+- 2025 International Automotive & Supply Chain Expo (Hong Kong) 14-06-2025: LN9267, CC BY-SA 4.0, via Wikimedia Commons. [2025 International Automotive & Supply Chain Expo (Hong Kong) 14-06-2025(16).jpg](https://commons.wikimedia.org/wiki/File:2025_International_Automotive_%26_Supply_Chain_Expo_(Hong_Kong)_14-06-2025(16).jpg)
+
+## Xylem Inc. (XYL)
+
+- Xylem factory in Lindås.: Bernt Fransson, CC BY-SA 4.0, via Wikimedia Commons. [Xylem 04.jpg](https://commons.wikimedia.org/wiki/File:Xylem_04.jpg)
+- Matthew Pine, Xylem Inc. CEO (per Wikidata): Michael Campanella, CC BY 4.0, via Wikimedia Commons. [Matthew Pine (P-070311-00-20) (cropped).jpg](https://commons.wikimedia.org/wiki/File:Matthew_Pine_(P-070311-00-20)_(cropped).jpg)
+- Visit of Jessika Roswall, European Commissioner, to Sweden (P- -00-17): Michael Campanella, CC BY 4.0, via Wikimedia Commons. [Visit of Jessika Roswall, European Commissioner, to Sweden (P-070311-00-17).jpg](https://commons.wikimedia.org/wiki/File:Visit_of_Jessika_Roswall,_European_Commissioner,_to_Sweden_(P-070311-00-17).jpg)
+- Bundes khd uebung lentia ff steyregg 018: Pressestelle BFK Urfahr-Umgebung, CC BY 2.0, via Wikimedia Commons. [Bundes khd uebung lentia ff steyregg 018 (48848654778).jpg](https://commons.wikimedia.org/wiki/File:Bundes_khd_uebung_lentia_ff_steyregg_018_(48848654778).jpg)
+- Xylem,Lindås 004: Bernt Fransson, CC BY-SA 4.0, via Wikimedia Commons. [Xylem,Lindås 004.jpg](https://commons.wikimedia.org/wiki/File:Xylem,Lind%C3%A5s_004.jpg)
+- Flygt pump robotsilo: Unknown author Unknown author, CC0, via Wikimedia Commons. [Flygt pump robotsilo.jpg](https://commons.wikimedia.org/wiki/File:Flygt_pump_robotsilo.jpg)
+- Tópark Straße 9, 2024 Törökbálint 8: Globetrotter19, CC BY-SA 4.0, via Wikimedia Commons. [Tópark Straße 9, 2024 Törökbálint 8.jpg](https://commons.wikimedia.org/wiki/File:T%C3%B3park_Stra%C3%9Fe_9,_2024_T%C3%B6r%C3%B6kb%C3%A1lint_8.jpg)
+
+## Yum! Brands (YUM)
+
+- A&W in Senayan MRT Station: VulcanSphere, CC BY 4.0, via Wikimedia Commons. [A&W in Senayan MRT Station.jpg](https://commons.wikimedia.org/wiki/File:A%26W_in_Senayan_MRT_Station.jpg)
+- A&W chocolate sundae waffle closeup malaysia: Vincent60030, CC BY-SA 4.0, via Wikimedia Commons. [A&W chocolate sundae waffle closeup malaysia.jpg](https://commons.wikimedia.org/wiki/File:A%26W_chocolate_sundae_waffle_closeup_malaysia.jpg)
+- KFC Yum! Center 052: Jwhalin, public domain, via Wikimedia Commons. [KFC Yum! Center 052.JPG](https://commons.wikimedia.org/wiki/File:KFC_Yum!_Center_052.JPG)
+- Louisville waterfront arena: local louisville, CC BY 2.0, via Wikimedia Commons. [Louisville waterfront arena.jpg](https://commons.wikimedia.org/wiki/File:Louisville_waterfront_arena.jpg)
+
+## Zebra Technologies (ZBRA)
+
+- Zebra Technologies: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Zebra TC-56 (IMG 0339).jpg](https://commons.wikimedia.org/wiki/File:Zebra_TC-56_(IMG_0339).jpg)
+- K-Scan scanner in Kaufland, Tomaszów Mazowiecki, Poland: WrS.tm.pl, public domain, via Wikimedia Commons. [20260103 201940 K-Scan scanner in Kaufland, Tomaszów Mazowiecki, Poland.jpg](https://commons.wikimedia.org/wiki/File:20260103_201940_K-Scan_scanner_in_Kaufland,_Tomasz%C3%B3w_Mazowiecki,_Poland.jpg)
+- Brand-3op-wikipedia-image: HaleyZebra, CC BY-SA 4.0, via Wikimedia Commons. [Brand-3op-wikipedia-image.jpg](https://commons.wikimedia.org/wiki/File:Brand-3op-wikipedia-image.jpg)
+- Zebra LP 2824 Plus Printer: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Zebra LP 2824 Plus Printer.jpg](https://commons.wikimedia.org/wiki/File:Zebra_LP_2824_Plus_Printer.jpg)
+- Zebra Technologies Heerenveen-1: Lars Curfs ( Grashoofd ), CC BY-SA 3.0 nl, via Wikimedia Commons. [Zebra Technologies Heerenveen-1.jpg](https://commons.wikimedia.org/wiki/File:Zebra_Technologies_Heerenveen-1.jpg)
+- 3OP Zebra Headquarters: HaleyZebra, CC BY-SA 4.0, via Wikimedia Commons. [3OP Zebra Headquarters.jpg](https://commons.wikimedia.org/wiki/File:3OP_Zebra_Headquarters.jpg)
+
+## Zoom (ZM)
+
+- Zoom headquarters on Almaden Boulevard in San Jose, California. Photographed on June 21, 2020 by user Coolcaesar.: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Zoomheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Zoomheadquarters.jpg)
+- Eric S. Yuan, Zoom CEO (per Wikidata): TechCrunch, CC BY 4.0, via Wikimedia Commons. [Eric Yuan 2025 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Eric_Yuan_2025_(cropped).jpg)
+- Fitness girl using laptop for online yoga lesson: Shixart1985, CC BY 2.0, via Wikimedia Commons. [Fitness girl using laptop for online yoga lesson.jpg](https://commons.wikimedia.org/wiki/File:Fitness_girl_using_laptop_for_online_yoga_lesson.jpg)
+- 2020-06 02 Zoom COVID-19 Church service sign, Gimingham, Norfolk: Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true, CC BY-SA 4.0, via Wikimedia Commons. [-2020-06 02 Zoom COVID-19 Church service sign, Gimingham, Norfolk.JPG](https://commons.wikimedia.org/wiki/File:-2020-06_02_Zoom_COVID-19_Church_service_sign,_Gimingham,_Norfolk.JPG)
+- Zoom HQ, Downtown San Jose ( ): Cristiano Tomás, CC BY-SA 4.0, via Wikimedia Commons. [Zoom HQ, Downtown San Jose (cropped).jpg](https://commons.wikimedia.org/wiki/File:Zoom_HQ,_Downtown_San_Jose_(cropped).jpg)
+
 ## Technology sector (sector-tech)
 
 - 139 Server Room 01: Indrajit Das, CC BY-SA 3.0, via Wikimedia Commons. [139 Server Room 01.jpg](https://commons.wikimedia.org/wiki/File:139_Server_Room_01.jpg)

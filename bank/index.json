@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-04",
- "photos": 2246,
+ "photos": 3700,
  "subjects": [
   {
    "id": "MMM",
@@ -4043,6 +4043,3315 @@
    "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LDOS.json",
    "sector": "sector-industrials"
+  },
+  {
+   "id": "LEN",
+   "kind": "company",
+   "name": "Lennar",
+   "tickers": [
+    "LEN"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LEN.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "LII",
+   "kind": "company",
+   "name": "Lennox International",
+   "tickers": [
+    "LII"
+   ],
+   "aliases": [],
+   "photos": 4,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LII.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "LI",
+   "kind": "company",
+   "name": "Li Auto",
+   "tickers": [
+    "LI"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LI.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "LLY",
+   "kind": "company",
+   "name": "Lilly (Eli)",
+   "tickers": [
+    "LLY"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LLY.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "LIN",
+   "kind": "company",
+   "name": "Linde plc",
+   "tickers": [
+    "LIN"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LIN.json",
+   "sector": "sector-materials"
+  },
+  {
+   "id": "LYV",
+   "kind": "company",
+   "name": "Live Nation Entertainment",
+   "tickers": [
+    "LYV"
+   ],
+   "aliases": [],
+   "photos": 4,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LYV.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "LMT",
+   "kind": "company",
+   "name": "Lockheed Martin",
+   "tickers": [
+    "LMT"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LMT.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "L",
+   "kind": "company",
+   "name": "Loews Corporation",
+   "tickers": [
+    "L"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/L.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "LOW",
+   "kind": "company",
+   "name": "Lowe's",
+   "tickers": [
+    "LOW"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LOW.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "LCID",
+   "kind": "company",
+   "name": "Lucid Motors",
+   "tickers": [
+    "LCID"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LCID.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "LULU",
+   "kind": "company",
+   "name": "Lululemon Athletica",
+   "tickers": [
+    "LULU"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LULU.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "LITE",
+   "kind": "company",
+   "name": "Lumentum",
+   "tickers": [
+    "LITE"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LITE.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "LYFT",
+   "kind": "company",
+   "name": "Lyft",
+   "tickers": [
+    "LYFT"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LYFT.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "LYB",
+   "kind": "company",
+   "name": "LyondellBasell",
+   "tickers": [
+    "LYB"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LYB.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "MTB",
+   "kind": "company",
+   "name": "M&T Bank",
+   "tickers": [
+    "MTB"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MTB.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "MPC",
+   "kind": "company",
+   "name": "Marathon Petroleum",
+   "tickers": [
+    "MPC"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MPC.json",
+   "sector": "sector-energy",
+   "fill_from": "sector-energy"
+  },
+  {
+   "id": "MAR",
+   "kind": "company",
+   "name": "Marriott International",
+   "tickers": [
+    "MAR"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MAR.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "MRSH",
+   "kind": "company",
+   "name": "Marsh McLennan",
+   "tickers": [
+    "MRSH"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MRSH.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "MLM",
+   "kind": "company",
+   "name": "Martin Marietta Materials",
+   "tickers": [
+    "MLM"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MLM.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "MRVL",
+   "kind": "company",
+   "name": "Marvell Technology",
+   "tickers": [
+    "MRVL"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MRVL.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "MAS",
+   "kind": "company",
+   "name": "Masco",
+   "tickers": [
+    "MAS"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MAS.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "MA",
+   "kind": "company",
+   "name": "Mastercard",
+   "tickers": [
+    "MA"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MA.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "MKC",
+   "kind": "company",
+   "name": "McCormick & Company",
+   "tickers": [
+    "MKC"
+   ],
+   "aliases": [],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MKC.json",
+   "sector": "sector-staples",
+   "fill_from": "sector-staples"
+  },
+  {
+   "id": "MCD",
+   "kind": "company",
+   "name": "McDonald's",
+   "tickers": [
+    "MCD"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MCD.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "MCK",
+   "kind": "company",
+   "name": "McKesson",
+   "tickers": [
+    "MCK"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MCK.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "MDT",
+   "kind": "company",
+   "name": "Medtronic",
+   "tickers": [
+    "MDT"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MDT.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "MELI",
+   "kind": "company",
+   "name": "MercadoLibre",
+   "tickers": [
+    "MELI"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MELI.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "MRK",
+   "kind": "company",
+   "name": "Merck & Co.",
+   "tickers": [
+    "MRK"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MRK.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "META",
+   "kind": "company",
+   "name": "Meta Platforms",
+   "tickers": [
+    "META"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/META.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "MET",
+   "kind": "company",
+   "name": "MetLife",
+   "tickers": [
+    "MET"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MET.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "MTD",
+   "kind": "company",
+   "name": "Mettler Toledo",
+   "tickers": [
+    "MTD"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MTD.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "MGM",
+   "kind": "company",
+   "name": "MGM Resorts",
+   "tickers": [
+    "MGM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MGM.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "MCHP",
+   "kind": "company",
+   "name": "Microchip Technology",
+   "tickers": [
+    "MCHP"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MCHP.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "MU",
+   "kind": "company",
+   "name": "Micron Technology",
+   "tickers": [
+    "MU"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MU.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "MSFT",
+   "kind": "company",
+   "name": "Microsoft",
+   "tickers": [
+    "MSFT"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MSFT.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "MAA",
+   "kind": "company",
+   "name": "Mid-America Apartment Communities",
+   "tickers": [
+    "MAA"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MAA.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "MRNA",
+   "kind": "company",
+   "name": "Moderna",
+   "tickers": [
+    "MRNA"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MRNA.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "MDLZ",
+   "kind": "company",
+   "name": "Mondelez International",
+   "tickers": [
+    "MDLZ"
+   ],
+   "aliases": [],
+   "photos": 4,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MDLZ.json",
+   "sector": "sector-staples",
+   "fill_from": "sector-staples"
+  },
+  {
+   "id": "MDB",
+   "kind": "company",
+   "name": "MongoDB",
+   "tickers": [
+    "MDB"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MDB.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "MPWR",
+   "kind": "company",
+   "name": "Monolithic Power Systems",
+   "tickers": [
+    "MPWR"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MPWR.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "MNST",
+   "kind": "company",
+   "name": "Monster Beverage",
+   "tickers": [
+    "MNST"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MNST.json",
+   "sector": "sector-staples",
+   "fill_from": "sector-staples"
+  },
+  {
+   "id": "MCO",
+   "kind": "company",
+   "name": "Moody's Corporation",
+   "tickers": [
+    "MCO"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MCO.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "MS",
+   "kind": "company",
+   "name": "Morgan Stanley",
+   "tickers": [
+    "MS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MS.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "MOS",
+   "kind": "company",
+   "name": "Mosaic Company (The)",
+   "tickers": [
+    "MOS"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MOS.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "MSI",
+   "kind": "company",
+   "name": "Motorola Solutions",
+   "tickers": [
+    "MSI"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MSI.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "MSCI",
+   "kind": "company",
+   "name": "MSCI",
+   "tickers": [
+    "MSCI"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MSCI.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "NDAQ",
+   "kind": "company",
+   "name": "Nasdaq, Inc.",
+   "tickers": [
+    "NDAQ"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NDAQ.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "NTAP",
+   "kind": "company",
+   "name": "NetApp",
+   "tickers": [
+    "NTAP"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NTAP.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "NFLX",
+   "kind": "company",
+   "name": "Netflix",
+   "tickers": [
+    "NFLX"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NFLX.json",
+   "sector": "sector-communication"
+  },
+  {
+   "id": "NEM",
+   "kind": "company",
+   "name": "Newmont",
+   "tickers": [
+    "NEM"
+   ],
+   "aliases": [],
+   "photos": 6,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NEM.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "NWSA",
+   "kind": "company",
+   "name": "News Corp",
+   "tickers": [
+    "NWSA",
+    "NWS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NWSA.json",
+   "sector": "sector-communication"
+  },
+  {
+   "id": "NEE",
+   "kind": "company",
+   "name": "NextEra Energy",
+   "tickers": [
+    "NEE"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NEE.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "NKE",
+   "kind": "company",
+   "name": "Nike, Inc.",
+   "tickers": [
+    "NKE"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NKE.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "NIO",
+   "kind": "company",
+   "name": "Nio",
+   "tickers": [
+    "NIO"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NIO.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "NI",
+   "kind": "company",
+   "name": "NiSource",
+   "tickers": [
+    "NI"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NI.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "NDSN",
+   "kind": "company",
+   "name": "Nordson Corporation",
+   "tickers": [
+    "NDSN"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NDSN.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "NSC",
+   "kind": "company",
+   "name": "Norfolk Southern",
+   "tickers": [
+    "NSC"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NSC.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "NTRS",
+   "kind": "company",
+   "name": "Northern Trust",
+   "tickers": [
+    "NTRS"
+   ],
+   "aliases": [],
+   "photos": 6,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NTRS.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "NOC",
+   "kind": "company",
+   "name": "Northrop Grumman",
+   "tickers": [
+    "NOC"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NOC.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "NCLH",
+   "kind": "company",
+   "name": "Norwegian Cruise Line Holdings",
+   "tickers": [
+    "NCLH"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NCLH.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "NVS",
+   "kind": "company",
+   "name": "Novartis",
+   "tickers": [
+    "NVS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NVS.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "NVO",
+   "kind": "company",
+   "name": "Novo Nordisk",
+   "tickers": [
+    "NVO"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NVO.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "NRG",
+   "kind": "company",
+   "name": "NRG Energy",
+   "tickers": [
+    "NRG"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NRG.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "NU",
+   "kind": "company",
+   "name": "Nubank",
+   "tickers": [
+    "NU"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NU.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "NUE",
+   "kind": "company",
+   "name": "Nucor",
+   "tickers": [
+    "NUE"
+   ],
+   "aliases": [],
+   "photos": 4,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NUE.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "SMR",
+   "kind": "company",
+   "name": "NuScale Power",
+   "tickers": [
+    "SMR"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SMR.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "NVDA",
+   "kind": "company",
+   "name": "Nvidia",
+   "tickers": [
+    "NVDA"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NVDA.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "NVR",
+   "kind": "company",
+   "name": "NVR, Inc.",
+   "tickers": [
+    "NVR"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NVR.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "NXPI",
+   "kind": "company",
+   "name": "NXP Semiconductors",
+   "tickers": [
+    "NXPI"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NXPI.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "ORLY",
+   "kind": "company",
+   "name": "O'Reilly Automotive",
+   "tickers": [
+    "ORLY"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ORLY.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "OXY",
+   "kind": "company",
+   "name": "Occidental Petroleum",
+   "tickers": [
+    "OXY"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/OXY.json",
+   "sector": "sector-energy",
+   "fill_from": "sector-energy"
+  },
+  {
+   "id": "OKLO",
+   "kind": "company",
+   "name": "Oklo",
+   "tickers": [
+    "OKLO"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/OKLO.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "ODFL",
+   "kind": "company",
+   "name": "Old Dominion",
+   "tickers": [
+    "ODFL"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ODFL.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "OMC",
+   "kind": "company",
+   "name": "Omnicom Group",
+   "tickers": [
+    "OMC"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/OMC.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "ONON",
+   "kind": "company",
+   "name": "On",
+   "tickers": [
+    "ONON"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ONON.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "ON",
+   "kind": "company",
+   "name": "ON Semiconductor",
+   "tickers": [
+    "ON"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ON.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "OKE",
+   "kind": "company",
+   "name": "Oneok",
+   "tickers": [
+    "OKE"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/OKE.json",
+   "sector": "sector-energy",
+   "fill_from": "sector-energy"
+  },
+  {
+   "id": "ORCL",
+   "kind": "company",
+   "name": "Oracle Corporation",
+   "tickers": [
+    "ORCL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ORCL.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "OTIS",
+   "kind": "company",
+   "name": "Otis Worldwide",
+   "tickers": [
+    "OTIS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/OTIS.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "PCAR",
+   "kind": "company",
+   "name": "Paccar",
+   "tickers": [
+    "PCAR"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PCAR.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "PKG",
+   "kind": "company",
+   "name": "Packaging Corporation of America",
+   "tickers": [
+    "PKG"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PKG.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "PLTR",
+   "kind": "company",
+   "name": "Palantir Technologies",
+   "tickers": [
+    "PLTR"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PLTR.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "PANW",
+   "kind": "company",
+   "name": "Palo Alto Networks",
+   "tickers": [
+    "PANW"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PANW.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "PH",
+   "kind": "company",
+   "name": "Parker Hannifin",
+   "tickers": [
+    "PH"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PH.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "PAYX",
+   "kind": "company",
+   "name": "Paychex",
+   "tickers": [
+    "PAYX"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PAYX.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "PYPL",
+   "kind": "company",
+   "name": "PayPal",
+   "tickers": [
+    "PYPL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PYPL.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "PDD",
+   "kind": "company",
+   "name": "PDD Holdings (Temu)",
+   "tickers": [
+    "PDD"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PDD.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "PNR",
+   "kind": "company",
+   "name": "Pentair",
+   "tickers": [
+    "PNR"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PNR.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "PEP",
+   "kind": "company",
+   "name": "PepsiCo",
+   "tickers": [
+    "PEP"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PEP.json",
+   "sector": "sector-staples"
+  },
+  {
+   "id": "PBR",
+   "kind": "company",
+   "name": "Petrobras",
+   "tickers": [
+    "PBR"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PBR.json",
+   "sector": "sector-energy"
+  },
+  {
+   "id": "PFE",
+   "kind": "company",
+   "name": "Pfizer",
+   "tickers": [
+    "PFE"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PFE.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "PCG",
+   "kind": "company",
+   "name": "PG&E Corporation",
+   "tickers": [
+    "PCG"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PCG.json",
+   "sector": "sector-utilities"
+  },
+  {
+   "id": "PM",
+   "kind": "company",
+   "name": "Philip Morris International",
+   "tickers": [
+    "PM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PM.json",
+   "sector": "sector-staples"
+  },
+  {
+   "id": "PSX",
+   "kind": "company",
+   "name": "Phillips 66",
+   "tickers": [
+    "PSX"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PSX.json",
+   "sector": "sector-energy"
+  },
+  {
+   "id": "PNW",
+   "kind": "company",
+   "name": "Pinnacle West Capital",
+   "tickers": [
+    "PNW"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PNW.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "PINS",
+   "kind": "company",
+   "name": "Pinterest",
+   "tickers": [
+    "PINS"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PINS.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "PNC",
+   "kind": "company",
+   "name": "PNC Financial Services",
+   "tickers": [
+    "PNC"
+   ],
+   "aliases": [],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PNC.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "PPG",
+   "kind": "company",
+   "name": "PPG Industries",
+   "tickers": [
+    "PPG"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PPG.json",
+   "sector": "sector-materials"
+  },
+  {
+   "id": "PPL",
+   "kind": "company",
+   "name": "PPL Corporation",
+   "tickers": [
+    "PPL"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PPL.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "PFG",
+   "kind": "company",
+   "name": "Principal Financial Group",
+   "tickers": [
+    "PFG"
+   ],
+   "aliases": [],
+   "photos": 4,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PFG.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "PG",
+   "kind": "company",
+   "name": "Procter & Gamble",
+   "tickers": [
+    "PG"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PG.json",
+   "sector": "sector-staples"
+  },
+  {
+   "id": "PGR",
+   "kind": "company",
+   "name": "Progressive Corporation",
+   "tickers": [
+    "PGR"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PGR.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "PLD",
+   "kind": "company",
+   "name": "Prologis",
+   "tickers": [
+    "PLD"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PLD.json",
+   "sector": "sector-real-estate"
+  },
+  {
+   "id": "PRU",
+   "kind": "company",
+   "name": "Prudential Financial",
+   "tickers": [
+    "PRU"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PRU.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "PTC",
+   "kind": "company",
+   "name": "PTC Inc.",
+   "tickers": [
+    "PTC"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PTC.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "PEG",
+   "kind": "company",
+   "name": "Public Service Enterprise Group",
+   "tickers": [
+    "PEG"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PEG.json",
+   "sector": "sector-utilities"
+  },
+  {
+   "id": "PSA",
+   "kind": "company",
+   "name": "Public Storage",
+   "tickers": [
+    "PSA"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PSA.json",
+   "sector": "sector-real-estate"
+  },
+  {
+   "id": "PHM",
+   "kind": "company",
+   "name": "PulteGroup",
+   "tickers": [
+    "PHM"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PHM.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "Q",
+   "kind": "company",
+   "name": "Qnity Electronics",
+   "tickers": [
+    "Q"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/Q.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "QCOM",
+   "kind": "company",
+   "name": "Qualcomm",
+   "tickers": [
+    "QCOM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/QCOM.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "PWR",
+   "kind": "company",
+   "name": "Quanta Services",
+   "tickers": [
+    "PWR"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PWR.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "DGX",
+   "kind": "company",
+   "name": "Quest Diagnostics",
+   "tickers": [
+    "DGX"
+   ],
+   "aliases": [],
+   "photos": 8,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/DGX.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "RL",
+   "kind": "company",
+   "name": "Ralph Lauren Corporation",
+   "tickers": [
+    "RL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RL.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "RJF",
+   "kind": "company",
+   "name": "Raymond James Financial",
+   "tickers": [
+    "RJF"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RJF.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "O",
+   "kind": "company",
+   "name": "Realty Income",
+   "tickers": [
+    "O"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/O.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "RDDT",
+   "kind": "company",
+   "name": "Reddit",
+   "tickers": [
+    "RDDT"
+   ],
+   "aliases": [],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RDDT.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "REG",
+   "kind": "company",
+   "name": "Regency Centers",
+   "tickers": [
+    "REG"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/REG.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "REGN",
+   "kind": "company",
+   "name": "Regeneron Pharmaceuticals",
+   "tickers": [
+    "REGN"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/REGN.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "RF",
+   "kind": "company",
+   "name": "Regions Financial Corporation",
+   "tickers": [
+    "RF"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RF.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "RSG",
+   "kind": "company",
+   "name": "Republic Services",
+   "tickers": [
+    "RSG"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RSG.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "RMD",
+   "kind": "company",
+   "name": "ResMed",
+   "tickers": [
+    "RMD"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RMD.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "RVTY",
+   "kind": "company",
+   "name": "Revvity",
+   "tickers": [
+    "RVTY"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RVTY.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "RGTI",
+   "kind": "company",
+   "name": "Rigetti Computing",
+   "tickers": [
+    "RGTI"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RGTI.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "RIO",
+   "kind": "company",
+   "name": "Rio Tinto",
+   "tickers": [
+    "RIO"
+   ],
+   "aliases": [],
+   "photos": 4,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RIO.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "RIVN",
+   "kind": "company",
+   "name": "Rivian",
+   "tickers": [
+    "RIVN"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RIVN.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "HOOD",
+   "kind": "company",
+   "name": "Robinhood Markets",
+   "tickers": [
+    "HOOD"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HOOD.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "RBLX",
+   "kind": "company",
+   "name": "Roblox",
+   "tickers": [
+    "RBLX"
+   ],
+   "aliases": [],
+   "photos": 8,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RBLX.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "RKLB",
+   "kind": "company",
+   "name": "Rocket Lab",
+   "tickers": [
+    "RKLB"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RKLB.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "ROK",
+   "kind": "company",
+   "name": "Rockwell Automation",
+   "tickers": [
+    "ROK"
+   ],
+   "aliases": [],
+   "photos": 6,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ROK.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "ROKU",
+   "kind": "company",
+   "name": "Roku",
+   "tickers": [
+    "ROKU"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ROKU.json",
+   "sector": "sector-communication"
+  },
+  {
+   "id": "ROL",
+   "kind": "company",
+   "name": "Rollins, Inc.",
+   "tickers": [
+    "ROL"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ROL.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "ROP",
+   "kind": "company",
+   "name": "Roper Technologies",
+   "tickers": [
+    "ROP"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ROP.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "ROST",
+   "kind": "company",
+   "name": "Ross Stores",
+   "tickers": [
+    "ROST"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ROST.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "RY",
+   "kind": "company",
+   "name": "Royal Bank of Canada",
+   "tickers": [
+    "RY"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RY.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "RCL",
+   "kind": "company",
+   "name": "Royal Caribbean Group",
+   "tickers": [
+    "RCL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RCL.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "RTX",
+   "kind": "company",
+   "name": "RTX Corporation",
+   "tickers": [
+    "RTX"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RTX.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "SPGI",
+   "kind": "company",
+   "name": "S&P Global",
+   "tickers": [
+    "SPGI"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SPGI.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "CRM",
+   "kind": "company",
+   "name": "Salesforce",
+   "tickers": [
+    "CRM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/CRM.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "SNDK",
+   "kind": "company",
+   "name": "Sandisk",
+   "tickers": [
+    "SNDK"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SNDK.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "SNY",
+   "kind": "company",
+   "name": "Sanofi",
+   "tickers": [
+    "SNY"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SNY.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "SAP",
+   "kind": "company",
+   "name": "SAP",
+   "tickers": [
+    "SAP"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SAP.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "SBAC",
+   "kind": "company",
+   "name": "SBA Communications",
+   "tickers": [
+    "SBAC"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SBAC.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "SLB",
+   "kind": "company",
+   "name": "Schlumberger",
+   "tickers": [
+    "SLB"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SLB.json",
+   "sector": "sector-energy"
+  },
+  {
+   "id": "SE",
+   "kind": "company",
+   "name": "Sea Limited",
+   "tickers": [
+    "SE"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SE.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "STX",
+   "kind": "company",
+   "name": "Seagate Technology",
+   "tickers": [
+    "STX"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/STX.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "SRE",
+   "kind": "company",
+   "name": "Sempra",
+   "tickers": [
+    "SRE"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SRE.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "NOW",
+   "kind": "company",
+   "name": "ServiceNow",
+   "tickers": [
+    "NOW"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NOW.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "SHEL",
+   "kind": "company",
+   "name": "Shell",
+   "tickers": [
+    "SHEL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SHEL.json",
+   "sector": "sector-energy"
+  },
+  {
+   "id": "SHW",
+   "kind": "company",
+   "name": "Sherwin-Williams",
+   "tickers": [
+    "SHW"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SHW.json",
+   "sector": "sector-materials"
+  },
+  {
+   "id": "SHOP",
+   "kind": "company",
+   "name": "Shopify",
+   "tickers": [
+    "SHOP"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SHOP.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "SPG",
+   "kind": "company",
+   "name": "Simon Property Group",
+   "tickers": [
+    "SPG"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SPG.json",
+   "sector": "sector-real-estate"
+  },
+  {
+   "id": "SKYD",
+   "kind": "company",
+   "name": "Skydance",
+   "tickers": [
+    "SKYD"
+   ],
+   "aliases": [],
+   "photos": 6,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SKYD.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "SWKS",
+   "kind": "company",
+   "name": "Skyworks Solutions",
+   "tickers": [
+    "SWKS"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SWKS.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "SW",
+   "kind": "company",
+   "name": "Smurfit Westrock",
+   "tickers": [
+    "SW"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SW.json",
+   "sector": "sector-materials"
+  },
+  {
+   "id": "SNAP",
+   "kind": "company",
+   "name": "Snap Inc.",
+   "tickers": [
+    "SNAP"
+   ],
+   "aliases": [],
+   "photos": 6,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SNAP.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "SNA",
+   "kind": "company",
+   "name": "Snap-on",
+   "tickers": [
+    "SNA"
+   ],
+   "aliases": [],
+   "photos": 8,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SNA.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "SNOW",
+   "kind": "company",
+   "name": "Snowflake",
+   "tickers": [
+    "SNOW"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SNOW.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "SOFI",
+   "kind": "company",
+   "name": "SoFi",
+   "tickers": [
+    "SOFI"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SOFI.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "SOLV",
+   "kind": "company",
+   "name": "Solventum",
+   "tickers": [
+    "SOLV"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SOLV.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "SONY",
+   "kind": "company",
+   "name": "Sony",
+   "tickers": [
+    "SONY"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SONY.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "SOUN",
+   "kind": "company",
+   "name": "SoundHound AI",
+   "tickers": [
+    "SOUN"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SOUN.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "SO",
+   "kind": "company",
+   "name": "Southern Company",
+   "tickers": [
+    "SO"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SO.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "LUV",
+   "kind": "company",
+   "name": "Southwest Airlines",
+   "tickers": [
+    "LUV"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LUV.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "SPCX",
+   "kind": "company",
+   "name": "SpaceX",
+   "tickers": [
+    "SPCX"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SPCX.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "SPOT",
+   "kind": "company",
+   "name": "Spotify",
+   "tickers": [
+    "SPOT"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SPOT.json",
+   "sector": "sector-communication"
+  },
+  {
+   "id": "SWK",
+   "kind": "company",
+   "name": "Stanley Black & Decker",
+   "tickers": [
+    "SWK"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SWK.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "SBUX",
+   "kind": "company",
+   "name": "Starbucks",
+   "tickers": [
+    "SBUX"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SBUX.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "STT",
+   "kind": "company",
+   "name": "State Street Corporation",
+   "tickers": [
+    "STT"
+   ],
+   "aliases": [],
+   "photos": 8,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/STT.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "STLD",
+   "kind": "company",
+   "name": "Steel Dynamics",
+   "tickers": [
+    "STLD"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/STLD.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "STE",
+   "kind": "company",
+   "name": "Steris",
+   "tickers": [
+    "STE"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/STE.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "MSTR",
+   "kind": "company",
+   "name": "Strategy (MicroStrategy)",
+   "tickers": [
+    "MSTR"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MSTR.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "SYK",
+   "kind": "company",
+   "name": "Stryker Corporation",
+   "tickers": [
+    "SYK"
+   ],
+   "aliases": [],
+   "photos": 7,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SYK.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "SMCI",
+   "kind": "company",
+   "name": "Supermicro",
+   "tickers": [
+    "SMCI"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SMCI.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "SYF",
+   "kind": "company",
+   "name": "Synchrony Financial",
+   "tickers": [
+    "SYF"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SYF.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "SNPS",
+   "kind": "company",
+   "name": "Synopsys",
+   "tickers": [
+    "SNPS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SNPS.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "SYY",
+   "kind": "company",
+   "name": "Sysco",
+   "tickers": [
+    "SYY"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SYY.json",
+   "sector": "sector-staples"
+  },
+  {
+   "id": "TMUS",
+   "kind": "company",
+   "name": "T-Mobile US",
+   "tickers": [
+    "TMUS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TMUS.json",
+   "sector": "sector-communication"
+  },
+  {
+   "id": "TROW",
+   "kind": "company",
+   "name": "T. Rowe Price",
+   "tickers": [
+    "TROW"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TROW.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "TTWO",
+   "kind": "company",
+   "name": "Take-Two Interactive",
+   "tickers": [
+    "TTWO"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TTWO.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "TPR",
+   "kind": "company",
+   "name": "Tapestry, Inc.",
+   "tickers": [
+    "TPR"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TPR.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "TRGP",
+   "kind": "company",
+   "name": "Targa Resources",
+   "tickers": [
+    "TRGP"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TRGP.json",
+   "sector": "sector-energy",
+   "fill_from": "sector-energy"
+  },
+  {
+   "id": "TGT",
+   "kind": "company",
+   "name": "Target Corporation",
+   "tickers": [
+    "TGT"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TGT.json",
+   "sector": "sector-staples"
+  },
+  {
+   "id": "TD",
+   "kind": "company",
+   "name": "TD Bank",
+   "tickers": [
+    "TD"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TD.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "TEL",
+   "kind": "company",
+   "name": "TE Connectivity",
+   "tickers": [
+    "TEL"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TEL.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "TDY",
+   "kind": "company",
+   "name": "Teledyne Technologies",
+   "tickers": [
+    "TDY"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TDY.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "TER",
+   "kind": "company",
+   "name": "Teradyne",
+   "tickers": [
+    "TER"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TER.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "TSLA",
+   "kind": "company",
+   "name": "Tesla, Inc.",
+   "tickers": [
+    "TSLA"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TSLA.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "TXN",
+   "kind": "company",
+   "name": "Texas Instruments",
+   "tickers": [
+    "TXN"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TXN.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "TPL",
+   "kind": "company",
+   "name": "Texas Pacific Land Corporation",
+   "tickers": [
+    "TPL"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TPL.json",
+   "sector": "sector-energy",
+   "fill_from": "sector-energy"
+  },
+  {
+   "id": "TXT",
+   "kind": "company",
+   "name": "Textron",
+   "tickers": [
+    "TXT"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TXT.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "TMO",
+   "kind": "company",
+   "name": "Thermo Fisher Scientific",
+   "tickers": [
+    "TMO"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TMO.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "TJX",
+   "kind": "company",
+   "name": "TJX Companies",
+   "tickers": [
+    "TJX"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TJX.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "TKO",
+   "kind": "company",
+   "name": "TKO Group Holdings",
+   "tickers": [
+    "TKO"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TKO.json",
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
+  },
+  {
+   "id": "TTE",
+   "kind": "company",
+   "name": "TotalEnergies",
+   "tickers": [
+    "TTE"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TTE.json",
+   "sector": "sector-energy"
+  },
+  {
+   "id": "TM",
+   "kind": "company",
+   "name": "Toyota",
+   "tickers": [
+    "TM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TM.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "TSCO",
+   "kind": "company",
+   "name": "Tractor Supply",
+   "tickers": [
+    "TSCO"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TSCO.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "TT",
+   "kind": "company",
+   "name": "Trane Technologies",
+   "tickers": [
+    "TT"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TT.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "TDG",
+   "kind": "company",
+   "name": "TransDigm Group",
+   "tickers": [
+    "TDG"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TDG.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "TRV",
+   "kind": "company",
+   "name": "Travelers Companies (The)",
+   "tickers": [
+    "TRV"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TRV.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "TRMB",
+   "kind": "company",
+   "name": "Trimble Inc.",
+   "tickers": [
+    "TRMB"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TRMB.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "TFC",
+   "kind": "company",
+   "name": "Truist Financial",
+   "tickers": [
+    "TFC"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TFC.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "TSM",
+   "kind": "company",
+   "name": "TSMC",
+   "tickers": [
+    "TSM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TSM.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "TWLO",
+   "kind": "company",
+   "name": "Twilio",
+   "tickers": [
+    "TWLO"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TWLO.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "TYL",
+   "kind": "company",
+   "name": "Tyler Technologies",
+   "tickers": [
+    "TYL"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TYL.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "TSN",
+   "kind": "company",
+   "name": "Tyson Foods",
+   "tickers": [
+    "TSN"
+   ],
+   "aliases": [],
+   "photos": 7,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TSN.json",
+   "sector": "sector-staples",
+   "fill_from": "sector-staples"
+  },
+  {
+   "id": "USB",
+   "kind": "company",
+   "name": "U.S. Bancorp",
+   "tickers": [
+    "USB"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/USB.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "UBER",
+   "kind": "company",
+   "name": "Uber",
+   "tickers": [
+    "UBER"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UBER.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "UBS",
+   "kind": "company",
+   "name": "UBS",
+   "tickers": [
+    "UBS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UBS.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "UDR",
+   "kind": "company",
+   "name": "UDR, Inc.",
+   "tickers": [
+    "UDR"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UDR.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "PATH",
+   "kind": "company",
+   "name": "UiPath",
+   "tickers": [
+    "PATH"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PATH.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "ULTA",
+   "kind": "company",
+   "name": "Ulta Beauty",
+   "tickers": [
+    "ULTA"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ULTA.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "UL",
+   "kind": "company",
+   "name": "Unilever",
+   "tickers": [
+    "UL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UL.json",
+   "sector": "sector-staples"
+  },
+  {
+   "id": "UNP",
+   "kind": "company",
+   "name": "Union Pacific Corporation",
+   "tickers": [
+    "UNP"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UNP.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "UAL",
+   "kind": "company",
+   "name": "United Airlines Holdings",
+   "tickers": [
+    "UAL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UAL.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "UPS",
+   "kind": "company",
+   "name": "United Parcel Service",
+   "tickers": [
+    "UPS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UPS.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "URI",
+   "kind": "company",
+   "name": "United Rentals",
+   "tickers": [
+    "URI"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/URI.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "UNH",
+   "kind": "company",
+   "name": "UnitedHealth Group",
+   "tickers": [
+    "UNH"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UNH.json",
+   "sector": "sector-health"
+  },
+  {
+   "id": "U",
+   "kind": "company",
+   "name": "Unity Technologies",
+   "tickers": [
+    "U"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/U.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "UHS",
+   "kind": "company",
+   "name": "Universal Health Services",
+   "tickers": [
+    "UHS"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UHS.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "VALE",
+   "kind": "company",
+   "name": "Vale",
+   "tickers": [
+    "VALE"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VALE.json",
+   "sector": "sector-materials"
+  },
+  {
+   "id": "VLO",
+   "kind": "company",
+   "name": "Valero Energy",
+   "tickers": [
+    "VLO"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VLO.json",
+   "sector": "sector-energy",
+   "fill_from": "sector-energy"
+  },
+  {
+   "id": "VEEV",
+   "kind": "company",
+   "name": "Veeva Systems",
+   "tickers": [
+    "VEEV"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VEEV.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "VTR",
+   "kind": "company",
+   "name": "Ventas",
+   "tickers": [
+    "VTR"
+   ],
+   "aliases": [],
+   "photos": 8,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VTR.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "VLTO",
+   "kind": "company",
+   "name": "Veralto",
+   "tickers": [
+    "VLTO"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VLTO.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "VRSN",
+   "kind": "company",
+   "name": "Verisign",
+   "tickers": [
+    "VRSN"
+   ],
+   "aliases": [],
+   "photos": 6,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VRSN.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "VRSK",
+   "kind": "company",
+   "name": "Verisk Analytics",
+   "tickers": [
+    "VRSK"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VRSK.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "VZ",
+   "kind": "company",
+   "name": "Verizon",
+   "tickers": [
+    "VZ"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VZ.json",
+   "sector": "sector-communication"
+  },
+  {
+   "id": "VRTX",
+   "kind": "company",
+   "name": "Vertex Pharmaceuticals",
+   "tickers": [
+    "VRTX"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VRTX.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "VRT",
+   "kind": "company",
+   "name": "Vertiv",
+   "tickers": [
+    "VRT"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VRT.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "VTRS",
+   "kind": "company",
+   "name": "Viatris",
+   "tickers": [
+    "VTRS"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VTRS.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "VICI",
+   "kind": "company",
+   "name": "Vici Properties",
+   "tickers": [
+    "VICI"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VICI.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "V",
+   "kind": "company",
+   "name": "Visa Inc.",
+   "tickers": [
+    "V"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/V.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "VST",
+   "kind": "company",
+   "name": "Vistra Corp",
+   "tickers": [
+    "VST"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VST.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "VMRK",
+   "kind": "company",
+   "name": "Vivmark Residential",
+   "tickers": [
+    "VMRK"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VMRK.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "VMC",
+   "kind": "company",
+   "name": "Vulcan Materials Company",
+   "tickers": [
+    "VMC"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VMC.json",
+   "sector": "sector-materials",
+   "fill_from": "sector-materials"
+  },
+  {
+   "id": "VYLR",
+   "kind": "company",
+   "name": "Vylor",
+   "tickers": [
+    "VYLR"
+   ],
+   "aliases": [],
+   "photos": 6,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VYLR.json",
+   "sector": "sector-staples",
+   "fill_from": "sector-staples"
+  },
+  {
+   "id": "WRB",
+   "kind": "company",
+   "name": "W. R. Berkley Corporation",
+   "tickers": [
+    "WRB"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WRB.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "GWW",
+   "kind": "company",
+   "name": "W. W. Grainger",
+   "tickers": [
+    "GWW"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/GWW.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "WAB",
+   "kind": "company",
+   "name": "Wabtec",
+   "tickers": [
+    "WAB"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WAB.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "WMT",
+   "kind": "company",
+   "name": "Walmart",
+   "tickers": [
+    "WMT"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WMT.json",
+   "sector": "sector-staples",
+   "fill_from": "sector-staples"
+  },
+  {
+   "id": "DIS",
+   "kind": "company",
+   "name": "Walt Disney Company (The)",
+   "tickers": [
+    "DIS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/DIS.json",
+   "sector": "sector-communication"
+  },
+  {
+   "id": "WM",
+   "kind": "company",
+   "name": "Waste Management",
+   "tickers": [
+    "WM"
+   ],
+   "aliases": [],
+   "photos": 9,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WM.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "WAT",
+   "kind": "company",
+   "name": "Waters Corporation",
+   "tickers": [
+    "WAT"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WAT.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "WEC",
+   "kind": "company",
+   "name": "WEC Energy Group",
+   "tickers": [
+    "WEC"
+   ],
+   "aliases": [],
+   "photos": 4,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WEC.json",
+   "sector": "sector-utilities",
+   "fill_from": "sector-utilities"
+  },
+  {
+   "id": "WFC",
+   "kind": "company",
+   "name": "Wells Fargo",
+   "tickers": [
+    "WFC"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WFC.json",
+   "sector": "sector-financials"
+  },
+  {
+   "id": "WELL",
+   "kind": "company",
+   "name": "Welltower",
+   "tickers": [
+    "WELL"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WELL.json",
+   "sector": "sector-real-estate",
+   "fill_from": "sector-real-estate"
+  },
+  {
+   "id": "WST",
+   "kind": "company",
+   "name": "West Pharmaceutical Services",
+   "tickers": [
+    "WST"
+   ],
+   "aliases": [],
+   "photos": 2,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WST.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "WDC",
+   "kind": "company",
+   "name": "Western Digital",
+   "tickers": [
+    "WDC"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WDC.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "WY",
+   "kind": "company",
+   "name": "Weyerhaeuser",
+   "tickers": [
+    "WY"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WY.json",
+   "sector": "sector-real-estate"
+  },
+  {
+   "id": "WMB",
+   "kind": "company",
+   "name": "Williams Companies",
+   "tickers": [
+    "WMB"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WMB.json",
+   "sector": "sector-energy",
+   "fill_from": "sector-energy"
+  },
+  {
+   "id": "WSM",
+   "kind": "company",
+   "name": "Williams-Sonoma, Inc.",
+   "tickers": [
+    "WSM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WSM.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "WTW",
+   "kind": "company",
+   "name": "Willis Towers Watson",
+   "tickers": [
+    "WTW"
+   ],
+   "aliases": [],
+   "photos": 3,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WTW.json",
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
+  },
+  {
+   "id": "WDAY",
+   "kind": "company",
+   "name": "Workday, Inc.",
+   "tickers": [
+    "WDAY"
+   ],
+   "aliases": [],
+   "photos": 8,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WDAY.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "WYNN",
+   "kind": "company",
+   "name": "Wynn Resorts",
+   "tickers": [
+    "WYNN"
+   ],
+   "aliases": [],
+   "photos": 1,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WYNN.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "XEL",
+   "kind": "company",
+   "name": "Xcel Energy",
+   "tickers": [
+    "XEL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/XEL.json",
+   "sector": "sector-utilities"
+  },
+  {
+   "id": "XPEV",
+   "kind": "company",
+   "name": "XPeng",
+   "tickers": [
+    "XPEV"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/XPEV.json",
+   "sector": "sector-consumer-discretionary"
+  },
+  {
+   "id": "XYL",
+   "kind": "company",
+   "name": "Xylem Inc.",
+   "tickers": [
+    "XYL"
+   ],
+   "aliases": [],
+   "photos": 7,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/XYL.json",
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
+  },
+  {
+   "id": "YUM",
+   "kind": "company",
+   "name": "Yum! Brands",
+   "tickers": [
+    "YUM"
+   ],
+   "aliases": [],
+   "photos": 4,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/YUM.json",
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
+  },
+  {
+   "id": "ZBRA",
+   "kind": "company",
+   "name": "Zebra Technologies",
+   "tickers": [
+    "ZBRA"
+   ],
+   "aliases": [],
+   "photos": 6,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ZBRA.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "ZBH",
+   "kind": "company",
+   "name": "Zimmer Biomet",
+   "tickers": [
+    "ZBH"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ZBH.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "ZTS",
+   "kind": "company",
+   "name": "Zoetis",
+   "tickers": [
+    "ZTS"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ZTS.json",
+   "sector": "sector-health",
+   "fill_from": "sector-health"
+  },
+  {
+   "id": "ZM",
+   "kind": "company",
+   "name": "Zoom",
+   "tickers": [
+    "ZM"
+   ],
+   "aliases": [],
+   "photos": 5,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ZM.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
+  },
+  {
+   "id": "ZS",
+   "kind": "company",
+   "name": "Zscaler",
+   "tickers": [
+    "ZS"
+   ],
+   "aliases": [],
+   "photos": 0,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ZS.json",
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
   },
   {
    "id": "sector-tech",

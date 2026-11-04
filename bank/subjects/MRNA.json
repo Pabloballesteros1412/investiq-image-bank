@@ -1,0 +1,93 @@
+{
+ "id": "MRNA",
+ "kind": "company",
+ "name": "Moderna",
+ "tickers": [
+  "MRNA"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Moderna Headquarters, December 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Moderna_Headquarters%2C_December_2020.jpg/1920px-Moderna_Headquarters%2C_December_2020.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Moderna_Headquarters%2C_December_2020.jpg/500px-Moderna_Headquarters%2C_December_2020.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fletcher, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moderna_Headquarters,_December_2020.jpg"
+  },
+  {
+   "shows": "Stéphane Bancel, Moderna CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/NYCW_2026_-_St%C3%A9phane_Bancel_01.jpg/1920px-NYCW_2026_-_St%C3%A9phane_Bancel_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/NYCW_2026_-_St%C3%A9phane_Bancel_01.jpg/500px-NYCW_2026_-_St%C3%A9phane_Bancel_01.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Xuthoria, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:NYCW_2026_-_St%C3%A9phane_Bancel_01.jpg"
+  },
+  {
+   "shows": "Moderna Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moderna_Headquarters_%2854960816438%29.jpg/1920px-Moderna_Headquarters_%2854960816438%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moderna_Headquarters_%2854960816438%29.jpg/500px-Moderna_Headquarters_%2854960816438%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moderna_Headquarters_(54960816438).jpg"
+  },
+  {
+   "shows": "31 FW Airmen receive second Moderna COVID-19 vaccine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538675%29.jpg/1920px-31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538675%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538675%29.jpg/500px-31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538675%29.jpg",
+   "size": [
+    1920,
+    1372
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Airman 1st Class Brooke Keisler, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_(6538675).jpg"
+  },
+  {
+   "shows": "Moderna Building backyard on 10 Lutego",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Moderna_Building_backyard_on_10_Lutego.jpg/1280px-Moderna_Building_backyard_on_10_Lutego.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Moderna_Building_backyard_on_10_Lutego.jpg/500px-Moderna_Building_backyard_on_10_Lutego.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jack twister, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moderna_Building_backyard_on_10_Lutego.jpg"
+  }
+ ]
+}

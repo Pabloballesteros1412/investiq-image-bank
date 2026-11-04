@@ -1,0 +1,28 @@
+{
+ "id": "MPC",
+ "kind": "company",
+ "name": "Marathon Petroleum",
+ "tickers": [
+  "MPC"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "Marathon Petroleum Co. HQ",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marathon_Petroleum_Co._HQ.JPG/1920px-Marathon_Petroleum_Co._HQ.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Marathon_Petroleum_Co._HQ.JPG/500px-Marathon_Petroleum_Co._HQ.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The original uploader was Avanatt at English Wikipedia ., public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_Co._HQ.JPG"
+  }
+ ]
+}

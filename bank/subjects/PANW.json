@@ -1,0 +1,61 @@
+{
+ "id": "PANW",
+ "kind": "company",
+ "name": "Palo Alto Networks",
+ "tickers": [
+  "PANW"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Palo Alto Networks Headquarters South Side 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Palo_Alto_Networks_Headquarters_South_Side_2018.jpg/1920px-Palo_Alto_Networks_Headquarters_South_Side_2018.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Palo_Alto_Networks_Headquarters_South_Side_2018.jpg/500px-Palo_Alto_Networks_Headquarters_South_Side_2018.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Namaste jinx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Palo_Alto_Networks_Headquarters_South_Side_2018.jpg"
+  },
+  {
+   "shows": "Nikesh Arora, Palo Alto Networks CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nikesh_Arora%28cropped%29.jpg/1920px-Nikesh_Arora%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nikesh_Arora%28cropped%29.jpg/500px-Nikesh_Arora%28cropped%29.jpg",
+   "size": [
+    1920,
+    1689
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Nikesh_Arora.jpg : Loic Le Meur derivative work: Boseritwik, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nikesh_Arora(cropped).jpg"
+  },
+  {
+   "shows": "The Gathering 2019 - Juniper and Palo Alto equipment",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Gathering_2019_-_Juniper_and_Palo_Alto_equipment_%2846813726495%29.jpg/1920px-The_Gathering_2019_-_Juniper_and_Palo_Alto_equipment_%2846813726495%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Gathering_2019_-_Juniper_and_Palo_Alto_equipment_%2846813726495%29.jpg/500px-The_Gathering_2019_-_Juniper_and_Palo_Alto_equipment_%2846813726495%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DiFronzo, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Gathering_2019_-_Juniper_and_Palo_Alto_equipment_(46813726495).jpg"
+  }
+ ]
+}

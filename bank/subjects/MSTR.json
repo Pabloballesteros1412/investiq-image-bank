@@ -1,0 +1,61 @@
+{
+ "id": "MSTR",
+ "kind": "company",
+ "name": "Strategy (MicroStrategy)",
+ "tickers": [
+  "MSTR"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Tysons Skyline viewed from Tysons Corner Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tysons_Skyline_viewed_from_Tysons_Corner_Center.jpg/1920px-Tysons_Skyline_viewed_from_Tysons_Corner_Center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tysons_Skyline_viewed_from_Tysons_Corner_Center.jpg/500px-Tysons_Skyline_viewed_from_Tysons_Corner_Center.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Baron Maddock, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tysons_Skyline_viewed_from_Tysons_Corner_Center.jpg"
+  },
+  {
+   "shows": "Gold-coloured Bitcoin coins, macro",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bitcoin_2026.jpg/1920px-Bitcoin_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bitcoin_2026.jpg/500px-Bitcoin_2026.jpg",
+   "size": [
+    1920,
+    2021
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wald-Burger8, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bitcoin_2026.jpg"
+  },
+  {
+   "shows": "Michael Saylor 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Michael_Saylor_2022.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Michael_Saylor_2022.png/500px-Michael_Saylor_2022.png",
+   "size": [
+    1358,
+    1574
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "ReasonTV, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Michael_Saylor_2022.png"
+  }
+ ]
+}

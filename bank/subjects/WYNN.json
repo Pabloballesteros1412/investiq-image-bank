@@ -1,0 +1,28 @@
+{
+ "id": "WYNN",
+ "kind": "company",
+ "name": "Wynn Resorts",
+ "tickers": [
+  "WYNN"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Wynn Al Marjan Island Resort - Aerial View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Wynn_Al_Marjan_Island_Resort_-_Aerial_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Wynn_Al_Marjan_Island_Resort_-_Aerial_View.jpg/500px-Wynn_Al_Marjan_Island_Resort_-_Aerial_View.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wynn Official - PR Limited, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wynn_Al_Marjan_Island_Resort_-_Aerial_View.jpg"
+  }
+ ]
+}

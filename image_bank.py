@@ -217,10 +217,13 @@ def wait_for(e, attempt):
 
 
 def get_json(params, url=COMMONS_API, tries=8):
-    full = url + "?" + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2})
+    query = urllib.parse.urlencode({**params, "format": "json", "formatversion": 2})
+    # 50 long file names make an address too long for the servers (HTTP 414): send those as a form instead
+    req = (lambda: urllib.request.Request(url + "?" + query, headers=headers())) if len(query) < 4000 else \
+          (lambda: urllib.request.Request(url, data=query.encode(), headers={**headers(), "Content-Type": "application/x-www-form-urlencoded"}))
     for attempt in range(tries):
         try:
-            with urllib.request.urlopen(urllib.request.Request(full, headers=headers()), timeout=90) as r:
+            with urllib.request.urlopen(req(), timeout=90) as r:
                 return json.loads(r.read())
         except urllib.error.HTTPError as e:
             if e.code not in (429, 500, 502, 503, 504):

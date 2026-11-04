@@ -1,0 +1,44 @@
+{
+ "id": "GWW",
+ "kind": "company",
+ "name": "W. W. Grainger",
+ "tickers": [
+  "GWW"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Grainger at Mendenhall Building A, Florida State University",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grainger_at_Mendenhall_Building_A%2C_Florida_State_University.jpg/1920px-Grainger_at_Mendenhall_Building_A%2C_Florida_State_University.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grainger_at_Mendenhall_Building_A%2C_Florida_State_University.jpg/500px-Grainger_at_Mendenhall_Building_A%2C_Florida_State_University.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Grainger_at_Mendenhall_Building_A,_Florida_State_University.jpg"
+  },
+  {
+   "shows": "W W Grainger Ann Arbor Branch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/W_W_Grainger_Ann_Arbor_Branch.JPG/1920px-W_W_Grainger_Ann_Arbor_Branch.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/W_W_Grainger_Ann_Arbor_Branch.JPG/500px-W_W_Grainger_Ann_Arbor_Branch.JPG",
+   "size": [
+    1920,
+    990
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dwight Burdette, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:W_W_Grainger_Ann_Arbor_Branch.JPG"
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "id": "YUM",
+ "kind": "company",
+ "name": "Yum! Brands",
+ "tickers": [
+  "YUM"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "A&W in Senayan MRT Station",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/A%26W_in_Senayan_MRT_Station.jpg/1920px-A%26W_in_Senayan_MRT_Station.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/A%26W_in_Senayan_MRT_Station.jpg/500px-A%26W_in_Senayan_MRT_Station.jpg",
+   "size": [
+    1920,
+    1486
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "VulcanSphere, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A%26W_in_Senayan_MRT_Station.jpg"
+  },
+  {
+   "shows": "A&W chocolate sundae waffle closeup malaysia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/A%26W_chocolate_sundae_waffle_closeup_malaysia.jpg/1920px-A%26W_chocolate_sundae_waffle_closeup_malaysia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/A%26W_chocolate_sundae_waffle_closeup_malaysia.jpg/500px-A%26W_chocolate_sundae_waffle_closeup_malaysia.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Vincent60030, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A%26W_chocolate_sundae_waffle_closeup_malaysia.jpg"
+  },
+  {
+   "shows": "KFC Yum! Center 052",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KFC_Yum%21_Center_052.JPG/1920px-KFC_Yum%21_Center_052.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KFC_Yum%21_Center_052.JPG/500px-KFC_Yum%21_Center_052.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jwhalin, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:KFC_Yum!_Center_052.JPG"
+  },
+  {
+   "shows": "Louisville waterfront arena",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Louisville_waterfront_arena.jpg/1920px-Louisville_waterfront_arena.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Louisville_waterfront_arena.jpg/500px-Louisville_waterfront_arena.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "local louisville, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Louisville_waterfront_arena.jpg"
+  }
+ ]
+}

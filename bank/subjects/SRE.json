@@ -1,0 +1,93 @@
+{
+ "id": "SRE",
+ "kind": "company",
+ "name": "Sempra",
+ "tickers": [
+  "SRE"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Sempra Energy HQ San Diego",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sempra_Energy_HQ_San_Diego.jpg/1280px-Sempra_Energy_HQ_San_Diego.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sempra_Energy_HQ_San_Diego.jpg/500px-Sempra_Energy_HQ_San_Diego.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Balintawak, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sempra_Energy_HQ_San_Diego.jpg"
+  },
+  {
+   "shows": "Jeffrey W. Martin, Sempra CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/8/87/20190719201227%21Jeffrey_W._Martin_.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/8/87/20190719201227%21Jeffrey_W._Martin_.jpg",
+   "size": [
+    1920,
+    1012
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "SCM-SRE, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Jeffrey_W._Martin_.jpg"
+  },
+  {
+   "shows": "Sempra HQ 0003v2 newlogo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sempra_HQ_0003v2_newlogo.jpg/1280px-Sempra_HQ_0003v2_newlogo.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sempra_HQ_0003v2_newlogo.jpg/500px-Sempra_HQ_0003v2_newlogo.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sempra, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sempra_HQ_0003v2_newlogo.jpg"
+  },
+  {
+   "shows": "Sempra HQ 0013-2-1 newlogo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sempra_HQ_0013-2-1_%281%29_newlogo.jpg/1920px-Sempra_HQ_0013-2-1_%281%29_newlogo.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sempra_HQ_0013-2-1_%281%29_newlogo.jpg/500px-Sempra_HQ_0013-2-1_%281%29_newlogo.jpg",
+   "size": [
+    1920,
+    1406
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ben Friedl, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sempra_HQ_0013-2-1_(1)_newlogo.jpg"
+  },
+  {
+   "shows": "Sempra Energys El Dorado Combined Cycle Power Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sempra_Energys_El_Dorado_Combined_Cycle_Power_Plant.jpg/1920px-Sempra_Energys_El_Dorado_Combined_Cycle_Power_Plant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sempra_Energys_El_Dorado_Combined_Cycle_Power_Plant.jpg/500px-Sempra_Energys_El_Dorado_Combined_Cycle_Power_Plant.jpg",
+   "size": [
+    1920,
+    1343
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Doc Searls from Santa Barbara, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sempra_Energys_El_Dorado_Combined_Cycle_Power_Plant.jpg"
+  }
+ ]
+}

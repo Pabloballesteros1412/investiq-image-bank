@@ -1,0 +1,44 @@
+{
+ "id": "PH",
+ "kind": "company",
+ "name": "Parker Hannifin",
+ "tickers": [
+  "PH"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Parker Hannifin's Global Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Parker_Hannifin%27s_Global_Headquarters.jpg/1920px-Parker_Hannifin%27s_Global_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Parker_Hannifin%27s_Global_Headquarters.jpg/500px-Parker_Hannifin%27s_Global_Headquarters.jpg",
+   "size": [
+    1920,
+    1372
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Parker Hannifin from Global, United States, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Parker_Hannifin%27s_Global_Headquarters.jpg"
+  },
+  {
+   "shows": "Hauptgebäude Parker Hannifin TFDE Bielefeld",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hauptgeb%C3%A4ude_Parker_Hannifin_TFDE_Bielefeld.jpg/1920px-Hauptgeb%C3%A4ude_Parker_Hannifin_TFDE_Bielefeld.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hauptgeb%C3%A4ude_Parker_Hannifin_TFDE_Bielefeld.jpg/500px-Hauptgeb%C3%A4ude_Parker_Hannifin_TFDE_Bielefeld.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "IFy, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hauptgeb%C3%A4ude_Parker_Hannifin_TFDE_Bielefeld.jpg"
+  }
+ ]
+}

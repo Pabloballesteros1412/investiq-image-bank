@@ -1,0 +1,28 @@
+{
+ "id": "NEE",
+ "kind": "company",
+ "name": "NextEra Energy",
+ "tickers": [
+  "NEE"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "St. Lucie Nuclear Power Plant - view from Indian River",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg/1920px-St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg/500px-St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pburka, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg"
+  }
+ ]
+}

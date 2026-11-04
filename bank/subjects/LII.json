@@ -1,0 +1,76 @@
+{
+ "id": "LII",
+ "kind": "company",
+ "name": "Lennox International",
+ "tickers": [
+  "LII"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Lennox air conditioner",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AirConditionerLennox.jpg/1920px-AirConditionerLennox.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AirConditionerLennox.jpg/500px-AirConditionerLennox.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:AirConditionerLennox.jpg"
+  },
+  {
+   "shows": "Praha-Smíchov (GM-00-148)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Praha-Sm%C3%ADchov_%28GM-00-148%29.jpg/1920px-Praha-Sm%C3%ADchov_%28GM-00-148%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Praha-Sm%C3%ADchov_%28GM-00-148%29.jpg/500px-Praha-Sm%C3%ADchov_%28GM-00-148%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "GoogolManiac, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Praha-Sm%C3%ADchov_(GM-00-148).jpg"
+  },
+  {
+   "shows": "Two Firefighters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Two_Firefighters_%282495197205%29.jpg/1920px-Two_Firefighters_%282495197205%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Two_Firefighters_%282495197205%29.jpg/500px-Two_Firefighters_%282495197205%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rennett Stowe from USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Two_Firefighters_(2495197205).jpg"
+  },
+  {
+   "shows": "Lennox Merit series 13ACXN030-230 2.5 ton",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Lennox_Merit_series_13ACXN030-230_2.5_ton.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lennox_Merit_series_13ACXN030-230_2.5_ton.png/500px-Lennox_Merit_series_13ACXN030-230_2.5_ton.png",
+   "size": [
+    1862,
+    2112
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bruxton, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lennox_Merit_series_13ACXN030-230_2.5_ton.png"
+  }
+ ]
+}

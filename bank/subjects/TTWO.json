@@ -1,0 +1,45 @@
+{
+ "id": "TTWO",
+ "kind": "company",
+ "name": "Take-Two Interactive",
+ "tickers": [
+  "TTWO"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "44th St 6th Av td 26 - 1133 Avenue of the Americas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/44th_St_6th_Av_td_26_-_1133_Avenue_of_the_Americas.jpg/1280px-44th_St_6th_Av_td_26_-_1133_Avenue_of_the_Americas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/44th_St_6th_Av_td_26_-_1133_Avenue_of_the_Americas.jpg/500px-44th_St_6th_Av_td_26_-_1133_Avenue_of_the_Americas.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:44th_St_6th_Av_td_26_-_1133_Avenue_of_the_Americas.jpg"
+  },
+  {
+   "shows": "Kelly Sumner, Take-Two Interactive CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Headshot_of_Kelly_Sumner_for_profile.jpg/1280px-Headshot_of_Kelly_Sumner_for_profile.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Headshot_of_Kelly_Sumner_for_profile.jpg/500px-Headshot_of_Kelly_Sumner_for_profile.jpg",
+   "size": [
+    1280,
+    1585
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Jdwhampson, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Headshot_of_Kelly_Sumner_for_profile.jpg"
+  }
+ ]
+}

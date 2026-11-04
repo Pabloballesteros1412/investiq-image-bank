@@ -1,0 +1,28 @@
+{
+ "id": "NRG",
+ "kind": "company",
+ "name": "NRG Energy",
+ "tickers": [
+  "NRG"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Norwalk Harbor Generating Station - NRG Energy - Manresa Island",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Norwalk_Harbor_Generating_Station_-_NRG_Energy_-_Manresa_Island.jpg/1920px-Norwalk_Harbor_Generating_Station_-_NRG_Energy_-_Manresa_Island.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Norwalk_Harbor_Generating_Station_-_NRG_Energy_-_Manresa_Island.jpg/500px-Norwalk_Harbor_Generating_Station_-_NRG_Energy_-_Manresa_Island.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Norwalk_Harbor_Generating_Station_-_NRG_Energy_-_Manresa_Island.jpg"
+  }
+ ]
+}
