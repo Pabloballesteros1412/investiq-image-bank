@@ -26,7 +26,8 @@ Hace falta Python 3.9 o superior (sin más paquetes) y acceso a `en.wikipedia.or
 Desde las sesiones de Claude en la nube, Wikimedia frena las llamadas anónimas a su API (error 429, «demasiadas
 peticiones»), porque muchas sesiones salen por las mismas direcciones. Con una cuenta, el límite es el suyo:
 crea una clave de acceso y guárdala en la variable de entorno `WIKIMEDIA_TOKEN`. El programa la usa sola si
-existe. Para crearla, con la sesión de Wikimedia iniciada, abre
+existe. Para crearla, inicia sesión en Wikimedia, confirma tu correo (Wikimedia lo exige:
+<https://meta.wikimedia.org/wiki/Special:ChangeEmail> y después el enlace que te llega) y abre
 <https://meta.wikimedia.org/wiki/Special:OAuthConsumerRegistration/propose/oauth2>, marca «This consumer is for
 use only by …» (solo para tu cuenta: se aprueba al momento), elige «Request authorization for specific
 permissions» sin añadir permisos y copia el «Access token» que aparece al final. No la subas nunca al repo.
