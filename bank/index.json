@@ -10,6 +10,67 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-04",
- "photos": 0,
- "subjects": []
+ "photos": 50,
+ "subjects": [
+  {
+   "id": "MMM",
+   "kind": "company",
+   "name": "3M",
+   "tickers": [
+    "MMM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MMM.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "AAPL",
+   "kind": "company",
+   "name": "Apple Inc.",
+   "tickers": [
+    "AAPL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/AAPL.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "DIS",
+   "kind": "company",
+   "name": "Walt Disney Company (The)",
+   "tickers": [
+    "DIS"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/DIS.json",
+   "sector": "sector-communication"
+  },
+  {
+   "id": "sector-energy",
+   "kind": "sector",
+   "name": "Energy sector",
+   "tickers": [],
+   "aliases": [
+    "energy"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-energy.json"
+  },
+  {
+   "id": "gold",
+   "kind": "topic",
+   "name": "Gold",
+   "tickers": [],
+   "aliases": [
+    "gold",
+    "precious metals",
+    "bullion"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/gold.json"
+  }
+ ]
 }

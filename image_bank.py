@@ -53,7 +53,9 @@ UA = "InvestIQ-image-bank/2.0 (https://getinvestiq.com; carousel image bank)"
 BASE_URL = "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/"  # public address of bank/
 
 TARGET = 10                           # photos per company, topic and sector
+SEARCH_ROOM = 3                       # places a company's Commons category leaves for photos found by search
 MIN_LONG, MIN_SHORT = 1600, 1000      # smallest acceptable photo (px)
+MIN_PERSON = 1000, 700                # portraits: a face mostly fills half a slide or an inset
 WIDTHS = (1280, 1920)                 # standard Wikimedia thumbnail widths linked for the slides
 PREVIEW_W = 500                       # standard width of the preview
 SLIDE_H = 1500                        # a 4:5 slide is 1200 x 1500
@@ -64,7 +66,12 @@ BAD_WORDS = ["logo", "logotype", "wordmark", "icon", "map", "diagram", "chart", 
              "rendering", "sketch", "plan", "blueprint", "label", "poster", "banner", "stamp", "signature"]
 SKIP_CATEGORY = re.compile(r"\b(logos?|wordmarks?|icons?|maps?|diagrams?|charts?|graphs?|screenshots?|documents?|advertis\w*|"
                            r"posters?|svg|signatures?|videos?|audio|sounds?|pdf|patents?|drawings?|illustrations?|stamps?|texts?|"
-                           r"coats? of arms|flags?|scans?|letters?|annual reports?|share certificates?)\b", re.I)
+                           r"coats? of arms|flags?|scans?|letters?|annual reports?|share certificates?|people|employees|"
+                           r"executives|staff|personnel|alumni|awards?|visits?)\b", re.I)
+COMPANY_PARENT = re.compile(r"compan|corporat|conglomerat|brands?\b|business|enterprises|manufactur|banks?\b|retail|insur|"
+                            r"utilit|restaurant|real estate|REIT|firms?\b|airlines?\b|operators|chains?\b|S&P|NYSE|Nasdaq", re.I)
+OLD_PAPER = re.compile(r"\b(letters|manuscripts|documents|artworks|paintings|engravings|drawings|prints|scans|"
+                       r"Historic American (?:Buildings Survey|Engineering Record|Landscapes Survey))\b", re.I)
 GENERIC_WORDS = {"inc", "corp", "corporation", "company", "co", "group", "holdings", "holding", "plc", "the", "ltd",
                  "limited", "n.v", "nv", "s.a", "sa", "ag", "se", "incorporated", "&", "and", "class", "a", "b", "c"}
 SECTORS = {"Information Technology": "sector-tech", "Health Care": "sector-health", "Financials": "sector-financials",
@@ -213,13 +220,17 @@ def plain(s):
     return re.sub(r"\s+", " ", html.unescape(s)).strip()
 
 
+def no_query(url):
+    return (url or "").split("?", 1)[0]
+
+
 def candidate(page):
     ii = page["imageinfo"][0]
     md = {k: (v.get("value") if isinstance(v, dict) else v) for k, v in (ii.get("extmetadata") or {}).items()}
     y = re.search(r"\b(1[89]\d\d|20\d\d)\b", plain(str(md.get("DateTimeOriginal", ""))))
     return {"file": page["title"], "w": ii.get("width", 0), "h": ii.get("height", 0), "mime": ii.get("mime", ""),
-            "orig": ii.get("url", ""),
-            "page": ii.get("descriptionurl") or "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(page["title"].replace(" ", "_")),
+            "orig": no_query(ii.get("url", "")),  # the API adds ?utm_source=... tracking to its addresses
+            "page": no_query(ii.get("descriptionurl")) or "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(page["title"].replace(" ", "_")),
             "licence": plain(md.get("LicenseShortName")), "licence_code": (md.get("License") or "").lower(),
             "licence_url": md.get("LicenseUrl") or "", "author": plain(md.get("Artist")) or plain(md.get("Credit")),
             "year": int(y.group(1)) if y else None,
@@ -260,12 +271,38 @@ class Live:
                 out[t] = final.get(f)
         return out
 
-    def entities(self, qids, props="labels|claims"):
+    def entities(self, qids, props="labels|claims|sitelinks"):
         out = {}
         qids = [q for q in dict.fromkeys(qids) if q]
         for i in range(0, len(qids), 50):
-            d = self._get(WIKIDATA_API, {"action": "wbgetentities", "ids": "|".join(qids[i:i + 50]), "props": props, "languages": "en"})
+            d = self._get(WIKIDATA_API, {"action": "wbgetentities", "ids": "|".join(qids[i:i + 50]), "props": props,
+                                         "languages": "en|mul", "sitefilter": "commonswiki"})
             out.update(d.get("entities", {}))
+        return out
+
+    def company_categories(self, names):
+        """{name: Commons category} for the names that are a Commons category (hard redirects followed, soft
+        'Category redirect' pages left out) filed under a category of companies, brands, banks...: the last way
+        to find a company's category when Wikidata does not give it ('Circle' is a category of geometry)."""
+        out = {}
+        names = list(dict.fromkeys(n for n in names if n))
+        for i in range(0, len(names), 50):
+            batch = names[i:i + 50]
+            q = self._get(COMMONS_API, {"action": "query", "titles": "|".join("Category:" + n for n in batch), "redirects": 1,
+                                        "prop": "categoryinfo|categories|templates", "cllimit": "max", "clshow": "!hidden",
+                                        "tltemplates": "Template:Category redirect", "tllimit": "max"}).get("query", {})
+            alias = {r["from"]: r["to"] for k in ("normalized", "redirects") for r in q.get(k, [])}
+            pages = {p["title"]: p for p in q.get("pages", [])}
+            for n in batch:
+                t = "Category:" + n
+                for _ in range(3):
+                    t = alias.get(t, t)
+                pg = pages.get(t, {})
+                info = pg.get("categoryinfo") or {}
+                parents = " ".join(c["title"] for c in pg.get("categories", []))
+                if (not pg.get("missing") and not pg.get("templates") and info.get("files", 0) + info.get("subcats", 0) > 0
+                        and COMPANY_PARENT.search(parents)):
+                    out[n] = t.split(":", 1)[1]
         return out
 
     def search_entity(self, name, ticker):
@@ -335,15 +372,16 @@ def parse_sp500(wt):
         row = row.strip()
         if not row or row.startswith("!"):
             continue
-        cells = [c.strip() for c in re.split(r"\n\|(?!\})|\|\|", "\n" + row) if c.strip()]
+        # cells start a line with "|" or "||" (both in use on the page) or follow "||" on the same line
+        cells = [c.strip() for c in re.split(r"\n\|\|?(?!\})|\|\|", "\n" + row) if c.strip()]
         if len(cells) < 3:
             continue
-        m = re.search(r"\{\{\s*[A-Za-z]*\s*\|\s*([A-Za-z][A-Za-z.\-]*)\s*\}\}", cells[0])
+        m = re.search(r"\{\{[^{}|]*\|\s*([A-Za-z][A-Za-z.\-]*)\s*\}\}", cells[0])  # {{NyseSymbol|MMM}}, {{BZX link|CBOE}}
         sym = m.group(1) if m else re.sub(r"\[\[[^\]|]*\||[\[\]{}]", "", cells[0]).strip()
         link = re.search(r"\[\[([^\]|#]+)(?:\|([^\]]*))?\]\]", cells[1])
         if not sym or not link:
             continue
-        sector = plain(re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", cells[2]))
+        sector = plain(re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", cells[2])).strip("| ")
         out.append({"ticker": sym.upper().replace(".", "-"), "name": (link.group(2) or link.group(1)).strip(),
                     "wiki": link.group(1).strip(), "sector": sector})
     return out
@@ -361,9 +399,20 @@ def claim_value(ent, p):
     return None
 
 
+def start_of(s):
+    """Start time (P580) of a statement as '+2024-10-17T00:00:00Z' ('' when unknown): sorts by date."""
+    for q in s.get("qualifiers", {}).get("P580", []):
+        v = q.get("datavalue", {}).get("value", {})
+        if isinstance(v, dict) and v.get("time"):
+            return v["time"]
+    return ""
+
+
 def current_item(ent, p):
-    """The item of a statement still in force (no end time), preferred first: e.g. the current CEO."""
+    """The item of a statement still in force (no end time), preferred first, then the latest start: e.g. the
+    current CEO."""
     cur = [s for s in claims(ent, p) if "P582" not in s.get("qualifiers", {})]
+    cur = sorted(cur, key=start_of, reverse=True)
     for s in sorted(cur, key=lambda s: s.get("rank") != "preferred"):
         v = s.get("mainsnak", {}).get("datavalue", {}).get("value")
         if isinstance(v, dict) and v.get("id"):
@@ -371,8 +420,19 @@ def current_item(ent, p):
     return None
 
 
+def commons_category(ent):
+    """The Commons category of a Wikidata item: its P373, else its Commons sitelink when that is a category."""
+    c = claim_value(ent, "P373")
+    if c:
+        return c
+    t = ent.get("sitelinks", {}).get("commonswiki", {}).get("title", "")
+    return t.split(":", 1)[1] if t.startswith("Category:") else None
+
+
 def label(ent):
-    return ent.get("labels", {}).get("en", {}).get("value")
+    """English label, else the multilingual one ('mul', which Wikidata now uses for many people's names)."""
+    labels = ent.get("labels", {})
+    return (labels.get("en") or labels.get("mul") or {}).get("value")
 
 
 def has_ticker(ent, ticker):
@@ -419,18 +479,30 @@ def build_universe(cat=None, src=None, bank=BANK, extras=None, log=print):
     for e in comps:
         e["wikidata"] = qids.get(e.get("wiki")) or src.search_entity(e["name"], e["tickers"][0])
     ents = src.entities([e["wikidata"] for e in comps])
-    ceo = {}
+    ceo, topic = {}, {}
     for e in comps:
         ent = ents.get(e["wikidata"] or "", {})
-        e["commons_category"] = claim_value(ent, "P373")
+        e["commons_category"] = commons_category(ent)
         e["image"] = claim_value(ent, "P18")
         if current_item(ent, "P169"):
             ceo[e["wikidata"]] = current_item(ent, "P169")
-    names = src.entities(list(ceo.values()), props="labels")
+        if not e["commons_category"] and current_item(ent, "P910"):
+            topic[e["wikidata"]] = current_item(ent, "P910")
+    cats = src.entities(list(topic.values()), props="claims|sitelinks")  # the company's main category (P910)
+    for e in comps:
+        if not e["commons_category"] and topic.get(e["wikidata"]):
+            e["commons_category"] = commons_category(cats.get(topic[e["wikidata"]], {}))
+    guess = {e["name"]: [e.get("wiki"), e["name"]] for e in comps if not e["commons_category"]}
+    found = src.company_categories([n for g in guess.values() for n in g])
+    for e in comps:
+        if not e["commons_category"]:
+            e["commons_category"] = next((found[n] for n in guess[e["name"]] if n in found), None)
+    names = src.entities(list(ceo.values()), props="labels|claims")
     old = {e["id"]: e for e in load_universe(bank)}
     out = []
     for e in comps:
-        e["ceo"] = label(names.get(ceo.get(e["wikidata"]), {})) if ceo.get(e["wikidata"]) else None
+        boss = names.get(ceo.get(e["wikidata"]), {}) if ceo.get(e["wikidata"]) else {}
+        e["ceo"], e["ceo_image"] = label(boss), claim_value(boss, "P18")
         cur = curated_for(cat, e["tickers"])
         e["id"] = cur["id"] if cur else e["tickers"][0]
         o, man = old.get(e["id"], {}), old.get(e["id"], {}).get("manual")
@@ -469,6 +541,13 @@ def bad_name(title, allow=()):
     return any(re.search(r"\b" + re.escape(w) + r"s?\b", name) for w in BAD_WORDS if w not in allow)
 
 
+def has_term(hay, term):
+    """Whether a lower-case text holds a term at the start of a word ('gold pour' in 'gold pouring'); a short
+    term (3M, GE) must be a whole word ('3m' is not in 'TEX,22-CAST,3M-' nor in '3mm')."""
+    t = re.escape(term.lower())
+    return bool(re.search(r"(?<![a-z0-9])" + t + (r"(?![a-z0-9])" if len(term) <= 3 else ""), hay))
+
+
 def score(c, rank, shot, used=(), no_sa=False, exclude=()):
     """Ranking score of a candidate for a shot, or None when it cannot be used."""
     if c["file"] in used or c["file"] in exclude or c["mime"] not in MIMES or not c.get("orig"):
@@ -479,11 +558,15 @@ def score(c, rank, shot, used=(), no_sa=False, exclude=()):
     if kind is None or (no_sa and kind == "by-sa"):
         return None
     w, h = c["w"], c["h"]
-    if not w or not h or max(w, h) < MIN_LONG or min(w, h) < MIN_SHORT or bad_name(c["file"], shot.get("allow", ())):
+    lo, sh = MIN_PERSON if shot.get("person") else (MIN_LONG, MIN_SHORT)
+    if not w or not h or max(w, h) < lo or min(w, h) < sh or bad_name(c["file"], shot.get("allow", ())):
         return None
-    if shot.get("must"):
+    if not shot.get("historic") and OLD_PAPER.search(" ".join(c["categories"])):  # letters, paintings, survey drawings
+        return None
+    must = shot.get("must") or ([shot["q"].strip('"').lower()] if shot.get("person") and shot.get("q") else None)  # a person: their name
+    if must:
         hay = (c["file"] + " " + " ".join(c["categories"])).lower().replace("_", " ")
-        if not any(m in hay for m in shot["must"]):
+        if not any(has_term(hay, m) for m in must):
             return None
     s = 100 - 2 * rank
     cats = " ".join(c["categories"]).lower()
@@ -580,6 +663,18 @@ def photo(c, shot, shows, how, focus, person=False, category=None):
     return e
 
 
+def telling(cand, c):
+    """Whether a photo from a company's Commons category says what it shows: a file name of words (not
+    'P20210825AS-1824' or 'IMG_0412'), or a description naming the company. Categories also hold photos of
+    events and visitors that would pass for the company's own."""
+    t = clean_title(cand["file"])
+    if len(re.findall(r"[A-Za-z]{3,}", t)) >= 2:
+        return True
+    hay = (t + " " + cand.get("description", "")).lower()
+    return any(k and re.search(r"(?<!\w)" + re.escape(k.lower()) + r"(?!\w)", hay)
+               for k in (short_name(c["name"]), c["name"], c.get("commons_category")))
+
+
 def short_name(name):
     words = [w for w in re.sub(r"\(.*?\)", " ", name).split() if w.lower().strip(",.") not in GENERIC_WORDS]
     return " ".join(words).strip(" ,.") or name
@@ -604,34 +699,47 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
             break
         r = [x for x in choose(sh, src.search, used, no_sa, exclude) if fresh(x[1])]
         if r:
-            take(r[0][1], sh["id"], sh["scene"], "catalog", sh.get("person"), focus=sh.get("focus"))
+            take(r[0][1], sh["id"], describe(r[0][1], sh["scene"]), "catalog", sh.get("person"), focus=sh.get("focus"))
     if c.get("image") and len(picks) < TARGET:
         t = "File:" + c["image"]
         cand = src.info([t]).get(t)
         if cand and fresh(cand) and score(cand, 0, {"id": "main"}, used, no_sa, exclude) is not None:
             take(cand, "main", describe(cand, name), "Wikidata main image")
-    if c.get("ceo") and len(picks) < TARGET and not any(p.get("person") for p in picks):
-        last = c["ceo"].split()[-1].lower()
-        r = [x for x in choose({"id": "leader", "q": f'"{c["ceo"]}"', "person": True, "must": [last]}, src.search, used, no_sa, exclude) if fresh(x[1])]
-        if r:
-            take(r[0][1], "leader", f"{c['ceo']}, {name} CEO", "Wikidata CEO", person=True)
+    if c.get("ceo") and len(picks) < TARGET and not any(p["shot"] == "leader" for p in picks):
+        # the person's own image on Wikidata; else a search whose file names or categories give the full name
+        # ('William M. Brown', not a painter called William Mason Brown)
+        t = "File:" + c["ceo_image"] if c.get("ceo_image") else None
+        cand = src.info([t]).get(t) if t else None
+        if not (cand and fresh(cand) and score(cand, 0, {"id": "leader", "person": True}, used, no_sa, exclude) is not None):
+            r = [x for x in choose({"id": "leader", "q": f'"{c["ceo"]}"', "person": True, "must": [c["ceo"].lower()]},
+                                   src.search, used, no_sa, exclude) if fresh(x[1])]
+            cand = r[0][1] if r else None
+        if cand:
+            take(cand, "leader", f"{c['ceo']}, {name} CEO (per Wikidata)", "Wikidata CEO", person=True)
     if c.get("commons_category") and len(picks) < TARGET:
         files = src.category_files(c["commons_category"])
         infos = src.info([f for f, _ in files])
         ranked = []
         for f, where in files:
             cand = infos.get(f)
-            s = score(cand, 0, {"id": "category"}, used, no_sa, exclude) if cand else None
+            s = score(cand, 0, {"id": "category"}, used, no_sa, exclude) if cand and telling(cand, c) else None
             if s is not None:
                 ranked.append((s - (0 if where == c["commons_category"] else 3), cand, where))
-        per = {}
-        for _, cand, where in sorted(ranked, key=lambda x: -x[0]):
-            if len(picks) >= TARGET:
+        ranked.sort(key=lambda x: -x[0])
+    else:
+        ranked = []
+    per = {}
+
+    def from_category(upto):
+        for _, cand, where in ranked:
+            if len(picks) >= upto:
                 break
             if per.get(where, 0) >= 2 or not fresh(cand):
                 continue
             per[where] = per.get(where, 0) + 1
             take(cand, f"c{len(picks) + 1}", describe(cand, f"{name} ({where})"), "Commons category", category=where)
+
+    from_category(TARGET - SEARCH_ROOM)  # leave room for its headquarters, stores, factories... found by search
     for what in ("headquarters", "store", "factory", "office", "building", ""):
         if len(picks) >= TARGET:
             break
@@ -642,6 +750,7 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
             if fresh(cand):
                 take(cand, f"s{len(picks) + 1}", describe(cand, f"{name} {what}".strip()), "Commons search")
                 n += 1
+    from_category(TARGET)
     return picks
 
 
@@ -654,7 +763,7 @@ def shot_photos(s, src, used, no_sa=False, exclude=()):
             missing.append(sh["id"])
             continue
         c = r[0][1]
-        shows = sh["scene"] if sh["scene"] != sh["q"] else describe(c, sh["q"])
+        shows = describe(c, sh["scene"])
         focus = sh.get("focus") or (PERSON_FOCUS if sh.get("person") else (0.5, 0.5))
         picks.append(photo(c, sh["id"], shows, "catalog", focus, sh.get("person")))
         used.add(c["file"])

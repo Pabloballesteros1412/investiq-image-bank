@@ -31,6 +31,11 @@ SP500_WIKITEXT = """Intro text.
 |[[Berkshire Hathaway]]
 |[[Financials]]
 |Multi-Sector Holdings
+|-
+|| {{BZX link|CBOE}}
+|| [[Cboe Global Markets]]
+|| Financials 
+|| Financial Exchanges & Data 
 |}
 {| class="wikitable" id="changes"
 |-
@@ -50,17 +55,23 @@ class Fake:
         return rows + [{"ticker": f"X{i}", "name": f"Filler {i}", "wiki": f"Filler {i}", "sector": "Utilities"} for i in range(self.n_sp)]
 
     def wikidata_ids(self, titles):
-        return {t: {"3M": "Q1", "Alphabet Inc.": "Q2", "Berkshire Hathaway": "Q3"}.get(t) for t in titles}
+        return {t: {"3M": "Q1", "Alphabet Inc.": "Q2", "Berkshire Hathaway": "Q3", "Cboe Global Markets": "Q4"}.get(t) for t in titles}
+
+    def company_categories(self, names):
+        return {n: "Cboe" for n in names if n == "Cboe Global Markets"}
 
     def search_entity(self, name, ticker):
         return "Q9" if ticker == "TSM" else None
 
-    def entities(self, qids, props="labels|claims"):
-        ents = {"Q1": {"claims": {"P373": [{"mainsnak": {"datavalue": {"value": "3M"}}}],
+    def entities(self, qids, props="labels|claims|sitelinks"):
+        ents = {"Q2": {"sitelinks": {"commonswiki": {"title": "Category:Alphabet Inc."}}},
+                "Q3": {"claims": {"P910": [{"mainsnak": {"datavalue": {"value": {"id": "Q30"}}}}]}},
+                "Q30": {"claims": {"P373": [{"mainsnak": {"datavalue": {"value": "Berkshire Hathaway"}}}]}},
+                "Q1": {"claims": {"P373": [{"mainsnak": {"datavalue": {"value": "3M"}}}],
                                   "P18": [{"mainsnak": {"datavalue": {"value": "3M HQ Maplewood.jpg"}}}],
                                   "P169": [{"mainsnak": {"datavalue": {"value": {"id": "Q100"}}}, "qualifiers": {"P582": [{}]}},
                                            {"mainsnak": {"datavalue": {"value": {"id": "Q101"}}}}]}},
-                "Q101": {"labels": {"en": {"value": "William Brown"}}},
+                "Q101": {"labels": {"mul": {"value": "William Brown"}}},
                 "Q100": {"labels": {"en": {"value": "Old Boss"}}}}
         return {q: ents.get(q, {}) for q in qids if q}
 
@@ -111,9 +122,10 @@ class Catalog(unittest.TestCase):
 class Universe(unittest.TestCase):
     def test_sp500_table(self):
         rows = B.parse_sp500(SP500_WIKITEXT)
-        self.assertEqual([r["ticker"] for r in rows], ["MMM", "GOOGL", "GOOG", "BRK-B"])
+        self.assertEqual([r["ticker"] for r in rows], ["MMM", "GOOGL", "GOOG", "BRK-B", "CBOE"])
         self.assertEqual((rows[1]["wiki"], rows[1]["name"], rows[1]["sector"]), ("Alphabet Inc.", "Alphabet Inc. (Class A)", "Communication Services"))
         self.assertEqual(rows[3]["sector"], "Financials")
+        self.assertEqual((rows[4]["wiki"], rows[4]["sector"]), ("Cboe Global Markets", "Financials"))  # rows written "|| cell"
 
     def test_universe(self):
         with tempfile.TemporaryDirectory() as d:
@@ -124,6 +136,9 @@ class Universe(unittest.TestCase):
             self.assertEqual(uni["GOOGL"]["tickers"], ["GOOGL", "GOOG"])          # two share classes, one company
             self.assertEqual(uni["GOOGL"]["name"], "Alphabet Inc.")
             self.assertEqual(uni["BRK-B"]["wikidata"], "Q3")
+            self.assertEqual(uni["GOOGL"]["commons_category"], "Alphabet Inc.")      # from the Commons sitelink
+            self.assertEqual(uni["BRK-B"]["commons_category"], "Berkshire Hathaway") # from the main category (P910)
+            self.assertEqual(uni["CBOE"]["commons_category"], "Cboe")                # a Commons category named after it
             self.assertEqual((uni["MMM"]["commons_category"], uni["MMM"]["ceo"]), ("3M", "William Brown"))  # current CEO only
             self.assertEqual(uni["TSM"]["wikidata"], "Q9")                           # found by name and ticker
             self.assertEqual(sum(1 for e in uni.values() if "MMM" in e["tickers"]), 1)  # an extra already in the S&P 500
@@ -213,7 +228,7 @@ class Build(unittest.TestCase):
         ph = m["MMM"]["photos"]
         self.assertEqual(len(ph), B.TARGET)
         self.assertEqual([p["how"] for p in ph[:3]], ["catalog", "Wikidata main image", "Wikidata CEO"])
-        self.assertEqual((ph[2]["shows"], ph[2]["person"], ph[2]["focus"]), ("William Brown, 3M CEO", True, [0.5, 0.33]))
+        self.assertEqual((ph[2]["shows"], ph[2]["person"], ph[2]["focus"]), ("William Brown, 3M CEO (per Wikidata)", True, [0.5, 0.33]))
         self.assertIn("restrictions: personality", ph[2]["flags"])
         files = [p["file"] for p in ph]
         self.assertEqual(len(files), len(set(files)))
@@ -221,7 +236,33 @@ class Build(unittest.TestCase):
         self.assertLessEqual(sum(p.get("category") == "3M factories" for p in ph), 2)   # two per subcategory
         self.assertNotIn("File:3M logo.png", files)
         self.assertNotIn("File:Unrelated tower.jpg", files)                             # searches must name the company
-        self.assertEqual(ph[0]["shows"], "3M Center campus")
+        self.assertEqual(ph[0]["shows"], "3M Center view 0")                            # what the photo is, not the wish
+
+    def test_ceo_image_and_telling_category_photos(self):
+        c = {"name": "3M", "tickers": ["MMM"], "commons_category": "3M", "ceo": "William Brown", "ceo_image": "WB portrait.jpg"}
+        src = Fake()
+        src.category_files = lambda cat: [("File:P20210825AS-1824 (51645285729).jpg", "Products of 3M"),
+                                          ("File:3M plant site.jpg", "3M")]
+        ph = B.company_photos(c, [], src, set())
+        self.assertEqual((ph[0]["file"], ph[0]["how"]), ("File:WB portrait.jpg", "Wikidata CEO"))  # the CEO's own image
+        files = [p["file"] for p in ph]
+        self.assertIn("File:3M plant site.jpg", files)
+        self.assertNotIn("File:P20210825AS-1824 (51645285729).jpg", files)              # a name that says nothing
+        self.assertNotIn('"William Brown"', src.calls)                                  # no search needed
+
+    def test_letters_paintings_and_short_names(self):
+        letter = cand("File:Letter from William M. Brown.jpg", cats=["1865 letters"], year=1865)
+        self.assertIsNone(B.score(letter, 0, {"id": "x"}))                            # old paper is not a photo
+        self.assertIsNotNone(B.score(letter, 0, {"id": "x", "historic": True}))
+        self.assertTrue(B.has_term("3m world headquarters", "3m"))
+        self.assertFalse(B.has_term("3mm screws", "3m"))
+        self.assertTrue(B.has_term("laronde gold pouring", "gold pour"))
+
+    def test_ceo_search_needs_the_full_name(self):
+        src = Fake()
+        src.search = lambda q: [cand("File:William Mason Brown - Mound of Cherries.jpg"), cand("File:Brown bear.jpg")]
+        ph = B.company_photos({"name": "3M", "tickers": ["MMM"], "ceo": "William M. Brown"}, [], src, set())
+        self.assertFalse(any(p.get("person") for p in ph))
 
     def test_index_for_the_chat(self):
         self.run_build(kinds=("company", "topic"))

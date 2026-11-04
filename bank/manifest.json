@@ -1,0 +1,1233 @@
+{
+ "MMM": {
+  "name": "3M",
+  "kind": "company",
+  "tickers": [
+   "MMM"
+  ],
+  "aliases": [],
+  "sector": "sector-industrials",
+  "photos": [
+   {
+    "shot": "main",
+    "shows": "3-M Building Maplewood MN1",
+    "file": "File:3-M Building Maplewood MN1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:3-M_Building_Maplewood_MN1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/3-M_Building_Maplewood_MN1.jpg/1920px-3-M_Building_Maplewood_MN1.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/3-M_Building_Maplewood_MN1.jpg/500px-3-M_Building_Maplewood_MN1.jpg",
+    "size": [
+     1920,
+     1232
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Acroterion, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Acroterion",
+    "year": 2018,
+    "how": "Wikidata main image"
+   },
+   {
+    "shot": "leader",
+    "shows": "William M. Brown, 3M CEO (per Wikidata)",
+    "file": "File:Letter from William M. Brown to Sophronia McNitt, February 17, 1865 - DPLA - 0a990136a16d31fbe4b713e10f466539 (page 1).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Letter_from_William_M._Brown_to_Sophronia_McNitt,_February_17,_1865_-_DPLA_-_0a990136a16d31fbe4b713e10f466539_(page_1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Letter_from_William_M._Brown_to_Sophronia_McNitt%2C_February_17%2C_1865_-_DPLA_-_0a990136a16d31fbe4b713e10f466539_%28page_1%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Letter_from_William_M._Brown_to_Sophronia_McNitt%2C_February_17%2C_1865_-_DPLA_-_0a990136a16d31fbe4b713e10f466539_%28page_1%29.jpg/500px-Letter_from_William_M._Brown_to_Sophronia_McNitt%2C_February_17%2C_1865_-_DPLA_-_0a990136a16d31fbe4b713e10f466539_%28page_1%29.jpg",
+    "size": [
+     1000,
+     834
+    ],
+    "focus": [
+     0.5,
+     0.33
+    ],
+    "credit": "Brown, William M, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Brown, William M",
+    "year": 1865,
+    "how": "Wikidata CEO",
+    "person": true
+   },
+   {
+    "shot": "c3",
+    "shows": "3M Corporate Headquarters - Minnesota",
+    "file": "File:3M Corporate Headquarters - Minnesota (48614471286).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:3M_Corporate_Headquarters_-_Minnesota_(48614471286).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/3M_Corporate_Headquarters_-_Minnesota_%2848614471286%29.jpg/1920px-3M_Corporate_Headquarters_-_Minnesota_%2848614471286%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/3M_Corporate_Headquarters_-_Minnesota_%2848614471286%29.jpg/500px-3M_Corporate_Headquarters_-_Minnesota_%2848614471286%29.jpg",
+    "size": [
+     1920,
+     1257
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Tony Webster from Minneapolis, Minnesota, United States",
+    "year": 2019,
+    "how": "Commons category",
+    "category": "3M"
+   },
+   {
+    "shot": "c4",
+    "shows": "3M (3M)",
+    "file": "File:3M Japan.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:3M_Japan.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/3M_Japan.jpg/1920px-3M_Japan.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/3M_Japan.jpg/500px-3M_Japan.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Syced, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Syced",
+    "year": 2020,
+    "how": "Commons category",
+    "category": "3M"
+   },
+   {
+    "shot": "c5",
+    "shows": "Polierstreifen der Firma 3M Dental Products Division",
+    "file": "File:Polierstreifen 20120965 (01).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Polierstreifen_20120965_(01).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Polierstreifen_20120965_%2801%29.jpg/1920px-Polierstreifen_20120965_%2801%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Polierstreifen_20120965_%2801%29.jpg/500px-Polierstreifen_20120965_%2801%29.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Schildwerk, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Schildwerk",
+    "year": 2021,
+    "how": "Commons category",
+    "category": "3M Dental Products Division"
+   },
+   {
+    "shot": "c6",
+    "shows": "Stainless Steel Primary",
+    "file": "File:Stainless Steel Primary (10).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stainless_Steel_Primary_(10).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stainless_Steel_Primary_%2810%29.jpg/1920px-Stainless_Steel_Primary_%2810%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stainless_Steel_Primary_%2810%29.jpg/500px-Stainless_Steel_Primary_%2810%29.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Symposius, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Symposius",
+    "year": 2021,
+    "how": "Commons category",
+    "category": "3M Dental Products Division"
+   },
+   {
+    "shot": "c7",
+    "shows": "Composite material",
+    "file": "File:Composite material.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Composite_material.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Composite_material.jpg/1920px-Composite_material.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Composite_material.jpg/500px-Composite_material.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Shaimaa Abdellatif, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Shaimaa Abdellatif",
+    "year": 2019,
+    "how": "Commons category",
+    "category": "3M ESPE"
+   },
+   {
+    "shot": "s8",
+    "shows": "Casa Matriz 3M, Providencia, Santiago",
+    "file": "File:Casa Matriz 3M, Providencia, Santiago 20240502.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Casa_Matriz_3M,_Providencia,_Santiago_20240502.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Casa_Matriz_3M%2C_Providencia%2C_Santiago_20240502.jpg/1920px-Casa_Matriz_3M%2C_Providencia%2C_Santiago_20240502.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Casa_Matriz_3M%2C_Providencia%2C_Santiago_20240502.jpg/500px-Casa_Matriz_3M%2C_Providencia%2C_Santiago_20240502.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Carlos Figueroa Rojas, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Carlos Figueroa Rojas",
+    "year": 2024,
+    "how": "Commons search"
+   },
+   {
+    "shot": "s9",
+    "shows": "3M World Headquarters in Maplewood, Minnesota.",
+    "file": "File:3M (52617407422).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:3M_(52617407422).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/3M_%2852617407422%29.jpg/1920px-3M_%2852617407422%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/3M_%2852617407422%29.jpg/500px-3M_%2852617407422%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Chad Davis from Minneapolis, United States, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Chad Davis from Minneapolis, United States",
+    "year": 2012,
+    "how": "Commons search"
+   },
+   {
+    "shot": "s10",
+    "shows": "Castolon, Old Castolon Store, Route 5, Castolon, Brewster County, TX HABS TEX,22-CAST,3M- (sheet 3 of 6)",
+    "file": "File:Castolon, Old Castolon Store, Route 5, Castolon, Brewster County, TX HABS TEX,22-CAST,3M- (sheet 3 of 6).png",
+    "page": "https://commons.wikimedia.org/wiki/File:Castolon,_Old_Castolon_Store,_Route_5,_Castolon,_Brewster_County,_TX_HABS_TEX,22-CAST,3M-_(sheet_3_of_6).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Castolon%2C_Old_Castolon_Store%2C_Route_5%2C_Castolon%2C_Brewster_County%2C_TX_HABS_TEX%2C22-CAST%2C3M-_%28sheet_3_of_6%29.png/1920px-Castolon%2C_Old_Castolon_Store%2C_Route_5%2C_Castolon%2C_Brewster_County%2C_TX_HABS_TEX%2C22-CAST%2C3M-_%28sheet_3_of_6%29.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Castolon%2C_Old_Castolon_Store%2C_Route_5%2C_Castolon%2C_Brewster_County%2C_TX_HABS_TEX%2C22-CAST%2C3M-_%28sheet_3_of_6%29.png/500px-Castolon%2C_Old_Castolon_Store%2C_Route_5%2C_Castolon%2C_Brewster_County%2C_TX_HABS_TEX%2C22-CAST%2C3M-_%28sheet_3_of_6%29.png",
+    "size": [
+     1920,
+     1324
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "https://www.loc.gov/pictures/item/tx0990.sheet.00003a, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "https://www.loc.gov/pictures/item/tx0990.sheet.00003a",
+    "year": 1933,
+    "how": "Commons search"
+   }
+  ],
+  "checked": "2026-11-04"
+ },
+ "AAPL": {
+  "name": "Apple Inc.",
+  "kind": "company",
+  "tickers": [
+   "AAPL"
+  ],
+  "aliases": [],
+  "sector": "sector-tech",
+  "photos": [
+   {
+    "shot": "hq",
+    "shows": "Aerial view of Apple Park dllu",
+    "file": "File:Aerial view of Apple Park dllu.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1920px-Aerial_view_of_Apple_Park_dllu.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/500px-Aerial_view_of_Apple_Park_dllu.jpg",
+    "size": [
+     1920,
+     1282
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Daniel L. Lu (user:dllu), CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Daniel L. Lu (user:dllu)",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "fifth-avenue",
+    "shows": "Apple Store - Fifth Avenue",
+    "file": "File:Apple Store - Fifth Avenue (7181848534).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apple_Store_-_Fifth_Avenue_(7181848534).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg/1920px-Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg/500px-Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg",
+    "size": [
+     1920,
+     1275
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jorge Láscar from Australia, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Jorge Láscar from Australia",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "store",
+    "shows": "Apple Store Taipei Xinyi A13 05 (interior)",
+    "file": "File:Apple Store Taipei Xinyi A13 05 (interior).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apple_Store_Taipei_Xinyi_A13_05_(interior).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apple_Store_Taipei_Xinyi_A13_05_%28interior%29.jpg/1920px-Apple_Store_Taipei_Xinyi_A13_05_%28interior%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apple_Store_Taipei_Xinyi_A13_05_%28interior%29.jpg/500px-Apple_Store_Taipei_Xinyi_A13_05_%28interior%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "MiNe, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "MiNe",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "iphone",
+    "shows": "IPhone 16 Pro series",
+    "file": "File:IPhone 16 Pro series.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:IPhone_16_Pro_series.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IPhone_16_Pro_series.jpg/1920px-IPhone_16_Pro_series.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IPhone_16_Pro_series.jpg/500px-IPhone_16_Pro_series.jpg",
+    "size": [
+     1920,
+     1441
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jakub CA, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Jakub CA",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "mac",
+    "shows": "Apple MacBook Pro (M3)",
+    "file": "File:Apple MacBook Pro (M3).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apple_MacBook_Pro_(M3).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Apple_MacBook_Pro_%28M3%29.jpg/1280px-Apple_MacBook_Pro_%28M3%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Apple_MacBook_Pro_%28M3%29.jpg/500px-Apple_MacBook_Pro_%28M3%29.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Xkalponik, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Xkalponik",
+    "year": 2024,
+    "how": "catalog"
+   },
+   {
+    "shot": "leader",
+    "shows": "John Ternus at the Apple 50th Anniversary Kickoff",
+    "file": "File:John Ternus at the Apple 50th Anniversary Kickoff.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg/500px-John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg",
+    "size": [
+     898,
+     1122
+    ],
+    "focus": [
+     0.5,
+     0.33
+    ],
+    "credit": "Tessa Bury, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Tessa Bury",
+    "year": 2026,
+    "how": "catalog",
+    "person": true
+   },
+   {
+    "shot": "tim-cook",
+    "shows": "Visit of Tim Cook to the European Commission",
+    "file": "File:Visit of Tim Cook to the European Commission - P061904-946789.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg/1280px-Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg/500px-Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.33
+    ],
+    "credit": "European Commission - Photographer: Christophe Licoppe, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "European Commission - Photographer: Christophe Licoppe",
+    "year": 2023,
+    "how": "catalog",
+    "person": true
+   },
+   {
+    "shot": "main",
+    "shows": "Apple park cupertino 2019",
+    "file": "File:Apple park cupertino 2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apple_park_cupertino_2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/500px-Apple_park_cupertino_2019.jpg",
+    "size": [
+     1920,
+     1079
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "Arne Müseler",
+    "year": 2019,
+    "how": "Wikidata main image"
+   },
+   {
+    "shot": "s9",
+    "shows": "Apple Park aerial view, June 2024",
+    "file": "File:Apple Park aerial view, June 2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apple_Park_aerial_view,_June_2024.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Apple_Park_aerial_view%2C_June_2024.jpg/1920px-Apple_Park_aerial_view%2C_June_2024.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Apple_Park_aerial_view%2C_June_2024.jpg/500px-Apple_Park_aerial_view%2C_June_2024.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Nils Huenerfuerst, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Nils Huenerfuerst",
+    "year": 2024,
+    "how": "Commons search"
+   },
+   {
+    "shot": "s10",
+    "shows": "Apple Park",
+    "file": "File:Apple Park.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apple_Park.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apple_Park.jpg/1920px-Apple_Park.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apple_Park.jpg/500px-Apple_Park.jpg",
+    "size": [
+     1920,
+     1282
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "IPhone01, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "IPhone01",
+    "year": 2025,
+    "how": "Commons search"
+   }
+  ],
+  "checked": "2026-11-04"
+ },
+ "DIS": {
+  "name": "Walt Disney Company (The)",
+  "kind": "company",
+  "tickers": [
+   "DIS"
+  ],
+  "aliases": [],
+  "sector": "sector-communication",
+  "photos": [
+   {
+    "shot": "castle",
+    "shows": "Cinderella Castle January 2021 Portrait",
+    "file": "File:Cinderella Castle January 2021 Portrait.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cinderella_Castle_January_2021_Portrait.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cinderella_Castle_January_2021_Portrait.jpg/1280px-Cinderella_Castle_January_2021_Portrait.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cinderella_Castle_January_2021_Portrait.jpg/500px-Cinderella_Castle_January_2021_Portrait.jpg",
+    "size": [
+     1280,
+     1925
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Backattaxk251, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Backattaxk251",
+    "year": 2021,
+    "how": "catalog"
+   },
+   {
+    "shot": "disneyland",
+    "shows": "Sleeping Beauty Castle DLR",
+    "file": "File:Sleeping Beauty Castle DLR.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_Castle_DLR.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sleeping_Beauty_Castle_DLR.jpg/1920px-Sleeping_Beauty_Castle_DLR.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sleeping_Beauty_Castle_DLR.jpg/500px-Sleeping_Beauty_Castle_DLR.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Carterhawk, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Carterhawk",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "studios",
+    "shows": "Disney Legends Plaza - Walt Disney Studios (Burbank)",
+    "file": "File:Disney Legends Plaza - Walt Disney Studios (Burbank).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Disney_Legends_Plaza_-_Walt_Disney_Studios_(Burbank).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Disney_Legends_Plaza_-_Walt_Disney_Studios_%28Burbank%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Disney_Legends_Plaza_-_Walt_Disney_Studios_%28Burbank%29.jpg/500px-Disney_Legends_Plaza_-_Walt_Disney_Studios_%28Burbank%29.jpg",
+    "size": [
+     1777,
+     1758
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "JeffChristiansen, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "JeffChristiansen",
+    "year": 2011,
+    "how": "catalog"
+   },
+   {
+    "shot": "cruise",
+    "shows": "Disney Wish smokestack detail",
+    "file": "File:Disney Wish smokestack detail.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Disney_Wish_smokestack_detail.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Disney_Wish_smokestack_detail.jpg/1920px-Disney_Wish_smokestack_detail.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Disney_Wish_smokestack_detail.jpg/500px-Disney_Wish_smokestack_detail.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Declan M. Martin, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Declan M. Martin",
+    "year": 2022,
+    "how": "catalog",
+    "flags": [
+     "restrictions: trademarked"
+    ]
+   },
+   {
+    "shot": "espn",
+    "shows": "ESPN Headquarters",
+    "file": "File:ESPN Headquarters.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ESPN_Headquarters.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ESPN_Headquarters.jpg/1920px-ESPN_Headquarters.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ESPN_Headquarters.jpg/500px-ESPN_Headquarters.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "AirportExpert, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "AirportExpert",
+    "year": 2026,
+    "how": "catalog"
+   },
+   {
+    "shot": "leader",
+    "shows": "Josh D'Amaro and Bob Chapek",
+    "file": "File:Josh D'Amaro and Bob Chapek (49607223226).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Josh_D%27Amaro_and_Bob_Chapek_(49607223226).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Josh_D%27Amaro_and_Bob_Chapek_%2849607223226%29.jpg/1920px-Josh_D%27Amaro_and_Bob_Chapek_%2849607223226%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Josh_D%27Amaro_and_Bob_Chapek_%2849607223226%29.jpg/500px-Josh_D%27Amaro_and_Bob_Chapek_%2849607223226%29.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.33
+    ],
+    "credit": "elisfkc2, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "elisfkc2",
+    "year": 2020,
+    "how": "catalog",
+    "person": true
+   },
+   {
+    "shot": "bob-iger",
+    "shows": "Trevor McFedries chatting with Bob Iger",
+    "file": "File:Trevor McFedries chatting with Bob Iger.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Trevor_McFedries_chatting_with_Bob_Iger.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Trevor_McFedries_chatting_with_Bob_Iger.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Trevor_McFedries_chatting_with_Bob_Iger.jpg/500px-Trevor_McFedries_chatting_with_Bob_Iger.jpg",
+    "size": [
+     1827,
+     1217
+    ],
+    "focus": [
+     0.5,
+     0.33
+    ],
+    "credit": "Village Global, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Village Global",
+    "year": 2022,
+    "how": "catalog",
+    "person": true
+   },
+   {
+    "shot": "main",
+    "shows": "Walt Disney Studios Alameda Entrance",
+    "file": "File:Walt Disney Studios Alameda Entrance.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Walt_Disney_Studios_Alameda_Entrance.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/archive/3/32/20220217032715%21Walt_Disney_Studios_Alameda_Entrance.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/3/32/20220217032715%21Walt_Disney_Studios_Alameda_Entrance.jpg",
+    "size": [
+     1920,
+     1341
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Coolcaesar",
+    "year": 2016,
+    "how": "Wikidata main image",
+    "flags": [
+     "restrictions: trademarked"
+    ]
+   },
+   {
+    "shot": "c9",
+    "shows": "Looking down Rue du Gros-Horloge, with balloons, Rouen, 2024",
+    "file": "File:Looking down Rue du Gros-Horloge, with balloons, Rouen, 2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Looking_down_Rue_du_Gros-Horloge,_with_balloons,_Rouen,_2024.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Looking_down_Rue_du_Gros-Horloge%2C_with_balloons%2C_Rouen%2C_2024.jpg/1920px-Looking_down_Rue_du_Gros-Horloge%2C_with_balloons%2C_Rouen%2C_2024.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Looking_down_Rue_du_Gros-Horloge%2C_with_balloons%2C_Rouen%2C_2024.jpg/500px-Looking_down_Rue_du_Gros-Horloge%2C_with_balloons%2C_Rouen%2C_2024.jpg",
+    "size": [
+     1920,
+     1277
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "DimiTalen, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "DimiTalen",
+    "year": 2024,
+    "how": "Commons category",
+    "category": "Disney balloons"
+   },
+   {
+    "shot": "c10",
+    "shows": "Disney 100 celebration",
+    "file": "File:Disney 100 celebration.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Disney_100_celebration.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Disney_100_celebration.jpg/1920px-Disney_100_celebration.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Disney_100_celebration.jpg/500px-Disney_100_celebration.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Trey Madara, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Trey Madara",
+    "year": 2023,
+    "how": "Commons category",
+    "category": "Disney 100"
+   }
+  ],
+  "checked": "2026-11-04"
+ },
+ "sector-energy": {
+  "name": "Energy sector",
+  "kind": "sector",
+  "tickers": [],
+  "aliases": [
+   "energy"
+  ],
+  "photos": [
+   {
+    "shot": "oil-rig",
+    "shows": "Oil platform P-51 (Brazil)",
+    "file": "File:Oil platform P-51 (Brazil).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/1920px-Oil_platform_P-51_%28Brazil%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/500px-Oil_platform_P-51_%28Brazil%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Divulgação Petrobras / ABr, CC BY 3.0 br, via Wikimedia Commons",
+    "licence": "CC BY 3.0 br",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+    "author": "Divulgação Petrobras / ABr",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "refinery",
+    "shows": "Anacortes Refinery",
+    "file": "File:Anacortes Refinery 31911.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Anacortes_Refinery_31911.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anacortes_Refinery_31911.JPG/1920px-Anacortes_Refinery_31911.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anacortes_Refinery_31911.JPG/500px-Anacortes_Refinery_31911.JPG",
+    "size": [
+     1920,
+     1425
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Walter Siegmund (talk), CC BY 2.5, via Wikimedia Commons",
+    "licence": "CC BY 2.5",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.5",
+    "author": "Walter Siegmund (talk)",
+    "year": 2008,
+    "how": "catalog"
+   },
+   {
+    "shot": "pumpjack-sunset",
+    "shows": "Pumpjacks on Lost Hills Oil Field in California on Route 46 at sunset. Almost all of the pumps shown on this picture were busy when I took the picture.",
+    "file": "File:LostHillsPumpjacksSunset.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:LostHillsPumpjacksSunset.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LostHillsPumpjacksSunset.JPG/1920px-LostHillsPumpjacksSunset.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LostHillsPumpjacksSunset.JPG/500px-LostHillsPumpjacksSunset.JPG",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Arne Hückelheim, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Arne Hückelheim",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "gas-pipeline",
+    "shows": "Gasoducto junto a la B-145, Chile, , DD 32",
+    "file": "File:Gasoducto junto a la B-145, Chile, 2016-02-09, DD 32.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Gasoducto_junto_a_la_B-145,_Chile,_2016-02-09,_DD_32.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG/1920px-Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG/500px-Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG",
+    "size": [
+     1920,
+     1270
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Diego Delso",
+    "year": 2016,
+    "how": "catalog"
+   },
+   {
+    "shot": "lng-carrier",
+    "shows": "01 LNG tanker, GULF ENERGY - IMO",
+    "file": "File:2023-05-20 01 LNG tanker, GULF ENERGY - IMO 7390143.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2023-05-20_01_LNG_tanker,_GULF_ENERGY_-_IMO_7390143.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg/1920px-2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg/500px-2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg",
+    "size": [
+     1920,
+     1277
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Gordon Leggett, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Gordon Leggett",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "fuel-tanker-truck",
+    "shows": "Elevated tanker truck at a job site in San Mateo",
+    "file": "File:Elevated tanker truck at a job site in San Mateo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg/1280px-Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg/500px-Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Grendelkhan",
+    "year": 2021,
+    "how": "catalog"
+   },
+   {
+    "shot": "gas-station",
+    "shows": "A modern BP gas station or filling station in the United States 05",
+    "file": "File:A modern BP gas station or filling station in the United States 05.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg/1920px-A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg/500px-A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg",
+    "size": [
+     1920,
+     1302
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Harrison Keely",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "offshore-platform",
+    "shows": "Oil Platform Crew Transfer",
+    "file": "File:Oil Platform Crew Transfer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oil_Platform_Crew_Transfer.jpg/1920px-Oil_Platform_Crew_Transfer.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oil_Platform_Crew_Transfer.jpg/500px-Oil_Platform_Crew_Transfer.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "GuavaTrain, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "GuavaTrain",
+    "year": 2024,
+    "how": "catalog"
+   },
+   {
+    "shot": "drilling-rig-workers",
+    "shows": "Liebherr LRB 355 Hölzla- -RM",
+    "file": "File:Liebherr LRB 355 Hölzla-20160628-RM-105526.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg/1920px-Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg/500px-Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg",
+    "size": [
+     1920,
+     1503
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ermell, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ermell",
+    "year": 2016,
+    "how": "catalog"
+   },
+   {
+    "shot": "natural-gas-plant",
+    "shows": "Kawasaki natural gas power plant",
+    "file": "File:Kawasaki natural gas power plant.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_natural_gas_power_plant.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kawasaki_natural_gas_power_plant.jpg/1920px-Kawasaki_natural_gas_power_plant.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kawasaki_natural_gas_power_plant.jpg/500px-Kawasaki_natural_gas_power_plant.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Own work, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Own work",
+    "year": 2012,
+    "how": "catalog"
+   }
+  ],
+  "checked": "2026-11-04"
+ },
+ "gold": {
+  "name": "Gold",
+  "kind": "topic",
+  "tickers": [],
+  "aliases": [
+   "gold",
+   "precious metals",
+   "bullion"
+  ],
+  "photos": [
+   {
+    "shot": "bars",
+    "shows": "Gold ingot and bar of Banque de France",
+    "file": "File:Gold ingot and bar of Banque de France.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_ingot_and_bar_of_Banque_de_France.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gold_ingot_and_bar_of_Banque_de_France.jpg/1920px-Gold_ingot_and_bar_of_Banque_de_France.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gold_ingot_and_bar_of_Banque_de_France.jpg/500px-Gold_ingot_and_bar_of_Banque_de_France.jpg",
+    "size": [
+     1920,
+     1311
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ibex73, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Ibex73",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "coins",
+    "shows": "Italian States-Piacenza 1626 2 Doppie",
+    "file": "File:Italian States-Piacenza 1626 2 Doppie.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Italian_States-Piacenza_1626_2_Doppie.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Italian_States-Piacenza_1626_2_Doppie.jpg/1920px-Italian_States-Piacenza_1626_2_Doppie.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Italian_States-Piacenza_1626_2_Doppie.jpg/500px-Italian_States-Piacenza_1626_2_Doppie.jpg",
+    "size": [
+     1920,
+     992
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Italian States, Piacenza, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Italian States, Piacenza",
+    "year": null,
+    "how": "catalog",
+    "flags": [
+     "restrictions: currency"
+    ]
+   },
+   {
+    "shot": "vault",
+    "shows": "Exhibit No. 4.5 - Gold Vault - Story of Gold - RBI Museum Kolkata",
+    "file": "File:Exhibit No. 4.5 - Gold Vault - Story of Gold - RBI Museum Kolkata.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Exhibit_No._4.5_-_Gold_Vault_-_Story_of_Gold_-_RBI_Museum_Kolkata.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Exhibit_No._4.5_-_Gold_Vault_-_Story_of_Gold_-_RBI_Museum_Kolkata.jpg/1920px-Exhibit_No._4.5_-_Gold_Vault_-_Story_of_Gold_-_RBI_Museum_Kolkata.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Exhibit_No._4.5_-_Gold_Vault_-_Story_of_Gold_-_RBI_Museum_Kolkata.jpg/500px-Exhibit_No._4.5_-_Gold_Vault_-_Story_of_Gold_-_RBI_Museum_Kolkata.jpg",
+    "size": [
+     1920,
+     1272
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Rangan Datta Wiki, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Rangan Datta Wiki",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "mine",
+    "shows": "Gold Reef City Mine Tour 004",
+    "file": "File:Gold Reef City Mine Tour 004.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_Reef_City_Mine_Tour_004.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gold_Reef_City_Mine_Tour_004.jpg/1280px-Gold_Reef_City_Mine_Tour_004.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Gold_Reef_City_Mine_Tour_004.jpg/500px-Gold_Reef_City_Mine_Tour_004.jpg",
+    "size": [
+     1280,
+     1898
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ossewa, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Ossewa",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "nugget",
+    "shows": "Largest gold nugget Sierpe Gold Museum BCCR CRI 12 2019 3578",
+    "file": "File:Largest gold nugget Sierpe Gold Museum BCCR CRI 12 2019 3578.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Largest_gold_nugget_Sierpe_Gold_Museum_BCCR_CRI_12_2019_3578.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Largest_gold_nugget_Sierpe_Gold_Museum_BCCR_CRI_12_2019_3578.jpg/1920px-Largest_gold_nugget_Sierpe_Gold_Museum_BCCR_CRI_12_2019_3578.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Largest_gold_nugget_Sierpe_Gold_Museum_BCCR_CRI_12_2019_3578.jpg/500px-Largest_gold_nugget_Sierpe_Gold_Museum_BCCR_CRI_12_2019_3578.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mariordo (Mario Roberto Durán Ortiz)",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "pouring",
+    "shows": "LaRonde Gold Pour",
+    "file": "File:LaRonde Gold Pour.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LaRonde_Gold_Pour.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LaRonde_Gold_Pour.jpg/1920px-LaRonde_Gold_Pour.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/LaRonde_Gold_Pour.jpg/500px-LaRonde_Gold_Pour.jpg",
+    "size": [
+     1920,
+     1275
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Agnico-Eagle, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Agnico-Eagle",
+    "year": 2006,
+    "how": "catalog"
+   },
+   {
+    "shot": "gold-jewelry",
+    "shows": "Gold chain with gemstones and enamel, late 16th century, The Royal Armoury, Sweden",
+    "file": "File:Gold chain with gemstones and enamel, late 16th century, The Royal Armoury, Sweden.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_chain_with_gemstones_and_enamel,_late_16th_century,_The_Royal_Armoury,_Sweden.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg/1280px-Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg/500px-Gold_chain_with_gemstones_and_enamel%2C_late_16th_century%2C_The_Royal_Armoury%2C_Sweden.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Unknown author Unknown author, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Unknown author Unknown author",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "fort-knox",
+    "shows": "An UH-1 Iroquois helicopter flies over the US Gold Bullion Depository crop-denoise",
+    "file": "File:An UH-1 Iroquois helicopter flies over the US Gold Bullion Depository crop-denoise.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:An_UH-1_Iroquois_helicopter_flies_over_the_US_Gold_Bullion_Depository_crop-denoise.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/An_UH-1_Iroquois_helicopter_flies_over_the_US_Gold_Bullion_Depository_crop-denoise.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/An_UH-1_Iroquois_helicopter_flies_over_the_US_Gold_Bullion_Depository_crop-denoise.jpg/500px-An_UH-1_Iroquois_helicopter_flies_over_the_US_Gold_Bullion_Depository_crop-denoise.jpg",
+    "size": [
+     1795,
+     1320
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Work permit, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Work permit",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "gold-panning",
+    "shows": "Gold panning student",
+    "file": "File:Gold panning student (53719323816).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gold_panning_student_(53719323816).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gold_panning_student_%2853719323816%29.jpg/1280px-Gold_panning_student_%2853719323816%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gold_panning_student_%2853719323816%29.jpg/500px-Gold_panning_student_%2853719323816%29.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "BLM Alaska, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "BLM Alaska",
+    "year": 2024,
+    "how": "catalog"
+   },
+   {
+    "shot": "silver-bars",
+    "shows": "Silver bars Spillings Hoard 2",
+    "file": "File:Silver bars Spillings Hoard 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Silver_bars_Spillings_Hoard_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Silver_bars_Spillings_Hoard_2.jpg/1920px-Silver_bars_Spillings_Hoard_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Silver_bars_Spillings_Hoard_2.jpg/500px-Silver_bars_Spillings_Hoard_2.jpg",
+    "size": [
+     1920,
+     1242
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "W.carter, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "W.carter",
+    "year": 2015,
+    "how": "catalog"
+   }
+  ],
+  "checked": "2026-11-04"
+ }
+}
