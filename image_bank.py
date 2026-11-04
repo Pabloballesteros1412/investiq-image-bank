@@ -74,10 +74,11 @@ SKIP_CATEGORY = re.compile(r"\b(logos?|wordmarks?|icons?|maps?|diagrams?|charts?
 COMPANY_PARENT = re.compile(r"compan|corporat|conglomerat|brands?\b|business|enterprises|manufactur|banks?\b|retail|insur|"
                             r"utilit|restaurant|real estate|REIT|firms?\b|airlines?\b|operators|chains?\b|S&P|NYSE|Nasdaq", re.I)
 # a company's sponsorships, races, teams, shows and events: photos that would pass for the company's own
-EVENTS = re.compile(r"\b(sports?|racing|races?|NASCAR|IndyCar|Formula|Grand Prix|Speedway|motorsports?|sponsor\w*|bowl|"
+EVENTS = re.compile(r"\b(sports?|racing|races?|NASCAR|IndyCar|Formula (?:One|1|E)|Grand Prix|Speedway|motorsports?|sponsor\w*|bowl|"
                     r"cup|championships?|tournaments?|marathon|stadiums?|arenas?|ballparks?|teams?|players|drivers|concerts?|"
                     r"festivals?|tours|music|albums?|songs?|films?|movies?|television|TV series|episodes?|video games?|seasons?|"
-                    r"premieres?|parades?|esports|athletes|matches|leagues?)\b|\b[1-9]\d{2}$", re.I)  # races: 'Daytona 500'
+                    r"premieres?|parades?|esports|athletes|matches|leagues?|pride|protests?|protesters|demonstrations?|"
+                    r"marches|rall(?:y|ies)|strikes?|pickets?|vigils?)\b|\b[1-9]\d{2}$", re.I)  # races: 'Daytona 500'
 # what a search hit's file name must also say for it to be a company's own place or thing
 BUSINESS = re.compile(r"\b(headquarters|HQ|head office|offices?|stores?|shops?|showroom|factory|factories|plants?|mills?|"
                       r"refinery|warehouse|distribution|fulfillment|data cent(?:er|re)|buildings?|towers?|campus|cent(?:er|re)|"
@@ -766,11 +767,22 @@ def about(cand, shot, keys):
     return all(has_term(hay, w) for w in words)
 
 
-def own_place(cand, keys):
-    """A search hit that is a company's own place or thing: its file name names the company and a building,
-    store, plant, product... ('Elm Street, East Blackstone MA' is not Blackstone's)."""
+def own_place(cand, keys, strict=None, core=None):
+    """A search hit that is a company's own place or thing: its file name names a building, store, plant,
+    product... and the company: in full (strict names), by a name that is not ambiguous (keys), or by its first
+    word ('Abbott Hangzhou Factory') when its categories or description then name the company in full
+    ('Elm Street, East Blackstone MA' and 'Blackstone Building, Fort Wayne' are not Blackstone's)."""
+    strict = keys if strict is None else strict
     t = clean_title(cand["file"]).lower()
-    return any(has_term(t, k) for k in keys) and bool(BUSINESS.search(t))
+    if not BUSINESS.search(t):
+        return False
+    if any(has_term(t, k) for k in strict):
+        return True
+    rest = " ".join([*cand["categories"], cand.get("description", "")]).lower().replace("_", " ")
+    confirmed = any(has_term(rest, k) for k in strict)
+    if any(has_term(t, k) for k in keys):
+        return keys == strict or confirmed
+    return bool(core) and has_term(t, core) and confirmed
 
 
 def short_name(name):
@@ -785,6 +797,8 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
     # inside the company's own category its short name is enough; in a search 'Blackstone' alone is also a town,
     # a building and a river, so an ambiguous name must be found in full
     strict = ([k for k in keys if k != short] or [name]) if c.get("ambiguous") else keys
+    first = short.split()[0].strip(",.")
+    core = first if len(first) >= 4 and first.lower() not in GENERIC_WORDS and first != short else None
     picks, stems = [], set()
 
     def take(cand, shot, shows, how, person=False, category=None, focus=None):
@@ -837,7 +851,7 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
         for _, cand, where in ranked:
             if len(picks) >= upto:
                 break
-            if per.get(where, 0) >= 2 or not fresh(cand):
+            if (where != c["commons_category"] and per.get(where, 0) >= 2) or not fresh(cand):  # two per subcategory
                 continue
             per[where] = per.get(where, 0) + 1
             take(cand, f"c{len(picks) + 1}", describe(cand, f"{name} ({where})"), "Commons category", category=where)
@@ -851,7 +865,7 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
         for _, cand, _ in choose({"id": "search", "q": f"{term} {what}".strip(), "must": strict}, src.search, used, no_sa, exclude):
             if len(picks) >= TARGET or n >= 3:
                 break
-            if fresh(cand) and own_place(cand, strict) and not EVENTS.search(" ".join(cand["categories"])):
+            if fresh(cand) and own_place(cand, keys, strict, core) and not EVENTS.search(" ".join(cand["categories"])):
                 take(cand, f"s{len(picks) + 1}", describe(cand, f"{name} {what}".strip()), "Commons search")
                 n += 1
     from_category(TARGET)

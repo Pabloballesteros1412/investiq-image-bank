@@ -1,0 +1,45 @@
+{
+ "id": "BX",
+ "kind": "company",
+ "name": "Blackstone Inc.",
+ "tickers": [
+  "BX"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Stephen A. Schwarzman, Blackstone Inc. CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Stephen_Schwarzman%2C_19_March_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stephen_Schwarzman%2C_19_March_2024.jpg/500px-Stephen_Schwarzman%2C_19_March_2024.jpg",
+   "size": [
+    990,
+    1321
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "UKinUSA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stephen_Schwarzman,_19_March_2024.jpg"
+  },
+  {
+   "shows": "Blackstone Inc. (Blackstone Inc.)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blackstone_%2855283755213%29.jpg/1920px-Blackstone_%2855283755213%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blackstone_%2855283755213%29.jpg/500px-Blackstone_%2855283755213%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ajay Suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackstone_(55283755213).jpg"
+  }
+ ]
+}

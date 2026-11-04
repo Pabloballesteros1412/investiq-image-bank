@@ -1,0 +1,44 @@
+{
+ "id": "BDX",
+ "kind": "company",
+ "name": "Becton Dickinson",
+ "tickers": [
+  "BDX"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Falcon tube",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Falcon_tube.jpg/1280px-Falcon_tube.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Falcon_tube.jpg/500px-Falcon_tube.jpg",
+   "size": [
+    1280,
+    1728
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Karbohut, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Falcon_tube.jpg"
+  },
+  {
+   "shows": "Zakje met tien steriele injectiespuiten, “B-D MICRO-Fine IV U-100 0,3 ml INSULIN”, objectnr",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Zakje_met_tien_steriele_injectiespuiten%2C_%E2%80%9CB-D_MICRO-Fine_IV_U-100_0%2C3_ml_INSULIN%E2%80%9D%2C_objectnr_86129.JPG/1920px-Zakje_met_tien_steriele_injectiespuiten%2C_%E2%80%9CB-D_MICRO-Fine_IV_U-100_0%2C3_ml_INSULIN%E2%80%9D%2C_objectnr_86129.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Zakje_met_tien_steriele_injectiespuiten%2C_%E2%80%9CB-D_MICRO-Fine_IV_U-100_0%2C3_ml_INSULIN%E2%80%9D%2C_objectnr_86129.JPG/500px-Zakje_met_tien_steriele_injectiespuiten%2C_%E2%80%9CB-D_MICRO-Fine_IV_U-100_0%2C3_ml_INSULIN%E2%80%9D%2C_objectnr_86129.JPG",
+   "size": [
+    1920,
+    1285
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Becton Dickinson, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Zakje_met_tien_steriele_injectiespuiten,_%E2%80%9CB-D_MICRO-Fine_IV_U-100_0,3_ml_INSULIN%E2%80%9D,_objectnr_86129.JPG"
+  }
+ ]
+}

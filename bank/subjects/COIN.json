@@ -1,0 +1,157 @@
+{
+ "id": "COIN",
+ "kind": "company",
+ "name": "Coinbase",
+ "tickers": [
+  "COIN"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Congrats Brian Armstrong on the Coinbase IPO!",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Congrats_Brian_Armstrong_on_the_Coinbase_IPO%21_%2851124145378%29.jpg/1920px-Congrats_Brian_Armstrong_on_the_Coinbase_IPO%21_%2851124145378%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Congrats_Brian_Armstrong_on_the_Coinbase_IPO%21_%2851124145378%29.jpg/500px-Congrats_Brian_Armstrong_on_the_Coinbase_IPO%21_%2851124145378%29.jpg",
+   "size": [
+    1920,
+    1557
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Jurvetson from Los Altos, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Congrats_Brian_Armstrong_on_the_Coinbase_IPO!_(51124145378).jpg"
+  },
+  {
+   "shows": "Nasdaq MarketSite",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/1920px-Nasdaq_MarketSite_%2851494550508%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/500px-Nasdaq_MarketSite_%2851494550508%29.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg"
+  },
+  {
+   "shows": "Cryptocurrency trading services.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cryptocurrency_%2838747838010%29.jpg/1920px-Cryptocurrency_%2838747838010%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cryptocurrency_%2838747838010%29.jpg/500px-Cryptocurrency_%2838747838010%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stock Catalog, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_(38747838010).jpg"
+  },
+  {
+   "shows": "TechCrunch Disrupt 2018 - Day 3 - 192",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TechCrunch_Disrupt_2018_-_Day_3_-_192_%2829603360267%29.jpg/1920px-TechCrunch_Disrupt_2018_-_Day_3_-_192_%2829603360267%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TechCrunch_Disrupt_2018_-_Day_3_-_192_%2829603360267%29.jpg/500px-TechCrunch_Disrupt_2018_-_Day_3_-_192_%2829603360267%29.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_2018_-_Day_3_-_192_(29603360267).jpg"
+  },
+  {
+   "shows": "Brian Armstrong - TechCrunch Disrupt 2018 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg/1280px-Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg/500px-Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg",
+   "size": [
+    1280,
+    1789
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg"
+  },
+  {
+   "shows": "Cryptocurrency Cachet",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cryptocurrency_Cachet_%2838552330941%29.jpg/1920px-Cryptocurrency_Cachet_%2838552330941%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cryptocurrency_Cachet_%2838552330941%29.jpg/500px-Cryptocurrency_Cachet_%2838552330941%29.jpg",
+   "size": [
+    1920,
+    1416
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Jurvetson from Los Altos, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_Cachet_(38552330941).jpg"
+  },
+  {
+   "shows": "Fred Ehrsam and Representative Bob Goodlatte Keynote Conversation",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_%2816257623090%29.jpg/1920px-Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_%2816257623090%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_%2816257623090%29.jpg/500px-Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_%2816257623090%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Internet Education Foundation from Washington, DC, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_(16257623090).jpg"
+  },
+  {
+   "shows": "Crowd for Fred Ehrsam keynote conversation with Representative Bob Goodlatte",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_%2815814434094%29.jpg/1920px-Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_%2815814434094%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_%2815814434094%29.jpg/500px-Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_%2815814434094%29.jpg",
+   "size": [
+    1920,
+    1283
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Internet Education Foundation from Washington, DC, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_(15814434094).jpg"
+  },
+  {
+   "shows": "Fred Ehrsam with Representative Bob Goodlatte",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fred_Ehrsam_with_Representative_Bob_Goodlatte_%2816436021102%29.jpg/1920px-Fred_Ehrsam_with_Representative_Bob_Goodlatte_%2816436021102%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fred_Ehrsam_with_Representative_Bob_Goodlatte_%2816436021102%29.jpg/500px-Fred_Ehrsam_with_Representative_Bob_Goodlatte_%2816436021102%29.jpg",
+   "size": [
+    1920,
+    1283
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Internet Education Foundation from Washington, DC, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fred_Ehrsam_with_Representative_Bob_Goodlatte_(16436021102).jpg"
+  }
+ ]
+}

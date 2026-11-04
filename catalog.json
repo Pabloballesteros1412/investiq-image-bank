@@ -469,7 +469,7 @@
    {"id": "bear-statue", "q": "Bulle und Bär Frankfurt", "alt": ["bull and bear statue", "bear statue stock exchange"], "scene": "The bull and bear statues outside the Frankfurt Stock Exchange"},
    {"id": "1929", "q": "Wall Street crash 1929", "alt": ["crowd Wall Street 1929", "Black Tuesday"], "scene": "Crowds on Wall Street during the 1929 crash, black and white", "historic": true},
    {"id": "ticker", "q": "electronic stock ticker", "alt": ["stock ticker", "LED stock ticker"], "scene": "An electronic stock ticker scrolling prices"},
-   {"id": "1987", "q": "Black Monday 1987 stock market crash", "alt": ["stock market crash 1987"], "must": ["black monday", "1987 crash", "stock market crash"], "scene": "Black Monday stock market crash of 1987", "historic": true},
+   {"id": "1987", "q": "Black Monday 1987 stock market crash", "alt": ["stock market crash 1987"], "must": ["black monday", "1987 crash", "stock market crash"], "exclude": ["File:USD-EUR 1985-1987.jpg"], "scene": "Black Monday stock market crash of 1987", "historic": true},
    {"id": "falling-stock-prices-screen", "q": "stock prices screen", "alt": ["stock market display board", "stock ticker display"], "must": ["stock market", "stock exchange", "trading floor", "stock prices", "ticker", "stock quotes"], "scene": "falling stock prices screen"},
    "Lehman Brothers headquarters",
    "Occupy Wall Street"
@@ -579,7 +579,7 @@
    "one dollar bill",
    "dollar coins",
    {"id": "currency-exchange-office", "q": "currency exchange office", "alt": ["bureau de change", "money exchange counter"], "must": ["exchange office", "bureau de change", "currency exchange", "money exchange", "money changer"], "scene": "currency exchange office"},
-   {"id": "japanese-yen-banknotes", "q": "Japanese yen banknotes", "alt": ["10000 yen notes", "yen bills"], "must": ["yen"], "scene": "Japanese yen banknotes"},
+   {"id": "japanese-yen-banknotes", "q": "Japanese yen banknotes", "alt": ["10000 yen notes", "yen bills"], "must": ["yen"], "exclude": ["File:Japanese WWII Ten Yen Note.jpg"], "scene": "Japanese yen banknotes"},
    "Swiss franc banknotes"
   ]},
   {"id": "bonds", "kind": "topic", "name": "Treasuries, bonds & national debt", "aliases": ["bonds", "treasuries", "yields", "debt", "deficit", "10-year"], "shots": [
@@ -598,7 +598,7 @@
    {"id": "suburb", "q": "suburban housing aerial", "alt": ["suburb aerial", "housing development aerial"], "scene": "A suburban housing development from above"},
    {"id": "for-sale", "q": "house for sale sign", "alt": ["for sale sign", "real estate sign"], "scene": "A 'for sale' sign in front of a house"},
    {"id": "construction", "q": "residential construction", "alt": ["housing construction", "new homes construction"], "scene": "New homes under construction"},
-   {"id": "keys", "q": "house keys", "alt": ["new home keys", "keys in door"], "must": ["key", "keys"], "scene": "House keys handed over, close-up"},
+   {"id": "keys", "q": "house keys", "alt": ["new home keys", "keys in door"], "must": ["key", "keys"], "exclude": ["File:Wooden house (window shutters), Riga.jpg"], "scene": "House keys handed over, close-up"},
    {"id": "apartments", "q": "apartment buildings", "alt": ["apartment complex", "residential buildings"], "scene": "Rows of apartment buildings"},
    {"id": "open-house", "q": "open house sign", "alt": ["open house real estate"], "must": ["open house"], "scene": "An 'open house' sign on a front lawn"},
    {"id": "new-homes-aerial", "q": "housing subdivision aerial", "alt": ["new housing development aerial", "suburban subdivision"], "must": ["subdivision", "new homes", "housing development", "housing estate", "suburb", "suburban"], "scene": "new homes aerial"},
@@ -610,7 +610,7 @@
    {"id": "terminal", "q": "Bloomberg Terminal", "alt": ["Bloomberg keyboard", "financial terminal"], "scene": "A financial data terminal with keyboard and screens"},
    {"id": "report", "q": "annual report", "alt": ["financial report", "annual report pages"], "scene": "Pages of an annual report with financial tables"},
    {"id": "newspaper", "q": "financial newspaper", "alt": ["Wall Street Journal", "Financial Times newspaper"], "scene": "A financial newspaper folded on a desk with coffee"},
-   {"id": "analyst", "q": "financial analyst monitors", "alt": ["trader desk screens", "equity analyst"], "must": ["analyst", "trader", "trading desk", "trading floor"], "scene": "An analyst at a desk with several monitors"},
+   {"id": "analyst", "q": "trading desk monitors", "alt": ["traders at desks", "trading floor traders"], "must": ["trading desk", "trading floor", "trader", "traders", "trading room"], "exclude": ["File:Pueblo Chemical Agent-Destruction Pilot Plant Project Controls Analyst (48544554137).jpg"], "scene": "An analyst at a desk with several monitors"},
    {"id": "quotes", "q": "stock quotes screen", "alt": ["stock prices display", "stock ticker screen"], "must": ["stock", "quotes", "ticker"], "scene": "Stock quotes on a screen, close-up"},
    {"id": "stage", "q": "CEO keynote stage", "alt": ["keynote presentation", "conference keynote"], "scene": "An executive presenting results on stage"},
    "shareholder meeting",
@@ -662,7 +662,7 @@
    {"id": "missile", "q": "Patriot missile launch", "alt": ["missile launch", "missile test"], "scene": "A missile launch at dusk"},
    {"id": "drone", "q": "MQ-9 Reaper", "alt": ["military drone", "Bayraktar TB2"], "scene": "A military drone in flight"},
    "M1 Abrams",
-   {"id": "submarine", "q": "US Navy submarine", "alt": ["Virginia-class submarine", "Ohio-class submarine"], "must": ["uss", "submarine", "virginia-class", "ohio-class"], "scene": "submarine"},
+   {"id": "submarine", "q": "US Navy submarine", "alt": ["Virginia-class submarine", "Ohio-class submarine"], "must": ["uss", "submarine", "virginia-class", "ohio-class"], "exclude": ["File:Bow Views of USS R-21, USS R-23, USS R-27, and S-2 (50913400621).jpg"], "scene": "submarine"},
    "military parade",
    "Eurofighter Typhoon"
   ]},
@@ -717,17 +717,17 @@
   {"id": "glp1", "kind": "topic", "name": "Weight-loss drugs (GLP-1)", "aliases": ["glp-1", "weight loss", "obesity drugs", "ozempic", "wegovy", "zepbound"], "shots": [
    {"id": "pen", "q": "semaglutide", "alt": ["GLP-1 injection pen", "injection pen"], "scene": "A GLP-1 injection pen on a bathroom counter"},
    {"id": "injection", "q": "semaglutide injection pen", "alt": ["Ozempic pen", "insulin pen injection"], "must": ["pen", "semaglutide", "ozempic", "wegovy", "injection pen", "insulin"], "scene": "A person self-injecting with a pen"},
-   {"id": "scale", "q": "bathroom scale", "alt": ["weighing scale feet", "body weight scale"], "must": ["bathroom scale", "weighing", "weight scale", "body weight"], "scene": "Feet on a bathroom scale"},
+   {"id": "scale", "q": "bathroom scale", "alt": ["weighing scale feet", "body weight scale"], "must": ["bathroom scale", "weighing", "weight scale", "body weight"], "exclude": ["File:Oficinas salitreras de Humberstone y Santa Laura, Chile, 2016-02-11, DD 32.jpg"], "scene": "Feet on a bathroom scale"},
    {"id": "pharmacy", "q": "pharmacy shelves", "alt": ["pharmacy", "drugstore shelves"], "scene": "Pharmacy shelves full of medicines"},
    {"id": "gym", "q": "gym workout", "alt": ["fitness gym", "gym"], "scene": "People exercising in a gym"},
    {"id": "food", "q": "healthy meal", "alt": ["salad bowl", "healthy food"], "scene": "A healthy meal bowl seen from above"},
    "measuring tape waist",
    "nutritionist",
    "jogging park",
-   {"id": "fresh-vegetables", "q": "fresh vegetables", "must": ["vegetables", "vegetable", "salad", "produce"], "scene": "fresh vegetables"}
+   {"id": "fresh-vegetables", "q": "fresh vegetables", "must": ["vegetables", "vegetable", "salad", "produce"], "exclude": ["File:Illuminated facade of a restaurant serving traditional food with fresh vegetables in Chiyoda, Tokyo.jpg"], "scene": "fresh vegetables"}
   ]},
   {"id": "politics", "kind": "topic", "name": "US politics & markets", "aliases": ["politics", "white house", "election", "congress", "president", "shutdown"], "shots": [
-   {"id": "white-house", "q": "White House", "alt": ["White House north facade", "White House Washington"], "must": ["white house"], "scene": "The White House in Washington, D.C."},
+   {"id": "white-house", "q": "White House", "alt": ["White House Washington", "White House north portico"], "must": ["white house"], "exclude": ["File:White House (Moscow) at sunset - 2025 (3).jpg"], "scene": "The White House in Washington, D.C."},
    {"id": "capitol-night", "q": "United States Capitol night", "alt": ["Capitol at night", "US Capitol dusk"], "scene": "The U.S. Capitol lit up at night"},
    {"id": "oval-office", "q": "Oval Office", "alt": ["Resolute desk"], "scene": "The Oval Office"},
    {"id": "supreme-court", "q": "United States Supreme Court Building", "alt": ["Supreme Court building", "Supreme Court of the United States"], "scene": "The U.S. Supreme Court building"},
@@ -743,7 +743,7 @@
    {"id": "frankfurt", "q": "Frankfurt skyline", "alt": ["Frankfurt am Main skyline", "Frankfurt banking district"], "scene": "Frankfurt's banking district skyline"},
    {"id": "paris-bourse", "q": "Palais Brongniart", "alt": ["Euronext Paris", "Paris Bourse"], "scene": "Palais Brongniart, the historic Paris stock exchange"},
    {"id": "la-defense", "q": "La Défense", "alt": ["La Defense Paris", "La Défense skyline"], "scene": "The La Défense business district in Paris"},
-   {"id": "euro-coins", "q": "euro coins", "alt": ["euro cent coins", "euro coin"], "must": ["euro coins", "euro coin", "euro-coins", "euro cents", "euro cent"], "exclude": ["File:Confocal measurement of 1-euro-star 3d and euro.png"], "scene": "Euro coins and banknotes"},
+   {"id": "euro-coins", "q": "euro coins", "alt": ["euro cent coins", "euro coin"], "must": ["euro coins", "euro coin", "euro-coins", "euro cents", "euro cent"], "exclude": ["File:Confocal measurement of 1-euro-star 3d and euro.png", "File:Confocal measurement of 1-euro-star 3d.png"], "scene": "Euro coins and banknotes"},
    {"id": "lagarde", "q": "Christine Lagarde", "scene": "Christine Lagarde, ECB President", "person": true},
    "Berlaymont",
    "Reichstag building",
@@ -859,7 +859,7 @@
    {"id": "office-open-space", "q": "open plan office", "alt": ["open-plan office", "office interior desks"], "must": ["office"], "scene": "office open space"}
   ]},
   {"id": "sector-health", "kind": "sector", "name": "Health care sector", "gics": "Health Care", "aliases": ["health care"], "shots": [
-   {"id": "hospital", "q": "hospital", "must": ["hospital", "medical center", "medical centre"], "scene": "hospital"},
+   {"id": "hospital", "q": "hospital", "must": ["hospital", "medical center", "medical centre"], "exclude": ["File:Ellis Island hospital window mural (01897).jpg"], "scene": "hospital"},
    "pharmaceutical laboratory",
    "pills blister",
    "doctor stethoscope",
@@ -876,7 +876,7 @@
    "insurance office",
    "credit cards",
    "stock exchange",
-   {"id": "banknotes", "q": "US dollar banknotes", "alt": ["hundred dollar bills"], "must": ["dollar"], "scene": "banknotes"},
+   {"id": "banknotes", "q": "US dollar banknotes", "alt": ["hundred dollar bills"], "must": ["dollar"], "exclude": ["File:US-$2-SC-1896-Fr.247.jpg"], "scene": "banknotes"},
    "financial district",
    "bank vault",
    "calculator documents",

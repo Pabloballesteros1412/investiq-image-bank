@@ -1,0 +1,60 @@
+{
+ "id": "CAH",
+ "kind": "company",
+ "name": "Cardinal Health",
+ "tickers": [
+  "CAH"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Cardinal Health headquarters (Dublin, Ohio)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cardinal_Health_headquarters_%28Dublin%2C_Ohio%29.jpg/1920px-Cardinal_Health_headquarters_%28Dublin%2C_Ohio%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Cardinal_Health_headquarters_%28Dublin%2C_Ohio%29.jpg/500px-Cardinal_Health_headquarters_%28Dublin%2C_Ohio%29.jpg",
+   "size": [
+    1920,
+    1078
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nheyob, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cardinal_Health_headquarters_(Dublin,_Ohio).jpg"
+  },
+  {
+   "shows": "Cardinal Health Headquarters Aerial",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cardinal_Health_Headquarters_Aerial.jpg/1920px-Cardinal_Health_Headquarters_Aerial.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Cardinal_Health_Headquarters_Aerial.jpg/500px-Cardinal_Health_Headquarters_Aerial.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "InvadingInvader, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cardinal_Health_Headquarters_Aerial.jpg"
+  },
+  {
+   "shows": "US441sUS129sGA24sRoadSigns",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/US441sUS129sGA24sRoadSigns_%2842118273681%29.jpg/1920px-US441sUS129sGA24sRoadSigns_%2842118273681%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/US441sUS129sGA24sRoadSigns_%2842118273681%29.jpg/500px-US441sUS129sGA24sRoadSigns_%2842118273681%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "formulanone from Huntsville, United States, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:US441sUS129sGA24sRoadSigns_(42118273681).jpg"
+  }
+ ]
+}

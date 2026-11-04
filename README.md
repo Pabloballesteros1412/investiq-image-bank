@@ -77,15 +77,30 @@ el chat ve el banco nuevo en cuanto están en GitHub.
 ## Cómo elige cada foto
 
 Una empresa recibe primero sus tomas escritas a mano (si las tiene), después su imagen principal de Wikidata,
-una foto de su CEO, las mejores fotos de su categoría de Commons y subcategorías (como mucho dos por
-subcategoría y sin casi duplicados) y, si aún faltan, búsquedas de su sede, tiendas, fábricas y oficinas en
-las que aparezca el nombre de la empresa. Los temas y sectores tienen 10 búsquedas escritas a mano.
+la foto de su CEO (la de la ficha de esa persona en Wikidata; si no hay, una búsqueda con su nombre completo
+que además nombre la empresa), las mejores fotos de su categoría de Commons y de las subcategorías que llevan
+su nombre (como mucho dos por subcategoría y sin casi duplicados) y búsquedas de su sede, tiendas, fábricas y
+oficinas. Los temas y sectores tienen 10 búsquedas escritas a mano.
+
+Para que una foto no pase por de la empresa sin serlo:
+
+- en la categoría de la empresa, solo cuentan las fotos cuyo nombre de archivo dice lo que muestran (no
+  `IMG_0412` ni `P20210825AS-1824`), y nunca las de patrocinios, carreras, equipos, conciertos o eventos, ni las
+  de subcategorías de personas o de empresas participadas (la categoría de NextEra lleva a NASCAR; la de
+  Blackstone, a canciones de Fleetwood Mac);
+- una foto encontrada por búsqueda tiene que nombrar a la empresa y un lugar o cosa suya (sede, tienda,
+  planta, producto...) en el nombre del archivo;
+- si el nombre corto es ambiguo (el artículo «Blackstone», «Target» o «Ball» de Wikipedia es otra cosa), se
+  busca por el nombre completo y la foto tiene que nombrarlo;
+- `shows` dice lo que muestra la foto según su nombre en Commons, no lo que se buscaba.
 
 Solo acepta fotos que cumplen todo esto:
 
 - licencia libre: CC0, dominio público, CC BY o CC BY-SA;
 - al menos 1600 px de lado largo y 1000 px de lado corto, en JPEG o PNG;
-- un nombre de archivo que no indique logo, mapa, gráfico, diagrama, captura o ilustración;
+- un nombre de archivo que no indique logo, mapa, gráfico, diagrama, captura o ilustración, y que no sea una
+  carta, un cuadro o un plano (salvo en tomas históricas), ni de antes de 1960 (salvo en tomas históricas);
+- las fotos de personas pueden ser más pequeñas (1000 px de lado largo);
 - que no se use ya en otra ficha.
 
 Puntúan mejor las fotos destacadas o de calidad de Commons, las que recortan bien a 4:5 y 1:1, las recientes
@@ -103,6 +118,9 @@ con las de su sector.
   corrige el campo y añade `"manual": ["commons_category"]` (o el campo que sea). Se mantiene en cada
   `universe`.
 - **Una empresa que falta o sobra:** añádela o quítala en `extras.json`.
+- **Una búsqueda de tema que trae fotos que no son:** en `catalog.json`, en la toma, añade `"must": [...]`
+  (palabras que tienen que aparecer en el nombre o las categorías de la foto) o `"exclude": ["File:…"]`, y
+  ejecuta `python image_bank.py build --only <tema>`.
 
 ## Licencias
 
@@ -117,3 +135,6 @@ con las de su sector.
 - **CEO.** Wikidata dice quién es el CEO, pero puede ir con retraso: comprueba el cargo antes de publicar.
 - **Enlaces.** Si una foto se borra de Commons, su enlace deja de funcionar. Repetir `build --redo` de vez en
   cuando renueva el banco.
+- **Descargas desde la nube.** Desde direcciones compartidas (sesiones en la nube), `upload.wikimedia.org`
+  también responde 429 a las descargas anónimas. En el navegador de quien ve el carrusel las fotos cargan
+  bien; un script en la nube que las descargue tiene que mandar la clave (`Authorization: Bearer`).

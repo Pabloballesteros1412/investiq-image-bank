@@ -1,0 +1,28 @@
+{
+ "id": "CRWV",
+ "kind": "company",
+ "name": "CoreWeave",
+ "tickers": [
+  "CRWV"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "CoreWeave bond yields",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CoreWeave_bond_yields.jpg/1920px-CoreWeave_bond_yields.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CoreWeave_bond_yields.jpg/500px-CoreWeave_bond_yields.jpg",
+   "size": [
+    1920,
+    1153
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wikideas1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:CoreWeave_bond_yields.jpg"
+  }
+ ]
+}

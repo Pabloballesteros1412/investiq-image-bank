@@ -1,0 +1,28 @@
+{
+ "id": "CINF",
+ "kind": "company",
+ "name": "Cincinnati Financial",
+ "tickers": [
+  "CINF"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "The Cincinnati Enquirer page C-6",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg/1280px-The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg/500px-The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg",
+   "size": [
+    1280,
+    2020
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Cincinnati Enquirer, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg"
+  }
+ ]
+}

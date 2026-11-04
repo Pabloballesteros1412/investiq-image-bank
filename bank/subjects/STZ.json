@@ -1,0 +1,60 @@
+{
+ "id": "STZ",
+ "kind": "company",
+ "name": "Constellation Brands",
+ "tickers": [
+  "STZ"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Constellation Brands headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Constellation_Brands_headquarters.jpg/1920px-Constellation_Brands_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Constellation_Brands_headquarters.jpg/500px-Constellation_Brands_headquarters.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DanielPenfield, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Constellation_Brands_headquarters.jpg"
+  },
+  {
+   "shows": "James Taylor 2025 CMAC",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/James_Taylor_2025_CMAC.jpg/1280px-James_Taylor_2025_CMAC.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/James_Taylor_2025_CMAC.jpg/500px-James_Taylor_2025_CMAC.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "J. Passepartout, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:James_Taylor_2025_CMAC.jpg"
+  },
+  {
+   "shows": "Constellation Brands Marvin Sands Performing Arts Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CMAC.JPG/1920px-CMAC.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CMAC.JPG/500px-CMAC.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel Christensen ( talk ), CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CMAC.JPG"
+  }
+ ]
+}

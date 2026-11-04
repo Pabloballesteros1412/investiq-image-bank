@@ -1,0 +1,28 @@
+{
+ "id": "BG",
+ "kind": "company",
+ "name": "Bunge Global",
+ "tickers": [
+  "BG"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "VDO Bunge waterfront",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/VDO_Bunge_waterfront.jpg/1920px-VDO_Bunge_waterfront.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/VDO_Bunge_waterfront.jpg/500px-VDO_Bunge_waterfront.jpg",
+   "size": [
+    1920,
+    1093
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ikar.us, CC BY 3.0 de, via Wikimedia Commons",
+   "licence": "CC BY 3.0 de",
+   "source": "https://commons.wikimedia.org/wiki/File:VDO_Bunge_waterfront.jpg"
+  }
+ ]
+}

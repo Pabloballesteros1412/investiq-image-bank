@@ -267,6 +267,13 @@ class Build(unittest.TestCase):
         keys = ["Blackstone", "Blackstone Inc."]
         self.assertTrue(B.own_place(cand("File:Blackstone headquarters 345 Park Avenue.jpg"), keys))
         self.assertFalse(B.own_place(cand("File:Elm Street, East Blackstone MA.jpg"), keys))   # a town, not the firm
+        abbott = ["Abbott Laboratories"]
+        hz = cand("File:201407 Abbott Hangzhou Factory in HEDA.jpg", cats=["Abbott Laboratories"])
+        self.assertTrue(B.own_place(hz, abbott, abbott, core="Abbott"))                # first word + its category
+        self.assertFalse(B.own_place(cand("File:Abbott Hangzhou Factory.jpg"), abbott, abbott, core="Abbott"))
+        bb = cand("File:Fort Wayne - Blackstone Building.jpg", cats=["Blackstone Building (Fort Wayne)"])
+        self.assertFalse(B.own_place(bb, keys, ["Blackstone Inc."]))                    # ambiguous: needs the full name
+        self.assertFalse(B.EVENTS.search("Infant formula"))
         self.assertTrue(B.EVENTS.search("NextEra Energy Resources 250 NASCAR races"))
         self.assertFalse(B.EVENTS.search("Apple Park"))
         self.assertTrue(B.EVENTS.search("2019 NextEra Energy 250"))                               # a race

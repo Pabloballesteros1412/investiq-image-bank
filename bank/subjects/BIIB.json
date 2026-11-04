@@ -1,0 +1,44 @@
+{
+ "id": "BIIB",
+ "kind": "company",
+ "name": "Biogen",
+ "tickers": [
+  "BIIB"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "The Philip A. Sharp Building in Cambridge, MA, which houses the headquarters of Biogen",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Biogen.jpg/1920px-Biogen.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Biogen.jpg/500px-Biogen.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Astrophobe, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Biogen.jpg"
+  },
+  {
+   "shows": "Biogen Power Station on Royston Road - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Biogen_Power_Station_on_Royston_Road_-_geograph.org.uk_-_6806596.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Biogen_Power_Station_on_Royston_Road_-_geograph.org.uk_-_6806596.jpg/500px-Biogen_Power_Station_on_Royston_Road_-_geograph.org.uk_-_6806596.jpg",
+   "size": [
+    1765,
+    1163
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "David Howard, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Biogen_Power_Station_on_Royston_Road_-_geograph.org.uk_-_6806596.jpg"
+  }
+ ]
+}

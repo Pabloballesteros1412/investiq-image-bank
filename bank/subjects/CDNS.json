@@ -1,0 +1,45 @@
+{
+ "id": "CDNS",
+ "kind": "company",
+ "name": "Cadence Design Systems",
+ "tickers": [
+  "CDNS"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "The Cadence Research and Development Center opened on February 9, 2009 (Author: Cadence, Source: Cadence, Cadence corporate provided email confirmation that I c",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CadenceHQ.jpg/1920px-CadenceHQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CadenceHQ.jpg/500px-CadenceHQ.jpg",
+   "size": [
+    1920,
+    1419
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The original uploader was King4057 at English Wikipedia ., CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CadenceHQ.jpg"
+  },
+  {
+   "shows": "Anirudh Devgan, Cadence Design Systems CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anirudh_Devgan.jpg/1920px-Anirudh_Devgan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anirudh_Devgan.jpg/500px-Anirudh_Devgan.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Niralidevgan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Anirudh_Devgan.jpg"
+  }
+ ]
+}

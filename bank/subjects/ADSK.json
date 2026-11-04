@@ -6,7 +6,6 @@
   "ADSK"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Autodesk headquarters",
@@ -57,20 +56,68 @@
    "source": "https://commons.wikimedia.org/wiki/File:AutodeskToronto.JPG"
   },
   {
-   "shows": "Planning Design",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Planning_Design.png/1920px-Planning_Design.png",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Planning_Design.png/500px-Planning_Design.png",
+   "shows": "Mayor Walsh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mayor_Walsh_-_16875554439.jpg/1920px-Mayor_Walsh_-_16875554439.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mayor_Walsh_-_16875554439.jpg/500px-Mayor_Walsh_-_16875554439.jpg",
    "size": [
     1920,
-    1926
+    1440
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Planning Design, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Planning_Design.png"
+   "credit": "Eric Haines, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mayor_Walsh_-_16875554439.jpg"
+  },
+  {
+   "shows": "Ball-socket joint",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ball-socket_joint.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ball-socket_joint.png/500px-Ball-socket_joint.png",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NeD80, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Ball-socket_joint.png"
+  },
+  {
+   "shows": "CreativeTools.se - PackshotCreator - PokketMouse",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/CreativeTools.se_-_PackshotCreator_-_PokketMouse_%285588908766%29.jpg/1920px-CreativeTools.se_-_PackshotCreator_-_PokketMouse_%285588908766%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/CreativeTools.se_-_PackshotCreator_-_PokketMouse_%285588908766%29.jpg/500px-CreativeTools.se_-_PackshotCreator_-_PokketMouse_%285588908766%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Creative Tools from Halmstad, Sweden, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:CreativeTools.se_-_PackshotCreator_-_PokketMouse_(5588908766).jpg"
+  },
+  {
+   "shows": "Hinge joint",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Hinge_joint.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hinge_joint.png/500px-Hinge_joint.png",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NeD80, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Hinge_joint.png"
   },
   {
    "shows": "Autodesk Technology Centre Toronto (night)",
@@ -103,6 +150,22 @@
    "credit": "Unknown author, CC0, via Wikimedia Commons",
    "licence": "CC0",
    "source": "https://commons.wikimedia.org/wiki/File:Autodesk_End_of_Life_Products.png"
+  },
+  {
+   "shows": "Robot arm model 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Robot_arm_model_1.png/1920px-Robot_arm_model_1.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Robot_arm_model_1.png/500px-Robot_arm_model_1.png",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NeD80, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Robot_arm_model_1.png"
   }
  ]
 }
