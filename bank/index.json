@@ -1,10 +1,10 @@
 {
- "about": "InvestIQ image bank for carousels: freely licensed photos from Wikimedia Commons of S&P 500 and well-known US-listed companies, market topics and GICS sectors.",
+ "about": "InvestIQ image bank for carousels: freely licensed photos of S&P 500 and well-known US-listed companies (Wikimedia Commons, only the best, checked by eye), market topics and GICS sectors (Unsplash, Pexels and Wikimedia Commons).",
  "rules": [
   "Use only the photos listed in this bank for InvestIQ carousels; never other images from the web.",
   "Each subject (company, topic or sector) has a file at its 'file' address with up to 10 photos. For each photo: 'url' is the photo on Wikimedia Commons (about 1280-1920 px wide), 'preview' a 500 px version to look at before choosing, 'shows' what it shows, 'focus' [x, y] the point to keep when cropping (0-1 from the left and from the top).",
   "Crop the photo to the slide yourself: 4:5 (1200x1500) or 1:1 (1200x1200), centred on 'focus'. In HTML: object-fit: cover; object-position: x% y% (x and y times 100).",
-  "Credit every photo you use with its exact 'credit' line: small text on the slide, or a final credits slide.",
+  "Credit every photo you use with its exact 'credit' line: small text on the slide, or a final credits slide. Photos from Unsplash and Pexels ('provider') also give 'author_url': link the photographer there when the carousel has links (a post caption, a web page).",
   "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
   "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ. Roles (CEO, chair...) come from Wikidata or the catalog and can be out of date: check before naming one.",
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."

@@ -261,6 +261,9 @@ class Build(unittest.TestCase):
         self.assertIsNotNone(B.score(letter, 0, {"id": "x", "historic": True}))
         self.assertTrue(B.has_term("3m world headquarters", "3m"))
         self.assertFalse(B.has_term("3mm screws", "3m"))
+        self.assertFalse(B.has_term("fokker f.viib-3m van de spaanse", "3m"))
+        self.assertFalse(B.has_term("3m-54e submarine launched anti-ship missile", "3m"))
+        self.assertTrue(B.has_term("3m's new plant", "3m"))
         self.assertTrue(B.has_term("laronde gold pouring", "gold pour"))
 
     def test_own_places_and_events(self):
@@ -374,3 +377,84 @@ class Build(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FakeStock:
+    """An Unsplash-like source for the tests."""
+    name = "unsplash"
+
+    def __init__(self):
+        self.tracked = []
+
+    def search(self, q):
+        rows = [{"id": "a1", "width": 6000, "height": 4000, "alt_description": "gold bar on black table",
+                 "urls": {"raw": "https://images.unsplash.com/photo-a1?ixid=x"}, "links": {"html": "https://unsplash.com/photos/a1",
+                 "download_location": "https://api.unsplash.com/photos/a1/download"}, "user": {"name": "Ann Lee", "links": {"html": "https://unsplash.com/@ann"}}},
+                {"id": "a2", "width": 6000, "height": 4000, "alt_description": "3d render of gold bars",
+                 "urls": {"raw": "https://images.unsplash.com/photo-a2"}, "links": {"html": "https://unsplash.com/photos/a2"}, "user": {"name": "Bo"}},
+                {"id": "a3", "width": 6000, "height": 4000, "alt_description": "gold bars", "premium": True,
+                 "urls": {"raw": "https://plus.unsplash.com/premium_photo-a3"}, "links": {"html": "https://unsplash.com/photos/a3"}, "user": {"name": "Cy"}},
+                {"id": "a4", "width": 6000, "height": 4000, "alt_description": "a sunset over the sea",
+                 "urls": {"raw": "https://images.unsplash.com/photo-a4"}, "links": {"html": "https://unsplash.com/photos/a4"}, "user": {"name": "Di"}}]
+        return [c for c in (stock.Unsplash.candidate(r) for r in rows) if c] if "gold" in q else []
+
+    def track(self, url):
+        self.tracked.append(url)
+
+
+import stock  # noqa: E402
+
+
+class Stock(unittest.TestCase):
+    def test_candidates_filters_and_links(self):
+        src = FakeStock()
+        files = [c["file"] for c in src.search("gold bars")]
+        self.assertNotIn("unsplash:a3", files)                                           # Unsplash+ is not free
+        shot = {"id": "bars", "q": "gold bars", "scene": "Gold bars"}
+        r = B.choose(shot, lambda q: [cand("File:Gold bars commons.jpg")], stock_sources=[src])
+        self.assertEqual(r[0][1]["file"], "unsplash:a1")                                 # stock first when it matches
+        self.assertNotIn("unsplash:a2", [x[1]["file"] for x in r])                       # renders are not photos
+        self.assertNotIn("unsplash:a4", [x[1]["file"] for x in r])                       # 'gold' and 'bar' must be named
+        self.assertIn("File:Gold bars commons.jpg", [x[1]["file"] for x in r])
+        p = B.photo(r[0][1], "bars", B.describe(r[0][1], "x"), "catalog", (0.5, 0.5))
+        self.assertEqual((p["shows"], p["credit"], p["provider"]), ("Gold bar on black table", "Photo by Ann Lee on Unsplash", "unsplash"))
+        self.assertTrue(p["url"].startswith("https://images.unsplash.com/photo-a1?ixid=x&w=2250&"))  # 1500 px tall for 4:5
+        self.assertEqual(p["size"], [2250, 1500])
+        self.assertIn("w=500", p["preview"])
+        px = stock.Pexels.candidate({"id": 7, "width": 4000, "height": 6000, "url": "https://www.pexels.com/photo/oil-rig-at-sea-7/",
+                                     "photographer": "Eve", "photographer_url": "https://www.pexels.com/@eve", "alt": "",
+                                     "src": {"original": "https://images.pexels.com/photos/7/pexels-photo-7.jpeg"}})
+        self.assertEqual((px["alt"], B.credit_line(px)), ("oil rig at sea", "Photo by Eve on Pexels"))
+        self.assertEqual(B.links(px)[2], [1200, 1800])
+
+    def test_people_never_come_from_stock(self):
+        r = B.choose({"id": "boss", "q": "gold bars", "person": True}, lambda q: [], stock_sources=[FakeStock()])
+        self.assertEqual(r, [])
+
+
+class Review(unittest.TestCase):
+    def test_only_best_commons_photos_are_published_and_never_picked_again(self):
+        with tempfile.TemporaryDirectory() as d:
+            bank = Path(d)
+            uni = [{"id": "MMM", "name": "3M", "tickers": ["MMM"], "sector": "Industrials", "commons_category": "3M",
+                    "image": "3M HQ Maplewood.jpg", "ceo": "William Brown", "wikidata": "Q1"}]
+            (bank / "universe.json").write_text(json.dumps({"companies": uni}))
+            src = Fake()
+            src.stock = [FakeStock()]
+            src.track = lambda p: src.stock[0].track(p["track"])
+            m = B.build(MINI, bank, src, kinds=("company", "topic"), log=lambda *_: None)
+            self.assertEqual(m["gold"]["photos"][0]["provider"], "unsplash")
+            self.assertEqual(src.stock[0].tracked, ["https://api.unsplash.com/photos/a1/download"])  # told once, when chosen
+            mmm = [p["file"] for p in m["MMM"]["photos"]]
+            B.save_review({"min_grade": 3, "grades": {mmm[0]: 3, mmm[1]: 2, mmm[2]: 1}}, bank)
+            B.index(bank, "https://example.org/bank")
+            rec = {s["id"]: s for s in json.loads((bank / "index.json").read_text())["subjects"]}
+            self.assertEqual(rec["MMM"]["photos"], 1)                                  # graded 3; 2, 1 and unreviewed hidden
+            self.assertEqual(rec["MMM"]["fill_from"], "sector-industrials")
+            gold = json.loads((bank / "subjects" / "gold.json").read_text())["photos"]
+            self.assertEqual((gold[0]["provider"], gold[0]["author_url"]), ("unsplash", "https://unsplash.com/@ann?" + stock.UTM))
+            m = B.build(MINI, bank, src, only="MMM", log=lambda *_: None)
+            again = [p["file"] for p in m["MMM"]["photos"]]
+            self.assertNotIn(mmm[1], again)
+            self.assertNotIn(mmm[2], again)
+            self.assertIn(mmm[0], again)

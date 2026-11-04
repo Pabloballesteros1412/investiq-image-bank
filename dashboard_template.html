@@ -169,8 +169,8 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
     nt.textContent = "Todavía no hay fotos";
     nx.textContent = "Se buscarán en Wikimedia Commons en cuanto el entorno tenga acceso: 10 por cada empresa del S&P 500 y empresas famosas que cotizan en EE. UU., 10 por tema y 10 por sector. Mientras tanto, cada tema enseña sus búsquedas y sus prompts de IA.";
   } else {
-    nt.textContent = "Fotos enlazadas desde Wikimedia Commons";
-    nx.textContent = "Cada foto lleva su crédito obligatorio. Si una empresa tiene menos de 10, el chat de carruseles la completa con fotos genéricas de su sector. Si las miniaturas no se ven aquí, abre la galería pública del repo.";
+    nt.textContent = "Fotos de Wikimedia Commons, Unsplash y Pexels";
+    nx.innerHTML = 'Las de empresas vienen de <a href="https://commons.wikimedia.org" target="_blank" rel="noopener">Wikimedia Commons</a> y solo están las mejores, revisadas a ojo. Las de temas y sectores, de <a href="https://unsplash.com/?utm_source=investiq_image_bank&amp;utm_medium=referral" target="_blank" rel="noopener">Unsplash</a> y <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a> cuando las hay. Cada foto lleva su crédito. Si una empresa tiene menos de 10, el chat la completa con fotos genéricas de su sector. Si las miniaturas no se ven aquí, abre la galería pública del repo.';
   }
 
   function card(s) {

@@ -2,8 +2,10 @@
 
 Un banco de fotos propio, reales y con licencia libre, para el chat de Claude que hace los carruseles de
 InvestIQ. Tiene 10 fotos por cada empresa del S&P 500 y por cada empresa famosa que cotiza en EE. UU., 10 por
-cada tema de mercado y 10 por cada sector. Las fotos no se copian: el banco guarda el enlace de cada una en
-Wikimedia Commons, qué muestra, su crédito y dónde recortarla. El chat lo lee en `bank/index.json`. Cómo
+cada tema de mercado y 10 por cada sector. Las de empresas vienen de Wikimedia Commons y solo se publican las
+mejores, revisadas a ojo; las de temas y sectores, de Unsplash y Pexels (y de Commons cuando ellos no tienen lo
+que se busca). Las fotos no se copian: el banco guarda el enlace de cada una, qué muestra, su crédito y dónde
+recortarla. El chat lo lee en `bank/index.json`. Cómo
 conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
 
 - **Empresas (unas 590):** las del S&P 500, que se leen de Wikipedia en cada `universe`, más 86 empresas
@@ -39,6 +41,13 @@ existe. Para crearla, inicia sesión en Wikimedia, confirma tu correo (Wikimedia
 <https://meta.wikimedia.org/wiki/Special:OAuthConsumerRegistration/propose/oauth2>, marca «This consumer is for
 use only by …» (solo para tu cuenta: se aprueba al momento), elige «Request authorization for specific
 permissions» sin añadir permisos y copia el «Access token» que aparece al final. No la subas nunca al repo.
+
+Para Unsplash y Pexels hacen falta sus claves en `UNSPLASH_ACCESS_KEY` y `PEXELS_API_KEY` (gratis: en
+<https://unsplash.com/developers>, «New Application», y en <https://www.pexels.com/api/>) y acceso a
+`api.unsplash.com`, `images.unsplash.com`, `api.pexels.com` e `images.pexels.com`. Sin clave, esa fuente se
+salta. Unsplash da 50 búsquedas por hora a una aplicación nueva (5.000 cuando la aprueba para producción: se
+pide en su web) y Pexels 200; el programa espera cuando se acaban y guarda las respuestas en `.cache/` (fuera
+del repo), así que repetir una construcción no gasta búsquedas.
 
 ```bash
 python image_bank.py universe
@@ -84,6 +93,11 @@ el chat ve el banco nuevo en cuanto están en GitHub.
 
 ## Cómo elige cada foto
 
+Los temas y sectores buscan cada una de sus 10 tomas en Unsplash, Pexels y Commons. Una foto de Unsplash o
+Pexels solo vale si su descripción nombra todas las palabras de la búsqueda (o una de las palabras `must` de la
+toma), y entonces gana a la de Commons, porque suelen estar mucho mejor hechas. Nunca se usan para personas
+reales, ni las de Unsplash+ (no tienen licencia libre), ni renders, ilustraciones o frases.
+
 Una empresa recibe primero sus tomas escritas a mano (si las tiene), después su imagen principal de Wikidata,
 la foto de su CEO (la de la ficha de esa persona en Wikidata; si no hay, una búsqueda con su nombre completo
 que además nombre la empresa), las mejores fotos de su categoría de Commons y de las subcategorías que llevan
@@ -117,6 +131,30 @@ Puntúan mejor las fotos destacadas o de calidad de Commons, las que recortan bi
 Muchas empresas poco conocidas no tendrán 10 fotos libres propias: el índice lo dice y el chat las completa
 con las de su sector.
 
+## Revisar las fotos de Commons
+
+Las fotos de Commons son muy desiguales, así que cada una lleva una nota en `bank/review.json`, puesta mirándolas:
+3 = de las mejores (se vería bien a toda página en una diapositiva y muestra claramente algo de la empresa o
+del tema), 2 = válida pero sosa, 1 = descartada. **El índice solo publica las de nota 3**, y el programa no vuelve a
+elegir las de nota 1 o 2. Las de Unsplash y Pexels no necesitan nota. Los criterios, con ejemplos, están en
+`RUBRIC.md`.
+
+Después de cada `build`, las fotos nuevas de Commons quedan sin publicar hasta que se revisan:
+
+```bash
+python review.py sheets
+```
+
+crea hojas de 30 fotos numeradas en `review/` (hace falta Pillow). Las notas se apuntan en un JSON
+(`{"sheet-001": {"3": [1, 2], "2": [5]}}`, las que no se nombran quedan con 1) y se guardan con:
+
+```bash
+python review.py grade review/notas.json
+```
+```bash
+python image_bank.py index
+```
+
 ## Corregir a mano
 
 - **Una foto mala:** en `bank/manifest.json`, en la ficha, añade `"exclude": ["File:…"]` y
@@ -141,6 +179,9 @@ con las de su sector.
   entender que la persona respalda InvestIQ. Los logos y productos que salen en las fotos siguen siendo
   marcas de sus dueños.
 - **CEO.** Wikidata dice quién es el CEO, pero puede ir con retraso: comprueba el cargo antes de publicar.
+- **Unsplash y Pexels.** Su licencia permite el uso comercial sin pedir permiso ni citar, aunque ambas piden
+  el crédito («Photo by … on Unsplash») y el banco lo da en `credit`, con el enlace al fotógrafo en
+  `author_url`. No se puede vender la foto tal cual ni montar con ellas otro banco de fotos público.
 - **Enlaces.** Si una foto se borra de Commons, su enlace deja de funcionar. Repetir `build --redo` de vez en
   cuando renueva el banco.
 - **Descargas desde la nube.** Desde direcciones compartidas (sesiones en la nube), `upload.wikimedia.org`

@@ -1,6 +1,6 @@
 # Image credits
 
-Photos from Wikimedia Commons, linked from there. Credit them as shown when the licence asks for attribution (CC BY, CC BY-SA); public-domain and CC0 photos need none, but crediting is good practice.
+Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit them as shown: CC BY and CC BY-SA ask for it; public-domain, CC0, Unsplash and Pexels photos do not, but crediting is good practice and the Unsplash and Pexels guidelines ask for it.
 
 ## 3M (MMM)
 
