@@ -1,0 +1,4 @@
+# photos are too heavy for Git (~1 GB for the whole bank): keep them in storage
+bank/**/*.jpg
+__pycache__/
+*.pyc
