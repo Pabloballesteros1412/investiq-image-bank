@@ -75,7 +75,9 @@ class Choosing(unittest.TestCase):
     def test_ranking(self):
         plain = B.score(cand("File:A.jpg"), 0, SHOT)
         self.assertGreater(B.score(cand("File:B.jpg", cats=["Featured pictures on Wikimedia Commons"]), 3, SHOT), plain)
-        self.assertLess(B.score(cand("File:C.jpg", w=2000, h=3000), 0, SHOT), plain)       # portrait for a landscape shot
+        self.assertLess(B.score(cand("File:C.jpg", w=2000, h=3000), 0, {**SHOT, "orient": "landscape"}), plain)
+        self.assertEqual(B.score(cand("File:C.jpg", w=2000, h=3000), 0, SHOT), plain)       # 4:5 slides: portrait is fine
+        self.assertLess(B.score(cand("File:P.jpg", w=6000, h=2000), 0, SHOT), plain)        # a panorama crops badly
         self.assertLess(B.score(cand("File:D.jpg", year=1975), 0, SHOT), plain)           # old photo
         self.assertEqual(B.score(cand("File:D.jpg", year=1929), 0, {**SHOT, "historic": True}), B.score(cand("File:E.jpg", year=None), 0, SHOT))
         self.assertGreater(B.score(cand("File:F.jpg", lic="cc-by-4.0", short="CC BY 4.0"), 0, SHOT), plain)  # freer licence
@@ -128,8 +130,8 @@ class Build(unittest.TestCase):
         self.assertTrue(all(s["status"] == "ok" for e in m.values() for s in e["shots"].values()))
         files = [s["file"] for e in m.values() for s in e["shots"].values()]
         self.assertEqual(len(files), len(set(files)))                     # never the same photo twice
-        self.assertEqual(size(self.bank / "AAPL" / "s0.16x9.jpg"), (1920, 1080))
-        self.assertEqual(size(self.bank / "AAPL" / "s0.9x16.jpg"), (1080, 1920))
+        self.assertEqual(size(self.bank / "AAPL" / "s0.4x5.jpg"), (1200, 1500))
+        self.assertEqual(size(self.bank / "AAPL" / "s0.1x1.jpg"), (1200, 1200))
         self.assertEqual(max(size(self.bank / "AAPL" / "s0.jpg")), 2560)
         self.assertEqual(shots["leader"]["focus"], [0.5, 0.33])
         self.assertIn("restrictions: personality", shots["leader"]["flags"])
@@ -140,7 +142,7 @@ class Build(unittest.TestCase):
         self.assertEqual(B.prompts(MINI, self.bank), 0)
         self.assertEqual(B.prompts(MINI, self.bank, all_shots=True), 10)  # the person is never generated
         self.assertEqual(B.sheet(MINI, self.bank), (11, 11))
-        self.assertEqual(len(B.lookup("bullion", "9x16", self.bank, MINI)), 5)
+        self.assertEqual(len(B.lookup("bullion", "1x1", self.bank, MINI)), 5)
 
     def test_dashboard_shows_downloaded_previews(self):
         import dashboard as D
@@ -150,6 +152,18 @@ class Build(unittest.TestCase):
         self.assertIsNone(rows["AAPL"]["shots"][0]["thumb"])
         self.assertIsNone(rows["AAPL"]["shots"][5]["prompt"])          # a real person: no AI prompt
         self.assertEqual(sorted(D.thumb_files(self.bank)), [f"gold/g{i}.thumb.jpg" for i in range(5)])
+
+    def test_index_for_the_carousel_chat(self):
+        self.run_build(only="gold")
+        self.assertEqual(B.index(MINI, self.bank, "https://example.org/bank"), 5)
+        ix = json.loads((self.bank / "index.json").read_text())
+        gold = next(s for s in ix["subjects"] if s["id"] == "gold")
+        p = gold["photos"][0]
+        self.assertEqual((p["4x5"], p["1x1"], p["thumb"]), ("https://example.org/bank/gold/g0.4x5.jpg",
+                         "https://example.org/bank/gold/g0.1x1.jpg", "https://example.org/bank/gold/g0.thumb.jpg"))
+        self.assertEqual(p["credit"], "Jane Doe, CC BY-SA 4.0, via Wikimedia Commons")
+        self.assertEqual(next(s for s in ix["subjects"] if s["id"] == "AAPL")["photos"], [])
+        self.assertTrue(any("credit" in r for r in ix["rules"]))
 
     def test_second_build_is_incremental(self):
         self.run_build()

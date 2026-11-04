@@ -1,17 +1,19 @@
 """
-Image bank for InvestIQ videos: 5-6 photos for each large company and each mainstream market topic
+Image bank for InvestIQ's carousels (made by a Claude chat on claude.ai): 5-6 photos for each large company and each mainstream market topic
 (catalog.json), taken from Wikimedia Commons under free licences or in the public domain, with the
-author and licence of every photo recorded for the credits, plus ready-made crops for 16:9 and 9:16 video.
+author and licence of every photo recorded for the credits, plus ready-made crops for 4:5 and 1:1 slides, and
+bank/index.json: what the carousel chat reads to find a photo and its public address.
 
     python image_bank.py build                    (search and download every shot not in the bank yet)
     python image_bank.py build --only AAPL,gold   (search again some subjects, by id, ticker or alias)
     python image_bank.py build --redo             (search again every shot not fixed by hand)
     python image_bank.py build --no-sa            (no CC BY-SA photos: only CC0, public domain and CC BY)
-    python image_bank.py build --formats 16x9,9x16,1x1,4x5   (crops to make; default 16x9,9x16)
+    python image_bank.py build --formats 4x5,1x1,16x9,9x16   (crops to make; default 4x5,1x1)
     python image_bank.py sheet                    (bank/review.html: every photo at a glance, with credits)
     python image_bank.py credits                  (bank/CREDITS.md and bank/credits.csv)
     python image_bank.py prompts [--all]          (bank/prompts.jsonl: AI image prompts for shots without a photo)
-    python image_bank.py list AAPL [--format 9x16] (the photos of a company or topic, with their credit line)
+    python image_bank.py list AAPL [--format 1x1]  (the photos of a company or topic, with their credit line)
+    python image_bank.py index [--base-url URL]   (bank/index.json for the carousel chat; default: the repo's raw GitHub address)
     python image_bank.py check                    (validate catalog.json)
 
 Needs Python 3.9+ and Pillow, and network access to commons.wikimedia.org and upload.wikimedia.org.
@@ -20,7 +22,8 @@ How a photo is chosen: Commons full-text search for the shot's query (then its f
 only bitmap photos with a free licence (CC0, public domain, CC BY, CC BY-SA), at least 1600 px on the long
 side and 1000 px on the short side, whose file name is not a logo, map, chart, diagram or screenshot, and
 not already used by another shot. Ranking: search relevance, Commons "featured" / "quality" / "valued"
-pictures first, orientation that fits the video, recent photos (unless the shot is historic), freer licences.
+pictures first, proportions that crop well to 4:5 and 1:1 (no panoramas), recent photos (unless the shot is
+historic), freer licences.
 The best one is downloaded (long side 2560 px), cropped around the shot's focus point, and the next three
 are kept in the manifest as alternates for the review.
 
@@ -38,13 +41,15 @@ HERE = Path(__file__).resolve().parent
 CATALOG = HERE / "catalog.json"
 BANK = HERE / "bank"
 API = "https://commons.wikimedia.org/w/api.php"
-UA = "InvestIQ-image-bank/1.0 (https://getinvestiq.com; video image bank)"
+UA = "InvestIQ-image-bank/1.0 (https://getinvestiq.com; carousel image bank)"
+BASE_URL = "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/"  # public address of bank/
 
 MIN_LONG, MIN_SHORT = 1600, 1000      # smallest acceptable photo (px)
 MASTER_LONG = 2560                    # long side of the stored photo
 FETCH_W = 3840                        # Commons thumbnail width asked for photos wider than this (a standard size)
-FORMATS = {"16x9": (1920, 1080), "9x16": (1080, 1920), "1x1": (1080, 1080), "4x5": (1080, 1350), "4x3": (1440, 1080)}
-DEFAULT_FORMATS = ("16x9", "9x16")
+# 4x5 = Instagram portrait post and LinkedIn document (1200x1500); 1x1 = square post; the others for video
+FORMATS = {"4x5": (1200, 1500), "1x1": (1200, 1200), "16x9": (1920, 1080), "9x16": (1080, 1920), "3x4": (1080, 1440)}
+DEFAULT_FORMATS = ("4x5", "1x1")
 SOFT = 1.25                           # a crop enlarged more than this is flagged as soft
 PERSON_FOCUS = (0.5, 0.33)            # faces sit in the upper third
 MIMES = {"image/jpeg", "image/png", "image/webp", "image/tiff"}
@@ -212,13 +217,13 @@ def score(c, rank, shot, used=(), no_sa=False, exclude=()):
     cats = " ".join(c["categories"]).lower()
     s += 25 if "featured pictures" in cats else 15 if "quality images" in cats else 8 if "valued images" in cats else 0
     ratio = w / h
-    orient = shot.get("orient", "any" if shot.get("person") else "landscape")
+    orient = shot.get("orient", "any")
     if orient == "landscape":
         s += 10 if ratio >= 1.3 else 0 if ratio >= 1 else -25
     elif orient == "portrait":
         s += 10 if ratio <= 0.85 else -10
-    else:
-        s += 5 if ratio >= 1.3 else 0
+    else:  # 4:5 and 1:1 slides: anything from portrait to 3:2 crops well, panoramas lose too much
+        s += 10 if 0.6 <= ratio <= 1.6 else 0 if ratio <= 2.0 else -20
     if max(w, h) >= 3000:
         s += 5
     y = c.get("year")
@@ -416,13 +421,13 @@ def prompts(cat=None, bank=BANK, all_shots=False):
             if sh.get("person") or (st == "ok" and not all_shots):
                 continue
             lines.append(json.dumps({"id": f"{s['id']}/{sh['id']}", "subject": s["name"], "prompt": f"{sh['scene']}. {cat['style']}",
-                                     "negative": cat.get("negative", ""), "aspect": "16:9"}, ensure_ascii=False))
+                                     "negative": cat.get("negative", ""), "aspect": "4:5"}, ensure_ascii=False))
     Path(bank).mkdir(parents=True, exist_ok=True)
     (Path(bank) / "prompts.jsonl").write_text("\n".join(lines) + ("\n" if lines else ""), encoding="utf-8")
     return len(lines)
 
 
-def lookup(key, fmt="16x9", bank=BANK, cat=None):
+def lookup(key, fmt="4x5", bank=BANK, cat=None):
     """The photos of a company or topic (id, ticker or alias): [{shot, path, credit, scene}], paths absolute."""
     cat = cat or load_catalog()
     s = find_subject(cat, key)
@@ -439,6 +444,49 @@ def lookup(key, fmt="16x9", bank=BANK, cat=None):
         if p.exists():
             out.append({"shot": sh["id"], "path": str(p), "credit": x["credit"], "scene": sh["scene"]})
     return out
+
+
+RULES = [
+    "Use only the photos listed here for InvestIQ carousels; never other images from the web.",
+    "Credit every photo you use with its exact 'credit' line: small text on the slide, or a final credits slide.",
+    "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
+    "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ.",
+    "Find photos by subject id, ticker or alias, then choose by 'shows'. '4x5' is 1200x1500 (portrait slide), "
+    "'1x1' is 1200x1200 (square slide), 'thumb' is a small preview to look at before choosing.",
+]
+
+
+def index(cat=None, bank=BANK, base_url=BASE_URL):
+    """bank/index.json: what the carousel chat reads. Every downloaded photo with what it shows, its credit
+    and the public address of each crop (base_url + path inside bank/)."""
+    cat = cat or load_catalog()
+    bank = Path(bank)
+    m = load_manifest(bank)
+    base = base_url.rstrip("/") + "/"
+    subjects, n = [], 0
+    for s in cat["subjects"]:
+        e = m.get(s["id"], {}).get("shots", {})
+        photos = []
+        for sh in s["shots"]:
+            x = e.get(sh["id"], {})
+            if x.get("status") != "ok":
+                continue
+            p = {"shot": sh["id"], "shows": sh["scene"]}
+            if sh.get("person"):
+                p["person"] = True
+            if sh.get("historic"):
+                p["historic"] = True
+            p.update({f: base + path for f, path in x.get("crops", {}).items()})
+            p.update(thumb=f"{base}{s['id']}/{sh['id']}.thumb.jpg", credit=x["credit"], licence=x.get("licence"), source=x.get("page"))
+            photos.append(p)
+        n += len(photos)
+        subjects.append({"id": s["id"], "kind": s["kind"], "name": s["name"], "tickers": s.get("tickers", []),
+                         "aliases": s.get("aliases", []), "photos": photos})
+    out = {"about": "InvestIQ image bank for carousels: freely licensed photos of large companies and market topics, from Wikimedia Commons.",
+           "rules": RULES, "updated": date.today().isoformat(), "photos": n, "subjects": subjects}
+    bank.mkdir(parents=True, exist_ok=True)
+    (bank / "index.json").write_text(json.dumps(out, indent=1, ensure_ascii=False), encoding="utf-8")
+    return n
 
 
 def sheet(cat=None, bank=BANK):
@@ -481,7 +529,7 @@ def sheet(cat=None, bank=BANK):
 
 if __name__ == "__main__":
     a = sys.argv[1:]
-    if not a or a[0] not in ("build", "sheet", "credits", "prompts", "list", "check"):
+    if not a or a[0] not in ("build", "sheet", "credits", "prompts", "list", "check", "index"):
         sys.exit(__doc__)
     arg = lambda name: a[a.index(name) + 1] if name in a and a.index(name) + 1 < len(a) else None
     if a[0] == "check":
@@ -491,8 +539,8 @@ if __name__ == "__main__":
         sys.exit(1 if p else 0)
     if a[0] == "list":
         if len(a) < 2:
-            sys.exit("python image_bank.py list <id, ticker or alias> [--format 16x9]")
-        for r in lookup(a[1], arg("--format") or "16x9"):
+            sys.exit("python image_bank.py list <id, ticker or alias> [--format 4x5]")
+        for r in lookup(a[1], arg("--format") or "4x5"):
             print(f"{r['path']}\t{r['credit']}")
         sys.exit()
     if a[0] == "build":
@@ -502,6 +550,8 @@ if __name__ == "__main__":
         print(f"credits: {credits()} photos")
     if a[0] in ("build", "prompts"):
         print(f"prompts: {prompts(all_shots='--all' in a)} shots")
+    if a[0] in ("build", "index"):
+        print(f"index.json: {index(base_url=arg('--base-url') or BASE_URL)} photos")
     if a[0] in ("build", "sheet"):
         ok, total = sheet()
         print(f"review.html: {ok} of {total} shots with a photo ({BANK / 'review.html'})")

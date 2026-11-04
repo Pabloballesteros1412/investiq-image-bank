@@ -1,0 +1,928 @@
+{
+ "about": "InvestIQ image bank for carousels: freely licensed photos of large companies and market topics, from Wikimedia Commons.",
+ "rules": [
+  "Use only the photos listed here for InvestIQ carousels; never other images from the web.",
+  "Credit every photo you use with its exact 'credit' line: small text on the slide, or a final credits slide.",
+  "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
+  "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ.",
+  "Find photos by subject id, ticker or alias, then choose by 'shows'. '4x5' is 1200x1500 (portrait slide), '1x1' is 1200x1200 (square slide), 'thumb' is a small preview to look at before choosing."
+ ],
+ "updated": "2026-11-04",
+ "photos": 0,
+ "subjects": [
+  {
+   "id": "AAPL",
+   "kind": "company",
+   "name": "Apple",
+   "tickers": [
+    "AAPL"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "MSFT",
+   "kind": "company",
+   "name": "Microsoft",
+   "tickers": [
+    "MSFT"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "NVDA",
+   "kind": "company",
+   "name": "Nvidia",
+   "tickers": [
+    "NVDA"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "AMZN",
+   "kind": "company",
+   "name": "Amazon",
+   "tickers": [
+    "AMZN"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "GOOGL",
+   "kind": "company",
+   "name": "Alphabet (Google)",
+   "tickers": [
+    "GOOGL",
+    "GOOG"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "META",
+   "kind": "company",
+   "name": "Meta Platforms",
+   "tickers": [
+    "META"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "TSLA",
+   "kind": "company",
+   "name": "Tesla",
+   "tickers": [
+    "TSLA"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "AVGO",
+   "kind": "company",
+   "name": "Broadcom",
+   "tickers": [
+    "AVGO"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "ORCL",
+   "kind": "company",
+   "name": "Oracle",
+   "tickers": [
+    "ORCL"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "NFLX",
+   "kind": "company",
+   "name": "Netflix",
+   "tickers": [
+    "NFLX"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "PLTR",
+   "kind": "company",
+   "name": "Palantir",
+   "tickers": [
+    "PLTR"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "AMD",
+   "kind": "company",
+   "name": "AMD",
+   "tickers": [
+    "AMD"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "INTC",
+   "kind": "company",
+   "name": "Intel",
+   "tickers": [
+    "INTC"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "TSM",
+   "kind": "company",
+   "name": "TSMC",
+   "tickers": [
+    "TSM",
+    "2330.TW"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "ASML",
+   "kind": "company",
+   "name": "ASML",
+   "tickers": [
+    "ASML",
+    "ASML.AS"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "CRM",
+   "kind": "company",
+   "name": "Salesforce",
+   "tickers": [
+    "CRM"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "ADBE",
+   "kind": "company",
+   "name": "Adobe",
+   "tickers": [
+    "ADBE"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "IBM",
+   "kind": "company",
+   "name": "IBM",
+   "tickers": [
+    "IBM"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "MU",
+   "kind": "company",
+   "name": "Micron Technology",
+   "tickers": [
+    "MU"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "SPCX",
+   "kind": "company",
+   "name": "SpaceX",
+   "tickers": [
+    "SPCX"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "BRK-B",
+   "kind": "company",
+   "name": "Berkshire Hathaway",
+   "tickers": [
+    "BRK-B",
+    "BRK-A"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "JPM",
+   "kind": "company",
+   "name": "JPMorgan Chase",
+   "tickers": [
+    "JPM"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "V",
+   "kind": "company",
+   "name": "Visa",
+   "tickers": [
+    "V"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "MA",
+   "kind": "company",
+   "name": "Mastercard",
+   "tickers": [
+    "MA"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "LLY",
+   "kind": "company",
+   "name": "Eli Lilly",
+   "tickers": [
+    "LLY"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "NVO",
+   "kind": "company",
+   "name": "Novo Nordisk",
+   "tickers": [
+    "NVO",
+    "NOVO-B.CO"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "UNH",
+   "kind": "company",
+   "name": "UnitedHealth Group",
+   "tickers": [
+    "UNH"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "JNJ",
+   "kind": "company",
+   "name": "Johnson & Johnson",
+   "tickers": [
+    "JNJ"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "PFE",
+   "kind": "company",
+   "name": "Pfizer",
+   "tickers": [
+    "PFE"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "WMT",
+   "kind": "company",
+   "name": "Walmart",
+   "tickers": [
+    "WMT"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "COST",
+   "kind": "company",
+   "name": "Costco",
+   "tickers": [
+    "COST"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "XOM",
+   "kind": "company",
+   "name": "ExxonMobil",
+   "tickers": [
+    "XOM"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "CVX",
+   "kind": "company",
+   "name": "Chevron",
+   "tickers": [
+    "CVX"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "KO",
+   "kind": "company",
+   "name": "The Coca-Cola Company",
+   "tickers": [
+    "KO"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "PEP",
+   "kind": "company",
+   "name": "PepsiCo",
+   "tickers": [
+    "PEP"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "MCD",
+   "kind": "company",
+   "name": "McDonald's",
+   "tickers": [
+    "MCD"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "NKE",
+   "kind": "company",
+   "name": "Nike",
+   "tickers": [
+    "NKE"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "DIS",
+   "kind": "company",
+   "name": "The Walt Disney Company",
+   "tickers": [
+    "DIS"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "SBUX",
+   "kind": "company",
+   "name": "Starbucks",
+   "tickers": [
+    "SBUX"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "HD",
+   "kind": "company",
+   "name": "The Home Depot",
+   "tickers": [
+    "HD"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "BA",
+   "kind": "company",
+   "name": "Boeing",
+   "tickers": [
+    "BA"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "CAT",
+   "kind": "company",
+   "name": "Caterpillar",
+   "tickers": [
+    "CAT"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "LMT",
+   "kind": "company",
+   "name": "Lockheed Martin",
+   "tickers": [
+    "LMT"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "GE",
+   "kind": "company",
+   "name": "GE Aerospace",
+   "tickers": [
+    "GE"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "GS",
+   "kind": "company",
+   "name": "Goldman Sachs",
+   "tickers": [
+    "GS"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "BAC",
+   "kind": "company",
+   "name": "Bank of America",
+   "tickers": [
+    "BAC"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "BLK",
+   "kind": "company",
+   "name": "BlackRock",
+   "tickers": [
+    "BLK"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "UBER",
+   "kind": "company",
+   "name": "Uber",
+   "tickers": [
+    "UBER"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "MSTR",
+   "kind": "company",
+   "name": "Strategy (MicroStrategy)",
+   "tickers": [
+    "MSTR"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "COIN",
+   "kind": "company",
+   "name": "Coinbase",
+   "tickers": [
+    "COIN"
+   ],
+   "aliases": [],
+   "photos": []
+  },
+  {
+   "id": "fed",
+   "kind": "topic",
+   "name": "Federal Reserve & interest rates",
+   "tickers": [],
+   "aliases": [
+    "fed",
+    "interest rates",
+    "fomc",
+    "rate cut",
+    "rate hike"
+   ],
+   "photos": []
+  },
+  {
+   "id": "inflation",
+   "kind": "topic",
+   "name": "Inflation & cost of living",
+   "tickers": [],
+   "aliases": [
+    "inflation",
+    "cpi",
+    "prices",
+    "cost of living"
+   ],
+   "photos": []
+  },
+  {
+   "id": "recession",
+   "kind": "topic",
+   "name": "Recession & slowdown",
+   "tickers": [],
+   "aliases": [
+    "recession",
+    "slowdown",
+    "downturn",
+    "gdp"
+   ],
+   "photos": []
+  },
+  {
+   "id": "jobs",
+   "kind": "topic",
+   "name": "Jobs & labor market",
+   "tickers": [],
+   "aliases": [
+    "jobs",
+    "employment",
+    "unemployment",
+    "payrolls",
+    "labor"
+   ],
+   "photos": []
+  },
+  {
+   "id": "bull-market",
+   "kind": "topic",
+   "name": "Wall Street & stock market rallies",
+   "tickers": [],
+   "aliases": [
+    "stock market",
+    "wall street",
+    "rally",
+    "bull market",
+    "s&p 500",
+    "record high"
+   ],
+   "photos": []
+  },
+  {
+   "id": "crash",
+   "kind": "topic",
+   "name": "Market crash & volatility",
+   "tickers": [],
+   "aliases": [
+    "crash",
+    "sell-off",
+    "bear market",
+    "volatility",
+    "correction",
+    "panic"
+   ],
+   "photos": []
+  },
+  {
+   "id": "ai",
+   "kind": "topic",
+   "name": "Artificial intelligence boom",
+   "tickers": [],
+   "aliases": [
+    "ai",
+    "artificial intelligence",
+    "generative ai",
+    "llm",
+    "chatbot"
+   ],
+   "photos": []
+  },
+  {
+   "id": "datacenters",
+   "kind": "topic",
+   "name": "AI data centers & power demand",
+   "tickers": [],
+   "aliases": [
+    "data center",
+    "datacenter",
+    "power demand",
+    "electricity",
+    "grid",
+    "capex"
+   ],
+   "photos": []
+  },
+  {
+   "id": "chips",
+   "kind": "topic",
+   "name": "Semiconductors & the chip war",
+   "tickers": [],
+   "aliases": [
+    "semiconductors",
+    "chips",
+    "chip war",
+    "export controls"
+   ],
+   "photos": []
+  },
+  {
+   "id": "crypto",
+   "kind": "topic",
+   "name": "Bitcoin & crypto",
+   "tickers": [],
+   "aliases": [
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "ethereum",
+    "btc"
+   ],
+   "photos": []
+  },
+  {
+   "id": "gold",
+   "kind": "topic",
+   "name": "Gold",
+   "tickers": [],
+   "aliases": [
+    "gold",
+    "precious metals",
+    "bullion"
+   ],
+   "photos": []
+  },
+  {
+   "id": "oil",
+   "kind": "topic",
+   "name": "Oil & energy",
+   "tickers": [],
+   "aliases": [
+    "oil",
+    "crude",
+    "opec",
+    "brent",
+    "wti",
+    "energy"
+   ],
+   "photos": []
+  },
+  {
+   "id": "tariffs",
+   "kind": "topic",
+   "name": "Tariffs & trade war",
+   "tickers": [],
+   "aliases": [
+    "tariffs",
+    "trade war",
+    "trade",
+    "imports",
+    "customs"
+   ],
+   "photos": []
+  },
+  {
+   "id": "china",
+   "kind": "topic",
+   "name": "China economy",
+   "tickers": [],
+   "aliases": [
+    "china",
+    "chinese economy",
+    "yuan",
+    "beijing"
+   ],
+   "photos": []
+  },
+  {
+   "id": "dollar",
+   "kind": "topic",
+   "name": "US dollar & currencies",
+   "tickers": [],
+   "aliases": [
+    "dollar",
+    "usd",
+    "currencies",
+    "fx",
+    "forex",
+    "eurusd"
+   ],
+   "photos": []
+  },
+  {
+   "id": "bonds",
+   "kind": "topic",
+   "name": "Treasuries, bonds & national debt",
+   "tickers": [],
+   "aliases": [
+    "bonds",
+    "treasuries",
+    "yields",
+    "debt",
+    "deficit",
+    "10-year"
+   ],
+   "photos": []
+  },
+  {
+   "id": "housing",
+   "kind": "topic",
+   "name": "Housing market & mortgages",
+   "tickers": [],
+   "aliases": [
+    "housing",
+    "real estate",
+    "mortgages",
+    "home prices",
+    "homebuilders"
+   ],
+   "photos": []
+  },
+  {
+   "id": "earnings",
+   "kind": "topic",
+   "name": "Earnings season",
+   "tickers": [],
+   "aliases": [
+    "earnings",
+    "results",
+    "quarterly results",
+    "guidance",
+    "eps"
+   ],
+   "photos": []
+  },
+  {
+   "id": "ipo",
+   "kind": "topic",
+   "name": "IPOs",
+   "tickers": [],
+   "aliases": [
+    "ipo",
+    "listing",
+    "initial public offering",
+    "going public"
+   ],
+   "photos": []
+  },
+  {
+   "id": "ev",
+   "kind": "topic",
+   "name": "Electric vehicles",
+   "tickers": [],
+   "aliases": [
+    "ev",
+    "electric vehicles",
+    "electric cars",
+    "batteries"
+   ],
+   "photos": []
+  },
+  {
+   "id": "nuclear",
+   "kind": "topic",
+   "name": "Nuclear power & uranium",
+   "tickers": [],
+   "aliases": [
+    "nuclear",
+    "uranium",
+    "smr",
+    "nuclear power"
+   ],
+   "photos": []
+  },
+  {
+   "id": "defense",
+   "kind": "topic",
+   "name": "Defense & geopolitics",
+   "tickers": [],
+   "aliases": [
+    "defense",
+    "defence",
+    "war",
+    "geopolitics",
+    "military",
+    "nato"
+   ],
+   "photos": []
+  },
+  {
+   "id": "consumer",
+   "kind": "topic",
+   "name": "Consumer spending & retail",
+   "tickers": [],
+   "aliases": [
+    "consumer",
+    "retail",
+    "spending",
+    "retail sales",
+    "holiday season"
+   ],
+   "photos": []
+  },
+  {
+   "id": "banks",
+   "kind": "topic",
+   "name": "Banks & the financial system",
+   "tickers": [],
+   "aliases": [
+    "banks",
+    "banking",
+    "bank crisis",
+    "regional banks",
+    "credit"
+   ],
+   "photos": []
+  },
+  {
+   "id": "investing",
+   "kind": "topic",
+   "name": "Investing basics, retirement & index funds",
+   "tickers": [],
+   "aliases": [
+    "investing",
+    "retirement",
+    "index funds",
+    "etf",
+    "savings",
+    "compound interest",
+    "401k"
+   ],
+   "photos": []
+  },
+  {
+   "id": "space",
+   "kind": "topic",
+   "name": "Space economy",
+   "tickers": [],
+   "aliases": [
+    "space",
+    "satellites",
+    "space economy",
+    "rockets"
+   ],
+   "photos": []
+  },
+  {
+   "id": "glp1",
+   "kind": "topic",
+   "name": "Weight-loss drugs (GLP-1)",
+   "tickers": [],
+   "aliases": [
+    "glp-1",
+    "weight loss",
+    "obesity drugs",
+    "ozempic",
+    "wegovy",
+    "zepbound"
+   ],
+   "photos": []
+  },
+  {
+   "id": "politics",
+   "kind": "topic",
+   "name": "US politics & markets",
+   "tickers": [],
+   "aliases": [
+    "politics",
+    "white house",
+    "election",
+    "congress",
+    "president",
+    "shutdown"
+   ],
+   "photos": []
+  },
+  {
+   "id": "europe",
+   "kind": "topic",
+   "name": "Europe & the ECB",
+   "tickers": [],
+   "aliases": [
+    "europe",
+    "ecb",
+    "eurozone",
+    "euro",
+    "cac 40",
+    "dax",
+    "stoxx"
+   ],
+   "photos": []
+  }
+ ]
+}

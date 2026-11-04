@@ -3,7 +3,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
 <style>
-/* Layout: InvestIQ "page room" — sticky search bar, subject index on the left, contact sheets of 16:9 frames on the right. */
+/* Layout: InvestIQ "page room" — sticky search bar, subject index on the left, contact sheets of photo frames (4:5 crop guide) on the right. */
 :root {
   --bg: #f2f5fb;
   --surface: #ffffff;
@@ -97,7 +97,7 @@ section.subject { display: grid; gap: 12px; scroll-margin-top: calc(env(safe-are
 article.shot { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; min-width: 0; }
 .frame { position: relative; aspect-ratio: 16 / 9; max-width: 100%; background: var(--frame); display: flex; align-items: center; justify-content: center; }
 .frame img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
-.frame .crop { position: absolute; top: 8%; bottom: 8%; left: 50%; width: calc(84% * 9 / 16 * 9 / 16); transform: translateX(-50%); border: 1px dashed var(--frame-line); border-radius: 3px; }
+.frame .crop { position: absolute; top: 8%; bottom: 8%; left: 50%; width: calc(84% * 9 / 16 * 4 / 5); transform: translateX(-50%); border: 1px dashed var(--frame-line); border-radius: 3px; }
 .frame .fmt { position: absolute; left: 8px; bottom: 6px; font-size: 10px; color: var(--ink-3); letter-spacing: 0.04em; }
 .frame .file { position: relative; font-size: var(--fs-small); color: var(--ink-2); background: var(--frame); padding: 2px 6px; border-radius: 5px; }
 .pill { position: absolute; top: 8px; right: 8px; font-size: 10px; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase; padding: 3px 7px; border-radius: 20px; }
@@ -128,13 +128,13 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
 </style>
 
 <header class="top wrap">
-  <div class="eyebrow">InvestIQ · vídeos</div>
+  <div class="eyebrow">InvestIQ · carruseles</div>
   <h1>Banco de imágenes</h1>
   <div class="summary" id="summary"></div>
   <div class="meter" aria-hidden="true"><i id="meter" style="width:0%"></i></div>
   <div class="notice" id="notice">
     <strong>Todavía no hay fotos descargadas</strong>
-    <p>El entorno donde trabaja Claude no tiene acceso a Wikimedia Commons. En cuanto se den los permisos, cada recuadro mostrará su foto, su crédito y sus recortes 16:9 y 9:16. Mientras tanto, cada toma enlaza a su búsqueda en Commons y lleva su prompt para generarla con IA.</p>
+    <p>El entorno donde trabaja Claude no tiene acceso a Wikimedia Commons. En cuanto se den los permisos, cada recuadro mostrará su foto, su crédito y sus recortes 4:5 y 1:1 para el chat de carruseles. Mientras tanto, cada toma enlaza a su búsqueda en Commons y lleva su prompt para generarla con IA.</p>
   </div>
 </header>
 
@@ -192,7 +192,7 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
       if (sh.prompt) actions += '<button class="btn copy" type="button" data-s="' + esc(s.id) + '" data-i="' + i + '">Copiar prompt</button>';
       var prompt = sh.prompt ? '<details class="prompt"><summary>Prompt IA</summary><p>' + esc(sh.prompt) + "</p></details>" : "";
       var inside = sh.thumb ? '<img src="' + esc(sh.thumb) + '" alt="' + esc(sh.scene) + '" loading="lazy">'
-        : '<span class="crop"></span><span class="fmt">16:9 · 9:16</span><span class="file">' + esc(s.id + "/" + sh.id) + ".jpg</span>";
+        : '<span class="crop"></span><span class="fmt">4:5 · 1:1</span><span class="file">' + esc(s.id + "/" + sh.id) + ".jpg</span>";
       html += '<article class="shot" data-text="' + esc(text) + '"><div class="frame">' + inside +
         '<span class="pill ' + esc(sh.status) + '">' + esc(STATUS[sh.status] || sh.status) + "</span></div>" +
         '<div class="body"><p class="scene">' + esc(sh.scene) + "</p>" + (tags ? '<div class="tags">' + tags + "</div>" : "") + credit +
