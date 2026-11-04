@@ -287,6 +287,29 @@ class Build(unittest.TestCase):
         self.assertEqual((c["author"], c["year"], c["orig"]), ("Daniel L. Lu", 2018, UP + "Apple_Park.jpg"))
         self.assertEqual(c["categories"], ["Apple Park", "Quality images"])
 
+    def test_token_and_retry_after(self):
+        import os
+        from email.message import Message
+        old = os.environ.pop("WIKIMEDIA_TOKEN", None)
+        try:
+            self.assertNotIn("Authorization", B.headers())
+            os.environ["WIKIMEDIA_TOKEN"] = " abc \n"
+            self.assertEqual(B.headers()["Authorization"], "Bearer abc")
+        finally:
+            os.environ.pop("WIKIMEDIA_TOKEN", None)
+            if old is not None:
+                os.environ["WIKIMEDIA_TOKEN"] = old
+        class E:
+            def __init__(self, ra):
+                self.headers = Message()
+                if ra is not None:
+                    self.headers["Retry-After"] = ra
+        self.assertEqual(B.wait_for(E("39"), 0), 39)
+        self.assertEqual(B.wait_for(E("0"), 0), 1)
+        self.assertEqual(B.wait_for(E("9999"), 0), 120)
+        self.assertEqual(B.wait_for(E(None), 2), 20)
+        self.assertEqual(B.wait_for(E("Wed, 21 Oct 2026 07:28:00 GMT"), 9), 60)
+
 
 if __name__ == "__main__":
     unittest.main()

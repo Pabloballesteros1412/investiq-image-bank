@@ -19,7 +19,9 @@ point to crop around, and the chat crops it to 4:5 or 1:1 itself.
     python image_bank.py check                    (validate catalog.json and extras.json)
 
 Needs Python 3.9+ (no other package) and network access to en.wikipedia.org, www.wikidata.org and
-commons.wikimedia.org. The carousel chat needs upload.wikimedia.org (where the photos are).
+commons.wikimedia.org. The carousel chat needs upload.wikimedia.org (where the photos are). From shared cloud
+addresses Wikimedia answers anonymous API calls with HTTP 429 (too many requests): set WIKIMEDIA_TOKEN to the
+access token of an owner-only OAuth 2 consumer of a Wikimedia account and the calls go out logged in.
 
 Which photos: a company gets its hand-written shots from catalog.json first (50 large companies have
 them), then its main image on Wikidata, a photo of its CEO, the best photos of its Commons category and
@@ -37,7 +39,7 @@ with "manual": ["exclude"], then build --only <ID>; "manual": true freezes the s
 bank/universe.json, on a company: "commons_category", "ceo", "image" or "name" corrected by hand and listed
 in "manual" (e.g. "manual": ["commons_category"]) survive the next `universe`.
 """
-import csv, html, json, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
+import csv, html, json, os, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
 from datetime import date
 from pathlib import Path
 
@@ -170,18 +172,36 @@ def check_catalog(cat, extras=None):
 
 # ---------- network ----------
 
-def get_json(params, url=COMMONS_API):
+def headers():
+    """User-Agent, plus a Wikimedia access token from WIKIMEDIA_TOKEN when set: anonymous API calls from shared
+    cloud addresses are rate-limited (HTTP 429) almost all the time, while a logged-in account has its own limit."""
+    h = {"User-Agent": UA}
+    token = os.environ.get("WIKIMEDIA_TOKEN", "").strip()
+    if token:
+        h["Authorization"] = "Bearer " + token
+    return h
+
+
+def wait_for(e, attempt):
+    """Seconds to wait after an HTTP error: the server's Retry-After when it gives one, else a growing pause."""
+    try:
+        return min(120, max(1, int(e.headers.get("Retry-After"))))
+    except (TypeError, ValueError, AttributeError):
+        return min(60, 5 * 2 ** attempt)
+
+
+def get_json(params, url=COMMONS_API, tries=8):
     full = url + "?" + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2})
-    for attempt in range(6):
+    for attempt in range(tries):
         try:
-            with urllib.request.urlopen(urllib.request.Request(full, headers={"User-Agent": UA}), timeout=90) as r:
+            with urllib.request.urlopen(urllib.request.Request(full, headers=headers()), timeout=90) as r:
                 return json.loads(r.read())
         except urllib.error.HTTPError as e:
             if e.code not in (429, 500, 502, 503, 504):
                 raise
-            time.sleep(min(60, 5 * 2 ** attempt))
+            time.sleep(wait_for(e, attempt))
         except urllib.error.URLError:
-            if attempt == 5:
+            if attempt == tries - 1:
                 raise
             time.sleep(5 * (attempt + 1))
     raise RuntimeError(f"no answer from {url}: {params}")

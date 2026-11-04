@@ -22,8 +22,11 @@ Decisions (Pablo, 4 Nov 2026):
 ## State (4 Nov 2026)
 - Catalog (98 subjects, 777 hand-written shots), extras, universe builder, photo picker, index, gallery
   (`docs/index.html`, for GitHub Pages) and offline tests (`python -m unittest discover -p "test_*.py"`) done.
-- **Nothing has run against the real APIs yet**: the first session's network denied Wikimedia. Pablo asked
-  Carl to allow `en.wikipedia.org`, `www.wikidata.org`, `commons.wikimedia.org` and `upload.wikimedia.org`.
+- **Nothing has run against the real APIs yet**. The four Wikimedia hosts are allowed in the environment
+  since 4 Nov, but the APIs (`/w/api.php` on all three) answer anonymous calls from the shared cloud egress
+  with HTTP 429 (`x-envoy-ratelimited`) nearly every time (1 of 12 probes got through); page views work.
+  Fix: a Wikimedia access token in `WIKIMEDIA_TOKEN` (owner-only OAuth 2 consumer; `get_json` sends it as
+  `Authorization: Bearer` and honours `Retry-After`). Don't scrape page HTML to dodge the API limit.
   Expect to fix small things on the first real run: the S&P 500 wikitext table format (`parse_sp500`, the run
   stops if it reads fewer than 400 companies), API answer shapes, rate limits, thumbnail addresses.
 - Dashboard artifact for Pablo: **https://claude.ai/artifact/GH9JEo598mzHkmJkjAmc1e** (previews do not load
