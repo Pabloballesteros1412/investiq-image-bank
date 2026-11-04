@@ -469,7 +469,7 @@
    {"id": "bear-statue", "q": "Bulle und Bär Frankfurt", "alt": ["bull and bear statue", "bear statue stock exchange"], "scene": "The bull and bear statues outside the Frankfurt Stock Exchange"},
    {"id": "1929", "q": "Wall Street crash 1929", "alt": ["crowd Wall Street 1929", "Black Tuesday"], "scene": "Crowds on Wall Street during the 1929 crash, black and white", "historic": true},
    {"id": "ticker", "q": "electronic stock ticker", "alt": ["stock ticker", "LED stock ticker"], "scene": "An electronic stock ticker scrolling prices"},
-   {"id": "1987", "q": "Black Monday 1987 stock market crash", "alt": ["stock market crash 1987"], "must": ["black monday", "1987 crash", "stock market crash"], "exclude": ["File:USD-EUR 1985-1987.jpg"], "scene": "Black Monday stock market crash of 1987", "historic": true},
+   {"id": "1987", "q": "Black Monday 1987 stock market crash", "alt": ["stock market crash 1987"], "must": ["black monday"], "exclude": ["File:USD-EUR 1985-1987.jpg", "File:T Note 10ans - 1987.jpg"], "scene": "Black Monday stock market crash of 1987", "historic": true},
    {"id": "falling-stock-prices-screen", "q": "stock prices screen", "alt": ["stock market display board", "stock ticker display"], "must": ["stock market", "stock exchange", "trading floor", "stock prices", "ticker", "stock quotes"], "scene": "falling stock prices screen"},
    "Lehman Brothers headquarters",
    "Occupy Wall Street"
@@ -579,7 +579,7 @@
    "one dollar bill",
    "dollar coins",
    {"id": "currency-exchange-office", "q": "currency exchange office", "alt": ["bureau de change", "money exchange counter"], "must": ["exchange office", "bureau de change", "currency exchange", "money exchange", "money changer"], "scene": "currency exchange office"},
-   {"id": "japanese-yen-banknotes", "q": "Japanese yen banknotes", "alt": ["10000 yen notes", "yen bills"], "must": ["yen"], "exclude": ["File:Japanese WWII Ten Yen Note.jpg"], "scene": "Japanese yen banknotes"},
+   {"id": "japanese-yen-banknotes", "q": "10000 yen banknotes", "alt": ["Japanese yen notes", "yen bills wallet"], "must": ["10000 yen", "10,000 yen", "1000 yen", "5000 yen", "yen notes", "yen bills"], "exclude": ["File:Japanese WWII Ten Yen Note.jpg", "File:10 Yen Modified banknote in Japan - reverse.jpg"], "scene": "Japanese yen banknotes"},
    "Swiss franc banknotes"
   ]},
   {"id": "bonds", "kind": "topic", "name": "Treasuries, bonds & national debt", "aliases": ["bonds", "treasuries", "yields", "debt", "deficit", "10-year"], "shots": [
@@ -598,7 +598,7 @@
    {"id": "suburb", "q": "suburban housing aerial", "alt": ["suburb aerial", "housing development aerial"], "scene": "A suburban housing development from above"},
    {"id": "for-sale", "q": "house for sale sign", "alt": ["for sale sign", "real estate sign"], "scene": "A 'for sale' sign in front of a house"},
    {"id": "construction", "q": "residential construction", "alt": ["housing construction", "new homes construction"], "scene": "New homes under construction"},
-   {"id": "keys", "q": "house keys", "alt": ["new home keys", "keys in door"], "must": ["key", "keys"], "exclude": ["File:Wooden house (window shutters), Riga.jpg"], "scene": "House keys handed over, close-up"},
+   {"id": "keys", "q": "house keys", "alt": ["new home keys", "keys in door"], "must": ["house keys", "door keys", "key in", "keys in", "keychain", "key ring", "keyring", "new keys"], "exclude": ["File:Wooden house (window shutters), Riga.jpg", "File:Cross Keys House, Queen Street, Salisbury (NHLE Code 1258721) (July 2022).jpg"], "scene": "House keys handed over, close-up"},
    {"id": "apartments", "q": "apartment buildings", "alt": ["apartment complex", "residential buildings"], "scene": "Rows of apartment buildings"},
    {"id": "open-house", "q": "open house sign", "alt": ["open house real estate"], "must": ["open house"], "scene": "An 'open house' sign on a front lawn"},
    {"id": "new-homes-aerial", "q": "housing subdivision aerial", "alt": ["new housing development aerial", "suburban subdivision"], "must": ["subdivision", "new homes", "housing development", "housing estate", "suburb", "suburban"], "scene": "new homes aerial"},
@@ -727,7 +727,7 @@
    {"id": "fresh-vegetables", "q": "fresh vegetables", "must": ["vegetables", "vegetable", "salad", "produce"], "exclude": ["File:Illuminated facade of a restaurant serving traditional food with fresh vegetables in Chiyoda, Tokyo.jpg"], "scene": "fresh vegetables"}
   ]},
   {"id": "politics", "kind": "topic", "name": "US politics & markets", "aliases": ["politics", "white house", "election", "congress", "president", "shutdown"], "shots": [
-   {"id": "white-house", "q": "White House", "alt": ["White House Washington", "White House north portico"], "must": ["white house"], "exclude": ["File:White House (Moscow) at sunset - 2025 (3).jpg"], "scene": "The White House in Washington, D.C."},
+   {"id": "white-house", "q": "White House north portico", "alt": ["White House south facade", "White House Washington DC"], "must": ["white house"], "exclude": ["File:White House (Moscow) at sunset - 2025 (3).jpg", "File:White House rainbow for SCOTUS ruling on same-sex marriage.jpg"], "scene": "The White House in Washington, D.C."},
    {"id": "capitol-night", "q": "United States Capitol night", "alt": ["Capitol at night", "US Capitol dusk"], "scene": "The U.S. Capitol lit up at night"},
    {"id": "oval-office", "q": "Oval Office", "alt": ["Resolute desk"], "scene": "The Oval Office"},
    {"id": "supreme-court", "q": "United States Supreme Court Building", "alt": ["Supreme Court building", "Supreme Court of the United States"], "scene": "The U.S. Supreme Court building"},

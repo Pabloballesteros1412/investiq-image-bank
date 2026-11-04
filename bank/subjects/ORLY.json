@@ -6,6 +6,7 @@
   "ORLY"
  ],
  "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "O’Reilly Auto Parts - Oneonta, AL",
@@ -22,22 +23,6 @@
    "credit": "Broiledcorn, CC0, via Wikimedia Commons",
    "licence": "CC0",
    "source": "https://commons.wikimedia.org/wiki/File:O%E2%80%99Reilly_Auto_Parts_-_Oneonta,_AL.jpeg"
-  },
-  {
-   "shows": "Protest and riot aftermath on west Lake Street",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Protest_and_riot_aftermath_on_west_Lake_Street_%2849945462308%29.jpg/1920px-Protest_and_riot_aftermath_on_west_Lake_Street_%2849945462308%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Protest_and_riot_aftermath_on_west_Lake_Street_%2849945462308%29.jpg/500px-Protest_and_riot_aftermath_on_west_Lake_Street_%2849945462308%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Fibonacci Blue from Minnesota, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Protest_and_riot_aftermath_on_west_Lake_Street_(49945462308).jpg"
   },
   {
    "shows": "Sherman the Delivery Van Las Vegas 2025",
@@ -120,22 +105,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Jefferson_Hwy,_Old_Jefferson_Louisiana_March_2026_-_O%27Reilly_Auto_Parts.jpg"
   },
   {
-   "shows": "An O'Reilly Auto Parts store in Murphy, North Carolina",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg/1920px-An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg/500px-An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:An_O%27Reilly_Auto_Parts_store_in_Murphy,_North_Carolina.jpg"
-  },
-  {
    "shows": "Life Today September 14, 2012",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Life_Today_September_14%2C_2012_%287987347227%29.jpg/1920px-Life_Today_September_14%2C_2012_%287987347227%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Life_Today_September_14%2C_2012_%287987347227%29.jpg/500px-Life_Today_September_14%2C_2012_%287987347227%29.jpg",
@@ -150,6 +119,22 @@
    "credit": "Wayne Wilkinson, CC BY 2.0, via Wikimedia Commons",
    "licence": "CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Life_Today_September_14,_2012_(7987347227).jpg"
+  },
+  {
+   "shows": "An O'Reilly Auto Parts store in Murphy, North Carolina",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg/1920px-An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg/500px-An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:An_O%27Reilly_Auto_Parts_store_in_Murphy,_North_Carolina.jpg"
   },
   {
    "shows": "SFMM- Cyclone 500",

@@ -75,7 +75,7 @@ COMPANY_PARENT = re.compile(r"compan|corporat|conglomerat|brands?\b|business|ent
                             r"utilit|restaurant|real estate|REIT|firms?\b|airlines?\b|operators|chains?\b|S&P|NYSE|Nasdaq", re.I)
 # a company's sponsorships, races, teams, shows and events: photos that would pass for the company's own
 EVENTS = re.compile(r"\b(sports?|racing|races?|NASCAR|IndyCar|Formula (?:One|1|E)|Grand Prix|Speedway|motorsports?|sponsor\w*|bowl|"
-                    r"cup|championships?|tournaments?|marathon|stadiums?|arenas?|ballparks?|teams?|players|drivers|concerts?|"
+                    r"cup|championships?|tournaments?|stadiums?|arenas?|ballparks?|teams?|players|drivers|concerts?|"
                     r"festivals?|tours|music|albums?|songs?|films?|movies?|television|TV series|episodes?|video games?|seasons?|"
                     r"premieres?|parades?|esports|athletes|matches|leagues?|pride|protests?|protesters|demonstrations?|"
                     r"marches|rall(?:y|ies)|strikes?|pickets?|vigils?)\b|\b[1-9]\d{2}$", re.I)  # races: 'Daytona 500'
@@ -86,6 +86,7 @@ BUSINESS = re.compile(r"\b(headquarters|HQ|head office|offices?|stores?|shops?|s
                       r"aircraft|airplanes?|planes?|ships?|vessels?|products?|booth|lobby|facility|facilities|site|works|"
                       r"laborator(?:y|ies)|lab|hospital|clinic|pharmacy|mine|rig|platform|pipeline|substation|power plant|"
                       r"wind farm|solar|hotel|casino|resort|theme park|campus|corporate|company|inc|corp|plc|ltd|LLC)\b", re.I)
+SCREENS = re.compile(r"\b(screenshots?|screen captures?|web ?pages?|user interfaces?)\b", re.I)
 OLD_PAPER = re.compile(r"\b(letters|manuscripts|documents|artworks|paintings|engravings|drawings|prints|scans|"
                        r"Historic American (?:Buildings Survey|Engineering Record|Landscapes Survey))\b", re.I)
 GENERIC_WORDS = {"inc", "corp", "corporation", "company", "co", "group", "holdings", "holding", "plc", "the", "ltd",
@@ -639,6 +640,8 @@ def score(c, rank, shot, used=(), no_sa=False, exclude=()):
         return None
     if not shot.get("historic") and OLD_PAPER.search(" ".join(c["categories"])):  # letters, paintings, survey drawings
         return None
+    if SCREENS.search(" ".join(c["categories"])):  # screenshots named like photos ('HTTP 1009 error - Access denied')
+        return None
     if not shot.get("historic") and c.get("year") and c["year"] < 1960:  # wartime banknotes for 'yen banknotes'
         return None
     must = shot.get("must") or ([shot["q"].strip('"').lower()] if shot.get("person") and shot.get("q") else None)  # a person: their name
@@ -836,12 +839,13 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
         if cand:
             take(cand, "leader", f"{c['ceo']}, {name} CEO (per Wikidata)", "Wikidata CEO", person=True)
     if c.get("commons_category") and len(picks) < TARGET:
-        files = src.category_files(c["commons_category"], keys)
+        # inside its own category, 'Hilton Hotels & Resorts' and 'Wynn Las Vegas' are Hilton Worldwide's and Wynn Resorts'
+        files = src.category_files(c["commons_category"], keys + ([core] if core else []))
         infos = src.info([f for f, _ in files])
         ranked = []
         for f, where in files:
             cand = infos.get(f)
-            ok = cand and telling(cand, c) and not EVENTS.search(" ".join(cand["categories"]))
+            ok = cand and cand["mime"] == "image/jpeg" and telling(cand, c) and not EVENTS.search(" ".join(cand["categories"]))
             s = score(cand, 0, {"id": "category"}, used, no_sa, exclude) if ok else None
             if s is not None:
                 ranked.append((s - (0 if where == c["commons_category"] else 3), cand, where))
@@ -868,7 +872,8 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
         for _, cand, _ in choose({"id": "search", "q": f"{term} {what}".strip(), "must": strict}, src.search, used, no_sa, exclude):
             if len(picks) >= TARGET or n >= 3:
                 break
-            if fresh(cand) and own_place(cand, keys, strict, core) and not EVENTS.search(" ".join(cand["categories"])):
+            # PNGs found this way are mostly renders, screenshots and scans: photos are JPEG
+            if fresh(cand) and cand["mime"] == "image/jpeg" and own_place(cand, keys, strict, core) and not EVENTS.search(" ".join(cand["categories"])):
                 take(cand, f"s{len(picks) + 1}", describe(cand, f"{name} {what}".strip()), "Commons search")
                 n += 1
     from_category(TARGET)

@@ -121,22 +121,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Macchiatobin-A8040-ARM.jpg"
   },
   {
-   "shows": "LEC-iMX8M-F",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LEC-iMX8M-F.png/1920px-LEC-iMX8M-F.png",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/LEC-iMX8M-F.png/500px-LEC-iMX8M-F.png",
-   "size": [
-    1920,
-    1385
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "TomaszSwatowski, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:LEC-iMX8M-F.png"
-  },
-  {
    "shows": "ZTE MF165+ - board - Mediatek MT6280A",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg/1920px-ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg/500px-ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg",
@@ -167,6 +151,22 @@
    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg"
+  },
+  {
+   "shows": "Arduino Due",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arduino_Due.jpg/1280px-Arduino_Due.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arduino_Due.jpg/500px-Arduino_Due.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JackStonePGD, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Arduino_Due.jpg"
   }
  ]
 }

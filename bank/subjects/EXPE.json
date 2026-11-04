@@ -6,6 +6,7 @@
   "EXPE"
  ],
  "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Expedia Group south entrance",
@@ -40,22 +41,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:The_Domain_Northside_-_Expedia_Group_Austin_-_Corporate_Office_(53838348627).jpg"
   },
   {
-   "shows": "London Pride 2023",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/London_Pride_2023_-_53079336546.jpg/1920px-London_Pride_2023_-_53079336546.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/London_Pride_2023_-_53079336546.jpg/500px-London_Pride_2023_-_53079336546.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "MangakaMaiden Photography, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "source": "https://commons.wikimedia.org/wiki/File:London_Pride_2023_-_53079336546.jpg"
-  },
-  {
    "shows": "McGowan delivers the pitch",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/McGowan_delivers_the_pitch._%289221063210%29.jpg/1920px-McGowan_delivers_the_pitch._%289221063210%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/McGowan_delivers_the_pitch._%289221063210%29.jpg/500px-McGowan_delivers_the_pitch._%289221063210%29.jpg",
@@ -88,22 +73,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Rockies_at_Blue_Jays_(9082026822).jpg"
   },
   {
-   "shows": "Expedia employees at CSD 2018 2",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Expedia_employees_at_CSD_2018_2.jpg/1920px-Expedia_employees_at_CSD_2018_2.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Expedia_employees_at_CSD_2018_2.jpg/500px-Expedia_employees_at_CSD_2018_2.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Sparrow (麻雀), CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Expedia_employees_at_CSD_2018_2.jpg"
-  },
-  {
    "shows": "BTO 2014 - The World of Expedia",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BTO_2014_-_The_World_of_Expedia_-_16105599309.jpg/1920px-BTO_2014_-_The_World_of_Expedia_-_16105599309.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/BTO_2014_-_The_World_of_Expedia_-_16105599309.jpg/500px-BTO_2014_-_The_World_of_Expedia_-_16105599309.jpg",
@@ -120,22 +89,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:BTO_2014_-_The_World_of_Expedia_-_16105599309.jpg"
   },
   {
-   "shows": "Seattle - Expedia buildings under construction - pano 01",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg/1920px-Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg/500px-Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg",
-   "size": [
-    1920,
-    533
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg"
-  },
-  {
    "shows": "Expedia Dancers at State of Illinois Building 2",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Expedia_Dancers_at_State_of_Illinois_Building_2.jpg/1920px-Expedia_Dancers_at_State_of_Illinois_Building_2.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Expedia_Dancers_at_State_of_Illinois_Building_2.jpg/500px-Expedia_Dancers_at_State_of_Illinois_Building_2.jpg",
@@ -150,6 +103,22 @@
    "credit": "Daniel X. O'Neil, CC BY 2.0, via Wikimedia Commons",
    "licence": "CC BY 2.0",
    "source": "https://commons.wikimedia.org/wiki/File:Expedia_Dancers_at_State_of_Illinois_Building_2.jpg"
+  },
+  {
+   "shows": "Seattle - Expedia buildings under construction - pano 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg/1920px-Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg/500px-Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg",
+   "size": [
+    1920,
+    533
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Seattle_-_Expedia_buildings_under_construction_-_pano_01.jpg"
   },
   {
    "shows": "David Scowsill interviews Barry Diller, Chairman and Senior Executive of IAC & Expedia, Inc",

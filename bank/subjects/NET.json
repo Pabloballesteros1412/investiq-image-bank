@@ -6,6 +6,7 @@
   "NET"
  ],
  "sector": "sector-tech",
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Cloudflare office entrance area",
@@ -119,54 +120,6 @@
    "credit": "Bea Phi, CC BY-SA 4.0, via Wikimedia Commons",
    "licence": "CC BY-SA 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Mohd_Irtefa,_Dane_Knecht,_Diego_Zaks,_and_Maya_Ross_at_SXSW_2025_01.jpg"
-  },
-  {
-   "shows": "HTTP 1009 error - Access denied - by Cloudflare",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/HTTP_1009_error_-_Access_denied_-_by_Cloudflare.png/1920px-HTTP_1009_error_-_Access_denied_-_by_Cloudflare.png",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/HTTP_1009_error_-_Access_denied_-_by_Cloudflare.png/500px-HTTP_1009_error_-_Access_denied_-_by_Cloudflare.png",
-   "size": [
-    1920,
-    1217
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Akishima Yuka, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:HTTP_1009_error_-_Access_denied_-_by_Cloudflare.png"
-  },
-  {
-   "shows": "Cloudflare Telemetry ROMA 25 July 2026",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Cloudflare_Telemetry_ROMA_25_July_2026.png",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cloudflare_Telemetry_ROMA_25_July_2026.png/500px-Cloudflare_Telemetry_ROMA_25_July_2026.png",
-   "size": [
-    1903,
-    2074
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Marco Sterpi, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "source": "https://commons.wikimedia.org/wiki/File:Cloudflare_Telemetry_ROMA_25_July_2026.png"
-  },
-  {
-   "shows": "Human verification to stop attacks (Dutch) - Cloudflare 01",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Human_verification_to_stop_attacks_%28Dutch%29_-_Cloudflare_%282023%29_01.png",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Human_verification_to_stop_attacks_%28Dutch%29_-_Cloudflare_%282023%29_01.png/500px-Human_verification_to_stop_attacks_%28Dutch%29_-_Cloudflare_%282023%29_01.png",
-   "size": [
-    1080,
-    2340
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Cloudflare., public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "source": "https://commons.wikimedia.org/wiki/File:Human_verification_to_stop_attacks_(Dutch)_-_Cloudflare_(2023)_01.png"
   }
  ]
 }
