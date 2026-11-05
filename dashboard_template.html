@@ -199,10 +199,18 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
     try { localStorage.setItem("iq-bank-kind", kind); } catch (e) {}
   }
 
+  // Unsplash and Pexels ask for "Photo by <photographer> on <site>", both linked (Unsplash: with its utm parameters)
+  var SITES = { commons: ["Commons", ""], unsplash: ["Unsplash", "https://unsplash.com/?utm_source=investiq_image_bank&utm_medium=referral"], pexels: ["Pexels", "https://www.pexels.com"] };
+  function credit(p) {
+    var site = SITES[p.provider] || SITES.commons;
+    if (p.provider === "commons" || !p.author_url) return esc(p.credit);
+    return 'Photo by <a href="' + esc(p.author_url) + '" target="_blank" rel="noopener">' + esc(p.author) + '</a> on <a href="' + esc(site[1]) + '" target="_blank" rel="noopener">' + site[0] + "</a>";
+  }
   function shot(p) {
+    var site = (SITES[p.provider] || SITES.commons)[0];
     return '<article class="shot"><div class="frame">' + img(p.preview, p.shows) + esc(p.shows) + '</div><div class="body"><p class="scene">' + esc(p.shows) + "</p>" +
-      (p.person ? '<span class="tag">Persona real</span>' : "") + '<p class="credit">' + esc(p.credit) + '</p><div class="actions">' +
-      '<a class="btn primary" href="' + esc(p.url) + '" target="_blank" rel="noopener">Abrir foto ↗</a><a class="btn" href="' + esc(p.page) + '" target="_blank" rel="noopener">Commons ↗</a></div></div></article>';
+      (p.person ? '<span class="tag">Persona real</span>' : "") + '<p class="credit">' + credit(p) + '</p><div class="actions">' +
+      '<a class="btn primary" href="' + esc(p.url) + '" target="_blank" rel="noopener">Abrir foto ↗</a><a class="btn" href="' + esc(p.page) + '" target="_blank" rel="noopener">' + site + ' ↗</a></div></div></article>';
   }
   function planned(p, i) {
     return '<article class="shot"><div class="frame">Pendiente</div><div class="body"><p class="scene">' + esc(p.scene) + "</p>" +

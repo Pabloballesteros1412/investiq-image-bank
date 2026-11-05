@@ -89,6 +89,12 @@ Decisions (Pablo, 4 Nov 2026):
    --stock-only`; look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
    wrong brand terms get fixed in `brands.json`), fix topic searches in `catalog.json`, grade any new Commons
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
+   **Unsplash production**: Pablo created the app (5 Nov 2026) and is in demo mode (50 requests/h). The
+   production form asks for screenshots of the photographer + Unsplash credit, both linked. The gallery does it
+   ("Photo by <a author_url> on <a unsplash.com?utm...>", checked with Playwright). After the first real run,
+   screenshot a topic and a brand page of `docs/index.html` with Unsplash photos (Playwright, deviceScaleFactor 2),
+   send them to Pablo to upload with the application; never mock them. Its checklist (hotlink, trigger
+   downloads, no Unsplash name or logo, accurate description, attribution) is met by `stock.py` and the gallery.
 2. Get this branch into `main` (PR + merge, Pablo's call): until then the chat reads the old empty index.
 3. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
 4. Big companies left with few published photos: a hand-written catalog entry (stores, products, HQ) and a

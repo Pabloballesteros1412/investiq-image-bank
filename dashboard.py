@@ -26,7 +26,8 @@ def data(cat=None, bank=B.BANK):
     for s in subjects:
         e = m.get(s["id"], {})
         photos = [{"shows": p["shows"], "url": p["url"], "preview": p["preview"], "credit": p["credit"], "page": p["page"],
-                   "person": bool(p.get("person")), "generic": False} for p in B.published_photos(e, rv)]
+                   "person": bool(p.get("person")), "generic": False, "provider": B.provider_of(p),
+                   "author": p.get("author", ""), "author_url": p.get("author_url", "")} for p in B.published_photos(e, rv)]
         planned = [] if photos else [{"scene": sh["scene"], "q": sh["q"], "person": bool(sh.get("person")),
                                       "prompt": None if sh.get("person") else f"{sh['scene']}. {cat['style']}"} for sh in s.get("shots", [])]
         out.append({"id": s["id"], "kind": s["kind"], "name": s["name"], "tickers": s.get("tickers", []),
