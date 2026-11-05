@@ -113,22 +113,31 @@ Decisions (Pablo, 4 Nov 2026):
   (the gold topic asks for "silver bars" and "gold jewelry"). The 28 new Commons picks were graded too (4 grade 3).
   Index: 458 photos. Unsplash's alt texts are generic ("red and white train on rail"); the word-match rule
   still finds enough, since the photographer's own description often names the subject.
+- **Topic/sector pass, part 2** (5 Nov evening, 2-hour background pieces with `--only` = the subjects still
+  `checked` before 5 Nov): 31 of 48 done (each piece does 6-8). Every new photo was graded by eye after each
+  piece (stock grade 1-2 hides it; Commons grade 3 publishes it). Index: 522 photos. Rubric rule added: in
+  topics and sectors a brand front and centre (Exxon price sign, branded tanker) or a scene already used for
+  another subject is at most 2. Fixes:
+  - a build cut by its time limit never reached its end, so pending download counts are now also sent at the start;
+  - the keyless probe took Unsplash's 403 "Rate Limit Exceeded" for a missing key: a piece started at the limit
+    re-picked 6 topics with Commons only and dropped 30 pending counts as sent (undone from Git). Now a
+    rate-limited answer counts as the source being there, a build of topics, sectors or brand photos stops when
+    no stock source answers (`--commons-only` to go on), and a count whose source is missing stays pending.
+- **Unsplash production applied** (Pablo, 5 Nov night, with the gold and Apple gallery screenshots): "In Review",
+  5-10 business days. Until then demo mode (50 searches/h).
 
 ## Next work (in order)
-1. Finish the 40 topics and sectors: `python image_bank.py build --kind topic,sector --redo` (`--redo` is needed:
-   every topic and sector has a `checked` date from 4 Nov; the 8 done on 5 Nov come back from the 30-day cache
-   with no requests and the same picks). In demo mode (50 searches/h) that is ~450 searches, ~9 hours: run it in
-   the background in 2-hour pieces (each piece keeps what it did, and the next goes through it from the cache), or
-   wait for production (1,000/h, ~30 min). Then
+1. Finish the 17 topics left (nuclear, defense, consumer, banks, investing, space, glp1, politics, europe,
+   quantum, robotics, cybersecurity, india, japan, metals, travel, luxury): `python image_bank.py build --kind
+   topic,sector --redo --only <ids>` in 2-hour background pieces (demo mode), then a round for the topics left
+   with few published photos (1-2: fed, earnings, ai, bonds, datacenters, ipo, ...): rebuild them (the hidden
+   picks are never taken again; answers come from the cache) and rewrite their searches in `catalog.json` where
+   the cache has nothing better (paper-mill in materials gives chairs: add a `must`). Then
    `python image_bank.py build --kind company --stock-only` (394 searches); look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
    wrong brand terms get fixed in `brands.json`), fix topic searches in `catalog.json`, grade any new Commons
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
-   **Unsplash production**: Pablo created the app (5 Nov 2026) and is in demo mode (50 requests/h). The
-   production form asks for screenshots of the photographer + Unsplash credit, both linked. The gallery does it
-   ("Photo by <a author_url> on <a unsplash.com?utm...>", checked with Playwright). After the first real run,
-   screenshot a topic and a brand page of `docs/index.html` with Unsplash photos (Playwright, deviceScaleFactor 2),
-   send them to Pablo to upload with the application; never mock them. Its checklist (hotlink, trigger
-   downloads, no Unsplash name or logo, accurate description, attribution) is met by `stock.py` and the gallery.
+   **Unsplash production**: applied on 5 Nov (in review). Once approved (`X-Ratelimit-Limit: 1000`), the company
+   brand pass takes about half an hour.
 2. Get this branch into `main` (PR + merge, Pablo's call): until then the chat reads the old empty index.
 3. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
 4. Big companies left with few published photos: a hand-written catalog entry (stores, products, HQ) and a
