@@ -3,5 +3,41 @@
  "kind": "topic",
  "name": "AI data centers & power demand",
  "tickers": [],
- "photos": []
+ "photos": [
+  {
+   "shows": "BalticServers data center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1920px-BalticServers_data_center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/500px-BalticServers_data_center.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BalticServers.com, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+  },
+  {
+   "shows": "A large grey electrical transformer with metal pipes and cables in a substation",
+   "url": "https://images.unsplash.com/photo-1509390144018-eeaf65052242?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZWxlY3RyaWNhbCUyMHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODk4NTA5fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1509390144018-eeaf65052242?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZWxlY3RyaWNhbCUyMHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODk4NTA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by American Public Power Association on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@publicpowerorg?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/electrical-transformer-in-power-substation-VuR4oHZ3ucc?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
 }

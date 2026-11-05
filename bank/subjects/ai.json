@@ -5,23 +5,6 @@
  "tickers": [],
  "photos": [
   {
-   "shows": "Hand holding smartphone with ChatGPT",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hand_holding_smartphone_with_ChatGPT_%2852917076309%29.jpg/1920px-Hand_holding_smartphone_with_ChatGPT_%2852917076309%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hand_holding_smartphone_with_ChatGPT_%2852917076309%29.jpg/500px-Hand_holding_smartphone_with_ChatGPT_%2852917076309%29.jpg",
-   "size": [
-    1920,
-    1270
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jernej Furman from Slovenia, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Hand_holding_smartphone_with_ChatGPT_(52917076309).jpg"
-  },
-  {
    "shows": "Sam Altman CropEdit James Tamim",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sam_Altman_CropEdit_James_Tamim.jpg/1920px-Sam_Altman_CropEdit_James_Tamim.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sam_Altman_CropEdit_James_Tamim.jpg/500px-Sam_Altman_CropEdit_James_Tamim.jpg",
@@ -38,6 +21,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Sam_Altman_CropEdit_James_Tamim.jpg"
+  },
+  {
+   "shows": "White robotic arm in display showroom",
+   "url": "https://images.unsplash.com/photo-1655393001768-d946c97d6fd1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cm9ib3RpYyUyMGFybXxlbnwxfHx8fDE3OTM4OTQ4NTh8MA&ixlib=rb-4.1.0&w=2265&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1655393001768-d946c97d6fd1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cm9ib3RpYyUyMGFybXxlbnwxfHx8fDE3OTM4OTQ4NTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2265,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ZHENYU LUO on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mrnuclear?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-robotic-arm-in-display-showroom-kE0JmtbvXxM?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

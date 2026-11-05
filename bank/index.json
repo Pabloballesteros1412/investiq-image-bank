@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 491,
+ "photos": 496,
  "subjects": [
   {
    "id": "MMM",
@@ -7801,7 +7801,7 @@
     "correction",
     "panic"
    ],
-   "photos": 2,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crash.json"
   },
   {
@@ -7832,7 +7832,7 @@
     "grid",
     "capex"
    ],
-   "photos": 0,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/datacenters.json"
   },
   {
@@ -7846,7 +7846,7 @@
     "chip war",
     "export controls"
    ],
-   "photos": 2,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/chips.json"
   },
   {

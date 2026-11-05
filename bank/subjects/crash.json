@@ -5,21 +5,57 @@
  "tickers": [],
  "photos": [
   {
-   "shows": "Frankfurt am Main, Skulptur -Bulle & Bär- -- 2015 -- 6763",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Frankfurt_am_Main%2C_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6763.jpg/1920px-Frankfurt_am_Main%2C_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6763.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Frankfurt_am_Main%2C_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6763.jpg/500px-Frankfurt_am_Main%2C_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6763.jpg",
+   "shows": "A view of a city and a bridge over a body of water",
+   "url": "https://images.unsplash.com/photo-1722470336730-ebe23440f05a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3Rvcm0lMjBjbG91ZHMlMjBNYW5oYXR0YW58ZW58MXx8fHwxNzkzODk0ODU0fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1722470336730-ebe23440f05a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3Rvcm0lMjBjbG91ZHMlMjBNYW5oYXR0YW58ZW58MXx8fHwxNzkzODk0ODU0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    1280
+    2000,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
+   "credit": "Photo by Yash Mannepalli on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@rollingshots?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-view-of-a-city-and-a-bridge-over-a-body-of-water-NzvhAjVs5zs?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A statue of a bull and a bull's head in front of a building",
+   "url": "https://images.unsplash.com/photo-1623271922359-f638ddf72e41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QnVsbGUlMjB1bmQlMjBCJUMzJUE0ciUyMEZyYW5rZnVydHxlbnwxfHx8fDE3OTM4OTQ4NTV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1623271922359-f638ddf72e41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QnVsbGUlMjB1bmQlMjBCJUMzJUE0ciUyMEZyYW5rZnVydHxlbnwxfHx8fDE3OTM4OTQ4NTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Christian Waske on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chriswaske?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-statue-of-a-bull-and-a-bulls-head-in-front-of-a-building-eBfRbWECyzM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Crowds gathering outside New York Stock Exchange",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Crowds_gathering_outside_New_York_Stock_Exchange.jpg/1920px-Crowds_gathering_outside_New_York_Stock_Exchange.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Crowds_gathering_outside_New_York_Stock_Exchange.jpg/500px-Crowds_gathering_outside_New_York_Stock_Exchange.jpg",
+   "size": [
+    1920,
+    1512
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Associated Press, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Frankfurt_am_Main,_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6763.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Crowds_gathering_outside_New_York_Stock_Exchange.jpg"
   },
   {
    "shows": "Shinko Securities's electronic stock board nearby Yaesu side of Tokyo Station in March 2009",
