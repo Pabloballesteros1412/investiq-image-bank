@@ -5,7 +5,7 @@ gold bars, a refinery), next to the Wikimedia Commons photos of real companies.
 Needs UNSPLASH_ACCESS_KEY and/or PEXELS_API_KEY in the environment (a source without its key is skipped) and
 network access to api.unsplash.com, images.unsplash.com, api.pexels.com and images.pexels.com. Answers are
 kept in .cache/stock/ (not in Git) for 30 days, so a rebuild costs no requests. When a source's hourly limit
-is reached (Unsplash: 50 requests an hour for a new app, 5,000 once Unsplash approves it for production;
+is reached (Unsplash: 50 requests an hour for a new app, 1,000 once Unsplash approves it for production;
 Pexels: 200 an hour) the build waits until it resets.
 
 Licences: Unsplash License (https://unsplash.com/license) and Pexels License (https://www.pexels.com/license/):

@@ -69,7 +69,7 @@ Decisions (Pablo, 4 Nov 2026):
   of the search (or a `must` word) in its description and then wins (+30). Never for real people; no Unsplash+,
   renders, illustrations or quotes. Answers cached in `.cache/stock/` for 30 days. Unsplash's limit for a new app
   is 50 requests an hour (~480 searches for topics and sectors: about 10 hours; ask Pablo to apply for
-  production, 5,000/h), Pexels 200/h.
+  production, 1,000/h), Pexels 200/h.
 
 - **Brands** (Pablo chose it, 4 Nov night; code done and tested offline, not run yet): `brands.json` lists the
   brands and products of 236 consumer-facing companies (as stock descriptions name them: "iPhone", "Big Mac",
