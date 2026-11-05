@@ -91610,26 +91610,29 @@
   "photos": [
    {
     "shot": "coin",
-    "shows": "Bitcoin, Wroclaw",
-    "file": "File:Bitcoin, Wroclaw (P1180334).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bitcoin,_Wroclaw_(P1180334).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bitcoin%2C_Wroclaw_%28P1180334%29.jpg/1920px-Bitcoin%2C_Wroclaw_%28P1180334%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Bitcoin%2C_Wroclaw_%28P1180334%29.jpg/500px-Bitcoin%2C_Wroclaw_%28P1180334%29.jpg",
+    "shows": "A bitcoin sitting on top of a pile of gold nuggets",
+    "file": "unsplash:rhm7H8X5J98",
+    "page": "https://unsplash.com/photos/a-bitcoin-sitting-on-top-of-a-pile-of-gold-nuggets-rhm7H8X5J98?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1623227413711-25ee4388dae3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1623227413711-25ee4388dae3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1536
+     2255,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
-    "author": "Matti Blume",
-    "year": 2024,
-    "how": "catalog"
+    "credit": "Photo by Kanchanara on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kanchanara",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kanchanara?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/rhm7H8X5J98/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA"
    },
    {
     "shot": "mining",
@@ -91656,163 +91659,175 @@
    },
    {
     "shot": "atm",
-    "shows": "Bitcoin ATM in South Africa",
-    "file": "File:Bitcoin ATM in South Africa.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bitcoin_ATM_in_South_Africa.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bitcoin_ATM_in_South_Africa.jpg/1280px-Bitcoin_ATM_in_South_Africa.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bitcoin_ATM_in_South_Africa.jpg/500px-Bitcoin_ATM_in_South_Africa.jpg",
+    "shows": "A group of yellow and orange machines",
+    "file": "unsplash:0Fbry3YPfe8",
+    "page": "https://unsplash.com/photos/a-group-of-yellow-and-orange-machines-0Fbry3YPfe8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1668609541710-2b90e86edd2d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1668609541710-2b90e86edd2d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     2001,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "TapticInfo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "TapticInfo",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by John Paul Cuvinar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John Paul Cuvinar",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hippoatm?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0Fbry3YPfe8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA"
    },
    {
     "shot": "ethereum",
-    "shows": "Ethereum Crypto Sustainability",
-    "file": "File:Ethereum Crypto Sustainability.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ethereum_Crypto_Sustainability.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ethereum_Crypto_Sustainability.jpg/1920px-Ethereum_Crypto_Sustainability.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ethereum_Crypto_Sustainability.jpg/500px-Ethereum_Crypto_Sustainability.jpg",
+    "shows": "Gold Bitcoin and silver Ethereum coins resting on a laptop keyboard before a trading chart",
+    "file": "unsplash:vBCVcWUyvyM",
+    "page": "https://unsplash.com/photos/bitcoin-and-ethereum-coins-on-laptop-vBCVcWUyvyM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8RXRoZXJldW18ZW58MXx8fHwxNzkzODk4NTIyfDA&ixlib=rb-4.1.0&w=2072&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1605792657660-596af9009e82?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8RXRoZXJldW18ZW58MXx8fHwxNzkzODk4NTIyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2072,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Edwin.images, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Edwin.images",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by Pierre Borthiry - Peiobty on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Pierre Borthiry - Peiobty",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@peiobty?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vBCVcWUyvyM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8RXRoZXJldW18ZW58MXx8fHwxNzkzODk4NTIyfDA"
    },
    {
     "shot": "chart",
-    "shows": "Cryptocurrency Market Crash",
-    "file": "File:Cryptocurrency Market Crash.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_Market_Crash.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cryptocurrency_Market_Crash.jpg/1920px-Cryptocurrency_Market_Crash.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cryptocurrency_Market_Crash.jpg/500px-Cryptocurrency_Market_Crash.jpg",
+    "shows": "A digital candlestick chart showing cryptocurrency market trends on a dark computer screen",
+    "file": "unsplash:eNStVITP_10",
+    "page": "https://unsplash.com/photos/cryptocurrency-candlestick-chart-on-screen-eNStVITP_10?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1589560989620-61bf48e97abb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNyeXB0b2N1cnJlbmN5JTIwY2hhcnR8ZW58MXx8fHwxNzkzODk4NTIzfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1589560989620-61bf48e97abb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNyeXB0b2N1cnJlbmN5JTIwY2hhcnR8ZW58MXx8fHwxNzkzODk4NTIzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Edwin.images, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Edwin.images",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by Vladislav Maslow on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vladislav Maslow",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@masloff?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/eNStVITP_10/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNyeXB0b2N1cnJlbmN5JTIwY2hhcnR8ZW58MXx8fHwxNzkzODk4NTIzfDA"
    },
    {
     "shot": "conference",
-    "shows": "Bitcoin Conference 2014, сотрудники",
-    "file": "File:Bitcoin Conference 2014, сотрудники.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bitcoin_Conference_2014,_%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bitcoin_Conference_2014%2C_%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg/1920px-Bitcoin_Conference_2014%2C_%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bitcoin_Conference_2014%2C_%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg/500px-Bitcoin_Conference_2014%2C_%D1%81%D0%BE%D1%82%D1%80%D1%83%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8.jpg",
+    "shows": "Maksym Sakharov, Group CEO, Co-Founder, and Board Member of WeFi, spoke on stage at the Beyond Banking Conference 2025 in Bangkok",
+    "file": "File:Maksym Sakharov, Group CEO, Co-Founder, and Board Member of WeFi, spoke on stage at the Beyond Banking Conference 2025 in Bangkok (54820631314).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Maksym_Sakharov,_Group_CEO,_Co-Founder,_and_Board_Member_of_WeFi,_spoke_on_stage_at_the_Beyond_Banking_Conference_2025_in_Bangkok_(54820631314).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Maksym_Sakharov%2C_Group_CEO%2C_Co-Founder%2C_and_Board_Member_of_WeFi%2C_spoke_on_stage_at_the_Beyond_Banking_Conference_2025_in_Bangkok_%2854820631314%29.jpg/1920px-Maksym_Sakharov%2C_Group_CEO%2C_Co-Founder%2C_and_Board_Member_of_WeFi%2C_spoke_on_stage_at_the_Beyond_Banking_Conference_2025_in_Bangkok_%2854820631314%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Maksym_Sakharov%2C_Group_CEO%2C_Co-Founder%2C_and_Board_Member_of_WeFi%2C_spoke_on_stage_at_the_Beyond_Banking_Conference_2025_in_Bangkok_%2854820631314%29.jpg/500px-Maksym_Sakharov%2C_Group_CEO%2C_Co-Founder%2C_and_Board_Member_of_WeFi%2C_spoke_on_stage_at_the_Beyond_Banking_Conference_2025_in_Bangkok_%2854820631314%29.jpg",
     "size": [
      1920,
-     1440
+     1553
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Alexandr Gromov, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Alexandr Gromov",
-    "year": 2014,
+    "credit": "Jan Kruk, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Jan Kruk",
+    "year": 2025,
     "how": "catalog"
    },
    {
     "shot": "dogecoin",
-    "shows": "Dogecoin to the moon sticker on pole in Tokyo",
-    "file": "File:Dogecoin to the moon sticker on pole in Tokyo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dogecoin_to_the_moon_sticker_on_pole_in_Tokyo.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dogecoin_to_the_moon_sticker_on_pole_in_Tokyo.jpg/1920px-Dogecoin_to_the_moon_sticker_on_pole_in_Tokyo.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dogecoin_to_the_moon_sticker_on_pole_in_Tokyo.jpg/500px-Dogecoin_to_the_moon_sticker_on_pole_in_Tokyo.jpg",
+    "shows": "Dogecoin gold coin black background 1 - tails",
+    "file": "File:Dogecoin gold coin black background 1 - tails.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dogecoin_gold_coin_black_background_1_-_tails.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dogecoin_gold_coin_black_background_1_-_tails.jpg/1920px-Dogecoin_gold_coin_black_background_1_-_tails.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dogecoin_gold_coin_black_background_1_-_tails.jpg/500px-Dogecoin_gold_coin_black_background_1_-_tails.jpg",
     "size": [
      1920,
-     1440
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Syced, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Syced",
-    "year": 2022,
+    "credit": "Cyril Ernst, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Cyril Ernst",
+    "year": 2021,
     "how": "catalog"
    },
    {
     "shot": "hardware-wallet",
-    "shows": "Coinkite Coldcard Hardware Wallet",
-    "file": "File:Coinkite Coldcard Hardware Wallet (43153911800).png",
-    "page": "https://commons.wikimedia.org/wiki/File:Coinkite_Coldcard_Hardware_Wallet_(43153911800).png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coinkite_Coldcard_Hardware_Wallet_%2843153911800%29.png/1920px-Coinkite_Coldcard_Hardware_Wallet_%2843153911800%29.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coinkite_Coldcard_Hardware_Wallet_%2843153911800%29.png/500px-Coinkite_Coldcard_Hardware_Wallet_%2843153911800%29.png",
+    "shows": "A laptop computer sitting on top of a white table",
+    "file": "unsplash:FnyxtZvL5ks",
+    "page": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-table-FnyxtZvL5ks?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1642662069287-b73a79167759?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1642662069287-b73a79167759?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1277
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Gareth Halfacree from Bradford, UK, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Gareth Halfacree from Bradford, UK",
-    "year": 2018,
-    "how": "catalog"
+    "credit": "Photo by Hendrik Morkel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hendrik Morkel",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hendrikmorkel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/FnyxtZvL5ks/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww"
    },
    {
     "shot": "bitcoin-accepted-here",
-    "shows": "St Kitts - Market - BCH Accepted Here",
-    "file": "File:St Kitts - Market - BCH Accepted Here.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:St_Kitts_-_Market_-_BCH_Accepted_Here.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/St_Kitts_-_Market_-_BCH_Accepted_Here.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/St_Kitts_-_Market_-_BCH_Accepted_Here.jpg/500px-St_Kitts_-_Market_-_BCH_Accepted_Here.jpg",
+    "shows": "Bitcoin & Namecoin Accepted Here Sign",
+    "file": "File:Bitcoin & Namecoin Accepted Here Sign.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Bitcoin_%26_Namecoin_Accepted_Here_Sign.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bitcoin_%26_Namecoin_Accepted_Here_Sign.png/1920px-Bitcoin_%26_Namecoin_Accepted_Here_Sign.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bitcoin_%26_Namecoin_Accepted_Here_Sign.png/500px-Bitcoin_%26_Namecoin_Accepted_Here_Sign.png",
     "size": [
-     1200,
-     1600
+     1920,
+     1259
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "David-shattuck, CC0, via Wikimedia Commons",
+    "credit": "ninjarobot, CC0, via Wikimedia Commons",
     "licence": "CC0",
     "licence_kind": "cc0",
     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "David-shattuck",
-    "year": 2024,
+    "author": "ninjarobot",
+    "year": 2013,
     "how": "catalog"
    },
    {
@@ -91839,7 +91854,7 @@
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "gold": {
   "name": "Gold",
@@ -92122,106 +92137,115 @@
   "photos": [
    {
     "shot": "pumpjack",
-    "shows": "Brunei Pumpjack-2",
-    "file": "File:Brunei Pumpjack-2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Brunei_Pumpjack-2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Brunei_Pumpjack-2.jpg/1920px-Brunei_Pumpjack-2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Brunei_Pumpjack-2.jpg/500px-Brunei_Pumpjack-2.jpg",
+    "shows": "A rainbow in the sky over a green field",
+    "file": "unsplash:ruP1aLA91WM",
+    "page": "https://unsplash.com/photos/a-rainbow-in-the-sky-over-a-green-field-ruP1aLA91WM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1696355359958-275536dc182a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cHVtcGphY2t8ZW58MXx8fHwxNzkzODk4NTE5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1696355359958-275536dc182a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cHVtcGphY2t8ZW58MXx8fHwxNzkzODk4NTE5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1518
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "DeltaSquad833, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "DeltaSquad833",
-    "year": 2020,
-    "how": "catalog"
+    "credit": "Photo by Greg Johnson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Greg Johnson",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tornadogreg?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ruP1aLA91WM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cHVtcGphY2t8ZW58MXx8fHwxNzkzODk4NTE5fDA"
    },
    {
     "shot": "offshore",
-    "shows": "Deepwater Horizon offshore drilling unit on fire 2010",
-    "file": "File:Deepwater Horizon offshore drilling unit on fire 2010.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Deepwater_Horizon_offshore_drilling_unit_on_fire_2010.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Deepwater_Horizon_offshore_drilling_unit_on_fire_2010.jpg/1920px-Deepwater_Horizon_offshore_drilling_unit_on_fire_2010.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Deepwater_Horizon_offshore_drilling_unit_on_fire_2010.jpg/500px-Deepwater_Horizon_offshore_drilling_unit_on_fire_2010.jpg",
+    "shows": "Oil platform P-51 (Brazil)",
+    "file": "File:Oil platform P-51 (Brazil).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/1920px-Oil_platform_P-51_%28Brazil%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/500px-Oil_platform_P-51_%28Brazil%29.jpg",
     "size": [
      1920,
-     1439
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Unknown author Unknown author, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Unknown author Unknown author",
-    "year": 2010,
+    "credit": "Divulgação Petrobras / ABr, CC BY 3.0 br, via Wikimedia Commons",
+    "licence": "CC BY 3.0 br",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+    "author": "Divulgação Petrobras / ABr",
+    "year": 2009,
     "how": "catalog"
    },
    {
     "shot": "refinery",
-    "shows": "Snowfall at night over Brofjorden and Preemraff oil refinery",
-    "file": "File:Snowfall at night over Brofjorden and Preemraff oil refinery.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Snowfall_at_night_over_Brofjorden_and_Preemraff_oil_refinery.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Snowfall_at_night_over_Brofjorden_and_Preemraff_oil_refinery.jpg/1920px-Snowfall_at_night_over_Brofjorden_and_Preemraff_oil_refinery.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Snowfall_at_night_over_Brofjorden_and_Preemraff_oil_refinery.jpg/500px-Snowfall_at_night_over_Brofjorden_and_Preemraff_oil_refinery.jpg",
+    "shows": "City skyline during night time",
+    "file": "unsplash:iTZ_guCHHt0",
+    "page": "https://unsplash.com/photos/city-skyline-during-night-time-iTZ_guCHHt0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1580561346873-4a76a13dce92?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8b2lsJTIwcmVmaW5lcnklMjBuaWdodHxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1580561346873-4a76a13dce92?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8b2lsJTIwcmVmaW5lcnklMjBuaWdodHxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "W.carter, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "W.carter",
-    "year": 2018,
-    "how": "catalog"
+    "credit": "Photo by Timothy Newman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Timothy Newman",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@newmanphotog?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/iTZ_guCHHt0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8b2lsJTIwcmVmaW5lcnklMjBuaWdodHxlbnwxfHx8fDE3OTM4OTg1MjF8MA"
    },
    {
     "shot": "tanker",
-    "shows": "01 ACADIAN - IMO tanker – St. John’s NL Canada",
-    "file": "File:2022-09-04 01 ACADIAN - IMO 9298715 tanker – St. John’s NL Canada.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg/1920px-2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg/500px-2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg",
+    "shows": "Aerial view of city buildings beside body of water during daytime",
+    "file": "unsplash:ASmaVyS4AZM",
+    "page": "https://unsplash.com/photos/aerial-view-of-city-buildings-beside-body-of-water-during-daytime-ASmaVyS4AZM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1582517378602-f109b395ce40?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8b2lsJTIwdGFua2VyfGVufDF8fHx8MTc5Mzg5ODUyM3ww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1582517378602-f109b395ce40?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8b2lsJTIwdGFua2VyfGVufDF8fHx8MTc5Mzg5ODUyM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1277
+     2251,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Gordon Leggett, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Gordon Leggett",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by Venti Views on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Venti Views",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ventiviews?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ASmaVyS4AZM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8b2lsJTIwdGFua2VyfGVufDF8fHx8MTc5Mzg5ODUyM3ww"
    },
    {
     "shot": "opec",
-    "shows": "Wien - OPEC-Zentrale (a)",
-    "file": "File:Wien - OPEC-Zentrale (a).JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Wien_-_OPEC-Zentrale_(a).JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wien_-_OPEC-Zentrale_%28a%29.JPG/1920px-Wien_-_OPEC-Zentrale_%28a%29.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Wien_-_OPEC-Zentrale_%28a%29.JPG/500px-Wien_-_OPEC-Zentrale_%28a%29.JPG",
+    "shows": "Wien - OPEC-Zentrale (b)",
+    "file": "File:Wien - OPEC-Zentrale (b).JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Wien_-_OPEC-Zentrale_(b).JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wien_-_OPEC-Zentrale_%28b%29.JPG/1920px-Wien_-_OPEC-Zentrale_%28b%29.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wien_-_OPEC-Zentrale_%28b%29.JPG/500px-Wien_-_OPEC-Zentrale_%28b%29.JPG",
     "size": [
      1920,
-     1468
+     2110
     ],
     "focus": [
      0.5,
@@ -92237,26 +92261,29 @@
    },
    {
     "shot": "barrels",
-    "shows": "Castrol oil barrel in Athens",
-    "file": "File:Castrol oil barrel in Athens (2018).png",
-    "page": "https://commons.wikimedia.org/wiki/File:Castrol_oil_barrel_in_Athens_(2018).png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Castrol_oil_barrel_in_Athens_%282018%29.png/1920px-Castrol_oil_barrel_in_Athens_%282018%29.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Castrol_oil_barrel_in_Athens_%282018%29.png/500px-Castrol_oil_barrel_in_Athens_%282018%29.png",
+    "shows": "Yellow-and-blue oil barrel lot",
+    "file": "unsplash:B5SLyGtYdbk",
+    "page": "https://unsplash.com/photos/yellow-and-blue-oil-barrel-lot-B5SLyGtYdbk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1558617867-659c667b6809?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8b2lsJTIwYmFycmVsc3xlbnwxfHx8fDE3OTM5MDIxMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1558617867-659c667b6809?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8b2lsJTIwYmFycmVsc3xlbnwxfHx8fDE3OTM5MDIxMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1277
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Filippos Fragkogiannis, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Filippos Fragkogiannis",
-    "year": 2018,
-    "how": "catalog"
+    "credit": "Photo by Atik sulianami on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Atik sulianami",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@atik1616?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/B5SLyGtYdbk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8b2lsJTIwYmFycmVsc3xlbnwxfHx8fDE3OTM5MDIxMjd8MA"
    },
    {
     "shot": "oil-pipeline",
@@ -92283,60 +92310,66 @@
    },
    {
     "shot": "strait-of-hormuz",
-    "shows": "Strait of Hormuz",
-    "file": "File:Strait of Hormuz.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Strait_of_Hormuz.png/1920px-Strait_of_Hormuz.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Strait_of_Hormuz.png/500px-Strait_of_Hormuz.png",
+    "shows": "Strait of hormuz between iran and oman",
+    "file": "unsplash:8koWngCqqzM",
+    "page": "https://unsplash.com/photos/strait-of-hormuz-between-iran-and-oman-8koWngCqqzM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1775563798442-a1b7e114bff7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RyYWl0JTIwb2YlMjBIb3JtdXp8ZW58MXx8fHwxNzkzOTAyMTI5fDA&ixlib=rb-4.1.0&w=1720&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1775563798442-a1b7e114bff7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RyYWl0JTIwb2YlMjBIb3JtdXp8ZW58MXx8fHwxNzkzOTAyMTI5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1288
+     1720,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "European Space Agency (ESA), Attribution, via Wikimedia Commons",
-    "licence": "Attribution",
-    "licence_kind": "by",
-    "licence_url": "",
-    "author": "European Space Agency (ESA)",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by Planet Volumes on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Planet Volumes",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@planetvolumes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8koWngCqqzM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RyYWl0JTIwb2YlMjBIb3JtdXp8ZW58MXx8fHwxNzkzOTAyMTI5fDA"
    },
    {
     "shot": "oil-storage-tanks",
-    "shows": "Oil storage tanks - geograph.org.uk",
-    "file": "File:Oil storage tanks - geograph.org.uk - 5533508.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oil_storage_tanks_-_geograph.org.uk_-_5533508.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Oil_storage_tanks_-_geograph.org.uk_-_5533508.jpg/1920px-Oil_storage_tanks_-_geograph.org.uk_-_5533508.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Oil_storage_tanks_-_geograph.org.uk_-_5533508.jpg/500px-Oil_storage_tanks_-_geograph.org.uk_-_5533508.jpg",
+    "shows": "Large industrial storage tanks under a clear blue sky",
+    "file": "unsplash:dOsH-6EREiU",
+    "page": "https://unsplash.com/photos/large-industrial-storage-tanks-under-a-clear-blue-sky-dOsH-6EREiU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1772376920846-8925e03c3fcf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2lsJTIwc3RvcmFnZSUyMHRhbmtzfGVufDF8fHx8MTc5MzkwMjEzMXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1772376920846-8925e03c3fcf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2lsJTIwc3RvcmFnZSUyMHRhbmtzfGVufDF8fHx8MTc5MzkwMjEzMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1279
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Robert Eva, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Robert Eva",
-    "year": 2017,
-    "how": "catalog"
+    "credit": "Photo by Energie-portal.sk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Energie-portal.sk",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@energie_portal_sk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dOsH-6EREiU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2lsJTIwc3RvcmFnZSUyMHRhbmtzfGVufDF8fHx8MTc5MzkwMjEzMXww"
    },
    {
     "shot": "gas-flare",
-    "shows": "Gas flare on top of a flare stack at Preemraff Lysekil 8",
-    "file": "File:Gas flare on top of a flare stack at Preemraff Lysekil 8.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_8.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_8.jpg/1280px-Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_8.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_8.jpg/500px-Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_8.jpg",
+    "shows": "Gas flare on top of a flare stack at Preemraff Lysekil 5",
+    "file": "File:Gas flare on top of a flare stack at Preemraff Lysekil 5.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_5.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_5.jpg/1280px-Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_5.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_5.jpg/500px-Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_5.jpg",
     "size": [
      1280,
-     1706
+     1920
     ],
     "focus": [
      0.5,
@@ -92351,7 +92384,7 @@
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "tariffs": {
   "name": "Tariffs & trade war",
