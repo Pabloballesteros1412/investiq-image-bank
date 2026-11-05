@@ -1072,38 +1072,76 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Energy sector (sector-energy)
 
-- Oil platform P-51 (Brazil): Divulgação Petrobras / ABr, CC BY 3.0 br, via Wikimedia Commons. [Oil platform P-51 (Brazil).jpg](https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil).jpg)
+- The West Bollsta semi-submersible drilling rig docked in a harbor at low light: Photo by Maria Lupan on Unsplash. [hy97yy3e03A](https://unsplash.com/photos/west-bollsta-drilling-rig-in-harbor-hy97yy3e03A?utm_source=investiq_image_bank&utm_medium=referral)
+- Red and white tower under blue sky during night time: Photo by Maksym Kaharlytskyi on Unsplash. [u13zBF4r56A](https://unsplash.com/photos/red-and-white-tower-under-blue-sky-during-night-time-u13zBF4r56A?utm_source=investiq_image_bank&utm_medium=referral)
 - Pumpjacks on Lost Hills Oil Field in California on Route 46 at sunset. Almost all of the pumps shown on this picture were busy when I took the picture.: Arne Hückelheim, CC BY-SA 3.0, via Wikimedia Commons. [LostHillsPumpjacksSunset.JPG](https://commons.wikimedia.org/wiki/File:LostHillsPumpjacksSunset.JPG)
-- Oil Platform Crew Transfer: GuavaTrain, CC0, via Wikimedia Commons. [Oil Platform Crew Transfer.jpg](https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg)
+- A large lng carrier ship docked in a harbor: Photo by Julia Taubitz on Unsplash. [Mbat1ZHAM9s](https://unsplash.com/photos/a-large-lng-carrier-ship-docked-in-a-harbor-Mbat1ZHAM9s?utm_source=investiq_image_bank&utm_medium=referral)
+- A man pumping gas into his car at a gas station: Photo by engin akyurt on Unsplash. [f4UbPVbJcjw](https://unsplash.com/photos/a-man-pumping-gas-into-his-car-at-a-gas-station-f4UbPVbJcjw?utm_source=investiq_image_bank&utm_medium=referral)
+- An oil rig in the middle of the ocean: Photo by Gabriel Xavier on Unsplash. [XquCLVbTYLE](https://unsplash.com/photos/an-oil-rig-in-the-middle-of-the-ocean-XquCLVbTYLE?utm_source=investiq_image_bank&utm_medium=referral)
+- Drilling Roughnecks: National Institute for Occupational Safety and Health (NIOSH) from USA, public domain, via Wikimedia Commons. [Drilling Roughnecks (8744524276).jpg](https://commons.wikimedia.org/wiki/File:Drilling_Roughnecks_(8744524276).jpg)
+- Power plant chimneys stand tall over water: Photo by Zoshua Colah on Unsplash. [NzpifrHgQV0](https://unsplash.com/photos/power-plant-chimneys-stand-tall-over-water-NzpifrHgQV0?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Utilities sector (sector-utilities)
 
-- Wind turbines along North Middle Road, Essex County, Ontario: Crisco 1492, CC BY-SA 4.0, via Wikimedia Commons. [Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg](https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg)
+- A factory with smoke coming out of it: Photo by Etienne Girardet on Unsplash. [RqOyRtYGhLg](https://unsplash.com/photos/a-factory-with-smoke-coming-out-of-it-RqOyRtYGhLg?utm_source=investiq_image_bank&utm_medium=referral)
+- Low angle photo of transmission post: Photo by Jonathan Hanna on Unsplash. [08ai5EDtn9k](https://unsplash.com/photos/low-angle-photo-of-transmission-post-08ai5EDtn9k?utm_source=investiq_image_bank&utm_medium=referral)
+- A field of green grass with wind turbines in the background: Photo by Zac Wolff on Unsplash. [baXCV2qg9Ew](https://unsplash.com/photos/a-field-of-green-grass-with-wind-turbines-in-the-background-baXCV2qg9Ew?utm_source=investiq_image_bank&utm_medium=referral)
+- A large solar farm with many rows of solar panels: Photo by Harisankar on Unsplash. [hp6Xj7LyZ1E](https://unsplash.com/photos/a-large-solar-farm-with-many-rows-of-solar-panels-hp6Xj7LyZ1E?utm_source=investiq_image_bank&utm_medium=referral)
 - Hoover Dam Hydroelectric Pumps: Noah Wulf, CC BY-SA 4.0, via Wikimedia Commons. [Hoover Dam Hydroelectric Pumps.jpg](https://commons.wikimedia.org/wiki/File:Hoover_Dam_Hydroelectric_Pumps.jpg)
-- Switchyard of electric substation 750kV: Novoklimov, CC BY 4.0, via Wikimedia Commons. [Switchyard of electric substation 750kV.png](https://commons.wikimedia.org/wiki/File:Switchyard_of_electric_substation_750kV.png)
+- Two old electricity meters mounted on a wall: Photo by Rafael Arkenau on Unsplash. [xM5e2r03yzU](https://unsplash.com/photos/two-old-electricity-meters-mounted-on-a-wall-xM5e2r03yzU?utm_source=investiq_image_bank&utm_medium=referral)
+- A bunch of power lines that are in the dirt: Photo by Sam LaRussa on Unsplash. [Vu38TclLaNo](https://unsplash.com/photos/a-bunch-of-power-lines-that-are-in-the-dirt-Vu38TclLaNo?utm_source=investiq_image_bank&utm_medium=referral)
+- Country Energy line worker 02: Bidgee, CC BY-SA 3.0, via Wikimedia Commons. [Country Energy line worker 02.jpg](https://commons.wikimedia.org/wiki/File:Country_Energy_line_worker_02.jpg)
 
 ## Real estate sector (sector-real-estate)
 
-- Skyscraper Los Angeles Downtown 2013: Tuxyso, CC BY-SA 3.0, via Wikimedia Commons. [Skyscraper Los Angeles Downtown 2013.jpg](https://commons.wikimedia.org/wiki/File:Skyscraper_Los_Angeles_Downtown_2013.jpg)
+- A black and white photo of two tall buildings: Photo by Bagus Alif Widhiwipati on Unsplash. [6S9VlOSonpg](https://unsplash.com/photos/a-black-and-white-photo-of-two-tall-buildings-6S9VlOSonpg?utm_source=investiq_image_bank&utm_medium=referral)
+- Person sitting on chair beside escalator: Photo by Michael Weidemann on Unsplash. [oGhTfu1UrOY](https://unsplash.com/photos/person-sitting-on-chair-beside-escalator-oGhTfu1UrOY?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and white electric post under blue sky during daytime: Photo by Vyacheslav Shatskiy on Unsplash. [31JqyCVndUM](https://unsplash.com/photos/black-and-white-electric-post-under-blue-sky-during-daytime-31JqyCVndUM?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Materials sector (sector-materials)
 
+- A grassy field with power lines in the background: Photo by Nils Huenerfuerst on Unsplash. [s4gL7SwzyQQ](https://unsplash.com/photos/a-grassy-field-with-power-lines-in-the-background-s4gL7SwzyQQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Colonne distillazione: User:Luigi Chiesa, CC BY 3.0, via Wikimedia Commons. [Colonne distillazione.jpg](https://commons.wikimedia.org/wiki/File:Colonne_distillazione.jpg)
-- Open pit mine: Irene2005, CC BY 2.0, via Wikimedia Commons. [Open pit mine.jpg](https://commons.wikimedia.org/wiki/File:Open_pit_mine.jpg)
+- 005 Logging industry in New Zealand - tree trunk piles, timber logs stockpile: Marek Ślusarczyk ( Tupungato ) Photo portfolio, CC BY 3.0, via Wikimedia Commons. [005 Logging industry in New Zealand - tree trunk piles, timber logs stockpile.jpg](https://commons.wikimedia.org/wiki/File:005_Logging_industry_in_New_Zealand_-_tree_trunk_piles,_timber_logs_stockpile.jpg)
+- A large factory building next to a body of water: Photo by Chris Linnett on Unsplash. [EeqxbxILScA](https://unsplash.com/photos/a-large-factory-building-next-to-a-body-of-water-EeqxbxILScA?utm_source=investiq_image_bank&utm_medium=referral)
+- A man in a blue and white striped shirt working on a piece of metal: Photo by Dan Hadar on Unsplash. [EugjQpiERtk](https://unsplash.com/photos/a-man-in-a-blue-and-white-striped-shirt-working-on-a-piece-of-metal-EugjQpiERtk?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Federal Reserve & interest rates (fed)
 
 - Eccles Building: Federalreserve, public domain, via Wikimedia Commons. [Eccles Building (26088200676).jpg](https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg)
 
+## Inflation & cost of living (inflation)
+
+- A blue metal shopping cart in a blurred grocery store aisle: Photo by Eduardo Soares on Unsplash. [QsYXYSwV3NU](https://unsplash.com/photos/shopping-cart-in-grocery-store-QsYXYSwV3NU?utm_source=investiq_image_bank&utm_medium=referral)
+- Supermarket shelves displaying many white and brown egg cartons: Photo by Maksim Zinchenko on Unsplash. [ws6LA0p8ip4](https://unsplash.com/photos/supermarket-shelves-displaying-many-white-and-brown-egg-cartons-ws6LA0p8ip4?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and red welcome to fabulous las vegas nevada signage: Photo by chris robert on Unsplash. [-ryDtcapIas](https://unsplash.com/photos/black-and-red-welcome-to-fabulous-las-vegas-nevada-signage--ryDtcapIas?utm_source=investiq_image_bank&utm_medium=referral)
+- A butcher shop with meat hanging from the ceiling: Photo by Sebastien LE DEROUT on Unsplash. [qzDwGFTkaqI](https://unsplash.com/photos/a-butcher-shop-with-meat-hanging-from-the-ceiling-qzDwGFTkaqI?utm_source=investiq_image_bank&utm_medium=referral)
+- A white car with a green gas pump: Photo by engin akyurt on Unsplash. [ATiv-MR0d4U](https://unsplash.com/photos/a-white-car-with-a-green-gas-pump-ATiv-MR0d4U?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Recession & slowdown (recession)
 
+- Hudson's Bay - Store closing sale - - 11: Sikander Iqbal, CC BY-SA 4.0, via Wikimedia Commons. [Hudson's Bay - Store closing sale - 20250524 - 11.jpg](https://commons.wikimedia.org/wiki/File:Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_11.jpg)
+- Unemployed people gathering outside City Hall: Associated Press, public domain, via Wikimedia Commons. [Unemployed people gathering outside City Hall.jpg](https://commons.wikimedia.org/wiki/File:Unemployed_people_gathering_outside_City_Hall.jpg)
+- Five black rolling chars front of desk: Photo by Brusk Dede on Unsplash. [tjd5CfdDPRA](https://unsplash.com/photos/five-black-rolling-chars-front-of-desk-tjd5CfdDPRA?utm_source=investiq_image_bank&utm_medium=referral)
 - Sign of the Times-Foreclosure: respres, CC BY 2.0, via Wikimedia Commons. [Sign of the Times-Foreclosure.jpg](https://commons.wikimedia.org/wiki/File:Sign_of_the_Times-Foreclosure.jpg)
+- Red and white labeled cans: Photo by Donna Spearman on Unsplash. [Kml12zn10wI](https://unsplash.com/photos/red-and-white-labeled-cans-Kml12zn10wI?utm_source=investiq_image_bank&utm_medium=referral)
+
+## Jobs & labor market (jobs)
+
+- A "now hiring" sign hangs in a store window: Photo by Nathan Sack on Unsplash. [UQ716eQauSw](https://unsplash.com/photos/a-now-hiring-sign-hangs-in-a-store-window-UQ716eQauSw?utm_source=investiq_image_bank&utm_medium=referral)
+- Seven construction workers standing on white field: Photo by Scott Blake on Unsplash. [x-ghf9LjrVg](https://unsplash.com/photos/seven-construction-workers-standing-on-white-field-x-ghf9LjrVg?utm_source=investiq_image_bank&utm_medium=referral)
+- Workers walking through warehouse aisle: Photo by Adrian Sulyok on Unsplash. [c_4eaGRDSVU](https://unsplash.com/photos/workers-walking-through-warehouse-aisle-c_4eaGRDSVU?utm_source=investiq_image_bank&utm_medium=referral)
+- Woman in blue sweater sitting in front of laptop computer: Photo by Jan Baborák on Unsplash. [O4nTgxWr5Sc](https://unsplash.com/photos/woman-in-blue-sweater-sitting-in-front-of-laptop-computer-O4nTgxWr5Sc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Wall Street & stock market rallies (bull-market)
 
-- New York City (New York, USA), Wall Street -- 2012 -- 6614: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [New York City (New York, USA), Wall Street -- 2012 -- 6614.jpg](https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_USA),_Wall_Street_--_2012_--_6614.jpg)
-- Wall Street Sign April 2022: Kidfly182, CC BY-SA 4.0, via Wikimedia Commons. [Wall Street Sign April 2022.jpg](https://commons.wikimedia.org/wiki/File:Wall_Street_Sign_April_2022.jpg)
+- Brown concrete building during daytime: Photo by Tomas Eidsvold on Unsplash. [Vhr4lk8gNBk](https://unsplash.com/photos/brown-concrete-building-during-daytime-Vhr4lk8gNBk?utm_source=investiq_image_bank&utm_medium=referral)
+- A statue of a bull on a brick street: Photo by Harri P on Unsplash. [ZQZMJ0y7FDo](https://unsplash.com/photos/a-statue-of-a-bull-on-a-brick-street-ZQZMJ0y7FDo?utm_source=investiq_image_bank&utm_medium=referral)
+- Grayscale photo of 1-21 Wall street signage: Photo by Chris Li on Unsplash. [6Y6OnwBKk-o](https://unsplash.com/photos/grayscale-photo-of-1-21-wall-street-signage-6Y6OnwBKk-o?utm_source=investiq_image_bank&utm_medium=referral)
+- NASDAQ Times Square - panoramio: Roman SUZUKI, CC BY 3.0, via Wikimedia Commons. [NASDAQ Times Square - panoramio.jpg](https://commons.wikimedia.org/wiki/File:NASDAQ_Times_Square_-_panoramio.jpg)
+- A large body of water with a city in the background: Photo by Zoshua Colah on Unsplash. [NG9hFx38Az8](https://unsplash.com/photos/a-large-body-of-water-with-a-city-in-the-background-NG9hFx38Az8?utm_source=investiq_image_bank&utm_medium=referral)
 - Sign of the New York Stock Exchange, Broad Street: Billie Grace Ward, CC0, via Wikimedia Commons. [Sign of the New York Stock Exchange, Broad Street.jpg](https://commons.wikimedia.org/wiki/File:Sign_of_the_New_York_Stock_Exchange,_Broad_Street.jpg)
+- Federal Hall August 2017 01: Arild Vågen, CC BY-SA 4.0, via Wikimedia Commons. [Federal Hall August 2017 01.jpg](https://commons.wikimedia.org/wiki/File:Federal_Hall_August_2017_01.jpg)
 
 ## Market crash & volatility (crash)
 

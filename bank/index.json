@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 458,
+ "photos": 490,
  "subjects": [
   {
    "id": "MMM",
@@ -7678,7 +7678,7 @@
    "aliases": [
     "energy"
    ],
-   "photos": 3,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-energy.json"
   },
   {
@@ -7689,7 +7689,7 @@
    "aliases": [
     "utilities"
    ],
-   "photos": 3,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-utilities.json"
   },
   {
@@ -7700,7 +7700,7 @@
    "aliases": [
     "real estate"
    ],
-   "photos": 1,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-real-estate.json"
   },
   {
@@ -7711,7 +7711,7 @@
    "aliases": [
     "materials"
    ],
-   "photos": 2,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-materials.json"
   },
   {
@@ -7740,7 +7740,7 @@
     "prices",
     "cost of living"
    ],
-   "photos": 0,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/inflation.json"
   },
   {
@@ -7754,7 +7754,7 @@
     "downturn",
     "gdp"
    ],
-   "photos": 1,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/recession.json"
   },
   {
@@ -7769,7 +7769,7 @@
     "payrolls",
     "labor"
    ],
-   "photos": 0,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/jobs.json"
   },
   {
@@ -7785,7 +7785,7 @@
     "s&p 500",
     "record high"
    ],
-   "photos": 3,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bull-market.json"
   },
   {

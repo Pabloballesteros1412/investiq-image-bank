@@ -5,6 +5,24 @@
  "tickers": [],
  "photos": [
   {
+   "shows": "A grassy field with power lines in the background",
+   "url": "https://images.unsplash.com/photo-1720986315552-f3ef473b93ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29wcGVyJTIwbWluZXxlbnwxfHx8fDE3OTM4ODk0MDZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1720986315552-f3ef473b93ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29wcGVyJTIwbWluZXxlbnwxfHx8fDE3OTM4ODk0MDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nils Huenerfuerst on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nhuenerfuerst?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-grassy-field-with-power-lines-in-the-background-s4gL7SwzyQQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Colonne distillazione",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Colonne_distillazione.jpg/1280px-Colonne_distillazione.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Colonne_distillazione.jpg/500px-Colonne_distillazione.jpg",
@@ -22,21 +40,57 @@
    "source": "https://commons.wikimedia.org/wiki/File:Colonne_distillazione.jpg"
   },
   {
-   "shows": "Open pit mine",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Open_pit_mine.jpg/1920px-Open_pit_mine.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Open_pit_mine.jpg/500px-Open_pit_mine.jpg",
+   "shows": "005 Logging industry in New Zealand - tree trunk piles, timber logs stockpile",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/005_Logging_industry_in_New_Zealand_-_tree_trunk_piles%2C_timber_logs_stockpile.jpg/1280px-005_Logging_industry_in_New_Zealand_-_tree_trunk_piles%2C_timber_logs_stockpile.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/005_Logging_industry_in_New_Zealand_-_tree_trunk_piles%2C_timber_logs_stockpile.jpg/500px-005_Logging_industry_in_New_Zealand_-_tree_trunk_piles%2C_timber_logs_stockpile.jpg",
    "size": [
-    1920,
-    1443
+    1280,
+    1920
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Irene2005, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
+   "credit": "Marek Ślusarczyk ( Tupungato ) Photo portfolio, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Open_pit_mine.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:005_Logging_industry_in_New_Zealand_-_tree_trunk_piles,_timber_logs_stockpile.jpg"
+  },
+  {
+   "shows": "A large factory building next to a body of water",
+   "url": "https://images.unsplash.com/photo-1666219462105-2909c2d72d01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2VtZW50JTIwcGxhbnR8ZW58MXx8fHwxNzkzODkxMjExfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1666219462105-2909c2d72d01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2VtZW50JTIwcGxhbnR8ZW58MXx8fHwxNzkzODkxMjExfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Chris Linnett on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chrislinnett?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-factory-building-next-to-a-body-of-water-EeqxbxILScA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A man in a blue and white striped shirt working on a piece of metal",
+   "url": "https://images.unsplash.com/photo-1635184549996-8e482768acea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2xhc3MlMjBmYWN0b3J5fGVufDF8fHx8MTc5Mzg5MTIxN3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1635184549996-8e482768acea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2xhc3MlMjBmYWN0b3J5fGVufDF8fHx8MTc5Mzg5MTIxN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dan Hadar on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@danhadar?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-man-in-a-blue-and-white-striped-shirt-working-on-a-piece-of-metal-EugjQpiERtk?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
