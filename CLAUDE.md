@@ -85,6 +85,20 @@ Decisions (Pablo, 4 Nov 2026):
   brand photos (no Commons search, nothing to grade). Stock photos are published unless graded below 3
   (`python review.py sheets --stock` to check them). 394 searches per source.
 
+## Unsplash works (5 Nov 2026, third session)
+- Pablo added the Unsplash key as a network secret: `stock.sources()` finds Unsplash by its keyless probe (Pexels:
+  no key, skipped). Demo limit confirmed (`X-Ratelimit-Limit: 50`). A real search answer matches `Unsplash.candidate`
+  (urls.raw, links.html/download_location, user.links.html; `premium`/`plus` are null on free photos; search results
+  carry no tags). images.unsplash.com serves the resized addresses.
+- First real stock run: `build --only gold` (7 Unsplash + 3 Commons) and `build --only AAPL --stock-only` (5
+  approved Commons + 5 Unsplash brand photos: iPhone, Apple Store). Two gold stock picks pass only through the
+  photographer's own description ("gold mine" -> nuggets on a table, "gold panning" -> dirt): grade them in
+  `review.py sheets --stock`.
+- Screenshots for Unsplash's production application (gold topic, Apple brands; only the Unsplash rows, since
+  Commons thumbnails do not load from the cloud container) were sent to Pablo on 5 Nov.
+- A session that started from `main` redid this branch's work by mistake (branch `claude/gifted-heisenberg-13n0mr`
+  now carries this line instead); nothing of it was needed.
+
 ## Next work (in order)
 1. New session with the keys: check `curl -sS -o /dev/null -w "%{http_code}" -H "Authorization: $PEXELS_API_KEY"
    "https://api.pexels.com/v1/search?query=gold"` gives 200 (Unsplash: `-H "Authorization: Client-ID

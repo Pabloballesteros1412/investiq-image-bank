@@ -91,6 +91,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - John Ternus at the Apple 50th Anniversary Kickoff: Tessa Bury, CC BY 4.0, via Wikimedia Commons. [John Ternus at the Apple 50th Anniversary Kickoff.jpg](https://commons.wikimedia.org/wiki/File:John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg)
 - Visit of Tim Cook to the European Commission: European Commission - Photographer: Christophe Licoppe, CC BY 4.0, via Wikimedia Commons. [Visit of Tim Cook to the European Commission - P061904-946789.jpg](https://commons.wikimedia.org/wiki/File:Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg)
 - Apple park cupertino 2019: Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons. [Apple park cupertino 2019.jpg](https://commons.wikimedia.org/wiki/File:Apple_park_cupertino_2019.jpg)
+- Silver iPhone X floating over open palm: Photo by Neil Soni on Unsplash. [6wdRuK7bVTE](https://unsplash.com/photos/silver-iphone-x-floating-over-open-palm-6wdRuK7bVTE?utm_source=investiq_image_bank&utm_medium=referral)
+- Apple Store shop front: Photo by Laurenz Heymann on Unsplash. [VkfhJLz5SMQ](https://unsplash.com/photos/apple-store-shop-front-VkfhJLz5SMQ?utm_source=investiq_image_bank&utm_medium=referral)
+- A hand holding a smartphone displaying a home screen with various app icons: Photo by Bagus Hernawan on Unsplash. [A6JxK37IlPo](https://unsplash.com/photos/hand-holding-smartphone-with-app-icons-A6JxK37IlPo?utm_source=investiq_image_bank&utm_medium=referral)
+- A white smartphone with a dual camera system on a yellow and white background: Photo by Vựa Táo on Unsplash. [OxvlDO8RwKg](https://unsplash.com/photos/smartphone-with-dual-camera-on-background-OxvlDO8RwKg?utm_source=investiq_image_bank&utm_medium=referral)
+- Space gray iphone 6 on white textile: Photo by Oscar Nord on Unsplash. [8l9VxXI28tY](https://unsplash.com/photos/space-gray-iphone-6-on-white-textile-8l9VxXI28tY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Arm Holdings (ARM)
 
@@ -1078,8 +1083,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Gold (gold)
 
-- Gold ingot and bar of Banque de France: Ibex73, CC BY 4.0, via Wikimedia Commons. [Gold ingot and bar of Banque de France.jpg](https://commons.wikimedia.org/wiki/File:Gold_ingot_and_bar_of_Banque_de_France.jpg)
+- Stacked gold bullion bars: Photo by Jingming Pan on Unsplash. [iYsrkq5qq0Q](https://unsplash.com/photos/stacked-gold-bullion-bars-iYsrkq5qq0Q?utm_source=investiq_image_bank&utm_medium=referral)
+- A collection of gold bars and coins with stamped markings and emblems: Photo by Zlaťáky.cz on Unsplash. [bN3KYPiAd8k](https://unsplash.com/photos/gold-bars-and-coins-collection-bN3KYPiAd8k?utm_source=investiq_image_bank&utm_medium=referral)
+- A pile of gold nuggets sitting on top of a wooden table: Photo by suradeach saetang on Unsplash. [jrA2l3JjD5k](https://unsplash.com/photos/a-pile-of-gold-nuggets-sitting-on-top-of-a-wooden-table-jrA2l3JjD5k?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a gold nugget: Photo by Marko Ivanov on Unsplash. [eLeXwRx4ALs](https://unsplash.com/photos/a-close-up-of-a-gold-nugget-eLeXwRx4ALs?utm_source=investiq_image_bank&utm_medium=referral)
 - LaRonde Gold Pour: Agnico-Eagle, CC0, via Wikimedia Commons. [LaRonde Gold Pour.jpg](https://commons.wikimedia.org/wiki/File:LaRonde_Gold_Pour.jpg)
+- Gold-colored pendant necklace: Photo by Alex Azabache on Unsplash. [y2ErhoE92KA](https://unsplash.com/photos/gold-colored-pendant-necklace-y2ErhoE92KA?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of dirt and dirt on the ground: Photo by Tomáš Malík on Unsplash. [4zcI8MTcDkQ](https://unsplash.com/photos/a-close-up-of-dirt-and-dirt-on-the-ground-4zcI8MTcDkQ?utm_source=investiq_image_bank&utm_medium=referral)
+- silver bars: Photo by Scottsdale Mint on Unsplash. [xN4QdAn4aJw](https://unsplash.com/photos/text-xN4QdAn4aJw?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Oil & energy (oil)
 

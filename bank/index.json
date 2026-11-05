@@ -9,8 +9,8 @@
   "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ. Roles (CEO, chair...) come from Wikidata or the catalog and can be out of date: check before naming one.",
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
- "updated": "2026-11-04",
- "photos": 407,
+ "updated": "2026-11-05",
+ "photos": 418,
  "subjects": [
   {
    "id": "MMM",
@@ -554,10 +554,9 @@
     "AAPL"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/AAPL.json",
-   "sector": "sector-tech",
-   "fill_from": "sector-tech"
+   "sector": "sector-tech"
   },
   {
    "id": "AMAT",
@@ -7875,7 +7874,7 @@
     "precious metals",
     "bullion"
    ],
-   "photos": 2,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/gold.json"
   },
   {
