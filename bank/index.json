@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 530,
+ "photos": 537,
  "subjects": [
   {
    "id": "MMM",
@@ -8085,7 +8085,7 @@
     "compound interest",
     "401k"
    ],
-   "photos": 2,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/investing.json"
   },
   {
@@ -8099,7 +8099,7 @@
     "space economy",
     "rockets"
    ],
-   "photos": 3,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/space.json"
   },
   {
@@ -8115,7 +8115,7 @@
     "wegovy",
     "zepbound"
    ],
-   "photos": 0,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/glp1.json"
   },
   {

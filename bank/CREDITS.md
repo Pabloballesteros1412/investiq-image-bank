@@ -1277,14 +1277,24 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Investing basics, retirement & index funds (investing)
 
-- Stack of coins 0214: Dori, public domain, via Wikimedia Commons. [Stack of coins 0214.jpg](https://commons.wikimedia.org/wiki/File:Stack_of_coins_0214.jpg)
+- Pink pig coin bank on brown wooden table: Photo by Andre Taissin on Unsplash. [5OUMf1Mr5pU](https://unsplash.com/photos/pink-pig-coin-bank-on-brown-wooden-table-5OUMf1Mr5pU?utm_source=investiq_image_bank&utm_medium=referral)
+- Two persons sitting on grass facing the lake: Photo by Max Harlynking on Unsplash. [DGP-759-Ukk](https://unsplash.com/photos/two-persons-sitting-on-grass-facing-the-lake-DGP-759-Ukk?utm_source=investiq_image_bank&utm_medium=referral)
+- Stacks of gold coins on a dark, textured surface: Photo by Anthony Aird on Unsplash. [MEE_C_8fLvU](https://unsplash.com/photos/stacks-of-gold-coins-on-a-dark-textured-surface-MEE_C_8fLvU?utm_source=investiq_image_bank&utm_medium=referral)
 - Trading apps on an iPhone screen: forextime.com, CC BY 2.0, via Wikimedia Commons. [Trading apps on an iPhone screen.jpg](https://commons.wikimedia.org/wiki/File:Trading_apps_on_an_iPhone_screen.jpg)
 
 ## Space economy (space)
 
-- New Glenn launch signals new era for Space Launch Complex 36: U.S. Space Force 45SW by Senior Airman Samuel Becker, public domain, via Wikimedia Commons. [New Glenn launch signals new era for Space Launch Complex 36 (8832113).jpg](https://commons.wikimedia.org/wiki/File:New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_(8832113).jpg)
+- A long exposure rocket launch arc over a dark body of water at night: Photo by SpaceX on Unsplash. [TV2gg2kZD1o](https://unsplash.com/photos/rocket-launch-arc-over-dark-water-TV2gg2kZD1o?utm_source=investiq_image_bank&utm_medium=referral)
+- A satellite in orbit with the earth in the background: Photo by NASA Hubble Space Telescope on Unsplash. [63eIRNS-hHc](https://unsplash.com/photos/a-satellite-in-orbit-with-the-earth-in-the-background-63eIRNS-hHc?utm_source=investiq_image_bank&utm_medium=referral)
+- International Space Station orbits earth: Photo by NASA on Unsplash. [wAkLQnT2TC0](https://unsplash.com/photos/international-space-station-orbits-earth-wAkLQnT2TC0?utm_source=investiq_image_bank&utm_medium=referral)
+- Rocket Lab PREFIRE-1 Launch (KSC- -PH-RKL01 0005): NASA Kennedy Space Center / Rocket Lab, public domain, via Wikimedia Commons. [Rocket Lab PREFIRE-1 Launch (KSC-20240525-PH-RKL01 0005).jpg](https://commons.wikimedia.org/wiki/File:Rocket_Lab_PREFIRE-1_Launch_(KSC-20240525-PH-RKL01_0005).jpg)
 - James Webb Space Telescope Mirror37: NASA/MSFC/David Higginbotham/Emmett Given, public domain, via Wikimedia Commons. [James Webb Space Telescope Mirror37.jpg](https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror37.jpg)
-- Artemis I Launch (NHQ202211160017): Joel Kowsky, public domain, via Wikimedia Commons. [Artemis I Launch (NHQ202211160017).jpg](https://commons.wikimedia.org/wiki/File:Artemis_I_Launch_(NHQ202211160017).jpg)
+- Rocket launching into a clear blue sky: Photo by Andrew Wilson on Unsplash. [usmMdpXd66k](https://unsplash.com/photos/rocket-launching-into-a-clear-blue-sky-usmMdpXd66k?utm_source=investiq_image_bank&utm_medium=referral)
+
+## Weight-loss drugs (GLP-1) (glp1)
+
+- A semaglutide injection pen is shown: Photo by Haberdoedas on Unsplash. [TzKc7FGaL7Y](https://unsplash.com/photos/a-semaglutide-injection-pen-is-shown-TzKc7FGaL7Y?utm_source=investiq_image_bank&utm_medium=referral)
+- A woman measuring her waist with a measuring tape: Photo by B Y G on Unsplash. [oThoRP1zGzE](https://unsplash.com/photos/a-woman-measuring-her-waist-with-a-measuring-tape-oThoRP1zGzE?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## US politics & markets (politics)
 
