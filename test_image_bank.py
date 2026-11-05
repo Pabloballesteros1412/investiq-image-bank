@@ -536,3 +536,12 @@ class Brands(unittest.TestCase):
             bad = m["AAPL"]["photos"][1]["file"]
             rv["grades"][bad] = 1                                                      # a stock photo can be rejected
             self.assertNotIn(bad, [p["file"] for p in B.published_photos(m["AAPL"], rv)])
+
+
+class StockKeys(unittest.TestCase):
+    def test_key_from_environment_or_from_the_proxy(self):
+        s = stock.sources(env={"UNSPLASH_ACCESS_KEY": "k1"}, probe=lambda url: False)
+        self.assertEqual([(x.name, x.headers.get("Authorization")) for x in s], [("unsplash", "Client-ID k1")])
+        s = stock.sources(env={}, probe=lambda url: "unsplash" in url)        # a network secret for api.unsplash.com
+        self.assertEqual([(x.name, "Authorization" in x.headers) for x in s], [("unsplash", False)])
+        self.assertEqual(stock.sources(env={}, probe=lambda url: False), [])

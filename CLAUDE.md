@@ -63,7 +63,12 @@ Decisions (Pablo, 4 Nov 2026):
   (`api.unsplash.com`, `images.unsplash.com`, `api.pexels.com`, `images.pexels.com`) answer since the second
   session, but `UNSPLASH_ACCESS_KEY` and `PEXELS_API_KEY` are still not in the environment (Pexels: 401). Pablo
   was asked to add them (a new session picks them up). **Pexels has paused issuing new API keys** (its API page,
-  5 Nov 2026): go with Unsplash alone (a source without its key is skipped) and add Pexels if it reopens. Note: `WIKIMEDIA_TOKEN` is now a short placeholder that
+  5 Nov 2026): go with Unsplash alone (a source without its key is skipped) and add Pexels if it reopens.
+  Pablo's Network secrets dialog takes Host + Header + Prefix + Token and the proxy adds the header itself to
+  requests to that host (no environment variable). Unsplash: Host `api.unsplash.com`, Header `Authorization`,
+  Prefix `Client-ID`. `stock.sources()` uses an env key if there is one, else probes the API without a key and
+  enables the source if it answers 200 (one request per run). Different from `WIKIMEDIA_TOKEN`, a placeholder
+  the proxy swaps only inside our own Authorization header (no header: anonymous, 429). Note: `WIKIMEDIA_TOKEN` is now a short placeholder that
   the egress proxy swaps for the real token (network secret): it only works in the Authorization header to the
   Wikimedia hosts, which is where `headers()` sends it. Topics and sectors run each shot on Unsplash, Pexels and Commons; a stock photo must name every word
   of the search (or a `must` word) in its description and then wins (+30). Never for real people; no Unsplash+,

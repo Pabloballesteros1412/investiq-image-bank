@@ -2,8 +2,11 @@
 Unsplash and Pexels: better-looking photos for the bank's topics and sectors (generic scenes: a trading floor,
 gold bars, a refinery), next to the Wikimedia Commons photos of real companies.
 
-Needs UNSPLASH_ACCESS_KEY and/or PEXELS_API_KEY in the environment (a source without its key is skipped) and
-network access to api.unsplash.com, images.unsplash.com, api.pexels.com and images.pexels.com. Answers are
+Needs each API's key, in one of two ways: in the environment (UNSPLASH_ACCESS_KEY, PEXELS_API_KEY), or as a
+network secret of the cloud environment that the egress proxy adds to every request to the API's host
+(api.unsplash.com: header Authorization, prefix "Client-ID"; api.pexels.com: header Authorization, no prefix).
+Without either, the source is skipped. Also needs network access to api.unsplash.com, images.unsplash.com,
+api.pexels.com and images.pexels.com. Answers are
 kept in .cache/stock/ (not in Git) for 30 days, so a rebuild costs no requests. When a source's hourly limit
 is reached (Unsplash: 50 requests an hour for a new app, 1,000 once Unsplash approves it for production;
 Pexels: 200 an hour) the build waits until it resets.
@@ -70,14 +73,17 @@ def words_of_url(url):
 
 class Unsplash:
     name = "unsplash"
+    probe = "https://api.unsplash.com/photos?per_page=1"
 
-    def __init__(self, key, log=print):
+    def __init__(self, key=None, log=print):
         self.key, self.log = key, log
+        # no key: the proxy adds it (network secret)
+        self.headers = {"Accept-Version": "v1", **({"Authorization": "Client-ID " + key} if key else {})}
 
     def search(self, q):
         url = "https://api.unsplash.com/search/photos?" + urllib.parse.urlencode(
             {"query": q, "per_page": PER_PAGE, "content_filter": "high"})
-        d = fetch(url, {"Authorization": "Client-ID " + self.key, "Accept-Version": "v1"}, log=self.log)
+        d = fetch(url, self.headers, log=self.log)
         return [c for c in (self.candidate(r) for r in d.get("results", [])) if c]
 
     @staticmethod
@@ -99,20 +105,22 @@ class Unsplash:
     def track(self, url):
         """Tell Unsplash a photo was chosen (its API guidelines ask for it)."""
         try:
-            fetch(url, {"Authorization": "Client-ID " + self.key, "Accept-Version": "v1"}, cache=False, log=self.log)
+            fetch(url, self.headers, cache=False, log=self.log)
         except Exception as e:  # a missed count must not stop the build
             self.log(f"  (Unsplash download count failed: {e})")
 
 
 class Pexels:
     name = "pexels"
+    probe = "https://api.pexels.com/v1/curated?per_page=1"
 
-    def __init__(self, key, log=print):
+    def __init__(self, key=None, log=print):
         self.key, self.log = key, log
+        self.headers = {"Authorization": key} if key else {}  # no key: the proxy adds it (network secret)
 
     def search(self, q):
         url = "https://api.pexels.com/v1/search?" + urllib.parse.urlencode({"query": q, "per_page": PER_PAGE})
-        d = fetch(url, {"Authorization": self.key}, log=self.log)
+        d = fetch(url, self.headers, log=self.log)
         return [self.candidate(p) for p in d.get("photos", []) if (p.get("src") or {}).get("original")]
 
     @staticmethod
@@ -129,13 +137,25 @@ class Pexels:
         pass
 
 
-def sources(log=print):
-    """The stock sources whose key is in the environment."""
+def answers_without_key(url):
+    """Whether an API answers a request that carries no key: the egress proxy adds it (network secret)."""
+    try:
+        with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=30) as r:
+            return r.status == 200
+    except Exception:
+        return False
+
+
+def sources(log=print, env=None, probe=answers_without_key):
+    """The stock sources this environment can use: its key in the environment, else one the proxy adds."""
+    env = os.environ if env is None else env
     out = []
-    if os.environ.get("UNSPLASH_ACCESS_KEY", "").strip():
-        out.append(Unsplash(os.environ["UNSPLASH_ACCESS_KEY"].strip(), log))
-    if os.environ.get("PEXELS_API_KEY", "").strip():
-        out.append(Pexels(os.environ["PEXELS_API_KEY"].strip(), log))
+    for cls, var in ((Unsplash, "UNSPLASH_ACCESS_KEY"), (Pexels, "PEXELS_API_KEY")):
+        key = (env.get(var) or "").strip()
+        if key:
+            out.append(cls(key, log))
+        elif probe(cls.probe):
+            out.append(cls(None, log))
     return out
 
 
