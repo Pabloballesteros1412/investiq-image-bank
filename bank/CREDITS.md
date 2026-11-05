@@ -1298,23 +1298,35 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## US politics & markets (politics)
 
-- US Capitol Building at night Jan 2006: Diliff, public domain, via Wikimedia Commons. [US Capitol Building at night Jan 2006.jpg](https://commons.wikimedia.org/wiki/File:US_Capitol_Building_at_night_Jan_2006.jpg)
+- The united states capitol building lit up at night: Photo by Nils Huenerfuerst on Unsplash. [J74lRP0UTIM](https://unsplash.com/photos/the-united-states-capitol-building-lit-up-at-night-J74lRP0UTIM?utm_source=investiq_image_bank&utm_medium=referral)
+- View of Oval Office in 2017: White House, public domain, via Wikimedia Commons. [View of Oval Office in 2017.jpg](https://commons.wikimedia.org/wiki/File:View_of_Oval_Office_in_2017.jpg)
+- A large white building with columns with United States Supreme Court Building in the background: Photo by Fine Photographics on Unsplash. [osJUjMNpcak](https://unsplash.com/photos/a-large-white-building-with-columns-with-united-states-supreme-court-building-in-the-background-osJUjMNpcak?utm_source=investiq_image_bank&utm_medium=referral)
+- A portable voting booth with instructions: Photo by Smithsonian on Unsplash. [MmbAC3aUVi0](https://unsplash.com/photos/a-portable-voting-booth-with-instructions-MmbAC3aUVi0?utm_source=investiq_image_bank&utm_medium=referral)
 - Donald Trump official portrait: Shealeah Craighead, public domain, via Wikimedia Commons. [Donald Trump official portrait.jpg](https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg)
 
 ## Europe & the ECB (europe)
 
-- Europäische Zentralbank Frankfurt: Thomas Wolf , www.foto-tw.de, CC BY-SA 3.0 de, via Wikimedia Commons. [Europäische Zentralbank Frankfurt.jpg](https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Zentralbank_Frankfurt.jpg)
+- Gray concrete building with star: Photo by Mika Baumeister on Unsplash. [bGZZBDvh8s4](https://unsplash.com/photos/gray-concrete-building-with-star-bGZZBDvh8s4?utm_source=investiq_image_bank&utm_medium=referral)
+- Frankfurt Skyline 2022 bei Nacht: Jörg Braukmann, CC BY-SA 4.0, via Wikimedia Commons. [Frankfurt Skyline 2022 bei Nacht.jpg](https://commons.wikimedia.org/wiki/File:Frankfurt_Skyline_2022_bei_Nacht.jpg)
+- Paris Palais Brongniart détail 2012: JLPC, CC BY-SA 3.0, via Wikimedia Commons. [Paris Palais Brongniart détail 2012.jpg](https://commons.wikimedia.org/wiki/File:Paris_Palais_Brongniart_d%C3%A9tail_2012.jpg)
+- A view of a city at night from a high point of view: Photo by Timelab on Unsplash. [oo02-PJWXVM](https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-high-point-of-view-oo02-PJWXVM?utm_source=investiq_image_bank&utm_medium=referral)
 - Christine Lagarde, 2023: European Parliament from EU, CC BY 2.0, via Wikimedia Commons. [Christine Lagarde, 2023.jpg](https://commons.wikimedia.org/wiki/File:Christine_Lagarde,_2023.jpg)
+- Blue flag on top of building during daytime: Photo by Christian Lue on Unsplash. [MZWBMNP7Nro](https://unsplash.com/photos/blue-flag-on-top-of-building-during-daytime-MZWBMNP7Nro?utm_source=investiq_image_bank&utm_medium=referral)
+- A large building with a dome roof with Reichstag building in the background: Photo by Aron Marinelli on Unsplash. [Zy1W0uJwfTs](https://unsplash.com/photos/a-large-building-with-a-dome-roof-with-reichstag-building-in-the-background-Zy1W0uJwfTs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Quantum computing (quantum)
 
-- IQM Quantum Computer Espoo Finland: Ragsxl, CC BY-SA 4.0, via Wikimedia Commons. [IQM Quantum Computer Espoo Finland.jpg](https://commons.wikimedia.org/wiki/File:IQM_Quantum_Computer_Espoo_Finland.jpg)
+- A quantum computer with gold plates and intricate silver wiring against a black background: Photo by Planet Volumes on Unsplash. [7dRmpT3vxV8](https://unsplash.com/photos/quantum-computer-with-gold-plates-7dRmpT3vxV8?utm_source=investiq_image_bank&utm_medium=referral)
 - Dilution Fridge 008 16K: OJB Quantum, CC BY 4.0, via Wikimedia Commons. [Dilution Fridge 008 16K.png](https://commons.wikimedia.org/wiki/File:Dilution_Fridge_008_16K.png)
 - IBM Quantum System One: OJB Quantum, CC BY 4.0, via Wikimedia Commons. [IBM Quantum System One.jpg](https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg)
 
 ## Robotics & automation (robotics)
 
+- A factory filled with lots of orange machines: Photo by Simon Kadula on Unsplash. [8gr6bObQLOI](https://unsplash.com/photos/a-factory-filled-with-lots-of-orange-machines-8gr6bObQLOI?utm_source=investiq_image_bank&utm_medium=referral)
+- Robotic arms assembling a car chassis on a factory line: Photo by Lilian Do Khac on Unsplash. [EyqUxJuOb1Q](https://unsplash.com/photos/robotic-arms-assembling-a-car-chassis-on-a-factory-line-EyqUxJuOb1Q?utm_source=investiq_image_bank&utm_medium=referral)
+- A yellow and black robot standing in the dark: Photo by Mika Baumeister on Unsplash. [xtt9ohgbZu4](https://unsplash.com/photos/a-yellow-and-black-robot-standing-in-the-dark-xtt9ohgbZu4?utm_source=investiq_image_bank&utm_medium=referral)
 - FANUC 6-axis welding robots: Phasmatisnox, CC BY 3.0, via Wikimedia Commons. [FANUC 6-axis welding robots.jpg](https://commons.wikimedia.org/wiki/File:FANUC_6-axis_welding_robots.jpg)
+- A humanoid robot with exposed mechanical joints in a bright white exhibition space: Photo by Dilip Poddar on Unsplash. [2I0yMzTI4Us](https://unsplash.com/photos/humanoid-robot-in-white-exhibition-space-2I0yMzTI4Us?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Cybersecurity (cybersecurity)
 

@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 537,
+ "photos": 549,
  "subjects": [
   {
    "id": "MMM",
@@ -8131,7 +8131,7 @@
     "president",
     "shutdown"
    ],
-   "photos": 2,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/politics.json"
   },
   {
@@ -8148,7 +8148,7 @@
     "dax",
     "stoxx"
    ],
-   "photos": 2,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/europe.json"
   },
   {
@@ -8174,7 +8174,7 @@
     "automation",
     "humanoid"
    ],
-   "photos": 1,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/robotics.json"
   },
   {

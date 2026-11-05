@@ -5,21 +5,22 @@
  "tickers": [],
  "photos": [
   {
-   "shows": "IQM Quantum Computer Espoo Finland",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/IQM_Quantum_Computer_Espoo_Finland.jpg/1280px-IQM_Quantum_Computer_Espoo_Finland.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/IQM_Quantum_Computer_Espoo_Finland.jpg/500px-IQM_Quantum_Computer_Espoo_Finland.jpg",
+   "shows": "A quantum computer with gold plates and intricate silver wiring against a black background",
+   "url": "https://images.unsplash.com/photo-1681908571122-97f349e1ace0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cXVhbnR1bSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5MzkyMDI0NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1681908571122-97f349e1ace0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cXVhbnR1bSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5MzkyMDI0NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1280,
-    1920
+    1200,
+    1600
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Ragsxl, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:IQM_Quantum_Computer_Espoo_Finland.jpg"
+   "credit": "Photo by Planet Volumes on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@planetvolumes?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/quantum-computer-with-gold-plates-7dRmpT3vxV8?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Dilution Fridge 008 16K",
