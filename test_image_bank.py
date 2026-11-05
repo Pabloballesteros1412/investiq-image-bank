@@ -75,11 +75,11 @@ class Fake:
     def info(self, titles):
         return {t: cand(t) for t in titles if "missing" not in t}
 
-    def category_files(self, cat):
+    def category_photos(self, cat, name):
         files = [(f"File:3M building {i}.jpg", "3M") for i in range(1, 4)]            # near-duplicates: one kept
         files += [(f"File:3M plant {c} site.jpg", "3M factories") for c in "abc"]       # same subcategory: two kept
         files += [("File:3M logo.png", "3M"), ("File:Post-it notes macro.jpg", "Post-it"), ("File:Scotch tape roll.jpg", "Scotch tape")]
-        return files
+        return [(cand(f), where) for f, where in files]
 
 
 MINI = {"style": "Photo.", "negative": "text", "subjects": [
@@ -133,6 +133,22 @@ class Universe(unittest.TestCase):
             (Path(d) / "universe.json").write_text(json.dumps(u))
             uni = {e["id"]: e for e in B.build_universe(MINI, src, d, extras, log=lambda *_: None)}
             self.assertEqual(uni["MMM"]["commons_category"], "3M Company")
+
+    def test_categories_of_a_company(self):
+        tree = {"Apple Inc.": ["Apple Inc. buildings", "Apple Inc. logos", "Criticism of Apple Inc.", "Apple Inc. retail",
+                               "Taligent", "Employees of Apple Inc.", "Apple Inc. products"],
+                "Apple Inc. buildings": ["Apple Park", "One Infinite Loop", "Apple Inc. maps"],
+                "Apple Inc. retail": ["Apple Fifth Avenue"]}
+        cats = B.pick_categories("Apple Inc.", "Apple", lambda c: tree.get(c, []))
+        self.assertEqual(cats, ["Apple Inc.", "Apple Inc. buildings", "Apple Inc. retail", "Apple Inc. products",
+                                "Apple Park", "One Infinite Loop", "Apple Fifth Avenue"])
+        qs = B.category_queries(cats)
+        self.assertEqual(qs, ['incategory:"Apple Inc.|Apple Inc. buildings|Apple Inc. retail|Apple Inc. products|Apple Park|'
+                              'One Infinite Loop|Apple Fifth Avenue"'])
+        many = B.category_queries([f"Category number {i:02d} of a long company name" for i in range(40)])
+        self.assertEqual(len(many), 2)                                                  # at most two searches
+        self.assertTrue(all(len(q) <= 280 for q in many))
+        self.assertIn("number 00", many[0])
 
     def test_a_broken_wikipedia_table_stops_the_run(self):
         with tempfile.TemporaryDirectory() as d, self.assertRaises(RuntimeError):
@@ -236,7 +252,7 @@ class Build(unittest.TestCase):
         p = mmm["photos"][0]
         self.assertEqual(set(p) >= {"shows", "url", "preview", "size", "focus", "credit", "licence", "source"}, True)
         self.assertTrue(any("fill_from" in r for r in ix["rules"]))
-        self.assertEqual(B.credits(self.bank), 26)                          # MMM 10, ZZZ 6 (one per search: same name stem), gold 10
+        self.assertEqual(B.credits(self.bank), 25)                          # MMM 10, ZZZ 5 (one per search: same name stem), gold 10
         self.assertIn("Jane Doe", (self.bank / "CREDITS.md").read_text())
 
     def test_topics_sectors_and_prompts(self):
@@ -276,6 +292,14 @@ class Build(unittest.TestCase):
         (self.bank / "universe.json").unlink()
         with self.assertRaises(SystemExit):
             self.run_build()
+
+    def test_rate_limit_waits(self):
+        class Err:
+            def __init__(self, h): self.headers = h
+        self.assertEqual(B.retry_after(Err({"Retry-After": "37"}), 0), 37)
+        self.assertEqual(B.retry_after(Err({}), 0), 5)
+        self.assertEqual(B.retry_after(Err({}), 3), 40)
+        self.assertEqual(B.retry_after(Err({"Retry-After": "9999"}), 0), 300)
 
     def test_commons_answer_parsing(self):
         page = {"title": "File:Apple Park.jpg", "index": 1, "imageinfo": [{"width": 6000, "height": 4000, "mime": "image/jpeg",

@@ -31,8 +31,10 @@ python image_bank.py build
 ```
 
 `universe` lee la lista del S&P 500 y busca cada empresa en Wikidata: su categoría de Commons, su CEO y su
-imagen principal. `build` busca las fotos. La primera vez tarda una hora o más; si se corta, vuelve a
-ejecutarlo y solo hace lo que falta. Al terminar, sube los cambios (`git add -A && git commit && git push`):
+imagen principal. `build` busca las fotos. Desde 2026 Wikimedia limita cuántas peticiones acepta de cada IP
+sin cuenta: el programa hace una petición cada vez, espera lo que pide cada respuesta 429 y se frena solo (el
+registro dice cuántas peticiones fueron limitadas). Por eso la primera vez tarda varias horas; si se corta,
+vuelve a ejecutarlo y solo hace lo que falta. Al terminar, sube los cambios (`git add -A && git commit && git push`):
 el chat ve el banco nuevo en cuanto están en GitHub.
 
 | Comando | Qué hace |
@@ -68,7 +70,8 @@ el chat ve el banco nuevo en cuanto están en GitHub.
 ## Cómo elige cada foto
 
 Una empresa recibe primero sus tomas escritas a mano (si las tiene), después su imagen principal de Wikidata,
-una foto de su CEO, las mejores fotos de su categoría de Commons y subcategorías (como mucho dos por
+una foto de su CEO, las mejores fotos de su categoría de Commons y de las subcategorías que llevan su nombre
+(y un nivel más en las de edificios, tiendas o fábricas; como mucho cuatro de su categoría, dos por
 subcategoría y sin casi duplicados) y, si aún faltan, búsquedas de su sede, tiendas, fábricas y oficinas en
 las que aparezca el nombre de la empresa. Los temas y sectores tienen 10 búsquedas escritas a mano.
 

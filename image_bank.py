@@ -19,12 +19,15 @@ point to crop around, and the chat crops it to 4:5 or 1:1 itself.
     python image_bank.py check                    (validate catalog.json and extras.json)
 
 Needs Python 3.9+ (no other package) and network access to en.wikipedia.org, www.wikidata.org and
-commons.wikimedia.org. The carousel chat needs upload.wikimedia.org (where the photos are).
+commons.wikimedia.org. The carousel chat needs upload.wikimedia.org (where the photos are). Since 2026 Wikimedia
+limits anonymous clients per IP: requests go one at a time, wait as long as a 429's Retry-After asks, and the
+gap between them widens after each 429 (the log shows how many requests were limited). A full build takes hours.
 
 Which photos: a company gets its hand-written shots from catalog.json first (50 large companies have
-them), then its main image on Wikidata, a photo of its CEO, the best photos of its Commons category and
-subcategories (at most two per subcategory, no near-duplicates), then Commons searches for its headquarters,
-stores, factories and offices whose file name or categories name the company. Topics and sectors have 10
+them), then its main image on Wikidata, a photo of its CEO, the best photos of its Commons category and of the
+subcategories that name it (one level deeper under its buildings, stores, plants...; found with `incategory:`
+searches; at most four from its own category and two per subcategory, no near-duplicates), then Commons searches
+for its headquarters, stores, factories and offices whose file name or categories name the company. Topics and sectors have 10
 hand-written searches each. A photo is accepted only with a free licence (CC0, public domain, CC BY, CC BY-SA),
 at least 1600 px on the long side and 1000 px on the short side, as JPEG or PNG, with a file name that is not a
 logo, map, chart, diagram or screenshot, and not used anywhere else in the bank. Ranking: search relevance,
@@ -170,21 +173,61 @@ def check_catalog(cat, extras=None):
 
 # ---------- network ----------
 
-def get_json(params, url=COMMONS_API):
+class Pace:
+    """One request at a time with a gap between them. Wikimedia limits anonymous clients per IP (429 with
+    Retry-After); after a 429 the gap widens and it narrows again slowly while answers come back."""
+
+    def __init__(self, gap=1.0, low=0.5, high=15.0):
+        self.gap, self.low, self.high, self.last = gap, low, high, 0.0
+        self.requests = self.limited = 0
+
+    def wait(self):
+        time.sleep(max(0.0, self.last + self.gap - time.monotonic()))
+        self.last = time.monotonic()
+        self.requests += 1
+
+    def ok(self):
+        self.gap = max(self.low, self.gap * 0.97)
+
+    def slow(self, seconds):
+        self.limited += 1
+        self.gap = min(self.high, self.gap * 1.5)
+        time.sleep(seconds)
+        self.last = time.monotonic()
+
+
+PACE = Pace()
+
+
+def retry_after(err, attempt):
+    """Seconds to wait after a 429 or 5xx: the server's Retry-After, else 5 s doubling, at most 5 minutes."""
+    try:
+        s = float(err.headers.get("Retry-After"))
+    except (TypeError, ValueError, AttributeError):
+        s = 5 * 2 ** min(attempt, 6)
+    return min(300.0, max(1.0, s))
+
+
+def get_json(params, url=COMMONS_API, tries=20):
     full = url + "?" + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2})
-    for attempt in range(6):
+    for attempt in range(tries):
+        PACE.wait()
         try:
             with urllib.request.urlopen(urllib.request.Request(full, headers={"User-Agent": UA}), timeout=90) as r:
-                return json.loads(r.read())
+                d = json.loads(r.read())
+            PACE.ok()
+            if isinstance(d, dict) and d.get("error"):
+                raise RuntimeError(f"API error from {url}: {d['error'].get('code')}: {d['error'].get('info', '')[:200]}")
+            return d
         except urllib.error.HTTPError as e:
             if e.code not in (429, 500, 502, 503, 504):
                 raise
-            time.sleep(min(60, 5 * 2 ** attempt))
-        except urllib.error.URLError:
-            if attempt == 5:
+            PACE.slow(retry_after(e, attempt))
+        except (urllib.error.URLError, TimeoutError, ConnectionError):
+            if attempt >= 5:
                 raise
             time.sleep(5 * (attempt + 1))
-    raise RuntimeError(f"no answer from {url}: {params}")
+    raise RuntimeError(f"no answer from {url} after {tries} tries: {params}")
 
 
 def plain(s):
@@ -211,13 +254,11 @@ def candidate(page):
 class Live:
     """Wikipedia, Wikidata and Commons over the network: the build's only contact with the outside."""
 
-    def __init__(self, pause=0.2):
-        self.pause = pause
+    def __init__(self):
+        self._info = {}
 
     def _get(self, url, params):
-        d = get_json(params, url)
-        time.sleep(self.pause)
-        return d
+        return get_json(params, url)
 
     def sp500(self):
         d = self._get(ENWIKI_API, {"action": "parse", "page": "List of S&P 500 companies", "prop": "wikitext", "redirects": 1})
@@ -263,11 +304,12 @@ class Live:
         return [candidate(p) for p in pages if p.get("imageinfo")]
 
     def info(self, titles):
-        """{file title: candidate} for Commons files (missing files left out)."""
-        out = {}
-        titles = list(dict.fromkeys(titles))
-        for i in range(0, len(titles), 50):
-            params = {"action": "query", "titles": "|".join(titles[i:i + 50]), **IMAGEINFO}
+        """{file title: candidate} for Commons files (missing files left out). Answers are kept, so the build can
+        ask for every company's main image in a few requests first."""
+        cache = self._info
+        todo = [t for t in dict.fromkeys(titles) if t not in cache]
+        for i in range(0, len(todo), 50):
+            params = {"action": "query", "titles": "|".join(todo[i:i + 50]), **IMAGEINFO}
             pages, extra = {}, {}
             while True:
                 d = self._get(COMMONS_API, {**params, **extra})
@@ -277,29 +319,26 @@ class Live:
                 if "continue" not in d:
                     break
                 extra = d["continue"]
-            out.update({t: candidate(p) for t, p in pages.items() if p.get("imageinfo")})
-        return out
+            for t in todo[i:i + 50]:
+                cache[t] = None
+            cache.update({t: candidate(p) for t, p in pages.items() if p.get("imageinfo")})
+        return {t: cache[t] for t in titles if cache.get(t)}
 
-    def category_files(self, cat, depth=2, max_cats=15, top=80, per_cat=30):
-        """[(file title, category)] in a Commons category and its subcategories, breadth first, skipping
-        logo, map, document... categories."""
-        seen, queue, out = set(), [(cat, 0)], []
-        while queue and len(seen) < max_cats:
-            c, d = queue.pop(0)
-            if c in seen:
-                continue
-            seen.add(c)
-            r = self._get(COMMONS_API, {"action": "query", "list": "categorymembers", "cmtitle": "Category:" + c,
-                                        "cmtype": "file|subcat", "cmlimit": 500})
-            files, subs = [], []
-            for m in r.get("query", {}).get("categorymembers", []):
-                name = m["title"].split(":", 1)[-1]
-                if m.get("ns") == 14 and d < depth and not SKIP_CATEGORY.search(name):
-                    subs.append(name)
-                elif m.get("ns") == 6 and re.search(r"\.(jpe?g|png)$", name, re.I):
-                    files.append(m["title"])
-            out += [(f, c) for f in files[: top if d == 0 else per_cat]]
-            queue += [(s, d + 1) for s in subs]
+    def subcats(self, cat):
+        r = self._get(COMMONS_API, {"action": "query", "list": "categorymembers", "cmtitle": "Category:" + cat,
+                                    "cmtype": "subcat", "cmlimit": 500})
+        return [m["title"].split(":", 1)[-1] for m in r.get("query", {}).get("categorymembers", [])]
+
+    def category_photos(self, cat, name):
+        """[(candidate, category)]: the files of a company's Commons category and of its subcategories that name it
+        (see pick_categories), found with one or two `incategory:` searches instead of walking the tree file by file."""
+        cats = pick_categories(cat, name, self.subcats)
+        out, seen = [], set()
+        for q in category_queries(cats):
+            for c in self.search(q, 50):
+                if c["file"] not in seen:
+                    seen.add(c["file"])
+                    out.append((c, next((x for x in c["categories"] if x in cats), cat)))
         return out
 
 
@@ -560,6 +599,40 @@ def photo(c, shot, shows, how, focus, person=False, category=None):
     return e
 
 
+NOT_COMPANY = re.compile(r"\b(criticism|games?|employees|people|customers|finances?|timelines?|sponsored|cycling|racing|"
+                         r"teams?|lawsuits?|software|controvers\w*|taken with)\b", re.I)
+PLACES = re.compile(r"\b(buildings?|headquarters|offices?|stores?|retail|shops?|plants?|factor(?:y|ies)|facilities|"
+                    r"campus(?:es)?|data cent(?:er|re)s?|branches|restaurants?|warehouses?|refiner(?:y|ies)|mines?)\b", re.I)
+
+
+def pick_categories(cat, name, subcats, most=24, deeper=3):
+    """The Commons categories a company's photos come from: its own, its subcategories that name it (not logos,
+    ads, documents, people, games...), and the subcategories of up to `deeper` of those about its buildings,
+    stores, plants... `subcats(category)` lists a category's subcategories."""
+    keys = {name.lower(), cat.lower()}
+    ok = lambda c: not SKIP_CATEGORY.search(c) and not NOT_COMPANY.search(c)
+    first = [c for c in subcats(cat) if ok(c) and any(k in c.lower() for k in keys)]
+    out = [cat, *first]
+    for c in [c for c in first if PLACES.search(c)][:deeper]:
+        out += [s for s in subcats(c) if ok(s)]
+    return list(dict.fromkeys(out))[:most]
+
+
+def category_queries(cats, longest=280, most=2):
+    """`incategory:"A|B|C"` searches over these categories, each short enough for Commons search (300 characters
+    with ' filetype:bitmap'), the first categories first."""
+    out, cur = [], []
+    for c in cats:
+        c = c.replace('"', "")
+        if cur and len('incategory:"' + "|".join(cur + [c]) + '"') > longest:
+            out.append(cur)
+            cur = []
+        if len('incategory:"' + c + '"') <= longest:
+            cur.append(c)
+    out += [cur] if cur else []
+    return ['incategory:"' + "|".join(x) + '"' for x in out[:most]]
+
+
 def short_name(name):
     words = [w for w in re.sub(r"\(.*?\)", " ", name).split() if w.lower().strip(",.") not in GENERIC_WORDS]
     return " ".join(words).strip(" ,.") or name
@@ -596,23 +669,21 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
         if r:
             take(r[0][1], "leader", f"{c['ceo']}, {name} CEO", "Wikidata CEO", person=True)
     if c.get("commons_category") and len(picks) < TARGET:
-        files = src.category_files(c["commons_category"])
-        infos = src.info([f for f, _ in files])
-        ranked = []
-        for f, where in files:
-            cand = infos.get(f)
-            s = score(cand, 0, {"id": "category"}, used, no_sa, exclude) if cand else None
+        main, ranked = c["commons_category"], []
+        for cand, where in src.category_photos(main, short):
+            s = score(cand, 0, {"id": "category"}, used, no_sa, exclude)
             if s is not None:
-                ranked.append((s - (0 if where == c["commons_category"] else 3), cand, where))
+                named = 10 if short.lower() in cand["file"].lower() else 0
+                ranked.append((s + named - (0 if where == main else 3), cand, where))
         per = {}
         for _, cand, where in sorted(ranked, key=lambda x: -x[0]):
             if len(picks) >= TARGET:
                 break
-            if per.get(where, 0) >= 2 or not fresh(cand):
+            if per.get(where, 0) >= (4 if where == main else 2) or not fresh(cand):
                 continue
             per[where] = per.get(where, 0) + 1
             take(cand, f"c{len(picks) + 1}", describe(cand, f"{name} ({where})"), "Commons category", category=where)
-    for what in ("headquarters", "store", "factory", "office", "building", ""):
+    for what in ("headquarters", "store", "factory", "office", ""):
         if len(picks) >= TARGET:
             break
         n = 0
@@ -685,9 +756,13 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
         raise ValueError(f"no subject matches {only}")
     m = load_manifest(bank)
     used = {p["file"] for e in m.values() for p in e.get("photos", [])}
+    skip = lambda s: m.get(s["id"], {}).get("manual") is True or (m.get(s["id"], {}).get("checked") and not (redo or keys))
+    mains = ["File:" + s["company"]["image"] for s in todo if s["kind"] == "company" and s["company"].get("image") and not skip(s)]
+    if len(mains) > 1:
+        src.info(mains)  # every main image in a few requests; company_photos then reads them from the cache
     for n, s in enumerate(todo, 1):
         old = m.get(s["id"], {})
-        if old.get("manual") is True or (old.get("checked") and not (redo or keys)):
+        if skip(s):
             continue
         man = old.get("manual") or []
         fixed = {f: old[f] for f in man if f in old}
@@ -713,7 +788,8 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
         if man:
             e.update(fixed, manual=man)
         m[s["id"]] = e
-        log(f"  {n}/{len(todo)} {s['id']:12s} {len(e['photos']):2d} photos {e.get('error', '')}")
+        log(f"  {n}/{len(todo)} {s['id']:12s} {len(e['photos']):2d} photos  [{PACE.requests} requests, {PACE.limited} limited, "
+            f"gap {PACE.gap:.1f}s] {e.get('error', '')}")
         if n % save_every == 0:
             save_manifest(m, [x["id"] for x in subjects], bank)
     save_manifest(m, [x["id"] for x in subjects], bank)
