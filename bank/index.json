@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 490,
+ "photos": 491,
  "subjects": [
   {
    "id": "MMM",
@@ -7711,7 +7711,7 @@
    "aliases": [
     "materials"
    ],
-   "photos": 5,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-materials.json"
   },
   {

@@ -23,6 +23,11 @@ Grades:
   poor photos (blurry, dark, tilted, tiny subject, heavily cut by the 4:5 frame), anything you would not want next
   to a stock-market headline.
 
+- Topics and sectors (generic photos, also from Unsplash/Pexels): a company's brand front and centre (an Exxon
+  or Shell price sign, Disney's castle, a branded tanker truck) is at most 2, since the chat must never present
+  a generic photo as one company's; so is the same scene already used for another subject (one power plant, shot
+  twice by the same photographer, turned up in energy and utilities).
+
 Be strict. When unsure between 3 and 2, give 2; between 2 and 1, give 1. Expect roughly 10-25% of tiles to be 3.
 
 Calibration, sheet-001 (3M, A. O. Smith, AB InBev, Abbott):

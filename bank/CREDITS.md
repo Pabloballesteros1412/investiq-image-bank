@@ -1104,6 +1104,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Colonne distillazione: User:Luigi Chiesa, CC BY 3.0, via Wikimedia Commons. [Colonne distillazione.jpg](https://commons.wikimedia.org/wiki/File:Colonne_distillazione.jpg)
 - 005 Logging industry in New Zealand - tree trunk piles, timber logs stockpile: Marek Ślusarczyk ( Tupungato ) Photo portfolio, CC BY 3.0, via Wikimedia Commons. [005 Logging industry in New Zealand - tree trunk piles, timber logs stockpile.jpg](https://commons.wikimedia.org/wiki/File:005_Logging_industry_in_New_Zealand_-_tree_trunk_piles,_timber_logs_stockpile.jpg)
 - A large factory building next to a body of water: Photo by Chris Linnett on Unsplash. [EeqxbxILScA](https://unsplash.com/photos/a-large-factory-building-next-to-a-body-of-water-EeqxbxILScA?utm_source=investiq_image_bank&utm_medium=referral)
+- Yellow and black crane on brown field during daytime: Photo by C M on Unsplash. [zY8WM82id0s](https://unsplash.com/photos/yellow-and-black-crane-on-brown-field-during-daytime-zY8WM82id0s?utm_source=investiq_image_bank&utm_medium=referral)
 - A man in a blue and white striped shirt working on a piece of metal: Photo by Dan Hadar on Unsplash. [EugjQpiERtk](https://unsplash.com/photos/a-man-in-a-blue-and-white-striped-shirt-working-on-a-piece-of-metal-EugjQpiERtk?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Federal Reserve & interest rates (fed)
