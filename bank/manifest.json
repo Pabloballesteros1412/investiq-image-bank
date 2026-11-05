@@ -95672,83 +95672,66 @@
   "photos": [
    {
     "shot": "rocket-night",
-    "shows": "NASA’s Evolved SLS Block 1B Crew Rocket - Night Launch (B1B Crew Night Launch)",
-    "file": "File:NASA’s Evolved SLS Block 1B Crew Rocket - Night Launch (B1B Crew Night Launch).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NASA%E2%80%99s_Evolved_SLS_Block_1B_Crew_Rocket_-_Night_Launch_(B1B_Crew_Night_Launch).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NASA%E2%80%99s_Evolved_SLS_Block_1B_Crew_Rocket_-_Night_Launch_%28B1B_Crew_Night_Launch%29.jpg/1920px-NASA%E2%80%99s_Evolved_SLS_Block_1B_Crew_Rocket_-_Night_Launch_%28B1B_Crew_Night_Launch%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/NASA%E2%80%99s_Evolved_SLS_Block_1B_Crew_Rocket_-_Night_Launch_%28B1B_Crew_Night_Launch%29.jpg/500px-NASA%E2%80%99s_Evolved_SLS_Block_1B_Crew_Rocket_-_Night_Launch_%28B1B_Crew_Night_Launch%29.jpg",
+    "shows": "A long exposure rocket launch arc over a dark body of water at night",
+    "file": "unsplash:TV2gg2kZD1o",
+    "page": "https://unsplash.com/photos/rocket-launch-arc-over-dark-water-TV2gg2kZD1o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1459
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "NASA Marshall Space Flight Center / Terry White/SLS, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA Marshall Space Flight Center / Terry White/SLS",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by SpaceX on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "SpaceX",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@spacex?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/TV2gg2kZD1o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA"
    },
    {
     "shot": "satellite",
-    "shows": "North America from low orbiting satellite Suomi NPP",
-    "file": "File:North America from low orbiting satellite Suomi NPP.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:North_America_from_low_orbiting_satellite_Suomi_NPP.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/North_America_from_low_orbiting_satellite_Suomi_NPP.jpg/1920px-North_America_from_low_orbiting_satellite_Suomi_NPP.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/North_America_from_low_orbiting_satellite_Suomi_NPP.jpg/500px-North_America_from_low_orbiting_satellite_Suomi_NPP.jpg",
+    "shows": "A satellite in orbit with the earth in the background",
+    "file": "unsplash:63eIRNS-hHc",
+    "page": "https://unsplash.com/photos/a-satellite-in-orbit-with-the-earth-in-the-background-63eIRNS-hHc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1710267224163-0ee7e0d7a7ce?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2F0ZWxsaXRlJTIwaW4lMjBvcmJpdHxlbnwxfHx8fDE3OTM5MTY2NTl8MA&ixlib=rb-4.1.0&w=1875&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1710267224163-0ee7e0d7a7ce?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2F0ZWxsaXRlJTIwaW4lMjBvcmJpdHxlbnwxfHx8fDE3OTM5MTY2NTl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1920
+     1875,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA/NOAA/GSFC/Suomi NPP/VIIRS/Norman Kuring",
-    "year": 2012,
-    "how": "catalog"
+    "credit": "Photo by NASA Hubble Space Telescope on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "NASA Hubble Space Telescope",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hubblespacetelescope?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/63eIRNS-hHc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2F0ZWxsaXRlJTIwaW4lMjBvcmJpdHxlbnwxfHx8fDE3OTM5MTY2NTl8MA"
    },
    {
     "shot": "earth",
-    "shows": "Gigantic jet photographed by Nichole Ayers on the International Space Station, some edits",
-    "file": "File:Gigantic jet photographed by Nichole Ayers on the International Space Station, some edits.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gigantic_jet_photographed_by_Nichole_Ayers_on_the_International_Space_Station,_some_edits.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gigantic_jet_photographed_by_Nichole_Ayers_on_the_International_Space_Station%2C_some_edits.jpg/1920px-Gigantic_jet_photographed_by_Nichole_Ayers_on_the_International_Space_Station%2C_some_edits.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Gigantic_jet_photographed_by_Nichole_Ayers_on_the_International_Space_Station%2C_some_edits.jpg/500px-Gigantic_jet_photographed_by_Nichole_Ayers_on_the_International_Space_Station%2C_some_edits.jpg",
+    "shows": "Dramatic Views of Hurricane Florence from the International Space Station From 9 12",
+    "file": "File:Dramatic Views of Hurricane Florence from the International Space Station From 9 12 (42828603210).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/1920px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
     "size": [
      1920,
      1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA / Nichole Ayers, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA / Nichole Ayers",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "iss",
-    "shows": "Dramatic Views of Hurricane Florence from the International Space Station From 9 12 ( )",
-    "file": "File:Dramatic Views of Hurricane Florence from the International Space Station From 9 12 (42828603210) (cropped).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/1920px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29_%28cropped%29.jpg",
-    "size": [
-     1920,
-     1314
     ],
     "focus": [
      0.5,
@@ -95763,38 +95746,67 @@
     "how": "catalog"
    },
    {
-    "shot": "new-glenn",
-    "shows": "New Glenn launch signals new era for Space Launch Complex 36",
-    "file": "File:New Glenn launch signals new era for Space Launch Complex 36 (8832113).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_(8832113).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_%288832113%29.jpg/1920px-New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_%288832113%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_%288832113%29.jpg/500px-New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_%288832113%29.jpg",
+    "shot": "iss",
+    "shows": "International Space Station orbits earth",
+    "file": "unsplash:wAkLQnT2TC0",
+    "page": "https://unsplash.com/photos/international-space-station-orbits-earth-wAkLQnT2TC0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1614314007212-0257d6e2f7d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8SW50ZXJuYXRpb25hbCUyMFNwYWNlJTIwU3RhdGlvbnxlbnwxfHx8fDE3OTM5MTY2NjJ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1614314007212-0257d6e2f7d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8SW50ZXJuYXRpb25hbCUyMFNwYWNlJTIwU3RhdGlvbnxlbnwxfHx8fDE3OTM5MTY2NjJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1755
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "U.S. Space Force 45SW by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Space Force 45SW by Senior Airman Samuel Becker",
-    "year": 2025,
-    "how": "catalog"
+    "credit": "Photo by NASA on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "NASA",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nasa?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/wAkLQnT2TC0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8SW50ZXJuYXRpb25hbCUyMFNwYWNlJTIwU3RhdGlvbnxlbnwxfHx8fDE3OTM5MTY2NjJ8MA"
+   },
+   {
+    "shot": "new-glenn",
+    "shows": "Water falls between brown rock formation during daytime",
+    "file": "unsplash:TfK2cq9WzDE",
+    "page": "https://unsplash.com/photos/water-falls-between-brown-rock-formation-during-daytime-TfK2cq9WzDE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1602677691639-af0590030f51?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TmV3JTIwR2xlbm58ZW58MXx8fHwxNzkzOTE2NjYzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1602677691639-af0590030f51?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TmV3JTIwR2xlbm58ZW58MXx8fHwxNzkzOTE2NjYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tyler Rutherford on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tyler Rutherford",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tylerjr14?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/TfK2cq9WzDE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TmV3JTIwR2xlbm58ZW58MXx8fHwxNzkzOTE2NjYzfDA"
    },
    {
     "shot": "rocket-lab",
-    "shows": "Rocket Lab PREFIRE Processing (KSC- -PH-RKL01 0001)",
-    "file": "File:Rocket Lab PREFIRE Processing (KSC-20240502-PH-RKL01 0001).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rocket_Lab_PREFIRE_Processing_(KSC-20240502-PH-RKL01_0001).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rocket_Lab_PREFIRE_Processing_%28KSC-20240502-PH-RKL01_0001%29.jpg/1920px-Rocket_Lab_PREFIRE_Processing_%28KSC-20240502-PH-RKL01_0001%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Rocket_Lab_PREFIRE_Processing_%28KSC-20240502-PH-RKL01_0001%29.jpg/500px-Rocket_Lab_PREFIRE_Processing_%28KSC-20240502-PH-RKL01_0001%29.jpg",
+    "shows": "Rocket Lab PREFIRE-1 Launch (KSC- -PH-RKL01 0005)",
+    "file": "File:Rocket Lab PREFIRE-1 Launch (KSC-20240525-PH-RKL01 0005).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rocket_Lab_PREFIRE-1_Launch_(KSC-20240525-PH-RKL01_0005).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rocket_Lab_PREFIRE-1_Launch_%28KSC-20240525-PH-RKL01_0005%29.jpg/1280px-Rocket_Lab_PREFIRE-1_Launch_%28KSC-20240525-PH-RKL01_0005%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Rocket_Lab_PREFIRE-1_Launch_%28KSC-20240525-PH-RKL01_0005%29.jpg/500px-Rocket_Lab_PREFIRE-1_Launch_%28KSC-20240525-PH-RKL01_0005%29.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1920
     ],
     "focus": [
      0.5,
@@ -95810,26 +95822,29 @@
    },
    {
     "shot": "mars-rover",
-    "shows": "NASA Mars Rover",
-    "file": "File:NASA Mars Rover.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NASA_Mars_Rover.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/1920px-NASA_Mars_Rover.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/NASA_Mars_Rover.jpg/500px-NASA_Mars_Rover.jpg",
+    "shows": "Grey plastic capsule",
+    "file": "unsplash:S5c8MV04URs",
+    "page": "https://unsplash.com/photos/grey-plastic-capsule-S5c8MV04URs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1554234221-2ed6b07f7f73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycyUyMHJvdmVyfGVufDF8fHx8MTc5MzkxNjY2Nnww&ixlib=rb-4.1.0&w=2241&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1554234221-2ed6b07f7f73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycyUyMHJvdmVyfGVufDF8fHx8MTc5MzkxNjY2Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1536
+     2241,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "NASA/JPL/Cornell University, Maas Digital LLC, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA/JPL/Cornell University, Maas Digital LLC",
-    "year": 2003,
-    "how": "catalog"
+    "credit": "Photo by Chris Boyer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Chris Boyer",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@csgboyer?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/S5c8MV04URs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycyUyMHJvdmVyfGVufDF8fHx8MTc5MzkxNjY2Nnww"
    },
    {
     "shot": "james-webb-space-telescope",
@@ -95856,52 +95871,55 @@
    },
    {
     "shot": "rocket-factory",
-    "shows": "Stealth Rocket Factory in Silicon Valley",
-    "file": "File:Stealth Rocket Factory in Silicon Valley (40465740753).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stealth_Rocket_Factory_in_Silicon_Valley_(40465740753).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stealth_Rocket_Factory_in_Silicon_Valley_%2840465740753%29.jpg/1920px-Stealth_Rocket_Factory_in_Silicon_Valley_%2840465740753%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stealth_Rocket_Factory_in_Silicon_Valley_%2840465740753%29.jpg/500px-Stealth_Rocket_Factory_in_Silicon_Valley_%2840465740753%29.jpg",
+    "shows": "A-4 (V-2) rocket engine at the Peenemünde Historical Technical Museum",
+    "file": "File:A-4 (V-2) rocket engine at the Peenemünde Historical Technical Museum.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A-4_(V-2)_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/A-4_%28V-2%29_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg/1280px-A-4_%28V-2%29_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/A-4_%28V-2%29_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg/500px-A-4_%28V-2%29_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     2276
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "jurvetson, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "jurvetson",
-    "year": 2019,
+    "credit": "Siarhei Besarab, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Siarhei Besarab",
+    "year": 2025,
     "how": "catalog"
    },
    {
     "shot": "space-launch-system",
-    "shows": "Artemis I Launch (NHQ202211160017)",
-    "file": "File:Artemis I Launch (NHQ202211160017).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Artemis_I_Launch_(NHQ202211160017).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/1920px-Artemis_I_Launch_%28NHQ202211160017%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/500px-Artemis_I_Launch_%28NHQ202211160017%29.jpg",
+    "shows": "Rocket launching into a clear blue sky",
+    "file": "unsplash:usmMdpXd66k",
+    "page": "https://unsplash.com/photos/rocket-launching-into-a-clear-blue-sky-usmMdpXd66k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1776447242317-ec0ca782a043?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3BhY2UlMjBMYXVuY2glMjBTeXN0ZW18ZW58MXx8fHwxNzkzOTE2NjcwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1776447242317-ec0ca782a043?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3BhY2UlMjBMYXVuY2glMjBTeXN0ZW18ZW58MXx8fHwxNzkzOTE2NjcwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1921
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Joel Kowsky, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Joel Kowsky",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by Andrew Wilson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrew Wilson",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@arw_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/usmMdpXd66k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3BhY2UlMjBMYXVuY2glMjBTeXN0ZW18ZW58MXx8fHwxNzkzOTE2NjcwfDA"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "glp1": {
   "name": "Weight-loss drugs (GLP-1)",
