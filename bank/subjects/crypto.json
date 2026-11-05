@@ -5,6 +5,24 @@
  "tickers": [],
  "photos": [
   {
+   "shows": "A bitcoin sitting on top of a pile of gold nuggets",
+   "url": "https://images.unsplash.com/photo-1623227413711-25ee4388dae3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1623227413711-25ee4388dae3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2255,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kanchanara on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kanchanara?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bitcoin-sitting-on-top-of-a-pile-of-gold-nuggets-rhm7H8X5J98?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Argo Blockchain Mirabel Facility",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Argo_Blockchain_Mirabel_Facility.jpg/1920px-Argo_Blockchain_Mirabel_Facility.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Argo_Blockchain_Mirabel_Facility.jpg/500px-Argo_Blockchain_Mirabel_Facility.jpg",
@@ -22,21 +40,40 @@
    "source": "https://commons.wikimedia.org/wiki/File:Argo_Blockchain_Mirabel_Facility.jpg"
   },
   {
-   "shows": "Ethereum Crypto Sustainability",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ethereum_Crypto_Sustainability.jpg/1920px-Ethereum_Crypto_Sustainability.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ethereum_Crypto_Sustainability.jpg/500px-Ethereum_Crypto_Sustainability.jpg",
+   "shows": "A group of yellow and orange machines",
+   "url": "https://images.unsplash.com/photo-1668609541710-2b90e86edd2d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1668609541710-2b90e86edd2d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    1280
+    2001,
+    1501
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Edwin.images, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Ethereum_Crypto_Sustainability.jpg"
+   "credit": "Photo by John Paul Cuvinar on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hippoatm?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-group-of-yellow-and-orange-machines-0Fbry3YPfe8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Gold Bitcoin and silver Ethereum coins resting on a laptop keyboard before a trading chart",
+   "url": "https://images.unsplash.com/photo-1605792657660-596af9009e82?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8RXRoZXJldW18ZW58MXx8fHwxNzkzODk4NTIyfDA&ixlib=rb-4.1.0&w=2072&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1605792657660-596af9009e82?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8RXRoZXJldW18ZW58MXx8fHwxNzkzODk4NTIyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2072,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pierre Borthiry - Peiobty on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@peiobty?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/bitcoin-and-ethereum-coins-on-laptop-vBCVcWUyvyM?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Cryptocurrency Regulation & Laws",

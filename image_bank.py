@@ -1144,6 +1144,8 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
     if keys and not todo:
         raise ValueError(f"no subject matches {only}")
     m = load_manifest(bank)
+    if any(p.get("track_pending") for e in m.values() for p in e.get("photos", [])):
+        send_pending_tracks(m, src, log)  # first too: a build cut by a time limit never reaches its end
     used = {p["file"] for e in m.values() for p in e.get("photos", [])}
     rv = load_review(bank)
     graded_out = {f for f, g in rv["grades"].items() if g < rv.get("min_grade", 0)}

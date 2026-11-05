@@ -1146,23 +1146,33 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Market crash & volatility (crash)
 
-- Frankfurt am Main, Skulptur -Bulle & Bär- -- 2015 -- 6763: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Frankfurt am Main, Skulptur -Bulle & Bär- -- 2015 -- 6763.jpg](https://commons.wikimedia.org/wiki/File:Frankfurt_am_Main,_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6763.jpg)
+- A view of a city and a bridge over a body of water: Photo by Yash Mannepalli on Unsplash. [NzvhAjVs5zs](https://unsplash.com/photos/a-view-of-a-city-and-a-bridge-over-a-body-of-water-NzvhAjVs5zs?utm_source=investiq_image_bank&utm_medium=referral)
+- A statue of a bull and a bull's head in front of a building: Photo by Christian Waske on Unsplash. [eBfRbWECyzM](https://unsplash.com/photos/a-statue-of-a-bull-and-a-bulls-head-in-front-of-a-building-eBfRbWECyzM?utm_source=investiq_image_bank&utm_medium=referral)
+- Crowds gathering outside New York Stock Exchange: Associated Press, public domain, via Wikimedia Commons. [Crowds gathering outside New York Stock Exchange.jpg](https://commons.wikimedia.org/wiki/File:Crowds_gathering_outside_New_York_Stock_Exchange.jpg)
 - Shinko Securities's electronic stock board nearby Yaesu side of Tokyo Station in March 2009: Kondo Atsushi, CC BY-SA 2.0, via Wikimedia Commons. [Shinko Securities's electronic stock board nearby Yaesu side of Tokyo Station in March 2009.jpg](https://commons.wikimedia.org/wiki/File:Shinko_Securities%27s_electronic_stock_board_nearby_Yaesu_side_of_Tokyo_Station_in_March_2009.jpg)
 
 ## Artificial intelligence boom (ai)
 
-- Hand holding smartphone with ChatGPT: Jernej Furman from Slovenia, CC BY 2.0, via Wikimedia Commons. [Hand holding smartphone with ChatGPT (52917076309).jpg](https://commons.wikimedia.org/wiki/File:Hand_holding_smartphone_with_ChatGPT_(52917076309).jpg)
 - Sam Altman CropEdit James Tamim: TechCrunch, CC BY 2.0, via Wikimedia Commons. [Sam Altman CropEdit James Tamim.jpg](https://commons.wikimedia.org/wiki/File:Sam_Altman_CropEdit_James_Tamim.jpg)
+- White robotic arm in display showroom: Photo by ZHENYU LUO on Unsplash. [kE0JmtbvXxM](https://unsplash.com/photos/white-robotic-arm-in-display-showroom-kE0JmtbvXxM?utm_source=investiq_image_bank&utm_medium=referral)
+
+## AI data centers & power demand (datacenters)
+
+- BalticServers data center: BalticServers.com, CC BY-SA 3.0, via Wikimedia Commons. [BalticServers data center.jpg](https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg)
+- A large grey electrical transformer with metal pipes and cables in a substation: Photo by American Public Power Association on Unsplash. [VuR4oHZ3ucc](https://unsplash.com/photos/electrical-transformer-in-power-substation-VuR4oHZ3ucc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Semiconductors & the chip war (chips)
 
 - Silicon wafer researcher: U.S. Department of Energy, public domain, via Wikimedia Commons. [Silicon wafer researcher.jpg](https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg)
+- Close up of dark blue circuit board: Photo by Vishnu Mohanan on Unsplash. [pfR18JNEMv8](https://unsplash.com/photos/close-up-of-dark-blue-circuit-board-pfR18JNEMv8?utm_source=investiq_image_bank&utm_medium=referral)
 - Photolithography lab in the LCN cleanroom: University College London Faculty of Mathematical & Physical Sciences, CC BY 2.0, via Wikimedia Commons. [Photolithography lab in the LCN cleanroom.jpg](https://commons.wikimedia.org/wiki/File:Photolithography_lab_in_the_LCN_cleanroom.jpg)
 
 ## Bitcoin & crypto (crypto)
 
+- A bitcoin sitting on top of a pile of gold nuggets: Photo by Kanchanara on Unsplash. [rhm7H8X5J98](https://unsplash.com/photos/a-bitcoin-sitting-on-top-of-a-pile-of-gold-nuggets-rhm7H8X5J98?utm_source=investiq_image_bank&utm_medium=referral)
 - Argo Blockchain Mirabel Facility: MikeBogosian, CC BY-SA 4.0, via Wikimedia Commons. [Argo Blockchain Mirabel Facility.jpg](https://commons.wikimedia.org/wiki/File:Argo_Blockchain_Mirabel_Facility.jpg)
-- Ethereum Crypto Sustainability: Edwin.images, CC BY-SA 4.0, via Wikimedia Commons. [Ethereum Crypto Sustainability.jpg](https://commons.wikimedia.org/wiki/File:Ethereum_Crypto_Sustainability.jpg)
+- A group of yellow and orange machines: Photo by John Paul Cuvinar on Unsplash. [0Fbry3YPfe8](https://unsplash.com/photos/a-group-of-yellow-and-orange-machines-0Fbry3YPfe8?utm_source=investiq_image_bank&utm_medium=referral)
+- Gold Bitcoin and silver Ethereum coins resting on a laptop keyboard before a trading chart: Photo by Pierre Borthiry - Peiobty on Unsplash. [vBCVcWUyvyM](https://unsplash.com/photos/bitcoin-and-ethereum-coins-on-laptop-vBCVcWUyvyM?utm_source=investiq_image_bank&utm_medium=referral)
 - Cryptocurrency Regulation & Laws: CryptoWallet.com Images, CC BY 2.0, via Wikimedia Commons. [Cryptocurrency Regulation & Laws.jpg](https://commons.wikimedia.org/wiki/File:Cryptocurrency_Regulation_%26_Laws.jpg)
 
 ## Gold (gold)
@@ -1179,13 +1189,28 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Oil & energy (oil)
 
+- Oil platform P-51 (Brazil): Divulgação Petrobras / ABr, CC BY 3.0 br, via Wikimedia Commons. [Oil platform P-51 (Brazil).jpg](https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil).jpg)
+- City skyline during night time: Photo by Timothy Newman on Unsplash. [iTZ_guCHHt0](https://unsplash.com/photos/city-skyline-during-night-time-iTZ_guCHHt0?utm_source=investiq_image_bank&utm_medium=referral)
+- Aerial view of city buildings beside body of water during daytime: Photo by Venti Views on Unsplash. [ASmaVyS4AZM](https://unsplash.com/photos/aerial-view-of-city-buildings-beside-body-of-water-during-daytime-ASmaVyS4AZM?utm_source=investiq_image_bank&utm_medium=referral)
+- Yellow-and-blue oil barrel lot: Photo by Atik sulianami on Unsplash. [B5SLyGtYdbk](https://unsplash.com/photos/yellow-and-blue-oil-barrel-lot-B5SLyGtYdbk?utm_source=investiq_image_bank&utm_medium=referral)
 - Trans-Alaska Pipeline segment 1: Arthur T. LaBar, CC BY 2.0, via Wikimedia Commons. [Trans-Alaska Pipeline segment 1.jpg](https://commons.wikimedia.org/wiki/File:Trans-Alaska_Pipeline_segment_1.jpg)
-- Gas flare on top of a flare stack at Preemraff Lysekil 8: W.carter, CC0, via Wikimedia Commons. [Gas flare on top of a flare stack at Preemraff Lysekil 8.jpg](https://commons.wikimedia.org/wiki/File:Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_8.jpg)
+- Gas flare on top of a flare stack at Preemraff Lysekil 5: W.carter, CC0, via Wikimedia Commons. [Gas flare on top of a flare stack at Preemraff Lysekil 5.jpg](https://commons.wikimedia.org/wiki/File:Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_5.jpg)
+
+## Tariffs & trade war (tariffs)
+
+- MAERSK HANOI Container Ship (Port Koper SIKOP, 2023): Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons. [MAERSK HANOI Container Ship (Port Koper SIKOP, 2023).jpg](https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg)
+- A truck is parked in front of a bunch of shipping containers: Photo by Bernd 📷 Dittrich on Unsplash. [Xk1IfNnEhRA](https://unsplash.com/photos/a-truck-is-parked-in-front-of-a-bunch-of-shipping-containers-Xk1IfNnEhRA?utm_source=investiq_image_bank&utm_medium=referral)
+- Mike Starkey Soybean Harvest: USDAgov, public domain, via Wikimedia Commons. [Mike Starkey Soybean Harvest (52490323652).jpg](https://commons.wikimedia.org/wiki/File:Mike_Starkey_Soybean_Harvest_(52490323652).jpg)
 
 ## China economy (china)
 
 - Pudong Shanghai November 2017 panorama: King of Hearts, CC BY-SA 4.0, via Wikimedia Commons. [Pudong Shanghai November 2017 panorama.jpg](https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg)
+- A large body of water with a city in the background: Photo by ダモ リ on Unsplash. [5-k1_mBljB0](https://unsplash.com/photos/a-large-body-of-water-with-a-city-in-the-background-5-k1_mBljB0?utm_source=investiq_image_bank&utm_medium=referral)
 - Seagate Wuxi China Factory Tour: Robert Scoble, CC BY 2.0, via Wikimedia Commons. [Seagate Wuxi China Factory Tour.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Wuxi_China_Factory_Tour.jpg)
+- 100 Yuan banknote: Photo by Eric Prouzet on Unsplash. [UipokEnGOyE](https://unsplash.com/photos/100-yuan-banknote-UipokEnGOyE?utm_source=investiq_image_bank&utm_medium=referral)
+- Skyline of Beijing CBD from the southeast: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Skyline of Beijing CBD from the southeast (20210907094201).jpg](https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_from_the_southeast_(20210907094201).jpg)
+- Great Hall of the People: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Great Hall of the People (20200825114146).jpg](https://commons.wikimedia.org/wiki/File:Great_Hall_of_the_People_(20200825114146).jpg)
+- High-angle view of the Hong Kong skyline across Victoria Harbour in golden hour light: Photo by Manson on Unsplash. [4vf1KEkD7Gc](https://unsplash.com/photos/hong-kong-skyline-across-victoria-harbour-4vf1KEkD7Gc?utm_source=investiq_image_bank&utm_medium=referral)
 - Shanghai Stock Exchange 2: 钉钉, CC BY-SA 4.0, via Wikimedia Commons. [Shanghai Stock Exchange 2.jpg](https://commons.wikimedia.org/wiki/File:Shanghai_Stock_Exchange_2.jpg)
 
 ## Treasuries, bonds & national debt (bonds)

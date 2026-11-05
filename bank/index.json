@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 496,
+ "photos": 510,
  "subjects": [
   {
    "id": "MMM",
@@ -7861,7 +7861,7 @@
     "ethereum",
     "btc"
    ],
-   "photos": 3,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crypto.json"
   },
   {
@@ -7889,7 +7889,7 @@
     "brent",
     "wti"
    ],
-   "photos": 2,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/oil.json"
   },
   {
@@ -7904,7 +7904,7 @@
     "imports",
     "customs"
    ],
-   "photos": 0,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/tariffs.json"
   },
   {
@@ -7918,7 +7918,7 @@
     "yuan",
     "beijing"
    ],
-   "photos": 3,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/china.json"
   },
   {

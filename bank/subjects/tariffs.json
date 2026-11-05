@@ -3,5 +3,58 @@
  "kind": "topic",
  "name": "Tariffs & trade war",
  "tickers": [],
- "photos": []
+ "photos": [
+  {
+   "shows": "MAERSK HANOI Container Ship (Port Koper SIKOP, 2023)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg/1920px-MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg/500px-MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg",
+   "size": [
+    1920,
+    1439
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg"
+  },
+  {
+   "shows": "A truck is parked in front of a bunch of shipping containers",
+   "url": "https://images.unsplash.com/photo-1700716465891-9e5e9f501d7d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c3RhY2tlZCUyMHNoaXBwaW5nJTIwY29udGFpbmVyc3xlbnwxfHx8fDE3OTM5MDIxMzl8MA&ixlib=rb-4.1.0&w=2309&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1700716465891-9e5e9f501d7d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c3RhY2tlZCUyMHNoaXBwaW5nJTIwY29udGFpbmVyc3xlbnwxfHx8fDE3OTM5MDIxMzl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2309,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bernd 📷 Dittrich on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hdbernd?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-truck-is-parked-in-front-of-a-bunch-of-shipping-containers-Xk1IfNnEhRA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Mike Starkey Soybean Harvest",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mike_Starkey_Soybean_Harvest_%2852490323652%29.jpg/1920px-Mike_Starkey_Soybean_Harvest_%2852490323652%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mike_Starkey_Soybean_Harvest_%2852490323652%29.jpg/500px-Mike_Starkey_Soybean_Harvest_%2852490323652%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "USDAgov, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mike_Starkey_Soybean_Harvest_(52490323652).jpg"
+  }
+ ]
 }
