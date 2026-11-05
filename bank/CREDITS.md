@@ -1250,16 +1250,30 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Nuclear power & uranium (nuclear)
 
+- Nuclear power plant with cooling towers emitting steam: Photo by Energie-portal.sk on Unsplash. [NjacvIB_vIQ](https://unsplash.com/photos/nuclear-power-plant-with-cooling-towers-emitting-steam-NjacvIB_vIQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Waynesboro, Georgia, USA - Plant Vogtle: Kai NeSmith, CC BY 4.0, via Wikimedia Commons. [2025-03-11 - Waynesboro, Georgia, USA - Plant Vogtle.jpg](https://commons.wikimedia.org/wiki/File:2025-03-11_-_Waynesboro,_Georgia,_USA_-_Plant_Vogtle.jpg)
 - Núcleo del reactor nuclear RA-3, «Ciencia ficción», by Luis Gauna Pereira: Gaunper, CC BY-SA 4.0, via Wikimedia Commons. [Núcleo del reactor nuclear RA-3, «Ciencia ficción», by Luis Gauna Pereira.jpg](https://commons.wikimedia.org/wiki/File:N%C3%BAcleo_del_reactor_nuclear_RA-3,_%C2%ABCiencia_ficci%C3%B3n%C2%BB,_by_Luis_Gauna_Pereira.jpg)
 - Nuclear Fuel Pellets: Nuclear Regulatory Commission from US, public domain, via Wikimedia Commons. [Nuclear Fuel Pellets (14492225000).jpg](https://commons.wikimedia.org/wiki/File:Nuclear_Fuel_Pellets_(14492225000).jpg)
 
 ## Defense & geopolitics (defense)
 
-- F-22 Raptor edit1: F-22_Raptor.JPG : Master Sgt. Andy Dunaway, public domain, via Wikimedia Commons. [F-22 Raptor edit1.jpg](https://commons.wikimedia.org/wiki/File:F-22_Raptor_edit1.jpg)
+- An aerial view of the Pentagon, Washington, D.C., May 15, 2023: Air Force Staff Sgt. John Wright, DOD, public domain, via Wikimedia Commons. [An aerial view of the Pentagon, Washington, D.C., May 15, 2023.jpg](https://commons.wikimedia.org/wiki/File:An_aerial_view_of_the_Pentagon,_Washington,_D.C.,_May_15,_2023.jpg)
+- Gray airplane: Photo by Timothy Holmes on Unsplash. [DXIpirwgP2Q](https://unsplash.com/photos/gray-airplane-DXIpirwgP2Q?utm_source=investiq_image_bank&utm_medium=referral)
 - An F-A-18C Hornet launches from the flight deck of the conventionally powered aircraft carrier: U.S. Navy photo by Photographer's Mate 3rd Class Jonathan Chandler, public domain, via Wikimedia Commons. [An F-A-18C Hornet launches from the flight deck of the conventionally powered aircraft carrier.jpg](https://commons.wikimedia.org/wiki/File:An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg)
+- Patriot missile firing during Balikatan 2023: U.S. Marine Corps photo by Cpl. Tyler Andrews, public domain, via Wikimedia Commons. [Patriot missile firing during Balikatan 2023.jpg](https://commons.wikimedia.org/wiki/File:Patriot_missile_firing_during_Balikatan_2023.jpg)
 - MQ-9 Reaper UAV ( ): Lt. Col. Leslie Pratt, public domain, via Wikimedia Commons. [MQ-9 Reaper UAV (cropped).jpg](https://commons.wikimedia.org/wiki/File:MQ-9_Reaper_UAV_(cropped).jpg)
 - M1A2 Abrams firing: Sgt. Joaquin Vasquez-Duran, public domain, via Wikimedia Commons. [M1A2 Abrams firing.jpg](https://commons.wikimedia.org/wiki/File:M1A2_Abrams_firing.jpg)
+- A fighter jet flying through a blue sky: Photo by Matteo Tiso on Unsplash. [iNEVt0gLjSM](https://unsplash.com/photos/a-fighter-jet-flying-through-a-blue-sky-iNEVt0gLjSM?utm_source=investiq_image_bank&utm_medium=referral)
+
+## Consumer spending & retail (consumer)
+
+- State of the art building interior with lit Christmas tree: Photo by Ron Dauphin on Unsplash. [PP6I-8d0jg0](https://unsplash.com/photos/state-of-the-art-building-interior-with-lit-christmas-tree-PP6I-8d0jg0?utm_source=investiq_image_bank&utm_medium=referral)
+- A delivery driver on a red scooter riding through a city at night: Photo by Rowan Freeman on Unsplash. [clYlmCaQbzY](https://unsplash.com/photos/delivery-driver-on-red-scooter-clYlmCaQbzY?utm_source=investiq_image_bank&utm_medium=referral)
+
+## Banks & the financial system (banks)
+
+- FDIC - Federal Deposit Insurance Corporation - Washington D.C: Tony Webster, CC BY 2.0, via Wikimedia Commons. [FDIC - Federal Deposit Insurance Corporation - Washington D.C..jpg](https://commons.wikimedia.org/wiki/File:FDIC_-_Federal_Deposit_Insurance_Corporation_-_Washington_D.C..jpg)
+- A person using an atm machine to pay money: Photo by Ali Mkumbwa on Unsplash. [OnRPps1wPus](https://unsplash.com/photos/a-person-using-an-atm-machine-to-pay-money-OnRPps1wPus?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Investing basics, retirement & index funds (investing)
 

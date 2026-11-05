@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 522,
+ "photos": 530,
  "subjects": [
   {
    "id": "MMM",
@@ -8022,7 +8022,7 @@
     "smr",
     "nuclear power"
    ],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
   },
   {
@@ -8038,7 +8038,7 @@
     "military",
     "nato"
    ],
-   "photos": 4,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/defense.json"
   },
   {
@@ -8053,7 +8053,7 @@
     "retail sales",
     "holiday season"
    ],
-   "photos": 0,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/consumer.json"
   },
   {
@@ -8068,7 +8068,7 @@
     "regional banks",
     "credit"
    ],
-   "photos": 0,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/banks.json"
   },
   {

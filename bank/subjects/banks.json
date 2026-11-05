@@ -3,5 +3,41 @@
  "kind": "topic",
  "name": "Banks & the financial system",
  "tickers": [],
- "photos": []
+ "photos": [
+  {
+   "shows": "FDIC - Federal Deposit Insurance Corporation - Washington D.C",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/FDIC_-_Federal_Deposit_Insurance_Corporation_-_Washington_D.C..jpg/1920px-FDIC_-_Federal_Deposit_Insurance_Corporation_-_Washington_D.C..jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/FDIC_-_Federal_Deposit_Insurance_Corporation_-_Washington_D.C..jpg/500px-FDIC_-_Federal_Deposit_Insurance_Corporation_-_Washington_D.C..jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FDIC_-_Federal_Deposit_Insurance_Corporation_-_Washington_D.C..jpg"
+  },
+  {
+   "shows": "A person using an atm machine to pay money",
+   "url": "https://images.unsplash.com/photo-1710149459994-480e2b5c3b16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=2320&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1710149459994-480e2b5c3b16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2320,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ali Mkumbwa on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mkumbwajr?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-using-an-atm-machine-to-pay-money-OnRPps1wPus?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
 }
