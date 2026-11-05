@@ -98,14 +98,29 @@ Decisions (Pablo, 4 Nov 2026):
   Commons thumbnails do not load from the cloud container) were sent to Pablo on 5 Nov.
 - A session that started from `main` redid this branch's work by mistake (branch `claude/gifted-heisenberg-13n0mr`
   now carries this line instead); nothing of it was needed.
+- **Topic/sector pass, part 1** (5 Nov afternoon): done for gold and 7 sectors (tech, health, financials,
+  consumer discretionary, communication, industrials, staples); **40 topics and sectors left**. A 2-hour background
+  run did only 5 of them, for two reasons now fixed:
+  - Unsplash counts each endpoint on its own: searches have 50/h, and the download counts (`track`) have
+    another 50/h. When the download counter ran out, `track` waited 15 min per photo. Now it never waits: a count
+    it cannot send is kept as `"track_pending": true` on the photo in the manifest (the index does not copy it),
+    and the end of every build sends the pending ones (17 pending at the end of this session).
+  - The manifest was saved every 5 subjects, so a cut build lost up to 4 subjects of searches. It is now saved
+    after every subject that has stock photos.
+- **Checked by eye**: all 55 stock photos (`review.py sheets --stock`). Grade 1-2 (hidden, then replaced by
+  rebuilding from the cache): a blurry conveyor loop, Cinderella Castle (Disney's own, not a sector photo), a
+  close-up of dirt, and a torch over an empty pan for "gold panning". Grade 3: silver bars and the gold necklace
+  (the gold topic asks for "silver bars" and "gold jewelry"). The 28 new Commons picks were graded too (4 grade 3).
+  Index: 458 photos. Unsplash's alt texts are generic ("red and white train on rail"); the word-match rule
+  still finds enough, since the photographer's own description often names the subject.
 
 ## Next work (in order)
-1. New session with the keys: check `curl -sS -o /dev/null -w "%{http_code}" -H "Authorization: $PEXELS_API_KEY"
-   "https://api.pexels.com/v1/search?query=gold"` gives 200 (Unsplash: `-H "Authorization: Client-ID
-   $UNSPLASH_ACCESS_KEY" https://api.unsplash.com/search/photos?query=gold`); the answer shapes in `stock.py`
-   were written from the APIs' documentation, so check one real answer first. Then
-   `python image_bank.py build --kind topic,sector --redo` and `python image_bank.py build --kind company
-   --stock-only`; look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
+1. Finish the 40 topics and sectors: `python image_bank.py build --kind topic,sector --redo` (`--redo` is needed:
+   every topic and sector has a `checked` date from 4 Nov; the 8 done on 5 Nov come back from the 30-day cache
+   with no requests and the same picks). In demo mode (50 searches/h) that is ~450 searches, ~9 hours: run it in
+   the background in 2-hour pieces (each piece keeps what it did, and the next goes through it from the cache), or
+   wait for production (1,000/h, ~30 min). Then
+   `python image_bank.py build --kind company --stock-only` (394 searches); look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
    wrong brand terms get fixed in `brands.json`), fix topic searches in `catalog.json`, grade any new Commons
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
    **Unsplash production**: Pablo created the app (5 Nov 2026) and is in demo mode (50 requests/h). The

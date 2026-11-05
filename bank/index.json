@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 418,
+ "photos": 458,
  "subjects": [
   {
    "id": "MMM",
@@ -7601,7 +7601,7 @@
    "aliases": [
     "information technology"
    ],
-   "photos": 1,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-tech.json"
   },
   {
@@ -7612,7 +7612,7 @@
    "aliases": [
     "health care"
    ],
-   "photos": 2,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-health.json"
   },
   {
@@ -7623,7 +7623,7 @@
    "aliases": [
     "financials"
    ],
-   "photos": 1,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-financials.json"
   },
   {
@@ -7634,7 +7634,7 @@
    "aliases": [
     "consumer discretionary"
    ],
-   "photos": 0,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-consumer-discretionary.json"
   },
   {
@@ -7645,7 +7645,7 @@
    "aliases": [
     "communication services"
    ],
-   "photos": 1,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-communication.json"
   },
   {
@@ -7656,7 +7656,7 @@
    "aliases": [
     "industrials"
    ],
-   "photos": 2,
+   "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-industrials.json"
   },
   {
@@ -7667,7 +7667,7 @@
    "aliases": [
     "consumer staples"
    ],
-   "photos": 0,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-staples.json"
   },
   {
@@ -7874,7 +7874,7 @@
     "precious metals",
     "bullion"
    ],
-   "photos": 8,
+   "photos": 9,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/gold.json"
   },
   {

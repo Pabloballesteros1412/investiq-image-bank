@@ -9,7 +9,9 @@ Without either, the source is skipped. Also needs network access to api.unsplash
 api.pexels.com and images.pexels.com. Answers are
 kept in .cache/stock/ (not in Git) for 30 days, so a rebuild costs no requests. When a source's hourly limit
 is reached (Unsplash: 50 requests an hour for a new app, 1,000 once Unsplash approves it for production;
-Pexels: 200 an hour) the build waits until it resets.
+Pexels: 200 an hour) the build waits until it resets. Unsplash counts each endpoint on its own (searches and
+download counts have separate hourly limits, seen 5 Nov 2026), and the build never waits for a download count:
+one it cannot send is kept as pending and sent by a later build.
 
 Licences: Unsplash License (https://unsplash.com/license) and Pexels License (https://www.pexels.com/license/):
 free for commercial use without permission; crediting the photographer is asked by both APIs' guidelines.
@@ -28,8 +30,13 @@ PER_PAGE = 30
 _lock = threading.Lock()
 
 
-def fetch(url, headers, cache=True, log=print, tries=6):
-    """JSON from a stock API (cached on disk); waits out rate limits and server hiccups."""
+class RateLimited(RuntimeError):
+    """An API's hourly limit is used up (raised at once when the caller does not want to wait for it)."""
+
+
+def fetch(url, headers, cache=True, log=print, tries=6, wait=True):
+    """JSON from a stock API (cached on disk); waits out rate limits (raises RateLimited instead when not wait)
+    and server hiccups."""
     path = CACHE / (hashlib.sha1(url.encode()).hexdigest() + ".json")
     if cache and path.exists() and time.time() - path.stat().st_mtime < TTL:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -41,6 +48,8 @@ def fetch(url, headers, cache=True, log=print, tries=6):
         except urllib.error.HTTPError as e:
             body = e.read().decode("utf-8", "replace")[:200]
             limited = e.code == 429 or (e.code == 403 and "rate limit" in body.lower())
+            if limited and not wait:
+                raise RateLimited(f"{urllib.parse.urlsplit(url).netloc}: hourly limit reached")
             if limited:
                 reset = e.headers.get("X-Ratelimit-Reset")
                 wait = max(60, int(reset) - int(time.time())) if reset and reset.isdigit() else 15 * 60
@@ -103,11 +112,13 @@ class Unsplash:
                 "track": (r.get("links") or {}).get("download_location")}
 
     def track(self, url):
-        """Tell Unsplash a photo was chosen (its API guidelines ask for it)."""
+        """Tell Unsplash a photo was chosen (its API guidelines ask for it). Never waits: False when it could not
+        be told now (its download counter's hourly limit is used up, or the API failed), so it is sent later."""
         try:
-            fetch(url, self.headers, cache=False, log=self.log)
-        except Exception as e:  # a missed count must not stop the build
-            self.log(f"  (Unsplash download count failed: {e})")
+            fetch(url, self.headers, cache=False, log=self.log, tries=2, wait=False)
+            return True
+        except Exception:  # a missed count must not stop the build
+            return False
 
 
 class Pexels:
@@ -134,7 +145,7 @@ class Pexels:
                 "description": " ".join([alt, words_of_url(p.get("url"))])[:400]}
 
     def track(self, url):
-        pass
+        return True  # Pexels asks for no download count
 
 
 def answers_without_key(url):

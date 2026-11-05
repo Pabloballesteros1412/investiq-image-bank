@@ -1005,25 +1005,70 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Technology sector (sector-tech)
 
-- Silicon chip from a computer laser mouse under a microscope 50х: Original: Alexander Klepnev Derivative work: IamMM, CC BY-SA 4.0, via Wikimedia Commons. [Silicon chip from a computer laser mouse under a microscope 50х.jpg](https://commons.wikimedia.org/wiki/File:Silicon_chip_from_a_computer_laser_mouse_under_a_microscope_50%D1%85.jpg)
+- A rack of servers in a server room: Photo by Kevin Ache on Unsplash. [2JJ3wBHu4_0](https://unsplash.com/photos/a-rack-of-servers-in-a-server-room-2JJ3wBHu4_0?utm_source=investiq_image_bank&utm_medium=referral)
+- Laptop screen displaying colorful code: Photo by Mohammad Rahmani on Unsplash. [8qEB0fTe9Vw](https://unsplash.com/photos/laptop-screen-displaying-colorful-code-8qEB0fTe9Vw?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding black android smartphone: Photo by Jonas Leupe on Unsplash. [wK-elt11pF0](https://unsplash.com/photos/person-holding-black-android-smartphone-wK-elt11pF0?utm_source=investiq_image_bank&utm_medium=referral)
+- Green and white circuit board: Photo by Magnus Engø on Unsplash. [mbXEkW5ZyBQ](https://unsplash.com/photos/green-and-white-circuit-board-mbXEkW5ZyBQ?utm_source=investiq_image_bank&utm_medium=referral)
+- NOIRLab HQ Server Racks (6V6A0375-CC): NOIRLab/NSF/AURA/T. Slovinský, CC BY 4.0, via Wikimedia Commons. [NOIRLab HQ Server Racks (6V6A0375-CC).jpg](https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0375-CC).jpg)
+- A computer processor held by black tweezers against a neutral background: Photo by Brian Kostiuk on Unsplash. [S4jSvcHYcOs](https://unsplash.com/photos/computer-processor-held-by-tweezers-S4jSvcHYcOs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Health care sector (sector-health)
 
+- White and blue medication pill blister pack: Photo by Christine Sandu on Unsplash. [jwWtZrm67VI](https://unsplash.com/photos/white-and-blue-medication-pill-blister-pack-jwWtZrm67VI?utm_source=investiq_image_bank&utm_medium=referral)
+- Doctor holding red stethoscope: Photo by Online Marketing on Unsplash. [hIgeoQjS_iE](https://unsplash.com/photos/doctor-holding-red-stethoscope-hIgeoQjS_iE?utm_source=investiq_image_bank&utm_medium=referral)
 - MRI-Philips: Jan Ainali, CC BY 3.0, via Wikimedia Commons. [MRI-Philips.JPG](https://commons.wikimedia.org/wiki/File:MRI-Philips.JPG)
 - Facial Plastic Surgeon in Operating Room: Richard Balikian MD, CC BY 4.0, via Wikimedia Commons. [Facial Plastic Surgeon in Operating Room.jpg](https://commons.wikimedia.org/wiki/File:Facial_Plastic_Surgeon_in_Operating_Room.jpg)
+- A pharmacist in a white coat reaching for a medication box on a shelf: Photo by National Cancer Institute on Unsplash. [byGTytEGjBo](https://unsplash.com/photos/pharmacist-reaching-for-medication-on-shelf-byGTytEGjBo?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding syringe and vial: Photo by CDC on Unsplash. [_zFRhU7jqzc](https://unsplash.com/photos/person-holding-syringe-and-vial-_zFRhU7jqzc?utm_source=investiq_image_bank&utm_medium=referral)
+- Woman in red shirt wearing blue goggles: Photo by MedicAlert UK on Unsplash. [XjlyFT-ibd0](https://unsplash.com/photos/woman-in-red-shirt-wearing-blue-goggles-XjlyFT-ibd0?utm_source=investiq_image_bank&utm_medium=referral)
+- White and gray digital device: Photo by HH E on Unsplash. [LwYlLzteMxo](https://unsplash.com/photos/white-and-gray-digital-device-LwYlLzteMxo?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Financial sector (sector-financials)
 
-- Toronto Financial District August 2017: Arild Vågen, CC BY-SA 4.0, via Wikimedia Commons. [Toronto Financial District August 2017.jpg](https://commons.wikimedia.org/wiki/File:Toronto_Financial_District_August_2017.jpg)
+- A large building with columns and a flag on the corner: Photo by Joshua Woroniecki on Unsplash. [Skfy8ljB7X4](https://unsplash.com/photos/a-large-building-with-columns-and-a-flag-on-the-corner-Skfy8ljB7X4?utm_source=investiq_image_bank&utm_medium=referral)
+- Person using laptop computer holding card: Photo by rupixen on Unsplash. [Q59HmzK38eQ](https://unsplash.com/photos/person-using-laptop-computer-holding-card-Q59HmzK38eQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Concrete building with USA flags: Photo by Aditya Vyas on Unsplash. [mHdATQY9fIU](https://unsplash.com/photos/concrete-building-with-usa-flags-mHdATQY9fIU?utm_source=investiq_image_bank&utm_medium=referral)
+- Low angle photography of high rise buildings under blue sky during daytime: Photo by Davi Rezende on Unsplash. [KVvcUjYqTII](https://unsplash.com/photos/low-angle-photography-of-high-rise-buildings-under-blue-sky-during-daytime-KVvcUjYqTII?utm_source=investiq_image_bank&utm_medium=referral)
+- A heavy steel bank vault door with a large circular locking wheel: Photo by Jason Dent on Unsplash. [3wPJxh-piRw](https://unsplash.com/photos/steel-bank-vault-door-locking-wheel-3wPJxh-piRw?utm_source=investiq_image_bank&utm_medium=referral)
+- Person reviewing documents with calculator and laptop: Photo by Kelly Sikkema on Unsplash. [0oZpRxG5Hkk](https://unsplash.com/photos/person-reviewing-documents-with-calculator-and-laptop-0oZpRxG5Hkk?utm_source=investiq_image_bank&utm_medium=referral)
+- A couple of tall buildings sitting next to each other: Photo by Markus Spiske on Unsplash. [X30Zi4yEJ-o](https://unsplash.com/photos/a-couple-of-tall-buildings-sitting-next-to-each-other-X30Zi4yEJ-o?utm_source=investiq_image_bank&utm_medium=referral)
+
+## Consumer discretionary sector (sector-consumer-discretionary)
+
+- A woman in a rust-colored sweater paying with a card at a salon counter: Photo by Blake Wisz on Unsplash. [tE6th1h6Bfk](https://unsplash.com/photos/woman-paying-at-salon-checkout-counter-tE6th1h6Bfk?utm_source=investiq_image_bank&utm_medium=referral)
+- Grayscale photo of car on road: Photo by Obi on Unsplash. [JIcR3-O8ko8](https://unsplash.com/photos/grayscale-photo-of-car-on-road-JIcR3-O8ko8?utm_source=investiq_image_bank&utm_medium=referral)
+- White bed linen with throw pillows: Photo by Vojtech Bruzek on Unsplash. [Yrxr3bsPdS0](https://unsplash.com/photos/white-bed-linen-with-throw-pillows-Yrxr3bsPdS0?utm_source=investiq_image_bank&utm_medium=referral)
+- Rows of sneakers displayed on shelves in a store: Photo by Danny Greenberg on Unsplash. [YtKrSQOLubY](https://unsplash.com/photos/rows-of-sneakers-displayed-on-shelves-in-a-store-YtKrSQOLubY?utm_source=investiq_image_bank&utm_medium=referral)
+- Assorted tops hanging indoors: Photo by Highlight ID on Unsplash. [roHpoNuME1w](https://unsplash.com/photos/assorted-tops-hanging-indoors-roHpoNuME1w?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Communication services sector (sector-communication)
 
-- Erdfunkstelle Raisting 2: Richard Bartz , Munich aka Makro Freak, CC BY-SA 2.5, via Wikimedia Commons. [Erdfunkstelle Raisting 2.jpg](https://commons.wikimedia.org/wiki/File:Erdfunkstelle_Raisting_2.jpg)
+- A tall tower in the middle of a forest: Photo by Steven Van Elk on Unsplash. [oPgukSFxKQw](https://unsplash.com/photos/a-tall-tower-in-the-middle-of-a-forest-oPgukSFxKQw?utm_source=investiq_image_bank&utm_medium=referral)
+- A smartphone displaying social media apps beside a glass of coffee on wood: Photo by Nathan Dumlao on Unsplash. [kLmt1mpGJVg](https://unsplash.com/photos/smartphone-with-social-media-apps-kLmt1mpGJVg?utm_source=investiq_image_bank&utm_medium=referral)
+- Fiber optic cables connected to a network switch in a server rack: Photo by Kirill Sh on Unsplash. [eVWWr6nmDf8](https://unsplash.com/photos/fiber-optic-cables-in-network-switch-eVWWr6nmDf8?utm_source=investiq_image_bank&utm_medium=referral)
+- Satellite dish: Photo by Alec Favale on Unsplash. [3cIPFNW3wog](https://unsplash.com/photos/satellite-dish-3cIPFNW3wog?utm_source=investiq_image_bank&utm_medium=referral)
+- Al Jazeera English Newsroom: Wittylama, CC BY-SA 3.0, via Wikimedia Commons. [Al Jazeera English Newsroom.jpg](https://commons.wikimedia.org/wiki/File:Al_Jazeera_English_Newsroom.jpg)
 
 ## Industrial sector (sector-industrials)
 
-- MAERSK HANOI Container Ship (Port Koper SIKOP, 2023): Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons. [MAERSK HANOI Container Ship (Port Koper SIKOP, 2023).jpg](https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg)
-- GMAW.welding.af.ncs: William M. Plate Jr., public domain, via Wikimedia Commons. [GMAW.welding.af.ncs.jpg](https://commons.wikimedia.org/wiki/File:GMAW.welding.af.ncs.jpg)
+- Man working in a shoe factory assembly line: Photo by EvoMao on Unsplash. [xCvZSAVl6t4](https://unsplash.com/photos/man-working-in-a-shoe-factory-assembly-line-xCvZSAVl6t4?utm_source=investiq_image_bank&utm_medium=referral)
+- Red and white train on rail near body of water during daytime: Photo by Andy Holmes on Unsplash. [oEIFOoC3gi0](https://unsplash.com/photos/red-and-white-train-on-rail-near-body-of-water-during-daytime-oEIFOoC3gi0?utm_source=investiq_image_bank&utm_medium=referral)
+- A large cargo ship at a dock: Photo by Nathan Cima on Unsplash. [MHXJ9p64Jw8](https://unsplash.com/photos/a-large-cargo-ship-at-a-dock-MHXJ9p64Jw8?utm_source=investiq_image_bank&utm_medium=referral)
+- Yellow crane near building during daytime: Photo by Frames For Your Heart on Unsplash. [VoI2jd75M6Q](https://unsplash.com/photos/yellow-crane-near-building-during-daytime-VoI2jd75M6Q?utm_source=investiq_image_bank&utm_medium=referral)
+- Yellow excavator on gray rock near body of water during daytime: Photo by John Esperancilla on Unsplash. [m-HSQlTw2Og](https://unsplash.com/photos/yellow-excavator-on-gray-rock-near-body-of-water-during-daytime-m-HSQlTw2Og?utm_source=investiq_image_bank&utm_medium=referral)
+- A yellow forklift in a large warehouse: Photo by Kseniia Ilinykh on Unsplash. [82ZiY5pzl1c](https://unsplash.com/photos/a-yellow-forklift-in-a-large-warehouse-82ZiY5pzl1c?utm_source=investiq_image_bank&utm_medium=referral)
+- Two semi-trucks driving on a highway: Photo by Bhargav Panchal on Unsplash. [P0bVatS8Jdw](https://unsplash.com/photos/two-semi-trucks-driving-on-a-highway-P0bVatS8Jdw?utm_source=investiq_image_bank&utm_medium=referral)
+- A black and white photo of a jet engine: Photo by Joao on Unsplash. [dqrwTvNAAH0](https://unsplash.com/photos/a-black-and-white-photo-of-a-jet-engine-dqrwTvNAAH0?utm_source=investiq_image_bank&utm_medium=referral)
+- Man using welding machine: Photo by Christopher Burns on Unsplash. [Wiu3w-99tNg](https://unsplash.com/photos/man-using-welding-machine-Wiu3w-99tNg?utm_source=investiq_image_bank&utm_medium=referral)
+- Airport tarmac with luggage carts and airplane: Photo by Anthony Maw on Unsplash. [g0Yer3dwgVI](https://unsplash.com/photos/airport-tarmac-with-luggage-carts-and-airplane-g0Yer3dwgVI?utm_source=investiq_image_bank&utm_medium=referral)
+
+## Consumer staples sector (sector-staples)
+
+- Grocery store aisle with stocked shelves: Photo by Franki Chamaki on Unsplash. [ivfp_yxZuYQ](https://unsplash.com/photos/grocery-store-aisle-with-stocked-shelves-ivfp_yxZuYQ?utm_source=investiq_image_bank&utm_medium=referral)
+- A grocery store aisle with shelves stocked with cereal boxes and milk cartons: Photo by Nathália Rosa on Unsplash. [rWMIbqmOxrY](https://unsplash.com/photos/grocery-store-aisle-with-stocked-shelves-rWMIbqmOxrY?utm_source=investiq_image_bank&utm_medium=referral)
+- Brown grass field under blue sky and white clouds during daytime: Photo by Jez Timms on Unsplash. [Q_zq9O890C4](https://unsplash.com/photos/brown-grass-field-under-blue-sky-and-white-clouds-during-daytime-Q_zq9O890C4?utm_source=investiq_image_bank&utm_medium=referral)
+- Kea Farm produce 2: AyyanD, CC BY-SA 4.0, via Wikimedia Commons. [Kea Farm produce 2.jpg](https://commons.wikimedia.org/wiki/File:Kea_Farm_produce_2.jpg)
+- Person holding clear drinking glass with brown liquid: Photo by Meritt Thomas on Unsplash. [XStd_1-BNi8](https://unsplash.com/photos/person-holding-clear-drinking-glass-with-brown-liquid-XStd_1-BNi8?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Energy sector (sector-energy)
 
@@ -1085,11 +1130,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Stacked gold bullion bars: Photo by Jingming Pan on Unsplash. [iYsrkq5qq0Q](https://unsplash.com/photos/stacked-gold-bullion-bars-iYsrkq5qq0Q?utm_source=investiq_image_bank&utm_medium=referral)
 - A collection of gold bars and coins with stamped markings and emblems: Photo by Zlaťáky.cz on Unsplash. [bN3KYPiAd8k](https://unsplash.com/photos/gold-bars-and-coins-collection-bN3KYPiAd8k?utm_source=investiq_image_bank&utm_medium=referral)
+- 400-oz-Gold-Bars-AB-01: Chepry 💬 ( Andrzej Barabasz ) 📷 🇵🇱, CC BY-SA 4.0, via Wikimedia Commons. [400-oz-Gold-Bars-AB-01.jpg](https://commons.wikimedia.org/wiki/File:400-oz-Gold-Bars-AB-01.jpg)
 - A pile of gold nuggets sitting on top of a wooden table: Photo by suradeach saetang on Unsplash. [jrA2l3JjD5k](https://unsplash.com/photos/a-pile-of-gold-nuggets-sitting-on-top-of-a-wooden-table-jrA2l3JjD5k?utm_source=investiq_image_bank&utm_medium=referral)
 - A close up of a gold nugget: Photo by Marko Ivanov on Unsplash. [eLeXwRx4ALs](https://unsplash.com/photos/a-close-up-of-a-gold-nugget-eLeXwRx4ALs?utm_source=investiq_image_bank&utm_medium=referral)
 - LaRonde Gold Pour: Agnico-Eagle, CC0, via Wikimedia Commons. [LaRonde Gold Pour.jpg](https://commons.wikimedia.org/wiki/File:LaRonde_Gold_Pour.jpg)
 - Gold-colored pendant necklace: Photo by Alex Azabache on Unsplash. [y2ErhoE92KA](https://unsplash.com/photos/gold-colored-pendant-necklace-y2ErhoE92KA?utm_source=investiq_image_bank&utm_medium=referral)
-- A close up of dirt and dirt on the ground: Photo by Tomáš Malík on Unsplash. [4zcI8MTcDkQ](https://unsplash.com/photos/a-close-up-of-dirt-and-dirt-on-the-ground-4zcI8MTcDkQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Man holding basin: Photo by Matt Seymour on Unsplash. [LoLfpxvzeco](https://unsplash.com/photos/man-holding-basin-LoLfpxvzeco?utm_source=investiq_image_bank&utm_medium=referral)
 - silver bars: Photo by Scottsdale Mint on Unsplash. [xN4QdAn4aJw](https://unsplash.com/photos/text-xN4QdAn4aJw?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Oil & energy (oil)

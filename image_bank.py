@@ -300,10 +300,11 @@ class Live:
         self.stock = stock.sources() if stock_sources is None else stock_sources  # Unsplash, Pexels: with their keys
 
     def track(self, photo):
-        """Tell the stock source a photo was chosen (Unsplash asks for it)."""
+        """Tell the stock source a photo was chosen (Unsplash asks for it): False when it could not be told now."""
         for st in self.stock:
             if st.name == photo.get("provider") and photo.get("track"):
-                st.track(photo["track"])
+                return st.track(photo["track"]) is not False
+        return True
 
     def _get(self, url, params):
         key = url + "?" + json.dumps(params, sort_keys=True)
@@ -1108,6 +1109,23 @@ def look_ahead(s, src, used, no_sa, exclude, rv=None, keep=None):
         pass
 
 
+def send_pending_tracks(m, src, log=print):
+    """Send the download counts a build could not send when it chose the photos (Unsplash's counter was at its
+    hourly limit), stopping at the first refusal. Returns how many are still pending."""
+    track, refused, left = getattr(src, "track", None), False, 0
+    for e in m.values():
+        for p in e.get("photos", []):
+            if not p.get("track_pending"):
+                continue
+            if track and not refused and track(p) is not False:
+                p.pop("track_pending")
+            else:
+                refused, left = True, left + 1
+    if left:
+        log(f"  {left} Unsplash download counts still pending: the next build sends them")
+    return left
+
+
 def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False, kinds=("company", "topic", "sector"), log=print,
           save_every=5, stock_only=False, brands=None):
     """Pick the photos of every subject due (all with redo or only). stock_only: companies keep their approved
@@ -1172,10 +1190,10 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
             if missing:
                 e["missing"] = missing
             e["checked"] = date.today().isoformat()
-            before = {p["file"] for p in old.get("photos", [])}
-            for p in e["photos"]:
-                if p.get("track") and p["file"] not in before and hasattr(src, "track"):
-                    src.track(p)
+            before = {p["file"] for p in old.get("photos", []) if not p.get("track_pending")}
+            for p in e["photos"]:  # a new stock photo: tell its source (now, or in a later build)
+                if p.get("track") and p["file"] not in before and hasattr(src, "track") and src.track(p) is False:
+                    p["track_pending"] = True
         except Exception as ex:  # one failing subject must not stop the build; the next run retries it
             note = f"{type(ex).__name__}: {ex}"[:300]
             e = {**old, "error": note} if old.get("photos") else {**e, "photos": [], "error": note}
@@ -1185,8 +1203,10 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
             e.update(fixed, manual=man)
         m[s["id"]] = e
         log(f"  {n}/{len(todo)} {s['id']:12s} {len(e['photos']):2d} photos {e.get('error', '')}")
-        if n % save_every == 0:
+        # stock answers cost an hourly quota: save every subject that has stock photos, so a cut build keeps them
+        if n % save_every == 0 or any(provider_of(p) in STOCK for p in e["photos"]):
             save_manifest(m, [x["id"] for x in subjects], bank)
+    send_pending_tracks(m, src, log)
     save_manifest(m, [x["id"] for x in subjects], bank)
     if ahead:
         ahead.shutdown(wait=False, cancel_futures=True)

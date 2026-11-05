@@ -431,6 +431,31 @@ class Stock(unittest.TestCase):
         r = B.choose({"id": "boss", "q": "gold bars", "person": True}, lambda q: [], stock_sources=[FakeStock()])
         self.assertEqual(r, [])
 
+    def test_download_count_never_waits_on_the_hourly_limit(self):
+        import io, urllib.error, urllib.request
+        from unittest import mock
+        limited = urllib.error.HTTPError("https://api.unsplash.com/photos/a1/download", 403, "Forbidden",
+                                         {"X-Ratelimit-Remaining": "0"}, io.BytesIO(b"Rate Limit Exceeded"))
+        with mock.patch.object(urllib.request, "urlopen", side_effect=limited), \
+             mock.patch.object(stock.time, "sleep", side_effect=AssertionError("waited")):
+            self.assertIs(stock.Unsplash(log=lambda *_: None).track("https://api.unsplash.com/photos/a1/download"), False)
+
+    def test_download_counts_not_sent_stay_pending_until_a_later_build(self):
+        with tempfile.TemporaryDirectory() as d:
+            bank = Path(d)
+            src = Fake()
+            src.stock = [FakeStock()]
+            src.track = lambda p: False                                                   # the counter is at its limit
+            m = B.build(MINI, bank, src, kinds=("topic",), log=lambda *_: None)
+            self.assertTrue(m["gold"]["photos"][0]["track_pending"])
+            sent = []
+            src.track = lambda p: sent.append(p["track"])                                 # an hour later
+            m = B.build(MINI, bank, src, kinds=("topic",), log=lambda *_: None)            # gold is not due: only the counts
+            self.assertEqual(sent, ["https://api.unsplash.com/photos/a1/download"])
+            self.assertNotIn("track_pending", m["gold"]["photos"][0])
+            B.index(bank, "https://example.org/bank")
+            self.assertNotIn("track_pending", (bank / "subjects" / "gold.json").read_text())
+
 
 class Review(unittest.TestCase):
     def test_only_best_commons_photos_are_published_and_never_picked_again(self):
