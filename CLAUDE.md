@@ -62,7 +62,8 @@ Decisions (Pablo, 4 Nov 2026):
 - **Unsplash and Pexels** (code done and tested offline, `stock.py`; not run yet): the four hosts
   (`api.unsplash.com`, `images.unsplash.com`, `api.pexels.com`, `images.pexels.com`) answer since the second
   session, but `UNSPLASH_ACCESS_KEY` and `PEXELS_API_KEY` are still not in the environment (Pexels: 401). Pablo
-  was asked to add them (a new session picks them up). Note: `WIKIMEDIA_TOKEN` is now a short placeholder that
+  was asked to add them (a new session picks them up). **Pexels has paused issuing new API keys** (its API page,
+  5 Nov 2026): go with Unsplash alone (a source without its key is skipped) and add Pexels if it reopens. Note: `WIKIMEDIA_TOKEN` is now a short placeholder that
   the egress proxy swaps for the real token (network secret): it only works in the Authorization header to the
   Wikimedia hosts, which is where `headers()` sends it. Topics and sectors run each shot on Unsplash, Pexels and Commons; a stock photo must name every word
   of the search (or a `must` word) in its description and then wins (+30). Never for real people; no Unsplash+,

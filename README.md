@@ -44,7 +44,8 @@ use only by …» (solo para tu cuenta: se aprueba al momento), elige «Request 
 permissions» sin añadir permisos y copia el «Access token» que aparece al final. No la subas nunca al repo.
 
 Para Unsplash y Pexels hacen falta sus claves en `UNSPLASH_ACCESS_KEY` y `PEXELS_API_KEY` (gratis: en
-<https://unsplash.com/developers>, «New Application», y en <https://www.pexels.com/api/>) y acceso a
+<https://unsplash.com/developers>, «New Application», y en <https://www.pexels.com/api/>; Pexels tiene pausada
+la emisión de claves nuevas desde noviembre de 2026, así que de momento el banco usa solo Unsplash) y acceso a
 `api.unsplash.com`, `images.unsplash.com`, `api.pexels.com` e `images.pexels.com`. Sin clave, esa fuente se
 salta. Unsplash da 50 búsquedas por hora a una aplicación nueva (5.000 cuando la aprueba para producción: se
 pide en su web) y Pexels 200; el programa espera cuando se acaban y guarda las respuestas en `.cache/` (fuera
