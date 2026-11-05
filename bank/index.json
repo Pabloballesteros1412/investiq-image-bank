@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 510,
+ "photos": 518,
  "subjects": [
   {
    "id": "MMM",
@@ -7934,7 +7934,7 @@
     "forex",
     "eurusd"
    ],
-   "photos": 0,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/dollar.json"
   },
   {
@@ -7950,7 +7950,7 @@
     "deficit",
     "10-year"
    ],
-   "photos": 1,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bonds.json"
   },
   {
@@ -7965,7 +7965,7 @@
     "home prices",
     "homebuilders"
    ],
-   "photos": 2,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/housing.json"
   },
   {

@@ -5,21 +5,40 @@
  "tickers": [],
  "photos": [
   {
-   "shows": "US Capitol dome Jan 2006",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/1920px-US_Capitol_dome_Jan_2006.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/US_Capitol_dome_Jan_2006.jpg/500px-US_Capitol_dome_Jan_2006.jpg",
+   "shows": "White and brown concrete building",
+   "url": "https://images.unsplash.com/photo-1611010638643-051de75362ff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1611010638643-051de75362ff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    2140
+    1201,
+    1501
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Diliff, CC BY 2.5, via Wikimedia Commons",
-   "licence": "CC BY 2.5",
+   "credit": "Photo by Andy Feliciotti on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@someguy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-brown-concrete-building-MCWONeEXhC4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Scott Bessent 2025 Official Portrait",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Scott_Bessent_2025_Official_Portrait.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Scott_Bessent_2025_Official_Portrait.jpg/500px-Scott_Bessent_2025_Official_Portrait.jpg",
+   "size": [
+    1841,
+    1822
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Treasury Department, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Scott_Bessent_2025_Official_Portrait.jpg"
   }
  ]
 }

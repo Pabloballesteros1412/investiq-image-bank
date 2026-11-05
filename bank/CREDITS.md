@@ -1213,14 +1213,25 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - High-angle view of the Hong Kong skyline across Victoria Harbour in golden hour light: Photo by Manson on Unsplash. [4vf1KEkD7Gc](https://unsplash.com/photos/hong-kong-skyline-across-victoria-harbour-4vf1KEkD7Gc?utm_source=investiq_image_bank&utm_medium=referral)
 - Shanghai Stock Exchange 2: 钉钉, CC BY-SA 4.0, via Wikimedia Commons. [Shanghai Stock Exchange 2.jpg](https://commons.wikimedia.org/wiki/File:Shanghai_Stock_Exchange_2.jpg)
 
+## US dollar & currencies (dollar)
+
+- 100 us dollar bill: Photo by Giorgio Trovato on Unsplash. [BRl69uNXr7g](https://unsplash.com/photos/100-us-dollar-bill-BRl69uNXr7g?utm_source=investiq_image_bank&utm_medium=referral)
+- Us dollars and euros scattered on a surface: Photo by Eric Prouzet on Unsplash. [4Ah6xLAQqaU](https://unsplash.com/photos/us-dollars-and-euros-scattered-on-a-surface-4Ah6xLAQqaU?utm_source=investiq_image_bank&utm_medium=referral)
+- A one hundred dollar bill with a picture of a man's face on it: Photo by engin akyurt on Unsplash. [7aWvQdR36Y0](https://unsplash.com/photos/a-one-hundred-dollar-bill-with-a-picture-of-a-mans-face-on-it-7aWvQdR36Y0?utm_source=investiq_image_bank&utm_medium=referral)
+- Pile of swiss francs coins and banknotes: Photo by Markus Kammermann on Unsplash. [7ozi8PiLvNc](https://unsplash.com/photos/pile-of-swiss-francs-coins-and-banknotes-7ozi8PiLvNc?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Treasuries, bonds & national debt (bonds)
 
-- US Capitol dome Jan 2006: Diliff, CC BY 2.5, via Wikimedia Commons. [US Capitol dome Jan 2006.jpg](https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg)
+- White and brown concrete building: Photo by Andy Feliciotti on Unsplash. [MCWONeEXhC4](https://unsplash.com/photos/white-and-brown-concrete-building-MCWONeEXhC4?utm_source=investiq_image_bank&utm_medium=referral)
+- Scott Bessent 2025 Official Portrait: Treasury Department, public domain, via Wikimedia Commons. [Scott Bessent 2025 Official Portrait.jpg](https://commons.wikimedia.org/wiki/File:Scott_Bessent_2025_Official_Portrait.jpg)
 
 ## Housing market & mortgages (housing)
 
+- Aerial view of a suburban neighborhood with houses and streets: Photo by Shanjir H | Photo4life AU on Unsplash. [MXR6DAo8NCo](https://unsplash.com/photos/aerial-view-of-a-suburban-neighborhood-with-houses-and-streets-MXR6DAo8NCo?utm_source=investiq_image_bank&utm_medium=referral)
 - Hand holds house keys near door lock, symbolizing new beginnings and homeownership journey in a modern setting: Shixart1985, CC BY 2.0, via Wikimedia Commons. [Hand holds house keys near door lock, symbolizing new beginnings and homeownership journey in a modern setting.jpg](https://commons.wikimedia.org/wiki/File:Hand_holds_house_keys_near_door_lock,_symbolizing_new_beginnings_and_homeownership_journey_in_a_modern_setting.jpg)
+- Low angle photo of high rise apartment building: Photo by Marlene Céline Nordvik on Unsplash. [5q1KnUjtjaM](https://unsplash.com/photos/low-angle-photo-of-high-rise-apartment-building-5q1KnUjtjaM?utm_source=investiq_image_bank&utm_medium=referral)
 - Markham-suburbs aerial-edit2: IDuke (this edited version: Sting ), CC BY-SA 2.5, via Wikimedia Commons. [Markham-suburbs aerial-edit2.jpg](https://commons.wikimedia.org/wiki/File:Markham-suburbs_aerial-edit2.jpg)
+- Holding house keys in front of the entrance: Photo by Jakub Żerdzicki on Unsplash. [bqUZEAeWuok](https://unsplash.com/photos/holding-house-keys-in-front-of-the-entrance-bqUZEAeWuok?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
