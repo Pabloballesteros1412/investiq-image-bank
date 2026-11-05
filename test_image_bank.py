@@ -31,6 +31,11 @@ SP500_WIKITEXT = """Intro text.
 |[[Berkshire Hathaway]]
 |[[Financials]]
 |Multi-Sector Holdings
+|-
+|| {{BZX link|CBOE}}
+|| [[Cboe Global Markets]]
+|| Financials 
+|| Financial Exchanges & Data 
 |}
 {| class="wikitable" id="changes"
 |-
@@ -50,17 +55,24 @@ class Fake:
         return rows + [{"ticker": f"X{i}", "name": f"Filler {i}", "wiki": f"Filler {i}", "sector": "Utilities"} for i in range(self.n_sp)]
 
     def wikidata_ids(self, titles):
-        return {t: {"3M": "Q1", "Alphabet Inc.": "Q2", "Berkshire Hathaway": "Q3"}.get(t) for t in titles}
+        return {t: {"3M": "Q1", "Alphabet Inc.": "Q2", "Berkshire Hathaway": "Q3", "Filler 0": "Q4"}.get(t) for t in titles}
 
     def search_entity(self, name, ticker):
         return "Q9" if ticker == "TSM" else None
+
+    def existing_categories(self, names):
+        return {n for n in names if n == "Filler 1"}
 
     def entities(self, qids, props="labels|claims"):
         ents = {"Q1": {"claims": {"P373": [{"mainsnak": {"datavalue": {"value": "3M"}}}],
                                   "P18": [{"mainsnak": {"datavalue": {"value": "3M HQ Maplewood.jpg"}}}],
                                   "P169": [{"mainsnak": {"datavalue": {"value": {"id": "Q100"}}}, "qualifiers": {"P582": [{}]}},
                                            {"mainsnak": {"datavalue": {"value": {"id": "Q101"}}}}]}},
-                "Q101": {"labels": {"en": {"value": "William Brown"}}},
+                "Q3": {"sitelinks": {"commonswiki": {"title": "Category:Berkshire Hathaway"}}},
+                "Q2": {"claims": {"P910": [{"mainsnak": {"datavalue": {"value": {"id": "Q20"}}}}]}},
+                "Q20": {"sitelinks": {"commonswiki": {"title": "Category:Alphabet Inc."}}},
+                "Q4": {"sitelinks": {"commonswiki": {"title": "Filler zero gallery"}}},
+                "Q101": {"labels": {"mul": {"value": "William Brown"}}},
                 "Q100": {"labels": {"en": {"value": "Old Boss"}}}}
         return {q: ents.get(q, {}) for q in qids if q}
 
@@ -111,7 +123,8 @@ class Catalog(unittest.TestCase):
 class Universe(unittest.TestCase):
     def test_sp500_table(self):
         rows = B.parse_sp500(SP500_WIKITEXT)
-        self.assertEqual([r["ticker"] for r in rows], ["MMM", "GOOGL", "GOOG", "BRK-B"])
+        self.assertEqual([r["ticker"] for r in rows], ["MMM", "GOOGL", "GOOG", "BRK-B", "CBOE"])
+        self.assertEqual((rows[4]["name"], rows[4]["sector"]), ("Cboe Global Markets", "Financials"))  # "||" rows
         self.assertEqual((rows[1]["wiki"], rows[1]["name"], rows[1]["sector"]), ("Alphabet Inc.", "Alphabet Inc. (Class A)", "Communication Services"))
         self.assertEqual(rows[3]["sector"], "Financials")
 
@@ -124,6 +137,10 @@ class Universe(unittest.TestCase):
             self.assertEqual(uni["GOOGL"]["tickers"], ["GOOGL", "GOOG"])          # two share classes, one company
             self.assertEqual(uni["GOOGL"]["name"], "Alphabet Inc.")
             self.assertEqual(uni["BRK-B"]["wikidata"], "Q3")
+            self.assertEqual(uni["BRK-B"]["commons_category"], "Berkshire Hathaway")    # from the Commons sitelink
+            self.assertEqual(uni["GOOGL"]["commons_category"], "Alphabet Inc.")         # from its main category's item
+            self.assertEqual(uni["X1"]["commons_category"], "Filler 1")                 # named like its article, and exists
+            self.assertIsNone(uni["X0"]["commons_category"])                            # a gallery is not a category
             self.assertEqual((uni["MMM"]["commons_category"], uni["MMM"]["ceo"]), ("3M", "William Brown"))  # current CEO only
             self.assertEqual(uni["TSM"]["wikidata"], "Q9")                           # found by name and ticker
             self.assertEqual(sum(1 for e in uni.values() if "MMM" in e["tickers"]), 1)  # an extra already in the S&P 500

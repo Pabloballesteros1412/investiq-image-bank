@@ -37,6 +37,22 @@ registro dice cuántas peticiones fueron limitadas). Por eso la primera vez tard
 vuelve a ejecutarlo y solo hace lo que falta. Al terminar, sube los cambios (`git add -A && git commit && git push`):
 el chat ve el banco nuevo en cuanto están en GitHub.
 
+### Ir más rápido: un token de Wikimedia
+
+Sin cuenta, Wikimedia reparte su límite por IP, y en la nube de Claude esa IP es compartida: un `build`
+completo (unas 6.500 peticiones) puede tardar más de un día. Con un token de acceso, el límite es por cuenta y
+mucho más alto. Se consigue en cinco minutos y solo da permiso de lectura:
+
+1. Crea una cuenta de Wikimedia (sirve cualquier cuenta de Wikipedia).
+2. Entra en <https://meta.wikimedia.org/wiki/Special:OAuthConsumerRegistration/propose/oauth2>, ponle de
+   nombre «InvestIQ image bank», marca «This consumer is for use only by …» (solo para ti) y deja solo los
+   permisos básicos («Basic rights»). Al enviarlo te muestra el **access token**: cópialo.
+3. Guárdalo como variable de entorno `WIKIMEDIA_TOKEN` (en Claude Code en la nube: menú del entorno en la
+   barra de la sesión → Edit → variables de entorno; vale para las sesiones nuevas). No lo pegues en el chat
+   ni en el repo.
+
+`image_bank.py` lo usa solo si existe; sin él funciona igual, pero despacio.
+
 | Comando | Qué hace |
 |---|---|
 | `universe` | rehace la lista de empresas (`bank/universe.json`); conviene repetirlo cuando cambie el S&P 500 |

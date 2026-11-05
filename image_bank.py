@@ -21,7 +21,8 @@ point to crop around, and the chat crops it to 4:5 or 1:1 itself.
 Needs Python 3.9+ (no other package) and network access to en.wikipedia.org, www.wikidata.org and
 commons.wikimedia.org. The carousel chat needs upload.wikimedia.org (where the photos are). Since 2026 Wikimedia
 limits anonymous clients per IP: requests go one at a time, wait as long as a 429's Retry-After asks, and the
-gap between them widens after each 429 (the log shows how many requests were limited). A full build takes hours.
+gap between them widens after each 429 (the log shows how many requests were limited). From a shared cloud IP
+that is very slow; with a Wikimedia access token in WIKIMEDIA_TOKEN (README) the limit is per account.
 
 Which photos: a company gets its hand-written shots from catalog.json first (50 large companies have
 them), then its main image on Wikidata, a photo of its CEO, the best photos of its Commons category and of the
@@ -40,7 +41,7 @@ with "manual": ["exclude"], then build --only <ID>; "manual": true freezes the s
 bank/universe.json, on a company: "commons_category", "ceo", "image" or "name" corrected by hand and listed
 in "manual" (e.g. "manual": ["commons_category"]) survive the next `universe`.
 """
-import csv, html, json, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
+import csv, html, json, os, re, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
 from datetime import date
 from pathlib import Path
 
@@ -84,7 +85,8 @@ RULES = [
     "object-fit: cover; object-position: x% y% (x and y times 100).",
     "Credit every photo you use with its exact 'credit' line: small text on the slide, or a final credits slide.",
     "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
-    "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ.",
+    "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ. A role in "
+    "'shows' (e.g. CEO) comes from Wikidata and may be out of date: check it before naming it on a slide.",
     "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as "
     "illustration, never presented as that company's own premises, products or people.",
 ]
@@ -208,12 +210,21 @@ def retry_after(err, attempt):
     return min(300.0, max(1.0, s))
 
 
+def headers():
+    """User-Agent, plus a Wikimedia access token when WIKIMEDIA_TOKEN is set: logged-in clients are limited per
+    account instead of per IP, which is much faster from a shared cloud IP (see the README)."""
+    h = {"User-Agent": UA}
+    if os.environ.get("WIKIMEDIA_TOKEN"):
+        h["Authorization"] = "Bearer " + os.environ["WIKIMEDIA_TOKEN"].strip()
+    return h
+
+
 def get_json(params, url=COMMONS_API, tries=20):
     full = url + "?" + urllib.parse.urlencode({**params, "format": "json", "formatversion": 2})
     for attempt in range(tries):
         PACE.wait()
         try:
-            with urllib.request.urlopen(urllib.request.Request(full, headers={"User-Agent": UA}), timeout=90) as r:
+            with urllib.request.urlopen(urllib.request.Request(full, headers=headers()), timeout=90) as r:
                 d = json.loads(r.read())
             PACE.ok()
             if isinstance(d, dict) and d.get("error"):
@@ -285,8 +296,23 @@ class Live:
         out = {}
         qids = [q for q in dict.fromkeys(qids) if q]
         for i in range(0, len(qids), 50):
-            d = self._get(WIKIDATA_API, {"action": "wbgetentities", "ids": "|".join(qids[i:i + 50]), "props": props, "languages": "en"})
+            d = self._get(WIKIDATA_API, {"action": "wbgetentities", "ids": "|".join(qids[i:i + 50]), "props": props,
+                                         "languages": "en|mul", "sitefilter": "commonswiki"})
             out.update(d.get("entities", {}))
+        return out
+
+    def existing_categories(self, names):
+        """The names among these whose Commons category exists and holds files or subcategories."""
+        out = set()
+        names = list(dict.fromkeys(names))
+        for i in range(0, len(names), 50):
+            q = self._get(COMMONS_API, {"action": "query", "titles": "|".join("Category:" + n for n in names[i:i + 50]),
+                                        "prop": "categoryinfo"}).get("query", {})
+            back = {r["to"]: r["from"] for r in q.get("normalized", [])}
+            for pg in q.get("pages", []):
+                ci = pg.get("categoryinfo") or {}
+                if not pg.get("missing") and ci.get("files", 0) + ci.get("subcats", 0) > 0:
+                    out.add(back.get(pg["title"], pg["title"]).split(":", 1)[1])
         return out
 
     def search_entity(self, name, ticker):
@@ -354,10 +380,10 @@ def parse_sp500(wt):
         row = row.strip()
         if not row or row.startswith("!"):
             continue
-        cells = [c.strip() for c in re.split(r"\n\|(?!\})|\|\|", "\n" + row) if c.strip()]
+        cells = [c.strip() for c in re.split(r"\n\|\|?(?!\})|\|\|", "\n" + row) if c.strip()]  # cells start "|" or "||"
         if len(cells) < 3:
             continue
-        m = re.search(r"\{\{\s*[A-Za-z]*\s*\|\s*([A-Za-z][A-Za-z.\-]*)\s*\}\}", cells[0])
+        m = re.search(r"\{\{\s*[A-Za-z ]*\|\s*([A-Za-z][A-Za-z.\-]*)\s*\}\}", cells[0])
         sym = m.group(1) if m else re.sub(r"\[\[[^\]|]*\||[\[\]{}]", "", cells[0]).strip()
         link = re.search(r"\[\[([^\]|#]+)(?:\|([^\]]*))?\]\]", cells[1])
         if not sym or not link:
@@ -390,8 +416,17 @@ def current_item(ent, p):
     return None
 
 
+def commons_category(ent):
+    """The item's Commons category: its P373 statement, else its Commons sitelink when that is a category (Wikidata
+    increasingly records it only there)."""
+    link = ((ent.get("sitelinks") or {}).get("commonswiki") or {}).get("title", "")
+    return claim_value(ent, "P373") or (link.split(":", 1)[1] if link.startswith("Category:") else None)
+
+
 def label(ent):
-    return ent.get("labels", {}).get("en", {}).get("value")
+    """English label, else the language-neutral one (Wikidata now often names people only under "mul")."""
+    labels = ent.get("labels", {})
+    return (labels.get("en") or labels.get("mul") or {}).get("value")
 
 
 def has_ticker(ent, ticker):
@@ -403,6 +438,21 @@ def has_ticker(ent, ticker):
 def load_universe(bank=BANK):
     p = Path(bank) / "universe.json"
     return json.loads(p.read_text(encoding="utf-8")).get("companies", []) if p.exists() else []
+
+
+def fill_categories(comps, src, topic_cat):
+    """Commons categories for the companies Wikidata gives none: from the item of the company's main category
+    (P910: {company's Wikidata id: category item}), else the Commons category named like its Wikipedia article
+    when it exists and is not empty."""
+    cats = src.entities(list(topic_cat.values()), props="sitelinks|claims")
+    for e in comps:
+        if not e.get("commons_category") and topic_cat.get(e.get("wikidata")):
+            e["commons_category"] = commons_category(cats.get(topic_cat[e["wikidata"]], {}))
+    guess = [e for e in comps if not e.get("commons_category") and e.get("wiki")]
+    found = src.existing_categories([e["wiki"] for e in guess]) if guess else set()
+    for e in guess:
+        if e["wiki"] in found:
+            e["commons_category"] = e["wiki"]
 
 
 def curated_for(cat, tickers):
@@ -437,14 +487,18 @@ def build_universe(cat=None, src=None, bank=BANK, extras=None, log=print):
     qids = src.wikidata_ids([e["wiki"] for e in comps if e.get("wiki")])
     for e in comps:
         e["wikidata"] = qids.get(e.get("wiki")) or src.search_entity(e["name"], e["tickers"][0])
-    ents = src.entities([e["wikidata"] for e in comps])
-    ceo = {}
+    log(f"  {sum(1 for e in comps if e['wikidata'])} Wikidata records found; reading them  [{PACE.requests} requests, {PACE.limited} limited]")
+    ents = src.entities([e["wikidata"] for e in comps], props="labels|claims|sitelinks")
+    ceo, topic_cat = {}, {}
     for e in comps:
         ent = ents.get(e["wikidata"] or "", {})
-        e["commons_category"] = claim_value(ent, "P373")
+        e["commons_category"] = commons_category(ent)
         e["image"] = claim_value(ent, "P18")
         if current_item(ent, "P169"):
             ceo[e["wikidata"]] = current_item(ent, "P169")
+        if not e["commons_category"] and current_item(ent, "P910"):
+            topic_cat[e["wikidata"]] = current_item(ent, "P910")
+    fill_categories(comps, src, topic_cat)
     names = src.entities(list(ceo.values()), props="labels")
     old = {e["id"]: e for e in load_universe(bank)}
     out = []
@@ -463,7 +517,7 @@ def build_universe(cat=None, src=None, bank=BANK, extras=None, log=print):
     Path(bank).mkdir(parents=True, exist_ok=True)
     (Path(bank) / "universe.json").write_text(json.dumps({"updated": date.today().isoformat(), "companies": out}, indent=1, ensure_ascii=False), encoding="utf-8")
     log(f"  universe.json: {len(out)} companies, {sum(1 for e in out if e.get('commons_category'))} with a Commons category, "
-        f"{sum(1 for e in out if not e.get('wikidata'))} without a Wikidata record")
+        f"{sum(1 for e in out if not e.get('wikidata'))} without a Wikidata record  [{PACE.requests} requests, {PACE.limited} limited]")
     return out
 
 
@@ -752,6 +806,8 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
     subjects = subjects_of(cat, uni)
     keys = {k.strip().lower() for k in only.split(",")} if only else None
     todo = [s for s in subjects if s["kind"] in kinds and (keys is None or matches(s, keys))]
+    # most useful first, as a slow build may be cut: sectors (they fill the gaps), topics, hand-written companies, the rest
+    todo.sort(key=lambda s: {"sector": 0, "topic": 1}.get(s["kind"], 2 if s.get("shots") else 3))
     if keys and not todo:
         raise ValueError(f"no subject matches {only}")
     m = load_manifest(bank)
