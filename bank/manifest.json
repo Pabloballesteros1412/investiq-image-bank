@@ -88318,49 +88318,55 @@
   "photos": [
    {
     "shot": "oil-rig",
-    "shows": "Oil platform P-51 (Brazil)",
-    "file": "File:Oil platform P-51 (Brazil).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/1920px-Oil_platform_P-51_%28Brazil%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/500px-Oil_platform_P-51_%28Brazil%29.jpg",
+    "shows": "The West Bollsta semi-submersible drilling rig docked in a harbor at low light",
+    "file": "unsplash:hy97yy3e03A",
+    "page": "https://unsplash.com/photos/west-bollsta-drilling-rig-in-harbor-hy97yy3e03A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1629540946404-ebe133e99f49?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8b2lsJTIwcmlnfGVufDF8fHx8MTc5Mzg4NDMzNHww&ixlib=rb-4.1.0&w=2077&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1629540946404-ebe133e99f49?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8b2lsJTIwcmlnfGVufDF8fHx8MTc5Mzg4NDMzNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2077,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Divulgação Petrobras / ABr, CC BY 3.0 br, via Wikimedia Commons",
-    "licence": "CC BY 3.0 br",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
-    "author": "Divulgação Petrobras / ABr",
-    "year": 2009,
-    "how": "catalog"
+    "credit": "Photo by Maria Lupan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Maria Lupan",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@luandmario?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hy97yy3e03A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8b2lsJTIwcmlnfGVufDF8fHx8MTc5Mzg4NDMzNHww"
    },
    {
     "shot": "refinery",
-    "shows": "Anacortes Refinery",
-    "file": "File:Anacortes Refinery 31911.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Anacortes_Refinery_31911.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anacortes_Refinery_31911.JPG/1920px-Anacortes_Refinery_31911.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Anacortes_Refinery_31911.JPG/500px-Anacortes_Refinery_31911.JPG",
+    "shows": "Red and white tower under blue sky during night time",
+    "file": "unsplash:u13zBF4r56A",
+    "page": "https://unsplash.com/photos/red-and-white-tower-under-blue-sky-during-night-time-u13zBF4r56A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cmVmaW5lcnl8ZW58MXx8fHwxNzkzODg0MzM2fDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1588011930968-eadac80e6a5a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cmVmaW5lcnl8ZW58MXx8fHwxNzkzODg0MzM2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1425
+     2248,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Walter Siegmund (talk), CC BY 2.5, via Wikimedia Commons",
-    "licence": "CC BY 2.5",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.5",
-    "author": "Walter Siegmund (talk)",
-    "year": 2008,
-    "how": "catalog"
+    "credit": "Photo by Maksym Kaharlytskyi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Maksym Kaharlytskyi",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@qwitka?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/u13zBF4r56A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cmVmaW5lcnl8ZW58MXx8fHwxNzkzODg0MzM2fDA"
    },
    {
     "shot": "pumpjack-sunset",
@@ -88387,103 +88393,138 @@
    },
    {
     "shot": "gas-pipeline",
-    "shows": "Gasoducto junto a la B-145, Chile, , DD 32",
-    "file": "File:Gasoducto junto a la B-145, Chile, 2016-02-09, DD 32.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Gasoducto_junto_a_la_B-145,_Chile,_2016-02-09,_DD_32.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG/1920px-Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG/500px-Gasoducto_junto_a_la_B-145%2C_Chile%2C_2016-02-09%2C_DD_32.JPG",
+    "shows": "Gas pipeline bridge Dolne Zelenice",
+    "file": "File:Gas pipeline bridge Dolne Zelenice.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gas_pipeline_bridge_Dolne_Zelenice.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gas_pipeline_bridge_Dolne_Zelenice.jpg/1920px-Gas_pipeline_bridge_Dolne_Zelenice.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Gas_pipeline_bridge_Dolne_Zelenice.jpg/500px-Gas_pipeline_bridge_Dolne_Zelenice.jpg",
     "size": [
      1920,
-     1270
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Diego Delso",
-    "year": 2016,
+    "credit": "Szombat78, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Szombat78",
+    "year": 2022,
     "how": "catalog"
    },
    {
     "shot": "lng-carrier",
-    "shows": "01 LNG tanker, GULF ENERGY - IMO",
-    "file": "File:2023-05-20 01 LNG tanker, GULF ENERGY - IMO 7390143.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2023-05-20_01_LNG_tanker,_GULF_ENERGY_-_IMO_7390143.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg/1920px-2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg/500px-2023-05-20_01_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg",
+    "shows": "A large lng carrier ship docked in a harbor",
+    "file": "unsplash:Mbat1ZHAM9s",
+    "page": "https://unsplash.com/photos/a-large-lng-carrier-ship-docked-in-a-harbor-Mbat1ZHAM9s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1784914180330-6d6324323a5d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fExORyUyMGNhcnJpZXJ8ZW58MXx8fHwxNzkzODg5Mzk1fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1784914180330-6d6324323a5d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fExORyUyMGNhcnJpZXJ8ZW58MXx8fHwxNzkzODg5Mzk1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1277
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Gordon Leggett, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Gordon Leggett",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Julia Taubitz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Julia Taubitz",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@justmejuliee?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Mbat1ZHAM9s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fExORyUyMGNhcnJpZXJ8ZW58MXx8fHwxNzkzODg5Mzk1fDA"
    },
    {
     "shot": "fuel-tanker-truck",
-    "shows": "Elevated tanker truck at a job site in San Mateo",
-    "file": "File:Elevated tanker truck at a job site in San Mateo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg/1280px-Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg/500px-Elevated_tanker_truck_at_a_job_site_in_San_Mateo.jpg",
+    "shows": "A black tanker truck parked at a fuel station",
+    "file": "unsplash:vnDzGR5Ji5g",
+    "page": "https://unsplash.com/photos/a-black-tanker-truck-parked-at-a-fuel-station-vnDzGR5Ji5g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1785620026441-3115e9ad2545?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGZ1ZWwlMjB0YW5rZXIlMjB0cnVja3xlbnwxfHx8fDE3OTM4ODkzOTd8MA&ixlib=rb-4.1.0&w=2228&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1785620026441-3115e9ad2545?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGZ1ZWwlMjB0YW5rZXIlMjB0cnVja3xlbnwxfHx8fDE3OTM4ODkzOTd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     2228,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Grendelkhan",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by Kevin Musumbu on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kevin Musumbu",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@musumbukevin?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vnDzGR5Ji5g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGZ1ZWwlMjB0YW5rZXIlMjB0cnVja3xlbnwxfHx8fDE3OTM4ODkzOTd8MA"
    },
    {
     "shot": "gas-station",
-    "shows": "A modern BP gas station or filling station in the United States 05",
-    "file": "File:A modern BP gas station or filling station in the United States 05.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg/1920px-A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg/500px-A_modern_BP_gas_station_or_filling_station_in_the_United_States_05.jpg",
+    "shows": "A man pumping gas into his car at a gas station",
+    "file": "unsplash:f4UbPVbJcjw",
+    "page": "https://unsplash.com/photos/a-man-pumping-gas-into-his-car-at-a-gas-station-f4UbPVbJcjw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1644246905181-c3753e9a82bd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1644246905181-c3753e9a82bd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1302
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Harrison Keely",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by engin akyurt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "engin akyurt",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/f4UbPVbJcjw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA"
    },
    {
     "shot": "offshore-platform",
-    "shows": "Oil Platform Crew Transfer",
-    "file": "File:Oil Platform Crew Transfer.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oil_Platform_Crew_Transfer.jpg/1920px-Oil_Platform_Crew_Transfer.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oil_Platform_Crew_Transfer.jpg/500px-Oil_Platform_Crew_Transfer.jpg",
+    "shows": "An oil rig in the middle of the ocean",
+    "file": "unsplash:XquCLVbTYLE",
+    "page": "https://unsplash.com/photos/an-oil-rig-in-the-middle-of-the-ocean-XquCLVbTYLE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1690508313456-bf8c851e8319?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2Zmc2hvcmUlMjBwbGF0Zm9ybXxlbnwxfHx8fDE3OTM4ODkzOTl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1690508313456-bf8c851e8319?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2Zmc2hvcmUlMjBwbGF0Zm9ybXxlbnwxfHx8fDE3OTM4ODkzOTl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2131
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gabriel Xavier on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gabriel Xavier",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gabrielmxavier?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/XquCLVbTYLE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2Zmc2hvcmUlMjBwbGF0Zm9ybXxlbnwxfHx8fDE3OTM4ODkzOTl8MA"
+   },
+   {
+    "shot": "drilling-rig-workers",
+    "shows": "Drilling Roughnecks",
+    "file": "File:Drilling Roughnecks (8744524276).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drilling_Roughnecks_(8744524276).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Drilling_Roughnecks_%288744524276%29.jpg/1920px-Drilling_Roughnecks_%288744524276%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Drilling_Roughnecks_%288744524276%29.jpg/500px-Drilling_Roughnecks_%288744524276%29.jpg",
     "size": [
      1920,
      1440
@@ -88492,62 +88533,42 @@
      0.5,
      0.5
     ],
-    "credit": "GuavaTrain, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "GuavaTrain",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "drilling-rig-workers",
-    "shows": "Liebherr LRB 355 Hölzla- -RM",
-    "file": "File:Liebherr LRB 355 Hölzla-20160628-RM-105526.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg/1920px-Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg/500px-Liebherr_LRB_355_H%C3%B6lzla-20160628-RM-105526.jpg",
-    "size": [
-     1920,
-     1503
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ermell, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ermell",
-    "year": 2016,
+    "credit": "National Institute for Occupational Safety and Health (NIOSH) from USA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "National Institute for Occupational Safety and Health (NIOSH) from USA",
+    "year": 2008,
     "how": "catalog"
    },
    {
     "shot": "natural-gas-plant",
-    "shows": "Kawasaki natural gas power plant",
-    "file": "File:Kawasaki natural gas power plant.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kawasaki_natural_gas_power_plant.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kawasaki_natural_gas_power_plant.jpg/1920px-Kawasaki_natural_gas_power_plant.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kawasaki_natural_gas_power_plant.jpg/500px-Kawasaki_natural_gas_power_plant.jpg",
+    "shows": "Power plant chimneys stand tall over water",
+    "file": "unsplash:NzpifrHgQV0",
+    "page": "https://unsplash.com/photos/power-plant-chimneys-stand-tall-over-water-NzpifrHgQV0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1750074905101-8f07e1c61e33?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1750074905101-8f07e1c61e33?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1680
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Own work, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Own work",
-    "year": 2012,
-    "how": "catalog"
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NzpifrHgQV0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "sector-utilities": {
   "name": "Utilities sector",
@@ -88559,95 +88580,107 @@
   "photos": [
    {
     "shot": "power-plant",
-    "shows": "Rostock Power Station, SW view",
-    "file": "File:Rostock Power Station, SW view.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rostock_Power_Station,_SW_view.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rostock_Power_Station%2C_SW_view.jpg/1920px-Rostock_Power_Station%2C_SW_view.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Rostock_Power_Station%2C_SW_view.jpg/500px-Rostock_Power_Station%2C_SW_view.jpg",
+    "shows": "A factory with smoke coming out of it",
+    "file": "unsplash:RqOyRtYGhLg",
+    "page": "https://unsplash.com/photos/a-factory-with-smoke-coming-out-of-it-RqOyRtYGhLg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2255,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Radomianin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Radomianin",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by Etienne Girardet on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Etienne Girardet",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@etiennegirardet?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/RqOyRtYGhLg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA"
    },
    {
     "shot": "transmission-lines",
-    "shows": "Eversource Transmission Lines in Connecticut",
-    "file": "File:Eversource Transmission Lines in Connecticut.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Eversource_Transmission_Lines_in_Connecticut.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Eversource_Transmission_Lines_in_Connecticut.jpg/1920px-Eversource_Transmission_Lines_in_Connecticut.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Eversource_Transmission_Lines_in_Connecticut.jpg/500px-Eversource_Transmission_Lines_in_Connecticut.jpg",
+    "shows": "Low angle photo of transmission post",
+    "file": "unsplash:08ai5EDtn9k",
+    "page": "https://unsplash.com/photos/low-angle-photo-of-transmission-post-08ai5EDtn9k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1574173799345-e672ea143892?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1574173799345-e672ea143892?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Liam Enea, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Liam Enea",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Jonathan Hanna on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jonathan Hanna",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@funnelhead?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/08ai5EDtn9k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww"
    },
    {
     "shot": "wind-turbines",
-    "shows": "Wind turbines along North Middle Road, Essex County, Ontario",
-    "file": "File:Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/1920px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg/500px-Wind_turbines_along_North_Middle_Road%2C_Essex_County%2C_Ontario%2C_2025-06-29.jpg",
+    "shows": "A field of green grass with wind turbines in the background",
+    "file": "unsplash:baXCV2qg9Ew",
+    "page": "https://unsplash.com/photos/a-field-of-green-grass-with-wind-turbines-in-the-background-baXCV2qg9Ew?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1675116731363-c17d957f3444?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1675116731363-c17d957f3444?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2249,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Crisco 1492, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Crisco 1492",
-    "year": 2025,
-    "how": "catalog"
+    "credit": "Photo by Zac Wolff on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zac Wolff",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zacwolff?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/baXCV2qg9Ew/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww"
    },
    {
     "shot": "solar-farm",
-    "shows": "Photovoltaic power station in Vila Nova de Famalicão",
-    "file": "File:Photovoltaic power station in Vila Nova de Famalicão (1).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Photovoltaic_power_station_in_Vila_Nova_de_Famalic%C3%A3o_(1).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Photovoltaic_power_station_in_Vila_Nova_de_Famalic%C3%A3o_%281%29.jpg/1920px-Photovoltaic_power_station_in_Vila_Nova_de_Famalic%C3%A3o_%281%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Photovoltaic_power_station_in_Vila_Nova_de_Famalic%C3%A3o_%281%29.jpg/500px-Photovoltaic_power_station_in_Vila_Nova_de_Famalic%C3%A3o_%281%29.jpg",
+    "shows": "A large solar farm with many rows of solar panels",
+    "file": "unsplash:hp6Xj7LyZ1E",
+    "page": "https://unsplash.com/photos/a-large-solar-farm-with-many-rows-of-solar-panels-hp6Xj7LyZ1E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1680355065203-43ad84bb6e69?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1680355065203-43ad84bb6e69?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2400,
+     1443
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Joseolgon, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Joseolgon",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by Harisankar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Harisankar",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@imsankar?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hp6Xj7LyZ1E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA"
    },
    {
     "shot": "hydroelectric-dam",
@@ -88674,60 +88707,63 @@
    },
    {
     "shot": "electricity-meter",
-    "shows": "India - Kolkata electricity meters - 3832",
-    "file": "File:India - Kolkata electricity meters - 3832.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:India_-_Kolkata_electricity_meters_-_3832.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/India_-_Kolkata_electricity_meters_-_3832.jpg/1920px-India_-_Kolkata_electricity_meters_-_3832.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/India_-_Kolkata_electricity_meters_-_3832.jpg/500px-India_-_Kolkata_electricity_meters_-_3832.jpg",
+    "shows": "Two old electricity meters mounted on a wall",
+    "file": "unsplash:xM5e2r03yzU",
+    "page": "https://unsplash.com/photos/two-old-electricity-meters-mounted-on-a-wall-xM5e2r03yzU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1778080129715-45a449f18645?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVsZWN0cmljaXR5JTIwbWV0ZXJ8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1778080129715-45a449f18645?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVsZWN0cmljaXR5JTIwbWV0ZXJ8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1276
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jorge Royan, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Jorge Royan",
-    "year": 2005,
+    "credit": "Photo by Rafael Arkenau on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rafael Arkenau",
+    "year": 2026,
     "how": "catalog",
-    "flags": [
-     "restrictions: personality"
-    ]
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rflrkn?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/xM5e2r03yzU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVsZWN0cmljaXR5JTIwbWV0ZXJ8ZW58MXx8fHwxNzkzODg5Mzk4fDA"
    },
    {
     "shot": "substation",
-    "shows": "Switchyard of electric substation 750kV",
-    "file": "File:Switchyard of electric substation 750kV.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Switchyard_of_electric_substation_750kV.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Switchyard_of_electric_substation_750kV.png/1920px-Switchyard_of_electric_substation_750kV.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Switchyard_of_electric_substation_750kV.png/500px-Switchyard_of_electric_substation_750kV.png",
+    "shows": "A bunch of power lines that are in the dirt",
+    "file": "unsplash:Vu38TclLaNo",
+    "page": "https://unsplash.com/photos/a-bunch-of-power-lines-that-are-in-the-dirt-Vu38TclLaNo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1646516447226-e2eb0e6e3f36?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c3Vic3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1646516447226-e2eb0e6e3f36?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c3Vic3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Novoklimov, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Novoklimov",
-    "year": 2009,
-    "how": "catalog"
+    "credit": "Photo by Sam LaRussa on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sam LaRussa",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@samlarussaphoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Vu38TclLaNo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c3Vic3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDB8MA"
    },
    {
     "shot": "water-treatment-plant",
-    "shows": "Water Treatment Plant in Parkin, Arkansas",
-    "file": "File:Water Treatment Plant in Parkin, Arkansas.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Water_Treatment_Plant_in_Parkin,_Arkansas.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Water_Treatment_Plant_in_Parkin%2C_Arkansas.jpg/1920px-Water_Treatment_Plant_in_Parkin%2C_Arkansas.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Water_Treatment_Plant_in_Parkin%2C_Arkansas.jpg/500px-Water_Treatment_Plant_in_Parkin%2C_Arkansas.jpg",
+    "shows": "Waste Water Treatment Plant",
+    "file": "File:Waste Water Treatment Plant.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Waste_Water_Treatment_Plant.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Waste_Water_Treatment_Plant.jpg/1920px-Waste_Water_Treatment_Plant.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Waste_Water_Treatment_Plant.jpg/500px-Waste_Water_Treatment_Plant.jpg",
     "size": [
      1920,
      1280
@@ -88736,62 +88772,65 @@
      0.5,
      0.5
     ],
-    "credit": "Brandonrush, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Brandonrush",
-    "year": 2020,
+    "credit": "Dmitry Makeev, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dmitry Makeev",
+    "year": 2014,
     "how": "catalog"
    },
    {
     "shot": "lineman",
-    "shows": "TVA Linemen",
-    "file": "File:TVA Linemen.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:TVA_Linemen.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TVA_Linemen.jpg/1280px-TVA_Linemen.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TVA_Linemen.jpg/500px-TVA_Linemen.jpg",
+    "shows": "Country Energy line worker 02",
+    "file": "File:Country Energy line worker 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Country_Energy_line_worker_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Country_Energy_line_worker_02.jpg/1920px-Country_Energy_line_worker_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Country_Energy_line_worker_02.jpg/500px-Country_Energy_line_worker_02.jpg",
     "size": [
-     1280,
-     1617
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Unknown author, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "",
-    "year": null,
+    "credit": "Bidgee, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Bidgee",
+    "year": 2009,
     "how": "catalog"
    },
    {
     "shot": "gas-power-station",
-    "shows": "Blockheizkraftwerk Leipzig Möckern – Nordfassade",
-    "file": "File:Blockheizkraftwerk Leipzig Möckern – Nordfassade.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade.jpg/1920px-Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade.jpg/500px-Blockheizkraftwerk_Leipzig_M%C3%B6ckern_%E2%80%93_Nordfassade.jpg",
+    "shows": "A power plant stands beside a river",
+    "file": "unsplash:8ZDqHGZLeAU",
+    "page": "https://unsplash.com/photos/a-power-plant-stands-beside-a-river-8ZDqHGZLeAU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1750074905392-9426b6aafa17?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Z2FzJTIwcG93ZXIlMjBzdGF0aW9ufGVufDF8fHx8MTc5Mzg4OTQwNXww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1750074905392-9426b6aafa17?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Z2FzJTIwcG93ZXIlMjBzdGF0aW9ufGVufDF8fHx8MTc5Mzg4OTQwNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1508
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "August Geyler, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "August Geyler",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8ZDqHGZLeAU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Z2FzJTIwcG93ZXIlMjBzdGF0aW9ufGVufDF8fHx8MTc5Mzg4OTQwNXww"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "sector-real-estate": {
   "name": "Real estate sector",
@@ -88803,34 +88842,37 @@
   "photos": [
    {
     "shot": "office-towers",
-    "shows": "Skyscraper Los Angeles Downtown 2013",
-    "file": "File:Skyscraper Los Angeles Downtown 2013.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Skyscraper_Los_Angeles_Downtown_2013.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Skyscraper_Los_Angeles_Downtown_2013.jpg/1920px-Skyscraper_Los_Angeles_Downtown_2013.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Skyscraper_Los_Angeles_Downtown_2013.jpg/500px-Skyscraper_Los_Angeles_Downtown_2013.jpg",
+    "shows": "A black and white photo of two tall buildings",
+    "file": "unsplash:6S9VlOSonpg",
+    "page": "https://unsplash.com/photos/a-black-and-white-photo-of-two-tall-buildings-6S9VlOSonpg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1694538398758-b4ae17cf125d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1694538398758-b4ae17cf125d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1272
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Tuxyso",
-    "year": 2013,
-    "how": "catalog"
+    "credit": "Photo by Bagus Alif Widhiwipati on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bagus Alif Widhiwipati",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bagusawe?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6S9VlOSonpg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww"
    },
    {
     "shot": "apartment-complex",
-    "shows": "Dülmen, Alte Brennerei Löhning -- 2015 -- 8609-13",
-    "file": "File:Dülmen, Alte Brennerei Löhning -- 2015 -- 8609-13.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Alte_Brennerei_L%C3%B6hning_--_2015_--_8609-13.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8609-13.jpg/1920px-D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8609-13.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8609-13.jpg/500px-D%C3%BClmen%2C_Alte_Brennerei_L%C3%B6hning_--_2015_--_8609-13.jpg",
+    "shows": "Apartment Complex 1",
+    "file": "File:Apartment Complex 1.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Apartment_Complex_1.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Apartment_Complex_1.png/1920px-Apartment_Complex_1.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Apartment_Complex_1.png/500px-Apartment_Complex_1.png",
     "size": [
      1920,
      1280
@@ -88839,44 +88881,47 @@
      0.5,
      0.5
     ],
-    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dietmar Rabich",
-    "year": 2015,
+    "credit": "TylerMascola, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "TylerMascola",
+    "year": 2023,
     "how": "catalog"
    },
    {
     "shot": "shopping-center",
-    "shows": "Shopping Center Magna Plaza Amsterdam 2014",
-    "file": "File:Shopping Center Magna Plaza Amsterdam 2014.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shopping_Center_Magna_Plaza_Amsterdam_2014.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Shopping_Center_Magna_Plaza_Amsterdam_2014.jpg/1920px-Shopping_Center_Magna_Plaza_Amsterdam_2014.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Shopping_Center_Magna_Plaza_Amsterdam_2014.jpg/500px-Shopping_Center_Magna_Plaza_Amsterdam_2014.jpg",
+    "shows": "Person sitting on chair beside escalator",
+    "file": "unsplash:oGhTfu1UrOY",
+    "page": "https://unsplash.com/photos/person-sitting-on-chair-beside-escalator-oGhTfu1UrOY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1533481405265-e9ce0c044abb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2hvcHBpbmclMjBjZW50ZXJ8ZW58MXx8fHwxNzkzODg5Mzk1fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1533481405265-e9ce0c044abb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2hvcHBpbmclMjBjZW50ZXJ8ZW58MXx8fHwxNzkzODg5Mzk1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1252
+     2400,
+     1350
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Tuxyso",
-    "year": 2014,
-    "how": "catalog"
+    "credit": "Photo by Michael Weidemann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michael Weidemann",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@weidemann?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oGhTfu1UrOY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2hvcHBpbmclMjBjZW50ZXJ8ZW58MXx8fHwxNzkzODg5Mzk1fDA"
    },
    {
     "shot": "logistics-park",
     "shows": "Zhongding Logistics Park",
-    "file": "File:Zhongding Logistics Park (20240326112104).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Zhongding_Logistics_Park_(20240326112104).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Zhongding_Logistics_Park_%2820240326112104%29.jpg/1920px-Zhongding_Logistics_Park_%2820240326112104%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Zhongding_Logistics_Park_%2820240326112104%29.jpg/500px-Zhongding_Logistics_Park_%2820240326112104%29.jpg",
+    "file": "File:Zhongding Logistics Park (20240326112105).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zhongding_Logistics_Park_(20240326112105).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zhongding_Logistics_Park_%2820240326112105%29.jpg/1920px-Zhongding_Logistics_Park_%2820240326112105%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zhongding_Logistics_Park_%2820240326112105%29.jpg/500px-Zhongding_Logistics_Park_%2820240326112105%29.jpg",
     "size": [
      1920,
      1280
@@ -88895,14 +88940,14 @@
    },
    {
     "shot": "hotel-building",
-    "shows": "Façade hoist along the Andaz Hotel of Singapore at sunset",
-    "file": "File:Façade hoist along the Andaz Hotel of Singapore at sunset.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fa%C3%A7ade_hoist_along_the_Andaz_Hotel_of_Singapore_at_sunset.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fa%C3%A7ade_hoist_along_the_Andaz_Hotel_of_Singapore_at_sunset.jpg/1280px-Fa%C3%A7ade_hoist_along_the_Andaz_Hotel_of_Singapore_at_sunset.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Fa%C3%A7ade_hoist_along_the_Andaz_Hotel_of_Singapore_at_sunset.jpg/500px-Fa%C3%A7ade_hoist_along_the_Andaz_Hotel_of_Singapore_at_sunset.jpg",
+    "shows": "Reception lounge at Amantaka luxury Resort & Hotel at blue hour in Luang Prabang Laos",
+    "file": "File:Reception lounge at Amantaka luxury Resort & Hotel at blue hour in Luang Prabang Laos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg/1920px-Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg/500px-Reception_lounge_at_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
     "size": [
-     1280,
-     1920
+     1920,
+     1280
     ],
     "focus": [
      0.5,
@@ -88913,85 +88958,39 @@
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Basile Morin",
-    "year": 2018,
+    "year": 2023,
     "how": "catalog"
    },
    {
     "shot": "suburban-houses",
-    "shows": "House on suburban street in Sunshine, Victoria",
-    "file": "File:House on suburban street in Sunshine, Victoria.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:House_on_suburban_street_in_Sunshine,_Victoria.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/House_on_suburban_street_in_Sunshine%2C_Victoria.jpg/1920px-House_on_suburban_street_in_Sunshine%2C_Victoria.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/House_on_suburban_street_in_Sunshine%2C_Victoria.jpg/500px-House_on_suburban_street_in_Sunshine%2C_Victoria.jpg",
+    "shows": "Alverstone Road, suburban houses - geograph.org.uk",
+    "file": "File:Alverstone Road, suburban houses - geograph.org.uk - 4753373.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alverstone_Road,_suburban_houses_-_geograph.org.uk_-_4753373.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Alverstone_Road%2C_suburban_houses_-_geograph.org.uk_-_4753373.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Alverstone_Road%2C_suburban_houses_-_geograph.org.uk_-_4753373.jpg/500px-Alverstone_Road%2C_suburban_houses_-_geograph.org.uk_-_4753373.jpg",
     "size": [
-     1920,
-     1280
+     1600,
+     1200
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Philip Mallis, CC BY-SA 2.0, via Wikimedia Commons",
+    "credit": "David Smith, CC BY-SA 2.0, via Wikimedia Commons",
     "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Philip Mallis",
-    "year": 2022,
+    "author": "David Smith",
+    "year": 2015,
     "how": "catalog"
    },
    {
     "shot": "commercial-building-construction",
-    "shows": "Tecfuel commercial building under construction in Mandaue City ( )",
-    "file": "File:Tecfuel commercial building under construction in Mandaue City (2025-03-09).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tecfuel_commercial_building_under_construction_in_Mandaue_City_(2025-03-09).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tecfuel_commercial_building_under_construction_in_Mandaue_City_%282025-03-09%29.jpg/1920px-Tecfuel_commercial_building_under_construction_in_Mandaue_City_%282025-03-09%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tecfuel_commercial_building_under_construction_in_Mandaue_City_%282025-03-09%29.jpg/500px-Tecfuel_commercial_building_under_construction_in_Mandaue_City_%282025-03-09%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wide Awake!, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Wide Awake!",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "city-skyline",
-    "shows": "Skyline Frankfurt am Main",
-    "file": "File:Skyline Frankfurt am Main.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Skyline_Frankfurt_am_Main.jpg/1920px-Skyline_Frankfurt_am_Main.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Skyline_Frankfurt_am_Main.jpg/500px-Skyline_Frankfurt_am_Main.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nicolas Scheuer, CC BY-SA 2.5, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.5",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
-    "author": "Nicolas Scheuer",
-    "year": 2006,
-    "how": "catalog"
-   },
-   {
-    "shot": "cell-tower",
-    "shows": "Mobile phone mast",
-    "file": "File:Mobile phone mast.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mobile_phone_mast.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mobile_phone_mast.jpg/1920px-Mobile_phone_mast.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mobile_phone_mast.jpg/500px-Mobile_phone_mast.jpg",
+    "shows": "Aldi under construction on Commercial Street, Spitalfields - geograph.org.uk",
+    "file": "File:Aldi under construction on Commercial Street, Spitalfields - geograph.org.uk - 8086337.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aldi_under_construction_on_Commercial_Street,_Spitalfields_-_geograph.org.uk_-_8086337.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aldi_under_construction_on_Commercial_Street%2C_Spitalfields_-_geograph.org.uk_-_8086337.jpg/1920px-Aldi_under_construction_on_Commercial_Street%2C_Spitalfields_-_geograph.org.uk_-_8086337.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aldi_under_construction_on_Commercial_Street%2C_Spitalfields_-_geograph.org.uk_-_8086337.jpg/500px-Aldi_under_construction_on_Commercial_Street%2C_Spitalfields_-_geograph.org.uk_-_8086337.jpg",
     "size": [
      1920,
      1440
@@ -89000,21 +88999,21 @@
      0.5,
      0.5
     ],
-    "credit": "Diacius, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "David Howard, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Diacius",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "David Howard",
     "year": 2025,
     "how": "catalog"
    },
    {
-    "shot": "self-storage",
-    "shows": "Self storage Unit Built on Havertown PCP Superfund Site",
-    "file": "File:Self storage Unit Built on Havertown PCP Superfund Site.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Self_storage_Unit_Built_on_Havertown_PCP_Superfund_Site.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Self_storage_Unit_Built_on_Havertown_PCP_Superfund_Site.jpg/1920px-Self_storage_Unit_Built_on_Havertown_PCP_Superfund_Site.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Self_storage_Unit_Built_on_Havertown_PCP_Superfund_Site.jpg/500px-Self_storage_Unit_Built_on_Havertown_PCP_Superfund_Site.jpg",
+    "shot": "city-skyline",
+    "shows": "Frankfurter Altstadt mit Skyline 2012-04",
+    "file": "File:Frankfurter Altstadt mit Skyline 2012-04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Frankfurter_Altstadt_mit_Skyline_2012-04.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Frankfurter_Altstadt_mit_Skyline_2012-04.jpg/1920px-Frankfurter_Altstadt_mit_Skyline_2012-04.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Frankfurter_Altstadt_mit_Skyline_2012-04.jpg/500px-Frankfurter_Altstadt_mit_Skyline_2012-04.jpg",
     "size": [
      1920,
      1280
@@ -89023,16 +89022,65 @@
      0.5,
      0.5
     ],
-    "credit": "Dwkaminski, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "Thomas Wolf , www.foto-tw.de, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dwkaminski",
-    "year": 2020,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Thomas Wolf , www.foto-tw.de",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "cell-tower",
+    "shows": "Black and white electric post under blue sky during daytime",
+    "file": "unsplash:31JqyCVndUM",
+    "page": "https://unsplash.com/photos/black-and-white-electric-post-under-blue-sky-during-daytime-31JqyCVndUM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1615377387113-4692ddb9e292?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2VsbCUyMHRvd2VyfGVufDF8fHx8MTc5Mzg4MDcxMHww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1615377387113-4692ddb9e292?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2VsbCUyMHRvd2VyfGVufDF8fHx8MTc5Mzg4MDcxMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vyacheslav Shatskiy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vyacheslav Shatskiy",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@shatskiy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/31JqyCVndUM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2VsbCUyMHRvd2VyfGVufDF8fHx8MTc5Mzg4MDcxMHww"
+   },
+   {
+    "shot": "self-storage",
+    "shows": "Self Storage Units - Hollinwood - geograph.org.uk",
+    "file": "File:Self Storage Units - Hollinwood - geograph.org.uk - 3049848.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Self_Storage_Units_-_Hollinwood_-_geograph.org.uk_-_3049848.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Self_Storage_Units_-_Hollinwood_-_geograph.org.uk_-_3049848.jpg/1920px-Self_Storage_Units_-_Hollinwood_-_geograph.org.uk_-_3049848.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Self_Storage_Units_-_Hollinwood_-_geograph.org.uk_-_3049848.jpg/500px-Self_Storage_Units_-_Hollinwood_-_geograph.org.uk_-_3049848.jpg",
+    "size": [
+     1920,
+     1414
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Anthony Parkes, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Anthony Parkes",
+    "year": 2012,
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-05"
  },
  "sector-materials": {
   "name": "Materials sector",
