@@ -1233,13 +1233,20 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Markham-suburbs aerial-edit2: IDuke (this edited version: Sting ), CC BY-SA 2.5, via Wikimedia Commons. [Markham-suburbs aerial-edit2.jpg](https://commons.wikimedia.org/wiki/File:Markham-suburbs_aerial-edit2.jpg)
 - Holding house keys in front of the entrance: Photo by Jakub Żerdzicki on Unsplash. [bqUZEAeWuok](https://unsplash.com/photos/holding-house-keys-in-front-of-the-entrance-bqUZEAeWuok?utm_source=investiq_image_bank&utm_medium=referral)
 
+## Earnings season (earnings)
+
+- A business section of a newspaper with stock market charts and financial data: Photo by Annie Spratt on Unsplash. [IT6aov1ScW0](https://unsplash.com/photos/newspaper-business-section-with-financial-data-IT6aov1ScW0?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## IPOs (ipo)
 
 - New York Stock Exchange (NYSE) - Slack IPO: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [New York Stock Exchange (NYSE) - Slack IPO (48126622722).jpg](https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_(NYSE)_-_Slack_IPO_(48126622722).jpg)
+- Wall street sign with american flags in the background: Photo by Cyril @cyrilczl on Unsplash. [Ykq8v2b8lyw](https://unsplash.com/photos/wall-street-sign-with-american-flags-in-the-background-Ykq8v2b8lyw?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Electric vehicles (ev)
 
-- BYD Seal IAA 2023 1X7A0371: Alexander-93, CC BY-SA 4.0, via Wikimedia Commons. [BYD Seal IAA 2023 1X7A0371.jpg](https://commons.wikimedia.org/wiki/File:BYD_Seal_IAA_2023_1X7A0371.jpg)
+- Electric vehicle charging cable plugged into car: Photo by CHUTTERSNAP on Unsplash. [xJLsHl0hIik](https://unsplash.com/photos/electric-vehicle-charging-cable-plugged-into-car-xJLsHl0hIik?utm_source=investiq_image_bank&utm_medium=referral)
+- A white sports car in a showroom: Photo by Hyundai Motor Group on Unsplash. [a3vDd8hzuYs](https://unsplash.com/photos/a-white-sports-car-in-a-showroom-a3vDd8hzuYs?utm_source=investiq_image_bank&utm_medium=referral)
+- A black car parked in a wooded area: Photo by Wes Hicks on Unsplash. [5IaRz8fQBtI](https://unsplash.com/photos/a-black-car-parked-in-a-wooded-area-5IaRz8fQBtI?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Nuclear power & uranium (nuclear)
 

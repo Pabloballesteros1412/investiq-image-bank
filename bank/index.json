@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-05",
- "photos": 518,
+ "photos": 522,
  "subjects": [
   {
    "id": "MMM",
@@ -7980,7 +7980,7 @@
     "guidance",
     "eps"
    ],
-   "photos": 0,
+   "photos": 1,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/earnings.json"
   },
   {
@@ -7994,7 +7994,7 @@
     "initial public offering",
     "going public"
    ],
-   "photos": 1,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ipo.json"
   },
   {
@@ -8008,7 +8008,7 @@
     "electric cars",
     "batteries"
    ],
-   "photos": 1,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ev.json"
   },
   {
