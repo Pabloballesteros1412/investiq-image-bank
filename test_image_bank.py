@@ -177,6 +177,11 @@ class Universe(unittest.TestCase):
         self.assertFalse(B.has_ticker(ent, "BRK-A"))
 
 
+def ap(file, **kw):
+    """A candidate filed under Apple Park: it matches the 'Apple Park' search of the Choosing tests."""
+    return cand(file, cats=["Apple Park", *kw.pop("cats", [])], **kw)
+
+
 class Choosing(unittest.TestCase):
     SHOT = {"id": "hq", "q": "Apple Park", "scene": "Apple Park"}
 
@@ -189,26 +194,41 @@ class Choosing(unittest.TestCase):
 
     def test_rejections(self):
         S = self.SHOT
-        self.assertIsNone(B.score(cand("File:Small.jpg", w=1200, h=800), 0, S))
-        self.assertIsNone(B.score(cand("File:Apple logo.png", mime="image/png"), 0, S))
-        self.assertIsNone(B.score(cand("File:Map of Cupertino.jpg"), 0, S))
-        self.assertIsNone(B.score(cand("File:A.jpg", lic="gfdl", short="GFDL"), 0, S))
-        self.assertIsNone(B.score(cand("File:A.jpg"), 0, S, used={"File:A.jpg"}))
-        self.assertIsNone(B.score(cand("File:A.jpg"), 0, S, no_sa=True))
-        self.assertIsNone(B.score(cand("File:A.tif", mime="image/tiff"), 0, S))      # thumbnails named differently
-        self.assertIsNone(B.score(cand("File:" + "x" * 170 + ".jpg"), 0, S))
-        self.assertIsNone(B.score(cand("File:Some tower.jpg"), 0, {**S, "must": ["3m"]}))
-        self.assertIsNotNone(B.score(cand("File:Tower.jpg", cats=["3M buildings"]), 0, {**S, "must": ["3m"]}))
-        self.assertIsNotNone(B.score(cand("File:Apple Park plant.jpg"), 0, S))     # "plan" is not "plant"
+        self.assertIsNone(B.score(ap("File:Small.jpg", w=1200, h=800), 0, S))
+        self.assertIsNone(B.score(ap("File:Apple logo.png", mime="image/png"), 0, S))
+        self.assertIsNone(B.score(ap("File:Map of Cupertino.jpg"), 0, S))
+        self.assertIsNone(B.score(ap("File:A.jpg", lic="gfdl", short="GFDL"), 0, S))
+        self.assertIsNone(B.score(ap("File:A.jpg"), 0, S, used={"File:A.jpg"}))
+        self.assertIsNone(B.score(ap("File:A.jpg"), 0, S, no_sa=True))
+        self.assertIsNone(B.score(ap("File:A.tif", mime="image/tiff"), 0, S))      # thumbnails named differently
+        self.assertIsNone(B.score(ap("File:" + "x" * 170 + ".jpg"), 0, S))
+        self.assertIsNone(B.score(ap("File:Some tower.jpg"), 0, {**S, "must": ["3m"]}))
+        self.assertIsNotNone(B.score(ap("File:Tower.jpg", cats=["3M buildings"]), 0, {**S, "must": ["3m"]}))
+        self.assertIsNotNone(B.score(ap("File:Apple Park plant.jpg"), 0, S))     # "plan" is not "plant"
+        self.assertIsNone(B.score(ap("File:Still life.jpg", cats=["Paintings by Jane Doe"]), 0, S))  # photos only
+        self.assertIsNotNone(B.score(ap("File:Still life.jpg", cats=["Paintings by Jane Doe"]), 0, {**S, "allow": ["painting"]}))
+        old_man = cand("File:William Mason Brown portrait.jpg", year=1870)
+        self.assertIsNone(B.score(old_man, 0, {"id": "leader", "q": '"William Brown"', "person": True}))
+        self.assertIsNone(B.score(cand("File:William Smith.jpg"), 0, {"id": "l", "q": "William", "must_all": ["william", "brown"]}))
+
+    def test_relevance(self):
+        crystals = cand("File:Gold-crystals.jpg", cats=["Gold", "Featured pictures on Wikimedia Commons"])
+        self.assertEqual(B.relevance(crystals, "gold vault"), 0.5)
+        self.assertIsNone(B.score(crystals, 0, {"id": "vault", "q": "gold vault"}))     # half the words is not enough
+        bars = cand("File:Gold bars in a vault.jpg")
+        self.assertEqual(B.relevance(bars, "gold bars vaults"), 1)                         # plurals folded
+        sh = {"id": "vault", "q": "gold vault", "scene": "Gold bars stacked inside a bank vault"}
+        self.assertEqual(B.scene_or_file(sh, bars, "gold vault"), "Gold bars stacked inside a bank vault")
+        self.assertEqual(B.scene_or_file(sh, cand("File:Fort Knox gate.jpg", cats=["Gold"]), "gold vault"), "Fort Knox gate")
 
     def test_ranking(self):
         S = self.SHOT
-        plain = B.score(cand("File:A.jpg"), 0, S)
-        self.assertGreater(B.score(cand("File:B.jpg", cats=["Featured pictures on Wikimedia Commons"]), 3, S), plain)
-        self.assertEqual(B.score(cand("File:C.jpg", w=3000, h=4000), 0, S), plain)       # portrait crops well to 4:5
-        self.assertLess(B.score(cand("File:P.jpg", w=6000, h=2000), 0, S), plain)        # a panorama does not
-        self.assertLess(B.score(cand("File:D.jpg", year=1975), 0, S), plain)
-        self.assertGreater(B.score(cand("File:F.jpg", lic="cc-by-4.0", short="CC BY 4.0"), 0, S), plain)
+        plain = B.score(ap("File:A.jpg"), 0, S)
+        self.assertGreater(B.score(ap("File:B.jpg", cats=["Featured pictures on Wikimedia Commons"]), 3, S), plain)
+        self.assertEqual(B.score(ap("File:C.jpg", w=3000, h=4000), 0, S), plain)       # portrait crops well to 4:5
+        self.assertLess(B.score(ap("File:P.jpg", w=6000, h=2000), 0, S), plain)        # a panorama does not
+        self.assertLess(B.score(ap("File:D.jpg", year=1975), 0, S), plain)
+        self.assertGreater(B.score(ap("File:F.jpg", lic="cc-by-4.0", short="CC BY 4.0"), 0, S), plain)
 
     def test_links_and_sizes(self):
         url, prev, size = B.links(cand("File:Big photo.jpg", w=4000, h=3000))
@@ -320,13 +340,16 @@ class Build(unittest.TestCase):
 
     def test_commons_answer_parsing(self):
         page = {"title": "File:Apple Park.jpg", "index": 1, "imageinfo": [{"width": 6000, "height": 4000, "mime": "image/jpeg",
-                "url": UP + "Apple_Park.jpg", "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apple_Park.jpg",
+                "url": UP + "Apple_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "descriptionurl": "https://commons.wikimedia.org/wiki/File:Apple_Park.jpg?utm_source=x",
                 "extmetadata": {"LicenseShortName": {"value": "CC BY-SA 4.0"}, "License": {"value": "cc-by-sa-4.0"},
                                 "Artist": {"value": '<a href="//x">Daniel L. Lu</a>'}, "DateTimeOriginal": {"value": "2018-05-03 10:00"},
                                 "Categories": {"value": "Apple Park|Quality images"}, "Restrictions": {"value": ""}}}]}
         c = B.candidate(page)
         self.assertEqual((c["author"], c["year"], c["orig"]), ("Daniel L. Lu", 2018, UP + "Apple_Park.jpg"))
         self.assertEqual(c["categories"], ["Apple Park", "Quality images"])
+        self.assertEqual(c["page"], "https://commons.wikimedia.org/wiki/File:Apple_Park.jpg")       # tracking dropped
+        self.assertEqual(B.links(c)[1], UP.replace("/commons/", "/commons/thumb/") + "Apple_Park.jpg/500px-Apple_Park.jpg")
 
 
 if __name__ == "__main__":

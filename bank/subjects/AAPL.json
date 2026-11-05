@@ -1,0 +1,172 @@
+{
+ "id": "AAPL",
+ "kind": "company",
+ "name": "Apple Inc.",
+ "tickers": [
+  "AAPL"
+ ],
+ "sector": "sector-tech",
+ "photos": [
+  {
+   "shows": "Apple Park, the ring-shaped Apple headquarters in Cupertino, wide view",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1920px-Aerial_view_of_Apple_Park_dllu.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/500px-Aerial_view_of_Apple_Park_dllu.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel L. Lu (user:dllu), CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg"
+  },
+  {
+   "shows": "The glass cube entrance of the Apple Fifth Avenue store in New York",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg/1920px-Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg/500px-Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jorge Láscar from Australia, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_Store_-_Fifth_Avenue_(7181848534).jpg"
+  },
+  {
+   "shows": "Inside a busy Apple Store, people trying devices on wooden tables",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apple_Store_Taipei_Xinyi_A13_05_%28interior%29.jpg/1920px-Apple_Store_Taipei_Xinyi_A13_05_%28interior%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apple_Store_Taipei_Xinyi_A13_05_%28interior%29.jpg/500px-Apple_Store_Taipei_Xinyi_A13_05_%28interior%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MiNe, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_Store_Taipei_Xinyi_A13_05_(interior).jpg"
+  },
+  {
+   "shows": "A latest-generation iPhone held in a hand, close-up",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IPhone_16_Pro_series.jpg/1920px-IPhone_16_Pro_series.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/IPhone_16_Pro_series.jpg/500px-IPhone_16_Pro_series.jpg",
+   "size": [
+    1920,
+    1441
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jakub CA, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:IPhone_16_Pro_series.jpg"
+  },
+  {
+   "shows": "A MacBook Pro laptop open on a desk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Apple_MacBook_Pro_%28M3%29.jpg/1280px-Apple_MacBook_Pro_%28M3%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Apple_MacBook_Pro_%28M3%29.jpg/500px-Apple_MacBook_Pro_%28M3%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xkalponik, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_MacBook_Pro_(M3).jpg"
+  },
+  {
+   "shows": "Tim Cook, Apple CEO",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg/1280px-Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg/500px-Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "European Commission - Photographer: Christophe Licoppe, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg"
+  },
+  {
+   "shows": "Apple park cupertino 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/500px-Apple_park_cupertino_2019.jpg",
+   "size": [
+    1920,
+    1079
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0 de",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_park_cupertino_2019.jpg"
+  },
+  {
+   "shows": "Apple vendor at the 2025 Bild Expo Presented by B&H Photo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Apple_vendor_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg/1920px-Apple_vendor_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Apple_vendor_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg/500px-Apple_vendor_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tzim78, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_vendor_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg"
+  },
+  {
+   "shows": "Apple Network Server 700 150 - transparent background",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Apple_Network_Server_700_150_-_transparent_background.png/1920px-Apple_Network_Server_700_150_-_transparent_background.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Apple_Network_Server_700_150_-_transparent_background.png/500px-Apple_Network_Server_700_150_-_transparent_background.png",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NiiPii09, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_Network_Server_700_150_-_transparent_background.png"
+  },
+  {
+   "shows": "Apple Studio Display 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Apple_Studio_Display_2024.jpg/1920px-Apple_Studio_Display_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Apple_Studio_Display_2024.jpg/500px-Apple_Studio_Display_2024.jpg",
+   "size": [
+    1920,
+    1425
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Seasider53, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_Studio_Display_2024.jpg"
+  }
+ ]
+}

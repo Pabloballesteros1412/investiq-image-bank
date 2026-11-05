@@ -252,8 +252,8 @@ def candidate(page):
     md = {k: (v.get("value") if isinstance(v, dict) else v) for k, v in (ii.get("extmetadata") or {}).items()}
     y = re.search(r"\b(1[89]\d\d|20\d\d)\b", plain(str(md.get("DateTimeOriginal", ""))))
     return {"file": page["title"], "w": ii.get("width", 0), "h": ii.get("height", 0), "mime": ii.get("mime", ""),
-            "orig": ii.get("url", ""),
-            "page": ii.get("descriptionurl") or "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(page["title"].replace(" ", "_")),
+            "orig": (ii.get("url") or "").split("?", 1)[0],  # Commons adds ?utm_source=... tracking to its addresses
+            "page": (ii.get("descriptionurl") or "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(page["title"].replace(" ", "_"))).split("?", 1)[0],
             "licence": plain(md.get("LicenseShortName")), "licence_code": (md.get("License") or "").lower(),
             "licence_url": md.get("LicenseUrl") or "", "author": plain(md.get("Artist")) or plain(md.get("Credit")),
             "year": int(y.group(1)) if y else None,
@@ -542,8 +542,24 @@ def bad_name(title, allow=()):
     return any(re.search(r"\b" + re.escape(w) + r"s?\b", name) for w in BAD_WORDS if w not in allow)
 
 
-def score(c, rank, shot, used=(), no_sa=False, exclude=()):
-    """Ranking score of a candidate for a shot, or None when it cannot be used."""
+STOP = {"the", "and", "with", "for", "from", "into", "inside", "under", "over", "being", "its", "their", "near", "out"}
+NOT_PHOTO = re.compile(r"\b(paintings?|drawings?|engravings?|etchings?|lithographs?|illustrations?|watercolou?rs?|"
+                       r"oil on canvas|caricatures?|cartoons?|comics?)\b", re.I)
+
+
+def relevance(c, q):
+    """Share of a search's words (3+ letters, plurals folded) found in the file's name, categories or description:
+    Commons search also matches words deep in a file's page, and featured pictures must not outrank a match."""
+    words = [w for w in re.findall(r"[a-z0-9]+", (q or "").lower()) if len(w) > 2 and w not in STOP]
+    if not words:
+        return 1.0
+    hay = " ".join([clean_title(c["file"]), *c["categories"], c.get("description", "")]).lower()
+    return sum(1 for w in words if re.search(r"\b" + re.escape(w[:-1] if w.endswith("s") and len(w) > 3 else w), hay)) / len(words)
+
+
+def score(c, rank, shot, used=(), no_sa=False, exclude=(), q=None):
+    """Ranking score of a candidate for a shot (found with search q, by default the shot's own), or None when it
+    cannot be used."""
     if c["file"] in used or c["file"] in exclude or c["mime"] not in MIMES or not c.get("orig"):
         return None
     if len(c["file"].encode()) > 160:  # Commons shortens long names in thumbnail addresses
@@ -554,11 +570,20 @@ def score(c, rank, shot, used=(), no_sa=False, exclude=()):
     w, h = c["w"], c["h"]
     if not w or not h or max(w, h) < MIN_LONG or min(w, h) < MIN_SHORT or bad_name(c["file"], shot.get("allow", ())):
         return None
-    if shot.get("must"):
-        hay = (c["file"] + " " + " ".join(c["categories"])).lower().replace("_", " ")
-        if not any(m in hay for m in shot["must"]):
-            return None
-    s = 100 - 2 * rank
+    hay = (c["file"] + " " + " ".join(c["categories"])).lower().replace("_", " ")
+    if shot.get("must") and not any(m in hay for m in shot["must"]):
+        return None
+    if shot.get("must_all") and not all(m in hay for m in shot["must_all"]):
+        return None
+    allow = " ".join(shot.get("allow", ()))
+    if not ("painting" in allow or "art" in allow) and NOT_PHOTO.search(" ".join(c["categories"])):
+        return None  # photos only: no paintings, drawings, prints...
+    if shot.get("person") and c.get("year") and c["year"] < 1990:
+        return None
+    rel = relevance(c, q or shot.get("q"))
+    if rel < 0.6:  # every word of one or two, two of three, three of four...
+        return None
+    s = 100 - 2 * rank + round(30 * rel)
     cats = " ".join(c["categories"]).lower()
     s += 25 if "featured pictures" in cats else 15 if "quality images" in cats else 8 if "valued images" in cats else 0
     ratio = w / h
@@ -588,7 +613,7 @@ def choose(shot, search_fn, used=(), no_sa=False, exclude=()):
             if c["file"] in seen:
                 continue
             seen.add(c["file"])
-            s = score(c, rank, shot, used, no_sa, exclude)
+            s = score(c, rank, shot, used, no_sa, exclude, q)
             if s is not None:
                 out.append((s - 8 * i, c, q))
         if len(out) >= 3:
@@ -625,6 +650,14 @@ def describe(c, fallback):
         return t
     d = c.get("description", "")
     return d[:160] if len(re.findall(r"[A-Za-z]{3,}", d)) >= 3 else fallback
+
+
+def scene_or_file(shot, c, q):
+    """What a hand-written shot's photo shows: the shot's scene when the photo matches its search fully, else what
+    the file itself says it shows (a loose match must not be described as the scene that was wanted)."""
+    if shot["scene"] != shot["q"] and relevance(c, q) == 1:
+        return shot["scene"]
+    return describe(c, shot["scene"])
 
 
 def stem(title):
@@ -711,15 +744,16 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
             break
         r = [x for x in choose(sh, src.search, used, no_sa, exclude) if fresh(x[1])]
         if r:
-            take(r[0][1], sh["id"], sh["scene"], "catalog", sh.get("person"), focus=sh.get("focus"))
+            take(r[0][1], sh["id"], scene_or_file(sh, r[0][1], r[0][2]), "catalog", sh.get("person"), focus=sh.get("focus"))
     if c.get("image") and len(picks) < TARGET:
         t = "File:" + c["image"]
         cand = src.info([t]).get(t)
         if cand and fresh(cand) and score(cand, 0, {"id": "main"}, used, no_sa, exclude) is not None:
             take(cand, "main", describe(cand, name), "Wikidata main image")
     if c.get("ceo") and len(picks) < TARGET and not any(p.get("person") for p in picks):
-        last = c["ceo"].split()[-1].lower()
-        r = [x for x in choose({"id": "leader", "q": f'"{c["ceo"]}"', "person": True, "must": [last]}, src.search, used, no_sa, exclude) if fresh(x[1])]
+        names = [t for t in re.findall(r"\w+", c["ceo"].lower()) if len(t) > 1]
+        shot = {"id": "leader", "q": f'"{c["ceo"]}"', "person": True, "must_all": [names[0], names[-1]] if names else []}
+        r = [x for x in choose(shot, src.search, used, no_sa, exclude) if fresh(x[1])]
         if r:
             take(r[0][1], "leader", f"{c['ceo']}, {name} CEO", "Wikidata CEO", person=True)
     if c.get("commons_category") and len(picks) < TARGET:
@@ -759,7 +793,7 @@ def shot_photos(s, src, used, no_sa=False, exclude=()):
             missing.append(sh["id"])
             continue
         c = r[0][1]
-        shows = sh["scene"] if sh["scene"] != sh["q"] else describe(c, sh["q"])
+        shows = scene_or_file(sh, c, r[0][2])
         focus = sh.get("focus") or (PERSON_FOCUS if sh.get("person") else (0.5, 0.5))
         picks.append(photo(c, sh["id"], shows, "catalog", focus, sh.get("person")))
         used.add(c["file"])

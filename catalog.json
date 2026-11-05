@@ -9,7 +9,8 @@
    {"id": "store", "q": "Apple Store interior", "alt": ["Apple Store"], "scene": "Inside a busy Apple Store, people trying devices on wooden tables"},
    {"id": "iphone", "q": "iPhone 16 Pro", "alt": ["iPhone 15 Pro", "iPhone 15"], "scene": "A latest-generation iPhone held in a hand, close-up"},
    {"id": "mac", "q": "MacBook Pro M3", "alt": ["MacBook Pro M2", "MacBook Pro"], "scene": "A MacBook Pro laptop open on a desk"},
-   {"id": "leader", "q": "Tim Cook", "alt": ["Tim Cook Apple"], "scene": "Tim Cook, Apple CEO", "person": true}
+   {"id": "leader", "q": "John Ternus", "alt": ["John Ternus Apple"], "scene": "John Ternus, Apple CEO (since September 2026)", "person": true},
+   {"id": "cook", "q": "Tim Cook", "alt": ["Tim Cook Apple"], "scene": "Tim Cook, Apple executive chairman (CEO 2011-2026)", "person": true}
   ]},
   {"id": "MSFT", "kind": "company", "name": "Microsoft", "tickers": ["MSFT"], "shots": [
    {"id": "hq", "q": "Microsoft Redmond campus", "alt": ["Microsoft campus", "Microsoft Building Redmond"], "scene": "Microsoft headquarters campus in Redmond, Washington"},
@@ -305,7 +306,8 @@
    {"id": "studios", "q": "Walt Disney Studios Burbank", "alt": ["Disney Burbank", "Team Disney Burbank"], "scene": "Walt Disney Studios lot in Burbank, California"},
    {"id": "cruise", "q": "Disney Wish", "alt": ["Disney Cruise Line", "Disney Dream ship"], "scene": "A Disney Cruise Line ship at sea"},
    {"id": "espn", "q": "ESPN Bristol", "alt": ["ESPN headquarters", "ESPN campus"], "scene": "ESPN headquarters in Bristol, Connecticut"},
-   {"id": "leader", "q": "Bob Iger", "scene": "Bob Iger, Disney CEO", "person": true}
+   {"id": "leader", "q": "Josh D'Amaro", "alt": ["Josh D'Amaro Disney"], "scene": "Josh D'Amaro, Disney CEO (since March 2026)", "person": true},
+   {"id": "iger", "q": "Bob Iger", "scene": "Bob Iger, former Disney CEO", "person": true}
   ]},
   {"id": "SBUX", "kind": "company", "name": "Starbucks", "tickers": ["SBUX"], "shots": [
    {"id": "store", "q": "Starbucks store", "alt": ["Starbucks", "Starbucks coffee shop"], "scene": "A Starbucks coffee shop storefront"},

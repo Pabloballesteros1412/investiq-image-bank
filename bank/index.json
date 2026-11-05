@@ -6,10 +6,59 @@
   "Crop the photo to the slide yourself: 4:5 (1200x1500) or 1:1 (1200x1200), centred on 'focus'. In HTML: object-fit: cover; object-position: x% y% (x and y times 100).",
   "Credit every photo you use with its exact 'credit' line: small text on the slide, or a final credits slide.",
   "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
-  "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ.",
+  "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ. A role in 'shows' (e.g. CEO) comes from Wikidata and may be out of date: check it before naming it on a slide.",
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
- "updated": "2026-11-04",
- "photos": 0,
- "subjects": []
+ "updated": "2026-11-05",
+ "photos": 40,
+ "subjects": [
+  {
+   "id": "MMM",
+   "kind": "company",
+   "name": "3M",
+   "tickers": [
+    "MMM"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MMM.json",
+   "sector": "sector-industrials"
+  },
+  {
+   "id": "AAPL",
+   "kind": "company",
+   "name": "Apple Inc.",
+   "tickers": [
+    "AAPL"
+   ],
+   "aliases": [],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/AAPL.json",
+   "sector": "sector-tech"
+  },
+  {
+   "id": "sector-energy",
+   "kind": "sector",
+   "name": "Energy sector",
+   "tickers": [],
+   "aliases": [
+    "energy"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-energy.json"
+  },
+  {
+   "id": "gold",
+   "kind": "topic",
+   "name": "Gold",
+   "tickers": [],
+   "aliases": [
+    "gold",
+    "precious metals",
+    "bullion"
+   ],
+   "photos": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/gold.json"
+  }
+ ]
 }
