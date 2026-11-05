@@ -16,6 +16,8 @@ point to crop around, and the chat crops it to 4:5 or 1:1 itself.
     python image_bank.py build --no-sa            (no CC BY-SA photos: only CC0, public domain and CC BY)
     python image_bank.py build --kind company --stock-only  (companies: keep their approved Commons photos and
                                                    pick their Unsplash/Pexels brand photos again; brands.json)
+    python image_bank.py build --commons-only     (go on without Unsplash/Pexels: otherwise a build of topics,
+                                                   sectors or brand photos stops when no stock source answers)
     python image_bank.py index [--base-url URL]   (bank/index.json + bank/subjects/*.json; default: the repo's raw GitHub address)
     python image_bank.py credits                  (bank/CREDITS.md and bank/credits.csv)
     python image_bank.py prompts [--all]          (bank/prompts.jsonl: AI prompts for hand-written shots without a photo)
@@ -301,10 +303,12 @@ class Live:
 
     def track(self, photo):
         """Tell the stock source a photo was chosen (Unsplash asks for it): False when it could not be told now."""
+        if not photo.get("track"):
+            return True
         for st in self.stock:
-            if st.name == photo.get("provider") and photo.get("track"):
+            if st.name == photo.get("provider"):
                 return st.track(photo["track"]) is not False
-        return True
+        return False  # its source is not available in this run: the count stays pending
 
     def _get(self, url, params):
         key = url + "?" + json.dumps(params, sort_keys=True)
@@ -1127,12 +1131,16 @@ def send_pending_tracks(m, src, log=print):
 
 
 def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False, kinds=("company", "topic", "sector"), log=print,
-          save_every=5, stock_only=False, brands=None):
+          save_every=5, stock_only=False, brands=None, commons_only=False):
     """Pick the photos of every subject due (all with redo or only). stock_only: companies keep their approved
     Commons photos and only their Unsplash/Pexels brand photos are picked again (no Commons search, nothing new
     to review)."""
     cat = catalog if isinstance(catalog, dict) else load_catalog(catalog)
+    live = src is None
     src = src or Live()
+    if live and not src.stock and not commons_only and ({"topic", "sector"} & set(kinds) or stock_only):
+        raise SystemExit("No stock source answers (Unsplash, Pexels): topics, sectors and brand photos would get "
+                         "Commons photos only. Check the key or network secret, or pass --commons-only.")
     bank = Path(bank)
     bank.mkdir(parents=True, exist_ok=True)
     uni = load_universe(bank)
@@ -1331,7 +1339,7 @@ if __name__ == "__main__":
     if a[0] == "build":
         kinds = tuple((arg("--kind") or "company,topic,sector").split(","))
         build(only=arg("--only"), redo="--redo" in a or "--stock-only" in a, no_sa="--no-sa" in a, kinds=kinds,
-              stock_only="--stock-only" in a)
+              stock_only="--stock-only" in a, commons_only="--commons-only" in a)
     if a[0] in ("build", "index"):
         print(f"index.json: {index(base_url=arg('--base-url') or BASE_URL)} photos")
     if a[0] in ("build", "credits"):

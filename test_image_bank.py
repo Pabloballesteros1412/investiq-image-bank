@@ -570,3 +570,28 @@ class StockKeys(unittest.TestCase):
         s = stock.sources(env={}, probe=lambda url: "unsplash" in url)        # a network secret for api.unsplash.com
         self.assertEqual([(x.name, "Authorization" in x.headers) for x in s], [("unsplash", False)])
         self.assertEqual(stock.sources(env={}, probe=lambda url: False), [])
+
+    def test_a_source_at_its_hourly_limit_still_counts_as_there(self):
+        import email.message, urllib.error
+        def answer(code, limited):
+            def opener(req, timeout=None):
+                h = email.message.Message()
+                if limited:
+                    h["X-Ratelimit-Limit"], h["X-Ratelimit-Remaining"] = "50", "0"
+                raise urllib.error.HTTPError(req.full_url, code, "x", h, None)
+            return opener
+        url = stock.Unsplash.probe
+        self.assertTrue(stock.answers_without_key(url, answer(403, True)))      # "Rate Limit Exceeded": key is there
+        self.assertFalse(stock.answers_without_key(url, answer(401, False)))    # no key
+        self.assertFalse(stock.answers_without_key(url, answer(403, False)))
+
+    def test_a_download_count_whose_source_is_missing_stays_pending(self):
+        live = B.Live(stock_sources=[])
+        self.assertIs(live.track({"provider": "unsplash", "track": "https://api.unsplash.com/photos/x/download"}), False)
+        self.assertIs(live.track({"provider": "commons"}), True)
+
+    def test_build_of_topics_stops_when_no_stock_source_answers(self):
+        from unittest import mock
+        with tempfile.TemporaryDirectory() as d, mock.patch.object(B.stock, "sources", return_value=[]):
+            with self.assertRaises(SystemExit):
+                B.build(MINI, bank=d, kinds=("topic", "sector"), log=lambda *_: None)

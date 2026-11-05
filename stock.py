@@ -148,11 +148,15 @@ class Pexels:
         return True  # Pexels asks for no download count
 
 
-def answers_without_key(url):
-    """Whether an API answers a request that carries no key: the egress proxy adds it (network secret)."""
+def answers_without_key(url, opener=None):
+    """Whether an API answers a request that carries no key: the egress proxy adds it (network secret). An answer
+    that the hourly limit is used up counts too (it carries X-Ratelimit headers; a missing key gets 401): a build
+    started at that moment must not drop the source and pick Commons photos only."""
     try:
-        with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=30) as r:
+        with (opener or urllib.request.urlopen)(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=30) as r:
             return r.status == 200
+    except urllib.error.HTTPError as e:
+        return e.code in (403, 429) and any(k.lower().startswith("x-ratelimit") for k in (e.headers or {}).keys())
     except Exception:
         return False
 
