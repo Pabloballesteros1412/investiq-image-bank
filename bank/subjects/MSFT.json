@@ -6,7 +6,6 @@
   "MSFT"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "MS-Exec-Nadella-Satya- -22 ( )",
@@ -42,6 +41,60 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg"
+  },
+  {
+   "shows": "A tall building with a microsoft logo on top of it",
+   "url": "https://images.unsplash.com/photo-1737922342275-71bab46ace83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TWljcm9zb2Z0fGVufDF8fHx8MTc5Mzk3MDg3NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1737922342275-71bab46ace83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TWljcm9zb2Z0fGVufDF8fHx8MTc5Mzk3MDg3NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Simon Ray on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@simonbhray?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-tall-building-with-a-microsoft-logo-on-top-of-it-TICJQELFmg4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A group of people in a building",
+   "url": "https://images.unsplash.com/photo-1655720449272-e615efe8d795?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TWljcm9zb2Z0fGVufDF8fHx8MTc5Mzk3MDg3NXww&ixlib=rb-4.1.0&w=2101&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1655720449272-e615efe8d795?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TWljcm9zb2Z0fGVufDF8fHx8MTc5Mzk3MDg3NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2101,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Valent Lau on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@valentlau?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-group-of-people-in-a-building-8NB47kXdDJc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White xbox one game controller",
+   "url": "https://images.unsplash.com/photo-1604586376807-f73185cf5867?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFhib3h8ZW58MXx8fHwxNzkzOTcwODc1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1604586376807-f73185cf5867?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFhib3h8ZW58MXx8fHwxNzkzOTcwODc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kamil Switalski on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@8bitspell?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-xbox-one-game-controller-SuPAbuuK7f4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Microsoft Redmond Campus redevelopment aerial view, Sept. 2021",
@@ -131,24 +184,6 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Aerial_Microsoft_West_Campus_August_2009.jpg",
-   "plain": true
-  },
-  {
-   "shows": "Microsoft campus - panoramio",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Microsoft_campus_-_panoramio.jpg/1920px-Microsoft_campus_-_panoramio.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Microsoft_campus_-_panoramio.jpg/500px-Microsoft_campus_-_panoramio.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "logopop, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg",
    "plain": true
   }
  ]

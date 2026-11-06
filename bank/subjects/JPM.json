@@ -6,7 +6,6 @@
   "JPM"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "A Chase Bank branch in Knoxville, Tennessee",
@@ -59,6 +58,60 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Tower,_Houston,_Texas.jpg"
+  },
+  {
+   "shows": "The front of a store",
+   "url": "https://images.unsplash.com/photo-1651601484807-6236635944b5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q2hhc2UlMjBiYW5rfGVufDF8fHx8MTc5Mzk2NzI2NHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1651601484807-6236635944b5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q2hhc2UlMjBiYW5rfGVufDF8fHx8MTc5Mzk2NzI2NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Frugal Flyer on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@frugalflyer?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/the-front-of-a-store-pYJSd3D8wSo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A vending machine with a sign",
+   "url": "https://images.unsplash.com/photo-1651601484601-321238b04138?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q2hhc2UlMjBiYW5rfGVufDF8fHx8MTc5Mzk2NzI2NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1651601484601-321238b04138?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q2hhc2UlMjBiYW5rfGVufDF8fHx8MTc5Mzk2NzI2NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Frugal Flyer on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@frugalflyer?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-vending-machine-with-a-sign-x-RA_dKvgOc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A lexus sits in front of a chase bank at night",
+   "url": "https://images.unsplash.com/photo-1750478023191-db374ffc4025?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q2hhc2UlMjBiYW5rfGVufDF8fHx8MTc5Mzk2NzI2NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1750478023191-db374ffc4025?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q2hhc2UlMjBiYW5rfGVufDF8fHx8MTc5Mzk2NzI2NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jacob S on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jakeisnicee?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-lexus-sits-in-front-of-a-chase-bank-at-night-qu8vr38AXBg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Chase ATM in Greenwood, Indiana - June 2022 - Sarah Stierch",

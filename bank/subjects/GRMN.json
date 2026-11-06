@@ -6,7 +6,6 @@
   "GRMN"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Garmin Olathe Headquarters",
@@ -41,6 +40,42 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Garmin_Zhongli_Plant_20131028.jpg"
+  },
+  {
+   "shows": "Person wearing black digital watch",
+   "url": "https://images.unsplash.com/photo-1593198805047-b97ea2348680?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8R2FybWlufGVufDF8fHx8MTc5Mzk5NTIyM3ww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1593198805047-b97ea2348680?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8R2FybWlufGVufDF8fHx8MTc5Mzk5NTIyM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Gerardo Ramirez on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@gerardoramirez?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-wearing-black-digital-watch-_e8GDRajDhU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of a watch on a colorful background",
+   "url": "https://images.unsplash.com/photo-1691921673576-07c6032e6306?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8R2FybWlufGVufDF8fHx8MTc5Mzk5NTIyM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1691921673576-07c6032e6306?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8R2FybWlufGVufDF8fHx8MTc5Mzk5NTIyM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Arthur Hinton on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@arthurhinton?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-watch-on-a-colorful-background-YbgLm_O7mGQ?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Photograph of Garmin Headquarters, located in Olathe, Kansas, USA.",
