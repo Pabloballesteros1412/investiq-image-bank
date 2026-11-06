@@ -97704,11 +97704,11 @@
   "photos": [
    {
     "shot": "tokyo-stock-exchange",
-    "shows": "Artefacts at Tokyo Stock Exchange",
-    "file": "File:Artefacts at Tokyo Stock Exchange (45543).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Artefacts_at_Tokyo_Stock_Exchange_(45543).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Artefacts_at_Tokyo_Stock_Exchange_%2845543%29.jpg/1280px-Artefacts_at_Tokyo_Stock_Exchange_%2845543%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Artefacts_at_Tokyo_Stock_Exchange_%2845543%29.jpg/500px-Artefacts_at_Tokyo_Stock_Exchange_%2845543%29.jpg",
+    "shows": "Inside Tokyo Stock Exchange",
+    "file": "File:Inside Tokyo Stock Exchange (81498).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Inside_Tokyo_Stock_Exchange_(81498).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Inside_Tokyo_Stock_Exchange_%2881498%29.jpg/1280px-Inside_Tokyo_Stock_Exchange_%2881498%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Inside_Tokyo_Stock_Exchange_%2881498%29.jpg/500px-Inside_Tokyo_Stock_Exchange_%2881498%29.jpg",
     "size": [
      1280,
      1707
@@ -97727,34 +97727,37 @@
    },
    {
     "shot": "tokyo-skyline",
-    "shows": "Minato City, Tokyo, Japan",
-    "file": "File:Minato City, Tokyo, Japan.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/500px-Minato_City%2C_Tokyo%2C_Japan.jpg",
+    "shows": "Tokyo tower illuminated at dusk with city skyline",
+    "file": "unsplash:IocJwyqRv3M",
+    "page": "https://unsplash.com/photos/tokyo-tower-illuminated-at-dusk-with-city-skyline-IocJwyqRv3M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VG9reW8lMjBza3lsaW5lfGVufDF8fHx8MTc5MzkyMzY4OXww&ixlib=rb-4.1.0&w=2254&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VG9reW8lMjBza3lsaW5lfGVufDF8fHx8MTc5MzkyMzY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     2254,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "David Kernan, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "David Kernan",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Louie Martinez on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Louie Martinez",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@thetalkinglens?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IocJwyqRv3M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VG9reW8lMjBza3lsaW5lfGVufDF8fHx8MTc5MzkyMzY4OXww"
    },
    {
     "shot": "bank-of-japan",
-    "shows": "Bank of Japan",
-    "file": "File:Bank of Japan 20190223.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bank_of_Japan_20190223.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bank_of_Japan_20190223.jpg/1920px-Bank_of_Japan_20190223.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bank_of_Japan_20190223.jpg/500px-Bank_of_Japan_20190223.jpg",
+    "shows": "Bank of Japan Osaka Branch ao",
+    "file": "File:Bank of Japan Osaka Branch ao.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bank_of_Japan_Osaka_Branch_ao.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bank_of_Japan_Osaka_Branch_ao.jpg/1920px-Bank_of_Japan_Osaka_Branch_ao.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bank_of_Japan_Osaka_Branch_ao.jpg/500px-Bank_of_Japan_Osaka_Branch_ao.jpg",
     "size": [
      1920,
      1280
@@ -97763,113 +97766,122 @@
      0.5,
      0.5
     ],
-    "credit": "Suicasmo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Suicasmo",
-    "year": 2019,
+    "credit": "Sakai Yayoi, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Sakai Yayoi",
+    "year": 2026,
     "how": "catalog"
    },
    {
     "shot": "shibuya-crossing",
-    "shows": "Tokyo Shibuya Scramble Crossing",
-    "file": "File:Tokyo Shibuya Scramble Crossing 2018-10-09.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/1920px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/500px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
+    "shows": "Crowds of people crossing the Shibuya scramble intersection at night in Tokyo",
+    "file": "unsplash:DGsqL2j028E",
+    "page": "https://unsplash.com/photos/shibuya-scramble-intersection-in-tokyo-DGsqL2j028E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1547448526-5e9d57fa28f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U2hpYnV5YSUyMENyb3NzaW5nfGVufDF8fHx8MTc5MzkyMzY5Mnww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1547448526-5e9d57fa28f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U2hpYnV5YSUyMENyb3NzaW5nfGVufDF8fHx8MTc5MzkyMzY5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2249,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Benh LIEU SONG ( Flickr ), CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Benh LIEU SONG ( Flickr )",
-    "year": 2018,
-    "how": "catalog"
+    "credit": "Photo by Timo Volz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Timo Volz",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@magict1911?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/DGsqL2j028E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U2hpYnV5YSUyMENyb3NzaW5nfGVufDF8fHx8MTc5MzkyMzY5Mnww"
    },
    {
     "shot": "marunouchi",
-    "shows": "Tokyo Marunouchi in spring",
-    "file": "File:Tokyo Marunouchi in spring.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Marunouchi_in_spring.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tokyo_Marunouchi_in_spring.jpg/1920px-Tokyo_Marunouchi_in_spring.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tokyo_Marunouchi_in_spring.jpg/500px-Tokyo_Marunouchi_in_spring.jpg",
+    "shows": "Marunouchi skyline (dawn)",
+    "file": "File:Marunouchi skyline (dawn) (2083208284).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marunouchi_skyline_(dawn)_(2083208284).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Marunouchi_skyline_%28dawn%29_%282083208284%29.jpg/1280px-Marunouchi_skyline_%28dawn%29_%282083208284%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Marunouchi_skyline_%28dawn%29_%282083208284%29.jpg/500px-Marunouchi_skyline_%28dawn%29_%282083208284%29.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Gilbert.JW, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Gilbert.JW",
-    "year": 2025,
+    "credit": "KimonBerlin, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "KimonBerlin",
+    "year": 2007,
     "how": "catalog"
    },
    {
     "shot": "shinkansen",
-    "shows": "Line scan photo of Shinkansen N700A Series Set G13 in 2017, car 16",
-    "file": "File:Line scan photo of Shinkansen N700A Series Set G13 in 2017, car 16.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Line_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017,_car_16.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Line_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017%2C_car_16.png/1920px-Line_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017%2C_car_16.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Line_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017%2C_car_16.png/500px-Line_scan_photo_of_Shinkansen_N700A_Series_Set_G13_in_2017%2C_car_16.png",
+    "shows": "White and black train on rail",
+    "file": "unsplash:tIA68glTme0",
+    "page": "https://unsplash.com/photos/white-and-black-train-on-rail-tIA68glTme0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1618153231956-df23dcb21c07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U2hpbmthbnNlbnxlbnwxfHx8fDE3OTM5MjcyOTZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1618153231956-df23dcb21c07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U2hpbmthbnNlbnxlbnwxfHx8fDE3OTM5MjcyOTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     461
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dllu",
-    "year": 2017,
-    "how": "catalog"
+    "credit": "Photo by Rikku Sama on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rikku Sama",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@darsh83?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tIA68glTme0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U2hpbmthbnNlbnxlbnwxfHx8fDE3OTM5MjcyOTZ8MA"
    },
    {
     "shot": "osaka-skyline",
-    "shows": "Osaka Castle Outer Moat and Osaka Business Park, November 2016",
-    "file": "File:Osaka Castle Outer Moat and Osaka Business Park, November 2016.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_Outer_Moat_and_Osaka_Business_Park,_November_2016.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Osaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg/1920px-Osaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Osaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg/500px-Osaka_Castle_Outer_Moat_and_Osaka_Business_Park%2C_November_2016.jpg",
+    "shows": "Cityscape with modern buildings under a hazy sky",
+    "file": "unsplash:Axxs183UK1I",
+    "page": "https://unsplash.com/photos/cityscape-with-modern-buildings-under-a-hazy-sky-Axxs183UK1I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1755937304053-50d913738ca5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8T3Nha2ElMjBza3lsaW5lfGVufDF8fHx8MTc5MzkyNzI5N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1755937304053-50d913738ca5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8T3Nha2ElMjBza3lsaW5lfGVufDF8fHx8MTc5MzkyNzI5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Martin Falbisoner, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Martin Falbisoner",
-    "year": 2016,
-    "how": "catalog"
+    "credit": "Photo by Cuvii on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cuvii",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cuvii?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Axxs183UK1I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8T3Nha2ElMjBza3lsaW5lfGVufDF8fHx8MTc5MzkyNzI5N3ww"
    },
    {
     "shot": "japanese-factory",
-    "shows": "Model of headquarters factory of Toyota Boshoku Corporation",
-    "file": "File:Model of headquarters factory of Toyota Boshoku Corporation (1941).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Model_of_headquarters_factory_of_Toyota_Boshoku_Corporation_(1941).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Model_of_headquarters_factory_of_Toyota_Boshoku_Corporation_%281941%29.jpg/1920px-Model_of_headquarters_factory_of_Toyota_Boshoku_Corporation_%281941%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Model_of_headquarters_factory_of_Toyota_Boshoku_Corporation_%281941%29.jpg/500px-Model_of_headquarters_factory_of_Toyota_Boshoku_Corporation_%281941%29.jpg",
+    "shows": "Toyota Dairy Industry -april 2022",
+    "file": "File:Toyota Dairy Industry -april 2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Toyota_Dairy_Industry_-april_2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Toyota_Dairy_Industry_-april_2022.jpg/1920px-Toyota_Dairy_Industry_-april_2022.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Toyota_Dairy_Industry_-april_2022.jpg/500px-Toyota_Dairy_Industry_-april_2022.jpg",
     "size": [
      1920,
      1440
@@ -97878,62 +97890,68 @@
      0.5,
      0.5
     ],
-    "credit": "KKPCW（Kyu3）, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "運動会プロテインパワー, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "KKPCW（Kyu3）",
+    "author": "運動会プロテインパワー",
     "year": 2022,
     "how": "catalog"
    },
    {
     "shot": "ginza",
-    "shows": "Illuminated street corner at blue hour - facade of the building Fujiya in Ginza Chuo-ku Tokyo Japan",
-    "file": "File:Illuminated street corner at blue hour - facade of the building Fujiya in Ginza Chuo-ku Tokyo Japan.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Illuminated_street_corner_at_blue_hour_-_facade_of_the_building_Fujiya_in_Ginza_Chuo-ku_Tokyo_Japan.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Illuminated_street_corner_at_blue_hour_-_facade_of_the_building_Fujiya_in_Ginza_Chuo-ku_Tokyo_Japan.jpg/1920px-Illuminated_street_corner_at_blue_hour_-_facade_of_the_building_Fujiya_in_Ginza_Chuo-ku_Tokyo_Japan.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Illuminated_street_corner_at_blue_hour_-_facade_of_the_building_Fujiya_in_Ginza_Chuo-ku_Tokyo_Japan.jpg/500px-Illuminated_street_corner_at_blue_hour_-_facade_of_the_building_Fujiya_in_Ginza_Chuo-ku_Tokyo_Japan.jpg",
+    "shows": "People walking on street in between buildings under blue sky",
+    "file": "unsplash:s-oYKvc2qPs",
+    "page": "https://unsplash.com/photos/people-walking-on-street-in-between-buildings-under-blue-sky-s-oYKvc2qPs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1523990853274-86278eb4e38c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8R2luemF8ZW58MXx8fHwxNzkzOTI3MzAwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1523990853274-86278eb4e38c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8R2luemF8ZW58MXx8fHwxNzkzOTI3MzAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1298
+     1200,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Basile Morin",
-    "year": 2019,
-    "how": "catalog"
+    "credit": "Photo by John Cameron on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John Cameron",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@john_cameron?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/s-oYKvc2qPs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8R2luemF8ZW58MXx8fHwxNzkzOTI3MzAwfDA"
    },
    {
     "shot": "tokyo-night",
-    "shows": "Kabukicho red gate and colorful neon street signs at night, Shinjuku, Tokyo, Japan",
-    "file": "File:Kabukicho red gate and colorful neon street signs at night, Shinjuku, Tokyo, Japan.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kabukicho_red_gate_and_colorful_neon_street_signs_at_night,_Shinjuku,_Tokyo,_Japan.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kabukicho_red_gate_and_colorful_neon_street_signs_at_night%2C_Shinjuku%2C_Tokyo%2C_Japan.jpg/1920px-Kabukicho_red_gate_and_colorful_neon_street_signs_at_night%2C_Shinjuku%2C_Tokyo%2C_Japan.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kabukicho_red_gate_and_colorful_neon_street_signs_at_night%2C_Shinjuku%2C_Tokyo%2C_Japan.jpg/500px-Kabukicho_red_gate_and_colorful_neon_street_signs_at_night%2C_Shinjuku%2C_Tokyo%2C_Japan.jpg",
+    "shows": "A narrow alleyway in Tokyo at night with glowing red lanterns and illuminated signs",
+    "file": "unsplash:D68ADLeMh5Q",
+    "page": "https://unsplash.com/photos/alleyway-with-red-lanterns-in-tokyo-D68ADLeMh5Q?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VG9reW8lMjBuaWdodHxlbnwxfHx8fDE3OTM5MjczMDF8MA&ixlib=rb-4.1.0&w=2172&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VG9reW8lMjBuaWdodHxlbnwxfHx8fDE3OTM5MjczMDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1711
+     2172,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Basile Morin",
+    "credit": "Photo by Denys Nevozhai on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Denys Nevozhai",
     "year": 2019,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dnevozhai?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/D68ADLeMh5Q/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VG9reW8lMjBuaWdodHxlbnwxfHx8fDE3OTM5MjczMDF8MA"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "metals": {
   "name": "Industrial metals & mining",
@@ -97950,11 +97968,11 @@
   "photos": [
    {
     "shot": "copper-cathodes",
-    "shows": "Copper cathode UMMCII Uralelectromed",
-    "file": "File:Copper cathode UMMCII Uralelectromed.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Copper_cathode_UMMCII_Uralelectromed.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Copper_cathode_UMMCII_Uralelectromed.jpg/1280px-Copper_cathode_UMMCII_Uralelectromed.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Copper_cathode_UMMCII_Uralelectromed.jpg/500px-Copper_cathode_UMMCII_Uralelectromed.jpg",
+    "shows": "Sewell Museum Copper Cathode",
+    "file": "File:Sewell Museum Copper Cathode.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sewell_Museum_Copper_Cathode.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sewell_Museum_Copper_Cathode.jpg/1280px-Sewell_Museum_Copper_Cathode.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sewell_Museum_Copper_Cathode.jpg/500px-Sewell_Museum_Copper_Cathode.jpg",
     "size": [
      1280,
      1707
@@ -97963,93 +97981,70 @@
      0.5,
      0.5
     ],
-    "credit": "Niklitov, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "WeHaKa, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Niklitov",
-    "year": 2016,
-    "how": "catalog",
-    "flags": [
-     "restrictions: trademarked"
-    ]
-   },
-   {
-    "shot": "copper-mine",
-    "shows": "Bingham Canyon Mine - Salt Lake County, Utah - May 11, 2012",
-    "file": "File:Bingham Canyon Mine (2) - Salt Lake County, Utah - May 11, 2012.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_Mine_(2)_-_Salt_Lake_County,_Utah_-_May_11,_2012.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg/1920px-Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg/500px-Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "David Ratledge, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "David Ratledge",
-    "year": 2012,
+    "author": "WeHaKa",
+    "year": 2015,
     "how": "catalog"
    },
    {
-    "shot": "lithium-mine",
-    "shows": "Carrière Beauvoir Échassières",
-    "file": "File:Carrière Beauvoir Échassières.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Carri%C3%A8re_Beauvoir_%C3%89chassi%C3%A8res.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Carri%C3%A8re_Beauvoir_%C3%89chassi%C3%A8res.jpg/1920px-Carri%C3%A8re_Beauvoir_%C3%89chassi%C3%A8res.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Carri%C3%A8re_Beauvoir_%C3%89chassi%C3%A8res.jpg/500px-Carri%C3%A8re_Beauvoir_%C3%89chassi%C3%A8res.jpg",
+    "shot": "copper-mine",
+    "shows": "A set of stairs leading up to a building",
+    "file": "unsplash:W_TIH3s7Cxw",
+    "page": "https://unsplash.com/photos/a-set-of-stairs-leading-up-to-a-building-W_TIH3s7Cxw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1715793846626-169ed8a922fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y29wcGVyJTIwbWluZXxlbnwxfHx8fDE3OTM4ODk0MDZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1715793846626-169ed8a922fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y29wcGVyJTIwbWluZXxlbnwxfHx8fDE3OTM4ODk0MDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "TomTooM03, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "TomTooM03",
+    "credit": "Photo by S Mcshane on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "S Mcshane",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@graceandpeace?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/W_TIH3s7Cxw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y29wcGVyJTIwbWluZXxlbnwxfHx8fDE3OTM4ODk0MDZ8MA"
+   },
+   {
+    "shot": "lithium-mine",
+    "shows": "Counterfeit Samsung 12V 50000mAh Lithium-ion battery",
+    "file": "File:Counterfeit Samsung 12V 50000mAh Lithium-ion battery.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Counterfeit_Samsung_12V_50000mAh_Lithium-ion_battery.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Counterfeit_Samsung_12V_50000mAh_Lithium-ion_battery.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Counterfeit_Samsung_12V_50000mAh_Lithium-ion_battery.png/500px-Counterfeit_Samsung_12V_50000mAh_Lithium-ion_battery.png",
+    "size": [
+     1920,
+     1080
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Michael Brooks, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Michael Brooks",
     "year": 2022,
     "how": "catalog"
    },
    {
     "shot": "aluminium-ingots",
-    "shows": "Aluminum ingots loaded on truck",
-    "file": "File:Aluminum ingots loaded on truck.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Aluminum_ingots_loaded_on_truck.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Aluminum_ingots_loaded_on_truck.jpg/1920px-Aluminum_ingots_loaded_on_truck.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Aluminum_ingots_loaded_on_truck.jpg/500px-Aluminum_ingots_loaded_on_truck.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Fumikas Sagisavas, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Fumikas Sagisavas",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "iron-ore",
-    "shows": "Ore cars carrying iron ore through Iron Junction, Minnesota",
-    "file": "File:Ore cars carrying iron ore through Iron Junction, Minnesota.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ore_cars_carrying_iron_ore_through_Iron_Junction,_Minnesota.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ore_cars_carrying_iron_ore_through_Iron_Junction%2C_Minnesota.jpg/1920px-Ore_cars_carrying_iron_ore_through_Iron_Junction%2C_Minnesota.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ore_cars_carrying_iron_ore_through_Iron_Junction%2C_Minnesota.jpg/500px-Ore_cars_carrying_iron_ore_through_Iron_Junction%2C_Minnesota.jpg",
+    "shows": "Aluminium ingots St-Saphorin",
+    "file": "File:Aluminium ingots St-Saphorin 180310.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aluminium_ingots_St-Saphorin_180310.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aluminium_ingots_St-Saphorin_180310.jpg/1920px-Aluminium_ingots_St-Saphorin_180310.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aluminium_ingots_St-Saphorin_180310.jpg/500px-Aluminium_ingots_St-Saphorin_180310.jpg",
     "size": [
      1920,
      1280
@@ -98058,21 +98053,67 @@
      0.5,
      0.5
     ],
-    "credit": "Myotus, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Myotus",
-    "year": 2025,
+    "credit": "NAC, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "NAC",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "iron-ore",
+    "shows": "Iron Ore Train - Choum, Mauritania",
+    "file": "File:Iron Ore Train - Choum, Mauritania.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Iron_Ore_Train_-_Choum,_Mauritania.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Iron_Ore_Train_-_Choum%2C_Mauritania.jpg/1920px-Iron_Ore_Train_-_Choum%2C_Mauritania.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Iron_Ore_Train_-_Choum%2C_Mauritania.jpg/500px-Iron_Ore_Train_-_Choum%2C_Mauritania.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ben Kawam, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ben Kawam",
+    "year": 2019,
     "how": "catalog"
    },
    {
     "shot": "nickel-mine",
-    "shows": "Nickel Mine, Noumea",
-    "file": "File:Nickel Mine, Noumea.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nickel_Mine,_Noumea.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nickel_Mine%2C_Noumea.jpg/1920px-Nickel_Mine%2C_Noumea.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nickel_Mine%2C_Noumea.jpg/500px-Nickel_Mine%2C_Noumea.jpg",
+    "shows": "Ravensthorpe Nickel Mine II",
+    "file": "File:Ravensthorpe Nickel Mine II.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ravensthorpe_Nickel_Mine_II.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ravensthorpe_Nickel_Mine_II.jpg/1920px-Ravensthorpe_Nickel_Mine_II.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ravensthorpe_Nickel_Mine_II.jpg/500px-Ravensthorpe_Nickel_Mine_II.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Calistemon, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Calistemon",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "rare-earth-elements",
+    "shows": "Mountain Pass Rare Earth Mine, Mountain Pass, California",
+    "file": "File:Mountain Pass Rare Earth Mine, Mountain Pass, California (15469739669).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mountain_Pass_Rare_Earth_Mine,_Mountain_Pass,_California_(15469739669).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_Pass_Rare_Earth_Mine%2C_Mountain_Pass%2C_California_%2815469739669%29.jpg/1920px-Mountain_Pass_Rare_Earth_Mine%2C_Mountain_Pass%2C_California_%2815469739669%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mountain_Pass_Rare_Earth_Mine%2C_Mountain_Pass%2C_California_%2815469739669%29.jpg/500px-Mountain_Pass_Rare_Earth_Mine%2C_Mountain_Pass%2C_California_%2815469739669%29.jpg",
     "size": [
      1920,
      1440
@@ -98081,21 +98122,21 @@
      0.5,
      0.5
     ],
-    "credit": "JustARandomEditor123, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "JustARandomEditor123",
-    "year": 2025,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Ken Lund from Reno, Nevada, USA",
+    "year": 2014,
     "how": "catalog"
    },
    {
-    "shot": "rare-earth-elements",
-    "shows": "Mountain Pass Rare Earth Mine & Processing Facility",
-    "file": "File:Mountain Pass Rare Earth Mine & Processing Facility.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mountain_Pass_Rare_Earth_Mine_%26_Processing_Facility.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mountain_Pass_Rare_Earth_Mine_%26_Processing_Facility.jpg/1920px-Mountain_Pass_Rare_Earth_Mine_%26_Processing_Facility.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mountain_Pass_Rare_Earth_Mine_%26_Processing_Facility.jpg/500px-Mountain_Pass_Rare_Earth_Mine_%26_Processing_Facility.jpg",
+    "shot": "london-metal-exchange",
+    "shows": "Inauguración de la nueva sede del London Metal Exchange",
+    "file": "File:Inauguración de la nueva sede del London Metal Exchange (26896466162).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Inauguraci%C3%B3n_de_la_nueva_sede_del_London_Metal_Exchange_(26896466162).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Inauguraci%C3%B3n_de_la_nueva_sede_del_London_Metal_Exchange_%2826896466162%29.jpg/1920px-Inauguraci%C3%B3n_de_la_nueva_sede_del_London_Metal_Exchange_%2826896466162%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Inauguraci%C3%B3n_de_la_nueva_sede_del_London_Metal_Exchange_%2826896466162%29.jpg/500px-Inauguraci%C3%B3n_de_la_nueva_sede_del_London_Metal_Exchange_%2826896466162%29.jpg",
     "size": [
      1920,
      1278
@@ -98104,85 +98145,65 @@
      0.5,
      0.5
     ],
-    "credit": "Tmy350, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tmy350",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "london-metal-exchange",
-    "shows": "LME entrance sign",
-    "file": "File:LME entrance sign.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:LME_entrance_sign.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/LME_entrance_sign.jpg/1920px-LME_entrance_sign.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/LME_entrance_sign.jpg/500px-LME_entrance_sign.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kreepin Deth, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
+    "credit": "Gobierno de Chile, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Kreepin Deth",
-    "year": 2009,
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Gobierno de Chile",
+    "year": 2016,
     "how": "catalog"
    },
    {
     "shot": "steel-mill",
-    "shows": "Katowice Steelworks bridge",
-    "file": "File:Katowice Steelworks bridge.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Katowice_Steelworks_bridge.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Katowice_Steelworks_bridge.jpg/1920px-Katowice_Steelworks_bridge.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Katowice_Steelworks_bridge.jpg/500px-Katowice_Steelworks_bridge.jpg",
+    "shows": "Steel Mill in Hamilton, Ontario 02",
+    "file": "File:Steel Mill in Hamilton, Ontario 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Steel_Mill_in_Hamilton,_Ontario_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Steel_Mill_in_Hamilton%2C_Ontario_02.jpg/1920px-Steel_Mill_in_Hamilton%2C_Ontario_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Steel_Mill_in_Hamilton%2C_Ontario_02.jpg/500px-Steel_Mill_in_Hamilton%2C_Ontario_02.jpg",
     "size": [
      1920,
-     1440
+     1087
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Peter.shaman, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Peter.shaman",
-    "year": 2018,
+    "credit": "K2HWY, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "K2HWY",
+    "year": 2026,
     "how": "catalog"
    },
    {
     "shot": "mining-truck",
-    "shows": "Perlini-haul truck-05",
-    "file": "File:Perlini-haul truck-05.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Perlini-haul_truck-05.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Perlini-haul_truck-05.jpg/1920px-Perlini-haul_truck-05.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Perlini-haul_truck-05.jpg/500px-Perlini-haul_truck-05.jpg",
+    "shows": "A few yellow trucks on a road",
+    "file": "unsplash:ed9HcUgZORI",
+    "page": "https://unsplash.com/photos/a-few-yellow-trucks-on-a-road-ed9HcUgZORI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1651260414968-7f27e8db866f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWluaW5nJTIwdHJ1Y2t8ZW58MXx8fHwxNzkzOTI3MzEyfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1651260414968-7f27e8db866f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWluaW5nJTIwdHJ1Y2t8ZW58MXx8fHwxNzkzOTI3MzEyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Asurnipal, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Asurnipal",
-    "year": 2017,
-    "how": "catalog"
+    "credit": "Photo by Boom & Bucket on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Boom & Bucket",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@boomandbucket?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ed9HcUgZORI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWluaW5nJTIwdHJ1Y2t8ZW58MXx8fHwxNzkzOTI3MzEyfDA"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "travel": {
   "name": "Travel & airlines",
