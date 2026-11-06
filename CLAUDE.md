@@ -125,14 +125,18 @@ Decisions (Pablo, 4 Nov 2026):
     no stock source answers (`--commons-only` to go on), and a count whose source is missing stays pending.
 - **Unsplash production applied** (Pablo, 5 Nov night, with the gold and Apple gallery screenshots): "In Review",
   5-10 business days. Until then demo mode (50 searches/h).
+- **Topic/sector pass, part 3** (5-6 Nov night): all 48 topics and sectors done with Unsplash and graded by eye;
+  no download count pending. Then two rounds for the thin ones (graded after each):
+  - refill: the 33 with 5 or fewer published photos rebuilt from the cache (hidden picks are never taken again);
+  - new searches: in 21 topics, every shot without a published photo was rewritten in `catalog.json` as a short,
+    generic search ("federal reserve", "stock market", "bank vault", "weight loss"; Commons-style shots of named
+    buildings, events and people rarely give an Unsplash photo whose description names every word). About 60%
+    of the new Unsplash picks were grade 3, against ~10% for Commons.
+  Index: 639 photos; topics and sectors 4-10 published each (298 in all, from 242). A container restart killed
+  one piece (nothing lost: the manifest is saved per subject and the answers are cached).
 
 ## Next work (in order)
-1. Finish the 17 topics left (nuclear, defense, consumer, banks, investing, space, glp1, politics, europe,
-   quantum, robotics, cybersecurity, india, japan, metals, travel, luxury): `python image_bank.py build --kind
-   topic,sector --redo --only <ids>` in 2-hour background pieces (demo mode), then a round for the topics left
-   with few published photos (1-2: fed, earnings, ai, bonds, datacenters, ipo, ...): rebuild them (the hidden
-   picks are never taken again; answers come from the cache) and rewrite their searches in `catalog.json` where
-   the cache has nothing better (paper-mill in materials gives chairs: add a `must`). Then
+1. Topics and sectors are done (4-10 published each). Pablo chose to wait for Unsplash production for the brands. Then
    `python image_bank.py build --kind company --stock-only` (394 searches); look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
    wrong brand terms get fixed in `brands.json`), fix topic searches in `catalog.json`, grade any new Commons
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.

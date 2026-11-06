@@ -1437,8 +1437,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Luxury goods (luxury)
 
+- Tan leather seats with quilted stitching inside a private jet cabin: Photo by Yaroslav Muzychenko on Unsplash. [xG-pV6Eu-bE](https://unsplash.com/photos/private-jet-cabin-with-leather-seats-xG-pV6Eu-bE?utm_source=investiq_image_bank&utm_medium=referral)
 - A black watch on a white surface: Photo by Patrick Langwallner on Unsplash. [GaHmbqNh5q8](https://unsplash.com/photos/a-black-watch-on-a-white-surface-GaHmbqNh5q8?utm_source=investiq_image_bank&utm_medium=referral)
 - People walking near beige concrete building during daytime: Photo by Bing HAO on Unsplash. [vnZo5jL1MII](https://unsplash.com/photos/people-walking-near-beige-concrete-building-during-daytime-vnZo5jL1MII?utm_source=investiq_image_bank&utm_medium=referral)
 - White tissue paper in white box: Photo by Brooks Leibee on Unsplash. [omYSP6oYUs4](https://unsplash.com/photos/white-tissue-paper-in-white-box-omYSP6oYUs4?utm_source=investiq_image_bank&utm_medium=referral)
 - HK Central Sotheby's at Chater House Auction preview female luxury handbags September 2025 N13P 04: MATOWU HAUDOSM, CC0, via Wikimedia Commons. [HK Central Sotheby's at Chater House Auction preview female luxury handbags September 2025 N13P 04.jpg](https://commons.wikimedia.org/wiki/File:HK_Central_Sotheby%27s_at_Chater_House_Auction_preview_female_luxury_handbags_September_2025_N13P_04.jpg)
+- A close up of a person wearing rings and a necklace: Photo by Segal Jewelry on Unsplash. [NsH-CvU0deg](https://unsplash.com/photos/a-close-up-of-a-person-wearing-rings-and-a-necklace-NsH-CvU0deg?utm_source=investiq_image_bank&utm_medium=referral)
 - Brown and black dome structure: Photo by Svetlana Gumerova on Unsplash. [IskIc4FwVCI](https://unsplash.com/photos/brown-and-black-dome-structure-IskIc4FwVCI?utm_source=investiq_image_bank&utm_medium=referral)
