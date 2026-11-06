@@ -89387,147 +89387,184 @@
     "how": "catalog"
    },
    {
-    "shot": "ny-fed",
-    "shows": "Federal Reserve Bank of New York Building 005",
-    "file": "File:Federal Reserve Bank of New York Building 005.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_of_New_York_Building_005.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Federal_Reserve_Bank_of_New_York_Building_005.jpg/1920px-Federal_Reserve_Bank_of_New_York_Building_005.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Federal_Reserve_Bank_of_New_York_Building_005.jpg/500px-Federal_Reserve_Bank_of_New_York_Building_005.jpg",
+    "shot": "federal-reserve",
+    "shows": "Federal Reserve Bank, San Francisco",
+    "file": "unsplash:KvX3L_QXTgM",
+    "page": "https://unsplash.com/photos/federal-reserve-bank-san-francisco-KvX3L_QXTgM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1542320728179-bda01e6f5c73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZmVkZXJhbCUyMHJlc2VydmV8ZW58MXx8fHwxNzkzOTM0Nzc3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1542320728179-bda01e6f5c73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZmVkZXJhbCUyMHJlc2VydmV8ZW58MXx8fHwxNzkzOTM0Nzc3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Kidfly182",
-    "year": 2025,
-    "how": "catalog"
+    "credit": "Photo by Alex Bierwagen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alex Bierwagen",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ajb?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/KvX3L_QXTgM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZmVkZXJhbCUyMHJlc2VydmV8ZW58MXx8fHwxNzkzOTM0Nzc3fDA"
    },
    {
-    "shot": "powell",
-    "shows": "Jerome H. Powell, Federal Reserve Chair",
-    "file": "File:Jerome H. Powell, Federal Reserve Chair.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Jerome_H._Powell,_Federal_Reserve_Chair.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Jerome_H._Powell%2C_Federal_Reserve_Chair.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jerome_H._Powell%2C_Federal_Reserve_Chair.jpg/500px-Jerome_H._Powell%2C_Federal_Reserve_Chair.jpg",
+    "shot": "federal-reserve-building",
+    "shows": "Federal reserve bank of chicago building, street light, and bollards",
+    "file": "unsplash:74Fa_EIeLsY",
+    "page": "https://unsplash.com/photos/federal-reserve-bank-of-chicago-building-street-light-and-bollards-74Fa_EIeLsY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1783571856194-004fac25c615?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZmVkZXJhbCUyMHJlc2VydmUlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5MzQ3Nzh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1783571856194-004fac25c615?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZmVkZXJhbCUyMHJlc2VydmUlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5MzQ3Nzh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1024,
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Yang-Chen Lin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Yang-Chen Lin",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@iolj?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/74Fa_EIeLsY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZmVkZXJhbCUyMHJlc2VydmUlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5MzQ3Nzh8MA"
+   },
+   {
+    "shot": "washington-dc",
+    "shows": "The Washington Monument framed by blooming cherry trees along the Tidal Basin in Washington DC",
+    "file": "unsplash:PuJc2Sodi94",
+    "page": "https://unsplash.com/photos/washington-monument-and-cherry-blossoms-PuJc2Sodi94?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8d2FzaGluZ3RvbiUyMGRjfGVufDF8fHx8MTc5MzkzNDc3OXww&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8d2FzaGluZ3RvbiUyMGRjfGVufDF8fHx8MTc5MzkzNDc3OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andy He on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andy He",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@andy_hehe?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PuJc2Sodi94/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8d2FzaGluZ3RvbiUyMGRjfGVufDF8fHx8MTc5MzkzNDc3OXww"
+   },
+   {
+    "shot": "hundred-dollar-bills",
+    "shows": "Close up of stacked hundred dollar bills",
+    "file": "unsplash:WyxqQpyFNk8",
+    "page": "https://unsplash.com/photos/close-up-of-stacked-hundred-dollar-bills-WyxqQpyFNk8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1593672715438-d88a70629abe?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1593672715438-d88a70629abe?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Giorgio Trovato on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Giorgio Trovato",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@giorgiotrovato?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/WyxqQpyFNk8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww"
+   },
+   {
+    "shot": "mortgage-rates",
+    "shows": "Mortgage Rates in November 2013",
+    "file": "File:Mortgage Rates in November 2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mortgage_Rates_in_November_2013.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mortgage_Rates_in_November_2013.jpg/1920px-Mortgage_Rates_in_November_2013.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Mortgage_Rates_in_November_2013.jpg/500px-Mortgage_Rates_in_November_2013.jpg",
+    "size": [
+     1920,
      1280
     ],
     "focus": [
      0.5,
-     0.33
+     0.5
     ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
+    "credit": "Rick Obst, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Rick Obst",
+    "year": 2013,
+    "how": "catalog"
+   },
+   {
+    "shot": "money-stack",
+    "shows": "A stack of money sitting on top of a white table",
+    "file": "unsplash:e-CrwdBNL7k",
+    "page": "https://unsplash.com/photos/a-stack-of-money-sitting-on-top-of-a-white-table-e-CrwdBNL7k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1579240637470-e029acf584a9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bW9uZXklMjBzdGFja3xlbnwxfHx8fDE3OTM5MzQ3ODR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1579240637470-e029acf584a9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bW9uZXklMjBzdGFja3xlbnwxfHx8fDE3OTM5MzQ3ODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Celyn Kang on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Celyn Kang",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@celynkang?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/e-CrwdBNL7k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bW9uZXklMjBzdGFja3xlbnwxfHx8fDE3OTM5MzQ3ODR8MA"
+   },
+   {
+    "shot": "bank-interest",
+    "shows": "CZE-22-Czechoslovak National Bank-50 Korun",
+    "file": "File:CZE-22-Czechoslovak National Bank-50 Korun (1929).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CZE-22-Czechoslovak_National_Bank-50_Korun_(1929).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg/1920px-CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg/500px-CZE-22-Czechoslovak_National_Bank-50_Korun_%281929%29.jpg",
+    "size": [
+     1920,
+     1930
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "National Museum of American History, public domain, via Wikimedia Commons",
     "licence": "Public domain",
     "licence_kind": "pd",
     "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2022,
+    "author": "National Museum of American History",
+    "year": 2015,
     "how": "catalog",
-    "person": true
-   },
-   {
-    "shot": "federal-reserve-bank-of-chicago",
-    "shows": "Federal Reserve Building of Chicago",
-    "file": "File:20120929 Federal Reserve Building of Chicago.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:20120929_Federal_Reserve_Building_of_Chicago.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20120929_Federal_Reserve_Building_of_Chicago.JPG/1920px-20120929_Federal_Reserve_Building_of_Chicago.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/20120929_Federal_Reserve_Building_of_Chicago.JPG/500px-20120929_Federal_Reserve_Building_of_Chicago.JPG",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "TonyTheTiger, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "TonyTheTiger",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-reserve-bank-of-san-francisco",
-    "shows": "Federal Reserve Bank of San Francisco, Los Angeles",
-    "file": "File:Federal Reserve Bank of San Francisco, Los Angeles.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_of_San_Francisco,_Los_Angeles.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Federal_Reserve_Bank_of_San_Francisco%2C_Los_Angeles.JPG/1920px-Federal_Reserve_Bank_of_San_Francisco%2C_Los_Angeles.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Federal_Reserve_Bank_of_San_Francisco%2C_Los_Angeles.JPG/500px-Federal_Reserve_Bank_of_San_Francisco%2C_Los_Angeles.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Los Angeles, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Los Angeles",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-reserve-bank-of-boston",
-    "shows": "Federal Reserve Bank Building, Boston, Massachusetts",
-    "file": "File:Federal Reserve Bank Building, Boston, Massachusetts.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_Building,_Boston,_Massachusetts.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Federal_Reserve_Bank_Building%2C_Boston%2C_Massachusetts.jpg/1280px-Federal_Reserve_Bank_Building%2C_Boston%2C_Massachusetts.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Federal_Reserve_Bank_Building%2C_Boston%2C_Massachusetts.jpg/500px-Federal_Reserve_Bank_Building%2C_Boston%2C_Massachusetts.jpg",
-    "size": [
-     1280,
-     3099
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Kenneth C. Zirkel",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-reserve-bank-of-atlanta",
-    "shows": "Horizontal panorama of the Federal Reserve Bank Building of Atlanta",
-    "file": "File:Horizontal panorama of the Federal Reserve Bank Building of Atlanta.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Horizontal_panorama_of_the_Federal_Reserve_Bank_Building_of_Atlanta.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Horizontal_panorama_of_the_Federal_Reserve_Bank_Building_of_Atlanta.jpg/1920px-Horizontal_panorama_of_the_Federal_Reserve_Bank_Building_of_Atlanta.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Horizontal_panorama_of_the_Federal_Reserve_Bank_Building_of_Atlanta.jpg/500px-Horizontal_panorama_of_the_Federal_Reserve_Bank_Building_of_Atlanta.jpg",
-    "size": [
-     1920,
-     1259
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Marc Merlin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Marc Merlin",
-    "year": 2016,
-    "how": "catalog"
+    "flags": [
+     "restrictions: currency"
+    ]
    }
-  ],
-  "missing": [
-   "senate-banking-committee-hearing"
   ],
   "checked": "2026-11-06"
  },
@@ -89805,81 +89842,90 @@
   ],
   "photos": [
    {
-    "shot": "closing",
-    "shows": "Hudson's Bay - Store closing sale - - 01",
-    "file": "File:Hudson's Bay - Store closing sale - 20250524 - 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_01.jpg/1920px-Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_01.jpg/500px-Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_01.jpg",
+    "shot": "empty-mall",
+    "shows": "An empty hallway with glass storefronts",
+    "file": "unsplash:O8IZNwzagm4",
+    "page": "https://unsplash.com/photos/an-empty-hallway-with-glass-storefronts-O8IZNwzagm4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1748731268804-061cffd76797?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGVtcHR5JTIwbWFsbHxlbnwxfHx8fDE3OTM5MzQ3NzV8MA&ixlib=rb-4.1.0&w=2100&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1748731268804-061cffd76797?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGVtcHR5JTIwbWFsbHxlbnwxfHx8fDE3OTM5MzQ3NzV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1446
+     2100,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Sikander Iqbal, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Sikander Iqbal",
+    "credit": "Photo by Albert Stoynov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Albert Stoynov",
     "year": 2025,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@albertstoynov?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/O8IZNwzagm4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGVtcHR5JTIwbWFsbHxlbnwxfHx8fDE3OTM5MzQ3NzV8MA"
    },
    {
-    "shot": "empty-mall",
-    "shows": "Northland Village Mall Eastern Entrance in it's abandoned state -- December 16, 2022",
-    "file": "File:Northland Village Mall Eastern Entrance in it's abandoned state -- December 16, 2022.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Northland_Village_Mall_Eastern_Entrance_in_it%27s_abandoned_state_--_December_16,_2022.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Northland_Village_Mall_Eastern_Entrance_in_it%27s_abandoned_state_--_December_16%2C_2022.png/1920px-Northland_Village_Mall_Eastern_Entrance_in_it%27s_abandoned_state_--_December_16%2C_2022.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Northland_Village_Mall_Eastern_Entrance_in_it%27s_abandoned_state_--_December_16%2C_2022.png/500px-Northland_Village_Mall_Eastern_Entrance_in_it%27s_abandoned_state_--_December_16%2C_2022.png",
+    "shot": "closed-store",
+    "shows": "A closed sign hanging from a glass door",
+    "file": "unsplash:-YFtRc2wRYE",
+    "page": "https://unsplash.com/photos/a-closed-sign-hanging-from-a-glass-door--YFtRc2wRYE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1727840732797-41f49175cfd0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNsb3NlZCUyMHN0b3JlfGVufDF8fHx8MTc5MzkzNDc3Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1727840732797-41f49175cfd0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNsb3NlZCUyMHN0b3JlfGVufDF8fHx8MTc5MzkzNDc3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1692
+     1200,
+     1801
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "CnekYT, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "CnekYT",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by Tim Mossholder on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tim Mossholder",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-YFtRc2wRYE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNsb3NlZCUyMHN0b3JlfGVufDF8fHx8MTc5MzkzNDc3Nnww"
    },
    {
     "shot": "for-lease",
-    "shows": "Victoria Spartz at the bill signing of the Ukraine Democracy Defense Lend-Lease Act of 2022",
-    "file": "File:Victoria Spartz at the bill signing of the Ukraine Democracy Defense Lend-Lease Act of 2022.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Victoria_Spartz_at_the_bill_signing_of_the_Ukraine_Democracy_Defense_Lend-Lease_Act_of_2022.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Victoria_Spartz_at_the_bill_signing_of_the_Ukraine_Democracy_Defense_Lend-Lease_Act_of_2022.jpg/1920px-Victoria_Spartz_at_the_bill_signing_of_the_Ukraine_Democracy_Defense_Lend-Lease_Act_of_2022.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Victoria_Spartz_at_the_bill_signing_of_the_Ukraine_Democracy_Defense_Lend-Lease_Act_of_2022.jpg/500px-Victoria_Spartz_at_the_bill_signing_of_the_Ukraine_Democracy_Defense_Lend-Lease_Act_of_2022.jpg",
+    "shows": "For lease sign on commercial glass double doors",
+    "file": "unsplash:KF8gnwcF1FI",
+    "page": "https://unsplash.com/photos/for-lease-sign-on-commercial-glass-double-doors-KF8gnwcF1FI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1780703283121-1a2e65021eb5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Zm9yJTIwbGVhc2V8ZW58MXx8fHwxNzkzOTM0Nzc4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1780703283121-1a2e65021eb5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Zm9yJTIwbGVhc2V8ZW58MXx8fHwxNzkzOTM0Nzc4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1279
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Office of Congresswoman Victoria Spartz, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Office of Congresswoman Victoria Spartz",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by Kelvin Taylor on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kelvin Taylor",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kjtphoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/KF8gnwcF1FI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Zm9yJTIwbGVhc2V8ZW58MXx8fHwxNzkzOTM0Nzc4fDA"
    },
    {
-    "shot": "factory",
-    "shows": "Empty building with closed roller shutter",
-    "file": "unsplash:fFjAc7nIrBQ",
-    "page": "https://unsplash.com/photos/empty-building-with-closed-roller-shutter-fFjAc7nIrBQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1565718814595-fc54aa6b2137?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YWJhbmRvbmVkJTIwZmFjdG9yeXxlbnwxfHx8fDE3OTM4OTEyMjV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1565718814595-fc54aa6b2137?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YWJhbmRvbmVkJTIwZmFjdG9yeXxlbnwxfHx8fDE3OTM4OTEyMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "abandoned-factory",
+    "shows": "People sorting piles of colorful textile scraps in a large industrial warehouse",
+    "file": "unsplash:pouTfHUG430",
+    "page": "https://unsplash.com/photos/people-sorting-textile-scraps-in-warehouse-pouTfHUG430?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1606053929013-311c13f97b5f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGFiYW5kb25lZCUyMGZhY3Rvcnl8ZW58MXx8fHwxNzkzODkxMjI1fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1606053929013-311c13f97b5f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGFiYW5kb25lZCUyMGZhY3Rvcnl8ZW58MXx8fHwxNzkzODkxMjI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2400,
      1350
@@ -89888,39 +89934,42 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Marius Walter on Unsplash",
+    "credit": "Photo by Francois Le Nguyen on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Marius Walter",
-    "year": 2019,
+    "author": "Francois Le Nguyen",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@marius6r?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/fFjAc7nIrBQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YWJhbmRvbmVkJTIwZmFjdG9yeXxlbnwxfHx8fDE3OTM4OTEyMjV8MA"
+    "author_url": "https://unsplash.com/@flenguyen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pouTfHUG430/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGFiYW5kb25lZCUyMGZhY3Rvcnl8ZW58MXx8fHwxNzkzODkxMjI1fDA"
    },
    {
     "shot": "unemployment",
-    "shows": "Arbeidskontoret på Bakklandet - Unemployment Office at Bakklandet (1920-årene)",
-    "file": "File:Arbeidskontoret på Bakklandet - Unemployment Office at Bakklandet (1920-årene) (4906357761).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Arbeidskontoret_p%C3%A5_Bakklandet_-_Unemployment_Office_at_Bakklandet_(1920-%C3%A5rene)_(4906357761).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Arbeidskontoret_p%C3%A5_Bakklandet_-_Unemployment_Office_at_Bakklandet_%281920-%C3%A5rene%29_%284906357761%29.jpg/1280px-Arbeidskontoret_p%C3%A5_Bakklandet_-_Unemployment_Office_at_Bakklandet_%281920-%C3%A5rene%29_%284906357761%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Arbeidskontoret_p%C3%A5_Bakklandet_-_Unemployment_Office_at_Bakklandet_%281920-%C3%A5rene%29_%284906357761%29.jpg/500px-Arbeidskontoret_p%C3%A5_Bakklandet_-_Unemployment_Office_at_Bakklandet_%281920-%C3%A5rene%29_%284906357761%29.jpg",
+    "shows": "Grayscale photography of people in line",
+    "file": "unsplash:Q0_u7YwXqh0",
+    "page": "https://unsplash.com/photos/grayscale-photography-of-people-in-line-Q0_u7YwXqh0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1562674910-b400367adec4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dW5lbXBsb3ltZW50fGVufDF8fHx8MTc5MzkzNDc4MHww&ixlib=rb-4.1.0&w=1853&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1562674910-b400367adec4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dW5lbXBsb3ltZW50fGVufDF8fHx8MTc5MzkzNDc4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1745
+     1853,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Municipal Archives of Trondheim from Trondheim, Norway, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Municipal Archives of Trondheim from Trondheim, Norway",
-    "year": 2010,
-    "how": "catalog"
+    "credit": "Photo by The New York Public Library on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "The New York Public Library",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nypl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Q0_u7YwXqh0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dW5lbXBsb3ltZW50fGVufDF8fHx8MTc5MzkzNDc4MHww"
    },
    {
     "shot": "great-depression",
@@ -89972,27 +90021,30 @@
     "track": "https://api.unsplash.com/photos/tjd5CfdDPRA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZW1wdHklMjBvZmZpY2V8ZW58MXx8fHwxNzkzODkxMjI5fDA"
    },
    {
-    "shot": "boarded-up-shop",
-    "shows": "Partie de Risk, édition 1970",
-    "file": "File:Partie de Risk, édition 1970.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Partie_de_Risk,_%C3%A9dition_1970.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Partie_de_Risk%2C_%C3%A9dition_1970.jpg/1280px-Partie_de_Risk%2C_%C3%A9dition_1970.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Partie_de_Risk%2C_%C3%A9dition_1970.jpg/500px-Partie_de_Risk%2C_%C3%A9dition_1970.jpg",
+    "shot": "empty-street",
+    "shows": "Black and yellow pedestrian lane in between of high rise buildings during daytime",
+    "file": "unsplash:58qVxGi7slU",
+    "page": "https://unsplash.com/photos/black-and-yellow-pedestrian-lane-in-between-of-high-rise-buildings-during-daytime-58qVxGi7slU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1617121346253-43ef95179ac9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZW1wdHklMjBzdHJlZXR8ZW58MXx8fHwxNzkzOTM0NzgzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1617121346253-43ef95179ac9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZW1wdHklMjBzdHJlZXR8ZW58MXx8fHwxNzkzOTM0NzgzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1750
+     1200,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Document02, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Document02",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Peter Noah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Peter Noah",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@peternoah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/58qVxGi7slU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZW1wdHklMjBzdHJlZXR8ZW58MXx8fHwxNzkzOTM0NzgzfDA"
    },
    {
     "shot": "foreclosure-sign",
@@ -90085,73 +90137,82 @@
     "track": "https://api.unsplash.com/photos/UQ716eQauSw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bm93JTIwaGlyaW5nJTIwc2lnbnxlbnwxfHx8fDE3OTM4OTEyMzF8MA"
    },
    {
-    "shot": "job-fair",
-    "shows": "STEM Career Fair",
-    "file": "File:STEM Career Fair (30675907756).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:STEM_Career_Fair_(30675907756).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STEM_Career_Fair_%2830675907756%29.jpg/1920px-STEM_Career_Fair_%2830675907756%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STEM_Career_Fair_%2830675907756%29.jpg/500px-STEM_Career_Fair_%2830675907756%29.jpg",
+    "shot": "job-interview",
+    "shows": "A man and a woman shaking hands in front of a laptop",
+    "file": "unsplash:qFSQFSmfZkA",
+    "page": "https://unsplash.com/photos/a-man-and-a-woman-shaking-hands-in-front-of-a-laptop-qFSQFSmfZkA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8am9iJTIwaW50ZXJ2aWV3fGVufDF8fHx8MTc5MzkzNDc3Nnww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8am9iJTIwaW50ZXJ2aWV3fGVufDF8fHx8MTc5MzkzNDc3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1205
+     2251,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "North Charleston from North Charleston, SC, United States, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "North Charleston from North Charleston, SC, United States",
-    "year": 2016,
-    "how": "catalog"
+    "credit": "Photo by Mina Rad on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mina Rad",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@miinrad?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qFSQFSmfZkA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8am9iJTIwaW50ZXJ2aWV3fGVufDF8fHx8MTc5MzkzNDc3Nnww"
    },
    {
-    "shot": "office",
-    "shows": "A busy day in the office 02",
-    "file": "File:A busy day in the office 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_busy_day_in_the_office_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A_busy_day_in_the_office_02.jpg/1280px-A_busy_day_in_the_office_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/A_busy_day_in_the_office_02.jpg/500px-A_busy_day_in_the_office_02.jpg",
+    "shot": "help-wanted",
+    "shows": "A sign that says help wanted on a glass door",
+    "file": "unsplash:xRb4O75uymo",
+    "page": "https://unsplash.com/photos/a-sign-that-says-help-wanted-on-a-glass-door-xRb4O75uymo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641236709008-1b30ad669194?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8aGVscCUyMHdhbnRlZHxlbnwxfHx8fDE3OTM5MzQ3Nzd8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641236709008-1b30ad669194?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8aGVscCUyMHdhbnRlZHxlbnwxfHx8fDE3OTM5MzQ3Nzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     2249,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Petbluzz, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Petbluzz",
-    "year": 2017,
-    "how": "catalog"
+    "credit": "Photo by Nathan Dumlao on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nathan Dumlao",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nate_dumlao?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/xRb4O75uymo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8aGVscCUyMHdhbnRlZHxlbnwxfHx8fDE3OTM5MzQ3Nzd8MA"
    },
    {
-    "shot": "factory",
-    "shows": "Valmet 604 assembly line in Kibaha, Tanzania",
-    "file": "File:Valmet 604 assembly line in Kibaha, Tanzania.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Valmet_604_assembly_line_in_Kibaha,_Tanzania.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Valmet_604_assembly_line_in_Kibaha%2C_Tanzania.jpg/1920px-Valmet_604_assembly_line_in_Kibaha%2C_Tanzania.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Valmet_604_assembly_line_in_Kibaha%2C_Tanzania.jpg/500px-Valmet_604_assembly_line_in_Kibaha%2C_Tanzania.jpg",
+    "shot": "office-workers",
+    "shows": "Man in white dress shirt sitting beside woman in black long sleeve shirt",
+    "file": "unsplash:376KN_ISplE",
+    "page": "https://unsplash.com/photos/man-in-white-dress-shirt-sitting-beside-woman-in-black-long-sleeve-shirt-376KN_ISplE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8b2ZmaWNlJTIwd29ya2Vyc3xlbnwxfHx8fDE3OTM4OTEyMzR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8b2ZmaWNlJTIwd29ya2Vyc3xlbnwxfHx8fDE3OTM4OTEyMzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1339
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Valmet Oy Ab, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Valmet Oy Ab",
-    "year": 1983,
-    "how": "catalog"
+    "credit": "Photo by krakenimages on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "krakenimages",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@krakenimages?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/376KN_ISplE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8b2ZmaWNlJTIwd29ya2Vyc3xlbnwxfHx8fDE3OTM4OTEyMzR8MA"
    },
    {
     "shot": "construction",
@@ -90180,27 +90241,30 @@
     "track": "https://api.unsplash.com/photos/x-ghf9LjrVg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y29uc3RydWN0aW9uJTIwd29ya2Vyc3xlbnwxfHx8fDE3OTM4OTQ4NDB8MA"
    },
    {
-    "shot": "bls",
-    "shows": "Frances Perkins Building of the United States Department of Labor in Washington, D.C. - 1",
-    "file": "File:Frances Perkins Building of the United States Department of Labor in Washington, D.C. - 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington,_D.C._-_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_1.jpg/1920px-Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_1.jpg/500px-Frances_Perkins_Building_of_the_United_States_Department_of_Labor_in_Washington%2C_D.C._-_1.jpg",
+    "shot": "factory-worker",
+    "shows": "Traditional worker with coconut rope (edited)",
+    "file": "File:Traditional worker with coconut rope (edited).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Traditional_worker_with_coconut_rope_(edited).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Traditional_worker_with_coconut_rope_%28edited%29.jpg/1280px-Traditional_worker_with_coconut_rope_%28edited%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Traditional_worker_with_coconut_rope_%28edited%29.jpg/500px-Traditional_worker_with_coconut_rope_%28edited%29.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     1951
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "US Department of Labor, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "US Department of Labor",
-    "year": 2017,
-    "how": "catalog"
+    "credit": "Original: Curved.kiwix Derivative work: Radomianin, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Original: Curved.kiwix Derivative work: Radomianin",
+    "year": 2019,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
    },
    {
     "shot": "warehouse-workers",
@@ -90229,53 +90293,57 @@
     "track": "https://api.unsplash.com/photos/c_4eaGRDSVU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2FyZWhvdXNlJTIwd29ya2Vyc3xlbnwxfHx8fDE3OTM4OTQ4NDJ8MA"
    },
    {
-    "shot": "nurses-hospital",
-    "shows": "Nurses preparing a hospital bed with traction apparatus",
-    "file": "unsplash:8i0-qIGaOKE",
-    "page": "https://unsplash.com/photos/nurses-preparing-a-hospital-bed-with-traction-apparatus-8i0-qIGaOKE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1758654860020-36fa3fd0dd35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bnVyc2VzJTIwaG9zcGl0YWx8ZW58MXx8fHwxNzkzODk0ODQzfDA&ixlib=rb-4.1.0&w=1869&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1758654860020-36fa3fd0dd35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bnVyc2VzJTIwaG9zcGl0YWx8ZW58MXx8fHwxNzkzODk0ODQzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "nurse",
+    "shows": "Covid-19 San Salvatore 08",
+    "file": "File:Covid-19 San Salvatore 08.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Covid-19_San_Salvatore_08.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Covid-19_San_Salvatore_08.jpg/1280px-Covid-19_San_Salvatore_08.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Covid-19_San_Salvatore_08.jpg/500px-Covid-19_San_Salvatore_08.jpg",
     "size": [
-     1869,
+     1280,
+     1919
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Alberto Giuliani, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Alberto Giuliani",
+    "year": 2020,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
+   },
+   {
+    "shot": "teacher",
+    "shows": "Woman standing in front of children",
+    "file": "unsplash:N_aihp118p8",
+    "page": "https://unsplash.com/photos/woman-standing-in-front-of-children-N_aihp118p8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGVhY2hlcnxlbnwxfHx8fDE3OTM5MzQ3ODR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1577896851231-70ef18881754?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGVhY2hlcnxlbnwxfHx8fDE3OTM5MzQ3ODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Navy Medicine on Unsplash",
+    "credit": "Photo by National Cancer Institute on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Navy Medicine",
-    "year": 2025,
+    "author": "National Cancer Institute",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@navymedicine?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/8i0-qIGaOKE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bnVyc2VzJTIwaG9zcGl0YWx8ZW58MXx8fHwxNzkzODk0ODQzfDA"
-   },
-   {
-    "shot": "teacher-classroom",
-    "shows": "Teachers and students at Baozhong Junior High School 02",
-    "file": "File:Teachers and students at Baozhong Junior High School 20121123 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Teachers_and_students_at_Baozhong_Junior_High_School_20121123_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Teachers_and_students_at_Baozhong_Junior_High_School_20121123_02.jpg/1920px-Teachers_and_students_at_Baozhong_Junior_High_School_20121123_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Teachers_and_students_at_Baozhong_Junior_High_School_20121123_02.jpg/500px-Teachers_and_students_at_Baozhong_Junior_High_School_20121123_02.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "褒忠國中 雲端網, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "褒忠國中 雲端網",
-    "year": 2012,
-    "how": "catalog"
+    "author_url": "https://unsplash.com/@nci?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/N_aihp118p8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGVhY2hlcnxlbnwxfHx8fDE3OTM5MzQ3ODR8MA",
+    "track_pending": true
    },
    {
     "shot": "home-office-laptop",
