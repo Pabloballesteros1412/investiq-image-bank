@@ -1161,11 +1161,17 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A view of a city and a bridge over a body of water: Photo by Yash Mannepalli on Unsplash. [NzvhAjVs5zs](https://unsplash.com/photos/a-view-of-a-city-and-a-bridge-over-a-body-of-water-NzvhAjVs5zs?utm_source=investiq_image_bank&utm_medium=referral)
 - A statue of a bull and a bull's head in front of a building: Photo by Christian Waske on Unsplash. [eBfRbWECyzM](https://unsplash.com/photos/a-statue-of-a-bull-and-a-bulls-head-in-front-of-a-building-eBfRbWECyzM?utm_source=investiq_image_bank&utm_medium=referral)
 - Crowds gathering outside New York Stock Exchange: Associated Press, public domain, via Wikimedia Commons. [Crowds gathering outside New York Stock Exchange.jpg](https://commons.wikimedia.org/wiki/File:Crowds_gathering_outside_New_York_Stock_Exchange.jpg)
+- Red digital stock market ticker display with numbers and the word RESUMES: Photo by Brecht Corbeel on Unsplash. [gNrjgGxZsXA](https://unsplash.com/photos/stock-market-ticker-with-numbers-gNrjgGxZsXA?utm_source=investiq_image_bank&utm_medium=referral)
 - Shinko Securities's electronic stock board nearby Yaesu side of Tokyo Station in March 2009: Kondo Atsushi, CC BY-SA 2.0, via Wikimedia Commons. [Shinko Securities's electronic stock board nearby Yaesu side of Tokyo Station in March 2009.jpg](https://commons.wikimedia.org/wiki/File:Shinko_Securities%27s_electronic_stock_board_nearby_Yaesu_side_of_Tokyo_Station_in_March_2009.jpg)
+- Black and white street sign: Photo by Lo Lo on Unsplash. [CeVj8lPBJSc](https://unsplash.com/photos/black-and-white-street-sign-CeVj8lPBJSc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Artificial intelligence boom (ai)
 
+- A black keyboard with a blue button on it: Photo by BoliviaInteligente on Unsplash. [kECRXz0m42A](https://unsplash.com/photos/a-black-keyboard-with-a-blue-button-on-it-kECRXz0m42A?utm_source=investiq_image_bank&utm_medium=referral)
+- Closeup photo of white robot arm: Photo by Franck V. on Unsplash. [jIBMSMs4_kA](https://unsplash.com/photos/closeup-photo-of-white-robot-arm-jIBMSMs4_kA?utm_source=investiq_image_bank&utm_medium=referral)
+- Silicon chip from a computer laser mouse under a microscope 50х: Original: Alexander Klepnev Derivative work: IamMM, CC BY-SA 4.0, via Wikimedia Commons. [Silicon chip from a computer laser mouse under a microscope 50х.jpg](https://commons.wikimedia.org/wiki/File:Silicon_chip_from_a_computer_laser_mouse_under_a_microscope_50%D1%85.jpg)
 - Sam Altman CropEdit James Tamim: TechCrunch, CC BY 2.0, via Wikimedia Commons. [Sam Altman CropEdit James Tamim.jpg](https://commons.wikimedia.org/wiki/File:Sam_Altman_CropEdit_James_Tamim.jpg)
+- Server room aisle with metal equipment racks: Photo by İsmail Enes Ayhan on Unsplash. [lVZjvw-u9V8](https://unsplash.com/photos/server-room-aisle-with-metal-equipment-racks-lVZjvw-u9V8?utm_source=investiq_image_bank&utm_medium=referral)
 - White robotic arm in display showroom: Photo by ZHENYU LUO on Unsplash. [kE0JmtbvXxM](https://unsplash.com/photos/white-robotic-arm-in-display-showroom-kE0JmtbvXxM?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## AI data centers & power demand (datacenters)
@@ -1174,11 +1180,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Data center roof: Rsparks3, CC0, via Wikimedia Commons. [Data center roof.jpg](https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg)
 - Anchor pylon of high-voltage overhead power line 750 kV: Novoklimov, CC0, via Wikimedia Commons. [Anchor pylon of high-voltage overhead power line 750 kV.jpg](https://commons.wikimedia.org/wiki/File:Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg)
 - A large grey electrical transformer with metal pipes and cables in a substation: Photo by American Public Power Association on Unsplash. [VuR4oHZ3ucc](https://unsplash.com/photos/electrical-transformer-in-power-substation-VuR4oHZ3ucc?utm_source=investiq_image_bank&utm_medium=referral)
+- A server room with rows of black and white cabinets under blue cables: Photo by Taylor Vick on Unsplash. [aWslrFhs1w4](https://unsplash.com/photos/server-room-with-network-cabinets-aWslrFhs1w4?utm_source=investiq_image_bank&utm_medium=referral)
+- A rack of servers with wires and wires attached to them: Photo by Yuriy Vertikov on Unsplash. [c-lSQecD9oI](https://unsplash.com/photos/a-rack-of-servers-with-wires-and-wires-attached-to-them-c-lSQecD9oI?utm_source=investiq_image_bank&utm_medium=referral)
+- Black transmission towers under green sky: Photo by Fré Sonneveld on Unsplash. [q6n8nIrDQHE](https://unsplash.com/photos/black-transmission-towers-under-green-sky-q6n8nIrDQHE?utm_source=investiq_image_bank&utm_medium=referral)
+- An industrial power plant illuminated at night with a full moon in the sky: Photo by American Public Power Association on Unsplash. [bv2pvCGMtzg](https://unsplash.com/photos/power-plant-illuminated-at-night-bv2pvCGMtzg?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Semiconductors & the chip war (chips)
 
 - Silicon wafer researcher: U.S. Department of Energy, public domain, via Wikimedia Commons. [Silicon wafer researcher.jpg](https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg)
 - Man using computer: Photo by L N on Unsplash. [QASO5vwgVco](https://unsplash.com/photos/man-using-computer-QASO5vwgVco?utm_source=investiq_image_bank&utm_medium=referral)
+- A silicon wafer with a grid of iridescent microchip dies under shallow focus: Photo by Laura Ockel on Unsplash. [qOx9KsvpqcM](https://unsplash.com/photos/silicon-wafer-with-iridescent-microchip-grid-qOx9KsvpqcM?utm_source=investiq_image_bank&utm_medium=referral)
 - Close up of dark blue circuit board: Photo by Vishnu Mohanan on Unsplash. [pfR18JNEMv8](https://unsplash.com/photos/close-up-of-dark-blue-circuit-board-pfR18JNEMv8?utm_source=investiq_image_bank&utm_medium=referral)
 - Photolithography lab in the LCN cleanroom: University College London Faculty of Mathematical & Physical Sciences, CC BY 2.0, via Wikimedia Commons. [Photolithography lab in the LCN cleanroom.jpg](https://commons.wikimedia.org/wiki/File:Photolithography_lab_in_the_LCN_cleanroom.jpg)
 
@@ -1214,7 +1225,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Tariffs & trade war (tariffs)
 
 - MAERSK HANOI Container Ship (Port Koper SIKOP, 2023): Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons. [MAERSK HANOI Container Ship (Port Koper SIKOP, 2023).jpg](https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg)
+- Aerial view of blue and white boat on body of water during daytime: Photo by Venti Views on Unsplash. [FPKnAO-CF6M](https://unsplash.com/photos/aerial-view-of-blue-and-white-boat-on-body-of-water-during-daytime-FPKnAO-CF6M?utm_source=investiq_image_bank&utm_medium=referral)
+- Rolls of steel are lined up in a warehouse: Photo by Morteza Mohammadi on Unsplash. [-kWkoUkFyp0](https://unsplash.com/photos/rolls-of-steel-are-lined-up-in-a-warehouse--kWkoUkFyp0?utm_source=investiq_image_bank&utm_medium=referral)
 - A truck is parked in front of a bunch of shipping containers: Photo by Bernd 📷 Dittrich on Unsplash. [Xk1IfNnEhRA](https://unsplash.com/photos/a-truck-is-parked-in-front-of-a-bunch-of-shipping-containers-Xk1IfNnEhRA?utm_source=investiq_image_bank&utm_medium=referral)
+- Yellow and black train near mountain: Photo by Akshay Nanavati on Unsplash. [8FevUlxdZC0](https://unsplash.com/photos/yellow-and-black-train-near-mountain-8FevUlxdZC0?utm_source=investiq_image_bank&utm_medium=referral)
 - Mike Starkey Soybean Harvest: USDAgov, public domain, via Wikimedia Commons. [Mike Starkey Soybean Harvest (52490323652).jpg](https://commons.wikimedia.org/wiki/File:Mike_Starkey_Soybean_Harvest_(52490323652).jpg)
 
 ## China economy (china)
@@ -1242,6 +1256,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - United States Treasury building 2023: Wisneyykarin, CC BY-SA 4.0, via Wikimedia Commons. [United States Treasury building 2023.jpg](https://commons.wikimedia.org/wiki/File:United_States_Treasury_building_2023.jpg)
 - White and brown concrete building: Photo by Andy Feliciotti on Unsplash. [MCWONeEXhC4](https://unsplash.com/photos/white-and-brown-concrete-building-MCWONeEXhC4?utm_source=investiq_image_bank&utm_medium=referral)
 - Scott Bessent 2025 Official Portrait: Treasury Department, public domain, via Wikimedia Commons. [Scott Bessent 2025 Official Portrait.jpg](https://commons.wikimedia.org/wiki/File:Scott_Bessent_2025_Official_Portrait.jpg)
+- White and brown concrete buildings during daytime: Photo by Vlad Gorshkov on Unsplash. [u6-jWHgwd44](https://unsplash.com/photos/white-and-brown-concrete-buildings-during-daytime-u6-jWHgwd44?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Housing market & mortgages (housing)
 

@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-06",
- "photos": 595,
+ "photos": 610,
  "subjects": [
   {
    "id": "MMM",
@@ -7801,7 +7801,7 @@
     "correction",
     "panic"
    ],
-   "photos": 4,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crash.json"
   },
   {
@@ -7816,7 +7816,7 @@
     "llm",
     "chatbot"
    ],
-   "photos": 2,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ai.json"
   },
   {
@@ -7832,7 +7832,7 @@
     "grid",
     "capex"
    ],
-   "photos": 4,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/datacenters.json"
   },
   {
@@ -7846,7 +7846,7 @@
     "chip war",
     "export controls"
    ],
-   "photos": 4,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/chips.json"
   },
   {
@@ -7904,7 +7904,7 @@
     "imports",
     "customs"
    ],
-   "photos": 3,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/tariffs.json"
   },
   {
@@ -7950,7 +7950,7 @@
     "deficit",
     "10-year"
    ],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bonds.json"
   },
   {
