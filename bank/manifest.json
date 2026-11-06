@@ -90342,8 +90342,7 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@nci?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/N_aihp118p8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGVhY2hlcnxlbnwxfHx8fDE3OTM5MzQ3ODR8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/N_aihp118p8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGVhY2hlcnxlbnwxfHx8fDE3OTM5MzQ3ODR8MA"
    },
    {
     "shot": "home-office-laptop",
@@ -93429,8 +93428,7 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@angelvela?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/XWW746i6WoM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FwaXRvbCUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5MzkzODQxNnww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/XWW746i6WoM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FwaXRvbCUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5MzkzODQxNnww"
    },
    {
     "shot": "money",
@@ -93731,53 +93729,56 @@
   ],
   "photos": [
    {
-    "shot": "terminal",
-    "shows": "Bloomberg terminal keyboard",
-    "file": "File:Bloomberg terminal keyboard.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bloomberg_terminal_keyboard.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Bloomberg_terminal_keyboard.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bloomberg_terminal_keyboard.jpg/500px-Bloomberg_terminal_keyboard.jpg",
+    "shot": "stock-market",
+    "shows": "Stock market candlestick chart on dark screen",
+    "file": "unsplash:fiXLQXAhCfk",
+    "page": "https://unsplash.com/photos/stock-market-candlestick-chart-on-dark-screen-fiXLQXAhCfk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RvY2slMjBtYXJrZXR8ZW58MXx8fHwxNzkzOTM4NDE4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RvY2slMjBtYXJrZXR8ZW58MXx8fHwxNzkzOTM4NDE4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1600,
-     1200
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Cariafraweb, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Cariafraweb",
-    "year": null,
-    "how": "catalog"
-   },
-   {
-    "shot": "report",
-    "shows": "A stack of white books on top of each other",
-    "file": "unsplash:5ZMKNdlxdpM",
-    "page": "https://unsplash.com/photos/a-stack-of-white-books-on-top-of-each-other-5ZMKNdlxdpM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1707299650004-4ae578a46077?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YW5udWFsJTIwcmVwb3J0fGVufDF8fHx8MTc5MzkwNTcxOHww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1707299650004-4ae578a46077?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YW5udWFsJTIwcmVwb3J0fGVufDF8fHx8MTc5MzkwNTcxOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2400,
-     1442
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Annual Report Design Agency - Report Yak on Unsplash",
+    "credit": "Photo by Maxim Hopman on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Annual Report Design Agency - Report Yak",
+    "author": "Maxim Hopman",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nampoh?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/fiXLQXAhCfk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RvY2slMjBtYXJrZXR8ZW58MXx8fHwxNzkzOTM4NDE4fDA"
+   },
+   {
+    "shot": "financial-report",
+    "shows": "Smartphone calculator app on financial report papers",
+    "file": "unsplash:4rTXOMv28VA",
+    "page": "https://unsplash.com/photos/smartphone-calculator-app-on-financial-report-papers-4rTXOMv28VA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1709534486708-fb8f94150d0a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGZpbmFuY2lhbCUyMHJlcG9ydHxlbnwxfHx8fDE3OTM5Mzg0MTl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1709534486708-fb8f94150d0a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGZpbmFuY2lhbCUyMHJlcG9ydHxlbnwxfHx8fDE3OTM5Mzg0MTl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1799
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jakub Żerdzicki on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jakub Żerdzicki",
     "year": 2024,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@reportsyak?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/5ZMKNdlxdpM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YW5udWFsJTIwcmVwb3J0fGVufDF8fHx8MTc5MzkwNTcxOHww"
+    "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4rTXOMv28VA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGZpbmFuY2lhbCUyMHJlcG9ydHxlbnwxfHx8fDE3OTM5Mzg0MTl8MA"
    },
    {
     "shot": "newspaper",
@@ -93806,35 +93807,64 @@
     "track": "https://api.unsplash.com/photos/IT6aov1ScW0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZmluYW5jaWFsJTIwbmV3c3BhcGVyfGVufDF8fHx8MTc5MzkwNTcyMHww"
    },
    {
-    "shot": "analyst",
-    "shows": "Andrew Aziz Cramer",
-    "file": "File:Andrew Aziz Cramer.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Andrew_Aziz_Cramer.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Andrew_Aziz_Cramer.jpg/1280px-Andrew_Aziz_Cramer.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Andrew_Aziz_Cramer.jpg/500px-Andrew_Aziz_Cramer.jpg",
+    "shot": "business-newspaper",
+    "shows": "A stack of newspapers sitting on top of a wooden table",
+    "file": "unsplash:hWJsOnaWTqs",
+    "page": "https://unsplash.com/photos/a-stack-of-newspapers-sitting-on-top-of-a-wooden-table-hWJsOnaWTqs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1579532536935-619928decd08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YnVzaW5lc3MlMjBuZXdzcGFwZXJ8ZW58MXx8fHwxNzkzOTQxOTkxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1579532536935-619928decd08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YnVzaW5lc3MlMjBuZXdzcGFwZXJ8ZW58MXx8fHwxNzkzOTQxOTkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1920
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Bear Bull Traders, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Bear Bull Traders",
+    "credit": "Photo by Annie Spratt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Annie Spratt",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anniespratt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hWJsOnaWTqs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YnVzaW5lc3MlMjBuZXdzcGFwZXJ8ZW58MXx8fHwxNzkzOTQxOTkxfDA"
+   },
+   {
+    "shot": "stock-exchange",
+    "shows": "People in a building with lights",
+    "file": "unsplash:VsPGJqafmTk",
+    "page": "https://unsplash.com/photos/people-in-a-building-with-lights-VsPGJqafmTk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1625236239092-8d15fbff5420?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1625236239092-8d15fbff5420?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ruben Sukatendel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ruben Sukatendel",
     "year": 2021,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rubensukatendel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VsPGJqafmTk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA"
    },
    {
-    "shot": "quotes",
-    "shows": "DFC 2241 Cozy corner of a small café with a counter stools a wall clock and a refrigerated display stocked with drinks",
-    "file": "File:DFC 2241 Cozy corner of a small café with a counter stools a wall clock and a refrigerated display stocked with drinks.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:DFC_2241_Cozy_corner_of_a_small_caf%C3%A9_with_a_counter_stools_a_wall_clock_and_a_refrigerated_display_stocked_with_drinks.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/DFC_2241_Cozy_corner_of_a_small_caf%C3%A9_with_a_counter_stools_a_wall_clock_and_a_refrigerated_display_stocked_with_drinks.jpg/1920px-DFC_2241_Cozy_corner_of_a_small_caf%C3%A9_with_a_counter_stools_a_wall_clock_and_a_refrigerated_display_stocked_with_drinks.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/DFC_2241_Cozy_corner_of_a_small_caf%C3%A9_with_a_counter_stools_a_wall_clock_and_a_refrigerated_display_stocked_with_drinks.jpg/500px-DFC_2241_Cozy_corner_of_a_small_caf%C3%A9_with_a_counter_stools_a_wall_clock_and_a_refrigerated_display_stocked_with_drinks.jpg",
+    "shot": "calculator-finance",
+    "shows": "Loga Calculator Model W. 10 m. (History) ( by Kecko)",
+    "file": "File:Loga Calculator Model W. 10 m. (History) (2022-11-28 by Kecko).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Loga_Calculator_Model_W._10_m._(History)_(2022-11-28_by_Kecko).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Loga_Calculator_Model_W._10_m._%28History%29_%282022-11-28_by_Kecko%29.jpg/1920px-Loga_Calculator_Model_W._10_m._%28History%29_%282022-11-28_by_Kecko%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Loga_Calculator_Model_W._10_m._%28History%29_%282022-11-28_by_Kecko%29.jpg/500px-Loga_Calculator_Model_W._10_m._%28History%29_%282022-11-28_by_Kecko%29.jpg",
     "size": [
      1920,
      1280
@@ -93843,128 +93873,117 @@
      0.5,
      0.5
     ],
-    "credit": "PattayaPatrol, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "PattayaPatrol",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "stage",
-    "shows": "2022 - Corporate Innovation Summit event HM3 2096",
-    "file": "File:2022 - Corporate Innovation Summit event HM3 2096 (52469556751).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2022_-_Corporate_Innovation_Summit_event_HM3_2096_(52469556751).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2022_-_Corporate_Innovation_Summit_event_HM3_2096_%2852469556751%29.jpg/1920px-2022_-_Corporate_Innovation_Summit_event_HM3_2096_%2852469556751%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2022_-_Corporate_Innovation_Summit_event_HM3_2096_%2852469556751%29.jpg/500px-2022_-_Corporate_Innovation_Summit_event_HM3_2096_%2852469556751%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Web Summit, CC BY 2.0, via Wikimedia Commons",
+    "credit": "Kecko from Eastern Switzerland, CC BY 2.0, via Wikimedia Commons",
     "licence": "CC BY 2.0",
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Web Summit",
+    "author": "Kecko from Eastern Switzerland",
     "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "shareholder-meeting",
-    "shows": "Novatek’s Annual General Meeting of Shareholders 23",
-    "file": "File:Novatek’s Annual General Meeting of Shareholders 2016-04-22 23.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Novatek%E2%80%99s_Annual_General_Meeting_of_Shareholders_2016-04-22_23.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Novatek%E2%80%99s_Annual_General_Meeting_of_Shareholders_2016-04-22_23.JPG/1920px-Novatek%E2%80%99s_Annual_General_Meeting_of_Shareholders_2016-04-22_23.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Novatek%E2%80%99s_Annual_General_Meeting_of_Shareholders_2016-04-22_23.JPG/500px-Novatek%E2%80%99s_Annual_General_Meeting_of_Shareholders_2016-04-22_23.JPG",
+    "shot": "business-meeting",
+    "shows": "People sitting on chair inside building",
+    "file": "unsplash:ONe-snuCaqQ",
+    "page": "https://unsplash.com/photos/people-sitting-on-chair-inside-building-ONe-snuCaqQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1606836591695-4d58a73eba1e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YnVzaW5lc3MlMjBtZWV0aW5nfGVufDF8fHx8MTc5Mzk0MTk5NHww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1606836591695-4d58a73eba1e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YnVzaW5lc3MlMjBtZWV0aW5nfGVufDF8fHx8MTc5Mzk0MTk5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1078
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Krassotkin, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Krassotkin",
-    "year": 2016,
-    "how": "catalog"
+    "credit": "Photo by Rodeo Project Management Software on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rodeo Project Management Software",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@getrodeo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ONe-snuCaqQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YnVzaW5lc3MlMjBtZWV0aW5nfGVufDF8fHx8MTc5Mzk0MTk5NHww"
    },
    {
-    "shot": "investor-presentation",
-    "shows": "Presentation at Norrsken Angel Impact Investing Session 2022 3",
-    "file": "File:Presentation at Norrsken Angel Impact Investing Session 2022 3.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Presentation_at_Norrsken_Angel_Impact_Investing_Session_2022_3.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Presentation_at_Norrsken_Angel_Impact_Investing_Session_2022_3.jpg/1920px-Presentation_at_Norrsken_Angel_Impact_Investing_Session_2022_3.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Presentation_at_Norrsken_Angel_Impact_Investing_Session_2022_3.jpg/500px-Presentation_at_Norrsken_Angel_Impact_Investing_Session_2022_3.jpg",
+    "shot": "stock-ticker",
+    "shows": "A digital stock market ticker display showing SPY data with a green trend line",
+    "file": "unsplash:lmV3gJSAgbo",
+    "page": "https://unsplash.com/photos/stock-market-ticker-with-green-trend-lmV3gJSAgbo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1648275913341-7973ae7bc9b3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RvY2slMjB0aWNrZXJ8ZW58MXx8fHwxNzkzOTQxOTk1fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1648275913341-7973ae7bc9b3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RvY2slMjB0aWNrZXJ8ZW58MXx8fHwxNzkzOTQxOTk1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1167
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "John Andersson (WMSE), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "John Andersson (WMSE)",
+    "credit": "Photo by Tyler Prahm on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tyler Prahm",
     "year": 2022,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tprahm?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lmV3gJSAgbo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RvY2slMjB0aWNrZXJ8ZW58MXx8fHwxNzkzOTQxOTk1fDA"
    },
    {
-    "shot": "stock-ticker-tape",
-    "shows": "Stock ticker board at Market Street, San Francisco. California. USA",
-    "file": "File:Tickers (8085342806).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tickers_(8085342806).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tickers_%288085342806%29.jpg/1920px-Tickers_%288085342806%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tickers_%288085342806%29.jpg/500px-Tickers_%288085342806%29.jpg",
+    "shot": "wall-street",
+    "shows": "A street sign on wall street in new york city",
+    "file": "unsplash:oEGDKf4ZtNg",
+    "page": "https://unsplash.com/photos/a-street-sign-on-wall-street-in-new-york-city-oEGDKf4ZtNg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1623524713064-257294b0e34b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbCUyMHN0cmVldHxlbnwxfHx8fDE3OTM5MzgzOTR8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1623524713064-257294b0e34b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbCUyMHN0cmVldHxlbnwxfHx8fDE3OTM5MzgzOTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1082
+     2248,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Francisco Gonzalez, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Francisco Gonzalez",
-    "year": 2012,
-    "how": "catalog"
+    "credit": "Photo by Robb Miller on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Robb Miller",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@robbmiller?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oEGDKf4ZtNg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbCUyMHN0cmVldHxlbnwxfHx8fDE3OTM5MzgzOTR8MA"
    },
    {
-    "shot": "stock-tables-newspaper",
-    "shows": "Wall Street Journal building",
-    "file": "File:Wall Street Journal building.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wall_Street_Journal_building.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wall_Street_Journal_building.jpg/1280px-Wall_Street_Journal_building.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Wall_Street_Journal_building.jpg/500px-Wall_Street_Journal_building.jpg",
+    "shot": "annual-report",
+    "shows": "A stack of four cards with a black and white flower on them",
+    "file": "unsplash:mDGNDdqaYoU",
+    "page": "https://unsplash.com/photos/a-stack-of-four-cards-with-a-black-and-white-flower-on-them-mDGNDdqaYoU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1707299651115-57d5813a5ef6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YW5udWFsJTIwcmVwb3J0fGVufDF8fHx8MTc5MzkwNTcxOHww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1707299651115-57d5813a5ef6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YW5udWFsJTIwcmVwb3J0fGVufDF8fHx8MTc5MzkwNTcxOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     2400,
+     1442
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "PumpkinSky, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "PumpkinSky",
-    "year": 2012,
-    "how": "catalog"
+    "credit": "Photo by Annual Report Design Agency - Report Yak on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Annual Report Design Agency - Report Yak",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@reportsyak?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/mDGNDdqaYoU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YW5udWFsJTIwcmVwb3J0fGVufDF8fHx8MTc5MzkwNTcxOHww"
    }
   ],
   "checked": "2026-11-06"
@@ -93981,73 +94000,82 @@
   ],
   "photos": [
    {
-    "shot": "bell",
-    "shows": "New York Stock Exchange, 4-30-2010",
-    "file": "File:New York Stock Exchange, 4-30-2010 (4565957967).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange,_4-30-2010_(4565957967).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/New_York_Stock_Exchange%2C_4-30-2010_%284565957967%29.jpg/1920px-New_York_Stock_Exchange%2C_4-30-2010_%284565957967%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/New_York_Stock_Exchange%2C_4-30-2010_%284565957967%29.jpg/500px-New_York_Stock_Exchange%2C_4-30-2010_%284565957967%29.jpg",
+    "shot": "new-york-stock-exchange",
+    "shows": "A black and white photo of the new york stock exchange",
+    "file": "unsplash:4YFhbgm1keU",
+    "page": "https://unsplash.com/photos/a-black-and-white-photo-of-the-new-york-stock-exchange-4YFhbgm1keU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1728930684281-103d3e6a5032?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmV3JTIweW9yayUyMHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzOTM4NDE4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1728930684281-103d3e6a5032?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmV3JTIweW9yayUyMHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzOTM4NDE4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1415
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "U.S. Department of the Treasury, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Department of the Treasury",
-    "year": 2010,
-    "how": "catalog"
+    "credit": "Photo by Martin Rajdl on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Martin Rajdl",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@martinrajdl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4YFhbgm1keU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmV3JTIweW9yayUyMHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzOTM4NDE4fDA"
    },
    {
-    "shot": "nasdaq-bell",
-    "shows": "Brett Wilson Rings Nasdaq Opening Bell 7.18.2014",
-    "file": "File:Brett Wilson Rings Nasdaq Opening Bell 7.18.2014.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Brett_Wilson_Rings_Nasdaq_Opening_Bell_7.18.2014.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brett_Wilson_Rings_Nasdaq_Opening_Bell_7.18.2014.jpg/1920px-Brett_Wilson_Rings_Nasdaq_Opening_Bell_7.18.2014.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brett_Wilson_Rings_Nasdaq_Opening_Bell_7.18.2014.jpg/500px-Brett_Wilson_Rings_Nasdaq_Opening_Bell_7.18.2014.jpg",
+    "shot": "nasdaq",
+    "shows": "White printer paper with black text",
+    "file": "unsplash:69ppqHiG9Xo",
+    "page": "https://unsplash.com/photos/white-printer-paper-with-black-text-69ppqHiG9Xo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1579689252125-767b773f3f69?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmFzZGFxfGVufDF8fHx8MTc5Mzk0MTk4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1579689252125-767b773f3f69?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmFzZGFxfGVufDF8fHx8MTc5Mzk0MTk4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1077
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Pastrygirl37, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Pastrygirl37",
-    "year": 2014,
-    "how": "catalog"
+    "credit": "Photo by Markus Spiske on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Markus Spiske",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@markusspiske?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/69ppqHiG9Xo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmFzZGFxfGVufDF8fHx8MTc5Mzk0MTk4OXww"
    },
    {
-    "shot": "banner",
-    "shows": "KraneShares One Belt One Road Summit at the New York Stock Exchange",
-    "file": "File:KraneShares One Belt One Road Summit at the New York Stock Exchange.png",
-    "page": "https://commons.wikimedia.org/wiki/File:KraneShares_One_Belt_One_Road_Summit_at_the_New_York_Stock_Exchange.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KraneShares_One_Belt_One_Road_Summit_at_the_New_York_Stock_Exchange.png/1920px-KraneShares_One_Belt_One_Road_Summit_at_the_New_York_Stock_Exchange.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KraneShares_One_Belt_One_Road_Summit_at_the_New_York_Stock_Exchange.png/500px-KraneShares_One_Belt_One_Road_Summit_at_the_New_York_Stock_Exchange.png",
+    "shot": "stock-exchange",
+    "shows": "Person holding black iPhone displaying stock exchange",
+    "file": "unsplash:nGc5RT2HmF0",
+    "page": "https://unsplash.com/photos/person-holding-black-iphone-displaying-stock-exchange-nGc5RT2HmF0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1554260570-e9689a3418b8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA&ixlib=rb-4.1.0&w=2280&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1554260570-e9689a3418b8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1438
+     2280,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Chrionexfleckeri1350, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Chrionexfleckeri1350",
-    "year": 2018,
-    "how": "catalog"
+    "credit": "Photo by Austin Distel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Austin Distel",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@austindistel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nGc5RT2HmF0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA"
    },
    {
     "shot": "floor",
@@ -94073,99 +94101,99 @@
     "how": "catalog"
    },
    {
-    "shot": "times-square",
-    "shows": "Vibrant times square billboards at night with a lone pedestrian",
-    "file": "unsplash:O3B3ccb591c",
-    "page": "https://unsplash.com/photos/vibrant-times-square-billboards-at-night-with-a-lone-pedestrian-O3B3ccb591c?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1766228053354-7d56b8a1c5a9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRpbWVzJTIwU3F1YXJlJTIwYmlsbGJvYXJkc3xlbnwxfHx8fDE3OTM5MDkzMzR8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1766228053354-7d56b8a1c5a9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRpbWVzJTIwU3F1YXJlJTIwYmlsbGJvYXJkc3xlbnwxfHx8fDE3OTM5MDkzMzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "opening-bell",
+    "shows": "Perth (AU), The Bell Tower -- 2019 -- 0320-4",
+    "file": "File:Perth (AU), The Bell Tower -- 2019 -- 0320-4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Perth_(AU),_The_Bell_Tower_--_2019_--_0320-4.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Perth_%28AU%29%2C_The_Bell_Tower_--_2019_--_0320-4.jpg/1280px-Perth_%28AU%29%2C_The_Bell_Tower_--_2019_--_0320-4.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Perth_%28AU%29%2C_The_Bell_Tower_--_2019_--_0320-4.jpg/500px-Perth_%28AU%29%2C_The_Bell_Tower_--_2019_--_0320-4.jpg",
     "size": [
-     2246,
+     1280,
+     1923
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "trading-floor",
+    "shows": "80th floor of 3 World Trade Center - OHNY 8",
+    "file": "File:80th floor of 3 World Trade Center - OHNY 8.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:80th_floor_of_3_World_Trade_Center_-_OHNY_8.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/80th_floor_of_3_World_Trade_Center_-_OHNY_8.jpg/1920px-80th_floor_of_3_World_Trade_Center_-_OHNY_8.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/80th_floor_of_3_World_Trade_Center_-_OHNY_8.jpg/500px-80th_floor_of_3_World_Trade_Center_-_OHNY_8.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Aude, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Aude",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "celebration-champagne",
+    "shows": "Wisley, RHS Garden, Bowes-Lyon Rose Garden, Rosa Champagne Celebration ' Frylimbo' - geograph.org.uk",
+    "file": "File:Wisley, RHS Garden, Bowes-Lyon Rose Garden, Rosa Champagne Celebration ' Frylimbo' - geograph.org.uk - 5801480.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wisley,_RHS_Garden,_Bowes-Lyon_Rose_Garden,_Rosa_Champagne_Celebration_%27_Frylimbo%27_-_geograph.org.uk_-_5801480.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wisley%2C_RHS_Garden%2C_Bowes-Lyon_Rose_Garden%2C_Rosa_Champagne_Celebration_%27_Frylimbo%27_-_geograph.org.uk_-_5801480.jpg/1920px-Wisley%2C_RHS_Garden%2C_Bowes-Lyon_Rose_Garden%2C_Rosa_Champagne_Celebration_%27_Frylimbo%27_-_geograph.org.uk_-_5801480.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wisley%2C_RHS_Garden%2C_Bowes-Lyon_Rose_Garden%2C_Rosa_Champagne_Celebration_%27_Frylimbo%27_-_geograph.org.uk_-_5801480.jpg/500px-Wisley%2C_RHS_Garden%2C_Bowes-Lyon_Rose_Garden%2C_Rosa_Champagne_Celebration_%27_Frylimbo%27_-_geograph.org.uk_-_5801480.jpg",
+    "size": [
+     1920,
+     1281
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Michael Garlick, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Michael Garlick",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "wall-street",
+    "shows": "Grayscale photo of statue of man",
+    "file": "unsplash:vrSKrUEZsDY",
+    "page": "https://unsplash.com/photos/grayscale-photo-of-statue-of-man-vrSKrUEZsDY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1600478750228-8b894da7bc48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FsbCUyMHN0cmVldHxlbnwxfHx8fDE3OTM5MzgzOTR8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1600478750228-8b894da7bc48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FsbCUyMHN0cmVldHxlbnwxfHx8fDE3OTM5MzgzOTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Mike Bryant on Unsplash",
+    "credit": "Photo by Daniel Lloyd Blunk-Fernández on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Mike Bryant",
-    "year": 2025,
+    "author": "Daniel Lloyd Blunk-Fernández",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@maviemation?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/O3B3ccb591c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRpbWVzJTIwU3F1YXJlJTIwYmlsbGJvYXJkc3xlbnwxfHx8fDE3OTM5MDkzMzR8MA"
-   },
-   {
-    "shot": "nyse-trading-floor",
-    "shows": "NYSE Institute-Photo-MW- -0051",
-    "file": "File:NYSE Institute-Photo-MW-20240215-0051.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NYSE_Institute-Photo-MW-20240215-0051.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NYSE_Institute-Photo-MW-20240215-0051.jpg/1920px-NYSE_Institute-Photo-MW-20240215-0051.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/NYSE_Institute-Photo-MW-20240215-0051.jpg/500px-NYSE_Institute-Photo-MW-20240215-0051.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "UKinUSA, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "UKinUSA",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "nasdaq-marketsite-studio",
-    "shows": "NASA Artemis II Crew Rings Nasdaq Closing Bell (NHQ202604300035)",
-    "file": "File:NASA Artemis II Crew Rings Nasdaq Closing Bell (NHQ202604300035).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NASA_Artemis_II_Crew_Rings_Nasdaq_Closing_Bell_(NHQ202604300035).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NASA_Artemis_II_Crew_Rings_Nasdaq_Closing_Bell_%28NHQ202604300035%29.jpg/1280px-NASA_Artemis_II_Crew_Rings_Nasdaq_Closing_Bell_%28NHQ202604300035%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NASA_Artemis_II_Crew_Rings_Nasdaq_Closing_Bell_%28NHQ202604300035%29.jpg/500px-NASA_Artemis_II_Crew_Rings_Nasdaq_Closing_Bell_%28NHQ202604300035%29.jpg",
-    "size": [
-     1280,
-     1768
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA Headquarters / NASA/Bill Ingalls, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA Headquarters / NASA/Bill Ingalls",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "ringing-the-bell",
-    "shows": "NASA Administrator Rings NYSE Opening Bell (NHQ202604300002)",
-    "file": "File:NASA Administrator Rings NYSE Opening Bell (NHQ202604300002).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NASA_Administrator_Rings_NYSE_Opening_Bell_(NHQ202604300002).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NASA_Administrator_Rings_NYSE_Opening_Bell_%28NHQ202604300002%29.jpg/1920px-NASA_Administrator_Rings_NYSE_Opening_Bell_%28NHQ202604300002%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/NASA_Administrator_Rings_NYSE_Opening_Bell_%28NHQ202604300002%29.jpg/500px-NASA_Administrator_Rings_NYSE_Opening_Bell_%28NHQ202604300002%29.jpg",
-    "size": [
-     1920,
-     1413
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA Headquarters / NASA/Bill Ingalls, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA Headquarters / NASA/Bill Ingalls",
-    "year": 2026,
-    "how": "catalog"
+    "author_url": "https://unsplash.com/@blunkorama?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vrSKrUEZsDY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FsbCUyMHN0cmVldHxlbnwxfHx8fDE3OTM5MzgzOTR8MA"
    },
    {
     "shot": "listing-ceremony",
@@ -94283,27 +94311,30 @@
     "track": "https://api.unsplash.com/photos/a3vDd8hzuYs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2hhcmdpbmclMjBzdGF0aW9ufGVufDF8fHx8MTc5MzkwOTM0MXww"
    },
    {
-    "shot": "battery",
-    "shows": "Philips BT6000A-12 - Lithium Ion Battery ICR18650-9168",
-    "file": "File:Philips BT6000A-12 - Lithium Ion Battery ICR18650-9168.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Philips_BT6000A-12_-_Lithium_Ion_Battery_ICR18650-9168.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Philips_BT6000A-12_-_Lithium_Ion_Battery_ICR18650-9168.jpg/1280px-Philips_BT6000A-12_-_Lithium_Ion_Battery_ICR18650-9168.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Philips_BT6000A-12_-_Lithium_Ion_Battery_ICR18650-9168.jpg/500px-Philips_BT6000A-12_-_Lithium_Ion_Battery_ICR18650-9168.jpg",
+    "shot": "electric-car",
+    "shows": "Electric vehicle charger plugged into car",
+    "file": "unsplash:xfaYAsMV1p8",
+    "page": "https://unsplash.com/photos/electric-vehicle-charger-plugged-into-car-xfaYAsMV1p8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1920
+     2255,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by CHUTTERSNAP on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "CHUTTERSNAP",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chuttersnap?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/xfaYAsMV1p8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA"
    },
    {
     "shot": "byd",
@@ -94329,27 +94360,30 @@
     "how": "catalog"
    },
    {
-    "shot": "assembly",
-    "shows": "Tesla Factory, Fremont (CA, USA)",
-    "file": "File:Tesla Factory, Fremont (CA, USA) (8763130149).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tesla_Factory,_Fremont_(CA,_USA)_(8763130149).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tesla_Factory%2C_Fremont_%28CA%2C_USA%29_%288763130149%29.jpg/1920px-Tesla_Factory%2C_Fremont_%28CA%2C_USA%29_%288763130149%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Tesla_Factory%2C_Fremont_%28CA%2C_USA%29_%288763130149%29.jpg/500px-Tesla_Factory%2C_Fremont_%28CA%2C_USA%29_%288763130149%29.jpg",
+    "shot": "ev-charging",
+    "shows": "A hand plugging a charging cable into a white electric vehicle",
+    "file": "unsplash:2jRNVr0ac7s",
+    "page": "https://unsplash.com/photos/electric-vehicle-charging-with-cable-2jRNVr0ac7s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1704475336842-0ab3798abf0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXYlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5NDE5OTJ8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1704475336842-0ab3798abf0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXYlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5NDE5OTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1277
+     2249,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Maurizio Pesce from Milan, Italia, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Maurizio Pesce from Milan, Italia",
-    "year": 2011,
-    "how": "catalog"
+    "credit": "Photo by Zaptec on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zaptec",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zaptec?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2jRNVr0ac7s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXYlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5NDE5OTJ8MA"
    },
    {
     "shot": "rivian",
@@ -94378,38 +94412,87 @@
     "track": "https://api.unsplash.com/photos/5IaRz8fQBtI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Uml2aWFuJTIwUjFUfGVufDF8fHx8MTc5MzkwOTM0OHww"
    },
    {
-    "shot": "electric-bus",
-    "shows": "A couple of buses that are sitting in the street",
-    "file": "unsplash:aaQ_tJNBK4c",
-    "page": "https://unsplash.com/photos/a-couple-of-buses-that-are-sitting-in-the-street-aaQ_tJNBK4c?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1722498909472-d5d87b796fb3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVsZWN0cmljJTIwYnVzfGVufDF8fHx8MTc5MzkwOTM1MHww&ixlib=rb-4.1.0&w=2200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1722498909472-d5d87b796fb3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVsZWN0cmljJTIwYnVzfGVufDF8fHx8MTc5MzkwOTM1MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "battery",
+    "shows": "Person holding black and green electronic device",
+    "file": "unsplash:30D7430ywf4",
+    "page": "https://unsplash.com/photos/person-holding-black-and-green-electronic-device-30D7430ywf4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1592318348310-f31b61a931c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1592318348310-f31b61a931c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2200,
-     1501
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Joseph Mama on Unsplash",
+    "credit": "Photo by Kumpan Electric on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Joseph Mama",
-    "year": 2024,
+    "author": "Kumpan Electric",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@bradfordboy23?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/aaQ_tJNBK4c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVsZWN0cmljJTIwYnVzfGVufDF8fHx8MTc5MzkwOTM1MHww"
+    "author_url": "https://unsplash.com/@kumpan_electric?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/30D7430ywf4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA"
    },
    {
-    "shot": "battery-factory",
-    "shows": "A Duracell battery factory in Cleveland, Tennessee 03",
-    "file": "File:A Duracell battery factory in Cleveland, Tennessee 03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_Duracell_battery_factory_in_Cleveland,_Tennessee_03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/A_Duracell_battery_factory_in_Cleveland%2C_Tennessee_03.jpg/1920px-A_Duracell_battery_factory_in_Cleveland%2C_Tennessee_03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/A_Duracell_battery_factory_in_Cleveland%2C_Tennessee_03.jpg/500px-A_Duracell_battery_factory_in_Cleveland%2C_Tennessee_03.jpg",
+    "shot": "electric-vehicle",
+    "shows": "Black vehicle",
+    "file": "unsplash:2JvEjF0tf50",
+    "page": "https://unsplash.com/photos/black-vehicle-2JvEjF0tf50?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1567409378873-888d6fa7debc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjB2ZWhpY2xlfGVufDF8fHx8MTc5Mzk0MTk5NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1567409378873-888d6fa7debc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjB2ZWhpY2xlfGVufDF8fHx8MTc5Mzk0MTk5NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrew Roberts on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrew Roberts",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@studiodenley?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2JvEjF0tf50/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjB2ZWhpY2xlfGVufDF8fHx8MTc5Mzk0MTk5NXww"
+   },
+   {
+    "shot": "electric-scooter",
+    "shows": "Seattle (WA, USA), Pine Street, E-Scooter -- 2022 -- 1489",
+    "file": "File:Seattle (WA, USA), Pine Street, E-Scooter -- 2022 -- 1489.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Pine_Street,_E-Scooter_--_2022_--_1489.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seattle_%28WA%2C_USA%29%2C_Pine_Street%2C_E-Scooter_--_2022_--_1489.jpg/1920px-Seattle_%28WA%2C_USA%29%2C_Pine_Street%2C_E-Scooter_--_2022_--_1489.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seattle_%28WA%2C_USA%29%2C_Pine_Street%2C_E-Scooter_--_2022_--_1489.jpg/500px-Seattle_%28WA%2C_USA%29%2C_Pine_Street%2C_E-Scooter_--_2022_--_1489.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "charging-cable",
+    "shows": "Nokia mobile phone USB charging cable",
+    "file": "File:Nokia mobile phone USB charging cable - 20130310.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg/1920px-Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg/500px-Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg",
     "size": [
      1920,
      1440
@@ -94418,65 +94501,13 @@
      0.5,
      0.5
     ],
-    "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Harrison Keely",
-    "year": 2024,
+    "credit": "Jacklee ., CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Jacklee .",
+    "year": 2013,
     "how": "catalog"
-   },
-   {
-    "shot": "electric-scooter",
-    "shows": "Electric scooters parked on sidewalk",
-    "file": "unsplash:q5ZDZPc7Ksc",
-    "page": "https://unsplash.com/photos/electric-scooters-parked-on-sidewalk-q5ZDZPc7Ksc?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1566936737687-8f392a237b8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3RyaWMlMjBzY29vdGVyfGVufDF8fHx8MTc5MzkwOTM1Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1566936737687-8f392a237b8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3RyaWMlMjBzY29vdGVyfGVufDF8fHx8MTc5MzkwOTM1Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Jonas Jacobsson on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Jonas Jacobsson",
-    "year": 2019,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jonasjacobsson?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/q5ZDZPc7Ksc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3RyaWMlMjBzY29vdGVyfGVufDF8fHx8MTc5MzkwOTM1Mnww"
-   },
-   {
-    "shot": "charging-cable",
-    "shows": "Black and white USB data cables",
-    "file": "unsplash:QM9yzAoX-GQ",
-    "page": "https://unsplash.com/photos/black-and-white-usb-data-cables-QM9yzAoX-GQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1573868388390-2739872961e6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNoYXJnaW5nJTIwY2FibGV8ZW58MXx8fHwxNzkzOTA5MzUzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1573868388390-2739872961e6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNoYXJnaW5nJTIwY2FibGV8ZW58MXx8fHwxNzkzOTA5MzUzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Hal Gatewood on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Hal Gatewood",
-    "year": 2019,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@halacious?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/QM9yzAoX-GQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNoYXJnaW5nJTIwY2FibGV8ZW58MXx8fHwxNzkzOTA5MzUzfDA"
    }
   ],
   "checked": "2026-11-06"
@@ -94993,61 +95024,35 @@
   ],
   "photos": [
    {
-    "shot": "mall",
-    "shows": "Galeria shopping mall interior 83",
-    "file": "File:Galeria shopping mall interior 83.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Galeria_shopping_mall_interior_83.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Galeria_shopping_mall_interior_83.jpg/1920px-Galeria_shopping_mall_interior_83.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Galeria_shopping_mall_interior_83.jpg/500px-Galeria_shopping_mall_interior_83.jpg",
+    "shot": "shopping-mall",
+    "shows": "Mariscal shopping mall in Asunción",
+    "file": "File:Mariscal shopping mall in Asunción.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mariscal_shopping_mall_in_Asunci%C3%B3n.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mariscal_shopping_mall_in_Asunci%C3%B3n.jpg/1920px-Mariscal_shopping_mall_in_Asunci%C3%B3n.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mariscal_shopping_mall_in_Asunci%C3%B3n.jpg/500px-Mariscal_shopping_mall_in_Asunci%C3%B3n.jpg",
     "size": [
      1920,
-     1440
+     1446
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "MBH, CC BY 4.0, via Wikimedia Commons",
+    "credit": "aismallard, CC BY 4.0, via Wikimedia Commons",
     "licence": "CC BY 4.0",
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "MBH",
+    "author": "aismallard",
     "year": 2025,
     "how": "catalog"
    },
    {
-    "shot": "black-friday",
-    "shows": "Black and white love me wall art",
-    "file": "unsplash:qh75QT91TfA",
-    "page": "https://unsplash.com/photos/black-and-white-love-me-wall-art-qh75QT91TfA?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1604532081136-b157aa1729e8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QmxhY2slMjBGcmlkYXl8ZW58MXx8fHwxNzkzOTEzMDM0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1604532081136-b157aa1729e8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QmxhY2slMjBGcmlkYXl8ZW58MXx8fHwxNzkzOTEzMDM0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Tim Mossholder on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Tim Mossholder",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/qh75QT91TfA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QmxhY2slMjBGcmlkYXl8ZW58MXx8fHwxNzkzOTEzMDM0fDA"
-   },
-   {
-    "shot": "bags",
+    "shot": "shopping",
     "shows": "Photo of woman holding white and black paper bags",
     "file": "unsplash:_3Q3tsJ01nc",
     "page": "https://unsplash.com/photos/photo-of-woman-holding-white-and-black-paper-bags-_3Q3tsJ01nc?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2hvcHBpbmclMjBiYWdzfGVufDF8fHx8MTc5MzkxMzAzNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2hvcHBpbmclMjBiYWdzfGVufDF8fHx8MTc5MzkxMzAzNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "url": "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2hvcHBpbmd8ZW58MXx8fHwxNzkzOTQxOTk4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1483985988355-763728e1935b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2hvcHBpbmd8ZW58MXx8fHwxNzkzOTQxOTk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -95065,99 +95070,134 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@freestocks?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/_3Q3tsJ01nc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2hvcHBpbmclMjBiYWdzfGVufDF8fHx8MTc5MzkxMzAzNXww"
+    "track": "https://api.unsplash.com/photos/_3Q3tsJ01nc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2hvcHBpbmd8ZW58MXx8fHwxNzkzOTQxOTk4fDA"
    },
    {
-    "shot": "checkout",
-    "shows": "View towards checkout at Viking Line-terminalen on an evening in October 2023",
-    "file": "File:View towards checkout at Viking Line-terminalen on an evening in October 2023.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:View_towards_checkout_at_Viking_Line-terminalen_on_an_evening_in_October_2023.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/View_towards_checkout_at_Viking_Line-terminalen_on_an_evening_in_October_2023.jpg/1920px-View_towards_checkout_at_Viking_Line-terminalen_on_an_evening_in_October_2023.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/View_towards_checkout_at_Viking_Line-terminalen_on_an_evening_in_October_2023.jpg/500px-View_towards_checkout_at_Viking_Line-terminalen_on_an_evening_in_October_2023.jpg",
+    "shot": "bags",
+    "shows": "Woman holding a paper bag walking on street",
+    "file": "unsplash:Xn7GvimQrk8",
+    "page": "https://unsplash.com/photos/woman-holding-a-paper-bag-walking-on-street-Xn7GvimQrk8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1513094735237-8f2714d57c13?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHNob3BwaW5nJTIwYmFnc3xlbnwxfHx8fDE3OTM5MTMwMzV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1513094735237-8f2714d57c13?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHNob3BwaW5nJTIwYmFnc3xlbnwxfHx8fDE3OTM5MTMwMzV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "JIP, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "JIP",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Jon Ly on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jon Ly",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@itsjonly?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Xn7GvimQrk8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHNob3BwaW5nJTIwYmFnc3xlbnwxfHx8fDE3OTM5MTMwMzV8MA"
    },
    {
-    "shot": "parcels",
-    "shows": "Canal taken with a high ISO setting (painting like), Grimburgwal with Bridge 201, Sleutelbrug",
-    "file": "File:Canal taken with a high ISO setting (painting like), Grimburgwal with Bridge 201, Sleutelbrug, (5822028762).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Canal_taken_with_a_high_ISO_setting_(painting_like),_Grimburgwal_with_Bridge_201,_Sleutelbrug,_(5822028762).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Canal_taken_with_a_high_ISO_setting_%28painting_like%29%2C_Grimburgwal_with_Bridge_201%2C_Sleutelbrug%2C_%285822028762%29.jpg/1920px-Canal_taken_with_a_high_ISO_setting_%28painting_like%29%2C_Grimburgwal_with_Bridge_201%2C_Sleutelbrug%2C_%285822028762%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Canal_taken_with_a_high_ISO_setting_%28painting_like%29%2C_Grimburgwal_with_Bridge_201%2C_Sleutelbrug%2C_%285822028762%29.jpg/500px-Canal_taken_with_a_high_ISO_setting_%28painting_like%29%2C_Grimburgwal_with_Bridge_201%2C_Sleutelbrug%2C_%285822028762%29.jpg",
+    "shot": "retail-store",
+    "shows": "Man walking beside white cube decoration",
+    "file": "unsplash:uPYpcsbICI4",
+    "page": "https://unsplash.com/photos/man-walking-beside-white-cube-decoration-uPYpcsbICI4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1511317559916-56d5ddb62563?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cmV0YWlsJTIwc3RvcmV8ZW58MXx8fHwxNzkzODgwNzEwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1511317559916-56d5ddb62563?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cmV0YWlsJTIwc3RvcmV8ZW58MXx8fHwxNzkzODgwNzEwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1275
+     1200,
+     1772
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jorge Láscar from Australia, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
+    "credit": "Photo by Xianjuan HU on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Xianjuan HU",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@juaner?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uPYpcsbICI4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cmV0YWlsJTIwc3RvcmV8ZW58MXx8fHwxNzkzODgwNzEwfDA"
+   },
+   {
+    "shot": "supermarket",
+    "shows": "A grocery store aisle filled with lots of food",
+    "file": "unsplash:IH65r4HEQWQ",
+    "page": "https://unsplash.com/photos/a-grocery-store-aisle-filled-with-lots-of-food-IH65r4HEQWQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1670684684445-a4504dca0bbc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c3VwZXJtYXJrZXR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=2283&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1670684684445-a4504dca0bbc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c3VwZXJtYXJrZXR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2283,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jack Lee on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jack Lee",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jack19992011?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IH65r4HEQWQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c3VwZXJtYXJrZXR8ZW58MXx8fHwxNzkzOTQyMDAxfDA"
+   },
+   {
+    "shot": "online-shopping",
+    "shows": "Shopping online with bank card",
+    "file": "File:Shopping online with bank card.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shopping_online_with_bank_card.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shopping_online_with_bank_card.jpg/1920px-Shopping_online_with_bank_card.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Shopping_online_with_bank_card.jpg/500px-Shopping_online_with_bank_card.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Bogdan Hoyaux / European Commission, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Jorge Láscar from Australia",
-    "year": 2011,
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Bogdan Hoyaux / European Commission",
+    "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "restaurant",
-    "shows": "HK WC Wan Chai busy peak lunch hours visitors n restaurants August 2024 R12S 06",
-    "file": "File:HK WC Wan Chai busy peak lunch hours visitors n restaurants August 2024 R12S 06.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_WC_Wan_Chai_busy_peak_lunch_hours_visitors_n_restaurants_August_2024_R12S_06.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HK_WC_Wan_Chai_busy_peak_lunch_hours_visitors_n_restaurants_August_2024_R12S_06.jpg/1920px-HK_WC_Wan_Chai_busy_peak_lunch_hours_visitors_n_restaurants_August_2024_R12S_06.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/HK_WC_Wan_Chai_busy_peak_lunch_hours_visitors_n_restaurants_August_2024_R12S_06.jpg/500px-HK_WC_Wan_Chai_busy_peak_lunch_hours_visitors_n_restaurants_August_2024_R12S_06.jpg",
+    "shot": "credit-card-payment",
+    "shows": "A person inserting a credit card into a payment terminal held by another person",
+    "file": "unsplash:tgquMvhNLc4",
+    "page": "https://unsplash.com/photos/person-paying-with-credit-card-tgquMvhNLc4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y3JlZGl0JTIwY2FyZCUyMHBheW1lbnR8ZW58MXx8fHwxNzkzOTQyMDAzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1556742031-c6961e8560b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y3JlZGl0JTIwY2FyZCUyMHBheW1lbnR8ZW58MXx8fHwxNzkzOTQyMDAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Shammi 826, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Shammi 826",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "outlet-mall",
-    "shows": "Belz Factory Outlet Mall corridor",
-    "file": "File:Belz Factory Outlet Mall corridor.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Belz_Factory_Outlet_Mall_corridor.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Belz_Factory_Outlet_Mall_corridor.jpg/1280px-Belz_Factory_Outlet_Mall_corridor.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Belz_Factory_Outlet_Mall_corridor.jpg/500px-Belz_Factory_Outlet_Mall_corridor.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Justin Cozart, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Justin Cozart",
-    "year": 2009,
-    "how": "catalog"
+    "credit": "Photo by Clay Banks on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Clay Banks",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@claybanks?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tgquMvhNLc4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y3JlZGl0JTIwY2FyZCUyMHBheW1lbnR8ZW58MXx8fHwxNzkzOTQyMDAzfDA"
    },
    {
     "shot": "christmas-shopping",
@@ -95186,27 +95226,30 @@
     "track": "https://api.unsplash.com/photos/PP6I-8d0jg0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q2hyaXN0bWFzJTIwc2hvcHBpbmd8ZW58MXx8fHwxNzkzOTEzMDQxfDA"
    },
    {
-    "shot": "department-store",
-    "shows": "DLT Department Store interiors 51",
-    "file": "File:DLT Department Store interiors 51.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:DLT_Department_Store_interiors_51.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DLT_Department_Store_interiors_51.jpg/1280px-DLT_Department_Store_interiors_51.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DLT_Department_Store_interiors_51.jpg/500px-DLT_Department_Store_interiors_51.jpg",
+    "shot": "shopping-cart",
+    "shows": "A person pushing a shopping cart full of food",
+    "file": "unsplash:CZtK_E89omo",
+    "page": "https://unsplash.com/photos/a-person-pushing-a-shopping-cart-full-of-food-CZtK_E89omo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1685640206182-c51b8aa9b686?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2hvcHBpbmclMjBjYXJ0fGVufDF8fHx8MTc5Mzk0MjAwNXww&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1685640206182-c51b8aa9b686?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2hvcHBpbmclMjBjYXJ0fGVufDF8fHx8MTc5Mzk0MjAwNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     2246,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "MBH, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "MBH",
-    "year": 2025,
-    "how": "catalog"
+    "credit": "Photo by Karsten Winegeart on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Karsten Winegeart",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@_karsten?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CZtK_E89omo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2hvcHBpbmclMjBjYXJ0fGVufDF8fHx8MTc5Mzk0MjAwNXww"
    },
    {
     "shot": "food-delivery",
@@ -95250,96 +95293,102 @@
   ],
   "photos": [
    {
-    "shot": "columns",
-    "shows": "Stone columns of the National Bank and Bank of New South Wales (Former) buildings in Oamaru",
-    "file": "File:Stone columns of the National Bank and Bank of New South Wales (Former) buildings in Oamaru.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stone_columns_of_the_National_Bank_and_Bank_of_New_South_Wales_(Former)_buildings_in_Oamaru.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Stone_columns_of_the_National_Bank_and_Bank_of_New_South_Wales_%28Former%29_buildings_in_Oamaru.jpg/1280px-Stone_columns_of_the_National_Bank_and_Bank_of_New_South_Wales_%28Former%29_buildings_in_Oamaru.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Stone_columns_of_the_National_Bank_and_Bank_of_New_South_Wales_%28Former%29_buildings_in_Oamaru.jpg/500px-Stone_columns_of_the_National_Bank_and_Bank_of_New_South_Wales_%28Former%29_buildings_in_Oamaru.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pseudopanax at English Wikipedia, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Pseudopanax at English Wikipedia",
-    "year": 2013,
-    "how": "catalog"
-   },
-   {
-    "shot": "vault",
-    "shows": "Old Town Hall Bank Museum, vault door",
-    "file": "File:Old Town Hall Bank Museum, vault door (21627676255).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Old_Town_Hall_Bank_Museum,_vault_door_(21627676255).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Old_Town_Hall_Bank_Museum%2C_vault_door_%2821627676255%29.jpg/1280px-Old_Town_Hall_Bank_Museum%2C_vault_door_%2821627676255%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Old_Town_Hall_Bank_Museum%2C_vault_door_%2821627676255%29.jpg/500px-Old_Town_Hall_Bank_Museum%2C_vault_door_%2821627676255%29.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Preservation Maryland, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Preservation Maryland",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "svb",
-    "shows": "Silicon Valley Bank in Palo Alto, CA (2400 Hanover St)",
-    "file": "File:Silicon Valley Bank in Palo Alto, CA (2400 Hanover St) 20230822.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Silicon_Valley_Bank_in_Palo_Alto,_CA_(2400_Hanover_St)_20230822.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Silicon_Valley_Bank_in_Palo_Alto%2C_CA_%282400_Hanover_St%29_20230822.jpg/1920px-Silicon_Valley_Bank_in_Palo_Alto%2C_CA_%282400_Hanover_St%29_20230822.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Silicon_Valley_Bank_in_Palo_Alto%2C_CA_%282400_Hanover_St%29_20230822.jpg/500px-Silicon_Valley_Bank_in_Palo_Alto%2C_CA_%282400_Hanover_St%29_20230822.jpg",
+    "shot": "bank",
+    "shows": "Children playing at sunset on a Mekong bank in Si Phan Don",
+    "file": "File:Children playing at sunset on a Mekong bank in Si Phan Don.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg/1920px-Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg/500px-Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg",
     "size": [
      1920,
-     1440
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Suiren2022, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Suiren2022",
-    "year": 2023,
+    "author": "Basile Morin",
+    "year": 2017,
     "how": "catalog"
    },
    {
-    "shot": "bank-run",
-    "shows": "U.S. National Bank Building -- Galveston",
-    "file": "File:U.S. National Bank Building -- Galveston.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:U.S._National_Bank_Building_--_Galveston.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/U.S._National_Bank_Building_--_Galveston.jpg/1280px-U.S._National_Bank_Building_--_Galveston.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/U.S._National_Bank_Building_--_Galveston.jpg/500px-U.S._National_Bank_Building_--_Galveston.jpg",
+    "shot": "bank-building",
+    "shows": "Lüdinghausen, Berenbrock, Dortmund-Ems-Kanal (an der Kreisstraße 23) -- 2015 -- 4668-70",
+    "file": "File:Lüdinghausen, Berenbrock, Dortmund-Ems-Kanal (an der Kreisstraße 23) -- 2015 -- 4668-70.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:L%C3%BCdinghausen,_Berenbrock,_Dortmund-Ems-Kanal_(an_der_Kreisstra%C3%9Fe_23)_--_2015_--_4668-70.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/L%C3%BCdinghausen%2C_Berenbrock%2C_Dortmund-Ems-Kanal_%28an_der_Kreisstra%C3%9Fe_23%29_--_2015_--_4668-70.jpg/1920px-L%C3%BCdinghausen%2C_Berenbrock%2C_Dortmund-Ems-Kanal_%28an_der_Kreisstra%C3%9Fe_23%29_--_2015_--_4668-70.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/L%C3%BCdinghausen%2C_Berenbrock%2C_Dortmund-Ems-Kanal_%28an_der_Kreisstra%C3%9Fe_23%29_--_2015_--_4668-70.jpg/500px-L%C3%BCdinghausen%2C_Berenbrock%2C_Dortmund-Ems-Kanal_%28an_der_Kreisstra%C3%9Fe_23%29_--_2015_--_4668-70.jpg",
     "size": [
-     1280,
-     1826
+     1920,
+     1080
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jim Evans, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jim Evans",
-    "year": 2020,
+    "author": "Dietmar Rabich",
+    "year": 2015,
     "how": "catalog"
+   },
+   {
+    "shot": "bank-vault",
+    "shows": "A bunch of metal boxes stacked on top of each other",
+    "file": "unsplash:6AQY7pO1lS0",
+    "page": "https://unsplash.com/photos/a-bunch-of-metal-boxes-stacked-on-top-of-each-other-6AQY7pO1lS0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1565126035964-29e1c95b13f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YmFuayUyMHZhdWx0fGVufDF8fHx8MTc5Mzg4MDcwNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1565126035964-29e1c95b13f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YmFuayUyMHZhdWx0fGVufDF8fHx8MTc5Mzg4MDcwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jason Pofahl on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jason Pofahl",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jasonpofahlphotography?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6AQY7pO1lS0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YmFuayUyMHZhdWx0fGVufDF8fHx8MTc5Mzg4MDcwNnww"
+   },
+   {
+    "shot": "credit-card",
+    "shows": "A black business credit card with a chip on a white background",
+    "file": "unsplash:ahjzVINkuCs",
+    "page": "https://unsplash.com/photos/black-business-credit-card-ahjzVINkuCs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613243555988-441166d4d6fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y3JlZGl0JTIwY2FyZHxlbnwxfHx8fDE3OTM5NDIwMDF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613243555988-441166d4d6fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y3JlZGl0JTIwY2FyZHxlbnwxfHx8fDE3OTM5NDIwMDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Markus Winkler on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Markus Winkler",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@markuswinkler?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ahjzVINkuCs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y3JlZGl0JTIwY2FyZHxlbnwxfHx8fDE3OTM5NDIwMDF8MA"
    },
    {
     "shot": "fdic",
@@ -95391,61 +95440,12 @@
     "track": "https://api.unsplash.com/photos/OnRPps1wPus/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA"
    },
    {
-    "shot": "bank-teller",
-    "shows": "Black and gray camera in close up photography",
-    "file": "unsplash:4GyvkTEGCh4",
-    "page": "https://unsplash.com/photos/black-and-gray-camera-in-close-up-photography-4GyvkTEGCh4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1580847097341-0644f15d37d6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGJhbmslMjB0ZWxsZXJ8ZW58MXx8fHwxNzkzOTEzMDUxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1580847097341-0644f15d37d6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGJhbmslMjB0ZWxsZXJ8ZW58MXx8fHwxNzkzOTEzMDUxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1801
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Tim Mossholder on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Tim Mossholder",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/4GyvkTEGCh4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGJhbmslMjB0ZWxsZXJ8ZW58MXx8fHwxNzkzOTEzMDUxfDA"
-   },
-   {
-    "shot": "bank-lobby",
-    "shows": "Danske Bank ATM Lobby",
-    "file": "File:Danske Bank ATM Lobby.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Danske_Bank_ATM_Lobby.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Danske_Bank_ATM_Lobby.jpg/1920px-Danske_Bank_ATM_Lobby.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Danske_Bank_ATM_Lobby.jpg/500px-Danske_Bank_ATM_Lobby.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "T0m0k0l0v3r, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "T0m0k0l0v3r",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "bank-branch",
-    "shows": "OTP bank branch at night with illuminated sign",
-    "file": "unsplash:3RMmjx90z7k",
-    "page": "https://unsplash.com/photos/otp-bank-branch-at-night-with-illuminated-sign-3RMmjx90z7k?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1760555960699-dc19c4104301?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMGJyYW5jaHxlbnwxfHx8fDE3OTM5MTMwNTN8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1760555960699-dc19c4104301?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMGJyYW5jaHxlbnwxfHx8fDE3OTM5MTMwNTN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "banking-app",
+    "shows": "A woman holding a cell phone in her hand",
+    "file": "unsplash:9XrefmwkHCs",
+    "page": "https://unsplash.com/photos/a-woman-holding-a-cell-phone-in-her-hand-9XrefmwkHCs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1681826291722-70bd7e9e6fc3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1681826291722-70bd7e9e6fc3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2400,
      1350
@@ -95454,38 +95454,93 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Eugene Chystiakov on Unsplash",
+    "credit": "Photo by Atlantic Money on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Eugene Chystiakov",
-    "year": 2025,
+    "author": "Atlantic Money",
+    "year": 2023,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@eugenechystiakov?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/3RMmjx90z7k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMGJyYW5jaHxlbnwxfHx8fDE3OTM5MTMwNTN8MA"
+    "author_url": "https://unsplash.com/@atlanticmoney?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9XrefmwkHCs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA",
+    "track_pending": true
    },
    {
-    "shot": "mobile-banking",
-    "shows": "Banking and Law (Harris)",
-    "file": "File:Banking and Law (Harris).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Banking_and_Law_(Harris).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Banking_and_Law_%28Harris%29.jpg/1920px-Banking_and_Law_%28Harris%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Banking_and_Law_%28Harris%29.jpg/500px-Banking_and_Law_%28Harris%29.jpg",
+    "shot": "counting-money",
+    "shows": "Person holding 100 euro bill",
+    "file": "unsplash:ESsGNnhUiCg",
+    "page": "https://unsplash.com/photos/person-holding-100-euro-bill-ESsGNnhUiCg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1580067319115-42124a255c57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvdW50aW5nJTIwbW9uZXl8ZW58MXx8fHwxNzkzOTQyMDA1fDA&ixlib=rb-4.1.0&w=2261&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1580067319115-42124a255c57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvdW50aW5nJTIwbW9uZXl8ZW58MXx8fHwxNzkzOTQyMDA1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1928
+     2261,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mliu92, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
+    "credit": "Photo by Omid Armin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Omid Armin",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@itsomidarmin?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ESsGNnhUiCg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvdW50aW5nJTIwbW9uZXl8ZW58MXx8fHwxNzkzOTQyMDA1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "bank-branch",
+    "shows": "A Caixa Geral de Depósitos bank entrance with metal railings and a tree",
+    "file": "unsplash:F_NEaxKkQSE",
+    "page": "https://unsplash.com/photos/caixa-geral-de-depositos-bank-entrance-F_NEaxKkQSE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1786618315979-ce020c4e0516?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGJhbmslMjBicmFuY2h8ZW58MXx8fHwxNzkzOTEzMDUzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1786618315979-ce020c4e0516?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGJhbmslMjBicmFuY2h8ZW58MXx8fHwxNzkzOTEzMDUzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Timur Seyfelmlyukov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Timur Seyfelmlyukov",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@timurse?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/F_NEaxKkQSE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGJhbmslMjBicmFuY2h8ZW58MXx8fHwxNzkzOTEzMDUzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "cash",
+    "shows": "Antique cash register in a cafe, Darjeeling",
+    "file": "File:Antique cash register in a cafe, Darjeeling.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Antique_cash_register_in_a_cafe,_Darjeeling.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Antique_cash_register_in_a_cafe%2C_Darjeeling.jpg/1920px-Antique_cash_register_in_a_cafe%2C_Darjeeling.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Antique_cash_register_in_a_cafe%2C_Darjeeling.jpg/500px-Antique_cash_register_in_a_cafe%2C_Darjeeling.jpg",
+    "size": [
+     1920,
+     2050
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Subhrajyoti07, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Mliu92",
-    "year": 2023,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Subhrajyoti07",
+    "year": 2017,
     "how": "catalog"
    }
   ],
