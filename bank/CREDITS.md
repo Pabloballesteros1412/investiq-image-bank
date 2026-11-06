@@ -1096,6 +1096,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - A black and white photo of two tall buildings: Photo by Bagus Alif Widhiwipati on Unsplash. [6S9VlOSonpg](https://unsplash.com/photos/a-black-and-white-photo-of-two-tall-buildings-6S9VlOSonpg?utm_source=investiq_image_bank&utm_medium=referral)
 - Person sitting on chair beside escalator: Photo by Michael Weidemann on Unsplash. [oGhTfu1UrOY](https://unsplash.com/photos/person-sitting-on-chair-beside-escalator-oGhTfu1UrOY?utm_source=investiq_image_bank&utm_medium=referral)
+- Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons. [Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg](https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg)
+- The New York City skyline across the Hudson River from Hoboken at golden hour: Photo by Mike Chavarri on Unsplash. [kZokA2VTKn4](https://unsplash.com/photos/new-york-city-skyline-from-hoboken-kZokA2VTKn4?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and white electric post under blue sky during daytime: Photo by Vyacheslav Shatskiy on Unsplash. [31JqyCVndUM](https://unsplash.com/photos/black-and-white-electric-post-under-blue-sky-during-daytime-31JqyCVndUM?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Materials sector (sector-materials)
@@ -1110,6 +1112,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Federal Reserve & interest rates (fed)
 
 - Eccles Building: Federalreserve, public domain, via Wikimedia Commons. [Eccles Building (26088200676).jpg](https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg)
+- Interior of the Board room.: Federalreserve, public domain, via Wikimedia Commons. [Ec 31b (26021694102).jpg](https://commons.wikimedia.org/wiki/File:Ec_31b_(26021694102).jpg)
+- FOMC BKL2522: Federalreserve, public domain, via Wikimedia Commons. [FOMC BKL2522 (12620086523).jpg](https://commons.wikimedia.org/wiki/File:FOMC_BKL2522_(12620086523).jpg)
 
 ## Inflation & cost of living (inflation)
 
@@ -1121,7 +1125,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Recession & slowdown (recession)
 
-- Hudson's Bay - Store closing sale - - 11: Sikander Iqbal, CC BY-SA 4.0, via Wikimedia Commons. [Hudson's Bay - Store closing sale - 20250524 - 11.jpg](https://commons.wikimedia.org/wiki/File:Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_11.jpg)
 - Unemployed people gathering outside City Hall: Associated Press, public domain, via Wikimedia Commons. [Unemployed people gathering outside City Hall.jpg](https://commons.wikimedia.org/wiki/File:Unemployed_people_gathering_outside_City_Hall.jpg)
 - Five black rolling chars front of desk: Photo by Brusk Dede on Unsplash. [tjd5CfdDPRA](https://unsplash.com/photos/five-black-rolling-chars-front-of-desk-tjd5CfdDPRA?utm_source=investiq_image_bank&utm_medium=referral)
 - Sign of the Times-Foreclosure: respres, CC BY 2.0, via Wikimedia Commons. [Sign of the Times-Foreclosure.jpg](https://commons.wikimedia.org/wiki/File:Sign_of_the_Times-Foreclosure.jpg)
@@ -1159,11 +1162,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## AI data centers & power demand (datacenters)
 
 - BalticServers data center: BalticServers.com, CC BY-SA 3.0, via Wikimedia Commons. [BalticServers data center.jpg](https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg)
+- Data center roof: Rsparks3, CC0, via Wikimedia Commons. [Data center roof.jpg](https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg)
+- Anchor pylon of high-voltage overhead power line 750 kV: Novoklimov, CC0, via Wikimedia Commons. [Anchor pylon of high-voltage overhead power line 750 kV.jpg](https://commons.wikimedia.org/wiki/File:Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg)
 - A large grey electrical transformer with metal pipes and cables in a substation: Photo by American Public Power Association on Unsplash. [VuR4oHZ3ucc](https://unsplash.com/photos/electrical-transformer-in-power-substation-VuR4oHZ3ucc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Semiconductors & the chip war (chips)
 
 - Silicon wafer researcher: U.S. Department of Energy, public domain, via Wikimedia Commons. [Silicon wafer researcher.jpg](https://commons.wikimedia.org/wiki/File:Silicon_wafer_researcher.jpg)
+- Man using computer: Photo by L N on Unsplash. [QASO5vwgVco](https://unsplash.com/photos/man-using-computer-QASO5vwgVco?utm_source=investiq_image_bank&utm_medium=referral)
 - Close up of dark blue circuit board: Photo by Vishnu Mohanan on Unsplash. [pfR18JNEMv8](https://unsplash.com/photos/close-up-of-dark-blue-circuit-board-pfR18JNEMv8?utm_source=investiq_image_bank&utm_medium=referral)
 - Photolithography lab in the LCN cleanroom: University College London Faculty of Mathematical & Physical Sciences, CC BY 2.0, via Wikimedia Commons. [Photolithography lab in the LCN cleanroom.jpg](https://commons.wikimedia.org/wiki/File:Photolithography_lab_in_the_LCN_cleanroom.jpg)
 
@@ -1217,11 +1223,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - 100 us dollar bill: Photo by Giorgio Trovato on Unsplash. [BRl69uNXr7g](https://unsplash.com/photos/100-us-dollar-bill-BRl69uNXr7g?utm_source=investiq_image_bank&utm_medium=referral)
 - Us dollars and euros scattered on a surface: Photo by Eric Prouzet on Unsplash. [4Ah6xLAQqaU](https://unsplash.com/photos/us-dollars-and-euros-scattered-on-a-surface-4Ah6xLAQqaU?utm_source=investiq_image_bank&utm_medium=referral)
+- Hands holding us dollar bills in a brown leather wallet: Photo by Jakub Żerdzicki on Unsplash. [qrMPzX59Fqk](https://unsplash.com/photos/hands-holding-us-dollar-bills-in-a-brown-leather-wallet-qrMPzX59Fqk?utm_source=investiq_image_bank&utm_medium=referral)
 - A one hundred dollar bill with a picture of a man's face on it: Photo by engin akyurt on Unsplash. [7aWvQdR36Y0](https://unsplash.com/photos/a-one-hundred-dollar-bill-with-a-picture-of-a-mans-face-on-it-7aWvQdR36Y0?utm_source=investiq_image_bank&utm_medium=referral)
+- Photo of dollar coins and banknotes: Photo by Mathieu Turle on Unsplash. [uJm-hfuCHm4](https://unsplash.com/photos/photo-of-dollar-coins-and-banknotes-uJm-hfuCHm4?utm_source=investiq_image_bank&utm_medium=referral)
 - Pile of swiss francs coins and banknotes: Photo by Markus Kammermann on Unsplash. [7ozi8PiLvNc](https://unsplash.com/photos/pile-of-swiss-francs-coins-and-banknotes-7ozi8PiLvNc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Treasuries, bonds & national debt (bonds)
 
+- United States Treasury building 2023: Wisneyykarin, CC BY-SA 4.0, via Wikimedia Commons. [United States Treasury building 2023.jpg](https://commons.wikimedia.org/wiki/File:United_States_Treasury_building_2023.jpg)
 - White and brown concrete building: Photo by Andy Feliciotti on Unsplash. [MCWONeEXhC4](https://unsplash.com/photos/white-and-brown-concrete-building-MCWONeEXhC4?utm_source=investiq_image_bank&utm_medium=referral)
 - Scott Bessent 2025 Official Portrait: Treasury Department, public domain, via Wikimedia Commons. [Scott Bessent 2025 Official Portrait.jpg](https://commons.wikimedia.org/wiki/File:Scott_Bessent_2025_Official_Portrait.jpg)
 
@@ -1232,6 +1241,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Low angle photo of high rise apartment building: Photo by Marlene Céline Nordvik on Unsplash. [5q1KnUjtjaM](https://unsplash.com/photos/low-angle-photo-of-high-rise-apartment-building-5q1KnUjtjaM?utm_source=investiq_image_bank&utm_medium=referral)
 - Markham-suburbs aerial-edit2: IDuke (this edited version: Sting ), CC BY-SA 2.5, via Wikimedia Commons. [Markham-suburbs aerial-edit2.jpg](https://commons.wikimedia.org/wiki/File:Markham-suburbs_aerial-edit2.jpg)
 - Holding house keys in front of the entrance: Photo by Jakub Żerdzicki on Unsplash. [bqUZEAeWuok](https://unsplash.com/photos/holding-house-keys-in-front-of-the-entrance-bqUZEAeWuok?utm_source=investiq_image_bank&utm_medium=referral)
+- A row of red brick buildings next to a body of water: Photo by Precious Madubuike on Unsplash. [Fnq3PWbdb9I](https://unsplash.com/photos/a-row-of-red-brick-buildings-next-to-a-body-of-water-Fnq3PWbdb9I?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Earnings season (earnings)
 
@@ -1240,19 +1250,23 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## IPOs (ipo)
 
 - New York Stock Exchange (NYSE) - Slack IPO: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [New York Stock Exchange (NYSE) - Slack IPO (48126622722).jpg](https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_(NYSE)_-_Slack_IPO_(48126622722).jpg)
+- Nyse-twin-lights: Mjkyang, CC BY-SA 4.0, via Wikimedia Commons. [Nyse-twin-lights.jpg](https://commons.wikimedia.org/wiki/File:Nyse-twin-lights.jpg)
 - Wall street sign with american flags in the background: Photo by Cyril @cyrilczl on Unsplash. [Ykq8v2b8lyw](https://unsplash.com/photos/wall-street-sign-with-american-flags-in-the-background-Ykq8v2b8lyw?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Electric vehicles (ev)
 
 - Electric vehicle charging cable plugged into car: Photo by CHUTTERSNAP on Unsplash. [xJLsHl0hIik](https://unsplash.com/photos/electric-vehicle-charging-cable-plugged-into-car-xJLsHl0hIik?utm_source=investiq_image_bank&utm_medium=referral)
 - A white sports car in a showroom: Photo by Hyundai Motor Group on Unsplash. [a3vDd8hzuYs](https://unsplash.com/photos/a-white-sports-car-in-a-showroom-a3vDd8hzuYs?utm_source=investiq_image_bank&utm_medium=referral)
+- BYD Seal IAA 2023 1X7A0371: Alexander-93, CC BY-SA 4.0, via Wikimedia Commons. [BYD Seal IAA 2023 1X7A0371.jpg](https://commons.wikimedia.org/wiki/File:BYD_Seal_IAA_2023_1X7A0371.jpg)
 - A black car parked in a wooded area: Photo by Wes Hicks on Unsplash. [5IaRz8fQBtI](https://unsplash.com/photos/a-black-car-parked-in-a-wooded-area-5IaRz8fQBtI?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Nuclear power & uranium (nuclear)
 
 - Nuclear power plant with cooling towers emitting steam: Photo by Energie-portal.sk on Unsplash. [NjacvIB_vIQ](https://unsplash.com/photos/nuclear-power-plant-with-cooling-towers-emitting-steam-NjacvIB_vIQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Waynesboro, Georgia, USA - Plant Vogtle: Kai NeSmith, CC BY 4.0, via Wikimedia Commons. [2025-03-11 - Waynesboro, Georgia, USA - Plant Vogtle.jpg](https://commons.wikimedia.org/wiki/File:2025-03-11_-_Waynesboro,_Georgia,_USA_-_Plant_Vogtle.jpg)
+- Uranium Ore in Barrels: IAEA Imagebank, CC BY-SA 2.0, via Wikimedia Commons. [Uranium Ore in Barrels (03010299) (4723344137).jpg](https://commons.wikimedia.org/wiki/File:Uranium_Ore_in_Barrels_(03010299)_(4723344137).jpg)
 - Núcleo del reactor nuclear RA-3, «Ciencia ficción», by Luis Gauna Pereira: Gaunper, CC BY-SA 4.0, via Wikimedia Commons. [Núcleo del reactor nuclear RA-3, «Ciencia ficción», by Luis Gauna Pereira.jpg](https://commons.wikimedia.org/wiki/File:N%C3%BAcleo_del_reactor_nuclear_RA-3,_%C2%ABCiencia_ficci%C3%B3n%C2%BB,_by_Luis_Gauna_Pereira.jpg)
+- Exelon Three Mile Island Nuclear Generating Station ( ): Constellation Energy, CC BY-SA 4.0, via Wikimedia Commons. [Exelon Three Mile Island Nuclear Generating Station (cropped).jpg](https://commons.wikimedia.org/wiki/File:Exelon_Three_Mile_Island_Nuclear_Generating_Station_(cropped).jpg)
 - Nuclear Fuel Pellets: Nuclear Regulatory Commission from US, public domain, via Wikimedia Commons. [Nuclear Fuel Pellets (14492225000).jpg](https://commons.wikimedia.org/wiki/File:Nuclear_Fuel_Pellets_(14492225000).jpg)
 
 ## Defense & geopolitics (defense)
@@ -1267,6 +1281,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Consumer spending & retail (consumer)
 
+- Photo of woman holding white and black paper bags: Photo by freestocks on Unsplash. [_3Q3tsJ01nc](https://unsplash.com/photos/photo-of-woman-holding-white-and-black-paper-bags-_3Q3tsJ01nc?utm_source=investiq_image_bank&utm_medium=referral)
 - State of the art building interior with lit Christmas tree: Photo by Ron Dauphin on Unsplash. [PP6I-8d0jg0](https://unsplash.com/photos/state-of-the-art-building-interior-with-lit-christmas-tree-PP6I-8d0jg0?utm_source=investiq_image_bank&utm_medium=referral)
 - A delivery driver on a red scooter riding through a city at night: Photo by Rowan Freeman on Unsplash. [clYlmCaQbzY](https://unsplash.com/photos/delivery-driver-on-red-scooter-clYlmCaQbzY?utm_source=investiq_image_bank&utm_medium=referral)
 
@@ -1298,6 +1313,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## US politics & markets (politics)
 
+- North Portico of the White House photo Don Ramey Logan: Don Ramey Logan, CC BY-SA 4.0, via Wikimedia Commons. [North Portico of the White House photo Don Ramey Logan.jpg](https://commons.wikimedia.org/wiki/File:North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg)
 - The united states capitol building lit up at night: Photo by Nils Huenerfuerst on Unsplash. [J74lRP0UTIM](https://unsplash.com/photos/the-united-states-capitol-building-lit-up-at-night-J74lRP0UTIM?utm_source=investiq_image_bank&utm_medium=referral)
 - View of Oval Office in 2017: White House, public domain, via Wikimedia Commons. [View of Oval Office in 2017.jpg](https://commons.wikimedia.org/wiki/File:View_of_Oval_Office_in_2017.jpg)
 - A large white building with columns with United States Supreme Court Building in the background: Photo by Fine Photographics on Unsplash. [osJUjMNpcak](https://unsplash.com/photos/a-large-white-building-with-columns-with-united-states-supreme-court-building-in-the-background-osJUjMNpcak?utm_source=investiq_image_bank&utm_medium=referral)
@@ -1337,6 +1353,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## India economy (india)
 
+- A city skyline with tall buildings and skyscrapers: Photo by Drone Master on Unsplash. [qrj4LiT9NRQ](https://unsplash.com/photos/a-city-skyline-with-tall-buildings-and-skyscrapers-qrj4LiT9NRQ?utm_source=investiq_image_bank&utm_medium=referral)
 - BSE - Bombay Stock Exchange Building: Niyantha Shekhar, CC BY 2.0, via Wikimedia Commons. [BSE - Bombay Stock Exchange Building.jpg](https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg)
 - Four Indian rupee banknotes: Photo by rupixen on Unsplash. [nI--XptpMa8](https://unsplash.com/photos/four-indian-rupee-banknotes-nI--XptpMa8?utm_source=investiq_image_bank&utm_medium=referral)
 - Dalal Street sign: Nick Gray, CC BY-SA 2.0, via Wikimedia Commons. [Dalal Street sign.jpg](https://commons.wikimedia.org/wiki/File:Dalal_Street_sign.jpg)
@@ -1345,6 +1362,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Tokyo tower illuminated at dusk with city skyline: Photo by Louie Martinez on Unsplash. [IocJwyqRv3M](https://unsplash.com/photos/tokyo-tower-illuminated-at-dusk-with-city-skyline-IocJwyqRv3M?utm_source=investiq_image_bank&utm_medium=referral)
 - Crowds of people crossing the Shibuya scramble intersection at night in Tokyo: Photo by Timo Volz on Unsplash. [DGsqL2j028E](https://unsplash.com/photos/shibuya-scramble-intersection-in-tokyo-DGsqL2j028E?utm_source=investiq_image_bank&utm_medium=referral)
+- Tokyo-STA Marunouchi-Entrance 2023: MaedaAkihiko, CC BY-SA 4.0, via Wikimedia Commons. [Tokyo-STA Marunouchi-Entrance 2023.jpg](https://commons.wikimedia.org/wiki/File:Tokyo-STA_Marunouchi-Entrance_2023.jpg)
 - White and black train on rail: Photo by Rikku Sama on Unsplash. [tIA68glTme0](https://unsplash.com/photos/white-and-black-train-on-rail-tIA68glTme0?utm_source=investiq_image_bank&utm_medium=referral)
 - A narrow alleyway in Tokyo at night with glowing red lanterns and illuminated signs: Photo by Denys Nevozhai on Unsplash. [D68ADLeMh5Q](https://unsplash.com/photos/alleyway-with-red-lanterns-in-tokyo-D68ADLeMh5Q?utm_source=investiq_image_bank&utm_medium=referral)
 

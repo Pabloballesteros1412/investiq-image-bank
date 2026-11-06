@@ -10,7 +10,7 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people."
  ],
  "updated": "2026-11-06",
- "photos": 565,
+ "photos": 583,
  "subjects": [
   {
    "id": "MMM",
@@ -7700,7 +7700,7 @@
    "aliases": [
     "real estate"
    ],
-   "photos": 3,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-real-estate.json"
   },
   {
@@ -7726,7 +7726,7 @@
     "rate cut",
     "rate hike"
    ],
-   "photos": 1,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/fed.json"
   },
   {
@@ -7754,7 +7754,7 @@
     "downturn",
     "gdp"
    ],
-   "photos": 5,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/recession.json"
   },
   {
@@ -7832,7 +7832,7 @@
     "grid",
     "capex"
    ],
-   "photos": 2,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/datacenters.json"
   },
   {
@@ -7846,7 +7846,7 @@
     "chip war",
     "export controls"
    ],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/chips.json"
   },
   {
@@ -7934,7 +7934,7 @@
     "forex",
     "eurusd"
    ],
-   "photos": 4,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/dollar.json"
   },
   {
@@ -7950,7 +7950,7 @@
     "deficit",
     "10-year"
    ],
-   "photos": 2,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bonds.json"
   },
   {
@@ -7965,7 +7965,7 @@
     "home prices",
     "homebuilders"
    ],
-   "photos": 5,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/housing.json"
   },
   {
@@ -7994,7 +7994,7 @@
     "initial public offering",
     "going public"
    ],
-   "photos": 2,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ipo.json"
   },
   {
@@ -8008,7 +8008,7 @@
     "electric cars",
     "batteries"
    ],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ev.json"
   },
   {
@@ -8022,7 +8022,7 @@
     "smr",
     "nuclear power"
    ],
-   "photos": 4,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
   },
   {
@@ -8053,7 +8053,7 @@
     "retail sales",
     "holiday season"
    ],
-   "photos": 2,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/consumer.json"
   },
   {
@@ -8131,7 +8131,7 @@
     "president",
     "shutdown"
    ],
-   "photos": 5,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/politics.json"
   },
   {
@@ -8203,7 +8203,7 @@
     "nifty",
     "rupee"
    ],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/india.json"
   },
   {
@@ -8218,7 +8218,7 @@
     "yen",
     "bank of japan"
    ],
-   "photos": 4,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/japan.json"
   },
   {
