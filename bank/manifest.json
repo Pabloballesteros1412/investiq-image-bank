@@ -26236,76 +26236,274 @@
   "sector": "sector-staples",
   "photos": [
    {
-    "shot": "leader",
-    "shows": "Ivan Menezes, Diageo CEO (per Wikidata)",
-    "file": "File:First Minister meets new recruits to the Diageo apprentice scheme.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:First_Minister_meets_new_recruits_to_the_Diageo_apprentice_scheme.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/First_Minister_meets_new_recruits_to_the_Diageo_apprentice_scheme.jpg/1920px-First_Minister_meets_new_recruits_to_the_Diageo_apprentice_scheme.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/First_Minister_meets_new_recruits_to_the_Diageo_apprentice_scheme.jpg/500px-First_Minister_meets_new_recruits_to_the_Diageo_apprentice_scheme.jpg",
+    "shot": "b1",
+    "shows": "A glass of guinness sitting on top of a table",
+    "file": "unsplash:vB5oHQr70b4",
+    "page": "https://unsplash.com/photos/a-glass-of-guinness-sitting-on-top-of-a-table-vB5oHQr70b4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1632293416349-4a3ff46e3572?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=2331&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1632293416349-4a3ff46e3572?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.33
-    ],
-    "credit": "Scottish Government, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Scottish Government",
-    "year": 2014,
-    "how": "Wikidata CEO",
-    "person": true
-   },
-   {
-    "shot": "c2",
-    "shows": "Trams in Budapest x 2023",
-    "file": "File:Trams in Budapest x 2023 (4).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Trams_in_Budapest_x_2023_(4).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Trams_in_Budapest_x_2023_%284%29.jpg/1920px-Trams_in_Budapest_x_2023_%284%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Trams_in_Budapest_x_2023_%284%29.jpg/500px-Trams_in_Budapest_x_2023_%284%29.jpg",
-    "size": [
-     1920,
-     2198
+     2331,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "MOs810, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "MOs810",
+    "credit": "Photo by Christopher Zapf on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christopher Zapf",
+    "year": 2021,
+    "how": "unsplash search: Guinness",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bildschirmaffe?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vB5oHQr70b4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "Clear glass cup close-up photography",
+    "file": "unsplash:4wnZbnW9Bv0",
+    "page": "https://unsplash.com/photos/clear-glass-cup-close-up-photography-4wnZbnW9Bv0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1563396983631-2f8cf576bb36?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1563396983631-2f8cf576bb36?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1803
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Phillip Glickman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Phillip Glickman",
+    "year": 2019,
+    "how": "unsplash search: Guinness",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@phillipglickman?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4wnZbnW9Bv0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "Johnie Walker Black Label",
+    "file": "unsplash:YBlcnXfv9OM",
+    "page": "https://unsplash.com/photos/johnie-walker-black-label-YBlcnXfv9OM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Sm9obm5pZSUyMFdhbGtlcnxlbnwxfHx8fDE3OTM5OTI1MDh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Sm9obm5pZSUyMFdhbGtlcnxlbnwxfHx8fDE3OTM5OTI1MDh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brian Jones on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brian Jones",
+    "year": 2019,
+    "how": "unsplash search: Johnnie Walker",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@briannjoness?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/YBlcnXfv9OM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Sm9obm5pZSUyMFdhbGtlcnxlbnwxfHx8fDE3OTM5OTI1MDh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "Black and brown electric guitar",
+    "file": "unsplash:c9ebKC0pkx0",
+    "page": "https://unsplash.com/photos/black-and-brown-electric-guitar-c9ebKC0pkx0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1597943796043-11139b69f94b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1597943796043-11139b69f94b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1818
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by K. Mitch Hodge on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "K. Mitch Hodge",
+    "year": 2020,
+    "how": "unsplash search: Guinness",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kmitchhodge?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/c9ebKC0pkx0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "Black Guinness gate",
+    "file": "unsplash:1Rfjzq1DJYM",
+    "page": "https://unsplash.com/photos/black-guinness-gate-1Rfjzq1DJYM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1548236434-a7f255435aa9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=1705&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1548236434-a7f255435aa9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1705,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Louis Hansel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Louis Hansel",
+    "year": 2019,
+    "how": "unsplash search: Guinness",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@louishansel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/1Rfjzq1DJYM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "A bottle of smirnoff on a reflective surface",
+    "file": "unsplash:DbAQQBzvaDM",
+    "page": "https://unsplash.com/photos/a-bottle-of-smirnoff-on-a-reflective-surface-DbAQQBzvaDM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1703437871687-427b69640924?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1703437871687-427b69640924?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by William Warby on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "William Warby",
     "year": 2023,
-    "how": "Commons category",
-    "category": "Diageo"
+    "how": "unsplash search: Smirnoff",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@wwarby?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/DbAQQBzvaDM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA",
+    "track_pending": true
    },
    {
-    "shot": "c3",
-    "shows": "Red Stripe",
-    "file": "File:Red Stripe.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Red_Stripe.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Stripe.JPG/1280px-Red_Stripe.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Red_Stripe.JPG/500px-Red_Stripe.JPG",
+    "shot": "b7",
+    "shows": "Jack daniels old no 7 tennessee whiskey",
+    "file": "unsplash:PboILhfVi5o",
+    "page": "https://unsplash.com/photos/jack-daniels-old-no-7-tennessee-whiskey-PboILhfVi5o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1592620352607-53100d32f9fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Sm9obm5pZSUyMFdhbGtlcnxlbnwxfHx8fDE3OTM5OTI1MDh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1592620352607-53100d32f9fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Sm9obm5pZSUyMFdhbGtlcnxlbnwxfHx8fDE3OTM5OTI1MDh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Xanor, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Xanor",
-    "year": 2011,
-    "how": "Commons category",
-    "category": "Diageo"
+    "credit": "Photo by White Field Photo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "White Field Photo",
+    "year": 2020,
+    "how": "unsplash search: Johnnie Walker",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jra9393?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PboILhfVi5o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Sm9obm5pZSUyMFdhbGtlcnxlbnwxfHx8fDE3OTM5OTI1MDh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "Smirnoff vodka bottle besides shot glass",
+    "file": "unsplash:nkUtcTb7SOg",
+    "page": "https://unsplash.com/photos/smirnoff-vodka-bottle-besides-shot-glass-nkUtcTb7SOg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1550985543-f47f38aeee65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1550985543-f47f38aeee65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by William Warby on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "William Warby",
+    "year": 2019,
+    "how": "unsplash search: Smirnoff",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@wwarby?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nkUtcTb7SOg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "A glass of guinness sitting on a wooden table",
+    "file": "unsplash:th9HZZbdUZ4",
+    "page": "https://unsplash.com/photos/a-glass-of-guinness-sitting-on-a-wooden-table-th9HZZbdUZ4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1642191572834-256807f846b7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1642191572834-256807f846b7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Richard Bell on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Richard Bell",
+    "year": 2022,
+    "how": "unsplash search: Guinness",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@maplerockdesign?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/th9HZZbdUZ4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8R3Vpbm5lc3N8ZW58MXx8fHwxNzkzOTkyNTA3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b10",
+    "shows": "A shelf with many cans of soda on it",
+    "file": "unsplash:V3AvUN52C0Y",
+    "page": "https://unsplash.com/photos/a-shelf-with-many-cans-of-soda-on-it-V3AvUN52C0Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1665387271961-7a32eecac2b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1665387271961-7a32eecac2b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Emmanuel Edward on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Emmanuel Edward",
+    "year": 2022,
+    "how": "unsplash search: Smirnoff",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tbonz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/V3AvUN52C0Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U21pcm5vZmZ8ZW58MXx8fHwxNzkzOTkyNTA5fDA",
+    "track_pending": true
    },
    {
     "shot": "c4",
@@ -26332,30 +26530,6 @@
     "category": "Buildings of Diageo"
    },
    {
-    "shot": "c5",
-    "shows": "DCL Hot buns sign",
-    "file": "File:DCL Hot buns sign.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:DCL_Hot_buns_sign.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/DCL_Hot_buns_sign.jpg/1280px-DCL_Hot_buns_sign.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/DCL_Hot_buns_sign.jpg/500px-DCL_Hot_buns_sign.jpg",
-    "size": [
-     1280,
-     1762
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrittaniaJones, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "BrittaniaJones",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "The Distillers Company"
-   },
-   {
     "shot": "c6",
     "shows": "Diageo global Crown Royal supply plant, Gimli, Manitoba, Canada",
     "file": "File:CR Gimli.jpg",
@@ -26378,102 +26552,9 @@
     "year": 2005,
     "how": "Commons category",
     "category": "Diageo"
-   },
-   {
-    "shot": "c7",
-    "shows": "Captain's Corner",
-    "file": "File:Captain's Corner (2827938731).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Captain%27s_Corner_(2827938731).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Captain%27s_Corner_%282827938731%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Captain%27s_Corner_%282827938731%29.jpg/500px-Captain%27s_Corner_%282827938731%29.jpg",
-    "size": [
-     1200,
-     1600
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "William Beutler from Washinton, DC, USA, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "William Beutler from Washinton, DC, USA",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Diageo"
-   },
-   {
-    "shot": "s8",
-    "shows": "Gas storage facilities at Diageo - geograph.org.uk",
-    "file": "File:Gas storage facilities at Diageo - geograph.org.uk - 6221745.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gas_storage_facilities_at_Diageo_-_geograph.org.uk_-_6221745.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Gas_storage_facilities_at_Diageo_-_geograph.org.uk_-_6221745.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gas_storage_facilities_at_Diageo_-_geograph.org.uk_-_6221745.jpg/500px-Gas_storage_facilities_at_Diageo_-_geograph.org.uk_-_6221745.jpg",
-    "size": [
-     1632,
-     1224
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Richard Law, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Richard Law",
-    "year": 2019,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "The Diageo site - bonded warehouses - geograph.org.uk",
-    "file": "File:The Diageo site - bonded warehouses - geograph.org.uk - 6221740.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Diageo_site_-_bonded_warehouses_-_geograph.org.uk_-_6221740.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/The_Diageo_site_-_bonded_warehouses_-_geograph.org.uk_-_6221740.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/The_Diageo_site_-_bonded_warehouses_-_geograph.org.uk_-_6221740.jpg/500px-The_Diageo_site_-_bonded_warehouses_-_geograph.org.uk_-_6221740.jpg",
-    "size": [
-     1632,
-     1224
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Richard Law, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Richard Law",
-    "year": 2019,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Marsh and pool behind the Diageo site - geograph.org.uk",
-    "file": "File:Marsh and pool behind the Diageo site - geograph.org.uk - 6221748.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Marsh_and_pool_behind_the_Diageo_site_-_geograph.org.uk_-_6221748.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Marsh_and_pool_behind_the_Diageo_site_-_geograph.org.uk_-_6221748.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Marsh_and_pool_behind_the_Diageo_site_-_geograph.org.uk_-_6221748.jpg/500px-Marsh_and_pool_behind_the_Diageo_site_-_geograph.org.uk_-_6221748.jpg",
-    "size": [
-     1632,
-     1224
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Richard Law, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Richard Law",
-    "year": 2019,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "FANG": {
   "name": "Diamondback Energy",
@@ -26554,6 +26635,57 @@
   "sector": "sector-staples",
   "photos": [
    {
+    "shot": "c6",
+    "shows": "DG Market, Bartow GA",
+    "file": "File:DG Market, Bartow GA.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:DG_Market,_Bartow_GA.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DG_Market%2C_Bartow_GA.jpg/1920px-DG_Market%2C_Bartow_GA.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DG_Market%2C_Bartow_GA.jpg/500px-DG_Market%2C_Bartow_GA.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "John Phelan",
+    "year": 2026,
+    "how": "Commons category",
+    "category": "Dollar General stores in Georgia (U.S. state)"
+   },
+   {
+    "shot": "b1",
+    "shows": "A dollar general store lit up at night",
+    "file": "unsplash:upq1JaXpIq8",
+    "page": "https://unsplash.com/photos/a-dollar-general-store-lit-up-at-night-upq1JaXpIq8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1727313641400-2d11c3be5979?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8RG9sbGFyJTIwR2VuZXJhbHxlbnwxfHx8fDE3OTM5OTI1MDl8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1727313641400-2d11c3be5979?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8RG9sbGFyJTIwR2VuZXJhbHxlbnwxfHx8fDE3OTM5OTI1MDl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Cam Ballard on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cam Ballard",
+    "year": 2024,
+    "how": "unsplash search: Dollar General",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cam_ballard?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/upq1JaXpIq8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8RG9sbGFyJTIwR2VuZXJhbHxlbnwxfHx8fDE3OTM5OTI1MDl8MA",
+    "track_pending": true
+   },
+   {
     "shot": "c1",
     "shows": "Dollar General, North Waterboro ME",
     "file": "File:Dollar General, North Waterboro ME.jpg",
@@ -26602,30 +26734,6 @@
     "category": "Dollar General stores in Alabama"
    },
    {
-    "shot": "c3",
-    "shows": "Crown WP Pallet Jack @ Dollar General in MacClenny, FL",
-    "file": "File:Crown WP Pallet Jack @ Dollar General in MacClenny, FL.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Crown_WP_Pallet_Jack_@_Dollar_General_in_MacClenny,_FL.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Crown_WP_Pallet_Jack_%40_Dollar_General_in_MacClenny%2C_FL.jpg/1920px-Crown_WP_Pallet_Jack_%40_Dollar_General_in_MacClenny%2C_FL.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Crown_WP_Pallet_Jack_%40_Dollar_General_in_MacClenny%2C_FL.jpg/500px-Crown_WP_Pallet_Jack_%40_Dollar_General_in_MacClenny%2C_FL.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "DanTD, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "DanTD",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Dollar General stores in Florida"
-   },
-   {
     "shot": "c4",
     "shows": "DG Market + pOpshelf, Lakeland, Florida",
     "file": "File:DG Market + pOpshelf, Lakeland, Florida.jpg",
@@ -26650,101 +26758,6 @@
     "category": "Dollar General stores in Florida"
    },
    {
-    "shot": "c5",
-    "shows": "City Hall and Dollar General, Buchanan GA",
-    "file": "File:City Hall and Dollar General, Buchanan GA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:City_Hall_and_Dollar_General,_Buchanan_GA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/City_Hall_and_Dollar_General%2C_Buchanan_GA.jpg/1920px-City_Hall_and_Dollar_General%2C_Buchanan_GA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/City_Hall_and_Dollar_General%2C_Buchanan_GA.jpg/500px-City_Hall_and_Dollar_General%2C_Buchanan_GA.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John Phelan",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Dollar General stores in Georgia (U.S. state)"
-   },
-   {
-    "shot": "c6",
-    "shows": "DG Market, Bartow GA",
-    "file": "File:DG Market, Bartow GA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:DG_Market,_Bartow_GA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DG_Market%2C_Bartow_GA.jpg/1920px-DG_Market%2C_Bartow_GA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DG_Market%2C_Bartow_GA.jpg/500px-DG_Market%2C_Bartow_GA.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John Phelan",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Dollar General stores in Georgia (U.S. state)"
-   },
-   {
-    "shot": "c7",
-    "shows": "Dollar General's sweet smiles brand candy.",
-    "file": "File:DGSweetsmilesbrand.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:DGSweetsmilesbrand.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DGSweetsmilesbrand.jpg/1920px-DGSweetsmilesbrand.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DGSweetsmilesbrand.jpg/500px-DGSweetsmilesbrand.jpg",
-    "size": [
-     1920,
-     2079
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Excel23, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Excel23",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Dollar General"
-   },
-   {
-    "shot": "s8",
-    "shows": "Dollar general store union Grove wi",
-    "file": "File:Dollar general store union Grove wi.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dollar_general_store_union_Grove_wi.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dollar_general_store_union_Grove_wi.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dollar_general_store_union_Grove_wi.jpg/500px-Dollar_general_store_union_Grove_wi.jpg",
-    "size": [
-     1713,
-     1074
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ceeren, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Ceeren",
-    "year": 2026,
-    "how": "Commons search"
-   },
-   {
     "shot": "s9",
     "shows": "Dollar General store in Durham, California",
     "file": "File:Dollar General store in Durham, California.jpg",
@@ -26766,32 +26779,9 @@
     "author": "Frank Schulenburg",
     "year": 2020,
     "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "New Dollar General Store in Winnfield, LA",
-    "file": "File:New Dollar General Store in Winnfield, LA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:New_Dollar_General_Store_in_Winnfield,_LA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/New_Dollar_General_Store_in_Winnfield%2C_LA.jpg/1920px-New_Dollar_General_Store_in_Winnfield%2C_LA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/New_Dollar_General_Store_in_Winnfield%2C_LA.jpg/500px-New_Dollar_General_Store_in_Winnfield%2C_LA.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wikilester 3, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Wikilester 3",
-    "year": 2022,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "DLTR": {
   "name": "Dollar Tree",
@@ -26802,53 +26792,6 @@
   "aliases": [],
   "sector": "sector-staples",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "Dollar Tree, Griffin",
-    "file": "File:Dollar Tree, Griffin.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Dollar_Tree,_Griffin.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dollar_Tree%2C_Griffin.JPG/1920px-Dollar_Tree%2C_Griffin.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dollar_Tree%2C_Griffin.JPG/500px-Dollar_Tree%2C_Griffin.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Michael Rivera",
-    "year": 2014,
-    "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Dollar Tree shopping cart at the Rose Hill Shopping Center 1",
-    "file": "File:Dollar Tree shopping cart at the Rose Hill Shopping Center 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_1.jpg/1920px-Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_1.jpg/500px-Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_1.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ser Amantio di Nicolao, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Ser Amantio di Nicolao",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Dollar Tree"
-   },
    {
     "shot": "c3",
     "shows": "Dollar Tree store in Orlando, Florida",
@@ -26874,28 +26817,77 @@
     "category": "Dollar Tree"
    },
    {
-    "shot": "c4",
-    "shows": "Price Check at Dollar Tree, Miami Florida 14 August 2024",
-    "file": "File:Price Check at Dollar Tree, Miami Florida 14 August 2024.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Price_Check_at_Dollar_Tree,_Miami_Florida_14_August_2024.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Price_Check_at_Dollar_Tree%2C_Miami_Florida_14_August_2024.jpg/1280px-Price_Check_at_Dollar_Tree%2C_Miami_Florida_14_August_2024.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Price_Check_at_Dollar_Tree%2C_Miami_Florida_14_August_2024.jpg/500px-Price_Check_at_Dollar_Tree%2C_Miami_Florida_14_August_2024.jpg",
+    "shot": "s9",
+    "shows": "Dollar Tree discount store exterior in Greenville, South Carolina 02",
+    "file": "File:Dollar Tree discount store exterior in Greenville, South Carolina 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dollar_Tree_discount_store_exterior_in_Greenville,_South_Carolina_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg/1920px-Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg/500px-Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg",
     "size": [
-     1280,
-     1707
+     1920,
+     1347
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
+    "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Phillip Pessar",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Dollar Tree"
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Harrison Keely",
+    "year": 2025,
+    "how": "Commons search"
+   },
+   {
+    "shot": "b1",
+    "shows": "A bunch of red and white shoes hanging on a wall",
+    "file": "unsplash:N16DL_MvwEk",
+    "page": "https://unsplash.com/photos/a-bunch-of-red-and-white-shoes-hanging-on-a-wall-N16DL_MvwEk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1644724312847-4c484d5bfe3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8RG9sbGFyJTIwVHJlZXxlbnwxfHx8fDE3OTM5OTI1MTB8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1644724312847-4c484d5bfe3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8RG9sbGFyJTIwVHJlZXxlbnwxfHx8fDE3OTM5OTI1MTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gene Gallin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gene Gallin",
+    "year": 2022,
+    "how": "unsplash search: Dollar Tree",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@genefoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/N16DL_MvwEk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8RG9sbGFyJTIwVHJlZXxlbnwxfHx8fDE3OTM5OTI1MTB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "main",
+    "shows": "Dollar Tree, Griffin",
+    "file": "File:Dollar Tree, Griffin.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Dollar_Tree,_Griffin.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dollar_Tree%2C_Griffin.JPG/1920px-Dollar_Tree%2C_Griffin.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Dollar_Tree%2C_Griffin.JPG/500px-Dollar_Tree%2C_Griffin.JPG",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Michael Rivera",
+    "year": 2014,
+    "how": "Wikidata main image"
    },
    {
     "shot": "c5",
@@ -26920,30 +26912,6 @@
     "year": 2020,
     "how": "Commons category",
     "category": "Dollar Tree stores in Canada"
-   },
-   {
-    "shot": "c6",
-    "shows": "ASSURED Instant Hand Sanitizers",
-    "file": "File:ASSURED Instant Hand Sanitizers.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ASSURED_Instant_Hand_Sanitizers.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ASSURED_Instant_Hand_Sanitizers.jpg/1280px-ASSURED_Instant_Hand_Sanitizers.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ASSURED_Instant_Hand_Sanitizers.jpg/500px-ASSURED_Instant_Hand_Sanitizers.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NeoBatfreak, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "NeoBatfreak",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Dollar Tree"
    },
    {
     "shot": "c7",
@@ -26993,29 +26961,6 @@
     "how": "Commons search"
    },
    {
-    "shot": "s9",
-    "shows": "Dollar Tree discount store exterior in Greenville, South Carolina 02",
-    "file": "File:Dollar Tree discount store exterior in Greenville, South Carolina 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dollar_Tree_discount_store_exterior_in_Greenville,_South_Carolina_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg/1920px-Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg/500px-Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg",
-    "size": [
-     1920,
-     1347
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Harrison Keely",
-    "year": 2025,
-    "how": "Commons search"
-   },
-   {
     "shot": "s10",
     "shows": "Dollar Tree store",
     "file": "File:Dollar Tree store.jpg",
@@ -27039,7 +26984,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "D": {
   "name": "Dominion Energy",
