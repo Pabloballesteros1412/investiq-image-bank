@@ -1333,6 +1333,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two persons sitting on grass facing the lake: Photo by Max Harlynking on Unsplash. [DGP-759-Ukk](https://unsplash.com/photos/two-persons-sitting-on-grass-facing-the-lake-DGP-759-Ukk?utm_source=investiq_image_bank&utm_medium=referral)
 - Stacks of gold coins on a dark, textured surface: Photo by Anthony Aird on Unsplash. [MEE_C_8fLvU](https://unsplash.com/photos/stacks-of-gold-coins-on-a-dark-textured-surface-MEE_C_8fLvU?utm_source=investiq_image_bank&utm_medium=referral)
 - Trading apps on an iPhone screen: forextime.com, CC BY 2.0, via Wikimedia Commons. [Trading apps on an iPhone screen.jpg](https://commons.wikimedia.org/wiki/File:Trading_apps_on_an_iPhone_screen.jpg)
+- A woman rows her boat on calm water: Photo by Joseph Corl on Unsplash. [KkdKZdXKvao](https://unsplash.com/photos/a-woman-rows-her-boat-on-calm-water-KkdKZdXKvao?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Space economy (space)
 
@@ -1346,6 +1347,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Weight-loss drugs (GLP-1) (glp1)
 
 - A semaglutide injection pen is shown: Photo by Haberdoedas on Unsplash. [TzKc7FGaL7Y](https://unsplash.com/photos/a-semaglutide-injection-pen-is-shown-TzKc7FGaL7Y?utm_source=investiq_image_bank&utm_medium=referral)
+- Blue and white i love you round plate: Photo by Total Shape on Unsplash. [p7nwvfcjk-I](https://unsplash.com/photos/blue-and-white-i-love-you-round-plate-p7nwvfcjk-I?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a toothbrush on a table: Photo by Haberdoedas on Unsplash. [iIUTWv4g64c](https://unsplash.com/photos/a-close-up-of-a-toothbrush-on-a-table-iIUTWv4g64c?utm_source=investiq_image_bank&utm_medium=referral)
+- A blue and silver medical instrument on a white surface: Photo by Олег Мороз on Unsplash. [JnJylmuVofU](https://unsplash.com/photos/a-blue-and-silver-medical-instrument-on-a-white-surface-JnJylmuVofU?utm_source=investiq_image_bank&utm_medium=referral)
+- White round medication pill on yellow surface: Photo by Diana Polekhina on Unsplash. [GBxx3vkK3fA](https://unsplash.com/photos/white-round-medication-pill-on-yellow-surface-GBxx3vkK3fA?utm_source=investiq_image_bank&utm_medium=referral)
 - A woman measuring her waist with a measuring tape: Photo by B Y G on Unsplash. [oThoRP1zGzE](https://unsplash.com/photos/a-woman-measuring-her-waist-with-a-measuring-tape-oThoRP1zGzE?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## US politics & markets (politics)
@@ -1371,6 +1376,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - A quantum computer with gold plates and intricate silver wiring against a black background: Photo by Planet Volumes on Unsplash. [7dRmpT3vxV8](https://unsplash.com/photos/quantum-computer-with-gold-plates-7dRmpT3vxV8?utm_source=investiq_image_bank&utm_medium=referral)
 - Dilution Fridge 008 16K: OJB Quantum, CC BY 4.0, via Wikimedia Commons. [Dilution Fridge 008 16K.png](https://commons.wikimedia.org/wiki/File:Dilution_Fridge_008_16K.png)
+- Measuring a qubit leaves no room for error: FMNLab, CC BY 4.0, via Wikimedia Commons. [Measuring a qubit leaves no room for error.jpg](https://commons.wikimedia.org/wiki/File:Measuring_a_qubit_leaves_no_room_for_error.jpg)
 - IBM Quantum System One: OJB Quantum, CC BY 4.0, via Wikimedia Commons. [IBM Quantum System One.jpg](https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg)
 
 ## Robotics & automation (robotics)
@@ -1383,6 +1389,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Cybersecurity (cybersecurity)
 
+- Red padlock on black computer keyboard: Photo by FlyD on Unsplash. [mT7lXZPjk7U](https://unsplash.com/photos/red-padlock-on-black-computer-keyboard-mT7lXZPjk7U?utm_source=investiq_image_bank&utm_medium=referral)
+- Data security privacy lock password: Book Catalog, CC BY 2.0, via Wikimedia Commons. [Data security privacy lock password (41237924492).jpg](https://commons.wikimedia.org/wiki/File:Data_security_privacy_lock_password_(41237924492).jpg)
 - A combination lock rests on a computer keyboard: Photo by Sasun Bughdaryan on Unsplash. [WUJmdr8pNwk](https://unsplash.com/photos/a-combination-lock-rests-on-a-computer-keyboard-WUJmdr8pNwk?utm_source=investiq_image_bank&utm_medium=referral)
 - Two white security cameras mounted on a pole against a clear blue sky: Photo by Michał Jakubowski on Unsplash. [oQD9uq4Rd4I](https://unsplash.com/photos/security-cameras-on-pole-against-sky-oQD9uq4Rd4I?utm_source=investiq_image_bank&utm_medium=referral)
 - A glowing fingerprint on a dark circular scanner surface with concentric lines: Photo by George Prentzas on Unsplash. [SRFG7iwktDk](https://unsplash.com/photos/glowing-fingerprint-on-circular-scanner-SRFG7iwktDk?utm_source=investiq_image_bank&utm_medium=referral)
@@ -1392,8 +1400,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - A city skyline with tall buildings and skyscrapers: Photo by Drone Master on Unsplash. [qrj4LiT9NRQ](https://unsplash.com/photos/a-city-skyline-with-tall-buildings-and-skyscrapers-qrj4LiT9NRQ?utm_source=investiq_image_bank&utm_medium=referral)
 - BSE - Bombay Stock Exchange Building: Niyantha Shekhar, CC BY 2.0, via Wikimedia Commons. [BSE - Bombay Stock Exchange Building.jpg](https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg)
+- Boats on the Ganges river before stone ghats and temples in Varanasi, India: Photo by Srivatsan Balaji on Unsplash. [T5s48osIQTU](https://unsplash.com/photos/boats-on-ganges-river-in-varanasi-T5s48osIQTU?utm_source=investiq_image_bank&utm_medium=referral)
+- People walking on side walk beside beach: Photo by Satyajeet Mazumdar on Unsplash. [fCsmYKhiHGo](https://unsplash.com/photos/people-walking-on-side-walk-beside-beach-fCsmYKhiHGo?utm_source=investiq_image_bank&utm_medium=referral)
 - Four Indian rupee banknotes: Photo by rupixen on Unsplash. [nI--XptpMa8](https://unsplash.com/photos/four-indian-rupee-banknotes-nI--XptpMa8?utm_source=investiq_image_bank&utm_medium=referral)
+- The India Gate war memorial in New Delhi under a vibrant pink sky: Photo by shalender kumar on Unsplash. [XjKaPInYVCM](https://unsplash.com/photos/india-gate-war-memorial-in-new-delhi-XjKaPInYVCM?utm_source=investiq_image_bank&utm_medium=referral)
 - Dalal Street sign: Nick Gray, CC BY-SA 2.0, via Wikimedia Commons. [Dalal Street sign.jpg](https://commons.wikimedia.org/wiki/File:Dalal_Street_sign.jpg)
+- A large building with a statue in front of it: Photo by zablanca_clicks on Unsplash. [Y7UIBtbVywA](https://unsplash.com/photos/a-large-building-with-a-statue-in-front-of-it-Y7UIBtbVywA?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Japan economy (japan)
 
@@ -1408,6 +1420,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A group of power lines sitting on top of a lush green hillside: Photo by Nils Huenerfuerst on Unsplash. [_5tA5AUpp0Q](https://unsplash.com/photos/a-group-of-power-lines-sitting-on-top-of-a-lush-green-hillside-_5tA5AUpp0Q?utm_source=investiq_image_bank&utm_medium=referral)
 - Aluminium ingots St-Saphorin: NAC, CC BY-SA 4.0, via Wikimedia Commons. [Aluminium ingots St-Saphorin 180310.jpg](https://commons.wikimedia.org/wiki/File:Aluminium_ingots_St-Saphorin_180310.jpg)
 - Sub vertical band of iron ore - panoramio: Martin Tuchscherer, CC BY-SA 3.0, via Wikimedia Commons. [Sub vertical band of iron ore - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Sub_vertical_band_of_iron_ore_-_panoramio.jpg)
+- Photography of excavators at mining area: Photo by Dominik Vanyi on Unsplash. [Mk2ls9UBO2E](https://unsplash.com/photos/photography-of-excavators-at-mining-area-Mk2ls9UBO2E?utm_source=investiq_image_bank&utm_medium=referral)
+- Electric guide 3×2.5 mm: Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons. [Electric guide 3×2.5 mm.jpg](https://commons.wikimedia.org/wiki/File:Electric_guide_3%C3%972.5_mm.jpg)
 - A few yellow trucks on a road: Photo by Boom & Bucket on Unsplash. [ed9HcUgZORI](https://unsplash.com/photos/a-few-yellow-trucks-on-a-road-ed9HcUgZORI?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Travel & airlines (travel)
