@@ -7,5 +7,78 @@
  ],
  "sector": "sector-materials",
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Ecolab Soap Dispenser in Public Restroom",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ecolab_Soap_Dispenser_in_Public_Restroom_%2853242405292%29.jpg/1920px-Ecolab_Soap_Dispenser_in_Public_Restroom_%2853242405292%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ecolab_Soap_Dispenser_in_Public_Restroom_%2853242405292%29.jpg/500px-Ecolab_Soap_Dispenser_in_Public_Restroom_%2853242405292%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ecolab_Soap_Dispenser_in_Public_Restroom_(53242405292).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Downtown St. Paul, Minnesota",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Downtown_St._Paul%2C_Minnesota_%2843166326695%29.jpg/1920px-Downtown_St._Paul%2C_Minnesota_%2843166326695%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Downtown_St._Paul%2C_Minnesota_%2843166326695%29.jpg/500px-Downtown_St._Paul%2C_Minnesota_%2843166326695%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Downtown_St._Paul,_Minnesota_(43166326695).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ecolab Denmark",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ecolab_Denmark.jpg/1920px-Ecolab_Denmark.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ecolab_Denmark.jpg/500px-Ecolab_Denmark.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Leif Jørgensen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ecolab_Denmark.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ecolab and Alliance Bank Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ecolab_and_Alliance_Bank_Center.jpg/1920px-Ecolab_and_Alliance_Bank_Center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ecolab_and_Alliance_Bank_Center.jpg/500px-Ecolab_and_Alliance_Bank_Center.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Hicks from Saint Paul, MN, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ecolab_and_Alliance_Bank_Center.jpg",
+   "plain": true
+  }
+ ]
 }

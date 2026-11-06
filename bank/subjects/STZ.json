@@ -7,5 +7,60 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "A bucket full of corona beer sitting on a table",
+   "url": "https://images.unsplash.com/photo-1726475148440-7def8a170cc1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1726475148440-7def8a170cc1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1810
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nesnin Shamsheer on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nesniin?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bucket-full-of-corona-beer-sitting-on-a-table-ifYkUuqvsfY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Corona Extra bottle on seashore during daytime",
+   "url": "https://images.unsplash.com/photo-1473429174434-a8a8d5e0dc2e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1473429174434-a8a8d5e0dc2e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jake Bradley on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jakebradley?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/corona-extra-bottle-on-seashore-during-daytime-LnBisJEyVFE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Constellation Brands headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Constellation_Brands_headquarters.jpg/1920px-Constellation_Brands_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Constellation_Brands_headquarters.jpg/500px-Constellation_Brands_headquarters.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DanielPenfield, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Constellation_Brands_headquarters.jpg",
+   "plain": true
+  }
+ ]
 }

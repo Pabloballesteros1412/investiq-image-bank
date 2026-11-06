@@ -7,5 +7,60 @@
  ],
  "sector": "sector-consumer-discretionary",
  "fill_from": "sector-consumer-discretionary",
- "photos": []
+ "photos": [
+  {
+   "shows": "Expedia Group south entrance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Expedia_Group_south_entrance.jpg/1920px-Expedia_Group_south_entrance.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Expedia_Group_south_entrance.jpg/500px-Expedia_Group_south_entrance.jpg",
+   "size": [
+    1920,
+    933
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "T014y, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Expedia_Group_south_entrance.jpg",
+   "plain": true
+  },
+  {
+   "shows": "The Domain Northside - Expedia Group Austin - Corporate Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/The_Domain_Northside_-_Expedia_Group_Austin_-_Corporate_Office_%2853838348627%29.jpg/1920px-The_Domain_Northside_-_Expedia_Group_Austin_-_Corporate_Office_%2853838348627%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/The_Domain_Northside_-_Expedia_Group_Austin_-_Corporate_Office_%2853838348627%29.jpg/500px-The_Domain_Northside_-_Expedia_Group_Austin_-_Corporate_Office_%2853838348627%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Domain_Northside_-_Expedia_Group_Austin_-_Corporate_Office_(53838348627).jpg",
+   "plain": true
+  },
+  {
+   "shows": "David Scowsill interviews Barry Diller, Chairman and Senior Executive of IAC & Expedia, Inc",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/David_Scowsill_interviews_Barry_Diller%2C_Chairman_and_Senior_Executive_of_IAC_%26_Expedia%2C_Inc._%2825691901234%29.jpg/1920px-David_Scowsill_interviews_Barry_Diller%2C_Chairman_and_Senior_Executive_of_IAC_%26_Expedia%2C_Inc._%2825691901234%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/David_Scowsill_interviews_Barry_Diller%2C_Chairman_and_Senior_Executive_of_IAC_%26_Expedia%2C_Inc._%2825691901234%29.jpg/500px-David_Scowsill_interviews_Barry_Diller%2C_Chairman_and_Senior_Executive_of_IAC_%26_Expedia%2C_Inc._%2825691901234%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "World Travel & Tourism Council, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:David_Scowsill_interviews_Barry_Diller,_Chairman_and_Senior_Executive_of_IAC_%26_Expedia,_Inc._(25691901234).jpg",
+   "plain": true
+  }
+ ]
 }

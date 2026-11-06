@@ -7,5 +7,60 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "C.H. Robinson HQ entrance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/C.H._Robinson_HQ_entrance.JPG/1920px-C.H._Robinson_HQ_entrance.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/C.H._Robinson_HQ_entrance.JPG/500px-C.H._Robinson_HQ_entrance.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MarkTraceur, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:C.H._Robinson_HQ_entrance.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Benching Freight Train Graffiti in SoCal (August 20th 2021)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Benching_Freight_Train_Graffiti_in_SoCal_%28August_20th_2021%29_%2851410916317%29.jpg/1920px-Benching_Freight_Train_Graffiti_in_SoCal_%28August_20th_2021%29_%2851410916317%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Benching_Freight_Train_Graffiti_in_SoCal_%28August_20th_2021%29_%2851410916317%29.jpg/500px-Benching_Freight_Train_Graffiti_in_SoCal_%28August_20th_2021%29_%2851410916317%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "siamesepuppy, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Benching_Freight_Train_Graffiti_in_SoCal_(August_20th_2021)_(51410916317).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Benching Freights 2-29-2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Benching_Freights_2-29-2020_%2849602311258%29.jpg/1920px-Benching_Freights_2-29-2020_%2849602311258%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Benching_Freights_2-29-2020_%2849602311258%29.jpg/500px-Benching_Freights_2-29-2020_%2849602311258%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "siamesepuppy, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Benching_Freights_2-29-2020_(49602311258).jpg",
+   "plain": true
+  }
+ ]
 }

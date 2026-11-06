@@ -7,5 +7,24 @@
  ],
  "sector": "sector-communication",
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "200 Fifth Avenue - Toy Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/200_Fifth_Avenue_-_Toy_Center_%2854572078421%29.jpg/1920px-200_Fifth_Avenue_-_Toy_Center_%2854572078421%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/200_Fifth_Avenue_-_Toy_Center_%2854572078421%29.jpg/500px-200_Fifth_Avenue_-_Toy_Center_%2854572078421%29.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_Fifth_Avenue_-_Toy_Center_(54572078421).jpg",
+   "plain": true
+  }
+ ]
 }

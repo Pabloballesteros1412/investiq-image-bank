@@ -7,5 +7,24 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "A person holding a can",
+   "url": "https://images.unsplash.com/photo-1670172071939-ef8c7ab0890e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q2Vsc2l1cyUyMGVuZXJneSUyMGRyaW5rfGVufDF8fHx8MTc5Mzk4ODAxM3ww&ixlib=rb-4.1.0&w=1875&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1670172071939-ef8c7ab0890e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q2Vsc2l1cyUyMGVuZXJneSUyMGRyaW5rfGVufDF8fHx8MTc5Mzk4ODAxM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1875,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jens De Decker on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jensdedecker?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-can-_0i88X_VAjQ?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
 }

@@ -6,7 +6,6 @@
   "PEP"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Pepsi 355 ml, 591 ml, and 710 ml, Canada (obverse)",
@@ -41,6 +40,151 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:PepsiCo_HQ_Office.jpg"
+  },
+  {
+   "shows": "Pepsi can on gray surface",
+   "url": "https://images.unsplash.com/photo-1531384370597-8590413be50a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGVwc2l8ZW58MXx8fHwxNzkzOTc4MDc5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1531384370597-8590413be50a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGVwc2l8ZW58MXx8fHwxNzkzOTc4MDc5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nagy Arnold on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@arnold_nagy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/pepsi-can-on-gray-surface-CqY5To2ZU8E?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Gatorade bottle sits in the snowy mountains",
+   "url": "https://images.unsplash.com/photo-1744209375191-889d9fdef3f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R2F0b3JhZGV8ZW58MXx8fHwxNzkzOTc4MDgxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1744209375191-889d9fdef3f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R2F0b3JhZGV8ZW58MXx8fHwxNzkzOTc4MDgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Canyon Swartz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@canyonswartz?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/gatorade-bottle-sits-in-the-snowy-mountains-UH3sDPTeqKk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Blue and red pepsi can",
+   "url": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UGVwc2l8ZW58MXx8fHwxNzkzOTc4MDc5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UGVwc2l8ZW58MXx8fHwxNzkzOTc4MDc5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by NIKHIL on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vinikhill?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-and-red-pepsi-can-eEumkKjg7Jo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "PepsiCo Headquarters close up 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PepsiCo_Headquarters_close_up_2011.jpg/1920px-PepsiCo_Headquarters_close_up_2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PepsiCo_Headquarters_close_up_2011.jpg/500px-PepsiCo_Headquarters_close_up_2011.jpg",
+   "size": [
+    1920,
+    1285
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "angela n., CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PepsiCo_Headquarters_close_up_2011.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Pepsi truck in Ueno Park",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pepsi_truck_in_Ueno_Park.jpg/1920px-Pepsi_truck_in_Ueno_Park.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pepsi_truck_in_Ueno_Park.jpg/500px-Pepsi_truck_in_Ueno_Park.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sahaib, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pepsi_truck_in_Ueno_Park.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ramon Laguarta Community Engagement",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ramon_Laguarta_Community_Engagement.jpg/1920px-Ramon_Laguarta_Community_Engagement.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Ramon_Laguarta_Community_Engagement.jpg/500px-Ramon_Laguarta_Community_Engagement.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Qwertyfry38, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ramon_Laguarta_Community_Engagement.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PepsiCo world headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PepsiCoHQPurchaseNY.jpg/1920px-PepsiCoHQPurchaseNY.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/PepsiCoHQPurchaseNY.jpg/500px-PepsiCoHQPurchaseNY.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Peter Bond from Philadelphia, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PepsiCoHQPurchaseNY.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PepsiCo corporate headquarters and poles",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PepsiCo_corporate_headquarters_and_poles.jpg/1920px-PepsiCo_corporate_headquarters_and_poles.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PepsiCo_corporate_headquarters_and_poles.jpg/500px-PepsiCo_corporate_headquarters_and_poles.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Peter Bond, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PepsiCo_corporate_headquarters_and_poles.jpg",
+   "plain": true
   }
  ]
 }

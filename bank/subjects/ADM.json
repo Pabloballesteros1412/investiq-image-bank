@@ -7,5 +7,78 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "ADM Jetty, Erith II",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ADM_Jetty%2C_Erith_II.jpg/1920px-ADM_Jetty%2C_Erith_II.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/ADM_Jetty%2C_Erith_II.jpg/500px-ADM_Jetty%2C_Erith_II.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Devokewater, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ADM_Jetty,_Erith_II.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ADM Jetty, Erith",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ADM_Jetty%2C_Erith.jpg/1920px-ADM_Jetty%2C_Erith.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/ADM_Jetty%2C_Erith.jpg/500px-ADM_Jetty%2C_Erith.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Devokewater, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ADM_Jetty,_Erith.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Peoria County, Illinois - Adm",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Peoria_County%2C_Illinois_-_Adm.jpg/1920px-Peoria_County%2C_Illinois_-_Adm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Peoria_County%2C_Illinois_-_Adm.jpg/500px-Peoria_County%2C_Illinois_-_Adm.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe K Gage, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Peoria_County,_Illinois_-_Adm.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Archer Daniels Midland Tank Car",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Archer_Daniels_Midland_Tank_Car_%2849690312411%29.jpg/1920px-Archer_Daniels_Midland_Tank_Car_%2849690312411%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Archer_Daniels_Midland_Tank_Car_%2849690312411%29.jpg/500px-Archer_Daniels_Midland_Tank_Car_%2849690312411%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NTSBgov, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Archer_Daniels_Midland_Tank_Car_(49690312411).jpg",
+   "plain": true
+  }
+ ]
 }

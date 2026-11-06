@@ -28,6 +28,10 @@ Grades:
   a generic photo as one company's; so is the same scene already used for another subject (one power plant, shot
   twice by the same photographer, turned up in energy and utilities).
 
+What a grade does: a 3 is published; a company's Commons 2 is published only as a reserve (marked "plain",
+after its 3s and its brand photos); a 1, and any 2 of a topic or sector, is hidden. A stock photo is published
+unless graded below 3.
+
 Be strict. When unsure between 3 and 2, give 2; between 2 and 1, give 1. Expect roughly 10-25% of tiles to be 3.
 
 Calibration, sheet-001 (3M, A. O. Smith, AB InBev, Abbott):

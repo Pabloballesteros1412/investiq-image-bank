@@ -7,5 +7,60 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Krzysztof Polończyk, prezes zarządu Fiserv Polska S.A., właściciela marki PolCard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Krzysztof_Polo%C5%84czyk%2C_prezes_zarz%C4%85du_Fiserv_Polska_S.A.%2C_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg/1920px-Krzysztof_Polo%C5%84czyk%2C_prezes_zarz%C4%85du_Fiserv_Polska_S.A.%2C_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Krzysztof_Polo%C5%84czyk%2C_prezes_zarz%C4%85du_Fiserv_Polska_S.A.%2C_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg/500px-Krzysztof_Polo%C5%84czyk%2C_prezes_zarz%C4%85du_Fiserv_Polska_S.A.%2C_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fiserv Polska S.A. właściciel marki PolCard, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Krzysztof_Polo%C5%84czyk,_prezes_zarz%C4%85du_Fiserv_Polska_S.A.,_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Biuro Fiserv Polska S.A. właściciel marki PolCard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Biuro_Fiserv_Polska_S.A._w%C5%82a%C5%9Bciciel_marki_PolCard.jpg/1920px-Biuro_Fiserv_Polska_S.A._w%C5%82a%C5%9Bciciel_marki_PolCard.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Biuro_Fiserv_Polska_S.A._w%C5%82a%C5%9Bciciel_marki_PolCard.jpg/500px-Biuro_Fiserv_Polska_S.A._w%C5%82a%C5%9Bciciel_marki_PolCard.jpg",
+   "size": [
+    1920,
+    1724
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fiserv Polska S.A. właściciel marki PolCard, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Biuro_Fiserv_Polska_S.A._w%C5%82a%C5%9Bciciel_marki_PolCard.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Fiserv offices - Hillsboro, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fiserv_offices_-_Hillsboro%2C_Oregon.JPG/1920px-Fiserv_offices_-_Hillsboro%2C_Oregon.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Fiserv_offices_-_Hillsboro%2C_Oregon.JPG/500px-Fiserv_offices_-_Hillsboro%2C_Oregon.JPG",
+   "size": [
+    1920,
+    1383
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fiserv_offices_-_Hillsboro,_Oregon.JPG",
+   "plain": true
+  }
+ ]
 }

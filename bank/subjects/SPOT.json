@@ -7,5 +7,60 @@
  ],
  "sector": "sector-communication",
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "Spotify HK Stockholm",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Spotify_HK_Stockholm.jpg/1280px-Spotify_HK_Stockholm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Spotify_HK_Stockholm.jpg/500px-Spotify_HK_Stockholm.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Goombah, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Spotify_HK_Stockholm.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Галаўны офіс «Spotify» на Humlegårdsgatan.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Spotify_HQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Spotify_HQ.jpg/500px-Spotify_HQ.jpg",
+   "size": [
+    1796,
+    1212
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Erik Stattin, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Spotify_HQ.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Spotify, King's Cross Railway Station",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Spotify%2C_King%27s_Cross_Railway_Station.JPG/1920px-Spotify%2C_King%27s_Cross_Railway_Station.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Spotify%2C_King%27s_Cross_Railway_Station.JPG/500px-Spotify%2C_King%27s_Cross_Railway_Station.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Philafrenzy, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Spotify,_King%27s_Cross_Railway_Station.JPG",
+   "plain": true
+  }
+ ]
 }

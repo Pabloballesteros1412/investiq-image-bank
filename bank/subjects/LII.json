@@ -7,5 +7,24 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Lennox air conditioner",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AirConditionerLennox.jpg/1920px-AirConditionerLennox.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AirConditionerLennox.jpg/500px-AirConditionerLennox.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AirConditionerLennox.jpg",
+   "plain": true
+  }
+ ]
 }

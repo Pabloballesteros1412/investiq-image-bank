@@ -7,5 +7,43 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Stephen Hemsley",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Stephen_Hemsley.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Stephen_Hemsley.jpg/500px-Stephen_Hemsley.jpg",
+   "size": [
+    1712,
+    1076
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Ways and Means Committee of the United States Congress, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Stephen_Hemsley.jpg",
+   "plain": true
+  },
+  {
+   "shows": "UnitedHealthcare Corporate Headquarters, December 8 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/UnitedHealthcare_Corporate_Headquarters%2C_December_8_2024_%2854191437643%29.jpg/1920px-UnitedHealthcare_Corporate_Headquarters%2C_December_8_2024_%2854191437643%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/UnitedHealthcare_Corporate_Headquarters%2C_December_8_2024_%2854191437643%29.jpg/500px-UnitedHealthcare_Corporate_Headquarters%2C_December_8_2024_%2854191437643%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chad Davis, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:UnitedHealthcare_Corporate_Headquarters,_December_8_2024_(54191437643).jpg",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,60 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "A Volvo tractor operated by ANAZCO Trucking Co., Inc. pulling an Old Dominion trailer pulling up to a light at 14th Street and 7th Avenue in Chelsea / West Vill",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/14th_St_7th_Av_td_%282019-07-11%29_14_%28cropped%29.jpg/1920px-14th_St_7th_Av_td_%282019-07-11%29_14_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/14th_St_7th_Av_td_%282019-07-11%29_14_%28cropped%29.jpg/500px-14th_St_7th_Av_td_%282019-07-11%29_14_%28cropped%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:14th_St_7th_Av_td_(2019-07-11)_14_(cropped).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Old Dominion Freight Line",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Old_Dominion_Freight_Line.jpg/1920px-Old_Dominion_Freight_Line.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Old_Dominion_Freight_Line.jpg/500px-Old_Dominion_Freight_Line.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wikideas1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Dominion_Freight_Line.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ODFL Mark on trailer",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ODFL_Mark_on_trailer.jpg/1920px-ODFL_Mark_on_trailer.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ODFL_Mark_on_trailer.jpg/500px-ODFL_Mark_on_trailer.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "David Cintron, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ODFL_Mark_on_trailer.jpg",
+   "plain": true
+  }
+ ]
 }

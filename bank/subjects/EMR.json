@@ -7,5 +7,78 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Emerson Automation Solutions",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Emerson_Automation_Solutions.jpg/1920px-Emerson_Automation_Solutions.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Emerson_Automation_Solutions.jpg/500px-Emerson_Automation_Solutions.jpg",
+   "size": [
+    1920,
+    1334
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Emerson_Automation_Solutions.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Emerson Blue Easy Reader Thermostat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Emerson_Blue_Easy_Reader_Thermostat.jpg/1920px-Emerson_Blue_Easy_Reader_Thermostat.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Emerson_Blue_Easy_Reader_Thermostat.jpg/500px-Emerson_Blue_Easy_Reader_Thermostat.jpg",
+   "size": [
+    1920,
+    1333
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Emerson_Blue_Easy_Reader_Thermostat.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Emerson Electric Canada - Address: 306 Town Centre Blvd, Markham, ON L3R 0Y6",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/EmersonElectricCanada.jpg/1920px-EmersonElectricCanada.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/EmersonElectricCanada.jpg/500px-EmersonElectricCanada.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EmersonElectricCanada.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Emerson 70 Series Digital Termostat",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Emerson_70_Series_Digital_Termostat.jpg/1920px-Emerson_70_Series_Digital_Termostat.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Emerson_70_Series_Digital_Termostat.jpg/500px-Emerson_70_Series_Digital_Termostat.jpg",
+   "size": [
+    1920,
+    1487
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Emerson_70_Series_Digital_Termostat.jpg",
+   "plain": true
+  }
+ ]
 }

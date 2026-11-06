@@ -7,5 +7,42 @@
  ],
  "sector": "sector-communication",
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "Paramount Skydance One Astor Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Paramount_Skydance_One_Astor_Plaza.jpg/1920px-Paramount_Skydance_One_Astor_Plaza.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Paramount_Skydance_One_Astor_Plaza.jpg/500px-Paramount_Skydance_One_Astor_Plaza.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Paramount_Skydance_One_Astor_Plaza.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Times Sq Nov 2021 112",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Times_Sq_Nov_2021_112.jpg/1280px-Times_Sq_Nov_2021_112.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Times_Sq_Nov_2021_112.jpg/500px-Times_Sq_Nov_2021_112.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Epicgenius, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Times_Sq_Nov_2021_112.jpg",
+   "plain": true
+  }
+ ]
 }

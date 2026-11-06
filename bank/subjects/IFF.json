@@ -7,5 +7,42 @@
  ],
  "sector": "sector-materials",
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Looking northwest across 57th Street at w:International Flavors and Fragrances headquarters in New York City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Iff-hq.jpg/1920px-Iff-hq.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Iff-hq.jpg/500px-Iff-hq.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Americasroof, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Iff-hq.jpg",
+   "plain": true
+  },
+  {
+   "shows": "IFF Gebäude Bomlitz",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/IFF_Geb%C3%A4ude_Bomlitz.jpg/1920px-IFF_Geb%C3%A4ude_Bomlitz.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/IFF_Geb%C3%A4ude_Bomlitz.jpg/500px-IFF_Geb%C3%A4ude_Bomlitz.jpg",
+   "size": [
+    1920,
+    1294
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gerd Fahrenhorst, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IFF_Geb%C3%A4ude_Bomlitz.jpg",
+   "plain": true
+  }
+ ]
 }

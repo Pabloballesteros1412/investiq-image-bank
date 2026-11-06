@@ -7,5 +7,42 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Mainz.BioNTechSE",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mainz.BioNTechSE.20200731.jpg/1920px-Mainz.BioNTechSE.20200731.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mainz.BioNTechSE.20200731.jpg/500px-Mainz.BioNTechSE.20200731.jpg",
+   "size": [
+    1920,
+    1230
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Epizentrum, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mainz.BioNTechSE.20200731.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Biontech Idar-Oberstein",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Biontech_Idar-Oberstein.jpg/1920px-Biontech_Idar-Oberstein.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Biontech_Idar-Oberstein.jpg/500px-Biontech_Idar-Oberstein.jpg",
+   "size": [
+    1920,
+    1145
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tohma ( talk ), CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Biontech_Idar-Oberstein.jpg",
+   "plain": true
+  }
+ ]
 }

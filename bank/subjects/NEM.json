@@ -7,5 +7,60 @@
  ],
  "sector": "sector-materials",
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Aerial View of Peñasquito Mine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aerial_View_of_Pe%C3%B1asquito_Mine.jpg/1920px-Aerial_View_of_Pe%C3%B1asquito_Mine.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aerial_View_of_Pe%C3%B1asquito_Mine.jpg/500px-Aerial_View_of_Pe%C3%B1asquito_Mine.jpg",
+   "size": [
+    1920,
+    1009
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Arturoramos, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Pe%C3%B1asquito_Mine.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cripple Creek 11",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cripple_Creek_11.jpg/1920px-Cripple_Creek_11.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cripple_Creek_11.jpg/500px-Cripple_Creek_11.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi3.124, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cripple_Creek_11.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Newmont Gold Quarry mine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Newmont_Gold_Quarry_mine.jpg/1920px-Newmont_Gold_Quarry_mine.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Newmont_Gold_Quarry_mine.jpg/500px-Newmont_Gold_Quarry_mine.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Uncle Kick-Kick, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Newmont_Gold_Quarry_mine.jpg",
+   "plain": true
+  }
+ ]
 }

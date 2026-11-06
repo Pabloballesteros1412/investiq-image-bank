@@ -7,5 +7,78 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "Hormel Corporate Headquarters, Austin, Minnesota",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hormel_Corporate_Headquarters%2C_Austin%2C_Minnesota.jpg/1920px-Hormel_Corporate_Headquarters%2C_Austin%2C_Minnesota.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hormel_Corporate_Headquarters%2C_Austin%2C_Minnesota.jpg/500px-Hormel_Corporate_Headquarters%2C_Austin%2C_Minnesota.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Myotus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hormel_Corporate_Headquarters,_Austin,_Minnesota.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Beijing Hormel Foods Co Ltd",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Beijing_Hormel_Foods_Co_Ltd_%2820250408154822%29.jpg/1920px-Beijing_Hormel_Foods_Co_Ltd_%2820250408154822%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Beijing_Hormel_Foods_Co_Ltd_%2820250408154822%29.jpg/500px-Beijing_Hormel_Foods_Co_Ltd_%2820250408154822%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beijing_Hormel_Foods_Co_Ltd_(20250408154822).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hormel Plant, Austin, Minnesota-01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hormel_Plant%2C_Austin%2C_Minnesota-01.jpg/1280px-Hormel_Plant%2C_Austin%2C_Minnesota-01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hormel_Plant%2C_Austin%2C_Minnesota-01.jpg/500px-Hormel_Plant%2C_Austin%2C_Minnesota-01.jpg",
+   "size": [
+    1280,
+    1861
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Myotus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hormel_Plant,_Austin,_Minnesota-01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "9768Spam with Real Hormel Bacon 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/9768Spam_with_Real_Hormel_Bacon_01.jpg/1920px-9768Spam_with_Real_Hormel_Bacon_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/9768Spam_with_Real_Hormel_Bacon_01.jpg/500px-9768Spam_with_Real_Hormel_Bacon_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Judgefloro, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:9768Spam_with_Real_Hormel_Bacon_01.jpg",
+   "plain": true
+  }
+ ]
 }

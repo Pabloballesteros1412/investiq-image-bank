@@ -7,5 +7,60 @@
  ],
  "sector": "sector-real-estate",
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "CBRE Downtown Glendale Directory Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CBRE_Downtown_Glendale_Directory_Building.JPG/1920px-CBRE_Downtown_Glendale_Directory_Building.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CBRE_Downtown_Glendale_Directory_Building.JPG/500px-CBRE_Downtown_Glendale_Directory_Building.JPG",
+   "size": [
+    1920,
+    1856
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alexis Doine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CBRE_Downtown_Glendale_Directory_Building.JPG",
+   "plain": true
+  },
+  {
+   "shows": "BdWaterloo CBRE",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/BdWaterloo_CBRE.jpg/1920px-BdWaterloo_CBRE.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/BdWaterloo_CBRE.jpg/500px-BdWaterloo_CBRE.jpg",
+   "size": [
+    1920,
+    1795
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Boubloub, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BdWaterloo_CBRE.jpg",
+   "plain": true
+  },
+  {
+   "shows": "CBRE, 200 S Civic Center Dr, Columbus, OH 2024-04",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/CBRE%2C_200_S_Civic_Center_Dr%2C_Columbus%2C_OH_2024-04.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CBRE%2C_200_S_Civic_Center_Dr%2C_Columbus%2C_OH_2024-04.jpg/500px-CBRE%2C_200_S_Civic_Center_Dr%2C_Columbus%2C_OH_2024-04.jpg",
+   "size": [
+    1111,
+    1627
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CBRE,_200_S_Civic_Center_Dr,_Columbus,_OH_2024-04.jpg",
+   "plain": true
+  }
+ ]
 }

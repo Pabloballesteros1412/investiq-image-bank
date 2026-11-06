@@ -7,5 +7,60 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "Red and white marlboro cigarette pack",
+   "url": "https://images.unsplash.com/photo-1627449543657-ab677b2105cf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TWFybGJvcm98ZW58MXx8fHwxNzkzOTg1Mjk2fDA&ixlib=rb-4.1.0&w=2212&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1627449543657-ab677b2105cf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TWFybGJvcm98ZW58MXx8fHwxNzkzOTg1Mjk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2212,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Brendan Stephens on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@brendan_stephens?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/red-and-white-marlboro-cigarette-pack-hJscTsLnFzY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Altria Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altria_Building_%288156028882%29.jpg/1280px-Altria_Building_%288156028882%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Altria_Building_%288156028882%29.jpg/500px-Altria_Building_%288156028882%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Altria_Building_(8156028882).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Altria Center For Research and Technology",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Altria_Center_For_Research_and_Technology.jpg/1920px-Altria_Center_For_Research_and_Technology.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Altria_Center_For_Research_and_Technology.jpg/500px-Altria_Center_For_Research_and_Technology.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Casseb, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Altria_Center_For_Research_and_Technology.jpg",
+   "plain": true
+  }
+ ]
 }

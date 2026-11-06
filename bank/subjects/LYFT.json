@@ -7,5 +7,97 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Logan Green, Lyft CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TechCrunch_Disrupt_NY_2015_-_Day_2_%2817385183755%29.jpg/1920px-TechCrunch_Disrupt_NY_2015_-_Day_2_%2817385183755%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TechCrunch_Disrupt_NY_2015_-_Day_2_%2817385183755%29.jpg/500px-TechCrunch_Disrupt_NY_2015_-_Day_2_%2817385183755%29.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_NY_2015_-_Day_2_(17385183755).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lyft Electric Scooter in Austin, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lyft_Electric_Scooter_in_Austin%2C_Texas_%2846833069604%29.jpg/1920px-Lyft_Electric_Scooter_in_Austin%2C_Texas_%2846833069604%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lyft_Electric_Scooter_in_Austin%2C_Texas_%2846833069604%29.jpg/500px-Lyft_Electric_Scooter_in_Austin%2C_Texas_%2846833069604%29.jpg",
+   "size": [
+    1920,
+    1259
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lyft_Electric_Scooter_in_Austin,_Texas_(46833069604).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Brightline Miami Station",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brightline_Miami_Station_%2842120684015%29.jpg/1280px-Brightline_Miami_Station_%2842120684015%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Brightline_Miami_Station_%2842120684015%29.jpg/500px-Brightline_Miami_Station_%2842120684015%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar from Miami, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brightline_Miami_Station_(42120684015).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lyft Shuttle van on Massachusetts Avenue, July 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lyft_Shuttle_van_on_Massachusetts_Avenue%2C_July_2026.jpg/1920px-Lyft_Shuttle_van_on_Massachusetts_Avenue%2C_July_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lyft_Shuttle_van_on_Massachusetts_Avenue%2C_July_2026.jpg/500px-Lyft_Shuttle_van_on_Massachusetts_Avenue%2C_July_2026.jpg",
+   "size": [
+    1920,
+    1439
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi.1415926535, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lyft_Shuttle_van_on_Massachusetts_Avenue,_July_2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lyft sign, N. Mississipi, PDX, 2016",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lyft_sign%2C_N._Mississipi%2C_PDX%2C_2016.jpg/1280px-Lyft_sign%2C_N._Mississipi%2C_PDX%2C_2016.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Lyft_sign%2C_N._Mississipi%2C_PDX%2C_2016.jpg/500px-Lyft_sign%2C_N._Mississipi%2C_PDX%2C_2016.jpg",
+   "size": [
+    1280,
+    2276
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Another Believer, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lyft_sign,_N._Mississipi,_PDX,_2016.jpg",
+   "plain": true
+  }
+ ]
 }

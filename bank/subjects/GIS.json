@@ -7,5 +7,60 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "General Mills cereal plant, Buffalo NY",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/General_Mills_cereal_plant%2C_Buffalo_NY.jpg/1920px-General_Mills_cereal_plant%2C_Buffalo_NY.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/General_Mills_cereal_plant%2C_Buffalo_NY.jpg/500px-General_Mills_cereal_plant%2C_Buffalo_NY.jpg",
+   "size": [
+    1920,
+    1333
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Mills_cereal_plant,_Buffalo_NY.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aerial photo of the General Mills corporate headquarters campus, Golden Valley, Minnesota , USA.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2009-0722-GeneralMills-hq.jpg/1920px-2009-0722-GeneralMills-hq.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/2009-0722-GeneralMills-hq.jpg/500px-2009-0722-GeneralMills-hq.jpg",
+   "size": [
+    1920,
+    1349
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2009-0722-GeneralMills-hq.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Buffalo December 2024 26 (General Mills plant)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Buffalo_December_2024_26_%28General_Mills_plant%29.jpg/1920px-Buffalo_December_2024_26_%28General_Mills_plant%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Buffalo_December_2024_26_%28General_Mills_plant%29.jpg/500px-Buffalo_December_2024_26_%28General_Mills_plant%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Buffalo_December_2024_26_(General_Mills_plant).jpg",
+   "plain": true
+  }
+ ]
 }

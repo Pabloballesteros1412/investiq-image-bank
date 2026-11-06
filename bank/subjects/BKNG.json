@@ -7,5 +7,60 @@
  ],
  "sector": "sector-consumer-discretionary",
  "fill_from": "sector-consumer-discretionary",
- "photos": []
+ "photos": [
+  {
+   "shows": "A sign on the side of a building that says bookking com",
+   "url": "https://images.unsplash.com/photo-1695742265305-14f0373cd9dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qm9va2luZy5jb218ZW58MXx8fHwxNzkzOTg1MzA0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1695742265305-14f0373cd9dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qm9va2luZy5jb218ZW58MXx8fHwxNzkzOTg1MzA0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jas Rolyn on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jasrolyn?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-sign-on-the-side-of-a-building-that-says-bookking-com-7BqK0rCPO5k?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Kantoorgebouw van Booking dot com",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kantoorgebouw_van_Booking_dot_com.jpg/1920px-Kantoorgebouw_van_Booking_dot_com.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kantoorgebouw_van_Booking_dot_com.jpg/500px-Kantoorgebouw_van_Booking_dot_com.jpg",
+   "size": [
+    1920,
+    1285
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Choinowski, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kantoorgebouw_van_Booking_dot_com.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Air Spring 8822 from Qingdao, with Booking.com advertisement.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/B-6902%40SHA_%2820191114100729%29.jpg/1920px-B-6902%40SHA_%2820191114100729%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/B-6902%40SHA_%2820191114100729%29.jpg/500px-B-6902%40SHA_%2820191114100729%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:B-6902@SHA_(20191114100729).jpg",
+   "plain": true
+  }
+ ]
 }

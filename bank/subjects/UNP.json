@@ -7,5 +7,42 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "0949 Union Pacific RR, near Moab, Utah",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20240912_0949_Union_Pacific_RR%2C_near_Moab%2C_Utah.jpg/1920px-20240912_0949_Union_Pacific_RR%2C_near_Moab%2C_Utah.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/20240912_0949_Union_Pacific_RR%2C_near_Moab%2C_Utah.jpg/500px-20240912_0949_Union_Pacific_RR%2C_near_Moab%2C_Utah.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "David Wilson, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:20240912_0949_Union_Pacific_RR,_near_Moab,_Utah.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Union Pacific Portland Service Unit headquarters, September 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Union_Pacific_Portland_Service_Unit_headquarters%2C_September_2019.JPG/1920px-Union_Pacific_Portland_Service_Unit_headquarters%2C_September_2019.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Union_Pacific_Portland_Service_Unit_headquarters%2C_September_2019.JPG/500px-Union_Pacific_Portland_Service_Unit_headquarters%2C_September_2019.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Union_Pacific_Portland_Service_Unit_headquarters,_September_2019.JPG",
+   "plain": true
+  }
+ ]
 }

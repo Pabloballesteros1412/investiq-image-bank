@@ -25,6 +25,8 @@ Banco de imágenes de InvestIQ
   estar desfasados: compruébalos antes de nombrarlos.
 - Si una empresa tiene "fill_from", sus fotos propias no llegan a 10: puedes completar con las de ese
   sector, pero son genéricas y nunca las presentes como de la empresa.
+- Las fotos con "plain": true son de la empresa pero sosas (una fachada sin nombre, luz gris): van después
+  de las demás. Usa antes las otras y, para la portada, mejor una del sector que una "plain".
 ```
 
 3. **Prueba:** pide al chat «lee el índice del banco y enséñame las fotos de Nvidia».

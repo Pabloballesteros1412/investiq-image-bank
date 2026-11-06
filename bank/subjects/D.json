@@ -7,5 +7,78 @@
  ],
  "sector": "sector-utilities",
  "fill_from": "sector-utilities",
- "photos": []
+ "photos": [
+  {
+   "shows": "Millstone Nuclear Power Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Millstone_Nuclear_Power_Plant_%2851102030612%29.jpg/1920px-Millstone_Nuclear_Power_Plant_%2851102030612%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Millstone_Nuclear_Power_Plant_%2851102030612%29.jpg/500px-Millstone_Nuclear_Power_Plant_%2851102030612%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "pedrik, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Millstone_Nuclear_Power_Plant_(51102030612).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Niantic, Connecticut",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Niantic%2C_Connecticut_%2845103696671%29.jpg/1920px-Niantic%2C_Connecticut_%2845103696671%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Niantic%2C_Connecticut_%2845103696671%29.jpg/500px-Niantic%2C_Connecticut_%2845103696671%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Niantic,_Connecticut_(45103696671).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cove Point LNG Terminal",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cove_Point_LNG_Terminal.jpg/1920px-Cove_Point_LNG_Terminal.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cove_Point_LNG_Terminal.jpg/500px-Cove_Point_LNG_Terminal.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pburka, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cove_Point_LNG_Terminal.jpg",
+   "plain": true
+  },
+  {
+   "shows": "East Ohio Gas Works No 2 - Dominion Energy Ohio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/East_Ohio_Gas_Works_No_2_-_Dominion_Energy_Ohio.jpg/1920px-East_Ohio_Gas_Works_No_2_-_Dominion_Energy_Ohio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/East_Ohio_Gas_Works_No_2_-_Dominion_Energy_Ohio.jpg/500px-East_Ohio_Gas_Works_No_2_-_Dominion_Energy_Ohio.jpg",
+   "size": [
+    1920,
+    1061
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tim Evanson, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:East_Ohio_Gas_Works_No_2_-_Dominion_Energy_Ohio.jpg",
+   "plain": true
+  }
+ ]
 }

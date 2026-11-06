@@ -7,5 +7,78 @@
  ],
  "sector": "sector-real-estate",
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Pier 1 from the water, June 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pier_1_from_the_water%2C_June_2019.JPG/1920px-Pier_1_from_the_water%2C_June_2019.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pier_1_from_the_water%2C_June_2019.JPG/500px-Pier_1_from_the_water%2C_June_2019.JPG",
+   "size": [
+    1920,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pier_1_from_the_water,_June_2019.JPG",
+   "plain": true
+  },
+  {
+   "shows": "ProLogis Delticom Terminal Lehrte",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ProLogis_Delticom_Terminal_Lehrte.jpg/1920px-ProLogis_Delticom_Terminal_Lehrte.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ProLogis_Delticom_Terminal_Lehrte.jpg/500px-ProLogis_Delticom_Terminal_Lehrte.jpg",
+   "size": [
+    1920,
+    1222
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gerd Fahrenhorst, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ProLogis_Delticom_Terminal_Lehrte.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Prologis HH-Steinwerder 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Prologis_HH-Steinwerder_2.jpg/1920px-Prologis_HH-Steinwerder_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Prologis_HH-Steinwerder_2.jpg/500px-Prologis_HH-Steinwerder_2.jpg",
+   "size": [
+    1920,
+    1215
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gerd Fahrenhorst, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Prologis_HH-Steinwerder_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Prologis Park Ichikawa 2 from main gate 2021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prologis_Park_Ichikawa_2_from_main_gate_2021.jpg/1920px-Prologis_Park_Ichikawa_2_from_main_gate_2021.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Prologis_Park_Ichikawa_2_from_main_gate_2021.jpg/500px-Prologis_Park_Ichikawa_2_from_main_gate_2021.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Comyu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Prologis_Park_Ichikawa_2_from_main_gate_2021.jpg",
+   "plain": true
+  }
+ ]
 }

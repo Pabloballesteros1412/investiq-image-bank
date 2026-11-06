@@ -7,5 +7,42 @@
  ],
  "sector": "sector-consumer-discretionary",
  "fill_from": "sector-consumer-discretionary",
- "photos": []
+ "photos": [
+  {
+   "shows": "Coupang re-usable grocery delivery bag - 2021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Coupang_re-usable_grocery_delivery_bag_-_2021.jpg/1280px-Coupang_re-usable_grocery_delivery_bag_-_2021.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Coupang_re-usable_grocery_delivery_bag_-_2021.jpg/500px-Coupang_re-usable_grocery_delivery_bag_-_2021.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kl0518, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Coupang_re-usable_grocery_delivery_bag_-_2021.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Coupang delivery truck in Seoul.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coupang_1.jpg/1920px-Coupang_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coupang_1.jpg/500px-Coupang_1.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bonnielou2013, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Coupang_1.jpg",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,42 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Bubba Wallace 23 Sonoma 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bubba_Wallace_23_Sonoma_2026.jpg/1920px-Bubba_Wallace_23_Sonoma_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bubba_Wallace_23_Sonoma_2026.jpg/500px-Bubba_Wallace_23_Sonoma_2026.jpg",
+   "size": [
+    1920,
+    1174
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bubba_Wallace_23_Sonoma_2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bubba Wallace 23 Las Vegas Fall 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bubba_Wallace_23_Las_Vegas_Fall_2025.jpg/1920px-Bubba_Wallace_23_Las_Vegas_Fall_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bubba_Wallace_23_Las_Vegas_Fall_2025.jpg/500px-Bubba_Wallace_23_Las_Vegas_Fall_2025.jpg",
+   "size": [
+    1920,
+    1162
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bubba_Wallace_23_Las_Vegas_Fall_2025.jpg",
+   "plain": true
+  }
+ ]
 }

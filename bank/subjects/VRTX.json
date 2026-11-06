@@ -7,5 +7,24 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Vertex Pharmaceuticals",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vertex_Pharmaceuticals_%2854960820723%29.jpg/1280px-Vertex_Pharmaceuticals_%2854960820723%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Vertex_Pharmaceuticals_%2854960820723%29.jpg/500px-Vertex_Pharmaceuticals_%2854960820723%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vertex_Pharmaceuticals_(54960820723).jpg",
+   "plain": true
+  }
+ ]
 }

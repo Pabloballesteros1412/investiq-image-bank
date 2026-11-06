@@ -7,5 +7,24 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Ameriprise Financial Center Minneapolis 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ameriprise_Financial_Center_Minneapolis_1.jpg/1280px-Ameriprise_Financial_Center_Minneapolis_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ameriprise_Financial_Center_Minneapolis_1.jpg/500px-Ameriprise_Financial_Center_Minneapolis_1.jpg",
+   "size": [
+    1280,
+    2606
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "AlexiusHoratius, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ameriprise_Financial_Center_Minneapolis_1.jpg",
+   "plain": true
+  }
+ ]
 }

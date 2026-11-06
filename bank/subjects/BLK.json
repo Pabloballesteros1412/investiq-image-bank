@@ -7,5 +7,78 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "50 Hudson Yards 003",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/50_Hudson_Yards_003.jpg/1920px-50_Hudson_Yards_003.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/50_Hudson_Yards_003.jpg/500px-50_Hudson_Yards_003.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_003.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hudson Yards from Hudson Commons (95131p)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hudson_Yards_from_Hudson_Commons_%2895131p%29.jpg/1920px-Hudson_Yards_from_Hudson_Commons_%2895131p%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hudson_Yards_from_Hudson_Commons_%2895131p%29.jpg/500px-Hudson_Yards_from_Hudson_Commons_%2895131p%29.jpg",
+   "size": [
+    1920,
+    1964
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hudson_Yards_from_Hudson_Commons_(95131p).jpg",
+   "plain": true
+  },
+  {
+   "shows": "BlackRock hq51 jeh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BlackRock_hq51_jeh.JPG/1920px-BlackRock_hq51_jeh.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BlackRock_hq51_jeh.JPG/500px-BlackRock_hq51_jeh.JPG",
+   "size": [
+    1920,
+    1489
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim.henderson, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BlackRock_hq51_jeh.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Black-rock-hq",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Black-rock-hq.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Black-rock-hq.jpg/500px-Black-rock-hq.jpg",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Americasroof ( talk ), CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Black-rock-hq.jpg",
+   "plain": true
+  }
+ ]
 }

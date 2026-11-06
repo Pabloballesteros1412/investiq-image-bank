@@ -7,5 +7,24 @@
  ],
  "sector": "sector-real-estate",
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Essex Property Trust Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Essex_Property_Trust_Headquarters.jpg/1920px-Essex_Property_Trust_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Essex_Property_Trust_Headquarters.jpg/500px-Essex_Property_Trust_Headquarters.jpg",
+   "size": [
+    1920,
+    1065
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Essex_Property_Trust_Headquarters.jpg",
+   "plain": true
+  }
+ ]
 }

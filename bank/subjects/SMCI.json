@@ -7,5 +7,60 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Super Micro Computer booth",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Super_Micro_Computer_booth_20190601.jpg/1920px-Super_Micro_Computer_booth_20190601.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Super_Micro_Computer_booth_20190601.jpg/500px-Super_Micro_Computer_booth_20190601.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Super_Micro_Computer_booth_20190601.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Supermicro - X11SAE – CeBIT 2016 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Supermicro_-_X11SAE_%E2%80%93_CeBIT_2016_01.jpg/1920px-Supermicro_-_X11SAE_%E2%80%93_CeBIT_2016_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Supermicro_-_X11SAE_%E2%80%93_CeBIT_2016_01.jpg/500px-Supermicro_-_X11SAE_%E2%80%93_CeBIT_2016_01.jpg",
+   "size": [
+    1920,
+    1526
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Frank Schwichtenberg, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Supermicro_-_X11SAE_%E2%80%93_CeBIT_2016_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Supermicro AOC-S3108L-H8iR SAS RAID controller. Low-profile PCI Express 3.0 x8 card. Provides 8 SAS3 ports, 2GB DRAM cache, hardware RAID 0, 1, 5, 6, 10, 50, 60",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AOC-S3108L-H8IR.jpg/1920px-AOC-S3108L-H8IR.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AOC-S3108L-H8IR.jpg/500px-AOC-S3108L-H8IR.jpg",
+   "size": [
+    1920,
+    1249
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dmitry Nosachev, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AOC-S3108L-H8IR.jpg",
+   "plain": true
+  }
+ ]
 }

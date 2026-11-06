@@ -7,5 +7,42 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "HPE headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HPE_headquarters.jpg/1920px-HPE_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HPE_headquarters.jpg/500px-HPE_headquarters.jpg",
+   "size": [
+    1920,
+    1176
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Unknown author, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HPE_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hewlett Packard (HP) Enterprise Office Building - Omaha, Nebraska",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hewlett_Packard_%28HP%29_Enterprise_Office_Building_-_Omaha%2C_Nebraska_%2829991644447%29.jpg/1920px-Hewlett_Packard_%28HP%29_Enterprise_Office_Building_-_Omaha%2C_Nebraska_%2829991644447%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hewlett_Packard_%28HP%29_Enterprise_Office_Building_-_Omaha%2C_Nebraska_%2829991644447%29.jpg/500px-Hewlett_Packard_%28HP%29_Enterprise_Office_Building_-_Omaha%2C_Nebraska_%2829991644447%29.jpg",
+   "size": [
+    1920,
+    1283
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hewlett_Packard_(HP)_Enterprise_Office_Building_-_Omaha,_Nebraska_(29991644447).jpg",
+   "plain": true
+  }
+ ]
 }

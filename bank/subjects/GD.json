@@ -7,5 +7,60 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "General Dynamics Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/General_Dynamics_Headquarters.jpg/1920px-General_Dynamics_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/General_Dynamics_Headquarters.jpg/500px-General_Dynamics_Headquarters.jpg",
+   "size": [
+    1920,
+    1404
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nwalser7, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Dynamics_Headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Anmeldung GDELS-Mowag Kreuzlingen",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anmeldung_GDELS-Mowag_Kreuzlingen.jpg/1920px-Anmeldung_GDELS-Mowag_Kreuzlingen.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anmeldung_GDELS-Mowag_Kreuzlingen.jpg/500px-Anmeldung_GDELS-Mowag_Kreuzlingen.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Anmeldung_GDELS-Mowag_Kreuzlingen.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ASCOD COBRA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ASCOD_COBRA.jpg/1920px-ASCOD_COBRA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ASCOD_COBRA.jpg/500px-ASCOD_COBRA.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Reise Reise, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ASCOD_COBRA.jpg",
+   "plain": true
+  }
+ ]
 }

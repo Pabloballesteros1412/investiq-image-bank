@@ -8,5 +8,78 @@
  ],
  "sector": "sector-communication",
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "1211 Avenue of the Americas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1211_Avenue_of_the_Americas.jpg/1280px-1211_Avenue_of_the_Americas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1211_Avenue_of_the_Americas.jpg/500px-1211_Avenue_of_the_Americas.jpg",
+   "size": [
+    1280,
+    1753
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1211_Avenue_of_the_Americas.jpg",
+   "plain": true
+  },
+  {
+   "shows": "FOX México",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/FOX_M%C3%A9xico.jpg/1280px-FOX_M%C3%A9xico.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/FOX_M%C3%A9xico.jpg/500px-FOX_M%C3%A9xico.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Marinna, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FOX_M%C3%A9xico.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Fox Studios",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fox_Studios_%2815238969174%29.jpg/1920px-Fox_Studios_%2815238969174%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Fox_Studios_%2815238969174%29.jpg/500px-Fox_Studios_%2815238969174%29.jpg",
+   "size": [
+    1920,
+    1554
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Hisgett from Birmingham, UK, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fox_Studios_(15238969174).jpg",
+   "plain": true
+  },
+  {
+   "shows": "The Fox Broadcasting Company 's Los Angeles studios in 2005",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Foxstudios.jpg/1280px-Foxstudios.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Foxstudios.jpg/500px-Foxstudios.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fox Corporation, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Foxstudios.jpg",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,24 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "Kimberly-Clark Corporation Headquarters - Irving - Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kimberly-Clark_Corporation_Headquarters_-_Irving_-_Texas.jpg/1920px-Kimberly-Clark_Corporation_Headquarters_-_Irving_-_Texas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kimberly-Clark_Corporation_Headquarters_-_Irving_-_Texas.jpg/500px-Kimberly-Clark_Corporation_Headquarters_-_Irving_-_Texas.jpg",
+   "size": [
+    1920,
+    1270
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kimberly-Clark_Corporation_Headquarters_-_Irving_-_Texas.jpg",
+   "plain": true
+  }
+ ]
 }

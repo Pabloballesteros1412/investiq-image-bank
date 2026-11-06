@@ -7,5 +7,78 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "One Pickwick Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/One_Pickwick_Plaza.jpg/1920px-One_Pickwick_Plaza.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/One_Pickwick_Plaza.jpg/500px-One_Pickwick_Plaza.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mx. Granger, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:One_Pickwick_Plaza.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Taken at Interactive Brokers in Greenwich, CT on 7/18/2014.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/IBlobby.JPG/1920px-IBlobby.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/IBlobby.JPG/500px-IBlobby.JPG",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ɱ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBlobby.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Taken at Interactive Brokers in Greenwich, CT on 7/18/2014.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBservers.JPG/1920px-IBservers.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/IBservers.JPG/500px-IBservers.JPG",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ɱ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBservers.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Interactive Brokers War Room",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Interactive_Brokers_War_Room.jpg/1920px-Interactive_Brokers_War_Room.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Interactive_Brokers_War_Room.jpg/500px-Interactive_Brokers_War_Room.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ɱ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Interactive_Brokers_War_Room.jpg",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Fortinet exhibition stall",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fortinet_exhibition_stall.jpg/1280px-Fortinet_exhibition_stall.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Fortinet_exhibition_stall.jpg/500px-Fortinet_exhibition_stall.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dev Jadiya, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fortinet_exhibition_stall.jpg",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,42 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Quest Diagnostics",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Quest_Diagnostics_%2837053664403%29.jpg/1920px-Quest_Diagnostics_%2837053664403%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Quest_Diagnostics_%2837053664403%29.jpg/500px-Quest_Diagnostics_%2837053664403%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Northwest Retail, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Quest_Diagnostics_(37053664403).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Quest Diagnostics Manteca, California",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Quest_Diagnostics_Manteca%2C_California.jpg/1920px-Quest_Diagnostics_Manteca%2C_California.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Quest_Diagnostics_Manteca%2C_California.jpg/500px-Quest_Diagnostics_Manteca%2C_California.jpg",
+   "size": [
+    1920,
+    1625
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Quest_Diagnostics_Manteca,_California.jpg",
+   "plain": true
+  }
+ ]
 }

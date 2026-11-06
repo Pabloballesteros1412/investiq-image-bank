@@ -7,5 +7,24 @@
  ],
  "sector": "sector-materials",
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Packaging Corporation of America - PCA - Minneapolis",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Packaging_Corporation_of_America_-_PCA_-_Minneapolis_%2825285329737%29.jpg/1920px-Packaging_Corporation_of_America_-_PCA_-_Minneapolis_%2825285329737%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Packaging_Corporation_of_America_-_PCA_-_Minneapolis_%2825285329737%29.jpg/500px-Packaging_Corporation_of_America_-_PCA_-_Minneapolis_%2825285329737%29.jpg",
+   "size": [
+    1920,
+    1296
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Packaging_Corporation_of_America_-_PCA_-_Minneapolis_(25285329737).jpg",
+   "plain": true
+  }
+ ]
 }

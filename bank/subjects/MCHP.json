@@ -7,5 +7,60 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Microsemi Microchip Building Garden Grove California 2021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Microsemi_Microchip_Building_Garden_Grove_California_2021.JPG/1920px-Microsemi_Microchip_Building_Garden_Grove_California_2021.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Microsemi_Microchip_Building_Garden_Grove_California_2021.JPG/500px-Microsemi_Microchip_Building_Garden_Grove_California_2021.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DigitalIceAge, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Microsemi_Microchip_Building_Garden_Grove_California_2021.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Microchip 18f24310 mcmaster mz mit20x2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Microchip_18f24310_mcmaster_mz_mit20x2.jpg/1920px-Microchip_18f24310_mcmaster_mz_mit20x2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Microchip_18f24310_mcmaster_mz_mit20x2.jpg/500px-Microchip_18f24310_mcmaster_mz_mit20x2.jpg",
+   "size": [
+    1920,
+    2017
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "John McMaster, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Microchip_18f24310_mcmaster_mz_mit20x2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Microchip ay8930 mcmaster mz mit20x",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Microchip_ay8930_mcmaster_mz_mit20x.jpg/1920px-Microchip_ay8930_mcmaster_mz_mit20x.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Microchip_ay8930_mcmaster_mz_mit20x.jpg/500px-Microchip_ay8930_mcmaster_mz_mit20x.jpg",
+   "size": [
+    1920,
+    1806
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "John McMaster, Digshadow, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Microchip_ay8930_mcmaster_mz_mit20x.jpg",
+   "plain": true
+  }
+ ]
 }

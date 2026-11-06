@@ -7,5 +7,42 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Republic Services garbage truck in Kent, WA - 0009",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Republic_Services_garbage_truck_in_Kent%2C_WA_%282025%29_-_0009.jpg/1920px-Republic_Services_garbage_truck_in_Kent%2C_WA_%282025%29_-_0009.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Republic_Services_garbage_truck_in_Kent%2C_WA_%282025%29_-_0009.jpg/500px-Republic_Services_garbage_truck_in_Kent%2C_WA_%282025%29_-_0009.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roc0ast3r, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Republic_Services_garbage_truck_in_Kent,_WA_(2025)_-_0009.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Republic Services waste collection truck",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Republic_Services_waste_collection_truck.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Republic_Services_waste_collection_truck.jpg/500px-Republic_Services_waste_collection_truck.jpg",
+   "size": [
+    1160,
+    1652
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eric Polk, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Republic_Services_waste_collection_truck.jpg",
+   "plain": true
+  }
+ ]
 }
