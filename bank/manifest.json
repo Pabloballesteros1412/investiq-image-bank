@@ -368,6 +368,266 @@
   "sector": "sector-staples",
   "photos": [
    {
+    "shot": "b1",
+    "shows": "Two persons holding white Budweiser bottles",
+    "file": "unsplash:QEpofCLA8wA",
+    "page": "https://unsplash.com/photos/two-persons-holding-white-budweiser-bottles-QEpofCLA8wA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1572177200344-496ea8c15e1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1572177200344-496ea8c15e1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Linus Mimietz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Linus Mimietz",
+    "year": 2019,
+    "how": "unsplash search: Budweiser",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@linusmimietz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/QEpofCLA8wA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww"
+   },
+   {
+    "shot": "b2",
+    "shows": "Stella Artois cup",
+    "file": "unsplash:IfWmI_gJ9co",
+    "page": "https://unsplash.com/photos/stella-artois-cup-IfWmI_gJ9co?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1566179175706-9a62648082de?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1566179175706-9a62648082de?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alejandro Barba on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alejandro Barba",
+    "year": 2019,
+    "how": "unsplash search: Stella Artois",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@albrb?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IfWmI_gJ9co/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww"
+   },
+   {
+    "shot": "b3",
+    "shows": "Two bottles of budweiser sit in the snow",
+    "file": "unsplash:PsTND7Czdnk",
+    "page": "https://unsplash.com/photos/two-bottles-of-budweiser-sit-in-the-snow-PsTND7Czdnk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1642647095389-5e62882f32b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1642647095389-5e62882f32b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Giuliana Catachura on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Giuliana Catachura",
+    "year": 2022,
+    "how": "unsplash search: Budweiser",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@giulianacat?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PsTND7Czdnk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww"
+   },
+   {
+    "shot": "b4",
+    "shows": "A glass of beer sitting on top of a wooden table",
+    "file": "unsplash:aF7SmfR3lYw",
+    "page": "https://unsplash.com/photos/a-glass-of-beer-sitting-on-top-of-a-wooden-table-aF7SmfR3lYw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723195269879-44a4df25ebf7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723195269879-44a4df25ebf7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Frank on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Frank",
+    "year": 2024,
+    "how": "unsplash search: Stella Artois",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@generein?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aF7SmfR3lYw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww"
+   },
+   {
+    "shot": "b5",
+    "shows": "Shelves of Budweiser beer bottle",
+    "file": "unsplash:InKP7JRRkvQ",
+    "page": "https://unsplash.com/photos/shelves-of-budweiser-beer-bottle-InKP7JRRkvQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1572442933646-cf43448b3314?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1572442933646-cf43448b3314?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1787
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Liv Hema on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Liv Hema",
+    "year": 2019,
+    "how": "unsplash search: Budweiser",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@livhema?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/InKP7JRRkvQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww"
+   },
+   {
+    "shot": "b6",
+    "shows": "A bottle of stella artois and a glass of beer",
+    "file": "unsplash:bT_Nhxlh7-o",
+    "page": "https://unsplash.com/photos/a-bottle-of-stella-artois-and-a-glass-of-beer-bT_Nhxlh7-o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1695406091840-5b820df68db0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1695406091840-5b820df68db0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Deeliver on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Deeliver",
+    "year": 2023,
+    "how": "unsplash search: Stella Artois",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@deeliver?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bT_Nhxlh7-o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww"
+   },
+   {
+    "shot": "b7",
+    "shows": "Selective focus photography of Stella Artois bottle on beside pool",
+    "file": "unsplash:EHbFnSIj1Qw",
+    "page": "https://unsplash.com/photos/selective-focus-photography-of-stella-artois-bottle-on-beside-pool-EHbFnSIj1Qw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1506916278879-dc0a599e3885?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1506916278879-dc0a599e3885?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1757
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Quilia on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Quilia",
+    "year": 2017,
+    "how": "unsplash search: Stella Artois",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@heyquilia?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EHbFnSIj1Qw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3RlbGxhJTIwQXJ0b2lzfGVufDF8fHx8MTc5Mzk4MTY5MHww"
+   },
+   {
+    "shot": "b8",
+    "shows": "Budweiser beer bottles on display",
+    "file": "unsplash:Ytcsr9yZaxk",
+    "page": "https://unsplash.com/photos/budweiser-beer-bottles-on-display-Ytcsr9yZaxk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1572442933646-a2705252f4c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1572442933646-a2705252f4c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Liv Hema on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Liv Hema",
+    "year": 2019,
+    "how": "unsplash search: Budweiser",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@livhema?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Ytcsr9yZaxk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww"
+   },
+   {
+    "shot": "b9",
+    "shows": "Red and white lighted signage",
+    "file": "unsplash:uGdRnELuc14",
+    "page": "https://unsplash.com/photos/red-and-white-lighted-signage-uGdRnELuc14?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1588494294853-25061b277e8c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1588494294853-25061b277e8c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dan diav on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dan diav",
+    "year": 2020,
+    "how": "unsplash search: Budweiser",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dandiav?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uGdRnELuc14/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QnVkd2Vpc2VyfGVufDF8fHx8MTc5Mzk4MTY4OXww"
+   },
+   {
+    "shot": "b10",
+    "shows": "Assorted bottles on brown wooden shelf",
+    "file": "unsplash:cO1sdNvy_9A",
+    "page": "https://unsplash.com/photos/assorted-bottles-on-brown-wooden-shelf-cO1sdNvy_9A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1587279825923-b7923cfb7e48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEJ1ZHdlaXNlcnxlbnwxfHx8fDE3OTM5ODE2ODl8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1587279825923-b7923cfb7e48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEJ1ZHdlaXNlcnxlbnwxfHx8fDE3OTM5ODE2ODl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Heshan Perera on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Heshan Perera",
+    "year": 2020,
+    "how": "unsplash search: Budweiser",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@geniequo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cO1sdNvy_9A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEJ1ZHdlaXNlcnxlbnwxfHx8fDE3OTM5ODE2ODl8MA"
+   },
+   {
     "shot": "c1",
     "shows": "Praha Chodov V Parku 18 AB InBev",
     "file": "File:Praha Chodov V Parku 18 AB InBev.jpg",
@@ -388,30 +648,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "author": "JiriMatejicek",
     "year": 2019,
-    "how": "Commons category",
-    "category": "Anheuser-Busch InBev"
-   },
-   {
-    "shot": "c2",
-    "shows": "SeaWorld, Orlando - panoramio",
-    "file": "File:SeaWorld, Orlando - panoramio (11).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SeaWorld,_Orlando_-_panoramio_(11).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/SeaWorld%2C_Orlando_-_panoramio_%2811%29.jpg/1920px-SeaWorld%2C_Orlando_-_panoramio_%2811%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/SeaWorld%2C_Orlando_-_panoramio_%2811%29.jpg/500px-SeaWorld%2C_Orlando_-_panoramio_%2811%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bob Linsdell, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Bob Linsdell",
-    "year": 2008,
     "how": "Commons category",
     "category": "Anheuser-Busch InBev"
    },
@@ -464,30 +700,6 @@
     "category": "Labatt Brewing Company"
    },
    {
-    "shot": "c5",
-    "shows": "Graham Mackay, 2009 World Economic Forum on Africa",
-    "file": "File:Graham Mackay, 2009 World Economic Forum on Africa.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Graham_Mackay,_2009_World_Economic_Forum_on_Africa.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Graham_Mackay%2C_2009_World_Economic_Forum_on_Africa.jpg/1920px-Graham_Mackay%2C_2009_World_Economic_Forum_on_Africa.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Graham_Mackay%2C_2009_World_Economic_Forum_on_Africa.jpg/500px-Graham_Mackay%2C_2009_World_Economic_Forum_on_Africa.jpg",
-    "size": [
-     1920,
-     1253
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Copyright World Economic Forum www.weforum.org / Eric Miller emiller@iafrica.com, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Copyright World Economic Forum www.weforum.org / Eric Miller emiller@iafrica.com",
-    "year": 2009,
-    "how": "Commons category",
-    "category": "SABMiller plc"
-   },
-   {
     "shot": "c6",
     "shows": "Hansa Beer",
     "file": "File:Hansa Beer.jpg",
@@ -534,33 +746,9 @@
     "year": 2012,
     "how": "Commons category",
     "category": "Oriental Brewery Company"
-   },
-   {
-    "shot": "c8",
-    "shows": "OB Hite and Cass",
-    "file": "File:OB Hite and Cass.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:OB_Hite_and_Cass.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/OB_Hite_and_Cass.jpg/1920px-OB_Hite_and_Cass.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/OB_Hite_and_Cass.jpg/500px-OB_Hite_and_Cass.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bertrouf, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Bertrouf",
-    "year": 2011,
-    "how": "Commons category",
-    "category": "Oriental Brewery Company"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "ABT": {
   "name": "Abbott Laboratories",
@@ -599,28 +787,83 @@
     ]
    },
    {
-    "shot": "c2",
-    "shows": "Corona test equipment",
-    "file": "File:Corona test equipment.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Corona_test_equipment.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Corona_test_equipment.jpg/1920px-Corona_test_equipment.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Corona_test_equipment.jpg/500px-Corona_test_equipment.jpg",
+    "shot": "b1",
+    "shows": "A billboard with a group of dolls on it",
+    "file": "unsplash:L60EEpP0i4I",
+    "page": "https://unsplash.com/photos/a-billboard-with-a-group-of-dolls-on-it-L60EEpP0i4I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1729975920909-7f45437f58b7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QWJib3R0fGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1729975920909-7f45437f58b7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QWJib3R0fGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2400,
+     1296
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Ellywa, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Ellywa",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Abbott Laboratories"
+    "credit": "Photo by Welton Gite on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Welton Gite",
+    "year": 2024,
+    "how": "unsplash search: Abbott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@weltong?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/L60EEpP0i4I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QWJib3R0fGVufDF8fHx8MTc5Mzk4MTY4OXww"
+   },
+   {
+    "shot": "b2",
+    "shows": "A bride in a white wedding dress with veil",
+    "file": "unsplash:QsYbx5MhndU",
+    "page": "https://unsplash.com/photos/a-bride-in-a-white-wedding-dress-with-veil-QsYbx5MhndU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1775309679021-474a44174bdc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8QWJib3R0fGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1775309679021-474a44174bdc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8QWJib3R0fGVufDF8fHx8MTc5Mzk4MTY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1540
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Smithsonian on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Smithsonian",
+    "year": 2026,
+    "how": "unsplash search: Abbott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@smithsonian?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/QsYbx5MhndU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8QWJib3R0fGVufDF8fHx8MTc5Mzk4MTY4OXww"
+   },
+   {
+    "shot": "b3",
+    "shows": "A woman in a green dress with two children",
+    "file": "unsplash:R28CoB1VUYY",
+    "page": "https://unsplash.com/photos/a-woman-in-a-green-dress-with-two-children-R28CoB1VUYY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1775309678987-40a0a6fa44f3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFiYm90dHxlbnwxfHx8fDE3OTM5ODE2ODl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1775309678987-40a0a6fa44f3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFiYm90dHxlbnwxfHx8fDE3OTM5ODE2ODl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1685
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Smithsonian on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Smithsonian",
+    "year": 2026,
+    "how": "unsplash search: Abbott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@smithsonian?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/R28CoB1VUYY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFiYm90dHxlbnwxfHx8fDE3OTM5ODE2ODl8MA",
+    "track_pending": true
    },
    {
     "shot": "c3",
@@ -671,78 +914,6 @@
     "category": "Abbott Laboratories"
    },
    {
-    "shot": "c5",
-    "shows": "Box of Abbott Panbio COVID-19 antigen rapid AG nasal tests",
-    "file": "File:Box of Abbott Panbio COVID-19 antigen rapid AG nasal tests.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Box_of_Abbott_Panbio_COVID-19_antigen_rapid_AG_nasal_tests.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Box_of_Abbott_Panbio_COVID-19_antigen_rapid_AG_nasal_tests.jpg/1280px-Box_of_Abbott_Panbio_COVID-19_antigen_rapid_AG_nasal_tests.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Box_of_Abbott_Panbio_COVID-19_antigen_rapid_AG_nasal_tests.jpg/500px-Box_of_Abbott_Panbio_COVID-19_antigen_rapid_AG_nasal_tests.jpg",
-    "size": [
-     1280,
-     1700
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Syced, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Syced",
-    "year": null,
-    "how": "Commons category",
-    "category": "Abbott Laboratories"
-   },
-   {
-    "shot": "c6",
-    "shows": "Abbott Laboratories stock bottle of ZYFLO ( zileuton ) 600 mg tablets (manufactured 1997). Also shown are ZYFLO tablets, with one tab broken. Tablets are brande",
-    "file": "File:Zyflo.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Zyflo.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zyflo.JPG/1280px-Zyflo.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Zyflo.JPG/500px-Zyflo.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sbharris, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Sbharris",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Abbott Laboratories"
-   },
-   {
-    "shot": "c7",
-    "shows": "Hidrasec Racecadotril1",
-    "file": "File:Hidrasec Racecadotril1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hidrasec_Racecadotril1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hidrasec_Racecadotril1.jpg/1920px-Hidrasec_Racecadotril1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hidrasec_Racecadotril1.jpg/500px-Hidrasec_Racecadotril1.jpg",
-    "size": [
-     1920,
-     1562
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Unknown author, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "",
-    "year": null,
-    "how": "Commons category",
-    "category": "Abbott Laboratories"
-   },
-   {
     "shot": "s8",
     "shows": "Abbott Hangzhou Factory in HEDA",
     "file": "File:201407 Abbott Hangzhou Factory in HEDA.jpg",
@@ -764,57 +935,9 @@
     "author": "MNXANL",
     "year": 2014,
     "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Abbott Labs and downtown",
-    "file": "File:Abbott Labs and downtown.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Abbott_Labs_and_downtown.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Abbott_Labs_and_downtown.jpg/1920px-Abbott_Labs_and_downtown.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Abbott_Labs_and_downtown.jpg/500px-Abbott_Labs_and_downtown.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jsjessee, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Jsjessee",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Abbott Laboratories"
-   },
-   {
-    "shot": "c10",
-    "shows": "HK 灣仔 Wan Chai 莊士敦道 Johnston Road 49 tram body ads 雅培 EYE Q-Plus blue Abbott Laboratories",
-    "file": "File:HK 灣仔 Wan Chai 莊士敦道 Johnston Road 49 tram body ads 雅培 EYE Q-Plus blue Abbott Laboratories.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_49_tram_body_ads_%E9%9B%85%E5%9F%B9_EYE_Q-Plus_blue_Abbott_Laboratories.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_49_tram_body_ads_%E9%9B%85%E5%9F%B9_EYE_Q-Plus_blue_Abbott_Laboratories.JPG/1920px-HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_49_tram_body_ads_%E9%9B%85%E5%9F%B9_EYE_Q-Plus_blue_Abbott_Laboratories.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_49_tram_body_ads_%E9%9B%85%E5%9F%B9_EYE_Q-Plus_blue_Abbott_Laboratories.JPG/500px-HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_49_tram_body_ads_%E9%9B%85%E5%9F%B9_EYE_Q-Plus_blue_Abbott_Laboratories.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Fongs Gomyeal 260, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Fongs Gomyeal 260",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Abbott Laboratories"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "ABBV": {
   "name": "AbbVie",
@@ -1850,29 +1973,6 @@
   "sector": "sector-financials",
   "photos": [
    {
-    "shot": "main",
-    "shows": "AFLAC Tower Columbus Georgia",
-    "file": "File:AFLAC Tower Columbus Georgia.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:AFLAC_Tower_Columbus_Georgia.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AFLAC_Tower_Columbus_Georgia.jpg/1280px-AFLAC_Tower_Columbus_Georgia.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AFLAC_Tower_Columbus_Georgia.jpg/500px-AFLAC_Tower_Columbus_Georgia.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Garydunncolumbusgausa, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Garydunncolumbusgausa",
-    "year": 2012,
-    "how": "Wikidata main image"
-   },
-   {
     "shot": "c2",
     "shows": "Aflac WWHQ",
     "file": "File:Aflac WWHQ.jpg",
@@ -1897,6 +1997,29 @@
     "category": "Aflac"
    },
    {
+    "shot": "main",
+    "shows": "AFLAC Tower Columbus Georgia",
+    "file": "File:AFLAC Tower Columbus Georgia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:AFLAC_Tower_Columbus_Georgia.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AFLAC_Tower_Columbus_Georgia.jpg/1280px-AFLAC_Tower_Columbus_Georgia.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AFLAC_Tower_Columbus_Georgia.jpg/500px-AFLAC_Tower_Columbus_Georgia.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Garydunncolumbusgausa, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Garydunncolumbusgausa",
+    "year": 2012,
+    "how": "Wikidata main image"
+   },
+   {
     "shot": "c3",
     "shows": "Chofu South Gate Building",
     "file": "File:Chofu South Gate Building.jpg",
@@ -1917,30 +2040,6 @@
     "licence_url": "https://creativecommons.org/licenses/by/3.0",
     "author": "多摩に暇人",
     "year": 2015,
-    "how": "Commons category",
-    "category": "Aflac"
-   },
-   {
-    "shot": "c4",
-    "shows": "Aflac District Office, Valdosta",
-    "file": "File:Aflac District Office, Valdosta.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Aflac_District_Office,_Valdosta.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aflac_District_Office%2C_Valdosta.JPG/1920px-Aflac_District_Office%2C_Valdosta.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Aflac_District_Office%2C_Valdosta.JPG/500px-Aflac_District_Office%2C_Valdosta.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Michael Rivera",
-    "year": 2013,
     "how": "Commons category",
     "category": "Aflac"
    },
@@ -2017,7 +2116,7 @@
     "category": "Aflac"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "A": {
   "name": "Agilent Technologies",
@@ -2531,29 +2630,6 @@
   "sector": "sector-consumer-discretionary",
   "photos": [
    {
-    "shot": "main",
-    "shows": "888 Brannan, San Francisco, 2016",
-    "file": "File:888 Brannan, San Francisco, 2016.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:888_Brannan,_San_Francisco,_2016.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg/1920px-888_Brannan%2C_San_Francisco%2C_2016.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg/500px-888_Brannan%2C_San_Francisco%2C_2016.jpg",
-    "size": [
-     1920,
-     706
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dllu",
-    "year": 2016,
-    "how": "Wikidata main image"
-   },
-   {
     "shot": "leader",
     "shows": "Brian Chesky, Airbnb CEO (per Wikidata)",
     "file": "File:Brian Chesky 2025.jpg",
@@ -2576,6 +2652,29 @@
     "year": 2025,
     "how": "Wikidata CEO",
     "person": true
+   },
+   {
+    "shot": "main",
+    "shows": "888 Brannan, San Francisco, 2016",
+    "file": "File:888 Brannan, San Francisco, 2016.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:888_Brannan,_San_Francisco,_2016.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg/1920px-888_Brannan%2C_San_Francisco%2C_2016.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/888_Brannan%2C_San_Francisco%2C_2016.jpg/500px-888_Brannan%2C_San_Francisco%2C_2016.jpg",
+    "size": [
+     1920,
+     706
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dllu",
+    "year": 2016,
+    "how": "Wikidata main image"
    },
    {
     "shot": "c3",
@@ -2602,102 +2701,6 @@
     "category": "Airbnb"
    },
    {
-    "shot": "c4",
-    "shows": "Not a hotel, apparently",
-    "file": "File:Not a hotel, apparently. (28067281778).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Not_a_hotel,_apparently._(28067281778).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Not_a_hotel%2C_apparently._%2828067281778%29.jpg/1920px-Not_a_hotel%2C_apparently._%2828067281778%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Not_a_hotel%2C_apparently._%2828067281778%29.jpg/500px-Not_a_hotel%2C_apparently._%2828067281778%29.jpg",
-    "size": [
-     1920,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Billie Grace Ward from New York, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Billie Grace Ward from New York, USA",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Airbnb"
-   },
-   {
-    "shot": "c5",
-    "shows": "Barßel - Bootshafen + Hausboote 04 ies",
-    "file": "File:Barßel - Bootshafen + Hausboote 04 ies.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bar%C3%9Fel_-_Bootshafen_%2B_Hausboote_04_ies.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bar%C3%9Fel_-_Bootshafen_%2B_Hausboote_04_ies.jpg/1920px-Bar%C3%9Fel_-_Bootshafen_%2B_Hausboote_04_ies.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Bar%C3%9Fel_-_Bootshafen_%2B_Hausboote_04_ies.jpg/500px-Bar%C3%9Fel_-_Bootshafen_%2B_Hausboote_04_ies.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Frank Vincentz, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Frank Vincentz",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Airbnb"
-   },
-   {
-    "shot": "c6",
-    "shows": "C. Molina Conejero",
-    "file": "File:C. Molina Conejero (85095).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:C._Molina_Conejero_(85095).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/C._Molina_Conejero_%2885095%29.jpg/1920px-C._Molina_Conejero_%2885095%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/C._Molina_Conejero_%2885095%29.jpg/500px-C._Molina_Conejero_%2885095%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Francesc Fort, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Francesc Fort",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Airbnb"
-   },
-   {
-    "shot": "c7",
-    "shows": "No to Airbnb - Όχι στο Airbnb",
-    "file": "File:No to Airbnb - Όχι στο Airbnb.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:No_to_Airbnb_-_%CE%8C%CF%87%CE%B9_%CF%83%CF%84%CE%BF_Airbnb.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/No_to_Airbnb_-_%CE%8C%CF%87%CE%B9_%CF%83%CF%84%CE%BF_Airbnb.jpg/1920px-No_to_Airbnb_-_%CE%8C%CF%87%CE%B9_%CF%83%CF%84%CE%BF_Airbnb.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/No_to_Airbnb_-_%CE%8C%CF%87%CE%B9_%CF%83%CF%84%CE%BF_Airbnb.jpg/500px-No_to_Airbnb_-_%CE%8C%CF%87%CE%B9_%CF%83%CF%84%CE%BF_Airbnb.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tomisti, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tomisti",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Airbnb"
-   },
-   {
     "shot": "s8",
     "shows": "Atrium of AirBnB Headquarters at 888 Brannan St, San Francisco",
     "file": "File:Atrium of AirBnB Headquarters at 888 Brannan St, San Francisco.jpg",
@@ -2719,55 +2722,9 @@
     "author": "Dllu",
     "year": 2017,
     "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "ABANDONED WHITE VAN (IN FRONT OF THE NEW AIRBNB HEADQUARTERS)",
-    "file": "File:ABANDONED WHITE VAN (IN FRONT OF THE NEW AIRBNB HEADQUARTERS)-119026 (28040634284).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ABANDONED_WHITE_VAN_(IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS)-119026_(28040634284).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/ABANDONED_WHITE_VAN_%28IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS%29-119026_%2828040634284%29.jpg/1920px-ABANDONED_WHITE_VAN_%28IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS%29-119026_%2828040634284%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/ABANDONED_WHITE_VAN_%28IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS%29-119026_%2828040634284%29.jpg/500px-ABANDONED_WHITE_VAN_%28IN_FRONT_OF_THE_NEW_AIRBNB_HEADQUARTERS%29-119026_%2828040634284%29.jpg",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "William Murphy from Dublin, Ireland, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "William Murphy from Dublin, Ireland",
-    "year": 2016,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Dragoon General Store and AirBnB",
-    "file": "File:Dragoon General Store and AirBnB.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dragoon_General_Store_and_AirBnB.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dragoon_General_Store_and_AirBnB.jpg/1920px-Dragoon_General_Store_and_AirBnB.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Dragoon_General_Store_and_AirBnB.jpg/500px-Dragoon_General_Store_and_AirBnB.jpg",
-    "size": [
-     1920,
-     1352
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "DragoonArizona, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "DragoonArizona",
-    "year": 2025,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "AKAM": {
   "name": "Akamai Technologies",
@@ -3050,6 +3007,87 @@
   "sector": "sector-consumer-discretionary",
   "photos": [
    {
+    "shot": "b1",
+    "shows": "Black and orange card on brown wooden table",
+    "file": "unsplash:SGj4fw55Y7w",
+    "page": "https://unsplash.com/photos/black-and-orange-card-on-brown-wooden-table-SGj4fw55Y7w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1612103147485-8c8de055942b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QWxpRXhwcmVzc3xlbnwxfHx8fDE3OTM5ODE2OTF8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1612103147485-8c8de055942b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QWxpRXhwcmVzc3xlbnwxfHx8fDE3OTM5ODE2OTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by CardMapr.nl on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "CardMapr.nl",
+    "year": 2021,
+    "how": "unsplash search: AliExpress",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cardmapr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SGj4fw55Y7w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QWxpRXhwcmVzc3xlbnwxfHx8fDE3OTM5ODE2OTF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "Alibaba's headquarters building is seen in the photo",
+    "file": "unsplash:9fkwZsAqqQE",
+    "page": "https://unsplash.com/photos/alibabas-headquarters-building-is-seen-in-the-photo-9fkwZsAqqQE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1743227576154-5b517ec98817?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QWxpYmFiYXxlbnwxfHx8fDE3OTM5ODE2OTB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1743227576154-5b517ec98817?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QWxpYmFiYXxlbnwxfHx8fDE3OTM5ODE2OTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1349
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ban Daisy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ban Daisy",
+    "year": 2025,
+    "how": "unsplash search: Alibaba",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@daisy0914?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9fkwZsAqqQE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QWxpYmFiYXxlbnwxfHx8fDE3OTM5ODE2OTB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "Brown and white cardboard box",
+    "file": "unsplash:YJmxzGUymzc",
+    "page": "https://unsplash.com/photos/brown-and-white-cardboard-box-YJmxzGUymzc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1609061300987-0545974979e2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFsaWJhYmF8ZW58MXx8fHwxNzkzOTgxNjkwfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1609061300987-0545974979e2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFsaWJhYmF8ZW58MXx8fHwxNzkzOTgxNjkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Customerbox on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Customerbox",
+    "year": 2020,
+    "how": "unsplash search: Alibaba",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@customerbox?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/YJmxzGUymzc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFsaWJhYmF8ZW58MXx8fHwxNzkzOTgxNjkwfDA",
+    "track_pending": true
+   },
+   {
     "shot": "main",
     "shows": "Alibaba Group provisional office at Xiong'an",
     "file": "File:Alibaba Group provisional office at Xiong'an (20180503164635).jpg",
@@ -3071,54 +3109,6 @@
     "author": "N509FZ",
     "year": 2018,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Source Codes from Alibaba Cloud, Hangzhou National Archives 73",
-    "file": "File:Source Codes from Alibaba Cloud, Hangzhou National Archives 73.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Source_Codes_from_Alibaba_Cloud,_Hangzhou_National_Archives_73.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Source_Codes_from_Alibaba_Cloud%2C_Hangzhou_National_Archives_73.jpg/1920px-Source_Codes_from_Alibaba_Cloud%2C_Hangzhou_National_Archives_73.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Source_Codes_from_Alibaba_Cloud%2C_Hangzhou_National_Archives_73.jpg/500px-Source_Codes_from_Alibaba_Cloud%2C_Hangzhou_National_Archives_73.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "User:CatOnMars, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "User:CatOnMars",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Alibaba Cloud"
-   },
-   {
-    "shot": "c3",
-    "shows": "0892Poblacion Baliuag Bulacan 42",
-    "file": "File:0892Poblacion Baliuag Bulacan 42.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:0892Poblacion_Baliuag_Bulacan_42.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/0892Poblacion_Baliuag_Bulacan_42.jpg/1920px-0892Poblacion_Baliuag_Bulacan_42.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/0892Poblacion_Baliuag_Bulacan_42.jpg/500px-0892Poblacion_Baliuag_Bulacan_42.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Judgefloro, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Judgefloro",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Pilipinas Alibaba Distributors Corporation"
    },
    {
     "shot": "c4",
@@ -3193,30 +3183,6 @@
     "category": "Alibaba Group"
    },
    {
-    "shot": "c7",
-    "shows": "Alibaba Cuigezhuang office",
-    "file": "File:Alibaba Cuigezhuang office (20240304135911).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Alibaba_Cuigezhuang_office_(20240304135911).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alibaba_Cuigezhuang_office_%2820240304135911%29.jpg/1920px-Alibaba_Cuigezhuang_office_%2820240304135911%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Alibaba_Cuigezhuang_office_%2820240304135911%29.jpg/500px-Alibaba_Cuigezhuang_office_%2820240304135911%29.jpg",
-    "size": [
-     1920,
-     1266
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "N509FZ",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Alibaba Group"
-   },
-   {
     "shot": "s8",
     "shows": "Alibaba Group Beijing headquarters at Greenland Center, Wangjing",
     "file": "File:Alibaba Group Beijing headquarters at Greenland Center, Wangjing (20210410104117).jpg",
@@ -3261,32 +3227,9 @@
     "author": "Thomas LOMBARD , designed by HASSELL (architects) [ 1 ]",
     "year": 2012,
     "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "HK CWB 銅鑼灣 Causeway Bay 銅鑼灣時代廣場 Times Square office Tower One 阿里巴巴 Alibaba Hong Kong June 2022 Px3 04",
-    "file": "File:HK CWB 銅鑼灣 Causeway Bay 銅鑼灣時代廣場 Times Square office Tower One 阿里巴巴 Alibaba Hong Kong June 2022 Px3 04.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%8A%85%E9%91%BC%E7%81%A3%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Times_Square_office_Tower_One_%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4_Alibaba_Hong_Kong_June_2022_Px3_04.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%8A%85%E9%91%BC%E7%81%A3%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Times_Square_office_Tower_One_%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4_Alibaba_Hong_Kong_June_2022_Px3_04.jpg/1280px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%8A%85%E9%91%BC%E7%81%A3%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Times_Square_office_Tower_One_%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4_Alibaba_Hong_Kong_June_2022_Px3_04.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%8A%85%E9%91%BC%E7%81%A3%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Times_Square_office_Tower_One_%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4_Alibaba_Hong_Kong_June_2022_Px3_04.jpg/500px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%8A%85%E9%91%BC%E7%81%A3%E6%99%82%E4%BB%A3%E5%BB%A3%E5%A0%B4_Times_Square_office_Tower_One_%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4_Alibaba_Hong_Kong_June_2022_Px3_04.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "SHWEUM Cizemsh, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "SHWEUM Cizemsh",
-    "year": 2022,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "ALGN": {
   "name": "Align Technology",
@@ -57619,8 +57562,7 @@
     "how": "unsplash search: Air Jordan",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@piyushh29?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/asD3pM3lSkA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QWlyJTIwSm9yZGFufGVufDF8fHx8MTc5Mzk3MDg3OHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/asD3pM3lSkA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QWlyJTIwSm9yZGFufGVufDF8fHx8MTc5Mzk3MDg3OHww"
    },
    {
     "shot": "b5",
@@ -57646,8 +57588,7 @@
     "how": "unsplash search: Nike",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@usama_1248?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/kP6knT7tjn4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TmlrZXxlbnwxfHx8fDE3OTM5NzA4Nzh8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/kP6knT7tjn4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TmlrZXxlbnwxfHx8fDE3OTM5NzA4Nzh8MA"
    },
    {
     "shot": "b6",
@@ -57673,8 +57614,7 @@
     "how": "unsplash search: Air Jordan",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@chrishardyphotography?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/0eh9pWIld6I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QWlyJTIwSm9yZGFufGVufDF8fHx8MTc5Mzk3MDg3OHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/0eh9pWIld6I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QWlyJTIwSm9yZGFufGVufDF8fHx8MTc5Mzk3MDg3OHww"
    },
    {
     "shot": "b7",
@@ -57700,8 +57640,7 @@
     "how": "unsplash search: Nike",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@paulsteuber?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/SrrFCmYXHLg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TmlrZXxlbnwxfHx8fDE3OTM5NzA4Nzh8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/SrrFCmYXHLg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TmlrZXxlbnwxfHx8fDE3OTM5NzA4Nzh8MA"
    },
    {
     "shot": "b8",
@@ -57727,8 +57666,7 @@
     "how": "unsplash search: Nike",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@caapece?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/NoVnXXmDNi0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TmlrZXxlbnwxfHx8fDE3OTM5NzA4Nzh8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/NoVnXXmDNi0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TmlrZXxlbnwxfHx8fDE3OTM5NzA4Nzh8MA"
    },
    {
     "shot": "hq",
@@ -74603,8 +74541,7 @@
     "how": "unsplash search: SpaceX",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@spacex?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/MEW1f-yu2KI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3BhY2VYfGVufDF8fHx8MTc5Mzk3ODA4M3ww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/MEW1f-yu2KI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3BhY2VYfGVufDF8fHx8MTc5Mzk3ODA4M3ww"
    },
    {
     "shot": "b3",
@@ -74630,8 +74567,7 @@
     "how": "unsplash search: Falcon 9",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@svenpiper?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/O7wr-ZHCSmg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8RmFsY29uJTIwOXxlbnwxfHx8fDE3OTM5NzgwODN8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/O7wr-ZHCSmg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8RmFsY29uJTIwOXxlbnwxfHx8fDE3OTM5NzgwODN8MA"
    },
    {
     "shot": "b4",
@@ -74657,8 +74593,7 @@
     "how": "unsplash search: Falcon 9",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/qjgdslbEn-I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RmFsY29uJTIwOXxlbnwxfHx8fDE3OTM5NzgwODN8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/qjgdslbEn-I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RmFsY29uJTIwOXxlbnwxfHx8fDE3OTM5NzgwODN8MA"
    },
    {
     "shot": "b5",
@@ -74684,8 +74619,7 @@
     "how": "unsplash search: Falcon 9",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@rollingshots?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Xi1s8eCt_zU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8RmFsY29uJTIwOXxlbnwxfHx8fDE3OTM5NzgwODN8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/Xi1s8eCt_zU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8RmFsY29uJTIwOXxlbnwxfHx8fDE3OTM5NzgwODN8MA"
    },
    {
     "shot": "starlink",
@@ -75338,8 +75272,7 @@
     "how": "unsplash search: Starbucks",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@atharkhan?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Y9D4hZWB4kI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/Y9D4hZWB4kI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww"
    },
    {
     "shot": "b2",
@@ -75365,8 +75298,7 @@
     "how": "unsplash search: Starbucks",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@samboratanak?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/aScuVWpmDcQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/aScuVWpmDcQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww"
    },
    {
     "shot": "b3",
@@ -75392,8 +75324,7 @@
     "how": "unsplash search: Starbucks",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@usama_1248?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/zCDAYROwLC0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/zCDAYROwLC0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww"
    },
    {
     "shot": "b4",
@@ -75419,8 +75350,7 @@
     "how": "unsplash search: Starbucks",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@beingmeak05?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/diTQxBRYv30/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/diTQxBRYv30/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww"
    },
    {
     "shot": "b5",
@@ -75446,8 +75376,7 @@
     "how": "unsplash search: Starbucks",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@juneandrei?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/1SL5Rj0xzsU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/1SL5Rj0xzsU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww"
    },
    {
     "shot": "b6",
@@ -75473,8 +75402,7 @@
     "how": "unsplash search: Starbucks",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@gemasaputera?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/7Gm1Jwt1uYA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/7Gm1Jwt1uYA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww"
    },
    {
     "shot": "b7",
@@ -75500,8 +75428,7 @@
     "how": "unsplash search: Starbucks",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@rickopan?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/XewUUh7POi0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/XewUUh7POi0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww"
    },
    {
     "shot": "b8",
@@ -75527,8 +75454,7 @@
     "how": "unsplash search: Starbucks",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@k_yasser?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/3U9L9Chc3is/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/3U9L9Chc3is/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww"
    },
    {
     "shot": "store",
@@ -78054,8 +77980,7 @@
     "how": "unsplash search: Tesla Model 3",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@ort?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/W8IvFdsKsl8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/W8IvFdsKsl8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA"
    },
    {
     "shot": "b2",
@@ -78081,8 +78006,7 @@
     "how": "unsplash search: Tesla car",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@teslafansch?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/2swaWy4Xhb0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/2swaWy4Xhb0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA"
    },
    {
     "shot": "b3",
@@ -78108,8 +78032,7 @@
     "how": "unsplash search: Tesla Model 3",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@robinvangeenen?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/zSeZzS1bCq8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/zSeZzS1bCq8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA"
    },
    {
     "shot": "b4",
@@ -78135,8 +78058,7 @@
     "how": "unsplash search: Tesla Model Y",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@jingspiral?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/N0h6ow055KY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMFl8ZW58MXx8fHwxNzkzOTc4MDg3fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/N0h6ow055KY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMFl8ZW58MXx8fHwxNzkzOTc4MDg3fDA"
    },
    {
     "shot": "b5",
@@ -78162,8 +78084,7 @@
     "how": "unsplash search: Tesla Model 3",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@austin__ramsey?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/U-DgtDG6MRo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/U-DgtDG6MRo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA"
    },
    {
     "shot": "b6",
@@ -78189,8 +78110,7 @@
     "how": "unsplash search: Tesla car",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@ort?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/WIhlNrqSysc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/WIhlNrqSysc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA"
    },
    {
     "shot": "b7",
@@ -78216,8 +78136,7 @@
     "how": "unsplash search: Tesla car",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@dshap?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/G9MNjujk8Tg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/G9MNjujk8Tg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww"
    },
    {
     "shot": "b8",
@@ -78243,8 +78162,7 @@
     "how": "unsplash search: Tesla car",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@yozz_t?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/g3rUWbmbf0s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/g3rUWbmbf0s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww"
    },
    {
     "shot": "b9",
@@ -78270,8 +78188,7 @@
     "how": "unsplash search: Tesla car",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@tanelah?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/thtUUYPdxWY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/thtUUYPdxWY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww"
    },
    {
     "shot": "gigafactory",
