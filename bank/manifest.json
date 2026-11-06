@@ -75269,6 +75269,268 @@
   "sector": "sector-consumer-discretionary",
   "photos": [
    {
+    "shot": "hq",
+    "shows": "Starbucks Soto Headquarters",
+    "file": "File:Starbucks Soto Headquarters.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Starbucks_Soto_Headquarters.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Starbucks_Soto_Headquarters.jpg/1920px-Starbucks_Soto_Headquarters.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Starbucks_Soto_Headquarters.jpg/500px-Starbucks_Soto_Headquarters.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Mannivu, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mannivu",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "main",
+    "shows": "Starbucks Center in Seattle, Washington (headquarters of Starbucks Coffee). Photographed by user Coolcaesar on May 30, 2016.",
+    "file": "File:Starbuckscenter.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Starbuckscenter.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/1920px-Starbuckscenter.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/500px-Starbuckscenter.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Coolcaesar",
+    "year": 2016,
+    "how": "Wikidata main image"
+   },
+   {
+    "shot": "b1",
+    "shows": "Starbucks sign",
+    "file": "unsplash:Y9D4hZWB4kI",
+    "page": "https://unsplash.com/photos/starbucks-sign-Y9D4hZWB4kI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1577215451400-f207c63e30be?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1577215451400-f207c63e30be?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Athar Khan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Athar Khan",
+    "year": 2019,
+    "how": "unsplash search: Starbucks",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@atharkhan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Y9D4hZWB4kI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "Round brown wooden table",
+    "file": "unsplash:aScuVWpmDcQ",
+    "page": "https://unsplash.com/photos/round-brown-wooden-table-aScuVWpmDcQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1568036193587-84226a9c5a1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1568036193587-84226a9c5a1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1716
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by S.Ratanak on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "S.Ratanak",
+    "year": 2019,
+    "how": "unsplash search: Starbucks",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@samboratanak?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aScuVWpmDcQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "A starbucks coffee cup flying through the air",
+    "file": "unsplash:zCDAYROwLC0",
+    "page": "https://unsplash.com/photos/a-starbucks-coffee-cup-flying-through-the-air-zCDAYROwLC0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1637290742802-3c8a0f5bd49b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1637290742802-3c8a0f5bd49b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by USAMA AKRAM on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "USAMA AKRAM",
+    "year": 2021,
+    "how": "unsplash search: Starbucks",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@usama_1248?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zCDAYROwLC0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "A starbucks coffee shop with a person sitting at a table",
+    "file": "unsplash:diTQxBRYv30",
+    "page": "https://unsplash.com/photos/a-starbucks-coffee-shop-with-a-person-sitting-at-a-table-diTQxBRYv30?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1654054041538-ad6a3fb653d5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1654054041538-ad6a3fb653d5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by AK on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "AK",
+    "year": 2022,
+    "how": "unsplash search: Starbucks",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@beingmeak05?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/diTQxBRYv30/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "A starbucks sign hanging from the side of a building",
+    "file": "unsplash:1SL5Rj0xzsU",
+    "page": "https://unsplash.com/photos/a-starbucks-sign-hanging-from-the-side-of-a-building-1SL5Rj0xzsU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1603361513137-219be38712ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=2265&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1603361513137-219be38712ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2265,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by June Andrei George on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "June Andrei George",
+    "year": 2020,
+    "how": "unsplash search: Starbucks",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@juneandrei?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/1SL5Rj0xzsU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "White and brown starbucks cup",
+    "file": "unsplash:7Gm1Jwt1uYA",
+    "page": "https://unsplash.com/photos/white-and-brown-starbucks-cup-7Gm1Jwt1uYA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1589476993333-f55b84301219?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1589476993333-f55b84301219?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2133
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gema Saputera on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gema Saputera",
+    "year": 2020,
+    "how": "unsplash search: Starbucks",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gemasaputera?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/7Gm1Jwt1uYA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "White and green starbucks disposable cup",
+    "file": "unsplash:XewUUh7POi0",
+    "page": "https://unsplash.com/photos/white-and-green-starbucks-disposable-cup-XewUUh7POi0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1612994503408-1749e15638b4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1612994503408-1749e15638b4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ricko Pan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ricko Pan",
+    "year": 2021,
+    "how": "unsplash search: Starbucks",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rickopan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/XewUUh7POi0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "Starbucks logo",
+    "file": "unsplash:3U9L9Chc3is",
+    "page": "https://unsplash.com/photos/starbucks-logo-3U9L9Chc3is?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1545231027-637d2f6210f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1545231027-637d2f6210f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Khadeeja Yasser on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Khadeeja Yasser",
+    "year": 2018,
+    "how": "unsplash search: Starbucks",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@k_yasser?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/3U9L9Chc3is/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8U3RhcmJ1Y2tzfGVufDF8fHx8MTc5Mzk3ODA4NHww",
+    "track_pending": true
+   },
+   {
     "shot": "store",
     "shows": "STARBUCKS COFFEE LUSHAN HOTEL STORE, SHENZHEN",
     "file": "File:STARBUCKS COFFEE LUSHAN HOTEL STORE, SHENZHEN.jpg",
@@ -75315,29 +75577,6 @@
     "how": "catalog"
    },
    {
-    "shot": "cup",
-    "shows": "Starbucks Red Cup",
-    "file": "File:Starbucks Red Cup.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Starbucks_Red_Cup.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Starbucks_Red_Cup.jpg/1280px-Starbucks_Red_Cup.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Starbucks_Red_Cup.jpg/500px-Starbucks_Red_Cup.jpg",
-    "size": [
-     1280,
-     1951
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Hiro - Kokoro☆Photo from Kyoto, Japan, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Hiro - Kokoro☆Photo from Kyoto, Japan",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
     "shot": "pike-place",
     "shows": "Pike Place Starbucks sign",
     "file": "File:Pike Place Starbucks sign.jpg",
@@ -75358,29 +75597,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "author": "Ken Wuschke",
     "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "hq",
-    "shows": "Starbucks Soto Headquarters",
-    "file": "File:Starbucks Soto Headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Starbucks_Soto_Headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Starbucks_Soto_Headquarters.jpg/1920px-Starbucks_Soto_Headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Starbucks_Soto_Headquarters.jpg/500px-Starbucks_Soto_Headquarters.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mannivu, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Mannivu",
-    "year": 2023,
     "how": "catalog"
    },
    {
@@ -75406,101 +75622,9 @@
     "year": 2023,
     "how": "catalog",
     "person": true
-   },
-   {
-    "shot": "main",
-    "shows": "Starbucks Center in Seattle, Washington (headquarters of Starbucks Coffee). Photographed by user Coolcaesar on May 30, 2016.",
-    "file": "File:Starbuckscenter.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Starbuckscenter.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/1920px-Starbuckscenter.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/500px-Starbuckscenter.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Coolcaesar",
-    "year": 2016,
-    "how": "Wikidata main image"
-   },
-   {
-    "shot": "s8",
-    "shows": "Seattle - Starbucks Center from the water 01",
-    "file": "File:Seattle - Starbucks Center from the water 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Seattle_-_Starbucks_Center_from_the_water_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Seattle_-_Starbucks_Center_from_the_water_01.jpg/1920px-Seattle_-_Starbucks_Center_from_the_water_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Seattle_-_Starbucks_Center_from_the_water_01.jpg/500px-Seattle_-_Starbucks_Center_from_the_water_01.jpg",
-    "size": [
-     1920,
-     1275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Joe Mabel",
-    "year": 2009,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "SODO - Starbucks Headquarters - Port of Seattle",
-    "file": "File:SODO - Starbucks Headquarters - Port of Seattle.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SODO_-_Starbucks_Headquarters_-_Port_of_Seattle.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SODO_-_Starbucks_Headquarters_-_Port_of_Seattle.jpg/1920px-SODO_-_Starbucks_Headquarters_-_Port_of_Seattle.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SODO_-_Starbucks_Headquarters_-_Port_of_Seattle.jpg/500px-SODO_-_Starbucks_Headquarters_-_Port_of_Seattle.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Latoya Ralliford, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Latoya Ralliford",
-    "year": 2023,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Seattle - Starbucks HQ from Harbor Island 01",
-    "file": "File:Seattle - Starbucks HQ from Harbor Island 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Seattle_-_Starbucks_HQ_from_Harbor_Island_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seattle_-_Starbucks_HQ_from_Harbor_Island_01.jpg/1920px-Seattle_-_Starbucks_HQ_from_Harbor_Island_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seattle_-_Starbucks_HQ_from_Harbor_Island_01.jpg/500px-Seattle_-_Starbucks_HQ_from_Harbor_Island_01.jpg",
-    "size": [
-     1920,
-     1275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Joe Mabel",
-    "year": 2011,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "STT": {
   "name": "State Street Corporation",
@@ -77880,6 +78004,276 @@
   "sector": "sector-consumer-discretionary",
   "photos": [
    {
+    "shot": "leader",
+    "shows": "Elon Musk Colorado 2022 (cropped2)",
+    "file": "File:Elon Musk Colorado 2022 (cropped2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg/500px-Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+    "size": [
+     907,
+     1197
+    ],
+    "focus": [
+     0.5,
+     0.33
+    ],
+    "credit": "U.S. Air Force / Trevor Cokley, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "U.S. Air Force / Trevor Cokley",
+    "year": 2022,
+    "how": "catalog",
+    "person": true,
+    "flags": [
+     "restrictions: personality"
+    ]
+   },
+   {
+    "shot": "b1",
+    "shows": "A tesla electric car charging at a charging station",
+    "file": "unsplash:W8IvFdsKsl8",
+    "page": "https://unsplash.com/photos/a-tesla-electric-car-charging-at-a-charging-station-W8IvFdsKsl8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1700411881984-971bc29083bd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1700411881984-971bc29083bd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bram Van Oost on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bram Van Oost",
+    "year": 2023,
+    "how": "unsplash search: Tesla Model 3",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ort?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/W8IvFdsKsl8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "Blue coupe parked beside white wall",
+    "file": "unsplash:2swaWy4Xhb0",
+    "page": "https://unsplash.com/photos/blue-coupe-parked-beside-white-wall-2swaWy4Xhb0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1617704548623-340376564e68?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1617704548623-340376564e68?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tesla Fans Schweiz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tesla Fans Schweiz",
+    "year": 2021,
+    "how": "unsplash search: Tesla car",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@teslafansch?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2swaWy4Xhb0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "White sedan parked on gray asphalt road during daytime",
+    "file": "unsplash:zSeZzS1bCq8",
+    "page": "https://unsplash.com/photos/white-sedan-parked-on-gray-asphalt-road-during-daytime-zSeZzS1bCq8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1610470832703-95d40c3fad55?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1610470832703-95d40c3fad55?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Robin van Geenen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Robin van Geenen",
+    "year": 2021,
+    "how": "unsplash search: Tesla Model 3",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@robinvangeenen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zSeZzS1bCq8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "A black tesla car driving down the road",
+    "file": "unsplash:N0h6ow055KY",
+    "page": "https://unsplash.com/photos/a-black-tesla-car-driving-down-the-road-N0h6ow055KY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1676754568744-7852efc67c40?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMFl8ZW58MXx8fHwxNzkzOTc4MDg3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1676754568744-7852efc67c40?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMFl8ZW58MXx8fHwxNzkzOTc4MDg3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michal Lauko on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michal Lauko",
+    "year": 2023,
+    "how": "unsplash search: Tesla Model Y",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jingspiral?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/N0h6ow055KY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VGVzbGElMjBNb2RlbCUyMFl8ZW58MXx8fHwxNzkzOTc4MDg3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "Silver porsche 911 parked on parking lot during daytime",
+    "file": "unsplash:U-DgtDG6MRo",
+    "page": "https://unsplash.com/photos/silver-porsche-911-parked-on-parking-lot-during-daytime-U-DgtDG6MRo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1585011664466-b7bbe92f34ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1585011664466-b7bbe92f34ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Austin Ramsey on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Austin Ramsey",
+    "year": 2020,
+    "how": "unsplash search: Tesla Model 3",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@austin__ramsey?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/U-DgtDG6MRo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VGVzbGElMjBNb2RlbCUyMDN8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "Turned on car GPS navigator on Tesla car",
+    "file": "unsplash:WIhlNrqSysc",
+    "page": "https://unsplash.com/photos/turned-on-car-gps-navigator-on-tesla-car-WIhlNrqSysc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1553260202-d1f2ce03298b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1553260202-d1f2ce03298b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bram Van Oost on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bram Van Oost",
+    "year": 2019,
+    "how": "unsplash search: Tesla car",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ort?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/WIhlNrqSysc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VGVzbGElMjBjYXJ8ZW58MXx8fHwxNzkzOTc4MDg2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "A black tesla parked in a parking lot",
+    "file": "unsplash:G9MNjujk8Tg",
+    "page": "https://unsplash.com/photos/a-black-tesla-parked-in-a-parking-lot-G9MNjujk8Tg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1676856577533-1e8099932f7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww&ixlib=rb-4.1.0&w=2123&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1676856577533-1e8099932f7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2123,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daniel Shapiro on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniel Shapiro",
+    "year": 2023,
+    "how": "unsplash search: Tesla car",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dshap?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/G9MNjujk8Tg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "A black sports car",
+    "file": "unsplash:g3rUWbmbf0s",
+    "page": "https://unsplash.com/photos/a-black-sports-car-g3rUWbmbf0s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1669625383124-751e3649255b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1669625383124-751e3649255b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eyosias G on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eyosias G",
+    "year": 2022,
+    "how": "unsplash search: Tesla car",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yozz_t?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/g3rUWbmbf0s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "Black car",
+    "file": "unsplash:thtUUYPdxWY",
+    "page": "https://unsplash.com/photos/black-car-thtUUYPdxWY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1541447270888-83e8494f9c06?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1541447270888-83e8494f9c06?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Taneli Lahtinen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Taneli Lahtinen",
+    "year": 2018,
+    "how": "unsplash search: Tesla car",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tanelah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/thtUUYPdxWY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRlc2xhJTIwY2FyfGVufDF8fHx8MTc5Mzk3ODA4Nnww",
+    "track_pending": true
+   },
+   {
     "shot": "gigafactory",
     "shows": "Gigafactory Texas Building 1 June 2022",
     "file": "File:Gigafactory Texas Building 1 June 2022.jpg",
@@ -77995,33 +78389,6 @@
     "how": "catalog"
    },
    {
-    "shot": "leader",
-    "shows": "Elon Musk Colorado 2022 (cropped2)",
-    "file": "File:Elon Musk Colorado 2022 (cropped2).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg/500px-Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
-    "size": [
-     907,
-     1197
-    ],
-    "focus": [
-     0.5,
-     0.33
-    ],
-    "credit": "U.S. Air Force / Trevor Cokley, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Air Force / Trevor Cokley",
-    "year": 2022,
-    "how": "catalog",
-    "person": true,
-    "flags": [
-     "restrictions: personality"
-    ]
-   },
-   {
     "shot": "c7",
     "shows": "HK SKD 西貢北 Sai Kung North 海映路 Hoi Ying Road 西沙 Go Park Sai Sha shop TESLA Showroom June 2025 R12S 01",
     "file": "File:HK SKD 西貢北 Sai Kung North 海映路 Hoi Ying Road 西沙 Go Park Sai Sha shop TESLA Showroom June 2025 R12S 01.jpg",
@@ -78044,78 +78411,9 @@
     "year": 2025,
     "how": "Commons category",
     "category": "Tesla, Inc."
-   },
-   {
-    "shot": "s8",
-    "shows": "tesla-headquarters-group-photo-s1",
-    "file": "File:2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/2012-06-01-tesla-headquarters-group-photo-s1.jpg/1920px-2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/2012-06-01-tesla-headquarters-group-photo-s1.jpg/500px-2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-    "size": [
-     1920,
-     861
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Steve Jurvetson",
-    "year": 2012,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Tesla store - Fort Myres",
-    "file": "File:Tesla store - Fort Myres.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tesla_store_-_Fort_Myres.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tesla_store_-_Fort_Myres.jpg/1920px-Tesla_store_-_Fort_Myres.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Tesla_store_-_Fort_Myres.jpg/500px-Tesla_store_-_Fort_Myres.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cuban Boy, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Cuban Boy",
-    "year": 2024,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Blue velvet ropes at a Tesla store in Gothenburg",
-    "file": "File:Blue velvet ropes at a Tesla store in Gothenburg.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Blue_velvet_ropes_at_a_Tesla_store_in_Gothenburg.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Blue_velvet_ropes_at_a_Tesla_store_in_Gothenburg.jpg/1920px-Blue_velvet_ropes_at_a_Tesla_store_in_Gothenburg.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Blue_velvet_ropes_at_a_Tesla_store_in_Gothenburg.jpg/500px-Blue_velvet_ropes_at_a_Tesla_store_in_Gothenburg.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "W.carter, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "W.carter",
-    "year": 2023,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "TXN": {
   "name": "Texas Instruments",
@@ -80289,6 +80587,29 @@
   "sector": "sector-tech",
   "photos": [
    {
+    "shot": "main",
+    "shows": "TSMC Fab5",
+    "file": "File:TSMC Fab5.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TSMC_Fab5.JPG/1920px-TSMC_Fab5.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TSMC_Fab5.JPG/500px-TSMC_Fab5.JPG",
+    "size": [
+     1920,
+     1285
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Peellden, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Peellden",
+    "year": 2010,
+    "how": "Wikidata main image"
+   },
+   {
     "shot": "fab",
     "shows": "TSMC Fab 18 May 2025",
     "file": "File:TSMC Fab 18 May 2025.jpg",
@@ -80381,76 +80702,6 @@
     "how": "catalog"
    },
    {
-    "shot": "cleanroom",
-    "shows": "Semiconductor clean room",
-    "file": "File:Semiconductor clean room.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Semiconductor_clean_room.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Semiconductor_clean_room.jpg/1920px-Semiconductor_clean_room.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Semiconductor_clean_room.jpg/500px-Semiconductor_clean_room.jpg",
-    "size": [
-     1920,
-     1287
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Aileen Devlin/ Jefferson Lab from Newport News, USA, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Aileen Devlin/ Jefferson Lab from Newport News, USA",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "leader",
-    "shows": "Official Photo by Wang Yu Ching / Office of the President",
-    "file": "File:10.27 總統出席「第9屆工業技術研究院院士授證典禮」 (50536154856).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:10.27_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E7%AC%AC9%E5%B1%86%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2%E9%99%A2%E5%A3%AB%E6%8E%88%E8%AD%89%E5%85%B8%E7%A6%AE%E3%80%8D_(50536154856).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/10.27_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E7%AC%AC9%E5%B1%86%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2%E9%99%A2%E5%A3%AB%E6%8E%88%E8%AD%89%E5%85%B8%E7%A6%AE%E3%80%8D_%2850536154856%29.jpg/1920px-10.27_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E7%AC%AC9%E5%B1%86%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2%E9%99%A2%E5%A3%AB%E6%8E%88%E8%AD%89%E5%85%B8%E7%A6%AE%E3%80%8D_%2850536154856%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/10.27_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E7%AC%AC9%E5%B1%86%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2%E9%99%A2%E5%A3%AB%E6%8E%88%E8%AD%89%E5%85%B8%E7%A6%AE%E3%80%8D_%2850536154856%29.jpg/500px-10.27_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E7%AC%AC9%E5%B1%86%E5%B7%A5%E6%A5%AD%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2%E9%99%A2%E5%A3%AB%E6%8E%88%E8%AD%89%E5%85%B8%E7%A6%AE%E3%80%8D_%2850536154856%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.33
-    ],
-    "credit": "總統府, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "總統府",
-    "year": 2020,
-    "how": "catalog",
-    "person": true
-   },
-   {
-    "shot": "main",
-    "shows": "TSMC Fab5",
-    "file": "File:TSMC Fab5.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TSMC_Fab5.JPG/1920px-TSMC_Fab5.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TSMC_Fab5.JPG/500px-TSMC_Fab5.JPG",
-    "size": [
-     1920,
-     1285
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Peellden, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Peellden",
-    "year": 2010,
-    "how": "Wikidata main image"
-   },
-   {
     "shot": "s8",
     "shows": "TSMC AP2 building May 2025",
     "file": "File:TSMC AP2 building May 2025.jpg",
@@ -80520,7 +80771,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "TWLO": {
   "name": "Twilio",
