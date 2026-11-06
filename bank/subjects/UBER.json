@@ -6,6 +6,7 @@
   "UBER"
  ],
  "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "CEO of Uber Technologies Dara Khosrowshahi in New York - 2019",
@@ -26,42 +27,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019.jpg"
   },
   {
-   "shows": "Man in black jacket driving car during daytime",
-   "url": "https://images.unsplash.com/photo-1614091199036-e934784dbf0f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VWJlcnxlbnwxfHx8fDE3OTM5NzgwODl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1614091199036-e934784dbf0f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VWJlcnxlbnwxfHx8fDE3OTM5NzgwODl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1798
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Thibault Penin on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@thibaultpenin?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/man-in-black-jacket-driving-car-during-daytime-a8r2KKLSntA?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Man driving vehicle",
-   "url": "https://images.unsplash.com/photo-1516733968668-dbdce39c4651?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFViZXJ8ZW58MXx8fHwxNzkzOTc4MDg5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1516733968668-dbdce39c4651?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFViZXJ8ZW58MXx8fHwxNzkzOTc4MDg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Viktor Bystrov on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@xokvictor?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/man-driving-vehicle-qd-zd2MoeE8?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
    "shows": "Man with Uber eats backpack",
    "url": "https://images.unsplash.com/photo-1559941727-6fb446e7e8ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFViZXJ8ZW58MXx8fHwxNzkzOTc4MDg5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1559941727-6fb446e7e8ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFViZXJ8ZW58MXx8fHwxNzkzOTc4MDg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -78,78 +43,6 @@
    "author_url": "https://unsplash.com/@diesektion?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/man-with-uber-eats-backpack-s04x1QTNnCA?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A person riding a bike with a cooler strapped to the back",
-   "url": "https://images.unsplash.com/photo-1693974833425-361a83a3fcf3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fFViZXIlMjBFYXRzfGVufDF8fHx8MTc5Mzk5ODgxMXww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1693974833425-361a83a3fcf3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fFViZXIlMjBFYXRzfGVufDF8fHx8MTc5Mzk5ODgxMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2000,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Elias Ek on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@elias_ek?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-person-riding-a-bike-with-a-cooler-strapped-to-the-back-vCHd2UbexqU?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A man with a green bag on his back",
-   "url": "https://images.unsplash.com/photo-1735998463987-11747b5fdc22?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFViZXJ8ZW58MXx8fHwxNzkzOTc4MDg5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1735998463987-11747b5fdc22?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFViZXJ8ZW58MXx8fHwxNzkzOTc4MDg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Tony Sebastian on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@tonyzebastian?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-man-with-a-green-bag-on-his-back-5Iw9S3b7vCg?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Person on a bike with a yellow delivery bag",
-   "url": "https://images.unsplash.com/photo-1782312752885-732b579dd739?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fFViZXIlMjBFYXRzfGVufDF8fHx8MTc5Mzk5ODgxMXww&ixlib=rb-4.1.0&w=1319&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1782312752885-732b579dd739?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fFViZXIlMjBFYXRzfGVufDF8fHx8MTc5Mzk5ODgxMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1319,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by ANNIE HATUANH on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@anniehatuanh?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/person-on-a-bike-with-a-yellow-delivery-bag-bIbtOvPXxF0?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Man in red jacket and blue denim jeans sitting on black metal bar during daytime",
-   "url": "https://images.unsplash.com/photo-1614946569026-d3044c2983e3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFViZXIlMjBFYXRzfGVufDF8fHx8MTc5Mzk5ODgxMXww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1614946569026-d3044c2983e3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFViZXIlMjBFYXRzfGVufDF8fHx8MTc5Mzk5ODgxMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2000,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Sargis Chilingaryan on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@sargis89?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/man-in-red-jacket-and-blue-denim-jeans-sitting-on-black-metal-bar-during-daytime-dTCBC39ATNw?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "White uber car parked on grassy roadside under trees",
@@ -185,6 +78,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Uber_car_in_Kyiv.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Uber Eats - Gran Via - Madrid 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Uber_Eats_-_Gran_Via_-_Madrid_01.jpg/1920px-Uber_Eats_-_Gran_Via_-_Madrid_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Uber_Eats_-_Gran_Via_-_Madrid_01.jpg/500px-Uber_Eats_-_Gran_Via_-_Madrid_01.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Javier Perez Montes, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Uber_Eats_-_Gran_Via_-_Madrid_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Uber offices, Mission Bay (July 2020) -2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Uber_offices%2C_Mission_Bay_%28July_2020%29_-2.jpg/1920px-Uber_offices%2C_Mission_Bay_%28July_2020%29_-2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Uber_offices%2C_Mission_Bay_%28July_2020%29_-2.jpg/500px-Uber_offices%2C_Mission_Bay_%28July_2020%29_-2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HaeB, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Uber_offices,_Mission_Bay_(July_2020)_-2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Self driving Uber prototype in San Francisco",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Self_driving_Uber_prototype_in_San_Francisco.jpg/1920px-Self_driving_Uber_prototype_in_San_Francisco.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Self_driving_Uber_prototype_in_San_Francisco.jpg/500px-Self_driving_Uber_prototype_in_San_Francisco.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Self_driving_Uber_prototype_in_San_Francisco.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Uber OTTO at their SF headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Uber_OTTO_at_their_SF_headquarters.jpg/1920px-Uber_OTTO_at_their_SF_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Uber_OTTO_at_their_SF_headquarters.jpg/500px-Uber_OTTO_at_their_SF_headquarters.jpg",
+   "size": [
+    1920,
+    1513
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Uber_OTTO_at_their_SF_headquarters.jpg",
    "plain": true
   }
  ]

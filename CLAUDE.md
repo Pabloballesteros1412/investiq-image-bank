@@ -137,9 +137,25 @@ Decisions (Pablo, 4 Nov 2026):
   Index: 639 photos; topics and sectors 4-10 published each (298 in all, from 242). A container restart killed
   one piece (nothing lost: the manifest is saved per subject and the answers are cached).
 
+## Companies: reserve and brand photos (6 Nov 2026, afternoon)
+- Pablo: "hay un huevo de empresas con una o ninguna foto". He chose to (1) publish a company's Commons photos
+  graded 2 as a **reserve** and (2) run the Unsplash brand pass now, in demo mode.
+- **Reserve** (`RESERVE_GRADE`, `reserve()`, `published_photos`): a company's grade-2 Commons photos fill the places
+  its grade-3 and brand photos leave free, marked `"plain": true` in the index; a chat rule says to prefer the
+  others and never use one as a cover. They are never picked again, but a rebuild keeps them (the build appends
+  the old entry's plain photos). Topics and sectors: no reserve.
+- **Brand pass** (`build --kind company --stock-only --only <ids>`, 2-hour pieces, ~16 companies an hour in demo
+  mode): done for the 47 big catalog companies and ~55 more (alphabetical up to Garmin); every brand photo graded
+  by eye (about 30% grade 3; repeats of the same product are 2). Brand terms fixed after looking: Broadcom and
+  Palantir added; ambiguous ones replaced (Abbott -> "Abbott Laboratories", Similac; Cisco -> "Cisco Systems";
+  Casey's -> "Casey's General Store"; Chipotle -> "Chipotle Mexican Grill"). Unsplash still finds nothing usable
+  for ASML, BlackRock (an Irish castle), UnitedHealth, Church & Dwight, CME.
+- Index: 2,165 photos (1,809 Commons, 1,390 of them plain; 356 Unsplash). Companies with 0 / 1 / 2 / 3+ photos:
+  141 / 85 / 53 / 304 (before: 362 / 138 / 53 / 30).
+
 ## Next work (in order)
-1. Topics and sectors are done (4-10 published each). Pablo chose to wait for Unsplash production for the brands. Then
-   `python image_bank.py build --kind company --stock-only` (394 searches); look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
+1. Topics and sectors are done (4-10 published each). Brand pass: ~125 brand companies left (H to Z), in 2-hour
+   pieces (`--only` = the ones not yet in a piece log) or all at once when production is approved. Then grade; look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
    wrong brand terms get fixed in `brands.json`), fix topic searches in `catalog.json`, grade any new Commons
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
    **Unsplash production**: applied on 5 Nov (in review). Once approved (`X-Ratelimit-Limit: 1000`), the company

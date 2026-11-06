@@ -11,7 +11,7 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one."
  ],
  "updated": "2026-11-06",
- "photos": 2171,
+ "photos": 2165,
  "subjects": [
   {
    "id": "MMM",
@@ -6844,9 +6844,10 @@
     "UBER"
    ],
    "aliases": [],
-   "photos": 10,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UBER.json",
-   "sector": "sector-industrials"
+   "sector": "sector-industrials",
+   "fill_from": "sector-industrials"
   },
   {
    "id": "UBS",
@@ -7168,7 +7169,7 @@
     "V"
    ],
    "aliases": [],
-   "photos": 9,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/V.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -7284,9 +7285,10 @@
     "DIS"
    ],
    "aliases": [],
-   "photos": 10,
+   "photos": 9,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/DIS.json",
-   "sector": "sector-communication"
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
   },
   {
    "id": "WM",
