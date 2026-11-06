@@ -12372,29 +12372,6 @@
   "sector": "sector-industrials",
   "photos": [
    {
-    "shot": "737",
-    "shows": "Boeing 737 MAX grounded aircraft near Boeing Field, April 2019",
-    "file": "File:Boeing 737 MAX grounded aircraft near Boeing Field, April 2019.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boeing_737_MAX_grounded_aircraft_near_Boeing_Field,_April_2019.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Boeing_737_MAX_grounded_aircraft_near_Boeing_Field%2C_April_2019.jpg/1920px-Boeing_737_MAX_grounded_aircraft_near_Boeing_Field%2C_April_2019.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Boeing_737_MAX_grounded_aircraft_near_Boeing_Field%2C_April_2019.jpg/500px-Boeing_737_MAX_grounded_aircraft_near_Boeing_Field%2C_April_2019.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "SounderBruce, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "SounderBruce",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
     "shot": "787",
     "shows": "Biman Bangladesh Airlines Boeing 787 Dreamliner 2",
     "file": "File:Biman Bangladesh Airlines Boeing 787 Dreamliner 2.jpg",
@@ -12418,192 +12395,241 @@
     "how": "catalog"
    },
    {
-    "shot": "everett",
-    "shows": "Boeing Everett Factory Seattle Washington Buiobuione 05",
-    "file": "File:Boeing Everett Factory Seattle Washington Buiobuione 05.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boeing_Everett_Factory_Seattle_Washington_Buiobuione_05.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Boeing_Everett_Factory_Seattle_Washington_Buiobuione_05.jpg/1920px-Boeing_Everett_Factory_Seattle_Washington_Buiobuione_05.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Boeing_Everett_Factory_Seattle_Washington_Buiobuione_05.jpg/500px-Boeing_Everett_Factory_Seattle_Washington_Buiobuione_05.jpg",
+    "shot": "b1",
+    "shows": "A tall building with a sign on top of it",
+    "file": "unsplash:aBk2jFNxTwE",
+    "page": "https://unsplash.com/photos/a-tall-building-with-a-sign-on-top-of-it-aBk2jFNxTwE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1711920533308-d3b79d0dc9cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1711920533308-d3b79d0dc9cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Buiobuione, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Buiobuione",
+    "credit": "Photo by Sven Piper on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sven Piper",
+    "year": 2024,
+    "how": "unsplash search: Boeing",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@svenpiper?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aBk2jFNxTwE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww"
+   },
+   {
+    "shot": "b2",
+    "shows": "Grayscale photography of passenger plane",
+    "file": "unsplash:KH4AkJIjpOE",
+    "page": "https://unsplash.com/photos/grayscale-photography-of-passenger-plane-KH4AkJIjpOE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1571306603861-20c055ab2e5c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1571306603861-20c055ab2e5c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kevin Bosc on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kevin Bosc",
     "year": 2019,
-    "how": "catalog"
+    "how": "unsplash search: Boeing",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kevinbosc?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/KH4AkJIjpOE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww"
    },
    {
-    "shot": "renton",
-    "shows": "Boeing Renton Factory from the south, 2019",
-    "file": "File:Boeing Renton Factory from the south, 2019.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boeing_Renton_Factory_from_the_south,_2019.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boeing_Renton_Factory_from_the_south%2C_2019.jpg/1920px-Boeing_Renton_Factory_from_the_south%2C_2019.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Boeing_Renton_Factory_from_the_south%2C_2019.jpg/500px-Boeing_Renton_Factory_from_the_south%2C_2019.jpg",
+    "shot": "b3",
+    "shows": "White plane flying during golden hour",
+    "file": "unsplash:CYi31XLsxuY",
+    "page": "https://unsplash.com/photos/white-plane-flying-during-golden-hour-CYi31XLsxuY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1565614873782-ec6ef19e18f1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1565614873782-ec6ef19e18f1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "SounderBruce, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "SounderBruce",
+    "credit": "Photo by Etienne Jong on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Etienne Jong",
     "year": 2019,
-    "how": "catalog"
+    "how": "unsplash search: Boeing",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@etien_nl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CYi31XLsxuY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww"
    },
    {
-    "shot": "defense",
-    "shows": "Paris Air Show 2019, Le Bourget (SIAE1178)",
-    "file": "File:Paris Air Show 2019, Le Bourget (SIAE1178).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Paris_Air_Show_2019,_Le_Bourget_(SIAE1178).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paris_Air_Show_2019%2C_Le_Bourget_%28SIAE1178%29.jpg/1920px-Paris_Air_Show_2019%2C_Le_Bourget_%28SIAE1178%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paris_Air_Show_2019%2C_Le_Bourget_%28SIAE1178%29.jpg/500px-Paris_Air_Show_2019%2C_Le_Bourget_%28SIAE1178%29.jpg",
+    "shot": "b4",
+    "shows": "A building with palm trees in front of it",
+    "file": "unsplash:OLMwhC52b-s",
+    "page": "https://unsplash.com/photos/a-building-with-palm-trees-in-front-of-it-OLMwhC52b-s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1711920090140-cd5894c37fc8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1711920090140-cd5894c37fc8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Matti Blume",
-    "year": 2019,
-    "how": "catalog"
+    "credit": "Photo by Sven Piper on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sven Piper",
+    "year": 2024,
+    "how": "unsplash search: Boeing",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@svenpiper?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OLMwhC52b-s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qm9laW5nfGVufDF8fHx8MTc5Mzk2MDAzNnww"
    },
    {
-    "shot": "leader",
-    "shows": "Ortberg-Senate",
-    "file": "File:Ortberg-Senate.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Ortberg-Senate.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ortberg-Senate.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ortberg-Senate.png/500px-Ortberg-Senate.png",
+    "shot": "b5",
+    "shows": "A blue and white airplane flying in the sky",
+    "file": "unsplash:lanBulbVlFI",
+    "page": "https://unsplash.com/photos/a-blue-and-white-airplane-flying-in-the-sky-lanBulbVlFI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1657409845135-3063edb6ee73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qm9laW5nJTIwNzM3fGVufDF8fHx8MTc5Mzk2MzYzOHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1657409845135-3063edb6ee73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qm9laW5nJTIwNzM3fGVufDF8fHx8MTc5Mzk2MzYzOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1914,
-     1070
-    ],
-    "focus": [
-     0.5,
-     0.33
-    ],
-    "credit": "Senate Committee on Commerce, Science, and Transportation, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Senate Committee on Commerce, Science, and Transportation",
-    "year": 2025,
-    "how": "catalog",
-    "person": true
-   },
-   {
-    "shot": "main",
-    "shows": "1680x3000 chicago boeing building",
-    "file": "File:2004-09-14 1680x3000 chicago boeing building.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2004-09-14_1680x3000_chicago_boeing_building.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2004-09-14_1680x3000_chicago_boeing_building.jpg/1280px-2004-09-14_1680x3000_chicago_boeing_building.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2004-09-14_1680x3000_chicago_boeing_building.jpg/500px-2004-09-14_1680x3000_chicago_boeing_building.jpg",
-    "size": [
-     1280,
-     2286
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "J. Crocker, Attribution, via Wikimedia Commons",
-    "licence": "Attribution",
-    "licence_kind": "by",
-    "licence_url": "",
-    "author": "J. Crocker",
-    "year": 2004,
-    "how": "Wikidata main image"
+    "credit": "Photo by Forsaken Films on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Forsaken Films",
+    "year": 2022,
+    "how": "unsplash search: Boeing 737",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@forsakenfilmslimited?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lanBulbVlFI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qm9laW5nJTIwNzM3fGVufDF8fHx8MTc5Mzk2MzYzOHww"
    },
    {
-    "shot": "s8",
-    "shows": "Boeing Headquarters Building - Chicago 04",
-    "file": "File:Boeing Headquarters Building - Chicago 04 (3225205964).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boeing_Headquarters_Building_-_Chicago_04_(3225205964).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Boeing_Headquarters_Building_-_Chicago_04_%283225205964%29.jpg/1280px-Boeing_Headquarters_Building_-_Chicago_04_%283225205964%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Boeing_Headquarters_Building_-_Chicago_04_%283225205964%29.jpg/500px-Boeing_Headquarters_Building_-_Chicago_04_%283225205964%29.jpg",
+    "shot": "b6",
+    "shows": "A jet flying in the sky",
+    "file": "unsplash:9dIW3TVlfNw",
+    "page": "https://unsplash.com/photos/a-jet-flying-in-the-sky-9dIW3TVlfNw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1665684203705-a2298819f0e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEJvZWluZ3xlbnwxfHx8fDE3OTM5NjAwMzZ8MA&ixlib=rb-4.1.0&w=1875&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1665684203705-a2298819f0e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEJvZWluZ3xlbnwxfHx8fDE3OTM5NjAwMzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1920
+     1875,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "David Brossard, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "David Brossard",
-    "year": 2009,
-    "how": "Commons search"
+    "credit": "Photo by Y S on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Y S",
+    "year": 2022,
+    "how": "unsplash search: Boeing",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@santonii?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9dIW3TVlfNw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEJvZWluZ3xlbnwxfHx8fDE3OTM5NjAwMzZ8MA"
    },
    {
-    "shot": "s9",
-    "shows": "Boeing Building",
-    "file": "File:Boeing Building (6591979847).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boeing_Building_(6591979847).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Boeing_Building_%286591979847%29.jpg/1280px-Boeing_Building_%286591979847%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Boeing_Building_%286591979847%29.jpg/500px-Boeing_Building_%286591979847%29.jpg",
+    "shot": "b7",
+    "shows": "White and blue passenger plane on airport during daytime",
+    "file": "unsplash:mgsQRx8nSpE",
+    "page": "https://unsplash.com/photos/white-and-blue-passenger-plane-on-airport-during-daytime-mgsQRx8nSpE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1590459333596-86fdd806727a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Qm9laW5nJTIwNzM3fGVufDF8fHx8MTc5Mzk2MzYzOHww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1590459333596-86fdd806727a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Qm9laW5nJTIwNzM3fGVufDF8fHx8MTc5Mzk2MzYzOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     2400,
+     1350
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jaysin Trevino from Evanston, IL, US, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Jaysin Trevino from Evanston, IL, US",
-    "year": 2011,
-    "how": "Commons search"
+    "credit": "Photo by Timothy Werner on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Timothy Werner",
+    "year": 2020,
+    "how": "unsplash search: Boeing 737",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@uncleburrito?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/mgsQRx8nSpE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Qm9laW5nJTIwNzM3fGVufDF8fHx8MTc5Mzk2MzYzOHww"
    },
    {
-    "shot": "s10",
-    "shows": "Chicago - Chicago River - Boeing International Headquarters",
-    "file": "File:Chicago - Chicago River - Boeing International Headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chicago_-_Chicago_River_-_Boeing_International_Headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chicago_-_Chicago_River_-_Boeing_International_Headquarters.jpg/1920px-Chicago_-_Chicago_River_-_Boeing_International_Headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Chicago_-_Chicago_River_-_Boeing_International_Headquarters.jpg/500px-Chicago_-_Chicago_River_-_Boeing_International_Headquarters.jpg",
+    "shot": "b8",
+    "shows": "White and red airplane in the sky",
+    "file": "unsplash:38uATkgvhcs",
+    "page": "https://unsplash.com/photos/white-and-red-airplane-in-the-sky-38uATkgvhcs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1614744113054-eaa9b785719b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEJvZWluZyUyMDczN3xlbnwxfHx8fDE3OTM5NjM2Mzh8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1614744113054-eaa9b785719b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEJvZWluZyUyMDczN3xlbnwxfHx8fDE3OTM5NjM2Mzh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2400,
+     1314
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "HaSt, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "HaSt",
-    "year": 2014,
-    "how": "Commons search"
+    "credit": "Photo by Cody F on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cody F",
+    "year": 2021,
+    "how": "unsplash search: Boeing 737",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hiccupfromberk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/38uATkgvhcs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEJvZWluZyUyMDczN3xlbnwxfHx8fDE3OTM5NjM2Mzh8MA"
+   },
+   {
+    "shot": "b9",
+    "shows": "A row of empty seats in an airplane",
+    "file": "unsplash:x_ZjAC-njW0",
+    "page": "https://unsplash.com/photos/a-row-of-empty-seats-in-an-airplane-x_ZjAC-njW0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641447093043-241f064568fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fEJvZWluZyUyMDczN3xlbnwxfHx8fDE3OTM5NjM2Mzh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641447093043-241f064568fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fEJvZWluZyUyMDczN3xlbnwxfHx8fDE3OTM5NjM2Mzh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mohammad Arrahmanur on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mohammad Arrahmanur",
+    "year": 2022,
+    "how": "unsplash search: Boeing 737",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@arrahmanur?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/x_ZjAC-njW0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fEJvZWluZyUyMDczN3xlbnwxfHx8fDE3OTM5NjM2Mzh8MA"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "BKNG": {
   "name": "Booking Holdings",
@@ -13257,121 +13283,6 @@
   "sector": "sector-tech",
   "photos": [
    {
-    "shot": "hq",
-    "shows": "Broadcom Headquarters San Jose",
-    "file": "File:Broadcom Headquarters San Jose.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Broadcom_Headquarters_San_Jose.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Broadcom_Headquarters_San_Jose.jpg/1920px-Broadcom_Headquarters_San_Jose.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Broadcom_Headquarters_San_Jose.jpg/500px-Broadcom_Headquarters_San_Jose.jpg",
-    "size": [
-     1920,
-     1178
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Coolcaesar",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "chip",
-    "shows": "Broadcom BCM92046MPCIE-6969",
-    "file": "File:Broadcom BCM92046MPCIE-6969.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Broadcom_BCM92046MPCIE-6969.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Broadcom_BCM92046MPCIE-6969.jpg/1280px-Broadcom_BCM92046MPCIE-6969.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Broadcom_BCM92046MPCIE-6969.jpg/500px-Broadcom_BCM92046MPCIE-6969.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "switch",
-    "shows": "North Central Telephone Cooperative Rural Broadband keeps TN and KY High-Speed - RUS ( -RD-LSC-0988)",
-    "file": "File:North Central Telephone Cooperative Rural Broadband keeps TN and KY High-Speed - RUS (20180927-RD-LSC-0988).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:North_Central_Telephone_Cooperative_Rural_Broadband_keeps_TN_and_KY_High-Speed_-_RUS_(20180927-RD-LSC-0988).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/North_Central_Telephone_Cooperative_Rural_Broadband_keeps_TN_and_KY_High-Speed_-_RUS_%2820180927-RD-LSC-0988%29.jpg/1920px-North_Central_Telephone_Cooperative_Rural_Broadband_keeps_TN_and_KY_High-Speed_-_RUS_%2820180927-RD-LSC-0988%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/North_Central_Telephone_Cooperative_Rural_Broadband_keeps_TN_and_KY_High-Speed_-_RUS_%2820180927-RD-LSC-0988%29.jpg/500px-North_Central_Telephone_Cooperative_Rural_Broadband_keeps_TN_and_KY_High-Speed_-_RUS_%2820180927-RD-LSC-0988%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "USDAgov, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "USDAgov",
-    "year": 2018,
-    "how": "catalog"
-   },
-   {
-    "shot": "vmware",
-    "shows": "VMware HQ 3405 Hillview",
-    "file": "File:VMware HQ 3405 Hillview.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:VMware_HQ_3405_Hillview.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VMware_HQ_3405_Hillview.JPG/1920px-VMware_HQ_3405_Hillview.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/VMware_HQ_3405_Hillview.JPG/500px-VMware_HQ_3405_Hillview.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "BrokenSphere",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "wafer",
-    "shows": "w:Digital Equipment Corporation w:VAX w:V11 DC328 chips on an uncut semiconductor wafer .",
-    "file": "File:V11-wafer-dc328.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:V11-wafer-dc328.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V11-wafer-dc328.jpg/1920px-V11-wafer-dc328.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/V11-wafer-dc328.jpg/500px-V11-wafer-dc328.jpg",
-    "size": [
-     1920,
-     1837
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Retro-Computing Society of Rhode Island, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Retro-Computing Society of Rhode Island",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
     "shot": "leader",
     "shows": "Hock Tan 2022",
     "file": "File:Hock Tan 2022.png",
@@ -13396,102 +13307,33 @@
     "person": true
    },
    {
-    "shot": "c7",
-    "shows": "Broadcom Crystal HD (BCM70015) Mini PCIe card",
-    "file": "File:BCM70015.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:BCM70015.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BCM70015.jpg/1920px-BCM70015.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BCM70015.jpg/500px-BCM70015.jpg",
+    "shot": "b1",
+    "shows": "Blue abstract liquid shape with \"broadcom\" text inside",
+    "file": "unsplash:s0vgewdhgZE",
+    "page": "https://unsplash.com/photos/blue-abstract-liquid-shape-with-broadcom-text-inside-s0vgewdhgZE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782512419374-bc83bf6ad92a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QnJvYWRjb218ZW58MXx8fHwxNzkzOTYwMDM2fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782512419374-bc83bf6ad92a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QnJvYWRjb218ZW58MXx8fHwxNzkzOTYwMDM2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1401
+     2400,
+     1152
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Perituss, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Perituss",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Broadcom"
-   },
-   {
-    "shot": "s8",
-    "shows": "Broadcom Inc",
-    "file": "File:Broadcom Inc.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Broadcom_Inc.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Broadcom_Inc.jpg/1280px-Broadcom_Inc.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Broadcom_Inc.jpg/500px-Broadcom_Inc.jpg",
-    "size": [
-     1280,
-     1705
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Fostera12, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Fostera12",
-    "year": 2022,
-    "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Broadcom bcm5325ekomg mcmaster mz mit20x",
-    "file": "File:Broadcom bcm5325ekomg mcmaster mz mit20x.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Broadcom_bcm5325ekomg_mcmaster_mz_mit20x.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Broadcom_bcm5325ekomg_mcmaster_mz_mit20x.jpg/1920px-Broadcom_bcm5325ekomg_mcmaster_mz_mit20x.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Broadcom_bcm5325ekomg_mcmaster_mz_mit20x.jpg/500px-Broadcom_bcm5325ekomg_mcmaster_mz_mit20x.jpg",
-    "size": [
-     1920,
-     2200
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John McMaster, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John McMaster",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Broadcom integrated circuits"
-   },
-   {
-    "shot": "c10",
-    "shows": "Broadcom BCM2050KMLG Package",
-    "file": "File:Broadcom BCM2050KMLG Package (49753276083).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Broadcom_BCM2050KMLG_Package_(49753276083).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Broadcom_BCM2050KMLG_Package_%2849753276083%29.jpg/1280px-Broadcom_BCM2050KMLG_Package_%2849753276083%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Broadcom_BCM2050KMLG_Package_%2849753276083%29.jpg/500px-Broadcom_BCM2050KMLG_Package_%2849753276083%29.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cole L, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Cole L",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Broadcom BCM2050KMLG"
+    "credit": "Photo by Brecht Corbeel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brecht Corbeel",
+    "year": 2026,
+    "how": "unsplash search: Broadcom",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/s0vgewdhgZE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QnJvYWRjb218ZW58MXx8fHwxNzkzOTYwMDM2fDA"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "BR": {
   "name": "Broadridge Financial Solutions",
@@ -15427,52 +15269,6 @@
   "sector": "sector-industrials",
   "photos": [
    {
-    "shot": "excavator",
-    "shows": "Valkenburg Construction Site 03",
-    "file": "File:20211211 Valkenburg Construction Site 03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:20211211_Valkenburg_Construction_Site_03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20211211_Valkenburg_Construction_Site_03.jpg/1920px-20211211_Valkenburg_Construction_Site_03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/20211211_Valkenburg_Construction_Site_03.jpg/500px-20211211_Valkenburg_Construction_Site_03.jpg",
-    "size": [
-     1920,
-     1282
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Flocci Nivis, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Flocci Nivis",
-    "year": 2021,
-    "how": "catalog"
-   },
-   {
-    "shot": "mining-truck",
-    "shows": "CAT 797 SDB BHPBilliton Escondida Chile 2 HR",
-    "file": "File:CAT 797 SDB BHPBilliton Escondida Chile 2 HR.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CAT_797_SDB_BHPBilliton_Escondida_Chile_2_HR.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/CAT_797_SDB_BHPBilliton_Escondida_Chile_2_HR.jpg/1920px-CAT_797_SDB_BHPBilliton_Escondida_Chile_2_HR.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/CAT_797_SDB_BHPBilliton_Escondida_Chile_2_HR.jpg/500px-CAT_797_SDB_BHPBilliton_Escondida_Chile_2_HR.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Duratray, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Duratray",
-    "year": 2005,
-    "how": "catalog"
-   },
-   {
     "shot": "bulldozer",
     "shows": "A Caterpillar bulldozer pushing earth",
     "file": "File:CatD11T.jpg",
@@ -15496,174 +15292,163 @@
     "how": "catalog"
    },
    {
-    "shot": "site",
-    "shows": "Poullignac Travaux LGV Caterpillar RM500 2013",
-    "file": "File:Poullignac Travaux LGV Caterpillar RM500 2013.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Poullignac_Travaux_LGV_Caterpillar_RM500_2013.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Poullignac_Travaux_LGV_Caterpillar_RM500_2013.jpg/1920px-Poullignac_Travaux_LGV_Caterpillar_RM500_2013.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Poullignac_Travaux_LGV_Caterpillar_RM500_2013.jpg/500px-Poullignac_Travaux_LGV_Caterpillar_RM500_2013.jpg",
+    "shot": "b1",
+    "shows": "A yellow bulldozer on a dock",
+    "file": "unsplash:yktiCfceq_E",
+    "page": "https://unsplash.com/photos/a-yellow-bulldozer-on-a-dock-yktiCfceq_E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1665152998573-9ddafb89278f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA&ixlib=rb-4.1.0&w=2254&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1665152998573-9ddafb89278f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1308
+     2254,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "JLPC, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "JLPC",
-    "year": 2013,
-    "how": "catalog"
+    "credit": "Photo by J Dean on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "J Dean",
+    "year": 2022,
+    "how": "unsplash search: Caterpillar excavator",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hewiphoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yktiCfceq_E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA"
    },
    {
-    "shot": "hq",
-    "shows": "Hydraulikbagger Cat 330D L, bereit zum Abriss der ehem. Thälmannschule in Sondershausen-Borntal. Caterpillar Inc. ist der weltgrößte Hersteller von Baumaschinen",
-    "file": "File:Caterpillar 330D L (8284235864).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Caterpillar_330D_L_(8284235864).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Caterpillar_330D_L_%288284235864%29.jpg/1920px-Caterpillar_330D_L_%288284235864%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Caterpillar_330D_L_%288284235864%29.jpg/500px-Caterpillar_330D_L_%288284235864%29.jpg",
+    "shot": "b2",
+    "shows": "A construction vehicle in a dirt field",
+    "file": "unsplash:GK3GYxaFc-8",
+    "page": "https://unsplash.com/photos/a-construction-vehicle-in-a-dirt-field-GK3GYxaFc-8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1652303518314-e1196ef221f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1652303518314-e1196ef221f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tobias Nordhausen from Sondershausen, Deutschland, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tobias Nordhausen from Sondershausen, Deutschland",
-    "year": 2012,
-    "how": "catalog"
+    "credit": "Photo by John Kakuk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John Kakuk",
+    "year": 2022,
+    "how": "unsplash search: Caterpillar excavator",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lensatic?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/GK3GYxaFc-8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA"
    },
    {
-    "shot": "main",
-    "shows": "Caterpillar world headquarters (G.O. / building AB), east from corner of Adams Street and Main Street, downtown Peoria, Illinois , USA, August 2009. Flags from ",
-    "file": "File:Caterpillarhq.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Caterpillarhq.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Caterpillarhq.JPG/1920px-Caterpillarhq.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Caterpillarhq.JPG/500px-Caterpillarhq.JPG",
+    "shot": "b3",
+    "shows": "A bulldozer in a dirt field",
+    "file": "unsplash:HvvPceHYLOg",
+    "page": "https://unsplash.com/photos/a-bulldozer-in-a-dirt-field-HvvPceHYLOg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1652303713917-2666b8bee507?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1652303713917-2666b8bee507?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "User: (WT-shared) Ethajek at wts wikivoyage, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "User: (WT-shared) Ethajek at wts wikivoyage",
-    "year": 2009,
-    "how": "Wikidata main image"
+    "credit": "Photo by John Kakuk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John Kakuk",
+    "year": 2022,
+    "how": "unsplash search: Caterpillar excavator",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lensatic?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HvvPceHYLOg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q2F0ZXJwaWxsYXIlMjBleGNhdmF0b3J8ZW58MXx8fHwxNzkzOTYzNjM5fDA"
    },
    {
-    "shot": "c7",
-    "shows": "Cobbler repairing shoes in old workshop (Bazaar in Bitola, Macedonia, 2025)",
-    "file": "File:Cobbler repairing shoes in old workshop (Bazaar in Bitola, Macedonia, 2025).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cobbler_repairing_shoes_in_old_workshop_(Bazaar_in_Bitola,_Macedonia,_2025).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cobbler_repairing_shoes_in_old_workshop_%28Bazaar_in_Bitola%2C_Macedonia%2C_2025%29.jpg/1920px-Cobbler_repairing_shoes_in_old_workshop_%28Bazaar_in_Bitola%2C_Macedonia%2C_2025%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cobbler_repairing_shoes_in_old_workshop_%28Bazaar_in_Bitola%2C_Macedonia%2C_2025%29.jpg/500px-Cobbler_repairing_shoes_in_old_workshop_%28Bazaar_in_Bitola%2C_Macedonia%2C_2025%29.jpg",
+    "shot": "b4",
+    "shows": "Brown and black metal machine on green grass field",
+    "file": "unsplash:PeogKn-Opp0",
+    "page": "https://unsplash.com/photos/brown-and-black-metal-machine-on-green-grass-field-PeogKn-Opp0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1616662072452-9a7a6d41a029?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q0FUJTIwZXhjYXZhdG9yfGVufDF8fHx8MTc5Mzk2MzY0MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1616662072452-9a7a6d41a029?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q0FUJTIwZXhjYXZhdG9yfGVufDF8fHx8MTc5Mzk2MzY0MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Petar Milošević",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Caterpillar footwear",
-    "flags": [
-     "restrictions: personality"
-    ]
-   },
-   {
-    "shot": "s8",
-    "shows": "US Navy -N-7975R-030 Rear Adm. Scott Weikert tours the Caterpillar plant in York, Pa",
-    "file": "File:US Navy 090916-N-7975R-030 Rear Adm. Scott Weikert tours the Caterpillar plant in York, Pa.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:US_Navy_090916-N-7975R-030_Rear_Adm._Scott_Weikert_tours_the_Caterpillar_plant_in_York,_Pa.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/US_Navy_090916-N-7975R-030_Rear_Adm._Scott_Weikert_tours_the_Caterpillar_plant_in_York%2C_Pa.jpg/1920px-US_Navy_090916-N-7975R-030_Rear_Adm._Scott_Weikert_tours_the_Caterpillar_plant_in_York%2C_Pa.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/US_Navy_090916-N-7975R-030_Rear_Adm._Scott_Weikert_tours_the_Caterpillar_plant_in_York%2C_Pa.jpg/500px-US_Navy_090916-N-7975R-030_Rear_Adm._Scott_Weikert_tours_the_Caterpillar_plant_in_York%2C_Pa.jpg",
-    "size": [
-     1920,
-     1277
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Navy photo by Mass Communication Specialist 1st Class Matthew L. Romano, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Navy photo by Mass Communication Specialist 1st Class Matthew L. Romano",
-    "year": 2009,
-    "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Caterpillar Japan Akashi",
-    "file": "File:Caterpillar Japan Akashi.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Caterpillar_Japan_Akashi.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Caterpillar_Japan_Akashi.jpg/1920px-Caterpillar_Japan_Akashi.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Caterpillar_Japan_Akashi.jpg/500px-Caterpillar_Japan_Akashi.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "DCRapid, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "DCRapid",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Caterpillar Inc."
-   },
-   {
-    "shot": "c10",
-    "shows": "Excavators, Caterpillar Inc., 2021 Changsha International Construction Equipment Exhibition, Picture1",
-    "file": "File:Excavators, Caterpillar Inc., 2021 Changsha International Construction Equipment Exhibition, Picture1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Excavators,_Caterpillar_Inc.,_2021_Changsha_International_Construction_Equipment_Exhibition,_Picture1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Excavators%2C_Caterpillar_Inc.%2C_2021_Changsha_International_Construction_Equipment_Exhibition%2C_Picture1.jpg/1920px-Excavators%2C_Caterpillar_Inc.%2C_2021_Changsha_International_Construction_Equipment_Exhibition%2C_Picture1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Excavators%2C_Caterpillar_Inc.%2C_2021_Changsha_International_Construction_Equipment_Exhibition%2C_Picture1.jpg/500px-Excavators%2C_Caterpillar_Inc.%2C_2021_Changsha_International_Construction_Equipment_Exhibition%2C_Picture1.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Huangdan2060, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Huangdan2060",
+    "credit": "Photo by Irham Setyaki on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Irham Setyaki",
     "year": 2021,
-    "how": "Commons category",
-    "category": "Caterpillar Inc."
+    "how": "unsplash search: CAT excavator",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@setyaki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PeogKn-Opp0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q0FUJTIwZXhjYXZhdG9yfGVufDF8fHx8MTc5Mzk2MzY0MXww"
+   },
+   {
+    "shot": "b5",
+    "shows": "A yellow bulldozer working on a large pile of brown earth",
+    "file": "unsplash:x01SNOspBWo",
+    "page": "https://unsplash.com/photos/bulldozer-working-on-earth-pile-x01SNOspBWo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1788058032045-ec3c978f6719?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fENhdGVycGlsbGFyJTIwYnVsbGRvemVyfGVufDF8fHx8MTc5Mzk2MzY0MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1788058032045-ec3c978f6719?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fENhdGVycGlsbGFyJTIwYnVsbGRvemVyfGVufDF8fHx8MTc5Mzk2MzY0MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Troy Mortier on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Troy Mortier",
+    "year": 2026,
+    "how": "unsplash search: Caterpillar bulldozer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@troyscanon?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/x01SNOspBWo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fENhdGVycGlsbGFyJTIwYnVsbGRvemVyfGVufDF8fHx8MTc5Mzk2MzY0MHww"
+   },
+   {
+    "shot": "b6",
+    "shows": "A yellow bulldozer pushing a large pile of brown earth at a construction site",
+    "file": "unsplash:679PZkuHXm0",
+    "page": "https://unsplash.com/photos/yellow-bulldozer-pushing-brown-earth-679PZkuHXm0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1788058032041-420d95c53db1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENhdGVycGlsbGFyJTIwYnVsbGRvemVyfGVufDF8fHx8MTc5Mzk2MzY0MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1788058032041-420d95c53db1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENhdGVycGlsbGFyJTIwYnVsbGRvemVyfGVufDF8fHx8MTc5Mzk2MzY0MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Troy Mortier on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Troy Mortier",
+    "year": 2026,
+    "how": "unsplash search: Caterpillar bulldozer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@troyscanon?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/679PZkuHXm0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENhdGVycGlsbGFyJTIwYnVsbGRvemVyfGVufDF8fHx8MTc5Mzk2MzY0MHww"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CAVA": {
   "name": "Cava",
@@ -17209,242 +16994,267 @@
   "sector": "sector-energy",
   "photos": [
    {
-    "shot": "station",
-    "shows": "Chevron Gas Station of Berkeley",
-    "file": "File:Chevron Gas Station of Berkeley.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chevron_Gas_Station_of_Berkeley.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Chevron_Gas_Station_of_Berkeley.jpg/1920px-Chevron_Gas_Station_of_Berkeley.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Chevron_Gas_Station_of_Berkeley.jpg/500px-Chevron_Gas_Station_of_Berkeley.jpg",
+    "shot": "b1",
+    "shows": "Floating chevron gas station on a lake with mountains",
+    "file": "unsplash:MKEixrsx8E0",
+    "page": "https://unsplash.com/photos/floating-chevron-gas-station-on-a-lake-with-mountains-MKEixrsx8E0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1776397251045-50449cc4cd98?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q2hldnJvbiUyMGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzOTYzNjQxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1776397251045-50449cc4cd98?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q2hldnJvbiUyMGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzOTYzNjQxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Thomasfan1916, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Thomasfan1916",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "refinery",
-    "shows": "Pt. Richmond and Chevron Refinery, Richmond CA in 2016",
-    "file": "File:Pt. Richmond and Chevron Refinery, Richmond CA in 2016.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Pt._Richmond_and_Chevron_Refinery,_Richmond_CA_in_2016.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pt._Richmond_and_Chevron_Refinery%2C_Richmond_CA_in_2016.jpg/1920px-Pt._Richmond_and_Chevron_Refinery%2C_Richmond_CA_in_2016.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pt._Richmond_and_Chevron_Refinery%2C_Richmond_CA_in_2016.jpg/500px-Pt._Richmond_and_Chevron_Refinery%2C_Richmond_CA_in_2016.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Audiohifi, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Audiohifi",
-    "year": 2016,
-    "how": "catalog"
-   },
-   {
-    "shot": "permian",
-    "shows": "Oil pumpjack in the Permian Basin",
-    "file": "File:Oil pumpjack in the Permian Basin.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oil_pumpjack_in_the_Permian_Basin.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Oil_pumpjack_in_the_Permian_Basin.jpg/1920px-Oil_pumpjack_in_the_Permian_Basin.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Oil_pumpjack_in_the_Permian_Basin.jpg/500px-Oil_pumpjack_in_the_Permian_Basin.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Quintin Soloviev",
+    "credit": "Photo by Vincent Y @USA on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vincent Y @USA",
     "year": 2026,
-    "how": "catalog"
+    "how": "unsplash search: Chevron gas station",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vincentyuan87?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MKEixrsx8E0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q2hldnJvbiUyMGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzOTYzNjQxfDA"
    },
    {
-    "shot": "hq",
-    "shows": "Chevron Headquarters",
-    "file": "File:Chevron Headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chevron_Headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Chevron_Headquarters.jpg/1920px-Chevron_Headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Chevron_Headquarters.jpg/500px-Chevron_Headquarters.jpg",
+    "shot": "b2",
+    "shows": "Old wooden gas station with texaco sign and pump",
+    "file": "unsplash:2H8G266Dojo",
+    "page": "https://unsplash.com/photos/old-wooden-gas-station-with-texaco-sign-and-pump-2H8G266Dojo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1755287114218-19827d3d6d27?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1755287114218-19827d3d6d27?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1243
+     2256,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tony Webster",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "c5",
-    "shows": "Ambassador Mike Huckabee visits Chevron with Minister of Energy Eli Cohen on August 18, 2025 - 1",
-    "file": "File:Ambassador Mike Huckabee visits Chevron with Minister of Energy Eli Cohen on August 18, 2025 - 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ambassador_Mike_Huckabee_visits_Chevron_with_Minister_of_Energy_Eli_Cohen_on_August_18,_2025_-_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ambassador_Mike_Huckabee_visits_Chevron_with_Minister_of_Energy_Eli_Cohen_on_August_18%2C_2025_-_1.jpg/1920px-Ambassador_Mike_Huckabee_visits_Chevron_with_Minister_of_Energy_Eli_Cohen_on_August_18%2C_2025_-_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ambassador_Mike_Huckabee_visits_Chevron_with_Minister_of_Energy_Eli_Cohen_on_August_18%2C_2025_-_1.jpg/500px-Ambassador_Mike_Huckabee_visits_Chevron_with_Minister_of_Energy_Eli_Cohen_on_August_18%2C_2025_-_1.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Embassy Jerusalem, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "U.S. Embassy Jerusalem",
+    "credit": "Photo by Steven Mikel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Steven Mikel",
     "year": 2025,
-    "how": "Commons category",
-    "category": "Chevron Corporation"
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@darkroastwcolor?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2H8G266Dojo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww"
    },
    {
-    "shot": "c6",
-    "shows": "AUS Perth, Central Business District, Barrack Street 008",
-    "file": "File:AUS Perth, Central Business District, Barrack Street 008.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:AUS_Perth,_Central_Business_District,_Barrack_Street_008.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/AUS_Perth%2C_Central_Business_District%2C_Barrack_Street_008.jpg/1280px-AUS_Perth%2C_Central_Business_District%2C_Barrack_Street_008.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/AUS_Perth%2C_Central_Business_District%2C_Barrack_Street_008.jpg/500px-AUS_Perth%2C_Central_Business_District%2C_Barrack_Street_008.jpg",
+    "shot": "b3",
+    "shows": "A vintage Texaco gas pump with a rusted base in a grassy lot",
+    "file": "unsplash:uuGF5E-KW-Y",
+    "page": "https://unsplash.com/photos/vintage-texaco-gas-pump-uuGF5E-KW-Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1574867154508-0089f65147da?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1574867154508-0089f65147da?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     1500,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "-wuppertaler, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "-wuppertaler",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Chevron Tower, Perth"
+    "credit": "Photo by Ashlee Attebery on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ashlee Attebery",
+    "year": 2019,
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ashleeattebery?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uuGF5E-KW-Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww"
    },
    {
-    "shot": "c7",
-    "shows": "Chevron Barrow Island Visit October 2021",
-    "file": "File:Chevron Barrow Island Visit October 2021 - 51647616797.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chevron_Barrow_Island_Visit_October_2021_-_51647616797.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chevron_Barrow_Island_Visit_October_2021_-_51647616797.jpg/1920px-Chevron_Barrow_Island_Visit_October_2021_-_51647616797.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chevron_Barrow_Island_Visit_October_2021_-_51647616797.jpg/500px-Chevron_Barrow_Island_Visit_October_2021_-_51647616797.jpg",
+    "shot": "b4",
+    "shows": "Texaco gas station with cars on street",
+    "file": "unsplash:yNwNyDTKDXo",
+    "page": "https://unsplash.com/photos/texaco-gas-station-with-cars-on-street-yNwNyDTKDXo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1770843244925-bff0b43e8b2f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1770843244925-bff0b43e8b2f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1278
+     1200,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "U.S. Consulate General Perth, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Consulate General Perth",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Chevron Corporation"
+    "credit": "Photo by Tim Büning on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tim Büning",
+    "year": 2026,
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@timbuening?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yNwNyDTKDXo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww"
    },
    {
-    "shot": "s8",
-    "shows": "Chevron Oil Refinery 017",
-    "file": "File:Chevron Oil Refinery 017.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Chevron_Oil_Refinery_017.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chevron_Oil_Refinery_017.JPG/1920px-Chevron_Oil_Refinery_017.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Chevron_Oil_Refinery_017.JPG/500px-Chevron_Oil_Refinery_017.JPG",
+    "shot": "b5",
+    "shows": "A Texaco gas station canopy illuminated at night with bright overhead lights",
+    "file": "unsplash:9YRZ6sGR0UA",
+    "page": "https://unsplash.com/photos/texaco-gas-station-canopy-at-night-9YRZ6sGR0UA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1791895122104-e27f864210a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1791895122104-e27f864210a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Discott, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Discott",
-    "year": 2012,
-    "how": "Commons search"
+    "credit": "Photo by Luis Pérez on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Luis Pérez",
+    "year": 2026,
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@luipere?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9YRZ6sGR0UA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww"
    },
    {
-    "shot": "c9",
-    "shows": "Chevron hand pump, petrol pump, pic1",
-    "file": "File:Chevron hand pump, petrol pump, pic1.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Chevron_hand_pump,_petrol_pump,_pic1.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chevron_hand_pump%2C_petrol_pump%2C_pic1.JPG/1280px-Chevron_hand_pump%2C_petrol_pump%2C_pic1.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chevron_hand_pump%2C_petrol_pump%2C_pic1.JPG/500px-Chevron_hand_pump%2C_petrol_pump%2C_pic1.JPG",
+    "shot": "b6",
+    "shows": "An old texaco gas pump stands tall",
+    "file": "unsplash:TDUCNcDDubs",
+    "page": "https://unsplash.com/photos/an-old-texaco-gas-pump-stands-tall-TDUCNcDDubs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1749809695809-00825a04b0bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1749809695809-00825a04b0bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     1500,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Alf van Beem, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Alf van Beem",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Chevron Corporation"
+    "credit": "Photo by Rino Falstad on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rino Falstad",
+    "year": 2025,
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cyberreno?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/TDUCNcDDubs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA"
    },
    {
-    "shot": "c10",
-    "shows": "Emigration Canyon Pipeline 0370",
-    "file": "File:Emigration Canyon Pipeline DSC 0370 (22554901968).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Emigration_Canyon_Pipeline_DSC_0370_(22554901968).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Emigration_Canyon_Pipeline_DSC_0370_%2822554901968%29.jpg/1920px-Emigration_Canyon_Pipeline_DSC_0370_%2822554901968%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Emigration_Canyon_Pipeline_DSC_0370_%2822554901968%29.jpg/500px-Emigration_Canyon_Pipeline_DSC_0370_%2822554901968%29.jpg",
+    "shot": "b7",
+    "shows": "Texaco gas station at night",
+    "file": "unsplash:YkDDODUp71Q",
+    "page": "https://unsplash.com/photos/texaco-gas-station-at-night-YkDDODUp71Q?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1764746628480-4f235dba50b9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=2221&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1764746628480-4f235dba50b9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1272
+     2221,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Intermountain Forest Service, USDA Region 4 Photography, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Intermountain Forest Service, USDA Region 4 Photography",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Chevron Corporation"
+    "credit": "Photo by T on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "T",
+    "year": 2025,
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tanyabarrow?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/YkDDODUp71Q/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA"
+   },
+   {
+    "shot": "b8",
+    "shows": "Old texaco gas station with vintage pump",
+    "file": "unsplash:4LjtDRPTmWc",
+    "page": "https://unsplash.com/photos/old-texaco-gas-station-with-vintage-pump-4LjtDRPTmWc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1776480307290-e64c44d75cfd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1776480307290-e64c44d75cfd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ronald Crow on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ronald Crow",
+    "year": 2026,
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ronaldacrow?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4LjtDRPTmWc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA"
+   },
+   {
+    "shot": "b9",
+    "shows": "An antique red texaco gas pump with a glowing globe",
+    "file": "unsplash:gEhw0FjIqOQ",
+    "page": "https://unsplash.com/photos/an-antique-red-texaco-gas-pump-with-a-glowing-globe-gEhw0FjIqOQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1780595585953-0bec758e2704?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1780595585953-0bec758e2704?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1900
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Abhishek Mamidipally on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Abhishek Mamidipally",
+    "year": 2026,
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@abhishek_mgv?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gEhw0FjIqOQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA"
+   },
+   {
+    "shot": "b10",
+    "shows": "American flag and texaco sign against blue sky",
+    "file": "unsplash:HGrQeZ325FU",
+    "page": "https://unsplash.com/photos/american-flag-and-texaco-sign-against-blue-sky-HGrQeZ325FU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1777242447690-1c27ab0428c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1777242447690-1c27ab0428c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Erik Esly on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Erik Esly",
+    "year": 2026,
+    "how": "unsplash search: Texaco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lensofbbb?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HGrQeZ325FU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRleGFjb3xlbnwxfHx8fDE3OTM5NjM2NDN8MA"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CMG": {
   "name": "Chipotle Mexican Grill",
@@ -19844,29 +19654,6 @@
   "sector": "sector-staples",
   "photos": [
    {
-    "shot": "hq",
-    "shows": "Coca-Cola Company",
-    "file": "File:Coca-Cola Company (32574368197).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Coca-Cola_Company_(32574368197).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coca-Cola_Company_%2832574368197%29.jpg/1920px-Coca-Cola_Company_%2832574368197%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coca-Cola_Company_%2832574368197%29.jpg/500px-Coca-Cola_Company_%2832574368197%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Netherlands Embassy, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Netherlands Embassy",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
     "shot": "world",
     "shows": "Everything Coca Cola Store; Las Vegas, Nevada",
     "file": "File:Everything Coca Cola Store; Las Vegas, Nevada.jpg",
@@ -19888,123 +19675,6 @@
     "author": "TheDoctorWho",
     "year": 2017,
     "how": "catalog"
-   },
-   {
-    "shot": "bottles",
-    "shows": "Coca Cola - Mexican death sentence",
-    "file": "File:Coca Cola - Mexican death sentence.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Coca_Cola_-_Mexican_death_sentence.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coca_Cola_-_Mexican_death_sentence.jpg/1280px-Coca_Cola_-_Mexican_death_sentence.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Coca_Cola_-_Mexican_death_sentence.jpg/500px-Coca_Cola_-_Mexican_death_sentence.jpg",
-    "size": [
-     1280,
-     1635
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tomascastelazo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tomascastelazo",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "plant",
-    "shows": "Bogalusa Coca Cola Bottling Plant",
-    "file": "File:Bogalusa Coca Cola Bottling Plant.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bogalusa_Coca_Cola_Bottling_Plant.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bogalusa_Coca_Cola_Bottling_Plant.jpg/1920px-Bogalusa_Coca_Cola_Bottling_Plant.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bogalusa_Coca_Cola_Bottling_Plant.jpg/500px-Bogalusa_Coca_Cola_Bottling_Plant.jpg",
-    "size": [
-     1920,
-     1275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ktkvtsh, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Ktkvtsh",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "truck",
-    "shows": "VW Coca Cola Truck in Montevideo 02",
-    "file": "File:VW Coca Cola Truck in Montevideo 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:VW_Coca_Cola_Truck_in_Montevideo_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VW_Coca_Cola_Truck_in_Montevideo_02.jpg/1280px-VW_Coca_Cola_Truck_in_Montevideo_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VW_Coca_Cola_Truck_in_Montevideo_02.jpg/500px-VW_Coca_Cola_Truck_in_Montevideo_02.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Grandmaster Huon, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Grandmaster Huon",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "c6",
-    "shows": "Frisco lasipullo",
-    "file": "File:Frisco lasipullo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Frisco_lasipullo.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frisco_lasipullo.jpg/1920px-Frisco_lasipullo.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Frisco_lasipullo.jpg/500px-Frisco_lasipullo.jpg",
-    "size": [
-     1920,
-     2057
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ville Siliämaa, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Ville Siliämaa",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "The Coca-Cola Company products"
-   },
-   {
-    "shot": "c7",
-    "shows": "Bonn, Haus der Geschichte",
-    "file": "File:Bonn, Haus der Geschichte (23).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bonn,_Haus_der_Geschichte_(23).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn%2C_Haus_der_Geschichte_%2823%29.jpg/1920px-Bonn%2C_Haus_der_Geschichte_%2823%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Bonn%2C_Haus_der_Geschichte_%2823%29.jpg/500px-Bonn%2C_Haus_der_Geschichte_%2823%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Palickap, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Palickap",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Coca-Cola"
    },
    {
     "shot": "s8",
@@ -20030,53 +19700,217 @@
     "how": "Commons search"
    },
    {
-    "shot": "s9",
-    "shows": "Coca-Cola World Headquarters",
-    "file": "File:Coca-Cola World Headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Coca-Cola_World_Headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coca-Cola_World_Headquarters.jpg/1280px-Coca-Cola_World_Headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Coca-Cola_World_Headquarters.jpg/500px-Coca-Cola_World_Headquarters.jpg",
+    "shot": "b1",
+    "shows": "Coca-Cola can",
+    "file": "unsplash:z8PEoNIlGlg",
+    "page": "https://unsplash.com/photos/coca-cola-can-z8PEoNIlGlg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1554866585-cd94860890b7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1554866585-cd94860890b7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     2276
+     1201,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "JJonahJackalope, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "JJonahJackalope",
-    "year": 2020,
-    "how": "Commons search"
+    "credit": "Photo by Mae Mu on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mae Mu",
+    "year": 2019,
+    "how": "unsplash search: Coca-Cola",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@picoftasty?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/z8PEoNIlGlg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww"
    },
    {
-    "shot": "s10",
-    "shows": "Headquarters of Coca-Cola West Company",
-    "file": "File:Headquarters of Coca-Cola West Company.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Headquarters_of_Coca-Cola_West_Company.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Headquarters_of_Coca-Cola_West_Company.JPG/1920px-Headquarters_of_Coca-Cola_West_Company.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Headquarters_of_Coca-Cola_West_Company.JPG/500px-Headquarters_of_Coca-Cola_West_Company.JPG",
+    "shot": "b2",
+    "shows": "Coca cola bottle beside drinking glass",
+    "file": "unsplash:Qvnohn4GyJA",
+    "page": "https://unsplash.com/photos/coca-cola-bottle-beside-drinking-glass-Qvnohn4GyJA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1624552184280-9e9631bbeee9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1624552184280-9e9631bbeee9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1802
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "そらみみ (Soramimi), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "そらみみ (Soramimi)",
-    "year": 2016,
-    "how": "Commons search"
+    "credit": "Photo by Andrey Ilkevich on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrey Ilkevich",
+    "year": 2021,
+    "how": "unsplash search: Coca-Cola",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ilkevich?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Qvnohn4GyJA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww"
+   },
+   {
+    "shot": "b3",
+    "shows": "Two red Coca-Cola cans covered in condensation resting on a bed of ice",
+    "file": "unsplash:wQFmDhrvVSs",
+    "page": "https://unsplash.com/photos/coca-cola-cans-on-ice-wQFmDhrvVSs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by James Yarema on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "James Yarema",
+    "year": 2021,
+    "how": "unsplash search: Coca-Cola",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jamesyarema?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/wQFmDhrvVSs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww"
+   },
+   {
+    "shot": "b4",
+    "shows": "Coca cola can on black surface",
+    "file": "unsplash:S24Sq0Vc0ms",
+    "page": "https://unsplash.com/photos/coca-cola-can-on-black-surface-S24Sq0Vc0ms?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1592892111425-15e04305f961?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1592892111425-15e04305f961?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ayesha Ch on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ayesha Ch",
+    "year": 2020,
+    "how": "unsplash search: Coca-Cola",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ayesha_photoo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/S24Sq0Vc0ms/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww"
+   },
+   {
+    "shot": "b5",
+    "shows": "Coca cola bottles on black table",
+    "file": "unsplash:qy4vrr2qi3M",
+    "page": "https://unsplash.com/photos/coca-cola-bottles-on-black-table-qy4vrr2qi3M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1594971475674-6a97f8fe8c2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1594971475674-6a97f8fe8c2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alessandro D’Antonio on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alessandro D’Antonio",
+    "year": 2020,
+    "how": "unsplash search: Coca-Cola",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alessandrodantonio?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qy4vrr2qi3M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww"
+   },
+   {
+    "shot": "b6",
+    "shows": "Coca-Cola bottle",
+    "file": "unsplash:MTTrsZIWDgw",
+    "page": "https://unsplash.com/photos/coca-cola-bottle-MTTrsZIWDgw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1567103472667-6898f3a79cf2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1567103472667-6898f3a79cf2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Taras Chernus on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Taras Chernus",
+    "year": 2019,
+    "how": "unsplash search: Coca-Cola",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chernus_tr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MTTrsZIWDgw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww"
+   },
+   {
+    "shot": "b7",
+    "shows": "Coca cola can on black background",
+    "file": "unsplash:cNQ_srUuvHk",
+    "page": "https://unsplash.com/photos/coca-cola-can-on-black-background-cNQ_srUuvHk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581098365948-6a5a912b7a49?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581098365948-6a5a912b7a49?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jeanson Wong on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jeanson Wong",
+    "year": 2020,
+    "how": "unsplash search: Coca-Cola",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@junscythe?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cNQ_srUuvHk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "A can of coca cola on a black background",
+    "file": "unsplash:ScK3g3ID1Dg",
+    "page": "https://unsplash.com/photos/a-can-of-coca-cola-on-a-black-background-ScK3g3ID1Dg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1716800586014-fea19e9453fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1716800586014-fea19e9453fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1671
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jayanth Muppaneni on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jayanth Muppaneni",
+    "year": 2024,
+    "how": "unsplash search: Coca-Cola",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jay_5?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ScK3g3ID1Dg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29jYS1Db2xhfGVufDF8fHx8MTc5Mzk2MzY0Mnww",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CTSH": {
   "name": "Cognizant",
@@ -20351,98 +20185,6 @@
   "sector": "sector-financials",
   "photos": [
    {
-    "shot": "app",
-    "shows": "Congrats Brian Armstrong on the Coinbase IPO!",
-    "file": "File:Congrats Brian Armstrong on the Coinbase IPO! (51124145378).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Congrats_Brian_Armstrong_on_the_Coinbase_IPO!_(51124145378).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Congrats_Brian_Armstrong_on_the_Coinbase_IPO%21_%2851124145378%29.jpg/1920px-Congrats_Brian_Armstrong_on_the_Coinbase_IPO%21_%2851124145378%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Congrats_Brian_Armstrong_on_the_Coinbase_IPO%21_%2851124145378%29.jpg/500px-Congrats_Brian_Armstrong_on_the_Coinbase_IPO%21_%2851124145378%29.jpg",
-    "size": [
-     1920,
-     1557
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Steve Jurvetson from Los Altos, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Steve Jurvetson from Los Altos, USA",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "listing",
-    "shows": "Nasdaq MarketSite",
-    "file": "File:Nasdaq MarketSite (51494550508).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494550508).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/1920px-Nasdaq_MarketSite_%2851494550508%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Nasdaq_MarketSite_%2851494550508%29.jpg/500px-Nasdaq_MarketSite_%2851494550508%29.jpg",
-    "size": [
-     1920,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ajay_suresh, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "ajay_suresh",
-    "year": 2021,
-    "how": "catalog"
-   },
-   {
-    "shot": "trading",
-    "shows": "Cryptocurrency trading services.",
-    "file": "File:Cryptocurrency (38747838010).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_(38747838010).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cryptocurrency_%2838747838010%29.jpg/1920px-Cryptocurrency_%2838747838010%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cryptocurrency_%2838747838010%29.jpg/500px-Cryptocurrency_%2838747838010%29.jpg",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Stock Catalog, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Stock Catalog",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "office",
-    "shows": "TechCrunch Disrupt 2018 - Day 3 - 192",
-    "file": "File:TechCrunch Disrupt 2018 - Day 3 - 192 (29603360267).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_2018_-_Day_3_-_192_(29603360267).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TechCrunch_Disrupt_2018_-_Day_3_-_192_%2829603360267%29.jpg/1920px-TechCrunch_Disrupt_2018_-_Day_3_-_192_%2829603360267%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/TechCrunch_Disrupt_2018_-_Day_3_-_192_%2829603360267%29.jpg/500px-TechCrunch_Disrupt_2018_-_Day_3_-_192_%2829603360267%29.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "TechCrunch",
-    "year": 2018,
-    "how": "catalog"
-   },
-   {
     "shot": "leader",
     "shows": "Brian Armstrong - TechCrunch Disrupt 2018 01",
     "file": "File:Brian Armstrong - TechCrunch Disrupt 2018 01.jpg",
@@ -20470,103 +20212,61 @@
     ]
    },
    {
-    "shot": "c6",
-    "shows": "Cryptocurrency Cachet",
-    "file": "File:Cryptocurrency Cachet (38552330941).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_Cachet_(38552330941).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cryptocurrency_Cachet_%2838552330941%29.jpg/1920px-Cryptocurrency_Cachet_%2838552330941%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Cryptocurrency_Cachet_%2838552330941%29.jpg/500px-Cryptocurrency_Cachet_%2838552330941%29.jpg",
+    "shot": "b1",
+    "shows": "A laptop on a table",
+    "file": "unsplash:olru6x88cgI",
+    "page": "https://unsplash.com/photos/a-laptop-on-a-table-olru6x88cgI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1651130532935-2ef1634501fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29pbmJhc2V8ZW58MXx8fHwxNzkzOTYzNjQ1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1651130532935-2ef1634501fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29pbmJhc2V8ZW58MXx8fHwxNzkzOTYzNjQ1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1416
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Steve Jurvetson from Los Altos, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Steve Jurvetson from Los Altos, USA",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "Coinbase"
+    "credit": "Photo by PiggyBank on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "PiggyBank",
+    "year": 2022,
+    "how": "unsplash search: Coinbase",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@piggybank?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/olru6x88cgI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29pbmJhc2V8ZW58MXx8fHwxNzkzOTYzNjQ1fDA",
+    "track_pending": true
    },
    {
-    "shot": "c7",
-    "shows": "Fred Ehrsam and Representative Bob Goodlatte Keynote Conversation",
-    "file": "File:Fred Ehrsam and Representative Bob Goodlatte Keynote Conversation (16257623090).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_(16257623090).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_%2816257623090%29.jpg/1920px-Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_%2816257623090%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_%2816257623090%29.jpg/500px-Fred_Ehrsam_and_Representative_Bob_Goodlatte_Keynote_Conversation_%2816257623090%29.jpg",
+    "shot": "b2",
+    "shows": "A remote control sitting next to a computer monitor",
+    "file": "unsplash:w3WnEO4FNuo",
+    "page": "https://unsplash.com/photos/a-remote-control-sitting-next-to-a-computer-monitor-w3WnEO4FNuo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1637762646946-8273c74c25ad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fENvaW5iYXNlfGVufDF8fHx8MTc5Mzk2MzY0NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1637762646946-8273c74c25ad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fENvaW5iYXNlfGVufDF8fHx8MTc5Mzk2MzY0NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Internet Education Foundation from Washington, DC, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Internet Education Foundation from Washington, DC",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "Coinbase"
-   },
-   {
-    "shot": "c8",
-    "shows": "Crowd for Fred Ehrsam keynote conversation with Representative Bob Goodlatte",
-    "file": "File:Crowd for Fred Ehrsam keynote conversation with Representative Bob Goodlatte (15814434094).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_(15814434094).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_%2815814434094%29.jpg/1920px-Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_%2815814434094%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_%2815814434094%29.jpg/500px-Crowd_for_Fred_Ehrsam_keynote_conversation_with_Representative_Bob_Goodlatte_%2815814434094%29.jpg",
-    "size": [
-     1920,
-     1283
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Internet Education Foundation from Washington, DC, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Internet Education Foundation from Washington, DC",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "Coinbase"
-   },
-   {
-    "shot": "c9",
-    "shows": "Fred Ehrsam with Representative Bob Goodlatte",
-    "file": "File:Fred Ehrsam with Representative Bob Goodlatte (16436021102).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fred_Ehrsam_with_Representative_Bob_Goodlatte_(16436021102).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fred_Ehrsam_with_Representative_Bob_Goodlatte_%2816436021102%29.jpg/1920px-Fred_Ehrsam_with_Representative_Bob_Goodlatte_%2816436021102%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fred_Ehrsam_with_Representative_Bob_Goodlatte_%2816436021102%29.jpg/500px-Fred_Ehrsam_with_Representative_Bob_Goodlatte_%2816436021102%29.jpg",
-    "size": [
-     1920,
-     1283
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Internet Education Foundation from Washington, DC, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Internet Education Foundation from Washington, DC",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "Coinbase"
+    "credit": "Photo by Kelly Sikkema on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kelly Sikkema",
+    "year": 2021,
+    "how": "unsplash search: Coinbase",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kellysikkema?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/w3WnEO4FNuo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fENvaW5iYXNlfGVufDF8fHx8MTc5Mzk2MzY0NXww",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CL": {
   "name": "Colgate-Palmolive",
@@ -22159,191 +21859,6 @@
   "sector": "sector-staples",
   "photos": [
    {
-    "shot": "warehouse",
-    "shows": "The coordinates are not the exact coordinates, but the person who uploaded this picture thinks they are close enough.",
-    "file": "File:Costco (14965).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Costco_(14965).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Costco_%2814965%29.jpg/1920px-Costco_%2814965%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Costco_%2814965%29.jpg/500px-Costco_%2814965%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "EvanCarroll, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "EvanCarroll",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "interior",
-    "shows": "Costco Empty shelves March 2, 2020.agr",
-    "file": "File:Costco Empty shelves March 2, 2020.agr.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Costco_Empty_shelves_March_2,_2020.agr.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Costco_Empty_shelves_March_2%2C_2020.agr.jpg/1920px-Costco_Empty_shelves_March_2%2C_2020.agr.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Costco_Empty_shelves_March_2%2C_2020.agr.jpg/500px-Costco_Empty_shelves_March_2%2C_2020.agr.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ArnoldReinhold, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "ArnoldReinhold",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "food-court",
-    "shows": "Costco hot dog Taichung Taiwan (vertical)",
-    "file": "File:20250523 192723 Costco hot dog Taichung Taiwan (vertical).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:20250523_192723_Costco_hot_dog_Taichung_Taiwan_(vertical).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/20250523_192723_Costco_hot_dog_Taichung_Taiwan_%28vertical%29.jpg/1280px-20250523_192723_Costco_hot_dog_Taichung_Taiwan_%28vertical%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/20250523_192723_Costco_hot_dog_Taichung_Taiwan_%28vertical%29.jpg/500px-20250523_192723_Costco_hot_dog_Taichung_Taiwan_%28vertical%29.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Saimmx, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Saimmx",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas",
-    "shows": "COSTCO gas station",
-    "file": "File:COSTCO gas station.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:COSTCO_gas_station.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/COSTCO_gas_station.jpg/1920px-COSTCO_gas_station.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/COSTCO_gas_station.jpg/500px-COSTCO_gas_station.jpg",
-    "size": [
-     1920,
-     1201
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wikideas1, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wikideas1",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "hq",
-    "shows": "Issaquah aerial, April 2023",
-    "file": "File:Issaquah aerial, April 2023.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Issaquah_aerial,_April_2023.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Issaquah_aerial%2C_April_2023.png/1920px-Issaquah_aerial%2C_April_2023.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Issaquah_aerial%2C_April_2023.png/500px-Issaquah_aerial%2C_April_2023.png",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Spicypepper999, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Spicypepper999",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "main",
-    "shows": "Costco headquarters in Issaquah, Washington. Photographed by user Coolcaesar on May 30, 2016.",
-    "file": "File:Costcoheadquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Costcoheadquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Costcoheadquarters.jpg/1920px-Costcoheadquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Costcoheadquarters.jpg/500px-Costcoheadquarters.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Coolcaesar",
-    "year": 2016,
-    "how": "Wikidata main image"
-   },
-   {
-    "shot": "c7",
-    "shows": "Larkspur, United States Jun 15, 2025 07-16-45 PM",
-    "file": "File:Larkspur, United States Jun 15, 2025 07-16-45 PM.jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Larkspur,_United_States_Jun_15,_2025_07-16-45_PM.jpeg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Larkspur%2C_United_States_Jun_15%2C_2025_07-16-45_PM.jpeg/1920px-Larkspur%2C_United_States_Jun_15%2C_2025_07-16-45_PM.jpeg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Larkspur%2C_United_States_Jun_15%2C_2025_07-16-45_PM.jpeg/500px-Larkspur%2C_United_States_Jun_15%2C_2025_07-16-45_PM.jpeg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Grandmaster Huon, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Grandmaster Huon",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Costco"
-   },
-   {
-    "shot": "s8",
-    "shows": "Entrance to Costco store with ID scanners installed",
-    "file": "File:Entrance to Costco store with ID scanners installed.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Entrance_to_Costco_store_with_ID_scanners_installed.jpg/1280px-Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Entrance_to_Costco_store_with_ID_scanners_installed.jpg/500px-Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Nielsoncaetanosalmeron",
-    "year": 2024,
-    "how": "Commons search"
-   },
-   {
     "shot": "s9",
     "shows": "Costco Hangzhou Store",
     "file": "File:20260918 Costco Hangzhou Store.jpg",
@@ -22367,30 +21882,250 @@
     "how": "Commons search"
    },
    {
-    "shot": "s10",
-    "shows": "Costco Hsinchu Store",
-    "file": "File:Costco Hsinchu Store 20140701.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Costco_Hsinchu_Store_20140701.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Costco_Hsinchu_Store_20140701.jpg/1920px-Costco_Hsinchu_Store_20140701.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Costco_Hsinchu_Store_20140701.jpg/500px-Costco_Hsinchu_Store_20140701.jpg",
+    "shot": "b1",
+    "shows": "A building with a sign that says costco whole sale",
+    "file": "unsplash:9Um7Huux0as",
+    "page": "https://unsplash.com/photos/a-building-with-a-sign-that-says-costco-whole-sale-9Um7Huux0as?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1601202148957-99d5310635d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1601202148957-99d5310635d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1277
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jeffreyjhang, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jeffreyjhang",
-    "year": 2014,
-    "how": "Commons search"
+    "credit": "Photo by Omar Abascal on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Omar Abascal",
+    "year": 2020,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@omarabascal?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9Um7Huux0as/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "A large room with shelves of books",
+    "file": "unsplash:sdBT_ineIeA",
+    "page": "https://unsplash.com/photos/a-large-room-with-shelves-of-books-sdBT_ineIeA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1655090120001-8f0c687d88bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1655090120001-8f0c687d88bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sean Lee on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sean Lee",
+    "year": 2022,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@seontudio?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sdBT_ineIeA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "Cars parked on parking lot near building during daytime",
+    "file": "unsplash:zYXY7GsLKLk",
+    "page": "https://unsplash.com/photos/cars-parked-on-parking-lot-near-building-during-daytime-zYXY7GsLKLk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1627375234310-a1cd5d41fd26?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1627375234310-a1cd5d41fd26?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Pedro Mexicano on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Pedro Mexicano",
+    "year": 2021,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@pedromexicano?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zYXY7GsLKLk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "Red Costco signage",
+    "file": "unsplash:MkGFWv44Ops",
+    "page": "https://unsplash.com/photos/red-costco-signage-MkGFWv44Ops?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1535682633865-09b5d0bc5b6d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1535682633865-09b5d0bc5b6d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by H&CO on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "H&CO",
+    "year": 2018,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hngstrm?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MkGFWv44Ops/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29zdGNvfGVufDF8fHx8MTc5Mzk2MzY0Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "A large building with a lot of windows on the side of it",
+    "file": "unsplash:tXh2wlqAjkM",
+    "page": "https://unsplash.com/photos/a-large-building-with-a-lot-of-windows-on-the-side-of-it-tXh2wlqAjkM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1729116142962-2ffd46252a7d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1729116142962-2ffd46252a7d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2001,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kevin “KevDoy” Doyle on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kevin “KevDoy” Doyle",
+    "year": 2024,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kevdoy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tXh2wlqAjkM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "Costco wholesale building sign against a blue sky",
+    "file": "unsplash:dwIMy7SHQNY",
+    "page": "https://unsplash.com/photos/costco-wholesale-building-sign-against-a-blue-sky-dwIMy7SHQNY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782114554747-8565709fb3ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=2263&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782114554747-8565709fb3ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2263,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by SeenHow on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "SeenHow",
+    "year": 2026,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@seenhow?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dwIMy7SHQNY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "A view of a city with mountains in the background",
+    "file": "unsplash:WyZMH6awL7s",
+    "page": "https://unsplash.com/photos/a-view-of-a-city-with-mountains-in-the-background-WyZMH6awL7s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1729663420190-0d57108aa3b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1729663420190-0d57108aa3b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kevin “KevDoy” Doyle on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kevin “KevDoy” Doyle",
+    "year": 2024,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kevdoy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/WyZMH6awL7s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "The Costco Wholesale sign on a corrugated metal wall at night under bright lights",
+    "file": "unsplash:aL05xpge6IM",
+    "page": "https://unsplash.com/photos/costco-wholesale-sign-at-night-aL05xpge6IM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1790213146706-8cabac89223d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=2263&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1790213146706-8cabac89223d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2263,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by SeenHow on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "SeenHow",
+    "year": 2026,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@seenhow?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aL05xpge6IM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "A parking lot filled with lots of orange cones",
+    "file": "unsplash:V73c5KhPnMM",
+    "page": "https://unsplash.com/photos/a-parking-lot-filled-with-lots-of-orange-cones-V73c5KhPnMM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1724297338238-414fd091c59a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1724297338238-414fd091c59a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Julien Maculan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Julien Maculan",
+    "year": 2024,
+    "how": "unsplash search: Costco",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@maculan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/V73c5KhPnMM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fENvc3Rjb3xlbnwxfHx8fDE3OTM5NjM2NDZ8MA",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CPNG": {
   "name": "Coupang",
