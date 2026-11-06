@@ -1114,6 +1114,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Eccles Building: Federalreserve, public domain, via Wikimedia Commons. [Eccles Building (26088200676).jpg](https://commons.wikimedia.org/wiki/File:Eccles_Building_(26088200676).jpg)
 - Interior of the Board room.: Federalreserve, public domain, via Wikimedia Commons. [Ec 31b (26021694102).jpg](https://commons.wikimedia.org/wiki/File:Ec_31b_(26021694102).jpg)
 - FOMC BKL2522: Federalreserve, public domain, via Wikimedia Commons. [FOMC BKL2522 (12620086523).jpg](https://commons.wikimedia.org/wiki/File:FOMC_BKL2522_(12620086523).jpg)
+- Federal Reserve Bank, San Francisco: Photo by Alex Bierwagen on Unsplash. [KvX3L_QXTgM](https://unsplash.com/photos/federal-reserve-bank-san-francisco-KvX3L_QXTgM?utm_source=investiq_image_bank&utm_medium=referral)
+- Federal reserve bank of chicago building, street light, and bollards: Photo by Yang-Chen Lin on Unsplash. [74Fa_EIeLsY](https://unsplash.com/photos/federal-reserve-bank-of-chicago-building-street-light-and-bollards-74Fa_EIeLsY?utm_source=investiq_image_bank&utm_medium=referral)
+- Close up of stacked hundred dollar bills: Photo by Giorgio Trovato on Unsplash. [WyxqQpyFNk8](https://unsplash.com/photos/close-up-of-stacked-hundred-dollar-bills-WyxqQpyFNk8?utm_source=investiq_image_bank&utm_medium=referral)
+- A stack of money sitting on top of a white table: Photo by Celyn Kang on Unsplash. [e-CrwdBNL7k](https://unsplash.com/photos/a-stack-of-money-sitting-on-top-of-a-white-table-e-CrwdBNL7k?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Inflation & cost of living (inflation)
 
@@ -1125,14 +1129,19 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Recession & slowdown (recession)
 
+- A closed sign hanging from a glass door: Photo by Tim Mossholder on Unsplash. [-YFtRc2wRYE](https://unsplash.com/photos/a-closed-sign-hanging-from-a-glass-door--YFtRc2wRYE?utm_source=investiq_image_bank&utm_medium=referral)
+- Grayscale photography of people in line: Photo by The New York Public Library on Unsplash. [Q0_u7YwXqh0](https://unsplash.com/photos/grayscale-photography-of-people-in-line-Q0_u7YwXqh0?utm_source=investiq_image_bank&utm_medium=referral)
 - Unemployed people gathering outside City Hall: Associated Press, public domain, via Wikimedia Commons. [Unemployed people gathering outside City Hall.jpg](https://commons.wikimedia.org/wiki/File:Unemployed_people_gathering_outside_City_Hall.jpg)
 - Five black rolling chars front of desk: Photo by Brusk Dede on Unsplash. [tjd5CfdDPRA](https://unsplash.com/photos/five-black-rolling-chars-front-of-desk-tjd5CfdDPRA?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and yellow pedestrian lane in between of high rise buildings during daytime: Photo by Peter Noah on Unsplash. [58qVxGi7slU](https://unsplash.com/photos/black-and-yellow-pedestrian-lane-in-between-of-high-rise-buildings-during-daytime-58qVxGi7slU?utm_source=investiq_image_bank&utm_medium=referral)
 - Sign of the Times-Foreclosure: respres, CC BY 2.0, via Wikimedia Commons. [Sign of the Times-Foreclosure.jpg](https://commons.wikimedia.org/wiki/File:Sign_of_the_Times-Foreclosure.jpg)
 - Red and white labeled cans: Photo by Donna Spearman on Unsplash. [Kml12zn10wI](https://unsplash.com/photos/red-and-white-labeled-cans-Kml12zn10wI?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Jobs & labor market (jobs)
 
 - A "now hiring" sign hangs in a store window: Photo by Nathan Sack on Unsplash. [UQ716eQauSw](https://unsplash.com/photos/a-now-hiring-sign-hangs-in-a-store-window-UQ716eQauSw?utm_source=investiq_image_bank&utm_medium=referral)
+- A man and a woman shaking hands in front of a laptop: Photo by Mina Rad on Unsplash. [qFSQFSmfZkA](https://unsplash.com/photos/a-man-and-a-woman-shaking-hands-in-front-of-a-laptop-qFSQFSmfZkA?utm_source=investiq_image_bank&utm_medium=referral)
+- A sign that says help wanted on a glass door: Photo by Nathan Dumlao on Unsplash. [xRb4O75uymo](https://unsplash.com/photos/a-sign-that-says-help-wanted-on-a-glass-door-xRb4O75uymo?utm_source=investiq_image_bank&utm_medium=referral)
 - Seven construction workers standing on white field: Photo by Scott Blake on Unsplash. [x-ghf9LjrVg](https://unsplash.com/photos/seven-construction-workers-standing-on-white-field-x-ghf9LjrVg?utm_source=investiq_image_bank&utm_medium=referral)
 - Workers walking through warehouse aisle: Photo by Adrian Sulyok on Unsplash. [c_4eaGRDSVU](https://unsplash.com/photos/workers-walking-through-warehouse-aisle-c_4eaGRDSVU?utm_source=investiq_image_bank&utm_medium=referral)
 - Woman in blue sweater sitting in front of laptop computer: Photo by Jan Baborák on Unsplash. [O4nTgxWr5Sc](https://unsplash.com/photos/woman-in-blue-sweater-sitting-in-front-of-laptop-computer-O4nTgxWr5Sc?utm_source=investiq_image_bank&utm_medium=referral)
