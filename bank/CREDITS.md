@@ -1368,6 +1368,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Industrial metals & mining (metals)
 
+- A group of power lines sitting on top of a lush green hillside: Photo by Nils Huenerfuerst on Unsplash. [_5tA5AUpp0Q](https://unsplash.com/photos/a-group-of-power-lines-sitting-on-top-of-a-lush-green-hillside-_5tA5AUpp0Q?utm_source=investiq_image_bank&utm_medium=referral)
 - Aluminium ingots St-Saphorin: NAC, CC BY-SA 4.0, via Wikimedia Commons. [Aluminium ingots St-Saphorin 180310.jpg](https://commons.wikimedia.org/wiki/File:Aluminium_ingots_St-Saphorin_180310.jpg)
 - A few yellow trucks on a road: Photo by Boom & Bucket on Unsplash. [ed9HcUgZORI](https://unsplash.com/photos/a-few-yellow-trucks-on-a-road-ed9HcUgZORI?utm_source=investiq_image_bank&utm_medium=referral)
 
@@ -1384,7 +1385,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Luxury goods (luxury)
 
+- People queuing beside Louis Vuitton store: Photo by Melanie Klepper on Unsplash. [SsBI9pweAeA](https://unsplash.com/photos/people-queuing-beside-louis-vuitton-store-SsBI9pweAeA?utm_source=investiq_image_bank&utm_medium=referral)
 - A black watch on a white surface: Photo by Patrick Langwallner on Unsplash. [GaHmbqNh5q8](https://unsplash.com/photos/a-black-watch-on-a-white-surface-GaHmbqNh5q8?utm_source=investiq_image_bank&utm_medium=referral)
+- People walking on street during daytime: Photo by Yiwen on Unsplash. [Mb3EHZ-HY1w](https://unsplash.com/photos/people-walking-on-street-during-daytime-Mb3EHZ-HY1w?utm_source=investiq_image_bank&utm_medium=referral)
+- People walking near beige concrete building during daytime: Photo by Bing HAO on Unsplash. [vnZo5jL1MII](https://unsplash.com/photos/people-walking-near-beige-concrete-building-during-daytime-vnZo5jL1MII?utm_source=investiq_image_bank&utm_medium=referral)
 - White tissue paper in white box: Photo by Brooks Leibee on Unsplash. [omYSP6oYUs4](https://unsplash.com/photos/white-tissue-paper-in-white-box-omYSP6oYUs4?utm_source=investiq_image_bank&utm_medium=referral)
 - HK Central Sotheby's at Chater House Auction preview female luxury handbags September 2025 N13P 04: MATOWU HAUDOSM, CC0, via Wikimedia Commons. [HK Central Sotheby's at Chater House Auction preview female luxury handbags September 2025 N13P 04.jpg](https://commons.wikimedia.org/wiki/File:HK_Central_Sotheby%27s_at_Chater_House_Auction_preview_female_luxury_handbags_September_2025_N13P_04.jpg)
 - Brown and black dome structure: Photo by Svetlana Gumerova on Unsplash. [IskIc4FwVCI](https://unsplash.com/photos/brown-and-black-dome-structure-IskIc4FwVCI?utm_source=investiq_image_bank&utm_medium=referral)
