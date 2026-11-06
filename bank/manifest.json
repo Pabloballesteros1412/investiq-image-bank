@@ -19634,33 +19634,8 @@
   ],
   "aliases": [],
   "sector": "sector-financials",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "Bagmane Tech Park, Bangalore 100",
-    "file": "File:Bagmane Tech Park, Bangalore (2024) 100.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bagmane_Tech_Park,_Bangalore_(2024)_100.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bagmane_Tech_Park%2C_Bangalore_%282024%29_100.jpg/1920px-Bagmane_Tech_Park%2C_Bangalore_%282024%29_100.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bagmane_Tech_Park%2C_Bangalore_%282024%29_100.jpg/500px-Bagmane_Tech_Park%2C_Bangalore_%282024%29_100.jpg",
-    "size": [
-     1920,
-     1446
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Gpkp",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "CME Group facilities"
-   }
-  ],
-  "checked": "2026-11-04"
+  "photos": [],
+  "checked": "2026-11-06"
  },
  "CMS": {
   "name": "CMS Energy",
@@ -20634,6 +20609,58 @@
   "sector": "sector-staples",
   "photos": [
    {
+    "shot": "b1",
+    "shows": "Colgate signage near body of water",
+    "file": "unsplash:_uTex0tQXzg",
+    "page": "https://unsplash.com/photos/colgate-signage-near-body-of-water-_uTex0tQXzg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1515112341283-19af1d26b002?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29sZ2F0ZXxlbnwxfHx8fDE3OTM5ODgwMjJ8MA&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1515112341283-19af1d26b002?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29sZ2F0ZXxlbnwxfHx8fDE3OTM5ODgwMjJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2256,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Veronica Campoverde on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Veronica Campoverde",
+    "year": 2018,
+    "how": "unsplash search: Colgate",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@veronicadidit?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_uTex0tQXzg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29sZ2F0ZXxlbnwxfHx8fDE3OTM5ODgwMjJ8MA"
+   },
+   {
+    "shot": "b2",
+    "shows": "Vintage colgate palmolive building exterior with windows",
+    "file": "unsplash:dIj7O0IIF2k",
+    "page": "https://unsplash.com/photos/vintage-colgate-palmolive-building-exterior-with-windows-dIj7O0IIF2k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1785053307444-108cede58f34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENvbGdhdGV8ZW58MXx8fHwxNzkzOTg4MDIyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1785053307444-108cede58f34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENvbGdhdGV8ZW58MXx8fHwxNzkzOTg4MDIyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Liam Scotchmer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Liam Scotchmer",
+    "year": 2026,
+    "how": "unsplash search: Colgate",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@liam_scotchmer?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dIj7O0IIF2k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fENvbGdhdGV8ZW58MXx8fHwxNzkzOTg4MDIyfDA"
+   },
+   {
     "shot": "main",
     "shows": "Colgate-Palmolive Building 300 Park Avenue",
     "file": "File:Colgate-Palmolive Building 300 Park Avenue.jpg",
@@ -20705,54 +20732,6 @@
     "category": "Colgate-Palmolive"
    },
    {
-    "shot": "c4",
-    "shows": "HK SKD TKO 將軍澳 Tseung Kwan O 日出康城 Lohas Park mall shop Colgate brand October 2022 Px3",
-    "file": "File:HK SKD TKO 將軍澳 Tseung Kwan O 日出康城 Lohas Park mall shop Colgate brand October 2022 Px3.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E_Lohas_Park_mall_shop_Colgate_brand_October_2022_Px3.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E_Lohas_Park_mall_shop_Colgate_brand_October_2022_Px3.jpg/1280px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E_Lohas_Park_mall_shop_Colgate_brand_October_2022_Px3.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E_Lohas_Park_mall_shop_Colgate_brand_October_2022_Px3.jpg/500px-HK_SKD_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_%E6%97%A5%E5%87%BA%E5%BA%B7%E5%9F%8E_Lohas_Park_mall_shop_Colgate_brand_October_2022_Px3.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "KAMGOR GEORGEM, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "KAMGOR GEORGEM",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Colgate-Palmolive"
-   },
-   {
-    "shot": "c5",
-    "shows": "Trio Of Vintage Shaving Stick Tins, From Left - Colgate Handy Grip, Colgate Shave Stick & Williams Shaving Stick",
-    "file": "File:Trio Of Vintage Shaving Stick Tins, From Left - Colgate Handy Grip, Colgate Shave Stick & Williams Shaving Stick.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Trio_Of_Vintage_Shaving_Stick_Tins,_From_Left_-_Colgate_Handy_Grip,_Colgate_Shave_Stick_%26_Williams_Shaving_Stick.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Trio_Of_Vintage_Shaving_Stick_Tins%2C_From_Left_-_Colgate_Handy_Grip%2C_Colgate_Shave_Stick_%26_Williams_Shaving_Stick.jpg/1920px-Trio_Of_Vintage_Shaving_Stick_Tins%2C_From_Left_-_Colgate_Handy_Grip%2C_Colgate_Shave_Stick_%26_Williams_Shaving_Stick.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Trio_Of_Vintage_Shaving_Stick_Tins%2C_From_Left_-_Colgate_Handy_Grip%2C_Colgate_Shave_Stick_%26_Williams_Shaving_Stick.jpg/500px-Trio_Of_Vintage_Shaving_Stick_Tins%2C_From_Left_-_Colgate_Handy_Grip%2C_Colgate_Shave_Stick_%26_Williams_Shaving_Stick.jpg",
-    "size": [
-     1920,
-     1538
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Joe Haupt, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Joe Haupt",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Colgate-Palmolive"
-   },
-   {
     "shot": "c6",
     "shows": "Colgate Alcohol Free Mouthwash",
     "file": "File:Colgate Alcohol Free Mouthwash.jpg",
@@ -20778,104 +20757,9 @@
     "flags": [
      "restrictions: trademarked"
     ]
-   },
-   {
-    "shot": "c7",
-    "shows": "HK TKO Lohas Park Towngas button May 2021 SS2 01",
-    "file": "File:HK TKO Lohas Park Towngas button May 2021 SS2 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_TKO_Lohas_Park_Towngas_button_May_2021_SS2_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HK_TKO_Lohas_Park_Towngas_button_May_2021_SS2_01.jpg/1920px-HK_TKO_Lohas_Park_Towngas_button_May_2021_SS2_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HK_TKO_Lohas_Park_Towngas_button_May_2021_SS2_01.jpg/500px-HK_TKO_Lohas_Park_Towngas_button_May_2021_SS2_01.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Suitoop RAiv Tickemp, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Suitoop RAiv Tickemp",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Colgate-Palmolive products"
-   },
-   {
-    "shot": "s8",
-    "shows": "Colgate-Palmolive Building, Balmain",
-    "file": "File:Colgate-Palmolive Building, Balmain.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Colgate-Palmolive_Building,_Balmain.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Colgate-Palmolive_Building%2C_Balmain.jpg/1920px-Colgate-Palmolive_Building%2C_Balmain.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Colgate-Palmolive_Building%2C_Balmain.jpg/500px-Colgate-Palmolive_Building%2C_Balmain.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Balmain Heritage, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Balmain Heritage",
-    "year": 2011,
-    "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "HK YTM 佐敦 Jordan 南京街 Nanking Street evening September 2022 Px3 02",
-    "file": "File:HK YTM 佐敦 Jordan 南京街 Nanking Street evening September 2022 Px3 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%8D%97%E4%BA%AC%E8%A1%97_Nanking_Street_evening_September_2022_Px3_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%8D%97%E4%BA%AC%E8%A1%97_Nanking_Street_evening_September_2022_Px3_02.jpg/1920px-HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%8D%97%E4%BA%AC%E8%A1%97_Nanking_Street_evening_September_2022_Px3_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%8D%97%E4%BA%AC%E8%A1%97_Nanking_Street_evening_September_2022_Px3_02.jpg/500px-HK_YTM_%E4%BD%90%E6%95%A6_Jordan_%E5%8D%97%E4%BA%AC%E8%A1%97_Nanking_Street_evening_September_2022_Px3_02.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "WaikalAMPO Cheiasah 30, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "WaikalAMPO Cheiasah 30",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Colgate-Palmolive products"
-   },
-   {
-    "shot": "c10",
-    "shows": "Irischer Frühling4-5625",
-    "file": "File:2017-11-16-Irischer Frühling4-5625.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2017-11-16-Irischer_Fr%C3%BChling4-5625.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2017-11-16-Irischer_Fr%C3%BChling4-5625.jpg/1920px-2017-11-16-Irischer_Fr%C3%BChling4-5625.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/2017-11-16-Irischer_Fr%C3%BChling4-5625.jpg/500px-2017-11-16-Irischer_Fr%C3%BChling4-5625.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Superbass, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Superbass",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "Colgate-Palmolive"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CMCSA": {
   "name": "Comcast",
@@ -20886,53 +20770,6 @@
   "aliases": [],
   "sector": "sector-communication",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "Comcast Philly",
-    "file": "File:Comcast Philly.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Comcast_Philly.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Comcast_Philly.JPG/1280px-Comcast_Philly.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Comcast_Philly.JPG/500px-Comcast_Philly.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Smallbones, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Smallbones",
-    "year": 2011,
-    "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Comcast Corporation",
-    "file": "File:Comcast Corporation.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Comcast_Corporation.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Comcast_Corporation.jpg/1920px-Comcast_Corporation.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Comcast_Corporation.jpg/500px-Comcast_Corporation.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tony Webster",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Comcast"
-   },
    {
     "shot": "c3",
     "shows": "Center City - Comcast Center",
@@ -20956,102 +20793,6 @@
     "year": 2024,
     "how": "Commons category",
     "category": "Comcast Center (office building)"
-   },
-   {
-    "shot": "c4",
-    "shows": "Comcast Technology Center from Fairmount Park",
-    "file": "File:Comcast Technology Center from Fairmount Park.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Comcast_Technology_Center_from_Fairmount_Park.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Comcast_Technology_Center_from_Fairmount_Park.jpg/1280px-Comcast_Technology_Center_from_Fairmount_Park.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Comcast_Technology_Center_from_Fairmount_Park.jpg/500px-Comcast_Technology_Center_from_Fairmount_Park.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Hij802, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Hij802",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Comcast Technology Center"
-   },
-   {
-    "shot": "c5",
-    "shows": "Comcast Technology Center g",
-    "file": "File:Comcast Technology Center g.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Comcast_Technology_Center_g.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Comcast_Technology_Center_g.jpg/1280px-Comcast_Technology_Center_g.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Comcast_Technology_Center_g.jpg/500px-Comcast_Technology_Center_g.jpg",
-    "size": [
-     1280,
-     2066
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wobbanight, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wobbanight",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Comcast Technology Center"
-   },
-   {
-    "shot": "c6",
-    "shows": "NCAA Maryland Women's Basketball Game",
-    "file": "File:NCAA Maryland Women's Basketball Game (52754924621).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NCAA_Maryland_Women%27s_Basketball_Game_(52754924621).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/NCAA_Maryland_Women%27s_Basketball_Game_%2852754924621%29.jpg/1920px-NCAA_Maryland_Women%27s_Basketball_Game_%2852754924621%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/NCAA_Maryland_Women%27s_Basketball_Game_%2852754924621%29.jpg/500px-NCAA_Maryland_Women%27s_Basketball_Game_%2852754924621%29.jpg",
-    "size": [
-     1920,
-     1277
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Maryland GovPics, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Maryland GovPics",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Xfinity Center (College Park, Maryland)"
-   },
-   {
-    "shot": "c7",
-    "shows": "Xfinity truck 11 16 04",
-    "file": "File:Xfinity truck 11 16 04 385000.jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Xfinity_truck_11_16_04_385000.jpeg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xfinity_truck_11_16_04_385000.jpeg/1920px-Xfinity_truck_11_16_04_385000.jpeg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xfinity_truck_11_16_04_385000.jpeg/500px-Xfinity_truck_11_16_04_385000.jpeg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Own work, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Own work",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Comcast"
    },
    {
     "shot": "s8",
@@ -21100,6 +20841,284 @@
     "how": "Commons search"
    },
    {
+    "shot": "b1",
+    "shows": "People walking near brown concrete building during daytime",
+    "file": "unsplash:9g11WIv0Ias",
+    "page": "https://unsplash.com/photos/people-walking-near-brown-concrete-building-during-daytime-9g11WIv0Ias?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1612404459571-ccef4b6588e7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VW5pdmVyc2FsJTIwU3R1ZGlvc3xlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1612404459571-ccef4b6588e7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VW5pdmVyc2FsJTIwU3R1ZGlvc3xlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Roméo A. on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Roméo A.",
+    "year": 2021,
+    "how": "unsplash search: Universal Studios",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gronemo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9g11WIv0Ias/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VW5pdmVyc2FsJTIwU3R1ZGlvc3xlbnwxfHx8fDE3OTM5ODgwMjV8MA"
+   },
+   {
+    "shot": "b2",
+    "shows": "City buildings during night time",
+    "file": "unsplash:Efu8X5Up69w",
+    "page": "https://unsplash.com/photos/city-buildings-during-night-time-Efu8X5Up69w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1583195317975-b28942721d78?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29tY2FzdHxlbnwxfHx8fDE3OTM5ODgwMjN8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1583195317975-b28942721d78?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29tY2FzdHxlbnwxfHx8fDE3OTM5ODgwMjN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vann",
+    "year": 2020,
+    "how": "unsplash search: Comcast",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vanneus?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Efu8X5Up69w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29tY2FzdHxlbnwxfHx8fDE3OTM5ODgwMjN8MA"
+   },
+   {
+    "shot": "b3",
+    "shows": "Blue and brown Universal studios decor",
+    "file": "unsplash:ZFm3hpMCS68",
+    "page": "https://unsplash.com/photos/blue-and-brown-universal-studios-decor-ZFm3hpMCS68?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1569789010436-421d71a9fc38?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VW5pdmVyc2FsJTIwU3R1ZGlvc3xlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=2133&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1569789010436-421d71a9fc38?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VW5pdmVyc2FsJTIwU3R1ZGlvc3xlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2133,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Guneet Jassal on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Guneet Jassal",
+    "year": 2019,
+    "how": "unsplash search: Universal Studios",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@guneetj?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZFm3hpMCS68/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VW5pdmVyc2FsJTIwU3R1ZGlvc3xlbnwxfHx8fDE3OTM5ODgwMjV8MA"
+   },
+   {
+    "shot": "b4",
+    "shows": "A castle with blue sky",
+    "file": "unsplash:DEe_6qUpP50",
+    "page": "https://unsplash.com/photos/a-castle-with-blue-sky-DEe_6qUpP50?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1665256452834-20c2d868cd01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1665256452834-20c2d868cd01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Philip White on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Philip White",
+    "year": 2022,
+    "how": "unsplash search: Universal Studios",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@philipwhite?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/DEe_6qUpP50/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA"
+   },
+   {
+    "shot": "b5",
+    "shows": "Man in black jacket walking on sidewalk with blue and yellow heart shaped balloon",
+    "file": "unsplash:Hzrk0A1M3gQ",
+    "page": "https://unsplash.com/photos/man-in-black-jacket-walking-on-sidewalk-with-blue-and-yellow-heart-shaped-balloon-Hzrk0A1M3gQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581863575451-b8ba94788958?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581863575451-b8ba94788958?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nauris Pūķis on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nauris Pūķis",
+    "year": 2020,
+    "how": "unsplash search: Universal Studios",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@pyronaur?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Hzrk0A1M3gQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA"
+   },
+   {
+    "shot": "b6",
+    "shows": "White concrete building near palm trees during daytime",
+    "file": "unsplash:Kqql927zsDQ",
+    "page": "https://unsplash.com/photos/white-concrete-building-near-palm-trees-during-daytime-Kqql927zsDQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1612150138589-f41b112ef7a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=2050&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1612150138589-f41b112ef7a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2050,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Emanuel Ekström on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Emanuel Ekström",
+    "year": 2021,
+    "how": "unsplash search: Universal Studios",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@emanuelekstrom?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Kqql927zsDQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA"
+   },
+   {
+    "shot": "b7",
+    "shows": "Boy in blue and white shirt holding red and white balloon",
+    "file": "unsplash:lwuOwEhbDfE",
+    "page": "https://unsplash.com/photos/boy-in-blue-and-white-shirt-holding-red-and-white-balloon-lwuOwEhbDfE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1612404834746-1ffba06de133?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1612404834746-1ffba06de133?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Roméo A. on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Roméo A.",
+    "year": 2021,
+    "how": "unsplash search: Universal Studios",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gronemo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lwuOwEhbDfE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFVuaXZlcnNhbCUyMFN0dWRpb3N8ZW58MXx8fHwxNzkzOTg4MDI1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "main",
+    "shows": "Comcast Philly",
+    "file": "File:Comcast Philly.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Comcast_Philly.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Comcast_Philly.JPG/1280px-Comcast_Philly.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Comcast_Philly.JPG/500px-Comcast_Philly.JPG",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Smallbones, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Smallbones",
+    "year": 2011,
+    "how": "Wikidata main image"
+   },
+   {
+    "shot": "c2",
+    "shows": "Comcast Corporation",
+    "file": "File:Comcast Corporation.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Comcast_Corporation.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Comcast_Corporation.jpg/1920px-Comcast_Corporation.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Comcast_Corporation.jpg/500px-Comcast_Corporation.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Tony Webster",
+    "year": 2020,
+    "how": "Commons category",
+    "category": "Comcast"
+   },
+   {
+    "shot": "c4",
+    "shows": "Comcast Technology Center from Fairmount Park",
+    "file": "File:Comcast Technology Center from Fairmount Park.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Comcast_Technology_Center_from_Fairmount_Park.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Comcast_Technology_Center_from_Fairmount_Park.jpg/1280px-Comcast_Technology_Center_from_Fairmount_Park.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Comcast_Technology_Center_from_Fairmount_Park.jpg/500px-Comcast_Technology_Center_from_Fairmount_Park.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Hij802, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Hij802",
+    "year": 2024,
+    "how": "Commons category",
+    "category": "Comcast Technology Center"
+   },
+   {
+    "shot": "c7",
+    "shows": "Xfinity truck 11 16 04",
+    "file": "File:Xfinity truck 11 16 04 385000.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Xfinity_truck_11_16_04_385000.jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xfinity_truck_11_16_04_385000.jpeg/1920px-Xfinity_truck_11_16_04_385000.jpeg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xfinity_truck_11_16_04_385000.jpeg/500px-Xfinity_truck_11_16_04_385000.jpeg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Own work, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Own work",
+    "year": 2020,
+    "how": "Commons category",
+    "category": "Comcast"
+   },
+   {
     "shot": "s10",
     "shows": "Comcast Center from Pennwalt - panoramio",
     "file": "File:Comcast Center from Pennwalt - panoramio.jpg",
@@ -21123,7 +21142,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "FIX": {
   "name": "Comfort Systems USA",
@@ -21145,29 +21164,6 @@
   "aliases": [],
   "sector": "sector-energy",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "CPbuilding Anch-AK",
-    "file": "File:CPbuilding Anch-AK.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CPbuilding_Anch-AK.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CPbuilding_Anch-AK.jpg/1280px-CPbuilding_Anch-AK.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CPbuilding_Anch-AK.jpg/500px-CPbuilding_Anch-AK.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jack Bohannon -- Ak49north, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Jack Bohannon -- Ak49north",
-    "year": 2006,
-    "how": "Wikidata main image"
-   },
    {
     "shot": "leader",
     "shows": "Ryan Lance, ConocoPhillips CEO (per Wikidata)",
@@ -21217,52 +21213,50 @@
     "category": "Conoco-Phillips Building"
    },
    {
-    "shot": "c4",
-    "shows": "Back in the day",
-    "file": "File:Back in the day (8916975909).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Back_in_the_day_(8916975909).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Back_in_the_day_%288916975909%29.jpg/1920px-Back_in_the_day_%288916975909%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Back_in_the_day_%288916975909%29.jpg/500px-Back_in_the_day_%288916975909%29.jpg",
+    "shot": "s9",
+    "shows": "ConocoPhillips Company Headquarters",
+    "file": "File:ConocoPhillips Company Headquarters.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ConocoPhillips_Company_Headquarters.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ConocoPhillips_Company_Headquarters.jpg/1920px-ConocoPhillips_Company_Headquarters.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ConocoPhillips_Company_Headquarters.jpg/500px-ConocoPhillips_Company_Headquarters.jpg",
     "size": [
      1920,
-     1280
+     1013
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Thank you for visiting my page from Canada, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
+    "credit": "Scotthydril, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Thank you for visiting my page from Canada",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "ConocoPhillips"
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Scotthydril",
+    "year": 2024,
+    "how": "Commons search"
    },
    {
-    "shot": "c5",
-    "shows": "Conoco Phillips 2016",
-    "file": "File:Conoco Phillips 2016 (24656339464).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Conoco_Phillips_2016_(24656339464).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Conoco_Phillips_2016_%2824656339464%29.jpg/1920px-Conoco_Phillips_2016_%2824656339464%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Conoco_Phillips_2016_%2824656339464%29.jpg/500px-Conoco_Phillips_2016_%2824656339464%29.jpg",
+    "shot": "main",
+    "shows": "CPbuilding Anch-AK",
+    "file": "File:CPbuilding Anch-AK.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CPbuilding_Anch-AK.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CPbuilding_Anch-AK.jpg/1280px-CPbuilding_Anch-AK.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CPbuilding_Anch-AK.jpg/500px-CPbuilding_Anch-AK.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "jasonwoodhead23, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
+    "credit": "Jack Bohannon -- Ak49north, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "jasonwoodhead23",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "ConocoPhillips"
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Jack Bohannon -- Ak49north",
+    "year": 2006,
+    "how": "Wikidata main image"
    },
    {
     "shot": "c6",
@@ -21311,78 +21305,9 @@
     "year": 2023,
     "how": "Commons category",
     "category": "Adams Building (Bartlesville, Oklahoma)"
-   },
-   {
-    "shot": "s8",
-    "shows": "ConocoPhillips Plaza and Frank Phillips Tower Center, Johnstone Avenue and 4th Street, Bartlesville, OK",
-    "file": "File:ConocoPhillips Plaza and Frank Phillips Tower Center, Johnstone Avenue and 4th Street, Bartlesville, OK.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ConocoPhillips_Plaza_and_Frank_Phillips_Tower_Center,_Johnstone_Avenue_and_4th_Street,_Bartlesville,_OK.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ConocoPhillips_Plaza_and_Frank_Phillips_Tower_Center%2C_Johnstone_Avenue_and_4th_Street%2C_Bartlesville%2C_OK.jpg/1280px-ConocoPhillips_Plaza_and_Frank_Phillips_Tower_Center%2C_Johnstone_Avenue_and_4th_Street%2C_Bartlesville%2C_OK.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/ConocoPhillips_Plaza_and_Frank_Phillips_Tower_Center%2C_Johnstone_Avenue_and_4th_Street%2C_Bartlesville%2C_OK.jpg/500px-ConocoPhillips_Plaza_and_Frank_Phillips_Tower_Center%2C_Johnstone_Avenue_and_4th_Street%2C_Bartlesville%2C_OK.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Warren LeMay, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Warren LeMay",
-    "year": 2023,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "ConocoPhillips Company Headquarters",
-    "file": "File:ConocoPhillips Company Headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ConocoPhillips_Company_Headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ConocoPhillips_Company_Headquarters.jpg/1920px-ConocoPhillips_Company_Headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ConocoPhillips_Company_Headquarters.jpg/500px-ConocoPhillips_Company_Headquarters.jpg",
-    "size": [
-     1920,
-     1013
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Scotthydril, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Scotthydril",
-    "year": 2024,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Louisiana Office of Coastal Protection and Restoration, ConocoPhillips and the LSU AgCenter",
-    "file": "File:Louisiana Office of Coastal Protection and Restoration, ConocoPhillips and the LSU AgCenter.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Louisiana_Office_of_Coastal_Protection_and_Restoration,_ConocoPhillips_and_the_LSU_AgCenter.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Louisiana_Office_of_Coastal_Protection_and_Restoration%2C_ConocoPhillips_and_the_LSU_AgCenter.jpg/1920px-Louisiana_Office_of_Coastal_Protection_and_Restoration%2C_ConocoPhillips_and_the_LSU_AgCenter.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Louisiana_Office_of_Coastal_Protection_and_Restoration%2C_ConocoPhillips_and_the_LSU_AgCenter.jpg/500px-Louisiana_Office_of_Coastal_Protection_and_Restoration%2C_ConocoPhillips_and_the_LSU_AgCenter.jpg",
-    "size": [
-     1920,
-     1285
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Louisiana GOHSEP, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Louisiana GOHSEP",
-    "year": 2007,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "ED": {
   "name": "Consolidated Edison",
@@ -21645,6 +21570,276 @@
   "sector": "sector-staples",
   "photos": [
    {
+    "shot": "b1",
+    "shows": "A bucket full of corona beer sitting on a table",
+    "file": "unsplash:ifYkUuqvsfY",
+    "page": "https://unsplash.com/photos/a-bucket-full-of-corona-beer-sitting-on-a-table-ifYkUuqvsfY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1726475148440-7def8a170cc1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1726475148440-7def8a170cc1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1810
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nesnin Shamsheer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nesnin Shamsheer",
+    "year": 2024,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nesniin?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ifYkUuqvsfY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "Selective focus photography of brown labeled bottle",
+    "file": "unsplash:mV67D45jFAs",
+    "page": "https://unsplash.com/photos/selective-focus-photography-of-brown-labeled-bottle-mV67D45jFAs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1603644197087-dbeeba73e106?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1603644197087-dbeeba73e106?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Adrien Delforge on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Adrien Delforge",
+    "year": 2020,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@adriendlf?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/mV67D45jFAs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "Corona Extra bottle on seashore during daytime",
+    "file": "unsplash:LnBisJEyVFE",
+    "page": "https://unsplash.com/photos/corona-extra-bottle-on-seashore-during-daytime-LnBisJEyVFE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1473429174434-a8a8d5e0dc2e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1473429174434-a8a8d5e0dc2e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jake Bradley on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jake Bradley",
+    "year": 2016,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jakebradley?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/LnBisJEyVFE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "A person holding a bottle of corona beer",
+    "file": "unsplash:OzyWRZuNP6E",
+    "page": "https://unsplash.com/photos/a-person-holding-a-bottle-of-corona-beer-OzyWRZuNP6E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1639513473133-dc1e5f12f83e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=1452&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1639513473133-dc1e5f12f83e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1452,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gontse Tlhalogang on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gontse Tlhalogang",
+    "year": 2021,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cae_foto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OzyWRZuNP6E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "Selective focus photography of corona extra bottle",
+    "file": "unsplash:K7-vDda14UQ",
+    "page": "https://unsplash.com/photos/selective-focus-photography-of-corona-extra-bottle-K7-vDda14UQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1592478384392-32aaa92ee421?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1592478384392-32aaa92ee421?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kristaps Solims on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kristaps Solims",
+    "year": 2020,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kristapsbx?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/K7-vDda14UQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "A person holding a bottle of beer in front of the ocean",
+    "file": "unsplash:dAf7sFvPLQ4",
+    "page": "https://unsplash.com/photos/a-person-holding-a-bottle-of-beer-in-front-of-the-ocean-dAf7sFvPLQ4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1640037087061-70769c30c3db?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1640037087061-70769c30c3db?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nils on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nils",
+    "year": 2021,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ni_ls_h?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dAf7sFvPLQ4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "Corona extra beer bottle on gray table",
+    "file": "unsplash:pYTOYmtMoIY",
+    "page": "https://unsplash.com/photos/corona-extra-beer-bottle-on-gray-table-pYTOYmtMoIY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1620608289458-a4dd7854eaf0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29yb25hJTIwRXh0cmF8ZW58MXx8fHwxNzkzOTg4MDI2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1620608289458-a4dd7854eaf0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29yb25hJTIwRXh0cmF8ZW58MXx8fHwxNzkzOTg4MDI2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gurpreet Singh on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gurpreet Singh",
+    "year": 2021,
+    "how": "unsplash search: Corona Extra",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gsahans?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pYTOYmtMoIY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Q29yb25hJTIwRXh0cmF8ZW58MXx8fHwxNzkzOTg4MDI2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "A bottle of beer sitting on top of a sandy beach",
+    "file": "unsplash:x4Xdyhj4EVE",
+    "page": "https://unsplash.com/photos/a-bottle-of-beer-sitting-on-top-of-a-sandy-beach-x4Xdyhj4EVE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1639996889453-f95e871c1df6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1639996889453-f95e871c1df6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daniel Pelaez Duque on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniel Pelaez Duque",
+    "year": 2021,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@danielpelaezduque?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/x4Xdyhj4EVE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q29yb25hJTIwYmVlcnxlbnwxfHx8fDE3OTM5ODgwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "Corona extra beer bottles on brown wooden crate",
+    "file": "unsplash:uGUDHBCsC0E",
+    "page": "https://unsplash.com/photos/corona-extra-beer-bottles-on-brown-wooden-crate-uGUDHBCsC0E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1595869875670-b431d2c65dd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fENvcm9uYSUyMGJlZXJ8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1595869875670-b431d2c65dd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fENvcm9uYSUyMGJlZXJ8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Carlos Bastias on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Carlos Bastias",
+    "year": 2020,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bastiascarlos?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uGUDHBCsC0E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fENvcm9uYSUyMGJlZXJ8ZW58MXx8fHwxNzkzOTg4MDI1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b10",
+    "shows": "Four Corona Extra beer bottles in sand",
+    "file": "unsplash:RyESGxaP8P4",
+    "page": "https://unsplash.com/photos/four-corona-extra-beer-bottles-in-sand-RyESGxaP8P4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1525036193-2a8c23629266?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fENvcm9uYSUyMGJlZXJ8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1525036193-2a8c23629266?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fENvcm9uYSUyMGJlZXJ8ZW58MXx8fHwxNzkzOTg4MDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michal on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michal",
+    "year": 2018,
+    "how": "unsplash search: Corona beer",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@michuu?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/RyESGxaP8P4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fENvcm9uYSUyMGJlZXJ8ZW58MXx8fHwxNzkzOTg4MDI1fDA",
+    "track_pending": true
+   },
+   {
     "shot": "main",
     "shows": "Constellation Brands headquarters",
     "file": "File:Constellation Brands headquarters.jpg",
@@ -21666,57 +21861,9 @@
     "author": "DanielPenfield",
     "year": 2010,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "James Taylor 2025 CMAC",
-    "file": "File:James Taylor 2025 CMAC.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:James_Taylor_2025_CMAC.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/James_Taylor_2025_CMAC.jpg/1280px-James_Taylor_2025_CMAC.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/James_Taylor_2025_CMAC.jpg/500px-James_Taylor_2025_CMAC.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "J. Passepartout, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "J. Passepartout",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Constellation Brands – Marvin Sands Performing Arts Center"
-   },
-   {
-    "shot": "c3",
-    "shows": "Constellation Brands Marvin Sands Performing Arts Center",
-    "file": "File:CMAC.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:CMAC.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CMAC.JPG/1920px-CMAC.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/CMAC.JPG/500px-CMAC.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daniel Christensen ( talk ), CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Daniel Christensen ( talk )",
-    "year": 2009,
-    "how": "Commons category",
-    "category": "Constellation Brands – Marvin Sands Performing Arts Center"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CEG": {
   "name": "Constellation Energy",
@@ -22716,7 +22863,7 @@
     "category": "Coupang"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CRH": {
   "name": "CRH plc",
@@ -22860,6 +23007,87 @@
     "category": "CrowdStrike"
    },
    {
+    "shot": "b1",
+    "shows": "A bus stop with a bus parked next to it",
+    "file": "unsplash:vKla95GgAwg",
+    "page": "https://unsplash.com/photos/a-bus-stop-with-a-bus-parked-next-to-it-vKla95GgAwg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1722215365223-b912b6628ade?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q3Jvd2RTdHJpa2V8ZW58MXx8fHwxNzkzOTg4MDI3fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1722215365223-b912b6628ade?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q3Jvd2RTdHJpa2V8ZW58MXx8fHwxNzkzOTg4MDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Shekai on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Shekai",
+    "year": 2024,
+    "how": "unsplash search: CrowdStrike",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@shekai?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vKla95GgAwg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q3Jvd2RTdHJpa2V8ZW58MXx8fHwxNzkzOTg4MDI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "Bright green jacket with petronas and crowdstrike logos",
+    "file": "unsplash:xxzMTMgjcLI",
+    "page": "https://unsplash.com/photos/bright-green-jacket-with-petronas-and-crowdstrike-logos-xxzMTMgjcLI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1781721381142-6c58313f1f3d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q3Jvd2RTdHJpa2V8ZW58MXx8fHwxNzkzOTg4MDI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1781721381142-6c58313f1f3d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q3Jvd2RTdHJpa2V8ZW58MXx8fHwxNzkzOTg4MDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jerry Wei on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jerry Wei",
+    "year": 2026,
+    "how": "unsplash search: CrowdStrike",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@findway_jerry?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/xxzMTMgjcLI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q3Jvd2RTdHJpa2V8ZW58MXx8fHwxNzkzOTg4MDI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "Red race car on a winding asphalt track",
+    "file": "unsplash:yTuI_Q0UomY",
+    "page": "https://unsplash.com/photos/red-race-car-on-a-winding-asphalt-track-yTuI_Q0UomY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1781785437621-b1e4e1f3ce52?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fENyb3dkU3RyaWtlfGVufDF8fHx8MTc5Mzk4ODAyN3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1781785437621-b1e4e1f3ce52?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fENyb3dkU3RyaWtlfGVufDF8fHx8MTc5Mzk4ODAyN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zeevlam on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zeevlam",
+    "year": 2026,
+    "how": "unsplash search: CrowdStrike",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zeevlam?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yTuI_Q0UomY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fENyb3dkU3RyaWtlfGVufDF8fHx8MTc5Mzk4ODAyN3ww",
+    "track_pending": true
+   },
+   {
     "shot": "c2",
     "shows": "CrowdStrike (CrowdStrike)",
     "file": "File:Crowdstrike HQ (54987419728).jpg",
@@ -22882,57 +23110,9 @@
     "year": 2025,
     "how": "Commons category",
     "category": "CrowdStrike"
-   },
-   {
-    "shot": "c3",
-    "shows": "Carrfour self checkout affected by the 2024 CrowdStrike incident",
-    "file": "File:Carrfour self checkout affected by the 2024 CrowdStrike incident.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg/1280px-Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg/500px-Carrfour_self_checkout_affected_by_the_2024_CrowdStrike_incident.jpg",
-    "size": [
-     1280,
-     1705
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Koupip, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Koupip",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "2024 CrowdStrike incident"
-   },
-   {
-    "shot": "c4",
-    "shows": "Self-serve checkout register affected by CrowdStrike incident - 20 July 2024",
-    "file": "File:Self-serve checkout register affected by CrowdStrike incident - 20 July 2024.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg/1280px-Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg/500px-Self-serve_checkout_register_affected_by_CrowdStrike_incident_-_20_July_2024.jpg",
-    "size": [
-     1280,
-     1705
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "CornyShiba, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "CornyShiba",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "2024 CrowdStrike incident"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-06"
  },
  "CCI": {
   "name": "Crown Castle",
