@@ -5,21 +5,39 @@
  "tickers": [],
  "photos": [
   {
-   "shows": "Bingham Canyon Mine - Salt Lake County, Utah - May 11, 2012",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg/1920px-Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg/500px-Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg",
+   "shows": "Aluminium ingots St-Saphorin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aluminium_ingots_St-Saphorin_180310.jpg/1920px-Aluminium_ingots_St-Saphorin_180310.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aluminium_ingots_St-Saphorin_180310.jpg/500px-Aluminium_ingots_St-Saphorin_180310.jpg",
    "size": [
     1920,
-    1440
+    1280
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "David Ratledge, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
+   "credit": "NAC, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_Mine_(2)_-_Salt_Lake_County,_Utah_-_May_11,_2012.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Aluminium_ingots_St-Saphorin_180310.jpg"
+  },
+  {
+   "shows": "A few yellow trucks on a road",
+   "url": "https://images.unsplash.com/photo-1651260414968-7f27e8db866f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWluaW5nJTIwdHJ1Y2t8ZW58MXx8fHwxNzkzOTI3MzEyfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1651260414968-7f27e8db866f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWluaW5nJTIwdHJ1Y2t8ZW58MXx8fHwxNzkzOTI3MzEyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Boom & Bucket on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@boomandbucket?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-few-yellow-trucks-on-a-road-ed9HcUgZORI?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

@@ -1330,22 +1330,28 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Cybersecurity (cybersecurity)
 
-- Open lock on laptop: Yuri Samoilov, CC BY 2.0, via Wikimedia Commons. [Open lock on laptop (49919519837).jpg](https://commons.wikimedia.org/wiki/File:Open_lock_on_laptop_(49919519837).jpg)
+- A combination lock rests on a computer keyboard: Photo by Sasun Bughdaryan on Unsplash. [WUJmdr8pNwk](https://unsplash.com/photos/a-combination-lock-rests-on-a-computer-keyboard-WUJmdr8pNwk?utm_source=investiq_image_bank&utm_medium=referral)
+- Two white security cameras mounted on a pole against a clear blue sky: Photo by Michał Jakubowski on Unsplash. [oQD9uq4Rd4I](https://unsplash.com/photos/security-cameras-on-pole-against-sky-oQD9uq4Rd4I?utm_source=investiq_image_bank&utm_medium=referral)
+- A glowing fingerprint on a dark circular scanner surface with concentric lines: Photo by George Prentzas on Unsplash. [SRFG7iwktDk](https://unsplash.com/photos/glowing-fingerprint-on-circular-scanner-SRFG7iwktDk?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a network with wires connected to it: Photo by Albert Stoynov on Unsplash. [dyUp7WPu5q4](https://unsplash.com/photos/a-close-up-of-a-network-with-wires-connected-to-it-dyUp7WPu5q4?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## India economy (india)
 
 - BSE - Bombay Stock Exchange Building: Niyantha Shekhar, CC BY 2.0, via Wikimedia Commons. [BSE - Bombay Stock Exchange Building.jpg](https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Exchange_Building.jpg)
-- Indian 50-rupees banknote closeup: Sohel Patel, CC0, via Wikimedia Commons. [Indian 50-rupees banknote closeup (68912).jpg](https://commons.wikimedia.org/wiki/File:Indian_50-rupees_banknote_closeup_(68912).jpg)
+- Four Indian rupee banknotes: Photo by rupixen on Unsplash. [nI--XptpMa8](https://unsplash.com/photos/four-indian-rupee-banknotes-nI--XptpMa8?utm_source=investiq_image_bank&utm_medium=referral)
 - Dalal Street sign: Nick Gray, CC BY-SA 2.0, via Wikimedia Commons. [Dalal Street sign.jpg](https://commons.wikimedia.org/wiki/File:Dalal_Street_sign.jpg)
 
 ## Japan economy (japan)
 
-- Minato City, Tokyo, Japan: David Kernan, CC BY 4.0, via Wikimedia Commons. [Minato City, Tokyo, Japan.jpg](https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg)
-- Tokyo Shibuya Scramble Crossing: Benh LIEU SONG ( Flickr ), CC BY-SA 2.0, via Wikimedia Commons. [Tokyo Shibuya Scramble Crossing 2018-10-09.jpg](https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg)
+- Tokyo tower illuminated at dusk with city skyline: Photo by Louie Martinez on Unsplash. [IocJwyqRv3M](https://unsplash.com/photos/tokyo-tower-illuminated-at-dusk-with-city-skyline-IocJwyqRv3M?utm_source=investiq_image_bank&utm_medium=referral)
+- Crowds of people crossing the Shibuya scramble intersection at night in Tokyo: Photo by Timo Volz on Unsplash. [DGsqL2j028E](https://unsplash.com/photos/shibuya-scramble-intersection-in-tokyo-DGsqL2j028E?utm_source=investiq_image_bank&utm_medium=referral)
+- White and black train on rail: Photo by Rikku Sama on Unsplash. [tIA68glTme0](https://unsplash.com/photos/white-and-black-train-on-rail-tIA68glTme0?utm_source=investiq_image_bank&utm_medium=referral)
+- A narrow alleyway in Tokyo at night with glowing red lanterns and illuminated signs: Photo by Denys Nevozhai on Unsplash. [D68ADLeMh5Q](https://unsplash.com/photos/alleyway-with-red-lanterns-in-tokyo-D68ADLeMh5Q?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Industrial metals & mining (metals)
 
-- Bingham Canyon Mine - Salt Lake County, Utah - May 11, 2012: David Ratledge, CC BY 4.0, via Wikimedia Commons. [Bingham Canyon Mine (2) - Salt Lake County, Utah - May 11, 2012.jpg](https://commons.wikimedia.org/wiki/File:Bingham_Canyon_Mine_(2)_-_Salt_Lake_County,_Utah_-_May_11,_2012.jpg)
+- Aluminium ingots St-Saphorin: NAC, CC BY-SA 4.0, via Wikimedia Commons. [Aluminium ingots St-Saphorin 180310.jpg](https://commons.wikimedia.org/wiki/File:Aluminium_ingots_St-Saphorin_180310.jpg)
+- A few yellow trucks on a road: Photo by Boom & Bucket on Unsplash. [ed9HcUgZORI](https://unsplash.com/photos/a-few-yellow-trucks-on-a-road-ed9HcUgZORI?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Luxury goods (luxury)
 
