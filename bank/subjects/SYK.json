@@ -7,5 +7,60 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Hospital bed at Pok Oi Hospital",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hospital_bed_at_Pok_Oi_Hospital.jpg/1920px-Hospital_bed_at_Pok_Oi_Hospital.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hospital_bed_at_Pok_Oi_Hospital.jpg/500px-Hospital_bed_at_Pok_Oi_Hospital.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hospital_bed_at_Pok_Oi_Hospital.jpg",
+   "plain": true
+  },
+  {
+   "shows": "NEF RKiSH 03",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NEF_RKiSH_03.jpg/1920px-NEF_RKiSH_03.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/NEF_RKiSH_03.jpg/500px-NEF_RKiSH_03.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Huhu Uet, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NEF_RKiSH_03.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Stryker Endoscopy building 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Stryker_Endoscopy_building_1.JPG/1920px-Stryker_Endoscopy_building_1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Stryker_Endoscopy_building_1.JPG/500px-Stryker_Endoscopy_building_1.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Stryker_Endoscopy_building_1.JPG",
+   "plain": true
+  }
+ ]
 }

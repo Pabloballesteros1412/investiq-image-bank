@@ -7,5 +7,79 @@
  ],
  "sector": "sector-communication",
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "Evan Spiegel, Snap Inc. CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/c/ce/20260515220926%21Evan_Spiegel%2C_founder_of_Snapchat.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/c/ce/20260515220926%21Evan_Spiegel%2C_founder_of_Snapchat.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "cellanr, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Evan_Spiegel,_founder_of_Snapchat.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Snapchat filter",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Snapchat_filter_%2843252259172%29.jpg/1920px-Snapchat_filter_%2843252259172%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Snapchat_filter_%2843252259172%29.jpg/500px-Snapchat_filter_%2843252259172%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stock Catalog, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Snapchat_filter_(43252259172).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Snap Spectacles",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Snap_Spectacles.jpg/1280px-Snap_Spectacles.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Snap_Spectacles.jpg/500px-Snap_Spectacles.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Horaciotorrendell, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Snap_Spectacles.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Snap Inc. Spectacles",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Snap_Inc._Spectacles.jpg/1280px-Snap_Inc._Spectacles.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Snap_Inc._Spectacles.jpg/500px-Snap_Inc._Spectacles.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eigentlichich, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Snap_Inc._Spectacles.jpg",
+   "plain": true
+  }
+ ]
 }

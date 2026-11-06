@@ -7,5 +7,96 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "McKesson Plaza east side 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/McKesson_Plaza_east_side_1.JPG/1280px-McKesson_Plaza_east_side_1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/McKesson_Plaza_east_side_1.JPG/500px-McKesson_Plaza_east_side_1.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McKesson_Plaza_east_side_1.JPG",
+   "plain": true
+  },
+  {
+   "shows": "McKesson Canada - Address: 131 McNabb St, Markham, ON L3R 5V7",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/McKessonCanada.jpg/1920px-McKessonCanada.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/McKessonCanada.jpg/500px-McKessonCanada.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McKessonCanada.jpg",
+   "plain": true
+  },
+  {
+   "shows": "5995 Windward Pkwy, Alpharetta, GA March 2017",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/5995_Windward_Pkwy%2C_Alpharetta%2C_GA_March_2017.jpg/1920px-5995_Windward_Pkwy%2C_Alpharetta%2C_GA_March_2017.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/5995_Windward_Pkwy%2C_Alpharetta%2C_GA_March_2017.jpg/500px-5995_Windward_Pkwy%2C_Alpharetta%2C_GA_March_2017.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Thomson200, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:5995_Windward_Pkwy,_Alpharetta,_GA_March_2017.jpg",
+   "plain": true
+  },
+  {
+   "shows": "McKesson Europe Head Office Stuttgart",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/McKesson_Europe_Head_Office_Stuttgart.jpg/1920px-McKesson_Europe_Head_Office_Stuttgart.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/McKesson_Europe_Head_Office_Stuttgart.jpg/500px-McKesson_Europe_Head_Office_Stuttgart.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "AlessiaSpiegel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McKesson_Europe_Head_Office_Stuttgart.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Palace Hotel SF & McKesson Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palace_Hotel_SF_%26_McKesson_Plaza.JPG/1280px-Palace_Hotel_SF_%26_McKesson_Plaza.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palace_Hotel_SF_%26_McKesson_Plaza.JPG/500px-Palace_Hotel_SF_%26_McKesson_Plaza.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Palace_Hotel_SF_%26_McKesson_Plaza.JPG",
+   "plain": true
+  }
+ ]
 }

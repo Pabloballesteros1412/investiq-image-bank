@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "CDW in Chicago - Address: 120 S Riverside Plaza, Chicago, IL 60606, USA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CDWChicago.jpg/1920px-CDWChicago.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CDWChicago.jpg/500px-CDWChicago.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CDWChicago.jpg",
+   "plain": true
+  }
+ ]
 }

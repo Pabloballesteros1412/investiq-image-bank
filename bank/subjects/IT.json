@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Gartner headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gartner_headquarters_cropped.jpg/1920px-Gartner_headquarters_cropped.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gartner_headquarters_cropped.jpg/500px-Gartner_headquarters_cropped.jpg",
+   "size": [
+    1920,
+    1166
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gartner_headquarters.jpg : Coolcaesar at en.wikipedia . derivative work: W Nowicki at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gartner_headquarters_cropped.jpg",
+   "plain": true
+  }
+ ]
 }

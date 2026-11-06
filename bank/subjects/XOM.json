@@ -6,7 +6,6 @@
   "XOM"
  ],
  "sector": "sector-energy",
- "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "An ExxonMobil gas station in Hiawassee, Georgia",
@@ -24,6 +23,168 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:An_ExxonMobil_gas_station_in_Hiawassee,_Georgia.jpg"
+  },
+  {
+   "shows": "Exxon gas station with trees and blue sky",
+   "url": "https://images.unsplash.com/photo-1756748343860-ae7d2a90f10f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RXh4b25Nb2JpbHxlbnwxfHx8fDE3OTM5NjM2NDd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1756748343860-ae7d2a90f10f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RXh4b25Nb2JpbHxlbnwxfHx8fDE3OTM5NjM2NDd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by chloe combs on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chlorefilm?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/exxon-gas-station-with-trees-and-blue-sky-8vUPPNTo9ho?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Exxon gas station sign displaying fuel prices and soup advertisement",
+   "url": "https://images.unsplash.com/photo-1780450523713-35d94333597e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8RXh4b258ZW58MXx8fHwxNzkzOTYzNjQ4fDA&ixlib=rb-4.1.0&w=2278&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1780450523713-35d94333597e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8RXh4b258ZW58MXx8fHwxNzkzOTYzNjQ4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2278,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Abhishek Mamidipally on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@abhishek_mgv?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/exxon-gas-station-sign-displaying-fuel-prices-and-soup-advertisement-9MwvC9i41fs?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Sunrise Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunrise_Texas.jpg/1920px-Sunrise_Texas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunrise_Texas.jpg/500px-Sunrise_Texas.jpg",
+   "size": [
+    1920,
+    847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Baytownbert, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunrise_Texas.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Exxon Jourdanton Gas Sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Exxon_Jourdanton_Gas_Sign.jpg/1280px-Exxon_Jourdanton_Gas_Sign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Exxon_Jourdanton_Gas_Sign.jpg/500px-Exxon_Jourdanton_Gas_Sign.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Brendansoloughlin, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exxon_Jourdanton_Gas_Sign.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mobil Station West Miami",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mobil_Station_West_Miami_%2850962182338%29.jpg/1920px-Mobil_Station_West_Miami_%2850962182338%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Mobil_Station_West_Miami_%2850962182338%29.jpg/500px-Mobil_Station_West_Miami_%2850962182338%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mobil_Station_West_Miami_(50962182338).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Inland Empire CA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Inland_Empire_CA_20230817_234802257.jpg/1920px-Inland_Empire_CA_20230817_234802257.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Inland_Empire_CA_20230817_234802257.jpg/500px-Inland_Empire_CA_20230817_234802257.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sony 1992, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Inland_Empire_CA_20230817_234802257.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ExxonMobil Tower, Kuala Lumpur",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ExxonMobil_Tower%2C_Kuala_Lumpur.jpg/1280px-ExxonMobil_Tower%2C_Kuala_Lumpur.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ExxonMobil_Tower%2C_Kuala_Lumpur.jpg/500px-ExxonMobil_Tower%2C_Kuala_Lumpur.jpg",
+   "size": [
+    1280,
+    1880
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "User:Two hundred percent ., CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ExxonMobil_Tower,_Kuala_Lumpur.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Former ExxonMobil Building in Houston",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Former_ExxonMobil_Building_in_Houston.jpg/1280px-Former_ExxonMobil_Building_in_Houston.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Former_ExxonMobil_Building_in_Houston.jpg/500px-Former_ExxonMobil_Building_in_Houston.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Former_ExxonMobil_Building_in_Houston.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ExxonMobil Gas Station",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ExxonMobil_Gas_Station_%2853590168016%29.jpg/1920px-ExxonMobil_Gas_Station_%2853590168016%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ExxonMobil_Gas_Station_%2853590168016%29.jpg/500px-ExxonMobil_Gas_Station_%2853590168016%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ExxonMobil_Gas_Station_(53590168016).jpg",
+   "plain": true
   }
  ]
 }

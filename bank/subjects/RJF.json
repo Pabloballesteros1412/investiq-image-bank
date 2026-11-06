@@ -7,5 +7,24 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Raymond James Financial",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Raymond_James_Financial_%2853872771875%29.jpg/1920px-Raymond_James_Financial_%2853872771875%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Raymond_James_Financial_%2853872771875%29.jpg/500px-Raymond_James_Financial_%2853872771875%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raymond_James_Financial_(53872771875).jpg",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,60 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Principal Financial Group Corporate One",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Principal_Financial_Group_Corporate_One.jpg/1920px-Principal_Financial_Group_Corporate_One.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Principal_Financial_Group_Corporate_One.jpg/500px-Principal_Financial_Group_Corporate_One.jpg",
+   "size": [
+    1920,
+    1264
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Principal_Financial_Group_Corporate_One.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Principal Financial Building in Downtown Mason City, IA. Taken from Google Earth. Original picture taken by Justin J. Teeter.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MC_building.jpg/1920px-MC_building.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MC_building.jpg/500px-MC_building.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pjt408 at English Wikipedia, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MC_building.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Principal - 750 Park",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Principal_-_750_Park.jpg/1920px-Principal_-_750_Park.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Principal_-_750_Park.jpg/500px-Principal_-_750_Park.jpg",
+   "size": [
+    1920,
+    1195
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Principal_-_750_Park.jpg",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,42 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Bournemouth , ITW Finishing UK - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bournemouth_%2C_ITW_Finishing_UK_-_geograph.org.uk_-_1747157.jpg/1920px-Bournemouth_%2C_ITW_Finishing_UK_-_geograph.org.uk_-_1747157.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bournemouth_%2C_ITW_Finishing_UK_-_geograph.org.uk_-_1747157.jpg/500px-Bournemouth_%2C_ITW_Finishing_UK_-_geograph.org.uk_-_1747157.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lewis Clarke, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bournemouth_,_ITW_Finishing_UK_-_geograph.org.uk_-_1747157.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ITW Construction Products, Manor Royal - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ITW_Construction_Products%2C_Manor_Royal_-_geograph.org.uk_-_5265503.jpg/1920px-ITW_Construction_Products%2C_Manor_Royal_-_geograph.org.uk_-_5265503.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/ITW_Construction_Products%2C_Manor_Royal_-_geograph.org.uk_-_5265503.jpg/500px-ITW_Construction_Products%2C_Manor_Royal_-_geograph.org.uk_-_5265503.jpg",
+   "size": [
+    1920,
+    1431
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "David Howard, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ITW_Construction_Products,_Manor_Royal_-_geograph.org.uk_-_5265503.jpg",
+   "plain": true
+  }
+ ]
 }

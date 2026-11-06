@@ -7,5 +7,78 @@
  ],
  "sector": "sector-energy",
  "fill_from": "sector-energy",
- "photos": []
+ "photos": [
+  {
+   "shows": "Kinder Morgan Building, Houston - 1001 Louisiana St, Houston, TX",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/KindermorganbuildingHouston.JPG/1920px-KindermorganbuildingHouston.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/KindermorganbuildingHouston.JPG/500px-KindermorganbuildingHouston.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WhisperToMe, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:KindermorganbuildingHouston.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Kinder Morgan Building Houston",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kinder_Morgan_Building_Houston.jpg/1920px-Kinder_Morgan_Building_Houston.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kinder_Morgan_Building_Houston.jpg/500px-Kinder_Morgan_Building_Houston.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kinder_Morgan_Building_Houston.jpg",
+   "plain": true
+  },
+  {
+   "shows": "River Road & LA 18, Westwego, Louisiana, 24 August 2026 - 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/River_Road_%26_LA_18%2C_Westwego%2C_Louisiana%2C_24_August_2026_-_2.jpg/1920px-River_Road_%26_LA_18%2C_Westwego%2C_Louisiana%2C_24_August_2026_-_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/River_Road_%26_LA_18%2C_Westwego%2C_Louisiana%2C_24_August_2026_-_2.jpg/500px-River_Road_%26_LA_18%2C_Westwego%2C_Louisiana%2C_24_August_2026_-_2.jpg",
+   "size": [
+    1920,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Infrogmation, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:River_Road_%26_LA_18,_Westwego,_Louisiana,_24_August_2026_-_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aerial view of Kinder Morgan Brisbane Terminal",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_view_of_Kinder_Morgan_Brisbane_Terminal.jpg/1920px-Aerial_view_of_Kinder_Morgan_Brisbane_Terminal.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Aerial_view_of_Kinder_Morgan_Brisbane_Terminal.jpg/500px-Aerial_view_of_Kinder_Morgan_Brisbane_Terminal.jpg",
+   "size": [
+    1920,
+    605
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Derrick Coetzee ( User:Dcoetzee ), CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kinder_Morgan_Brisbane_Terminal.jpg",
+   "plain": true
+  }
+ ]
 }

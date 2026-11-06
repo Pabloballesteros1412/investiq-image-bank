@@ -7,5 +7,42 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Bloom Energy building sign (Sunnyvale)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bloom_Energy_building_sign_%28Sunnyvale%29.jpg/1920px-Bloom_Energy_building_sign_%28Sunnyvale%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bloom_Energy_building_sign_%28Sunnyvale%29.jpg/500px-Bloom_Energy_building_sign_%28Sunnyvale%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSegue, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bloom_Energy_building_sign_(Sunnyvale).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bloom Energy Servers at eBay",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bloom_Energy_Servers_at_eBay_-_4404772171.jpg/1920px-Bloom_Energy_Servers_at_eBay_-_4404772171.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Bloom_Energy_Servers_at_eBay_-_4404772171.jpg/500px-Bloom_Energy_Servers_at_eBay_-_4404772171.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bloom Energy, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bloom_Energy_Servers_at_eBay_-_4404772171.jpg",
+   "plain": true
+  }
+ ]
 }

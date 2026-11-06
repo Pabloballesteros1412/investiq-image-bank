@@ -7,5 +7,24 @@
  ],
  "sector": "sector-financials",
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "7 World Trade Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/7_World_Trade_Center.jpg/1280px-7_World_Trade_Center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/7_World_Trade_Center.jpg/500px-7_World_Trade_Center.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sweeneyr, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:7_World_Trade_Center.jpg",
+   "plain": true
+  }
+ ]
 }

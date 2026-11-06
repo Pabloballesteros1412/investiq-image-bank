@@ -7,5 +7,42 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "VeriSign headquarters in Mountain View, California.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Verisignheadquarters.jpg/1920px-Verisignheadquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Verisignheadquarters.jpg/500px-Verisignheadquarters.jpg",
+   "size": [
+    1920,
+    1296
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "en:User:Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Verisignheadquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Verisign HQ viewed from the RTC Orange Garage",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Verisign_HQ_viewed_from_the_RTC_Orange_Garage.jpg/1920px-Verisign_HQ_viewed_from_the_RTC_Orange_Garage.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Verisign_HQ_viewed_from_the_RTC_Orange_Garage.jpg/500px-Verisign_HQ_viewed_from_the_RTC_Orange_Garage.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Baron Maddock, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Verisign_HQ_viewed_from_the_RTC_Orange_Garage.jpg",
+   "plain": true
+  }
+ ]
 }

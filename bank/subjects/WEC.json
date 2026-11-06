@@ -7,5 +7,42 @@
  ],
  "sector": "sector-utilities",
  "fill_from": "sector-utilities",
- "photos": []
+ "photos": [
+  {
+   "shows": "Milwaukee July 2023 003 (Public Service Building)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Milwaukee_July_2023_003_%28Public_Service_Building%29.jpg/1920px-Milwaukee_July_2023_003_%28Public_Service_Building%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Milwaukee_July_2023_003_%28Public_Service_Building%29.jpg/500px-Milwaukee_July_2023_003_%28Public_Service_Building%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_July_2023_003_(Public_Service_Building).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Presque Isle Power Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Presque_Isle_Power_Plant.jpg/1920px-Presque_Isle_Power_Plant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Presque_Isle_Power_Plant.jpg/500px-Presque_Isle_Power_Plant.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rklawton, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Presque_Isle_Power_Plant.jpg",
+   "plain": true
+  }
+ ]
 }

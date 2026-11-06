@@ -7,5 +7,60 @@
  ],
  "sector": "sector-consumer-discretionary",
  "fill_from": "sector-consumer-discretionary",
- "photos": []
+ "photos": [
+  {
+   "shows": "Headquarter of Toyota Motor Corporation 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/f/ff/20130918141554%21Headquarter_of_Toyota_Motor_Corporation_3.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/f/ff/20130918141554%21Headquarter_of_Toyota_Motor_Corporation_3.JPG",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tokumeigakarinoaoshima, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Headquarter_of_Toyota_Motor_Corporation_3.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Concesionario Toyota Prana en Villa Devoto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Concesionario_Toyota_Prana_en_Villa_Devoto.jpg/1920px-Concesionario_Toyota_Prana_en_Villa_Devoto.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Concesionario_Toyota_Prana_en_Villa_Devoto.jpg/500px-Concesionario_Toyota_Prana_en_Villa_Devoto.jpg",
+   "size": [
+    1920,
+    1255
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Just a Man, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Concesionario_Toyota_Prana_en_Villa_Devoto.jpg",
+   "plain": true
+  },
+  {
+   "shows": "C1FDF36E-C3C0-4ECE-935B-9D03B6",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg/1920px-C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg/500px-C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alvaro Raul Montaño Pozo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg",
+   "plain": true
+  }
+ ]
 }

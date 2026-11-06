@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "FICO headquarters in San Jose, California. Photographed on June 14, 2020 by user Coolcaesar.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ficoheadquarters.jpg/1920px-Ficoheadquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ficoheadquarters.jpg/500px-Ficoheadquarters.jpg",
+   "size": [
+    1920,
+    1274
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ficoheadquarters.jpg",
+   "plain": true
+  }
+ ]
 }

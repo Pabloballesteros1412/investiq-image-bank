@@ -7,5 +7,78 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Life in the time of Covid",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Life_in_the_time_of_Covid_%2850276256428%29.jpg/1920px-Life_in_the_time_of_Covid_%2850276256428%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Life_in_the_time_of_Covid_%2850276256428%29.jpg/500px-Life_in_the_time_of_Covid_%2850276256428%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Billie Grace Ward from New York, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Life_in_the_time_of_Covid_(50276256428).jpg",
+   "plain": true
+  },
+  {
+   "shows": "FedEx Ship Centre - Address: 56 Steelcase Rd W, Markham, ON L3R 1B2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FedExShipCentreMarkham.jpg/1920px-FedExShipCentreMarkham.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FedExShipCentreMarkham.jpg/500px-FedExShipCentreMarkham.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FedExShipCentreMarkham.jpg",
+   "plain": true
+  },
+  {
+   "shows": "FedEx Beijing Air Freight Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FedEx_Beijing_Air_Freight_Center_%2820260814174738%29.jpg/1920px-FedEx_Beijing_Air_Freight_Center_%2820260814174738%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/FedEx_Beijing_Air_Freight_Center_%2820260814174738%29.jpg/500px-FedEx_Beijing_Air_Freight_Center_%2820260814174738%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FedEx_Beijing_Air_Freight_Center_(20260814174738).jpg",
+   "plain": true
+  },
+  {
+   "shows": "FedEx van illegally parked in bicycle lane on New York Avenue",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/FedEx_van_illegally_parked_in_bicycle_lane_on_New_York_Avenue.jpg/1280px-FedEx_van_illegally_parked_in_bicycle_lane_on_New_York_Avenue.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/FedEx_van_illegally_parked_in_bicycle_lane_on_New_York_Avenue.jpg/500px-FedEx_van_illegally_parked_in_bicycle_lane_on_New_York_Avenue.jpg",
+   "size": [
+    1280,
+    1700
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sdkb, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FedEx_van_illegally_parked_in_bicycle_lane_on_New_York_Avenue.jpg",
+   "plain": true
+  }
+ ]
 }

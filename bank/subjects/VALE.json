@@ -7,5 +7,42 @@
  ],
  "sector": "sector-materials",
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Itabira MG Brasil - Mina de Ferro da Vale - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg/1920px-Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg/500px-Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Josue Marinho, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Itabira MG Brasil - Mineração da Vale - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_da_Vale_-_panoramio.jpg/1920px-Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_da_Vale_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_da_Vale_-_panoramio.jpg/500px-Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_da_Vale_-_panoramio.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Josue Marinho, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_da_Vale_-_panoramio.jpg",
+   "plain": true
+  }
+ ]
 }

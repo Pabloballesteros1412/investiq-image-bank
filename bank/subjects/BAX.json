@@ -7,5 +7,78 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "A Baxter International facility in Marion, North Carolina 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_Baxter_International_facility_in_Marion%2C_North_Carolina_02.jpg/1920px-A_Baxter_International_facility_in_Marion%2C_North_Carolina_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/A_Baxter_International_facility_in_Marion%2C_North_Carolina_02.jpg/500px-A_Baxter_International_facility_in_Marion%2C_North_Carolina_02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Baxter_International_facility_in_Marion,_North_Carolina_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Baxter Wien Donaustadt",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Baxter_Wien_Donaustadt.jpg/1920px-Baxter_Wien_Donaustadt.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Baxter_Wien_Donaustadt.jpg/500px-Baxter_Wien_Donaustadt.jpg",
+   "size": [
+    1920,
+    1259
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gerd Fahrenhorst, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Baxter_Wien_Donaustadt.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Baxter Colleague 3 CXE 1 at Joondalup 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baxter_Colleague_3_CXE_1_at_Joondalup_2020.jpg/1280px-Baxter_Colleague_3_CXE_1_at_Joondalup_2020.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Baxter_Colleague_3_CXE_1_at_Joondalup_2020.jpg/500px-Baxter_Colleague_3_CXE_1_at_Joondalup_2020.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Orderinchaos, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Baxter_Colleague_3_CXE_1_at_Joondalup_2020.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Baxter Colleague CX infusion pump",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Baxter_Colleague_CX_infusion_pump.JPG/1280px-Baxter_Colleague_CX_infusion_pump.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Baxter_Colleague_CX_infusion_pump.JPG/500px-Baxter_Colleague_CX_infusion_pump.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Baxter_Colleague_CX_infusion_pump.JPG",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,78 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Otis Escalator 506 NCE (Daniel Åhs)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Otis_Escalator_506_NCE_%28Daniel_%C3%85hs%29.jpg/1920px-Otis_Escalator_506_NCE_%28Daniel_%C3%85hs%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Otis_Escalator_506_NCE_%28Daniel_%C3%85hs%29.jpg/500px-Otis_Escalator_506_NCE_%28Daniel_%C3%85hs%29.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel Åhs Karlsson, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Otis_Escalator_506_NCE_(Daniel_%C3%85hs).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ford F-150 XL - Double Cab - Otis Elevator Company",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ford_F-150_XL_-_Double_Cab_-_Otis_Elevator_Company.jpg/1920px-Ford_F-150_XL_-_Double_Cab_-_Otis_Elevator_Company.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ford_F-150_XL_-_Double_Cab_-_Otis_Elevator_Company.jpg/500px-Ford_F-150_XL_-_Double_Cab_-_Otis_Elevator_Company.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "FLGALine1999, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ford_F-150_XL_-_Double_Cab_-_Otis_Elevator_Company.jpg",
+   "plain": true
+  },
+  {
+   "shows": "OTIS safety barricade",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/OTIS_safety_barricade.jpg/1280px-OTIS_safety_barricade.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/OTIS_safety_barricade.jpg/500px-OTIS_safety_barricade.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:OTIS_safety_barricade.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Vrchlabi Lanovska auto Otis",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Vrchlabi_Lanovska_auto_Otis.jpg/1920px-Vrchlabi_Lanovska_auto_Otis.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Vrchlabi_Lanovska_auto_Otis.jpg/500px-Vrchlabi_Lanovska_auto_Otis.jpg",
+   "size": [
+    1920,
+    1362
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JiriMatejicek, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vrchlabi_Lanovska_auto_Otis.jpg",
+   "plain": true
+  }
+ ]
 }

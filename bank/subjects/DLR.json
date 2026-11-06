@@ -7,5 +7,42 @@
  ],
  "sector": "sector-real-estate",
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Digital Realty datacenter - Address: 371 Gough Rd, Markham, ON L3R 4B6",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DigitalRealtyDatacenterMarkham1.jpg/1920px-DigitalRealtyDatacenterMarkham1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DigitalRealtyDatacenterMarkham1.jpg/500px-DigitalRealtyDatacenterMarkham1.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DigitalRealtyDatacenterMarkham1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Digital Realty data center - Hillsboro, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Digital_Realty_data_center_-_Hillsboro%2C_Oregon.jpg/1920px-Digital_Realty_data_center_-_Hillsboro%2C_Oregon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Digital_Realty_data_center_-_Hillsboro%2C_Oregon.jpg/500px-Digital_Realty_data_center_-_Hillsboro%2C_Oregon.jpg",
+   "size": [
+    1920,
+    1631
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "M.O. Stevens, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Digital_Realty_data_center_-_Hillsboro,_Oregon.jpg",
+   "plain": true
+  }
+ ]
 }

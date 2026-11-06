@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "ServiceNow office in Petah-Tikva, Israel",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ServiceNow_office_in_Petah-Tikva%2C_Israel.jpg/1920px-ServiceNow_office_in_Petah-Tikva%2C_Israel.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/ServiceNow_office_in_Petah-Tikva%2C_Israel.jpg/500px-ServiceNow_office_in_Petah-Tikva%2C_Israel.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Barakpinch, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ServiceNow_office_in_Petah-Tikva,_Israel.jpg",
+   "plain": true
+  }
+ ]
 }

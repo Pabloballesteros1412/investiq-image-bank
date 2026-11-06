@@ -7,5 +7,60 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "Clorox (Clorox)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cloroxwipe.jpg/1280px-Cloroxwipe.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cloroxwipe.jpg/500px-Cloroxwipe.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sophxiao, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cloroxwipe.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Photography/Travel Blog ~ Flickr ~ Twitter",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Clorox.jpg/1920px-Clorox.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Clorox.jpg/500px-Clorox.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Vox Efx from Baltimore, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Clorox.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Clorox Hand Sanitizer Gel",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Clorox_Hand_Sanitizer_Gel.jpg/1280px-Clorox_Hand_Sanitizer_Gel.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Clorox_Hand_Sanitizer_Gel.jpg/500px-Clorox_Hand_Sanitizer_Gel.jpg",
+   "size": [
+    1280,
+    1903
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Clorox_Hand_Sanitizer_Gel.jpg",
+   "plain": true
+  }
+ ]
 }

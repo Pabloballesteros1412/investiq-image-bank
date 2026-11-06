@@ -7,5 +7,42 @@
  ],
  "sector": "sector-staples",
  "fill_from": "sector-staples",
- "photos": []
+ "photos": [
+  {
+   "shows": "Diageo Global headquarters (HQ)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Diageo_Global_headquarters_%28HQ%29.jpg/1920px-Diageo_Global_headquarters_%28HQ%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Diageo_Global_headquarters_%28HQ%29.jpg/500px-Diageo_Global_headquarters_%28HQ%29.jpg",
+   "size": [
+    1920,
+    1283
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mkorukmez, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Diageo_Global_headquarters_(HQ).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Diageo global Crown Royal supply plant, Gimli, Manitoba, Canada",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CR_Gimli.jpg/1920px-CR_Gimli.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CR_Gimli.jpg/500px-CR_Gimli.jpg",
+   "size": [
+    1920,
+    1368
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Christopher F. Orr, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CR_Gimli.jpg",
+   "plain": true
+  }
+ ]
 }

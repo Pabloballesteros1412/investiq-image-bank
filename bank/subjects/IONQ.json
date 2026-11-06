@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "IonQ headquarters College Park MD",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/IonQ_headquarters_College_Park_MD.jpg/1920px-IonQ_headquarters_College_Park_MD.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/IonQ_headquarters_College_Park_MD.jpg/500px-IonQ_headquarters_College_Park_MD.jpg",
+   "size": [
+    1920,
+    1099
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Blacktupelo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IonQ_headquarters_College_Park_MD.jpg",
+   "plain": true
+  }
+ ]
 }

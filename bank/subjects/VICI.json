@@ -7,5 +7,24 @@
  ],
  "sector": "sector-real-estate",
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Caesars Palace Las Vegas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Caesars_Palace_Las_Vegas.jpg/1920px-Caesars_Palace_Las_Vegas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Caesars_Palace_Las_Vegas.jpg/500px-Caesars_Palace_Las_Vegas.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jeremy Thompson, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Caesars_Palace_Las_Vegas.jpg",
+   "plain": true
+  }
+ ]
 }

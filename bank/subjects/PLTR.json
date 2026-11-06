@@ -7,5 +7,43 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Palantir office in Palo Alto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palantir_1_2018-09-06.jpg/1280px-Palantir_1_2018-09-06.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Palantir_1_2018-09-06.jpg/500px-Palantir_1_2018-09-06.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "F ASTILY, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Palantir_1_2018-09-06.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Peter Thiel by Gage Skidmore",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Peter_Thiel_by_Gage_Skidmore.jpg/1280px-Peter_Thiel_by_Gage_Skidmore.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Peter_Thiel_by_Gage_Skidmore.jpg/500px-Peter_Thiel_by_Gage_Skidmore.jpg",
+   "size": [
+    1280,
+    1685
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Peter_Thiel_by_Gage_Skidmore.jpg",
+   "plain": true
+  }
+ ]
 }

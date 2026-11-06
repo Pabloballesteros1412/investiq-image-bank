@@ -7,5 +7,42 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Red Hat Summit 2018 5910",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Red_Hat_Summit_2018_IMG_5910_%2829546814838%29.jpg/1920px-Red_Hat_Summit_2018_IMG_5910_%2829546814838%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Red_Hat_Summit_2018_IMG_5910_%2829546814838%29.jpg/500px-Red_Hat_Summit_2018_IMG_5910_%2829546814838%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "titanium22 from TOKYO, Japan, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Hat_Summit_2018_IMG_5910_(29546814838).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Signage - Cisco San Jose Main Campus",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Signage_-_Cisco_San_Jose_Main_Campus.jpg/1920px-Signage_-_Cisco_San_Jose_Main_Campus.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Signage_-_Cisco_San_Jose_Main_Campus.jpg/500px-Signage_-_Cisco_San_Jose_Main_Campus.jpg",
+   "size": [
+    1920,
+    1371
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Prayitno, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Signage_-_Cisco_San_Jose_Main_Campus.jpg",
+   "plain": true
+  }
+ ]
 }

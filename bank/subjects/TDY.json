@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "One of the new MOONS detectors",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_of_the_new_MOONS_detectors.jpg/1920px-One_of_the_new_MOONS_detectors.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_of_the_new_MOONS_detectors.jpg/500px-One_of_the_new_MOONS_detectors.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ESO/M. Zamani, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:One_of_the_new_MOONS_detectors.jpg",
+   "plain": true
+  }
+ ]
 }

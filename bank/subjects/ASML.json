@@ -7,5 +7,60 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "ASML headquarters Veldhoven",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ASML_headquarters_Veldhoven.jpg/1920px-ASML_headquarters_Veldhoven.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/ASML_headquarters_Veldhoven.jpg/500px-ASML_headquarters_Veldhoven.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "A ansems, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ASML_headquarters_Veldhoven.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ASML 8 Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ASML_8_Tower.jpg/1280px-ASML_8_Tower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ASML_8_Tower.jpg/500px-ASML_8_Tower.jpg",
+   "size": [
+    1280,
+    1923
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Johfrael, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ASML_8_Tower.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ASML Gebouw3-001b",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/124901_ASML_Gebouw3-001b_%281%29.jpg/1920px-124901_ASML_Gebouw3-001b_%281%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/124901_ASML_Gebouw3-001b_%281%29.jpg/500px-124901_ASML_Gebouw3-001b_%281%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ReynaersAlu1, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:124901_ASML_Gebouw3-001b_(1).jpg",
+   "plain": true
+  }
+ ]
 }

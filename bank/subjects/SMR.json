@@ -7,5 +7,24 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "NuScale-Upper-One-Third-Mockup",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NuScale-Upper-One-Third-Mockup.jpg/1280px-NuScale-Upper-One-Third-Mockup.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/NuScale-Upper-One-Third-Mockup.jpg/500px-NuScale-Upper-One-Third-Mockup.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oregon State University, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NuScale-Upper-One-Third-Mockup.jpg",
+   "plain": true
+  }
+ ]
 }

@@ -7,5 +7,42 @@
  ],
  "sector": "sector-materials",
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "The headquarters of Avery Dennison in Glendale, California as photographed by user Coolcaesar on May 29, 2014.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Averydennisonheadquarters.jpg/1920px-Averydennisonheadquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Averydennisonheadquarters.jpg/500px-Averydennisonheadquarters.jpg",
+   "size": [
+    1920,
+    1455
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Averydennisonheadquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Avery Utrecht",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Avery_Utrecht_20121002_172612.jpg/1920px-Avery_Utrecht_20121002_172612.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Avery_Utrecht_20121002_172612.jpg/500px-Avery_Utrecht_20121002_172612.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Edoderoo, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Avery_Utrecht_20121002_172612.jpg",
+   "plain": true
+  }
+ ]
 }

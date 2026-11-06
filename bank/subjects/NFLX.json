@@ -7,5 +7,79 @@
  ],
  "sector": "sector-communication",
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "101 Albright Way",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/101_Albright_Way.jpg/1920px-101_Albright_Way.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/101_Albright_Way.jpg/500px-101_Albright_Way.jpg",
+   "size": [
+    1920,
+    1218
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:101_Albright_Way.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix button remote",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Netflix_button_remote_%2840062279010%29.jpg/1920px-Netflix_button_remote_%2840062279010%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Netflix_button_remote_%2840062279010%29.jpg/500px-Netflix_button_remote_%2840062279010%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Flickr Stock Catalog, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Netflix_button_remote_(40062279010).jpg",
+   "plain": true
+  },
+  {
+   "shows": "SXSW 2016 - Ted Sarandos",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SXSW_2016_-_Ted_Sarandos_%2825752599662%29.jpg/1280px-SXSW_2016_-_Ted_Sarandos_%2825752599662%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SXSW_2016_-_Ted_Sarandos_%2825752599662%29.jpg/500px-SXSW_2016_-_Ted_Sarandos_%2825752599662%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Daniel Benavides from Austin, TX, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SXSW_2016_-_Ted_Sarandos_(25752599662).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Netflix_headquarters.jpg/1920px-Netflix_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Netflix_headquarters.jpg/500px-Netflix_headquarters.jpg",
+   "size": [
+    1920,
+    1442
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Netflix_headquarters.jpg",
+   "plain": true
+  }
+ ]
 }

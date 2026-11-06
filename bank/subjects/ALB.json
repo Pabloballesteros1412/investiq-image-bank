@@ -7,5 +7,24 @@
  ],
  "sector": "sector-materials",
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Albemarle Corporation Lithium Operation at Silver Peak",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Albemarle_Corporation_Lithium_Operation_at_Silver_Peak_%2849810666528%29.jpg/1920px-Albemarle_Corporation_Lithium_Operation_at_Silver_Peak_%2849810666528%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Albemarle_Corporation_Lithium_Operation_at_Silver_Peak_%2849810666528%29.jpg/500px-Albemarle_Corporation_Lithium_Operation_at_Silver_Peak_%2849810666528%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "formulanone, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Albemarle_Corporation_Lithium_Operation_at_Silver_Peak_(49810666528).jpg",
+   "plain": true
+  }
+ ]
 }

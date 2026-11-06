@@ -7,5 +7,96 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Cintas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CintasVehicle3.jpg/1920px-CintasVehicle3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/CintasVehicle3.jpg/500px-CintasVehicle3.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CintasVehicle3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Greenwich St Barclay St td ( ) 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenwich_St_Barclay_St_td_%282019-03-27%29_02.jpg/1920px-Greenwich_St_Barclay_St_td_%282019-03-27%29_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Greenwich_St_Barclay_St_td_%282019-03-27%29_02.jpg/500px-Greenwich_St_Barclay_St_td_%282019-03-27%29_02.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Greenwich_St_Barclay_St_td_(2019-03-27)_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cintas Delivery Truck Ann Arbor Michigan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cintas_Delivery_Truck_Ann_Arbor_Michigan.JPG/1920px-Cintas_Delivery_Truck_Ann_Arbor_Michigan.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cintas_Delivery_Truck_Ann_Arbor_Michigan.JPG/500px-Cintas_Delivery_Truck_Ann_Arbor_Michigan.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dwight Burdette, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cintas_Delivery_Truck_Ann_Arbor_Michigan.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Cintas, the uniform people",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cintas%2C_the_uniform_people_%284852949229%29.jpg/1920px-Cintas%2C_the_uniform_people_%284852949229%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cintas%2C_the_uniform_people_%284852949229%29.jpg/500px-Cintas%2C_the_uniform_people_%284852949229%29.jpg",
+   "size": [
+    1920,
+    1285
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bradley Gordon from Lakewood, Colorado, U.S.A., CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cintas,_the_uniform_people_(4852949229).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mobile Shredding Unit - Ready in Scottsdale",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mobile_Shredding_Unit_-_Ready_in_Scottsdale_%285151388272%29.jpg/1280px-Mobile_Shredding_Unit_-_Ready_in_Scottsdale_%285151388272%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mobile_Shredding_Unit_-_Ready_in_Scottsdale_%285151388272%29.jpg/500px-Mobile_Shredding_Unit_-_Ready_in_Scottsdale_%285151388272%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dru Bloomfield from Scottsdale, Arizona, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mobile_Shredding_Unit_-_Ready_in_Scottsdale_(5151388272).jpg",
+   "plain": true
+  }
+ ]
 }

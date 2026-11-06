@@ -7,5 +7,96 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Autodesk headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Autodesk_headquarters.jpg/1920px-Autodesk_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Autodesk_headquarters.jpg/500px-Autodesk_headquarters.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Autodesk_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Autodesk corporate office, Novi, Michigan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Autodesk_corporate_office%2C_Novi%2C_Michigan.jpg/1920px-Autodesk_corporate_office%2C_Novi%2C_Michigan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Autodesk_corporate_office%2C_Novi%2C_Michigan.jpg/500px-Autodesk_corporate_office%2C_Novi%2C_Michigan.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DontCallMeLateForDinner, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Autodesk_corporate_office,_Novi,_Michigan.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Autodesk Canada, 210 King St. East, Toronto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/AutodeskToronto.JPG/1280px-AutodeskToronto.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/AutodeskToronto.JPG/500px-AutodeskToronto.JPG",
+   "size": [
+    1280,
+    1933
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AutodeskToronto.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Robots at Autodesk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Robots_at_Autodesk.jpg/1280px-Robots_at_Autodesk.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Robots_at_Autodesk.jpg/500px-Robots_at_Autodesk.jpg",
+   "size": [
+    1280,
+    1547
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Robots_at_Autodesk.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Autodesk Technology Centre Toronto (day)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Autodesk_Technology_Centre_Toronto_%28day%29.jpg/1280px-Autodesk_Technology_Centre_Toronto_%28day%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Autodesk_Technology_Centre_Toronto_%28day%29.jpg/500px-Autodesk_Technology_Centre_Toronto_%28day%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Autodesk_Technology_Centre_Toronto_(day).jpg",
+   "plain": true
+  }
+ ]
 }

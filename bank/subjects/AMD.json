@@ -6,7 +6,6 @@
   "AMD"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "AMD Ryzen 7 1800X",
@@ -42,6 +41,150 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:SXSW-2024-alih-OB7A0861-Lisa_Su.jpg"
+  },
+  {
+   "shows": "A close up of a computer mother board",
+   "url": "https://images.unsplash.com/photo-1589749807521-dd6bc0d4f75d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QU1EJTIwUnl6ZW58ZW58MXx8fHwxNzkzOTYwMDI1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1589749807521-dd6bc0d4f75d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QU1EJTIwUnl6ZW58ZW58MXx8fHwxNzkzOTYwMDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zii Miller on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@anarchist?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-computer-mother-board-kz2Z3maVaLo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black and green lenovo logo",
+   "url": "https://images.unsplash.com/photo-1606963060045-1e3eaa0e6eac?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QU1EfGVufDF8fHx8MTc5Mzk2MDAyN3ww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1606963060045-1e3eaa0e6eac?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QU1EfGVufDF8fHx8MTc5Mzk2MDAyN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Timothy Dykes on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@timothycdykes?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-and-green-lenovo-logo-nWgpCe-LQa4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A blue radeon graphics card sits among green leaves",
+   "url": "https://images.unsplash.com/photo-1780962178528-04bfe3b366d4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1780962178528-04bfe3b366d4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by James Tilden on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@james_tilden?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-blue-radeon-graphics-card-sits-among-green-leaves-l6PLfGcAzZc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "2485 Augustine Drive headquarters in Santa Clara, California",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/1920px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/500px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
+   "size": [
+    1920,
+    1420
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2485_Augustine_Drive_headquarters_in_Santa_Clara,_California.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD Epyc 9754 in Dual-CPU-Socket-Serversystem (极客湾Geekerwan) 10",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AMD_Epyc_9754_in_Dual-CPU-Socket-Serversystem_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_10.png/1920px-AMD_Epyc_9754_in_Dual-CPU-Socket-Serversystem_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_10.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/AMD_Epyc_9754_in_Dual-CPU-Socket-Serversystem_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_10.png/500px-AMD_Epyc_9754_in_Dual-CPU-Socket-Serversystem_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_10.png",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "极客湾Geekerwan, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_Epyc_9754_in_Dual-CPU-Socket-Serversystem_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_10.png",
+   "plain": true
+  },
+  {
+   "shows": "Больше не майнинговые Играем на AMD BC-160 и Instinct Mi50 (Мой Компьютер) 50",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_%D0%BD%D0%B5_%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%98%D0%B3%D1%80%D0%B0%D0%B5%D0%BC_%D0%BD%D0%B0_AMD_BC-160_%D0%B8_Instinct_Mi50_%28%D0%9C%D0%BE%D0%B9_%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%29_50.png/1920px-%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_%D0%BD%D0%B5_%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%98%D0%B3%D1%80%D0%B0%D0%B5%D0%BC_%D0%BD%D0%B0_AMD_BC-160_%D0%B8_Instinct_Mi50_%28%D0%9C%D0%BE%D0%B9_%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%29_50.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_%D0%BD%D0%B5_%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%98%D0%B3%D1%80%D0%B0%D0%B5%D0%BC_%D0%BD%D0%B0_AMD_BC-160_%D0%B8_Instinct_Mi50_%28%D0%9C%D0%BE%D0%B9_%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%29_50.png/500px-%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_%D0%BD%D0%B5_%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%98%D0%B3%D1%80%D0%B0%D0%B5%D0%BC_%D0%BD%D0%B0_AMD_BC-160_%D0%B8_Instinct_Mi50_%28%D0%9C%D0%BE%D0%B9_%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%29_50.png",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Мой Компьютер, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_%D0%BD%D0%B5_%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%98%D0%B3%D1%80%D0%B0%D0%B5%D0%BC_%D0%BD%D0%B0_AMD_BC-160_%D0%B8_Instinct_Mi50_(%D0%9C%D0%BE%D0%B9_%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)_50.png",
+   "plain": true
+  },
+  {
+   "shows": "XFX AMD Radeon RX 570 RS 8GB XXX Edition 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/XFX_AMD_Radeon_RX_570_RS_8GB_XXX_Edition_2.jpg/1920px-XFX_AMD_Radeon_RX_570_RS_8GB_XXX_Edition_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/XFX_AMD_Radeon_RX_570_RS_8GB_XXX_Edition_2.jpg/500px-XFX_AMD_Radeon_RX_570_RS_8GB_XXX_Edition_2.jpg",
+   "size": [
+    1920,
+    1532
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chaddy, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:XFX_AMD_Radeon_RX_570_RS_8GB_XXX_Edition_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD exhibition stand at Gamescom 2022 in Cologne, Germany",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AMD_exhibition_stand_at_Gamescom_2022_in_Cologne%2C_Germany_%2852760298273%29.jpg/1920px-AMD_exhibition_stand_at_Gamescom_2022_in_Cologne%2C_Germany_%2852760298273%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/AMD_exhibition_stand_at_Gamescom_2022_in_Cologne%2C_Germany_%2852760298273%29.jpg/500px-AMD_exhibition_stand_at_Gamescom_2022_in_Cologne%2C_Germany_%2852760298273%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "dronepicr, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_exhibition_stand_at_Gamescom_2022_in_Cologne,_Germany_(52760298273).jpg",
+   "plain": true
   }
  ]
 }

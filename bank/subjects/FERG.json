@@ -7,5 +7,24 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Ferguson Enterprises New Corporate Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ferguson_Enterprises_New_Corporate_Headquarters.jpg/1920px-Ferguson_Enterprises_New_Corporate_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ferguson_Enterprises_New_Corporate_Headquarters.jpg/500px-Ferguson_Enterprises_New_Corporate_Headquarters.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aaron F. Stone, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferguson_Enterprises_New_Corporate_Headquarters.jpg",
+   "plain": true
+  }
+ ]
 }

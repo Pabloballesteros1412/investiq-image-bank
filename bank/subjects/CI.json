@@ -7,5 +7,42 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Connecticut General Life Insurance Company Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Connecticut_General_Life_Insurance_Company_Headquarters.JPG/1920px-Connecticut_General_Life_Insurance_Company_Headquarters.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Connecticut_General_Life_Insurance_Company_Headquarters.JPG/500px-Connecticut_General_Life_Insurance_Company_Headquarters.JPG",
+   "size": [
+    1920,
+    955
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sphilbrick, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Connecticut_General_Life_Insurance_Company_Headquarters.JPG",
+   "plain": true
+  },
+  {
+   "shows": "The Cigna Group Headquarters – Bloomfield, Connecticut",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Cigna_Group_Headquarters_%E2%80%93_Bloomfield%2C_Connecticut_%2855622201133%29.jpg/1920px-The_Cigna_Group_Headquarters_%E2%80%93_Bloomfield%2C_Connecticut_%2855622201133%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/The_Cigna_Group_Headquarters_%E2%80%93_Bloomfield%2C_Connecticut_%2855622201133%29.jpg/500px-The_Cigna_Group_Headquarters_%E2%80%93_Bloomfield%2C_Connecticut_%2855622201133%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Cigna_Group_Headquarters_%E2%80%93_Bloomfield,_Connecticut_(55622201133).jpg",
+   "plain": true
+  }
+ ]
 }

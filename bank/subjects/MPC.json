@@ -7,5 +7,60 @@
  ],
  "sector": "sector-energy",
  "fill_from": "sector-energy",
- "photos": []
+ "photos": [
+  {
+   "shows": "Marathon Petroleum from Main Street",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marathon_Petroleum_from_Main_Street.jpg/1920px-Marathon_Petroleum_from_Main_Street.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marathon_Petroleum_from_Main_Street.jpg/500px-Marathon_Petroleum_from_Main_Street.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mbrickn, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_from_Main_Street.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Marathon Petroleum Headquarters, Findlay, Ohio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marathon_Petroleum_Headquarters%2C_Findlay%2C_Ohio.jpg/1920px-Marathon_Petroleum_Headquarters%2C_Findlay%2C_Ohio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marathon_Petroleum_Headquarters%2C_Findlay%2C_Ohio.jpg/500px-Marathon_Petroleum_Headquarters%2C_Findlay%2C_Ohio.jpg",
+   "size": [
+    1920,
+    1283
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJonahJackalope, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_Headquarters,_Findlay,_Ohio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Marathon Petroleum Company Detroit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Marathon_Petroleum_Company_Detroit.jpg/1920px-Marathon_Petroleum_Company_Detroit.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Marathon_Petroleum_Company_Detroit.jpg/500px-Marathon_Petroleum_Company_Detroit.jpg",
+   "size": [
+    1920,
+    1317
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Notorious4life ( talk ), public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_Company_Detroit.jpg",
+   "plain": true
+  }
+ ]
 }

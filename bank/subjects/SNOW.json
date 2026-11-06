@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Snowflake (Snowflake Inc.)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SnowflakeBooth.jpg/1920px-SnowflakeBooth.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SnowflakeBooth.jpg/500px-SnowflakeBooth.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SnowflakeBooth.jpg",
+   "plain": true
+  }
+ ]
 }

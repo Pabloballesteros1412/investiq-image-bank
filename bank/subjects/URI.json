@@ -7,5 +7,60 @@
  ],
  "sector": "sector-industrials",
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "United Rentals Light Generator",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/United_Rentals_Light_Generator.jpg/1920px-United_Rentals_Light_Generator.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/United_Rentals_Light_Generator.jpg/500px-United_Rentals_Light_Generator.jpg",
+   "size": [
+    1920,
+    2093
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:United_Rentals_Light_Generator.jpg",
+   "plain": true
+  },
+  {
+   "shows": "FEMA - - Loading plywood on boats in Alaska",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/FEMA_-_41712_-_Loading_plywood_on_boats_in_Alaska.jpg/1920px-FEMA_-_41712_-_Loading_plywood_on_boats_in_Alaska.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/FEMA_-_41712_-_Loading_plywood_on_boats_in_Alaska.jpg/500px-FEMA_-_41712_-_Loading_plywood_on_boats_in_Alaska.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ben Brennan, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FEMA_-_41712_-_Loading_plywood_on_boats_in_Alaska.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Blackjack engineers tackle “Work Week”",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blackjack_engineers_tackle_%E2%80%9CWork_Week%E2%80%9D_%283156420%29.jpeg/1280px-Blackjack_engineers_tackle_%E2%80%9CWork_Week%E2%80%9D_%283156420%29.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Blackjack_engineers_tackle_%E2%80%9CWork_Week%E2%80%9D_%283156420%29.jpeg/500px-Blackjack_engineers_tackle_%E2%80%9CWork_Week%E2%80%9D_%283156420%29.jpeg",
+   "size": [
+    1280,
+    1792
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Space Force image by [null Courtesy], public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackjack_engineers_tackle_%E2%80%9CWork_Week%E2%80%9D_(3156420).jpeg",
+   "plain": true
+  }
+ ]
 }

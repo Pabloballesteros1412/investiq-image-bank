@@ -7,5 +7,60 @@
  ],
  "sector": "sector-utilities",
  "fill_from": "sector-utilities",
- "photos": []
+ "photos": [
+  {
+   "shows": "2009-0725-CA-Fresno-SJLightPowerCorp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2009-0725-CA-Fresno-SJLightPowerCorp.jpg/1920px-2009-0725-CA-Fresno-SJLightPowerCorp.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2009-0725-CA-Fresno-SJLightPowerCorp.jpg/500px-2009-0725-CA-Fresno-SJLightPowerCorp.jpg",
+   "size": [
+    1920,
+    1952
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2009-0725-CA-Fresno-SJLightPowerCorp.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PG&E Embarcadero Substation - September 2025 - Sarah Stierch 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_01.jpg/1920px-PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_01.jpg/500px-PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Missvain, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PG&E Substation J (San Francisco)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/PG%26E_Substation_J_%28San_Francisco%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/PG%26E_Substation_J_%28San_Francisco%29.jpg/500px-PG%26E_Substation_J_%28San_Francisco%29.jpg",
+   "size": [
+    1752,
+    1436
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sanfranman59, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PG%26E_Substation_J_(San_Francisco).jpg",
+   "plain": true
+  }
+ ]
 }

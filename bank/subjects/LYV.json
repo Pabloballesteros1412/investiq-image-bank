@@ -7,5 +7,24 @@
  ],
  "sector": "sector-communication",
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "9348 Civic Center Drive",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/9348_Civic_Center_Drive.jpg/1920px-9348_Civic_Center_Drive.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/9348_Civic_Center_Drive.jpg/500px-9348_Civic_Center_Drive.jpg",
+   "size": [
+    1920,
+    1374
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:9348_Civic_Center_Drive.jpg",
+   "plain": true
+  }
+ ]
 }

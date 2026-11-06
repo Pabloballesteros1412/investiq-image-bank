@@ -7,5 +7,96 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Zebra Technologies",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zebra_TC-56_%28IMG_0339%29.jpg/1280px-Zebra_TC-56_%28IMG_0339%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Zebra_TC-56_%28IMG_0339%29.jpg/500px-Zebra_TC-56_%28IMG_0339%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Zebra_TC-56_(IMG_0339).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Brand-3op-wikipedia-image",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brand-3op-wikipedia-image.jpg/1920px-Brand-3op-wikipedia-image.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Brand-3op-wikipedia-image.jpg/500px-Brand-3op-wikipedia-image.jpg",
+   "size": [
+    1920,
+    1438
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HaleyZebra, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brand-3op-wikipedia-image.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Impresora Zebra ZQ620 Plus",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Impresora_Zebra_ZQ620_Plus.jpg/1920px-Impresora_Zebra_ZQ620_Plus.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Impresora_Zebra_ZQ620_Plus.jpg/500px-Impresora_Zebra_ZQ620_Plus.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mizael Contreras, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Impresora_Zebra_ZQ620_Plus.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Zebra Technologies Heerenveen-1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zebra_Technologies_Heerenveen-1.jpg/1920px-Zebra_Technologies_Heerenveen-1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zebra_Technologies_Heerenveen-1.jpg/500px-Zebra_Technologies_Heerenveen-1.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lars Curfs ( Grashoofd ), CC BY-SA 3.0 nl, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0 nl",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Zebra_Technologies_Heerenveen-1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "3OP Zebra Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/3OP_Zebra_Headquarters.jpg/1920px-3OP_Zebra_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/3OP_Zebra_Headquarters.jpg/500px-3OP_Zebra_Headquarters.jpg",
+   "size": [
+    1920,
+    800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HaleyZebra, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:3OP_Zebra_Headquarters.jpg",
+   "plain": true
+  }
+ ]
 }

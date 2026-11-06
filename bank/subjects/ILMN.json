@@ -7,5 +7,96 @@
  ],
  "sector": "sector-health",
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Illumina Hiseq 2000 sequencers, BGI Hong Kong sequencing room",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Illumina_Hiseq_2000_sequencers%2C_BGI_Hong_Kong_sequencing_room.JPG/1920px-Illumina_Hiseq_2000_sequencers%2C_BGI_Hong_Kong_sequencing_room.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Illumina_Hiseq_2000_sequencers%2C_BGI_Hong_Kong_sequencing_room.JPG/500px-Illumina_Hiseq_2000_sequencers%2C_BGI_Hong_Kong_sequencing_room.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Scotted400, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Illumina_Hiseq_2000_sequencers,_BGI_Hong_Kong_sequencing_room.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Illumina MiSeq sequencer 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Illumina_MiSeq_sequencer_2.jpg/1920px-Illumina_MiSeq_sequencer_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Illumina_MiSeq_sequencer_2.jpg/500px-Illumina_MiSeq_sequencer_2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Konrad Förstner, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Illumina_MiSeq_sequencer_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Illumina iSeq 100 flow cell top",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Illumina_iSeq_100_flow_cell_top.jpg/1280px-Illumina_iSeq_100_flow_cell_top.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Illumina_iSeq_100_flow_cell_top.jpg/500px-Illumina_iSeq_100_flow_cell_top.jpg",
+   "size": [
+    1280,
+    1701
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cirosantilli2, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Illumina_iSeq_100_flow_cell_top.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Illumina Genome Analyzer II System",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Illumina_Genome_Analyzer_II_System.jpg/1920px-Illumina_Genome_Analyzer_II_System.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Illumina_Genome_Analyzer_II_System.jpg/500px-Illumina_Genome_Analyzer_II_System.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jon Callas from San Jose, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Illumina_Genome_Analyzer_II_System.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Illumina HiSeq 2500",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Illumina_HiSeq_2500.jpg/1920px-Illumina_HiSeq_2500.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Illumina_HiSeq_2500.jpg/500px-Illumina_HiSeq_2500.jpg",
+   "size": [
+    1920,
+    1495
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Konrad Förstner, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Illumina_HiSeq_2500.jpg",
+   "plain": true
+  }
+ ]
 }
