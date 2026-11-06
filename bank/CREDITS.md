@@ -1269,11 +1269,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Earnings season (earnings)
 
+- Smartphone calculator app on financial report papers: Photo by Jakub Żerdzicki on Unsplash. [4rTXOMv28VA](https://unsplash.com/photos/smartphone-calculator-app-on-financial-report-papers-4rTXOMv28VA?utm_source=investiq_image_bank&utm_medium=referral)
 - A business section of a newspaper with stock market charts and financial data: Photo by Annie Spratt on Unsplash. [IT6aov1ScW0](https://unsplash.com/photos/newspaper-business-section-with-financial-data-IT6aov1ScW0?utm_source=investiq_image_bank&utm_medium=referral)
+- A stack of newspapers sitting on top of a wooden table: Photo by Annie Spratt on Unsplash. [hWJsOnaWTqs](https://unsplash.com/photos/a-stack-of-newspapers-sitting-on-top-of-a-wooden-table-hWJsOnaWTqs?utm_source=investiq_image_bank&utm_medium=referral)
+- A digital stock market ticker display showing SPY data with a green trend line: Photo by Tyler Prahm on Unsplash. [lmV3gJSAgbo](https://unsplash.com/photos/stock-market-ticker-with-green-trend-lmV3gJSAgbo?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
+- A black and white photo of the new york stock exchange: Photo by Martin Rajdl on Unsplash. [4YFhbgm1keU](https://unsplash.com/photos/a-black-and-white-photo-of-the-new-york-stock-exchange-4YFhbgm1keU?utm_source=investiq_image_bank&utm_medium=referral)
 - New York Stock Exchange (NYSE) - Slack IPO: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [New York Stock Exchange (NYSE) - Slack IPO (48126622722).jpg](https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_(NYSE)_-_Slack_IPO_(48126622722).jpg)
+- Grayscale photo of statue of man: Photo by Daniel Lloyd Blunk-Fernández on Unsplash. [vrSKrUEZsDY](https://unsplash.com/photos/grayscale-photo-of-statue-of-man-vrSKrUEZsDY?utm_source=investiq_image_bank&utm_medium=referral)
 - Nyse-twin-lights: Mjkyang, CC BY-SA 4.0, via Wikimedia Commons. [Nyse-twin-lights.jpg](https://commons.wikimedia.org/wiki/File:Nyse-twin-lights.jpg)
 - Wall street sign with american flags in the background: Photo by Cyril @cyrilczl on Unsplash. [Ykq8v2b8lyw](https://unsplash.com/photos/wall-street-sign-with-american-flags-in-the-background-Ykq8v2b8lyw?utm_source=investiq_image_bank&utm_medium=referral)
 
@@ -1281,6 +1286,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Electric vehicle charging cable plugged into car: Photo by CHUTTERSNAP on Unsplash. [xJLsHl0hIik](https://unsplash.com/photos/electric-vehicle-charging-cable-plugged-into-car-xJLsHl0hIik?utm_source=investiq_image_bank&utm_medium=referral)
 - A white sports car in a showroom: Photo by Hyundai Motor Group on Unsplash. [a3vDd8hzuYs](https://unsplash.com/photos/a-white-sports-car-in-a-showroom-a3vDd8hzuYs?utm_source=investiq_image_bank&utm_medium=referral)
+- Electric vehicle charger plugged into car: Photo by CHUTTERSNAP on Unsplash. [xfaYAsMV1p8](https://unsplash.com/photos/electric-vehicle-charger-plugged-into-car-xfaYAsMV1p8?utm_source=investiq_image_bank&utm_medium=referral)
 - BYD Seal IAA 2023 1X7A0371: Alexander-93, CC BY-SA 4.0, via Wikimedia Commons. [BYD Seal IAA 2023 1X7A0371.jpg](https://commons.wikimedia.org/wiki/File:BYD_Seal_IAA_2023_1X7A0371.jpg)
 - A black car parked in a wooded area: Photo by Wes Hicks on Unsplash. [5IaRz8fQBtI](https://unsplash.com/photos/a-black-car-parked-in-a-wooded-area-5IaRz8fQBtI?utm_source=investiq_image_bank&utm_medium=referral)
 
@@ -1306,13 +1312,20 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Consumer spending & retail (consumer)
 
 - Photo of woman holding white and black paper bags: Photo by freestocks on Unsplash. [_3Q3tsJ01nc](https://unsplash.com/photos/photo-of-woman-holding-white-and-black-paper-bags-_3Q3tsJ01nc?utm_source=investiq_image_bank&utm_medium=referral)
+- A grocery store aisle filled with lots of food: Photo by Jack Lee on Unsplash. [IH65r4HEQWQ](https://unsplash.com/photos/a-grocery-store-aisle-filled-with-lots-of-food-IH65r4HEQWQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Shopping online with bank card: Bogdan Hoyaux / European Commission, CC BY 4.0, via Wikimedia Commons. [Shopping online with bank card.jpg](https://commons.wikimedia.org/wiki/File:Shopping_online_with_bank_card.jpg)
+- A person inserting a credit card into a payment terminal held by another person: Photo by Clay Banks on Unsplash. [tgquMvhNLc4](https://unsplash.com/photos/person-paying-with-credit-card-tgquMvhNLc4?utm_source=investiq_image_bank&utm_medium=referral)
 - State of the art building interior with lit Christmas tree: Photo by Ron Dauphin on Unsplash. [PP6I-8d0jg0](https://unsplash.com/photos/state-of-the-art-building-interior-with-lit-christmas-tree-PP6I-8d0jg0?utm_source=investiq_image_bank&utm_medium=referral)
+- A person pushing a shopping cart full of food: Photo by Karsten Winegeart on Unsplash. [CZtK_E89omo](https://unsplash.com/photos/a-person-pushing-a-shopping-cart-full-of-food-CZtK_E89omo?utm_source=investiq_image_bank&utm_medium=referral)
 - A delivery driver on a red scooter riding through a city at night: Photo by Rowan Freeman on Unsplash. [clYlmCaQbzY](https://unsplash.com/photos/delivery-driver-on-red-scooter-clYlmCaQbzY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Banks & the financial system (banks)
 
+- A bunch of metal boxes stacked on top of each other: Photo by Jason Pofahl on Unsplash. [6AQY7pO1lS0](https://unsplash.com/photos/a-bunch-of-metal-boxes-stacked-on-top-of-each-other-6AQY7pO1lS0?utm_source=investiq_image_bank&utm_medium=referral)
+- A black business credit card with a chip on a white background: Photo by Markus Winkler on Unsplash. [ahjzVINkuCs](https://unsplash.com/photos/black-business-credit-card-ahjzVINkuCs?utm_source=investiq_image_bank&utm_medium=referral)
 - FDIC - Federal Deposit Insurance Corporation - Washington D.C: Tony Webster, CC BY 2.0, via Wikimedia Commons. [FDIC - Federal Deposit Insurance Corporation - Washington D.C..jpg](https://commons.wikimedia.org/wiki/File:FDIC_-_Federal_Deposit_Insurance_Corporation_-_Washington_D.C..jpg)
 - A person using an atm machine to pay money: Photo by Ali Mkumbwa on Unsplash. [OnRPps1wPus](https://unsplash.com/photos/a-person-using-an-atm-machine-to-pay-money-OnRPps1wPus?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding 100 euro bill: Photo by Omid Armin on Unsplash. [ESsGNnhUiCg](https://unsplash.com/photos/person-holding-100-euro-bill-ESsGNnhUiCg?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Investing basics, retirement & index funds (investing)
 

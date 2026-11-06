@@ -5,6 +5,24 @@
  "tickers": [],
  "photos": [
   {
+   "shows": "A black and white photo of the new york stock exchange",
+   "url": "https://images.unsplash.com/photo-1728930684281-103d3e6a5032?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmV3JTIweW9yayUyMHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzOTM4NDE4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1728930684281-103d3e6a5032?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmV3JTIweW9yayUyMHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzOTM4NDE4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Martin Rajdl on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@martinrajdl?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-black-and-white-photo-of-the-new-york-stock-exchange-4YFhbgm1keU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "New York Stock Exchange (NYSE) - Slack IPO",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/New_York_Stock_Exchange_%28NYSE%29_-_Slack_IPO_%2848126622722%29.jpg/1920px-New_York_Stock_Exchange_%28NYSE%29_-_Slack_IPO_%2848126622722%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/New_York_Stock_Exchange_%28NYSE%29_-_Slack_IPO_%2848126622722%29.jpg/500px-New_York_Stock_Exchange_%28NYSE%29_-_Slack_IPO_%2848126622722%29.jpg",
@@ -20,6 +38,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_(NYSE)_-_Slack_IPO_(48126622722).jpg"
+  },
+  {
+   "shows": "Grayscale photo of statue of man",
+   "url": "https://images.unsplash.com/photo-1600478750228-8b894da7bc48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FsbCUyMHN0cmVldHxlbnwxfHx8fDE3OTM5MzgzOTR8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1600478750228-8b894da7bc48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FsbCUyMHN0cmVldHxlbnwxfHx8fDE3OTM5MzgzOTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Daniel Lloyd Blunk-Fernández on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@blunkorama?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/grayscale-photo-of-statue-of-man-vrSKrUEZsDY?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Nyse-twin-lights",
