@@ -1353,7 +1353,20 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Aluminium ingots St-Saphorin: NAC, CC BY-SA 4.0, via Wikimedia Commons. [Aluminium ingots St-Saphorin 180310.jpg](https://commons.wikimedia.org/wiki/File:Aluminium_ingots_St-Saphorin_180310.jpg)
 - A few yellow trucks on a road: Photo by Boom & Bucket on Unsplash. [ed9HcUgZORI](https://unsplash.com/photos/a-few-yellow-trucks-on-a-road-ed9HcUgZORI?utm_source=investiq_image_bank&utm_medium=referral)
 
+## Travel & airlines (travel)
+
+- A group of people standing around a terminal: Photo by Albert Stoynov on Unsplash. [Yil5cKBbS5M](https://unsplash.com/photos/a-group-of-people-standing-around-a-terminal-Yil5cKBbS5M?utm_source=investiq_image_bank&utm_medium=referral)
+- A retro airport flight information display board: Photo by Lumin Osity on Unsplash. [7UgQsOUptPU](https://unsplash.com/photos/a-retro-airport-flight-information-display-board-7UgQsOUptPU?utm_source=investiq_image_bank&utm_medium=referral)
+- Modern hotel lobby with designer furniture and wood walls: Photo by Frames For Your Heart on Unsplash. [zSG-kd-L6vw](https://unsplash.com/photos/modern-hotel-lobby-with-designer-furniture-and-wood-walls-zSG-kd-L6vw?utm_source=investiq_image_bank&utm_medium=referral)
+- White cruise ship on sea during daytime: Photo by Georgy Trofimov on Unsplash. [xEJoSsDCnR8](https://unsplash.com/photos/white-cruise-ship-on-sea-during-daytime-xEJoSsDCnR8?utm_source=investiq_image_bank&utm_medium=referral)
+- A city with a fountain in the middle of it: Photo by Yves Scheuber on Unsplash. [6R1d2ihF-zE](https://unsplash.com/photos/a-city-with-a-fountain-in-the-middle-of-it-6R1d2ihF-zE?utm_source=investiq_image_bank&utm_medium=referral)
+- A blue suitcase sitting on top of a wooden floor: Photo by American Green Travel on Unsplash. [166umbWL6Ec](https://unsplash.com/photos/a-blue-suitcase-sitting-on-top-of-a-wooden-floor-166umbWL6Ec?utm_source=investiq_image_bank&utm_medium=referral)
+- Airplane flying over the city during sunset: Photo by Stefan Fluck on Unsplash. [twIzCL3YSRI](https://unsplash.com/photos/airplane-flying-over-the-city-during-sunset-twIzCL3YSRI?utm_source=investiq_image_bank&utm_medium=referral)
+- Two wooden lounge chairs on a white sand beach under palm trees: Photo by Upgraded Points on Unsplash. [KVym2PAn1gA](https://unsplash.com/photos/lounge-chairs-on-tropical-beach-KVym2PAn1gA?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Luxury goods (luxury)
 
-- Louis Vuitton Hudson Yards: Kidfly182, CC BY 4.0, via Wikimedia Commons. [Louis Vuitton Hudson Yards.jpg](https://commons.wikimedia.org/wiki/File:Louis_Vuitton_Hudson_Yards.jpg)
+- A black watch on a white surface: Photo by Patrick Langwallner on Unsplash. [GaHmbqNh5q8](https://unsplash.com/photos/a-black-watch-on-a-white-surface-GaHmbqNh5q8?utm_source=investiq_image_bank&utm_medium=referral)
+- White tissue paper in white box: Photo by Brooks Leibee on Unsplash. [omYSP6oYUs4](https://unsplash.com/photos/white-tissue-paper-in-white-box-omYSP6oYUs4?utm_source=investiq_image_bank&utm_medium=referral)
 - HK Central Sotheby's at Chater House Auction preview female luxury handbags September 2025 N13P 04: MATOWU HAUDOSM, CC0, via Wikimedia Commons. [HK Central Sotheby's at Chater House Auction preview female luxury handbags September 2025 N13P 04.jpg](https://commons.wikimedia.org/wiki/File:HK_Central_Sotheby%27s_at_Chater_House_Auction_preview_female_luxury_handbags_September_2025_N13P_04.jpg)
+- Brown and black dome structure: Photo by Svetlana Gumerova on Unsplash. [IskIc4FwVCI](https://unsplash.com/photos/brown-and-black-dome-structure-IskIc4FwVCI?utm_source=investiq_image_bank&utm_medium=referral)
