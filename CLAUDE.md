@@ -124,7 +124,9 @@ Decisions (Pablo, 4 Nov 2026):
     rate-limited answer counts as the source being there, a build of topics, sectors or brand photos stops when
     no stock source answers (`--commons-only` to go on), and a count whose source is missing stays pending.
 - **Unsplash production applied** (Pablo, 5 Nov night, with the gold and Apple gallery screenshots): "In Review",
-  5-10 business days. Until then demo mode (50 searches/h).
+  5-10 business days. Until then demo mode (50 searches/h; still 50 on 6 Nov morning).
+- **Pexels**: still no new API keys (Pablo tried on 6 Nov). Unsplash alone; add Pexels as a network secret
+  (Host `api.pexels.com`, Header `Authorization`, no prefix) if it reopens.
 - **Topic/sector pass, part 3** (5-6 Nov night): all 48 topics and sectors done with Unsplash and graded by eye;
   no download count pending. Then two rounds for the thin ones (graded after each):
   - refill: the 33 with 5 or fewer published photos rebuilt from the cache (hidden picks are never taken again);
@@ -142,7 +144,8 @@ Decisions (Pablo, 4 Nov 2026):
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
    **Unsplash production**: applied on 5 Nov (in review). Once approved (`X-Ratelimit-Limit: 1000`), the company
    brand pass takes about half an hour.
-2. Get this branch into `main` (PR + merge, Pablo's call): until then the chat reads the old empty index.
+2. Done: PR #1 merged into `main` (6 Nov 2026); the raw `main/bank/index.json` the chat reads has 639 photos
+   and 631 subjects. Later work starts a fresh branch from `main` and goes in through a new PR.
 3. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
 4. Big companies left with few published photos: a hand-written catalog entry (stores, products, HQ) and a
    rebuild + review round for them.
