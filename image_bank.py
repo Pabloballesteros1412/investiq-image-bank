@@ -1,8 +1,9 @@
 """
 InvestIQ's image bank for the Claude chat that makes InvestIQ's carousels: up to 10 freely licensed photos for
 every S&P 500 company and well-known US-listed company (extras.json), for every market topic and for every
-GICS sector (catalog.json). Companies: Wikimedia Commons, only the photos graded best by eye (review.py,
-bank/review.json). Topics and sectors: Unsplash and Pexels first (stock.py), Commons when they have nothing
+GICS sector (catalog.json). Companies: Wikimedia Commons, the photos graded best by eye (review.py,
+bank/review.json), then Unsplash and Pexels photos of their brands (brands.json), then their plain Commons photos
+(graded 2, marked plain) for the places left. Topics and sectors: Unsplash and Pexels first (stock.py), Commons when they have nothing
 that matches the search. Photos are not copied: bank/index.json and
 bank/subjects/<ID>.json give the chat each photo's address, what it shows, its credit line and the
 point to crop around, and the chat crops it to 4:5 or 1:1 itself.
@@ -70,6 +71,7 @@ UA = "InvestIQ-image-bank/2.0 (https://getinvestiq.com; carousel image bank)"
 BASE_URL = "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/"  # public address of bank/
 
 TARGET = 10                           # photos per company, topic and sector
+RESERVE_GRADE = 2                     # a company's plain Commons photos fill the places its better ones leave free
 SEARCH_ROOM = 3                       # places a company's Commons category leaves for photos found by search
 MIN_LONG, MIN_SHORT = 1600, 1000      # smallest acceptable photo (px)
 MIN_PERSON = 1000, 700                # portraits: a face mostly fills half a slide or an inset
@@ -133,6 +135,8 @@ RULES = [
     "(CEO, chair...) come from Wikidata or the catalog and can be out of date: check before naming one.",
     "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as "
     "illustration, never presented as that company's own premises, products or people.",
+    "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come "
+    "after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
 ]
 
 
@@ -1044,9 +1048,10 @@ def load_review(bank=BANK):
 
 
 def save_review(rv, bank=BANK):
-    rv = {"about": "Grades of the Wikimedia Commons photos checked by eye (review.py): 3 best, 2 usable but plain, "
-                   "1 reject. Only Commons photos graded min_grade or more reach the index; the build never picks a "
-                   "photo graded below it again. Unsplash and Pexels photos need no grade.",
+    rv = {"about": "Grades of the photos checked by eye (review.py): 3 best, 2 usable but plain, 1 reject. Commons "
+                   "photos graded min_grade or more reach the index, and a company's Commons photos graded 2 fill the "
+                   "places its better photos leave free (marked plain). Unsplash and Pexels photos are published "
+                   "unless graded below min_grade. The build never picks a photo graded below min_grade again.",
           "min_grade": rv.get("min_grade") or 3, **{k: v for k, v in rv.items() if k not in ("about", "min_grade")}}
     rv["grades"] = dict(sorted(rv["grades"].items()))
     write_atomic(Path(bank) / "review.json", json.dumps(rv, indent=1, ensure_ascii=False))
@@ -1063,9 +1068,18 @@ def published(p, rv):
     return (g or 0) >= rv["min_grade"]
 
 
+def reserve(p, rv):
+    """Whether a photo is a plain one (a Commons photo graded RESERVE_GRADE: right subject, ordinary photo)."""
+    return bool(rv.get("min_grade")) and provider_of(p) == "commons" and rv["grades"].get(p["file"]) == RESERVE_GRADE
+
+
 def published_photos(e, rv):
-    """The photos of a subject that reach the chat, at most TARGET: Commons ones first (they are in that order)."""
-    return [p for p in e.get("photos", []) if published(p, rv)][:TARGET]
+    """The photos of a subject that reach the chat, at most TARGET: the published ones (Commons first, they are in
+    that order), then, for a company with places left, its plain ones (reserve)."""
+    out = [p for p in e.get("photos", []) if published(p, rv)][:TARGET]
+    if e.get("kind") == "company" and len(out) < TARGET:
+        out += [p for p in e.get("photos", []) if reserve(p, rv)][:TARGET - len(out)]
+    return out
 
 
 def save_manifest(m, order, bank=BANK):
@@ -1197,6 +1211,11 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
             keep = kept(s)
             used.update(p["file"] for p in keep or [])
             e["photos"], missing = pick(s, src, used, no_sa, exclude, rv, keep)
+            if s["kind"] == "company":  # its plain photos stay as a reserve (never picked again, never dropped)
+                have = {p["file"] for p in e["photos"]}
+                plain = [p for p in old.get("photos", []) if reserve(p, rv) and p["file"] not in have]
+                e["photos"] += plain
+                used.update(p["file"] for p in plain)
             if missing:
                 e["missing"] = missing
             e["checked"] = date.today().isoformat()
@@ -1242,8 +1261,8 @@ def index(bank=BANK, base_url=BASE_URL):
     entries, total = [], 0
     keep = ("shows", "url", "preview", "size", "focus", "person", "credit", "licence", "author_url")
     for sid, e in m.items():
-        photos = [{**{k: p[k] for k in keep if k in p}, "provider": provider_of(p), "source": p["page"]}
-                  for p in published_photos(e, rv)]
+        photos = [{**{k: p[k] for k in keep if k in p}, "provider": provider_of(p), "source": p["page"],
+                    **({"plain": True} if reserve(p, rv) else {})} for p in published_photos(e, rv)]
         total += len(photos)
         rec = {"id": sid, "kind": e["kind"], "name": e["name"], "tickers": e.get("tickers", []), "aliases": e.get("aliases", []),
                "photos": len(photos), "file": f"{base}subjects/{safe(sid)}.json"}

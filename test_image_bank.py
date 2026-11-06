@@ -474,13 +474,14 @@ class Review(unittest.TestCase):
             B.save_review({"min_grade": 3, "grades": {mmm[0]: 3, mmm[1]: 2, mmm[2]: 1}}, bank)
             B.index(bank, "https://example.org/bank")
             rec = {s["id"]: s for s in json.loads((bank / "index.json").read_text())["subjects"]}
-            self.assertEqual(rec["MMM"]["photos"], 1)                                  # graded 3; 2, 1 and unreviewed hidden
+            self.assertEqual(rec["MMM"]["photos"], 2)                                  # graded 3, then 2 (plain); 1 and unreviewed hidden
             self.assertEqual(rec["MMM"]["fill_from"], "sector-industrials")
             gold = json.loads((bank / "subjects" / "gold.json").read_text())["photos"]
             self.assertEqual((gold[0]["provider"], gold[0]["author_url"]), ("unsplash", "https://unsplash.com/@ann?" + stock.UTM))
             m = B.build(MINI, bank, src, only="MMM", log=lambda *_: None)
             again = [p["file"] for p in m["MMM"]["photos"]]
-            self.assertNotIn(mmm[1], again)
+            self.assertEqual(again[-1], mmm[1])                                        # the plain one is not picked again,
+            self.assertEqual(again.count(mmm[1]), 1)                                   # but stays as the reserve
             self.assertNotIn(mmm[2], again)
             self.assertIn(mmm[0], again)
 
@@ -553,14 +554,34 @@ class Brands(unittest.TestCase):
                         brands={"AAPL": ["iPhone", "MacBook", "Apple Store"]})
             files = [p["file"] for p in m["AAPL"]["photos"]]
             self.assertEqual(files[0], good["file"])                                   # approved Commons first, kept
-            self.assertNotIn(plain["file"], files)
+            self.assertEqual(files[-1], plain["file"])                                 # the plain one stays, last
             self.assertEqual(src.calls, [])                                            # Commons not searched
-            self.assertTrue(all(B.provider_of(p) == "pexels" for p in m["AAPL"]["photos"][1:]))
+            self.assertTrue(all(B.provider_of(p) == "pexels" for p in m["AAPL"]["photos"][1:-1]))
             rv = B.load_review(bank)
-            self.assertLessEqual(len(B.published_photos(m["AAPL"], rv)), B.TARGET)
+            pub = [p["file"] for p in B.published_photos(m["AAPL"], rv)]
+            self.assertLessEqual(len(pub), B.TARGET)
+            self.assertEqual(plain["file"] in pub, len(files) - 1 < B.TARGET)          # only in a place left free
             bad = m["AAPL"]["photos"][1]["file"]
             rv["grades"][bad] = 1                                                      # a stock photo can be rejected
             self.assertNotIn(bad, [p["file"] for p in B.published_photos(m["AAPL"], rv)])
+
+
+class PlainReserve(unittest.TestCase):
+    def test_plain_photos_fill_a_companys_free_places_and_are_marked(self):
+        with tempfile.TemporaryDirectory() as d:
+            bank = Path(d)
+            good, plain, bad, gplain = (cand(f) for f in ("File:A HQ.jpg", "File:A office.jpg", "File:A lot.jpg", "File:Gold.jpg"))
+            mk = lambda c: B.photo(c, "s", "x", "catalog", (0.5, 0.5))
+            m = {"AAA": {"name": "A Corp", "kind": "company", "tickers": ["AAA"], "sector": "sector-tech",
+                         "photos": [mk(plain), mk(good), mk(bad)]},
+                 "gold": {"name": "Gold", "kind": "topic", "photos": [mk(gplain)]}}
+            B.save_manifest(m, ["AAA", "gold"], bank)
+            B.save_review({"min_grade": 3, "grades": {good["file"]: 3, plain["file"]: 2, bad["file"]: 1, gplain["file"]: 2}}, bank)
+            B.index(bank, "https://example.org/")
+            a = json.loads((bank / "subjects" / "AAA.json").read_text())
+            self.assertEqual([(p["shows"] and p.get("plain", False)) for p in a["photos"]], [False, True])  # better first
+            self.assertEqual(a["fill_from"], "sector-tech")
+            self.assertEqual(json.loads((bank / "subjects" / "gold.json").read_text())["photos"], [])  # topics: no reserve
 
 
 class StockKeys(unittest.TestCase):
