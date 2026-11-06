@@ -811,15 +811,15 @@
    "Tokyo night"
   ]},
   {"id": "metals", "kind": "topic", "name": "Industrial metals & mining", "aliases": ["metals", "copper", "silver", "lithium", "mining", "commodities"], "shots": [
-   {"id": "copper-cathodes", "q": "copper cathodes", "alt": ["copper cathode sheets", "copper ingots"], "must": ["copper"], "scene": "copper cathodes"},
+   "copper",
    "copper mine",
-   {"id": "lithium-mine", "q": "lithium mine", "must": ["lithium"], "scene": "lithium mine"},
+   "steel",
    "aluminium ingots",
    "iron ore",
-   "nickel mine",
-   {"id": "rare-earth-elements", "q": "rare earth mine", "alt": ["rare earth oxides", "Mountain Pass rare earth mine"], "must": ["rare earth", "rare-earth"], "scene": "rare earth elements"},
-   "London Metal Exchange",
-   "steel mill",
+   "mining",
+   "metal",
+   "copper wire",
+   "lithium",
    "mining truck"
   ]},
   {"id": "travel", "kind": "topic", "name": "Travel & airlines", "aliases": ["travel", "airlines", "tourism", "hotels", "cruises"], "shots": [
@@ -835,15 +835,15 @@
    "beach resort"
   ]},
   {"id": "luxury", "kind": "topic", "name": "Luxury goods", "aliases": ["luxury", "luxury goods", "lvmh", "hermes", "watches"], "shots": [
-   "Louis Vuitton store",
-   "Hermès store",
+   "luxury",
+   "designer handbag",
    "Rolex",
-   "Champs-Élysées",
-   {"id": "rodeo-drive", "q": "Rodeo Drive Beverly Hills", "alt": ["Rodeo Drive shops"], "must": ["rodeo drive", "beverly hills"], "exclude": ["File:Skid Rodeo Drive in Skid Row Los Angeles.jpg"], "scene": "Rodeo Drive"},
+   "luxury watch",
+   "luxury store",
    "Place Vendôme",
    "jewelry store",
    {"id": "luxury-handbag", "q": "luxury handbag", "alt": ["designer handbag", "leather handbag"], "must": ["handbag", "handbags", "bag", "bags"], "scene": "luxury handbag"},
-   "Fifth Avenue shopping",
+   "jewelry",
    "Galeries Lafayette"
   ]},
   {"id": "sector-tech", "kind": "sector", "name": "Technology sector", "gics": "Information Technology", "aliases": ["information technology"], "shots": [
