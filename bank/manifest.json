@@ -91157,26 +91157,26 @@
     "how": "catalog"
    },
    {
-    "shot": "aerial",
-    "shows": "Wenatchee washington azure datacenter aerial 1",
-    "file": "File:Wenatchee washington azure datacenter aerial 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wenatchee_washington_azure_datacenter_aerial_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wenatchee_washington_azure_datacenter_aerial_1.jpg/1920px-Wenatchee_washington_azure_datacenter_aerial_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Wenatchee_washington_azure_datacenter_aerial_1.jpg/500px-Wenatchee_washington_azure_datacenter_aerial_1.jpg",
+    "shot": "data-center",
+    "shows": "Data Center 3 (UNC)",
+    "file": "File:Data Center 3 (UNC).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Data_Center_3_(UNC).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Data_Center_3_%28UNC%29.jpg/1280px-Data_Center_3_%28UNC%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Data_Center_3_%28UNC%29.jpg/500px-Data_Center_3_%28UNC%29.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tedder, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Tedder",
-    "year": 2025,
+    "credit": "Ana Las Heras, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ana Las Heras",
+    "year": 2022,
     "how": "catalog"
    },
    {
@@ -91252,119 +91252,131 @@
     "track": "https://api.unsplash.com/photos/VuR4oHZ3ucc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZWxlY3RyaWNhbCUyMHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODk4NTA5fDA"
    },
    {
-    "shot": "cables",
-    "shows": "Server temporary cabling solution - 3469",
-    "file": "File:Server temporary cabling solution - IMG 3469.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Server_temporary_cabling_solution_-_IMG_3469.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Server_temporary_cabling_solution_-_IMG_3469.jpg/1920px-Server_temporary_cabling_solution_-_IMG_3469.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Server_temporary_cabling_solution_-_IMG_3469.jpg/500px-Server_temporary_cabling_solution_-_IMG_3469.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jemimus, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Jemimus",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "data-center-construction",
-    "shows": "Foulum datacenter, panorama mod øst",
-    "file": "File:Foulum datacenter, panorama mod øst, 2016-10-01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Foulum_datacenter,_panorama_mod_%C3%B8st,_2016-10-01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Foulum_datacenter%2C_panorama_mod_%C3%B8st%2C_2016-10-01.jpg/1920px-Foulum_datacenter%2C_panorama_mod_%C3%B8st%2C_2016-10-01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Foulum_datacenter%2C_panorama_mod_%C3%B8st%2C_2016-10-01.jpg/500px-Foulum_datacenter%2C_panorama_mod_%C3%B8st%2C_2016-10-01.jpg",
-    "size": [
-     1920,
-     716
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Finn Årup Nielsen, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Finn Årup Nielsen",
-    "year": 2016,
-    "how": "catalog"
-   },
-   {
     "shot": "server-room",
-    "shows": "312 Adelaide Street - 6th floor server room",
-    "file": "File:312 Adelaide Street - 6th floor server room (5278379952).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:312_Adelaide_Street_-_6th_floor_server_room_(5278379952).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/312_Adelaide_Street_-_6th_floor_server_room_%285278379952%29.jpg/1920px-312_Adelaide_Street_-_6th_floor_server_room_%285278379952%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/312_Adelaide_Street_-_6th_floor_server_room_%285278379952%29.jpg/500px-312_Adelaide_Street_-_6th_floor_server_room_%285278379952%29.jpg",
+    "shows": "A server room with rows of black and white cabinets under blue cables",
+    "file": "unsplash:aWslrFhs1w4",
+    "page": "https://unsplash.com/photos/server-room-with-network-cabinets-aWslrFhs1w4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2400,
+     1350
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mike Beltzner, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Mike Beltzner",
-    "year": 2010,
-    "how": "catalog"
+    "credit": "Photo by Taylor Vick on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Taylor Vick",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tvick?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aWslrFhs1w4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA"
    },
    {
-    "shot": "data-center-generators",
-    "shows": "Exterior view of the main gate, Google's Taiwan data center in Xianxi, Changhua, as taken on 7 March 2021",
-    "file": "File:Exterior view of the main gate, Google's Taiwan data center in Xianxi, Changhua, as taken on 7 March 2021.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_the_main_gate,_Google%27s_Taiwan_data_center_in_Xianxi,_Changhua,_as_taken_on_7_March_2021.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Exterior_view_of_the_main_gate%2C_Google%27s_Taiwan_data_center_in_Xianxi%2C_Changhua%2C_as_taken_on_7_March_2021.jpg/1920px-Exterior_view_of_the_main_gate%2C_Google%27s_Taiwan_data_center_in_Xianxi%2C_Changhua%2C_as_taken_on_7_March_2021.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Exterior_view_of_the_main_gate%2C_Google%27s_Taiwan_data_center_in_Xianxi%2C_Changhua%2C_as_taken_on_7_March_2021.jpg/500px-Exterior_view_of_the_main_gate%2C_Google%27s_Taiwan_data_center_in_Xianxi%2C_Changhua%2C_as_taken_on_7_March_2021.jpg",
+    "shot": "server-rack",
+    "shows": "A rack of servers with wires and wires attached to them",
+    "file": "unsplash:c-lSQecD9oI",
+    "page": "https://unsplash.com/photos/a-rack-of-servers-with-wires-and-wires-attached-to-them-c-lSQecD9oI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c2VydmVyJTIwcmFja3xlbnwxfHx8fDE3OTM5Mzg0MDN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c2VydmVyJTIwcmFja3xlbnwxfHx8fDE3OTM5Mzg0MDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kai3952, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kai3952",
+    "credit": "Photo by Yuriy Vertikov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Yuriy Vertikov",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@noa69?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/c-lSQecD9oI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c2VydmVyJTIwcmFja3xlbnwxfHx8fDE3OTM5Mzg0MDN8MA"
+   },
+   {
+    "shot": "transmission-tower",
+    "shows": "Black transmission towers under green sky",
+    "file": "unsplash:q6n8nIrDQHE",
+    "page": "https://unsplash.com/photos/black-transmission-towers-under-green-sky-q6n8nIrDQHE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Fré Sonneveld on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Fré Sonneveld",
+    "year": 2014,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fresonneveld?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/q6n8nIrDQHE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA"
+   },
+   {
+    "shot": "network-cables",
+    "shows": "ISS064E048595 - Shannon Walker installing Ethernet cables aboard the ISS",
+    "file": "File:ISS064E048595 - Shannon Walker installing Ethernet cables aboard the ISS.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg/1920px-ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg/500px-ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA",
     "year": 2021,
     "how": "catalog"
    },
    {
-    "shot": "hyperscale-data-center",
-    "shows": "Microsoft Data Center Middenmeer, the Netherlands - 1",
-    "file": "File:Microsoft Data Center Middenmeer, the Netherlands - 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Microsoft_Data_Center_Middenmeer,_the_Netherlands_-_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Microsoft_Data_Center_Middenmeer%2C_the_Netherlands_-_1.jpg/1920px-Microsoft_Data_Center_Middenmeer%2C_the_Netherlands_-_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Microsoft_Data_Center_Middenmeer%2C_the_Netherlands_-_1.jpg/500px-Microsoft_Data_Center_Middenmeer%2C_the_Netherlands_-_1.jpg",
+    "shot": "power-plant",
+    "shows": "An industrial power plant illuminated at night with a full moon in the sky",
+    "file": "unsplash:bv2pvCGMtzg",
+    "page": "https://unsplash.com/photos/power-plant-illuminated-at-night-bv2pvCGMtzg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1509390288171-ce2088f7d08e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1509390288171-ce2088f7d08e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Hay Kranen, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Hay Kranen",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by American Public Power Association on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "American Public Power Association",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@publicpowerorg?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bv2pvCGMtzg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA"
    }
   ],
   "checked": "2026-11-06"
@@ -91430,49 +91442,52 @@
     "track": "https://api.unsplash.com/photos/QASO5vwgVco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2xlYW5yb29tfGVufDF8fHx8MTc5Mzg5ODUwNHww"
    },
    {
-    "shot": "fab-aerial",
-    "shows": "Minimal Fab exhibit at Tsukuba Science Square 3",
-    "file": "File:Minimal Fab exhibit at Tsukuba Science Square 3.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Minimal_Fab_exhibit_at_Tsukuba_Science_Square_3.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Minimal_Fab_exhibit_at_Tsukuba_Science_Square_3.jpg/1920px-Minimal_Fab_exhibit_at_Tsukuba_Science_Square_3.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Minimal_Fab_exhibit_at_Tsukuba_Science_Square_3.jpg/500px-Minimal_Fab_exhibit_at_Tsukuba_Science_Square_3.jpg",
+    "shot": "microchip",
+    "shows": "A silicon wafer with a grid of iridescent microchip dies under shallow focus",
+    "file": "unsplash:qOx9KsvpqcM",
+    "page": "https://unsplash.com/photos/silicon-wafer-with-iridescent-microchip-grid-qOx9KsvpqcM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1587845323226-bad89242c735?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bWljcm9jaGlwfGVufDF8fHx8MTc5MzkzODQwMXww&ixlib=rb-4.1.0&w=2293&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1587845323226-bad89242c735?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bWljcm9jaGlwfGVufDF8fHx8MTc5MzkzODQwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1446
+     2293,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Syced, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Syced",
-    "year": 2024,
-    "how": "catalog"
+    "credit": "Photo by Laura Ockel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Laura Ockel",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@viazavier?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qOx9KsvpqcM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bWljcm9jaGlwfGVufDF8fHx8MTc5MzkzODQwMXww"
    },
    {
-    "shot": "die",
-    "shows": "TI HC32 Die Shot (4x2-Input OR Gate)",
-    "file": "File:TI HC32 Die Shot (4x2-Input OR Gate) - 52871874720.png",
-    "page": "https://commons.wikimedia.org/wiki/File:TI_HC32_Die_Shot_(4x2-Input_OR_Gate)_-_52871874720.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TI_HC32_Die_Shot_%284x2-Input_OR_Gate%29_-_52871874720.png/1920px-TI_HC32_Die_Shot_%284x2-Input_OR_Gate%29_-_52871874720.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/TI_HC32_Die_Shot_%284x2-Input_OR_Gate%29_-_52871874720.png/500px-TI_HC32_Die_Shot_%284x2-Input_OR_Gate%29_-_52871874720.png",
+    "shot": "semiconductor",
+    "shows": "Illuminated white and purple facade of the office building Rohm Semiconductor in Kyoto, Japan",
+    "file": "File:Illuminated white and purple facade of the office building Rohm Semiconductor in Kyoto, Japan.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto,_Japan.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg/1920px-Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg/500px-Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg",
     "size": [
      1920,
-     1564
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Cole L, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
+    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Cole L",
-    "year": 2022,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Basile Morin",
+    "year": 2019,
     "how": "catalog"
    },
    {
@@ -91502,38 +91517,15 @@
     "track": "https://api.unsplash.com/photos/pfR18JNEMv8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHJpbnRlZCUyMGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTM4OTg1MDh8MA"
    },
    {
-    "shot": "hsinchu",
-    "shows": "TSMC Fab 14B May 2025 1",
-    "file": "File:TSMC Fab 14B May 2025 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:TSMC_Fab_14B_May_2025_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TSMC_Fab_14B_May_2025_1.jpg/1920px-TSMC_Fab_14B_May_2025_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TSMC_Fab_14B_May_2025_1.jpg/500px-TSMC_Fab_14B_May_2025_1.jpg",
+    "shot": "computer-chip",
+    "shows": "HP 1820-0250 6 Bit Comparator; [ 1 ] Manufactured by Hewlett Packard, 1974.",
+    "file": "File:HP 1820-0250.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HP_1820-0250.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HP_1820-0250.jpg/1920px-HP_1820-0250.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HP_1820-0250.jpg/500px-HP_1820-0250.jpg",
     "size": [
      1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "4300streetcar",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "chip-packaging",
-    "shows": "SIP integrated circuits package",
-    "file": "File:SIP integrated circuits package.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SIP_integrated_circuits_package.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SIP_integrated_circuits_package.jpg/1920px-SIP_integrated_circuits_package.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SIP_integrated_circuits_package.jpg/500px-SIP_integrated_circuits_package.jpg",
-    "size": [
-     1920,
-     980
+     1560
     ],
     "focus": [
      0.5,
@@ -91544,8 +91536,34 @@
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Mister rf",
-    "year": 2022,
+    "year": 2023,
     "how": "catalog"
+   },
+   {
+    "shot": "processor",
+    "shows": "A computer processor installed in a motherboard socket with visible text and circuitry",
+    "file": "unsplash:JMwCe3w7qKk",
+    "page": "https://unsplash.com/photos/computer-processor-installed-in-motherboard-JMwCe3w7qKk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Olivier Collet on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Olivier Collet",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ocollet?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JMwCe3w7qKk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww"
    },
    {
     "shot": "photolithography",
@@ -91569,11 +91587,56 @@
     "author": "University College London Faculty of Mathematical & Physical Sciences",
     "year": 2013,
     "how": "catalog"
+   },
+   {
+    "shot": "chip-factory",
+    "shows": "Route 11 Potato Chips factory - 5",
+    "file": "File:Route 11 Potato Chips factory - 5.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Route_11_Potato_Chips_factory_-_5.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Route_11_Potato_Chips_factory_-_5.jpg/1920px-Route_11_Potato_Chips_factory_-_5.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Route_11_Potato_Chips_factory_-_5.jpg/500px-Route_11_Potato_Chips_factory_-_5.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "APK, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "APK",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "motherboard",
+    "shows": "Closeup photography of green and black computer motherboard",
+    "file": "unsplash:SJ5TmRRSM1U",
+    "page": "https://unsplash.com/photos/closeup-photography-of-green-and-black-computer-motherboard-SJ5TmRRSM1U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1515630278258-407f66498911?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=2322&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1515630278258-407f66498911?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2322,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bartosz Kwitkowski on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bartosz Kwitkowski",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@smee?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SJ5TmRRSM1U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA"
    }
-  ],
-  "missing": [
-   "photomask",
-   "semiconductor-fab-construction"
   ],
   "checked": "2026-11-06"
  },
