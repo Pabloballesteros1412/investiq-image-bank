@@ -1,0 +1,29 @@
+{
+ "id": "CAT",
+ "kind": "company",
+ "name": "Caterpillar Inc.",
+ "tickers": [
+  "CAT"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "A Caterpillar bulldozer pushing earth",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CatD11T.jpg/1920px-CatD11T.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CatD11T.jpg/500px-CatD11T.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Shaun Greiner from Creve Coeur, United States of America, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CatD11T.jpg"
+  }
+ ]
+}

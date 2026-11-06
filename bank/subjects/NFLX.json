@@ -1,0 +1,11 @@
+{
+ "id": "NFLX",
+ "kind": "company",
+ "name": "Netflix",
+ "tickers": [
+  "NFLX"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": []
+}

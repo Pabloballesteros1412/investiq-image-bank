@@ -1,0 +1,29 @@
+{
+ "id": "PPG",
+ "kind": "company",
+ "name": "PPG Industries",
+ "tickers": [
+  "PPG"
+ ],
+ "sector": "sector-materials",
+ "fill_from": "sector-materials",
+ "photos": [
+  {
+   "shows": "PPG Sumaré",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PPG_Sumar%C3%A9.jpg/1920px-PPG_Sumar%C3%A9.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/PPG_Sumar%C3%A9.jpg/500px-PPG_Sumar%C3%A9.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Governo do Estado de São Paulo, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PPG_Sumar%C3%A9.jpg"
+  }
+ ]
+}

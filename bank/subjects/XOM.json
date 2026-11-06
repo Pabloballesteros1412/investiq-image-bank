@@ -1,0 +1,29 @@
+{
+ "id": "XOM",
+ "kind": "company",
+ "name": "ExxonMobil",
+ "tickers": [
+  "XOM"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "An ExxonMobil gas station in Hiawassee, Georgia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/An_ExxonMobil_gas_station_in_Hiawassee%2C_Georgia.jpg/1920px-An_ExxonMobil_gas_station_in_Hiawassee%2C_Georgia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/An_ExxonMobil_gas_station_in_Hiawassee%2C_Georgia.jpg/500px-An_ExxonMobil_gas_station_in_Hiawassee%2C_Georgia.jpg",
+   "size": [
+    1920,
+    1363
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:An_ExxonMobil_gas_station_in_Hiawassee,_Georgia.jpg"
+  }
+ ]
+}

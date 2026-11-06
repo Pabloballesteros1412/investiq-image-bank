@@ -1,0 +1,29 @@
+{
+ "id": "DELL",
+ "kind": "company",
+ "name": "Dell Technologies",
+ "tickers": [
+  "DELL"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Dell Technologies Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dell_Technologies_Headquarters.jpg/1280px-Dell_Technologies_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dell_Technologies_Headquarters.jpg/500px-Dell_Technologies_Headquarters.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dell Technologies, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dell_Technologies_Headquarters.jpg"
+  }
+ ]
+}

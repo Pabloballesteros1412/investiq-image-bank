@@ -1,0 +1,30 @@
+{
+ "id": "V",
+ "kind": "company",
+ "name": "Visa Inc.",
+ "tickers": [
+  "V"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Ryan McInerney",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ryan_McInerney.jpg/1920px-Ryan_McInerney.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ryan_McInerney.jpg/500px-Ryan_McInerney.jpg",
+   "size": [
+    1920,
+    1342
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Malibukenz, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ryan_McInerney.jpg"
+  }
+ ]
+}

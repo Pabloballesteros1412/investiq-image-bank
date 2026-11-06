@@ -1,0 +1,29 @@
+{
+ "id": "ALL",
+ "kind": "company",
+ "name": "Allstate",
+ "tickers": [
+  "ALL"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Allstate store",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Allstate_store.JPG/1280px-Allstate_store.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Allstate_store.JPG/500px-Allstate_store.JPG",
+   "size": [
+    1280,
+    2154
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stu pendousmat ( talk ), CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Allstate_store.JPG"
+  }
+ ]
+}

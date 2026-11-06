@@ -1,0 +1,29 @@
+{
+ "id": "FFIV",
+ "kind": "company",
+ "name": "F5, Inc.",
+ "tickers": [
+  "FFIV"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "F5 Tower - July 2017",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/F5_Tower_-_July_2017.jpg/1280px-F5_Tower_-_July_2017.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/F5_Tower_-_July_2017.jpg/500px-F5_Tower_-_July_2017.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "SounderBruce, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:F5_Tower_-_July_2017.jpg"
+  }
+ ]
+}

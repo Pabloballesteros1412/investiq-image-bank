@@ -1,0 +1,46 @@
+{
+ "id": "EXR",
+ "kind": "company",
+ "name": "Extra Space Storage",
+ "tickers": [
+  "EXR"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Extra Space Storage office in Kingstowne",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Extra_Space_Storage_office_in_Kingstowne.jpg/1920px-Extra_Space_Storage_office_in_Kingstowne.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Extra_Space_Storage_office_in_Kingstowne.jpg/500px-Extra_Space_Storage_office_in_Kingstowne.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ser_Amantio_di_Nicolao, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Extra_Space_Storage_office_in_Kingstowne.jpg"
+  },
+  {
+   "shows": "Long Island City February 2023 061",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Long_Island_City_February_2023_061.jpg/1920px-Long_Island_City_February_2023_061.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Long_Island_City_February_2023_061.jpg/500px-Long_Island_City_February_2023_061.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_February_2023_061.jpg"
+  }
+ ]
+}

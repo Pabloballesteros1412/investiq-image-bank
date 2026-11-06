@@ -1,0 +1,30 @@
+{
+ "id": "UBS",
+ "kind": "company",
+ "name": "UBS",
+ "tickers": [
+  "UBS"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Sergio Ermotti, UBS CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sergio_P._Ermotti.jpg/1280px-Sergio_P._Ermotti.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sergio_P._Ermotti.jpg/500px-Sergio_P._Ermotti.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "The official global picture collection of UBS from Switzerland, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sergio_P._Ermotti.jpg"
+  }
+ ]
+}

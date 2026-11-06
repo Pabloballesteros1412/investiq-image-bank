@@ -1,0 +1,46 @@
+{
+ "id": "STX",
+ "kind": "company",
+ "name": "Seagate Technology",
+ "tickers": [
+  "STX"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Seagate Headquarters Fremont",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Seagate_Headquarters_Fremont.jpg/1920px-Seagate_Headquarters_Fremont.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Seagate_Headquarters_Fremont.jpg/500px-Seagate_Headquarters_Fremont.jpg",
+   "size": [
+    1920,
+    1407
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seagate_Headquarters_Fremont.jpg"
+  },
+  {
+   "shows": "Seagate Technology Office - Shakopee, Minnesota",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Seagate_Technology_Office_-_Shakopee%2C_Minnesota.jpg/1920px-Seagate_Technology_Office_-_Shakopee%2C_Minnesota.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Seagate_Technology_Office_-_Shakopee%2C_Minnesota.jpg/500px-Seagate_Technology_Office_-_Shakopee%2C_Minnesota.jpg",
+   "size": [
+    1920,
+    1328
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seagate_Technology_Office_-_Shakopee,_Minnesota.jpg"
+  }
+ ]
+}

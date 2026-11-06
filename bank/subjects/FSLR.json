@@ -1,0 +1,29 @@
+{
+ "id": "FSLR",
+ "kind": "company",
+ "name": "First Solar",
+ "tickers": [
+  "FSLR"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "02-09-15 First Solar Desert Sunlight Solar Farm",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_%2815863210084%29.jpg/1920px-02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_%2815863210084%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_%2815863210084%29.jpg/500px-02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_%2815863210084%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Department of the Interior, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_(15863210084).jpg"
+  }
+ ]
+}

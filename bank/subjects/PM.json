@@ -1,0 +1,47 @@
+{
+ "id": "PM",
+ "kind": "company",
+ "name": "Philip Morris International",
+ "tickers": [
+  "PM"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Philip Morris International's Operation Center in Lausanne, Switzerland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/PM_Lausanne.jpg/1920px-PM_Lausanne.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/PM_Lausanne.jpg/500px-PM_Lausanne.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "SimonDes, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PM_Lausanne.jpg"
+  },
+  {
+   "shows": "Jacek Olczak, Philip Morris International CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NYCW_2025_-_Jacek_Olczak_02_%28cropped%29.jpg/1280px-NYCW_2025_-_Jacek_Olczak_02_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NYCW_2025_-_Jacek_Olczak_02_%28cropped%29.jpg/500px-NYCW_2025_-_Jacek_Olczak_02_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1714
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Xuthoria, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NYCW_2025_-_Jacek_Olczak_02_(cropped).jpg"
+  }
+ ]
+}

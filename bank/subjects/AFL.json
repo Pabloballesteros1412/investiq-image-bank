@@ -1,0 +1,29 @@
+{
+ "id": "AFL",
+ "kind": "company",
+ "name": "Aflac",
+ "tickers": [
+  "AFL"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Aflac WWHQ",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aflac_WWHQ.jpg/1920px-Aflac_WWHQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Aflac_WWHQ.jpg/500px-Aflac_WWHQ.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jhelmsaflac, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aflac_WWHQ.jpg"
+  }
+ ]
+}

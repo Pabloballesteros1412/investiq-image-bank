@@ -1,0 +1,29 @@
+{
+ "id": "FCX",
+ "kind": "company",
+ "name": "Freeport-McMoRan",
+ "tickers": [
+  "FCX"
+ ],
+ "sector": "sector-materials",
+ "fill_from": "sector-materials",
+ "photos": [
+  {
+   "shows": "Freeport-McMoRan, Phoenix",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Freeport-McMoRan%2C_Phoenix.jpg/1920px-Freeport-McMoRan%2C_Phoenix.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Freeport-McMoRan%2C_Phoenix.jpg/500px-Freeport-McMoRan%2C_Phoenix.jpg",
+   "size": [
+    1920,
+    1311
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Freeport-McMoRan,_Phoenix.jpg"
+  }
+ ]
+}

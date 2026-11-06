@@ -1,0 +1,29 @@
+{
+ "id": "TFC",
+ "kind": "company",
+ "name": "Truist Financial",
+ "tickers": [
+  "TFC"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Truist Financial Center - Hagerstown, Maryland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Truist_Financial_Center_-_Hagerstown%2C_Maryland.jpg/1920px-Truist_Financial_Center_-_Hagerstown%2C_Maryland.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Truist_Financial_Center_-_Hagerstown%2C_Maryland.jpg/500px-Truist_Financial_Center_-_Hagerstown%2C_Maryland.jpg",
+   "size": [
+    1920,
+    1240
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Truist_Financial_Center_-_Hagerstown,_Maryland.jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "MDB",
+ "kind": "company",
+ "name": "MongoDB",
+ "tickers": [
+  "MDB"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "MongoDB headquarters at night",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MongoDB_headquarters_at_night.jpg/1280px-MongoDB_headquarters_at_night.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MongoDB_headquarters_at_night.jpg/500px-MongoDB_headquarters_at_night.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MongoDB_headquarters_at_night.jpg"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "id": "MAR",
+ "kind": "company",
+ "name": "Marriott International",
+ "tickers": [
+  "MAR"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Marriott Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Marriott_Headquarters_-_52576461289.jpg/1280px-Marriott_Headquarters_-_52576461289.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Marriott_Headquarters_-_52576461289.jpg/500px-Marriott_Headquarters_-_52576461289.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MDGovpics, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marriott_Headquarters_-_52576461289.jpg"
+  },
+  {
+   "shows": "Marriott International - Headquarters Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Marriott_International_-_Headquarters_Office.jpg/1920px-Marriott_International_-_Headquarters_Office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Marriott_International_-_Headquarters_Office.jpg/500px-Marriott_International_-_Headquarters_Office.jpg",
+   "size": [
+    1920,
+    1252
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marriott_International_-_Headquarters_Office.jpg"
+  },
+  {
+   "shows": "Marriott International Headquarters 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marriott_International_Headquarters_01.jpg/1280px-Marriott_International_Headquarters_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marriott_International_Headquarters_01.jpg/500px-Marriott_International_Headquarters_01.jpg",
+   "size": [
+    1280,
+    1984
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marriott_International_Headquarters_01.jpg"
+  }
+ ]
+}

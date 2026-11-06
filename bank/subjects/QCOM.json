@@ -1,0 +1,64 @@
+{
+ "id": "QCOM",
+ "kind": "company",
+ "name": "Qualcomm",
+ "tickers": [
+  "QCOM"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Cristiano Amon, Qualcomm CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CristianoAmon.jpeg/1280px-CristianoAmon.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/CristianoAmon.jpeg/500px-CristianoAmon.jpeg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "©2012 Eric Myer Photography, Inc., CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CristianoAmon.jpeg"
+  },
+  {
+   "shows": "Computer Science Corporation building in Mindspace, Hyderabad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Computer_Science_Corporation_building_in_Mindspace%2C_Hyderabad.jpg/1920px-Computer_Science_Corporation_building_in_Mindspace%2C_Hyderabad.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Computer_Science_Corporation_building_in_Mindspace%2C_Hyderabad.jpg/500px-Computer_Science_Corporation_building_in_Mindspace%2C_Hyderabad.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Computer_Science_Corporation_building_in_Mindspace,_Hyderabad.jpg"
+  },
+  {
+   "shows": "Qualcomm Headquarters La Jolla",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Qualcomm_Headquarters_La_Jolla.jpg/1920px-Qualcomm_Headquarters_La_Jolla.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Qualcomm_Headquarters_La_Jolla.jpg/500px-Qualcomm_Headquarters_La_Jolla.jpg",
+   "size": [
+    1920,
+    1644
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Qualcomm_Headquarters_La_Jolla.jpg"
+  }
+ ]
+}

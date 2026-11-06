@@ -1,0 +1,29 @@
+{
+ "id": "FAST",
+ "kind": "company",
+ "name": "Fastenal",
+ "tickers": [
+  "FAST"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Fastenal Corporate Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fastenal_Corporate_Office.jpg/1920px-Fastenal_Corporate_Office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Fastenal_Corporate_Office.jpg/500px-Fastenal_Corporate_Office.jpg",
+   "size": [
+    1920,
+    2129
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wikideas1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fastenal_Corporate_Office.jpg"
+  }
+ ]
+}

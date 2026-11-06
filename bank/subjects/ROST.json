@@ -1,0 +1,46 @@
+{
+ "id": "ROST",
+ "kind": "company",
+ "name": "Ross Stores",
+ "tickers": [
+  "ROST"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Ross Store 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ross_Store_01.jpg/1920px-Ross_Store_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ross_Store_01.jpg/500px-Ross_Store_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Miosotis Jade, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ross_Store_01.jpg"
+  },
+  {
+   "shows": "Ross, Erie PA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ross%2C_Erie_PA_%2854956206918%29.jpg/1920px-Ross%2C_Erie_PA_%2854956206918%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ross%2C_Erie_PA_%2854956206918%29.jpg/500px-Ross%2C_Erie_PA_%2854956206918%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Glenn Samonte - Own Work, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ross,_Erie_PA_(54956206918).jpg"
+  }
+ ]
+}

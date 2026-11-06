@@ -1,0 +1,46 @@
+{
+ "id": "BKR",
+ "kind": "company",
+ "name": "Baker Hughes",
+ "tickers": [
+  "BKR"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "Baker Hughes Building Signage 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Baker_Hughes_Building_Signage_2.jpg/1920px-Baker_Hughes_Building_Signage_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Baker_Hughes_Building_Signage_2.jpg/500px-Baker_Hughes_Building_Signage_2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Shoaibmarfatiya, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Baker_Hughes_Building_Signage_2.jpg"
+  },
+  {
+   "shows": "Baker Hughes",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Baker_Hughes.jpg/1920px-Baker_Hughes.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Baker_Hughes.jpg/500px-Baker_Hughes.jpg",
+   "size": [
+    1920,
+    1438
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Shoaibmarfatiya, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Baker_Hughes.jpg"
+  }
+ ]
+}

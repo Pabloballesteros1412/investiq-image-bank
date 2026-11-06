@@ -1,0 +1,64 @@
+{
+ "id": "JPM",
+ "kind": "company",
+ "name": "JPMorgan Chase",
+ "tickers": [
+  "JPM"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "A Chase Bank branch in Knoxville, Tennessee",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/A_Chase_Bank_branch_in_Knoxville%2C_Tennessee.jpg/1920px-A_Chase_Bank_branch_in_Knoxville%2C_Tennessee.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/A_Chase_Bank_branch_in_Knoxville%2C_Tennessee.jpg/500px-A_Chase_Bank_branch_in_Knoxville%2C_Tennessee.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Chase_Bank_branch_in_Knoxville,_Tennessee.jpg"
+  },
+  {
+   "shows": "Jamie Dimon, CEO of JPMorgan Chase",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg/1920px-Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg/500px-Jamie_Dimon%2C_CEO_of_JPMorgan_Chase.jpg",
+   "size": [
+    1920,
+    1525
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jamie_Dimon,_CEO_of_JPMorgan_Chase.jpg"
+  },
+  {
+   "shows": "JPMorgan Chase Tower, Houston, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/JPMorgan_Chase_Tower%2C_Houston%2C_Texas.jpg/1280px-JPMorgan_Chase_Tower%2C_Houston%2C_Texas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/JPMorgan_Chase_Tower%2C_Houston%2C_Texas.jpg/500px-JPMorgan_Chase_Tower%2C_Houston%2C_Texas.jpg",
+   "size": [
+    1280,
+    2115
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "i_am_jim, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Tower,_Houston,_Texas.jpg"
+  }
+ ]
+}

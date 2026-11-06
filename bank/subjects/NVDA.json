@@ -1,0 +1,64 @@
+{
+ "id": "NVDA",
+ "kind": "company",
+ "name": "Nvidia",
+ "tickers": [
+  "NVDA"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Nvidia sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nvidia_sign.jpg/1920px-Nvidia_sign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Nvidia_sign.jpg/500px-Nvidia_sign.jpg",
+   "size": [
+    1920,
+    1562
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Will Buckner, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nvidia_sign.jpg"
+  },
+  {
+   "shows": "Jensen huang stanford 008",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jensen_huang_stanford_2026-04-30_008.jpg/1280px-Jensen_huang_stanford_2026-04-30_008.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jensen_huang_stanford_2026-04-30_008.jpg/500px-Jensen_huang_stanford_2026-04-30_008.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Anderseidesvik, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg"
+  },
+  {
+   "shows": "Nvidia Ra'anana office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nvidia_Ra%27anana_office.jpg/1920px-Nvidia_Ra%27anana_office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Nvidia_Ra%27anana_office.jpg/500px-Nvidia_Ra%27anana_office.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Amir Shtanger, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nvidia_Ra%27anana_office.jpg"
+  }
+ ]
+}

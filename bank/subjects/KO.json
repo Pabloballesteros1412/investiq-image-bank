@@ -1,0 +1,46 @@
+{
+ "id": "KO",
+ "kind": "company",
+ "name": "Coca-Cola Company (The)",
+ "tickers": [
+  "KO"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Everything Coca Cola Store; Las Vegas, Nevada",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Everything_Coca_Cola_Store%3B_Las_Vegas%2C_Nevada.jpg/1280px-Everything_Coca_Cola_Store%3B_Las_Vegas%2C_Nevada.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Everything_Coca_Cola_Store%3B_Las_Vegas%2C_Nevada.jpg/500px-Everything_Coca_Cola_Store%3B_Las_Vegas%2C_Nevada.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TheDoctorWho, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Everything_Coca_Cola_Store;_Las_Vegas,_Nevada.jpg"
+  },
+  {
+   "shows": "Coca-Cola Tower and Guggenheim Building, Atlanta, Northeast view 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg/1280px-Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg/500px-Coca-Cola_Tower_and_Guggenheim_Building%2C_Atlanta%2C_Northeast_view_20160717_1.jpg",
+   "size": [
+    1280,
+    1791
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DXR, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Coca-Cola_Tower_and_Guggenheim_Building,_Atlanta,_Northeast_view_20160717_1.jpg"
+  }
+ ]
+}

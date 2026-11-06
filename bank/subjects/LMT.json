@@ -1,0 +1,29 @@
+{
+ "id": "LMT",
+ "kind": "company",
+ "name": "Lockheed Martin",
+ "tickers": [
+  "LMT"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "F-35 Heritage Flight Team performs in Bell Fort Worth Alliance AirShow",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg/1920px-F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg/500px-F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg",
+   "size": [
+    1920,
+    1484
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Airman 1st Class Alexander Cook, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:F-35_Heritage_Flight_Team_performs_in_Bell_Fort_Worth_Alliance_AirShow.jpg"
+  }
+ ]
+}

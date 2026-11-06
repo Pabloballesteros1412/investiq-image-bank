@@ -1,0 +1,30 @@
+{
+ "id": "COIN",
+ "kind": "company",
+ "name": "Coinbase",
+ "tickers": [
+  "COIN"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Brian Armstrong - TechCrunch Disrupt 2018 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg/1280px-Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg/500px-Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg",
+   "size": [
+    1280,
+    1789
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brian_Armstrong_-_TechCrunch_Disrupt_2018_01.jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "VLO",
+ "kind": "company",
+ "name": "Valero Energy",
+ "tickers": [
+  "VLO"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "Valero Three Rivers Refinery Texas 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Valero_Three_Rivers_Refinery_Texas_2020.jpg/1920px-Valero_Three_Rivers_Refinery_Texas_2020.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Valero_Three_Rivers_Refinery_Texas_2020.jpg/500px-Valero_Three_Rivers_Refinery_Texas_2020.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Larry D. Moore, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Valero_Three_Rivers_Refinery_Texas_2020.jpg"
+  }
+ ]
+}

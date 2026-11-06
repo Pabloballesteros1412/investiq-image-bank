@@ -1,0 +1,30 @@
+{
+ "id": "ARM",
+ "kind": "company",
+ "name": "Arm Holdings",
+ "tickers": [
+  "ARM"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Rene Haas, Arm Holdings CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/0/08/20250506100528%21Rene_Haas_at_SXSW_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/0/08/20250506100528%21Rene_Haas_at_SXSW_2025.jpg",
+   "size": [
+    1280,
+    1743
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Rosiestep, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rene_Haas_at_SXSW_2025.jpg"
+  }
+ ]
+}

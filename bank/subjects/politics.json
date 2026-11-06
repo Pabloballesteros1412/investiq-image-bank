@@ -1,0 +1,114 @@
+{
+ "id": "politics",
+ "kind": "topic",
+ "name": "US politics & markets",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "North Portico of the White House photo Don Ramey Logan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg/1920px-North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg/500px-North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg",
+   "size": [
+    1920,
+    1088
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Don Ramey Logan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg"
+  },
+  {
+   "shows": "The united states capitol building lit up at night",
+   "url": "https://images.unsplash.com/photo-1709432610365-3a3951f9bd6f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbCUyMG5pZ2h0fGVufDF8fHx8MTc5MzkxNjY3Mnww&ixlib=rb-4.1.0&w=1350&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1709432610365-3a3951f9bd6f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbCUyMG5pZ2h0fGVufDF8fHx8MTc5MzkxNjY3Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1350,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nils Huenerfuerst on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nhuenerfuerst?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/the-united-states-capitol-building-lit-up-at-night-J74lRP0UTIM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "View of Oval Office in 2017",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/View_of_Oval_Office_in_2017.jpg/1920px-View_of_Oval_Office_in_2017.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/View_of_Oval_Office_in_2017.jpg/500px-View_of_Oval_Office_in_2017.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "White House, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_Oval_Office_in_2017.jpg"
+  },
+  {
+   "shows": "A large white building with columns with United States Supreme Court Building in the background",
+   "url": "https://images.unsplash.com/photo-1658958327132-a80f8a9409fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwU3RhdGVzJTIwU3VwcmVtZSUyMENvdXJ0JTIwQnVpbGRpbmd8ZW58MXx8fHwxNzkzOTE2Njc1fDA&ixlib=rb-4.1.0&w=2026&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1658958327132-a80f8a9409fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwU3RhdGVzJTIwU3VwcmVtZSUyMENvdXJ0JTIwQnVpbGRpbmd8ZW58MXx8fHwxNzkzOTE2Njc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2026,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Fine Photographics on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@finephotographics?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-white-building-with-columns-with-united-states-supreme-court-building-in-the-background-osJUjMNpcak?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A portable voting booth with instructions",
+   "url": "https://images.unsplash.com/photo-1777428411691-e4d5c3423ed0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8dm90aW5nJTIwYm9vdGh8ZW58MXx8fHwxNzkzOTE2Njc2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1777428411691-e4d5c3423ed0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8dm90aW5nJTIwYm9vdGh8ZW58MXx8fHwxNzkzOTE2Njc2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1694
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Smithsonian on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@smithsonian?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-portable-voting-booth-with-instructions-MmbAC3aUVi0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Donald Trump official portrait",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/500px-Donald_Trump_official_portrait.jpg",
+   "size": [
+    1280,
+    1621
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Shealeah Craighead, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg"
+  }
+ ]
+}

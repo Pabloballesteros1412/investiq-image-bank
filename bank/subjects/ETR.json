@@ -1,0 +1,29 @@
+{
+ "id": "ETR",
+ "kind": "company",
+ "name": "Entergy",
+ "tickers": [
+  "ETR"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Entergy Corp, Ninemile 6 power plant, Louisiana, 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Entergy_Corp%2C_Ninemile_6_power_plant%2C_Louisiana%2C_2019.jpg/1920px-Entergy_Corp%2C_Ninemile_6_power_plant%2C_Louisiana%2C_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Entergy_Corp%2C_Ninemile_6_power_plant%2C_Louisiana%2C_2019.jpg/500px-Entergy_Corp%2C_Ninemile_6_power_plant%2C_Louisiana%2C_2019.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chad Davis, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Entergy_Corp,_Ninemile_6_power_plant,_Louisiana,_2019.jpg"
+  }
+ ]
+}

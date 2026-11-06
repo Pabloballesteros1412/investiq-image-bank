@@ -1,0 +1,29 @@
+{
+ "id": "ORLY",
+ "kind": "company",
+ "name": "O'Reilly Automotive",
+ "tickers": [
+  "ORLY"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "An O'Reilly Auto Parts store in Murphy, North Carolina",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg/1920px-An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg/500px-An_O%27Reilly_Auto_Parts_store_in_Murphy%2C_North_Carolina.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:An_O%27Reilly_Auto_Parts_store_in_Murphy,_North_Carolina.jpg"
+  }
+ ]
+}

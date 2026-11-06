@@ -1,0 +1,29 @@
+{
+ "id": "ULTA",
+ "kind": "company",
+ "name": "Ulta Beauty",
+ "tickers": [
+  "ULTA"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "An Ulta Beauty retail store in Forestville, Maryland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/An_Ulta_Beauty_retail_store_in_Forestville%2C_Maryland.jpg/1920px-An_Ulta_Beauty_retail_store_in_Forestville%2C_Maryland.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/An_Ulta_Beauty_retail_store_in_Forestville%2C_Maryland.jpg/500px-An_Ulta_Beauty_retail_store_in_Forestville%2C_Maryland.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:An_Ulta_Beauty_retail_store_in_Forestville,_Maryland.jpg"
+  }
+ ]
+}

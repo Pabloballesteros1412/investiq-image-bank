@@ -1,0 +1,30 @@
+{
+ "id": "XYL",
+ "kind": "company",
+ "name": "Xylem Inc.",
+ "tickers": [
+  "XYL"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Matthew Pine, Xylem Inc. CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Matthew_Pine_%28P-070311-00-20%29_%28cropped%29.jpg/1280px-Matthew_Pine_%28P-070311-00-20%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Matthew_Pine_%28P-070311-00-20%29_%28cropped%29.jpg/500px-Matthew_Pine_%28P-070311-00-20%29_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1817
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Michael Campanella, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Matthew_Pine_(P-070311-00-20)_(cropped).jpg"
+  }
+ ]
+}

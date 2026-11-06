@@ -1,0 +1,29 @@
+{
+ "id": "NTAP",
+ "kind": "company",
+ "name": "NetApp",
+ "tickers": [
+  "NTAP"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "NetApp Headquarters Sunnyvale",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/0/05/20140601230447%21NetApp_Headquarters_Sunnyvale.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/0/05/20140601230447%21NetApp_Headquarters_Sunnyvale.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "LPS.1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NetApp_Headquarters_Sunnyvale.jpg"
+  }
+ ]
+}

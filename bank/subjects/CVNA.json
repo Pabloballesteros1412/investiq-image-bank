@@ -1,0 +1,80 @@
+{
+ "id": "CVNA",
+ "kind": "company",
+ "name": "Carvana",
+ "tickers": [
+  "CVNA"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Carvana Delorean Back to the Future time machine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Carvana_Delorean_Back_to_the_Future_time_machine_%2847499319902%29.jpg/1280px-Carvana_Delorean_Back_to_the_Future_time_machine_%2847499319902%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Carvana_Delorean_Back_to_the_Future_time_machine_%2847499319902%29.jpg/500px-Carvana_Delorean_Back_to_the_Future_time_machine_%2847499319902%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "zombieite, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carvana_Delorean_Back_to_the_Future_time_machine_(47499319902).jpg"
+  },
+  {
+   "shows": "Carvana (Carvana)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Carvana_%2842974096682%29.jpg/1280px-Carvana_%2842974096682%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Carvana_%2842974096682%29.jpg/500px-Carvana_%2842974096682%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "zombieite, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carvana_(42974096682).jpg"
+  },
+  {
+   "shows": "Carvana Jacksonville, East face",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Carvana_Jacksonville%2C_East_face.jpg/1920px-Carvana_Jacksonville%2C_East_face.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Carvana_Jacksonville%2C_East_face.jpg/500px-Carvana_Jacksonville%2C_East_face.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carvana_Jacksonville,_East_face.jpg"
+  },
+  {
+   "shows": "Ernest Garcia III by Gage Skidmore",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ernest_Garcia_III_by_Gage_Skidmore.jpg/1280px-Ernest_Garcia_III_by_Gage_Skidmore.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ernest_Garcia_III_by_Gage_Skidmore.jpg/500px-Ernest_Garcia_III_by_Gage_Skidmore.jpg",
+   "size": [
+    1280,
+    1654
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ernest_Garcia_III_by_Gage_Skidmore.jpg"
+  }
+ ]
+}

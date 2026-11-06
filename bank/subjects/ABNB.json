@@ -1,0 +1,30 @@
+{
+ "id": "ABNB",
+ "kind": "company",
+ "name": "Airbnb",
+ "tickers": [
+  "ABNB"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Brian Chesky, Airbnb CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brian_Chesky_2025.jpg/1280px-Brian_Chesky_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brian_Chesky_2025.jpg/500px-Brian_Chesky_2025.jpg",
+   "size": [
+    1280,
+    1713
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Celeste Sloman, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brian_Chesky_2025.jpg"
+  }
+ ]
+}

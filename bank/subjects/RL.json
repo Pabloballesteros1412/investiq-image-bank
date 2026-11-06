@@ -1,0 +1,46 @@
+{
+ "id": "RL",
+ "kind": "company",
+ "name": "Ralph Lauren Corporation",
+ "tickers": [
+  "RL"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Ralph's Coffee Rockefeller Center NYC",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ralph%27s_Coffee_Rockefeller_Center_NYC.jpg/1920px-Ralph%27s_Coffee_Rockefeller_Center_NYC.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ralph%27s_Coffee_Rockefeller_Center_NYC.jpg/500px-Ralph%27s_Coffee_Rockefeller_Center_NYC.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ralph%27s_Coffee_Rockefeller_Center_NYC.jpg"
+  },
+  {
+   "shows": "HK Central IFC Mall shop Polo Ralph Lauren Clothing Store March 2026 N13P 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/HK_Central_IFC_Mall_shop_Polo_Ralph_Lauren_Clothing_Store_March_2026_N13P_01.jpg/1920px-HK_Central_IFC_Mall_shop_Polo_Ralph_Lauren_Clothing_Store_March_2026_N13P_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/HK_Central_IFC_Mall_shop_Polo_Ralph_Lauren_Clothing_Store_March_2026_N13P_01.jpg/500px-HK_Central_IFC_Mall_shop_Polo_Ralph_Lauren_Clothing_Store_March_2026_N13P_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Luksongm MWLLOPPEE, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_Central_IFC_Mall_shop_Polo_Ralph_Lauren_Clothing_Store_March_2026_N13P_01.jpg"
+  }
+ ]
+}

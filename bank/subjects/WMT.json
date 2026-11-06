@@ -1,0 +1,47 @@
+{
+ "id": "WMT",
+ "kind": "company",
+ "name": "Walmart",
+ "tickers": [
+  "WMT"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "John Furner headshot 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/John_Furner_headshot_2019.jpg/1280px-John_Furner_headshot_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/John_Furner_headshot_2019.jpg/500px-John_Furner_headshot_2019.jpg",
+   "size": [
+    1280,
+    1918
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Chris Garrison, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:John_Furner_headshot_2019.jpg"
+  },
+  {
+   "shows": "Walmart Store sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Walmart_Store_sign.jpg/1920px-Walmart_Store_sign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Walmart_Store_sign.jpg/500px-Walmart_Store_sign.jpg",
+   "size": [
+    1920,
+    1495
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MikeMozartJeepersMedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_Store_sign.jpg"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "GRMN",
+ "kind": "company",
+ "name": "Garmin",
+ "tickers": [
+  "GRMN"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Garmin Olathe Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Garmin_Olathe_Headquarters.jpg/1920px-Garmin_Olathe_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Garmin_Olathe_Headquarters.jpg/500px-Garmin_Olathe_Headquarters.jpg",
+   "size": [
+    1920,
+    1828
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jake Martin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Garmin_Olathe_Headquarters.jpg"
+  },
+  {
+   "shows": "Garmin Zhongli Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Garmin_Zhongli_Plant_20131028.jpg/1920px-Garmin_Zhongli_Plant_20131028.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Garmin_Zhongli_Plant_20131028.jpg/500px-Garmin_Zhongli_Plant_20131028.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Solomon203, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Garmin_Zhongli_Plant_20131028.jpg"
+  }
+ ]
+}

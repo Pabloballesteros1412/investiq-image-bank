@@ -1,0 +1,29 @@
+{
+ "id": "TGT",
+ "kind": "company",
+ "name": "Target Corporation",
+ "tickers": [
+  "TGT"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Target Corporation",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Target2398.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Target2398.jpg/500px-Target2398.jpg",
+   "size": [
+    1600,
+    1067
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Skinner2398, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Target2398.jpg"
+  }
+ ]
+}

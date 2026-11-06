@@ -1,0 +1,30 @@
+{
+ "id": "MA",
+ "kind": "company",
+ "name": "Mastercard",
+ "tickers": [
+  "MA"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Michael Miebach",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Michael_Miebach.jpg/1280px-Michael_Miebach.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Michael_Miebach.jpg/500px-Michael_Miebach.jpg",
+   "size": [
+    1280,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Drew Gurian, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Michael_Miebach.jpg"
+  }
+ ]
+}

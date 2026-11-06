@@ -1,0 +1,29 @@
+{
+ "id": "JD",
+ "kind": "company",
+ "name": "JD.com",
+ "tickers": [
+  "JD"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Building 1, JD.com Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Building_1%2C_JD.com_Headquarters_%2820240925134055%29.jpg/1920px-Building_1%2C_JD.com_Headquarters_%2820240925134055%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Building_1%2C_JD.com_Headquarters_%2820240925134055%29.jpg/500px-Building_1%2C_JD.com_Headquarters_%2820240925134055%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Building_1,_JD.com_Headquarters_(20240925134055).jpg"
+  }
+ ]
+}

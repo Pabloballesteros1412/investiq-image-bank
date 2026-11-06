@@ -1,0 +1,46 @@
+{
+ "id": "FITB",
+ "kind": "company",
+ "name": "Fifth Third Bancorp",
+ "tickers": [
+  "FITB"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Fifth Third Bank Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fifth_Third_Bank_Headquarters.jpg/1280px-Fifth_Third_Bank_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Fifth_Third_Bank_Headquarters.jpg/500px-Fifth_Third_Bank_Headquarters.jpg",
+   "size": [
+    1280,
+    1702
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "EEJCC, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fifth_Third_Bank_Headquarters.jpg"
+  },
+  {
+   "shows": "Fairborn Fifth Third Bank",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fairborn_Fifth_Third_Bank.jpg/1920px-Fairborn_Fifth_Third_Bank.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Fairborn_Fifth_Third_Bank.jpg/500px-Fairborn_Fifth_Third_Bank.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "loganrickert, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fairborn_Fifth_Third_Bank.jpg"
+  }
+ ]
+}

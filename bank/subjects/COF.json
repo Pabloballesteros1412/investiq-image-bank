@@ -1,0 +1,46 @@
+{
+ "id": "COF",
+ "kind": "company",
+ "name": "Capital One",
+ "tickers": [
+  "COF"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Capital One World Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Capital_One_World_Headquarters.jpg/1280px-Capital_One_World_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Capital_One_World_Headquarters.jpg/500px-Capital_One_World_Headquarters.jpg",
+   "size": [
+    1280,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lluck002, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Capital_One_World_Headquarters.jpg"
+  },
+  {
+   "shows": "Capital One Tower - New Orleans",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Capital_One_Tower_-_New_Orleans.jpg/1920px-Capital_One_Tower_-_New_Orleans.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Capital_One_Tower_-_New_Orleans.jpg/500px-Capital_One_Tower_-_New_Orleans.jpg",
+   "size": [
+    1920,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Capital_One_Tower_-_New_Orleans.jpg"
+  }
+ ]
+}

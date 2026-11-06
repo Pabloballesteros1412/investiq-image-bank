@@ -1,0 +1,29 @@
+{
+ "id": "SHEL",
+ "kind": "company",
+ "name": "Shell",
+ "tickers": [
+  "SHEL"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "011 Shell Centre - global headquarters of Shell plc oil company in London UK",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/011_Shell_Centre_-_global_headquarters_of_Shell_plc_oil_company_in_London_UK.jpg/1280px-011_Shell_Centre_-_global_headquarters_of_Shell_plc_oil_company_in_London_UK.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/011_Shell_Centre_-_global_headquarters_of_Shell_plc_oil_company_in_London_UK.jpg/500px-011_Shell_Centre_-_global_headquarters_of_Shell_plc_oil_company_in_London_UK.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Marek Ślusarczyk ( Tupungato ) Photo portfolio, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:011_Shell_Centre_-_global_headquarters_of_Shell_plc_oil_company_in_London_UK.jpg"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "TSLA",
+ "kind": "company",
+ "name": "Tesla, Inc.",
+ "tickers": [
+  "TSLA"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Elon Musk Colorado 2022 (cropped2)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg/500px-Elon_Musk_Colorado_2022_%28cropped2%29.jpg",
+   "size": [
+    907,
+    1197
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "U.S. Air Force / Trevor Cokley, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Colorado_2022_(cropped2).jpg"
+  }
+ ]
+}

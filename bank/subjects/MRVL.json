@@ -1,0 +1,29 @@
+{
+ "id": "MRVL",
+ "kind": "company",
+ "name": "Marvell Technology",
+ "tickers": [
+  "MRVL"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Crucial CT128M4SSD2 - board - Marvell 88SS9174-BLD2-2890",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg/1920px-Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg/500px-Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg"
+  }
+ ]
+}

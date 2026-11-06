@@ -1,0 +1,63 @@
+{
+ "id": "ADBE",
+ "kind": "company",
+ "name": "Adobe Inc.",
+ "tickers": [
+  "ADBE"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Adobe, Lehi",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe%2C_Lehi_%2853560419845%29.jpg/1920px-Adobe%2C_Lehi_%2853560419845%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe%2C_Lehi_%2853560419845%29.jpg/500px-Adobe%2C_Lehi_%2853560419845%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chad Davis from Minneapolis, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe,_Lehi_(53560419845).jpg"
+  },
+  {
+   "shows": "Shantanu Narayen - the CEO of Adobe Inc",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg/1280px-Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg/500px-Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Brian Cummings Photography, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg"
+  },
+  {
+   "shows": "Adobe Systems Ottawa office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Adobe_Systems_Ottawa_office.jpg/1920px-Adobe_Systems_Ottawa_office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Adobe_Systems_Ottawa_office.jpg/500px-Adobe_Systems_Ottawa_office.jpg",
+   "size": [
+    1920,
+    1354
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Systems_Ottawa_office.jpg"
+  }
+ ]
+}

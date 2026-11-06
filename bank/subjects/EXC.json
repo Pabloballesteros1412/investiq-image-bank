@@ -1,0 +1,29 @@
+{
+ "id": "EXC",
+ "kind": "company",
+ "name": "Exelon",
+ "tickers": [
+  "EXC"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Exelon Building (2016; Beatty, Harvey, Coco Architects Elkus Manfredi Architects), 1310 Point Street, Baltimore, MD",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Exelon_Building_%282016%3B_Beatty%2C_Harvey%2C_Coco_Architects_Elkus_Manfredi_Architects%29%2C_1310_Point_Street%2C_Baltimore%2C_MD_21231_%2848877474433%29.jpg/1920px-Exelon_Building_%282016%3B_Beatty%2C_Harvey%2C_Coco_Architects_Elkus_Manfredi_Architects%29%2C_1310_Point_Street%2C_Baltimore%2C_MD_21231_%2848877474433%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Exelon_Building_%282016%3B_Beatty%2C_Harvey%2C_Coco_Architects_Elkus_Manfredi_Architects%29%2C_1310_Point_Street%2C_Baltimore%2C_MD_21231_%2848877474433%29.jpg/500px-Exelon_Building_%282016%3B_Beatty%2C_Harvey%2C_Coco_Architects_Elkus_Manfredi_Architects%29%2C_1310_Point_Street%2C_Baltimore%2C_MD_21231_%2848877474433%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Baltimore Heritage from Baltimore, MD, USA, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exelon_Building_(2016;_Beatty,_Harvey,_Coco_Architects_Elkus_Manfredi_Architects),_1310_Point_Street,_Baltimore,_MD_21231_(48877474433).jpg"
+  }
+ ]
+}

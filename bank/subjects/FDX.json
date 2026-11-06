@@ -1,0 +1,46 @@
+{
+ "id": "FDX",
+ "kind": "company",
+ "name": "FedEx",
+ "tickers": [
+  "FDX"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "FedEx SmartPost Warehouse",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FedEx_SmartPost_Warehouse_%2848650942916%29.jpg/1920px-FedEx_SmartPost_Warehouse_%2848650942916%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/FedEx_SmartPost_Warehouse_%2848650942916%29.jpg/500px-FedEx_SmartPost_Warehouse_%2848650942916%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FedEx_SmartPost_Warehouse_(48650942916).jpg"
+  },
+  {
+   "shows": "FedEx Office Store",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FedEx_Office_Store_%2813907036445%29.jpg/1920px-FedEx_Office_Store_%2813907036445%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/FedEx_Office_Store_%2813907036445%29.jpg/500px-FedEx_Office_Store_%2813907036445%29.jpg",
+   "size": [
+    1920,
+    1270
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mike Mozart from Funny YouTube, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FedEx_Office_Store_(13907036445).jpg"
+  }
+ ]
+}

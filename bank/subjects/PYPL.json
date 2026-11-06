@@ -1,0 +1,29 @@
+{
+ "id": "PYPL",
+ "kind": "company",
+ "name": "PayPal",
+ "tickers": [
+  "PYPL"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "PayPal San Jose Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PayPal_San_Jose_Headquarters.jpg/1920px-PayPal_San_Jose_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/PayPal_San_Jose_Headquarters.jpg/500px-PayPal_San_Jose_Headquarters.jpg",
+   "size": [
+    1920,
+    1397
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sagar Savla, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PayPal_San_Jose_Headquarters.jpg"
+  }
+ ]
+}

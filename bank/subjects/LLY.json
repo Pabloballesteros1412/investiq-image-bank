@@ -1,0 +1,47 @@
+{
+ "id": "LLY",
+ "kind": "company",
+ "name": "Lilly (Eli)",
+ "tickers": [
+  "LLY"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "David A. Ricks 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/David_A._Ricks_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/David_A._Ricks_2025.jpg/500px-David_A._Ricks_2025.jpg",
+   "size": [
+    1087,
+    1481
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Virginia Office of the Governor, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:David_A._Ricks_2025.jpg"
+  },
+  {
+   "shows": "Eli Lilly Corporate Center, Indianapolis, Indiana, USA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Eli_Lilly_Corporate_Center%2C_Indianapolis%2C_Indiana%2C_USA.jpg/1920px-Eli_Lilly_Corporate_Center%2C_Indianapolis%2C_Indiana%2C_USA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Eli_Lilly_Corporate_Center%2C_Indianapolis%2C_Indiana%2C_USA.jpg/500px-Eli_Lilly_Corporate_Center%2C_Indianapolis%2C_Indiana%2C_USA.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Momoneymoproblemz, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_Corporate_Center,_Indianapolis,_Indiana,_USA.jpg"
+  }
+ ]
+}

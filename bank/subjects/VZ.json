@@ -1,0 +1,29 @@
+{
+ "id": "VZ",
+ "kind": "company",
+ "name": "Verizon",
+ "tickers": [
+  "VZ"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "Verizon Store - Cellular Retail Phone Store",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg/1920px-Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg/500px-Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg",
+   "size": [
+    1920,
+    1270
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Verizon_Store_-_Cellular_Retail_Phone_Store_(47109159491).jpg"
+  }
+ ]
+}

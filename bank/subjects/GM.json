@@ -1,0 +1,47 @@
+{
+ "id": "GM",
+ "kind": "company",
+ "name": "General Motors",
+ "tickers": [
+  "GM"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "GM Renaissance Center - Hôtel le plus haut en Amérique du Nord - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg/1920px-GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg/500px-GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bohao Zhao, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg"
+  },
+  {
+   "shows": "Mary Barra, General Motors CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mary_Barra%2C_official_portrait%2C_Homeland_Security_Council.jpg/1280px-Mary_Barra%2C_official_portrait%2C_Homeland_Security_Council.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mary_Barra%2C_official_portrait%2C_Homeland_Security_Council.jpg/500px-Mary_Barra%2C_official_portrait%2C_Homeland_Security_Council.jpg",
+   "size": [
+    1280,
+    1656
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Benjamin Applebaum, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mary_Barra,_official_portrait,_Homeland_Security_Council.jpg"
+  }
+ ]
+}

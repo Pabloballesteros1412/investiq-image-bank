@@ -1,0 +1,29 @@
+{
+ "id": "BIRK",
+ "kind": "company",
+ "name": "Birkenstock",
+ "tickers": [
+  "BIRK"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Bstore Booragoon (Garden City), 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bstore_Booragoon_%28Garden_City%29%2C_2026_%2801%29.jpg/1280px-Bstore_Booragoon_%28Garden_City%29%2C_2026_%2801%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bstore_Booragoon_%28Garden_City%29%2C_2026_%2801%29.jpg/500px-Bstore_Booragoon_%28Garden_City%29%2C_2026_%2801%29.jpg",
+   "size": [
+    1280,
+    1708
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bstore_Booragoon_(Garden_City),_2026_(01).jpg"
+  }
+ ]
+}

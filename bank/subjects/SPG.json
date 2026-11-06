@@ -1,0 +1,29 @@
+{
+ "id": "SPG",
+ "kind": "company",
+ "name": "Simon Property Group",
+ "tickers": [
+  "SPG"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Simon building Indianapolis (35393p)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Simon_building_Indianapolis_%2835393p%29.jpg/1280px-Simon_building_Indianapolis_%2835393p%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Simon_building_Indianapolis_%2835393p%29.jpg/500px-Simon_building_Indianapolis_%2835393p%29.jpg",
+   "size": [
+    1280,
+    1860
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Simon_building_Indianapolis_(35393p).jpg"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "TEAM",
+ "kind": "company",
+ "name": "Atlassian",
+ "tickers": [
+  "TEAM"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Mike Cannon-Brookes, Atlassian CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mike_Cannon-Brookes_Australian_businessman.jpg/1280px-Mike_Cannon-Brookes_Australian_businessman.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mike_Cannon-Brookes_Australian_businessman.jpg/500px-Mike_Cannon-Brookes_Australian_businessman.jpg",
+   "size": [
+    1280,
+    1786
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Atlassian, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mike_Cannon-Brookes_Australian_businessman.jpg"
+  }
+ ]
+}

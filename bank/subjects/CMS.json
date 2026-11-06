@@ -1,0 +1,29 @@
+{
+ "id": "CMS",
+ "kind": "company",
+ "name": "CMS Energy",
+ "tickers": [
+  "CMS"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Consumers Energy Headquarters, Jackson, Michigan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Consumers_Energy_Headquarters%2C_Jackson%2C_Michigan.jpg/1920px-Consumers_Energy_Headquarters%2C_Jackson%2C_Michigan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Consumers_Energy_Headquarters%2C_Jackson%2C_Michigan.jpg/500px-Consumers_Energy_Headquarters%2C_Jackson%2C_Michigan.jpg",
+   "size": [
+    1920,
+    1357
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WeaponizingArchitecture, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Consumers_Energy_Headquarters,_Jackson,_Michigan.jpg"
+  }
+ ]
+}

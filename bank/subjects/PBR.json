@@ -1,0 +1,63 @@
+{
+ "id": "PBR",
+ "kind": "company",
+ "name": "Petrobras",
+ "tickers": [
+  "PBR"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "Oil platform P-51 (Brazil)-2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Oil_platform_P-51_%28Brazil%29-2.jpg/1920px-Oil_platform_P-51_%28Brazil%29-2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Oil_platform_P-51_%28Brazil%29-2.jpg/500px-Oil_platform_P-51_%28Brazil%29-2.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Divulgação Petrobras / ABr, CC BY 3.0 br, via Wikimedia Commons",
+   "licence": "CC BY 3.0 br",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil)-2.jpg"
+  },
+  {
+   "shows": "Petrobras headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Petrobras_headquarters_%287170475049%29.jpg/1920px-Petrobras_headquarters_%287170475049%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Petrobras_headquarters_%287170475049%29.jpg/500px-Petrobras_headquarters_%287170475049%29.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim Killock, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Petrobras_headquarters_(7170475049).jpg"
+  },
+  {
+   "shows": "Petrobras Headquarters, Rio de Janeiro",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Petrobras_Headquarters%2C_Rio_de_Janeiro.jpg/1280px-Petrobras_Headquarters%2C_Rio_de_Janeiro.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Petrobras_Headquarters%2C_Rio_de_Janeiro.jpg/500px-Petrobras_Headquarters%2C_Rio_de_Janeiro.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Edmund Nigel Gall, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Petrobras_Headquarters,_Rio_de_Janeiro.jpg"
+  }
+ ]
+}

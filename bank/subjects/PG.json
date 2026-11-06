@@ -1,0 +1,46 @@
+{
+ "id": "PG",
+ "kind": "company",
+ "name": "Procter & Gamble",
+ "tickers": [
+  "PG"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Cincinnati-procter-and-gamble-headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cincinnati-procter-and-gamble-headquarters.jpg/1280px-Cincinnati-procter-and-gamble-headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Cincinnati-procter-and-gamble-headquarters.jpg/500px-Cincinnati-procter-and-gamble-headquarters.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Unknown author, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cincinnati-procter-and-gamble-headquarters.jpg"
+  },
+  {
+   "shows": "Procter and Gamble World Headquarters, Cincinnati, OH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862657%29.jpg/1920px-Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862657%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862657%29.jpg/500px-Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862657%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Procter_and_Gamble_World_Headquarters,_Cincinnati,_OH_(32278862657).jpg"
+  }
+ ]
+}

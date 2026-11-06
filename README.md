@@ -2,8 +2,10 @@
 
 Un banco de fotos propio, reales y con licencia libre, para el chat de Claude que hace los carruseles de
 InvestIQ. Tiene 10 fotos por cada empresa del S&P 500 y por cada empresa famosa que cotiza en EE. UU., 10 por
-cada tema de mercado y 10 por cada sector. Las fotos no se copian: el banco guarda el enlace de cada una en
-Wikimedia Commons, qué muestra, su crédito y dónde recortarla. El chat lo lee en `bank/index.json`. Cómo
+cada tema de mercado y 10 por cada sector. Las de empresas vienen de Wikimedia Commons y solo se publican las
+mejores, revisadas a ojo; las de temas y sectores, de Unsplash y Pexels (y de Commons cuando ellos no tienen lo
+que se busca). Las fotos no se copian: el banco guarda el enlace de cada una, qué muestra, su crédito y dónde
+recortarla. El chat lo lee en `bank/index.json`. Cómo
 conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
 
 - **Empresas (unas 590):** las del S&P 500, que se leen de Wikipedia en cada `universe`, más 86 empresas
@@ -18,10 +20,39 @@ conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
   básico, energía, servicios públicos, inmobiliario y materiales. Rellenan los huecos de las empresas que no
   llegan a 10 fotos propias, marcadas como genéricas.
 
+## Estado (4 nov 2026, noche)
+
+Primera construcción completa contra Wikimedia: 3.828 fotos. Tras ver una muestra, Pablo decidió quedarse solo
+con las mejores de Commons y usar Unsplash y Pexels, también para las marcas de las empresas. Las 3.828 se
+revisaron a ojo y **407 tienen nota 3**: son las únicas que publica el índice (336 de empresas: 220 empresas tienen
+al menos una; 71 de temas y sectores). Falta lanzar Unsplash y Pexels, que rellenarán temas, sectores y las
+empresas con marcas: el código está listo y el entorno ya llega a sus dominios, pero faltan sus claves
+(`UNSPLASH_ACCESS_KEY`, `PEXELS_API_KEY`).
+
 ## Construirlo
 
 Hace falta Python 3.9 o superior (sin más paquetes) y acceso a `en.wikipedia.org`, `www.wikidata.org` y
 `commons.wikimedia.org`.
+
+Desde las sesiones de Claude en la nube, Wikimedia frena las llamadas anónimas a su API (error 429, «demasiadas
+peticiones»), porque muchas sesiones salen por las mismas direcciones. Con una cuenta, el límite es el suyo:
+crea una clave de acceso y guárdala en la variable de entorno `WIKIMEDIA_TOKEN`. El programa la usa sola si
+existe. Para crearla, inicia sesión en Wikimedia, confirma tu correo (Wikimedia lo exige:
+<https://meta.wikimedia.org/wiki/Special:ChangeEmail> y después el enlace que te llega) y abre
+<https://meta.wikimedia.org/wiki/Special:OAuthConsumerRegistration/propose/oauth2>, marca «This consumer is for
+use only by …» (solo para tu cuenta: se aprueba al momento), elige «Request authorization for specific
+permissions» sin añadir permisos y copia el «Access token» que aparece al final. No la subas nunca al repo.
+
+Para Unsplash y Pexels hacen falta sus claves en `UNSPLASH_ACCESS_KEY` y `PEXELS_API_KEY` (gratis: en
+<https://unsplash.com/developers>, «New Application», y en <https://www.pexels.com/api/>; Pexels tiene pausada
+la emisión de claves nuevas desde noviembre de 2026, así que de momento el banco usa solo Unsplash). En las
+sesiones de Claude en la nube, la clave se guarda como *Network secret* del entorno: Host `api.unsplash.com`,
+tipo Token, Header `Authorization`, Prefix `Client-ID`, y la clave en Token (para Pexels: Host `api.pexels.com`
+y Prefix vacío). El programa detecta solo que la API responde sin que él mande la clave y acceso a
+`api.unsplash.com`, `images.unsplash.com`, `api.pexels.com` e `images.pexels.com`. Sin clave, esa fuente se
+salta. Unsplash da 50 búsquedas por hora a una aplicación nueva (1.000 cuando la aprueba para producción: se
+pide en su web) y Pexels 200; el programa espera cuando se acaban y guarda las respuestas en `.cache/` (fuera
+del repo), así que repetir una construcción no gasta búsquedas.
 
 ```bash
 python image_bank.py universe
@@ -67,16 +98,49 @@ el chat ve el banco nuevo en cuanto están en GitHub.
 
 ## Cómo elige cada foto
 
+Los temas y sectores buscan cada una de sus 10 tomas en Unsplash, Pexels y Commons. Una foto de Unsplash o
+Pexels solo vale si su descripción nombra todas las palabras de la búsqueda (o una de las palabras `must` de la
+toma), y entonces gana a la de Commons, porque suelen estar mucho mejor hechas. Nunca se usan para personas
+reales, ni las de Unsplash+ (no tienen licencia libre), ni renders, ilustraciones o frases.
+
+Las 236 empresas con marcas de consumo (`brands.json`: Apple → iPhone, MacBook, Apple Store; McDonald's → Big
+Mac; Tesla → Model 3, Cybertruck) completan con fotos de Unsplash y Pexels los huecos que dejan sus fotos de
+Commons aprobadas, hasta 10. Se buscan sus tres primeras marcas, y una foto solo cuenta si su descripción nombra
+una de sus marcas, su nombre completo o su nombre corto cuando no es ambiguo («Apple» también es una fruta;
+«Amazon», un río). Como mucho dos fotos del mismo fotógrafo por empresa. Para añadir o corregir marcas, se edita
+`brands.json` y se ejecuta:
+
+```bash
+python image_bank.py build --kind company --stock-only
+```
+
+que conserva las fotos de Commons aprobadas, no vuelve a buscar en Commons y solo rehace las de marca.
+
 Una empresa recibe primero sus tomas escritas a mano (si las tiene), después su imagen principal de Wikidata,
-una foto de su CEO, las mejores fotos de su categoría de Commons y subcategorías (como mucho dos por
-subcategoría y sin casi duplicados) y, si aún faltan, búsquedas de su sede, tiendas, fábricas y oficinas en
-las que aparezca el nombre de la empresa. Los temas y sectores tienen 10 búsquedas escritas a mano.
+la foto de su CEO (la de la ficha de esa persona en Wikidata; si no hay, una búsqueda con su nombre completo
+que además nombre la empresa), las mejores fotos de su categoría de Commons y de las subcategorías que llevan
+su nombre (como mucho dos por subcategoría y sin casi duplicados) y búsquedas de su sede, tiendas, fábricas y
+oficinas. Los temas y sectores tienen 10 búsquedas escritas a mano.
+
+Para que una foto no pase por de la empresa sin serlo:
+
+- en la categoría de la empresa, solo cuentan las fotos cuyo nombre de archivo dice lo que muestran (no
+  `IMG_0412` ni `P20210825AS-1824`), y nunca las de patrocinios, carreras, equipos, conciertos o eventos, ni las
+  de subcategorías de personas o de empresas participadas (la categoría de NextEra lleva a NASCAR; la de
+  Blackstone, a canciones de Fleetwood Mac);
+- una foto encontrada por búsqueda tiene que nombrar a la empresa y un lugar o cosa suya (sede, tienda,
+  planta, producto...) en el nombre del archivo;
+- si el nombre corto es ambiguo (el artículo «Blackstone», «Target» o «Ball» de Wikipedia es otra cosa), se
+  busca por el nombre completo y la foto tiene que nombrarlo;
+- `shows` dice lo que muestra la foto según su nombre en Commons, no lo que se buscaba.
 
 Solo acepta fotos que cumplen todo esto:
 
 - licencia libre: CC0, dominio público, CC BY o CC BY-SA;
 - al menos 1600 px de lado largo y 1000 px de lado corto, en JPEG o PNG;
-- un nombre de archivo que no indique logo, mapa, gráfico, diagrama, captura o ilustración;
+- un nombre de archivo que no indique logo, mapa, gráfico, diagrama, captura o ilustración, y que no sea una
+  carta, un cuadro o un plano (salvo en tomas históricas), ni de antes de 1960 (salvo en tomas históricas);
+- las fotos de personas pueden ser más pequeñas (1000 px de lado largo);
 - que no se use ya en otra ficha.
 
 Puntúan mejor las fotos destacadas o de calidad de Commons, las que recortan bien a 4:5 y 1:1, las recientes
@@ -84,6 +148,31 @@ Puntúan mejor las fotos destacadas o de calidad de Commons, las que recortan bi
 
 Muchas empresas poco conocidas no tendrán 10 fotos libres propias: el índice lo dice y el chat las completa
 con las de su sector.
+
+## Revisar las fotos de Commons
+
+Las fotos de Commons son muy desiguales, así que cada una lleva una nota en `bank/review.json`, puesta mirándolas:
+3 = de las mejores (se vería bien a toda página en una diapositiva y muestra claramente algo de la empresa o
+del tema), 2 = válida pero sosa, 1 = descartada. **El índice solo publica las de nota 3**, y el programa no vuelve a
+elegir las de nota 1 o 2. Las de Unsplash y Pexels no necesitan nota. Los criterios, con ejemplos, están en
+`RUBRIC.md`.
+
+Después de cada `build`, las fotos nuevas de Commons quedan sin publicar hasta que se revisan:
+
+```bash
+python review.py sheets
+```
+
+crea hojas de 30 fotos numeradas en `review/` (hace falta Pillow). Las fotos de Unsplash y Pexels se publican
+sin nota, pero conviene mirarlas (`python review.py sheets --stock`): una nota 1 o 2 las quita. Las notas se apuntan en un JSON
+(`{"sheet-001": {"3": [1, 2], "2": [5]}}`, las que no se nombran quedan con 1) y se guardan con:
+
+```bash
+python review.py grade review/notas.json
+```
+```bash
+python image_bank.py index
+```
 
 ## Corregir a mano
 
@@ -94,6 +183,9 @@ con las de su sector.
   corrige el campo y añade `"manual": ["commons_category"]` (o el campo que sea). Se mantiene en cada
   `universe`.
 - **Una empresa que falta o sobra:** añádela o quítala en `extras.json`.
+- **Una búsqueda de tema que trae fotos que no son:** en `catalog.json`, en la toma, añade `"must": [...]`
+  (palabras que tienen que aparecer en el nombre o las categorías de la foto) o `"exclude": ["File:…"]`, y
+  ejecuta `python image_bank.py build --only <tema>`.
 
 ## Licencias
 
@@ -106,5 +198,11 @@ con las de su sector.
   entender que la persona respalda InvestIQ. Los logos y productos que salen en las fotos siguen siendo
   marcas de sus dueños.
 - **CEO.** Wikidata dice quién es el CEO, pero puede ir con retraso: comprueba el cargo antes de publicar.
+- **Unsplash y Pexels.** Su licencia permite el uso comercial sin pedir permiso ni citar, aunque ambas piden
+  el crédito («Photo by … on Unsplash») y el banco lo da en `credit`, con el enlace al fotógrafo en
+  `author_url`. No se puede vender la foto tal cual ni montar con ellas otro banco de fotos público.
 - **Enlaces.** Si una foto se borra de Commons, su enlace deja de funcionar. Repetir `build --redo` de vez en
   cuando renueva el banco.
+- **Descargas desde la nube.** Desde direcciones compartidas (sesiones en la nube), `upload.wikimedia.org`
+  también responde 429 a las descargas anónimas. En el navegador de quien ve el carrusel las fotos cargan
+  bien; un script en la nube que las descargue tiene que mandar la clave (`Authorization: Bearer`).

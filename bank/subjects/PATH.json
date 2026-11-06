@@ -1,0 +1,30 @@
+{
+ "id": "PATH",
+ "kind": "company",
+ "name": "UiPath",
+ "tickers": [
+  "PATH"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Daniel Dines, UiPath CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/2021_-_Centre_Stage_EN6_5562_%2851652161468%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/2021_-_Centre_Stage_EN6_5562_%2851652161468%29_%28cropped%29.jpg/500px-2021_-_Centre_Stage_EN6_5562_%2851652161468%29_%28cropped%29.jpg",
+   "size": [
+    1093,
+    1459
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Web Summit, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2021_-_Centre_Stage_EN6_5562_(51652161468)_(cropped).jpg"
+  }
+ ]
+}

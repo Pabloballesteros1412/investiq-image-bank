@@ -1,0 +1,97 @@
+{
+ "id": "investing",
+ "kind": "topic",
+ "name": "Investing basics, retirement & index funds",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "Pink pig coin bank on brown wooden table",
+   "url": "https://images.unsplash.com/photo-1607863680198-23d4b2565df0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1607863680198-23d4b2565df0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Andre Taissin on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@andretaissin?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/pink-pig-coin-bank-on-brown-wooden-table-5OUMf1Mr5pU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two persons sitting on grass facing the lake",
+   "url": "https://images.unsplash.com/photo-1562557082-7f2785d741e7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0aXJlZCUyMGNvdXBsZXxlbnwxfHx8fDE3OTM5MTMwNDh8MA&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1562557082-7f2785d741e7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0aXJlZCUyMGNvdXBsZXxlbnwxfHx8fDE3OTM5MTMwNDh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2256,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Max Harlynking on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@harlynkingm?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/two-persons-sitting-on-grass-facing-the-lake-DGP-759-Ukk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Stacks of gold coins on a dark, textured surface",
+   "url": "https://images.unsplash.com/photo-1755369355222-8146801ccf90?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbnMlMjBzdGFja3xlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1755369355222-8146801ccf90?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbnMlMjBzdGFja3xlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Anthony Aird on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@anthonyaird?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/stacks-of-gold-coins-on-a-dark-textured-surface-MEE_C_8fLvU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Trading apps on an iPhone screen",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Trading_apps_on_an_iPhone_screen.jpg/1920px-Trading_apps_on_an_iPhone_screen.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Trading_apps_on_an_iPhone_screen.jpg/500px-Trading_apps_on_an_iPhone_screen.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "forextime.com, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Trading_apps_on_an_iPhone_screen.jpg"
+  },
+  {
+   "shows": "A woman rows her boat on calm water",
+   "url": "https://images.unsplash.com/photo-1742316027363-9b3d6501715d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1742316027363-9b3d6501715d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Joseph Corl on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jcorl?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-woman-rows-her-boat-on-calm-water-KkdKZdXKvao?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
+}

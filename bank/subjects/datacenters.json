@@ -1,0 +1,149 @@
+{
+ "id": "datacenters",
+ "kind": "topic",
+ "name": "AI data centers & power demand",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "BalticServers data center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/1920px-BalticServers_data_center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/BalticServers_data_center.jpg/500px-BalticServers_data_center.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BalticServers.com, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg"
+  },
+  {
+   "shows": "Data center roof",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/1920px-Data_center_roof.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Data_center_roof.jpg/500px-Data_center_roof.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rsparks3, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Data_center_roof.jpg"
+  },
+  {
+   "shows": "Anchor pylon of high-voltage overhead power line 750 kV",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg/1920px-Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg/500px-Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Novoklimov, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg"
+  },
+  {
+   "shows": "A large grey electrical transformer with metal pipes and cables in a substation",
+   "url": "https://images.unsplash.com/photo-1509390144018-eeaf65052242?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZWxlY3RyaWNhbCUyMHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODk4NTA5fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1509390144018-eeaf65052242?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZWxlY3RyaWNhbCUyMHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODk4NTA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by American Public Power Association on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@publicpowerorg?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/electrical-transformer-in-power-substation-VuR4oHZ3ucc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A server room with rows of black and white cabinets under blue cables",
+   "url": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Taylor Vick on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tvick?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/server-room-with-network-cabinets-aWslrFhs1w4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A rack of servers with wires and wires attached to them",
+   "url": "https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c2VydmVyJTIwcmFja3xlbnwxfHx8fDE3OTM5Mzg0MDN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1698668975271-2ba9a323be6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c2VydmVyJTIwcmFja3xlbnwxfHx8fDE3OTM5Mzg0MDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Yuriy Vertikov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@noa69?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-rack-of-servers-with-wires-and-wires-attached-to-them-c-lSQecD9oI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black transmission towers under green sky",
+   "url": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1413882353314-73389f63b6fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Fré Sonneveld on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@fresonneveld?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-transmission-towers-under-green-sky-q6n8nIrDQHE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An industrial power plant illuminated at night with a full moon in the sky",
+   "url": "https://images.unsplash.com/photo-1509390288171-ce2088f7d08e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1509390288171-ce2088f7d08e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by American Public Power Association on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@publicpowerorg?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/power-plant-illuminated-at-night-bv2pvCGMtzg?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
+}

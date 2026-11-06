@@ -1,0 +1,29 @@
+{
+ "id": "TSCO",
+ "kind": "company",
+ "name": "Tractor Supply",
+ "tickers": [
+  "TSCO"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Tractor Supply Company, GA125, Lowndes County",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg/1920px-Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg/500px-Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mjrmtg, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_GA125,_Lowndes_County.jpg"
+  }
+ ]
+}

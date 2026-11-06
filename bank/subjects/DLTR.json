@@ -1,0 +1,46 @@
+{
+ "id": "DLTR",
+ "kind": "company",
+ "name": "Dollar Tree",
+ "tickers": [
+  "DLTR"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Dollar Tree store in Orlando, Florida",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dollar_Tree_store_in_Orlando%2C_Florida.jpg/1920px-Dollar_Tree_store_in_Orlando%2C_Florida.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dollar_Tree_store_in_Orlando%2C_Florida.jpg/500px-Dollar_Tree_store_in_Orlando%2C_Florida.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dollar_Tree_store_in_Orlando,_Florida.jpg"
+  },
+  {
+   "shows": "Dollar Tree discount store exterior in Greenville, South Carolina 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg/1920px-Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg/500px-Dollar_Tree_discount_store_exterior_in_Greenville%2C_South_Carolina_02.jpg",
+   "size": [
+    1920,
+    1347
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dollar_Tree_discount_store_exterior_in_Greenville,_South_Carolina_02.jpg"
+  }
+ ]
+}

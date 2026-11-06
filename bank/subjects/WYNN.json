@@ -1,0 +1,29 @@
+{
+ "id": "WYNN",
+ "kind": "company",
+ "name": "Wynn Resorts",
+ "tickers": [
+  "WYNN"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Gardens of Wynn Las Vegas May 23 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gardens_of_Wynn_Las_Vegas_May_23_2022.jpg/1280px-Gardens_of_Wynn_Las_Vegas_May_23_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Gardens_of_Wynn_Las_Vegas_May_23_2022.jpg/500px-Gardens_of_Wynn_Las_Vegas_May_23_2022.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Loganfrick, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gardens_of_Wynn_Las_Vegas_May_23_2022.jpg"
+  }
+ ]
+}

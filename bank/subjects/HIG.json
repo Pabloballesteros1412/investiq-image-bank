@@ -1,0 +1,29 @@
+{
+ "id": "HIG",
+ "kind": "company",
+ "name": "Hartford (The)",
+ "tickers": [
+  "HIG"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "The Hartford Fire Insurance Company Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Hartford_Fire_Insurance_Company_Building_%2855620660746%29.jpg/1920px-The_Hartford_Fire_Insurance_Company_Building_%2855620660746%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_Hartford_Fire_Insurance_Company_Building_%2855620660746%29.jpg/500px-The_Hartford_Fire_Insurance_Company_Building_%2855620660746%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Hartford_Fire_Insurance_Company_Building_(55620660746).jpg"
+  }
+ ]
+}

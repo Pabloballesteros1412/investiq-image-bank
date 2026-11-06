@@ -1,0 +1,47 @@
+{
+ "id": "RBLX",
+ "kind": "company",
+ "name": "Roblox",
+ "tickers": [
+  "RBLX"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "David Baszucki, Roblox CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2830633298878%29.jpg/1280px-TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2830633298878%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2830633298878%29.jpg/500px-TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2830633298878%29.jpg",
+   "size": [
+    1280,
+    1652
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_San_Francisco_2018_-_day_1_(30633298878).jpg"
+  },
+  {
+   "shows": "Roblox HQ at 2850 South Delaware Street",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roblox_HQ_at_2850_South_Delaware_Street.jpg/1920px-Roblox_HQ_at_2850_South_Delaware_Street.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roblox_HQ_at_2850_South_Delaware_Street.jpg/500px-Roblox_HQ_at_2850_South_Delaware_Street.jpg",
+   "size": [
+    1920,
+    887
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSegue, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Roblox_HQ_at_2850_South_Delaware_Street.jpg"
+  }
+ ]
+}

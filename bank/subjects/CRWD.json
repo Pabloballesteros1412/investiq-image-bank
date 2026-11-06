@@ -1,0 +1,29 @@
+{
+ "id": "CRWD",
+ "kind": "company",
+ "name": "CrowdStrike",
+ "tickers": [
+  "CRWD"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "150 Mathilda Place",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/150_Mathilda_Place.jpg/1920px-150_Mathilda_Place.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/150_Mathilda_Place.jpg/500px-150_Mathilda_Place.jpg",
+   "size": [
+    1920,
+    1319
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:150_Mathilda_Place.jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "GSK",
+ "kind": "company",
+ "name": "GSK",
+ "tickers": [
+  "GSK"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "GlaxoSmithKline building, London, 30 July 2007 ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GlaxoSmithKline_building%2C_London%2C_30_July_2007_%28cropped%29.jpg/1280px-GlaxoSmithKline_building%2C_London%2C_30_July_2007_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GlaxoSmithKline_building%2C_London%2C_30_July_2007_%28cropped%29.jpg/500px-GlaxoSmithKline_building%2C_London%2C_30_July_2007_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1641
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ian Wilson, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GlaxoSmithKline_building,_London,_30_July_2007_(cropped).jpg"
+  }
+ ]
+}

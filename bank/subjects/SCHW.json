@@ -1,0 +1,29 @@
+{
+ "id": "SCHW",
+ "kind": "company",
+ "name": "Charles Schwab Corporation",
+ "tickers": [
+  "SCHW"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Charles Schwab Investments Office - Bethesda - Maryland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Charles_Schwab_Investments_Office_-_Bethesda_-_Maryland_%2853767215274%29.jpg/1920px-Charles_Schwab_Investments_Office_-_Bethesda_-_Maryland_%2853767215274%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Charles_Schwab_Investments_Office_-_Bethesda_-_Maryland_%2853767215274%29.jpg/500px-Charles_Schwab_Investments_Office_-_Bethesda_-_Maryland_%2853767215274%29.jpg",
+   "size": [
+    1920,
+    1208
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Charles_Schwab_Investments_Office_-_Bethesda_-_Maryland_(53767215274).jpg"
+  }
+ ]
+}

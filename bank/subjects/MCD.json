@@ -1,0 +1,46 @@
+{
+ "id": "MCD",
+ "kind": "company",
+ "name": "McDonald's",
+ "tickers": [
+  "MCD"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Big Mac hamburger",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Big_Mac_hamburger.jpg/1920px-Big_Mac_hamburger.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Big_Mac_hamburger.jpg/500px-Big_Mac_hamburger.jpg",
+   "size": [
+    1920,
+    1658
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Evan-Amos, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Big_Mac_hamburger.jpg"
+  },
+  {
+   "shows": "McDonald's Taiwan headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/McDonald%27s_Taiwan_headquarters_20190728.jpg/1920px-McDonald%27s_Taiwan_headquarters_20190728.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/McDonald%27s_Taiwan_headquarters_20190728.jpg/500px-McDonald%27s_Taiwan_headquarters_20190728.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_Taiwan_headquarters_20190728.jpg"
+  }
+ ]
+}

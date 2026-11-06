@@ -1,0 +1,29 @@
+{
+ "id": "WFC",
+ "kind": "company",
+ "name": "Wells Fargo",
+ "tickers": [
+  "WFC"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Wells Fargo Bank in Cheyenne Wyoming",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wells_Fargo_Bank_in_Cheyenne_Wyoming_%2854000011678%29.jpg/1920px-Wells_Fargo_Bank_in_Cheyenne_Wyoming_%2854000011678%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wells_Fargo_Bank_in_Cheyenne_Wyoming_%2854000011678%29.jpg/500px-Wells_Fargo_Bank_in_Cheyenne_Wyoming_%2854000011678%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_in_Cheyenne_Wyoming_(54000011678).jpg"
+  }
+ ]
+}

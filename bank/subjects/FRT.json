@@ -1,0 +1,29 @@
+{
+ "id": "FRT",
+ "kind": "company",
+ "name": "Federal Realty Investment Trust",
+ "tickers": [
+  "FRT"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Federal Realty HQ roofline North Bethesda MD 19-07-32",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Federal_Realty_HQ_roofline_North_Bethesda_MD_2024-05-24_19-07-32.jpg/1920px-Federal_Realty_HQ_roofline_North_Bethesda_MD_2024-05-24_19-07-32.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Federal_Realty_HQ_roofline_North_Bethesda_MD_2024-05-24_19-07-32.jpg/500px-Federal_Realty_HQ_roofline_North_Bethesda_MD_2024-05-24_19-07-32.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "G. Edward Johnson, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Federal_Realty_HQ_roofline_North_Bethesda_MD_2024-05-24_19-07-32.jpg"
+  }
+ ]
+}

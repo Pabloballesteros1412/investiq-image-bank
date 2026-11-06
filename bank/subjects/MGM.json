@@ -1,0 +1,29 @@
+{
+ "id": "MGM",
+ "kind": "company",
+ "name": "MGM Resorts",
+ "tickers": [
+  "MGM"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Luxor Hotel Feb - 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luxor_Hotel_Feb_-_2019.jpg/1280px-Luxor_Hotel_Feb_-_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luxor_Hotel_Feb_-_2019.jpg/500px-Luxor_Hotel_Feb_-_2019.jpg",
+   "size": [
+    1280,
+    1734
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sisternaconstanza, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Luxor_Hotel_Feb_-_2019.jpg"
+  }
+ ]
+}

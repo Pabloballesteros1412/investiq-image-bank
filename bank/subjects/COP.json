@@ -1,0 +1,64 @@
+{
+ "id": "COP",
+ "kind": "company",
+ "name": "ConocoPhillips",
+ "tickers": [
+  "COP"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "Ryan Lance, ConocoPhillips CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ConocoPhillips_CEO_Ryan_Lance_%2846788331325%29.jpg/1920px-ConocoPhillips_CEO_Ryan_Lance_%2846788331325%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/ConocoPhillips_CEO_Ryan_Lance_%2846788331325%29.jpg/500px-ConocoPhillips_CEO_Ryan_Lance_%2846788331325%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Bartolomej Tomic, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ConocoPhillips_CEO_Ryan_Lance_(46788331325).jpg"
+  },
+  {
+   "shows": "Conoco-Phillips Building (Anchorage) ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Conoco-Phillips_Building_%28Anchorage%29_%28cropped%29.jpg/1280px-Conoco-Phillips_Building_%28Anchorage%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Conoco-Phillips_Building_%28Anchorage%29_%28cropped%29.jpg/500px-Conoco-Phillips_Building_%28Anchorage%29_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1641
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Conoco-Phillips_Building_(Anchorage)_(cropped).jpg"
+  },
+  {
+   "shows": "ConocoPhillips Company Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ConocoPhillips_Company_Headquarters.jpg/1920px-ConocoPhillips_Company_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ConocoPhillips_Company_Headquarters.jpg/500px-ConocoPhillips_Company_Headquarters.jpg",
+   "size": [
+    1920,
+    1013
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Scotthydril, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ConocoPhillips_Company_Headquarters.jpg"
+  }
+ ]
+}

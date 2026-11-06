@@ -1,0 +1,29 @@
+{
+ "id": "COST",
+ "kind": "company",
+ "name": "Costco",
+ "tickers": [
+  "COST"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Costco Hangzhou Store",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/20260918_Costco_Hangzhou_Store.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/20260918_Costco_Hangzhou_Store.jpg/500px-20260918_Costco_Hangzhou_Store.jpg",
+   "size": [
+    1800,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Windmemories, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:20260918_Costco_Hangzhou_Store.jpg"
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "WDAY",
+ "kind": "company",
+ "name": "Workday, Inc.",
+ "tickers": [
+  "WDAY"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Aneel Bhusri, Workday, Inc. CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aneel_Bhusri_%288518025145%29_%28cropped%29.jpg/1280px-Aneel_Bhusri_%288518025145%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aneel_Bhusri_%288518025145%29_%28cropped%29.jpg/500px-Aneel_Bhusri_%288518025145%29_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Loic Le Meur from France, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aneel_Bhusri_(8518025145)_(cropped).jpg"
+  }
+ ]
+}

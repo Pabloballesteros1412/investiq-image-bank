@@ -1,0 +1,115 @@
+{
+ "id": "sector-tech",
+ "kind": "sector",
+ "name": "Technology sector",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "A rack of servers in a server room",
+   "url": "https://images.unsplash.com/photo-1695668548342-c0c1ad479aee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1695668548342-c0c1ad479aee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kevin Ache on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kevinache?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-rack-of-servers-in-a-server-room-2JJ3wBHu4_0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Laptop screen displaying colorful code",
+   "url": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bGFwdG9wJTIwY29kZXxlbnwxfHx8fDE3OTM4Nzc5OTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bGFwdG9wJTIwY29kZXxlbnwxfHx8fDE3OTM4Nzc5OTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mohammad Rahmani on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@afgprogrammer?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/laptop-screen-displaying-colorful-code-8qEB0fTe9Vw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person holding black android smartphone",
+   "url": "https://images.unsplash.com/photo-1592890288564-76628a30a657?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c21hcnRwaG9uZXxlbnwxfHx8fDE3OTM4NzgwMDB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1592890288564-76628a30a657?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c21hcnRwaG9uZXxlbnwxfHx8fDE3OTM4NzgwMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jonas Leupe on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jonasleupe?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-holding-black-android-smartphone-wK-elt11pF0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Green and white circuit board",
+   "url": "https://images.unsplash.com/photo-1555589228-135c25ae8cf5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNpcmN1aXQlMjBib2FyZCUyMG1hY3JvfGVufDF8fHx8MTc5Mzg3ODAwMXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1555589228-135c25ae8cf5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNpcmN1aXQlMjBib2FyZCUyMG1hY3JvfGVufDF8fHx8MTc5Mzg3ODAwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Magnus Engø on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@magnusengo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/green-and-white-circuit-board-mbXEkW5ZyBQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "NOIRLab HQ Server Racks (6V6A0375-CC)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NOIRLab_HQ_Server_Racks_%286V6A0375-CC%29.jpg/1920px-NOIRLab_HQ_Server_Racks_%286V6A0375-CC%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NOIRLab_HQ_Server_Racks_%286V6A0375-CC%29.jpg/500px-NOIRLab_HQ_Server_Racks_%286V6A0375-CC%29.jpg",
+   "size": [
+    1920,
+    1385
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NOIRLab/NSF/AURA/T. Slovinský, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0375-CC).jpg"
+  },
+  {
+   "shows": "A computer processor held by black tweezers against a neutral background",
+   "url": "https://images.unsplash.com/photo-1494083306499-e22e4a457632?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y29tcHV0ZXIlMjBjaGlwfGVufDF8fHx8MTc5Mzg4MDcwNnww&ixlib=rb-4.1.0&w=2254&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1494083306499-e22e4a457632?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y29tcHV0ZXIlMjBjaGlwfGVufDF8fHx8MTc5Mzg4MDcwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2254,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Brian Kostiuk on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@briankost?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/computer-processor-held-by-tweezers-S4jSvcHYcOs?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
+}

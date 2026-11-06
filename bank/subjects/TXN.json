@@ -1,0 +1,29 @@
+{
+ "id": "TXN",
+ "kind": "company",
+ "name": "Texas Instruments",
+ "tickers": [
+  "TXN"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Texas Instruments Headquarters (TI)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Texas_Instruments_Headquarters_%28TI%29.jpg/1920px-Texas_Instruments_Headquarters_%28TI%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Texas_Instruments_Headquarters_%28TI%29.jpg/500px-Texas_Instruments_Headquarters_%28TI%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Headquarters_(TI).jpg"
+  }
+ ]
+}

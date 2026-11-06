@@ -1,0 +1,47 @@
+{
+ "id": "NET",
+ "kind": "company",
+ "name": "Cloudflare",
+ "tickers": [
+  "NET"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Matthew Prince, Cloudflare CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TechCrunch_Disrupt_SF_2015_-_Day_Two_-_001_%2821643811351%29.jpg/1280px-TechCrunch_Disrupt_SF_2015_-_Day_Two_-_001_%2821643811351%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TechCrunch_Disrupt_SF_2015_-_Day_Two_-_001_%2821643811351%29.jpg/500px-TechCrunch_Disrupt_SF_2015_-_Day_Two_-_001_%2821643811351%29.jpg",
+   "size": [
+    1280,
+    1924
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_SF_2015_-_Day_Two_-_001_(21643811351).jpg"
+  },
+  {
+   "shows": "Lava lamp wall at Cloudflare office -1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lava_lamp_wall_at_Cloudflare_office_-1.jpg/1920px-Lava_lamp_wall_at_Cloudflare_office_-1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Lava_lamp_wall_at_Cloudflare_office_-1.jpg/500px-Lava_lamp_wall_at_Cloudflare_office_-1.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HaeB, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lava_lamp_wall_at_Cloudflare_office_-1.jpg"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "id": "T",
+ "kind": "company",
+ "name": "AT&T",
+ "tickers": [
+  "T"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "John Stankey, AT&T CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/John_Stankey_%2854598693935%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/John_Stankey_%2854598693935%29_%28cropped%29.jpg/500px-John_Stankey_%2854598693935%29_%28cropped%29.jpg",
+   "size": [
+    838,
+    1088
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "DHSgov, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:John_Stankey_(54598693935)_(cropped).jpg"
+  },
+  {
+   "shows": "An AT&T wireless retail store in Asheville, North Carolina 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/An_AT%26T_wireless_retail_store_in_Asheville%2C_North_Carolina_01.jpg/1920px-An_AT%26T_wireless_retail_store_in_Asheville%2C_North_Carolina_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/An_AT%26T_wireless_retail_store_in_Asheville%2C_North_Carolina_01.jpg/500px-An_AT%26T_wireless_retail_store_in_Asheville%2C_North_Carolina_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:An_AT%26T_wireless_retail_store_in_Asheville,_North_Carolina_01.jpg"
+  }
+ ]
+}

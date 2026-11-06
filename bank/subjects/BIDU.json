@@ -1,0 +1,46 @@
+{
+ "id": "BIDU",
+ "kind": "company",
+ "name": "Baidu",
+ "tickers": [
+  "BIDU"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "Baidu Technology Park at ZPark Phase II",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Baidu_Technology_Park_at_ZPark_Phase_II_%2820220502113650%29.jpg/1920px-Baidu_Technology_Park_at_ZPark_Phase_II_%2820220502113650%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Baidu_Technology_Park_at_ZPark_Phase_II_%2820220502113650%29.jpg/500px-Baidu_Technology_Park_at_ZPark_Phase_II_%2820220502113650%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Baidu_Technology_Park_at_ZPark_Phase_II_(20220502113650).jpg"
+  },
+  {
+   "shows": "Baidu office at Shanghai Yangpu Knowledge & Innovation Community",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Baidu_office_at_Shanghai_Yangpu_Knowledge_%26_Innovation_Community.jpg/1920px-Baidu_office_at_Shanghai_Yangpu_Knowledge_%26_Innovation_Community.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Baidu_office_at_Shanghai_Yangpu_Knowledge_%26_Innovation_Community.jpg/500px-Baidu_office_at_Shanghai_Yangpu_Knowledge_%26_Innovation_Community.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "simone.brunozzi, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Baidu_office_at_Shanghai_Yangpu_Knowledge_%26_Innovation_Community.jpg"
+  }
+ ]
+}

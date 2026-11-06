@@ -1,0 +1,29 @@
+{
+ "id": "NDAQ",
+ "kind": "company",
+ "name": "Nasdaq, Inc.",
+ "tickers": [
+  "NDAQ"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "NYC - Midtown Manhattan – Times Square – Broadway by night - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/NYC_-_Midtown_Manhattan_%E2%80%93_Times_Square_%E2%80%93_Broadway_by_night_-_panoramio_%282%29.jpg/1280px-NYC_-_Midtown_Manhattan_%E2%80%93_Times_Square_%E2%80%93_Broadway_by_night_-_panoramio_%282%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/NYC_-_Midtown_Manhattan_%E2%80%93_Times_Square_%E2%80%93_Broadway_by_night_-_panoramio_%282%29.jpg/500px-NYC_-_Midtown_Manhattan_%E2%80%93_Times_Square_%E2%80%93_Broadway_by_night_-_panoramio_%282%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "giggel, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NYC_-_Midtown_Manhattan_%E2%80%93_Times_Square_%E2%80%93_Broadway_by_night_-_panoramio_(2).jpg"
+  }
+ ]
+}

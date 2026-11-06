@@ -1,0 +1,77 @@
+{
+ "id": "quantum",
+ "kind": "topic",
+ "name": "Quantum computing",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "A quantum computer with gold plates and intricate silver wiring against a black background",
+   "url": "https://images.unsplash.com/photo-1681908571122-97f349e1ace0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cXVhbnR1bSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5MzkyMDI0NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1681908571122-97f349e1ace0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cXVhbnR1bSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5MzkyMDI0NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Planet Volumes on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@planetvolumes?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/quantum-computer-with-gold-plates-7dRmpT3vxV8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Dilution Fridge 008 16K",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dilution_Fridge_008_16K.png/1920px-Dilution_Fridge_008_16K.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Dilution_Fridge_008_16K.png/500px-Dilution_Fridge_008_16K.png",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "OJB Quantum, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dilution_Fridge_008_16K.png"
+  },
+  {
+   "shows": "Measuring a qubit leaves no room for error",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Measuring_a_qubit_leaves_no_room_for_error.jpg/1920px-Measuring_a_qubit_leaves_no_room_for_error.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Measuring_a_qubit_leaves_no_room_for_error.jpg/500px-Measuring_a_qubit_leaves_no_room_for_error.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "FMNLab, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Measuring_a_qubit_leaves_no_room_for_error.jpg"
+  },
+  {
+   "shows": "IBM Quantum System One",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/IBM_Quantum_System_One.jpg/1280px-IBM_Quantum_System_One.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/IBM_Quantum_System_One.jpg/500px-IBM_Quantum_System_One.jpg",
+   "size": [
+    1280,
+    1700
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "OJB Quantum, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg"
+  }
+ ]
+}

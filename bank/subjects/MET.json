@@ -1,0 +1,63 @@
+{
+ "id": "MET",
+ "kind": "company",
+ "name": "MetLife",
+ "tickers": [
+  "MET"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "MetLife Building with Grand Central Terminal in the foreground.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/MetLIfe_GC.JPG/1920px-MetLIfe_GC.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/MetLIfe_GC.JPG/500px-MetLIfe_GC.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jnn13, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MetLIfe_GC.JPG"
+  },
+  {
+   "shows": "Walter Gropius photo MetLife Building fassade New York USA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg/500px-Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg",
+   "size": [
+    1143,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Unknown author, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg"
+  },
+  {
+   "shows": "Metlife Building Und Chrysler Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg/1920px-Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg/500px-Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Udo R, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Metlife_Building_Und_Chrysler_Building_(136757291).jpeg"
+  }
+ ]
+}

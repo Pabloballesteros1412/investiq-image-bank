@@ -1,0 +1,46 @@
+{
+ "id": "PFE",
+ "kind": "company",
+ "name": "Pfizer",
+ "tickers": [
+  "PFE"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Pfizer World Headquarters Entrance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pfizer_World_Headquarters_Entrance.jpg/1920px-Pfizer_World_Headquarters_Entrance.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pfizer_World_Headquarters_Entrance.jpg/500px-Pfizer_World_Headquarters_Entrance.jpg",
+   "size": [
+    1920,
+    1303
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pfizer_World_Headquarters_Entrance.jpg"
+  },
+  {
+   "shows": "Pfizer-BioNTech COVID-19 vaccine D",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pfizer-BioNTech_COVID-19_vaccine_%282020%29_D.jpg/1920px-Pfizer-BioNTech_COVID-19_vaccine_%282020%29_D.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pfizer-BioNTech_COVID-19_vaccine_%282020%29_D.jpg/500px-Pfizer-BioNTech_COVID-19_vaccine_%282020%29_D.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Secretary of Defense, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pfizer-BioNTech_COVID-19_vaccine_(2020)_D.jpg"
+  }
+ ]
+}

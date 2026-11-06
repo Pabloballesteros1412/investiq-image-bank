@@ -1,0 +1,29 @@
+{
+ "id": "PNC",
+ "kind": "company",
+ "name": "PNC Financial Services",
+ "tickers": [
+  "PNC"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "PNC Corporate Headquarters - Pittsburgh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PNC_Corporate_Headquarters_-_Pittsburgh_%2848171777871%29.jpg/1920px-PNC_Corporate_Headquarters_-_Pittsburgh_%2848171777871%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PNC_Corporate_Headquarters_-_Pittsburgh_%2848171777871%29.jpg/500px-PNC_Corporate_Headquarters_-_Pittsburgh_%2848171777871%29.jpg",
+   "size": [
+    1920,
+    1284
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PNC_Corporate_Headquarters_-_Pittsburgh_(48171777871).jpg"
+  }
+ ]
+}

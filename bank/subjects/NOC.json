@@ -1,0 +1,29 @@
+{
+ "id": "NOC",
+ "kind": "company",
+ "name": "Northrop Grumman",
+ "tickers": [
+  "NOC"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "NASA, Northrop Grumman Test Fire SLS BOLE Booster (Water tower)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NASA%2C_Northrop_Grumman_Test_Fire_SLS_BOLE_Booster_%28Water_tower%29.jpg/1920px-NASA%2C_Northrop_Grumman_Test_Fire_SLS_BOLE_Booster_%28Water_tower%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/NASA%2C_Northrop_Grumman_Test_Fire_SLS_BOLE_Booster_%28Water_tower%29.jpg/500px-NASA%2C_Northrop_Grumman_Test_Fire_SLS_BOLE_Booster_%28Water_tower%29.jpg",
+   "size": [
+    1920,
+    1220
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Marshall Space Flight Center / Northrop Gumman/Dylan Baker, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NASA,_Northrop_Grumman_Test_Fire_SLS_BOLE_Booster_(Water_tower).jpg"
+  }
+ ]
+}

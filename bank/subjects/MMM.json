@@ -1,0 +1,46 @@
+{
+ "id": "MMM",
+ "kind": "company",
+ "name": "3M",
+ "tickers": [
+  "MMM"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "3-M Building Maplewood MN1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/3-M_Building_Maplewood_MN1.jpg/1920px-3-M_Building_Maplewood_MN1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/3-M_Building_Maplewood_MN1.jpg/500px-3-M_Building_Maplewood_MN1.jpg",
+   "size": [
+    1920,
+    1232
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Acroterion, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:3-M_Building_Maplewood_MN1.jpg"
+  },
+  {
+   "shows": "3M Corporate Headquarters - Minnesota",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/3M_Corporate_Headquarters_-_Minnesota_%2848614471286%29.jpg/1920px-3M_Corporate_Headquarters_-_Minnesota_%2848614471286%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/3M_Corporate_Headquarters_-_Minnesota_%2848614471286%29.jpg/500px-3M_Corporate_Headquarters_-_Minnesota_%2848614471286%29.jpg",
+   "size": [
+    1920,
+    1257
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:3M_Corporate_Headquarters_-_Minnesota_(48614471286).jpg"
+  }
+ ]
+}

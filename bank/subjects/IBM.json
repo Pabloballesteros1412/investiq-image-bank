@@ -1,0 +1,29 @@
+{
+ "id": "IBM",
+ "kind": "company",
+ "name": "IBM",
+ "tickers": [
+  "IBM"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "IBM Q system (Fraunhofer 2)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IBM_Q_system_%28Fraunhofer_2%29.jpg/1920px-IBM_Q_system_%28Fraunhofer_2%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IBM_Q_system_%28Fraunhofer_2%29.jpg/500px-IBM_Q_system_%28Fraunhofer_2%29.jpg",
+   "size": [
+    1920,
+    1332
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "IBM Research, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg"
+  }
+ ]
+}

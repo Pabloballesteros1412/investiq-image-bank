@@ -1,0 +1,29 @@
+{
+ "id": "RCL",
+ "kind": "company",
+ "name": "Royal Caribbean Group",
+ "tickers": [
+  "RCL"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Utopia of the Seas departing Port Canaveral, Florida",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Utopia_of_the_Seas_departing_Port_Canaveral%2C_Florida.jpg/1920px-Utopia_of_the_Seas_departing_Port_Canaveral%2C_Florida.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Utopia_of_the_Seas_departing_Port_Canaveral%2C_Florida.jpg/500px-Utopia_of_the_Seas_departing_Port_Canaveral%2C_Florida.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Iancrwebb, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Utopia_of_the_Seas_departing_Port_Canaveral,_Florida.jpg"
+  }
+ ]
+}

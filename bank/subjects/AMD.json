@@ -1,0 +1,47 @@
+{
+ "id": "AMD",
+ "kind": "company",
+ "name": "Advanced Micro Devices",
+ "tickers": [
+  "AMD"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "AMD Ryzen 7 1800X",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/AMD_Ryzen_7_1800X.jpg/1920px-AMD_Ryzen_7_1800X.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/AMD_Ryzen_7_1800X.jpg/500px-AMD_Ryzen_7_1800X.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Brian Wong, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_7_1800X.jpg"
+  },
+  {
+   "shows": "SXSW-2024-alih-OB7A0861-Lisa Su",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/SXSW-2024-alih-OB7A0861-Lisa_Su.jpg/1280px-SXSW-2024-alih-OB7A0861-Lisa_Su.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/SXSW-2024-alih-OB7A0861-Lisa_Su.jpg/500px-SXSW-2024-alih-OB7A0861-Lisa_Su.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Fuzheado, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SXSW-2024-alih-OB7A0861-Lisa_Su.jpg"
+  }
+ ]
+}

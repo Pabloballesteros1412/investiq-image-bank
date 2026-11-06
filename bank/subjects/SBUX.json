@@ -1,0 +1,46 @@
+{
+ "id": "SBUX",
+ "kind": "company",
+ "name": "Starbucks",
+ "tickers": [
+  "SBUX"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Starbucks Soto Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Starbucks_Soto_Headquarters.jpg/1920px-Starbucks_Soto_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Starbucks_Soto_Headquarters.jpg/500px-Starbucks_Soto_Headquarters.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mannivu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Soto_Headquarters.jpg"
+  },
+  {
+   "shows": "Starbucks Center in Seattle, Washington (headquarters of Starbucks Coffee). Photographed by user Coolcaesar on May 30, 2016.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/1920px-Starbuckscenter.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Starbuckscenter.jpg/500px-Starbuckscenter.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbuckscenter.jpg"
+  }
+ ]
+}

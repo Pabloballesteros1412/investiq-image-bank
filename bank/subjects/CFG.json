@@ -1,0 +1,29 @@
+{
+ "id": "CFG",
+ "kind": "company",
+ "name": "Citizens Financial Group",
+ "tickers": [
+  "CFG"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Citizens Bank - Silver Spring, Maryland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Citizens_Bank_-_Silver_Spring%2C_Maryland.jpg/1920px-Citizens_Bank_-_Silver_Spring%2C_Maryland.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Citizens_Bank_-_Silver_Spring%2C_Maryland.jpg/500px-Citizens_Bank_-_Silver_Spring%2C_Maryland.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Citizens_Bank_-_Silver_Spring,_Maryland.jpg"
+  }
+ ]
+}

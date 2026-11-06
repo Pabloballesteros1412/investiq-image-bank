@@ -1,0 +1,29 @@
+{
+ "id": "LIN",
+ "kind": "company",
+ "name": "Linde plc",
+ "tickers": [
+  "LIN"
+ ],
+ "sector": "sector-materials",
+ "fill_from": "sector-materials",
+ "photos": [
+  {
+   "shows": "Storage tanks by Linde group, Schiedam-8228",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Storage_tanks_by_Linde_group%2C_Schiedam-8228.jpg/1920px-Storage_tanks_by_Linde_group%2C_Schiedam-8228.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Storage_tanks_by_Linde_group%2C_Schiedam-8228.jpg/500px-Storage_tanks_by_Linde_group%2C_Schiedam-8228.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Storage_tanks_by_Linde_group,_Schiedam-8228.jpg"
+  }
+ ]
+}

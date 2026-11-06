@@ -1,0 +1,30 @@
+{
+ "id": "MU",
+ "kind": "company",
+ "name": "Micron Technology",
+ "tickers": [
+  "MU"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Sanjay Mehrotra - Micron",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sanjay_Mehrotra_-_Micron.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sanjay_Mehrotra_-_Micron.png/500px-Sanjay_Mehrotra_-_Micron.png",
+   "size": [
+    1829,
+    2060
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Micron Technology, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sanjay_Mehrotra_-_Micron.png"
+  }
+ ]
+}

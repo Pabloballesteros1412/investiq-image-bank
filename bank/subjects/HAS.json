@@ -1,0 +1,46 @@
+{
+ "id": "HAS",
+ "kind": "company",
+ "name": "Hasbro",
+ "tickers": [
+  "HAS"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Hasbro, Inc. world headquarters Pawtucket",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hasbro%2C_Inc._world_headquarters_Pawtucket.jpg/1920px-Hasbro%2C_Inc._world_headquarters_Pawtucket.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Hasbro%2C_Inc._world_headquarters_Pawtucket.jpg/500px-Hasbro%2C_Inc._world_headquarters_Pawtucket.jpg",
+   "size": [
+    1920,
+    1654
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hasbro,_Inc._world_headquarters_Pawtucket.jpg"
+  },
+  {
+   "shows": "Mr Potato Head at Hasbro Pawtucket headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg/1920px-Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg/500px-Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg"
+  }
+ ]
+}

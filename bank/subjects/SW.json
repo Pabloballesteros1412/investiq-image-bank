@@ -1,0 +1,46 @@
+{
+ "id": "SW",
+ "kind": "company",
+ "name": "Smurfit Westrock",
+ "tickers": [
+  "SW"
+ ],
+ "sector": "sector-materials",
+ "fill_from": "sector-materials",
+ "photos": [
+  {
+   "shows": "Smurfit Kappa Lauenburg, Germany",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smurfit_Kappa_Lauenburg%2C_Germany.jpg/1920px-Smurfit_Kappa_Lauenburg%2C_Germany.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smurfit_Kappa_Lauenburg%2C_Germany.jpg/500px-Smurfit_Kappa_Lauenburg%2C_Germany.jpg",
+   "size": [
+    1920,
+    1328
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gerd Fahrenhorst, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Smurfit_Kappa_Lauenburg,_Germany.jpg"
+  },
+  {
+   "shows": "Smurfit Westrock Covington Mill (Virginia paper mill)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Smurfit_Westrock_Covington_Mill_%28Virginia_paper_mill%29.jpg/1920px-Smurfit_Westrock_Covington_Mill_%28Virginia_paper_mill%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Smurfit_Westrock_Covington_Mill_%28Virginia_paper_mill%29.jpg/500px-Smurfit_Westrock_Covington_Mill_%28Virginia_paper_mill%29.jpg",
+   "size": [
+    1920,
+    1371
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Smurfit_Westrock_Covington_Mill_(Virginia_paper_mill).jpg"
+  }
+ ]
+}

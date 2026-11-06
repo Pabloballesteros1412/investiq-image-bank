@@ -1,0 +1,29 @@
+{
+ "id": "CMG",
+ "kind": "company",
+ "name": "Chipotle Mexican Grill",
+ "tickers": [
+  "CMG"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Chipotle Mexican Grill in Markham, ON",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ChipotleMexicanGrillMarkham.jpg/1920px-ChipotleMexicanGrillMarkham.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/ChipotleMexicanGrillMarkham.jpg/500px-ChipotleMexicanGrillMarkham.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ChipotleMexicanGrillMarkham.jpg"
+  }
+ ]
+}

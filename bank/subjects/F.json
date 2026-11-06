@@ -1,0 +1,29 @@
+{
+ "id": "F",
+ "kind": "company",
+ "name": "Ford Motor Company",
+ "tickers": [
+  "F"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Ford Motor Company Headquarters, Dearborn, Mi. The Glasshouse; built in 1956, architect: Skidmore, Owings & Merrill LLP",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/2/27/20090913105842%21FordGlassHouse.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/2/27/20090913105842%21FordGlassHouse.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dave Parker, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FordGlassHouse.jpg"
+  }
+ ]
+}

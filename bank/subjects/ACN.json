@@ -1,0 +1,46 @@
+{
+ "id": "ACN",
+ "kind": "company",
+ "name": "Accenture",
+ "tickers": [
+  "ACN"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Accenture (Accenture)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Accenture_%2852366713942%29.jpg/1920px-Accenture_%2852366713942%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Accenture_%2852366713942%29.jpg/500px-Accenture_%2852366713942%29.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Accenture_(52366713942).jpg"
+  },
+  {
+   "shows": "Praha Chodov V Parku 12 Accenture",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Praha_Chodov_V_Parku_12_Accenture.jpg/1920px-Praha_Chodov_V_Parku_12_Accenture.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Praha_Chodov_V_Parku_12_Accenture.jpg/500px-Praha_Chodov_V_Parku_12_Accenture.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JiriMatejicek, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Praha_Chodov_V_Parku_12_Accenture.jpg"
+  }
+ ]
+}

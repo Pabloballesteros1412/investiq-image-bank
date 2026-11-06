@@ -1,0 +1,30 @@
+{
+ "id": "GEN",
+ "kind": "company",
+ "name": "Gen Digital",
+ "tickers": [
+  "GEN"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Vincent Pilette, Gen Digital CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vincent_Pilette.jpg/1280px-Vincent_Pilette.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Vincent_Pilette.jpg/500px-Vincent_Pilette.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Christophe Testi, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vincent_Pilette.jpg"
+  }
+ ]
+}

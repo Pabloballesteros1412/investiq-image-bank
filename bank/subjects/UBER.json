@@ -1,0 +1,30 @@
+{
+ "id": "UBER",
+ "kind": "company",
+ "name": "Uber",
+ "tickers": [
+  "UBER"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "CEO of Uber Technologies Dara Khosrowshahi in New York - 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019.jpg/1920px-CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019.jpg/500px-CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "The Presidential Office of Ukraine., CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019.jpg"
+  }
+ ]
+}

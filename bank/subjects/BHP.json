@@ -1,0 +1,29 @@
+{
+ "id": "BHP",
+ "kind": "company",
+ "name": "BHP",
+ "tickers": [
+  "BHP"
+ ],
+ "sector": "sector-materials",
+ "fill_from": "sector-materials",
+ "photos": [
+  {
+   "shows": "BHP-Shenzi deepwater offshore production platform",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BHP-Shenzi_deepwater_offshore_production_platform_%2851115227966%29.jpg/1920px-BHP-Shenzi_deepwater_offshore_production_platform_%2851115227966%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BHP-Shenzi_deepwater_offshore_production_platform_%2851115227966%29.jpg/500px-BHP-Shenzi_deepwater_offshore_production_platform_%2851115227966%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bureau of Safety and Environmental Enforcement BSEE, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BHP-Shenzi_deepwater_offshore_production_platform_(51115227966).jpg"
+  }
+ ]
+}

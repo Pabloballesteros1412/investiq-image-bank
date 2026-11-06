@@ -1,0 +1,29 @@
+{
+ "id": "DECK",
+ "kind": "company",
+ "name": "Deckers Brands",
+ "tickers": [
+  "DECK"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Deckers Brands Headquarters Building 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deckers_Brands_Headquarters_Building_1.jpg/1920px-Deckers_Brands_Headquarters_Building_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Deckers_Brands_Headquarters_Building_1.jpg/500px-Deckers_Brands_Headquarters_Building_1.jpg",
+   "size": [
+    1920,
+    1169
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Deckers_Brands_Headquarters_Building_1.jpg"
+  }
+ ]
+}

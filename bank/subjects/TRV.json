@@ -1,0 +1,46 @@
+{
+ "id": "TRV",
+ "kind": "company",
+ "name": "Travelers Companies (The)",
+ "tickers": [
+  "TRV"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "The Travelers Companies, Inc",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Travelers_Companies%2C_Inc._%2855614510202%29.jpg/1920px-The_Travelers_Companies%2C_Inc._%2855614510202%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_Travelers_Companies%2C_Inc._%2855614510202%29.jpg/500px-The_Travelers_Companies%2C_Inc._%2855614510202%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Travelers_Companies,_Inc._(55614510202).jpg"
+  },
+  {
+   "shows": "Travelers Tower, Hartford, Connecticut",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Travelers_Tower%2C_Hartford%2C_Connecticut.jpg/1280px-Travelers_Tower%2C_Hartford%2C_Connecticut.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Travelers_Tower%2C_Hartford%2C_Connecticut.jpg/500px-Travelers_Tower%2C_Hartford%2C_Connecticut.jpg",
+   "size": [
+    1280,
+    1950
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Travelers_Tower,_Hartford,_Connecticut.jpg"
+  }
+ ]
+}

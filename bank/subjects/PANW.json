@@ -1,0 +1,30 @@
+{
+ "id": "PANW",
+ "kind": "company",
+ "name": "Palo Alto Networks",
+ "tickers": [
+  "PANW"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Nikesh Arora, Palo Alto Networks CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nikesh_Arora%28cropped%29.jpg/1920px-Nikesh_Arora%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nikesh_Arora%28cropped%29.jpg/500px-Nikesh_Arora%28cropped%29.jpg",
+   "size": [
+    1920,
+    1689
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Nikesh_Arora.jpg : Loic Le Meur derivative work: Boseritwik, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nikesh_Arora(cropped).jpg"
+  }
+ ]
+}

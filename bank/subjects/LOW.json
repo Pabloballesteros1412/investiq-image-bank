@@ -1,0 +1,46 @@
+{
+ "id": "LOW",
+ "kind": "company",
+ "name": "Lowe's",
+ "tickers": [
+  "LOW"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Lowe’s, Chico -L1000836",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lowe%E2%80%99s%2C_Chico_%282026%29-L1000836.jpg/1920px-Lowe%E2%80%99s%2C_Chico_%282026%29-L1000836.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lowe%E2%80%99s%2C_Chico_%282026%29-L1000836.jpg/500px-Lowe%E2%80%99s%2C_Chico_%282026%29-L1000836.jpg",
+   "size": [
+    1920,
+    1372
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lowe%E2%80%99s,_Chico_(2026)-L1000836.jpg"
+  },
+  {
+   "shows": "Lowe's Home Improvement Store",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lowe%27s_Home_Improvement_Store_%2848614532991%29.jpg/1920px-Lowe%27s_Home_Improvement_Store_%2848614532991%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lowe%27s_Home_Improvement_Store_%2848614532991%29.jpg/500px-Lowe%27s_Home_Improvement_Store_%2848614532991%29.jpg",
+   "size": [
+    1920,
+    1267
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s_Home_Improvement_Store_(48614532991).jpg"
+  }
+ ]
+}

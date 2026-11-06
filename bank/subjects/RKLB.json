@@ -1,0 +1,29 @@
+{
+ "id": "RKLB",
+ "kind": "company",
+ "name": "Rocket Lab",
+ "tickers": [
+  "RKLB"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "A National Reconnaissance Office (NRO) payload was successfully launched aboard a Rocket Lab Electron rocket from Launch Complex-1, Mahia Peninsula, New Zealand",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/200131-D-RQ659-0001.JPG/1920px-200131-D-RQ659-0001.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/200131-D-RQ659-0001.JPG/500px-200131-D-RQ659-0001.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Scott Andrews, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200131-D-RQ659-0001.JPG"
+  }
+ ]
+}

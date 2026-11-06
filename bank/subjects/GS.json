@@ -1,0 +1,64 @@
+{
+ "id": "GS",
+ "kind": "company",
+ "name": "Goldman Sachs",
+ "tickers": [
+  "GS"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Goldman Sachs Tower, Jersey City, New Jersey, 1150 1065",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey%2C_20231001_1150_1065.jpg/1280px-Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey%2C_20231001_1150_1065.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey%2C_20231001_1150_1065.jpg/500px-Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey%2C_20231001_1150_1065.jpg",
+   "size": [
+    1280,
+    1680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower,_Jersey_City,_New_Jersey,_20231001_1150_1065.jpg"
+  },
+  {
+   "shows": "Goldman Sachs Headquarters, New York City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/GoldmanSachsHeadquarters.JPG/1280px-GoldmanSachsHeadquarters.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/GoldmanSachsHeadquarters.JPG/500px-GoldmanSachsHeadquarters.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quantumquark, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GoldmanSachsHeadquarters.JPG"
+  },
+  {
+   "shows": "David M. Solomon, Goldman Sachs CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/David_Solomon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/David_Solomon.jpg/500px-David_Solomon.jpg",
+   "size": [
+    1107,
+    1323
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "U.S. Secretary of Defense, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:David_Solomon.jpg"
+  }
+ ]
+}

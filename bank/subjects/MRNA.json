@@ -1,0 +1,47 @@
+{
+ "id": "MRNA",
+ "kind": "company",
+ "name": "Moderna",
+ "tickers": [
+  "MRNA"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Moderna Headquarters, December 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Moderna_Headquarters%2C_December_2020.jpg/1920px-Moderna_Headquarters%2C_December_2020.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Moderna_Headquarters%2C_December_2020.jpg/500px-Moderna_Headquarters%2C_December_2020.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fletcher, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Moderna_Headquarters,_December_2020.jpg"
+  },
+  {
+   "shows": "Stéphane Bancel, Moderna CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NYCW_2026_-_St%C3%A9phane_Bancel_08.jpg/1280px-NYCW_2026_-_St%C3%A9phane_Bancel_08.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NYCW_2026_-_St%C3%A9phane_Bancel_08.jpg/500px-NYCW_2026_-_St%C3%A9phane_Bancel_08.jpg",
+   "size": [
+    1280,
+    2275
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Xuthoria, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NYCW_2026_-_St%C3%A9phane_Bancel_08.jpg"
+  }
+ ]
+}

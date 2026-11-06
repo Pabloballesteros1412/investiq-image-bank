@@ -1,0 +1,46 @@
+{
+ "id": "CSX",
+ "kind": "company",
+ "name": "CSX Corporation",
+ "tickers": [
+  "CSX"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "CSX Transportation Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CSX_Transportation_Building.jpg/1920px-CSX_Transportation_Building.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/CSX_Transportation_Building.jpg/500px-CSX_Transportation_Building.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CSX_Transportation_Building.jpg"
+  },
+  {
+   "shows": "CSX building, Jacksonville, FL, US",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CSX_building%2C_Jacksonville%2C_FL%2C_US.jpg/1920px-CSX_building%2C_Jacksonville%2C_FL%2C_US.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CSX_building%2C_Jacksonville%2C_FL%2C_US.jpg/500px-CSX_building%2C_Jacksonville%2C_FL%2C_US.jpg",
+   "size": [
+    1920,
+    1498
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bubba73 (Jud McCranie), CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CSX_building,_Jacksonville,_FL,_US.jpg"
+  }
+ ]
+}

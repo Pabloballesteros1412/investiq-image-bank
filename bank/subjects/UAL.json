@@ -1,0 +1,30 @@
+{
+ "id": "UAL",
+ "kind": "company",
+ "name": "United Airlines Holdings",
+ "tickers": [
+  "UAL"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Scott Kirby, United Airlines Holdings CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Scott_Kirby%2C_United_Airlines.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Scott_Kirby%2C_United_Airlines.jpg/500px-Scott_Kirby%2C_United_Airlines.jpg",
+   "size": [
+    1000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Provided by United Airlines, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Scott_Kirby,_United_Airlines.jpg"
+  }
+ ]
+}

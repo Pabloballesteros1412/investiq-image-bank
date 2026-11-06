@@ -1,0 +1,30 @@
+{
+ "id": "LUV",
+ "kind": "company",
+ "name": "Southwest Airlines",
+ "tickers": [
+  "LUV"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Bob Jordan, Southwest Airlines CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Bob_Jordan_in_2025_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bob_Jordan_in_2025_%28cropped%29.jpg/500px-Bob_Jordan_in_2025_%28cropped%29.jpg",
+   "size": [
+    757,
+    1017
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "DHSgov, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bob_Jordan_in_2025_(cropped).jpg"
+  }
+ ]
+}

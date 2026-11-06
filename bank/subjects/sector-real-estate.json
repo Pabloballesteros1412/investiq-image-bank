@@ -1,0 +1,97 @@
+{
+ "id": "sector-real-estate",
+ "kind": "sector",
+ "name": "Real estate sector",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "A black and white photo of two tall buildings",
+   "url": "https://images.unsplash.com/photo-1694538398758-b4ae17cf125d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1694538398758-b4ae17cf125d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bagus Alif Widhiwipati on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bagusawe?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-black-and-white-photo-of-two-tall-buildings-6S9VlOSonpg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person sitting on chair beside escalator",
+   "url": "https://images.unsplash.com/photo-1533481405265-e9ce0c044abb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2hvcHBpbmclMjBjZW50ZXJ8ZW58MXx8fHwxNzkzODg5Mzk1fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1533481405265-e9ce0c044abb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2hvcHBpbmclMjBjZW50ZXJ8ZW58MXx8fHwxNzkzODg5Mzk1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Michael Weidemann on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@weidemann?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-sitting-on-chair-beside-escalator-oGhTfu1UrOY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Canopy_bed_of_Amantaka_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg"
+  },
+  {
+   "shows": "The New York City skyline across the Hudson River from Hoboken at golden hour",
+   "url": "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNpdHklMjBza3lsaW5lfGVufDF8fHx8MTc5Mzg4OTQwMnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1518235506717-e1ed3306a89b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNpdHklMjBza3lsaW5lfGVufDF8fHx8MTc5Mzg4OTQwMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mike Chavarri on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mikechv?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/new-york-city-skyline-from-hoboken-kZokA2VTKn4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black and white electric post under blue sky during daytime",
+   "url": "https://images.unsplash.com/photo-1615377387113-4692ddb9e292?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2VsbCUyMHRvd2VyfGVufDF8fHx8MTc5Mzg4MDcxMHww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1615377387113-4692ddb9e292?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2VsbCUyMHRvd2VyfGVufDF8fHx8MTc5Mzg4MDcxMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vyacheslav Shatskiy on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@shatskiy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-and-white-electric-post-under-blue-sky-during-daytime-31JqyCVndUM?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
+}

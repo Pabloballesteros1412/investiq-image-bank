@@ -1,0 +1,47 @@
+{
+ "id": "ZM",
+ "kind": "company",
+ "name": "Zoom",
+ "tickers": [
+  "ZM"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Eric S. Yuan, Zoom CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Eric_Yuan_2025_%28cropped%29.jpg/1280px-Eric_Yuan_2025_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Eric_Yuan_2025_%28cropped%29.jpg/500px-Eric_Yuan_2025_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1941
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "TechCrunch, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eric_Yuan_2025_(cropped).jpg"
+  },
+  {
+   "shows": "Zoom HQ, Downtown San Jose ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Zoom_HQ%2C_Downtown_San_Jose_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Zoom_HQ%2C_Downtown_San_Jose_%28cropped%29.jpg/500px-Zoom_HQ%2C_Downtown_San_Jose_%28cropped%29.jpg",
+   "size": [
+    1770,
+    1425
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cristiano Tomás, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Zoom_HQ,_Downtown_San_Jose_(cropped).jpg"
+  }
+ ]
+}

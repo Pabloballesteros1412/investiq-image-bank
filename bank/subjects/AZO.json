@@ -1,0 +1,29 @@
+{
+ "id": "AZO",
+ "kind": "company",
+ "name": "AutoZone",
+ "tickers": [
+  "AZO"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "AutoZone store in Murphy, North Carolina",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/AutoZone_store_in_Murphy%2C_North_Carolina.jpg/1920px-AutoZone_store_in_Murphy%2C_North_Carolina.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/AutoZone_store_in_Murphy%2C_North_Carolina.jpg/500px-AutoZone_store_in_Murphy%2C_North_Carolina.jpg",
+   "size": [
+    1920,
+    1212
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AutoZone_store_in_Murphy,_North_Carolina.jpg"
+  }
+ ]
+}

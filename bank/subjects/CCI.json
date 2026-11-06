@@ -1,0 +1,29 @@
+{
+ "id": "CCI",
+ "kind": "company",
+ "name": "Crown Castle",
+ "tickers": [
+  "CCI"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Crown Castle headquarters in Houston, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cci_hq.jpg/1920px-Cci_hq.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cci_hq.jpg/500px-Cci_hq.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ParaguaneroSwag at English Wikipedia, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cci_hq.jpg"
+  }
+ ]
+}

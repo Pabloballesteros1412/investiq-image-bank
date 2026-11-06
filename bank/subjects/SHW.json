@@ -1,0 +1,29 @@
+{
+ "id": "SHW",
+ "kind": "company",
+ "name": "Sherwin-Williams",
+ "tickers": [
+  "SHW"
+ ],
+ "sector": "sector-materials",
+ "fill_from": "sector-materials",
+ "photos": [
+  {
+   "shows": "Sherwin-Williams HQ August 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sherwin-Williams_HQ_August_2025.jpg/1280px-Sherwin-Williams_HQ_August_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sherwin-Williams_HQ_August_2025.jpg/500px-Sherwin-Williams_HQ_August_2025.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Geowizical, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sherwin-Williams_HQ_August_2025.jpg"
+  }
+ ]
+}

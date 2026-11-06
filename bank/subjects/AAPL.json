@@ -1,0 +1,188 @@
+{
+ "id": "AAPL",
+ "kind": "company",
+ "name": "Apple Inc.",
+ "tickers": [
+  "AAPL"
+ ],
+ "sector": "sector-tech",
+ "photos": [
+  {
+   "shows": "Aerial view of Apple Park dllu",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/1920px-Aerial_view_of_Apple_Park_dllu.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Aerial_view_of_Apple_Park_dllu.jpg/500px-Aerial_view_of_Apple_Park_dllu.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel L. Lu (user:dllu), CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg"
+  },
+  {
+   "shows": "Apple Store - Fifth Avenue",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg/1920px-Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg/500px-Apple_Store_-_Fifth_Avenue_%287181848534%29.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jorge Láscar from Australia, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_Store_-_Fifth_Avenue_(7181848534).jpg"
+  },
+  {
+   "shows": "John Ternus at the Apple 50th Anniversary Kickoff",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg/500px-John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg",
+   "size": [
+    898,
+    1122
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Tessa Bury, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:John_Ternus_at_the_Apple_50th_Anniversary_Kickoff.jpg"
+  },
+  {
+   "shows": "Visit of Tim Cook to the European Commission",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg/1280px-Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg/500px-Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "European Commission - Photographer: Christophe Licoppe, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Visit_of_Tim_Cook_to_the_European_Commission_-_P061904-946789.jpg"
+  },
+  {
+   "shows": "Apple park cupertino 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/1920px-Apple_park_cupertino_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Apple_park_cupertino_2019.jpg/500px-Apple_park_cupertino_2019.jpg",
+   "size": [
+    1920,
+    1079
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Arne Müseler, CC BY-SA 3.0 de, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0 de",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_park_cupertino_2019.jpg"
+  },
+  {
+   "shows": "Silver iPhone X floating over open palm",
+   "url": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8aVBob25lfGVufDF8fHx8MTc5Mzg3Nzg2M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1523206489230-c012c64b2b48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8aVBob25lfGVufDF8fHx8MTc5Mzg3Nzg2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Neil Soni on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@neilsoniphotography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/silver-iphone-x-floating-over-open-palm-6wdRuK7bVTE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Apple Store shop front",
+   "url": "https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QXBwbGUlMjBTdG9yZXxlbnwxfHx8fDE3OTM4Nzc4NjR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QXBwbGUlMjBTdG9yZXxlbnwxfHx8fDE3OTM4Nzc4NjR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Laurenz Heymann on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lagommedia?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/apple-store-shop-front-VkfhJLz5SMQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A hand holding a smartphone displaying a home screen with various app icons",
+   "url": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aVBob25lfGVufDF8fHx8MTc5Mzg3Nzg2M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aVBob25lfGVufDF8fHx8MTc5Mzg3Nzg2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bagus Hernawan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bhaguz?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/hand-holding-smartphone-with-app-icons-A6JxK37IlPo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white smartphone with a dual camera system on a yellow and white background",
+   "url": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8aVBob25lfGVufDF8fHx8MTc5Mzg3Nzg2M3ww&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8aVBob25lfGVufDF8fHx8MTc5Mzg3Nzg2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1500,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vựa Táo on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vuatao?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/smartphone-with-dual-camera-on-background-OxvlDO8RwKg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Space gray iphone 6 on white textile",
+   "url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGlQaG9uZXxlbnwxfHx8fDE3OTM4Nzc4NjN8MA&ixlib=rb-4.1.0&w=1202&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1580910051074-3eb694886505?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGlQaG9uZXxlbnwxfHx8fDE3OTM4Nzc4NjN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1202,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Oscar Nord on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@oscnord?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/space-gray-iphone-6-on-white-textile-8l9VxXI28tY?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
+}

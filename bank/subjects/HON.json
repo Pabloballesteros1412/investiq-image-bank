@@ -1,0 +1,63 @@
+{
+ "id": "HON",
+ "kind": "company",
+ "name": "Honeywell Technologies",
+ "tickers": [
+  "HON"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Honeywell Markham Office - Address: Suite 100, 85 Enterprise Blvd, Unionville, ON L6G 0B5",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/HoneywellMarkhamOffice.jpg/1920px-HoneywellMarkhamOffice.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/HoneywellMarkhamOffice.jpg/500px-HoneywellMarkhamOffice.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HoneywellMarkhamOffice.jpg"
+  },
+  {
+   "shows": "Honeywell Global Headquarters in Charlotte",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Honeywell_Global_Headquarters_in_Charlotte.jpg/1920px-Honeywell_Global_Headquarters_in_Charlotte.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Honeywell_Global_Headquarters_in_Charlotte.jpg/500px-Honeywell_Global_Headquarters_in_Charlotte.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Honeywell_Global_Headquarters_in_Charlotte.jpg"
+  },
+  {
+   "shows": "Honeywell-charlotte-hq-1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Honeywell-charlotte-hq-1.jpg/1920px-Honeywell-charlotte-hq-1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Honeywell-charlotte-hq-1.jpg/500px-Honeywell-charlotte-hq-1.jpg",
+   "size": [
+    1920,
+    1107
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Scott Ritchie, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Honeywell-charlotte-hq-1.jpg"
+  }
+ ]
+}

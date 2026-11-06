@@ -1,0 +1,46 @@
+{
+ "id": "NIO",
+ "kind": "company",
+ "name": "Nio",
+ "tickers": [
+  "NIO"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "NIO House",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NIO_House.jpg/1920px-NIO_House.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NIO_House.jpg/500px-NIO_House.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "bfishadow, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NIO_House.jpg"
+  },
+  {
+   "shows": "(CHN-Hubei) Nio Showroom @ MixC Wuhan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%28CHN-Hubei%29_Nio_Showroom_%40_MixC_Wuhan_2024-12-04.jpg/1920px-%28CHN-Hubei%29_Nio_Showroom_%40_MixC_Wuhan_2024-12-04.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%28CHN-Hubei%29_Nio_Showroom_%40_MixC_Wuhan_2024-12-04.jpg/500px-%28CHN-Hubei%29_Nio_Showroom_%40_MixC_Wuhan_2024-12-04.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "S5A-0043, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:(CHN-Hubei)_Nio_Showroom_@_MixC_Wuhan_2024-12-04.jpg"
+  }
+ ]
+}

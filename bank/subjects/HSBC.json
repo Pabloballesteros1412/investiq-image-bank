@@ -1,0 +1,46 @@
+{
+ "id": "HSBC",
+ "kind": "company",
+ "name": "HSBC",
+ "tickers": [
+  "HSBC"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "HSBC HK building at night",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/HSBC_HK_building_at_night.jpg/1280px-HSBC_HK_building_at_night.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/HSBC_HK_building_at_night.jpg/500px-HSBC_HK_building_at_night.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rehman Abubakr, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HSBC_HK_building_at_night.jpg"
+  },
+  {
+   "shows": "HSBC Building (Hong Kong)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/HSBC_Building_%28Hong_Kong%29_20170808.jpg/1920px-HSBC_Building_%28Hong_Kong%29_20170808.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/HSBC_Building_%28Hong_Kong%29_20170808.jpg/500px-HSBC_Building_%28Hong_Kong%29_20170808.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Suicasmo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building_(Hong_Kong)_20170808.jpg"
+  }
+ ]
+}

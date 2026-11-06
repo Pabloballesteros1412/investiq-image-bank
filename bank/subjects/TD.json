@@ -1,0 +1,29 @@
+{
+ "id": "TD",
+ "kind": "company",
+ "name": "TD Bank",
+ "tickers": [
+  "TD"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "TD Bank Branch in Beaverton, Ontario, September 3 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/TD_Bank_Branch_in_Beaverton%2C_Ontario%2C_September_3_2026.jpg/1920px-TD_Bank_Branch_in_Beaverton%2C_Ontario%2C_September_3_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/TD_Bank_Branch_in_Beaverton%2C_Ontario%2C_September_3_2026.jpg/500px-TD_Bank_Branch_in_Beaverton%2C_Ontario%2C_September_3_2026.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TD_Bank_Branch_in_Beaverton,_Ontario,_September_3_2026.jpg"
+  }
+ ]
+}

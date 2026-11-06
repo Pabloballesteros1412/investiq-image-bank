@@ -1,0 +1,97 @@
+{
+ "id": "robotics",
+ "kind": "topic",
+ "name": "Robotics & automation",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "A factory filled with lots of orange machines",
+   "url": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8aW5kdXN0cmlhbCUyMHJvYm90fGVufDF8fHx8MTc5MzkyMDI1Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8aW5kdXN0cmlhbCUyMHJvYm90fGVufDF8fHx8MTc5MzkyMDI1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Simon Kadula on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@simonkadula?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-factory-filled-with-lots-of-orange-machines-8gr6bObQLOI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Robotic arms assembling a car chassis on a factory line",
+   "url": "https://images.unsplash.com/photo-1777383975764-bec6f5cabf00?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cm9ib3RpYyUyMGFybSUyMGZhY3Rvcnl8ZW58MXx8fHwxNzkzOTIwMjU4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1777383975764-bec6f5cabf00?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cm9ib3RpYyUyMGFybSUyMGZhY3Rvcnl8ZW58MXx8fHwxNzkzOTIwMjU4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1212
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lilian Do Khac on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nailil?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/robotic-arms-assembling-a-car-chassis-on-a-factory-line-EyqUxJuOb1Q?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A yellow and black robot standing in the dark",
+   "url": "https://images.unsplash.com/photo-1696258686263-9f42a5e34371?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qm9zdG9uJTIwRHluYW1pY3MlMjBTcG90fGVufDF8fHx8MTc5MzkyMDI1OXww&ixlib=rb-4.1.0&w=2026&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1696258686263-9f42a5e34371?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qm9zdG9uJTIwRHluYW1pY3MlMjBTcG90fGVufDF8fHx8MTc5MzkyMDI1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2026,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mika Baumeister on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-yellow-and-black-robot-standing-in-the-dark-xtt9ohgbZu4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "FANUC 6-axis welding robots",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FANUC_6-axis_welding_robots.jpg/1920px-FANUC_6-axis_welding_robots.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FANUC_6-axis_welding_robots.jpg/500px-FANUC_6-axis_welding_robots.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phasmatisnox, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FANUC_6-axis_welding_robots.jpg"
+  },
+  {
+   "shows": "A humanoid robot with exposed mechanical joints in a bright white exhibition space",
+   "url": "https://images.unsplash.com/photo-1786165015358-823e20237438?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGh1bWFub2lkJTIwcm9ib3QlMjBleGhpYml0aW9ufGVufDF8fHx8MTc5MzkyMDI2OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1786165015358-823e20237438?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGh1bWFub2lkJTIwcm9ib3QlMjBleGhpYml0aW9ufGVufDF8fHx8MTc5MzkyMDI2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dilip Poddar on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dilip_28?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/humanoid-robot-in-white-exhibition-space-2I0yMzTI4Us?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
+}

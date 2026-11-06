@@ -1,0 +1,29 @@
+{
+ "id": "PSX",
+ "kind": "company",
+ "name": "Phillips 66",
+ "tickers": [
+  "PSX"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "Phillips 66 gas pump in Stanhope, NJ",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Phillips_66_gas_pump_in_Stanhope%2C_NJ.jpg/1920px-Phillips_66_gas_pump_in_Stanhope%2C_NJ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Phillips_66_gas_pump_in_Stanhope%2C_NJ.jpg/500px-Phillips_66_gas_pump_in_Stanhope%2C_NJ.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Magpieturtle, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Phillips_66_gas_pump_in_Stanhope,_NJ.jpg"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "DE",
+ "kind": "company",
+ "name": "Deere & Company",
+ "tickers": [
+  "DE"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Mannheim - John Deere",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mannheim_-_John_Deere.JPG/1920px-Mannheim_-_John_Deere.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Mannheim_-_John_Deere.JPG/500px-Mannheim_-_John_Deere.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Radosław Drożdżewski (Zwiadowca21), CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mannheim_-_John_Deere.JPG"
+  },
+  {
+   "shows": "John Deere World Headquarters 04",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/John_Deere_World_Headquarters_04.jpg/1920px-John_Deere_World_Headquarters_04.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/John_Deere_World_Headquarters_04.jpg/500px-John_Deere_World_Headquarters_04.jpg",
+   "size": [
+    1920,
+    934
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "dwhartwig, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:John_Deere_World_Headquarters_04.jpg"
+  }
+ ]
+}

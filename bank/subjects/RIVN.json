@@ -1,0 +1,64 @@
+{
+ "id": "RIVN",
+ "kind": "company",
+ "name": "Rivian",
+ "tickers": [
+  "RIVN"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "Rivian Normal Plant Floor",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rivian_Normal_Plant_Floor.jpg/1920px-Rivian_Normal_Plant_Floor.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Rivian_Normal_Plant_Floor.jpg/500px-Rivian_Normal_Plant_Floor.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Rivian., CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rivian_Normal_Plant_Floor.jpg"
+  },
+  {
+   "shows": "Robert \"RJ\" Scaringe, Rivian CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rivian_founder_and_CEO_Robert_%22RJ%22_Scaringe_at_the_debut_of_the_Rivian_R1S_SUV_at_the_2018_Los_Angeles_Auto_Show%2C_November_27%2C_2018_%28cropped%29.jpg/1280px-Rivian_founder_and_CEO_Robert_%22RJ%22_Scaringe_at_the_debut_of_the_Rivian_R1S_SUV_at_the_2018_Los_Angeles_Auto_Show%2C_November_27%2C_2018_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Rivian_founder_and_CEO_Robert_%22RJ%22_Scaringe_at_the_debut_of_the_Rivian_R1S_SUV_at_the_2018_Los_Angeles_Auto_Show%2C_November_27%2C_2018_%28cropped%29.jpg/500px-Rivian_founder_and_CEO_Robert_%22RJ%22_Scaringe_at_the_debut_of_the_Rivian_R1S_SUV_at_the_2018_Los_Angeles_Auto_Show%2C_November_27%2C_2018_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1918
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Richard Truesdell, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rivian_founder_and_CEO_Robert_%22RJ%22_Scaringe_at_the_debut_of_the_Rivian_R1S_SUV_at_the_2018_Los_Angeles_Auto_Show,_November_27,_2018_(cropped).jpg"
+  },
+  {
+   "shows": "Newly Open Rivian Showroom Brickell - facade",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg/1920px-Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg/500px-Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg"
+  }
+ ]
+}

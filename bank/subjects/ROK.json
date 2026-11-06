@@ -1,0 +1,29 @@
+{
+ "id": "ROK",
+ "kind": "company",
+ "name": "Rockwell Automation",
+ "tickers": [
+  "ROK"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Rockwell Automation Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rockwell_Automation_Headquarters.jpg/1920px-Rockwell_Automation_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rockwell_Automation_Headquarters.jpg/500px-Rockwell_Automation_Headquarters.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "a Rockwell Automation Employee, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rockwell_Automation_Headquarters.jpg"
+  }
+ ]
+}

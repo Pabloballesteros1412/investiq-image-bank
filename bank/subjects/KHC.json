@@ -1,0 +1,29 @@
+{
+ "id": "KHC",
+ "kind": "company",
+ "name": "Kraft Heinz",
+ "tickers": [
+  "KHC"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Kraft Heinz Headquarters Chicago",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kraft_Heinz_Headquarters_Chicago.jpg/1280px-Kraft_Heinz_Headquarters_Chicago.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Kraft_Heinz_Headquarters_Chicago.jpg/500px-Kraft_Heinz_Headquarters_Chicago.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lacrossewi, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kraft_Heinz_Headquarters_Chicago.jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "LDOS",
+ "kind": "company",
+ "name": "Leidos",
+ "tickers": [
+  "LDOS"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Governor Hogan Tours Leidos by Joe Andrucyk at 9737 Washingtonian Boulevard, Gaithersburg, MD 20878",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Leidos_%2851841272052%29.jpg/1920px-Leidos_%2851841272052%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Leidos_%2851841272052%29.jpg/500px-Leidos_%2851841272052%29.jpg",
+   "size": [
+    1920,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Maryland GovPics, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Leidos_(51841272052).jpg"
+  }
+ ]
+}

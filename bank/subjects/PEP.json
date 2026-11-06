@@ -1,0 +1,46 @@
+{
+ "id": "PEP",
+ "kind": "company",
+ "name": "PepsiCo",
+ "tickers": [
+  "PEP"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Pepsi 355 ml, 591 ml, and 710 ml, Canada (obverse)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg/1280px-Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg/500px-Pepsi_355_ml%2C_591_ml%2C_and_710_ml%2C_Canada_%28obverse%29%2C_2026-03-05.jpg",
+   "size": [
+    1280,
+    1638
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Woodrich, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pepsi_355_ml,_591_ml,_and_710_ml,_Canada_(obverse),_2026-03-05.jpg"
+  },
+  {
+   "shows": "PepsiCo HQ Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PepsiCo_HQ_Office.jpg/1920px-PepsiCo_HQ_Office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/PepsiCo_HQ_Office.jpg/500px-PepsiCo_HQ_Office.jpg",
+   "size": [
+    1920,
+    1231
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PepsiCo_HQ_Office.jpg"
+  }
+ ]
+}

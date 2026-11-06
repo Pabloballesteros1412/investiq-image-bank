@@ -1,0 +1,29 @@
+{
+ "id": "CMI",
+ "kind": "company",
+ "name": "Cummins",
+ "tickers": [
+  "CMI"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Cummins headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cummins_headquarters.jpg/1920px-Cummins_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cummins_headquarters.jpg/500px-Cummins_headquarters.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kautuk1, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cummins_headquarters.jpg"
+  }
+ ]
+}

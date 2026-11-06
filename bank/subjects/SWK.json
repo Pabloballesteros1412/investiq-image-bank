@@ -1,0 +1,29 @@
+{
+ "id": "SWK",
+ "kind": "company",
+ "name": "Stanley Black & Decker",
+ "tickers": [
+  "SWK"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Tape Measure",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tape_Measure_%284915969081%29.jpg/1920px-Tape_Measure_%284915969081%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tape_Measure_%284915969081%29.jpg/500px-Tape_Measure_%284915969081%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "William Warby from London, England, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tape_Measure_(4915969081).jpg"
+  }
+ ]
+}

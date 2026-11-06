@@ -1,0 +1,48 @@
+{
+ "id": "GOOGL",
+ "kind": "company",
+ "name": "Alphabet Inc.",
+ "tickers": [
+  "GOOGL",
+  "GOOG"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "Waymo Jaguar I-Pace in San Francisco 2023 dllu",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg/1920px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg/500px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dllu, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg"
+  },
+  {
+   "shows": "Sundar Pichai - 2023 ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sundar_Pichai_-_2023_%28cropped%29.jpg/500px-Sundar_Pichai_-_2023_%28cropped%29.jpg",
+   "size": [
+    959,
+    1439
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Photographer: Lukasz Kobus (European Commission), CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg"
+  }
+ ]
+}

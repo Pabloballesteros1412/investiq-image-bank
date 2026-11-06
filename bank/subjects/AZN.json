@@ -1,0 +1,30 @@
+{
+ "id": "AZN",
+ "kind": "company",
+ "name": "AstraZeneca",
+ "tickers": [
+  "AZN"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Pascal Soriot, AstraZeneca CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Pascal_Soriot_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pascal_Soriot_2025.jpg/500px-Pascal_Soriot_2025.jpg",
+   "size": [
+    788,
+    1014
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Virginia Office of the Governor, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pascal_Soriot_2025.jpg"
+  }
+ ]
+}

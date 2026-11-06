@@ -1,0 +1,30 @@
+{
+ "id": "NVS",
+ "kind": "company",
+ "name": "Novartis",
+ "tickers": [
+  "NVS"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Vasant Narasimhan, Novartis CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Global_Investment_Game_Changers_Summit_I_2018_%2844788377434%29.jpg/1280px-Global_Investment_Game_Changers_Summit_I_2018_%2844788377434%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Global_Investment_Game_Changers_Summit_I_2018_%2844788377434%29.jpg/500px-Global_Investment_Game_Changers_Summit_I_2018_%2844788377434%29.jpg",
+   "size": [
+    1280,
+    1792
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "UNCTAD, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Global_Investment_Game_Changers_Summit_I_2018_(44788377434).jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "PSA",
+ "kind": "company",
+ "name": "Public Storage",
+ "tickers": [
+  "PSA"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Little Havana, Miami, Florida Public Storage Sharp Angle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Little_Havana%2C_Miami%2C_Florida_Public_Storage_Sharp_Angle.jpg/1920px-Little_Havana%2C_Miami%2C_Florida_Public_Storage_Sharp_Angle.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Little_Havana%2C_Miami%2C_Florida_Public_Storage_Sharp_Angle.jpg/500px-Little_Havana%2C_Miami%2C_Florida_Public_Storage_Sharp_Angle.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sharon Hahn Darlin, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Little_Havana,_Miami,_Florida_Public_Storage_Sharp_Angle.jpg"
+  }
+ ]
+}

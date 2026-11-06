@@ -1,0 +1,47 @@
+{
+ "id": "MSFT",
+ "kind": "company",
+ "name": "Microsoft",
+ "tickers": [
+  "MSFT"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "MS-Exec-Nadella-Satya- -22 ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/1280px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg/500px-MS-Exec-Nadella-Satya-2017-08-31-22_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1636
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Brian Smale and Microsoft, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MS-Exec-Nadella-Satya-2017-08-31-22_(cropped).jpg"
+  },
+  {
+   "shows": "Building 92 of Microsoft Redmond Campus - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg/1920px-Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg/500px-Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg",
+   "size": [
+    1920,
+    1276
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jiaqian AirplaneFan, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Building_92_of_Microsoft_Redmond_Campus_-_panoramio.jpg"
+  }
+ ]
+}

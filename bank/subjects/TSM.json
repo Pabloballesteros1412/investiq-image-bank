@@ -1,0 +1,29 @@
+{
+ "id": "TSM",
+ "kind": "company",
+ "name": "TSMC",
+ "tickers": [
+  "TSM"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "TSMC Fab5",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TSMC_Fab5.JPG/1920px-TSMC_Fab5.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TSMC_Fab5.JPG/500px-TSMC_Fab5.JPG",
+   "size": [
+    1920,
+    1285
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Peellden, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG"
+  }
+ ]
+}

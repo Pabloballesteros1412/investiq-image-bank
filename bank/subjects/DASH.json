@@ -1,0 +1,46 @@
+{
+ "id": "DASH",
+ "kind": "company",
+ "name": "DoorDash",
+ "tickers": [
+  "DASH"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "TechCrunch Disrupt San Francisco 2018 - day 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2843784923304%29.jpg/1920px-TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2843784923304%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2843784923304%29.jpg/500px-TechCrunch_Disrupt_San_Francisco_2018_-_day_1_%2843784923304%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_San_Francisco_2018_-_day_1_(43784923304).jpg"
+  },
+  {
+   "shows": "TechCrunch Disrupt NY 2016 - Day 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TechCrunch_Disrupt_NY_2016_-_Day_3_%2826348657713%29.jpg/1920px-TechCrunch_Disrupt_NY_2016_-_Day_3_%2826348657713%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TechCrunch_Disrupt_NY_2016_-_Day_3_%2826348657713%29.jpg/500px-TechCrunch_Disrupt_NY_2016_-_Day_3_%2826348657713%29.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_NY_2016_-_Day_3_(26348657713).jpg"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "id": "STT",
+ "kind": "company",
+ "name": "State Street Corporation",
+ "tickers": [
+  "STT"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "State Street Bank - One Congress, Boston, MA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/State_Street_Bank_-_One_Congress%2C_Boston%2C_MA.jpg/1280px-State_Street_Bank_-_One_Congress%2C_Boston%2C_MA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/State_Street_Bank_-_One_Congress%2C_Boston%2C_MA.jpg/500px-State_Street_Bank_-_One_Congress%2C_Boston%2C_MA.jpg",
+   "size": [
+    1280,
+    2276
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:State_Street_Bank_-_One_Congress,_Boston,_MA.jpg"
+  }
+ ]
+}

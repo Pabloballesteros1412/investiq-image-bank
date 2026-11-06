@@ -1,0 +1,47 @@
+{
+ "id": "JNJ",
+ "kind": "company",
+ "name": "Johnson & Johnson",
+ "tickers": [
+  "JNJ"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Johnson & Johnson HQ - 2615",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Johnson_%26_Johnson_HQ_-_IMG_2615.JPG/1280px-Johnson_%26_Johnson_HQ_-_IMG_2615.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Johnson_%26_Johnson_HQ_-_IMG_2615.JPG/500px-Johnson_%26_Johnson_HQ_-_IMG_2615.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Johnson_%26_Johnson_HQ_-_IMG_2615.JPG"
+  },
+  {
+   "shows": "Joaquin Duato, Johnson & Johnson CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/a/a8/20230916213847%21JnJ_Duato_cropped.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/a/a8/20230916213847%21JnJ_Duato_cropped.jpg",
+   "size": [
+    1920,
+    1795
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Stephanie Diani, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:JnJ_Duato_cropped.jpg"
+  }
+ ]
+}

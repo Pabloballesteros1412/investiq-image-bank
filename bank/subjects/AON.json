@@ -1,0 +1,29 @@
+{
+ "id": "AON",
+ "kind": "company",
+ "name": "Aon plc",
+ "tickers": [
+  "AON"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "4904x7356 chicago aon center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2020-01-01_4904x7356_chicago_aon_center.jpg/1280px-2020-01-01_4904x7356_chicago_aon_center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/2020-01-01_4904x7356_chicago_aon_center.jpg/500px-2020-01-01_4904x7356_chicago_aon_center.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "J. Crocker, Attribution, via Wikimedia Commons",
+   "licence": "Attribution",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2020-01-01_4904x7356_chicago_aon_center.jpg"
+  }
+ ]
+}

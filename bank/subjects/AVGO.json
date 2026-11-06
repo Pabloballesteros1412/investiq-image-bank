@@ -1,0 +1,30 @@
+{
+ "id": "AVGO",
+ "kind": "company",
+ "name": "Broadcom",
+ "tickers": [
+  "AVGO"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Hock Tan 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hock_Tan_2022.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Hock_Tan_2022.png/500px-Hock_Tan_2022.png",
+   "size": [
+    1224,
+    1783
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Greg Bezat, d/b/a Bezat Video Group, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hock_Tan_2022.png"
+  }
+ ]
+}

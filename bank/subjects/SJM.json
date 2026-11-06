@@ -1,0 +1,29 @@
+{
+ "id": "SJM",
+ "kind": "company",
+ "name": "J.M. Smucker Company (The)",
+ "tickers": [
+  "SJM"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Mark Smucker, J.M. Smucker Company CEO",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mark_Smucker%2C_J.M._Smucker_Company_CEO.jpg/1920px-Mark_Smucker%2C_J.M._Smucker_Company_CEO.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mark_Smucker%2C_J.M._Smucker_Company_CEO.jpg/500px-Mark_Smucker%2C_J.M._Smucker_Company_CEO.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Airman 1st Class Gabriel Jones, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mark_Smucker,_J.M._Smucker_Company_CEO.jpg"
+  }
+ ]
+}

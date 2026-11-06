@@ -1,0 +1,29 @@
+{
+ "id": "RY",
+ "kind": "company",
+ "name": "Royal Bank of Canada",
+ "tickers": [
+  "RY"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "RBC Building on Wellington, Downtown Toronto, August 30 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RBC_Building_on_Wellington%2C_Downtown_Toronto%2C_August_30_2025.jpg/1920px-RBC_Building_on_Wellington%2C_Downtown_Toronto%2C_August_30_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/RBC_Building_on_Wellington%2C_Downtown_Toronto%2C_August_30_2025.jpg/500px-RBC_Building_on_Wellington%2C_Downtown_Toronto%2C_August_30_2025.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:RBC_Building_on_Wellington,_Downtown_Toronto,_August_30_2025.jpg"
+  }
+ ]
+}

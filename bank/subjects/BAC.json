@@ -1,0 +1,47 @@
+{
+ "id": "BAC",
+ "kind": "company",
+ "name": "Bank of America",
+ "tickers": [
+  "BAC"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Bank of America branch in NYC",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bank_of_America_branch_in_NYC_%2852809555987%29.jpg/1920px-Bank_of_America_branch_in_NYC_%2852809555987%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bank_of_America_branch_in_NYC_%2852809555987%29.jpg/500px-Bank_of_America_branch_in_NYC_%2852809555987%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ishmael daro from New York, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bank_of_America_branch_in_NYC_(52809555987).jpg"
+  },
+  {
+   "shows": "Brian Moynihan, official portrait, Homeland Security Council (alt)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brian_Moynihan%2C_official_portrait%2C_Homeland_Security_Council_%28alt%29.jpg/1280px-Brian_Moynihan%2C_official_portrait%2C_Homeland_Security_Council_%28alt%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brian_Moynihan%2C_official_portrait%2C_Homeland_Security_Council_%28alt%29.jpg/500px-Brian_Moynihan%2C_official_portrait%2C_Homeland_Security_Council_%28alt%29.jpg",
+   "size": [
+    1280,
+    1656
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Benjamin Applebaum, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brian_Moynihan,_official_portrait,_Homeland_Security_Council_(alt).jpg"
+  }
+ ]
+}

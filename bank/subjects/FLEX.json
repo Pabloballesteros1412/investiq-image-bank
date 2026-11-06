@@ -1,0 +1,64 @@
+{
+ "id": "FLEX",
+ "kind": "company",
+ "name": "Flex Ltd.",
+ "tickers": [
+  "FLEX"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Revathi Advaithi, Flex Ltd. CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flex_Revathi_0033-Peter-Prato-Retouched.jpg/1920px-Flex_Revathi_0033-Peter-Prato-Retouched.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flex_Revathi_0033-Peter-Prato-Retouched.jpg/500px-Flex_Revathi_0033-Peter-Prato-Retouched.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Peter Prato, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Flex_Revathi_0033-Peter-Prato-Retouched.jpg"
+  },
+  {
+   "shows": "Flex Canadian Office - Address: 450 Hood Rd, Markham, ON L3R 9Z3, Canada",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/FlexCanadianOffice.jpg/1920px-FlexCanadianOffice.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/FlexCanadianOffice.jpg/500px-FlexCanadianOffice.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FlexCanadianOffice.jpg"
+  },
+  {
+   "shows": "Flex US Headquarters San Jose",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flex_US_Headquarters_San_Jose.jpg/1920px-Flex_US_Headquarters_San_Jose.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flex_US_Headquarters_San_Jose.jpg/500px-Flex_US_Headquarters_San_Jose.jpg",
+   "size": [
+    1920,
+    1286
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Flex_US_Headquarters_San_Jose.jpg"
+  }
+ ]
+}

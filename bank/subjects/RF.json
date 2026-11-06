@@ -1,0 +1,29 @@
+{
+ "id": "RF",
+ "kind": "company",
+ "name": "Regions Financial Corporation",
+ "tickers": [
+  "RF"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Regions Center (Little Rock)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Regions_Center_%28Little_Rock%29.jpg/1280px-Regions_Center_%28Little_Rock%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Regions_Center_%28Little_Rock%29.jpg/500px-Regions_Center_%28Little_Rock%29.jpg",
+   "size": [
+    1280,
+    1792
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Regions_Center_(Little_Rock).jpg"
+  }
+ ]
+}

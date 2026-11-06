@@ -1,0 +1,29 @@
+{
+ "id": "CSGP",
+ "kind": "company",
+ "name": "CoStar Group",
+ "tickers": [
+  "CSGP"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "CoStar Group HQ in Arlington, VA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CoStar_Group_HQ_in_Arlington%2C_VA.jpg/1920px-CoStar_Group_HQ_in_Arlington%2C_VA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CoStar_Group_HQ_in_Arlington%2C_VA.jpg/500px-CoStar_Group_HQ_in_Arlington%2C_VA.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gian Lorenzo Ferretti, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CoStar_Group_HQ_in_Arlington,_VA.jpg"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "id": "C",
+ "kind": "company",
+ "name": "Citigroup",
+ "tickers": [
+  "C"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Jane Fraser, Citigroup CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jane_Fraser_%28cropped%29.jpg/1280px-Jane_Fraser_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jane_Fraser_%28cropped%29.jpg/500px-Jane_Fraser_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1539
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "LowneyJen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jane_Fraser_(cropped).jpg"
+  },
+  {
+   "shows": "Citi HQ in Dublin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Citi_HQ_in_Dublin.jpg/1920px-Citi_HQ_in_Dublin.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Citi_HQ_in_Dublin.jpg/500px-Citi_HQ_in_Dublin.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NTF30, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Citi_HQ_in_Dublin.jpg"
+  },
+  {
+   "shows": "Citigroup Place",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Citigroup_Place.jpg/1920px-Citigroup_Place.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Citigroup_Place.jpg/500px-Citigroup_Place.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Citigroup_Place.jpg"
+  }
+ ]
+}

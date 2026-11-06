@@ -1,0 +1,63 @@
+{
+ "id": "INTC",
+ "kind": "company",
+ "name": "Intel",
+ "tickers": [
+  "INTC"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Intel Headquarters in 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/1920px-Intel_Headquarters_in_2023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Intel_Headquarters_in_2023.jpg/500px-Intel_Headquarters_in_2023.jpg",
+   "size": [
+    1920,
+    1283
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_Headquarters_in_2023.jpg"
+  },
+  {
+   "shows": "4th Generation Intel® Core™ Processor Wafer Black",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg/1920px-4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg/500px-4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Intel in Deutschland, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:4th_Generation_Intel%C2%AE_Core%E2%84%A2_Processor_Wafer_Black.jpg"
+  },
+  {
+   "shows": "Intel HQ in Santa Clara, CA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_HQ.jpg/1920px-Intel_HQ.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_HQ.jpg/500px-Intel_HQ.jpg",
+   "size": [
+    1920,
+    1372
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sixflashphoto, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_HQ.jpg"
+  }
+ ]
+}

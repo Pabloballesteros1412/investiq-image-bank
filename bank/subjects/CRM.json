@@ -1,0 +1,64 @@
+{
+ "id": "CRM",
+ "kind": "company",
+ "name": "Salesforce",
+ "tickers": [
+  "CRM"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Karl the Fog playing with the Salesforce Tower-L1003555",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Karl_the_Fog_playing_with_the_Salesforce_Tower-L1003555.jpg/1920px-Karl_the_Fog_playing_with_the_Salesforce_Tower-L1003555.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Karl_the_Fog_playing_with_the_Salesforce_Tower-L1003555.jpg/500px-Karl_the_Fog_playing_with_the_Salesforce_Tower-L1003555.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Karl_the_Fog_playing_with_the_Salesforce_Tower-L1003555.jpg"
+  },
+  {
+   "shows": "Marc Benioff",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Marc_Benioff.jpg/1280px-Marc_Benioff.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Marc_Benioff.jpg/500px-Marc_Benioff.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Salesforce., CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marc_Benioff.jpg"
+  },
+  {
+   "shows": "Salesforce Tower SF 2017 ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Salesforce_Tower_SF_2017_%28cropped%29.jpg/1280px-Salesforce_Tower_SF_2017_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Salesforce_Tower_SF_2017_%28cropped%29.jpg/500px-Salesforce_Tower_SF_2017_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1652
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "homebucket, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_SF_2017_(cropped).jpg"
+  }
+ ]
+}

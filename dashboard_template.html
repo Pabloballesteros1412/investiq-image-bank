@@ -169,8 +169,8 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
     nt.textContent = "Todavía no hay fotos";
     nx.textContent = "Se buscarán en Wikimedia Commons en cuanto el entorno tenga acceso: 10 por cada empresa del S&P 500 y empresas famosas que cotizan en EE. UU., 10 por tema y 10 por sector. Mientras tanto, cada tema enseña sus búsquedas y sus prompts de IA.";
   } else {
-    nt.textContent = "Fotos enlazadas desde Wikimedia Commons";
-    nx.textContent = "Cada foto lleva su crédito obligatorio. Si una empresa tiene menos de 10, el chat de carruseles la completa con fotos genéricas de su sector. Si las miniaturas no se ven aquí, abre la galería pública del repo.";
+    nt.textContent = "Fotos de Wikimedia Commons, Unsplash y Pexels";
+    nx.innerHTML = 'Las de empresas vienen de <a href="https://commons.wikimedia.org" target="_blank" rel="noopener">Wikimedia Commons</a> y solo están las mejores, revisadas a ojo. Las de temas y sectores, de <a href="https://unsplash.com/?utm_source=investiq_image_bank&amp;utm_medium=referral" target="_blank" rel="noopener">Unsplash</a> y <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a> cuando las hay. Cada foto lleva su crédito. Si una empresa tiene menos de 10, el chat la completa con fotos genéricas de su sector. Si las miniaturas no se ven aquí, abre la galería pública del repo.';
   }
 
   function card(s) {
@@ -199,10 +199,18 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
     try { localStorage.setItem("iq-bank-kind", kind); } catch (e) {}
   }
 
+  // Unsplash and Pexels ask for "Photo by <photographer> on <site>", both linked (Unsplash: with its utm parameters)
+  var SITES = { commons: ["Commons", ""], unsplash: ["Unsplash", "https://unsplash.com/?utm_source=investiq_image_bank&utm_medium=referral"], pexels: ["Pexels", "https://www.pexels.com"] };
+  function credit(p) {
+    var site = SITES[p.provider] || SITES.commons;
+    if (p.provider === "commons" || !p.author_url) return esc(p.credit);
+    return 'Photo by <a href="' + esc(p.author_url) + '" target="_blank" rel="noopener">' + esc(p.author) + '</a> on <a href="' + esc(site[1]) + '" target="_blank" rel="noopener">' + site[0] + "</a>";
+  }
   function shot(p) {
+    var site = (SITES[p.provider] || SITES.commons)[0];
     return '<article class="shot"><div class="frame">' + img(p.preview, p.shows) + esc(p.shows) + '</div><div class="body"><p class="scene">' + esc(p.shows) + "</p>" +
-      (p.person ? '<span class="tag">Persona real</span>' : "") + '<p class="credit">' + esc(p.credit) + '</p><div class="actions">' +
-      '<a class="btn primary" href="' + esc(p.url) + '" target="_blank" rel="noopener">Abrir foto ↗</a><a class="btn" href="' + esc(p.page) + '" target="_blank" rel="noopener">Commons ↗</a></div></div></article>';
+      (p.person ? '<span class="tag">Persona real</span>' : "") + '<p class="credit">' + credit(p) + '</p><div class="actions">' +
+      '<a class="btn primary" href="' + esc(p.url) + '" target="_blank" rel="noopener">Abrir foto ↗</a><a class="btn" href="' + esc(p.page) + '" target="_blank" rel="noopener">' + site + ' ↗</a></div></div></article>';
   }
   function planned(p, i) {
     return '<article class="shot"><div class="frame">Pendiente</div><div class="body"><p class="scene">' + esc(p.scene) + "</p>" +
@@ -217,8 +225,8 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
     list.hidden = !!s; detail.hidden = !s;
     if (!s) { apply(); return; }
     var k = s.photos.length, note = "";
-    if (s.kind === "company" && k < T && s.sector && byId[s.sector]) note = "Tiene " + k + ' fotos propias: el chat completa con fotos genéricas de <a href="#' + esc(s.sector) + '">' + esc(byId[s.sector].name) + "</a>.";
-    else if (!k && !s.planned.length) note = s.built ? "Commons no tiene fotos libres que encajen." : "Pendiente: se buscará automáticamente en su categoría de Commons.";
+    if (s.kind === "company" && k < T && s.sector && byId[s.sector]) note = (k ? "Tiene " + k + (k === 1 ? " foto propia aprobada" : " fotos propias aprobadas") : "Ninguna de sus fotos de Commons pasó la revisión") + ': el chat completa con fotos genéricas de <a href="#' + esc(s.sector) + '">' + esc(byId[s.sector].name) + "</a>.";
+    else if (!k && !s.planned.length) note = s.built ? "Ninguna de sus fotos de Commons pasó la revisión." : "Pendiente: se buscará automáticamente en su categoría de Commons.";
     detail.innerHTML = '<a class="back" href="#">← Todas las fichas</a><div class="dh"><h2>' + esc(s.name) + "</h2>" +
       (s.kind === "company" ? s.tickers.map(function (t) { return '<span class="chip">' + esc(t) + "</span>"; }).join("") : '<span class="chip kind">' + KIND[s.kind] + "</span>") +
       '<span class="count">' + k + " de " + T + " fotos</span></div>" + (note ? '<p class="dnote">' + note + "</p>" : "") +

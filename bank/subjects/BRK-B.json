@@ -1,0 +1,47 @@
+{
+ "id": "BRK-B",
+ "kind": "company",
+ "name": "Berkshire Hathaway",
+ "tickers": [
+  "BRK-B"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Warren Buffett at the 2015 SelectUSA Investment Summit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg/500px-Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg",
+   "size": [
+    1281,
+    1090
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "USA International Trade Administration, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit.jpg"
+  },
+  {
+   "shows": "BNSF GE Dash-9 C44-9W Kennewick - Wishram WA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg/1920px-BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg/500px-BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg",
+   "size": [
+    1920,
+    1185
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kabelleger / David Gubler ( http://www.bahnbilder.ch ), CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BNSF_GE_Dash-9_C44-9W_Kennewick_-_Wishram_WA.jpg"
+  }
+ ]
+}

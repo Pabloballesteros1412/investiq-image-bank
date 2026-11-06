@@ -1,0 +1,29 @@
+{
+ "id": "HBAN",
+ "kind": "company",
+ "name": "Huntington Bancshares",
+ "tickers": [
+  "HBAN"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Huntington west Milwaukee",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Huntington_west_Milwaukee.jpg/1920px-Huntington_west_Milwaukee.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Huntington_west_Milwaukee.jpg/500px-Huntington_west_Milwaukee.jpg",
+   "size": [
+    1920,
+    1507
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ceeren, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Huntington_west_Milwaukee.jpg"
+  }
+ ]
+}

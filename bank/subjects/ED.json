@@ -1,0 +1,29 @@
+{
+ "id": "ED",
+ "kind": "company",
+ "name": "Consolidated Edison",
+ "tickers": [
+  "ED"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Consolidated Edison Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Consolidated_Edison_Building_%2854574210764%29.jpg/1280px-Consolidated_Edison_Building_%2854574210764%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Consolidated_Edison_Building_%2854574210764%29.jpg/500px-Consolidated_Edison_Building_%2854574210764%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Consolidated_Edison_Building_(54574210764).jpg"
+  }
+ ]
+}

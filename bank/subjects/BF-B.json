@@ -1,0 +1,29 @@
+{
+ "id": "BF-B",
+ "kind": "company",
+ "name": "Brown–Forman",
+ "tickers": [
+  "BF-B"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Old Forester 86 proof and 100 proof",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Old_Forester_86_proof_and_100_proof.jpg/1920px-Old_Forester_86_proof_and_100_proof.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Old_Forester_86_proof_and_100_proof.jpg/500px-Old_Forester_86_proof_and_100_proof.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kellibauman524, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Forester_86_proof_and_100_proof.jpg"
+  }
+ ]
+}

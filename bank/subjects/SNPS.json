@@ -1,0 +1,29 @@
+{
+ "id": "SNPS",
+ "kind": "company",
+ "name": "Synopsys",
+ "tickers": [
+  "SNPS"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "675 Almanor Avenue",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/675_Almanor_Avenue.jpg/1920px-675_Almanor_Avenue.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/675_Almanor_Avenue.jpg/500px-675_Almanor_Avenue.jpg",
+   "size": [
+    1920,
+    1268
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:675_Almanor_Avenue.jpg"
+  }
+ ]
+}

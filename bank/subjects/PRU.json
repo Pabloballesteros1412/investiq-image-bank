@@ -1,0 +1,29 @@
+{
+ "id": "PRU",
+ "kind": "company",
+ "name": "Prudential Financial",
+ "tickers": [
+  "PRU"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Prudential Tower - Newark, NJ",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Prudential_Tower_-_Newark%2C_NJ_%2855176538314%29.jpg/1280px-Prudential_Tower_-_Newark%2C_NJ_%2855176538314%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Prudential_Tower_-_Newark%2C_NJ_%2855176538314%29.jpg/500px-Prudential_Tower_-_Newark%2C_NJ_%2855176538314%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Prudential_Tower_-_Newark,_NJ_(55176538314).jpg"
+  }
+ ]
+}

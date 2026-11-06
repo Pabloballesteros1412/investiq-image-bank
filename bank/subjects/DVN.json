@@ -1,0 +1,46 @@
+{
+ "id": "DVN",
+ "kind": "company",
+ "name": "Devon Energy",
+ "tickers": [
+  "DVN"
+ ],
+ "sector": "sector-energy",
+ "fill_from": "sector-energy",
+ "photos": [
+  {
+   "shows": "Devon Energy Tower Nima",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Devon_Energy_Tower_Nima.JPG/1280px-Devon_Energy_Tower_Nima.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Devon_Energy_Tower_Nima.JPG/500px-Devon_Energy_Tower_Nima.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nightryder84, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Devon_Energy_Tower_Nima.JPG"
+  },
+  {
+   "shows": "Devon energy center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Devon_energy_center.JPG/1280px-Devon_energy_center.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Devon_energy_center.JPG/500px-Devon_energy_center.JPG",
+   "size": [
+    1280,
+    2239
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kerwin Moore, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Devon_energy_center.JPG"
+  }
+ ]
+}

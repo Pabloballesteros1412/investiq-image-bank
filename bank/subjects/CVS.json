@@ -1,0 +1,46 @@
+{
+ "id": "CVS",
+ "kind": "company",
+ "name": "CVS Health",
+ "tickers": [
+  "CVS"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "A CVS pharmacy on Church Street in Burlington, Vermont",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/A_CVS_pharmacy_on_Church_Street_in_Burlington%2C_Vermont.jpg/1920px-A_CVS_pharmacy_on_Church_Street_in_Burlington%2C_Vermont.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/A_CVS_pharmacy_on_Church_Street_in_Burlington%2C_Vermont.jpg/500px-A_CVS_pharmacy_on_Church_Street_in_Burlington%2C_Vermont.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_CVS_pharmacy_on_Church_Street_in_Burlington,_Vermont.jpg"
+  },
+  {
+   "shows": "A CVS Pharmacy in Solomons, Maryland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/A_CVS_Pharmacy_in_Solomons%2C_Maryland.jpg/1920px-A_CVS_Pharmacy_in_Solomons%2C_Maryland.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/A_CVS_Pharmacy_in_Solomons%2C_Maryland.jpg/500px-A_CVS_Pharmacy_in_Solomons%2C_Maryland.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_CVS_Pharmacy_in_Solomons,_Maryland.jpg"
+  }
+ ]
+}

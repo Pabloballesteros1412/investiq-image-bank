@@ -1,0 +1,97 @@
+{
+ "id": "sector-communication",
+ "kind": "sector",
+ "name": "Communication services sector",
+ "tickers": [],
+ "photos": [
+  {
+   "shows": "A tall tower in the middle of a forest",
+   "url": "https://images.unsplash.com/photo-1656082645103-3a3a807e1d3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2VsbCUyMHRvd2VyfGVufDF8fHx8MTc5Mzg4MDcxMHww&ixlib=rb-4.1.0&w=2002&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1656082645103-3a3a807e1d3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2VsbCUyMHRvd2VyfGVufDF8fHx8MTc5Mzg4MDcxMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2002,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Steven Van Elk on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@stevenvanelk?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-tall-tower-in-the-middle-of-a-forest-oPgukSFxKQw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A smartphone displaying social media apps beside a glass of coffee on wood",
+   "url": "https://images.unsplash.com/photo-1603145733146-ae562a55031e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c21hcnRwaG9uZSUyMHNvY2lhbCUyMG1lZGlhfGVufDF8fHx8MTc5Mzg4MDcxMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1603145733146-ae562a55031e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c21hcnRwaG9uZSUyMHNvY2lhbCUyMG1lZGlhfGVufDF8fHx8MTc5Mzg4MDcxMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1799
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nathan Dumlao on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nate_dumlao?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/smartphone-with-social-media-apps-kLmt1mpGJVg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Fiber optic cables connected to a network switch in a server rack",
+   "url": "https://images.unsplash.com/photo-1594915440248-1e419eba6611?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZmliZXIlMjBvcHRpY3xlbnwxfHx8fDE3OTM4ODA3MTN8MA&ixlib=rb-4.1.0&w=2241&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1594915440248-1e419eba6611?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZmliZXIlMjBvcHRpY3xlbnwxfHx8fDE3OTM4ODA3MTN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2241,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kirill Sh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kirill2020?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/fiber-optic-cables-in-network-switch-eVWWr6nmDf8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Satellite dish",
+   "url": "https://images.unsplash.com/photo-1572224104782-91a08d296390?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2F0ZWxsaXRlJTIwZGlzaHxlbnwxfHx8fDE3OTM4ODA3MTR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1572224104782-91a08d296390?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2F0ZWxsaXRlJTIwZGlzaHxlbnwxfHx8fDE3OTM4ODA3MTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alec Favale on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alecfavale?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/satellite-dish-3cIPFNW3wog?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Al Jazeera English Newsroom",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Al_Jazeera_English_Newsroom.jpg/1920px-Al_Jazeera_English_Newsroom.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Al_Jazeera_English_Newsroom.jpg/500px-Al_Jazeera_English_Newsroom.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wittylama, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Al_Jazeera_English_Newsroom.jpg"
+  }
+ ]
+}

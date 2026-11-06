@@ -1,0 +1,63 @@
+{
+ "id": "QBTS",
+ "kind": "company",
+ "name": "D-Wave Quantum",
+ "tickers": [
+  "QBTS"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "A Wafer of the Latest D-Wave Quantum Computers",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_%2839188583425%29.jpg/1920px-A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_%2839188583425%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_%2839188583425%29.jpg/500px-A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_%2839188583425%29.jpg",
+   "size": [
+    1920,
+    1311
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Jurvetson from Menlo Park, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Wafer_of_the_Latest_D-Wave_Quantum_Computers_(39188583425).jpg"
+  },
+  {
+   "shows": "D-Wave Two 512 qubit Vesuvius chip",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/D-Wave_Two_512_qubit_Vesuvius_chip.jpg/1920px-D-Wave_Two_512_qubit_Vesuvius_chip.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/D-Wave_Two_512_qubit_Vesuvius_chip.jpg/500px-D-Wave_Two_512_qubit_Vesuvius_chip.jpg",
+   "size": [
+    1920,
+    1769
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:D-Wave_Two_512_qubit_Vesuvius_chip.jpg"
+  },
+  {
+   "shows": "Latest D-Wave 2000 Qubit Processor",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Latest_D-Wave_2000_Qubit_Processor_%2825215169297%29.jpg/1920px-Latest_D-Wave_2000_Qubit_Processor_%2825215169297%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Latest_D-Wave_2000_Qubit_Processor_%2825215169297%29.jpg/500px-Latest_D-Wave_2000_Qubit_Processor_%2825215169297%29.jpg",
+   "size": [
+    1920,
+    1632
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Jurvetson from Menlo Park, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Latest_D-Wave_2000_Qubit_Processor_(25215169297).jpg"
+  }
+ ]
+}

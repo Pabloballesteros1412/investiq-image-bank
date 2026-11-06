@@ -1,0 +1,47 @@
+{
+ "id": "SNY",
+ "kind": "company",
+ "name": "Sanofi",
+ "tickers": [
+  "SNY"
+ ],
+ "sector": "sector-health",
+ "fill_from": "sector-health",
+ "photos": [
+  {
+   "shows": "Paul Hudson, Sanofi CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Paul_Hudson_at_the_World_Economic_Forum.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Paul_Hudson_at_the_World_Economic_Forum.jpg/500px-Paul_Hudson_at_the_World_Economic_Forum.jpg",
+   "size": [
+    1142,
+    1122
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Putting Health at the Heart of Climate Action | Davos 2023 | World Economic Forum, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Paul_Hudson_at_the_World_Economic_Forum.jpg"
+  },
+  {
+   "shows": "A Sanofi pharmaceutical plant in Chattanooga, Tennessee 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_01.jpg/1280px-A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_01.jpg/500px-A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_01.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Sanofi_pharmaceutical_plant_in_Chattanooga,_Tennessee_01.jpg"
+  }
+ ]
+}

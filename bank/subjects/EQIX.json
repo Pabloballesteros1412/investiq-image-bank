@@ -1,0 +1,46 @@
+{
+ "id": "EQIX",
+ "kind": "company",
+ "name": "Equinix",
+ "tickers": [
+  "EQIX"
+ ],
+ "sector": "sector-real-estate",
+ "fill_from": "sector-real-estate",
+ "photos": [
+  {
+   "shows": "Equinix - Corporate Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Equinix_-_Corporate_Headquarters_%282026%29.jpg/1920px-Equinix_-_Corporate_Headquarters_%282026%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Equinix_-_Corporate_Headquarters_%282026%29.jpg/500px-Equinix_-_Corporate_Headquarters_%282026%29.jpg",
+   "size": [
+    1920,
+    1438
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Equinix, Inc., CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Equinix_-_Corporate_Headquarters_(2026).jpg"
+  },
+  {
+   "shows": "Equinix - Silicon Valley Data Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Equinix_-_Silicon_Valley_Data_Center_%282026%29.jpg/1920px-Equinix_-_Silicon_Valley_Data_Center_%282026%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Equinix_-_Silicon_Valley_Data_Center_%282026%29.jpg/500px-Equinix_-_Silicon_Valley_Data_Center_%282026%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Equinix, Inc., CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Equinix_-_Silicon_Valley_Data_Center_(2026).jpg"
+  }
+ ]
+}

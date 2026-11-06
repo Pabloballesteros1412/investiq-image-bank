@@ -1,0 +1,46 @@
+{
+ "id": "DIS",
+ "kind": "company",
+ "name": "Walt Disney Company (The)",
+ "tickers": [
+  "DIS"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "Cinderella Castle January 2021 Portrait",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cinderella_Castle_January_2021_Portrait.jpg/1280px-Cinderella_Castle_January_2021_Portrait.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cinderella_Castle_January_2021_Portrait.jpg/500px-Cinderella_Castle_January_2021_Portrait.jpg",
+   "size": [
+    1280,
+    1925
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Backattaxk251, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cinderella_Castle_January_2021_Portrait.jpg"
+  },
+  {
+   "shows": "Sleeping Beauty Castle DLR",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sleeping_Beauty_Castle_DLR.jpg/1920px-Sleeping_Beauty_Castle_DLR.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sleeping_Beauty_Castle_DLR.jpg/500px-Sleeping_Beauty_Castle_DLR.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Carterhawk, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_Castle_DLR.jpg"
+  }
+ ]
+}

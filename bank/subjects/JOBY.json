@@ -1,0 +1,29 @@
+{
+ "id": "JOBY",
+ "kind": "company",
+ "name": "Joby Aviation",
+ "tickers": [
+  "JOBY"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Joby Aviation S4 experimental eVTOL aircraft at Edwards AFB",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Joby_Aviation_S4_experimental_eVTOL_aircraft_at_Edwards_AFB.jpg/1920px-Joby_Aviation_S4_experimental_eVTOL_aircraft_at_Edwards_AFB.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Joby_Aviation_S4_experimental_eVTOL_aircraft_at_Edwards_AFB.jpg/500px-Joby_Aviation_S4_experimental_eVTOL_aircraft_at_Edwards_AFB.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harlan Huntington, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Joby_Aviation_S4_experimental_eVTOL_aircraft_at_Edwards_AFB.jpg"
+  }
+ ]
+}

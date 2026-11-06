@@ -1,0 +1,29 @@
+{
+ "id": "EBAY",
+ "kind": "company",
+ "name": "eBay Inc.",
+ "tickers": [
+  "EBAY"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "EBay headquarters 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/EBay_headquarters_2018.jpg/1920px-EBay_headquarters_2018.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/EBay_headquarters_2018.jpg/500px-EBay_headquarters_2018.jpg",
+   "size": [
+    1920,
+    1265
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EBay_headquarters_2018.jpg"
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "id": "HD",
+ "kind": "company",
+ "name": "Home Depot (The)",
+ "tickers": [
+  "HD"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "A Home Depot store in Blairsville, Ga",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/A_Home_Depot_store_in_Blairsville%2C_Ga.jpg/1920px-A_Home_Depot_store_in_Blairsville%2C_Ga.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/A_Home_Depot_store_in_Blairsville%2C_Ga.jpg/500px-A_Home_Depot_store_in_Blairsville%2C_Ga.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Home_Depot_store_in_Blairsville,_Ga.jpg"
+  },
+  {
+   "shows": "Home Depot Home Improvement Store in Ontario, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Home_Depot_Home_Improvement_Store_in_Ontario%2C_Oregon.jpg/1920px-Home_Depot_Home_Improvement_Store_in_Ontario%2C_Oregon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Home_Depot_Home_Improvement_Store_in_Ontario%2C_Oregon.jpg/500px-Home_Depot_Home_Improvement_Store_in_Ontario%2C_Oregon.jpg",
+   "size": [
+    1920,
+    1442
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rick Obst, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_Home_Improvement_Store_in_Ontario,_Oregon.jpg"
+  }
+ ]
+}

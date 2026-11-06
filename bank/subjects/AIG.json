@@ -1,0 +1,29 @@
+{
+ "id": "AIG",
+ "kind": "company",
+ "name": "American International Group",
+ "tickers": [
+  "AIG"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "AIG Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AIG_Headquarters.jpg/1280px-AIG_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AIG_Headquarters.jpg/500px-AIG_Headquarters.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Marc Bryan-Brown, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AIG_Headquarters.jpg"
+  }
+ ]
+}

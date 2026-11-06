@@ -1,0 +1,46 @@
+{
+ "id": "NKE",
+ "kind": "company",
+ "name": "Nike, Inc.",
+ "tickers": [
+  "NKE"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "2023 Buty Nike Air Jordan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2023_Buty_Nike_Air_Jordan.jpg/1920px-2023_Buty_Nike_Air_Jordan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2023_Buty_Nike_Air_Jordan.jpg/500px-2023_Buty_Nike_Air_Jordan.jpg",
+   "size": [
+    1920,
+    1370
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2023_Buty_Nike_Air_Jordan.jpg"
+  },
+  {
+   "shows": "NIKE Store Karl Johans gate, Oslo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NIKE_Store_Karl_Johans_gate%2C_Oslo.jpg/1920px-NIKE_Store_Karl_Johans_gate%2C_Oslo.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/NIKE_Store_Karl_Johans_gate%2C_Oslo.jpg/500px-NIKE_Store_Karl_Johans_gate%2C_Oslo.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ssu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NIKE_Store_Karl_Johans_gate,_Oslo.jpg"
+  }
+ ]
+}

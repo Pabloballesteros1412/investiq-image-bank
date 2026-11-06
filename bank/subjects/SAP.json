@@ -1,0 +1,47 @@
+{
+ "id": "SAP",
+ "kind": "company",
+ "name": "SAP",
+ "tickers": [
+  "SAP"
+ ],
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "photos": [
+  {
+   "shows": "Christian Klein, SAP CEO (per Wikidata)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Christian_Klein_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Christian_Klein_2025.jpg/500px-Christian_Klein_2025.jpg",
+   "size": [
+    1643,
+    1869
+   ],
+   "focus": [
+    0.5,
+    0.33
+   ],
+   "person": true,
+   "credit": "Norbert Steinhauser / SAP SE, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Christian_Klein_2025.jpg"
+  },
+  {
+   "shows": "SAP AG headquarter Walldorf building 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SAP_AG_headquarter_Walldorf_building_1.jpg/1920px-SAP_AG_headquarter_Walldorf_building_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/SAP_AG_headquarter_Walldorf_building_1.jpg/500px-SAP_AG_headquarter_Walldorf_building_1.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Vladislav Bezrukov from Walldorf, Germany, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SAP_AG_headquarter_Walldorf_building_1.jpg"
+  }
+ ]
+}

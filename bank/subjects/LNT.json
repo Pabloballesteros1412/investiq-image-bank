@@ -1,0 +1,29 @@
+{
+ "id": "LNT",
+ "kind": "company",
+ "name": "Alliant Energy",
+ "tickers": [
+  "LNT"
+ ],
+ "sector": "sector-utilities",
+ "fill_from": "sector-utilities",
+ "photos": [
+  {
+   "shows": "Coal power plant by Portage, Wisconsin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Coal_power_plant_by_Portage%2C_Wisconsin.jpg/1920px-Coal_power_plant_by_Portage%2C_Wisconsin.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Coal_power_plant_by_Portage%2C_Wisconsin.jpg/500px-Coal_power_plant_by_Portage%2C_Wisconsin.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wikideas1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Coal_power_plant_by_Portage,_Wisconsin.jpg"
+  }
+ ]
+}

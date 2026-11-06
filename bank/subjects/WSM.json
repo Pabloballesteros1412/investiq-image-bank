@@ -1,0 +1,29 @@
+{
+ "id": "WSM",
+ "kind": "company",
+ "name": "Williams-Sonoma, Inc.",
+ "tickers": [
+  "WSM"
+ ],
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "photos": [
+  {
+   "shows": "A Williams Sonoma retail store at The Summit shopping mall in Birmingham, Alabama",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham%2C_Alabama.jpg/1920px-A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham%2C_Alabama.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham%2C_Alabama.jpg/500px-A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham%2C_Alabama.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham,_Alabama.jpg"
+  }
+ ]
+}

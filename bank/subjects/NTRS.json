@@ -1,0 +1,29 @@
+{
+ "id": "NTRS",
+ "kind": "company",
+ "name": "Northern Trust",
+ "tickers": [
+  "NTRS"
+ ],
+ "sector": "sector-financials",
+ "fill_from": "sector-financials",
+ "photos": [
+  {
+   "shows": "Northern Trust Bank 50 South Lasalle Street from north",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Northern_Trust_Bank_50_South_Lasalle_Street_from_north.jpg/1280px-Northern_Trust_Bank_50_South_Lasalle_Street_from_north.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Northern_Trust_Bank_50_South_Lasalle_Street_from_north.jpg/500px-Northern_Trust_Bank_50_South_Lasalle_Street_from_north.jpg",
+   "size": [
+    1280,
+    1874
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Northern_Trust_Bank_50_South_Lasalle_Street_from_north.jpg"
+  }
+ ]
+}

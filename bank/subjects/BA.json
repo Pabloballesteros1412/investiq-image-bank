@@ -1,0 +1,29 @@
+{
+ "id": "BA",
+ "kind": "company",
+ "name": "Boeing",
+ "tickers": [
+  "BA"
+ ],
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "photos": [
+  {
+   "shows": "Biman Bangladesh Airlines Boeing 787 Dreamliner 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Biman_Bangladesh_Airlines_Boeing_787_Dreamliner_2.jpg/1920px-Biman_Bangladesh_Airlines_Boeing_787_Dreamliner_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Biman_Bangladesh_Airlines_Boeing_787_Dreamliner_2.jpg/500px-Biman_Bangladesh_Airlines_Boeing_787_Dreamliner_2.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jubair Bin Iqbal, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Biman_Bangladesh_Airlines_Boeing_787_Dreamliner_2.jpg"
+  }
+ ]
+}

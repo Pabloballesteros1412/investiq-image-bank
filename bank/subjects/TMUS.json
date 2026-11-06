@@ -1,0 +1,29 @@
+{
+ "id": "TMUS",
+ "kind": "company",
+ "name": "T-Mobile US",
+ "tickers": [
+  "TMUS"
+ ],
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "photos": [
+  {
+   "shows": "T-Mobile Headquarters in Bellevue, WA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/0/05/20220831050206%21T-Mobile_Headquarters_in_Bellevue%2C_WA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/0/05/20220831050206%21T-Mobile_Headquarters_in_Bellevue%2C_WA.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "FMM134, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:T-Mobile_Headquarters_in_Bellevue,_WA.jpg"
+  }
+ ]
+}

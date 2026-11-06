@@ -1,0 +1,46 @@
+{
+ "id": "SYY",
+ "kind": "company",
+ "name": "Sysco",
+ "tickers": [
+  "SYY"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "Sysco Corporation Headquarters - Houston, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sysco_Corporation_Headquarters_-_Houston%2C_Texas_%2833648710078%29.jpg/1920px-Sysco_Corporation_Headquarters_-_Houston%2C_Texas_%2833648710078%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sysco_Corporation_Headquarters_-_Houston%2C_Texas_%2833648710078%29.jpg/500px-Sysco_Corporation_Headquarters_-_Houston%2C_Texas_%2833648710078%29.jpg",
+   "size": [
+    1920,
+    1261
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sysco_Corporation_Headquarters_-_Houston,_Texas_(33648710078).jpg"
+  },
+  {
+   "shows": "Here's an International MV belonging to Sysco, at work in Jersey City, New Jersey. The MV was formerly known as the International DuraStar and, prior to that, t",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/International_MV_%2854360105280%29.jpg/1920px-International_MV_%2854360105280%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/International_MV_%2854360105280%29.jpg/500px-International_MV_%2854360105280%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jason Lawrence, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:International_MV_(54360105280).jpg"
+  }
+ ]
+}

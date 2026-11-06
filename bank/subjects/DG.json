@@ -1,0 +1,29 @@
+{
+ "id": "DG",
+ "kind": "company",
+ "name": "Dollar General",
+ "tickers": [
+  "DG"
+ ],
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "photos": [
+  {
+   "shows": "DG Market, Bartow GA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DG_Market%2C_Bartow_GA.jpg/1920px-DG_Market%2C_Bartow_GA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/DG_Market%2C_Bartow_GA.jpg/500px-DG_Market%2C_Bartow_GA.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DG_Market,_Bartow_GA.jpg"
+  }
+ ]
+}
