@@ -6,7 +6,6 @@
   "RIVN"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Rivian Normal Plant Floor",
@@ -59,6 +58,60 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg"
+  },
+  {
+   "shows": "A car on a dirt road surrounded by trees",
+   "url": "https://images.unsplash.com/photo-1667137091780-93956688d39a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Uml2aWFufGVufDF8fHx8MTc5NDAyODI3NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1667137091780-93956688d39a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Uml2aWFufGVufDF8fHx8MTc5NDAyODI3NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Wes Hicks on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sickhews?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-car-on-a-dirt-road-surrounded-by-trees-eaCOvfx-vHA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The rivian logo is displayed on a building",
+   "url": "https://images.unsplash.com/photo-1746047420047-03fc7a9b9226?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1746047420047-03fc7a9b9226?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Daniel Romero on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@rmrdnl?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/the-rivian-logo-is-displayed-on-a-building-SI6GM4TV4QM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white truck driving down a dirt road",
+   "url": "https://images.unsplash.com/photo-1654475677184-2c3ebb2b5b50?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1654475677184-2c3ebb2b5b50?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Leo_Visions on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@leo_visions_?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-white-truck-driving-down-a-dirt-road-wAQUHT6XbSw?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Rivian Ghostbusters Ecto-R1",
@@ -130,24 +183,6 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Rivian_Mobile_Service_truck_Main_Street_downtown_Montpelier_VT_May_2023_rear.jpg",
-   "plain": true
-  },
-  {
-   "shows": "Rivian Ecto R-1 Ghostbusters - 17 Oct 2026",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Rivian_Ecto_R-1_Ghostbusters_-_17_Oct_2026.jpg/1920px-Rivian_Ecto_R-1_Ghostbusters_-_17_Oct_2026.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Rivian_Ecto_R-1_Ghostbusters_-_17_Oct_2026.jpg/500px-Rivian_Ecto_R-1_Ghostbusters_-_17_Oct_2026.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Phillip Pessar, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Rivian_Ecto_R-1_Ghostbusters_-_17_Oct_2026.jpg",
    "plain": true
   }
  ]

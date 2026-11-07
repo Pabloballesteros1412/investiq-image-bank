@@ -7,5 +7,24 @@
  ],
  "sector": "sector-tech",
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "A laptop screen displaying a website on a wooden desk in an office",
+   "url": "https://images.unsplash.com/photo-1658297063569-162817482fb6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U2hvcGlmeXxlbnwxfHx8fDE3OTQwMzE4ODZ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1658297063569-162817482fb6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U2hvcGlmeXxlbnwxfHx8fDE3OTQwMzE4ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by hookle.app on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hookle?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/laptop-displaying-website-in-workspace-6Pa7l0unTAY?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
 }

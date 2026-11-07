@@ -10,8 +10,8 @@
   "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people.",
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one."
  ],
- "updated": "2026-11-06",
- "photos": 2165,
+ "updated": "2026-11-07",
+ "photos": 2266,
  "subjects": [
   {
    "id": "MMM",
@@ -3157,7 +3157,7 @@
     "GD"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/GD.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -3170,7 +3170,7 @@
     "GIS"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/GIS.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -3183,7 +3183,7 @@
     "GM"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/GM.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -3313,7 +3313,7 @@
     "HAS"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HAS.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -3365,7 +3365,7 @@
     "HSY"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HSY.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -3391,10 +3391,9 @@
     "HLT"
    ],
    "aliases": [],
-   "photos": 8,
+   "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HLT.json",
-   "sector": "sector-consumer-discretionary",
-   "fill_from": "sector-consumer-discretionary"
+   "sector": "sector-consumer-discretionary"
   },
   {
    "id": "HIMS",
@@ -3508,7 +3507,7 @@
     "HSBC"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HSBC.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -3703,7 +3702,7 @@
     "ICE"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ICE.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -3962,7 +3961,7 @@
     "KVUE"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/KVUE.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -3975,7 +3974,7 @@
     "KDP"
    ],
    "aliases": [],
-   "photos": 2,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/KDP.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -4079,7 +4078,7 @@
     "KHC"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/KHC.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -4144,7 +4143,7 @@
     "LVS"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LVS.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -4287,7 +4286,7 @@
     "LCID"
    ],
    "aliases": [],
-   "photos": 8,
+   "photos": 9,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LCID.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -4300,7 +4299,7 @@
     "LULU"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LULU.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -4326,7 +4325,7 @@
     "LYFT"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LYFT.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -4365,7 +4364,7 @@
     "MPC"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MPC.json",
    "sector": "sector-energy",
    "fill_from": "sector-energy"
@@ -4378,7 +4377,7 @@
     "MAR"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MAR.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -4546,7 +4545,7 @@
     "MET"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 9,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MET.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -4572,7 +4571,7 @@
     "MGM"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MGM.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -4636,7 +4635,7 @@
     "MRNA"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MRNA.json",
    "sector": "sector-health",
    "fill_from": "sector-health"
@@ -4649,7 +4648,7 @@
     "MDLZ"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MDLZ.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -4688,7 +4687,7 @@
     "MNST"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MNST.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -4714,7 +4713,7 @@
     "MS"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MS.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -4819,7 +4818,7 @@
     "NWS"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NWSA.json",
    "sector": "sector-communication",
    "fill_from": "sector-communication"
@@ -4858,7 +4857,7 @@
     "NIO"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NIO.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -4936,7 +4935,7 @@
     "NCLH"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NCLH.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -4949,7 +4948,7 @@
     "NVS"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NVS.json",
    "sector": "sector-health",
    "fill_from": "sector-health"
@@ -5196,7 +5195,7 @@
     "PCAR"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PCAR.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -5274,7 +5273,7 @@
     "PYPL"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PYPL.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -5287,7 +5286,7 @@
     "PDD"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PDD.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -5325,7 +5324,7 @@
     "PBR"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PBR.json",
    "sector": "sector-energy",
    "fill_from": "sector-energy"
@@ -5403,7 +5402,7 @@
     "PINS"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PINS.json",
    "sector": "sector-communication",
    "fill_from": "sector-communication"
@@ -5585,7 +5584,7 @@
     "QCOM"
    ],
    "aliases": [],
-   "photos": 8,
+   "photos": 9,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/QCOM.json",
    "sector": "sector-tech",
    "fill_from": "sector-tech"
@@ -5624,7 +5623,7 @@
     "RL"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RL.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -5780,10 +5779,9 @@
     "RIVN"
    ],
    "aliases": [],
-   "photos": 8,
+   "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RIVN.json",
-   "sector": "sector-consumer-discretionary",
-   "fill_from": "sector-consumer-discretionary"
+   "sector": "sector-consumer-discretionary"
   },
   {
    "id": "HOOD",
@@ -5897,7 +5895,7 @@
     "RY"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RY.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -5910,7 +5908,7 @@
     "RCL"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RCL.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -5923,7 +5921,7 @@
     "RTX"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RTX.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -5962,7 +5960,7 @@
     "SNDK"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SNDK.json",
    "sector": "sector-tech",
    "fill_from": "sector-tech"
@@ -6027,7 +6025,7 @@
     "SE"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SE.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -6040,7 +6038,7 @@
     "STX"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/STX.json",
    "sector": "sector-tech",
    "fill_from": "sector-tech"
@@ -6079,7 +6077,7 @@
     "SHEL"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 9,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SHEL.json",
    "sector": "sector-energy",
    "fill_from": "sector-energy"
@@ -6092,7 +6090,7 @@
     "SHW"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SHW.json",
    "sector": "sector-materials",
    "fill_from": "sector-materials"
@@ -6105,7 +6103,7 @@
     "SHOP"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SHOP.json",
    "sector": "sector-tech",
    "fill_from": "sector-tech"
@@ -6170,7 +6168,7 @@
     "SNAP"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SNAP.json",
    "sector": "sector-communication",
    "fill_from": "sector-communication"
@@ -6235,10 +6233,9 @@
     "SONY"
    ],
    "aliases": [],
-   "photos": 8,
+   "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SONY.json",
-   "sector": "sector-consumer-discretionary",
-   "fill_from": "sector-consumer-discretionary"
+   "sector": "sector-consumer-discretionary"
   },
   {
    "id": "SOUN",
@@ -6274,7 +6271,7 @@
     "LUV"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LUV.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -6299,7 +6296,7 @@
     "SPOT"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 4,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SPOT.json",
    "sector": "sector-communication",
    "fill_from": "sector-communication"
@@ -6312,7 +6309,7 @@
     "SWK"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SWK.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -6455,7 +6452,7 @@
     "TMUS"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TMUS.json",
    "sector": "sector-communication",
    "fill_from": "sector-communication"
@@ -6494,7 +6491,7 @@
     "TPR"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TPR.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -6520,7 +6517,7 @@
     "TGT"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TGT.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -6533,7 +6530,7 @@
     "TD"
    ],
    "aliases": [],
-   "photos": 2,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TD.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -6623,7 +6620,7 @@
     "TXT"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TXT.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -6662,7 +6659,7 @@
     "TKO"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 2,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TKO.json",
    "sector": "sector-communication",
    "fill_from": "sector-communication"
@@ -6688,7 +6685,7 @@
     "TM"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TM.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -6857,7 +6854,7 @@
     "UBS"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UBS.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -6909,7 +6906,7 @@
     "UL"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UL.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -6922,7 +6919,7 @@
     "UNP"
    ],
    "aliases": [],
-   "photos": 2,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UNP.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -6935,7 +6932,7 @@
     "UAL"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UAL.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -6948,7 +6945,7 @@
     "UPS"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 7,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UPS.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -7104,7 +7101,7 @@
     "VZ"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 8,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VZ.json",
    "sector": "sector-communication",
    "fill_from": "sector-communication"
@@ -7337,7 +7334,7 @@
     "WFC"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 9,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WFC.json",
    "sector": "sector-financials",
    "fill_from": "sector-financials"
@@ -7505,7 +7502,7 @@
     "YUM"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/YUM.json",
    "sector": "sector-consumer-discretionary",
    "fill_from": "sector-consumer-discretionary"
@@ -7557,7 +7554,7 @@
     "ZM"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ZM.json",
    "sector": "sector-tech",
    "fill_from": "sector-tech"

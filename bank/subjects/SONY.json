@@ -6,8 +6,61 @@
   "SONY"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
  "photos": [
+  {
+   "shows": "A camera sitting in the middle of a field",
+   "url": "https://images.unsplash.com/photo-1603457893497-4de5ef1d8ab1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U29ueXxlbnwxfHx8fDE3OTQwMzE4OTF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1603457893497-4de5ef1d8ab1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U29ueXxlbnwxfHx8fDE3OTQwMzE4OTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by cody gallo on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@gallocody?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-camera-sitting-in-the-middle-of-a-field-sgXF7Vl3Yek?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White Sony PS4 DualShock controller over person's palm",
+   "url": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGxheVN0YXRpb258ZW58MXx8fHwxNzk0MDMxODkwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGxheVN0YXRpb258ZW58MXx8fHwxNzk0MDMxODkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    2011
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nikita Kachanovsky on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nkachanovskyyy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black Sony PS2 controller on white surface",
+   "url": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b4b33?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFNvbnl8ZW58MXx8fHwxNzk0MDMxODkxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1526509867162-5b0c0d1b4b33?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFNvbnl8ZW58MXx8fHwxNzk0MDMxODkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nikita Kostrykin on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chilinik?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-sony-ps2-controller-on-white-surface-i1Q9pphrWUw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
   {
    "shows": "Sony headquaters 1",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_headquaters_1.jpg/1920px-Sony_headquaters_1.jpg",
@@ -132,24 +185,6 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:SONY_HQ_-_panoramio.jpg",
-   "plain": true
-  },
-  {
-   "shows": "Lascar Sony Center and Deutsche Bahn Headquarters",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lascar_Sony_Center_and_Deutsche_Bahn_Headquarters_%284472286028%29.jpg/1920px-Lascar_Sony_Center_and_Deutsche_Bahn_Headquarters_%284472286028%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lascar_Sony_Center_and_Deutsche_Bahn_Headquarters_%284472286028%29.jpg/500px-Lascar_Sony_Center_and_Deutsche_Bahn_Headquarters_%284472286028%29.jpg",
-   "size": [
-    1920,
-    1275
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Jorge Láscar from Australia, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Lascar_Sony_Center_and_Deutsche_Bahn_Headquarters_(4472286028).jpg",
    "plain": true
   }
  ]

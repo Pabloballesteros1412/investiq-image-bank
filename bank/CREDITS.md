@@ -1374,12 +1374,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## General Dynamics (GD)
 
+- A large airplane flying in the sky: Photo by Forsaken Films on Unsplash. [72RuhQunZEk](https://unsplash.com/photos/a-large-airplane-flying-in-the-sky-72RuhQunZEk?utm_source=investiq_image_bank&utm_medium=referral)
+- A plane on the runway: Photo by Niklas Jonasson on Unsplash. [cxL6krxE9zU](https://unsplash.com/photos/a-plane-on-the-runway-cxL6krxE9zU?utm_source=investiq_image_bank&utm_medium=referral)
 - General Dynamics Headquarters: Nwalser7, CC BY-SA 4.0, via Wikimedia Commons. [General Dynamics Headquarters.jpg](https://commons.wikimedia.org/wiki/File:General_Dynamics_Headquarters.jpg)
 - Anmeldung GDELS-Mowag Kreuzlingen: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons. [Anmeldung GDELS-Mowag Kreuzlingen.jpg](https://commons.wikimedia.org/wiki/File:Anmeldung_GDELS-Mowag_Kreuzlingen.jpg)
 - ASCOD COBRA: Reise Reise, CC BY-SA 4.0, via Wikimedia Commons. [ASCOD COBRA.jpg](https://commons.wikimedia.org/wiki/File:ASCOD_COBRA.jpg)
 
 ## General Mills (GIS)
 
+- A tall building with a neon sign on top of it: Photo by Nikoloz Gachechiladze on Unsplash. [HpndNGvHh3U](https://unsplash.com/photos/a-tall-building-with-a-neon-sign-on-top-of-it-HpndNGvHh3U?utm_source=investiq_image_bank&utm_medium=referral)
 - General Mills cereal plant, Buffalo NY: Quintin Soloviev, CC BY 4.0, via Wikimedia Commons. [General Mills cereal plant, Buffalo NY.jpg](https://commons.wikimedia.org/wiki/File:General_Mills_cereal_plant,_Buffalo_NY.jpg)
 - Aerial photo of the General Mills corporate headquarters campus, Golden Valley, Minnesota , USA.: Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons. [2009-0722-GeneralMills-hq.jpg](https://commons.wikimedia.org/wiki/File:2009-0722-GeneralMills-hq.jpg)
 - Buffalo December 2024 26 (General Mills plant): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Buffalo December 2024 26 (General Mills plant).jpg](https://commons.wikimedia.org/wiki/File:Buffalo_December_2024_26_(General_Mills_plant).jpg)
@@ -1388,6 +1391,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - GM Renaissance Center - Hôtel le plus haut en Amérique du Nord - panoramio: Bohao Zhao, CC BY 3.0, via Wikimedia Commons. [GM Renaissance Center - Hôtel le plus haut en Amérique du Nord - panoramio.jpg](https://commons.wikimedia.org/wiki/File:GM_Renaissance_Center_-_H%C3%B4tel_le_plus_haut_en_Am%C3%A9rique_du_Nord_-_panoramio.jpg)
 - Mary Barra, General Motors CEO (per Wikidata): Benjamin Applebaum, public domain, via Wikimedia Commons. [Mary Barra, official portrait, Homeland Security Council.jpg](https://commons.wikimedia.org/wiki/File:Mary_Barra,_official_portrait,_Homeland_Security_Council.jpg)
+- Blue Chevrolet coupe: Photo by Stefan Rodriguez on Unsplash. [2AovfzYV3rc](https://unsplash.com/photos/blue-chevrolet-coupe-2AovfzYV3rc?utm_source=investiq_image_bank&utm_medium=referral)
+- A black suv parked in front of a stone building: Photo by Franco Debartolo on Unsplash. [8kAmGDOg_xI](https://unsplash.com/photos/a-black-suv-parked-in-front-of-a-stone-building-8kAmGDOg_xI?utm_source=investiq_image_bank&utm_medium=referral)
 - General Motors Canada office - Address: 101 McNabb St, Markham, ON L3R 4H8: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [GeneralMotorsCanada.jpg](https://commons.wikimedia.org/wiki/File:GeneralMotorsCanada.jpg)
 - GM Lansing Grand River Assembly Plant: Tony Webster, CC BY 2.0, via Wikimedia Commons. [GM Lansing Grand River Assembly Plant.jpg](https://commons.wikimedia.org/wiki/File:GM_Lansing_Grand_River_Assembly_Plant.jpg)
 - General Motors Headquarters: victorgrigas, CC BY-SA 3.0, via Wikimedia Commons. [General Motors Headquarters.jpg](https://commons.wikimedia.org/wiki/File:General_Motors_Headquarters.jpg)
@@ -1439,6 +1444,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Hasbro, Inc. world headquarters Pawtucket: Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons. [Hasbro, Inc. world headquarters Pawtucket.jpg](https://commons.wikimedia.org/wiki/File:Hasbro,_Inc._world_headquarters_Pawtucket.jpg)
 - Mr Potato Head at Hasbro Pawtucket headquarters: Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons. [Mr Potato Head at Hasbro Pawtucket headquarters.jpg](https://commons.wikimedia.org/wiki/File:Mr_Potato_Head_at_Hasbro_Pawtucket_headquarters.jpg)
+- A close up of a monopoly board game: Photo by William Warby on Unsplash. [EfGa85RIkTE](https://unsplash.com/photos/a-close-up-of-a-monopoly-board-game-EfGa85RIkTE?utm_source=investiq_image_bank&utm_medium=referral)
 - Hasbro P-O-X, blue, front: FreeMediaKid!, CC BY 4.0, via Wikimedia Commons. [Hasbro P-O-X, blue, front.jpg](https://commons.wikimedia.org/wiki/File:Hasbro_P-O-X,_blue,_front.jpg)
 - Hasbro, Inc. Pawtucket world headquarters: Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons. [Hasbro, Inc. Pawtucket world headquarters.jpg](https://commons.wikimedia.org/wiki/File:Hasbro,_Inc._Pawtucket_world_headquarters.jpg)
 - Hasbro booth: Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0, via Wikimedia Commons. [Hasbro booth (28388090881).jpg](https://commons.wikimedia.org/wiki/File:Hasbro_booth_(28388090881).jpg)
@@ -1460,6 +1466,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Hershey Company (The) (HSY)
 
 - Hershey Factory: Antarctic96, CC BY-SA 3.0, via Wikimedia Commons. [Hershey Factory.jpg](https://commons.wikimedia.org/wiki/File:Hershey_Factory.jpg)
+- A building with a sign that says hershey's choco bar: Photo by Janne Simoes on Unsplash. [u7Sed37IP5c](https://unsplash.com/photos/a-building-with-a-sign-that-says-hersheys-choco-bar-u7Sed37IP5c?utm_source=investiq_image_bank&utm_medium=referral)
 - Hershey's Chocolate World interior: Toohool, CC BY-SA 4.0, via Wikimedia Commons. [Hershey's Chocolate World interior.jpg](https://commons.wikimedia.org/wiki/File:Hershey%27s_Chocolate_World_interior.jpg)
 - Hershey's Store - Sentosa Singapore: Mike384, CC BY 3.0, via Wikimedia Commons. [Hershey's Store - Sentosa Singapore.JPG](https://commons.wikimedia.org/wiki/File:Hershey%27s_Store_-_Sentosa_Singapore.JPG)
 - Hersheys Times Square Store NYC: Photo: Andreas Praefcke, CC BY 3.0, via Wikimedia Commons. [Hersheys Times Square Store NYC.jpg](https://commons.wikimedia.org/wiki/File:Hersheys_Times_Square_Store_NYC.jpg)
@@ -1472,6 +1479,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Hilton Worldwide (HLT)
 
 - Christopher J. Nassetta, Hilton Worldwide CEO (per Wikidata): World Travel & Tourism Council, CC BY 2.0, via Wikimedia Commons. [Closing remarks (40854079564).jpg](https://commons.wikimedia.org/wiki/File:Closing_remarks_(40854079564).jpg)
+- A building with a sign on top of it: Photo by Kenjiro Yagi on Unsplash. [IGQCK3N49xs](https://unsplash.com/photos/a-building-with-a-sign-on-top-of-it-IGQCK3N49xs?utm_source=investiq_image_bank&utm_medium=referral)
+- A sign that says hilton tokyo bay on it: Photo by Kenjiro Yagi on Unsplash. [xXQ2p8j-Ilw](https://unsplash.com/photos/a-sign-that-says-hilton-tokyo-bay-on-it-xXQ2p8j-Ilw?utm_source=investiq_image_bank&utm_medium=referral)
 - Hilton Worldwide headquarters in Virginia seen from Jones Branch Drive: Altercari, CC BY-SA 4.0, via Wikimedia Commons. [Hilton Worldwide headquarters in Virginia seen from Jones Branch Drive.jpg](https://commons.wikimedia.org/wiki/File:Hilton_Worldwide_headquarters_in_Virginia_seen_from_Jones_Branch_Drive.jpg)
 - Canopy by Hilton Riverwalk: Medialecent, CC BY 4.0, via Wikimedia Commons. [Canopy by Hilton Riverwalk.jpg](https://commons.wikimedia.org/wiki/File:Canopy_by_Hilton_Riverwalk.jpg)
 - HiltGarInn Qns Plz 2023 jeh: Jim.henderson, CC BY 4.0, via Wikimedia Commons. [HiltGarInn Qns Plz 2023 jeh.jpg](https://commons.wikimedia.org/wiki/File:HiltGarInn_Qns_Plz_2023_jeh.jpg)
@@ -1526,6 +1535,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - HSBC HK building at night: Rehman Abubakr, CC BY-SA 4.0, via Wikimedia Commons. [HSBC HK building at night.jpg](https://commons.wikimedia.org/wiki/File:HSBC_HK_building_at_night.jpg)
 - HSBC Building (Hong Kong): Suicasmo, CC BY-SA 4.0, via Wikimedia Commons. [HSBC Building (Hong Kong) 20170808.jpg](https://commons.wikimedia.org/wiki/File:HSBC_Building_(Hong_Kong)_20170808.jpg)
+- A couple of skyscrapers: Photo by IKECHUKWU JULIUS UGWU on Unsplash. [Z9IgUwOPtlw](https://unsplash.com/photos/a-couple-of-skyscrapers-Z9IgUwOPtlw?utm_source=investiq_image_bank&utm_medium=referral)
+- A red taxi in front of an hsbc bank: Photo by rishi on Unsplash. [ElDhPlh-cqw](https://unsplash.com/photos/a-red-taxi-in-front-of-an-hsbc-bank-ElDhPlh-cqw?utm_source=investiq_image_bank&utm_medium=referral)
+- A statue of a lion in front of a building: Photo by Cheung Yin on Unsplash. [0U2E7StbhII](https://unsplash.com/photos/a-statue-of-a-lion-in-front-of-a-building-0U2E7StbhII?utm_source=investiq_image_bank&utm_medium=referral)
 - Wealth Court HSBC ATM: Ricky36, CC0, via Wikimedia Commons. [Wealth Court HSBC ATM.jpg](https://commons.wikimedia.org/wiki/File:Wealth_Court_HSBC_ATM.jpg)
 - HKMH 紅磡 Hung Hom TST East 香港歷史博物館 HK Museum of History June 2019 IX2 103: Hisuya HOwmnga, CC BY-SA 4.0, via Wikimedia Commons. [HKMH 紅磡 Hung Hom TST East 香港歷史博物館 HK Museum of History June 2019 IX2 103.jpg](https://commons.wikimedia.org/wiki/File:HKMH_%E7%B4%85%E7%A3%A1_Hung_Hom_TST_East_%E9%A6%99%E6%B8%AF%E6%AD%B7%E5%8F%B2%E5%8D%9A%E7%89%A9%E9%A4%A8_HK_Museum_of_History_June_2019_IX2_103.jpg)
 - HSBC Building, Hongkong (Ank Kumar, Infosys) 03: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons. [HSBC Building, Hongkong (Ank Kumar, Infosys) 03.jpg](https://commons.wikimedia.org/wiki/File:HSBC_Building,_Hongkong_(Ank_Kumar,_Infosys)_03.jpg)
@@ -1588,6 +1600,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Taken at Interactive Brokers in Greenwich, CT on 7/18/2014.: Ɱ, CC BY-SA 4.0, via Wikimedia Commons. [IBlobby.JPG](https://commons.wikimedia.org/wiki/File:IBlobby.JPG)
 - Taken at Interactive Brokers in Greenwich, CT on 7/18/2014.: Ɱ, CC BY-SA 4.0, via Wikimedia Commons. [IBservers.JPG](https://commons.wikimedia.org/wiki/File:IBservers.JPG)
 - Interactive Brokers War Room: Ɱ, CC BY-SA 4.0, via Wikimedia Commons. [Interactive Brokers War Room.jpg](https://commons.wikimedia.org/wiki/File:Interactive_Brokers_War_Room.jpg)
+
+## Intercontinental Exchange (ICE)
+
+- New york stock exchange building with american flags: Photo by David Vives on Unsplash. [xnzSgqyP8Hs](https://unsplash.com/photos/new-york-stock-exchange-building-with-american-flags-xnzSgqyP8Hs?utm_source=investiq_image_bank&utm_medium=referral)
+- New york stock exchange building with american flag: Photo by Irvin Liang on Unsplash. [ljll1KD2Kt8](https://unsplash.com/photos/new-york-stock-exchange-building-with-american-flag-ljll1KD2Kt8?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## International Flavors & Fragrances (IFF)
 
@@ -1686,8 +1703,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - JPMorgan Chase Building Corner 2021: Dead.rabbit, CC BY-SA 4.0, via Wikimedia Commons. [JPMorgan Chase Building Corner 2021.jpg](https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Building_Corner_2021.jpg)
 - JPMorgan Chase Building Front 2021: Dead.rabbit, CC BY-SA 4.0, via Wikimedia Commons. [JPMorgan Chase Building Front 2021.jpg](https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Building_Front_2021.jpg)
 
+## Kenvue (KVUE)
+
+- A bottle of tylenol next to a bed: Photo by Erik Mclean on Unsplash. [a9GhLAWOHxM](https://unsplash.com/photos/a-bottle-of-tylenol-next-to-a-bed-a9GhLAWOHxM?utm_source=investiq_image_bank&utm_medium=referral)
+- Listerine cool mint mouth wash: Photo by Mishaal Zahed on Unsplash. [KDJ1TbLDoOo](https://unsplash.com/photos/listerine-cool-mint-mouth-wash-KDJ1TbLDoOo?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Keurig Dr Pepper (KDP)
 
+- Dr pepper sign atop a historic brick building: Photo by Chandler Cruttenden on Unsplash. [QqzvT_a26g0](https://unsplash.com/photos/dr-pepper-sign-atop-a-historic-brick-building-QqzvT_a26g0?utm_source=investiq_image_bank&utm_medium=referral)
+- Canada dry ginger ale can: Photo by Taras Chernus on Unsplash. [Trf3V1l0kN0](https://unsplash.com/photos/canada-dry-ginger-ale-can-Trf3V1l0kN0?utm_source=investiq_image_bank&utm_medium=referral)
 - Hotel room at the Silver Legacy Resort Casino - November 2021 - Sarah Stierch 05: Missvain, CC BY 4.0, via Wikimedia Commons. [Hotel room at the Silver Legacy Resort Casino - November 2021 - Sarah Stierch 05.jpg](https://commons.wikimedia.org/wiki/File:Hotel_room_at_the_Silver_Legacy_Resort_Casino_-_November_2021_-_Sarah_Stierch_05.jpg)
 - Keurig hotel coffee maker machine: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Keurig hotel coffee maker machine (43090967122).jpg](https://commons.wikimedia.org/wiki/File:Keurig_hotel_coffee_maker_machine_(43090967122).jpg)
 
@@ -1729,6 +1753,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Kraft Heinz (KHC)
 
 - Kraft Heinz Headquarters Chicago: Lacrossewi, CC BY-SA 4.0, via Wikimedia Commons. [Kraft Heinz Headquarters Chicago.jpg](https://commons.wikimedia.org/wiki/File:Kraft_Heinz_Headquarters_Chicago.jpg)
+- 1869 Heinz tomato ketchup bottle close-up photography: Photo by Pedro Durigan on Unsplash. [b8jHMJOzso8](https://unsplash.com/photos/1869-heinz-tomato-ketchup-bottle-close-up-photography-b8jHMJOzso8?utm_source=investiq_image_bank&utm_medium=referral)
+- Rows of Heinz tomato ketchup bottles on a supermarket shelf under a red sign: Photo by Zoshua Colah on Unsplash. [ks68Iee7jUE](https://unsplash.com/photos/heinz-tomato-ketchup-bottles-on-shelf-ks68Iee7jUE?utm_source=investiq_image_bank&utm_medium=referral)
+- A large red brick building with a neon Heinz sign on the roof: Photo by Jocelyn Allen on Unsplash. [W5LOVmukZvk](https://unsplash.com/photos/heinz-sign-on-red-brick-building-W5LOVmukZvk?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Kroger (KR)
 
@@ -1748,6 +1775,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Lam Research (LRCX)
 
 - Bagmane Tech Park, Bangalore 07: Gpkp, CC BY-SA 4.0, via Wikimedia Commons. [Bagmane Tech Park, Bangalore (2024) 07.jpg](https://commons.wikimedia.org/wiki/File:Bagmane_Tech_Park,_Bangalore_(2024)_07.jpg)
+
+## Las Vegas Sands (LVS)
+
+- Marina Bay Sands, Singapore: Photo by Hu Chen on Unsplash. [__cBlRzLSTg](https://unsplash.com/photos/marina-bay-sands-singapore-__cBlRzLSTg?utm_source=investiq_image_bank&utm_medium=referral)
+- Gold and white lighted building: Photo by Bryan Low on Unsplash. [Y3nBfFpXVIY](https://unsplash.com/photos/gold-and-white-lighted-building-Y3nBfFpXVIY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Leidos (LDOS)
 
@@ -1818,6 +1850,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Lucid Showroom Miami Worldcenter 29 June 2023 - 2: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Lucid Showroom Miami Worldcenter 29 June 2023 - 2.jpg](https://commons.wikimedia.org/wiki/File:Lucid_Showroom_Miami_Worldcenter_29_June_2023_-_2.jpg)
 - Marc Winterhoff, Lucid Motors CEO (per Wikidata): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Lucid Gravity European Premiere, Munich (20250909-P1050422).jpg](https://commons.wikimedia.org/wiki/File:Lucid_Gravity_European_Premiere,_Munich_(20250909-P1050422).jpg)
 - Lucid Motors Brickell City Centre, Miami FL, June 2021 door open: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Lucid Motors Brickell City Centre, Miami FL, June 2021 door open.jpg](https://commons.wikimedia.org/wiki/File:Lucid_Motors_Brickell_City_Centre,_Miami_FL,_June_2021_door_open.jpg)
+- Close-up of a modern bronze electric car: Photo by Rizvan Polukhov on Unsplash. [dSCjuU3Bf5Q](https://unsplash.com/photos/close-up-of-a-modern-bronze-electric-car-dSCjuU3Bf5Q?utm_source=investiq_image_bank&utm_medium=referral)
 - United States Environmental Protection Agency (USEPA) visit to Arizona in September 2024 - 10: usepagov, public domain, via Wikimedia Commons. [United States Environmental Protection Agency (USEPA) visit to Arizona in September 2024 - 10.jpg](https://commons.wikimedia.org/wiki/File:United_States_Environmental_Protection_Agency_(USEPA)_visit_to_Arizona_in_September_2024_-_10.jpg)
 - Auto 2024, Zurich (PANA1018): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Auto 2024, Zurich (PANA1018).jpg](https://commons.wikimedia.org/wiki/File:Auto_2024,_Zurich_(PANA1018).jpg)
 - Lucid Air Sapphire GIMS 2024 1X7A2363: Alexander-93, CC BY-SA 4.0, via Wikimedia Commons. [Lucid Air Sapphire GIMS 2024 1X7A2363.jpg](https://commons.wikimedia.org/wiki/File:Lucid_Air_Sapphire_GIMS_2024_1X7A2363.jpg)
@@ -1827,6 +1860,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Lululemon Athletica (LULU)
 
 - Lululemon Aventura Mall: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Lululemon Aventura Mall (48624856991).jpg](https://commons.wikimedia.org/wiki/File:Lululemon_Aventura_Mall_(48624856991).jpg)
+- A building with a sign that says dublin on it: Photo by P. L. on Unsplash. [xRdQQbNS-bc](https://unsplash.com/photos/a-building-with-a-sign-that-says-dublin-on-it-xRdQQbNS-bc?utm_source=investiq_image_bank&utm_medium=referral)
 - Haus Marktgasse 12 in Zürich mit Lululemon-Laden: Fred Romero from Paris, France, CC BY 2.0, via Wikimedia Commons. [Zürich (48688341717).jpg](https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_(48688341717).jpg)
 - Lululemon Kingsway Mall 2021: Rowanswiki, CC0, via Wikimedia Commons. [Lululemon Kingsway Mall 2021.jpg](https://commons.wikimedia.org/wiki/File:Lululemon_Kingsway_Mall_2021.jpg)
 - Lululemon Athletica Toronto Eaton Centre: Rowanlovescars, CC BY-SA 4.0, via Wikimedia Commons. [Lululemon Athletica Toronto Eaton Centre.jpg](https://commons.wikimedia.org/wiki/File:Lululemon_Athletica_Toronto_Eaton_Centre.jpg)
@@ -1834,6 +1868,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Lyft (LYFT)
 
+- Row of blue rental bikes with black seats: Photo by John Cardamone on Unsplash. [k5GoTKITOY4](https://unsplash.com/photos/row-of-blue-rental-bikes-with-black-seats-k5GoTKITOY4?utm_source=investiq_image_bank&utm_medium=referral)
 - Logan Green, Lyft CEO (per Wikidata): TechCrunch, CC BY 2.0, via Wikimedia Commons. [TechCrunch Disrupt NY 2015 - Day 2 (17385183755).jpg](https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_NY_2015_-_Day_2_(17385183755).jpg)
 - Lyft Electric Scooter in Austin, Texas: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Lyft Electric Scooter in Austin, Texas (46833069604).jpg](https://commons.wikimedia.org/wiki/File:Lyft_Electric_Scooter_in_Austin,_Texas_(46833069604).jpg)
 - Brightline Miami Station: Phillip Pessar from Miami, USA, CC BY 2.0, via Wikimedia Commons. [Brightline Miami Station (42120684015).jpg](https://commons.wikimedia.org/wiki/File:Brightline_Miami_Station_(42120684015).jpg)
@@ -1856,6 +1891,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Marathon Petroleum (MPC)
 
+- Lighted Marathon gas station: Photo by Daniel Lincoln on Unsplash. [yqymOwXGZ1Y](https://unsplash.com/photos/lighted-marathon-gas-station-yqymOwXGZ1Y?utm_source=investiq_image_bank&utm_medium=referral)
 - Marathon Petroleum from Main Street: Mbrickn, CC BY 4.0, via Wikimedia Commons. [Marathon Petroleum from Main Street.jpg](https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_from_Main_Street.jpg)
 - Marathon Petroleum Headquarters, Findlay, Ohio: JJonahJackalope, CC BY-SA 4.0, via Wikimedia Commons. [Marathon Petroleum Headquarters, Findlay, Ohio.jpg](https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_Headquarters,_Findlay,_Ohio.jpg)
 - Marathon Petroleum Company Detroit: Notorious4life ( talk ), public domain, via Wikimedia Commons. [Marathon Petroleum Company Detroit.jpg](https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_Company_Detroit.jpg)
@@ -1865,6 +1901,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Marriott Headquarters: MDGovpics, CC BY 2.0, via Wikimedia Commons. [Marriott Headquarters - 52576461289.jpg](https://commons.wikimedia.org/wiki/File:Marriott_Headquarters_-_52576461289.jpg)
 - Marriott International - Headquarters Office: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Marriott International - Headquarters Office.jpg](https://commons.wikimedia.org/wiki/File:Marriott_International_-_Headquarters_Office.jpg)
 - Marriott International Headquarters 01: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [Marriott International Headquarters 01.jpg](https://commons.wikimedia.org/wiki/File:Marriott_International_Headquarters_01.jpg)
+- Marriott hotel logo on a textured wall: Photo by Daniel Romero on Unsplash. [EYTMKjyJrDM](https://unsplash.com/photos/marriott-hotel-logo-on-a-textured-wall-EYTMKjyJrDM?utm_source=investiq_image_bank&utm_medium=referral)
 - MEA Sukhumvit Park Bangkok: BKKSP, CC0, via Wikimedia Commons. [MEA Sukhumvit Park Bangkok.jpg](https://commons.wikimedia.org/wiki/File:MEA_Sukhumvit_Park_Bangkok.jpg)
 - Marriott at China Wedding Expo Beijing, Spring 2021: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Marriott at China Wedding Expo Beijing, Spring 2021 (20210425121318).jpg](https://commons.wikimedia.org/wiki/File:Marriott_at_China_Wedding_Expo_Beijing,_Spring_2021_(20210425121318).jpg)
 - Marriott Intl HQ - August 2022a - Crop: User:Moreau1, CC0, via Wikimedia Commons. [Marriott Intl HQ - August 2022a - Crop.jpg](https://commons.wikimedia.org/wiki/File:Marriott_Intl_HQ_-_August_2022a_-_Crop.jpg)
@@ -1960,6 +1997,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - MetLife Building with Grand Central Terminal in the foreground.: Jnn13, CC BY-SA 4.0, via Wikimedia Commons. [MetLIfe GC.JPG](https://commons.wikimedia.org/wiki/File:MetLIfe_GC.JPG)
 - Walter Gropius photo MetLife Building fassade New York USA: Unknown author, public domain, via Wikimedia Commons. [Walter Gropius photo MetLife Building fassade New York USA 2005-10-03.jpg](https://commons.wikimedia.org/wiki/File:Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg)
 - Metlife Building Und Chrysler Building: Udo R, CC BY 3.0, via Wikimedia Commons. [Metlife Building Und Chrysler Building (136757291).jpeg](https://commons.wikimedia.org/wiki/File:Metlife_Building_Und_Chrysler_Building_(136757291).jpeg)
+- MetLife high-rise building beside Chrysler Building during daytime: Photo by David Watkis on Unsplash. [HLZa7EDlXlg](https://unsplash.com/photos/metlife-high-rise-building-beside-chrysler-building-during-daytime-HLZa7EDlXlg?utm_source=investiq_image_bank&utm_medium=referral)
+- Metlife building rooftop covered in snow: Photo by Arno Senoner on Unsplash. [gCPDLQ5Qzaw](https://unsplash.com/photos/metlife-building-rooftop-covered-in-snow-gCPDLQ5Qzaw?utm_source=investiq_image_bank&utm_medium=referral)
 - MetLife, Viña del Mar: Carlos Figueroa Rojas, CC BY-SA 4.0, via Wikimedia Commons. [MetLife, Viña del Mar 20211006.jpg](https://commons.wikimedia.org/wiki/File:MetLife,_Vi%C3%B1a_del_Mar_20211006.jpg)
 - Edificio Torre Metlife, Santiago: Carlos yo, CC BY-SA 4.0, via Wikimedia Commons. [Edificio Torre Metlife, Santiago 20230414.jpg](https://commons.wikimedia.org/wiki/File:Edificio_Torre_Metlife,_Santiago_20230414.jpg)
 - Metlife Agustinas, Santiago: Carlos yo, CC BY-SA 4.0, via Wikimedia Commons. [Metlife Agustinas, Santiago 20220627.jpg](https://commons.wikimedia.org/wiki/File:Metlife_Agustinas,_Santiago_20220627.jpg)
@@ -1975,6 +2014,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## MGM Resorts (MGM)
 
 - Luxor Hotel Feb - 2019: Sisternaconstanza, CC BY-SA 4.0, via Wikimedia Commons. [Luxor Hotel Feb - 2019.jpg](https://commons.wikimedia.org/wiki/File:Luxor_Hotel_Feb_-_2019.jpg)
+- A view of the las vegas hotel and casino from across the water: Photo by Alex Vegas on Unsplash. [hn15tO9NUiA](https://unsplash.com/photos/a-view-of-the-las-vegas-hotel-and-casino-from-across-the-water-hn15tO9NUiA?utm_source=investiq_image_bank&utm_medium=referral)
 - Hotel Excalibur Las Vegas: ArticCynda, CC BY-SA 4.0, via Wikimedia Commons. [Hotel Excalibur Las Vegas.jpg](https://commons.wikimedia.org/wiki/File:Hotel_Excalibur_Las_Vegas.jpg)
 - Luxor Resort & Casino pool, Las Vegas: YosemiteYamper, CC BY-SA 4.0, via Wikimedia Commons. [Luxor Resort & Casino pool, Las Vegas.jpg](https://commons.wikimedia.org/wiki/File:Luxor_Resort_%26_Casino_pool,_Las_Vegas.jpg)
 
@@ -2008,10 +2048,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Moderna Headquarters, December 2020: Fletcher, CC BY 4.0, via Wikimedia Commons. [Moderna Headquarters, December 2020.jpg](https://commons.wikimedia.org/wiki/File:Moderna_Headquarters,_December_2020.jpg)
 - Stéphane Bancel, Moderna CEO (per Wikidata): Xuthoria, CC BY-SA 4.0, via Wikimedia Commons. [NYCW 2026 - Stéphane Bancel 08.jpg](https://commons.wikimedia.org/wiki/File:NYCW_2026_-_St%C3%A9phane_Bancel_08.jpg)
+- A close up of a bottle of covidd: Photo by Guido Hofmann on Unsplash. [k_5wJQ-q49I](https://unsplash.com/photos/a-close-up-of-a-bottle-of-covidd-k_5wJQ-q49I?utm_source=investiq_image_bank&utm_medium=referral)
 - Moderna Headquarters: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [Moderna Headquarters (54960816438).jpg](https://commons.wikimedia.org/wiki/File:Moderna_Headquarters_(54960816438).jpg)
 
 ## Mondelez International (MDLZ)
 
+- A cadbury dairy milk roast almond chocolate bar: Photo by Zoshua Colah on Unsplash. [6trpBecnFqI](https://unsplash.com/photos/a-cadbury-dairy-milk-roast-almond-chocolate-bar-6trpBecnFqI?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding Toblerone chocolate box: Photo by Morgan Thompson on Unsplash. [hueiIghpVr8](https://unsplash.com/photos/person-holding-toblerone-chocolate-box-hueiIghpVr8?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of chocolate cookies on a wooden surface: Photo by Ferdiansyah on Unsplash. [MRPA4jCdBW4](https://unsplash.com/photos/a-close-up-of-chocolate-cookies-on-a-wooden-surface-MRPA4jCdBW4?utm_source=investiq_image_bank&utm_medium=referral)
 - Photograph of Mondelēz International Headquarters, Three Parkway North Deerfield, IL 60015: Mike Mitchell, CC BY-SA 3.0, via Wikimedia Commons. [ThreeParkwayNorth3.jpeg](https://commons.wikimedia.org/wiki/File:ThreeParkwayNorth3.jpeg)
 - Usine des Biscottes - Mondelez, 20 rue Jacques-Gamelin (Toulouse): Abdoucondorcet, CC0, via Wikimedia Commons. [Usine des Biscottes - Mondelez, 20 rue Jacques-Gamelin (Toulouse).jpg](https://commons.wikimedia.org/wiki/File:Usine_des_Biscottes_-_Mondelez,_20_rue_Jacques-Gamelin_(Toulouse).jpg)
 - Mondelez LT by Augustas Didzgalvis: BigHead, CC BY-SA 4.0, via Wikimedia Commons. [Mondelez LT by Augustas Didzgalvis.jpg](https://commons.wikimedia.org/wiki/File:Mondelez_LT_by_Augustas_Didzgalvis.jpg)
@@ -2027,6 +2071,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Monster Beverage (MNST)
 
 - Monster Beverage Headquarters: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Monster Beverage Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Monster_Beverage_Headquarters.jpg)
+- Monster energy drink can on black and white textile: Photo by Gkgraphix 53 on Unsplash. [Bf-K7BbYIMo](https://unsplash.com/photos/monster-energy-drink-can-on-black-and-white-textile-Bf-K7BbYIMo?utm_source=investiq_image_bank&utm_medium=referral)
+- A row of green cans: Photo by Emmanuel Edward on Unsplash. [M3E9f6pvGxM](https://unsplash.com/photos/a-row-of-green-cans-M3E9f6pvGxM?utm_source=investiq_image_bank&utm_medium=referral)
 - Energy Drink Display: Coolgurl5555, CC0, via Wikimedia Commons. [Energy Drink Display.jpg](https://commons.wikimedia.org/wiki/File:Energy_Drink_Display.jpg)
 - Japan monster: Bananas and kanelas123, CC BY-SA 4.0, via Wikimedia Commons. [Japan monster.jpg](https://commons.wikimedia.org/wiki/File:Japan_monster.jpg)
 
@@ -2037,6 +2083,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Morgan Stanley (MS)
 
 - Morgan Stanley Times Square: PLBechly, CC BY-SA 4.0, via Wikimedia Commons. [Morgan Stanley Times Square.jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley_Times_Square.jpg)
+- Morgan stanley building illuminated at night: Photo by yanzheng xia on Unsplash. [CM6Wb_VCSsw](https://unsplash.com/photos/morgan-stanley-building-illuminated-at-night-CM6Wb_VCSsw?utm_source=investiq_image_bank&utm_medium=referral)
 - Morgan Stanley Headquarters: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [Morgan Stanley Headquarters (48105951892).jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley_Headquarters_(48105951892).jpg)
 - Morgan Stanley Tower: PLBechly, CC BY-SA 4.0, via Wikimedia Commons. [Morgan Stanley Tower.jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley_Tower.jpg)
 - Morgan Stanley, 61 Rue de Monceau, Paris, France September 2016: Guilhem Vellut from Paris, France, CC BY 2.0, via Wikimedia Commons. [Morgan Stanley, 61 Rue de Monceau, 75008 Paris, France September 2016.jpg](https://commons.wikimedia.org/wiki/File:Morgan_Stanley,_61_Rue_de_Monceau,_75008_Paris,_France_September_2016.jpg)
@@ -2082,6 +2129,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## News Corp (NWSA)
 
 - Robert James Thomson, News Corp CEO (per Wikidata): Department of Foreign Affairs and Trade, CC BY 4.0, via Wikimedia Commons. [Robert Thomson 2014 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Robert_Thomson_2014_(cropped).jpg)
+- Newspapers on The Wall Street Journal rack: Photo by Philip Strong on Unsplash. [gZaj16Ztu2Y](https://unsplash.com/photos/newspapers-on-the-wall-street-journal-rack-gZaj16Ztu2Y?utm_source=investiq_image_bank&utm_medium=referral)
 - Sir Keith Murdoch House, 31-45 Waymouth Street, Adelaide, February 2023: No Swan So Fine, CC BY-SA 4.0, via Wikimedia Commons. [Sir Keith Murdoch House, 31-45 Waymouth Street, Adelaide, February 2023.jpg](https://commons.wikimedia.org/wiki/File:Sir_Keith_Murdoch_House,_31-45_Waymouth_Street,_Adelaide,_February_2023.jpg)
 - News Internaltional Building in London: Bryantbob, CC BY-SA 3.0, via Wikimedia Commons. [News Internaltional Building in London.JPG](https://commons.wikimedia.org/wiki/File:News_Internaltional_Building_in_London.JPG)
 - News Corporation Headquarters: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [News Corporation Headquarters (48155642582).jpg](https://commons.wikimedia.org/wiki/File:News_Corporation_Headquarters_(48155642582).jpg)
@@ -2106,6 +2154,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - NIO House: bfishadow, CC BY 2.0, via Wikimedia Commons. [NIO House.jpg](https://commons.wikimedia.org/wiki/File:NIO_House.jpg)
 - (CHN-Hubei) Nio Showroom @ MixC Wuhan: S5A-0043, CC BY 4.0, via Wikimedia Commons. [(CHN-Hubei) Nio Showroom @ MixC Wuhan 2024-12-04.jpg](https://commons.wikimedia.org/wiki/File:(CHN-Hubei)_Nio_Showroom_@_MixC_Wuhan_2024-12-04.jpg)
+- Two Nio electric cars displayed inside a modern showroom with illuminated brand signage: Photo by Yanhao Fang on Unsplash. [1EzS0XPlBTE](https://unsplash.com/photos/nio-electric-cars-in-modern-showroom-1EzS0XPlBTE?utm_source=investiq_image_bank&utm_medium=referral)
+- A nio el6 electric suv is shown indoors: Photo by Ido l on Unsplash. [Z4j-xJbwEEc](https://unsplash.com/photos/a-nio-el6-electric-suv-is-shown-indoors-Z4j-xJbwEEc?utm_source=investiq_image_bank&utm_medium=referral)
 - GD 廣東 Guangdong 河源市 HeYuan JJ 堅基 JianJi 商業中心 Commercial Center 商場 Plaza Mall shop NIO automobile showroom April 2026 N13P 01: LANENWM Meso Amermbalin, CC0, via Wikimedia Commons. [GD 廣東 Guangdong 河源市 HeYuan JJ 堅基 JianJi 商業中心 Commercial Center 商場 Plaza Mall shop NIO automobile showroom April 2026 N13P 01.jpg](https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%B2%B3%E6%BA%90%E5%B8%82_HeYuan_JJ_%E5%A0%85%E5%9F%BA_JianJi_%E5%95%86%E6%A5%AD%E4%B8%AD%E5%BF%83_Commercial_Center_%E5%95%86%E5%A0%B4_Plaza_Mall_shop_NIO_automobile_showroom_April_2026_N13P_01.jpg)
 - NIO Power Battery Swap: bfishadow, CC BY 2.0, via Wikimedia Commons. [NIO Power Battery Swap.jpg](https://commons.wikimedia.org/wiki/File:NIO_Power_Battery_Swap.jpg)
 - GD 廣東 Guangdong 廣州 Guangzhou 天河區 Tianhe 東方寶泰 PoPark Mall shop NIO Car showroom October 2024 R12S: MPCROOYW GROAHMOIOE, CC0, via Wikimedia Commons. [GD 廣東 Guangdong 廣州 Guangzhou 天河區 Tianhe 東方寶泰 PoPark Mall shop NIO Car showroom October 2024 R12S.jpg](https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_%E5%A4%A9%E6%B2%B3%E5%8D%80_Tianhe_%E6%9D%B1%E6%96%B9%E5%AF%B6%E6%B3%B0_PoPark_Mall_shop_NIO_Car_showroom_October_2024_R12S.jpg)
@@ -2137,12 +2187,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Norwegian Cruise Line Holdings (NCLH)
 
 - Norwegian Cruise Line (NCL) Terminal B at PortMiami (March 11, 2024) 01: Kiran891, CC BY-SA 4.0, via Wikimedia Commons. [Norwegian Cruise Line (NCL) Terminal B at PortMiami (March 11, 2024) 01.jpg](https://commons.wikimedia.org/wiki/File:Norwegian_Cruise_Line_(NCL)_Terminal_B_at_PortMiami_(March_11,_2024)_01.jpg)
+- White and blue boat on body of water during daytime: Photo by Alonso Reyes on Unsplash. [02n6N8oftpU](https://unsplash.com/photos/white-and-blue-boat-on-body-of-water-during-daytime-02n6N8oftpU?utm_source=investiq_image_bank&utm_medium=referral)
 - Norwegian Cruise Line headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Norwegian Cruise Line headquarters.jpg](https://commons.wikimedia.org/wiki/File:Norwegian_Cruise_Line_headquarters.jpg)
 - Norwegian Pearl Cruise Ship of Norwegian Cruise Line in PortMiami Florida: EgorovaSvetlana, CC BY-SA 4.0, via Wikimedia Commons. [Norwegian Pearl Cruise Ship of Norwegian Cruise Line in PortMiami Florida.jpg](https://commons.wikimedia.org/wiki/File:Norwegian_Pearl_Cruise_Ship_of_Norwegian_Cruise_Line_in_PortMiami_Florida.jpg)
 
 ## Novartis (NVS)
 
 - Vasant Narasimhan, Novartis CEO (per Wikidata): UNCTAD, CC BY-SA 2.0, via Wikimedia Commons. [Global Investment Game Changers Summit I 2018 (44788377434).jpg](https://commons.wikimedia.org/wiki/File:Global_Investment_Game_Changers_Summit_I_2018_(44788377434).jpg)
+- A large building with a triangular design on it's side: Photo by Grischa on Unsplash. [3pJvyFM5Mn8](https://unsplash.com/photos/a-large-building-with-a-triangular-design-on-its-side-3pJvyFM5Mn8?utm_source=investiq_image_bank&utm_medium=referral)
 - Novartis Campus - Novartis Pavillon: Alexandre Prevot from Nancy, France, CC BY-SA 2.0, via Wikimedia Commons. [Novartis Campus - Novartis Pavillon (53992600334).jpg](https://commons.wikimedia.org/wiki/File:Novartis_Campus_-_Novartis_Pavillon_(53992600334).jpg)
 - Novartis Institute for Biomedical Research: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [Novartis Institute for Biomedical Research (54960816198).jpg](https://commons.wikimedia.org/wiki/File:Novartis_Institute_for_Biomedical_Research_(54960816198).jpg)
 - Novartis building Asklepios 8 Basel: Choinowski, CC BY-SA 4.0, via Wikimedia Commons. [Novartis building Asklepios 8 Basel.jpg](https://commons.wikimedia.org/wiki/File:Novartis_building_Asklepios_8_Basel.jpg)
@@ -2248,6 +2300,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Paccar (PCAR)
 
+- Red and white truck on road during daytime: Photo by Lasse Nystedt on Unsplash. [8MfyuZx8hyI](https://unsplash.com/photos/red-and-white-truck-on-road-during-daytime-8MfyuZx8hyI?utm_source=investiq_image_bank&utm_medium=referral)
+- Front view of a white and red daf truck: Photo by Matthew Chow on Unsplash. [q6XVEHtdtao](https://unsplash.com/photos/front-view-of-a-white-and-red-daf-truck-q6XVEHtdtao?utm_source=investiq_image_bank&utm_medium=referral)
+- Close-up of a rusty peterbilt truck grille: Photo by Jonathan Neely on Unsplash. [dAdmIDZo_G8](https://unsplash.com/photos/close-up-of-a-rusty-peterbilt-truck-grille-dAdmIDZo_G8?utm_source=investiq_image_bank&utm_medium=referral)
 - Nufam 2023, Rheinstetten: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Nufam 2023, Rheinstetten (P1130609).jpg](https://commons.wikimedia.org/wiki/File:Nufam_2023,_Rheinstetten_(P1130609).jpg)
 - Paccar engine, Busworld Europe 2023, Brussels: MB-one, CC BY-SA 4.0, via Wikimedia Commons. [Paccar engine, Busworld Europe 2023, Brussels (P1140270).jpg](https://commons.wikimedia.org/wiki/File:Paccar_engine,_Busworld_Europe_2023,_Brussels_(P1140270).jpg)
 - PACCAR truck engine 2012: Spielvogel For a gallery of some more of my uploaded pictures see: here ., CC BY-SA 4.0, via Wikimedia Commons. [PACCAR truck engine 2012.jpg](https://commons.wikimedia.org/wiki/File:PACCAR_truck_engine_2012.jpg)
@@ -2280,6 +2335,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## PayPal (PYPL)
 
 - PayPal San Jose Headquarters: Sagar Savla, CC BY-SA 3.0, via Wikimedia Commons. [PayPal San Jose Headquarters.jpg](https://commons.wikimedia.org/wiki/File:PayPal_San_Jose_Headquarters.jpg)
+- A cell phone sitting on top of a laptop computer: Photo by Julio Lopez on Unsplash. [8ODECVQWbFQ](https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-laptop-computer-8ODECVQWbFQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Paypal Popcorn Promotion-Aktion, Düsseldorf, Februar 2026: Kürschner ( talk ) 16:25, 27 February 2026 (UTC), CC0, via Wikimedia Commons. [Paypal Popcorn Promotion-Aktion, Düsseldorf, Februar 2026 (1).jpg](https://commons.wikimedia.org/wiki/File:Paypal_Popcorn_Promotion-Aktion,_D%C3%BCsseldorf,_Februar_2026_(1).jpg)
 - Tokyo-Game-Show-2025 2071: RuinDig/Yuki Uchida, CC BY 4.0, via Wikimedia Commons. [Tokyo-Game-Show-2025 2071.jpg](https://commons.wikimedia.org/wiki/File:Tokyo-Game-Show-2025_2071.jpg)
 - EXPO26, Hanau (LRM ): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [EXPO26, Hanau (LRM 20260617 120811).jpg](https://commons.wikimedia.org/wiki/File:EXPO26,_Hanau_(LRM_20260617_120811).jpg)
@@ -2287,6 +2343,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## PDD Holdings (Temu) (PDD)
 
+- Person holding phone with temu logo box: Photo by V H on Unsplash. [BmkZWm6iCfk](https://unsplash.com/photos/person-holding-phone-with-temu-logo-box-BmkZWm6iCfk?utm_source=investiq_image_bank&utm_medium=referral)
 - Jin Hongqiao International Center at Night: MNXANL, CC BY-SA 4.0, via Wikimedia Commons. [202309 Jin Hongqiao International Center at Night.jpg](https://commons.wikimedia.org/wiki/File:202309_Jin_Hongqiao_International_Center_at_Night.jpg)
 
 ## Pentair (PNR)
@@ -2311,6 +2368,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Oil platform P-51 (Brazil)-2: Divulgação Petrobras / ABr, CC BY 3.0 br, via Wikimedia Commons. [Oil platform P-51 (Brazil)-2.jpg](https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil)-2.jpg)
 - Petrobras headquarters: Jim Killock, CC BY-SA 2.0, via Wikimedia Commons. [Petrobras headquarters (7170475049).jpg](https://commons.wikimedia.org/wiki/File:Petrobras_headquarters_(7170475049).jpg)
 - Petrobras Headquarters, Rio de Janeiro: Edmund Nigel Gall, CC BY-SA 2.0, via Wikimedia Commons. [Petrobras Headquarters, Rio de Janeiro.jpg](https://commons.wikimedia.org/wiki/File:Petrobras_Headquarters,_Rio_de_Janeiro.jpg)
+- A gas station with trees and buildings in the background: Photo by Espelho Social on Unsplash. [LTIs3FJxo9U](https://unsplash.com/photos/a-gas-station-with-trees-and-buildings-in-the-background-LTIs3FJxo9U?utm_source=investiq_image_bank&utm_medium=referral)
 - Petrobras petrol stations in Piauí: Moacir Ximenes, CC BY 3.0 br, via Wikimedia Commons. [Petrobras petrol stations in Piauí.JPG](https://commons.wikimedia.org/wiki/File:Petrobras_petrol_stations_in_Piau%C3%AD.JPG)
 - Petrobras Building - Centro District - Downtown Rio de Janeiro - Brazil: Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0, via Wikimedia Commons. [Petrobras Building - Centro District - Downtown Rio de Janeiro - Brazil (17557155691).jpg](https://commons.wikimedia.org/wiki/File:Petrobras_Building_-_Centro_District_-_Downtown_Rio_de_Janeiro_-_Brazil_(17557155691).jpg)
 
@@ -2348,6 +2406,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Pinterest (PINS)
 
+- Monitor viewing Pinterest: Photo by Szabo Viktor on Unsplash. [KgfInx384fk](https://unsplash.com/photos/monitor-viewing-pinterest-KgfInx384fk?utm_source=investiq_image_bank&utm_medium=referral)
 - Pinterest headquarters (San Francisco, 2019) 01: HaeB, CC BY-SA 4.0, via Wikimedia Commons. [Pinterest headquarters (San Francisco, 2019) 01.jpg](https://commons.wikimedia.org/wiki/File:Pinterest_headquarters_(San_Francisco,_2019)_01.jpg)
 
 ## PNC Financial Services (PNC)
@@ -2413,6 +2472,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Cristiano Amon, Qualcomm CEO (per Wikidata): ©2012 Eric Myer Photography, Inc., CC BY-SA 3.0, via Wikimedia Commons. [CristianoAmon.jpeg](https://commons.wikimedia.org/wiki/File:CristianoAmon.jpeg)
 - Computer Science Corporation building in Mindspace, Hyderabad: iMahesh, CC BY-SA 4.0, via Wikimedia Commons. [Computer Science Corporation building in Mindspace, Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:Computer_Science_Corporation_building_in_Mindspace,_Hyderabad.jpg)
 - Qualcomm Headquarters La Jolla: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Qualcomm Headquarters La Jolla.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_Headquarters_La_Jolla.jpg)
+- Close-up of a smartphone's internal qualcomm snapdragon processor: Photo by Phước Sang on Unsplash. [kTJkLP8B5So](https://unsplash.com/photos/close-up-of-a-smartphones-internal-qualcomm-snapdragon-processor-kTJkLP8B5So?utm_source=investiq_image_bank&utm_medium=referral)
 - Qualcomm headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Qualcomm headquarters.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_headquarters.jpg)
 - IAA Summit 2025, Munich ( - ): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [IAA Summit 2025, Munich (20250908-P1049666).jpg](https://commons.wikimedia.org/wiki/File:IAA_Summit_2025,_Munich_(20250908-P1049666).jpg)
 - Qualcomm Semiconductor Corporation Hsinchu: T Gordon Cheng, CC BY-SA 4.0, via Wikimedia Commons. [Qualcomm Semiconductor Corporation Hsinchu 2022-12-07.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_Semiconductor_Corporation_Hsinchu_2022-12-07.jpg)
@@ -2428,6 +2488,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Ralph's Coffee Rockefeller Center NYC: Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons. [Ralph's Coffee Rockefeller Center NYC.jpg](https://commons.wikimedia.org/wiki/File:Ralph%27s_Coffee_Rockefeller_Center_NYC.jpg)
 - HK Central IFC Mall shop Polo Ralph Lauren Clothing Store March 2026 N13P 01: Luksongm MWLLOPPEE, CC0, via Wikimedia Commons. [HK Central IFC Mall shop Polo Ralph Lauren Clothing Store March 2026 N13P 01.jpg](https://commons.wikimedia.org/wiki/File:HK_Central_IFC_Mall_shop_Polo_Ralph_Lauren_Clothing_Store_March_2026_N13P_01.jpg)
+- Black bicycle parked beside brown brick wall: Photo by Hayffield L on Unsplash. [9DLOCfyg0-w](https://unsplash.com/photos/black-bicycle-parked-beside-brown-brick-wall-9DLOCfyg0-w?utm_source=investiq_image_bank&utm_medium=referral)
+- Ralph lauren store entrance decorated for holidays: Photo by Oleksii Rozanov on Unsplash. [xmYTaaYMSNE](https://unsplash.com/photos/ralph-lauren-store-entrance-decorated-for-holidays-xmYTaaYMSNE?utm_source=investiq_image_bank&utm_medium=referral)
 - Gertrude Rhinelander Waldo House: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Gertrude Rhinelander Waldo House (51660337406).jpg](https://commons.wikimedia.org/wiki/File:Gertrude_Rhinelander_Waldo_House_(51660337406).jpg)
 - Ralph Lauren Aventura Mall FL 2023: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Ralph Lauren Aventura Mall FL 2023.jpg](https://commons.wikimedia.org/wiki/File:Ralph_Lauren_Aventura_Mall_FL_2023.jpg)
 - HK Central Sunday holiday morning April 2021 SS2 12: CHAORMWIVU Hong Xims, CC BY-SA 4.0, via Wikimedia Commons. [HK Central Sunday holiday morning April 2021 SS2 12.jpg](https://commons.wikimedia.org/wiki/File:HK_Central_Sunday_holiday_morning_April_2021_SS2_12.jpg)
@@ -2471,11 +2533,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Rivian Normal Plant Floor: Photo by Rivian., CC BY-SA 4.0, via Wikimedia Commons. [Rivian Normal Plant Floor.jpg](https://commons.wikimedia.org/wiki/File:Rivian_Normal_Plant_Floor.jpg)
 - Robert "RJ" Scaringe, Rivian CEO (per Wikidata): Richard Truesdell, CC BY-SA 4.0, via Wikimedia Commons. [Rivian founder and CEO Robert "RJ" Scaringe at the debut of the Rivian R1S SUV at the 2018 Los Angeles Auto Show, November 27, 2018 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Rivian_founder_and_CEO_Robert_%22RJ%22_Scaringe_at_the_debut_of_the_Rivian_R1S_SUV_at_the_2018_Los_Angeles_Auto_Show,_November_27,_2018_(cropped).jpg)
 - Newly Open Rivian Showroom Brickell - facade: Phillip Pessar, CC BY 4.0, via Wikimedia Commons. [Newly Open Rivian Showroom Brickell - facade.jpg](https://commons.wikimedia.org/wiki/File:Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg)
+- A car on a dirt road surrounded by trees: Photo by Wes Hicks on Unsplash. [eaCOvfx-vHA](https://unsplash.com/photos/a-car-on-a-dirt-road-surrounded-by-trees-eaCOvfx-vHA?utm_source=investiq_image_bank&utm_medium=referral)
+- The rivian logo is displayed on a building: Photo by Daniel Romero on Unsplash. [SI6GM4TV4QM](https://unsplash.com/photos/the-rivian-logo-is-displayed-on-a-building-SI6GM4TV4QM?utm_source=investiq_image_bank&utm_medium=referral)
+- A white truck driving down a dirt road: Photo by Leo_Visions on Unsplash. [wAQUHT6XbSw](https://unsplash.com/photos/a-white-truck-driving-down-a-dirt-road-wAQUHT6XbSw?utm_source=investiq_image_bank&utm_medium=referral)
 - Rivian Ghostbusters Ecto-R1: Phillip Pessar, CC BY 4.0, via Wikimedia Commons. [Rivian Ghostbusters Ecto-R1.jpg](https://commons.wikimedia.org/wiki/File:Rivian_Ghostbusters_Ecto-R1.jpg)
 - Rivian showroom at Legacy Place, Dedham, MA August 2026: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [Rivian showroom at Legacy Place, Dedham, MA August 2026.jpg](https://commons.wikimedia.org/wiki/File:Rivian_showroom_at_Legacy_Place,_Dedham,_MA_August_2026.jpg)
 - Everything Electric Canada 2024: GoToVan, CC BY 2.0, via Wikimedia Commons. [Everything Electric Canada 2024 - 53982399344.jpg](https://commons.wikimedia.org/wiki/File:Everything_Electric_Canada_2024_-_53982399344.jpg)
 - Rivian Mobile Service truck Main Street downtown Montpelier VT May 2023 rear: Artaxerxes, CC BY-SA 4.0, via Wikimedia Commons. [Rivian Mobile Service truck Main Street downtown Montpelier VT May 2023 rear.jpg](https://commons.wikimedia.org/wiki/File:Rivian_Mobile_Service_truck_Main_Street_downtown_Montpelier_VT_May_2023_rear.jpg)
-- Rivian Ecto R-1 Ghostbusters - 17 Oct 2026: Phillip Pessar, CC BY 4.0, via Wikimedia Commons. [Rivian Ecto R-1 Ghostbusters - 17 Oct 2026.jpg](https://commons.wikimedia.org/wiki/File:Rivian_Ecto_R-1_Ghostbusters_-_17_Oct_2026.jpg)
 
 ## Robinhood Markets (HOOD)
 
@@ -2523,6 +2587,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Royal Bank of Canada (RY)
 
 - RBC Building on Wellington, Downtown Toronto, August 30 2025: Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons. [RBC Building on Wellington, Downtown Toronto, August 30 2025.jpg](https://commons.wikimedia.org/wiki/File:RBC_Building_on_Wellington,_Downtown_Toronto,_August_30_2025.jpg)
+- A sign on the front of a building: Photo by Frugal Flyer on Unsplash. [cJNSHUHyoIo](https://unsplash.com/photos/a-sign-on-the-front-of-a-building-cJNSHUHyoIo?utm_source=investiq_image_bank&utm_medium=referral)
 - L'Édifice de la Banque Royale: The Cosmonaut, CC BY-SA 2.5 ca, via Wikimedia Commons. [L'Édifice de la Banque Royale.jpg](https://commons.wikimedia.org/wiki/File:L%27%C3%89difice_de_la_Banque_Royale.jpg)
 - RBCWoodbine16Ave: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [RBCWoodbine16Ave.jpg](https://commons.wikimedia.org/wiki/File:RBCWoodbine16Ave.jpg)
 - Royal Bank of Canada, Wiarton: Jason Zhang, CC0, via Wikimedia Commons. [Royal Bank of Canada, Wiarton.jpg](https://commons.wikimedia.org/wiki/File:Royal_Bank_of_Canada,_Wiarton.jpg)
@@ -2532,12 +2597,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Royal Caribbean Group (RCL)
 
 - Utopia of the Seas departing Port Canaveral, Florida: Iancrwebb, CC0, via Wikimedia Commons. [Utopia of the Seas departing Port Canaveral, Florida.jpg](https://commons.wikimedia.org/wiki/File:Utopia_of_the_Seas_departing_Port_Canaveral,_Florida.jpg)
+- A cruise ship is docked at a small island: Photo by Jono Hirst on Unsplash. [B_BcXW5UFjA](https://unsplash.com/photos/a-cruise-ship-is-docked-at-a-small-island-B_BcXW5UFjA?utm_source=investiq_image_bank&utm_medium=referral)
 - Royal Caribbean headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Royal Caribbean headquarters.jpg](https://commons.wikimedia.org/wiki/File:Royal_Caribbean_headquarters.jpg)
 - Royal caribbean Terminal 10 Galveston Texas 2023: Larry D. Moore, CC BY 4.0, via Wikimedia Commons. [Royal caribbean Terminal 10 Galveston Texas 2023.jpg](https://commons.wikimedia.org/wiki/File:Royal_caribbean_Terminal_10_Galveston_Texas_2023.jpg)
 - Silver Nova Royal Caribbean Group Ensign Port of Rhodes 11 September 2026: Pjotr Mahhonin, CC BY-SA 4.0, via Wikimedia Commons. [Silver Nova Royal Caribbean Group Ensign Port of Rhodes 11 September 2026.jpg](https://commons.wikimedia.org/wiki/File:Silver_Nova_Royal_Caribbean_Group_Ensign_Port_of_Rhodes_11_September_2026.jpg)
 
 ## RTX Corporation (RTX)
 
+- A machine that is inside of a building: Photo by Hermeus on Unsplash. [Ofk49ACWkIU](https://unsplash.com/photos/a-machine-that-is-inside-of-a-building-Ofk49ACWkIU?utm_source=investiq_image_bank&utm_medium=referral)
 - Raytheon headquarters: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Raytheon headquarters.jpg](https://commons.wikimedia.org/wiki/File:Raytheon_headquarters.jpg)
 
 ## S&P Global (SPGI)
@@ -2559,6 +2626,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Sandisk (SNDK)
 
+- A couple of cell phones sitting on top of a red stand: Photo by TheRegisti on Unsplash. [QZlSnqUlZ-g](https://unsplash.com/photos/a-couple-of-cell-phones-sitting-on-top-of-a-red-stand-QZlSnqUlZ-g?utm_source=investiq_image_bank&utm_medium=referral)
+- A black rectangular device: Photo by Maik Winnecke on Unsplash. [wt9sQSuQWp0](https://unsplash.com/photos/a-black-rectangular-device-wt9sQSuQWp0?utm_source=investiq_image_bank&utm_medium=referral)
 - SanDisk Clip Sport Plus 16GB: Ridiculopathy, CC0, via Wikimedia Commons. [SanDisk Clip Sport Plus 16GB.jpg](https://commons.wikimedia.org/wiki/File:SanDisk_Clip_Sport_Plus_16GB.jpg)
 - SanDisk čítačka Extreme PRO CFexpress: Ladislav Luppa, CC0, via Wikimedia Commons. [SanDisk čítačka Extreme PRO CFexpress.jpg](https://commons.wikimedia.org/wiki/File:SanDisk_%C4%8D%C3%ADta%C4%8Dka_Extreme_PRO_CFexpress.jpg)
 - SanDisk Extreme Portable SSD 1 TB - front view with cable: ITEagle Europe - Sebastiaan Broekhoven, CC BY-SA 4.0, via Wikimedia Commons. [SanDisk Extreme Portable SSD 1 TB - front view with cable.jpg](https://commons.wikimedia.org/wiki/File:SanDisk_Extreme_Portable_SSD_1_TB_-_front_view_with_cable.jpg)
@@ -2588,10 +2657,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - The Schlumberger Cambridge Research Centre - geograph.org.uk: David Purchase, CC BY-SA 2.0, via Wikimedia Commons. [The Schlumberger Cambridge Research Centre - geograph.org.uk - 2720220.jpg](https://commons.wikimedia.org/wiki/File:The_Schlumberger_Cambridge_Research_Centre_-_geograph.org.uk_-_2720220.jpg)
 - Schlumberger Gould Research Centre: Richard Humphrey, CC BY-SA 2.0, via Wikimedia Commons. [Schlumberger Gould Research Centre.jpg](https://commons.wikimedia.org/wiki/File:Schlumberger_Gould_Research_Centre.jpg)
 
+## Sea Limited (SE)
+
+- A person wearing a bright orange jacket with the Shopee Food logo on the back: Photo by Indra Projects on Unsplash. [0nmRmeer_Hs](https://unsplash.com/photos/person-wearing-orange-shopee-food-jacket-0nmRmeer_Hs?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Seagate Technology (STX)
 
 - Seagate Headquarters Fremont: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Seagate Headquarters Fremont.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Headquarters_Fremont.jpg)
 - Seagate Technology Office - Shakopee, Minnesota: Tony Webster, CC BY-SA 2.0, via Wikimedia Commons. [Seagate Technology Office - Shakopee, Minnesota.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Technology_Office_-_Shakopee,_Minnesota.jpg)
+- Seagate hard disk drive: Photo by Jakob Owens on Unsplash. [NimLssnL-NU](https://unsplash.com/photos/seagate-hard-disk-drive-NimLssnL-NU?utm_source=investiq_image_bank&utm_medium=referral)
 - Seagate products at Octagon ( ): Wide Awake!, CC BY 4.0, via Wikimedia Commons. [Seagate products at Octagon (2024-05-25).jpg](https://commons.wikimedia.org/wiki/File:Seagate_products_at_Octagon_(2024-05-25).jpg)
 - Seagate Service Center at Guang Hua Digital Plaza: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Seagate Service Center at Guang Hua Digital Plaza 20181215.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20181215.jpg)
 - Seagate Technology Taiwan booth, TIPMEE 20190929a: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Seagate Technology Taiwan booth, TIPMEE 20190929a.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Technology_Taiwan_booth,_TIPMEE_20190929a.jpg)
@@ -2613,6 +2687,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Shell (SHEL)
 
 - 011 Shell Centre - global headquarters of Shell plc oil company in London UK: Marek Ślusarczyk ( Tupungato ) Photo portfolio, CC BY 3.0, via Wikimedia Commons. [011 Shell Centre - global headquarters of Shell plc oil company in London UK.jpg](https://commons.wikimedia.org/wiki/File:011_Shell_Centre_-_global_headquarters_of_Shell_plc_oil_company_in_London_UK.jpg)
+- Red and white lighted signage: Photo by Keming Tan on Unsplash. [IK4ekKQxGms](https://unsplash.com/photos/red-and-white-lighted-signage-IK4ekKQxGms?utm_source=investiq_image_bank&utm_medium=referral)
+- Shell gas station canopy with logo under blue sky: Photo by Reuben on Unsplash. [wESLTzuT-do](https://unsplash.com/photos/shell-gas-station-canopy-with-logo-under-blue-sky-wESLTzuT-do?utm_source=investiq_image_bank&utm_medium=referral)
 - The Shell Centre: Reading Tom from Reading, UK, CC BY 2.0, via Wikimedia Commons. [The Shell Centre (8709496019).jpg](https://commons.wikimedia.org/wiki/File:The_Shell_Centre_(8709496019).jpg)
 - Wael Sawan, Shell CEO (per Wikidata): Chatham House, CC BY 2.0, via Wikimedia Commons. [Wael Sawan, Vice President Commerical, Qatar Shell (4327237111).jpg](https://commons.wikimedia.org/wiki/File:Wael_Sawan,_Vice_President_Commerical,_Qatar_Shell_(4327237111).jpg)
 - Shell Kanister: Adrian Michael, CC BY 4.0, via Wikimedia Commons. [Shell Kanister.jpg](https://commons.wikimedia.org/wiki/File:Shell_Kanister.jpg)
@@ -2623,12 +2699,17 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Sherwin-Williams (SHW)
 
 - Sherwin-Williams HQ August 2025: Geowizical, CC BY-SA 4.0, via Wikimedia Commons. [Sherwin-Williams HQ August 2025.jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_HQ_August_2025.jpg)
+- A brightly lit sherwin-williams paint store at night: Photo by Bruno Guerrero on Unsplash. [RLvQiB0peBM](https://unsplash.com/photos/a-brightly-lit-sherwin-williams-paint-store-at-night-RLvQiB0peBM?utm_source=investiq_image_bank&utm_medium=referral)
 - Sherwin Williams Orenco - Hillsboro, Oregon: M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons. [Sherwin Williams Orenco - Hillsboro, Oregon.JPG](https://commons.wikimedia.org/wiki/File:Sherwin_Williams_Orenco_-_Hillsboro,_Oregon.JPG)
 - Sherwin-Williams Paints in Gillette, Wyoming: Mr. Satterly, CC0, via Wikimedia Commons. [Sherwin-Williams Paints in Gillette, Wyoming.jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_Paints_in_Gillette,_Wyoming.jpg)
 - Sherwin-Williams Store in Eugene, Oregon: Rick Obst, CC BY 2.0, via Wikimedia Commons. [Sherwin-Williams Store in Eugene, Oregon (52021632131).jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_Store_in_Eugene,_Oregon_(52021632131).jpg)
 - Sherwin-Williams Headquarters (September 2023): Cards84664, CC BY-SA 4.0, via Wikimedia Commons. [Sherwin-Williams Headquarters (September 2023) (2).jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_Headquarters_(September_2023)_(2).jpg)
 - Milwaukee August 2024 041 (Sherwin-Williams Paint Store): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Milwaukee August 2024 041 (Sherwin-Williams Paint Store).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee_August_2024_041_(Sherwin-Williams_Paint_Store).jpg)
 - Sherwin-Williams store, Springfield Plaza: Ser Amantio di Nicolao, CC BY-SA 3.0, via Wikimedia Commons. [Sherwin-Williams store, Springfield Plaza.jpg](https://commons.wikimedia.org/wiki/File:Sherwin-Williams_store,_Springfield_Plaza.jpg)
+
+## Shopify (SHOP)
+
+- A laptop screen displaying a website on a wooden desk in an office: Photo by hookle.app on Unsplash. [6Pa7l0unTAY](https://unsplash.com/photos/laptop-displaying-website-in-workspace-6Pa7l0unTAY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Simon Property Group (SPG)
 
@@ -2661,6 +2742,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Snap Inc. (SNAP)
 
+- IPhone displaying the snapchat app store page: Photo by Swello on Unsplash. [jRa50ueevs8](https://unsplash.com/photos/iphone-displaying-the-snapchat-app-store-page-jRa50ueevs8?utm_source=investiq_image_bank&utm_medium=referral)
 - Evan Spiegel, Snap Inc. CEO (per Wikidata): cellanr, CC BY-SA 2.0, via Wikimedia Commons. [Evan Spiegel, founder of Snapchat.jpg](https://commons.wikimedia.org/wiki/File:Evan_Spiegel,_founder_of_Snapchat.jpg)
 - Snapchat filter: Stock Catalog, CC BY 2.0, via Wikimedia Commons. [Snapchat filter (43252259172).jpg](https://commons.wikimedia.org/wiki/File:Snapchat_filter_(43252259172).jpg)
 - Snap Spectacles: Horaciotorrendell, CC BY-SA 4.0, via Wikimedia Commons. [Snap Spectacles.jpg](https://commons.wikimedia.org/wiki/File:Snap_Spectacles.jpg)
@@ -2679,6 +2761,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Sony (SONY)
 
+- A camera sitting in the middle of a field: Photo by cody gallo on Unsplash. [sgXF7Vl3Yek](https://unsplash.com/photos/a-camera-sitting-in-the-middle-of-a-field-sgXF7Vl3Yek?utm_source=investiq_image_bank&utm_medium=referral)
+- White Sony PS4 DualShock controller over person's palm: Photo by Nikita Kachanovsky on Unsplash. [FJFPuE1MAOM](https://unsplash.com/photos/white-sony-ps4-dualshock-controller-over-persons-palm-FJFPuE1MAOM?utm_source=investiq_image_bank&utm_medium=referral)
+- Black Sony PS2 controller on white surface: Photo by Nikita Kostrykin on Unsplash. [i1Q9pphrWUw](https://unsplash.com/photos/black-sony-ps2-controller-on-white-surface-i1Q9pphrWUw?utm_source=investiq_image_bank&utm_medium=referral)
 - Sony headquaters 1: Akonnchiroll, CC BY-SA 4.0, via Wikimedia Commons. [Sony headquaters 1.jpg](https://commons.wikimedia.org/wiki/File:Sony_headquaters_1.jpg)
 - Sony Mobile i Lund 008: Johan Wessman / News Oresund, CC BY 2.0, via Wikimedia Commons. [20200517 Sony Mobile i Lund 008 (49912209461).jpg](https://commons.wikimedia.org/wiki/File:20200517_Sony_Mobile_i_Lund_008_(49912209461).jpg)
 - Sony Mobile Lund 1112: News Oresund, CC BY 2.0, via Wikimedia Commons. [20201101 Sony Mobile Lund 1112 (50558789306).jpg](https://commons.wikimedia.org/wiki/File:20201101_Sony_Mobile_Lund_1112_(50558789306).jpg)
@@ -2686,11 +2771,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Sony a7R III Digital Camera Sensor: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Sony a7R III Digital Camera Sensor (29269149548).jpg](https://commons.wikimedia.org/wiki/File:Sony_a7R_III_Digital_Camera_Sensor_(29269149548).jpg)
 - Building that hosts Sony Imaging Products & Solutions Inc. among others: Syced, CC0, via Wikimedia Commons. [Building that hosts Sony Imaging Products & Solutions Inc. among others.jpg](https://commons.wikimedia.org/wiki/File:Building_that_hosts_Sony_Imaging_Products_%26_Solutions_Inc._among_others.jpg)
 - SONY HQ - panoramio: AMANO Jun-ichi, CC BY 3.0, via Wikimedia Commons. [SONY HQ - panoramio.jpg](https://commons.wikimedia.org/wiki/File:SONY_HQ_-_panoramio.jpg)
-- Lascar Sony Center and Deutsche Bahn Headquarters: Jorge Láscar from Australia, CC BY 2.0, via Wikimedia Commons. [Lascar Sony Center and Deutsche Bahn Headquarters (4472286028).jpg](https://commons.wikimedia.org/wiki/File:Lascar_Sony_Center_and_Deutsche_Bahn_Headquarters_(4472286028).jpg)
 
 ## Southwest Airlines (LUV)
 
 - Bob Jordan, Southwest Airlines CEO (per Wikidata): DHSgov, public domain, via Wikimedia Commons. [Bob Jordan in 2025 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Bob_Jordan_in_2025_(cropped).jpg)
+- A large airplane flying in the sky: Photo by Forsaken Films on Unsplash. [dXPusmxXw8A](https://unsplash.com/photos/a-large-airplane-flying-in-the-sky-dXPusmxXw8A?utm_source=investiq_image_bank&utm_medium=referral)
+- A southwest airlines jet flying over a city: Photo by David Syphers on Unsplash. [je29EpszZa4](https://unsplash.com/photos/a-southwest-airlines-jet-flying-over-a-city-je29EpszZa4?utm_source=investiq_image_bank&utm_medium=referral)
 - Southwest Airlines plane: Luiz Eduardo, CC BY 2.0, via Wikimedia Commons. [Southwest Airlines plane.jpg](https://commons.wikimedia.org/wiki/File:Southwest_Airlines_plane.jpg)
 - Southwest Airlines Arrived At Grand Cayman: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [Southwest Airlines Arrived At Grand Cayman.jpg](https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Arrived_At_Grand_Cayman.jpg)
 - Southwest airlines hq from north: Mang9, CC BY-SA 3.0, via Wikimedia Commons. [Southwest airlines hq from north 2009-06-22.jpg](https://commons.wikimedia.org/wiki/File:Southwest_airlines_hq_from_north_2009-06-22.jpg)
@@ -2712,6 +2798,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Spotify (SPOT)
 
+- The spotify logo is lit up on a flat screen tv: Photo by Thibault Penin on Unsplash. [SwKf1x2_hRo](https://unsplash.com/photos/the-spotify-logo-is-lit-up-on-a-flat-screen-tv-SwKf1x2_hRo?utm_source=investiq_image_bank&utm_medium=referral)
 - Spotify HK Stockholm: Goombah, CC0, via Wikimedia Commons. [Spotify HK Stockholm.jpg](https://commons.wikimedia.org/wiki/File:Spotify_HK_Stockholm.jpg)
 - Галаўны офіс «Spotify» на Humlegårdsgatan.: Erik Stattin, CC BY-SA 2.0, via Wikimedia Commons. [Spotify HQ.jpg](https://commons.wikimedia.org/wiki/File:Spotify_HQ.jpg)
 - Spotify, King's Cross Railway Station: Philafrenzy, CC BY-SA 4.0, via Wikimedia Commons. [Spotify, King's Cross Railway Station.JPG](https://commons.wikimedia.org/wiki/File:Spotify,_King%27s_Cross_Railway_Station.JPG)
@@ -2719,6 +2806,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Stanley Black & Decker (SWK)
 
 - Tape Measure: William Warby from London, England, CC BY 2.0, via Wikimedia Commons. [Tape Measure (4915969081).jpg](https://commons.wikimedia.org/wiki/File:Tape_Measure_(4915969081).jpg)
+- Man in black sweatpants using DEWALT circular saw and cutting a wood plank: Photo by Greyson Joralemon on Unsplash. [A1g0oeX29ec](https://unsplash.com/photos/man-in-black-sweatpants-using-dewalt-circular-saw-and-cutting-a-wood-plank-A1g0oeX29ec?utm_source=investiq_image_bank&utm_medium=referral)
 - 2023 Klucz nastawny: Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons. [2023 Klucz nastawny.jpg](https://commons.wikimedia.org/wiki/File:2023_Klucz_nastawny.jpg)
 - Stanley 99E Utility Knife: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Stanley 99E Utility Knife.jpg](https://commons.wikimedia.org/wiki/File:Stanley_99E_Utility_Knife.jpg)
 - Stanley block plane: Luke Milburn, CC BY 2.0, via Wikimedia Commons. [Stanley block plane.jpg](https://commons.wikimedia.org/wiki/File:Stanley_block_plane.jpg)
@@ -2785,6 +2873,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## T-Mobile US (TMUS)
 
 - T-Mobile Headquarters in Bellevue, WA: FMM134, CC BY-SA 2.0, via Wikimedia Commons. [T-Mobile Headquarters in Bellevue, WA.jpg](https://commons.wikimedia.org/wiki/File:T-Mobile_Headquarters_in_Bellevue,_WA.jpg)
+- Pink and purple led light: Photo by Mika Baumeister on Unsplash. [o-oqR_WmqJU](https://unsplash.com/photos/pink-and-purple-led-light-o-oqR_WmqJU?utm_source=investiq_image_bank&utm_medium=referral)
 - Mike Sievert, T-Mobile US CEO (per Wikidata): T-Mobile USA, CC BY-SA 4.0, via Wikimedia Commons. [Mike Sievert.jpg](https://commons.wikimedia.org/wiki/File:Mike_Sievert.jpg)
 - 15th St 9th Av td ( ) 33 - T-Mobile (66 Ninth Avenue): Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [15th St 9th Av td (2022-02-09) 33 - T-Mobile (66 Ninth Avenue).jpg](https://commons.wikimedia.org/wiki/File:15th_St_9th_Av_td_(2022-02-09)_33_-_T-Mobile_(66_Ninth_Avenue).jpg)
 - Cherry Hill Mall, August 26th 40: Orizan, CC BY-SA 4.0, via Wikimedia Commons. [Cherry Hill Mall, August 26th 40.jpg](https://commons.wikimedia.org/wiki/File:Cherry_Hill_Mall,_August_26th_40.jpg)
@@ -2801,11 +2890,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Tapestry, Inc. (TPR)
 
+- A brown and black handbag sitting on top of a white table: Photo by Henry Kobutra on Unsplash. [Y7C2sWaxf4Q](https://unsplash.com/photos/a-brown-and-black-handbag-sitting-on-top-of-a-white-table-Y7C2sWaxf4Q?utm_source=investiq_image_bank&utm_medium=referral)
 - 10 Hudson Yard from 9 Av & 30 St 2016 Dec jeh: Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons. [10 Hudson Yard from 9 Av & 30 St 2016 Dec jeh.jpg](https://commons.wikimedia.org/wiki/File:10_Hudson_Yard_from_9_Av_%26_30_St_2016_Dec_jeh.jpg)
 
 ## Target Corporation (TGT)
 
 - Target Corporation: Skinner2398, CC BY-SA 4.0, via Wikimedia Commons. [Target2398.jpg](https://commons.wikimedia.org/wiki/File:Target2398.jpg)
+- A target store with cars parked in front of it: Photo by Shabaz Usmani on Unsplash. [r-Q4yDBCHpg](https://unsplash.com/photos/a-target-store-with-cars-parked-in-front-of-it-r-Q4yDBCHpg?utm_source=investiq_image_bank&utm_medium=referral)
+- A red target shopping cart sits in an aisle: Photo by Zoshua Colah on Unsplash. [k-M8eckIlRA](https://unsplash.com/photos/a-red-target-shopping-cart-sits-in-an-aisle-k-M8eckIlRA?utm_source=investiq_image_bank&utm_medium=referral)
 - Target Corporation CEO Brian Cornell: Maryland GovPics, CC BY 2.0, via Wikimedia Commons. [Target Corporation CEO Brian Cornell (53892287200).jpg](https://commons.wikimedia.org/wiki/File:Target_Corporation_CEO_Brian_Cornell_(53892287200).jpg)
 - Inland Empire CA: Sony 1992, CC0, via Wikimedia Commons. [Inland Empire CA 20230909 212704021.jpg](https://commons.wikimedia.org/wiki/File:Inland_Empire_CA_20230909_212704021.jpg)
 - Target Shopping Cart Dadeland Station: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Target Shopping Cart Dadeland Station (54562935551).jpg](https://commons.wikimedia.org/wiki/File:Target_Shopping_Cart_Dadeland_Station_(54562935551).jpg)
@@ -2814,6 +2906,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## TD Bank (TD)
 
 - TD Bank Branch in Beaverton, Ontario, September 3 2026: Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons. [TD Bank Branch in Beaverton, Ontario, September 3 2026.jpg](https://commons.wikimedia.org/wiki/File:TD_Bank_Branch_in_Beaverton,_Ontario,_September_3_2026.jpg)
+- A brick building with a green door: Photo by PiggyBank on Unsplash. [2TGZoz86NEY](https://unsplash.com/photos/a-brick-building-with-a-green-door-2TGZoz86NEY?utm_source=investiq_image_bank&utm_medium=referral)
 - New York City COVID19 Images April 16, 2020: Anthony Quintano, CC BY 2.0, via Wikimedia Commons. [New York City COVID19 Images April 16, 2020 - 49784723461.jpg](https://commons.wikimedia.org/wiki/File:New_York_City_COVID19_Images_April_16,_2020_-_49784723461.jpg)
 
 ## TE Connectivity (TEL)
@@ -2848,6 +2941,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Textron (TXT)
 
+- Red and white airplane flying in the sky during daytime: Photo by Trac Vu on Unsplash. [dDWsqFJaMfk](https://unsplash.com/photos/red-and-white-airplane-flying-in-the-sky-during-daytime-dDWsqFJaMfk?utm_source=investiq_image_bank&utm_medium=referral)
+- Black Bell helicopter: Photo by Tyler Lastovich on Unsplash. [qgspqpSuLB0](https://unsplash.com/photos/black-bell-helicopter-qgspqpSuLB0?utm_source=investiq_image_bank&utm_medium=referral)
 - Textron building in Providence, Rhode Island: Kenneth C. Zirkel, CC BY-SA 3.0, via Wikimedia Commons. [Textron building in Providence, Rhode Island.jpg](https://commons.wikimedia.org/wiki/File:Textron_building_in_Providence,_Rhode_Island.jpg)
 - Great Texas Airshow 2022 Static Displays220424-F-VZ183-01 RHODES: Joint Base San Antonio from San Antonio, USA, public domain, via Wikimedia Commons. [Great Texas Airshow 2022 Static Displays220424-F-VZ183-01 RHODES (52028183252).jpg](https://commons.wikimedia.org/wiki/File:Great_Texas_Airshow_2022_Static_Displays220424-F-VZ183-01_RHODES_(52028183252).jpg)
 - Textron Headquarters Building Providence Rhode Island: Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons. [Textron Headquarters Building Providence Rhode Island.jpg](https://commons.wikimedia.org/wiki/File:Textron_Headquarters_Building_Providence_Rhode_Island.jpg)
@@ -2863,6 +2958,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## TKO Group Holdings (TKO)
 
+- Two men playing UFC inside ring: Photo by Baylee Gramling on Unsplash. [5m4Z14SDL80](https://unsplash.com/photos/two-men-playing-ufc-inside-ring-5m4Z14SDL80?utm_source=investiq_image_bank&utm_medium=referral)
 - 200 Fifth Avenue - Toy Center: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [200 Fifth Avenue - Toy Center (54572078421).jpg](https://commons.wikimedia.org/wiki/File:200_Fifth_Avenue_-_Toy_Center_(54572078421).jpg)
 
 ## TotalEnergies (TTE)
@@ -2875,6 +2971,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Toyota (TM)
 
+- A black toyota land cruiser parked in front of a building: Photo by Tim Vegas on Unsplash. [r3cA8C6a-UA](https://unsplash.com/photos/a-black-toyota-land-cruiser-parked-in-front-of-a-building-r3cA8C6a-UA?utm_source=investiq_image_bank&utm_medium=referral)
+- A tan Toyota Tacoma pickup truck on a dirt road with black wheels: Photo by Dusty Barnes on Unsplash. [o7fqZ18YFXc](https://unsplash.com/photos/tan-toyota-tacoma-pickup-truck-o7fqZ18YFXc?utm_source=investiq_image_bank&utm_medium=referral)
 - Headquarter of Toyota Motor Corporation 3: Tokumeigakarinoaoshima, CC0, via Wikimedia Commons. [Headquarter of Toyota Motor Corporation 3.JPG](https://commons.wikimedia.org/wiki/File:Headquarter_of_Toyota_Motor_Corporation_3.JPG)
 - Concesionario Toyota Prana en Villa Devoto: Just a Man, CC BY 4.0, via Wikimedia Commons. [Concesionario Toyota Prana en Villa Devoto.jpg](https://commons.wikimedia.org/wiki/File:Concesionario_Toyota_Prana_en_Villa_Devoto.jpg)
 - C1FDF36E-C3C0-4ECE-935B-9D03B6: Alvaro Raul Montaño Pozo, CC BY-SA 4.0, via Wikimedia Commons. [C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg](https://commons.wikimedia.org/wiki/File:C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg)
@@ -2941,6 +3039,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## UBS (UBS)
 
 - Sergio Ermotti, UBS CEO (per Wikidata): The official global picture collection of UBS from Switzerland, CC BY 2.0, via Wikimedia Commons. [Sergio P. Ermotti.jpg](https://commons.wikimedia.org/wiki/File:Sergio_P._Ermotti.jpg)
+- UBS logo on glass bridge wall during daytime: Photo by Claudio Schwarz on Unsplash. [cKVuAEsedoY](https://unsplash.com/photos/ubs-logo-on-glass-bridge-wall-during-daytime-cKVuAEsedoY?utm_source=investiq_image_bank&utm_medium=referral)
 - UBS @ Rue du Mont Blanc @ Genève: Guilhem Vellut from Annecy, France, CC BY 2.0, via Wikimedia Commons. [UBS @ Rue du Mont Blanc @ Genève (50898533816).jpg](https://commons.wikimedia.org/wiki/File:UBS_@_Rue_du_Mont_Blanc_@_Gen%C3%A8ve_(50898533816).jpg)
 - UBS Headquarters, Zurich (Ank Kumar, Infosys Limited) 09: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons. [UBS Headquarters, Zurich (Ank Kumar, Infosys Limited) 09.jpg](https://commons.wikimedia.org/wiki/File:UBS_Headquarters,_Zurich_(Ank_Kumar,_Infosys_Limited)_09.jpg)
 - UBS office at Hyderabad: Wasiul Bahar, CC BY-SA 4.0, via Wikimedia Commons. [UBS office at Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:UBS_office_at_Hyderabad.jpg)
@@ -2959,6 +3058,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Unilever (UL)
 
+- A box of dove soap next to a palm leaf: Photo by Lal MAHAMMAD on Unsplash. [2n6RsYw3yQo](https://unsplash.com/photos/a-box-of-dove-soap-next-to-a-palm-leaf-2n6RsYw3yQo?utm_source=investiq_image_bank&utm_medium=referral)
+- A hand holding a white container: Photo by Kelsey Todd on Unsplash. [No08yCz6Ejs](https://unsplash.com/photos/a-hand-holding-a-white-container-No08yCz6Ejs?utm_source=investiq_image_bank&utm_medium=referral)
 - Unilever House Mars 2014 01: Arild Vågen, CC BY-SA 3.0, via Wikimedia Commons. [Unilever House Mars 2014 01.jpg](https://commons.wikimedia.org/wiki/File:Unilever_House_Mars_2014_01.jpg)
 - Amora sauce bulgare: Thomon, CC BY-SA 4.0, via Wikimedia Commons. [Amora sauce bulgare.jpg](https://commons.wikimedia.org/wiki/File:Amora_sauce_bulgare.jpg)
 - Unilever Head Office Building Rotterdam: Marcel Douwe Dekker, CC BY-SA 3.0, via Wikimedia Commons. [Unilever Head Office Building Rotterdam.jpg](https://commons.wikimedia.org/wiki/File:Unilever_Head_Office_Building_Rotterdam.jpg)
@@ -2966,18 +3067,23 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Union Pacific Corporation (UNP)
 
+- Yellow and black train on rail tracks under blue sky during daytime: Photo by Cody Otto on Unsplash. [_EvGgF37AD4](https://unsplash.com/photos/yellow-and-black-train-on-rail-tracks-under-blue-sky-during-daytime-_EvGgF37AD4?utm_source=investiq_image_bank&utm_medium=referral)
 - 0949 Union Pacific RR, near Moab, Utah: David Wilson, CC BY 2.0, via Wikimedia Commons. [20240912 0949 Union Pacific RR, near Moab, Utah.jpg](https://commons.wikimedia.org/wiki/File:20240912_0949_Union_Pacific_RR,_near_Moab,_Utah.jpg)
 - Union Pacific Portland Service Unit headquarters, September 2019: Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons. [Union Pacific Portland Service Unit headquarters, September 2019.JPG](https://commons.wikimedia.org/wiki/File:Union_Pacific_Portland_Service_Unit_headquarters,_September_2019.JPG)
 
 ## United Airlines Holdings (UAL)
 
 - Scott Kirby, United Airlines Holdings CEO (per Wikidata): Provided by United Airlines, CC BY 4.0, via Wikimedia Commons. [Scott Kirby, United Airlines.jpg](https://commons.wikimedia.org/wiki/File:Scott_Kirby,_United_Airlines.jpg)
+- A united airlines plane flying in the sky: Photo by David Syphers on Unsplash. [eaj1EVgPtQA](https://unsplash.com/photos/a-united-airlines-plane-flying-in-the-sky-eaj1EVgPtQA?utm_source=investiq_image_bank&utm_medium=referral)
+- A bunch of airplanes that are on a runway: Photo by David Syphers on Unsplash. [C6vFrs_7CSk](https://unsplash.com/photos/a-bunch-of-airplanes-that-are-on-a-runway-C6vFrs_7CSk?utm_source=investiq_image_bank&utm_medium=referral)
 - Aircraft at Los Angeles International Airport July 2022: Benoît Prieur, CC0, via Wikimedia Commons. [Aircraft at Los Angeles International Airport July 2022 (2).jpg](https://commons.wikimedia.org/wiki/File:Aircraft_at_Los_Angeles_International_Airport_July_2022_(2).jpg)
 - Sky from United airliner (Orlando - NYC) May 2023: Benoît Prieur, CC0, via Wikimedia Commons. [Sky from United airliner (Orlando - NYC) May 2023 (2).jpg](https://commons.wikimedia.org/wiki/File:Sky_from_United_airliner_(Orlando_-_NYC)_May_2023_(2).jpg)
 - United Airlines office@Guam: Yūta Ono, CC BY-SA 4.0, via Wikimedia Commons. [United Airlines office@Guam.JPG](https://commons.wikimedia.org/wiki/File:United_Airlines_office@Guam.JPG)
 
 ## United Parcel Service (UPS)
 
+- A ups truck driving down a city street: Photo by redcharlie on Unsplash. [UnuC022bG04](https://unsplash.com/photos/a-ups-truck-driving-down-a-city-street-UnuC022bG04?utm_source=investiq_image_bank&utm_medium=referral)
+- A driver in a UPS delivery truck on a city street: Photo by John Money on Unsplash. [JB4UlLgWDWM](https://unsplash.com/photos/ups-delivery-truck-on-city-street-JB4UlLgWDWM?utm_source=investiq_image_bank&utm_medium=referral)
 - HTS Systems UPS Ground: MobiusDaXter, CC BY-SA 3.0, via Wikimedia Commons. [HTS Systems UPS Ground.jpg](https://commons.wikimedia.org/wiki/File:HTS_Systems_UPS_Ground.jpg)
 - UPS semi trailer truck and driver in Arlington Texas: U.S. Department of Agriculture, public domain, via Wikimedia Commons. [UPS semi trailer truck and driver in Arlington Texas.jpg](https://commons.wikimedia.org/wiki/File:UPS_semi_trailer_truck_and_driver_in_Arlington_Texas.jpg)
 - UPS semi truck driver in front of semi-trailer truck in Arlington Texas: U.S. Department of Agriculture, public domain, via Wikimedia Commons. [UPS semi truck driver in front of semi-trailer truck in Arlington Texas.jpg](https://commons.wikimedia.org/wiki/File:UPS_semi_truck_driver_in_front_of_semi-trailer_truck_in_Arlington_Texas.jpg)
@@ -3012,6 +3118,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Verizon (VZ)
 
 - Verizon Store - Cellular Retail Phone Store: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Verizon Store - Cellular Retail Phone Store (47109159491).jpg](https://commons.wikimedia.org/wiki/File:Verizon_Store_-_Cellular_Retail_Phone_Store_(47109159491).jpg)
+- A very tall building with a verizon sign on top: Photo by Leon Bredella on Unsplash. [xJ2AG2lP5eQ](https://unsplash.com/photos/a-very-tall-building-with-a-verizon-sign-on-top-xJ2AG2lP5eQ?utm_source=investiq_image_bank&utm_medium=referral)
+- The verizon logo is displayed on an iphone: Photo by Marques Thomas on Unsplash. [o5_KF_-Ge3g](https://unsplash.com/photos/the-verizon-logo-is-displayed-on-an-iphone-o5_KF_-Ge3g?utm_source=investiq_image_bank&utm_medium=referral)
 - Verizon Building: Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons. [Verizon Building (8156005279).jpg](https://commons.wikimedia.org/wiki/File:Verizon_Building_(8156005279).jpg)
 - Dan Schulman, Verizon CEO (per Wikidata): PopTech, Kris Klug, CC BY-SA 2.0, via Wikimedia Commons. [Dan Schulman.jpg](https://commons.wikimedia.org/wiki/File:Dan_Schulman.jpg)
 - Altec bucket trucks: Oleg Yunakov, CC0, via Wikimedia Commons. [Altec bucket trucks.jpg](https://commons.wikimedia.org/wiki/File:Altec_bucket_trucks.jpg)
@@ -3098,6 +3206,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Wells Fargo (WFC)
 
 - Wells Fargo Bank in Cheyenne Wyoming: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Wells Fargo Bank in Cheyenne Wyoming (54000011678).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_in_Cheyenne_Wyoming_(54000011678).jpg)
+- Wells Fargo ATM machines: Photo by Erol Ahmed on Unsplash. [ln8zRaM3VmI](https://unsplash.com/photos/wells-fargo-atm-machines-ln8zRaM3VmI?utm_source=investiq_image_bank&utm_medium=referral)
+- A tall building with a wells fargo sign on top: Photo by Simon Ray on Unsplash. [IckPn_sU_XE](https://unsplash.com/photos/a-tall-building-with-a-wells-fargo-sign-on-top-IckPn_sU_XE?utm_source=investiq_image_bank&utm_medium=referral)
+- A large red and yellow horse drawn carriage: Photo by Hannah Wernecke on Unsplash. [jaHP8ldOW8M](https://unsplash.com/photos/a-large-red-and-yellow-horse-drawn-carriage-jaHP8ldOW8M?utm_source=investiq_image_bank&utm_medium=referral)
 - Wells Fargo - Philadelphia: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Wells Fargo - Philadelphia (53590617700).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_-_Philadelphia_(53590617700).jpg)
 - Wells Fargo Bank Branch West Miami: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Wells Fargo Bank Branch West Miami (49855010962).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_Branch_West_Miami_(49855010962).jpg)
 - Palm Springs, CA, 2024 - 023: Another Believer, CC BY-SA 4.0, via Wikimedia Commons. [Palm Springs, CA, 2024 - 023.jpg](https://commons.wikimedia.org/wiki/File:Palm_Springs,_CA,_2024_-_023.jpg)
@@ -3177,6 +3288,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Xylem factory in Lindås.: Bernt Fransson, CC BY-SA 4.0, via Wikimedia Commons. [Xylem 04.jpg](https://commons.wikimedia.org/wiki/File:Xylem_04.jpg)
 - Tópark Straße 9, 2024 Törökbálint 8: Globetrotter19, CC BY-SA 4.0, via Wikimedia Commons. [Tópark Straße 9, 2024 Törökbálint 8.jpg](https://commons.wikimedia.org/wiki/File:T%C3%B3park_Stra%C3%9Fe_9,_2024_T%C3%B6r%C3%B6kb%C3%A1lint_8.jpg)
 
+## Yum! Brands (YUM)
+
+- A kfc sign with a man's face on it: Photo by Kim Wine on Unsplash. [F6UOa4Pe8lg](https://unsplash.com/photos/a-kfc-sign-with-a-mans-face-on-it-F6UOa4Pe8lg?utm_source=investiq_image_bank&utm_medium=referral)
+- A picture of a man on the side of a building: Photo by Spencer Scott Pugh on Unsplash. [4Srz1MMieRk](https://unsplash.com/photos/a-picture-of-a-man-on-the-side-of-a-building-4Srz1MMieRk?utm_source=investiq_image_bank&utm_medium=referral)
+- A man walking past a pizza hut at night: Photo by Long Huang on Unsplash. [i897QupsFJY](https://unsplash.com/photos/a-man-walking-past-a-pizza-hut-at-night-i897QupsFJY?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Zebra Technologies (ZBRA)
 
 - Zebra Technologies: Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [Zebra TC-56 (IMG 0339).jpg](https://commons.wikimedia.org/wiki/File:Zebra_TC-56_(IMG_0339).jpg)
@@ -3193,6 +3310,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Eric S. Yuan, Zoom CEO (per Wikidata): TechCrunch, CC BY 4.0, via Wikimedia Commons. [Eric Yuan 2025 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Eric_Yuan_2025_(cropped).jpg)
 - Zoom HQ, Downtown San Jose ( ): Cristiano Tomás, CC BY-SA 4.0, via Wikimedia Commons. [Zoom HQ, Downtown San Jose (cropped).jpg](https://commons.wikimedia.org/wiki/File:Zoom_HQ,_Downtown_San_Jose_(cropped).jpg)
+- Macbook pro displaying group of people: Photo by Chris Montgomery on Unsplash. [smgTvepind4](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a cell phone with the zoom logo on it: Photo by Mourizal Zativa on Unsplash. [PNUoryUKi5g](https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-the-zoom-logo-on-it-PNUoryUKi5g?utm_source=investiq_image_bank&utm_medium=referral)
 - Zoom headquarters on Almaden Boulevard in San Jose, California. Photographed on June 21, 2020 by user Coolcaesar.: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Zoomheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Zoomheadquarters.jpg)
 
 ## Technology sector (sector-tech)
