@@ -73470,29 +73470,6 @@
   "sector": "sector-industrials",
   "photos": [
    {
-    "shot": "main",
-    "shows": "Southwest Airlines plane",
-    "file": "File:Southwest Airlines plane.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Southwest_Airlines_plane.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Southwest_Airlines_plane.jpg/1920px-Southwest_Airlines_plane.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Southwest_Airlines_plane.jpg/500px-Southwest_Airlines_plane.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Luiz Eduardo, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Luiz Eduardo",
-    "year": 2005,
-    "how": "Wikidata main image"
-   },
-   {
     "shot": "leader",
     "shows": "Bob Jordan, Southwest Airlines CEO (per Wikidata)",
     "file": "File:Bob Jordan in 2025 (cropped).jpg",
@@ -73517,12 +73494,220 @@
     "person": true
    },
    {
-    "shot": "c3",
-    "shows": "Southwest Airlines Equipment, Long Island MacArthur Airport, February 20, 2023",
-    "file": "File:Southwest Airlines Equipment, Long Island MacArthur Airport, February 20, 2023.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Equipment,_Long_Island_MacArthur_Airport,_February_20,_2023.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Southwest_Airlines_Equipment%2C_Long_Island_MacArthur_Airport%2C_February_20%2C_2023.jpg/1920px-Southwest_Airlines_Equipment%2C_Long_Island_MacArthur_Airport%2C_February_20%2C_2023.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Southwest_Airlines_Equipment%2C_Long_Island_MacArthur_Airport%2C_February_20%2C_2023.jpg/500px-Southwest_Airlines_Equipment%2C_Long_Island_MacArthur_Airport%2C_February_20%2C_2023.jpg",
+    "shot": "b1",
+    "shows": "A large airplane flying in the sky",
+    "file": "unsplash:dXPusmxXw8A",
+    "page": "https://unsplash.com/photos/a-large-airplane-flying-in-the-sky-dXPusmxXw8A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1655633986826-72d62604c4a8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1655633986826-72d62604c4a8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Forsaken Films on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Forsaken Films",
+    "year": 2022,
+    "how": "unsplash search: Southwest Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@forsakenfilmslimited?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dXPusmxXw8A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA"
+   },
+   {
+    "shot": "b2",
+    "shows": "A large jetliner flying through a blue sky",
+    "file": "unsplash:VnCbU1k7vCY",
+    "page": "https://unsplash.com/photos/a-large-jetliner-flying-through-a-blue-sky-VnCbU1k7vCY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641751165495-6b22eeb47083?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641751165495-6b22eeb47083?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sven Piper on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sven Piper",
+    "year": 2022,
+    "how": "unsplash search: Southwest Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@svenpiper?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VnCbU1k7vCY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA"
+   },
+   {
+    "shot": "b3",
+    "shows": "A southwest airlines jet flying over a city",
+    "file": "unsplash:je29EpszZa4",
+    "page": "https://unsplash.com/photos/a-southwest-airlines-jet-flying-over-a-city-je29EpszZa4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1739840395851-27daec65362c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1739840395851-27daec65362c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by David Syphers on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Syphers",
+    "year": 2025,
+    "how": "unsplash search: Southwest Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dsyphers?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/je29EpszZa4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8U291dGh3ZXN0JTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM1NDc2fDA"
+   },
+   {
+    "shot": "b4",
+    "shows": "A southwest airlines plane flying in the sky",
+    "file": "unsplash:HO831cMuB5o",
+    "page": "https://unsplash.com/photos/a-southwest-airlines-plane-flying-in-the-sky-HO831cMuB5o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1717381991715-9756248f297a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1717381991715-9756248f297a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brandon Karaca on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brandon Karaca",
+    "year": 2024,
+    "how": "unsplash search: Southwest Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bkaraca2?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HO831cMuB5o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww"
+   },
+   {
+    "shot": "b5",
+    "shows": "A blue and red airplane flying in the sky",
+    "file": "unsplash:dZnTgi3NkXs",
+    "page": "https://unsplash.com/photos/a-blue-and-red-airplane-flying-in-the-sky-dZnTgi3NkXs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1649975141830-a3b2b42e5a64?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1649975141830-a3b2b42e5a64?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nick van der Vegt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nick van der Vegt",
+    "year": 2022,
+    "how": "unsplash search: Southwest Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nick_vandervegt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dZnTgi3NkXs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww"
+   },
+   {
+    "shot": "b6",
+    "shows": "Southwest airlines airplane landing on runway",
+    "file": "unsplash:DwCuWx2Eg50",
+    "page": "https://unsplash.com/photos/southwest-airlines-airplane-landing-on-runway-DwCuWx2Eg50?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1760570996856-564b76486a1d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1760570996856-564b76486a1d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Shui Miles on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Shui Miles",
+    "year": 2025,
+    "how": "unsplash search: Southwest Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@smnycman?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/DwCuWx2Eg50/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww"
+   },
+   {
+    "shot": "b7",
+    "shows": "A southwest airlines plane on the runway at an airport",
+    "file": "unsplash:Vf--7IEvUkk",
+    "page": "https://unsplash.com/photos/a-southwest-airlines-plane-on-the-runway-at-an-airport-Vf--7IEvUkk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1729974982796-fa156a92d593?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1729974982796-fa156a92d593?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1351
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Hans Dorries on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hans Dorries",
+    "year": 2024,
+    "how": "unsplash search: Southwest Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hdorries?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Vf--7IEvUkk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww"
+   },
+   {
+    "shot": "b8",
+    "shows": "A southwest airlines heart logo on a plane",
+    "file": "unsplash:A7C6b4O8pkw",
+    "page": "https://unsplash.com/photos/a-southwest-airlines-heart-logo-on-a-plane-A7C6b4O8pkw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1748399592717-4ab269f0de62?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1748399592717-4ab269f0de62?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Fujiphilm on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Fujiphilm",
+    "year": 2025,
+    "how": "unsplash search: Southwest Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fujiphilm?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/A7C6b4O8pkw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fFNvdXRod2VzdCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzNTQ3Nnww"
+   },
+   {
+    "shot": "main",
+    "shows": "Southwest Airlines plane",
+    "file": "File:Southwest Airlines plane.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Southwest_Airlines_plane.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Southwest_Airlines_plane.jpg/1920px-Southwest_Airlines_plane.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Southwest_Airlines_plane.jpg/500px-Southwest_Airlines_plane.jpg",
     "size": [
      1920,
      1440
@@ -73531,62 +73716,13 @@
      0.5,
      0.5
     ],
-    "credit": "AITFFan1, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "AITFFan1",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Southwest Airlines"
-   },
-   {
-    "shot": "c4",
-    "shows": "Southwest Boarding Authorization card HNL",
-    "file": "File:Southwest Boarding Authorization card HNL.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Southwest_Boarding_Authorization_card_HNL.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Southwest_Boarding_Authorization_card_HNL.jpg/1280px-Southwest_Boarding_Authorization_card_HNL.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Southwest_Boarding_Authorization_card_HNL.jpg/500px-Southwest_Boarding_Authorization_card_HNL.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mds08011, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
+    "credit": "Luiz Eduardo, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Mds08011",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Southwest Airlines"
-   },
-   {
-    "shot": "c5",
-    "shows": "Southwest gate at HNL",
-    "file": "File:Southwest gate at HNL.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Southwest_gate_at_HNL.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Southwest_gate_at_HNL.jpg/1920px-Southwest_gate_at_HNL.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Southwest_gate_at_HNL.jpg/500px-Southwest_gate_at_HNL.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mds08011, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Mds08011",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Southwest Airlines"
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Luiz Eduardo",
+    "year": 2005,
+    "how": "Wikidata main image"
    },
    {
     "shot": "c6",
@@ -73611,30 +73747,6 @@
     "year": 2026,
     "how": "Commons category",
     "category": "Aircraft of Southwest Airlines"
-   },
-   {
-    "shot": "c7",
-    "shows": "NTSB investigator Jean-pierre Scarfo examining damage to the engine of the Southwest Airlines flight #1380 plane.",
-    "file": "File:NTSB WN 1380 (27695484288).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NTSB_WN_1380_(27695484288).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NTSB_WN_1380_%2827695484288%29.jpg/1920px-NTSB_WN_1380_%2827695484288%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NTSB_WN_1380_%2827695484288%29.jpg/500px-NTSB_WN_1380_%2827695484288%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "National Transportation Safety Board, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "National Transportation Safety Board",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Southwest Airlines Flight 1380"
    },
    {
     "shot": "s8",
@@ -73706,7 +73818,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "SPCX": {
   "name": "SpaceX",
@@ -74045,6 +74157,240 @@
   "sector": "sector-communication",
   "photos": [
    {
+    "shot": "b1",
+    "shows": "Black and white power bank",
+    "file": "unsplash:E-a0dTUzwi8",
+    "page": "https://unsplash.com/photos/black-and-white-power-bank-E-a0dTUzwi8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613329671121-5d1cf551cc3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3BvdGlmeXxlbnwxfHx8fDE3OTQwMzU0NzV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613329671121-5d1cf551cc3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3BvdGlmeXxlbnwxfHx8fDE3OTQwMzU0NzV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1805
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Haithem Ferdi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Haithem Ferdi",
+    "year": 2021,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@haithemfrd_off?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/E-a0dTUzwi8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3BvdGlmeXxlbnwxfHx8fDE3OTQwMzU0NzV8MA"
+   },
+   {
+    "shot": "b2",
+    "shows": "The spotify logo is lit up on a flat screen tv",
+    "file": "unsplash:SwKf1x2_hRo",
+    "page": "https://unsplash.com/photos/the-spotify-logo-is-lit-up-on-a-flat-screen-tv-SwKf1x2_hRo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1643208589896-07b8feb4dffa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3BvdGlmeXxlbnwxfHx8fDE3OTQwMzU0NzV8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1643208589896-07b8feb4dffa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3BvdGlmeXxlbnwxfHx8fDE3OTQwMzU0NzV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Thibault Penin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Thibault Penin",
+    "year": 2022,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@thibaultpenin?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SwKf1x2_hRo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8U3BvdGlmeXxlbnwxfHx8fDE3OTQwMzU0NzV8MA"
+   },
+   {
+    "shot": "b3",
+    "shows": "A laptop computer sitting on top of a bed",
+    "file": "unsplash:vfeSEdi9CuM",
+    "page": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-bed-vfeSEdi9CuM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1643208589889-4f02359645c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1643208589889-4f02359645c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Thibault Penin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Thibault Penin",
+    "year": 2022,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@thibaultpenin?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vfeSEdi9CuM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA"
+   },
+   {
+    "shot": "b4",
+    "shows": "Black remote control on white textile",
+    "file": "unsplash:6k4HkET8dPM",
+    "page": "https://unsplash.com/photos/black-remote-control-on-white-textile-6k4HkET8dPM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1586095087956-bc66fe634955?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=1204&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1586095087956-bc66fe634955?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1204,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by charlesdeluvio on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "charlesdeluvio",
+    "year": 2020,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@charlesdeluvio?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6k4HkET8dPM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA"
+   },
+   {
+    "shot": "b5",
+    "shows": "A phone with a charger",
+    "file": "unsplash:apjhh9h1Bxw",
+    "page": "https://unsplash.com/photos/a-phone-with-a-charger-apjhh9h1Bxw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1666152686623-cdc84922c6d9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1666152686623-cdc84922c6d9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Emojisprout emojisprout.com on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Emojisprout emojisprout.com",
+    "year": 2022,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@emojisprout?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/apjhh9h1Bxw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA"
+   },
+   {
+    "shot": "b6",
+    "shows": "Spotify is open on two laptops displaying music",
+    "file": "unsplash:PvwWyggI5HY",
+    "page": "https://unsplash.com/photos/spotify-is-open-on-two-laptops-displaying-music-PvwWyggI5HY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1741719409289-9e04bfda9887?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1741719409289-9e04bfda9887?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Hanna Theresia Pitter on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hanna Theresia Pitter",
+    "year": 2025,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@designwithamission?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PvwWyggI5HY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA"
+   },
+   {
+    "shot": "b7",
+    "shows": "A white and green spotify logo on a green background",
+    "file": "unsplash:istJD3vU4zI",
+    "page": "https://unsplash.com/photos/a-white-and-green-spotify-logo-on-a-green-background-istJD3vU4zI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1649091245880-15e1d3d265ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=2228&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1649091245880-15e1d3d265ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2228,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Rubaitul Azad on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rubaitul Azad",
+    "year": 2022,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rubaitulazad?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/istJD3vU4zI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA"
+   },
+   {
+    "shot": "b8",
+    "shows": "Spotify (Spotify)",
+    "file": "unsplash:TXhtXaPhyN4",
+    "page": "https://unsplash.com/photos/icon-TXhtXaPhyN4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1658489958427-325ded050829?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1658489958427-325ded050829?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Shutter Speed on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Shutter Speed",
+    "year": 2022,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@shutter_speed_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/TXhtXaPhyN4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA"
+   },
+   {
+    "shot": "b9",
+    "shows": "Black and gray dslr camera",
+    "file": "unsplash:cM8mULHNn0s",
+    "page": "https://unsplash.com/photos/black-and-gray-dslr-camera-cM8mULHNn0s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1624814448280-0f2d7d399b07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=1347&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1624814448280-0f2d7d399b07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1347,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sumeet B on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sumeet B",
+    "year": 2021,
+    "how": "unsplash search: Spotify",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@pixel_is_fun?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cM8mULHNn0s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFNwb3RpZnl8ZW58MXx8fHwxNzk0MDM1NDc1fDA"
+   },
+   {
     "shot": "main",
     "shows": "Spotify HK Stockholm",
     "file": "File:Spotify HK Stockholm.jpg",
@@ -74066,150 +74412,6 @@
     "author": "Goombah",
     "year": 2024,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "15.06.2025 - Gravação para o podcast \"Mano a mano\", com Mano Brown",
-    "file": "File:15.06.2025 - Gravação para o podcast \"Mano a mano\", com Mano Brown - 54600352358.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:15.06.2025_-_Grava%C3%A7%C3%A3o_para_o_podcast_%22Mano_a_mano%22,_com_Mano_Brown_-_54600352358.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/15.06.2025_-_Grava%C3%A7%C3%A3o_para_o_podcast_%22Mano_a_mano%22%2C_com_Mano_Brown_-_54600352358.jpg/1920px-15.06.2025_-_Grava%C3%A7%C3%A3o_para_o_podcast_%22Mano_a_mano%22%2C_com_Mano_Brown_-_54600352358.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/15.06.2025_-_Grava%C3%A7%C3%A3o_para_o_podcast_%22Mano_a_mano%22%2C_com_Mano_Brown_-_54600352358.jpg/500px-15.06.2025_-_Grava%C3%A7%C3%A3o_para_o_podcast_%22Mano_a_mano%22%2C_com_Mano_Brown_-_54600352358.jpg",
-    "size": [
-     1920,
-     1376
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Lula Oficial, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Lula Oficial",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Spotify"
-   },
-   {
-    "shot": "c3",
-    "shows": "Apple CarPlay in Nissan Qashqai T1154",
-    "file": "File:Apple CarPlay in Nissan Qashqai 20190501 T1154.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Apple_CarPlay_in_Nissan_Qashqai_20190501_T1154.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apple_CarPlay_in_Nissan_Qashqai_20190501_T1154.jpg/1280px-Apple_CarPlay_in_Nissan_Qashqai_20190501_T1154.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apple_CarPlay_in_Nissan_Qashqai_20190501_T1154.jpg/500px-Apple_CarPlay_in_Nissan_Qashqai_20190501_T1154.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Rberchie, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Rberchie",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Spotify"
-   },
-   {
-    "shot": "c4",
-    "shows": "A proportional symbol map depicting the cities in the United States which have streamed BYU Vocal Point's music on YouTube or Spotify during 2018.",
-    "file": "File:BYUVocalPointStreamsUSA2018.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:BYUVocalPointStreamsUSA2018.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/BYUVocalPointStreamsUSA2018.jpg/1920px-BYUVocalPointStreamsUSA2018.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/BYUVocalPointStreamsUSA2018.jpg/500px-BYUVocalPointStreamsUSA2018.jpg",
-    "size": [
-     1920,
-     1484
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Merrillhope, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Merrillhope",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Spotify"
-   },
-   {
-    "shot": "c5",
-    "shows": "CAT, mascota del F.C. Barcelona",
-    "file": "File:CAT, mascota del F.C. Barcelona.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CAT,_mascota_del_F.C._Barcelona.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/CAT%2C_mascota_del_F.C._Barcelona.jpg/1280px-CAT%2C_mascota_del_F.C._Barcelona.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/CAT%2C_mascota_del_F.C._Barcelona.jpg/500px-CAT%2C_mascota_del_F.C._Barcelona.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wilnel José Verdú Guerrero, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Wilnel José Verdú Guerrero",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Spotify"
-   },
-   {
-    "shot": "c6",
-    "shows": "OneRepublic at Spotify On Stage BKK 2019",
-    "file": "File:OneRepublic at Spotify On Stage BKK 2019.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:OneRepublic_at_Spotify_On_Stage_BKK_2019.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OneRepublic_at_Spotify_On_Stage_BKK_2019.jpg/1920px-OneRepublic_at_Spotify_On_Stage_BKK_2019.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OneRepublic_at_Spotify_On_Stage_BKK_2019.jpg/500px-OneRepublic_at_Spotify_On_Stage_BKK_2019.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sry85, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Sry85",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Spotify"
-   },
-   {
-    "shot": "c7",
-    "shows": "Pahua TSQ photo1",
-    "file": "File:Pahua TSQ photo1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Pahua_TSQ_photo1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pahua_TSQ_photo1.jpg/1920px-Pahua_TSQ_photo1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pahua_TSQ_photo1.jpg/500px-Pahua_TSQ_photo1.jpg",
-    "size": [
-     1920,
-     1285
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sergio Mario Pastrana, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Sergio Mario Pastrana",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Spotify"
    },
    {
     "shot": "s8",
@@ -74256,33 +74458,9 @@
     "author": "Philafrenzy",
     "year": 2015,
     "how": "Commons search"
-   },
-   {
-    "shot": "c10",
-    "shows": "Spotify Almedalen 2025",
-    "file": "File:Spotify Almedalen 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Spotify_Almedalen_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Spotify_Almedalen_2025.jpg/1920px-Spotify_Almedalen_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Spotify_Almedalen_2025.jpg/500px-Spotify_Almedalen_2025.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bene Riobó, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bene Riobó",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Spotify"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "SWK": {
   "name": "Stanley Black & Decker",
@@ -74294,28 +74472,80 @@
   "sector": "sector-industrials",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "Army-Navy Production Award to Stanley Works, presentation program, January 20, 1943 - New Britain Industrial Museum",
-    "file": "File:Army-Navy Production Award to Stanley Works, presentation program, January 20, 1943 - New Britain Industrial Museum - DSC09905.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Army-Navy_Production_Award_to_Stanley_Works,_presentation_program,_January_20,_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Army-Navy_Production_Award_to_Stanley_Works%2C_presentation_program%2C_January_20%2C_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG/1280px-Army-Navy_Production_Award_to_Stanley_Works%2C_presentation_program%2C_January_20%2C_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Army-Navy_Production_Award_to_Stanley_Works%2C_presentation_program%2C_January_20%2C_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG/500px-Army-Navy_Production_Award_to_Stanley_Works%2C_presentation_program%2C_January_20%2C_1943_-_New_Britain_Industrial_Museum_-_DSC09905.JPG",
+    "shot": "c9",
+    "shows": "Tape Measure",
+    "file": "File:Tape Measure (4915969081).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tape_Measure_(4915969081).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tape_Measure_%284915969081%29.jpg/1920px-Tape_Measure_%284915969081%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tape_Measure_%284915969081%29.jpg/500px-Tape_Measure_%284915969081%29.jpg",
     "size": [
-     1280,
-     1771
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Daderot, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Daderot",
-    "year": 2013,
+    "credit": "William Warby from London, England, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "William Warby from London, England",
+    "year": 2010,
     "how": "Commons category",
-    "category": "Stanley Black & Decker, Inc."
+    "category": "Stanley retractable tape measures"
+   },
+   {
+    "shot": "b1",
+    "shows": "Man in black sweatpants using DEWALT circular saw and cutting a wood plank",
+    "file": "unsplash:A1g0oeX29ec",
+    "page": "https://unsplash.com/photos/man-in-black-sweatpants-using-dewalt-circular-saw-and-cutting-a-wood-plank-A1g0oeX29ec?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1513467535987-fd81bc7d62f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8RGVXYWx0fGVufDF8fHx8MTc5NDAzNTQ3NXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1513467535987-fd81bc7d62f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8RGVXYWx0fGVufDF8fHx8MTc5NDAzNTQ3NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1349
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Greyson Joralemon on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Greyson Joralemon",
+    "year": 2017,
+    "how": "unsplash search: DeWalt",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@greysonjoralemon?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/A1g0oeX29ec/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8RGVXYWx0fGVufDF8fHx8MTc5NDAzNTQ3NXww"
+   },
+   {
+    "shot": "b2",
+    "shows": "DEWALT finishing sander on wood",
+    "file": "unsplash:CXlls8jm1VI",
+    "page": "https://unsplash.com/photos/dewalt-finishing-sander-on-wood-CXlls8jm1VI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1513467655676-561b7d489a88?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8RGVXYWx0fGVufDF8fHx8MTc5NDAzNTQ3NXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1513467655676-561b7d489a88?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8RGVXYWx0fGVufDF8fHx8MTc5NDAzNTQ3NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1349
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Greyson Joralemon on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Greyson Joralemon",
+    "year": 2017,
+    "how": "unsplash search: DeWalt",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@greysonjoralemon?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CXlls8jm1VI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8RGVXYWx0fGVufDF8fHx8MTc5NDAzNTQ3NXww"
    },
    {
     "shot": "c2",
@@ -74366,30 +74596,6 @@
     "category": "Stanley retractable blade knives"
    },
    {
-    "shot": "c4",
-    "shows": "Stanley Tools toolchest - New Britain Industrial Museum",
-    "file": "File:Stanley Tools toolchest - New Britain Industrial Museum - DSC09848.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Stanley_Tools_toolchest_-_New_Britain_Industrial_Museum_-_DSC09848.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stanley_Tools_toolchest_-_New_Britain_Industrial_Museum_-_DSC09848.JPG/1920px-Stanley_Tools_toolchest_-_New_Britain_Industrial_Museum_-_DSC09848.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Stanley_Tools_toolchest_-_New_Britain_Industrial_Museum_-_DSC09848.JPG/500px-Stanley_Tools_toolchest_-_New_Britain_Industrial_Museum_-_DSC09848.JPG",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daderot, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Daderot",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Stanley Hand Tools"
-   },
-   {
     "shot": "c5",
     "shows": "Stanley block plane",
     "file": "File:Stanley block plane.jpg",
@@ -74438,30 +74644,6 @@
     "category": "Stanley planes"
    },
    {
-    "shot": "c7",
-    "shows": "Bronson Pulp Mill",
-    "file": "File:Bronson Pulp Mill (2769258612).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bronson_Pulp_Mill_(2769258612).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bronson_Pulp_Mill_%282769258612%29.jpg/1920px-Bronson_Pulp_Mill_%282769258612%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bronson_Pulp_Mill_%282769258612%29.jpg/500px-Bronson_Pulp_Mill_%282769258612%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ceedub13, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "ceedub13",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Stanley retractable tape measures"
-   },
-   {
     "shot": "s8",
     "shows": "Stanley Black & Decker HQ",
     "file": "File:Stanley Black & Decker HQ.jpg",
@@ -74483,30 +74665,6 @@
     "author": "Leefisher91",
     "year": 2024,
     "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Tape Measure",
-    "file": "File:Tape Measure (4915969081).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tape_Measure_(4915969081).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tape_Measure_%284915969081%29.jpg/1920px-Tape_Measure_%284915969081%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tape_Measure_%284915969081%29.jpg/500px-Tape_Measure_%284915969081%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "William Warby from London, England, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "William Warby from London, England",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "Stanley retractable tape measures"
    },
    {
     "shot": "c10",
@@ -74533,7 +74691,7 @@
     "category": "Stanley retractable blade knives"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "SBUX": {
   "name": "Starbucks",
@@ -75467,54 +75625,6 @@
   "sector": "sector-tech",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "The Gathering 2019 - Rack (under constructions, left)",
-    "file": "File:The Gathering 2019 - Rack (under constructions, left) (40763744243).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Gathering_2019_-_Rack_(under_constructions,_left)_(40763744243).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Gathering_2019_-_Rack_%28under_constructions%2C_left%29_%2840763744243%29.jpg/1280px-The_Gathering_2019_-_Rack_%28under_constructions%2C_left%29_%2840763744243%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Gathering_2019_-_Rack_%28under_constructions%2C_left%29_%2840763744243%29.jpg/500px-The_Gathering_2019_-_Rack_%28under_constructions%2C_left%29_%2840763744243%29.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "DiFronzo, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "DiFronzo",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Super Micro Computer"
-   },
-   {
-    "shot": "c2",
-    "shows": "The Gathering 2019 - Switch, server and firewall",
-    "file": "File:The Gathering 2019 - Switch, server and firewall (46813726365).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Gathering_2019_-_Switch,_server_and_firewall_(46813726365).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/The_Gathering_2019_-_Switch%2C_server_and_firewall_%2846813726365%29.jpg/1280px-The_Gathering_2019_-_Switch%2C_server_and_firewall_%2846813726365%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/The_Gathering_2019_-_Switch%2C_server_and_firewall_%2846813726365%29.jpg/500px-The_Gathering_2019_-_Switch%2C_server_and_firewall_%2846813726365%29.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "DiFronzo, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "DiFronzo",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Super Micro Computer"
-   },
-   {
     "shot": "c3",
     "shows": "Super Micro Computer booth",
     "file": "File:Super Micro Computer booth 20190601.jpg",
@@ -75537,78 +75647,6 @@
     "year": 2019,
     "how": "Commons category",
     "category": "Super Micro Computer"
-   },
-   {
-    "shot": "c4",
-    "shows": "ASPEED AST2400 BMC Baseboard management controller",
-    "file": "File:ASPEED AST2400 BMC Baseboard management controller.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ASPEED_AST2400_BMC_Baseboard_management_controller.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ASPEED_AST2400_BMC_Baseboard_management_controller.jpg/1920px-ASPEED_AST2400_BMC_Baseboard_management_controller.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ASPEED_AST2400_BMC_Baseboard_management_controller.jpg/500px-ASPEED_AST2400_BMC_Baseboard_management_controller.jpg",
-    "size": [
-     1920,
-     1521
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Phiarc, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Phiarc",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Supermicro X10SLM+-LN4F"
-   },
-   {
-    "shot": "c5",
-    "shows": "Socketed Intel Celeron G1820 SR1CN",
-    "file": "File:Socketed Intel Celeron G1820 SR1CN.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Socketed_Intel_Celeron_G1820_SR1CN.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Socketed_Intel_Celeron_G1820_SR1CN.jpg/1920px-Socketed_Intel_Celeron_G1820_SR1CN.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Socketed_Intel_Celeron_G1820_SR1CN.jpg/500px-Socketed_Intel_Celeron_G1820_SR1CN.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Phiarc, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Phiarc",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Supermicro X10SLM+-LN4F"
-   },
-   {
-    "shot": "c6",
-    "shows": "Super Micro Computer promotional models at Computex 20140606a",
-    "file": "File:Super Micro Computer promotional models at Computex 20140606a.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Super_Micro_Computer_promotional_models_at_Computex_20140606a.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Super_Micro_Computer_promotional_models_at_Computex_20140606a.jpg/1280px-Super_Micro_Computer_promotional_models_at_Computex_20140606a.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Super_Micro_Computer_promotional_models_at_Computex_20140606a.jpg/500px-Super_Micro_Computer_promotional_models_at_Computex_20140606a.jpg",
-    "size": [
-     1280,
-     1927
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sinchen.Lin, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Sinchen.Lin",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Super Micro Computer female promotional models"
    },
    {
     "shot": "c7",
@@ -75635,54 +75673,6 @@
     "category": "Supermicro computer motherboards"
    },
    {
-    "shot": "c8",
-    "shows": "Supermicro SuperWorkstation SYS-740A-T",
-    "file": "File:Supermicro SuperWorkstation SYS-740A-T.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Supermicro_SuperWorkstation_SYS-740A-T.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Supermicro_SuperWorkstation_SYS-740A-T.jpg/1920px-Supermicro_SuperWorkstation_SYS-740A-T.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Supermicro_SuperWorkstation_SYS-740A-T.jpg/500px-Supermicro_SuperWorkstation_SYS-740A-T.jpg",
-    "size": [
-     1920,
-     1277
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ptwo, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "ptwo",
-    "year": 2009,
-    "how": "Commons category",
-    "category": "Supermicro workstations"
-   },
-   {
-    "shot": "c9",
-    "shows": "SuperMicro Server",
-    "file": "File:SuperMicro Server.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SuperMicro_Server.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/SuperMicro_Server.jpg/1920px-SuperMicro_Server.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/SuperMicro_Server.jpg/500px-SuperMicro_Server.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Frédéric BISSON, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Frédéric BISSON",
-    "year": 2012,
-    "how": "Commons category",
-    "category": "Supermicro blade servers"
-   },
-   {
     "shot": "c10",
     "shows": "Supermicro AOC-S3108L-H8iR SAS RAID controller. Low-profile PCI Express 3.0 x8 card. Provides 8 SAS3 ports, 2GB DRAM cache, hardware RAID 0, 1, 5, 6, 10, 50, 60",
     "file": "File:AOC-S3108L-H8IR.jpg",
@@ -75707,7 +75697,7 @@
     "category": "Super Micro Computer"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "SYF": {
   "name": "Synchrony Financial",
@@ -75978,77 +75968,6 @@
   "sector": "sector-staples",
   "photos": [
    {
-    "shot": "main",
-    "shows": "Sysco",
-    "file": "File:SyscoHQHouston.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:SyscoHQHouston.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/SyscoHQHouston.JPG/1920px-SyscoHQHouston.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/SyscoHQHouston.JPG/500px-SyscoHQHouston.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "WhisperToMe, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "WhisperToMe",
-    "year": null,
-    "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Brackley, PEI",
-    "file": "File:Brackley, PEI (45455491162).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Brackley,_PEI_(45455491162).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Brackley%2C_PEI_%2845455491162%29.jpg/1920px-Brackley%2C_PEI_%2845455491162%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Brackley%2C_PEI_%2845455491162%29.jpg/500px-Brackley%2C_PEI_%2845455491162%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Larry from Charlottetown, PEI, Canada, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Larry from Charlottetown, PEI, Canada",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Sysco"
-   },
-   {
-    "shot": "c3",
-    "shows": "Secretary Perdue at Sysco San Diego ( -OSEC-LSC-0345)",
-    "file": "File:Secretary Perdue at Sysco San Diego (20190715-OSEC-LSC-0345).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Secretary_Perdue_at_Sysco_San_Diego_(20190715-OSEC-LSC-0345).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg/1920px-Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg/500px-Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "USDAgov, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "USDAgov",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Sysco"
-   },
-   {
     "shot": "c4",
     "shows": "Sysco Corporation Headquarters - Houston, Texas",
     "file": "File:Sysco Corporation Headquarters - Houston, Texas (33648710078).jpg",
@@ -76073,54 +75992,6 @@
     "category": "Sysco"
    },
    {
-    "shot": "c5",
-    "shows": "Ryan Preece car, Las Vegas Fall 2025",
-    "file": "File:Ryan Preece car, Las Vegas Fall 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ryan_Preece_car,_Las_Vegas_Fall_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ryan_Preece_car%2C_Las_Vegas_Fall_2025.jpg/1920px-Ryan_Preece_car%2C_Las_Vegas_Fall_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ryan_Preece_car%2C_Las_Vegas_Fall_2025.jpg/500px-Ryan_Preece_car%2C_Las_Vegas_Fall_2025.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nascar9919, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Nascar9919",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Number 60 Sysco / Crumbl Ford Mustang Dark Horse of Ryan Preece in 2025"
-   },
-   {
-    "shot": "c6",
-    "shows": "Cross 8th Street and Olive Street (July 2022)",
-    "file": "File:Cross 8th Street and Olive Street (July 2022).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cross_8th_Street_and_Olive_Street_(July_2022).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cross_8th_Street_and_Olive_Street_%28July_2022%29.jpg/1920px-Cross_8th_Street_and_Olive_Street_%28July_2022%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cross_8th_Street_and_Olive_Street_%28July_2022%29.jpg/500px-Cross_8th_Street_and_Olive_Street_%28July_2022%29.jpg",
-    "size": [
-     1920,
-     1482
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Benoît Prieur, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Benoît Prieur",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Sysco semi-trailers"
-   },
-   {
     "shot": "c7",
     "shows": "Here's an International MV belonging to Sysco, at work in Jersey City, New Jersey. The MV was formerly known as the International DuraStar and, prior to that, t",
     "file": "File:International MV (54360105280).jpg",
@@ -76143,6 +76014,53 @@
     "year": 2024,
     "how": "Commons category",
     "category": "Sysco trucks"
+   },
+   {
+    "shot": "main",
+    "shows": "Sysco",
+    "file": "File:SyscoHQHouston.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:SyscoHQHouston.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/SyscoHQHouston.JPG/1920px-SyscoHQHouston.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/SyscoHQHouston.JPG/500px-SyscoHQHouston.JPG",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "WhisperToMe, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "WhisperToMe",
+    "year": null,
+    "how": "Wikidata main image"
+   },
+   {
+    "shot": "c3",
+    "shows": "Secretary Perdue at Sysco San Diego ( -OSEC-LSC-0345)",
+    "file": "File:Secretary Perdue at Sysco San Diego (20190715-OSEC-LSC-0345).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Secretary_Perdue_at_Sysco_San_Diego_(20190715-OSEC-LSC-0345).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg/1920px-Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg/500px-Secretary_Perdue_at_Sysco_San_Diego_%2820190715-OSEC-LSC-0345%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "USDAgov, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "USDAgov",
+    "year": 2019,
+    "how": "Commons category",
+    "category": "Sysco"
    },
    {
     "shot": "s8",
@@ -76189,32 +76107,9 @@
     "author": "Tony Webster from Minneapolis, Minnesota, United States",
     "year": 2020,
     "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "SYSCO semi truck",
-    "file": "File:SYSCO semi truck.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SYSCO_semi_truck.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SYSCO_semi_truck.jpg/1920px-SYSCO_semi_truck.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/SYSCO_semi_truck.jpg/500px-SYSCO_semi_truck.jpg",
-    "size": [
-     1920,
-     960
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ewkada, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Ewkada",
-    "year": 2022,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TMUS": {
   "name": "T-Mobile US",
@@ -76249,6 +76144,84 @@
     "how": "Wikidata main image"
    },
    {
+    "shot": "b1",
+    "shows": "Black and white building during night time",
+    "file": "unsplash:3vxTnz3seKE",
+    "page": "https://unsplash.com/photos/black-and-white-building-during-night-time-3vxTnz3seKE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1612452130691-67961066861d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VC1Nb2JpbGV8ZW58MXx8fHwxNzk0MDM1NDc4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1612452130691-67961066861d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VC1Nb2JpbGV8ZW58MXx8fHwxNzk0MDM1NDc4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alonso Reyes on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alonso Reyes",
+    "year": 2021,
+    "how": "unsplash search: T-Mobile",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alonsoreyes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/3vxTnz3seKE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VC1Nb2JpbGV8ZW58MXx8fHwxNzk0MDM1NDc4fDA"
+   },
+   {
+    "shot": "b2",
+    "shows": "Pink and purple led light",
+    "file": "unsplash:o-oqR_WmqJU",
+    "page": "https://unsplash.com/photos/pink-and-purple-led-light-o-oqR_WmqJU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1610128980054-68d94619e243?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VC1Nb2JpbGV8ZW58MXx8fHwxNzk0MDM1NDc4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1610128980054-68d94619e243?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VC1Nb2JpbGV8ZW58MXx8fHwxNzk0MDM1NDc4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mika Baumeister on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mika Baumeister",
+    "year": 2021,
+    "how": "unsplash search: T-Mobile",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/o-oqR_WmqJU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VC1Nb2JpbGV8ZW58MXx8fHwxNzk0MDM1NDc4fDA"
+   },
+   {
+    "shot": "b3",
+    "shows": "A large building with a lot of windows on the side of it",
+    "file": "unsplash:0sSgWMqXcgQ",
+    "page": "https://unsplash.com/photos/a-large-building-with-a-lot-of-windows-on-the-side-of-it-0sSgWMqXcgQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1649633565060-1fb43b3f319d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFQtTW9iaWxlfGVufDF8fHx8MTc5NDAzNTQ3OHww&ixlib=rb-4.1.0&w=2190&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1649633565060-1fb43b3f319d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFQtTW9iaWxlfGVufDF8fHx8MTc5NDAzNTQ3OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2190,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kevin Dunlap on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kevin Dunlap",
+    "year": 2022,
+    "how": "unsplash search: T-Mobile",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kevinadunlap?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0sSgWMqXcgQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFQtTW9iaWxlfGVufDF8fHx8MTc5NDAzNTQ3OHww"
+   },
+   {
     "shot": "leader",
     "shows": "Mike Sievert, T-Mobile US CEO (per Wikidata)",
     "file": "File:Mike Sievert.jpg",
@@ -76271,30 +76244,6 @@
     "year": 2021,
     "how": "Wikidata CEO",
     "person": true
-   },
-   {
-    "shot": "c3",
-    "shows": "T-Mobile store in Port Charlotte damaged by Hurricane Ian",
-    "file": "File:T-Mobile store in Port Charlotte damaged by Hurricane Ian.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:T-Mobile_store_in_Port_Charlotte_damaged_by_Hurricane_Ian.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/T-Mobile_store_in_Port_Charlotte_damaged_by_Hurricane_Ian.jpg/1280px-T-Mobile_store_in_Port_Charlotte_damaged_by_Hurricane_Ian.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/T-Mobile_store_in_Port_Charlotte_damaged_by_Hurricane_Ian.jpg/500px-T-Mobile_store_in_Port_Charlotte_damaged_by_Hurricane_Ian.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "PCHS-NJROTC, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "PCHS-NJROTC",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "T-Mobile US"
    },
    {
     "shot": "c4",
@@ -76345,33 +76294,6 @@
     "category": "T-Mobile shops in the United States"
    },
    {
-    "shot": "c6",
-    "shows": "Kansas City June 2022 14 (T-Mobile Center)",
-    "file": "File:Kansas City June 2022 14 (T-Mobile Center).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kansas_City_June_2022_14_(T-Mobile_Center).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kansas_City_June_2022_14_%28T-Mobile_Center%29.jpg/1920px-Kansas_City_June_2022_14_%28T-Mobile_Center%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kansas_City_June_2022_14_%28T-Mobile_Center%29.jpg/500px-Kansas_City_June_2022_14_%28T-Mobile_Center%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Michael Barera",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "T-Mobile Center",
-    "flags": [
-     "restrictions: personality"
-    ]
-   },
-   {
     "shot": "c7",
     "shows": "T-Mobile, Newport Terrace, Factoria, Bellevue, Washington",
     "file": "File:T-Mobile, Newport Terrace, Factoria, Bellevue, Washington.jpg",
@@ -76417,57 +76339,9 @@
     "author": "Mike Mozart",
     "year": 2015,
     "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Sprint Center",
-    "file": "File:Sprint Center (15946139778).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sprint_Center_(15946139778).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sprint_Center_%2815946139778%29.jpg/1920px-Sprint_Center_%2815946139778%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sprint_Center_%2815946139778%29.jpg/500px-Sprint_Center_%2815946139778%29.jpg",
-    "size": [
-     1920,
-     1272
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Heath Cajandig, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Heath Cajandig",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "T-Mobile Center"
-   },
-   {
-    "shot": "c10",
-    "shows": "experian-letter-redacted",
-    "file": "File:2015-10-05 experian-letter-redacted.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2015-10-05_experian-letter-redacted.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2015-10-05_experian-letter-redacted.jpg/1280px-2015-10-05_experian-letter-redacted.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2015-10-05_experian-letter-redacted.jpg/500px-2015-10-05_experian-letter-redacted.jpg",
-    "size": [
-     1280,
-     1756
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Y2ilm, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Y2ilm",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "T-Mobile US"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TROW": {
   "name": "T. Rowe Price",
@@ -76558,33 +76432,9 @@
     "author": "Tdorante10",
     "year": 2018,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "leader",
-    "shows": "Kelly Sumner, Take-Two Interactive CEO (per Wikidata)",
-    "file": "File:Headshot of Kelly Sumner for profile.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Headshot_of_Kelly_Sumner_for_profile.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Headshot_of_Kelly_Sumner_for_profile.jpg/1280px-Headshot_of_Kelly_Sumner_for_profile.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Headshot_of_Kelly_Sumner_for_profile.jpg/500px-Headshot_of_Kelly_Sumner_for_profile.jpg",
-    "size": [
-     1280,
-     1585
-    ],
-    "focus": [
-     0.5,
-     0.33
-    ],
-    "credit": "Jdwhampson, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jdwhampson",
-    "year": 2020,
-    "how": "Wikidata CEO",
-    "person": true
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TPR": {
   "name": "Tapestry, Inc.",
@@ -76595,6 +76445,32 @@
   "aliases": [],
   "sector": "sector-consumer-discretionary",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "A brown and black handbag sitting on top of a white table",
+    "file": "unsplash:Y7C2sWaxf4Q",
+    "page": "https://unsplash.com/photos/a-brown-and-black-handbag-sitting-on-top-of-a-white-table-Y7C2sWaxf4Q?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1645276241987-7a7c14bf88f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29hY2glMjBoYW5kYmFnfGVufDF8fHx8MTc5NDAzNTQ4MHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1645276241987-7a7c14bf88f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29hY2glMjBoYW5kYmFnfGVufDF8fHx8MTc5NDAzNTQ4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Henry Kobutra on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Henry Kobutra",
+    "year": 2022,
+    "how": "unsplash search: Coach handbag",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@henrykobutra?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Y7C2sWaxf4Q/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Q29hY2glMjBoYW5kYmFnfGVufDF8fHx8MTc5NDAzNTQ4MHww"
+   },
    {
     "shot": "c1",
     "shows": "10 Hudson Yard from 9 Av & 30 St 2016 Dec jeh",
@@ -76620,7 +76496,7 @@
     "category": "Tapestry, Inc."
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TRGP": {
   "name": "Targa Resources",
@@ -76666,52 +76542,108 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "Fireside Chat with Target Corporation CEO and Leadership",
-    "file": "File:Fireside Chat with Target Corporation CEO and Leadership (53892205719).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fireside_Chat_with_Target_Corporation_CEO_and_Leadership_(53892205719).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fireside_Chat_with_Target_Corporation_CEO_and_Leadership_%2853892205719%29.jpg/1920px-Fireside_Chat_with_Target_Corporation_CEO_and_Leadership_%2853892205719%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fireside_Chat_with_Target_Corporation_CEO_and_Leadership_%2853892205719%29.jpg/500px-Fireside_Chat_with_Target_Corporation_CEO_and_Leadership_%2853892205719%29.jpg",
+    "shot": "b1",
+    "shows": "A target store with cars parked in front of it",
+    "file": "unsplash:r-Q4yDBCHpg",
+    "page": "https://unsplash.com/photos/a-target-store-with-cars-parked-in-front-of-it-r-Q4yDBCHpg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1681771969482-cf2e4907889f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1681771969482-cf2e4907889f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Maryland GovPics, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Maryland GovPics",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Target Corporation"
+    "credit": "Photo by Shabaz Usmani on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Shabaz Usmani",
+    "year": 2023,
+    "how": "unsplash search: Target store",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@spusmani?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/r-Q4yDBCHpg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA"
    },
    {
-    "shot": "c3",
-    "shows": "Target Catch Basin Inlet",
-    "file": "File:Target Catch Basin Inlet.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Target_Catch_Basin_Inlet.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Target_Catch_Basin_Inlet.jpg/1920px-Target_Catch_Basin_Inlet.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Target_Catch_Basin_Inlet.jpg/500px-Target_Catch_Basin_Inlet.jpg",
+    "shot": "b2",
+    "shows": "A red target shopping cart sits in an aisle",
+    "file": "unsplash:k-M8eckIlRA",
+    "page": "https://unsplash.com/photos/a-red-target-shopping-cart-sits-in-an-aisle-k-M8eckIlRA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1742037770612-2a3c1699c766?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1742037770612-2a3c1699c766?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mds08011, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Mds08011",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Target Corporation"
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "unsplash search: Target store",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/k-M8eckIlRA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA"
+   },
+   {
+    "shot": "b3",
+    "shows": "Red target shopping cart inside a store",
+    "file": "unsplash:tnAZ5Me3WPw",
+    "page": "https://unsplash.com/photos/red-target-shopping-cart-inside-a-store-tnAZ5Me3WPw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1742037770546-512c6dcec2fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1742037770546-512c6dcec2fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "unsplash search: Target store",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tnAZ5Me3WPw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA"
+   },
+   {
+    "shot": "b4",
+    "shows": "Target store exterior at dusk with palm trees",
+    "file": "unsplash:T81fu7fthSM",
+    "page": "https://unsplash.com/photos/target-store-exterior-at-dusk-with-palm-trees-T81fu7fthSM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1619496140817-ccc97b892d0b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1619496140817-ccc97b892d0b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dwayne Pounds on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dwayne Pounds",
+    "year": 2021,
+    "how": "unsplash search: Target store",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dwaynep2026?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/T81fu7fthSM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VGFyZ2V0JTIwc3RvcmV8ZW58MXx8fHwxNzk0MDM1NDgxfDA"
    },
    {
     "shot": "c4",
@@ -76786,30 +76718,6 @@
     "category": "Target shopping carts"
    },
    {
-    "shot": "c7",
-    "shows": "Stormy, Minneapolis 6 16 18",
-    "file": "File:Stormy, Minneapolis 6 16 18 (28959397868).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stormy,_Minneapolis_6_16_18_(28959397868).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stormy%2C_Minneapolis_6_16_18_%2828959397868%29.jpg/1920px-Stormy%2C_Minneapolis_6_16_18_%2828959397868%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Stormy%2C_Minneapolis_6_16_18_%2828959397868%29.jpg/500px-Stormy%2C_Minneapolis_6_16_18_%2828959397868%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sharon Mollerus, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Sharon Mollerus",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Target Plaza North"
-   },
-   {
     "shot": "s8",
     "shows": "The downtown Minneapolis Target Corporation store with its corporate headquarters tower in the background, Minneapolis, Minnesota, USA, 05-12-07",
     "file": "File:The downtown Minneapolis Target Corporation store with its corporate headquarters tower in the background, Minneapolis, Minnesota, USA, 05-12-07.jpg",
@@ -76831,55 +76739,9 @@
     "author": "Bobak Ha'Eri",
     "year": 2007,
     "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Target Store Conservation Area Sign",
-    "file": "File:Target Store Conservation Area Sign (13945687379).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Target_Store_Conservation_Area_Sign_(13945687379).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Target_Store_Conservation_Area_Sign_%2813945687379%29.jpg/1920px-Target_Store_Conservation_Area_Sign_%2813945687379%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Target_Store_Conservation_Area_Sign_%2813945687379%29.jpg/500px-Target_Store_Conservation_Area_Sign_%2813945687379%29.jpg",
-    "size": [
-     1920,
-     1434
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mike Mozart from Funny YouTube, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Mike Mozart from Funny YouTube, USA",
-    "year": 2014,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Target Distribution Center, Tift County",
-    "file": "File:Target Distribution Center, Tift County.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Target_Distribution_Center,_Tift_County.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Target_Distribution_Center%2C_Tift_County.jpg/1920px-Target_Distribution_Center%2C_Tift_County.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Target_Distribution_Center%2C_Tift_County.jpg/500px-Target_Distribution_Center%2C_Tift_County.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Michael Rivera",
-    "year": 2017,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TD": {
   "name": "TD Bank",
@@ -76890,197 +76752,6 @@
   "aliases": [],
   "sector": "sector-financials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "New York City COVID19 Images April 16, 2020",
-    "file": "File:New York City COVID19 Images April 16, 2020 - 49784723461.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:New_York_City_COVID19_Images_April_16,_2020_-_49784723461.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg/1920px-New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg/500px-New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Anthony Quintano, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Anthony Quintano",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "TD Canada Trust branches"
-   },
-   {
-    "shot": "c2",
-    "shows": "Looking up in Toronto",
-    "file": "File:Looking up in Toronto (54598154573).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Looking_up_in_Toronto_(54598154573).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Looking_up_in_Toronto_%2854598154573%29.jpg/1920px-Looking_up_in_Toronto_%2854598154573%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Looking_up_in_Toronto_%2854598154573%29.jpg/500px-Looking_up_in_Toronto_%2854598154573%29.jpg",
-    "size": [
-     1920,
-     1446
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daniel from Glasgow, United Kingdom, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Daniel from Glasgow, United Kingdom",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "TD Canada Trust branches in Toronto"
-   },
-   {
-    "shot": "c3",
-    "shows": "Canada Trust chip",
-    "file": "File:Canada Trust chip.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Canada_Trust_chip.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Canada_Trust_chip.jpg/1920px-Canada_Trust_chip.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Canada_Trust_chip.jpg/500px-Canada_Trust_chip.jpg",
-    "size": [
-     1920,
-     1783
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Travis Goodspeed, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Travis Goodspeed",
-    "year": 2011,
-    "how": "Commons category",
-    "category": "TD Canada Trust"
-   },
-   {
-    "shot": "c4",
-    "shows": "205 Yonge Street, Toronto, ON",
-    "file": "File:205 Yonge Street, Toronto, ON.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:205_Yonge_Street,_Toronto,_ON.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/205_Yonge_Street%2C_Toronto%2C_ON.jpg/1280px-205_Yonge_Street%2C_Toronto%2C_ON.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/205_Yonge_Street%2C_Toronto%2C_ON.jpg/500px-205_Yonge_Street%2C_Toronto%2C_ON.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Thepianokid99, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Thepianokid99",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Bank of Toronto Building"
-   },
-   {
-    "shot": "c5",
-    "shows": "Conestoga Mall - Waterloo, ON",
-    "file": "File:Conestoga Mall - Waterloo, ON (2026).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Conestoga_Mall_-_Waterloo,_ON_(2026).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Conestoga_Mall_-_Waterloo%2C_ON_%282026%29.jpg/1920px-Conestoga_Mall_-_Waterloo%2C_ON_%282026%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Conestoga_Mall_-_Waterloo%2C_ON_%282026%29.jpg/500px-Conestoga_Mall_-_Waterloo%2C_ON_%282026%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "JFVoll, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "JFVoll",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "TD Canada Trust branches"
-   },
-   {
-    "shot": "c6",
-    "shows": "A centuries-old “Submarine” floating in modern times",
-    "file": "File:A centuries-old “Submarine” floating in modern times.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_centuries-old_%E2%80%9CSubmarine%E2%80%9D_floating_in_modern_times.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/A_centuries-old_%E2%80%9CSubmarine%E2%80%9D_floating_in_modern_times.jpg/1920px-A_centuries-old_%E2%80%9CSubmarine%E2%80%9D_floating_in_modern_times.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/A_centuries-old_%E2%80%9CSubmarine%E2%80%9D_floating_in_modern_times.jpg/500px-A_centuries-old_%E2%80%9CSubmarine%E2%80%9D_floating_in_modern_times.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Roy Hoh, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Roy Hoh",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Dominion Building (Vancouver)"
-   },
-   {
-    "shot": "c7",
-    "shows": "Back top of the Dominion Building in 2018",
-    "file": "File:Back top of the Dominion Building in 2018.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Back_top_of_the_Dominion_Building_in_2018.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Back_top_of_the_Dominion_Building_in_2018.jpg/1920px-Back_top_of_the_Dominion_Building_in_2018.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Back_top_of_the_Dominion_Building_in_2018.jpg/500px-Back_top_of_the_Dominion_Building_in_2018.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Christian Paul, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Christian Paul",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Dominion Building (Vancouver)"
-   },
-   {
-    "shot": "s8",
-    "shows": "Ghost Like TD Bank Building in Background",
-    "file": "File:Ghost Like TD Bank Building in Background (6059649798).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ghost_Like_TD_Bank_Building_in_Background_(6059649798).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ghost_Like_TD_Bank_Building_in_Background_%286059649798%29.jpg/1280px-Ghost_Like_TD_Bank_Building_in_Background_%286059649798%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ghost_Like_TD_Bank_Building_in_Background_%286059649798%29.jpg/500px-Ghost_Like_TD_Bank_Building_in_Background_%286059649798%29.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Peter Kudlacz, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Peter Kudlacz",
-    "year": 2011,
-    "how": "Commons search"
-   },
    {
     "shot": "s9",
     "shows": "TD Bank Branch in Beaverton, Ontario, September 3 2026",
@@ -77105,30 +76776,84 @@
     "how": "Commons search"
    },
    {
-    "shot": "s10",
-    "shows": "RBC & TD Bank Branch",
-    "file": "File:RBC & TD Bank Branch (51656669967).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:RBC_%26_TD_Bank_Branch_(51656669967).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RBC_%26_TD_Bank_Branch_%2851656669967%29.jpg/1920px-RBC_%26_TD_Bank_Branch_%2851656669967%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RBC_%26_TD_Bank_Branch_%2851656669967%29.jpg/500px-RBC_%26_TD_Bank_Branch_%2851656669967%29.jpg",
+    "shot": "b1",
+    "shows": "A brick building with a green door",
+    "file": "unsplash:2TGZoz86NEY",
+    "page": "https://unsplash.com/photos/a-brick-building-with-a-green-door-2TGZoz86NEY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1651131024287-68c63928e078?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VEQlMjBCYW5rfGVufDF8fHx8MTc5NDAzNTQ4Mnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1651131024287-68c63928e078?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VEQlMjBCYW5rfGVufDF8fHx8MTc5NDAzNTQ4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     2400,
+     1347
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "PiggyBank Canada from Toronto, Canada, CC BY 2.0, via Wikimedia Commons",
+    "credit": "Photo by PiggyBank on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "PiggyBank",
+    "year": 2022,
+    "how": "unsplash search: TD Bank",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@piggybank?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2TGZoz86NEY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VEQlMjBCYW5rfGVufDF8fHx8MTc5NDAzNTQ4Mnww"
+   },
+   {
+    "shot": "b2",
+    "shows": "A store front with a parking lot in front of it",
+    "file": "unsplash:hrJ0N_462Oc",
+    "page": "https://unsplash.com/photos/a-store-front-with-a-parking-lot-in-front-of-it-hrJ0N_462Oc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641931192306-f723664ce4a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VEQlMjBCYW5rfGVufDF8fHx8MTc5NDAzNTQ4Mnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641931192306-f723664ce4a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VEQlMjBCYW5rfGVufDF8fHx8MTc5NDAzNTQ4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1347
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by PiggyBank on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "PiggyBank",
+    "year": 2022,
+    "how": "unsplash search: TD Bank",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@piggybank?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hrJ0N_462Oc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VEQlMjBCYW5rfGVufDF8fHx8MTc5NDAzNTQ4Mnww",
+    "track_pending": true
+   },
+   {
+    "shot": "c1",
+    "shows": "New York City COVID19 Images April 16, 2020",
+    "file": "File:New York City COVID19 Images April 16, 2020 - 49784723461.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:New_York_City_COVID19_Images_April_16,_2020_-_49784723461.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg/1920px-New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg/500px-New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg",
+    "size": [
+     1920,
+     1281
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Anthony Quintano, CC BY 2.0, via Wikimedia Commons",
     "licence": "CC BY 2.0",
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "PiggyBank Canada from Toronto, Canada",
-    "year": 2021,
-    "how": "Commons search"
+    "author": "Anthony Quintano",
+    "year": 2020,
+    "how": "Commons category",
+    "category": "TD Canada Trust branches"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TEL": {
   "name": "TE Connectivity",
@@ -77684,6 +77409,30 @@
   "sector": "sector-tech",
   "photos": [
    {
+    "shot": "c4",
+    "shows": "Texas Instruments Headquarters (TI)",
+    "file": "File:Texas Instruments Headquarters (TI).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Headquarters_(TI).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Texas_Instruments_Headquarters_%28TI%29.jpg/1920px-Texas_Instruments_Headquarters_%28TI%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Texas_Instruments_Headquarters_%28TI%29.jpg/500px-Texas_Instruments_Headquarters_%28TI%29.jpg",
+    "size": [
+     1920,
+     1281
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Tony Webster",
+    "year": 2019,
+    "how": "Commons category",
+    "category": "Texas Instruments"
+   },
+   {
     "shot": "main",
     "shows": "TI signboard Dallas",
     "file": "File:TI signboard Dallas.png",
@@ -77755,125 +77504,6 @@
     "category": "Texas Instruments"
    },
    {
-    "shot": "c4",
-    "shows": "Texas Instruments Headquarters (TI)",
-    "file": "File:Texas Instruments Headquarters (TI).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Headquarters_(TI).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Texas_Instruments_Headquarters_%28TI%29.jpg/1920px-Texas_Instruments_Headquarters_%28TI%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Texas_Instruments_Headquarters_%28TI%29.jpg/500px-Texas_Instruments_Headquarters_%28TI%29.jpg",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tony Webster",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Texas Instruments"
-   },
-   {
-    "shot": "c5",
-    "shows": "Texas Instruments construction 1",
-    "file": "File:Texas Instruments construction 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_construction_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Texas_Instruments_construction_1.jpg/1920px-Texas_Instruments_construction_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Texas_Instruments_construction_1.jpg/500px-Texas_Instruments_construction_1.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mds08011, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Mds08011",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Texas Instruments Tucson"
-   },
-   {
-    "shot": "c6",
-    "shows": "Texas Instruments construction in Tucson AZ",
-    "file": "File:Texas Instruments construction in Tucson AZ.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_construction_in_Tucson_AZ.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Texas_Instruments_construction_in_Tucson_AZ.jpg/1920px-Texas_Instruments_construction_in_Tucson_AZ.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Texas_Instruments_construction_in_Tucson_AZ.jpg/500px-Texas_Instruments_construction_in_Tucson_AZ.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mds08011, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Mds08011",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Texas Instruments Tucson"
-   },
-   {
-    "shot": "c7",
-    "shows": "1954 Texas Instruments Trasistor-radio TR-1",
-    "file": "File:1954 Texas Instruments Trasistor-radio TR-1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:1954_Texas_Instruments_Trasistor-radio_TR-1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/1954_Texas_Instruments_Trasistor-radio_TR-1.jpg/1920px-1954_Texas_Instruments_Trasistor-radio_TR-1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/1954_Texas_Instruments_Trasistor-radio_TR-1.jpg/500px-1954_Texas_Instruments_Trasistor-radio_TR-1.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wikisympathisant, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Wikisympathisant",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Texas Instruments"
-   },
-   {
-    "shot": "s8",
-    "shows": "Texas Instruments TI-99 4A, Google NY office computer museum",
-    "file": "File:Texas Instruments TI-99 4A, Google NY office computer museum.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_TI-99_4A,_Google_NY_office_computer_museum.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Texas_Instruments_TI-99_4A%2C_Google_NY_office_computer_museum.jpg/1920px-Texas_Instruments_TI-99_4A%2C_Google_NY_office_computer_museum.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Texas_Instruments_TI-99_4A%2C_Google_NY_office_computer_museum.jpg/500px-Texas_Instruments_TI-99_4A%2C_Google_NY_office_computer_museum.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Marcin Wichary from San Francisco, U.S.A., CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Marcin Wichary from San Francisco, U.S.A.",
-    "year": 2008,
-    "how": "Commons search"
-   },
-   {
     "shot": "s9",
     "shows": "Texas Instruments building, Raanana",
     "file": "File:Texas Instruments building, Raanana.jpg",
@@ -77921,7 +77551,7 @@
     "category": "Texas Instruments"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TPL": {
   "name": "Texas Pacific Land Corporation",
@@ -77943,6 +77573,249 @@
   "aliases": [],
   "sector": "sector-industrials",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "A view of the wing of an airplane in the sky",
+    "file": "unsplash:POT9HvLOK5s",
+    "page": "https://unsplash.com/photos/a-view-of-the-wing-of-an-airplane-in-the-sky-POT9HvLOK5s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1637207434998-4db4163741e0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QmVlY2hjcmFmdHxlbnwxfHx8fDE3OTQwMzU0ODR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1637207434998-4db4163741e0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QmVlY2hjcmFmdHxlbnwxfHx8fDE3OTQwMzU0ODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Y S on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Y S",
+    "year": 2021,
+    "how": "unsplash search: Beechcraft",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@santonii?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/POT9HvLOK5s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QmVlY2hjcmFmdHxlbnwxfHx8fDE3OTQwMzU0ODR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "A small airplane flying through a cloudy sky",
+    "file": "unsplash:-kP9oWG-Yg8",
+    "page": "https://unsplash.com/photos/a-small-airplane-flying-through-a-cloudy-sky--kP9oWG-Yg8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1691394045643-aafd8e17deab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1691394045643-aafd8e17deab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1395
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Matthias Wesselmann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Matthias Wesselmann",
+    "year": 2023,
+    "how": "unsplash search: Cessna",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mwesselmann?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-kP9oWG-Yg8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "White airplane flying in the sky during daytime",
+    "file": "unsplash:O0Tr0mrzXLA",
+    "page": "https://unsplash.com/photos/white-airplane-flying-in-the-sky-during-daytime-O0Tr0mrzXLA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1586063029643-fd87377743ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1586063029643-fd87377743ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Cody F on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cody F",
+    "year": 2020,
+    "how": "unsplash search: Cessna",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hiccupfromberk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/O0Tr0mrzXLA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "Red and white airplane flying in the sky during daytime",
+    "file": "unsplash:dDWsqFJaMfk",
+    "page": "https://unsplash.com/photos/red-and-white-airplane-flying-in-the-sky-during-daytime-dDWsqFJaMfk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1604285861770-54cb117a3f5a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1604285861770-54cb117a3f5a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Trac Vu on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Trac Vu",
+    "year": 2020,
+    "how": "unsplash search: Cessna",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tracminhvu?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dDWsqFJaMfk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Q2Vzc25hfGVufDF8fHx8MTc5NDAzNTQ4M3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "Black Bell helicopter",
+    "file": "unsplash:qgspqpSuLB0",
+    "page": "https://unsplash.com/photos/black-bell-helicopter-qgspqpSuLB0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1543861596-9a8035ab6cad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QmVsbCUyMGhlbGljb3B0ZXJ8ZW58MXx8fHwxNzk0MDM1NDg1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1543861596-9a8035ab6cad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QmVsbCUyMGhlbGljb3B0ZXJ8ZW58MXx8fHwxNzk0MDM1NDg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2659
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tyler Lastovich on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tyler Lastovich",
+    "year": 2018,
+    "how": "unsplash search: Bell helicopter",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lastly?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qgspqpSuLB0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QmVsbCUyMGhlbGljb3B0ZXJ8ZW58MXx8fHwxNzk0MDM1NDg1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "Red and white jet plane",
+    "file": "unsplash:lzOWcx1L07g",
+    "page": "https://unsplash.com/photos/red-and-white-jet-plane-lzOWcx1L07g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1601573012243-d8e53615a347?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEJlZWNoY3JhZnR8ZW58MXx8fHwxNzk0MDM1NDg0fDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1601573012243-d8e53615a347?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEJlZWNoY3JhZnR8ZW58MXx8fHwxNzk0MDM1NDg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Yeka.UK on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Yeka.UK",
+    "year": 2020,
+    "how": "unsplash search: Beechcraft",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yekauk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lzOWcx1L07g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEJlZWNoY3JhZnR8ZW58MXx8fHwxNzk0MDM1NDg0fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "High-angle view of land",
+    "file": "unsplash:fExzb1tHPzE",
+    "page": "https://unsplash.com/photos/high-angle-view-of-land-fExzb1tHPzE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1527354372664-ae0112ab2c41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fENlc3NuYXxlbnwxfHx8fDE3OTQwMzU0ODN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1527354372664-ae0112ab2c41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fENlc3NuYXxlbnwxfHx8fDE3OTQwMzU0ODN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mark Jordan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mark Jordan",
+    "year": 2018,
+    "how": "unsplash search: Cessna",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@markjordan36?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/fExzb1tHPzE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fENlc3NuYXxlbnwxfHx8fDE3OTQwMzU0ODN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "A large jetliner flying through a cloudy blue sky",
+    "file": "unsplash:DRgYydGFq7Q",
+    "page": "https://unsplash.com/photos/a-large-jetliner-flying-through-a-cloudy-blue-sky-DRgYydGFq7Q?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1692210154575-3727a1849df0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fEJlZWNoY3JhZnR8ZW58MXx8fHwxNzk0MDM1NDg0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1692210154575-3727a1849df0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fEJlZWNoY3JhZnR8ZW58MXx8fHwxNzk0MDM1NDg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2133
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daniel Shapiro on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniel Shapiro",
+    "year": 2023,
+    "how": "unsplash search: Beechcraft",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dshap?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/DRgYydGFq7Q/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fEJlZWNoY3JhZnR8ZW58MXx8fHwxNzk0MDM1NDg0fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "An airplane flying in the sky",
+    "file": "unsplash:y_eAYVAbHkY",
+    "page": "https://unsplash.com/photos/an-airplane-flying-in-the-sky-y_eAYVAbHkY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1657409845132-6c3096724946?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fENlc3NuYXxlbnwxfHx8fDE3OTQwMzU0ODN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1657409845132-6c3096724946?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fENlc3NuYXxlbnwxfHx8fDE3OTQwMzU0ODN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Forsaken Films on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Forsaken Films",
+    "year": 2022,
+    "how": "unsplash search: Cessna",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@forsakenfilmslimited?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/y_eAYVAbHkY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fENlc3NuYXxlbnwxfHx8fDE3OTQwMzU0ODN8MA",
+    "track_pending": true
+   },
    {
     "shot": "main",
     "shows": "Textron building in Providence, Rhode Island",
@@ -77967,54 +77840,6 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "Textron Aviation Defense",
-    "file": "File:Textron Aviation Defense (25330962207).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Textron_Aviation_Defense_(25330962207).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Textron_Aviation_Defense_%2825330962207%29.jpg/1920px-Textron_Aviation_Defense_%2825330962207%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Textron_Aviation_Defense_%2825330962207%29.jpg/500px-Textron_Aviation_Defense_%2825330962207%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "aamanatullah, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "aamanatullah",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Textron Aviation"
-   },
-   {
-    "shot": "c3",
-    "shows": "Hybrid Fleet Campaign Event - USNAVSOUTH and Salvadoran Navy integrate Robotic and Autonomous Systems during FLEX 2025",
-    "file": "File:Hybrid Fleet Campaign Event - USNAVSOUTH and Salvadoran Navy integrate Robotic and Autonomous Systems during FLEX 2025 (9070758).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hybrid_Fleet_Campaign_Event_-_USNAVSOUTH_and_Salvadoran_Navy_integrate_Robotic_and_Autonomous_Systems_during_FLEX_2025_(9070758).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hybrid_Fleet_Campaign_Event_-_USNAVSOUTH_and_Salvadoran_Navy_integrate_Robotic_and_Autonomous_Systems_during_FLEX_2025_%289070758%29.jpg/1920px-Hybrid_Fleet_Campaign_Event_-_USNAVSOUTH_and_Salvadoran_Navy_integrate_Robotic_and_Autonomous_Systems_during_FLEX_2025_%289070758%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hybrid_Fleet_Campaign_Event_-_USNAVSOUTH_and_Salvadoran_Navy_integrate_Robotic_and_Autonomous_Systems_during_FLEX_2025_%289070758%29.jpg/500px-Hybrid_Fleet_Campaign_Event_-_USNAVSOUTH_and_Salvadoran_Navy_integrate_Robotic_and_Autonomous_Systems_during_FLEX_2025_%289070758%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Navy photo by Chief Petty Officer John Fischer, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Navy photo by Chief Petty Officer John Fischer",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Textron Systems"
-   },
-   {
     "shot": "c4",
     "shows": "Great Texas Airshow 2022 Static Displays220424-F-VZ183-01 RHODES",
     "file": "File:Great Texas Airshow 2022 Static Displays220424-F-VZ183-01 RHODES (52028183252).jpg",
@@ -78037,78 +77862,6 @@
     "year": 2022,
     "how": "Commons category",
     "category": "Textron AirLand Scorpion"
-   },
-   {
-    "shot": "c5",
-    "shows": "Aerosonde UAS returns to USS Hershel “Woody” Williams",
-    "file": "File:Aerosonde UAS returns to USS Hershel “Woody” Williams 6371732.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Aerosonde_UAS_returns_to_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371732.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aerosonde_UAS_returns_to_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371732.jpg/1920px-Aerosonde_UAS_returns_to_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371732.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Aerosonde_UAS_returns_to_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371732.jpg/500px-Aerosonde_UAS_returns_to_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371732.jpg",
-    "size": [
-     1920,
-     1371
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sgt. Megan Roses, II MEF Information Group, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Sgt. Megan Roses, II MEF Information Group",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Textron Aerosonde"
-   },
-   {
-    "shot": "c6",
-    "shows": "Aerosonde UAS to launch from USS Hershel “Woody” Williams",
-    "file": "File:Aerosonde UAS to launch from USS Hershel “Woody” Williams 6371728.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Aerosonde_UAS_to_launch_from_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371728.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Aerosonde_UAS_to_launch_from_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371728.jpg/1920px-Aerosonde_UAS_to_launch_from_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371728.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Aerosonde_UAS_to_launch_from_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371728.jpg/500px-Aerosonde_UAS_to_launch_from_USS_Hershel_%E2%80%9CWoody%E2%80%9D_Williams_6371728.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sgt. Megan Roses, II MEF Information Group, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Sgt. Megan Roses, II MEF Information Group",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Textron Aerosonde"
-   },
-   {
-    "shot": "c7",
-    "shows": "MTA Kew Gdns Union Tpke td ( ) 04",
-    "file": "File:MTA Kew Gdns Union Tpke td (2018-06-09) 04.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MTA_Kew_Gdns_Union_Tpke_td_(2018-06-09)_04.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MTA_Kew_Gdns_Union_Tpke_td_%282018-06-09%29_04.jpg/1920px-MTA_Kew_Gdns_Union_Tpke_td_%282018-06-09%29_04.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MTA_Kew_Gdns_Union_Tpke_td_%282018-06-09%29_04.jpg/500px-MTA_Kew_Gdns_Union_Tpke_td_%282018-06-09%29_04.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tdorante10",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Textron"
    },
    {
     "shot": "s8",
@@ -78155,32 +77908,9 @@
     "author": "AnonymousMouse321",
     "year": 2022,
     "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Textron Tower",
-    "file": "File:Textron Tower.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Textron_Tower.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Textron_Tower.jpg/1280px-Textron_Tower.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Textron_Tower.jpg/500px-Textron_Tower.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Farragutful",
-    "year": 2024,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TMO": {
   "name": "Thermo Fisher Scientific",
