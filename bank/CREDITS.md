@@ -2265,7 +2265,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## On (ONON)
 
-- On Cloud Running Shoes: Aw1805, CC BY-SA 4.0, via Wikimedia Commons. [On Cloud Running Shoes.jpg](https://commons.wikimedia.org/wiki/File:On_Cloud_Running_Shoes.jpg)
+- A pair of running shoes on a white background: Photo by mostafa mahmoudi on Unsplash. [W_uDEmTq0po](https://unsplash.com/photos/a-pair-of-running-shoes-on-a-white-background-W_uDEmTq0po?utm_source=investiq_image_bank&utm_medium=referral)
+- A pair of sneakers on display in a glass case: Photo by Zoshua Colah on Unsplash. [eMMLDnWoR_I](https://unsplash.com/photos/a-pair-of-sneakers-on-display-in-a-glass-case-eMMLDnWoR_I?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and white nike athletic shoes on brown sand: Photo by Miquel Parera on Unsplash. [xag0YpBqNfQ](https://unsplash.com/photos/black-and-white-nike-athletic-shoes-on-brown-sand-xag0YpBqNfQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and white shoes hanging on wire: Photo by Cody F on Unsplash. [GuSwYE4Op4g](https://unsplash.com/photos/black-and-white-shoes-hanging-on-wire-GuSwYE4Op4g?utm_source=investiq_image_bank&utm_medium=referral)
+- A pair of shoes sitting on the ground in the dark: Photo by David Moorhouse on Unsplash. [oe0EjjHz4HY](https://unsplash.com/photos/a-pair-of-shoes-sitting-on-the-ground-in-the-dark-oe0EjjHz4HY?utm_source=investiq_image_bank&utm_medium=referral)
+- People examining new shoes in boxes on the ground: Photo by Zero Vo on Unsplash. [bee-xLPXIVQ](https://unsplash.com/photos/people-examining-new-shoes-in-boxes-on-the-ground-bee-xLPXIVQ?utm_source=investiq_image_bank&utm_medium=referral)
+- People swimming on sea during daytime: Photo by Miha Rekar on Unsplash. [trrx1WN60Mc](https://unsplash.com/photos/people-swimming-on-sea-during-daytime-trrx1WN60Mc?utm_source=investiq_image_bank&utm_medium=referral)
+- A display case with a shoe on top of it: Photo by Zoshua Colah on Unsplash. [nCihUzKDCN0](https://unsplash.com/photos/a-display-case-with-a-shoe-on-top-of-it-nCihUzKDCN0?utm_source=investiq_image_bank&utm_medium=referral)
+- A person in muddy trail running shoes standing on a textured red sandstone rock: Photo by Lydia Verbeke on Unsplash. [3ixBaoXmm_8](https://unsplash.com/photos/person-in-muddy-shoes-on-sandstone-3ixBaoXmm_8?utm_source=investiq_image_bank&utm_medium=referral)
+- Pair of grey athletic shoes resting on black leather: Photo by N1CE on Unsplash. [d6A01mXazVQ](https://unsplash.com/photos/pair-of-grey-athletic-shoes-resting-on-black-leather-d6A01mXazVQ?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## ON Semiconductor (ON)
 
@@ -2432,7 +2441,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Cincinnati-procter-and-gamble-headquarters: Unknown author, CC BY 2.0, via Wikimedia Commons. [Cincinnati-procter-and-gamble-headquarters.jpg](https://commons.wikimedia.org/wiki/File:Cincinnati-procter-and-gamble-headquarters.jpg)
 - Procter and Gamble World Headquarters, Cincinnati, OH: Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons. [Procter and Gamble World Headquarters, Cincinnati, OH (32278862657).jpg](https://commons.wikimedia.org/wiki/File:Procter_and_Gamble_World_Headquarters,_Cincinnati,_OH_(32278862657).jpg)
-- Silver safety razor on a box of gillette platinum blades: Photo by David Trinks on Unsplash. [8bdlfR509cE](https://unsplash.com/photos/silver-safety-razor-on-a-box-of-gillette-platinum-blades-8bdlfR509cE?utm_source=investiq_image_bank&utm_medium=referral)
 - Procter & Gamble offices @ Passerelle de Tivoli @ Lancy: Guilhem Vellut from Annecy, France, CC BY 2.0, via Wikimedia Commons. [Procter & Gamble offices @ Passerelle de Tivoli @ Lancy (50520218407).jpg](https://commons.wikimedia.org/wiki/File:Procter_%26_Gamble_offices_@_Passerelle_de_Tivoli_@_Lancy_(50520218407).jpg)
 
 ## Progressive Corporation (PGR)
@@ -2474,11 +2482,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Computer Science Corporation building in Mindspace, Hyderabad: iMahesh, CC BY-SA 4.0, via Wikimedia Commons. [Computer Science Corporation building in Mindspace, Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:Computer_Science_Corporation_building_in_Mindspace,_Hyderabad.jpg)
 - Qualcomm Headquarters La Jolla: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Qualcomm Headquarters La Jolla.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_Headquarters_La_Jolla.jpg)
 - Close-up of a smartphone's internal qualcomm snapdragon processor: Photo by Phước Sang on Unsplash. [kTJkLP8B5So](https://unsplash.com/photos/close-up-of-a-smartphones-internal-qualcomm-snapdragon-processor-kTJkLP8B5So?utm_source=investiq_image_bank&utm_medium=referral)
+- Shiny purple objects and qualcomm logos with blue balloons: Photo by Brecht Corbeel on Unsplash. [eX_FDEyNtyQ](https://unsplash.com/photos/shiny-purple-objects-and-qualcomm-logos-with-blue-balloons-eX_FDEyNtyQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Qualcomm logo visible through a green abstract shape: Photo by Brecht Corbeel on Unsplash. [pDJ7gJ3iJ2w](https://unsplash.com/photos/qualcomm-logo-visible-through-a-green-abstract-shape-pDJ7gJ3iJ2w?utm_source=investiq_image_bank&utm_medium=referral)
 - Qualcomm headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Qualcomm headquarters.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_headquarters.jpg)
 - IAA Summit 2025, Munich ( - ): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [IAA Summit 2025, Munich (20250908-P1049666).jpg](https://commons.wikimedia.org/wiki/File:IAA_Summit_2025,_Munich_(20250908-P1049666).jpg)
 - Qualcomm Semiconductor Corporation Hsinchu: T Gordon Cheng, CC BY-SA 4.0, via Wikimedia Commons. [Qualcomm Semiconductor Corporation Hsinchu 2022-12-07.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_Semiconductor_Corporation_Hsinchu_2022-12-07.jpg)
 - Qualcomm office building, Cambridge Business Park - geograph.org.uk: David Smith, CC BY-SA 2.0, via Wikimedia Commons. [Qualcomm office building, Cambridge Business Park - geograph.org.uk - 7658868.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_office_building,_Cambridge_Business_Park_-_geograph.org.uk_-_7658868.jpg)
-- Qualcomm technologies building in Mindspace, Hyderabad: iMahesh, CC BY-SA 4.0, via Wikimedia Commons. [Qualcomm technologies building in Mindspace, Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:Qualcomm_technologies_building_in_Mindspace,_Hyderabad.jpg)
 
 ## Quest Diagnostics (DGX)
 

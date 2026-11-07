@@ -11,7 +11,7 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one."
  ],
  "updated": "2026-11-07",
- "photos": 2267,
+ "photos": 2276,
  "subjects": [
   {
    "id": "MMM",
@@ -5130,10 +5130,9 @@
     "ONON"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ONON.json",
-   "sector": "sector-consumer-discretionary",
-   "fill_from": "sector-consumer-discretionary"
+   "sector": "sector-consumer-discretionary"
   },
   {
    "id": "ON",
@@ -5467,7 +5466,7 @@
     "PG"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PG.json",
    "sector": "sector-staples",
    "fill_from": "sector-staples"
@@ -5584,10 +5583,9 @@
     "QCOM"
    ],
    "aliases": [],
-   "photos": 9,
+   "photos": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/QCOM.json",
-   "sector": "sector-tech",
-   "fill_from": "sector-tech"
+   "sector": "sector-tech"
   },
   {
    "id": "PWR",

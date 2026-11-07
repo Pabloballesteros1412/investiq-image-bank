@@ -6,7 +6,6 @@
   "QCOM"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Cristiano Amon, Qualcomm CEO (per Wikidata)",
@@ -79,6 +78,42 @@
    "source": "https://unsplash.com/photos/close-up-of-a-smartphones-internal-qualcomm-snapdragon-processor-kTJkLP8B5So?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Shiny purple objects and qualcomm logos with blue balloons",
+   "url": "https://images.unsplash.com/photo-1782512542339-548f8a5c7c8e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UXVhbGNvbW18ZW58MXx8fHwxNzk0MDI4MjY4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1782512542339-548f8a5c7c8e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UXVhbGNvbW18ZW58MXx8fHwxNzk0MDI4MjY4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1152
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Brecht Corbeel on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/shiny-purple-objects-and-qualcomm-logos-with-blue-balloons-eX_FDEyNtyQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Qualcomm logo visible through a green abstract shape",
+   "url": "https://images.unsplash.com/photo-1782513758946-3d0717f94d04?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UXVhbGNvbW18ZW58MXx8fHwxNzk0MDI4MjY4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1782513758946-3d0717f94d04?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UXVhbGNvbW18ZW58MXx8fHwxNzk0MDI4MjY4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1152
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Brecht Corbeel on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/qualcomm-logo-visible-through-a-green-abstract-shape-pDJ7gJ3iJ2w?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Qualcomm headquarters",
    "url": "https://upload.wikimedia.org/wikipedia/commons/archive/2/25/20160126101048%21Qualcomm_headquarters.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/2/25/20160126101048%21Qualcomm_headquarters.jpg",
@@ -148,24 +183,6 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Qualcomm_office_building,_Cambridge_Business_Park_-_geograph.org.uk_-_7658868.jpg",
-   "plain": true
-  },
-  {
-   "shows": "Qualcomm technologies building in Mindspace, Hyderabad",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qualcomm_technologies_building_in_Mindspace%2C_Hyderabad.jpg/1920px-Qualcomm_technologies_building_in_Mindspace%2C_Hyderabad.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qualcomm_technologies_building_in_Mindspace%2C_Hyderabad.jpg/500px-Qualcomm_technologies_building_in_Mindspace%2C_Hyderabad.jpg",
-   "size": [
-    1920,
-    1536
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "iMahesh, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Qualcomm_technologies_building_in_Mindspace,_Hyderabad.jpg",
    "plain": true
   }
  ]
