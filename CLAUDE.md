@@ -151,11 +151,20 @@ Decisions (Pablo, 4 Nov 2026):
   Casey's -> "Casey's General Store"; Chipotle -> "Chipotle Mexican Grill"). Unsplash still finds nothing usable
   for ASML, BlackRock (an Irish castle), UnitedHealth, Church & Dwight, CME.
 - Index: 2,165 photos (1,809 Commons, 1,390 of them plain; 356 Unsplash). Companies with 0 / 1 / 2 / 3+ photos:
-  141 / 85 / 53 / 304 (before: 362 / 138 / 53 / 30).
+  141 / 85 / 53 / 304 (before: 362 / 138 / 53 / 30). PR #2 merged (6 Nov night).
+- **Brand pass finished** (7 Nov morning): all 238 brands.json companies, in 2-hour pieces (two container
+  restarts cut pieces; nothing lost: the manifest is saved per subject and answers are cached). Every brand photo
+  graded by eye. More ambiguous terms fixed after looking: McCormick (McCormick Place) -> spices; On ("On
+  Running" = any runner) -> shoe models; Gillette (Gillette Stadium) -> "Gillette razor"; Snapdragon (the
+  flower) -> "Snapdragon processor"; Roku (Roku gin) -> "Roku TV". Rule of thumb: a brand that is also a
+  common word, place or person needs a product word next to it.
+- Index: 2,267 photos (1,807 Commons, 1,388 of them plain; 460 Unsplash). Companies with 0 / 1 / 2 / 3+ photos:
+  135 / 81 / 58 / 309. 42 Unsplash download counts pending (the next build sends them first).
 
 ## Next work (in order)
-1. Topics and sectors are done (4-10 published each). Brand pass: ~125 brand companies left (H to Z), in 2-hour
-   pieces (`--only` = the ones not yet in a piece log) or all at once when production is approved. Then grade; look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
+1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
+   terms fixed after their first search (Abbott, Cisco, Casey's, Chipotle, McCormick, On, P&G, Qualcomm, Roku)
+   would find better photos for them. Then grade; look at everything by eye (`python review.py sheets --stock`: grade 1-2 hides a photo, and
    wrong brand terms get fixed in `brands.json`), fix topic searches in `catalog.json`, grade any new Commons
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
    **Unsplash production**: applied on 5 Nov (in review). Once approved (`X-Ratelimit-Limit: 1000`), the company

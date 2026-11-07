@@ -3188,7 +3188,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Waste Management (WM)
 
-- A yellow truck dumping trash at a facility: Photo by Load It Up Dumpster Rental, LLC on Unsplash. [ng2_GHL76RQ](https://unsplash.com/photos/a-yellow-truck-dumping-trash-at-a-facility-ng2_GHL76RQ?utm_source=investiq_image_bank&utm_medium=referral)
 - First City Tower, which has the headquarters of Waste Management, Inc: WhisperToMe, public domain, via Wikimedia Commons. [FirstCityTowerWasteManagement.JPG](https://commons.wikimedia.org/wiki/File:FirstCityTowerWasteManagement.JPG)
 - Waste Management Truck Ottawa: Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons. [Waste Management Truck Ottawa.jpg](https://commons.wikimedia.org/wiki/File:Waste_Management_Truck_Ottawa.jpg)
 - Green WM trash container in Durham: Ildar Sagdejev ( Specious ), CC BY-SA 4.0, via Wikimedia Commons. [2008-07-12 Green WM trash container in Durham.jpg](https://commons.wikimedia.org/wiki/File:2008-07-12_Green_WM_trash_container_in_Durham.jpg)
@@ -3208,15 +3207,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Wells Fargo (WFC)
 
 - Wells Fargo Bank in Cheyenne Wyoming: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Wells Fargo Bank in Cheyenne Wyoming (54000011678).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_in_Cheyenne_Wyoming_(54000011678).jpg)
-- White concrete building during daytime: Photo by joão vincient lewis on Unsplash. [B5y9Eie2BAw](https://unsplash.com/photos/white-concrete-building-during-daytime-B5y9Eie2BAw?utm_source=investiq_image_bank&utm_medium=referral)
-- A large building with a sign on the front of it: Photo by Arne Tho on Unsplash. [nbsVscTx2Kk](https://unsplash.com/photos/a-large-building-with-a-sign-on-the-front-of-it-nbsVscTx2Kk?utm_source=investiq_image_bank&utm_medium=referral)
-- White and black concrete building under blue sky during daytime: Photo by Nick Sarvari on Unsplash. [lulXy-BWMFU](https://unsplash.com/photos/white-and-black-concrete-building-under-blue-sky-during-daytime-lulXy-BWMFU?utm_source=investiq_image_bank&utm_medium=referral)
 - Wells Fargo ATM machines: Photo by Erol Ahmed on Unsplash. [ln8zRaM3VmI](https://unsplash.com/photos/wells-fargo-atm-machines-ln8zRaM3VmI?utm_source=investiq_image_bank&utm_medium=referral)
-- A building with a cloudy sky in the background: Photo by Robby McCullough on Unsplash. [M4nbJokhCJs](https://unsplash.com/photos/a-building-with-a-cloudy-sky-in-the-background-M4nbJokhCJs?utm_source=investiq_image_bank&utm_medium=referral)
-- A building with a clock on the front of it: Photo by Tareq Ismail on Unsplash. [PCjomzEK7uI](https://unsplash.com/photos/a-building-with-a-clock-on-the-front-of-it-PCjomzEK7uI?utm_source=investiq_image_bank&utm_medium=referral)
 - A tall building with a wells fargo sign on top: Photo by Simon Ray on Unsplash. [IckPn_sU_XE](https://unsplash.com/photos/a-tall-building-with-a-wells-fargo-sign-on-top-IckPn_sU_XE?utm_source=investiq_image_bank&utm_medium=referral)
 - A large red and yellow horse drawn carriage: Photo by Hannah Wernecke on Unsplash. [jaHP8ldOW8M](https://unsplash.com/photos/a-large-red-and-yellow-horse-drawn-carriage-jaHP8ldOW8M?utm_source=investiq_image_bank&utm_medium=referral)
-- A very tall building with lots of windows: Photo by Franky Magana on Unsplash. [uktZVp3wIB0](https://unsplash.com/photos/a-very-tall-building-with-lots-of-windows-uktZVp3wIB0?utm_source=investiq_image_bank&utm_medium=referral)
+- Wells Fargo - Philadelphia: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Wells Fargo - Philadelphia (53590617700).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_-_Philadelphia_(53590617700).jpg)
+- Wells Fargo Bank Branch West Miami: Phillip Pessar, CC BY 2.0, via Wikimedia Commons. [Wells Fargo Bank Branch West Miami (49855010962).jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_Branch_West_Miami_(49855010962).jpg)
+- Palm Springs, CA, 2024 - 023: Another Believer, CC BY-SA 4.0, via Wikimedia Commons. [Palm Springs, CA, 2024 - 023.jpg](https://commons.wikimedia.org/wiki/File:Palm_Springs,_CA,_2024_-_023.jpg)
+- Wells Fargo Center St. Paul 5: AlexiusHoratius ( talk · contribs ), CC BY-SA 3.0, via Wikimedia Commons. [Wells Fargo Center St. Paul 5.jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_St._Paul_5.jpg)
+- Wells Fargo Center from Foshay - Flickr - Mulad: Michael Hicks from Saint Paul, MN, USA, CC BY 2.0, via Wikimedia Commons. [Wells Fargo Center from Foshay - Flickr - Mulad.jpg](https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_from_Foshay_-_Flickr_-_Mulad.jpg)
 
 ## Western Digital (WDC)
 
@@ -3294,15 +3292,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Yum! Brands (YUM)
 
 - A kfc sign with a man's face on it: Photo by Kim Wine on Unsplash. [F6UOa4Pe8lg](https://unsplash.com/photos/a-kfc-sign-with-a-mans-face-on-it-F6UOa4Pe8lg?utm_source=investiq_image_bank&utm_medium=referral)
-- KFC fries and chicken lot: Photo by Aleks Dorohovich on Unsplash. [HYpXP6Zk1dw](https://unsplash.com/photos/kfc-fries-and-chicken-lot-HYpXP6Zk1dw?utm_source=investiq_image_bank&utm_medium=referral)
 - A picture of a man on the side of a building: Photo by Spencer Scott Pugh on Unsplash. [4Srz1MMieRk](https://unsplash.com/photos/a-picture-of-a-man-on-the-side-of-a-building-4Srz1MMieRk?utm_source=investiq_image_bank&utm_medium=referral)
-- A couple of trays of food on a table: Photo by Karlo King on Unsplash. [WqylFQacnqE](https://unsplash.com/photos/a-couple-of-trays-of-food-on-a-table-WqylFQacnqE?utm_source=investiq_image_bank&utm_medium=referral)
-- KFC hamburger and box: Photo by Nik on Unsplash. [xn2DIp6Z8Jk](https://unsplash.com/photos/kfc-hamburger-and-box-xn2DIp6Z8Jk?utm_source=investiq_image_bank&utm_medium=referral)
-- KFC emblem: Photo by Maxime Lebrun on Unsplash. [HqYWQo7l49w](https://unsplash.com/photos/kfc-emblem-HqYWQo7l49w?utm_source=investiq_image_bank&utm_medium=referral)
-- A building with trees in front of it: Photo by Sven Piper on Unsplash. [ZdcSeArYujo](https://unsplash.com/photos/a-building-with-trees-in-front-of-it-ZdcSeArYujo?utm_source=investiq_image_bank&utm_medium=referral)
-- A man riding a bike past a pizza hut: Photo by Parham Barati on Unsplash. [ux-4hsd7dVY](https://unsplash.com/photos/a-man-riding-a-bike-past-a-pizza-hut-ux-4hsd7dVY?utm_source=investiq_image_bank&utm_medium=referral)
 - A man walking past a pizza hut at night: Photo by Long Huang on Unsplash. [i897QupsFJY](https://unsplash.com/photos/a-man-walking-past-a-pizza-hut-at-night-i897QupsFJY?utm_source=investiq_image_bank&utm_medium=referral)
-- A building with a pizza hut lit up at night: Photo by famingjia inventor on Unsplash. [hLKf8J8qAMg](https://unsplash.com/photos/a-building-with-a-pizza-hut-lit-up-at-night-hLKf8J8qAMg?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Zebra Technologies (ZBRA)
 
@@ -3321,9 +3312,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Eric S. Yuan, Zoom CEO (per Wikidata): TechCrunch, CC BY 4.0, via Wikimedia Commons. [Eric Yuan 2025 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Eric_Yuan_2025_(cropped).jpg)
 - Zoom HQ, Downtown San Jose ( ): Cristiano Tomás, CC BY-SA 4.0, via Wikimedia Commons. [Zoom HQ, Downtown San Jose (cropped).jpg](https://commons.wikimedia.org/wiki/File:Zoom_HQ,_Downtown_San_Jose_(cropped).jpg)
 - Macbook pro displaying group of people: Photo by Chris Montgomery on Unsplash. [smgTvepind4](https://unsplash.com/photos/macbook-pro-displaying-group-of-people-smgTvepind4?utm_source=investiq_image_bank&utm_medium=referral)
-- A laptop displaying a video conference with many people beside a coffee mug: Photo by Compare Fibre on Unsplash. [fRGoTJFQAHM](https://unsplash.com/photos/laptop-video-conference-and-coffee-mug-fRGoTJFQAHM?utm_source=investiq_image_bank&utm_medium=referral)
-- Man in blue dress shirt smiling beside woman in black and red floral dress: Photo by visuals on Unsplash. [ufK-deiLqY8](https://unsplash.com/photos/man-in-blue-dress-shirt-smiling-beside-woman-in-black-and-red-floral-dress-ufK-deiLqY8?utm_source=investiq_image_bank&utm_medium=referral)
-- Man in black suit jacket smiling: Photo by visuals on Unsplash. [Y4qzW3AsvqI](https://unsplash.com/photos/man-in-black-suit-jacket-smiling-Y4qzW3AsvqI?utm_source=investiq_image_bank&utm_medium=referral)
 - A close up of a cell phone with the zoom logo on it: Photo by Mourizal Zativa on Unsplash. [PNUoryUKi5g](https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-the-zoom-logo-on-it-PNUoryUKi5g?utm_source=investiq_image_bank&utm_medium=referral)
 - Zoom headquarters on Almaden Boulevard in San Jose, California. Photographed on June 21, 2020 by user Coolcaesar.: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Zoomheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Zoomheadquarters.jpg)
 

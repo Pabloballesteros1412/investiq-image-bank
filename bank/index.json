@@ -11,7 +11,7 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one."
  ],
  "updated": "2026-11-07",
- "photos": 2279,
+ "photos": 2267,
  "subjects": [
   {
    "id": "MMM",
@@ -7295,7 +7295,7 @@
     "WM"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 6,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WM.json",
    "sector": "sector-industrials",
    "fill_from": "sector-industrials"
@@ -7334,9 +7334,10 @@
     "WFC"
    ],
    "aliases": [],
-   "photos": 10,
+   "photos": 9,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WFC.json",
-   "sector": "sector-financials"
+   "sector": "sector-financials",
+   "fill_from": "sector-financials"
   },
   {
    "id": "WELL",
@@ -7501,9 +7502,10 @@
     "YUM"
    ],
    "aliases": [],
-   "photos": 10,
+   "photos": 3,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/YUM.json",
-   "sector": "sector-consumer-discretionary"
+   "sector": "sector-consumer-discretionary",
+   "fill_from": "sector-consumer-discretionary"
   },
   {
    "id": "ZBRA",
@@ -7552,7 +7554,7 @@
     "ZM"
    ],
    "aliases": [],
-   "photos": 8,
+   "photos": 5,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ZM.json",
    "sector": "sector-tech",
    "fill_from": "sector-tech"

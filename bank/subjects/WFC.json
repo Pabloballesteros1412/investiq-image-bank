@@ -6,6 +6,7 @@
   "WFC"
  ],
  "sector": "sector-financials",
+ "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Wells Fargo Bank in Cheyenne Wyoming",
@@ -25,60 +26,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_in_Cheyenne_Wyoming_(54000011678).jpg"
   },
   {
-   "shows": "White concrete building during daytime",
-   "url": "https://images.unsplash.com/photo-1616482789264-4d40fc690a61?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1616482789264-4d40fc690a61?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by joão vincient lewis on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@xiixlix?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/white-concrete-building-during-daytime-B5y9Eie2BAw?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A large building with a sign on the front of it",
-   "url": "https://images.unsplash.com/photo-1712146819981-feb7ee893ce9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1712146819981-feb7ee893ce9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1800
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Arne Tho on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@arnethoo?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-large-building-with-a-sign-on-the-front-of-it-nbsVscTx2Kk?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "White and black concrete building under blue sky during daytime",
-   "url": "https://images.unsplash.com/photo-1588592378201-4a1aee5ab493?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1588592378201-4a1aee5ab493?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Nick Sarvari on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@nicksarvari?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/white-and-black-concrete-building-under-blue-sky-during-daytime-lulXy-BWMFU?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
    "shows": "Wells Fargo ATM machines",
    "url": "https://images.unsplash.com/photo-1545854027-ba3d36e136c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1545854027-ba3d36e136c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -95,42 +42,6 @@
    "author_url": "https://unsplash.com/@erol?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/wells-fargo-atm-machines-ln8zRaM3VmI?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A building with a cloudy sky in the background",
-   "url": "https://images.unsplash.com/photo-1673896654352-9e5d1a0844d7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1673896654352-9e5d1a0844d7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Robby McCullough on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@mybbor?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-building-with-a-cloudy-sky-in-the-background-M4nbJokhCJs?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A building with a clock on the front of it",
-   "url": "https://images.unsplash.com/photo-1680672306353-4b3ae6523e56?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1680672306353-4b3ae6523e56?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8V2VsbHMlMjBGYXJnb3xlbnwxfHx8fDE3OTQwNDI2ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2000,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Tareq Ismail on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@tareqismail?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-building-with-a-clock-on-the-front-of-it-PCjomzEK7uI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A tall building with a wells fargo sign on top",
@@ -169,22 +80,94 @@
    "source": "https://unsplash.com/photos/a-large-red-and-yellow-horse-drawn-carriage-jaHP8ldOW8M?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "A very tall building with lots of windows",
-   "url": "https://images.unsplash.com/photo-1650149174974-2fef0ad74dc9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFdlbGxzJTIwRmFyZ298ZW58MXx8fHwxNzk0MDQyNjg3fDA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1650149174974-2fef0ad74dc9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFdlbGxzJTIwRmFyZ298ZW58MXx8fHwxNzk0MDQyNjg3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "Wells Fargo - Philadelphia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wells_Fargo_-_Philadelphia_%2853590617700%29.jpg/1920px-Wells_Fargo_-_Philadelphia_%2853590617700%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wells_Fargo_-_Philadelphia_%2853590617700%29.jpg/500px-Wells_Fargo_-_Philadelphia_%2853590617700%29.jpg",
    "size": [
-    2001,
-    1501
+    1920,
+    1920
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Franky Magana on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@frankyisfranky?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-very-tall-building-with-lots-of-windows-uktZVp3wIB0?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "ajay_suresh, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_-_Philadelphia_(53590617700).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wells Fargo Bank Branch West Miami",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wells_Fargo_Bank_Branch_West_Miami_%2849855010962%29.jpg/1920px-Wells_Fargo_Bank_Branch_West_Miami_%2849855010962%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Wells_Fargo_Bank_Branch_West_Miami_%2849855010962%29.jpg/500px-Wells_Fargo_Bank_Branch_West_Miami_%2849855010962%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Bank_Branch_West_Miami_(49855010962).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Palm Springs, CA, 2024 - 023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palm_Springs%2C_CA%2C_2024_-_023.jpg/1920px-Palm_Springs%2C_CA%2C_2024_-_023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Palm_Springs%2C_CA%2C_2024_-_023.jpg/500px-Palm_Springs%2C_CA%2C_2024_-_023.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Another Believer, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Palm_Springs,_CA,_2024_-_023.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wells Fargo Center St. Paul 5",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wells_Fargo_Center_St._Paul_5.jpg/1280px-Wells_Fargo_Center_St._Paul_5.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wells_Fargo_Center_St._Paul_5.jpg/500px-Wells_Fargo_Center_St._Paul_5.jpg",
+   "size": [
+    1280,
+    1595
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "AlexiusHoratius ( talk · contribs ), CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_St._Paul_5.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wells Fargo Center from Foshay - Flickr - Mulad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wells_Fargo_Center_from_Foshay_-_Flickr_-_Mulad.jpg/1280px-Wells_Fargo_Center_from_Foshay_-_Flickr_-_Mulad.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Wells_Fargo_Center_from_Foshay_-_Flickr_-_Mulad.jpg/500px-Wells_Fargo_Center_from_Foshay_-_Flickr_-_Mulad.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Hicks from Saint Paul, MN, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_from_Foshay_-_Flickr_-_Mulad.jpg",
+   "plain": true
   }
  ]
 }
