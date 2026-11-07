@@ -6,8 +6,41 @@
   "META"
  ],
  "sector": "sector-communication",
- "fill_from": "sector-communication",
  "photos": [
+  {
+   "shows": "Meta i Almedalen",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Meta_i_Almedalen.jpeg/1920px-Meta_i_Almedalen.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Meta_i_Almedalen.jpeg/500px-Meta_i_Almedalen.jpeg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "VisbyStar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_i_Almedalen.jpeg"
+  },
+  {
+   "shows": "Meta Quest 3 front View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Meta_Quest_3_front_View.jpg/1920px-Meta_Quest_3_front_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Meta_Quest_3_front_View.jpg/500px-Meta_Quest_3_front_View.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy.wonder.cohen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_front_View.jpg"
+  },
   {
    "shows": "Meta Quest 3 display unit",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Meta_Quest_3_display_unit.jpg/1920px-Meta_Quest_3_display_unit.jpg",
@@ -131,6 +164,24 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Facebook_campus_in_Menlo_Park,_September_2019.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3S Display Unit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Meta_Quest_3S_Display_Unit.jpg/1920px-Meta_Quest_3S_Display_Unit.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Meta_Quest_3S_Display_Unit.jpg/500px-Meta_Quest_3S_Display_Unit.jpg",
+   "size": [
+    1920,
+    1371
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WiiBoi, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3S_Display_Unit.jpg",
    "plain": true
   }
  ]

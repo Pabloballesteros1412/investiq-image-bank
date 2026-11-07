@@ -44,11 +44,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Adobe Inc. (ADBE)
 
+- Adobe Systems West Tower, San Jose, CA, SW corner: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [Adobe Systems West Tower, San Jose, CA, SW corner 2024-02-28.jpg](https://commons.wikimedia.org/wiki/File:Adobe_Systems_West_Tower,_San_Jose,_CA,_SW_corner_2024-02-28.jpg)
+- Adobe World Headquarters: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Adobe World Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Adobe_World_Headquarters.jpg)
 - Adobe, Lehi: Chad Davis from Minneapolis, United States, CC BY 2.0, via Wikimedia Commons. [Adobe, Lehi (53560419845).jpg](https://commons.wikimedia.org/wiki/File:Adobe,_Lehi_(53560419845).jpg)
 - Shantanu Narayen - the CEO of Adobe Inc: Brian Cummings Photography, CC BY-SA 4.0, via Wikimedia Commons. [Shantanu Narayen - the CEO of Adobe Inc.jpg](https://commons.wikimedia.org/wiki/File:Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg)
 - Adobe Systems Ottawa office: Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons. [Adobe Systems Ottawa office.jpg](https://commons.wikimedia.org/wiki/File:Adobe_Systems_Ottawa_office.jpg)
 - Adobe CEO Shantanu Narayen: Jolie O'Dell, CC BY 2.0, via Wikimedia Commons. [Adobe CEO Shantanu Narayen.jpg](https://commons.wikimedia.org/wiki/File:Adobe_CEO_Shantanu_Narayen.jpg)
 - 1540 Bwy W45 St Adobe entry 2021 jeh: Jim.henderson, CC BY 4.0, via Wikimedia Commons. [1540 Bwy W45 St Adobe entry 2021 jeh.jpg](https://commons.wikimedia.org/wiki/File:1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg)
+- Adobe India office: Rashid Jorvee, CC BY-SA 4.0, via Wikimedia Commons. [Adobe India office.jpg](https://commons.wikimedia.org/wiki/File:Adobe_India_office.jpg)
+- Adobe World Headquarters 1: F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [Adobe World Headquarters 1 2015-01-03.JPG](https://commons.wikimedia.org/wiki/File:Adobe_World_Headquarters_1_2015-01-03.JPG)
+- Adobe in San Jose: Eliazar Parra Cardenas from Guadalajara, Mexico, CC BY 2.0, via Wikimedia Commons. [Adobe in San Jose.jpg](https://commons.wikimedia.org/wiki/File:Adobe_in_San_Jose.jpg)
 
 ## Advanced Micro Devices (AMD)
 
@@ -300,6 +305,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - ASML headquarters Veldhoven: A ansems, public domain, via Wikimedia Commons. [ASML headquarters Veldhoven.jpg](https://commons.wikimedia.org/wiki/File:ASML_headquarters_Veldhoven.jpg)
 - ASML 8 Tower: Johfrael, CC BY 3.0, via Wikimedia Commons. [ASML 8 Tower.jpg](https://commons.wikimedia.org/wiki/File:ASML_8_Tower.jpg)
 - ASML Gebouw3-001b: ReynaersAlu1, CC BY-SA 4.0, via Wikimedia Commons. [124901 ASML Gebouw3-001b (1).jpg](https://commons.wikimedia.org/wiki/File:124901_ASML_Gebouw3-001b_(1).jpg)
+- Veldhoven ASML: HHahn, CC BY-SA 3.0, via Wikimedia Commons. [20080825 Veldhoven ASML DSCF0349.jpg](https://commons.wikimedia.org/wiki/File:20080825_Veldhoven_ASML_DSCF0349.jpg)
 
 ## AstraZeneca (AZN)
 
@@ -443,10 +449,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## BlackRock (BLK)
 
+- 50 Hudson Yards: Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [50 Hudson Yards (55379880087).jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_(55379880087).jpg)
+- 50 Hudson Yards April 2021: Percival Kestreltail, CC BY-SA 3.0, via Wikimedia Commons. [50 Hudson Yards April 2021.jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_April_2021.jpg)
 - 50 Hudson Yards 003: Kidfly182, CC BY 4.0, via Wikimedia Commons. [50 Hudson Yards 003.jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_003.jpg)
 - Hudson Yards from Hudson Commons (95131p): Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons. [Hudson Yards from Hudson Commons (95131p).jpg](https://commons.wikimedia.org/wiki/File:Hudson_Yards_from_Hudson_Commons_(95131p).jpg)
 - BlackRock hq51 jeh: Jim.henderson, public domain, via Wikimedia Commons. [BlackRock hq51 jeh.JPG](https://commons.wikimedia.org/wiki/File:BlackRock_hq51_jeh.JPG)
 - Black-rock-hq: Americasroof ( talk ), CC BY-SA 3.0, via Wikimedia Commons. [Black-rock-hq.jpg](https://commons.wikimedia.org/wiki/File:Black-rock-hq.jpg)
+- 50 Hudson Yards Ground Level: Kentuckyfriedtucker, CC0, via Wikimedia Commons. [50 Hudson Yards Ground Level.jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_Ground_Level.jpg)
+- 50 Hudson Yards: Kidfly182, CC BY-SA 4.0, via Wikimedia Commons. [50 Hudson Yards.jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards.jpg)
+- 50 Hudson Yards SE corner Aug 2021: Percival Kestreltail, CC BY-SA 3.0, via Wikimedia Commons. [50 Hudson Yards SE corner Aug 2021.jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_SE_corner_Aug_2021.jpg)
+- 50 Hudson Yards ( ): Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [50 Hudson Yards (55379880087) (cropped).jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_(55379880087)_(cropped).jpg)
 
 ## Blackstone Inc. (BX)
 
@@ -515,10 +527,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Broadcom (AVGO)
 
+- Broadcom BCM94331PCIEBT4 - Broadcom BCM4331KML1G-0958: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Broadcom BCM94331PCIEBT4 - Broadcom BCM4331KML1G-0958.jpg](https://commons.wikimedia.org/wiki/File:Broadcom_BCM94331PCIEBT4_-_Broadcom_BCM4331KML1G-0958.jpg)
+- Corporate headquarters of Broadcom: Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons. [Broadcomheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Broadcomheadquarters.jpg)
+- Broadcom: SNR NAMBU, CC BY-SA 3.0, via Wikimedia Commons. [Broadcom.jpg](https://commons.wikimedia.org/wiki/File:Broadcom.jpg)
 - Hock Tan 2022: Greg Bezat, d/b/a Bezat Video Group, CC BY-SA 4.0, via Wikimedia Commons. [Hock Tan 2022.png](https://commons.wikimedia.org/wiki/File:Hock_Tan_2022.png)
 - Broadcom BCM92046MPCIE-6969: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Broadcom BCM92046MPCIE-6969.jpg](https://commons.wikimedia.org/wiki/File:Broadcom_BCM92046MPCIE-6969.jpg)
 - VMware HQ 3405 Hillview: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [VMware HQ 3405 Hillview.JPG](https://commons.wikimedia.org/wiki/File:VMware_HQ_3405_Hillview.JPG)
 - Broadcom Inc: Fostera12, CC BY-SA 4.0, via Wikimedia Commons. [Broadcom Inc.jpg](https://commons.wikimedia.org/wiki/File:Broadcom_Inc.jpg)
+- Speedport 500V - board - Broadcom BCM6348KPBG-0319: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Speedport 500V - board - Broadcom BCM6348KPBG-0319.jpg](https://commons.wikimedia.org/wiki/File:Speedport_500V_-_board_-_Broadcom_BCM6348KPBG-0319.jpg)
+- Nexus 7 - board - Broadcom BCM4751FBG-4864: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Nexus 7 (2012) - board - Broadcom BCM4751FBG-4864.jpg](https://commons.wikimedia.org/wiki/File:Nexus_7_(2012)_-_board_-_Broadcom_BCM4751FBG-4864.jpg)
+- Broadcom BCM94331PCIEDUAL - BCM4331KMLG-0218: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Broadcom BCM94331PCIEDUAL - BCM4331KMLG-0218.jpg](https://commons.wikimedia.org/wiki/File:Broadcom_BCM94331PCIEDUAL_-_BCM4331KMLG-0218.jpg)
 
 ## Brown–Forman (BF-B)
 
@@ -668,6 +686,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Chevron Corporation (CVX)
 
+- Chevron oil tanker in Richmond, CA: Dreamyshade, CC BY-SA 4.0, via Wikimedia Commons. [Chevron oil tanker in Richmond, CA.jpg](https://commons.wikimedia.org/wiki/File:Chevron_oil_tanker_in_Richmond,_CA.jpg)
+- Chevron Gas Station in San Francisco: Thomasfan1916, CC BY-SA 4.0, via Wikimedia Commons. [Chevron Gas Station in San Francisco.jpg](https://commons.wikimedia.org/wiki/File:Chevron_Gas_Station_in_San_Francisco.jpg)
+- Detail of Richmond Chevron Refinery with backdrop of San Pablo Bay: Bastique, CC BY-SA 4.0, via Wikimedia Commons. [Detail of Richmond Chevron Refinery with backdrop of San Pablo Bay.jpg](https://commons.wikimedia.org/wiki/File:Detail_of_Richmond_Chevron_Refinery_with_backdrop_of_San_Pablo_Bay.jpg)
 - A Texaco gas station canopy illuminated at night with bright overhead lights: Photo by Luis Pérez on Unsplash. [9YRZ6sGR0UA](https://unsplash.com/photos/texaco-gas-station-canopy-at-night-9YRZ6sGR0UA?utm_source=investiq_image_bank&utm_medium=referral)
 - American flag and texaco sign against blue sky: Photo by Erik Esly on Unsplash. [HGrQeZ325FU](https://unsplash.com/photos/american-flag-and-texaco-sign-against-blue-sky-HGrQeZ325FU?utm_source=investiq_image_bank&utm_medium=referral)
 - Chevron Gas Station of Berkeley: Thomasfan1916, CC BY-SA 4.0, via Wikimedia Commons. [Chevron Gas Station of Berkeley.jpg](https://commons.wikimedia.org/wiki/File:Chevron_Gas_Station_of_Berkeley.jpg)
@@ -834,6 +855,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Costco (COST)
 
+- Costco Auckland: Prosperosity, CC BY 4.0, via Wikimedia Commons. [Costco Auckland 20241230 180312.jpg](https://commons.wikimedia.org/wiki/File:Costco_Auckland_20241230_180312.jpg)
+- Costco Wholesale in Federal Way.: Chris Light, CC BY-SA 4.0, via Wikimedia Commons. [Costco 9821.jpg](https://commons.wikimedia.org/wiki/File:Costco_9821.jpg)
 - Costco Hangzhou Store: Windmemories, CC BY-SA 4.0, via Wikimedia Commons. [20260918 Costco Hangzhou Store.jpg](https://commons.wikimedia.org/wiki/File:20260918_Costco_Hangzhou_Store.jpg)
 - A building with a sign that says costco whole sale: Photo by Omar Abascal on Unsplash. [9Um7Huux0as](https://unsplash.com/photos/a-building-with-a-sign-that-says-costco-whole-sale-9Um7Huux0as?utm_source=investiq_image_bank&utm_medium=referral)
 - Costco wholesale building sign against a blue sky: Photo by SeenHow on Unsplash. [dwIMy7SHQNY](https://unsplash.com/photos/costco-wholesale-building-sign-against-a-blue-sky-dwIMy7SHQNY?utm_source=investiq_image_bank&utm_medium=referral)
@@ -842,8 +865,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Costco hot dog Taichung Taiwan (vertical): Saimmx, CC0, via Wikimedia Commons. [20250523 192723 Costco hot dog Taichung Taiwan (vertical).jpg](https://commons.wikimedia.org/wiki/File:20250523_192723_Costco_hot_dog_Taichung_Taiwan_(vertical).jpg)
 - COSTCO gas station: Wikideas1, CC0, via Wikimedia Commons. [COSTCO gas station.jpg](https://commons.wikimedia.org/wiki/File:COSTCO_gas_station.jpg)
 - Issaquah aerial, April 2023: Spicypepper999, CC0, via Wikimedia Commons. [Issaquah aerial, April 2023.png](https://commons.wikimedia.org/wiki/File:Issaquah_aerial,_April_2023.png)
-- Costco headquarters in Issaquah, Washington. Photographed by user Coolcaesar on May 30, 2016.: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Costcoheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Costcoheadquarters.jpg)
-- Entrance to Costco store with ID scanners installed: Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons. [Entrance to Costco store with ID scanners installed.jpg](https://commons.wikimedia.org/wiki/File:Entrance_to_Costco_store_with_ID_scanners_installed.jpg)
 
 ## Coupang (CPNG)
 
@@ -1347,10 +1368,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## GE Aerospace (GE)
 
+- General Electric GE90 right engine on a 773ER: Bernd K, CC BY-SA 4.0, via Wikimedia Commons. [General Electric GE90 right engine on a 773ER.jpg](https://commons.wikimedia.org/wiki/File:General_Electric_GE90_right_engine_on_a_773ER.jpg)
+- General Electric GE90-115B: Alston argodi, CC BY-SA 4.0, via Wikimedia Commons. [General Electric GE90-115B.jpg](https://commons.wikimedia.org/wiki/File:General_Electric_GE90-115B.jpg)
+- General Electric GE90 displayed at Farnborough Air Show 2008: Dysanovic from Reading, United Kingdom, CC BY 2.0, via Wikimedia Commons. [General Electric GE90 displayed at Farnborough Air Show 2008.jpg](https://commons.wikimedia.org/wiki/File:General_Electric_GE90_displayed_at_Farnborough_Air_Show_2008.jpg)
+- 777X Roll-Out: Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons. [777X Roll-Out (46457914075).jpg](https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46457914075).jpg)
+- General Electric GEnx at Paris Air Show 2013: Tangopaso, CC BY-SA 3.0, via Wikimedia Commons. [General Electric GEnx at Paris Air Show 2013.jpg](https://commons.wikimedia.org/wiki/File:General_Electric_GEnx_at_Paris_Air_Show_2013.jpg)
 - The blue tail of a GE aircraft with an open door and stairs against a blue sky: Photo by David Syphers on Unsplash. [dISMni1qc_w](https://unsplash.com/photos/ge-aircraft-tail-with-open-door-dISMni1qc_w?utm_source=investiq_image_bank&utm_medium=referral)
 - A large white passenger airplane with GE Aerospace branding on the fuselage and engine: Photo by David Syphers on Unsplash. [VYyvQZCC3a4](https://unsplash.com/photos/passenger-airplane-with-ge-aerospace-branding-VYyvQZCC3a4?utm_source=investiq_image_bank&utm_medium=referral)
 - 777X Roll-Out (blurred): Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons. [777X Roll-Out (46649681164) (blurred).jpg](https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46649681164)_(blurred).jpg)
 - CFM LEAP-1B engine side view: Hugo LUC, CC BY-SA 4.0, via Wikimedia Commons. [CFM LEAP-1B engine side view.jpg](https://commons.wikimedia.org/wiki/File:CFM_LEAP-1B_engine_side_view.jpg)
+- Detail of GEnx turbofan engine core: Olivier Cleynen, CC BY-SA 3.0, via Wikimedia Commons. [Detail of GEnx turbofan engine core.jpg](https://commons.wikimedia.org/wiki/File:Detail_of_GEnx_turbofan_engine_core.jpg)
 
 ## GE HealthCare (GEHC)
 
@@ -1412,12 +1439,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Goldman Sachs (GS)
 
+- Goldman Sachs Tower @ 30 Hudson Street as viewed from the Exchange Place waterfront: Vlad Lazarenko, CC BY-SA 3.0, via Wikimedia Commons. [Goldman Sachs Tower @ 30 Hudson Street as viewed from the Exchange Place waterfront.jpg](https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_@_30_Hudson_Street_as_viewed_from_the_Exchange_Place_waterfront.jpg)
+- 200 West Street - Lower Manhattan: Potro, CC BY-SA 4.0, via Wikimedia Commons. [200 West Street - Lower Manhattan.jpg](https://commons.wikimedia.org/wiki/File:200_West_Street_-_Lower_Manhattan.jpg)
 - Goldman Sachs Tower, Jersey City, New Jersey, 1150 1065: Jakub Hałun, CC BY 4.0, via Wikimedia Commons. [Goldman Sachs Tower, Jersey City, New Jersey, 20231001 1150 1065.jpg](https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower,_Jersey_City,_New_Jersey,_20231001_1150_1065.jpg)
 - Goldman Sachs Headquarters, New York City: Quantumquark, CC BY-SA 3.0, via Wikimedia Commons. [GoldmanSachsHeadquarters.JPG](https://commons.wikimedia.org/wiki/File:GoldmanSachsHeadquarters.JPG)
 - David M. Solomon, Goldman Sachs CEO (per Wikidata): U.S. Secretary of Defense, CC BY 2.0, via Wikimedia Commons. [David Solomon.jpg](https://commons.wikimedia.org/wiki/File:David_Solomon.jpg)
 - 200 West Street (24258p): Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons. [200 West Street (24258p).jpg](https://commons.wikimedia.org/wiki/File:200_West_Street_(24258p).jpg)
 - Goldman Sachs Headquarters: Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons. [Goldman Sachs Headquarters (53876567922).jpg](https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Headquarters_(53876567922).jpg)
 - Goldman Sachs New World Headquarters: Unknown author, public domain, via Wikimedia Commons. [Goldman Sachs New World Headquarters.JPG](https://commons.wikimedia.org/wiki/File:Goldman_Sachs_New_World_Headquarters.JPG)
+- Goldman Sachs: Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [Goldman Sachs (55312935052).jpg](https://commons.wikimedia.org/wiki/File:Goldman_Sachs_(55312935052).jpg)
+- 200 West Street 006: Kidfly182, CC BY 4.0, via Wikimedia Commons. [200 West Street 006.jpg](https://commons.wikimedia.org/wiki/File:200_West_Street_006.jpg)
 
 ## GSK (GSK)
 
@@ -1491,6 +1522,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Home Depot (The) (HD)
 
+- The Home Depot Shopping Center Street Signage in Ontario, Oregon: Rick Obst, CC BY 2.0, via Wikimedia Commons. [The Home Depot Shopping Center Street Signage in Ontario, Oregon.jpg](https://commons.wikimedia.org/wiki/File:The_Home_Depot_Shopping_Center_Street_Signage_in_Ontario,_Oregon.jpg)
+- Home Depot Rental Van: Andrepoiy, CC BY-SA 4.0, via Wikimedia Commons. [Home Depot Rental Van.jpg](https://commons.wikimedia.org/wiki/File:Home_Depot_Rental_Van.jpg)
+- Home Depot Storefront: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [Home Depot Storefront (48089754383).jpg](https://commons.wikimedia.org/wiki/File:Home_Depot_Storefront_(48089754383).jpg)
 - A Home Depot store in Blairsville, Ga: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [A Home Depot store in Blairsville, Ga.jpg](https://commons.wikimedia.org/wiki/File:A_Home_Depot_store_in_Blairsville,_Ga.jpg)
 - Home Depot Home Improvement Store in Ontario, Oregon: Rick Obst, CC BY 2.0, via Wikimedia Commons. [Home Depot Home Improvement Store in Ontario, Oregon.jpg](https://commons.wikimedia.org/wiki/File:Home_Depot_Home_Improvement_Store_in_Ontario,_Oregon.jpg)
 - Home Depot Interior 2: Plantsmushrooms, CC0, via Wikimedia Commons. [Home Depot Interior 2.jpg](https://commons.wikimedia.org/wiki/File:Home_Depot_Interior_2.jpg)
@@ -1554,6 +1588,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## IBM (IBM)
 
+- IBM Quantum System One on display at O'Hare International Airport: Brainandforce, CC BY 4.0, via Wikimedia Commons. [IBM Quantum System One on display at O'Hare International Airport.jpg](https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One_on_display_at_O%27Hare_International_Airport.jpg)
+- IBM Building corner view: Ezlev, CC0, via Wikimedia Commons. [IBM Building corner view.jpg](https://commons.wikimedia.org/wiki/File:IBM_Building_corner_view.jpg)
 - IBM Q system (Fraunhofer 2): IBM Research, CC BY 2.0, via Wikimedia Commons. [IBM Q system (Fraunhofer 2).jpg](https://commons.wikimedia.org/wiki/File:IBM_Q_system_(Fraunhofer_2).jpg)
 - IBM logo: Photo by Carson Masterson on Unsplash. [0mXw-dvuLok](https://unsplash.com/photos/ibm-logo-0mXw-dvuLok?utm_source=investiq_image_bank&utm_medium=referral)
 - Ibm building has a unique, wooden facade: Photo by Claudio Schwarz on Unsplash. [1XR5toEOuec](https://unsplash.com/photos/ibm-building-has-a-unique-wooden-facade-1XR5toEOuec?utm_source=investiq_image_bank&utm_medium=referral)
@@ -1561,6 +1597,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - IBM Watson Research Center entrance: Autopilot, CC BY-SA 4.0, via Wikimedia Commons. [IBM Watson Research Center entrance.jpg](https://commons.wikimedia.org/wiki/File:IBM_Watson_Research_Center_entrance.jpg)
 - IBM UK Headquarters: Tim Sheerman-Chase, CC BY 2.0, via Wikimedia Commons. [IBM UK Headquarters.jpg](https://commons.wikimedia.org/wiki/File:IBM_UK_Headquarters.jpg)
 - View of Sampson House (IBM's London Headquarters) from Burrell Street - geograph.org.uk: Robert Lamb, CC BY-SA 2.0, via Wikimedia Commons. [View of Sampson House (IBM's London Headquarters) from Burrell Street - geograph.org.uk - 3713125.jpg](https://commons.wikimedia.org/wiki/File:View_of_Sampson_House_(IBM%27s_London_Headquarters)_from_Burrell_Street_-_geograph.org.uk_-_3713125.jpg)
+- IBM CHQ - Oct 2014: Treesmittenex, CC BY-SA 4.0, via Wikimedia Commons. [IBM CHQ - Oct 2014.jpg](https://commons.wikimedia.org/wiki/File:IBM_CHQ_-_Oct_2014.jpg)
 
 ## Idexx Laboratories (IDXX)
 
@@ -1675,12 +1712,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Johnson & Johnson (JNJ)
 
+- Le siège social de Johnson & Johnson à New Brunswick dans le New Jersey.: Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons. [Onejohnsonandjohnsonplaza.jpg](https://commons.wikimedia.org/wiki/File:Onejohnsonandjohnsonplaza.jpg)
+- Johnson & Johnson (J&J): ajay_suresh, CC BY 4.0, via Wikimedia Commons. [Johnson & Johnson (J&J) (55143119004).jpg](https://commons.wikimedia.org/wiki/File:Johnson_%26_Johnson_(J%26J)_(55143119004).jpg)
 - Johnson & Johnson HQ - 2615: Daderot, public domain, via Wikimedia Commons. [Johnson & Johnson HQ - IMG 2615.JPG](https://commons.wikimedia.org/wiki/File:Johnson_%26_Johnson_HQ_-_IMG_2615.JPG)
 - Joaquin Duato, Johnson & Johnson CEO (per Wikidata): Stephanie Diani, CC BY-SA 4.0, via Wikimedia Commons. [JnJ Duato cropped.jpg](https://commons.wikimedia.org/wiki/File:JnJ_Duato_cropped.jpg)
 - Person holding white plastic bottle: Photo by Mohammad Shahhosseini on Unsplash. [vEb1yMa_sRo](https://unsplash.com/photos/person-holding-white-plastic-bottle-vEb1yMa_sRo?utm_source=investiq_image_bank&utm_medium=referral)
 - Janssen Pharmaceutical Companies of Johnson & Johnson. Leiden, 2021: Vysotsky, CC BY-SA 4.0, via Wikimedia Commons. [JanssenLeiden2021.jpg](https://commons.wikimedia.org/wiki/File:JanssenLeiden2021.jpg)
 - JohnsonJohnson HQ building: user:ekem, public domain, via Wikimedia Commons. [JohnsonJohnson HQ building.jpg](https://commons.wikimedia.org/wiki/File:JohnsonJohnson_HQ_building.jpg)
 - Johnson & Johnson Inc - Address: 88 McNabb St, Markham, Ontario: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [JNJOfficeMarkham10.jpg](https://commons.wikimedia.org/wiki/File:JNJOfficeMarkham10.jpg)
+- Band-Aid tins (1942, 1958): Votpuske, CC BY 4.0, via Wikimedia Commons. [Band-Aid tins (1942, 1958).jpg](https://commons.wikimedia.org/wiki/File:Band-Aid_tins_(1942,_1958).jpg)
+- Johnson & Johnson George St from NJT jeh: Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons. [Johnson & Johnson George St from NJT jeh.jpg](https://commons.wikimedia.org/wiki/File:Johnson_%26_Johnson_George_St_from_NJT_jeh.jpg)
 
 ## Johnson Controls (JCI)
 
@@ -1810,10 +1851,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Lilly (Eli) (LLY)
 
+- Eli Lilly Headquarters: Guanaco152003, public domain, via Wikimedia Commons. [2006 0219FirstFUJIFOLDER0012.JPG](https://commons.wikimedia.org/wiki/File:2006_0219FirstFUJIFOLDER0012.JPG)
+- Eli Lilly & Company 2: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Eli Lilly & Company 2.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_%26_Company_2.jpg)
+- American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad: Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons. [American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad.jpg)
 - David A. Ricks 2025: Virginia Office of the Governor, CC BY 4.0, via Wikimedia Commons. [David A. Ricks 2025.jpg](https://commons.wikimedia.org/wiki/File:David_A._Ricks_2025.jpg)
 - Eli Lilly Corporate Center, Indianapolis, Indiana, USA: Momoneymoproblemz, CC BY-SA 4.0, via Wikimedia Commons. [Eli Lilly Corporate Center, Indianapolis, Indiana, USA.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_Corporate_Center,_Indianapolis,_Indiana,_USA.jpg)
 - Lilly mounjaro KwikPen Tirzepatid 5 mg per dose rate-9442: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Lilly mounjaro KwikPen Tirzepatid 5 mg per dose rate-9442.jpg](https://commons.wikimedia.org/wiki/File:Lilly_mounjaro_KwikPen_Tirzepatid_5_mg_per_dose_rate-9442.jpg)
 - American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad: Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons. [American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad (23040).jpg](https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(23040).jpg)
+- Eli Lilly and Company Indianapolis - Feb 2011: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Eli Lilly and Company Indianapolis - Feb 2011.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_and_Company_Indianapolis_-_Feb_2011.jpg)
+- Eli Lilly and Company Corporate Center - Feb 2011: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Eli Lilly and Company Corporate Center - Feb 2011.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_and_Company_Corporate_Center_-_Feb_2011.jpg)
+- Eli Lilly Corporate Headquarters, Indianapolis: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Lilly 1.jpg](https://commons.wikimedia.org/wiki/File:Lilly_1.jpg)
 
 ## Linde plc (LIN)
 
@@ -1925,6 +1972,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Mastercard (MA)
 
+- MasterCard credit cards in jeans pocket: TheDigitalWay, CC0, via Wikimedia Commons. [MasterCard credit cards in jeans pocket.jpg](https://commons.wikimedia.org/wiki/File:MasterCard_credit_cards_in_jeans_pocket.jpg)
+- MasterCard credit card: Håkan Dahlström from Malmö, Sweden, CC BY 2.0, via Wikimedia Commons. [MasterCard credit card (5532390715).jpg](https://commons.wikimedia.org/wiki/File:MasterCard_credit_card_(5532390715).jpg)
 - Michael Miebach: Drew Gurian, CC BY-SA 4.0, via Wikimedia Commons. [Michael Miebach.jpg](https://commons.wikimedia.org/wiki/File:Michael_Miebach.jpg)
 - A person in a navy blue sweater holding a red payment card: Photo by Unzer on Unsplash. [8PPTPNvpBYc](https://unsplash.com/photos/person-holding-red-payment-card-8PPTPNvpBYc?utm_source=investiq_image_bank&utm_medium=referral)
 - Close-up of a woman looking at a credit card while working on her laptop: Shixart1985, CC BY 2.0, via Wikimedia Commons. [Close-up of a woman looking at a credit card while working on her laptop.jpg](https://commons.wikimedia.org/wiki/File:Close-up_of_a_woman_looking_at_a_credit_card_while_working_on_her_laptop.jpg)
@@ -1932,6 +1981,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Castles Technology payment terminal with BCA Debit Mastercard ( ): VulcanSphere, CC BY 4.0, via Wikimedia Commons. [Castles Technology payment terminal with BCA Debit Mastercard (2026-04-19).jpg](https://commons.wikimedia.org/wiki/File:Castles_Technology_payment_terminal_with_BCA_Debit_Mastercard_(2026-04-19).jpg)
 - A Tonik debit card: Flankbed, CC BY 4.0, via Wikimedia Commons. [A Tonik debit card.jpg](https://commons.wikimedia.org/wiki/File:A_Tonik_debit_card.jpg)
 - Maribank debit card: Flankbed, CC BY 4.0, via Wikimedia Commons. [Maribank debit card.jpg](https://commons.wikimedia.org/wiki/File:Maribank_debit_card.jpg)
+- Mastercard debit card by easybank-chip PNr°1285: D-Kuru, CC BY-SA 4.0, via Wikimedia Commons. [Mastercard debit card by easybank-chip PNr°1285.jpg](https://commons.wikimedia.org/wiki/File:Mastercard_debit_card_by_easybank-chip_PNr%C2%B01285.jpg)
 
 ## McCormick & Company (MKC)
 
@@ -1984,6 +2034,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Meta Platforms (META)
 
+- Meta i Almedalen: VisbyStar, CC BY-SA 4.0, via Wikimedia Commons. [Meta i Almedalen.jpeg](https://commons.wikimedia.org/wiki/File:Meta_i_Almedalen.jpeg)
+- Meta Quest 3 front View: Roy.wonder.cohen, CC BY-SA 4.0, via Wikimedia Commons. [Meta Quest 3 front View.jpg](https://commons.wikimedia.org/wiki/File:Meta_Quest_3_front_View.jpg)
 - Meta Quest 3 display unit: IHazACatNamedMax, CC BY-SA 4.0, via Wikimedia Commons. [Meta Quest 3 display unit.jpg](https://commons.wikimedia.org/wiki/File:Meta_Quest_3_display_unit.jpg)
 - Mark Zuckerberg F8 2019 Keynote ( ): Anthony Quintano from Westminster, United States, CC BY 2.0, via Wikimedia Commons. [Mark Zuckerberg F8 2019 Keynote (32830578717) (cropped).jpg](https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_F8_2019_Keynote_(32830578717)_(cropped).jpg)
 - The Instagram app icon on a smartphone screen with other app icons: Photo by Brett Jordan on Unsplash. [fmqhTMu4IVU](https://unsplash.com/photos/instagram-app-icon-on-screen-fmqhTMu4IVU?utm_source=investiq_image_bank&utm_medium=referral)
@@ -1991,6 +2043,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Instagram app on smartphone (grass background): Santeri Viinamäki (both photo and screenshot), CC BY-SA 4.0, via Wikimedia Commons. [Instagram app on smartphone (grass background).jpg](https://commons.wikimedia.org/wiki/File:Instagram_app_on_smartphone_(grass_background).jpg)
 - An Aerial view of Meta's Main Headquarters with the famed sign in view. Taken on a DJI Mavic 3 Classic; screenshotted from a video.: InvadingInvader, CC BY-SA 4.0, via Wikimedia Commons. [Meta HQ 2023.png](https://commons.wikimedia.org/wiki/File:Meta_HQ_2023.png)
 - Aerial view of Facebook campus in Menlo Park, September 2019: Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons. [Aerial view of Facebook campus in Menlo Park, September 2019.JPG](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Facebook_campus_in_Menlo_Park,_September_2019.JPG)
+- Meta Quest 3S Display Unit: WiiBoi, CC BY 4.0, via Wikimedia Commons. [Meta Quest 3S Display Unit.jpg](https://commons.wikimedia.org/wiki/File:Meta_Quest_3S_Display_Unit.jpg)
 
 ## MetLife (MET)
 
@@ -2030,6 +2083,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Micron Fab in Taichung, Taiwan: Thingreenline4546, CC BY-SA 4.0, via Wikimedia Commons. [Micron Fab in Taichung, Taiwan.jpeg](https://commons.wikimedia.org/wiki/File:Micron_Fab_in_Taichung,_Taiwan.jpeg)
 - Speedport Smart 4 Typ A - board - Micron Technology 29F8G08ABACA-0688: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Speedport Smart 4 Typ A - board - Micron Technology 29F8G08ABACA-0688.jpg](https://commons.wikimedia.org/wiki/File:Speedport_Smart_4_Typ_A_-_board_-_Micron_Technology_29F8G08ABACA-0688.jpg)
 - Crucial CT128M4SSD2 - board - Micron IYDI1 D9LGQ-2887: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Crucial CT128M4SSD2 - board - Micron IYDI1 D9LGQ-2887.jpg](https://commons.wikimedia.org/wiki/File:Crucial_CT128M4SSD2_-_board_-_Micron_IYDI1_D9LGQ-2887.jpg)
+- DDR 4 RAM SO-DIMM 16GB by Micron-top front PNr°0840: D-Kuru, CC BY-SA 4.0, via Wikimedia Commons. [DDR 4 RAM SO-DIMM 16GB by Micron-top front PNr°0840.jpg](https://commons.wikimedia.org/wiki/File:DDR_4_RAM_SO-DIMM_16GB_by_Micron-top_front_PNr%C2%B00840.jpg)
+- DDR 4 RAM SO-DIMM 16GB by Micron-top back PNr°0841: D-Kuru, CC BY-SA 4.0, via Wikimedia Commons. [DDR 4 RAM SO-DIMM 16GB by Micron-top back PNr°0841.jpg](https://commons.wikimedia.org/wiki/File:DDR_4_RAM_SO-DIMM_16GB_by_Micron-top_back_PNr%C2%B00841.jpg)
 
 ## Microsoft (MSFT)
 
@@ -2113,12 +2168,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Netflix (NFLX)
 
+- Netflix Los Angeles office: Kstanhope of Netflix, CC BY-SA 4.0, via Wikimedia Commons. [Netflix Los Angeles office.jpg](https://commons.wikimedia.org/wiki/File:Netflix_Los_Angeles_office.jpg)
 - White and black concrete building during night time: Photo by Venti Views on Unsplash. [lI7dlA5VBp8](https://unsplash.com/photos/white-and-black-concrete-building-during-night-time-lI7dlA5VBp8?utm_source=investiq_image_bank&utm_medium=referral)
 - A television with the netflix logo lit up in the dark: Photo by Thibault Penin on Unsplash. [GrzoKN1aqSg](https://unsplash.com/photos/a-television-with-the-netflix-logo-lit-up-in-the-dark-GrzoKN1aqSg?utm_source=investiq_image_bank&utm_medium=referral)
 - 101 Albright Way: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [101 Albright Way.jpg](https://commons.wikimedia.org/wiki/File:101_Albright_Way.jpg)
 - Netflix button remote: Flickr Stock Catalog, CC BY 2.0, via Wikimedia Commons. [Netflix button remote (40062279010).jpg](https://commons.wikimedia.org/wiki/File:Netflix_button_remote_(40062279010).jpg)
 - SXSW 2016 - Ted Sarandos: Daniel Benavides from Austin, TX, CC BY 2.0, via Wikimedia Commons. [SXSW 2016 - Ted Sarandos (25752599662).jpg](https://commons.wikimedia.org/wiki/File:SXSW_2016_-_Ted_Sarandos_(25752599662).jpg)
 - Netflix headquarters: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Netflix headquarters.jpg](https://commons.wikimedia.org/wiki/File:Netflix_headquarters.jpg)
+- Netflix at Thong Lor: Sry85, CC BY-SA 4.0, via Wikimedia Commons. [Netflix at Thong Lor.jpg](https://commons.wikimedia.org/wiki/File:Netflix_at_Thong_Lor.jpg)
 
 ## Newmont (NEM)
 
@@ -2204,6 +2261,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Novo Nordisk (NVO)
 
+- Novo Nordisk, Bagsværd, NN1, 2025: Toxophilus, CC BY-SA 4.0, via Wikimedia Commons. [Novo Nordisk, Bagsværd, NN1, 2025 (2).jpg](https://commons.wikimedia.org/wiki/File:Novo_Nordisk,_Bagsv%C3%A6rd,_NN1,_2025_(2).jpg)
+- Novo Nordisk Scandinavia AB Malmö: News Oresund, CC BY 2.0, via Wikimedia Commons. [20200907 Novo Nordisk Scandinavia AB Malmö (50559157307).jpg](https://commons.wikimedia.org/wiki/File:20200907_Novo_Nordisk_Scandinavia_AB_Malm%C3%B6_(50559157307).jpg)
 - Ozempic medication box, with pen injection: Photo by David Trinks on Unsplash. [kv97FiHww54](https://unsplash.com/photos/ozempic-medication-box-with-pen-injection-kv97FiHww54?utm_source=investiq_image_bank&utm_medium=referral)
 - Novo Nordisk, Bagsværd, NN1, 2025: Toxophilus, CC BY-SA 4.0, via Wikimedia Commons. [Novo Nordisk, Bagsværd, NN1, 2025 (5).jpg](https://commons.wikimedia.org/wiki/File:Novo_Nordisk,_Bagsv%C3%A6rd,_NN1,_2025_(5).jpg)
 - A 3ml Ozempic® semaglutide injection sold in mainland China (1.34mg semaglutide per 1ml injection, pre-filled injection pen): HualinXMN, CC BY-SA 4.0, via Wikimedia Commons. [Ozempic® 3ml.jpg](https://commons.wikimedia.org/wiki/File:Ozempic%C2%AE_3ml.jpg)
@@ -2317,6 +2376,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Palantir logo on a dark background: Photo by Salvador Rios on Unsplash. [U9y_TCFO9TA](https://unsplash.com/photos/palantir-logo-on-a-dark-background-U9y_TCFO9TA?utm_source=investiq_image_bank&utm_medium=referral)
 - Palantir office in Palo Alto: F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [Palantir 1 2018-09-06.jpg](https://commons.wikimedia.org/wiki/File:Palantir_1_2018-09-06.jpg)
 - Peter Thiel by Gage Skidmore: Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons. [Peter Thiel by Gage Skidmore.jpg](https://commons.wikimedia.org/wiki/File:Peter_Thiel_by_Gage_Skidmore.jpg)
+- Palantir stand at the NHS Confederation conference 2022: Rathfelder, CC BY-SA 4.0, via Wikimedia Commons. [Palantir 2022.jpg](https://commons.wikimedia.org/wiki/File:Palantir_2022.jpg)
+- Palantir Technologies: TechCrunch, CC BY 2.0, via Wikimedia Commons. [MG 6154 (7977825606).jpg](https://commons.wikimedia.org/wiki/File:MG_6154_(7977825606).jpg)
 
 ## Palo Alto Networks (PANW)
 
@@ -2374,6 +2435,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Pfizer (PFE)
 
+- Festival of Lights 2022 - Pfizer Werbung: Lukas Beck, CC BY-SA 4.0, via Wikimedia Commons. [Festival of Lights 2022 - Pfizer Werbung.jpg](https://commons.wikimedia.org/wiki/File:Festival_of_Lights_2022_-_Pfizer_Werbung.jpg)
+- 2017 Pfizer, 610 Main Street North, Cambridge, Massachusetts: Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons. [2017 Pfizer, 610 Main Street North, Cambridge, Massachusetts.jpg](https://commons.wikimedia.org/wiki/File:2017_Pfizer,_610_Main_Street_North,_Cambridge,_Massachusetts.jpg)
 - Pfizer World Headquarters Entrance: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Pfizer World Headquarters Entrance.jpg](https://commons.wikimedia.org/wiki/File:Pfizer_World_Headquarters_Entrance.jpg)
 - Pfizer-BioNTech COVID-19 vaccine D: U.S. Secretary of Defense, public domain, via Wikimedia Commons. [Pfizer-BioNTech COVID-19 vaccine (2020) D.jpg](https://commons.wikimedia.org/wiki/File:Pfizer-BioNTech_COVID-19_vaccine_(2020)_D.jpg)
 - Black and white labeled bottle: Photo by Mika Baumeister on Unsplash. [JEKUlp6Gi5s](https://unsplash.com/photos/black-and-white-labeled-bottle-JEKUlp6Gi5s?utm_source=investiq_image_bank&utm_medium=referral)
@@ -3007,6 +3070,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## TSMC (TSM)
 
+- TSMC Fab 12A 01: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Fab 12A 01.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_12A_01.jpg)
+- TSMC Fab 14B May 2025 2: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 14B May 2025 2.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_14B_May_2025_2.jpg)
+- TSMC Global R＆D Center at night: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Global R＆D Center at night.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center_at_night.jpg)
 - TSMC Fab5: Peellden, CC BY-SA 3.0, via Wikimedia Commons. [TSMC Fab5.JPG](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG)
 - TSMC Fab 18 May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 18 May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_May_2025.jpg)
 - 1 TSMC Fab 21 construction: Hunter Trick (TrickHunter), CC BY-SA 4.0, via Wikimedia Commons. [231105-1 TSMC Fab 21 construction.jpg](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg)
@@ -3014,7 +3080,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - TSMC Fab 6 front May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 6 front May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_6_front_May_2025.jpg)
 - TSMC AP2 building May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC AP2 building May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_AP2_building_May_2025.jpg)
 - TSMC factory in Taichung's Central Taiwan Science Park: Briáxis F. Mendes (孟必思), CC BY-SA 4.0, via Wikimedia Commons. [TSMC factory in Taichung's Central Taiwan Science Park.jpg](https://commons.wikimedia.org/wiki/File:TSMC_factory_in_Taichung%27s_Central_Taiwan_Science_Park.jpg)
-- Tsmc factory hsinchu: Arusanov, public domain, via Wikimedia Commons. [Tsmc factory hsinchu.JPG](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG)
 
 ## Tyson Foods (TSN)
 
@@ -3027,6 +3092,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Uber (UBER)
 
+- Uber Taxi at 7-11 Kadoma Shinbashi: Mr.ちゅらさん, CC0, via Wikimedia Commons. [Uber Taxi at 7-11 Kadoma Shinbashi.jpg](https://commons.wikimedia.org/wiki/File:Uber_Taxi_at_7-11_Kadoma_Shinbashi.jpg)
+- Uber Eats 806-EZV: Solomon203, CC BY-SA 4.0, via Wikimedia Commons. [Uber Eats 806-EZV 20201010.jpg](https://commons.wikimedia.org/wiki/File:Uber_Eats_806-EZV_20201010.jpg)
 - CEO of Uber Technologies Dara Khosrowshahi in New York - 2019: The Presidential Office of Ukraine., CC BY 4.0, via Wikimedia Commons. [CEO of Uber Technologies Dara Khosrowshahi in New York - 2019.jpg](https://commons.wikimedia.org/wiki/File:CEO_of_Uber_Technologies_Dara_Khosrowshahi_in_New_York_-_2019.jpg)
 - Man with Uber eats backpack: Photo by Robert Anasch on Unsplash. [s04x1QTNnCA](https://unsplash.com/photos/man-with-uber-eats-backpack-s04x1QTNnCA?utm_source=investiq_image_bank&utm_medium=referral)
 - White uber car parked on grassy roadside under trees: Photo by Darien Attridge on Unsplash. [5fCL_V9J8Bw](https://unsplash.com/photos/white-uber-car-parked-on-grassy-roadside-under-trees-5fCL_V9J8Bw?utm_source=investiq_image_bank&utm_medium=referral)
@@ -3098,6 +3165,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## UnitedHealth Group (UNH)
 
+- Optum Headquarters, Eden Prairie, MN: Chad Davis, CC BY 2.0, via Wikimedia Commons. [Optum Headquarters, Eden Prairie, MN (49120017041).jpg](https://commons.wikimedia.org/wiki/File:Optum_Headquarters,_Eden_Prairie,_MN_(49120017041).jpg)
 - Stephen Hemsley: Ways and Means Committee of the United States Congress, public domain, via Wikimedia Commons. [Stephen Hemsley.jpg](https://commons.wikimedia.org/wiki/File:Stephen_Hemsley.jpg)
 - UnitedHealthcare Corporate Headquarters, December 8 2024: Chad Davis, CC BY 2.0, via Wikimedia Commons. [UnitedHealthcare Corporate Headquarters, December 8 2024 (54191437643).jpg](https://commons.wikimedia.org/wiki/File:UnitedHealthcare_Corporate_Headquarters,_December_8_2024_(54191437643).jpg)
 
@@ -3140,12 +3208,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Visa Inc. (V)
 
+- 900 Metro Center Boulevard: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [900 Metro Center Boulevard.jpg](https://commons.wikimedia.org/wiki/File:900_Metro_Center_Boulevard.jpg)
 - Ryan McInerney: Malibukenz, CC BY-SA 4.0, via Wikimedia Commons. [Ryan McInerney.jpg](https://commons.wikimedia.org/wiki/File:Ryan_McInerney.jpg)
 - A visa card sitting on top of a white table: Photo by David Dias on Unsplash. [-mAk7Ky36rU](https://unsplash.com/photos/a-visa-card-sitting-on-top-of-a-white-table--mAk7Ky36rU?utm_source=investiq_image_bank&utm_medium=referral)
 - Visa headquarters - August 2025 - Sarah Stierch: Missvain, CC0, via Wikimedia Commons. [Visa headquarters - August 2025 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Visa_headquarters_-_August_2025_-_Sarah_Stierch.jpg)
 - Paying with a Credit Card: Hloom Templates, CC BY 2.0, via Wikimedia Commons. [Paying with a Credit Card (28886645201).jpg](https://commons.wikimedia.org/wiki/File:Paying_with_a_Credit_Card_(28886645201).jpg)
 - 300 Toni Stone Crossing: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [300 Toni Stone Crossing.jpg](https://commons.wikimedia.org/wiki/File:300_Toni_Stone_Crossing.jpg)
 - Visa Inc. 1: F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [Visa Inc. 1 2019-02-28.jpg](https://commons.wikimedia.org/wiki/File:Visa_Inc._1_2019-02-28.jpg)
+- Office buildings - August 2025 - Sarah Stierch: Missvain, CC0, via Wikimedia Commons. [Office buildings - August 2025 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Office_buildings_-_August_2025_-_Sarah_Stierch.jpg)
+- Lloyds Bank Visa Debit card: JeppaG4, CC0, via Wikimedia Commons. [Lloyds Bank Visa Debit card.jpg](https://commons.wikimedia.org/wiki/File:Lloyds_Bank_Visa_Debit_card.jpg)
 
 ## Vulcan Materials Company (VMC)
 

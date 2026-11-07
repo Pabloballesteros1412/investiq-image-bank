@@ -584,6 +584,21 @@ class PlainReserve(unittest.TestCase):
             self.assertEqual(json.loads((bank / "subjects" / "gold.json").read_text())["photos"], [])  # topics: no reserve
 
 
+class HandPicked(unittest.TestCase):
+    def test_a_rebuild_keeps_hand_picked_photos_first(self):
+        with tempfile.TemporaryDirectory() as d:
+            bank = Path(d)
+            uni = [{"id": "MMM", "name": "3M", "tickers": ["MMM"], "sector": "Industrials", "commons_category": "3M",
+                    "image": "3M HQ Maplewood.jpg", "wikidata": "Q1"}]
+            (bank / "universe.json").write_text(json.dumps({"companies": uni}))
+            hand = B.photo(cand("File:3M Center sign.jpg"), "hand", "3M Center sign", B.HAND, (0.5, 0.5))
+            B.save_manifest({"MMM": {"name": "3M", "kind": "company", "tickers": ["MMM"], "photos": [hand]}}, ["MMM"], bank)
+            B.save_review({"min_grade": 3, "grades": {hand["file"]: 3}}, bank)
+            m = B.build(MINI, bank, Fake(), only="MMM", log=lambda *_: None)
+            self.assertEqual(m["MMM"]["photos"][0]["file"], hand["file"])
+            self.assertEqual([p["file"] for p in m["MMM"]["photos"]].count(hand["file"]), 1)
+
+
 class StockKeys(unittest.TestCase):
     def test_key_from_environment_or_from_the_proxy(self):
         s = stock.sources(env={"UNSPLASH_ACCESS_KEY": "k1"}, probe=lambda url: False)

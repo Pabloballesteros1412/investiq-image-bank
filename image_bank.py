@@ -72,6 +72,7 @@ BASE_URL = "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-imag
 
 TARGET = 10                           # photos per company, topic and sector
 RESERVE_GRADE = 2                     # a company's plain Commons photos fill the places its better ones leave free
+HAND = "hand-picked"                  # 'how' of photos found by a hand search and graded by eye: a rebuild keeps them
 SEARCH_ROOM = 3                       # places a company's Commons category leaves for photos found by search
 MIN_LONG, MIN_SHORT = 1600, 1000      # smallest acceptable photo (px)
 MIN_PERSON = 1000, 700                # portraits: a face mostly fills half a slide or an inset
@@ -1209,8 +1210,12 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
             e["sector"] = s.get("sector")
         try:
             keep = kept(s)
-            used.update(p["file"] for p in keep or [])
+            # photos found by hand (review round of hand searches) are never dropped by a rebuild
+            hand = [p for p in old.get("photos", []) if p.get("how") == HAND and published(p, rv)]
+            used.update(p["file"] for p in [*(keep or []), *hand])
             e["photos"], missing = pick(s, src, used, no_sa, exclude, rv, keep)
+            have = {p["file"] for p in e["photos"]}
+            e["photos"] = [p for p in hand if p["file"] not in have] + e["photos"]
             if s["kind"] == "company":  # its plain photos stay as a reserve (never picked again, never dropped)
                 have = {p["file"] for p in e["photos"]}
                 plain = [p for p in old.get("photos", []) if reserve(p, rv) and p["file"] not in have]

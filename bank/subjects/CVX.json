@@ -6,8 +6,58 @@
   "CVX"
  ],
  "sector": "sector-energy",
- "fill_from": "sector-energy",
  "photos": [
+  {
+   "shows": "Chevron oil tanker in Richmond, CA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Chevron_oil_tanker_in_Richmond%2C_CA.jpg/1920px-Chevron_oil_tanker_in_Richmond%2C_CA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Chevron_oil_tanker_in_Richmond%2C_CA.jpg/500px-Chevron_oil_tanker_in_Richmond%2C_CA.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dreamyshade, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chevron_oil_tanker_in_Richmond,_CA.jpg"
+  },
+  {
+   "shows": "Chevron Gas Station in San Francisco",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chevron_Gas_Station_in_San_Francisco.jpg/1920px-Chevron_Gas_Station_in_San_Francisco.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Chevron_Gas_Station_in_San_Francisco.jpg/500px-Chevron_Gas_Station_in_San_Francisco.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Thomasfan1916, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chevron_Gas_Station_in_San_Francisco.jpg"
+  },
+  {
+   "shows": "Detail of Richmond Chevron Refinery with backdrop of San Pablo Bay",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Detail_of_Richmond_Chevron_Refinery_with_backdrop_of_San_Pablo_Bay.jpg/1920px-Detail_of_Richmond_Chevron_Refinery_with_backdrop_of_San_Pablo_Bay.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Detail_of_Richmond_Chevron_Refinery_with_backdrop_of_San_Pablo_Bay.jpg/500px-Detail_of_Richmond_Chevron_Refinery_with_backdrop_of_San_Pablo_Bay.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bastique, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Detail_of_Richmond_Chevron_Refinery_with_backdrop_of_San_Pablo_Bay.jpg"
+  },
   {
    "shows": "A Texaco gas station canopy illuminated at night with bright overhead lights",
    "url": "https://images.unsplash.com/photo-1791895122104-e27f864210a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VGV4YWNvfGVufDF8fHx8MTc5Mzk2MzY0M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",

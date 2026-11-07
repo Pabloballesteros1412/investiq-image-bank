@@ -6,8 +6,41 @@
   "IBM"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
  "photos": [
+  {
+   "shows": "IBM Quantum System One on display at O'Hare International Airport",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IBM_Quantum_System_One_on_display_at_O%27Hare_International_Airport.jpg/1280px-IBM_Quantum_System_One_on_display_at_O%27Hare_International_Airport.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/IBM_Quantum_System_One_on_display_at_O%27Hare_International_Airport.jpg/500px-IBM_Quantum_System_One_on_display_at_O%27Hare_International_Airport.jpg",
+   "size": [
+    1280,
+    1917
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Brainandforce, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One_on_display_at_O%27Hare_International_Airport.jpg"
+  },
+  {
+   "shows": "IBM Building corner view",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/IBM_Building_corner_view.jpg/1920px-IBM_Building_corner_view.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/IBM_Building_corner_view.jpg/500px-IBM_Building_corner_view.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ezlev, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBM_Building_corner_view.jpg"
+  },
   {
    "shows": "IBM Q system (Fraunhofer 2)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/IBM_Q_system_%28Fraunhofer_2%29.jpg/1920px-IBM_Q_system_%28Fraunhofer_2%29.jpg",
@@ -131,6 +164,24 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:View_of_Sampson_House_(IBM%27s_London_Headquarters)_from_Burrell_Street_-_geograph.org.uk_-_3713125.jpg",
+   "plain": true
+  },
+  {
+   "shows": "IBM CHQ - Oct 2014",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IBM_CHQ_-_Oct_2014.jpg/1920px-IBM_CHQ_-_Oct_2014.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/IBM_CHQ_-_Oct_2014.jpg/500px-IBM_CHQ_-_Oct_2014.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Treesmittenex, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBM_CHQ_-_Oct_2014.jpg",
    "plain": true
   }
  ]

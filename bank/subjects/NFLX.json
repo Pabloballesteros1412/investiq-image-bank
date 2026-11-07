@@ -9,6 +9,23 @@
  "fill_from": "sector-communication",
  "photos": [
   {
+   "shows": "Netflix Los Angeles office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Netflix_Los_Angeles_office.jpg/1920px-Netflix_Los_Angeles_office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Netflix_Los_Angeles_office.jpg/500px-Netflix_Los_Angeles_office.jpg",
+   "size": [
+    1920,
+    2145
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kstanhope of Netflix, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Netflix_Los_Angeles_office.jpg"
+  },
+  {
    "shows": "White and black concrete building during night time",
    "url": "https://images.unsplash.com/photo-1621955964441-c173e01c135b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TmV0ZmxpeHxlbnwxfHx8fDE3OTM5NzA4NzZ8MA&ixlib=rb-4.1.0&w=2290&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1621955964441-c173e01c135b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TmV0ZmxpeHxlbnwxfHx8fDE3OTM5NzA4NzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -115,6 +132,24 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Netflix_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix at Thong Lor",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Netflix_at_Thong_Lor.jpg/1280px-Netflix_at_Thong_Lor.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Netflix_at_Thong_Lor.jpg/500px-Netflix_at_Thong_Lor.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sry85, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Netflix_at_Thong_Lor.jpg",
    "plain": true
   }
  ]

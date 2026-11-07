@@ -6,8 +6,41 @@
   "JNJ"
  ],
  "sector": "sector-health",
- "fill_from": "sector-health",
  "photos": [
+  {
+   "shows": "Le siège social de Johnson & Johnson à New Brunswick dans le New Jersey.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Onejohnsonandjohnsonplaza.jpg/1280px-Onejohnsonandjohnsonplaza.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Onejohnsonandjohnsonplaza.jpg/500px-Onejohnsonandjohnsonplaza.jpg",
+   "size": [
+    1280,
+    1759
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Onejohnsonandjohnsonplaza.jpg"
+  },
+  {
+   "shows": "Johnson & Johnson (J&J)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johnson_%26_Johnson_%28J%26J%29_%2855143119004%29.jpg/1920px-Johnson_%26_Johnson_%28J%26J%29_%2855143119004%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Johnson_%26_Johnson_%28J%26J%29_%2855143119004%29.jpg/500px-Johnson_%26_Johnson_%28J%26J%29_%2855143119004%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Johnson_%26_Johnson_(J%26J)_(55143119004).jpg"
+  },
   {
    "shows": "Johnson & Johnson HQ - 2615",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Johnson_%26_Johnson_HQ_-_IMG_2615.JPG/1280px-Johnson_%26_Johnson_HQ_-_IMG_2615.JPG",
@@ -113,6 +146,42 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:JNJOfficeMarkham10.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Band-Aid tins (1942, 1958)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Band-Aid_tins_%281942%2C_1958%29.jpg/1920px-Band-Aid_tins_%281942%2C_1958%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Band-Aid_tins_%281942%2C_1958%29.jpg/500px-Band-Aid_tins_%281942%2C_1958%29.jpg",
+   "size": [
+    1920,
+    1070
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Votpuske, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Band-Aid_tins_(1942,_1958).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Johnson & Johnson George St from NJT jeh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Johnson_%26_Johnson_George_St_from_NJT_jeh.jpg/1920px-Johnson_%26_Johnson_George_St_from_NJT_jeh.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Johnson_%26_Johnson_George_St_from_NJT_jeh.jpg/500px-Johnson_%26_Johnson_George_St_from_NJT_jeh.jpg",
+   "size": [
+    1920,
+    1081
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Johnson_%26_Johnson_George_St_from_NJT_jeh.jpg",
    "plain": true
   }
  ]
