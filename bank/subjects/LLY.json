@@ -6,8 +6,58 @@
   "LLY"
  ],
  "sector": "sector-health",
- "fill_from": "sector-health",
  "photos": [
+  {
+   "shows": "Eli Lilly Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2006_0219FirstFUJIFOLDER0012.JPG/1920px-2006_0219FirstFUJIFOLDER0012.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2006_0219FirstFUJIFOLDER0012.JPG/500px-2006_0219FirstFUJIFOLDER0012.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Guanaco152003, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2006_0219FirstFUJIFOLDER0012.JPG"
+  },
+  {
+   "shows": "Eli Lilly & Company 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eli_Lilly_%26_Company_2.jpg/1920px-Eli_Lilly_%26_Company_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Eli_Lilly_%26_Company_2.jpg/500px-Eli_Lilly_%26_Company_2.jpg",
+   "size": [
+    1920,
+    1399
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_%26_Company_2.jpg"
+  },
+  {
+   "shows": "American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad.jpg/1920px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad.jpg/500px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad.jpg"
+  },
   {
    "shows": "David A. Ricks 2025",
    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/David_A._Ricks_2025.jpg",
@@ -77,6 +127,60 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(23040).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eli Lilly and Company Indianapolis - Feb 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eli_Lilly_and_Company_Indianapolis_-_Feb_2011.jpg/1920px-Eli_Lilly_and_Company_Indianapolis_-_Feb_2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Eli_Lilly_and_Company_Indianapolis_-_Feb_2011.jpg/500px-Eli_Lilly_and_Company_Indianapolis_-_Feb_2011.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_and_Company_Indianapolis_-_Feb_2011.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eli Lilly and Company Corporate Center - Feb 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eli_Lilly_and_Company_Corporate_Center_-_Feb_2011.jpg/1920px-Eli_Lilly_and_Company_Corporate_Center_-_Feb_2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eli_Lilly_and_Company_Corporate_Center_-_Feb_2011.jpg/500px-Eli_Lilly_and_Company_Corporate_Center_-_Feb_2011.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_and_Company_Corporate_Center_-_Feb_2011.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eli Lilly Corporate Headquarters, Indianapolis",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lilly_1.jpg/1280px-Lilly_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lilly_1.jpg/500px-Lilly_1.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lilly_1.jpg",
    "plain": true
   }
  ]

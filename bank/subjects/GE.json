@@ -6,8 +6,92 @@
   "GE"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
  "photos": [
+  {
+   "shows": "General Electric GE90 right engine on a 773ER",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/General_Electric_GE90_right_engine_on_a_773ER.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/General_Electric_GE90_right_engine_on_a_773ER.jpg/500px-General_Electric_GE90_right_engine_on_a_773ER.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bernd K, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Electric_GE90_right_engine_on_a_773ER.jpg"
+  },
+  {
+   "shows": "General Electric GE90-115B",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/General_Electric_GE90-115B.jpg/1920px-General_Electric_GE90-115B.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/General_Electric_GE90-115B.jpg/500px-General_Electric_GE90-115B.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alston argodi, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Electric_GE90-115B.jpg"
+  },
+  {
+   "shows": "General Electric GE90 displayed at Farnborough Air Show 2008",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/General_Electric_GE90_displayed_at_Farnborough_Air_Show_2008.jpg/1920px-General_Electric_GE90_displayed_at_Farnborough_Air_Show_2008.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/General_Electric_GE90_displayed_at_Farnborough_Air_Show_2008.jpg/500px-General_Electric_GE90_displayed_at_Farnborough_Air_Show_2008.jpg",
+   "size": [
+    1920,
+    1605
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dysanovic from Reading, United Kingdom, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Electric_GE90_displayed_at_Farnborough_Air_Show_2008.jpg"
+  },
+  {
+   "shows": "777X Roll-Out",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/777X_Roll-Out_%2846457914075%29.jpg/1920px-777X_Roll-Out_%2846457914075%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/777X_Roll-Out_%2846457914075%29.jpg/500px-777X_Roll-Out_%2846457914075%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46457914075).jpg"
+  },
+  {
+   "shows": "General Electric GEnx at Paris Air Show 2013",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/General_Electric_GEnx_at_Paris_Air_Show_2013.jpg/1280px-General_Electric_GEnx_at_Paris_Air_Show_2013.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/General_Electric_GEnx_at_Paris_Air_Show_2013.jpg/500px-General_Electric_GEnx_at_Paris_Air_Show_2013.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tangopaso, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Electric_GEnx_at_Paris_Air_Show_2013.jpg"
+  },
   {
    "shows": "The blue tail of a GE aircraft with an open door and stairs against a blue sky",
    "url": "https://images.unsplash.com/photo-1792500285791-a00bcaa951ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R0UlMjBBZXJvc3BhY2V8ZW58MXx8fHwxNzkzOTYzNjUwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
@@ -78,6 +162,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:CFM_LEAP-1B_engine_side_view.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Detail of GEnx turbofan engine core",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Detail_of_GEnx_turbofan_engine_core.jpg/1920px-Detail_of_GEnx_turbofan_engine_core.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Detail_of_GEnx_turbofan_engine_core.jpg/500px-Detail_of_GEnx_turbofan_engine_core.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Olivier Cleynen, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Detail_of_GEnx_turbofan_engine_core.jpg",
    "plain": true
   }
  ]

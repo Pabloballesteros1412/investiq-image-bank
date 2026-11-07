@@ -6,8 +6,41 @@
   "ADBE"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
  "photos": [
+  {
+   "shows": "Adobe Systems West Tower, San Jose, CA, SW corner",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Systems_West_Tower%2C_San_Jose%2C_CA%2C_SW_corner_2024-02-28.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Systems_West_Tower%2C_San_Jose%2C_CA%2C_SW_corner_2024-02-28.jpg/500px-Adobe_Systems_West_Tower%2C_San_Jose%2C_CA%2C_SW_corner_2024-02-28.jpg",
+   "size": [
+    1901,
+    2170
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Systems_West_Tower,_San_Jose,_CA,_SW_corner_2024-02-28.jpg"
+  },
+  {
+   "shows": "Adobe World Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Adobe_World_Headquarters.jpg/1920px-Adobe_World_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Adobe_World_Headquarters.jpg/500px-Adobe_World_Headquarters.jpg",
+   "size": [
+    1920,
+    1342
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_World_Headquarters.jpg"
+  },
   {
    "shows": "Adobe, Lehi",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe%2C_Lehi_%2853560419845%29.jpg/1920px-Adobe%2C_Lehi_%2853560419845%29.jpg",
@@ -94,6 +127,60 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe India office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe_India_office.jpg/1920px-Adobe_India_office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Adobe_India_office.jpg/500px-Adobe_India_office.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rashid Jorvee, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_India_office.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe World Headquarters 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Adobe_World_Headquarters_1_2015-01-03.JPG/1920px-Adobe_World_Headquarters_1_2015-01-03.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Adobe_World_Headquarters_1_2015-01-03.JPG/500px-Adobe_World_Headquarters_1_2015-01-03.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "F ASTILY, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_World_Headquarters_1_2015-01-03.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Adobe in San Jose",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Adobe_in_San_Jose.jpg/1280px-Adobe_in_San_Jose.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Adobe_in_San_Jose.jpg/500px-Adobe_in_San_Jose.jpg",
+   "size": [
+    1280,
+    1925
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eliazar Parra Cardenas from Guadalajara, Mexico, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_in_San_Jose.jpg",
    "plain": true
   }
  ]

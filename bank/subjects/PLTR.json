@@ -62,6 +62,42 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Peter_Thiel_by_Gage_Skidmore.jpg",
    "plain": true
+  },
+  {
+   "shows": "Palantir stand at the NHS Confederation conference 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palantir_2022.jpg/1920px-Palantir_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palantir_2022.jpg/500px-Palantir_2022.jpg",
+   "size": [
+    1920,
+    1225
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rathfelder, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Palantir_2022.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Palantir Technologies",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MG_6154_%287977825606%29.jpg/1920px-MG_6154_%287977825606%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MG_6154_%287977825606%29.jpg/500px-MG_6154_%287977825606%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TechCrunch, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MG_6154_(7977825606).jpg",
+   "plain": true
   }
  ]
 }

@@ -8,6 +8,40 @@
  "sector": "sector-staples",
  "photos": [
   {
+   "shows": "Costco Auckland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Costco_Auckland_20241230_180312.jpg/1920px-Costco_Auckland_20241230_180312.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Costco_Auckland_20241230_180312.jpg/500px-Costco_Auckland_20241230_180312.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Prosperosity, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_Auckland_20241230_180312.jpg"
+  },
+  {
+   "shows": "Costco Wholesale in Federal Way.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Costco_9821.jpg/1920px-Costco_9821.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Costco_9821.jpg/500px-Costco_9821.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_9821.jpg"
+  },
+  {
    "shows": "Costco Hangzhou Store",
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/20260918_Costco_Hangzhou_Store.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/20260918_Costco_Hangzhou_Store.jpg/500px-20260918_Costco_Hangzhou_Store.jpg",
@@ -148,42 +182,6 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Issaquah_aerial,_April_2023.png",
-   "plain": true
-  },
-  {
-   "shows": "Costco headquarters in Issaquah, Washington. Photographed by user Coolcaesar on May 30, 2016.",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Costcoheadquarters.jpg/1920px-Costcoheadquarters.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Costcoheadquarters.jpg/500px-Costcoheadquarters.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Costcoheadquarters.jpg",
-   "plain": true
-  },
-  {
-   "shows": "Entrance to Costco store with ID scanners installed",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Entrance_to_Costco_store_with_ID_scanners_installed.jpg/1280px-Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Entrance_to_Costco_store_with_ID_scanners_installed.jpg/500px-Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
-   "size": [
-    1280,
-    1707
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
    "plain": true
   }
  ]

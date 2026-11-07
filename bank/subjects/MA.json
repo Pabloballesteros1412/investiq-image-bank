@@ -6,8 +6,41 @@
   "MA"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
  "photos": [
+  {
+   "shows": "MasterCard credit cards in jeans pocket",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MasterCard_credit_cards_in_jeans_pocket.jpg/1920px-MasterCard_credit_cards_in_jeans_pocket.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MasterCard_credit_cards_in_jeans_pocket.jpg/500px-MasterCard_credit_cards_in_jeans_pocket.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TheDigitalWay, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MasterCard_credit_cards_in_jeans_pocket.jpg"
+  },
+  {
+   "shows": "MasterCard credit card",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MasterCard_credit_card_%285532390715%29.jpg/1920px-MasterCard_credit_card_%285532390715%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/MasterCard_credit_card_%285532390715%29.jpg/500px-MasterCard_credit_card_%285532390715%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Håkan Dahlström from Malmö, Sweden, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MasterCard_credit_card_(5532390715).jpg"
+  },
   {
    "shows": "Michael Miebach",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Michael_Miebach.jpg/1280px-Michael_Miebach.jpg",
@@ -132,6 +165,24 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Maribank_debit_card.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mastercard debit card by easybank-chip PNr°1285",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mastercard_debit_card_by_easybank-chip_PNr%C2%B01285.jpg/1920px-Mastercard_debit_card_by_easybank-chip_PNr%C2%B01285.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mastercard_debit_card_by_easybank-chip_PNr%C2%B01285.jpg/500px-Mastercard_debit_card_by_easybank-chip_PNr%C2%B01285.jpg",
+   "size": [
+    1920,
+    1504
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "D-Kuru, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mastercard_debit_card_by_easybank-chip_PNr%C2%B01285.jpg",
    "plain": true
   }
  ]

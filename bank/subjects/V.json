@@ -9,6 +9,23 @@
  "fill_from": "sector-financials",
  "photos": [
   {
+   "shows": "900 Metro Center Boulevard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/900_Metro_Center_Boulevard.jpg/1920px-900_Metro_Center_Boulevard.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/900_Metro_Center_Boulevard.jpg/500px-900_Metro_Center_Boulevard.jpg",
+   "size": [
+    1920,
+    1375
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:900_Metro_Center_Boulevard.jpg"
+  },
+  {
    "shows": "Ryan McInerney",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ryan_McInerney.jpg/1920px-Ryan_McInerney.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ryan_McInerney.jpg/500px-Ryan_McInerney.jpg",
@@ -114,6 +131,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Visa_Inc._1_2019-02-28.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Office buildings - August 2025 - Sarah Stierch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Office_buildings_-_August_2025_-_Sarah_Stierch.jpg/1920px-Office_buildings_-_August_2025_-_Sarah_Stierch.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Office_buildings_-_August_2025_-_Sarah_Stierch.jpg/500px-Office_buildings_-_August_2025_-_Sarah_Stierch.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Missvain, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Office_buildings_-_August_2025_-_Sarah_Stierch.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lloyds Bank Visa Debit card",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lloyds_Bank_Visa_Debit_card.jpg/1920px-Lloyds_Bank_Visa_Debit_card.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lloyds_Bank_Visa_Debit_card.jpg/500px-Lloyds_Bank_Visa_Debit_card.jpg",
+   "size": [
+    1920,
+    1230
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JeppaG4, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lloyds_Bank_Visa_Debit_card.jpg",
    "plain": true
   }
  ]

@@ -6,8 +6,41 @@
   "BLK"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
  "photos": [
+  {
+   "shows": "50 Hudson Yards",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/50_Hudson_Yards_%2855379880087%29.jpg/1280px-50_Hudson_Yards_%2855379880087%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/50_Hudson_Yards_%2855379880087%29.jpg/500px-50_Hudson_Yards_%2855379880087%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ajay Suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_(55379880087).jpg"
+  },
+  {
+   "shows": "50 Hudson Yards April 2021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/50_Hudson_Yards_April_2021.jpg/1280px-50_Hudson_Yards_April_2021.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/50_Hudson_Yards_April_2021.jpg/500px-50_Hudson_Yards_April_2021.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Percival Kestreltail, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_April_2021.jpg"
+  },
   {
    "shows": "50 Hudson Yards 003",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/50_Hudson_Yards_003.jpg/1920px-50_Hudson_Yards_003.jpg",
@@ -78,6 +111,78 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Black-rock-hq.jpg",
+   "plain": true
+  },
+  {
+   "shows": "50 Hudson Yards Ground Level",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/50_Hudson_Yards_Ground_Level.jpg/1280px-50_Hudson_Yards_Ground_Level.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/50_Hudson_Yards_Ground_Level.jpg/500px-50_Hudson_Yards_Ground_Level.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kentuckyfriedtucker, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_Ground_Level.jpg",
+   "plain": true
+  },
+  {
+   "shows": "50 Hudson Yards",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/50_Hudson_Yards.jpg/1280px-50_Hudson_Yards.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/50_Hudson_Yards.jpg/500px-50_Hudson_Yards.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:50_Hudson_Yards.jpg",
+   "plain": true
+  },
+  {
+   "shows": "50 Hudson Yards SE corner Aug 2021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/50_Hudson_Yards_SE_corner_Aug_2021.jpg/1280px-50_Hudson_Yards_SE_corner_Aug_2021.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/50_Hudson_Yards_SE_corner_Aug_2021.jpg/500px-50_Hudson_Yards_SE_corner_Aug_2021.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Percival Kestreltail, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_SE_corner_Aug_2021.jpg",
+   "plain": true
+  },
+  {
+   "shows": "50 Hudson Yards ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/50_Hudson_Yards_%2855379880087%29_%28cropped%29.jpg/1280px-50_Hudson_Yards_%2855379880087%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/50_Hudson_Yards_%2855379880087%29_%28cropped%29.jpg/500px-50_Hudson_Yards_%2855379880087%29_%28cropped%29.jpg",
+   "size": [
+    1280,
+    2187
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ajay Suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_(55379880087)_(cropped).jpg",
    "plain": true
   }
  ]

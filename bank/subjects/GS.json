@@ -6,8 +6,41 @@
   "GS"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
  "photos": [
+  {
+   "shows": "Goldman Sachs Tower @ 30 Hudson Street as viewed from the Exchange Place waterfront",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Goldman_Sachs_Tower_%40_30_Hudson_Street_as_viewed_from_the_Exchange_Place_waterfront.jpg/1280px-Goldman_Sachs_Tower_%40_30_Hudson_Street_as_viewed_from_the_Exchange_Place_waterfront.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Goldman_Sachs_Tower_%40_30_Hudson_Street_as_viewed_from_the_Exchange_Place_waterfront.jpg/500px-Goldman_Sachs_Tower_%40_30_Hudson_Street_as_viewed_from_the_Exchange_Place_waterfront.jpg",
+   "size": [
+    1280,
+    1918
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Vlad Lazarenko, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_@_30_Hudson_Street_as_viewed_from_the_Exchange_Place_waterfront.jpg"
+  },
+  {
+   "shows": "200 West Street - Lower Manhattan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/200_West_Street_-_Lower_Manhattan.jpg/1280px-200_West_Street_-_Lower_Manhattan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/200_West_Street_-_Lower_Manhattan.jpg/500px-200_West_Street_-_Lower_Manhattan.jpg",
+   "size": [
+    1280,
+    1829
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Potro, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_-_Lower_Manhattan.jpg"
+  },
   {
    "shows": "Goldman Sachs Tower, Jersey City, New Jersey, 1150 1065",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey%2C_20231001_1150_1065.jpg/1280px-Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey%2C_20231001_1150_1065.jpg",
@@ -112,6 +145,42 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_New_World_Headquarters.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Goldman_Sachs_%2855312935052%29.jpg/1280px-Goldman_Sachs_%2855312935052%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Goldman_Sachs_%2855312935052%29.jpg/500px-Goldman_Sachs_%2855312935052%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ajay Suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_(55312935052).jpg",
+   "plain": true
+  },
+  {
+   "shows": "200 West Street 006",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/200_West_Street_006.jpg/1280px-200_West_Street_006.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/200_West_Street_006.jpg/500px-200_West_Street_006.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_006.jpg",
    "plain": true
   }
  ]
