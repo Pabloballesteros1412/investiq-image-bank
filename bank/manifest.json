@@ -50737,30 +50737,6 @@
   "sector": "sector-consumer-discretionary",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "MEA Sukhumvit Park Bangkok",
-    "file": "File:MEA Sukhumvit Park Bangkok.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MEA_Sukhumvit_Park_Bangkok.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MEA_Sukhumvit_Park_Bangkok.jpg/1280px-MEA_Sukhumvit_Park_Bangkok.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MEA_Sukhumvit_Park_Bangkok.jpg/500px-MEA_Sukhumvit_Park_Bangkok.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BKKSP, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "BKKSP",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Marriott International"
-   },
-   {
     "shot": "c2",
     "shows": "Marriott Headquarters",
     "file": "File:Marriott Headquarters - 52576461289.jpg",
@@ -50809,6 +50785,209 @@
     "category": "Marriott International Headquarters 2022"
    },
    {
+    "shot": "s8",
+    "shows": "Marriott International Headquarters 01",
+    "file": "File:Marriott International Headquarters 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marriott_International_Headquarters_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marriott_International_Headquarters_01.jpg/1280px-Marriott_International_Headquarters_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marriott_International_Headquarters_01.jpg/500px-Marriott_International_Headquarters_01.jpg",
+    "size": [
+     1280,
+     1984
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Farragutful",
+    "year": 2023,
+    "how": "Commons search"
+   },
+   {
+    "shot": "b1",
+    "shows": "A large building with scaffolding on the side of it",
+    "file": "unsplash:zyTUJ1bE_30",
+    "page": "https://unsplash.com/photos/a-large-building-with-scaffolding-on-the-side-of-it-zyTUJ1bE_30?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1694942456637-b546a7285cd0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1694942456637-b546a7285cd0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Cheung Yin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cheung Yin",
+    "year": 2023,
+    "how": "unsplash search: Marriott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cheungyin?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zyTUJ1bE_30/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA"
+   },
+   {
+    "shot": "b2",
+    "shows": "A view of a building at sunset from a rooftop",
+    "file": "unsplash:EJawgqL_DzA",
+    "page": "https://unsplash.com/photos/a-view-of-a-building-at-sunset-from-a-rooftop-EJawgqL_DzA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1635997437134-b8505870263f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1635997437134-b8505870263f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mezidi Zineb on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mezidi Zineb",
+    "year": 2021,
+    "how": "unsplash search: Marriott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mezidi_zineb?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EJawgqL_DzA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA"
+   },
+   {
+    "shot": "b3",
+    "shows": "Marriott hotel logo on a textured wall",
+    "file": "unsplash:EYTMKjyJrDM",
+    "page": "https://unsplash.com/photos/marriott-hotel-logo-on-a-textured-wall-EYTMKjyJrDM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1760386129086-c55af2171f9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1760386129086-c55af2171f9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daniel Romero on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniel Romero",
+    "year": 2025,
+    "how": "unsplash search: Marriott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rmrdnl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EYTMKjyJrDM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycmlvdHR8ZW58MXx8fHwxNzk0MDEzOTE3fDA"
+   },
+   {
+    "shot": "b4",
+    "shows": "Brown and black spiral staircase",
+    "file": "unsplash:p0On3CPXyug",
+    "page": "https://unsplash.com/photos/brown-and-black-spiral-staircase-p0On3CPXyug?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1611106014490-2290b400a6a6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1611106014490-2290b400a6a6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by ibuki Tsubo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "ibuki Tsubo",
+    "year": 2021,
+    "how": "unsplash search: Marriott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ibutsubo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/p0On3CPXyug/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww"
+   },
+   {
+    "shot": "b5",
+    "shows": "The Marriott hotel building with a curved facade rising above lush green trees",
+    "file": "unsplash:oTpduK-hR0A",
+    "page": "https://unsplash.com/photos/marriott-hotel-building-above-green-trees-oTpduK-hR0A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1793526847841-328bc1e56c99?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1793526847841-328bc1e56c99?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1680
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vadim Yefremov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vadim Yefremov",
+    "year": 2026,
+    "how": "unsplash search: Marriott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yefrmv?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oTpduK-hR0A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww"
+   },
+   {
+    "shot": "b6",
+    "shows": "Green grass field near green mountains under blue sky during daytime",
+    "file": "unsplash:x2Dwb97kQ9c",
+    "page": "https://unsplash.com/photos/green-grass-field-near-green-mountains-under-blue-sky-during-daytime-x2Dwb97kQ9c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1629337451443-3a43721f196b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1629337451443-3a43721f196b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eelco Böhtlingk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eelco Böhtlingk",
+    "year": 2021,
+    "how": "unsplash search: Marriott",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@eelco_bohtlingk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/x2Dwb97kQ9c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fE1hcnJpb3R0fGVufDF8fHx8MTc5NDAxMzkxN3ww"
+   },
+   {
+    "shot": "c1",
+    "shows": "MEA Sukhumvit Park Bangkok",
+    "file": "File:MEA Sukhumvit Park Bangkok.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MEA_Sukhumvit_Park_Bangkok.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MEA_Sukhumvit_Park_Bangkok.jpg/1280px-MEA_Sukhumvit_Park_Bangkok.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MEA_Sukhumvit_Park_Bangkok.jpg/500px-MEA_Sukhumvit_Park_Bangkok.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "BKKSP, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "BKKSP",
+    "year": 2024,
+    "how": "Commons category",
+    "category": "Marriott International"
+   },
+   {
     "shot": "c4",
     "shows": "Marriott at China Wedding Expo Beijing, Spring 2021",
     "file": "File:Marriott at China Wedding Expo Beijing, Spring 2021 (20210425121318).jpg",
@@ -50833,101 +51012,6 @@
     "category": "Marriott International"
    },
    {
-    "shot": "c5",
-    "shows": "Courtyard by Marriott New York Manhattan-Central Park 2023 jeh",
-    "file": "File:Courtyard by Marriott New York Manhattan-Central Park 2023 jeh.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Courtyard_by_Marriott_New_York_Manhattan-Central_Park_2023_jeh.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Courtyard_by_Marriott_New_York_Manhattan-Central_Park_2023_jeh.jpg/1280px-Courtyard_by_Marriott_New_York_Manhattan-Central_Park_2023_jeh.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Courtyard_by_Marriott_New_York_Manhattan-Central_Park_2023_jeh.jpg/500px-Courtyard_by_Marriott_New_York_Manhattan-Central_Park_2023_jeh.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jim.henderson, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Jim.henderson",
-    "year": null,
-    "how": "Commons category",
-    "category": "Marriott International"
-   },
-   {
-    "shot": "c6",
-    "shows": "Hotel mera w sopocie",
-    "file": "File:Hotel mera w sopocie.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hotel_mera_w_sopocie.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hotel_mera_w_sopocie.jpg/1920px-Hotel_mera_w_sopocie.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hotel_mera_w_sopocie.jpg/500px-Hotel_mera_w_sopocie.jpg",
-    "size": [
-     1920,
-     1462
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Panek, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Panek",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Sopot Marriott Resort & Spa"
-   },
-   {
-    "shot": "c7",
-    "shows": "Sopot Marriott 5158",
-    "file": "File:Sopot Marriott 5158.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sopot_Marriott_5158.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sopot_Marriott_5158.jpg/1920px-Sopot_Marriott_5158.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sopot_Marriott_5158.jpg/500px-Sopot_Marriott_5158.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Gdaniec, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Gdaniec",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Sopot Marriott Resort & Spa"
-   },
-   {
-    "shot": "s8",
-    "shows": "Marriott International Headquarters 01",
-    "file": "File:Marriott International Headquarters 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Marriott_International_Headquarters_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marriott_International_Headquarters_01.jpg/1280px-Marriott_International_Headquarters_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Marriott_International_Headquarters_01.jpg/500px-Marriott_International_Headquarters_01.jpg",
-    "size": [
-     1280,
-     1984
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Farragutful",
-    "year": 2023,
-    "how": "Commons search"
-   },
-   {
     "shot": "s9",
     "shows": "Marriott Intl HQ - August 2022a - Crop",
     "file": "File:Marriott Intl HQ - August 2022a - Crop.jpg",
@@ -50949,32 +51033,9 @@
     "author": "User:Moreau1",
     "year": 2022,
     "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Custom furniture & Grant styled carpet installed by Marriott International in the lobby",
-    "file": "File:Custom furniture & Grant styled carpet installed by Marriott International in the lobby.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Custom_furniture_%26_Grant_styled_carpet_installed_by_Marriott_International_in_the_lobby.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Custom_furniture_%26_Grant_styled_carpet_installed_by_Marriott_International_in_the_lobby.jpg/1920px-Custom_furniture_%26_Grant_styled_carpet_installed_by_Marriott_International_in_the_lobby.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Custom_furniture_%26_Grant_styled_carpet_installed_by_Marriott_International_in_the_lobby.jpg/500px-Custom_furniture_%26_Grant_styled_carpet_installed_by_Marriott_International_in_the_lobby.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Abhishek Padmanabhuni, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Abhishek Padmanabhuni",
-    "year": 2022,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "MRSH": {
   "name": "Marsh McLennan",
@@ -51646,6 +51707,106 @@
   "sector": "sector-staples",
   "photos": [
    {
+    "shot": "c2",
+    "shows": "McCormick-Spice",
+    "file": "File:McCormick-Spice (44147658825).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:McCormick-Spice_(44147658825).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/McCormick-Spice_%2844147658825%29.jpg/1920px-McCormick-Spice_%2844147658825%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/McCormick-Spice_%2844147658825%29.jpg/500px-McCormick-Spice_%2844147658825%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Baltimore County Government, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Baltimore County Government",
+    "year": 2018,
+    "how": "Commons category",
+    "category": "McCormick & Company Headquarters grand opening (October 2, 2018)"
+   },
+   {
+    "shot": "c7",
+    "shows": "McCormick & Company Spices",
+    "file": "File:McCormick & Company Spices.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:McCormick_%26_Company_Spices.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/McCormick_%26_Company_Spices.jpg/1920px-McCormick_%26_Company_Spices.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/McCormick_%26_Company_Spices.jpg/500px-McCormick_%26_Company_Spices.jpg",
+    "size": [
+     1920,
+     1281
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Cinnamonspice241, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Cinnamonspice241",
+    "year": 2021,
+    "how": "Commons category",
+    "category": "McCormick & Company"
+   },
+   {
+    "shot": "b1",
+    "shows": "Aerial view of city during night time",
+    "file": "unsplash:Rz-ULCVaB5M",
+    "page": "https://unsplash.com/photos/aerial-view-of-city-during-night-time-Rz-ULCVaB5M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1600708798369-2b79b0518847?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TWNDb3JtaWNrfGVufDF8fHx8MTc5NDAxMzkxOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1600708798369-2b79b0518847?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TWNDb3JtaWNrfGVufDF8fHx8MTc5NDAxMzkxOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gary Meulemans on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gary Meulemans",
+    "year": 2020,
+    "how": "unsplash search: McCormick",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anakin1814?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Rz-ULCVaB5M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TWNDb3JtaWNrfGVufDF8fHx8MTc5NDAxMzkxOHww"
+   },
+   {
+    "shot": "b2",
+    "shows": "People walking inside building in grayscale photography",
+    "file": "unsplash:F9BcqakZ3OA",
+    "page": "https://unsplash.com/photos/people-walking-inside-building-in-grayscale-photography-F9BcqakZ3OA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1604062214486-bd3add79e28c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fE1jQ29ybWlja3xlbnwxfHx8fDE3OTQwMTM5MTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1604062214486-bd3add79e28c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fE1jQ29ybWlja3xlbnwxfHx8fDE3OTQwMTM5MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gary Meulemans on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gary Meulemans",
+    "year": 2020,
+    "how": "unsplash search: McCormick",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anakin1814?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/F9BcqakZ3OA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fE1jQ29ybWlja3xlbnwxfHx8fDE3OTQwMTM5MTh8MA"
+   },
+   {
     "shot": "main",
     "shows": "McCormick & Company Global Headquarters , opened October 2, 2018, in Hunt Valley, Maryland , US",
     "file": "File:McCormick Hq.jpg",
@@ -51670,30 +51831,6 @@
     "flags": [
      "restrictions: trademarked"
     ]
-   },
-   {
-    "shot": "c2",
-    "shows": "McCormick-Spice",
-    "file": "File:McCormick-Spice (44147658825).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:McCormick-Spice_(44147658825).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/McCormick-Spice_%2844147658825%29.jpg/1920px-McCormick-Spice_%2844147658825%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/McCormick-Spice_%2844147658825%29.jpg/500px-McCormick-Spice_%2844147658825%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Baltimore County Government, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Baltimore County Government",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "McCormick & Company Headquarters grand opening (October 2, 2018)"
    },
    {
     "shot": "c3",
@@ -51768,54 +51905,6 @@
     "category": "McCormick & Company"
    },
    {
-    "shot": "c6",
-    "shows": "Spice containers, hot sauces, black pepper, cayenne, cinnamon",
-    "file": "File:Spice containers, hot sauces, black pepper, cayenne, cinnamon.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Spice_containers,_hot_sauces,_black_pepper,_cayenne,_cinnamon.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Spice_containers%2C_hot_sauces%2C_black_pepper%2C_cayenne%2C_cinnamon.jpg/1920px-Spice_containers%2C_hot_sauces%2C_black_pepper%2C_cayenne%2C_cinnamon.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Spice_containers%2C_hot_sauces%2C_black_pepper%2C_cayenne%2C_cinnamon.jpg/500px-Spice_containers%2C_hot_sauces%2C_black_pepper%2C_cayenne%2C_cinnamon.jpg",
-    "size": [
-     1920,
-     1410
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Scialdone, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Michael Scialdone",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "McCormick & Company"
-   },
-   {
-    "shot": "c7",
-    "shows": "McCormick & Company Spices",
-    "file": "File:McCormick & Company Spices.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:McCormick_%26_Company_Spices.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/McCormick_%26_Company_Spices.jpg/1920px-McCormick_%26_Company_Spices.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/McCormick_%26_Company_Spices.jpg/500px-McCormick_%26_Company_Spices.jpg",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cinnamonspice241, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Cinnamonspice241",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "McCormick & Company"
-   },
-   {
     "shot": "s8",
     "shows": "McCormick headquarters",
     "file": "File:McCormick headquarters.jpg",
@@ -51837,33 +51926,9 @@
     "author": "Coolcaesar at English Wikipedia",
     "year": 2008,
     "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Air Canada Dinner",
-    "file": "File:Air Canada Dinner.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Air_Canada_Dinner.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Air_Canada_Dinner.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Air_Canada_Dinner.jpg/500px-Air_Canada_Dinner.jpg",
-    "size": [
-     1600,
-     1200
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Unknown author, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "",
-    "year": null,
-    "how": "Commons category",
-    "category": "McCormick & Company"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "MCD": {
   "name": "McDonald's",
@@ -52531,149 +52596,6 @@
   "sector": "sector-health",
   "photos": [
    {
-    "shot": "main",
-    "shows": "2009-0610-001-Fridley-MedtronicHQ",
-    "file": "File:2009-0610-001-Fridley-MedtronicHQ.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:2009-0610-001-Fridley-MedtronicHQ.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG/1920px-2009-0610-001-Fridley-MedtronicHQ.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG/500px-2009-0610-001-Fridley-MedtronicHQ.JPG",
-    "size": [
-     1920,
-     936
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Bobak Ha'Eri",
-    "year": 2009,
-    "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Medtronic Micro-Minix pacemaker from 1993 - Science Museum, London",
-    "file": "File:Medtronic Micro-Minix pacemaker from 1993 - Science Museum, London.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Medtronic_Micro-Minix_pacemaker_from_1993_-_Science_Museum,_London.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Medtronic_Micro-Minix_pacemaker_from_1993_-_Science_Museum%2C_London.jpg/1280px-Medtronic_Micro-Minix_pacemaker_from_1993_-_Science_Museum%2C_London.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Medtronic_Micro-Minix_pacemaker_from_1993_-_Science_Museum%2C_London.jpg/500px-Medtronic_Micro-Minix_pacemaker_from_1993_-_Science_Museum%2C_London.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The wub, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "The wub",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Medtronic"
-   },
-   {
-    "shot": "c3",
-    "shows": "Medtronic MiniMed 780G insulinpump",
-    "file": "File:Medtronic MiniMed 780G insulinpump.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Medtronic_MiniMed_780G_insulinpump.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Medtronic_MiniMed_780G_insulinpump.jpg/1920px-Medtronic_MiniMed_780G_insulinpump.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Medtronic_MiniMed_780G_insulinpump.jpg/500px-Medtronic_MiniMed_780G_insulinpump.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "MailariX, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "MailariX",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Medtronic"
-   },
-   {
-    "shot": "c4",
-    "shows": "Guardian 4 glucose sensor needle 02",
-    "file": "File:Guardian 4 glucose sensor needle 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Guardian_4_glucose_sensor_needle_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Guardian_4_glucose_sensor_needle_02.jpg/1920px-Guardian_4_glucose_sensor_needle_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Guardian_4_glucose_sensor_needle_02.jpg/500px-Guardian_4_glucose_sensor_needle_02.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Marius Vassnes, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Marius Vassnes",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Medtronic"
-   },
-   {
-    "shot": "c5",
-    "shows": "The old headquarters of Medtronic , built in 1960 in Fridley, Minnesota , USA.",
-    "file": "File:2012-0907-OldMedtronicHQ.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2012-0907-OldMedtronicHQ.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2012-0907-OldMedtronicHQ.jpg/1920px-2012-0907-OldMedtronicHQ.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/2012-0907-OldMedtronicHQ.jpg/500px-2012-0907-OldMedtronicHQ.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Bobak Ha'Eri",
-    "year": 2012,
-    "how": "Commons category",
-    "category": "Medtronic"
-   },
-   {
-    "shot": "c6",
-    "shows": "Defibrillator monitor Lifepak 12",
-    "file": "File:Defibrillator monitor Lifepak 12.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Defibrillator_monitor_Lifepak_12.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Defibrillator_monitor_Lifepak_12.jpg/1920px-Defibrillator_monitor_Lifepak_12.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Defibrillator_monitor_Lifepak_12.jpg/500px-Defibrillator_monitor_Lifepak_12.jpg",
-    "size": [
-     1920,
-     1470
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pöllö, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Pöllö",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "Medtronic"
-   },
-   {
     "shot": "c7",
     "shows": "Medtronic Headquarters Office Building - Mounds View, Minnesota",
     "file": "File:Medtronic Headquarters Office Building - Mounds View, Minnesota (43381897454).jpg",
@@ -52698,36 +52620,35 @@
     "category": "Medtronic"
    },
    {
-    "shot": "c8",
-    "shows": "Woman pointing to a screen as Ambassador Burns watches",
-    "file": "File:Woman pointing to a screen as Ambassador Burns watches.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Woman_pointing_to_a_screen_as_Ambassador_Burns_watches.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Woman_pointing_to_a_screen_as_Ambassador_Burns_watches.jpg/1920px-Woman_pointing_to_a_screen_as_Ambassador_Burns_watches.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Woman_pointing_to_a_screen_as_Ambassador_Burns_watches.jpg/500px-Woman_pointing_to_a_screen_as_Ambassador_Burns_watches.jpg",
+    "shot": "main",
+    "shows": "2009-0610-001-Fridley-MedtronicHQ",
+    "file": "File:2009-0610-001-Fridley-MedtronicHQ.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:2009-0610-001-Fridley-MedtronicHQ.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG/1920px-2009-0610-001-Fridley-MedtronicHQ.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2009-0610-001-Fridley-MedtronicHQ.JPG/500px-2009-0610-001-Fridley-MedtronicHQ.JPG",
     "size": [
      1920,
-     1363
+     936
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Ambassador of the United States of America to the People's Republic of China, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Ambassador of the United States of America to the People's Republic of China",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Medtronic"
+    "credit": "Bobak Ha'Eri, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Bobak Ha'Eri",
+    "year": 2009,
+    "how": "Wikidata main image"
    },
    {
-    "shot": "c9",
-    "shows": "Laien-Defi 2624",
-    "file": "File:Laien-Defi 2624.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Laien-Defi_2624.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Laien-Defi_2624.JPG/1920px-Laien-Defi_2624.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Laien-Defi_2624.JPG/500px-Laien-Defi_2624.JPG",
+    "shot": "c3",
+    "shows": "Medtronic MiniMed 780G insulinpump",
+    "file": "File:Medtronic MiniMed 780G insulinpump.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Medtronic_MiniMed_780G_insulinpump.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Medtronic_MiniMed_780G_insulinpump.jpg/1920px-Medtronic_MiniMed_780G_insulinpump.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Medtronic_MiniMed_780G_insulinpump.jpg/500px-Medtronic_MiniMed_780G_insulinpump.jpg",
     "size": [
      1920,
      1280
@@ -52736,41 +52657,17 @@
      0.5,
      0.5
     ],
-    "credit": "Karl Gruber, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "MailariX, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Karl Gruber",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Medtronic"
-   },
-   {
-    "shot": "c10",
-    "shows": "Medtronic Paradigm 754.front.ajb",
-    "file": "File:Medtronic Paradigm 754.front.ajb.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Medtronic_Paradigm_754.front.ajb.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Medtronic_Paradigm_754.front.ajb.jpg/1920px-Medtronic_Paradigm_754.front.ajb.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Medtronic_Paradigm_754.front.ajb.jpg/500px-Medtronic_Paradigm_754.front.ajb.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ajepbah, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Ajepbah",
-    "year": 2013,
+    "author": "MailariX",
+    "year": 2021,
     "how": "Commons category",
     "category": "Medtronic"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "MELI": {
   "name": "MercadoLibre",
@@ -52827,33 +52724,9 @@
     "year": 2022,
     "how": "Commons category",
     "category": "MercadoLibre vehicles"
-   },
-   {
-    "shot": "c3",
-    "shows": "Camionetas de mercadolibre en Tlalnepantla",
-    "file": "File:Camionetas de mercadolibre en Tlalnepantla.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Camionetas_de_mercadolibre_en_Tlalnepantla.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Camionetas_de_mercadolibre_en_Tlalnepantla.jpg/1280px-Camionetas_de_mercadolibre_en_Tlalnepantla.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Camionetas_de_mercadolibre_en_Tlalnepantla.jpg/500px-Camionetas_de_mercadolibre_en_Tlalnepantla.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Koffermejia, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Koffermejia",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "MercadoLibre vehicles"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "MRK": {
   "name": "Merck & Co.",
@@ -53502,12 +53375,35 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "Dutch Kills Green td ( ) 04",
-    "file": "File:Dutch Kills Green td (2023-05-12) 04.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dutch_Kills_Green_td_(2023-05-12)_04.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dutch_Kills_Green_td_%282023-05-12%29_04.jpg/1920px-Dutch_Kills_Green_td_%282023-05-12%29_04.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dutch_Kills_Green_td_%282023-05-12%29_04.jpg/500px-Dutch_Kills_Green_td_%282023-05-12%29_04.jpg",
+    "shot": "s8",
+    "shows": "Walter Gropius photo MetLife Building fassade New York USA",
+    "file": "File:Walter Gropius photo MetLife Building fassade New York USA 2005-10-03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg/500px-Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg",
+    "size": [
+     1143,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Unknown author, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "",
+    "year": null,
+    "how": "Commons search"
+   },
+   {
+    "shot": "s9",
+    "shows": "Metlife Building Und Chrysler Building",
+    "file": "File:Metlife Building Und Chrysler Building (136757291).jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Metlife_Building_Und_Chrysler_Building_(136757291).jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg/1920px-Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg/500px-Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg",
     "size": [
      1920,
      1280
@@ -53516,14 +53412,201 @@
      0.5,
      0.5
     ],
-    "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tdorante10",
+    "credit": "Udo R, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Udo R",
+    "year": 2016,
+    "how": "Commons search"
+   },
+   {
+    "shot": "b1",
+    "shows": "MetLife high-rise building beside Chrysler Building during daytime",
+    "file": "unsplash:HLZa7EDlXlg",
+    "page": "https://unsplash.com/photos/metlife-high-rise-building-beside-chrysler-building-during-daytime-HLZa7EDlXlg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1566243052092-602f04290c1a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1566243052092-602f04290c1a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by David Watkis on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Watkis",
+    "year": 2019,
+    "how": "unsplash search: MetLife",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@david_watkis?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HLZa7EDlXlg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA"
+   },
+   {
+    "shot": "b2",
+    "shows": "A city street lined with tall buildings and american flags",
+    "file": "unsplash:3a41Ooo9Y-4",
+    "page": "https://unsplash.com/photos/a-city-street-lined-with-tall-buildings-and-american-flags-3a41Ooo9Y-4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1685665814698-3764d5c35a8d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA&ixlib=rb-4.1.0&w=2247&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1685665814698-3764d5c35a8d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2247,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Aidan Murphy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Aidan Murphy",
     "year": 2023,
-    "how": "Commons category",
-    "category": "MetLife"
+    "how": "unsplash search: MetLife",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@aidansplanet?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/3a41Ooo9Y-4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "The metlife building entrance in black and white",
+    "file": "unsplash:fzNgVbmdDL8",
+    "page": "https://unsplash.com/photos/the-metlife-building-entrance-in-black-and-white-fzNgVbmdDL8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1749310579919-ad00dec2bff2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA&ixlib=rb-4.1.0&w=2069&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1749310579919-ad00dec2bff2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2069,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "unsplash search: MetLife",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/fzNgVbmdDL8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "The metlife building's entrance, viewed from outside",
+    "file": "unsplash:pN0ZGQX4GYI",
+    "page": "https://unsplash.com/photos/the-metlife-buildings-entrance-viewed-from-outside-pN0ZGQX4GYI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1749310579939-0c494c19100a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1749310579939-0c494c19100a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "unsplash search: MetLife",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pN0ZGQX4GYI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TWV0TGlmZXxlbnwxfHx8fDE3OTQwMTM5MjJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "Grayscale photography of Met Life Central building",
+    "file": "unsplash:-dEDP0XuLvE",
+    "page": "https://unsplash.com/photos/grayscale-photography-of-met-life-central-building--dEDP0XuLvE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1566356627445-ebd22cb77a2a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1566356627445-ebd22cb77a2a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Izaac Crayton on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Izaac Crayton",
+    "year": 2019,
+    "how": "unsplash search: MetLife",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@izaac_crayton?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-dEDP0XuLvE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "Metlife building illuminated at dusk with traffic light",
+    "file": "unsplash:gV1iQPH2YdE",
+    "page": "https://unsplash.com/photos/metlife-building-illuminated-at-dusk-with-traffic-light-gV1iQPH2YdE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1774977830902-e302e8a82c08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1774977830902-e302e8a82c08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1201,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vinny Weisman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vinny Weisman",
+    "year": 2026,
+    "how": "unsplash search: MetLife",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vincrtv?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gV1iQPH2YdE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "Metlife building rooftop covered in snow",
+    "file": "unsplash:gCPDLQ5Qzaw",
+    "page": "https://unsplash.com/photos/metlife-building-rooftop-covered-in-snow-gCPDLQ5Qzaw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1757275871733-d8c197b928d4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1757275871733-d8c197b928d4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Arno Senoner on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Arno Senoner",
+    "year": 2025,
+    "how": "unsplash search: MetLife",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@arnosenoner?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gCPDLQ5Qzaw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fE1ldExpZmV8ZW58MXx8fHwxNzk0MDEzOTIyfDA",
+    "track_pending": true
    },
    {
     "shot": "c3",
@@ -53546,54 +53629,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Carlos Figueroa Rojas",
     "year": 2021,
-    "how": "Commons category",
-    "category": "MetLife"
-   },
-   {
-    "shot": "c4",
-    "shows": "Queens Plaza North - Met Life Plaza, New York City",
-    "file": "File:Queens Plaza North - Met Life Plaza, New York City.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Queens_Plaza_North_-_Met_Life_Plaza,_New_York_City.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Queens_Plaza_North_-_Met_Life_Plaza%2C_New_York_City.jpg/1920px-Queens_Plaza_North_-_Met_Life_Plaza%2C_New_York_City.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Queens_Plaza_North_-_Met_Life_Plaza%2C_New_York_City.jpg/500px-Queens_Plaza_North_-_Met_Life_Plaza%2C_New_York_City.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mxn, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Mxn",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "MetLife"
-   },
-   {
-    "shot": "c5",
-    "shows": "Metro Life Hall Recs Palmer Av jeh",
-    "file": "File:Metro Life Hall Recs Palmer Av jeh.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Metro_Life_Hall_Recs_Palmer_Av_jeh.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Metro_Life_Hall_Recs_Palmer_Av_jeh.JPG/1920px-Metro_Life_Hall_Recs_Palmer_Av_jeh.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Metro_Life_Hall_Recs_Palmer_Av_jeh.JPG/500px-Metro_Life_Hall_Recs_Palmer_Av_jeh.JPG",
-    "size": [
-     1920,
-     1706
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jim.henderson, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Jim.henderson",
-    "year": 2009,
     "how": "Commons category",
     "category": "MetLife"
    },
@@ -53646,52 +53681,6 @@
     "category": "Edificio Torre Metlife"
    },
    {
-    "shot": "s8",
-    "shows": "Walter Gropius photo MetLife Building fassade New York USA",
-    "file": "File:Walter Gropius photo MetLife Building fassade New York USA 2005-10-03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg/500px-Walter_Gropius_photo_MetLife_Building_fassade_New_York_USA_2005-10-03.jpg",
-    "size": [
-     1143,
-     1600
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Unknown author, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "",
-    "year": null,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Metlife Building Und Chrysler Building",
-    "file": "File:Metlife Building Und Chrysler Building (136757291).jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Metlife_Building_Und_Chrysler_Building_(136757291).jpeg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg/1920px-Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg/500px-Metlife_Building_Und_Chrysler_Building_%28136757291%29.jpeg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Udo R, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Udo R",
-    "year": 2016,
-    "how": "Commons search"
-   },
-   {
     "shot": "s10",
     "shows": "MetLife Building (ehem. Pan Am Building) und Chrysler Building - panoramio",
     "file": "File:MetLife Building (ehem. Pan Am Building) und Chrysler Building - panoramio.jpg",
@@ -53715,7 +53704,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "MTD": {
   "name": "Mettler Toledo",
@@ -53859,124 +53848,271 @@
   "sector": "sector-consumer-discretionary",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "Bet MGM advertisement at Chicago Union Station - June 2022 - Sarah Stierch",
-    "file": "File:Bet MGM advertisement at Chicago Union Station - June 2022 - Sarah Stierch.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bet_MGM_advertisement_at_Chicago_Union_Station_-_June_2022_-_Sarah_Stierch.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bet_MGM_advertisement_at_Chicago_Union_Station_-_June_2022_-_Sarah_Stierch.jpg/1920px-Bet_MGM_advertisement_at_Chicago_Union_Station_-_June_2022_-_Sarah_Stierch.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bet_MGM_advertisement_at_Chicago_Union_Station_-_June_2022_-_Sarah_Stierch.jpg/500px-Bet_MGM_advertisement_at_Chicago_Union_Station_-_June_2022_-_Sarah_Stierch.jpg",
+    "shot": "c8",
+    "shows": "Luxor Hotel Feb - 2019",
+    "file": "File:Luxor Hotel Feb - 2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Luxor_Hotel_Feb_-_2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luxor_Hotel_Feb_-_2019.jpg/1280px-Luxor_Hotel_Feb_-_2019.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luxor_Hotel_Feb_-_2019.jpg/500px-Luxor_Hotel_Feb_-_2019.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1734
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Missvain",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "MGM Resorts International"
-   },
-   {
-    "shot": "c2",
-    "shows": "Cables - Flickr - Corey Leopold",
-    "file": "File:Cables - Flickr - Corey Leopold.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cables_-_Flickr_-_Corey_Leopold.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cables_-_Flickr_-_Corey_Leopold.jpg/1920px-Cables_-_Flickr_-_Corey_Leopold.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cables_-_Flickr_-_Corey_Leopold.jpg/500px-Cables_-_Flickr_-_Corey_Leopold.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Corey Leopold, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Corey Leopold",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "New York-New York Hotel and Casino"
-   },
-   {
-    "shot": "c3",
-    "shows": "MGM Resorts LoveLoud",
-    "file": "File:MGM Resorts LoveLoud (44222385842).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MGM_Resorts_LoveLoud_(44222385842).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MGM_Resorts_LoveLoud_%2844222385842%29.jpg/1920px-MGM_Resorts_LoveLoud_%2844222385842%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MGM_Resorts_LoveLoud_%2844222385842%29.jpg/500px-MGM_Resorts_LoveLoud_%2844222385842%29.jpg",
-    "size": [
-     1920,
-     1206
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ben P L from Provo, USA, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Ben P L from Provo, USA",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "MGM Resorts International"
-   },
-   {
-    "shot": "c4",
-    "shows": "From Bally's Atlantic City td ( ) 09 - Borgata Hotel",
-    "file": "File:From Bally's Atlantic City td (2019-05-01) 09 - Borgata Hotel.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:From_Bally%27s_Atlantic_City_td_(2019-05-01)_09_-_Borgata_Hotel.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/From_Bally%27s_Atlantic_City_td_%282019-05-01%29_09_-_Borgata_Hotel.jpg/1920px-From_Bally%27s_Atlantic_City_td_%282019-05-01%29_09_-_Borgata_Hotel.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/From_Bally%27s_Atlantic_City_td_%282019-05-01%29_09_-_Borgata_Hotel.jpg/500px-From_Bally%27s_Atlantic_City_td_%282019-05-01%29_09_-_Borgata_Hotel.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Sisternaconstanza, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tdorante10",
+    "author": "Sisternaconstanza",
     "year": 2019,
     "how": "Commons category",
-    "category": "Borgata Hotel Casino & Spa"
+    "category": "Luxor Resort & Casino"
    },
    {
-    "shot": "c5",
-    "shows": "NJ Route 87 nb, MP 0.1, July 2021",
-    "file": "File:NJ Route 87 nb, MP 0.1, July 2021.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NJ_Route_87_nb,_MP_0.1,_July_2021.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NJ_Route_87_nb%2C_MP_0.1%2C_July_2021.jpg/1920px-NJ_Route_87_nb%2C_MP_0.1%2C_July_2021.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NJ_Route_87_nb%2C_MP_0.1%2C_July_2021.jpg/500px-NJ_Route_87_nb%2C_MP_0.1%2C_July_2021.jpg",
+    "shot": "b1",
+    "shows": "A group of people sitting around a swimming pool",
+    "file": "unsplash:ezT7bhtIw0A",
+    "page": "https://unsplash.com/photos/a-group-of-people-sitting-around-a-swimming-pool-ezT7bhtIw0A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723586070452-92c741c2521a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723586070452-92c741c2521a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1283
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mr. Matté (if there is an issue with this image, contact me using this image's Commons talk page , my Commons user talk page , or my English Wikipedia user talk page ; I'll know about it a lot faster), CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Mr. Matté (if there is an issue with this image, contact me using this image's Commons talk page , my Commons user talk page , or my English Wikipedia user talk page ; I'll know about it a lot faster)",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Borgata Hotel Casino & Spa"
+    "credit": "Photo by Meg von Haartman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Meg von Haartman",
+    "year": 2024,
+    "how": "unsplash search: MGM Grand",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@traveleroohlala?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ezT7bhtIw0A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "A group of people sitting around a swimming pool",
+    "file": "unsplash:iiAPiN4wOiY",
+    "page": "https://unsplash.com/photos/a-group-of-people-sitting-around-a-swimming-pool-iiAPiN4wOiY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723586265634-fdcd88d1494c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723586265634-fdcd88d1494c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Meg von Haartman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Meg von Haartman",
+    "year": 2024,
+    "how": "unsplash search: MGM Grand",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@traveleroohlala?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/iiAPiN4wOiY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "A large golden lion statue sitting in front of a building",
+    "file": "unsplash:17XeNR8HyIg",
+    "page": "https://unsplash.com/photos/a-large-golden-lion-statue-sitting-in-front-of-a-building-17XeNR8HyIg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1649633564413-bd31c958fa3b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=2182&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1649633564413-bd31c958fa3b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2182,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kevin Dunlap on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kevin Dunlap",
+    "year": 2022,
+    "how": "unsplash search: MGM Grand",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kevinadunlap?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/17XeNR8HyIg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "People walking down a cobblestone street in Bellagio, Italy, during the golden hour",
+    "file": "unsplash:oRjGmKZLNHk",
+    "page": "https://unsplash.com/photos/cobblestone-street-in-bellagio-italy-oRjGmKZLNHk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1583855282680-6dbdc69b0932?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8QmVsbGFnaW98ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1583855282680-6dbdc69b0932?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8QmVsbGFnaW98ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Julia Solonina on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Julia Solonina",
+    "year": 2020,
+    "how": "unsplash search: Bellagio",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@julie_soul?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oRjGmKZLNHk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8QmVsbGFnaW98ZW58MXx8fHwxNzk0MDEzOTI1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "A view of the las vegas hotel and casino from across the water",
+    "file": "unsplash:hn15tO9NUiA",
+    "page": "https://unsplash.com/photos/a-view-of-the-las-vegas-hotel-and-casino-from-across-the-water-hn15tO9NUiA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1646382725507-008578762041?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1646382725507-008578762041?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2001,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alex Vegas on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alex Vegas",
+    "year": 2022,
+    "how": "unsplash search: Bellagio",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alexvegas32?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hn15tO9NUiA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "Bellagio hotel lit up at night in las vegas",
+    "file": "unsplash:iWTN5SWak90",
+    "page": "https://unsplash.com/photos/bellagio-hotel-lit-up-at-night-in-las-vegas-iWTN5SWak90?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1743303078110-ce5f4c68ab7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1743303078110-ce5f4c68ab7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Fabio Sasso on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Fabio Sasso",
+    "year": 2025,
+    "how": "unsplash search: Bellagio",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@abduzeedo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/iWTN5SWak90/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "The bellagio hotel in las vegas at night",
+    "file": "unsplash:gVCq2zA4BQ8",
+    "page": "https://unsplash.com/photos/the-bellagio-hotel-in-las-vegas-at-night-gVCq2zA4BQ8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1743303078365-33533c9efc0b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1743303078365-33533c9efc0b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Fabio Sasso on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Fabio Sasso",
+    "year": 2025,
+    "how": "unsplash search: Bellagio",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@abduzeedo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gVCq2zA4BQ8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "Green fireworks exploding above the MGM Grand hotel on the Las Vegas Strip",
+    "file": "unsplash:Db6YQivBAnY",
+    "page": "https://unsplash.com/photos/green-fireworks-over-las-vegas-hotels-Db6YQivBAnY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1788845976846-0cc2f72ffb9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fE1HTSUyMEdyYW5kfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1788845976846-0cc2f72ffb9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fE1HTSUyMEdyYW5kfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by AJ on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "AJ",
+    "year": 2026,
+    "how": "unsplash search: MGM Grand",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cornthechicken?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Db6YQivBAnY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fE1HTSUyMEdyYW5kfGVufDF8fHx8MTc5NDAxMzkyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "A boat that is sitting in the water",
+    "file": "unsplash:ABlSdBBqWJk",
+    "page": "https://unsplash.com/photos/a-boat-that-is-sitting-in-the-water-ABlSdBBqWJk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641125816709-4faf4f7e7423?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641125816709-4faf4f7e7423?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by luca turati on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "luca turati",
+    "year": 2022,
+    "how": "unsplash search: Bellagio",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lucaturo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ABlSdBBqWJk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEJlbGxhZ2lvfGVufDF8fHx8MTc5NDAxMzkyNXww",
+    "track_pending": true
    },
    {
     "shot": "c6",
@@ -54003,54 +54139,6 @@
     "category": "Excalibur Hotel & Casino"
    },
    {
-    "shot": "c7",
-    "shows": "Foxwoods Casino from Lantern Hill , December 2023",
-    "file": "File:Foxwoods Casino from Lantern Hill (1), December 2023.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Foxwoods_Casino_from_Lantern_Hill_(1),_December_2023.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Foxwoods_Casino_from_Lantern_Hill_%281%29%2C_December_2023.JPG/1920px-Foxwoods_Casino_from_Lantern_Hill_%281%29%2C_December_2023.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Foxwoods_Casino_from_Lantern_Hill_%281%29%2C_December_2023.JPG/500px-Foxwoods_Casino_from_Lantern_Hill_%281%29%2C_December_2023.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pi.1415926535, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Pi.1415926535",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Foxwoods Resort Casino"
-   },
-   {
-    "shot": "c8",
-    "shows": "Luxor Hotel Feb - 2019",
-    "file": "File:Luxor Hotel Feb - 2019.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Luxor_Hotel_Feb_-_2019.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luxor_Hotel_Feb_-_2019.jpg/1280px-Luxor_Hotel_Feb_-_2019.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Luxor_Hotel_Feb_-_2019.jpg/500px-Luxor_Hotel_Feb_-_2019.jpg",
-    "size": [
-     1280,
-     1734
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sisternaconstanza, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Sisternaconstanza",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Luxor Resort & Casino"
-   },
-   {
     "shot": "c9",
     "shows": "Luxor Resort & Casino pool, Las Vegas",
     "file": "File:Luxor Resort & Casino pool, Las Vegas.jpg",
@@ -54073,33 +54161,9 @@
     "year": 2023,
     "how": "Commons category",
     "category": "Luxor Resort & Casino"
-   },
-   {
-    "shot": "c10",
-    "shows": "Bellagio Hotel and Casino, Las Vegas, Nevada, USA",
-    "file": "File:Bellagio Hotel and Casino, Las Vegas, Nevada, USA (16644124514).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bellagio_Hotel_and_Casino,_Las_Vegas,_Nevada,_USA_(16644124514).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bellagio_Hotel_and_Casino%2C_Las_Vegas%2C_Nevada%2C_USA_%2816644124514%29.jpg/1280px-Bellagio_Hotel_and_Casino%2C_Las_Vegas%2C_Nevada%2C_USA_%2816644124514%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bellagio_Hotel_and_Casino%2C_Las_Vegas%2C_Nevada%2C_USA_%2816644124514%29.jpg/500px-Bellagio_Hotel_and_Casino%2C_Las_Vegas%2C_Nevada%2C_USA_%2816644124514%29.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jim G from Silicon Valley, CA, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Jim G from Silicon Valley, CA, USA",
-    "year": 2011,
-    "how": "Commons category",
-    "category": "Bellagio Hotel & Casino"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "MCHP": {
   "name": "Microchip Technology",
@@ -54986,6 +55050,87 @@
     "person": true
    },
    {
+    "shot": "b1",
+    "shows": "White and black labeled bottle",
+    "file": "unsplash:iuiKtPNHObA",
+    "page": "https://unsplash.com/photos/white-and-black-labeled-bottle-iuiKtPNHObA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1618615159724-118c1f47f7ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TW9kZXJuYXxlbnwxfHx8fDE3OTQwMTM5MjZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1618615159724-118c1f47f7ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TW9kZXJuYXxlbnwxfHx8fDE3OTQwMTM5MjZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ian Hutchinson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ian Hutchinson",
+    "year": 2021,
+    "how": "unsplash search: Moderna",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ianhutchinson92?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/iuiKtPNHObA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TW9kZXJuYXxlbnwxfHx8fDE3OTQwMTM5MjZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "White and red labeled bottle",
+    "file": "unsplash:xQailxM5-Gk",
+    "page": "https://unsplash.com/photos/white-and-red-labeled-bottle-xQailxM5-Gk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1629361989971-2c0b5e850e46?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TW9kZXJuYXxlbnwxfHx8fDE3OTQwMTM5MjZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1629361989971-2c0b5e850e46?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TW9kZXJuYXxlbnwxfHx8fDE3OTQwMTM5MjZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mufid Majnun on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mufid Majnun",
+    "year": 2021,
+    "how": "unsplash search: Moderna",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mufidpwt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/xQailxM5-Gk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TW9kZXJuYXxlbnwxfHx8fDE3OTQwMTM5MjZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "A close up of a bottle of covidd",
+    "file": "unsplash:k_5wJQ-q49I",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-bottle-of-covidd-k_5wJQ-q49I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1643562125363-669c910240cb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fE1vZGVybmF8ZW58MXx8fHwxNzk0MDEzOTI2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1643562125363-669c910240cb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fE1vZGVybmF8ZW58MXx8fHwxNzk0MDEzOTI2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Guido Hofmann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Guido Hofmann",
+    "year": 2022,
+    "how": "unsplash search: Moderna",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vieirra?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/k_5wJQ-q49I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fE1vZGVybmF8ZW58MXx8fHwxNzk0MDEzOTI2fDA",
+    "track_pending": true
+   },
+   {
     "shot": "c3",
     "shows": "Moderna Headquarters",
     "file": "File:Moderna Headquarters (54960816438).jpg",
@@ -55008,56 +55153,9 @@
     "year": 2025,
     "how": "Commons category",
     "category": "Moderna"
-   },
-   {
-    "shot": "c4",
-    "shows": "31 FW Airmen receive second Moderna COVID-19 vaccine",
-    "file": "File:31 FW Airmen receive second Moderna COVID-19 vaccine (6538675).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_(6538675).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538675%29.jpg/1920px-31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538675%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538675%29.jpg/500px-31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538675%29.jpg",
-    "size": [
-     1920,
-     1372
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Air Force photo by Airman 1st Class Brooke Keisler, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Air Force photo by Airman 1st Class Brooke Keisler",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Products of Moderna"
-   },
-   {
-    "shot": "s5",
-    "shows": "Moderna Building backyard on 10 Lutego",
-    "file": "File:Moderna Building backyard on 10 Lutego.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Moderna_Building_backyard_on_10_Lutego.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Moderna_Building_backyard_on_10_Lutego.jpg/1280px-Moderna_Building_backyard_on_10_Lutego.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Moderna_Building_backyard_on_10_Lutego.jpg/500px-Moderna_Building_backyard_on_10_Lutego.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jack twister, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Jack twister",
-    "year": 2025,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "MDLZ": {
   "name": "Mondelez International",
