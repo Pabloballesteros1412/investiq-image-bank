@@ -169,8 +169,8 @@ Decisions (Pablo, 4 Nov 2026):
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
    **Unsplash production**: applied on 5 Nov (in review). Once approved (`X-Ratelimit-Limit: 1000`), the company
    brand pass takes about half an hour.
-2. Done: PRs #1, #2 and #3 merged into `main` (6-7 Nov 2026); the raw `main/bank/index.json` the chat reads
-   has 2,266 photos and 631 subjects (checked 7 Nov). Later work goes in through a new PR.
+2. Done: PRs #1 to #4 merged into `main` (6-7 Nov 2026); the raw `main/bank/index.json` the chat reads
+   has 2,337 photos and 631 subjects (checked 7 Nov). Later work goes in through a new PR.
 3. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
 4. Done (7 Nov): hand search on Commons for the 26 catalog companies with 0-3 good photos (5 targeted queries
    each: HQ by address, plants, products, signs), 303 candidates graded by eye: 45 grade 3 (put first), 121 grade 2
