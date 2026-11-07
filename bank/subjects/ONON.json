@@ -6,186 +6,25 @@
   "ONON"
  ],
  "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
-   "shows": "A pair of running shoes on a white background",
-   "url": "https://images.unsplash.com/photo-1637437757614-6491c8e915b5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8T24lMjBSdW5uaW5nJTIwc2hvZXN8ZW58MXx8fHwxNzk0MDQ2MzY1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1637437757614-6491c8e915b5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8T24lMjBSdW5uaW5nJTIwc2hvZXN8ZW58MXx8fHwxNzk0MDQ2MzY1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "On Cloud Running Shoes",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/On_Cloud_Running_Shoes.jpg/1920px-On_Cloud_Running_Shoes.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/On_Cloud_Running_Shoes.jpg/500px-On_Cloud_Running_Shoes.jpg",
    "size": [
-    2250,
-    1500
+    1920,
+    1440
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by mostafa mahmoudi on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@mostafa_mahmoudi24?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-pair-of-running-shoes-on-a-white-background-W_uDEmTq0po?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A pair of sneakers on display in a glass case",
-   "url": "https://images.unsplash.com/photo-1739132268718-53d64165d29a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8T24lMjBSdW5uaW5nJTIwc2hvZXN8ZW58MXx8fHwxNzk0MDQ2MzY1fDA&ixlib=rb-4.1.0&w=2109&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1739132268718-53d64165d29a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8T24lMjBSdW5uaW5nJTIwc2hvZXN8ZW58MXx8fHwxNzk0MDQ2MzY1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2109,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Zoshua Colah on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-pair-of-sneakers-on-display-in-a-glass-case-eMMLDnWoR_I?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Black and white nike athletic shoes on brown sand",
-   "url": "https://images.unsplash.com/photo-1611080027147-a1a0b6e05168?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8T24lMjBSdW5uaW5nJTIwc2hvZXN8ZW58MXx8fHwxNzk0MDQ2MzY1fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1611080027147-a1a0b6e05168?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8T24lMjBSdW5uaW5nJTIwc2hvZXN8ZW58MXx8fHwxNzk0MDQ2MzY1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1350
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Miquel Parera on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@miquel_parera_mila?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/black-and-white-nike-athletic-shoes-on-brown-sand-xag0YpBqNfQ?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Black and white shoes hanging on wire",
-   "url": "https://images.unsplash.com/photo-1613416709729-936e44556882?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=1307&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1613416709729-936e44556882?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1307,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Cody F on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@hiccupfromberk?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/black-and-white-shoes-hanging-on-wire-GuSwYE4Op4g?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A pair of shoes sitting on the ground in the dark",
-   "url": "https://images.unsplash.com/photo-1712426321406-cb88bbb68a15?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1712426321406-cb88bbb68a15?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    2132
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by David Moorhouse on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@david_moorhouse?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-pair-of-shoes-sitting-on-the-ground-in-the-dark-oe0EjjHz4HY?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "People examining new shoes in boxes on the ground",
-   "url": "https://images.unsplash.com/photo-1779122857893-1fc3bf4c1f9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=1979&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1779122857893-1fc3bf4c1f9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1979,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Zero Vo on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@z3ro?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/people-examining-new-shoes-in-boxes-on-the-ground-bee-xLPXIVQ?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "People swimming on sea during daytime",
-   "url": "https://images.unsplash.com/photo-1584991934182-39202f774c24?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1584991934182-39202f774c24?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    2134
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Miha Rekar on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@miharekar?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/people-swimming-on-sea-during-daytime-trrx1WN60Mc?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A display case with a shoe on top of it",
-   "url": "https://images.unsplash.com/photo-1739132268693-8ba353f0959c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=2193&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1739132268693-8ba353f0959c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2193,
-    1501
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Zoshua Colah on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-display-case-with-a-shoe-on-top-of-it-nCihUzKDCN0?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A person in muddy trail running shoes standing on a textured red sandstone rock",
-   "url": "https://images.unsplash.com/photo-1793415486840-34ffd80b1dd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1793415486840-34ffd80b1dd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1350
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Lydia Verbeke on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@verbeke52009?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/person-in-muddy-shoes-on-sandstone-3ixBaoXmm_8?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Pair of grey athletic shoes resting on black leather",
-   "url": "https://images.unsplash.com/photo-1778854290517-8c7fc019f49e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1778854290517-8c7fc019f49e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fE9uJTIwUnVubmluZyUyMHNob2VzfGVufDF8fHx8MTc5NDA0NjM2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1598
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by N1CE on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@n1ce?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/pair-of-grey-athletic-shoes-resting-on-black-leather-d6A01mXazVQ?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "Aw1805, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:On_Cloud_Running_Shoes.jpg",
+   "plain": true
   }
  ]
 }
