@@ -67510,7 +67510,7 @@
     "category": "Republic Services"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "RMD": {
   "name": "ResMed",
@@ -67706,6 +67706,164 @@
     "person": true
    },
    {
+    "shot": "c6",
+    "shows": "Newly Open Rivian Showroom Brickell - facade",
+    "file": "File:Newly Open Rivian Showroom Brickell - facade.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg/1920px-Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg/500px-Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Phillip Pessar, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Phillip Pessar",
+    "year": 2025,
+    "how": "Commons category",
+    "category": "Rivian Miami Brickell Space"
+   },
+   {
+    "shot": "b1",
+    "shows": "A car on a dirt road surrounded by trees",
+    "file": "unsplash:eaCOvfx-vHA",
+    "page": "https://unsplash.com/photos/a-car-on-a-dirt-road-surrounded-by-trees-eaCOvfx-vHA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1667137091780-93956688d39a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Uml2aWFufGVufDF8fHx8MTc5NDAyODI3NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1667137091780-93956688d39a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Uml2aWFufGVufDF8fHx8MTc5NDAyODI3NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wes Hicks on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Wes Hicks",
+    "year": 2022,
+    "how": "unsplash search: Rivian",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sickhews?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/eaCOvfx-vHA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Uml2aWFufGVufDF8fHx8MTc5NDAyODI3NHww"
+   },
+   {
+    "shot": "b2",
+    "shows": "A black car parked on a road surrounded by trees",
+    "file": "unsplash:ZlsdPyEcPcU",
+    "page": "https://unsplash.com/photos/a-black-car-parked-on-a-road-surrounded-by-trees-ZlsdPyEcPcU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1667137092038-27612b7233d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Uml2aWFufGVufDF8fHx8MTc5NDAyODI3NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1667137092038-27612b7233d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Uml2aWFufGVufDF8fHx8MTc5NDAyODI3NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wes Hicks on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Wes Hicks",
+    "year": 2022,
+    "how": "unsplash search: Rivian",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sickhews?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZlsdPyEcPcU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Uml2aWFufGVufDF8fHx8MTc5NDAyODI3NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "The rivian logo is displayed on a building",
+    "file": "unsplash:SI6GM4TV4QM",
+    "page": "https://unsplash.com/photos/the-rivian-logo-is-displayed-on-a-building-SI6GM4TV4QM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1746047420047-03fc7a9b9226?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1746047420047-03fc7a9b9226?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daniel Romero on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniel Romero",
+    "year": 2025,
+    "how": "unsplash search: Rivian",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rmrdnl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SI6GM4TV4QM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "A white truck driving down a dirt road",
+    "file": "unsplash:wAQUHT6XbSw",
+    "page": "https://unsplash.com/photos/a-white-truck-driving-down-a-dirt-road-wAQUHT6XbSw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1654475677184-2c3ebb2b5b50?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1654475677184-2c3ebb2b5b50?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Leo_Visions on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Leo_Visions",
+    "year": 2022,
+    "how": "unsplash search: Rivian",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@leo_visions_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/wAQUHT6XbSw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "A white truck driving down a dirt road",
+    "file": "unsplash:OLt3zcMk3pw",
+    "page": "https://unsplash.com/photos/a-white-truck-driving-down-a-dirt-road-OLt3zcMk3pw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1654475677178-05ee323f33d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1654475677178-05ee323f33d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Leo_Visions on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Leo_Visions",
+    "year": 2022,
+    "how": "unsplash search: Rivian",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@leo_visions_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OLt3zcMk3pw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fFJpdmlhbnxlbnwxfHx8fDE3OTQwMjgyNzR8MA",
+    "track_pending": true
+   },
+   {
     "shot": "c3",
     "shows": "Rivian Ghostbusters Ecto-R1",
     "file": "File:Rivian Ghostbusters Ecto-R1.jpg",
@@ -67752,54 +67910,6 @@
     "year": 2026,
     "how": "Commons category",
     "category": "Rivian dealerships"
-   },
-   {
-    "shot": "c5",
-    "shows": "Chevrolet Bolt EV charging at Rivian fast charger in West Hartford, CT July 2026",
-    "file": "File:Chevrolet Bolt EV charging at Rivian fast charger in West Hartford, CT July 2026.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chevrolet_Bolt_EV_charging_at_Rivian_fast_charger_in_West_Hartford,_CT_July_2026.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chevrolet_Bolt_EV_charging_at_Rivian_fast_charger_in_West_Hartford%2C_CT_July_2026.jpg/1920px-Chevrolet_Bolt_EV_charging_at_Rivian_fast_charger_in_West_Hartford%2C_CT_July_2026.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Chevrolet_Bolt_EV_charging_at_Rivian_fast_charger_in_West_Hartford%2C_CT_July_2026.jpg/500px-Chevrolet_Bolt_EV_charging_at_Rivian_fast_charger_in_West_Hartford%2C_CT_July_2026.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "4300streetcar",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Rivian Adventure Network charging stations"
-   },
-   {
-    "shot": "c6",
-    "shows": "Newly Open Rivian Showroom Brickell - facade",
-    "file": "File:Newly Open Rivian Showroom Brickell - facade.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg/1920px-Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg/500px-Newly_Open_Rivian_Showroom_Brickell_-_facade.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Phillip Pessar, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Phillip Pessar",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Rivian Miami Brickell Space"
    },
    {
     "shot": "c7",
@@ -67871,33 +67981,9 @@
     "year": 2026,
     "how": "Commons category",
     "category": "Rivian automobiles"
-   },
-   {
-    "shot": "c10",
-    "shows": "Limousine in New York",
-    "file": "File:Limousine in New York.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Limousine_in_New_York.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Limousine_in_New_York.jpg/1920px-Limousine_in_New_York.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Limousine_in_New_York.jpg/500px-Limousine_in_New_York.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Oleg Yunakov",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Rivian dealerships"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "HOOD": {
   "name": "Robinhood Markets",
@@ -67908,30 +67994,6 @@
   "aliases": [],
   "sector": "sector-financials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Corey heim on the grid",
-    "file": "File:Corey heim on the grid.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Corey_heim_on_the_grid.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Corey_heim_on_the_grid.jpg/1920px-Corey_heim_on_the_grid.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Corey_heim_on_the_grid.jpg/500px-Corey_heim_on_the_grid.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Coltonglass95, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Coltonglass95",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Number 67 Robinhood Toyota Camry of Corey Heim in 2026"
-   },
    {
     "shot": "c2",
     "shows": "Bubba Wallace 23 Sonoma 2026",
@@ -67981,7 +68043,7 @@
     "category": "Number 23 Robinhood Toyota Camry of Bubba Wallace in 2025"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "RBLX": {
   "name": "Roblox",
@@ -68017,31 +68079,54 @@
     "person": true
    },
    {
-    "shot": "c2",
-    "shows": "Cosplay at Animate Raleigh 2026 - timx3342",
-    "file": "File:Cosplay at Animate Raleigh 2026 - timx3342 (55264415901).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cosplay_at_Animate_Raleigh_2026_-_timx3342_(55264415901).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cosplay_at_Animate_Raleigh_2026_-_timx3342_%2855264415901%29.jpg/1280px-Cosplay_at_Animate_Raleigh_2026_-_timx3342_%2855264415901%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cosplay_at_Animate_Raleigh_2026_-_timx3342_%2855264415901%29.jpg/500px-Cosplay_at_Animate_Raleigh_2026_-_timx3342_%2855264415901%29.jpg",
+    "shot": "s8",
+    "shows": "Roblox HQ at 2850 South Delaware Street",
+    "file": "File:Roblox HQ at 2850 South Delaware Street.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roblox_HQ_at_2850_South_Delaware_Street.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roblox_HQ_at_2850_South_Delaware_Street.jpg/1920px-Roblox_HQ_at_2850_South_Delaware_Street.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roblox_HQ_at_2850_South_Delaware_Street.jpg/500px-Roblox_HQ_at_2850_South_Delaware_Street.jpg",
     "size": [
-     1280,
-     1920
+     1920,
+     887
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Super Festivals from Ft. Lauderdale, USA, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Super Festivals from Ft. Lauderdale, USA",
+    "credit": "BrokenSegue, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "BrokenSegue",
     "year": 2026,
-    "how": "Commons category",
-    "category": "Roblox",
-    "flags": [
-     "restrictions: costume"
-    ]
+    "how": "Commons search"
+   },
+   {
+    "shot": "b1",
+    "shows": "Black iphone 4 on white table",
+    "file": "unsplash:Dz_CgQMWC3M",
+    "page": "https://unsplash.com/photos/black-iphone-4-on-white-table-Dz_CgQMWC3M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1607862167094-622324dcf908?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Um9ibG94fGVufDF8fHx8MTc5NDAyODI3Nnww&ixlib=rb-4.1.0&w=2217&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1607862167094-622324dcf908?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Um9ibG94fGVufDF8fHx8MTc5NDAyODI3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2217,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Compare Fibre on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Compare Fibre",
+    "year": 2020,
+    "how": "unsplash search: Roblox",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@comparefibre?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Dz_CgQMWC3M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Um9ibG94fGVufDF8fHx8MTc5NDAyODI3Nnww",
+    "track_pending": true
    },
    {
     "shot": "c3",
@@ -68114,80 +68199,9 @@
     "year": 2023,
     "how": "Commons category",
     "category": "Roblox headquarters"
-   },
-   {
-    "shot": "c6",
-    "shows": "Quinten Delaere Gaming GWR",
-    "file": "File:Quinten Delaere Gaming GWR.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Quinten_Delaere_Gaming_GWR.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Quinten_Delaere_Gaming_GWR.jpg/1920px-Quinten_Delaere_Gaming_GWR.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Quinten_Delaere_Gaming_GWR.jpg/500px-Quinten_Delaere_Gaming_GWR.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kannotlogin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kannotlogin",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Roblox games"
-   },
-   {
-    "shot": "c7",
-    "shows": "Roblox restrictions by country",
-    "file": "File:Roblox restrictions by country.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Roblox_restrictions_by_country.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Roblox_restrictions_by_country.jpg/1920px-Roblox_restrictions_by_country.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Roblox_restrictions_by_country.jpg/500px-Roblox_restrictions_by_country.jpg",
-    "size": [
-     1920,
-     884
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bennett1203, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bennett1203",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Roblox"
-   },
-   {
-    "shot": "s8",
-    "shows": "Roblox HQ at 2850 South Delaware Street",
-    "file": "File:Roblox HQ at 2850 South Delaware Street.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Roblox_HQ_at_2850_South_Delaware_Street.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roblox_HQ_at_2850_South_Delaware_Street.jpg/1920px-Roblox_HQ_at_2850_South_Delaware_Street.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Roblox_HQ_at_2850_South_Delaware_Street.jpg/500px-Roblox_HQ_at_2850_South_Delaware_Street.jpg",
-    "size": [
-     1920,
-     887
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrokenSegue, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "BrokenSegue",
-    "year": 2026,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "RKLB": {
   "name": "Rocket Lab",
