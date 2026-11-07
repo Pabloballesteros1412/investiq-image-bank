@@ -77945,7 +77945,7 @@
     "how": "Wikidata main image"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TJX": {
   "name": "TJX Companies",
@@ -77980,7 +77980,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TKO": {
   "name": "TKO Group Holdings",
@@ -77991,6 +77991,32 @@
   "aliases": [],
   "sector": "sector-communication",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "Two men playing UFC inside ring",
+    "file": "unsplash:5m4Z14SDL80",
+    "page": "https://unsplash.com/photos/two-men-playing-ufc-inside-ring-5m4Z14SDL80?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1545191050-96042d612b1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFVGQ3xlbnwxfHx8fDE3OTQwMzkwODl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1545191050-96042d612b1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFVGQ3xlbnwxfHx8fDE3OTQwMzkwODl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Baylee Gramling on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Baylee Gramling",
+    "year": 2018,
+    "how": "unsplash search: UFC",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bayleejadegramling?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/5m4Z14SDL80/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFVGQ3xlbnwxfHx8fDE3OTQwMzkwODl8MA"
+   },
    {
     "shot": "c1",
     "shows": "200 Fifth Avenue - Toy Center",
@@ -78014,33 +78040,9 @@
     "year": 2025,
     "how": "Commons category",
     "category": "Toy Center Building"
-   },
-   {
-    "shot": "c2",
-    "shows": "Clouds Over 24th Street",
-    "file": "File:Clouds Over 24th Street (50000722737).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Clouds_Over_24th_Street_(50000722737).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Clouds_Over_24th_Street_%2850000722737%29.jpg/1280px-Clouds_Over_24th_Street_%2850000722737%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Clouds_Over_24th_Street_%2850000722737%29.jpg/500px-Clouds_Over_24th_Street_%2850000722737%29.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Eden, Janine and Jim from New York City",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Toy Center Building"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TTE": {
   "name": "TotalEnergies",
@@ -78148,30 +78150,6 @@
     "category": "Jean-Monnet-Tower"
    },
    {
-    "shot": "c5",
-    "shows": "Berlin Nord-Süd-Fernbahn Tunnel 01",
-    "file": "File:Berlin 20260711 Nord-Süd-Fernbahn Tunnel 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Berlin_20260711_Nord-S%C3%BCd-Fernbahn_Tunnel_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Berlin_20260711_Nord-S%C3%BCd-Fernbahn_Tunnel_01.jpg/1920px-Berlin_20260711_Nord-S%C3%BCd-Fernbahn_Tunnel_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Berlin_20260711_Nord-S%C3%BCd-Fernbahn_Tunnel_01.jpg/500px-Berlin_20260711_Nord-S%C3%BCd-Fernbahn_Tunnel_01.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NutzerAusBerlin, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "NutzerAusBerlin",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Jean-Monnet-Tower"
-   },
-   {
     "shot": "c6",
     "shows": "AERO 2025, Friedrichshafen",
     "file": "File:AERO 2025, Friedrichshafen (P1046811).jpg",
@@ -78194,102 +78172,9 @@
     "year": 2025,
     "how": "Commons category",
     "category": "TotalEnergies"
-   },
-   {
-    "shot": "c7",
-    "shows": "Autohof Kirchheim 1",
-    "file": "File:Autohof Kirchheim 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Autohof_Kirchheim_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Autohof_Kirchheim_1.jpg/1920px-Autohof_Kirchheim_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Autohof_Kirchheim_1.jpg/500px-Autohof_Kirchheim_1.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Emilius123, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Emilius123",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "TotalEnergies"
-   },
-   {
-    "shot": "s8",
-    "shows": "Construction site of The Link tower, future headquarters of TotalEnergies, in La Défense, near Paris",
-    "file": "File:Construction site of The Link tower, future headquarters of TotalEnergies, in La Défense, near Paris - 2023-01-31.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Construction_site_of_The_Link_tower,_future_headquarters_of_TotalEnergies,_in_La_D%C3%A9fense,_near_Paris_-_2023-01-31.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Construction_site_of_The_Link_tower%2C_future_headquarters_of_TotalEnergies%2C_in_La_D%C3%A9fense%2C_near_Paris_-_2023-01-31.jpg/1920px-Construction_site_of_The_Link_tower%2C_future_headquarters_of_TotalEnergies%2C_in_La_D%C3%A9fense%2C_near_Paris_-_2023-01-31.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Construction_site_of_The_Link_tower%2C_future_headquarters_of_TotalEnergies%2C_in_La_D%C3%A9fense%2C_near_Paris_-_2023-01-31.jpg/500px-Construction_site_of_The_Link_tower%2C_future_headquarters_of_TotalEnergies%2C_in_La_D%C3%A9fense%2C_near_Paris_-_2023-01-31.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bretwa, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bretwa",
-    "year": 2023,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "TotalEnergies Voi service station, 2025",
-    "file": "File:TotalEnergies Voi service station, 2025 (03).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:TotalEnergies_Voi_service_station,_2025_(03).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/TotalEnergies_Voi_service_station%2C_2025_%2803%29.jpg/1920px-TotalEnergies_Voi_service_station%2C_2025_%2803%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/TotalEnergies_Voi_service_station%2C_2025_%2803%29.jpg/500px-TotalEnergies_Voi_service_station%2C_2025_%2803%29.jpg",
-    "size": [
-     1920,
-     1079
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bahnfrend",
-    "year": 2025,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Station TotalEnergies relais Mardié, Loiret, RD 2060 (oct 2023)",
-    "file": "File:Station TotalEnergies relais Mardié, Loiret, RD 2060 (oct 2023).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Station_TotalEnergies_relais_Mardi%C3%A9,_Loiret,_RD_2060_(oct_2023).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Station_TotalEnergies_relais_Mardi%C3%A9%2C_Loiret%2C_RD_2060_%28oct_2023%29.jpg/1920px-Station_TotalEnergies_relais_Mardi%C3%A9%2C_Loiret%2C_RD_2060_%28oct_2023%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Station_TotalEnergies_relais_Mardi%C3%A9%2C_Loiret%2C_RD_2060_%28oct_2023%29.jpg/500px-Station_TotalEnergies_relais_Mardi%C3%A9%2C_Loiret%2C_RD_2060_%28oct_2023%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sebleouf, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Sebleouf",
-    "year": 2023,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TM": {
   "name": "Toyota",
@@ -78300,6 +78185,240 @@
   "aliases": [],
   "sector": "sector-consumer-discretionary",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "Black toyota car steering wheel",
+    "file": "unsplash:IS6CslWJrjY",
+    "page": "https://unsplash.com/photos/black-toyota-car-steering-wheel-IS6CslWJrjY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581862142388-23e1c52ca091?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581862142388-23e1c52ca091?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Christina Telep on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christina Telep",
+    "year": 2020,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tinatelep?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IS6CslWJrjY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww"
+   },
+   {
+    "shot": "b2",
+    "shows": "A black toyota land cruiser parked in front of a building",
+    "file": "unsplash:r3cA8C6a-UA",
+    "page": "https://unsplash.com/photos/a-black-toyota-land-cruiser-parked-in-front-of-a-building-r3cA8C6a-UA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1650530579355-7ad9d4766043?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1650530579355-7ad9d4766043?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tim Vegas on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tim Vegas",
+    "year": 2022,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tim_media?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/r3cA8C6a-UA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww"
+   },
+   {
+    "shot": "b3",
+    "shows": "A tan Toyota Tacoma pickup truck on a dirt road with black wheels",
+    "file": "unsplash:o7fqZ18YFXc",
+    "page": "https://unsplash.com/photos/tan-toyota-tacoma-pickup-truck-o7fqZ18YFXc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1559416523-140ddc3d238c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=2200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1559416523-140ddc3d238c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2200,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dusty Barnes on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dusty Barnes",
+    "year": 2019,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dustbarnes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/o7fqZ18YFXc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww"
+   },
+   {
+    "shot": "b4",
+    "shows": "Orange and silver car wheel",
+    "file": "unsplash:IV3jGuVP718",
+    "page": "https://unsplash.com/photos/orange-and-silver-car-wheel-IV3jGuVP718?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1628578748111-09f0b9ff9827?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1628578748111-09f0b9ff9827?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Akshar Patel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Akshar Patel",
+    "year": 2021,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@joinakshar?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IV3jGuVP718/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww"
+   },
+   {
+    "shot": "b5",
+    "shows": "Silver sedan parked on road during daytime",
+    "file": "unsplash:YPfnvLc3bbQ",
+    "page": "https://unsplash.com/photos/silver-sedan-parked-on-road-during-daytime-YPfnvLc3bbQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kevin Bonilla on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kevin Bonilla",
+    "year": 2021,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kevinography?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/YPfnvLc3bbQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VG95b3RhfGVufDF8fHx8MTc5NDAzOTA5MHww"
+   },
+   {
+    "shot": "b6",
+    "shows": "A black toyota truck parked on a dirt road",
+    "file": "unsplash:iRBD0-AN_78",
+    "page": "https://unsplash.com/photos/a-black-toyota-truck-parked-on-a-dirt-road-iRBD0-AN_78?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641333326784-24a9c21d3c4e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641333326784-24a9c21d3c4e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1680
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Isaac Mitchell on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Isaac Mitchell",
+    "year": 2022,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@isaactmitchell?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/iRBD0-AN_78/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA"
+   },
+   {
+    "shot": "b7",
+    "shows": "Parked white Toyota vehicle",
+    "file": "unsplash:2IKm0aYkHPk",
+    "page": "https://unsplash.com/photos/parked-white-toyota-vehicle-2IKm0aYkHPk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1547245324-d777c6f05e80?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1547245324-d777c6f05e80?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by joshua yu on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "joshua yu",
+    "year": 2019,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@joshua_yu?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2IKm0aYkHPk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA"
+   },
+   {
+    "shot": "b8",
+    "shows": "White porsche 911 on gray pavement",
+    "file": "unsplash:QUHRL5Z_1eA",
+    "page": "https://unsplash.com/photos/white-porsche-911-on-gray-pavement-QUHRL5Z_1eA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1620882788693-cd891b20837d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1620882788693-cd891b20837d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Matthew Sichkaruk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Matthew Sichkaruk",
+    "year": 2021,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sichpicsss?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/QUHRL5Z_1eA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA"
+   },
+   {
+    "shot": "b9",
+    "shows": "A white suv parked in a parking garage",
+    "file": "unsplash:qdq1ptUnYaw",
+    "page": "https://unsplash.com/photos/a-white-suv-parked-in-a-parking-garage-qdq1ptUnYaw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1654688554491-69d21d38fb91?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1654688554491-69d21d38fb91?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2133
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Abolfazl Raghebi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Abolfazl Raghebi",
+    "year": 2022,
+    "how": "unsplash search: Toyota",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alphacr2?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qdq1ptUnYaw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fFRveW90YXxlbnwxfHx8fDE3OTQwMzkwOTB8MA"
+   },
    {
     "shot": "main",
     "shows": "Headquarter of Toyota Motor Corporation 3",
@@ -78322,30 +78441,6 @@
     "author": "Tokumeigakarinoaoshima",
     "year": 2012,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Game Boy Pocket Toyota Edition",
-    "file": "File:Game Boy Pocket Toyota Edition (49138423256).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Game_Boy_Pocket_Toyota_Edition_(49138423256).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Game_Boy_Pocket_Toyota_Edition_%2849138423256%29.jpg/1920px-Game_Boy_Pocket_Toyota_Edition_%2849138423256%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Game_Boy_Pocket_Toyota_Edition_%2849138423256%29.jpg/500px-Game_Boy_Pocket_Toyota_Edition_%2849138423256%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dennis Elzinga, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Dennis Elzinga",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Toyota"
    },
    {
     "shot": "c3",
@@ -78372,78 +78467,6 @@
     "category": "Toyota dealerships"
    },
    {
-    "shot": "c4",
-    "shows": "Toyota Center Photo",
-    "file": "File:Toyota Center Photo .jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Toyota_Center_Photo_.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Toyota_Center_Photo_.jpg/1920px-Toyota_Center_Photo_.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Toyota_Center_Photo_.jpg/500px-Toyota_Center_Photo_.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ckfanypack, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ckfanypack",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Toyota"
-   },
-   {
-    "shot": "c5",
-    "shows": "Toyota hybrid vehicle sales model ( ) 01",
-    "file": "File:Toyota hybrid vehicle sales model (2010-10-16) 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Toyota_hybrid_vehicle_sales_model_(2010-10-16)_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Toyota_hybrid_vehicle_sales_model_%282010-10-16%29_01.jpg/1920px-Toyota_hybrid_vehicle_sales_model_%282010-10-16%29_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Toyota_hybrid_vehicle_sales_model_%282010-10-16%29_01.jpg/500px-Toyota_hybrid_vehicle_sales_model_%282010-10-16%29_01.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "OSX, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "OSX",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "Toyota"
-   },
-   {
-    "shot": "c6",
-    "shows": "2020-08 Kabelgata kulvert",
-    "file": "File:2020-08 Kabelgata kulvert.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2020-08_Kabelgata_kulvert.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2020-08_Kabelgata_kulvert.jpg/1920px-2020-08_Kabelgata_kulvert.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2020-08_Kabelgata_kulvert.jpg/500px-2020-08_Kabelgata_kulvert.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "QUB1, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "QUB1",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Toyota dealerships"
-   },
-   {
     "shot": "c7",
     "shows": "C1FDF36E-C3C0-4ECE-935B-9D03B6",
     "file": "File:C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg",
@@ -78466,78 +78489,9 @@
     "year": 2019,
     "how": "Commons category",
     "category": "Toyota facilities"
-   },
-   {
-    "shot": "s8",
-    "shows": "Headquarters of TOYOTA WOODYOU HOME CORPORATION",
-    "file": "File:Headquarters of TOYOTA WOODYOU HOME CORPORATION.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Headquarters_of_TOYOTA_WOODYOU_HOME_CORPORATION.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Headquarters_of_TOYOTA_WOODYOU_HOME_CORPORATION.jpg/1920px-Headquarters_of_TOYOTA_WOODYOU_HOME_CORPORATION.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Headquarters_of_TOYOTA_WOODYOU_HOME_CORPORATION.jpg/500px-Headquarters_of_TOYOTA_WOODYOU_HOME_CORPORATION.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Miyuki Meinaka, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Miyuki Meinaka",
-    "year": 2020,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Headquarters of TOYOTA COROLLA Shinosaka Co., Ltd",
-    "file": "File:Headquarters of TOYOTA COROLLA Shinosaka Co., Ltd.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Headquarters_of_TOYOTA_COROLLA_Shinosaka_Co.,_Ltd.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Headquarters_of_TOYOTA_COROLLA_Shinosaka_Co.%2C_Ltd.jpg/1280px-Headquarters_of_TOYOTA_COROLLA_Shinosaka_Co.%2C_Ltd.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Headquarters_of_TOYOTA_COROLLA_Shinosaka_Co.%2C_Ltd.jpg/500px-Headquarters_of_TOYOTA_COROLLA_Shinosaka_Co.%2C_Ltd.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tokumeigakarinoaoshima",
-    "year": 2019,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Toyota Boshoku Headquarters ac",
-    "file": "File:Toyota Boshoku Headquarters ac (1).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Toyota_Boshoku_Headquarters_ac_(1).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Toyota_Boshoku_Headquarters_ac_%281%29.jpg/1920px-Toyota_Boshoku_Headquarters_ac_%281%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Toyota_Boshoku_Headquarters_ac_%281%29.jpg/500px-Toyota_Boshoku_Headquarters_ac_%281%29.jpg",
-    "size": [
-     1920,
-     1276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Asturio Cantabrio, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Asturio Cantabrio",
-    "year": 2023,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TSCO": {
   "name": "Tractor Supply",
@@ -78549,60 +78503,12 @@
   "sector": "sector-consumer-discretionary",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "Chicks at Tractor Supply - March 2024 - Sarah Stierch",
-    "file": "File:Chicks at Tractor Supply - March 2024 - Sarah Stierch.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chicks_at_Tractor_Supply_-_March_2024_-_Sarah_Stierch.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chicks_at_Tractor_Supply_-_March_2024_-_Sarah_Stierch.jpg/1920px-Chicks_at_Tractor_Supply_-_March_2024_-_Sarah_Stierch.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Chicks_at_Tractor_Supply_-_March_2024_-_Sarah_Stierch.jpg/500px-Chicks_at_Tractor_Supply_-_March_2024_-_Sarah_Stierch.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Missvain",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Tractor Supply Company"
-   },
-   {
-    "shot": "c2",
-    "shows": "Tractor Supply in Eufaula, AL",
-    "file": "File:Tractor Supply in Eufaula, AL.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_in_Eufaula,_AL.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tractor_Supply_in_Eufaula%2C_AL.jpg/1920px-Tractor_Supply_in_Eufaula%2C_AL.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tractor_Supply_in_Eufaula%2C_AL.jpg/500px-Tractor_Supply_in_Eufaula%2C_AL.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "FLGALine1999, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "FLGALine1999",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Tractor Supply Company stores in Alabama"
-   },
-   {
-    "shot": "c3",
-    "shows": "Tractor Supply Company, Madison County",
-    "file": "File:Tractor Supply Company, Madison County.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Madison_County.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tractor_Supply_Company%2C_Madison_County.jpg/1920px-Tractor_Supply_Company%2C_Madison_County.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tractor_Supply_Company%2C_Madison_County.jpg/500px-Tractor_Supply_Company%2C_Madison_County.jpg",
+    "shot": "s8",
+    "shows": "Tractor Supply Company, GA125, Lowndes County",
+    "file": "File:Tractor Supply Company, GA125, Lowndes County.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_GA125,_Lowndes_County.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg/1920px-Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg/500px-Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg",
     "size": [
      1920,
      1280
@@ -78611,14 +78517,13 @@
      0.5,
      0.5
     ],
-    "credit": "Mjrmtg, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "credit": "Mjrmtg, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
     "author": "Mjrmtg",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Tractor Supply Company stores in Florida"
+    "year": 2026,
+    "how": "Commons search"
    },
    {
     "shot": "c4",
@@ -78717,29 +78622,6 @@
     "category": "Tractor Supply Company stores in North Carolina"
    },
    {
-    "shot": "s8",
-    "shows": "Tractor Supply Company, GA125, Lowndes County",
-    "file": "File:Tractor Supply Company, GA125, Lowndes County.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_GA125,_Lowndes_County.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg/1920px-Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg/500px-Tractor_Supply_Company%2C_GA125%2C_Lowndes_County.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mjrmtg, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Mjrmtg",
-    "year": 2026,
-    "how": "Commons search"
-   },
-   {
     "shot": "s9",
     "shows": "Tractor Supply Company, Dothan, Alabama",
     "file": "File:Tractor Supply Company, Dothan, Alabama.jpg",
@@ -78761,32 +78643,9 @@
     "author": "The Bushranger",
     "year": 2026,
     "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Tractor Supply Company, Crawfordville, Florida",
-    "file": "File:Tractor Supply Company, Crawfordville, Florida.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Crawfordville,_Florida.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tractor_Supply_Company%2C_Crawfordville%2C_Florida.jpg/1920px-Tractor_Supply_Company%2C_Crawfordville%2C_Florida.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Tractor_Supply_Company%2C_Crawfordville%2C_Florida.jpg/500px-Tractor_Supply_Company%2C_Crawfordville%2C_Florida.jpg",
-    "size": [
-     1920,
-     741
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "The Bushranger",
-    "year": 2024,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TT": {
   "name": "Trane Technologies",
@@ -79325,174 +79184,6 @@
   "sector": "sector-financials",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "First Street, Macon, Georgia, USA, 3 September 2021 - 02",
-    "file": "File:First Street, Macon, Georgia, USA, 3 September 2021 - 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:First_Street,_Macon,_Georgia,_USA,_3_September_2021_-_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/First_Street%2C_Macon%2C_Georgia%2C_USA%2C_3_September_2021_-_02.jpg/1920px-First_Street%2C_Macon%2C_Georgia%2C_USA%2C_3_September_2021_-_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/First_Street%2C_Macon%2C_Georgia%2C_USA%2C_3_September_2021_-_02.jpg/500px-First_Street%2C_Macon%2C_Georgia%2C_USA%2C_3_September_2021_-_02.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Infrogmation, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Infrogmation",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "BB&T"
-   },
-   {
-    "shot": "c2",
-    "shows": "818 Town and Country Boulevard - panoramio",
-    "file": "File:818 Town and Country Boulevard - panoramio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:818_Town_and_Country_Boulevard_-_panoramio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/818_Town_and_Country_Boulevard_-_panoramio.jpg/1920px-818_Town_and_Country_Boulevard_-_panoramio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/818_Town_and_Country_Boulevard_-_panoramio.jpg/500px-818_Town_and_Country_Boulevard_-_panoramio.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "JAGarcia, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "JAGarcia",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "BB&T"
-   },
-   {
-    "shot": "c3",
-    "shows": "BB&T ATM Downtown Miami",
-    "file": "File:BB&T ATM Downtown Miami (46181265025).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:BB%26T_ATM_Downtown_Miami_(46181265025).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BB%26T_ATM_Downtown_Miami_%2846181265025%29.jpg/1920px-BB%26T_ATM_Downtown_Miami_%2846181265025%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/BB%26T_ATM_Downtown_Miami_%2846181265025%29.jpg/500px-BB%26T_ATM_Downtown_Miami_%2846181265025%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Phillip Pessar from Miami, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Phillip Pessar from Miami, USA",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "BB&T"
-   },
-   {
-    "shot": "c4",
-    "shows": "Peachtree Road, Atlanta, March 2017",
-    "file": "File:Peachtree Road, Atlanta, March 2017.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Peachtree_Road,_Atlanta,_March_2017.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Peachtree_Road%2C_Atlanta%2C_March_2017.jpg/1920px-Peachtree_Road%2C_Atlanta%2C_March_2017.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Peachtree_Road%2C_Atlanta%2C_March_2017.jpg/500px-Peachtree_Road%2C_Atlanta%2C_March_2017.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Thomson200, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Thomson200",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "BB&T"
-   },
-   {
-    "shot": "c5",
-    "shows": "BB&T Bank, Adel",
-    "file": "File:BB&T Bank, Adel.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:BB%26T_Bank,_Adel.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/BB%26T_Bank%2C_Adel.JPG/1920px-BB%26T_Bank%2C_Adel.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/BB%26T_Bank%2C_Adel.JPG/500px-BB%26T_Bank%2C_Adel.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Michael Rivera",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "BB&T"
-   },
-   {
-    "shot": "c6",
-    "shows": "BB&T Building in San Antonio, TX 7901",
-    "file": "File:BB&T Building in San Antonio, TX IMG 7901.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:BB%26T_Building_in_San_Antonio,_TX_IMG_7901.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BB%26T_Building_in_San_Antonio%2C_TX_IMG_7901.JPG/1920px-BB%26T_Building_in_San_Antonio%2C_TX_IMG_7901.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/BB%26T_Building_in_San_Antonio%2C_TX_IMG_7901.JPG/500px-BB%26T_Building_in_San_Antonio%2C_TX_IMG_7901.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Billy Hathorn, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Billy Hathorn",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "BB&T"
-   },
-   {
-    "shot": "c7",
-    "shows": "BB&T, Albany Ave, Waycross (SE corner)",
-    "file": "File:BB&T, Albany Ave, Waycross (SE corner).JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:BB%26T,_Albany_Ave,_Waycross_(SE_corner).JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BB%26T%2C_Albany_Ave%2C_Waycross_%28SE_corner%29.JPG/1920px-BB%26T%2C_Albany_Ave%2C_Waycross_%28SE_corner%29.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BB%26T%2C_Albany_Ave%2C_Waycross_%28SE_corner%29.JPG/500px-BB%26T%2C_Albany_Ave%2C_Waycross_%28SE_corner%29.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Michael Rivera",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "BB&T"
-   },
-   {
     "shot": "s8",
     "shows": "Truist Financial Center - Hagerstown, Maryland",
     "file": "File:Truist Financial Center - Hagerstown, Maryland.jpg",
@@ -79514,57 +79205,9 @@
     "author": "Farragutful",
     "year": 2022,
     "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "BB&T, Ashley St, Valdosta",
-    "file": "File:BB&T, Ashley St, Valdosta.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:BB%26T,_Ashley_St,_Valdosta.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/BB%26T%2C_Ashley_St%2C_Valdosta.jpg/1920px-BB%26T%2C_Ashley_St%2C_Valdosta.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/BB%26T%2C_Ashley_St%2C_Valdosta.jpg/500px-BB%26T%2C_Ashley_St%2C_Valdosta.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Michael Rivera",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "BB&T"
-   },
-   {
-    "shot": "c10",
-    "shows": "Branch Banking and Trust bank, 201 W Taylor St (GA16), Griffin, Spalding County, Georgia",
-    "file": "File:BB&T, GA16, Griffin.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:BB%26T,_GA16,_Griffin.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BB%26T%2C_GA16%2C_Griffin.JPG/1920px-BB%26T%2C_GA16%2C_Griffin.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/BB%26T%2C_GA16%2C_Griffin.JPG/500px-BB%26T%2C_GA16%2C_Griffin.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Michael Rivera",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "BB&T"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "TSM": {
   "name": "TSMC",
@@ -79794,150 +79437,6 @@
   "sector": "sector-staples",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "Poultry Historic District in Springdale, Arkansas",
-    "file": "File:Poultry Historic District in Springdale, Arkansas.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Poultry_Historic_District_in_Springdale,_Arkansas.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Poultry_Historic_District_in_Springdale%2C_Arkansas.jpg/1920px-Poultry_Historic_District_in_Springdale%2C_Arkansas.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Poultry_Historic_District_in_Springdale%2C_Arkansas.jpg/500px-Poultry_Historic_District_in_Springdale%2C_Arkansas.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Brandonrush, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Brandonrush",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Tyson Foods"
-   },
-   {
-    "shot": "c2",
-    "shows": "Former drainage ditch of the former Tyson Foods chicken processing plant in Heron Park, in Berlin, Maryland, United States. There are waterfowl in the foregroun",
-    "file": "File:DitchWithWaterfowl.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:DitchWithWaterfowl.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DitchWithWaterfowl.jpg/1920px-DitchWithWaterfowl.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DitchWithWaterfowl.jpg/500px-DitchWithWaterfowl.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nolabob, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Nolabob",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Tyson Foods"
-   },
-   {
-    "shot": "c3",
-    "shows": "Vice President Mike Pence and Agriculture Secreary Sonny Perdue visit the Tyson Foods facility in Goodlettsville, TN on Monday to advocate for passage of the Un",
-    "file": "File:20191018-WH-DMC-0026 (48921444332).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:20191018-WH-DMC-0026_(48921444332).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20191018-WH-DMC-0026_%2848921444332%29.jpg/1920px-20191018-WH-DMC-0026_%2848921444332%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20191018-WH-DMC-0026_%2848921444332%29.jpg/500px-20191018-WH-DMC-0026_%2848921444332%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Department of Agriculture, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Department of Agriculture",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Tyson Foods"
-   },
-   {
-    "shot": "c4",
-    "shows": "FEMA - 4794 - Photograph by Jocelyn Augustino taken on 09-19-2001 in Virginia",
-    "file": "File:FEMA - 4794 - Photograph by Jocelyn Augustino taken on 09-19-2001 in Virginia.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:FEMA_-_4794_-_Photograph_by_Jocelyn_Augustino_taken_on_09-19-2001_in_Virginia.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FEMA_-_4794_-_Photograph_by_Jocelyn_Augustino_taken_on_09-19-2001_in_Virginia.jpg/1920px-FEMA_-_4794_-_Photograph_by_Jocelyn_Augustino_taken_on_09-19-2001_in_Virginia.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FEMA_-_4794_-_Photograph_by_Jocelyn_Augustino_taken_on_09-19-2001_in_Virginia.jpg/500px-FEMA_-_4794_-_Photograph_by_Jocelyn_Augustino_taken_on_09-19-2001_in_Virginia.jpg",
-    "size": [
-     1920,
-     1260
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jocelyn Augustino, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Jocelyn Augustino",
-    "year": 2001,
-    "how": "Commons category",
-    "category": "Tyson Foods"
-   },
-   {
-    "shot": "c5",
-    "shows": "Tyson World Headquarters",
-    "file": "File:Tyson World Headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tyson_World_Headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tyson_World_Headquarters.jpg/1920px-Tyson_World_Headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tyson_World_Headquarters.jpg/500px-Tyson_World_Headquarters.jpg",
-    "size": [
-     1920,
-     1279
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Brandonrush, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Brandonrush",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Tyson Foods"
-   },
-   {
-    "shot": "c6",
-    "shows": "040i ar exit 279b diagrammatic",
-    "file": "File:040i ar exit 279b diagrammatic.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:040i_ar_exit_279b_diagrammatic.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/040i_ar_exit_279b_diagrammatic.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/040i_ar_exit_279b_diagrammatic.jpg/500px-040i_ar_exit_279b_diagrammatic.jpg",
-    "size": [
-     1656,
-     1242
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Scott5114, CC BY-SA 2.5, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.5",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
-    "author": "Scott5114",
-    "year": 2007,
-    "how": "Commons category",
-    "category": "Tyson Foods semi-trailers"
-   },
-   {
     "shot": "c7",
     "shows": "Tyson Fresh Meats pork plant (Madison, Nebraska) 2",
     "file": "File:Tyson Fresh Meats pork plant (Madison, Nebraska) 2.JPG",
@@ -79962,7 +79461,7 @@
     "category": "Tyson Fresh Meats pork plant (Madison, Nebraska)"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "USB": {
   "name": "U.S. Bancorp",
@@ -79973,53 +79472,6 @@
   "aliases": [],
   "sector": "sector-financials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Louisville Balloon Glow 2006",
-    "file": "File:Louisville Balloon Glow 2006.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Louisville_Balloon_Glow_2006.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Louisville_Balloon_Glow_2006.JPG/1920px-Louisville_Balloon_Glow_2006.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Louisville_Balloon_Glow_2006.JPG/500px-Louisville_Balloon_Glow_2006.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Christian von Montfort ( Symbiosus ), public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Christian von Montfort ( Symbiosus )",
-    "year": 2006,
-    "how": "Commons category",
-    "category": "U.S. Bancorp"
-   },
-   {
-    "shot": "s2",
-    "shows": "Upper Playground Portland and U.S. Bancorp Tower",
-    "file": "File:Upper Playground Portland and U.S. Bancorp Tower (44576165735).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Upper_Playground_Portland_and_U.S._Bancorp_Tower_(44576165735).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Upper_Playground_Portland_and_U.S._Bancorp_Tower_%2844576165735%29.jpg/1920px-Upper_Playground_Portland_and_U.S._Bancorp_Tower_%2844576165735%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Upper_Playground_Portland_and_U.S._Bancorp_Tower_%2844576165735%29.jpg/500px-Upper_Playground_Portland_and_U.S._Bancorp_Tower_%2844576165735%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Will Buckner, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Will Buckner",
-    "year": 2018,
-    "how": "Commons search"
-   },
    {
     "shot": "s3",
     "shows": "U.S. Bancorp Tower",
@@ -80067,7 +79519,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "UBER": {
   "name": "Uber",
@@ -80462,52 +79914,108 @@
     "person": true
    },
    {
-    "shot": "c2",
-    "shows": "COVID-19 UBS in Bern",
-    "file": "File:COVID-19 UBS in Bern.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:COVID-19_UBS_in_Bern.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/COVID-19_UBS_in_Bern.jpg/1920px-COVID-19_UBS_in_Bern.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/COVID-19_UBS_in_Bern.jpg/500px-COVID-19_UBS_in_Bern.jpg",
+    "shot": "b1",
+    "shows": "UBS logo on glass bridge wall during daytime",
+    "file": "unsplash:cKVuAEsedoY",
+    "page": "https://unsplash.com/photos/ubs-logo-on-glass-bridge-wall-during-daytime-cKVuAEsedoY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1556641154-267adda761e3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1556641154-267adda761e3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2249,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Hadi, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Hadi",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "UBS"
+    "credit": "Photo by Claudio Schwarz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Claudio Schwarz",
+    "year": 2019,
+    "how": "unsplash search: UBS",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@purzlbaum?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cKVuAEsedoY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww"
    },
    {
-    "shot": "c3",
-    "shows": "HK 灣仔 Wan Chai 莊士敦道 Johnston Road black tram body ads UBS n Art Basel April 2024 R12S",
-    "file": "File:HK 灣仔 Wan Chai 莊士敦道 Johnston Road black tram body ads UBS n Art Basel April 2024 R12S.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_black_tram_body_ads_UBS_n_Art_Basel_April_2024_R12S.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_black_tram_body_ads_UBS_n_Art_Basel_April_2024_R12S.jpg/1920px-HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_black_tram_body_ads_UBS_n_Art_Basel_April_2024_R12S.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_black_tram_body_ads_UBS_n_Art_Basel_April_2024_R12S.jpg/500px-HK_%E7%81%A3%E4%BB%94_Wan_Chai_%E8%8E%8A%E5%A3%AB%E6%95%A6%E9%81%93_Johnston_Road_black_tram_body_ads_UBS_n_Art_Basel_April_2024_R12S.jpg",
+    "shot": "b2",
+    "shows": "An airport terminal with a sign that says ubs on it",
+    "file": "unsplash:Wnh4iIlXbhA",
+    "page": "https://unsplash.com/photos/an-airport-terminal-with-a-sign-that-says-ubs-on-it-Wnh4iIlXbhA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1713629568027-8f4e2e900269?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1713629568027-8f4e2e900269?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Hortasing Faiemm 1806, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Hortasing Faiemm 1806",
+    "credit": "Photo by Jonas Frachet on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jonas Frachet",
     "year": 2024,
-    "how": "Commons category",
-    "category": "UBS"
+    "how": "unsplash search: UBS",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jonasfrachet?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Wnh4iIlXbhA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww"
+   },
+   {
+    "shot": "b3",
+    "shows": "Brown and grey high rise building",
+    "file": "unsplash:asY9tvQa-aY",
+    "page": "https://unsplash.com/photos/brown-and-grey-high-rise-building-asY9tvQa-aY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1557226217-afa89ef30f64?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww&ixlib=rb-4.1.0&w=2236&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1557226217-afa89ef30f64?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2236,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Stuart Frisby on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Stuart Frisby",
+    "year": 2019,
+    "how": "unsplash search: UBS",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mrfrisby?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/asY9tvQa-aY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VUJTfGVufDF8fHx8MTc5NDAzOTA5NHww"
+   },
+   {
+    "shot": "b4",
+    "shows": "An ice hockey game in progress at UBS Arena with players on the rink",
+    "file": "unsplash:qiURD5PnbYQ",
+    "page": "https://unsplash.com/photos/ice-hockey-game-at-ubs-arena-qiURD5PnbYQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1791754163196-df9475aef982?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fFVCU3xlbnwxfHx8fDE3OTQwMzkwOTR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1791754163196-df9475aef982?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fFVCU3xlbnwxfHx8fDE3OTQwMzkwOTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by ST Mathew on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "ST Mathew",
+    "year": 2026,
+    "how": "unsplash search: UBS",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@stev3shotit?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qiURD5PnbYQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fFVCU3xlbnwxfHx8fDE3OTQwMzkwOTR8MA"
    },
    {
     "shot": "c4",
@@ -80530,78 +80038,6 @@
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
     "author": "Guilhem Vellut from Annecy, France",
     "year": 2020,
-    "how": "Commons category",
-    "category": "UBS"
-   },
-   {
-    "shot": "c5",
-    "shows": "GER München, Maria-Theresia-Straße 0001",
-    "file": "File:GER München, Maria-Theresia-Straße 0001.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:GER_M%C3%BCnchen,_Maria-Theresia-Stra%C3%9Fe_0001.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/GER_M%C3%BCnchen%2C_Maria-Theresia-Stra%C3%9Fe_0001.jpg/1920px-GER_M%C3%BCnchen%2C_Maria-Theresia-Stra%C3%9Fe_0001.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/GER_M%C3%BCnchen%2C_Maria-Theresia-Stra%C3%9Fe_0001.jpg/500px-GER_M%C3%BCnchen%2C_Maria-Theresia-Stra%C3%9Fe_0001.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "-wuppertaler, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "-wuppertaler",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "UBS buildings"
-   },
-   {
-    "shot": "c6",
-    "shows": "Arbre de la paix-Friendensbaum-Biel(Bienne-02",
-    "file": "File:Arbre de la paix-Friendensbaum-Biel(Bienne-02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Arbre_de_la_paix-Friendensbaum-Biel(Bienne-02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Arbre_de_la_paix-Friendensbaum-Biel%28Bienne-02.jpg/1280px-Arbre_de_la_paix-Friendensbaum-Biel%28Bienne-02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Arbre_de_la_paix-Friendensbaum-Biel%28Bienne-02.jpg/500px-Arbre_de_la_paix-Friendensbaum-Biel%28Bienne-02.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "MHM55, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "MHM55",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "UBS"
-   },
-   {
-    "shot": "c7",
-    "shows": "Bahnhofstrasse 29, Zermatt",
-    "file": "File:Bahnhofstrasse 29, Zermatt.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bahnhofstrasse_29,_Zermatt.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bahnhofstrasse_29%2C_Zermatt.jpg/1920px-Bahnhofstrasse_29%2C_Zermatt.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bahnhofstrasse_29%2C_Zermatt.jpg/500px-Bahnhofstrasse_29%2C_Zermatt.jpg",
-    "size": [
-     1920,
-     1514
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tiia Monto, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Tiia Monto",
-    "year": 2019,
     "how": "Commons category",
     "category": "UBS"
    },
@@ -80629,29 +80065,6 @@
     "how": "Commons search"
    },
    {
-    "shot": "s9",
-    "shows": "HK CWB 銅鑼灣 Causeway Bay 高士威道 Causeway Road shop 123 by ELLA Store UBS mini fans May 2026 RA7P",
-    "file": "File:HK CWB 銅鑼灣 Causeway Bay 高士威道 Causeway Road shop 123 by ELLA Store UBS mini fans May 2026 RA7P.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%AB%98%E5%A3%AB%E5%A8%81%E9%81%93_Causeway_Road_shop_123_by_ELLA_Store_UBS_mini_fans_May_2026_RA7P.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%AB%98%E5%A3%AB%E5%A8%81%E9%81%93_Causeway_Road_shop_123_by_ELLA_Store_UBS_mini_fans_May_2026_RA7P.jpg/1280px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%AB%98%E5%A3%AB%E5%A8%81%E9%81%93_Causeway_Road_shop_123_by_ELLA_Store_UBS_mini_fans_May_2026_RA7P.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%AB%98%E5%A3%AB%E5%A8%81%E9%81%93_Causeway_Road_shop_123_by_ELLA_Store_UBS_mini_fans_May_2026_RA7P.jpg/500px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E9%AB%98%E5%A3%AB%E5%A8%81%E9%81%93_Causeway_Road_shop_123_by_ELLA_Store_UBS_mini_fans_May_2026_RA7P.jpg",
-    "size": [
-     1280,
-     1726
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "AP22088 NgSaiKeaung Hooo, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "AP22088 NgSaiKeaung Hooo",
-    "year": 2026,
-    "how": "Commons search"
-   },
-   {
     "shot": "s10",
     "shows": "UBS office at Hyderabad",
     "file": "File:UBS office at Hyderabad.jpg",
@@ -80675,7 +80088,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "UDR": {
   "name": "UDR, Inc.",
@@ -80758,78 +80171,6 @@
     "category": "Ulta Beauty stores"
    },
    {
-    "shot": "c2",
-    "shows": "Claim to Fame Lip Trio - October 2024 - Sarah Stierch",
-    "file": "File:Claim to Fame Lip Trio - October 2024 - Sarah Stierch.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Claim_to_Fame_Lip_Trio_-_October_2024_-_Sarah_Stierch.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Claim_to_Fame_Lip_Trio_-_October_2024_-_Sarah_Stierch.jpg/1280px-Claim_to_Fame_Lip_Trio_-_October_2024_-_Sarah_Stierch.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Claim_to_Fame_Lip_Trio_-_October_2024_-_Sarah_Stierch.jpg/500px-Claim_to_Fame_Lip_Trio_-_October_2024_-_Sarah_Stierch.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Missvain, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Missvain",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Ulta Beauty stores"
-   },
-   {
-    "shot": "c3",
-    "shows": "Closed Ulta Miracle Marketplace, Miami FL Oct 2022",
-    "file": "File:Closed Ulta Miracle Marketplace, Miami FL Oct 2022.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Closed_Ulta_Miracle_Marketplace,_Miami_FL_Oct_2022.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Closed_Ulta_Miracle_Marketplace%2C_Miami_FL_Oct_2022.jpg/1920px-Closed_Ulta_Miracle_Marketplace%2C_Miami_FL_Oct_2022.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Closed_Ulta_Miracle_Marketplace%2C_Miami_FL_Oct_2022.jpg/500px-Closed_Ulta_Miracle_Marketplace%2C_Miami_FL_Oct_2022.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Phillip Pessar",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Ulta Beauty stores"
-   },
-   {
-    "shot": "c4",
-    "shows": "Enos Ranch Center - April 2023 - Sarah Stierch",
-    "file": "File:Enos Ranch Center - April 2023 - Sarah Stierch.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Enos_Ranch_Center_-_April_2023_-_Sarah_Stierch.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Enos_Ranch_Center_-_April_2023_-_Sarah_Stierch.jpg/1920px-Enos_Ranch_Center_-_April_2023_-_Sarah_Stierch.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Enos_Ranch_Center_-_April_2023_-_Sarah_Stierch.jpg/500px-Enos_Ranch_Center_-_April_2023_-_Sarah_Stierch.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Missvain",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Ulta Beauty stores"
-   },
-   {
     "shot": "c5",
     "shows": "Ulta Beauty Miracle Marketplace Miami",
     "file": "File:Ulta Beauty Miracle Marketplace Miami (40873840074).jpg",
@@ -80902,53 +80243,6 @@
     "category": "Ulta Beauty stores"
    },
    {
-    "shot": "s8",
-    "shows": "Jantzen Beach Super Center - Ulta",
-    "file": "File:Jantzen Beach Super Center - Ulta.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Jantzen_Beach_Super_Center_-_Ulta.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jantzen_Beach_Super_Center_-_Ulta.JPG/1920px-Jantzen_Beach_Super_Center_-_Ulta.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Jantzen_Beach_Super_Center_-_Ulta.JPG/500px-Jantzen_Beach_Super_Center_-_Ulta.JPG",
-    "size": [
-     1920,
-     1275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "M.O. Stevens, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "M.O. Stevens",
-    "year": 2016,
-    "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Connecticut Post Mall, Milford, CT",
-    "file": "File:Connecticut Post Mall, Milford, CT.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Connecticut_Post_Mall,_Milford,_CT.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Connecticut_Post_Mall%2C_Milford%2C_CT.jpg/1920px-Connecticut_Post_Mall%2C_Milford%2C_CT.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Connecticut_Post_Mall%2C_Milford%2C_CT.jpg/500px-Connecticut_Post_Mall%2C_Milford%2C_CT.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "JJBers, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "JJBers",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Ulta Beauty stores"
-   },
-   {
     "shot": "c10",
     "shows": "Shops at Arsenal Yards",
     "file": "File:Shops at Arsenal Yards.jpg",
@@ -80973,7 +80267,7 @@
     "category": "Ulta Beauty stores"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "UL": {
   "name": "Unilever",
@@ -80984,6 +80278,84 @@
   "aliases": [],
   "sector": "sector-staples",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "A white object floating on top of a white surface",
+    "file": "unsplash:MIp0ECSGW-Y",
+    "page": "https://unsplash.com/photos/a-white-object-floating-on-top-of-a-white-surface-MIp0ECSGW-Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1696881694567-cd1a97958fc8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RG92ZSUyMHNvYXB8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1696881694567-cd1a97958fc8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RG92ZSUyMHNvYXB8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Lal MAHAMMAD on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Lal MAHAMMAD",
+    "year": 2023,
+    "how": "unsplash search: Dove soap",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lmahammad?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MIp0ECSGW-Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RG92ZSUyMHNvYXB8ZW58MXx8fHwxNzk0MDM5MDk2fDA"
+   },
+   {
+    "shot": "b2",
+    "shows": "A box of dove soap next to a palm leaf",
+    "file": "unsplash:2n6RsYw3yQo",
+    "page": "https://unsplash.com/photos/a-box-of-dove-soap-next-to-a-palm-leaf-2n6RsYw3yQo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1696881762321-1746773ac102?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8RG92ZSUyMHNvYXB8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1696881762321-1746773ac102?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8RG92ZSUyMHNvYXB8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Lal MAHAMMAD on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Lal MAHAMMAD",
+    "year": 2023,
+    "how": "unsplash search: Dove soap",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lmahammad?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2n6RsYw3yQo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8RG92ZSUyMHNvYXB8ZW58MXx8fHwxNzk0MDM5MDk2fDA"
+   },
+   {
+    "shot": "b3",
+    "shows": "A hand holding a white container",
+    "file": "unsplash:No08yCz6Ejs",
+    "page": "https://unsplash.com/photos/a-hand-holding-a-white-container-No08yCz6Ejs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1662523978710-1666ee98c9f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8SGVsbG1hbm4lMjdzfGVufDF8fHx8MTc5NDAzOTA5N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1662523978710-1666ee98c9f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8SGVsbG1hbm4lMjdzfGVufDF8fHx8MTc5NDAzOTA5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kelsey Todd on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kelsey Todd",
+    "year": 2022,
+    "how": "unsplash search: Hellmann's",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sparkledump?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/No08yCz6Ejs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8SGVsbG1hbm4lMjdzfGVufDF8fHx8MTc5NDAzOTA5N3ww"
+   },
    {
     "shot": "main",
     "shows": "Unilever House Mars 2014 01",
@@ -81006,78 +80378,6 @@
     "author": "Arild Vågen",
     "year": 2014,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Dancing party - Flickr - The Sasson",
-    "file": "File:Dancing party - Flickr - The Sasson.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dancing_party_-_Flickr_-_The_Sasson.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dancing_party_-_Flickr_-_The_Sasson.jpg/1920px-Dancing_party_-_Flickr_-_The_Sasson.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dancing_party_-_Flickr_-_The_Sasson.jpg/500px-Dancing_party_-_Flickr_-_The_Sasson.jpg",
-    "size": [
-     1920,
-     1273
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ronny Olsson from Europe, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Ronny Olsson from Europe",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Unilever brands"
-   },
-   {
-    "shot": "c3",
-    "shows": "Marco-Polo-Tower 01",
-    "file": "File:20230318 Marco-Polo-Tower 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:20230318_Marco-Polo-Tower_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/20230318_Marco-Polo-Tower_01.jpg/1920px-20230318_Marco-Polo-Tower_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/20230318_Marco-Polo-Tower_01.jpg/500px-20230318_Marco-Polo-Tower_01.jpg",
-    "size": [
-     1920,
-     1282
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Flocci Nivis, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Flocci Nivis",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Unilever-Haus (Hamburg)"
-   },
-   {
-    "shot": "c4",
-    "shows": "Unilever Ploiesti, Romania",
-    "file": "File:Unilever Ploiesti, Romania.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Unilever_Ploiesti,_Romania.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Unilever_Ploiesti%2C_Romania.jpg/1920px-Unilever_Ploiesti%2C_Romania.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Unilever_Ploiesti%2C_Romania.jpg/500px-Unilever_Ploiesti%2C_Romania.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Diana wiki2, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Diana wiki2",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Unilever"
    },
    {
     "shot": "c5",
@@ -81104,54 +80404,6 @@
     "category": "Unilever brands"
    },
    {
-    "shot": "c6",
-    "shows": "Corso Camping Margarine - Van den Bergh en Jurgens NV Rotterdam - Export Kwaliteit",
-    "file": "File:Corso Camping Margarine - Van den Bergh en Jurgens NV Rotterdam - Export Kwaliteit.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Corso_Camping_Margarine_-_Van_den_Bergh_en_Jurgens_NV_Rotterdam_-_Export_Kwaliteit.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Corso_Camping_Margarine_-_Van_den_Bergh_en_Jurgens_NV_Rotterdam_-_Export_Kwaliteit.jpg/1280px-Corso_Camping_Margarine_-_Van_den_Bergh_en_Jurgens_NV_Rotterdam_-_Export_Kwaliteit.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Corso_Camping_Margarine_-_Van_den_Bergh_en_Jurgens_NV_Rotterdam_-_Export_Kwaliteit.jpg/500px-Corso_Camping_Margarine_-_Van_den_Bergh_en_Jurgens_NV_Rotterdam_-_Export_Kwaliteit.jpg",
-    "size": [
-     1280,
-     1600
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Alex P. Kok, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Alex P. Kok",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Former Unilever brands"
-   },
-   {
-    "shot": "c7",
-    "shows": "Schlossturmblick Auerbach (Vogtl.), Fenster 7 (Werk Unilever)",
-    "file": "File:Schlossturmblick Auerbach (Vogtl.), Fenster 7 (Werk Unilever).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Schlossturmblick_Auerbach_(Vogtl.),_Fenster_7_(Werk_Unilever).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schlossturmblick_Auerbach_%28Vogtl.%29%2C_Fenster_7_%28Werk_Unilever%29.jpg/1920px-Schlossturmblick_Auerbach_%28Vogtl.%29%2C_Fenster_7_%28Werk_Unilever%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Schlossturmblick_Auerbach_%28Vogtl.%29%2C_Fenster_7_%28Werk_Unilever%29.jpg/500px-Schlossturmblick_Auerbach_%28Vogtl.%29%2C_Fenster_7_%28Werk_Unilever%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Aagnverglaser, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Aagnverglaser",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Unilever-Werk (Auerbach/Vogtl.)"
-   },
-   {
     "shot": "s8",
     "shows": "Unilever Head Office Building Rotterdam",
     "file": "File:Unilever Head Office Building Rotterdam.jpg",
@@ -81172,29 +80424,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "author": "Marcel Douwe Dekker",
     "year": 2009,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "The Unilever Factory - geograph.org.uk",
-    "file": "File:The Unilever Factory - geograph.org.uk - 5694156.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Unilever_Factory_-_geograph.org.uk_-_5694156.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Unilever_Factory_-_geograph.org.uk_-_5694156.jpg/1920px-The_Unilever_Factory_-_geograph.org.uk_-_5694156.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Unilever_Factory_-_geograph.org.uk_-_5694156.jpg/500px-The_Unilever_Factory_-_geograph.org.uk_-_5694156.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Malcolm Neal, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Malcolm Neal",
-    "year": 2018,
     "how": "Commons search"
    },
    {
@@ -81221,7 +80450,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "UNP": {
   "name": "Union Pacific Corporation",
@@ -81232,6 +80461,84 @@
   "aliases": [],
   "sector": "sector-industrials",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "Yellow and black train on rail tracks under blue sky during daytime",
+    "file": "unsplash:_EvGgF37AD4",
+    "page": "https://unsplash.com/photos/yellow-and-black-train-on-rail-tracks-under-blue-sky-during-daytime-_EvGgF37AD4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1628145269075-b01cdfb0ed6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pb24lMjBQYWNpZmljfGVufDF8fHx8MTc5NDAzOTA5NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1628145269075-b01cdfb0ed6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pb24lMjBQYWNpZmljfGVufDF8fHx8MTc5NDAzOTA5NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Cody Otto on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cody Otto",
+    "year": 2021,
+    "how": "unsplash search: Union Pacific",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@codyotto507?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_EvGgF37AD4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pb24lMjBQYWNpZmljfGVufDF8fHx8MTc5NDAzOTA5NXww"
+   },
+   {
+    "shot": "b2",
+    "shows": "A yellow train traveling down train tracks under a blue sky",
+    "file": "unsplash:z-sDeSJcxes",
+    "page": "https://unsplash.com/photos/a-yellow-train-traveling-down-train-tracks-under-a-blue-sky-z-sDeSJcxes?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1675794211088-7133234ee238?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFVuaW9uJTIwUGFjaWZpY3xlbnwxfHx8fDE3OTQwMzkwOTV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1675794211088-7133234ee238?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFVuaW9uJTIwUGFjaWZpY3xlbnwxfHx8fDE3OTQwMzkwOTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Steve & Barb Sande on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Steve & Barb Sande",
+    "year": 2023,
+    "how": "unsplash search: Union Pacific",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@steve_barb_sande?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/z-sDeSJcxes/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFVuaW9uJTIwUGFjaWZpY3xlbnwxfHx8fDE3OTQwMzkwOTV8MA"
+   },
+   {
+    "shot": "b3",
+    "shows": "A black and white photo of the wheels of a train",
+    "file": "unsplash:u82pLER9M6w",
+    "page": "https://unsplash.com/photos/a-black-and-white-photo-of-the-wheels-of-a-train-u82pLER9M6w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1675794211013-424e16ef440a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fFVuaW9uJTIwUGFjaWZpY3xlbnwxfHx8fDE3OTQwMzkwOTV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1675794211013-424e16ef440a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fFVuaW9uJTIwUGFjaWZpY3xlbnwxfHx8fDE3OTQwMzkwOTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Steve & Barb Sande on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Steve & Barb Sande",
+    "year": 2023,
+    "how": "unsplash search: Union Pacific",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@steve_barb_sande?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/u82pLER9M6w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fFVuaW9uJTIwUGFjaWZpY3xlbnwxfHx8fDE3OTQwMzkwOTV8MA"
+   },
    {
     "shot": "c1",
     "shows": "0949 Union Pacific RR, near Moab, Utah",
@@ -81257,150 +80564,6 @@
     "category": "Union Pacific Railroad"
    },
    {
-    "shot": "c2",
-    "shows": "Stadler KISS EMU delivery en route to Caltrain on Provo Subdivision at 1700 South, Salt Lake City, May 2021",
-    "file": "File:Stadler KISS EMU delivery en route to Caltrain on Provo Subdivision at 1700 South, Salt Lake City, May 2021.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stadler_KISS_EMU_delivery_en_route_to_Caltrain_on_Provo_Subdivision_at_1700_South,_Salt_Lake_City,_May_2021.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Stadler_KISS_EMU_delivery_en_route_to_Caltrain_on_Provo_Subdivision_at_1700_South%2C_Salt_Lake_City%2C_May_2021.jpg/1920px-Stadler_KISS_EMU_delivery_en_route_to_Caltrain_on_Provo_Subdivision_at_1700_South%2C_Salt_Lake_City%2C_May_2021.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Stadler_KISS_EMU_delivery_en_route_to_Caltrain_on_Provo_Subdivision_at_1700_South%2C_Salt_Lake_City%2C_May_2021.jpg/500px-Stadler_KISS_EMU_delivery_en_route_to_Caltrain_on_Provo_Subdivision_at_1700_South%2C_Salt_Lake_City%2C_May_2021.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Martijn van Exel, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Martijn van Exel",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Union Pacific Railroad"
-   },
-   {
-    "shot": "c3",
-    "shows": "24th St at exit ramp from IL 137 north - North Chicago, IL - July 2025 03",
-    "file": "File:24th St at exit ramp from IL 137 north - North Chicago, IL - July 2025 03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:24th_St_at_exit_ramp_from_IL_137_north_-_North_Chicago,_IL_-_July_2025_03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/24th_St_at_exit_ramp_from_IL_137_north_-_North_Chicago%2C_IL_-_July_2025_03.jpg/1920px-24th_St_at_exit_ramp_from_IL_137_north_-_North_Chicago%2C_IL_-_July_2025_03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/24th_St_at_exit_ramp_from_IL_137_north_-_North_Chicago%2C_IL_-_July_2025_03.jpg/500px-24th_St_at_exit_ramp_from_IL_137_north_-_North_Chicago%2C_IL_-_July_2025_03.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "AlphaBeta135, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "AlphaBeta135",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Metra Union Pacific/North Line"
-   },
-   {
-    "shot": "c4",
-    "shows": "Buckley Rd connector approaching IL 137 - North Chicago, IL - July 2025",
-    "file": "File:Buckley Rd connector approaching IL 137 - North Chicago, IL - July 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Buckley_Rd_connector_approaching_IL_137_-_North_Chicago,_IL_-_July_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Buckley_Rd_connector_approaching_IL_137_-_North_Chicago%2C_IL_-_July_2025.jpg/1920px-Buckley_Rd_connector_approaching_IL_137_-_North_Chicago%2C_IL_-_July_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Buckley_Rd_connector_approaching_IL_137_-_North_Chicago%2C_IL_-_July_2025.jpg/500px-Buckley_Rd_connector_approaching_IL_137_-_North_Chicago%2C_IL_-_July_2025.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "AlphaBeta135, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "AlphaBeta135",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Metra Union Pacific/North Line"
-   },
-   {
-    "shot": "c5",
-    "shows": "Metra Union Pacific West Train",
-    "file": "File:C&NW F59PHI.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:C%26NW_F59PHI.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/C%26NW_F59PHI.jpg/1920px-C%26NW_F59PHI.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/C%26NW_F59PHI.jpg/500px-C%26NW_F59PHI.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "GR_Pei, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "GR_Pei",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Metra Union Pacific/West Line"
-   },
-   {
-    "shot": "c6",
-    "shows": "Level junction between UP Geneva Sub and UP Harvard Sub - Chicago, IL - June 2025",
-    "file": "File:Level junction between UP Geneva Sub and UP Harvard Sub - Chicago, IL - June 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Level_junction_between_UP_Geneva_Sub_and_UP_Harvard_Sub_-_Chicago,_IL_-_June_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Level_junction_between_UP_Geneva_Sub_and_UP_Harvard_Sub_-_Chicago%2C_IL_-_June_2025.jpg/1920px-Level_junction_between_UP_Geneva_Sub_and_UP_Harvard_Sub_-_Chicago%2C_IL_-_June_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Level_junction_between_UP_Geneva_Sub_and_UP_Harvard_Sub_-_Chicago%2C_IL_-_June_2025.jpg/500px-Level_junction_between_UP_Geneva_Sub_and_UP_Harvard_Sub_-_Chicago%2C_IL_-_June_2025.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "AlphaBeta135, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "AlphaBeta135",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Metra Union Pacific/West Line"
-   },
-   {
-    "shot": "c7",
-    "shows": "Benching SoCal Freight Graffiti - Oct. 16th 2020",
-    "file": "File:Benching SoCal Freight Graffiti - Oct. 16th 2020 (50498959503).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Benching_SoCal_Freight_Graffiti_-_Oct._16th_2020_(50498959503).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Benching_SoCal_Freight_Graffiti_-_Oct._16th_2020_%2850498959503%29.jpg/1920px-Benching_SoCal_Freight_Graffiti_-_Oct._16th_2020_%2850498959503%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Benching_SoCal_Freight_Graffiti_-_Oct._16th_2020_%2850498959503%29.jpg/500px-Benching_SoCal_Freight_Graffiti_-_Oct._16th_2020_%2850498959503%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "siamesepuppy, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "siamesepuppy",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Rolling stock of the Union Pacific Railroad"
-   },
-   {
     "shot": "s8",
     "shows": "Union Pacific Portland Service Unit headquarters, September 2019",
     "file": "File:Union Pacific Portland Service Unit headquarters, September 2019.JPG",
@@ -81422,55 +80585,9 @@
     "author": "Pi.1415926535",
     "year": 2019,
     "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Union Pacific Snowed In, circa 1930s - Headquarters, Idaho",
-    "file": "File:Union Pacific Snowed In, circa 1930s - Headquarters, Idaho (34016608882).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Union_Pacific_Snowed_In,_circa_1930s_-_Headquarters,_Idaho_(34016608882).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Union_Pacific_Snowed_In%2C_circa_1930s_-_Headquarters%2C_Idaho_%2834016608882%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Union_Pacific_Snowed_In%2C_circa_1930s_-_Headquarters%2C_Idaho_%2834016608882%29.jpg/500px-Union_Pacific_Snowed_In%2C_circa_1930s_-_Headquarters%2C_Idaho_%2834016608882%29.jpg",
-    "size": [
-     1604,
-     1018
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Steve Shook from Moscow, Idaho, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Steve Shook from Moscow, Idaho, USA",
-    "year": 2017,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Union Pacific Railroad Intermodal Terminal, Santa Teresa NM",
-    "file": "File:Union Pacific Railroad Intermodal Terminal, Santa Teresa NM.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Union_Pacific_Railroad_Intermodal_Terminal,_Santa_Teresa_NM.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Union_Pacific_Railroad_Intermodal_Terminal%2C_Santa_Teresa_NM.jpg/1920px-Union_Pacific_Railroad_Intermodal_Terminal%2C_Santa_Teresa_NM.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Union_Pacific_Railroad_Intermodal_Terminal%2C_Santa_Teresa_NM.jpg/500px-Union_Pacific_Railroad_Intermodal_Terminal%2C_Santa_Teresa_NM.jpg",
-    "size": [
-     1920,
-     1442
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dicklyon, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dicklyon",
-    "year": 2021,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "UAL": {
   "name": "United Airlines Holdings",
@@ -81506,76 +80623,241 @@
     "person": true
    },
    {
-    "shot": "c2",
-    "shows": "Taoyuan Airport United Airlines",
-    "file": "File:20260908 094644 Taoyuan Airport United Airlines.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:20260908_094644_Taoyuan_Airport_United_Airlines.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20260908_094644_Taoyuan_Airport_United_Airlines.jpg/1920px-20260908_094644_Taoyuan_Airport_United_Airlines.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/20260908_094644_Taoyuan_Airport_United_Airlines.jpg/500px-20260908_094644_Taoyuan_Airport_United_Airlines.jpg",
+    "shot": "b1",
+    "shows": "Gray and blue airplane",
+    "file": "unsplash:BwYcH78rcpI",
+    "page": "https://unsplash.com/photos/gray-and-blue-airplane-BwYcH78rcpI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1559268950-2d7ceb2efa3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1559268950-2d7ceb2efa3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Saimmx, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Saimmx",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "United Airlines"
+    "credit": "Photo by Nick Morales on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nick Morales",
+    "year": 2019,
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sixty7pixels?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/BwYcH78rcpI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA"
    },
    {
-    "shot": "c3",
-    "shows": "United Airlines Tokyo to Ulaanbaatar inaugural flight",
-    "file": "File:United Airlines Tokyo to Ulaanbaatar inaugural flight.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:United_Airlines_Tokyo_to_Ulaanbaatar_inaugural_flight.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/United_Airlines_Tokyo_to_Ulaanbaatar_inaugural_flight.jpg/1920px-United_Airlines_Tokyo_to_Ulaanbaatar_inaugural_flight.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/United_Airlines_Tokyo_to_Ulaanbaatar_inaugural_flight.jpg/500px-United_Airlines_Tokyo_to_Ulaanbaatar_inaugural_flight.jpg",
+    "shot": "b2",
+    "shows": "A united airlines plane flying in the sky",
+    "file": "unsplash:eaj1EVgPtQA",
+    "page": "https://unsplash.com/photos/a-united-airlines-plane-flying-in-the-sky-eaj1EVgPtQA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1716161157293-34f087bab35c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1716161157293-34f087bab35c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Quintin Soloviev, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Quintin Soloviev",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "United Airlines"
+    "credit": "Photo by David Syphers on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Syphers",
+    "year": 2024,
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dsyphers?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/eaj1EVgPtQA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA"
    },
    {
-    "shot": "c4",
-    "shows": "United First Class flight - November 15 2023 - Sarah Stierch 01",
-    "file": "File:United First Class flight - November 15 2023 - Sarah Stierch 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:United_First_Class_flight_-_November_15_2023_-_Sarah_Stierch_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/United_First_Class_flight_-_November_15_2023_-_Sarah_Stierch_01.jpg/1280px-United_First_Class_flight_-_November_15_2023_-_Sarah_Stierch_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/United_First_Class_flight_-_November_15_2023_-_Sarah_Stierch_01.jpg/500px-United_First_Class_flight_-_November_15_2023_-_Sarah_Stierch_01.jpg",
+    "shot": "b3",
+    "shows": "A large jetliner flying over a body of water",
+    "file": "unsplash:q8f2RoGBvSg",
+    "page": "https://unsplash.com/photos/a-large-jetliner-flying-over-a-body-of-water-q8f2RoGBvSg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1635543757430-fd8aa77e43ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1635543757430-fd8aa77e43ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Missvain",
+    "credit": "Photo by Y S on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Y S",
+    "year": 2021,
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@santonii?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/q8f2RoGBvSg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA"
+   },
+   {
+    "shot": "b4",
+    "shows": "A bunch of airplanes that are on a runway",
+    "file": "unsplash:C6vFrs_7CSk",
+    "page": "https://unsplash.com/photos/a-bunch-of-airplanes-that-are-on-a-runway-C6vFrs_7CSk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1732974154851-71d6814dcf70?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1732974154851-71d6814dcf70?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by David Syphers on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Syphers",
+    "year": 2024,
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dsyphers?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/C6vFrs_7CSk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8VW5pdGVkJTIwQWlybGluZXN8ZW58MXx8fHwxNzk0MDM5MDk2fDA"
+   },
+   {
+    "shot": "b5",
+    "shows": "A united airlines plane flying in the sky",
+    "file": "unsplash:59GOHBKD8ww",
+    "page": "https://unsplash.com/photos/a-united-airlines-plane-flying-in-the-sky-59GOHBKD8ww?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1687578066003-ba059013faef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1687578066003-ba059013faef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1201,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daniel Shapiro on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniel Shapiro",
     "year": 2023,
-    "how": "Commons category",
-    "category": "United Airlines"
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dshap?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/59GOHBKD8ww/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww"
+   },
+   {
+    "shot": "b6",
+    "shows": "A united airlines plane flying in the sky",
+    "file": "unsplash:U9bZhSQCE84",
+    "page": "https://unsplash.com/photos/a-united-airlines-plane-flying-in-the-sky-U9bZhSQCE84?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1677795664119-f3b70cacb18c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=1894&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1677795664119-f3b70cacb18c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1894,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Aerojet on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Aerojet",
+    "year": 2023,
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@aerojetphotos?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/U9bZhSQCE84/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww"
+   },
+   {
+    "shot": "b7",
+    "shows": "United airlines planes at airport gates",
+    "file": "unsplash:e8FrHYZ6X_U",
+    "page": "https://unsplash.com/photos/united-airlines-planes-at-airport-gates-e8FrHYZ6X_U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1772976895736-83988782cd76?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1772976895736-83988782cd76?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Lukas Souza on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Lukas Souza",
+    "year": 2026,
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lukassouza?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/e8FrHYZ6X_U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "A united airlines plane flying in the sky",
+    "file": "unsplash:S6z-oxtc5QE",
+    "page": "https://unsplash.com/photos/a-united-airlines-plane-flying-in-the-sky-S6z-oxtc5QE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1740280026541-8f7228ecc10b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1740280026541-8f7228ecc10b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Haydn on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Haydn",
+    "year": 2025,
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hgpound?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/S6z-oxtc5QE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "United airlines airplane flying through clouds",
+    "file": "unsplash:dvdUxFPngrw",
+    "page": "https://unsplash.com/photos/united-airlines-airplane-flying-through-clouds-dvdUxFPngrw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1761371717764-ad2328bba66f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1761371717764-ad2328bba66f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Hieu on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hieu",
+    "year": 2025,
+    "how": "unsplash search: United Airlines",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@thehncreative?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dvdUxFPngrw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFVuaXRlZCUyMEFpcmxpbmVzfGVufDF8fHx8MTc5NDAzOTA5Nnww",
+    "track_pending": true
    },
    {
     "shot": "c5",
@@ -81626,30 +80908,6 @@
     "category": "Aircraft of United Airlines"
    },
    {
-    "shot": "c7",
-    "shows": "Pierre Regional Airport ticket counter",
-    "file": "File:Pierre Regional Airport ticket counter.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Pierre_Regional_Airport_ticket_counter.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pierre_Regional_Airport_ticket_counter.JPG/1920px-Pierre_Regional_Airport_ticket_counter.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Pierre_Regional_Airport_ticket_counter.JPG/500px-Pierre_Regional_Airport_ticket_counter.JPG",
-    "size": [
-     1920,
-     1226
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jeffrey Beall, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Jeffrey Beall",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "United Airlines airport check-ins"
-   },
-   {
     "shot": "s8",
     "shows": "United Airlines office@Guam",
     "file": "File:United Airlines office@Guam.JPG",
@@ -81671,55 +80929,9 @@
     "author": "Yūta Ono",
     "year": 2015,
     "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Crash site of United Airlines flight 93",
-    "file": "File:Crash site of United Airlines flight 93.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Crash_site_of_United_Airlines_flight_93.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Crash_site_of_United_Airlines_flight_93.jpg/1920px-Crash_site_of_United_Airlines_flight_93.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Crash_site_of_United_Airlines_flight_93.jpg/500px-Crash_site_of_United_Airlines_flight_93.jpg",
-    "size": [
-     1920,
-     1079
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Asiriryansamarasekera, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Asiriryansamarasekera",
-    "year": 2012,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "United Airlines Plane",
-    "file": "File:United Airlines Plane.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:United_Airlines_Plane.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/United_Airlines_Plane.jpg/1920px-United_Airlines_Plane.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/United_Airlines_Plane.jpg/500px-United_Airlines_Plane.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Yannkemper, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Yannkemper",
-    "year": 2019,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "UPS": {
   "name": "United Parcel Service",
@@ -81730,6 +80942,141 @@
   "aliases": [],
   "sector": "sector-industrials",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "A ups truck driving down a city street",
+    "file": "unsplash:UnuC022bG04",
+    "page": "https://unsplash.com/photos/a-ups-truck-driving-down-a-city-street-UnuC022bG04?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1699817359842-904bdd28c6f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1699817359842-904bdd28c6f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1815
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by redcharlie on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "redcharlie",
+    "year": 2023,
+    "how": "unsplash search: UPS truck",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@redcharlie?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/UnuC022bG04/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "A ups truck is parked on the street",
+    "file": "unsplash:LVmLrPH4GTQ",
+    "page": "https://unsplash.com/photos/a-ups-truck-is-parked-on-the-street-LVmLrPH4GTQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1751218682008-f68d3eff2d7c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1751218682008-f68d3eff2d7c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Logan Voss on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Logan Voss",
+    "year": 2025,
+    "how": "unsplash search: UPS truck",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@loganvoss?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/LVmLrPH4GTQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "A driver in a UPS delivery truck on a city street",
+    "file": "unsplash:JB4UlLgWDWM",
+    "page": "https://unsplash.com/photos/ups-delivery-truck-on-city-street-JB4UlLgWDWM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1787624078559-c06446fdd85e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA&ixlib=rb-4.1.0&w=2262&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1787624078559-c06446fdd85e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2262,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by John Money on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John Money",
+    "year": 2026,
+    "how": "unsplash search: UPS truck",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@john_money?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JB4UlLgWDWM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "A man stands beside a ups truck in heavy snow",
+    "file": "unsplash:r1W_xvZJ57g",
+    "page": "https://unsplash.com/photos/a-man-stands-beside-a-ups-truck-in-heavy-snow-r1W_xvZJ57g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782530539441-9772a9f6c6d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782530539441-9772a9f6c6d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1795
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jameson Berrios on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jameson Berrios",
+    "year": 2026,
+    "how": "unsplash search: UPS truck",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@simpoge?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/r1W_xvZJ57g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VVBTJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0MDM5MDk3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "A large ups cargo plane on a runway",
+    "file": "unsplash:Ls4SLQEXYNk",
+    "page": "https://unsplash.com/photos/a-large-ups-cargo-plane-on-a-runway-Ls4SLQEXYNk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1777897160578-0ac0f6f30351?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fFVQUyUyMHRydWNrfGVufDF8fHx8MTc5NDAzOTA5N3ww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1777897160578-0ac0f6f30351?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fFVQUyUyMHRydWNrfGVufDF8fHx8MTc5NDAzOTA5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Peaky_82 on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Peaky_82",
+    "year": 2026,
+    "how": "unsplash search: UPS truck",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@peaky_82?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Ls4SLQEXYNk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fFVQUyUyMHRydWNrfGVufDF8fHx8MTc5NDAzOTA5N3ww",
+    "track_pending": true
+   },
    {
     "shot": "main",
     "shows": "HTS Systems UPS Ground",
@@ -81752,30 +81099,6 @@
     "author": "MobiusDaXter",
     "year": 2013,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Amazon Hub Locker - Ricky (Tempe, Arizona)",
-    "file": "File:Amazon Hub Locker - Ricky (Tempe, Arizona).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Amazon_Hub_Locker_-_Ricky_(Tempe,_Arizona).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Amazon_Hub_Locker_-_Ricky_%28Tempe%2C_Arizona%29.jpg/1920px-Amazon_Hub_Locker_-_Ricky_%28Tempe%2C_Arizona%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Amazon_Hub_Locker_-_Ricky_%28Tempe%2C_Arizona%29.jpg/500px-Amazon_Hub_Locker_-_Ricky_%28Tempe%2C_Arizona%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tony Webster from Minneapolis, Minnesota, United States",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "United Parcel Service"
    },
    {
     "shot": "c3",
@@ -81826,30 +81149,6 @@
     "category": "United Parcel Service"
    },
    {
-    "shot": "c5",
-    "shows": "Packages on UPS conveyor belt",
-    "file": "File:Packages on UPS conveyor belt.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Packages_on_UPS_conveyor_belt.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Packages_on_UPS_conveyor_belt.jpg/1920px-Packages_on_UPS_conveyor_belt.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Packages_on_UPS_conveyor_belt.jpg/500px-Packages_on_UPS_conveyor_belt.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Department of Agriculture, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Department of Agriculture",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "UPS buildings"
-   },
-   {
     "shot": "c6",
     "shows": "UPS Arlington Texas facility - Lone Star",
     "file": "File:UPS Arlington Texas facility - Lone Star.jpg",
@@ -81874,54 +81173,6 @@
     "category": "UPS buildings"
    },
    {
-    "shot": "c7",
-    "shows": "Clark-Lake intersection in Chicago, September 2024",
-    "file": "File:Clark-Lake intersection in Chicago, September 2024 (54285583882).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Clark-Lake_intersection_in_Chicago,_September_2024_(54285583882).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clark-Lake_intersection_in_Chicago%2C_September_2024_%2854285583882%29.jpg/1920px-Clark-Lake_intersection_in_Chicago%2C_September_2024_%2854285583882%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Clark-Lake_intersection_in_Chicago%2C_September_2024_%2854285583882%29.jpg/500px-Clark-Lake_intersection_in_Chicago%2C_September_2024_%2854285583882%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nairn McWilliams, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Nairn McWilliams",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "United Parcel Service"
-   },
-   {
-    "shot": "c8",
-    "shows": "Marengo at Magazine, Uptown New Orleans Aug 2025 - 3 Boxes",
-    "file": "File:Marengo at Magazine, Uptown New Orleans Aug 2025 - 3 Boxes.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Marengo_at_Magazine,_Uptown_New_Orleans_Aug_2025_-_3_Boxes.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Marengo_at_Magazine%2C_Uptown_New_Orleans_Aug_2025_-_3_Boxes.jpg/1920px-Marengo_at_Magazine%2C_Uptown_New_Orleans_Aug_2025_-_3_Boxes.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Marengo_at_Magazine%2C_Uptown_New_Orleans_Aug_2025_-_3_Boxes.jpg/500px-Marengo_at_Magazine%2C_Uptown_New_Orleans_Aug_2025_-_3_Boxes.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Infrogmation, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Infrogmation",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "United Parcel Service"
-   },
-   {
     "shot": "c9",
     "shows": "UPS Drop Box, N Crossing Cir, Valdosta",
     "file": "File:UPS Drop Box, N Crossing Cir, Valdosta.jpg",
@@ -81944,33 +81195,9 @@
     "year": 2021,
     "how": "Commons category",
     "category": "United Parcel Service"
-   },
-   {
-    "shot": "c10",
-    "shows": "Expo Prado 2010",
-    "file": "File:Expo Prado 2010 (5018057455).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Expo_Prado_2010_(5018057455).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Expo_Prado_2010_%285018057455%29.jpg/1920px-Expo_Prado_2010_%285018057455%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Expo_Prado_2010_%285018057455%29.jpg/500px-Expo_Prado_2010_%285018057455%29.jpg",
-    "size": [
-     1920,
-     1275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Embajada de los Estados Unidos en Uruguay from Montevideo, Uruguay, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Embajada de los Estados Unidos en Uruguay from Montevideo, Uruguay",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "United Parcel Service"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "URI": {
   "name": "United Rentals",
@@ -81981,102 +81208,6 @@
   "aliases": [],
   "sector": "sector-industrials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Florida National Guard",
-    "file": "File:Florida National Guard (49676134843).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Florida_National_Guard_(49676134843).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Florida_National_Guard_%2849676134843%29.jpg/1920px-Florida_National_Guard_%2849676134843%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Florida_National_Guard_%2849676134843%29.jpg/500px-Florida_National_Guard_%2849676134843%29.jpg",
-    "size": [
-     1920,
-     1319
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The National Guard Sgt. Michael Baltz/107th Mobile Public Affairs Detachment, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "The National Guard Sgt. Michael Baltz/107th Mobile Public Affairs Detachment",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "United Rentals"
-   },
-   {
-    "shot": "c2",
-    "shows": "14th St 9th Av Hudson St td ( ) 30 - Chelsea Plaza",
-    "file": "File:14th St 9th Av Hudson St td (2019-01-03) 30 - Chelsea Plaza.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:14th_St_9th_Av_Hudson_St_td_(2019-01-03)_30_-_Chelsea_Plaza.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/14th_St_9th_Av_Hudson_St_td_%282019-01-03%29_30_-_Chelsea_Plaza.jpg/1920px-14th_St_9th_Av_Hudson_St_td_%282019-01-03%29_30_-_Chelsea_Plaza.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/14th_St_9th_Av_Hudson_St_td_%282019-01-03%29_30_-_Chelsea_Plaza.jpg/500px-14th_St_9th_Av_Hudson_St_td_%282019-01-03%29_30_-_Chelsea_Plaza.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tdorante10",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "United Rentals"
-   },
-   {
-    "shot": "c3",
-    "shows": "Empire Outlets SI td ( ) 003",
-    "file": "File:Empire Outlets SI td (2018-08-02) 003.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Empire_Outlets_SI_td_(2018-08-02)_003.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Empire_Outlets_SI_td_%282018-08-02%29_003.jpg/1920px-Empire_Outlets_SI_td_%282018-08-02%29_003.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Empire_Outlets_SI_td_%282018-08-02%29_003.jpg/500px-Empire_Outlets_SI_td_%282018-08-02%29_003.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tdorante10",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "United Rentals"
-   },
-   {
-    "shot": "c4",
-    "shows": "My Truck & Boom",
-    "file": "File:My Truck & Boom.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:My_Truck_%26_Boom.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/My_Truck_%26_Boom.jpg/1920px-My_Truck_%26_Boom.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/My_Truck_%26_Boom.jpg/500px-My_Truck_%26_Boom.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Adam Keethler, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Adam Keethler",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "United Rentals"
-   },
    {
     "shot": "c5",
     "shows": "United Rentals Light Generator",
@@ -82126,78 +81257,6 @@
     "category": "United Rentals"
    },
    {
-    "shot": "c7",
-    "shows": "US Navy -N-9643K-397 Hull preservation and upgrades are in progress aboard the amphibious assault ship USS Bonhomme Richard (LHD 6)",
-    "file": "File:US Navy 101221-N-9643K-397 Hull preservation and upgrades are in progress aboard the amphibious assault ship USS Bonhomme Richard (LHD 6).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:US_Navy_101221-N-9643K-397_Hull_preservation_and_upgrades_are_in_progress_aboard_the_amphibious_assault_ship_USS_Bonhomme_Richard_(LHD_6).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/US_Navy_101221-N-9643K-397_Hull_preservation_and_upgrades_are_in_progress_aboard_the_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg/1920px-US_Navy_101221-N-9643K-397_Hull_preservation_and_upgrades_are_in_progress_aboard_the_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/US_Navy_101221-N-9643K-397_Hull_preservation_and_upgrades_are_in_progress_aboard_the_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg/500px-US_Navy_101221-N-9643K-397_Hull_preservation_and_upgrades_are_in_progress_aboard_the_amphibious_assault_ship_USS_Bonhomme_Richard_%28LHD_6%29.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Navy photo by Chief Mass Communication Specialist Joe Kane, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Navy photo by Chief Mass Communication Specialist Joe Kane",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "United Rentals"
-   },
-   {
-    "shot": "c8",
-    "shows": "Follow the Arrows",
-    "file": "File:Follow the Arrows (50619358112).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Follow_the_Arrows_(50619358112).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Follow_the_Arrows_%2850619358112%29.jpg/1920px-Follow_the_Arrows_%2850619358112%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Follow_the_Arrows_%2850619358112%29.jpg/500px-Follow_the_Arrows_%2850619358112%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "formulanone, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "formulanone",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "United Rentals"
-   },
-   {
-    "shot": "c9",
-    "shows": "Sheldon Creed 2018 ARCA Madison",
-    "file": "File:Sheldon Creed 2018 ARCA Madison.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sheldon_Creed_2018_ARCA_Madison.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sheldon_Creed_2018_ARCA_Madison.jpg/1280px-Sheldon_Creed_2018_ARCA_Madison.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sheldon_Creed_2018_ARCA_Madison.jpg/500px-Sheldon_Creed_2018_ARCA_Madison.jpg",
-    "size": [
-     1280,
-     1543
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Royalbroil, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Royalbroil",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "United Rentals"
-   },
-   {
     "shot": "c10",
     "shows": "Blackjack engineers tackle “Work Week”",
     "file": "File:Blackjack engineers tackle “Work Week” (3156420).jpeg",
@@ -82222,7 +81281,7 @@
     "category": "United Rentals"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "UNH": {
   "name": "UnitedHealth Group",
@@ -82668,55 +81727,9 @@
     "author": "Larry D. Moore",
     "year": 2020,
     "how": "Commons search"
-   },
-   {
-    "shot": "s2",
-    "shows": "Valero refinery, Port Arthur TX, historical plaque",
-    "file": "File:Valero refinery, Port Arthur TX, historical plaque.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Valero_refinery,_Port_Arthur_TX,_historical_plaque.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Valero_refinery%2C_Port_Arthur_TX%2C_historical_plaque.jpg/1920px-Valero_refinery%2C_Port_Arthur_TX%2C_historical_plaque.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Valero_refinery%2C_Port_Arthur_TX%2C_historical_plaque.jpg/500px-Valero_refinery%2C_Port_Arthur_TX%2C_historical_plaque.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "roy.luck, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "roy.luck",
-    "year": 2009,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s3",
-    "shows": "Valero oil refinery company - panoramio",
-    "file": "File:Valero oil refinery company - panoramio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Valero_oil_refinery_company_-_panoramio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Valero_oil_refinery_company_-_panoramio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Valero_oil_refinery_company_-_panoramio.jpg/500px-Valero_oil_refinery_company_-_panoramio.jpg",
-    "size": [
-     1600,
-     1200
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "James Martins, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "James Martins",
-    "year": 2003,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "VEEV": {
   "name": "Veeva Systems",
@@ -83144,6 +82157,164 @@
   "sector": "sector-communication",
   "photos": [
    {
+    "shot": "s10",
+    "shows": "Verizon Store - Cellular Retail Phone Store",
+    "file": "File:Verizon Store - Cellular Retail Phone Store (47109159491).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Verizon_Store_-_Cellular_Retail_Phone_Store_(47109159491).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg/1920px-Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg/500px-Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg",
+    "size": [
+     1920,
+     1270
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Tony Webster from Minneapolis, Minnesota, United States",
+    "year": 2019,
+    "how": "Commons search"
+   },
+   {
+    "shot": "b1",
+    "shows": "A very tall building with a verizon sign on top",
+    "file": "unsplash:xJ2AG2lP5eQ",
+    "page": "https://unsplash.com/photos/a-very-tall-building-with-a-verizon-sign-on-top-xJ2AG2lP5eQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1647748541394-93e65a46170e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1647748541394-93e65a46170e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Leon Bredella on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Leon Bredella",
+    "year": 2022,
+    "how": "unsplash search: Verizon",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@leonbredella?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/xJ2AG2lP5eQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "Cars parked in front of store during daytime",
+    "file": "unsplash:NVrABBu1h-g",
+    "page": "https://unsplash.com/photos/cars-parked-in-front-of-store-during-daytime-NVrABBu1h-g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1627357898430-2b188690a131?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1627357898430-2b188690a131?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by José Matute on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "José Matute",
+    "year": 2021,
+    "how": "unsplash search: Verizon",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jematutef?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NVrABBu1h-g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "A very tall building with a sky background",
+    "file": "unsplash:kQPGn8wvsns",
+    "page": "https://unsplash.com/photos/a-very-tall-building-with-a-sky-background-kQPGn8wvsns?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1647816213975-5a0374b4bee7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1647816213975-5a0374b4bee7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Leon Bredella on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Leon Bredella",
+    "year": 2022,
+    "how": "unsplash search: Verizon",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@leonbredella?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/kQPGn8wvsns/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b4",
+    "shows": "The verizon logo is displayed on an iphone",
+    "file": "unsplash:o5_KF_-Ge3g",
+    "page": "https://unsplash.com/photos/the-verizon-logo-is-displayed-on-an-iphone-o5_KF_-Ge3g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1648091855442-f0c7d6bb3187?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1648091855442-f0c7d6bb3187?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1495
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Marques Thomas on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Marques Thomas",
+    "year": 2022,
+    "how": "unsplash search: Verizon",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@querysprout?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/o5_KF_-Ge3g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "A glowing spherical building with the verizon logo at night",
+    "file": "unsplash:WBbI7r1Fiuc",
+    "page": "https://unsplash.com/photos/a-glowing-spherical-building-with-the-verizon-logo-at-night-WBbI7r1Fiuc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1767582008005-e8d3dcaedd3c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1767582008005-e8d3dcaedd3c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Chuang XY on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Chuang XY",
+    "year": 2026,
+    "how": "unsplash search: Verizon",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@xinyu0421?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/WBbI7r1Fiuc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8VmVyaXpvbnxlbnwxfHx8fDE3OTQwMzkxMDB8MA",
+    "track_pending": true
+   },
+   {
     "shot": "main",
     "shows": "Verizon Building",
     "file": "File:Verizon Building (8156005279).jpg",
@@ -83215,102 +82386,6 @@
     "category": "Verizon"
    },
    {
-    "shot": "c4",
-    "shows": "Coral Gables, Miami, Florida - 2021",
-    "file": "File:Coral Gables, Miami, Florida - 2021.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Coral_Gables,_Miami,_Florida_-_2021.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Coral_Gables%2C_Miami%2C_Florida_-_2021.jpg/1920px-Coral_Gables%2C_Miami%2C_Florida_-_2021.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Coral_Gables%2C_Miami%2C_Florida_-_2021.jpg/500px-Coral_Gables%2C_Miami%2C_Florida_-_2021.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sharon Hahn Darlin, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Sharon Hahn Darlin",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Verizon"
-   },
-   {
-    "shot": "c5",
-    "shows": "Manhole in Maryland",
-    "file": "File:Manhole in Maryland.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Manhole_in_Maryland.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Manhole_in_Maryland.jpg/1280px-Manhole_in_Maryland.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Manhole_in_Maryland.jpg/500px-Manhole_in_Maryland.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Middle river exports, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Middle river exports",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Verizon"
-   },
-   {
-    "shot": "c6",
-    "shows": "U Limericku u kolovozu 2024",
-    "file": "File:U Limericku u kolovozu 2024.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:U_Limericku_u_kolovozu_2024.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/U_Limericku_u_kolovozu_2024.jpg/1280px-U_Limericku_u_kolovozu_2024.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/U_Limericku_u_kolovozu_2024.jpg/500px-U_Limericku_u_kolovozu_2024.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "August Dominus, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "August Dominus",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Verizon"
-   },
-   {
-    "shot": "c7",
-    "shows": "Unknown sim-verizon- mcmaster mz mit20x",
-    "file": "File:Unknown sim-verizon-277132 mcmaster mz mit20x.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Unknown_sim-verizon-277132_mcmaster_mz_mit20x.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Unknown_sim-verizon-277132_mcmaster_mz_mit20x.jpg/1920px-Unknown_sim-verizon-277132_mcmaster_mz_mit20x.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Unknown_sim-verizon-277132_mcmaster_mz_mit20x.jpg/500px-Unknown_sim-verizon-277132_mcmaster_mz_mit20x.jpg",
-    "size": [
-     1920,
-     1998
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John McMaster, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John McMaster",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Verizon"
-   },
-   {
     "shot": "s8",
     "shows": "A modern Verizon retail store in Burlington, Vermont",
     "file": "File:A modern Verizon retail store in Burlington, Vermont.jpg",
@@ -83355,32 +82430,9 @@
     "author": "Ser Amantio di Nicolao",
     "year": 2019,
     "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Verizon Store - Cellular Retail Phone Store",
-    "file": "File:Verizon Store - Cellular Retail Phone Store (47109159491).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Verizon_Store_-_Cellular_Retail_Phone_Store_(47109159491).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg/1920px-Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg/500px-Verizon_Store_-_Cellular_Retail_Phone_Store_%2847109159491%29.jpg",
-    "size": [
-     1920,
-     1270
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tony Webster from Minneapolis, Minnesota, United States",
-    "year": 2019,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04"
+  "checked": "2026-11-07"
  },
  "VRTX": {
   "name": "Vertex Pharmaceuticals",
