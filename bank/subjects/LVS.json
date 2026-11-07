@@ -7,5 +7,42 @@
  ],
  "sector": "sector-consumer-discretionary",
  "fill_from": "sector-consumer-discretionary",
- "photos": []
+ "photos": [
+  {
+   "shows": "Marina Bay Sands, Singapore",
+   "url": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TWFyaW5hJTIwQmF5JTIwU2FuZHN8ZW58MXx8fHwxNzk0MDA2NzAzfDA&ixlib=rb-4.1.0&w=1945&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TWFyaW5hJTIwQmF5JTIwU2FuZHN8ZW58MXx8fHwxNzk0MDA2NzAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1945,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Hu Chen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@huchenme?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/marina-bay-sands-singapore-__cBlRzLSTg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Gold and white lighted building",
+   "url": "https://images.unsplash.com/photo-1618591362251-1c9f70b59192?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFyaW5hJTIwQmF5JTIwU2FuZHN8ZW58MXx8fHwxNzk0MDA2NzAzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1618591362251-1c9f70b59192?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFyaW5hJTIwQmF5JTIwU2FuZHN8ZW58MXx8fHwxNzk0MDA2NzAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bryan Low on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@brynlwsk?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/gold-and-white-lighted-building-Y3nBfFpXVIY?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
 }
