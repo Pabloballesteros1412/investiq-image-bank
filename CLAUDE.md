@@ -171,7 +171,9 @@ Decisions (Pablo, 4 Nov 2026):
    brand pass takes about half an hour.
 2. Done: PRs #1 to #4 merged into `main` (6-7 Nov 2026); the raw `main/bank/index.json` the chat reads
    has 2,337 photos and 631 subjects (checked 7 Nov). Later work goes in through a new PR.
-3. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
+3. Done: GitHub Pages is on (main, /docs): https://pabloballesteros1412.github.io/investiq-image-bank/ . Every
+   merge into main redeploys it ("pages build and deployment" runs, all green; github.io is not reachable from
+   the cloud container, so check it through those runs).
 4. Done (7 Nov): hand search on Commons for the 26 catalog companies with 0-3 good photos (5 targeted queries
    each: HQ by address, plants, products, signs), 303 candidates graded by eye: 45 grade 3 (put first), 121 grade 2
    (reserve). They carry `"how": "hand-picked"` (`HAND`) and a rebuild keeps them. Still thin: ASML (Commons has
