@@ -161,6 +161,25 @@ Decisions (Pablo, 4 Nov 2026):
 - Index: 2,267 photos (1,807 Commons, 1,388 of them plain; 460 Unsplash). Companies with 0 / 1 / 2 / 3+ photos:
   135 / 81 / 58 / 309. 42 Unsplash download counts pending (the next build sends them first).
 
+## Bigger bank: 10 / 30 / 50 (12 Nov 2026)
+- Pablo: 10 photos for every company, 30 for the well-known ones, 50 for topics. `TARGET` 10, `FAMOUS_TARGET` 30
+  (the 50 companies with a hand-written catalog entry), `TOPIC_TARGET` 50 (sectors too); `target_of(e)` reads the
+  manifest entry's `target`; the index gives every subject its `target` and `fill_from` compares against it.
+- Topics: 10 more short searches each (20 shots); `shot_photos` shares the target over the shots in rounds
+  (best of each shot, then second best...), at most 3 stock photos per photographer, one per file stem, and after
+  the first round Commons photos only with a quality mark (`QUALITY`): only ~7% of the others passed review.
+- Companies: `grow_companies.py` (scratchpad) collects Commons candidates for every company below target (deeper
+  category crawl, searches for HQ/store/plant/sign...) into a JSON file; graded by eye; graded >= 2 merged into the
+  manifest as `hand-picked` (a rebuild keeps them) - only while no build runs, since a build rewrites the manifest.
+  Yield ~38% (grade 3 ~4%, grade 2 ~34%).
+- Grading at scale: parallel subagents with `RUBRIC.md` plus a brief (topics: different photos of the same kind of
+  thing are each graded on their merits; only near-identical repeats get 2), spot-checked by eye; Sonnet graders
+  agree with the spot checks.
+- Pablo asked to "scrape any website": declined (copyright; InvestIQ posts commercially). Added free-licence
+  sources instead (stock.py): Flickr (CC BY / BY-SA / CC0 / PDM / US gov only, >= 1600 px; needs FLICKR_API_KEY in
+  the environment), NASA (public domain, no key, space subjects only, launch providers' photos excluded), Pixabay
+  (needs PIXABAY_API_KEY and full-HD access). Openverse tested and dropped (flaky, Flickr at 1024 px).
+
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
    terms fixed after their first search (Abbott, Cisco, Casey's, Chipotle, McCormick, On, P&G, Qualcomm, Roku)
