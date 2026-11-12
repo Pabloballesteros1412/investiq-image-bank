@@ -6,6 +6,8 @@
   "COST"
  ],
  "sector": "sector-staples",
+ "target": 30,
+ "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Costco Auckland",
@@ -182,6 +184,258 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Issaquah_aerial,_April_2023.png",
+   "plain": true
+  },
+  {
+   "shows": "Costco headquarters in Issaquah, Washington. Photographed by user Coolcaesar on May 30, 2016.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Costcoheadquarters.jpg/1920px-Costcoheadquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Costcoheadquarters.jpg/500px-Costcoheadquarters.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costcoheadquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Entrance to Costco store with ID scanners installed",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Entrance_to_Costco_store_with_ID_scanners_installed.jpg/1280px-Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Entrance_to_Costco_store_with_ID_scanners_installed.jpg/500px-Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_to_Costco_store_with_ID_scanners_installed.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Costco Hsinchu Store",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Costco_Hsinchu_Store_20140701.jpg/1920px-Costco_Hsinchu_Store_20140701.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Costco_Hsinchu_Store_20140701.jpg/500px-Costco_Hsinchu_Store_20140701.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jeffreyjhang, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_Hsinchu_Store_20140701.jpg",
+   "plain": true
+  },
+  {
+   "shows": "The coordinates are not the exact coordinates, but the person who uploaded this picture thinks they are close enough.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Costco_%2879939%29.jpg/1920px-Costco_%2879939%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Costco_%2879939%29.jpg/500px-Costco_%2879939%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "EvanCarroll, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_(79939).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Costco Kaohsiung interior",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Costco_Kaohsiung_interior.jpg/1920px-Costco_Kaohsiung_interior.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Costco_Kaohsiung_interior.jpg/500px-Costco_Kaohsiung_interior.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Benlisquare, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_Kaohsiung_interior.jpg",
+   "plain": true
+  },
+  {
+   "shows": "The coordinates are not the exact coordinates, but the person who uploaded this picture thinks they are close enough.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Costco_%2864642%29.jpg/1920px-Costco_%2864642%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Costco_%2864642%29.jpg/500px-Costco_%2864642%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "EvanCarroll, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_(64642).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Costco Wholesale in Federal Way.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Costco_9977.jpg/1920px-Costco_9977.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Costco_9977.jpg/500px-Costco_9977.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_9977.jpg",
+   "plain": true
+  },
+  {
+   "shows": "In Costco North Taichung 14",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/In_Costco_North_Taichung_14.jpg/1920px-In_Costco_North_Taichung_14.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/In_Costco_North_Taichung_14.jpg/500px-In_Costco_North_Taichung_14.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alika113, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:In_Costco_North_Taichung_14.jpg",
+   "plain": true
+  },
+  {
+   "shows": "The coordinates are not the exact coordinates, but the person who uploaded this picture thinks they are close enough.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Costco_%2891811%29.jpg/1280px-Costco_%2891811%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Costco_%2891811%29.jpg/500px-Costco_%2891811%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "EvanCarroll, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_(91811).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Costco Wholesale in Federal Way.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Costco_9979.jpg/1280px-Costco_9979.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Costco_9979.jpg/500px-Costco_9979.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_9979.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Costco Wholesale in Federal Way.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Costco_9978.jpg/1920px-Costco_9978.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Costco_9978.jpg/500px-Costco_9978.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_9978.jpg",
+   "plain": true
+  },
+  {
+   "shows": "The coordinates are not the exact coordinates, but the person who uploaded this picture thinks they are close enough.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Costco.jpg/1280px-Costco.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Costco.jpg/500px-Costco.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "EvanCarroll, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Costco Wholesale in Federal Way.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Costco_9822.jpg/1920px-Costco_9822.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Costco_9822.jpg/500px-Costco_9822.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_9822.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Costco Neihu Warehouse Tire Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Costco_Neihu_Warehouse_Tire_Center_20140928.jpg/1920px-Costco_Neihu_Warehouse_Tire_Center_20140928.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Costco_Neihu_Warehouse_Tire_Center_20140928.jpg/500px-Costco_Neihu_Warehouse_Tire_Center_20140928.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "玄史生, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Costco_Neihu_Warehouse_Tire_Center_20140928.jpg",
    "plain": true
   }
  ]

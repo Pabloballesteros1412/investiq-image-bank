@@ -6,6 +6,8 @@
   "IBM"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "IBM Quantum System One on display at O'Hare International Airport",
@@ -182,6 +184,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:IBM_CHQ_-_Oct_2014.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Edificio IBM (Pº Castellana 4, Madrid) 03",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Edificio_IBM_%28P%C2%BA_Castellana_4%2C_Madrid%29_03.jpg/1920px-Edificio_IBM_%28P%C2%BA_Castellana_4%2C_Madrid%29_03.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Edificio_IBM_%28P%C2%BA_Castellana_4%2C_Madrid%29_03.jpg/500px-Edificio_IBM_%28P%C2%BA_Castellana_4%2C_Madrid%29_03.jpg",
+   "size": [
+    1920,
+    1332
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Luis García ( Zaqarbal ), CC BY-SA 3.0 es, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0 es",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Edificio_IBM_(P%C2%BA_Castellana_4,_Madrid)_03.jpg",
+   "plain": true
+  },
+  {
+   "shows": "IBM Building with addition",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IBM_Building_with_addition.jpg/1920px-IBM_Building_with_addition.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IBM_Building_with_addition.jpg/500px-IBM_Building_with_addition.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ezlev, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBM_Building_with_addition.jpg",
+   "plain": true
+  },
+  {
+   "shows": "IBM System360 Mainframe",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/IBM_System360_Mainframe.jpg/1920px-IBM_System360_Mainframe.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/IBM_System360_Mainframe.jpg/500px-IBM_System360_Mainframe.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Erik Pitti, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:IBM_System360_Mainframe.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ibm building in seattle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ibm_building_in_seattle.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ibm_building_in_seattle.jpg/500px-Ibm_building_in_seattle.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "yusunkwon from cambridge, ma, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ibm_building_in_seattle.jpg",
    "plain": true
   }
  ]

@@ -70,7 +70,9 @@ ENWIKI_API = "https://en.wikipedia.org/w/api.php"
 UA = "InvestIQ-image-bank/2.0 (https://getinvestiq.com; carousel image bank)"
 BASE_URL = "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/"  # public address of bank/
 
-TARGET = 10                           # photos per company, topic and sector
+TARGET = 10                           # photos per company
+FAMOUS_TARGET = 30                    # photos per well-known company (the companies with a hand-written catalog entry)
+TOPIC_TARGET = 50                     # photos per market topic and GICS sector
 RESERVE_GRADE = 2                     # a company's plain Commons photos fill the places its better ones leave free
 HAND = "hand-picked"                  # 'how' of photos found by a hand search and graded by eye: a rebuild keeps them
 SEARCH_ROOM = 3                       # places a company's Commons category leaves for photos found by search
@@ -123,7 +125,8 @@ EXTMETA = "|".join(["LicenseShortName", "License", "LicenseUrl", "Artist", "Cred
 IMAGEINFO = {"prop": "imageinfo", "iiprop": "url|size|mime|extmetadata", "iiextmetadatafilter": EXTMETA, "iiextmetadatalanguage": "en"}
 RULES = [
     "Use only the photos listed in this bank for InvestIQ carousels; never other images from the web.",
-    "Each subject (company, topic or sector) has a file at its 'file' address with up to 10 photos. For each photo: "
+    "Each subject (company, topic or sector) has a file at its 'file' address with its photos: up to 10 for a "
+    "company, 30 for a well-known one, 50 for a topic or sector ('target'). For each photo: "
     "'url' is the photo on Wikimedia Commons (about 1280-1920 px wide), 'preview' a 500 px version to look at before "
     "choosing, 'shows' what it shows, 'focus' [x, y] the point to keep when cropping (0-1 from the left and from the top).",
     "Crop the photo to the slide yourself: 4:5 (1200x1500) or 1:1 (1200x1200), centred on 'focus'. In HTML: "
@@ -134,7 +137,7 @@ RULES = [
     "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
     "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ. Roles "
     "(CEO, chair...) come from Wikidata or the catalog and can be out of date: check before naming one.",
-    "A company with fewer than 10 photos has 'fill_from': a GICS sector whose photos are generic. Use them only as "
+    "A company with fewer photos than its 'target' has 'fill_from': a GICS sector whose photos are generic. Use them only as "
     "illustration, never presented as that company's own premises, products or people.",
     "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come "
     "after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
@@ -199,10 +202,10 @@ def check_catalog(cat, extras=None):
                 out.append(f"{sid}: '{k}' already names {keys[k]}")
             keys[k] = sid
         shots = s.get("shots", [])
-        if kind in ("topic", "sector") and len(shots) != TARGET:
-            out.append(f"{sid}: {len(shots)} shots ({TARGET} expected)")
-        if kind == "company" and not 1 <= len(shots) <= TARGET:
-            out.append(f"{sid}: {len(shots)} shots (1 to {TARGET})")
+        if kind in ("topic", "sector") and not TARGET <= len(shots) <= TOPIC_TARGET:
+            out.append(f"{sid}: {len(shots)} shots ({TARGET} to {TOPIC_TARGET} expected)")
+        if kind == "company" and not 1 <= len(shots) <= FAMOUS_TARGET:
+            out.append(f"{sid}: {len(shots)} shots (1 to {FAMOUS_TARGET})")
         seen = set()
         for sh in shots:
             if not sh.get("id") or sh["id"] in seen:
@@ -736,10 +739,10 @@ def stock_match(c, shot, q):
     return bool(words) and all(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?:s|es)?(?![a-z0-9])", hay) for w in stems)
 
 
-def choose(shot, search_fn, used=(), no_sa=False, exclude=(), stock_sources=()):
+def choose(shot, search_fn, used=(), no_sa=False, exclude=(), stock_sources=(), enough=3):
     """Acceptable candidates for a shot, best first: [(score, candidate, query)], from the stock sources (when
-    given; never for real people) and Commons. The fallback queries are tried only while fewer than three photos
-    qualify, and their results rank lower."""
+    given; never for real people) and Commons. The fallback queries are tried only while fewer than enough photos
+    qualify (three; more when a topic takes several photos per shot), and their results rank lower."""
     seen, out = set(), []
     fns = [] if shot.get("person") else [(st.search, True) for st in stock_sources]
     for i, q in enumerate([shot["q"], *shot.get("alt", [])]):
@@ -753,7 +756,7 @@ def choose(shot, search_fn, used=(), no_sa=False, exclude=(), stock_sources=()):
                 s = score(c, rank, shot, used, no_sa, exclude)
                 if s is not None:
                     out.append((s - 8 * i + (STOCK_BONUS if is_stock else 0), c, q))
-        if len(out) >= 3:
+        if len(out) >= enough:
             break
     return sorted(out, key=lambda x: -x[0])
 
@@ -878,8 +881,8 @@ def short_name(name):
     return " ".join(words).strip(" ,.") or name
 
 
-def company_photos(c, curated, src, used, no_sa=False, exclude=()):
-    """Up to TARGET photos of one company (see the module's docstring for the order)."""
+def company_photos(c, curated, src, used, no_sa=False, exclude=(), target=TARGET):
+    """Up to target photos of one company (see the module's docstring for the order)."""
     name, short = c["name"], short_name(c["name"])
     keys = [k for k in dict.fromkeys([short, name, c.get("commons_category"), *c.get("aliases", [])]) if k]
     # inside the company's own category its short name is enough; in a search 'Blackstone' alone is also a town,
@@ -899,17 +902,17 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
         return cand["file"] not in used and stem(cand["file"]) not in stems
 
     for sh in curated:
-        if len(picks) >= TARGET:
+        if len(picks) >= target:
             break
         r = [x for x in choose(sh, src.search, used, no_sa, exclude) if fresh(x[1]) and (sh.get("person") or about(x[1], sh, keys))]
         if r:
             take(r[0][1], sh["id"], describe(r[0][1], sh["scene"]), "catalog", sh.get("person"), focus=sh.get("focus"))
-    if c.get("image") and len(picks) < TARGET:
+    if c.get("image") and len(picks) < target:
         t = "File:" + c["image"]
         cand = src.info([t]).get(t)
         if cand and fresh(cand) and score(cand, 0, {"id": "main"}, used, no_sa, exclude) is not None:
             take(cand, "main", describe(cand, name), "Wikidata main image")
-    if c.get("ceo") and len(picks) < TARGET and not any(p["shot"] == "leader" for p in picks):
+    if c.get("ceo") and len(picks) < target and not any(p["shot"] == "leader" for p in picks):
         # the person's own image on Wikidata; else a search whose file names or categories give the full name
         # ('William M. Brown', not a painter called William Mason Brown)
         t = "File:" + c["ceo_image"] if c.get("ceo_image") else None
@@ -920,7 +923,7 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
             cand = r[0][1] if r else None
         if cand:
             take(cand, "leader", f"{c['ceo']}, {name} CEO (per Wikidata)", "Wikidata CEO", person=True)
-    if c.get("commons_category") and len(picks) < TARGET:
+    if c.get("commons_category") and len(picks) < target:
         # inside its own category, 'Hilton Hotels & Resorts' and 'Wynn Las Vegas' are Hilton Worldwide's and Wynn Resorts'
         files = src.category_files(c["commons_category"], keys + ([core] if core else []))
         infos = src.info([f for f, _ in files])
@@ -945,20 +948,21 @@ def company_photos(c, curated, src, used, no_sa=False, exclude=()):
             per[where] = per.get(where, 0) + 1
             take(cand, f"c{len(picks) + 1}", describe(cand, f"{name} ({where})"), "Commons category", category=where)
 
-    from_category(TARGET - SEARCH_ROOM)  # leave room for its headquarters, stores, factories... found by search
+    per_term = 3 * max(1, target // TARGET)  # photos taken from one search ('Nike store'): 3, or 9 for a 30-photo company
+    from_category(target - max(SEARCH_ROOM, target // 3))  # leave room for its headquarters, stores, factories... found by search
     for what in ("headquarters", "store", "factory", "office", "building", ""):
-        if len(picks) >= TARGET:
+        if len(picks) >= target:
             break
         n = 0
         term = f'"{name}"' if c.get("ambiguous") else short
         for _, cand, _ in choose({"id": "search", "q": f"{term} {what}".strip(), "must": strict}, src.search, used, no_sa, exclude):
-            if len(picks) >= TARGET or n >= 3:
+            if len(picks) >= target or n >= per_term:
                 break
             # PNGs found this way are mostly renders, screenshots and scans: photos are JPEG
             if fresh(cand) and cand["mime"] == "image/jpeg" and own_place(cand, keys, strict, core) and not EVENTS.search(" ".join(cand["categories"])):
                 take(cand, f"s{len(picks) + 1}", describe(cand, f"{name} {what}".strip()), "Commons search")
                 n += 1
-    from_category(TARGET)
+    from_category(target)
     return picks
 
 
@@ -975,7 +979,7 @@ def brand_keys(c, brands=()):
     return [k for k in dict.fromkeys(flat(k) for k in keys if k) if len(k) >= 2]
 
 
-def brand_photos(c, brands, src, used, n, exclude=()):
+def brand_photos(c, brands, src, used, n, exclude=(), n_queries=BRAND_QUERIES):
     """Up to n Unsplash and Pexels photos whose description names the company or one of its brands, best
     first, at most two by the same photographer (one shoot is many near-identical photos). Only for companies
     listed in brands.json: a stock search for 'Ametek' or 'Aon' finds nothing of theirs."""
@@ -983,7 +987,7 @@ def brand_photos(c, brands, src, used, n, exclude=()):
     if n <= 0 or not stock_sources or not brands:  # only companies with consumer brands (brands.json)
         return []
     keys = brand_keys(c, brands)
-    queries = list(dict.fromkeys(brands[:BRAND_QUERIES]))
+    queries = list(dict.fromkeys(brands[:n_queries]))
     found, seen = [], set()
     for qi, q in enumerate(queries):
         for st in stock_sources:
@@ -1009,20 +1013,33 @@ def brand_photos(c, brands, src, used, n, exclude=()):
     return picks
 
 
-def shot_photos(s, src, used, no_sa=False, exclude=()):
-    """The photos of a topic or sector, one per hand-written shot: (photos, ids of shots without a photo)."""
-    picks, missing = [], []
+def shot_photos(s, src, used, no_sa=False, exclude=(), target=None):
+    """The photos of a topic or sector: (photos, ids of shots without a photo). Its target (50) is shared out
+    over its hand-written shots: the best photo of each shot first, then the second best of each, and so on, at
+    most three stock photos by the same photographer and none twice from one shoot (same file stem)."""
+    target = target or s.get("target") or TOPIC_TARGET
+    per_shot = -(-target // max(1, len(s["shots"])))
+    ranked = []
     for sh in s["shots"]:
-        r = choose(sh, src.search, used, no_sa, exclude, getattr(src, "stock", ()))
-        if not r:
-            missing.append(sh["id"])
-            continue
-        c = r[0][1]
-        shows = describe(c, sh["scene"])
-        focus = sh.get("focus") or (PERSON_FOCUS if sh.get("person") else (0.5, 0.5))
-        picks.append(photo(c, sh["id"], shows, "catalog", focus, sh.get("person")))
-        used.add(c["file"])
-    return picks, missing
+        ranked.append((sh, [c for _, c, _ in choose(sh, src.search, used, no_sa, exclude, getattr(src, "stock", ()),
+                                                     enough=2 * per_shot)]))
+    picks, per_author, stems, taken = [], {}, set(), {}
+    for rnd in range(per_shot * 3):  # later rounds let a shot with photos to spare cover one that ran dry
+        for sh, cands in ranked:
+            if len(picks) >= target or taken.get(sh["id"], 0) > rnd:
+                continue
+            for c in cands:
+                a = c.get("author") if c.get("provider") in STOCK else None  # one Unsplash shoot: many look-alikes
+                if c["file"] in used or stem(c["file"]) in stems or (a and per_author.get(a, 0) >= 3):
+                    continue
+                focus = sh.get("focus") or (PERSON_FOCUS if sh.get("person") else (0.5, 0.5))
+                picks.append(photo(c, sh["id"], describe(c, sh["scene"]), "catalog", focus, sh.get("person")))
+                used.add(c["file"])
+                stems.add(stem(c["file"]))
+                per_author[a] = per_author.get(a, 0) + 1
+                taken[sh["id"]] = taken.get(sh["id"], 0) + 1
+                break
+    return picks, [sh["id"] for sh, _ in ranked if not taken.get(sh["id"])]
 
 
 # ---------- build ----------
@@ -1074,12 +1091,19 @@ def reserve(p, rv):
     return bool(rv.get("min_grade")) and provider_of(p) == "commons" and rv["grades"].get(p["file"]) == RESERVE_GRADE
 
 
+def target_of(e):
+    """How many photos a subject should have: 'target' in its manifest entry (30 for a well-known company), else
+    50 for a topic or sector and 10 for a company."""
+    return e.get("target") or (TOPIC_TARGET if e.get("kind") in ("topic", "sector") else TARGET)
+
+
 def published_photos(e, rv):
-    """The photos of a subject that reach the chat, at most TARGET: the published ones (Commons first, they are in
-    that order), then, for a company with places left, its plain ones (reserve)."""
-    out = [p for p in e.get("photos", []) if published(p, rv)][:TARGET]
-    if e.get("kind") == "company" and len(out) < TARGET:
-        out += [p for p in e.get("photos", []) if reserve(p, rv)][:TARGET - len(out)]
+    """The photos of a subject that reach the chat, at most its target: the published ones (Commons first, they
+    are in that order), then, for a company with places left, its plain ones (reserve)."""
+    t = target_of(e)
+    out = [p for p in e.get("photos", []) if published(p, rv)][:t]
+    if e.get("kind") == "company" and len(out) < t:
+        out += [p for p in e.get("photos", []) if reserve(p, rv)][:t - len(out)]
     return out
 
 
@@ -1097,9 +1121,9 @@ def subjects_of(cat, uni, brands=None):
         cur = curated_for(cat, c["tickers"])
         out.append({"id": c["id"], "kind": "company", "name": c["name"], "tickers": c["tickers"],
                     "aliases": (cur or {}).get("aliases", []), "sector": SECTORS.get(c.get("sector")),
-                    "company": c, "shots": (cur or {}).get("shots", []),
+                    "company": c, "shots": (cur or {}).get("shots", []), "target": FAMOUS_TARGET if cur else TARGET,
                     "brands": next((brands[t] for t in [c["id"], *c["tickers"]] if t in brands), [])})
-    out += [s for s in cat["subjects"] if s["kind"] == "sector"] + [s for s in cat["subjects"] if s["kind"] == "topic"]
+    out += [{**s, "target": TOPIC_TARGET} for k in ("sector", "topic") for s in cat["subjects"] if s["kind"] == k]
     return out
 
 
@@ -1111,12 +1135,14 @@ def pick(s, src, used, no_sa=False, exclude=(), rv=None, keep=None):
     """The photos of a subject: (photos, ids of hand-written shots without a photo). A company gets its Commons
     photos, then brand photos from Unsplash and Pexels for the places its approved Commons photos leave free.
     With keep (a list of photos), its Commons photos are those and Commons is not searched again."""
+    t = s.get("target") or (TARGET if s["kind"] == "company" else TOPIC_TARGET)
     if s["kind"] == "company":
-        commons = keep if keep is not None else company_photos(s["company"], s["shots"], src, used, no_sa, exclude)
+        commons = keep if keep is not None else company_photos(s["company"], s["shots"], src, used, no_sa, exclude, t)
         rv = rv or {"min_grade": 0, "grades": {}}
         approved = sum(1 for p in commons if published(p, rv))
-        return commons + brand_photos(s["company"], s.get("brands", []), src, used, TARGET - approved, exclude), []
-    return shot_photos(s, src, used, no_sa, exclude)
+        return commons + brand_photos(s["company"], s.get("brands", []), src, used, t - approved, exclude,
+                                      BRAND_QUERIES * max(1, t // TARGET)), []
+    return shot_photos(s, src, used, no_sa, exclude, t)
 
 
 def look_ahead(s, src, used, no_sa, exclude, rv=None, keep=None):
@@ -1205,7 +1231,8 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
         exclude = graded_out | set(fixed.get("exclude", []))
         for p in old.get("photos", []):
             used.discard(p["file"])
-        e = {"name": s["name"], "kind": s["kind"], "tickers": s.get("tickers", []), "aliases": s.get("aliases", [])}
+        e = {"name": s["name"], "kind": s["kind"], "tickers": s.get("tickers", []), "aliases": s.get("aliases", []),
+             "target": s.get("target") or (TARGET if s["kind"] == "company" else TOPIC_TARGET)}
         if s["kind"] == "company":
             e["sector"] = s.get("sector")
         try:
@@ -1270,13 +1297,13 @@ def index(bank=BANK, base_url=BASE_URL):
                     **({"plain": True} if reserve(p, rv) else {})} for p in published_photos(e, rv)]
         total += len(photos)
         rec = {"id": sid, "kind": e["kind"], "name": e["name"], "tickers": e.get("tickers", []), "aliases": e.get("aliases", []),
-               "photos": len(photos), "file": f"{base}subjects/{safe(sid)}.json"}
+               "photos": len(photos), "target": target_of(e), "file": f"{base}subjects/{safe(sid)}.json"}
         if e["kind"] == "company" and e.get("sector"):
             rec["sector"] = e["sector"]
-            if len(photos) < TARGET:
+            if len(photos) < target_of(e):
                 rec["fill_from"] = e["sector"]
         entries.append(rec)
-        body = {k: rec[k] for k in ("id", "kind", "name", "tickers", "sector", "fill_from") if k in rec}
+        body = {k: rec[k] for k in ("id", "kind", "name", "tickers", "sector", "target", "fill_from") if k in rec}
         (sub / f"{safe(sid)}.json").write_text(json.dumps({**body, "photos": photos}, indent=1, ensure_ascii=False), encoding="utf-8")
     out = {"about": "InvestIQ image bank for carousels: freely licensed photos of S&P 500 and well-known US-listed companies "
                     "(Wikimedia Commons, only the best, checked by eye), market topics and GICS sectors (Unsplash, "

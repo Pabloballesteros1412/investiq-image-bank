@@ -6,6 +6,8 @@
   "JPM"
  ],
  "sector": "sector-financials",
+ "target": 30,
+ "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "A Chase Bank branch in Knoxville, Tennessee",

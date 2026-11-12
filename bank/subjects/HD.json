@@ -6,6 +6,8 @@
   "HD"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 30,
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "The Home Depot Shopping Center Street Signage in Ontario, Oregon",
@@ -180,6 +182,150 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_appliances_section_of_a_Home_Depot_store_in_Blairsville,_Ga.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Curbside pickup sign at a Home Depot in Eugene, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Curbside_pickup_sign_at_a_Home_Depot_in_Eugene%2C_Oregon.jpg/1920px-Curbside_pickup_sign_at_a_Home_Depot_in_Eugene%2C_Oregon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Curbside_pickup_sign_at_a_Home_Depot_in_Eugene%2C_Oregon.jpg/500px-Curbside_pickup_sign_at_a_Home_Depot_in_Eugene%2C_Oregon.jpg",
+   "size": [
+    1920,
+    1391
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rick Obst, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Curbside_pickup_sign_at_a_Home_Depot_in_Eugene,_Oregon.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot's Garden Center in Ontario, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Home_Depot%27s_Garden_Center_in_Ontario%2C_Oregon.jpg/1920px-Home_Depot%27s_Garden_Center_in_Ontario%2C_Oregon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Home_Depot%27s_Garden_Center_in_Ontario%2C_Oregon.jpg/500px-Home_Depot%27s_Garden_Center_in_Ontario%2C_Oregon.jpg",
+   "size": [
+    1920,
+    1442
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rick Obst, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot%27s_Garden_Center_in_Ontario,_Oregon.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot, Bainbridge",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Home_Depot%2C_Bainbridge.jpg/1920px-Home_Depot%2C_Bainbridge.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Home_Depot%2C_Bainbridge.jpg/500px-Home_Depot%2C_Bainbridge.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot,_Bainbridge.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot, Griffin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Home_Depot%2C_Griffin.JPG/1920px-Home_Depot%2C_Griffin.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Home_Depot%2C_Griffin.JPG/500px-Home_Depot%2C_Griffin.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot,_Griffin.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot - Kitchener, ON",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Home_Depot_-_Kitchener%2C_ON.jpg/1920px-Home_Depot_-_Kitchener%2C_ON.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Home_Depot_-_Kitchener%2C_ON.jpg/500px-Home_Depot_-_Kitchener%2C_ON.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JFVoll, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_-_Kitchener,_ON.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot Plaza sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Home_Depot_Plaza_sign.jpg/1280px-Home_Depot_Plaza_sign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Home_Depot_Plaza_sign.jpg/500px-Home_Depot_Plaza_sign.jpg",
+   "size": [
+    1280,
+    2311
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_Plaza_sign.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot front Tulsa OK 12-25-43",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg/1920px-Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg/500px-Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg",
+   "size": [
+    1920,
+    960
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "G. Edward Johnson, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot, Valdosta",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Home_Depot%2C_Valdosta.JPG/1920px-Home_Depot%2C_Valdosta.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Home_Depot%2C_Valdosta.JPG/500px-Home_Depot%2C_Valdosta.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot,_Valdosta.JPG",
    "plain": true
   }
  ]

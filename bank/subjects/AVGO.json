@@ -6,6 +6,8 @@
   "AVGO"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Broadcom BCM94331PCIEBT4 - Broadcom BCM4331KML1G-0958",
@@ -182,6 +184,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Broadcom_BCM94331PCIEDUAL_-_BCM4331KMLG-0218.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Speedport Smart 4 Typ A - board - Broadcom BCM63158B1VKFSBG-0667",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg/1920px-Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg/500px-Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg",
    "plain": true
   }
  ]

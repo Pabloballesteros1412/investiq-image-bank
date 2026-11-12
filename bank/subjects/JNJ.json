@@ -6,6 +6,8 @@
   "JNJ"
  ],
  "sector": "sector-health",
+ "target": 30,
+ "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Le siège social de Johnson & Johnson à New Brunswick dans le New Jersey.",
@@ -182,6 +184,96 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Johnson_%26_Johnson_George_St_from_NJT_jeh.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Johnson&Johnson Band-Aid tin, pic1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Johnson%26Johnson_Band-Aid_tin%2C_pic1.JPG/1920px-Johnson%26Johnson_Band-Aid_tin%2C_pic1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Johnson%26Johnson_Band-Aid_tin%2C_pic1.JPG/500px-Johnson%26Johnson_Band-Aid_tin%2C_pic1.JPG",
+   "size": [
+    1920,
+    1435
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alf van Beem, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Johnson%26Johnson_Band-Aid_tin,_pic1.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Band-Aid 9473",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Band-Aid_9473.jpg/1920px-Band-Aid_9473.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Band-Aid_9473.jpg/500px-Band-Aid_9473.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Henning Schlottmann (User:H-stt), CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Band-Aid_9473.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Johnson&Johnson Band-Aid tin, pic3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Johnson%26Johnson_Band-Aid_tin%2C_pic3.JPG/1920px-Johnson%26Johnson_Band-Aid_tin%2C_pic3.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Johnson%26Johnson_Band-Aid_tin%2C_pic3.JPG/500px-Johnson%26Johnson_Band-Aid_tin%2C_pic3.JPG",
+   "size": [
+    1920,
+    1549
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alf van Beem, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Johnson%26Johnson_Band-Aid_tin,_pic3.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Johnson&Johnson Band-Aid tin, pic2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johnson%26Johnson_Band-Aid_tin%2C_pic2.JPG/1920px-Johnson%26Johnson_Band-Aid_tin%2C_pic2.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Johnson%26Johnson_Band-Aid_tin%2C_pic2.JPG/500px-Johnson%26Johnson_Band-Aid_tin%2C_pic2.JPG",
+   "size": [
+    1920,
+    1389
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alf van Beem, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Johnson%26Johnson_Band-Aid_tin,_pic2.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Band-Aid elastic adhesive emergency dressings",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Band-Aid_elastic_adhesive_emergency_dressings.jpg/1920px-Band-Aid_elastic_adhesive_emergency_dressings.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Band-Aid_elastic_adhesive_emergency_dressings.jpg/500px-Band-Aid_elastic_adhesive_emergency_dressings.jpg",
+   "size": [
+    1920,
+    1224
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Maksym Kozlenko, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Band-Aid_elastic_adhesive_emergency_dressings.jpg",
    "plain": true
   }
  ]

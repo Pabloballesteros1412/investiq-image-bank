@@ -6,6 +6,8 @@
   "NVO"
  ],
  "sector": "sector-health",
+ "target": 30,
+ "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Novo Nordisk, Bagsværd, NN1, 2025",
@@ -183,6 +185,114 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Novo_Nordisk_USA_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Novo Nordisk in Mainz",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Novo_Nordisk_in_Mainz.jpg/1920px-Novo_Nordisk_in_Mainz.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Novo_Nordisk_in_Mainz.jpg/500px-Novo_Nordisk_in_Mainz.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ManuelB701, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Novo_Nordisk_in_Mainz.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Novo Nordisk Kalundborg 001",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Novo_Nordisk_Kalundborg_20130729_001_%289720697926%29.jpg/1920px-Novo_Nordisk_Kalundborg_20130729_001_%289720697926%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Novo_Nordisk_Kalundborg_20130729_001_%289720697926%29.jpg/500px-Novo_Nordisk_Kalundborg_20130729_001_%289720697926%29.jpg",
+   "size": [
+    1920,
+    1228
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Johan Wessman / News Oresund, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Novo_Nordisk_Kalundborg_20130729_001_(9720697926).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Novo Nordisk, Bagsværd, NN2, 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN2%2C_2025.jpg/1920px-Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN2%2C_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN2%2C_2025.jpg/500px-Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN2%2C_2025.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Toxophilus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Novo_Nordisk,_Bagsv%C3%A6rd,_NN2,_2025.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Novo Nordisk, Bagsværd, NN1, 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%281%29.jpg/1920px-Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%281%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%281%29.jpg/500px-Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%281%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Toxophilus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Novo_Nordisk,_Bagsv%C3%A6rd,_NN1,_2025_(1).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Novo Nordisk, Bagsværd, NN1, 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%289%29.jpg/1280px-Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%289%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%289%29.jpg/500px-Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%289%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Toxophilus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Novo_Nordisk,_Bagsv%C3%A6rd,_NN1,_2025_(9).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Novo Nordisk, Bagsværd, NN1, 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%283%29.jpg/1920px-Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%283%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%283%29.jpg/500px-Novo_Nordisk%2C_Bagsv%C3%A6rd%2C_NN1%2C_2025_%283%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Toxophilus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Novo_Nordisk,_Bagsv%C3%A6rd,_NN1,_2025_(3).jpg",
    "plain": true
   }
  ]

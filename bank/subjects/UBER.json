@@ -6,6 +6,8 @@
   "UBER"
  ],
  "sector": "sector-industrials",
+ "target": 30,
+ "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Uber Taxi at 7-11 Kadoma Shinbashi",
@@ -183,6 +185,132 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Uber_OTTO_at_their_SF_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "UBER Eats Delivery Cyclist Riding Through a Busy Oxford Road in Manchester",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UBER_Eats_Delivery_Cyclist_Riding_Through_a_Busy_Oxford_Road_in_Manchester.jpg/1920px-UBER_Eats_Delivery_Cyclist_Riding_Through_a_Busy_Oxford_Road_in_Manchester.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/UBER_Eats_Delivery_Cyclist_Riding_Through_a_Busy_Oxford_Road_in_Manchester.jpg/500px-UBER_Eats_Delivery_Cyclist_Riding_Through_a_Busy_Oxford_Road_in_Manchester.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "shopblocks, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:UBER_Eats_Delivery_Cyclist_Riding_Through_a_Busy_Oxford_Road_in_Manchester.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Uber Eats Bag at Namba",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Uber_Eats_Bag_at_Namba.jpg/1920px-Uber_Eats_Bag_at_Namba.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Uber_Eats_Bag_at_Namba.jpg/500px-Uber_Eats_Bag_at_Namba.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mr.ちゅらさん, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Uber_Eats_Bag_at_Namba.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Uber Eats Bike Courier during work, Tomaszów Mazowiecki, Poland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/20260717_224059_Uber_Eats_Bike_Courier_during_work%2C_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg/1280px-20260717_224059_Uber_Eats_Bike_Courier_during_work%2C_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/20260717_224059_Uber_Eats_Bike_Courier_during_work%2C_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg/500px-20260717_224059_Uber_Eats_Bike_Courier_during_work%2C_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WrS.tm.pl, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:20260717_224059_Uber_Eats_Bike_Courier_during_work,_Tomasz%C3%B3w_Mazowiecki,_Poland.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Avride Uber Eats self-driving robots",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Avride_Uber_Eats_self-driving_robots.jpg/1920px-Avride_Uber_Eats_self-driving_robots.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Avride_Uber_Eats_self-driving_robots.jpg/500px-Avride_Uber_Eats_self-driving_robots.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Avride_Uber_Eats_self-driving_robots.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Uber offices, Mission Bay (July 2020) -1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Uber_offices%2C_Mission_Bay_%28July_2020%29_-1.jpg/1920px-Uber_offices%2C_Mission_Bay_%28July_2020%29_-1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Uber_offices%2C_Mission_Bay_%28July_2020%29_-1.jpg/500px-Uber_offices%2C_Mission_Bay_%28July_2020%29_-1.jpg",
+   "size": [
+    1920,
+    1027
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HaeB, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Uber_offices,_Mission_Bay_(July_2020)_-1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Avride Uber Eats self-driving robot - 14",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Avride_Uber_Eats_self-driving_robot_-_14.jpg/1280px-Avride_Uber_Eats_self-driving_robot_-_14.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Avride_Uber_Eats_self-driving_robot_-_14.jpg/500px-Avride_Uber_Eats_self-driving_robot_-_14.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Avride_Uber_Eats_self-driving_robot_-_14.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Avride Uber Eats self-driving robot - 09",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Avride_Uber_Eats_self-driving_robot_-_09.jpg/1920px-Avride_Uber_Eats_self-driving_robot_-_09.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Avride_Uber_Eats_self-driving_robot_-_09.jpg/500px-Avride_Uber_Eats_self-driving_robot_-_09.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Avride_Uber_Eats_self-driving_robot_-_09.jpg",
    "plain": true
   }
  ]

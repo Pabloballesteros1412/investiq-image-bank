@@ -6,6 +6,8 @@
   "MCD"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 30,
+ "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Big Mac hamburger",
@@ -183,6 +185,42 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires_(Argentina).jpg",
+   "plain": true
+  },
+  {
+   "shows": "McDonald's UK Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/McDonald%27s_UK_Headquarters_2007-09-06.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/McDonald%27s_UK_Headquarters_2007-09-06.jpg/500px-McDonald%27s_UK_Headquarters_2007-09-06.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mark Hillary, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_UK_Headquarters_2007-09-06.jpg",
+   "plain": true
+  },
+  {
+   "shows": "UK Headquarters of McDonald's Corporation",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/UK_Headquarters_of_McDonald%27s_Corporation.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/UK_Headquarters_of_McDonald%27s_Corporation.jpg/500px-UK_Headquarters_of_McDonald%27s_Corporation.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mark Hillary, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:UK_Headquarters_of_McDonald%27s_Corporation.jpg",
    "plain": true
   }
  ]

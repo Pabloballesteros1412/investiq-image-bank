@@ -6,6 +6,8 @@
   "BLK"
  ],
  "sector": "sector-financials",
+ "target": 30,
+ "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "50 Hudson Yards",

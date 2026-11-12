@@ -1,5 +1,5 @@
 """Offline tests of the image bank (no network): python -m unittest discover -p "test_*.py" """
-import json, tempfile, unittest
+import json, re, tempfile, unittest
 from pathlib import Path
 
 import image_bank as B
@@ -99,8 +99,8 @@ class Fake:
 
 MINI = {"style": "Photo.", "negative": "text", "subjects": [
     {"id": "MMM", "kind": "company", "name": "3M", "tickers": ["MMM"], "shots": [{"id": "hq", "q": "3M Center", "scene": "3M Center campus"}]},
-    {"id": "gold", "kind": "topic", "name": "Gold", "aliases": ["bullion"], "shots": ["gold bars", "gold coins"] + [f"gold thing {i}" for i in range(8)]},
-] + [{"id": sid, "kind": "sector", "name": g, "gics": g, "shots": [f"{g} view {i}" for i in range(10)]} for g, sid in B.SECTORS.items()]}
+    {"id": "gold", "kind": "topic", "name": "Gold", "aliases": ["bullion"], "shots": ["gold bars", "gold coins"] + [f"gold thing {c}" for c in "abcdefgh"]},
+] + [{"id": sid, "kind": "sector", "name": g, "gics": g, "shots": [f"{g} view {c}" for c in "abcdefghij"]} for g, sid in B.SECTORS.items()]}
 B.norm_catalog(MINI)
 
 
@@ -231,13 +231,14 @@ class Build(unittest.TestCase):
     def test_company_photos(self):
         m = self.run_build(only="MMM")
         ph = m["MMM"]["photos"]
-        self.assertEqual(len(ph), B.TARGET)
+        self.assertEqual(m["MMM"]["target"], B.FAMOUS_TARGET)                          # a hand-written catalog entry
+        self.assertGreater(len(ph), B.TARGET)                                           # as many as the fake has
         self.assertEqual([p["how"] for p in ph[:3]], ["catalog", "Wikidata main image", "Wikidata CEO"])
         self.assertEqual((ph[2]["shows"], ph[2]["person"], ph[2]["focus"]), ("William Brown, 3M CEO (per Wikidata)", True, [0.5, 0.33]))
         self.assertIn("restrictions: personality", ph[2]["flags"])
         files = [p["file"] for p in ph]
         self.assertEqual(len(files), len(set(files)))
-        self.assertEqual(sum("3M building" in f for f in files), 1)                     # near-duplicates
+        self.assertEqual(sum(bool(re.match(r"File:3M building \d\.jpg", f)) for f in files), 1)  # near-duplicates
         self.assertLessEqual(sum(p.get("category") == "3M factories" for p in ph), 2)   # two per subcategory
         self.assertNotIn("File:3M logo.png", files)
         self.assertNotIn("File:Unrelated tower.jpg", files)                             # searches must name the company
@@ -293,14 +294,15 @@ class Build(unittest.TestCase):
         ix = json.loads((self.bank / "index.json").read_text())
         rec = {s["id"]: s for s in ix["subjects"]}
         self.assertEqual(rec["MMM"]["file"], "https://example.org/bank/subjects/MMM.json")
-        self.assertNotIn("fill_from", rec["MMM"])                                       # 10 photos of its own
+        self.assertEqual((rec["MMM"]["target"], rec["ZZZ"]["target"], rec["gold"]["target"]), (30, 10, 50))
+        self.assertEqual(rec["MMM"]["fill_from"], "sector-industrials")                # 13 of 30: its sector fills in
         self.assertEqual(rec["ZZZ"]["fill_from"], "sector-utilities")                  # fewer than 10: its sector fills in
         self.assertEqual(B.lookup("bullion", self.bank)[0]["credit"], "Jane Doe, CC BY-SA 4.0, via Wikimedia Commons")
         mmm = json.loads((self.bank / "subjects" / "MMM.json").read_text())
         p = mmm["photos"][0]
         self.assertEqual(set(p) >= {"shows", "url", "preview", "size", "focus", "credit", "licence", "source"}, True)
         self.assertTrue(any("fill_from" in r for r in ix["rules"]))
-        self.assertEqual(B.credits(self.bank), 25)                          # MMM 10, ZZZ 5 (one per search naming a place: same name stem), gold 10
+        self.assertEqual(B.credits(self.bank), 28)                          # MMM 13 (target 30), ZZZ 5 (one per search naming a place: same name stem), gold 10
         self.assertIn("Jane Doe", (self.bank / "CREDITS.md").read_text())
 
     def test_topics_sectors_and_prompts(self):
@@ -564,6 +566,33 @@ class Brands(unittest.TestCase):
             bad = m["AAPL"]["photos"][1]["file"]
             rv["grades"][bad] = 1                                                      # a stock photo can be rejected
             self.assertNotIn(bad, [p["file"] for p in B.published_photos(m["AAPL"], rv)])
+
+
+class Targets(unittest.TestCase):
+    def test_a_topic_shares_its_target_over_its_shots_best_first(self):
+        src = Fake()
+        src.search = lambda q: [cand(f"File:{q} {w}.jpg") for w in ("dawn", "noon", "dusk", "night", "rain")]
+        s = {"id": "t", "kind": "topic", "shots": [B.norm_shot("gold bars"), B.norm_shot("gold coins")]}
+        ph, missing = B.shot_photos(s, src, set(), target=6)
+        self.assertEqual([p["shot"] for p in ph], ["gold-bars", "gold-coins"] * 3)      # round robin
+        self.assertEqual(missing, [])
+        self.assertEqual(len({p["file"] for p in ph}), 6)
+        self.assertEqual(B.target_of({"kind": "topic"}), B.TOPIC_TARGET)
+        self.assertEqual(B.target_of({"kind": "company"}), B.TARGET)
+        self.assertEqual(B.target_of({"kind": "company", "target": 30}), 30)
+
+    def test_three_stock_photos_per_photographer_at_most(self):
+        st = FakeStock()
+        row = lambda q, i: {"id": f"{q[-4:]}{'abcde'[i]}", "width": 6000, "height": 4000, "alt_description": f"{q} on a table",
+                            "urls": {"raw": f"https://images.unsplash.com/photo-{q[-4:]}{i}"},
+                            "links": {"html": f"https://unsplash.com/photos/{i}"}, "user": {"name": "Ann Lee"}}
+        st.search = lambda q: [stock.Unsplash.candidate(row(q, i)) for i in range(5)]
+        src = Fake()
+        src.search = lambda q: []
+        src.stock = [st]
+        s = {"id": "t", "kind": "topic", "shots": [B.norm_shot("gold bars"), B.norm_shot("gold coins")]}
+        ph, _ = B.shot_photos(s, src, set(), target=8)
+        self.assertEqual(len(ph), 3)
 
 
 class PlainReserve(unittest.TestCase):

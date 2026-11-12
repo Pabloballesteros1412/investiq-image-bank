@@ -6,6 +6,8 @@
   "GS"
  ],
  "sector": "sector-financials",
+ "target": 30,
+ "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Goldman Sachs Tower @ 30 Hudson Street as viewed from the Exchange Place waterfront",
@@ -181,6 +183,150 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_006.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower, Jersey City, New Jersey",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey_%287237127364%29.jpg/1920px-Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey_%287237127364%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey_%287237127364%29.jpg/500px-Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey_%287237127364%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower,_Jersey_City,_New_Jersey_(7237127364).jpg",
+   "plain": true
+  },
+  {
+   "shows": "200 West Street 005",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/200_West_Street_005.jpg/1280px-200_West_Street_005.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/200_West_Street_005.jpg/500px-200_West_Street_005.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_005.jpg",
+   "plain": true
+  },
+  {
+   "shows": "30 Hudson Street 037",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/30_Hudson_Street_037.jpg/1280px-30_Hudson_Street_037.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/30_Hudson_Street_037.jpg/500px-30_Hudson_Street_037.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30_Hudson_Street_037.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs River Court Building Fleet Street 1977c",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg/1280px-Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg/500px-Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg",
+   "size": [
+    1280,
+    2210
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ClemRutter, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg",
+   "plain": true
+  },
+  {
+   "shows": "200 West Street 002",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/200_West_Street_002.jpg/1280px-200_West_Street_002.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/200_West_Street_002.jpg/500px-200_West_Street_002.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_002.jpg",
+   "plain": true
+  },
+  {
+   "shows": "30 Hudson Street 035",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/30_Hudson_Street_035.jpg/1280px-30_Hudson_Street_035.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/30_Hudson_Street_035.jpg/500px-30_Hudson_Street_035.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30_Hudson_Street_035.jpg",
+   "plain": true
+  },
+  {
+   "shows": "200 West Street 007",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/200_West_Street_007.jpg/1280px-200_West_Street_007.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/200_West_Street_007.jpg/500px-200_West_Street_007.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_007.jpg",
+   "plain": true
+  },
+  {
+   "shows": "30 Hudson Street 031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/30_Hudson_Street_031.jpg/1280px-30_Hudson_Street_031.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/30_Hudson_Street_031.jpg/500px-30_Hudson_Street_031.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30_Hudson_Street_031.jpg",
    "plain": true
   }
  ]

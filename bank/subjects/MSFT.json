@@ -6,6 +6,8 @@
   "MSFT"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "MS-Exec-Nadella-Satya- -22 ( )",
@@ -184,6 +186,24 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Aerial_Microsoft_West_Campus_August_2009.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Microsoft campus - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Microsoft_campus_-_panoramio.jpg/1920px-Microsoft_campus_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Microsoft_campus_-_panoramio.jpg/500px-Microsoft_campus_-_panoramio.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "logopop, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Microsoft_campus_-_panoramio.jpg",
    "plain": true
   }
  ]

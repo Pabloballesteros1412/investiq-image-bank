@@ -6,6 +6,8 @@
   "CAT"
  ],
  "sector": "sector-industrials",
+ "target": 30,
+ "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "A Caterpillar bulldozer pushing earth",

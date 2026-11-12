@@ -6,6 +6,8 @@
   "META"
  ],
  "sector": "sector-communication",
+ "target": 30,
+ "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Meta i Almedalen",
@@ -182,6 +184,168 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3S_Display_Unit.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 - 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Meta_Quest_3_-_3.jpg/1920px-Meta_Quest_3_-_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Meta_Quest_3_-_3.jpg/500px-Meta_Quest_3_-_3.jpg",
+   "size": [
+    1920,
+    1351
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kyu3a, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_-_3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3s with controllers",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Meta_Quest_3s_with_controllers.jpg/1920px-Meta_Quest_3s_with_controllers.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Meta_Quest_3s_with_controllers.jpg/500px-Meta_Quest_3s_with_controllers.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Loafhouse, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3s_with_controllers.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 Top View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Meta_Quest_3_Top_View.jpg/1280px-Meta_Quest_3_Top_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Meta_Quest_3_Top_View.jpg/500px-Meta_Quest_3_Top_View.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy.wonder.cohen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_Top_View.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 side View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Meta_Quest_3_side_View.jpg/1280px-Meta_Quest_3_side_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Meta_Quest_3_side_View.jpg/500px-Meta_Quest_3_side_View.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy.wonder.cohen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_side_View.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 back View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Meta_Quest_3_back_View.jpg/1280px-Meta_Quest_3_back_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Meta_Quest_3_back_View.jpg/500px-Meta_Quest_3_back_View.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy.wonder.cohen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_back_View.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Facebook Offices Menlo Park California",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Facebook_Offices_Menlo_Park_California_%2834183281176%29.jpg/1920px-Facebook_Offices_Menlo_Park_California_%2834183281176%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Facebook_Offices_Menlo_Park_California_%2834183281176%29.jpg/500px-Facebook_Offices_Menlo_Park_California_%2834183281176%29.jpg",
+   "size": [
+    1920,
+    1028
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Anthony Quintano from Honolulu, HI, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Facebook_Offices_Menlo_Park_California_(34183281176).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 - 5",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meta_Quest_3_-_5.jpg/1920px-Meta_Quest_3_-_5.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meta_Quest_3_-_5.jpg/500px-Meta_Quest_3_-_5.jpg",
+   "size": [
+    1920,
+    1319
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kyu3a, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_-_5.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 display",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meta_Quest_3_display.jpg/1920px-Meta_Quest_3_display.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meta_Quest_3_display.jpg/500px-Meta_Quest_3_display.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "IHazACatNamedMax, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_display.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 - 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Meta_Quest_3_-_2.jpg/1920px-Meta_Quest_3_-_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Meta_Quest_3_-_2.jpg/500px-Meta_Quest_3_-_2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kyu3a, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_-_2.jpg",
    "plain": true
   }
  ]

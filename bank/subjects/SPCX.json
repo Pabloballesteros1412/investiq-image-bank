@@ -6,6 +6,8 @@
   "SPCX"
  ],
  "sector": "sector-industrials",
+ "target": 30,
+ "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "A vertical panorama of Starship SN16 spacecraft taken on 5 September 2021 at SpaceX's Starbase spaceport, which at the time was intended to fly after Starship S",

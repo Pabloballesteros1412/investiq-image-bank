@@ -6,6 +6,8 @@
   "AAPL"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Aerial view of Apple Park dllu",

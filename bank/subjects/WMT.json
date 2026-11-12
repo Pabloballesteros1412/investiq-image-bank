@@ -6,6 +6,8 @@
   "WMT"
  ],
  "sector": "sector-staples",
+ "target": 30,
+ "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "John Furner headshot 2019",
@@ -184,6 +186,42 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Walmart_7.jpg",
+   "plain": true
+  },
+  {
+   "shows": "WALMART SHEKOU STORE AT NANHAI BOULEVARD,SHENZHEN",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN.jpg/1280px-WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN.jpg/500px-WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN.jpg",
+   "size": [
+    1280,
+    1919
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD,SHENZHEN.jpg",
+   "plain": true
+  },
+  {
+   "shows": "WALMART CUIZHU STORE AT CUIZHU ROAD, SHENZHEN",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD%2C_SHENZHEN.jpg/1920px-WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD%2C_SHENZHEN.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD%2C_SHENZHEN.jpg/500px-WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD%2C_SHENZHEN.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD,_SHENZHEN.jpg",
    "plain": true
   }
  ]

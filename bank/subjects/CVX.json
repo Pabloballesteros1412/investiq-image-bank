@@ -6,6 +6,8 @@
   "CVX"
  ],
  "sector": "sector-energy",
+ "target": 30,
+ "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "Chevron oil tanker in Richmond, CA",
@@ -182,6 +184,60 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Chevron_Oil_Refinery_017.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Chevron gas station in Livermore",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chevron_gas_station_in_Livermore.jpg/1920px-Chevron_gas_station_in_Livermore.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chevron_gas_station_in_Livermore.jpg/500px-Chevron_gas_station_in_Livermore.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Thomasfan1916, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chevron_gas_station_in_Livermore.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chevron gas station in Berkeley",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Chevron_gas_station_in_Berkeley.jpg/1920px-Chevron_gas_station_in_Berkeley.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Chevron_gas_station_in_Berkeley.jpg/500px-Chevron_gas_station_in_Berkeley.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Thomasfan1916, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chevron_gas_station_in_Berkeley.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chevron Richmond Refinery viewed from Mira Vista Field",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chevron_Richmond_Refinery_viewed_from_Mira_Vista_Field.jpg/1920px-Chevron_Richmond_Refinery_viewed_from_Mira_Vista_Field.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chevron_Richmond_Refinery_viewed_from_Mira_Vista_Field.jpg/500px-Chevron_Richmond_Refinery_viewed_from_Mira_Vista_Field.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bastique, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chevron_Richmond_Refinery_viewed_from_Mira_Vista_Field.jpg",
    "plain": true
   }
  ]

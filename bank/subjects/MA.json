@@ -6,6 +6,8 @@
   "MA"
  ],
  "sector": "sector-financials",
+ "target": 30,
+ "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "MasterCard credit cards in jeans pocket",
@@ -183,6 +185,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Mastercard_debit_card_by_easybank-chip_PNr%C2%B01285.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ventra Debit Mastercard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ventra_Debit_Mastercard_%2810818262573%29.jpg/1280px-Ventra_Debit_Mastercard_%2810818262573%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ventra_Debit_Mastercard_%2810818262573%29.jpg/500px-Ventra_Debit_Mastercard_%2810818262573%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wagner Tamanaha from Sao Paulo, Brazil, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ventra_Debit_Mastercard_(10818262573).jpg",
+   "plain": true
+  },
+  {
+   "shows": "FidorBank Debit MasterCard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/FidorBank_Debit_MasterCard_.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/FidorBank_Debit_MasterCard_.jpg/500px-FidorBank_Debit_MasterCard_.jpg",
+   "size": [
+    1729,
+    1135
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ryoberlin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FidorBank_Debit_MasterCard_.jpg",
    "plain": true
   }
  ]

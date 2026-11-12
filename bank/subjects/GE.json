@@ -6,6 +6,8 @@
   "GE"
  ],
  "sector": "sector-industrials",
+ "target": 30,
+ "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "General Electric GE90 right engine on a 773ER",
@@ -180,6 +182,132 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Detail_of_GEnx_turbofan_engine_core.jpg",
+   "plain": true
+  },
+  {
+   "shows": "777X Roll-Out",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/777X_Roll-Out_%2840407364223%29.jpg/1920px-777X_Roll-Out_%2840407364223%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/777X_Roll-Out_%2840407364223%29.jpg/500px-777X_Roll-Out_%2840407364223%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(40407364223).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Salon du Bourget 254",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salon_du_Bourget_20090619_254.jpg/1920px-Salon_du_Bourget_20090619_254.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salon_du_Bourget_20090619_254.jpg/500px-Salon_du_Bourget_20090619_254.jpg",
+   "size": [
+    1920,
+    1477
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Georges Seguin ( Okki ), CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Salon_du_Bourget_20090619_254.jpg",
+   "plain": true
+  },
+  {
+   "shows": "GEnx-Jet-Engine Le Bourget",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEnx-Jet-Engine_Le_Bourget_20110624.jpg/1920px-GEnx-Jet-Engine_Le_Bourget_20110624.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEnx-Jet-Engine_Le_Bourget_20110624.jpg/500px-GEnx-Jet-Engine_Le_Bourget_20110624.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tieum512, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GEnx-Jet-Engine_Le_Bourget_20110624.jpg",
+   "plain": true
+  },
+  {
+   "shows": "777X Roll-Out",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/777X_Roll-Out_%2846649681164%29.jpg/1920px-777X_Roll-Out_%2846649681164%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/777X_Roll-Out_%2846649681164%29.jpg/500px-777X_Roll-Out_%2846649681164%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46649681164).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Turbofan CFM Leap at Paris Air Show 2013",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg/1920px-Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg/500px-Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tangopaso, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chevrons on GEnx-1B nacelle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chevrons_on_GEnx-1B_nacelle.jpg/1280px-Chevrons_on_GEnx-1B_nacelle.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chevrons_on_GEnx-1B_nacelle.jpg/500px-Chevrons_on_GEnx-1B_nacelle.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Olivier Cleynen, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chevrons_on_GEnx-1B_nacelle.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Air Canada GE90 Boeing 777-200LR",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Air_Canada_GE90_Boeing_777-200LR.jpg/1280px-Air_Canada_GE90_Boeing_777-200LR.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Air_Canada_GE90_Boeing_777-200LR.jpg/500px-Air_Canada_GE90_Boeing_777-200LR.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kristoferb, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Air_Canada_GE90_Boeing_777-200LR.jpg",
    "plain": true
   }
  ]

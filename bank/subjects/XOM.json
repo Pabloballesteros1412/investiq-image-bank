@@ -6,6 +6,8 @@
   "XOM"
  ],
  "sector": "sector-energy",
+ "target": 30,
+ "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "An ExxonMobil gas station in Hiawassee, Georgia",
@@ -184,6 +186,60 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:ExxonMobil_Gas_Station_(53590168016).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Exxon station, Jefferson Highway & Shrewsbury Court, Old Jefferson Louisiana May 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Exxon_station%2C_Jefferson_Highway_%26_Shrewsbury_Court%2C_Old_Jefferson_Louisiana_May_2024.jpg/1920px-Exxon_station%2C_Jefferson_Highway_%26_Shrewsbury_Court%2C_Old_Jefferson_Louisiana_May_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Exxon_station%2C_Jefferson_Highway_%26_Shrewsbury_Court%2C_Old_Jefferson_Louisiana_May_2024.jpg/500px-Exxon_station%2C_Jefferson_Highway_%26_Shrewsbury_Court%2C_Old_Jefferson_Louisiana_May_2024.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Infrogmation, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exxon_station,_Jefferson_Highway_%26_Shrewsbury_Court,_Old_Jefferson_Louisiana_May_2024.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goose Creek Exxon Baytown Texas 10-5-2008",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg/1920px-Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg/500px-Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg",
+   "size": [
+    1920,
+    1448
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Baytownbert, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Smokestacks and Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Smokestacks_and_Texas_%28947%29.jpg/1920px-Smokestacks_and_Texas_%28947%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Smokestacks_and_Texas_%28947%29.jpg/500px-Smokestacks_and_Texas_%28947%29.jpg",
+   "size": [
+    1920,
+    1033
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy Luck, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Smokestacks_and_Texas_(947).jpg",
    "plain": true
   }
  ]

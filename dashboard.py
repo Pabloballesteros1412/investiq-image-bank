@@ -32,7 +32,8 @@ def data(cat=None, bank=B.BANK):
                                       "prompt": None if sh.get("person") else f"{sh['scene']}. {cat['style']}"} for sh in s.get("shots", [])]
         out.append({"id": s["id"], "kind": s["kind"], "name": s["name"], "tickers": s.get("tickers", []),
                     "aliases": s.get("aliases", []), "sector": s.get("sector") or (B.SECTORS.get(s.get("gics")) if s["kind"] == "sector" else None),
-                    "built": bool(e.get("checked")), "photos": photos, "planned": planned})
+                    "built": bool(e.get("checked")), "photos": photos, "planned": planned,
+                    "target": s.get("target") or B.target_of({"kind": s["kind"], **e})})
     return {"subjects": out, "universe": bool(uni), "target": B.TARGET}
 
 

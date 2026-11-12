@@ -6,6 +6,8 @@
   "LLY"
  ],
  "sector": "sector-health",
+ "target": 30,
+ "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Eli Lilly Headquarters",
@@ -181,6 +183,96 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Lilly_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lilly - Building 44",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lilly_-_Building_44.jpg/1920px-Lilly_-_Building_44.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lilly_-_Building_44.jpg/500px-Lilly_-_Building_44.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lilly_-_Building_44.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eli Lilly & Company corporate campus, Feb. 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eli_Lilly_%26_Company_corporate_campus%2C_Feb._2011.jpg/1920px-Eli_Lilly_%26_Company_corporate_campus%2C_Feb._2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eli_Lilly_%26_Company_corporate_campus%2C_Feb._2011.jpg/500px-Eli_Lilly_%26_Company_corporate_campus%2C_Feb._2011.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_%26_Company_corporate_campus,_Feb._2011.jpg",
+   "plain": true
+  },
+  {
+   "shows": "American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2872535%29.jpg/1920px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2872535%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2872535%29.jpg/500px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2872535%29.jpg",
+   "size": [
+    1920,
+    1429
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(72535).jpg",
+   "plain": true
+  },
+  {
+   "shows": "American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2834148%29.jpg/1920px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2834148%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2834148%29.jpg/500px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2834148%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(34148).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eli Lilly & Company - Feb 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eli_Lilly_%26_Company_-_Feb_2011.jpg/1920px-Eli_Lilly_%26_Company_-_Feb_2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eli_Lilly_%26_Company_-_Feb_2011.jpg/500px-Eli_Lilly_%26_Company_-_Feb_2011.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_%26_Company_-_Feb_2011.jpg",
    "plain": true
   }
  ]

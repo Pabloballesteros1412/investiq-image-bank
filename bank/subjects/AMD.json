@@ -6,6 +6,8 @@
   "AMD"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "AMD Ryzen 7 1800X",
@@ -184,6 +186,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:AMD_exhibition_stand_at_Gamescom_2022_in_Cologne,_Germany_(52760298273).jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD headquarter",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/AMD_headquarter_20240318.jpg/1920px-AMD_headquarter_20240318.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/AMD_headquarter_20240318.jpg/500px-AMD_headquarter_20240318.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lijiaxuan, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_headquarter_20240318.jpg",
    "plain": true
   }
  ]

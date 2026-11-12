@@ -7,6 +7,8 @@
   "GOOG"
  ],
  "sector": "sector-communication",
+ "target": 30,
+ "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Waymo Jaguar I-Pace in San Francisco 2023 dllu",
@@ -185,6 +187,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Sede_de_Alphabet_Inc._-_Berl%C3%ADn_-_20240101_001.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mitte Tucholskystraße Alphabet",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg/1280px-Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg/500px-Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fridolin freudenfett, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg",
    "plain": true
   }
  ]

@@ -6,6 +6,8 @@
   "PFE"
  ],
  "sector": "sector-health",
+ "target": 30,
+ "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Festival of Lights 2022 - Pfizer Werbung",
@@ -182,6 +184,60 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Pfizer_world_HQ_jeh.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Pfizer Finland HQ February 13 2009",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pfizer_Finland_HQ_February_13_2009.jpg/1920px-Pfizer_Finland_HQ_February_13_2009.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pfizer_Finland_HQ_February_13_2009.jpg/500px-Pfizer_Finland_HQ_February_13_2009.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lauri Silvennoinen, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pfizer_Finland_HQ_February_13_2009.jpg",
+   "plain": true
+  },
+  {
+   "shows": "New York City Pfizer World Headquarters 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/New_York_City_Pfizer_World_Headquarters_02.jpg/1920px-New_York_City_Pfizer_World_Headquarters_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/New_York_City_Pfizer_World_Headquarters_02.jpg/500px-New_York_City_Pfizer_World_Headquarters_02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Norbert Nagel, Mörfelden-Walldorf, Germany, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:New_York_City_Pfizer_World_Headquarters_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "New York City Pfizer World Headquarters 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/New_York_City_Pfizer_World_Headquarters_01.jpg/1920px-New_York_City_Pfizer_World_Headquarters_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/New_York_City_Pfizer_World_Headquarters_01.jpg/500px-New_York_City_Pfizer_World_Headquarters_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Norbert Nagel, Mörfelden-Walldorf, Germany, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:New_York_City_Pfizer_World_Headquarters_01.jpg",
    "plain": true
   }
  ]
