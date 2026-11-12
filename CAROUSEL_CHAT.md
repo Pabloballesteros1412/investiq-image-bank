@@ -2,7 +2,8 @@
 
 El chat de Claude que hace los carruseles de InvestIQ encuentra las fotos en un índice público
 (`bank/index.json`). Las fotos están en Wikimedia Commons (las de empresas: solo las mejores, revisadas a ojo),
-Unsplash, Flickr (solo licencias libres), la NASA y Pixabay, y el chat las recorta a la diapositiva.
+Unsplash, Flickr (solo licencias libres, también a través de Openverse), la NASA y Pixabay, y el chat las recorta
+a la diapositiva.
 
 1. **El repo tiene que ser público** (ya lo es).
 2. **Pega este bloque en las instrucciones del proyecto** de Claude que hace los carruseles:
@@ -28,13 +29,15 @@ Banco de imágenes de InvestIQ
   sector, pero son genéricas y nunca las presentes como de la empresa.
 - Las fotos con "plain": true son de la empresa pero sosas (una fachada sin nombre, luz gris): van después
   de las demás. Usa antes las otras y, para la portada, mejor una del sector que una "plain".
+- Las fotos con "low_res": true (Flickr vía Openverse) solo miden 1024 px y a toda la diapositiva se ven
+  blandas: nunca de portada; úsalas en pequeño (media diapositiva, recuadro o mosaico).
 ```
 
 3. **Prueba:** pide al chat «lee el índice del banco y enséñame las fotos de Nvidia».
 
 Si el chat crea las diapositivas con código y no consigue leer el índice o descargar las fotos, en los
 ajustes de claude.ai permite los dominios `raw.githubusercontent.com`, `upload.wikimedia.org`,
-`images.unsplash.com` e `images.pexels.com` en el acceso a internet de la ejecución de código.
+`images.unsplash.com`, `images.pexels.com` y `live.staticflickr.com` en el acceso a internet de la ejecución de código.
 
 Cada vez que se rehace el banco (`build` y `git push`), el chat ve los cambios en el siguiente carrusel. No
 hace falta cambiar nada en el proyecto.

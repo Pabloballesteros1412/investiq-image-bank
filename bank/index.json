@@ -8,10 +8,11 @@
   "Crop only. Never edit, retouch or redraw what a photo shows, and never generate a lookalike of it.",
   "Photos of real people ('person': true) show who they are; never imply that person endorses InvestIQ. Roles (CEO, chair...) come from Wikidata or the catalog and can be out of date: check before naming one.",
   "A company with fewer photos than its 'target' has 'fill_from': a GICS sector whose photos are generic. Use them only as illustration, never presented as that company's own premises, products or people.",
-  "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one."
+  "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
+  "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-12",
- "photos": 3545,
+ "photos": 3579,
  "subjects": [
   {
    "id": "MMM",
@@ -8324,7 +8325,7 @@
     "correction",
     "panic"
    ],
-   "photos": 35,
+   "photos": 14,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crash.json"
   },
@@ -8340,7 +8341,7 @@
     "llm",
     "chatbot"
    ],
-   "photos": 40,
+   "photos": 9,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ai.json"
   },
@@ -8357,7 +8358,7 @@
     "grid",
     "capex"
    ],
-   "photos": 8,
+   "photos": 33,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/datacenters.json"
   },
@@ -8372,7 +8373,7 @@
     "chip war",
     "export controls"
    ],
-   "photos": 5,
+   "photos": 38,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/chips.json"
   },
@@ -8388,7 +8389,7 @@
     "ethereum",
     "btc"
    ],
-   "photos": 5,
+   "photos": 33,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crypto.json"
   },

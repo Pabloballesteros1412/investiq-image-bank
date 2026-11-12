@@ -142,6 +142,9 @@ RULES = [
     "illustration, never presented as that company's own premises, products or people.",
     "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come "
     "after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
+    "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft "
+    "full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than "
+    "stretched over a whole slide.",
 ]
 
 
