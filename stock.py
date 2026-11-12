@@ -148,6 +148,166 @@ class Pexels:
         return True  # Pexels asks for no download count
 
 
+class Flickr:
+    """Flickr photos under licences that allow commercial use and cropping (CC BY, CC BY-SA, CC0, public domain
+    mark, US government works): never NC or ND. Needs FLICKR_API_KEY (the key goes in the query, so the egress
+    proxy cannot add it). Flickr asks to link each photo back to its page, which the bank does ('page')."""
+    name = "flickr"
+    API = "https://api.flickr.com/services/rest/"
+
+    def __init__(self, key=None, log=print):
+        self.key, self.log, self.headers, self._lic = key, log, {}, None
+
+    def _call(self, method, cache=True, **params):
+        url = self.API + "?" + urllib.parse.urlencode({"method": method, "api_key": self.key, "format": "json",
+                                                       "nojsoncallback": 1, **params})
+        d = fetch(url, self.headers, cache=cache, log=self.log)
+        if d.get("stat") != "ok":
+            raise RuntimeError(f"flickr: {d.get('message') or d}")
+        return d
+
+    def licences(self):
+        """{licence id: (name, code)} of the licences the bank can use, read from Flickr itself."""
+        if self._lic is None:
+            self._lic = {}
+            for l in self._call("flickr.photos.licenses.getInfo")["licenses"]["license"]:
+                u, nm = (l.get("url") or "").lower(), l.get("name", "")
+                if "-nc" in u or "-nd" in u or "noncommercial" in nm.lower() or "noderivs" in nm.lower():
+                    continue
+                v = re.search(r"/(\d\.\d)/", u)
+                v = v.group(1) if v else ""
+                code = ("cc-by-sa-" + v if "/by-sa/" in u else "cc-by-" + v if "/by/" in u else
+                        "cc0" if "zero" in u else "pdm" if "publicdomain/mark" in u else
+                        "pd-usgov" if "usgov" in u or "government" in nm.lower() else None)
+                if code:
+                    self._lic[str(l["id"])] = (nm, code, l.get("url") or "")
+        return self._lic
+
+    def search(self, q):
+        lic = self.licences()
+        d = self._call("flickr.photos.search", text=q, license=",".join(lic), content_type=1, media="photos",
+                       safe_search=1, sort="relevance", per_page=PER_PAGE,
+                       extras="url_k,url_h,url_z,owner_name,license,tags,description,date_taken")
+        return [c for c in (self.candidate(p, lic) for p in d.get("photos", {}).get("photo", [])) if c]
+
+    @staticmethod
+    def candidate(p, lic):
+        if str(p.get("license")) not in lic:
+            return None
+        big = next(((p[f"url_{k}"], int(p[f"width_{k}"]), int(p[f"height_{k}"])) for k in ("k", "h")
+                     if p.get(f"url_{k}")), None)
+        if not big:
+            return None  # only 1024 px or less: too small for a full slide
+        name, code, lurl = lic[str(p["license"])]
+        title = p.get("title") or ""
+        desc = re.sub(r"<[^>]+>", " ", (p.get("description") or {}).get("_content", ""))
+        y = re.match(r"(\d{4})", p.get("datetaken") or "")
+        return {"file": f"flickr:{p['id']}", "provider": "flickr", "w": big[1], "h": big[2], "mime": "image/jpeg",
+                "orig": big[0], "big": big[0], "small": p.get("url_z") or big[0],
+                "page": f"https://www.flickr.com/photos/{p['owner']}/{p['id']}",
+                "licence": name, "licence_code": code, "licence_url": lurl,
+                "author": p.get("ownername") or p["owner"], "author_url": f"https://www.flickr.com/people/{p['owner']}",
+                "year": int(y.group(1)) if y else None, "categories": [], "restrictions": [],
+                "alt": title[:200], "description": " ".join([title, desc, p.get("tags") or ""])[:400]}
+
+    def track(self, url):
+        return True  # Flickr asks for no download count
+
+
+class Nasa:
+    """NASA's image library: public domain (NASA does not claim copyright; its logos and identifiable people may
+    not imply endorsement). No key. Searched only for space subjects: rockets, satellites, the ISS, the Earth seen
+    from orbit."""
+    name = "nasa"
+    SPACE = re.compile(r"\b(space|rocket|launch|satellite|orbit|astronaut|nasa|iss|mars|moon|lunar|telescope|"
+                       r"spacecraft|earth from|starship|falcon|shuttle)\b", re.I)
+
+    THIRD = re.compile(r"spacex|rocket ?lab|\bula\b|united launch|boeing|northrop|lockheed|blue origin|\besa\b|jaxa|"
+                       r"roscosmos|axiom|sierra space|firefly|relativity|virgin|getty|reuters|\bap\b|associated press", re.I)
+
+    def __init__(self, key=None, log=print):
+        self.log, self.headers = log, {}
+
+    def search(self, q):
+        if not self.SPACE.search(q):
+            return []
+        url = "https://images-api.nasa.gov/search?" + urllib.parse.urlencode({"q": q, "media_type": "image", "page_size": PER_PAGE})
+        items = fetch(url, self.headers, log=self.log).get("collection", {}).get("items", [])
+        out = []
+        for it in items:
+            d = (it.get("data") or [{}])[0]
+            nid = d.get("nasa_id")
+            if not nid:
+                continue
+            try:
+                meta = fetch(f"https://images-assets.nasa.gov/image/{urllib.parse.quote(nid)}/metadata.json", self.headers, log=self.log)
+            except Exception:
+                continue
+            out.append(self.candidate(d, meta))
+        return [c for c in out if c]
+
+    @staticmethod
+    def candidate(d, meta):
+        w, h = int(meta.get("File:ImageWidth") or 0), int(meta.get("File:ImageHeight") or 0)
+        if not w or not h:
+            return None
+        k = min(1.0, 1920 / max(w, h))  # '~large' is the original scaled to 1920 px on its long side
+        nid = d["nasa_id"]
+        base = f"https://images-assets.nasa.gov/image/{urllib.parse.quote(nid)}/{urllib.parse.quote(nid)}"
+        who = d.get("photographer") or d.get("secondary_creator") or ""
+        # the library also holds launch providers' and partner agencies' photos: those are theirs, not public domain
+        credit = re.search(r"(?:photo|image) credit:?\s*([^.;\n]+)", d.get("description") or "", re.I)
+        if Nasa.THIRD.search(" ".join([who, d.get("secondary_creator") or ""])) or (credit and "nasa" not in credit.group(1).lower()):
+            return None
+        y = re.match(r"(\d{4})", d.get("date_created") or "")
+        title = d.get("title") or ""
+        return {"file": f"nasa:{nid}", "provider": "nasa", "w": round(w * k), "h": round(h * k), "mime": "image/jpeg",
+                "orig": base + "~large.jpg", "big": base + "~large.jpg", "small": base + "~medium.jpg",
+                "page": f"https://images.nasa.gov/details/{urllib.parse.quote(nid)}",
+                "licence": "Public domain (NASA)", "licence_code": "pd-nasa",
+                "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+                "author": who if who.upper().startswith("NASA") else ("NASA/" + who) if who else "NASA",
+                "author_url": "https://images.nasa.gov",
+                "year": int(y.group(1)) if y else None, "categories": [], "restrictions": [],
+                "alt": title[:200], "description": " ".join([title, d.get("description") or "", " ".join(d.get("keywords") or [])])[:400]}
+
+    def track(self, url):
+        return True
+
+
+class Pixabay:
+    """Pixabay photos (Pixabay Content License: commercial use, no attribution required; the bank credits them
+    anyway). Needs PIXABAY_API_KEY. Without full API access Pixabay gives at most 1280 px, too small for a full
+    slide, so only photos with a full-HD address count."""
+    name = "pixabay"
+
+    def __init__(self, key=None, log=print):
+        self.key, self.log, self.headers = key, log, {}
+
+    def search(self, q):
+        url = "https://pixabay.com/api/?" + urllib.parse.urlencode({"key": self.key, "q": q, "image_type": "photo",
+                                                                    "safesearch": "true", "per_page": PER_PAGE})
+        return [c for c in (self.candidate(h) for h in fetch(url, self.headers, log=self.log).get("hits", [])) if c]
+
+    @staticmethod
+    def candidate(h):
+        big = h.get("fullHDURL") or h.get("imageURL")
+        if not big:
+            return None
+        w, hh = h.get("imageWidth", 0), h.get("imageHeight", 0)
+        k = min(1.0, 1920 / max(w, hh, 1)) if h.get("fullHDURL") else 1.0
+        tags = h.get("tags") or ""
+        return {"file": f"pixabay:{h['id']}", "provider": "pixabay", "w": round(w * k), "h": round(hh * k),
+                "mime": "image/jpeg", "orig": big, "big": big, "small": h.get("webformatURL") or big,
+                "page": h.get("pageURL", ""), "licence": "Pixabay Content License", "licence_code": "pixabay",
+                "licence_url": "https://pixabay.com/service/license-summary/", "author": h.get("user", ""),
+                "author_url": f"https://pixabay.com/users/{h.get('user', '')}-{h.get('user_id', '')}/",
+                "year": None, "categories": [], "restrictions": [], "alt": tags[:200], "description": tags[:400]}
+
+    def track(self, url):
+        return True
+
+
 def answers_without_key(url, opener=None):
     """Whether an API answers a request that carries no key: the egress proxy adds it (network secret). An answer
     that the hourly limit is used up counts too (it carries X-Ratelimit headers; a missing key gets 401): a build
@@ -171,6 +331,12 @@ def sources(log=print, env=None, probe=answers_without_key):
             out.append(cls(key, log))
         elif probe(cls.probe):
             out.append(cls(None, log))
+    for cls, var in ((Flickr, "FLICKR_API_KEY"), (Pixabay, "PIXABAY_API_KEY")):  # keys in the query: env only
+        key = (env.get(var) or "").strip()
+        if key:
+            out.append(cls(key, log))
+    if not env.get("NO_NASA"):
+        out.append(Nasa(None, log))
     return out
 
 
@@ -178,6 +344,8 @@ def links(c, slide_h=1500, preview_w=500, max_w=2400):
     """(photo address, preview address, [width, height]) for a stock photo: the width that gives a 4:5 slide its
     1500 px of height (at least 1200 px, at most the original), resized by the source's image server."""
     w, h = c["w"], c["h"]
+    if c.get("big"):  # sources with fixed sizes (Flickr, NASA, Pixabay)
+        return c["big"], c.get("small") or c["big"], [w, h]
     width = int(min(w, max_w, max(1200, -(-slide_h * w // h))))
     if c["provider"] == "unsplash":
         sep = "&" if "?" in c["orig"] else "?"

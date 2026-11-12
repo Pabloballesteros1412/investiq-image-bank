@@ -641,11 +641,41 @@ class HandPicked(unittest.TestCase):
 
 class StockKeys(unittest.TestCase):
     def test_key_from_environment_or_from_the_proxy(self):
-        s = stock.sources(env={"UNSPLASH_ACCESS_KEY": "k1"}, probe=lambda url: False)
+        s = stock.sources(env={"UNSPLASH_ACCESS_KEY": "k1", "NO_NASA": "1"}, probe=lambda url: False)
         self.assertEqual([(x.name, x.headers.get("Authorization")) for x in s], [("unsplash", "Client-ID k1")])
-        s = stock.sources(env={}, probe=lambda url: "unsplash" in url)        # a network secret for api.unsplash.com
+        s = stock.sources(env={"NO_NASA": "1"}, probe=lambda url: "unsplash" in url)  # a network secret for api.unsplash.com
         self.assertEqual([(x.name, "Authorization" in x.headers) for x in s], [("unsplash", False)])
-        self.assertEqual(stock.sources(env={}, probe=lambda url: False), [])
+        self.assertEqual(stock.sources(env={"NO_NASA": "1"}, probe=lambda url: False), [])
+        s = stock.sources(env={"FLICKR_API_KEY": "f", "PIXABAY_API_KEY": "p"}, probe=lambda url: False)
+        self.assertEqual([x.name for x in s], ["flickr", "pixabay", "nasa"])         # NASA needs no key
+
+    def test_flickr_only_free_licences_and_big_enough_photos(self):
+        lic = {"4": ("CC BY 2.0", "cc-by-2.0", "https://creativecommons.org/licenses/by/2.0/")}
+        p = {"id": "9", "owner": "u1", "ownername": "Jo", "license": "4", "title": "Oil rig at dusk",
+             "description": {"_content": "North Sea <b>platform</b>"}, "tags": "oil rig", "datetaken": "2019-05-01 10:00:00",
+             "url_k": "https://live.staticflickr.com/1/9_k.jpg", "width_k": "2048", "height_k": "1365",
+             "url_z": "https://live.staticflickr.com/1/9_z.jpg"}
+        c = stock.Flickr.candidate(p, lic)
+        self.assertEqual((c["file"], c["w"], c["licence_code"], c["year"]), ("flickr:9", 2048, "cc-by-2.0", 2019))
+        self.assertIn("platform", c["description"])
+        self.assertIsNone(stock.Flickr.candidate({**p, "license": "2"}, lic))         # NC: not in the list
+        self.assertIsNone(stock.Flickr.candidate({k: v for k, v in p.items() if not k.endswith("_k")}, lic))  # 1024 px
+        e = B.photo(c, "s", "x", "catalog", (0.5, 0.5))
+        self.assertEqual((e["credit"], e["licence_kind"], e["url"], e["provider"]),
+                         ("Photo by Jo on Flickr, CC BY 2.0", "by", p["url_k"], "flickr"))
+
+    def test_nasa_only_for_space_and_public_domain(self):
+        n = stock.Nasa()
+        self.assertEqual(n.search("supermarket shopping cart"), [])                  # not space: not searched
+        c = stock.Nasa.candidate({"nasa_id": "KSC-1", "title": "Rocket launch", "photographer": "Kim Shiflett",
+                                  "date_created": "2024-05-25T00:00:00Z"}, {"File:ImageWidth": 4000, "File:ImageHeight": 6000})
+        self.assertEqual((c["w"], c["h"]), (1280, 1920))                               # '~large': 1920 px long side
+        e = B.photo(c, "s", "x", "catalog", (0.5, 0.5))
+        self.assertEqual((e["credit"], e["licence_kind"]), ("Photo: NASA/Kim Shiflett, public domain", "pd"))
+        big = {"File:ImageWidth": 4000, "File:ImageHeight": 6000}
+        self.assertIsNone(stock.Nasa.candidate({"nasa_id": "K2", "title": "Launch", "secondary_creator": "Rocket Lab"}, big))
+        self.assertIsNone(stock.Nasa.candidate({"nasa_id": "K3", "title": "Launch", "description": "Photo credit: SpaceX"}, big))
+        self.assertIsNotNone(stock.Nasa.candidate({"nasa_id": "K4", "title": "Launch", "description": "Photo credit: NASA/Joel Kowsky"}, big))
 
     def test_a_source_at_its_hourly_limit_still_counts_as_there(self):
         import email.message, urllib.error
