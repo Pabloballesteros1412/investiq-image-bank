@@ -825,6 +825,10 @@ def photo(c, shot, shows, how, focus, person=False, category=None):
         e.update(provider=c["provider"], author_url=c.get("author_url", ""))
         if c.get("track"):
             e["track"] = c["track"]
+        if c.get("via"):
+            e["via"] = c["via"]
+    if c.get("low_res"):
+        e["low_res"] = True  # under 1500 px: a plain photo only (never a cover)
     if person:
         e["person"] = True
     if category:
@@ -1096,8 +1100,15 @@ def published(p, rv):
 
 
 def reserve(p, rv):
-    """Whether a photo is a plain one (a Commons photo graded RESERVE_GRADE: right subject, ordinary photo)."""
-    return bool(rv.get("min_grade")) and provider_of(p) == "commons" and rv["grades"].get(p["file"]) == RESERVE_GRADE
+    """Whether a photo is a plain one held in reserve: graded RESERVE_GRADE (right subject, ordinary photo) and
+    from Commons or too small for a full slide (low_res: Flickr photos found through Openverse)."""
+    return (bool(rv.get("min_grade")) and (provider_of(p) == "commons" or bool(p.get("low_res")))
+            and rv["grades"].get(p["file"]) == RESERVE_GRADE)
+
+
+def is_plain(p, rv):
+    """Whether the chat gets a photo as plain (prefer others, never a cover): a reserve photo or a low_res one."""
+    return reserve(p, rv) or bool(p.get("low_res"))
 
 
 def target_of(e):
@@ -1300,10 +1311,10 @@ def index(bank=BANK, base_url=BASE_URL):
     for f in sub.glob("*.json"):
         f.unlink()
     entries, total = [], 0
-    keep = ("shows", "url", "preview", "size", "focus", "person", "credit", "licence", "author_url")
+    keep = ("shows", "url", "preview", "size", "focus", "person", "credit", "licence", "author_url", "low_res")
     for sid, e in m.items():
         photos = [{**{k: p[k] for k in keep if k in p}, "provider": provider_of(p), "source": p["page"],
-                    **({"plain": True} if reserve(p, rv) else {})} for p in published_photos(e, rv)]
+                    **({"plain": True} if is_plain(p, rv) else {})} for p in published_photos(e, rv)]
         total += len(photos)
         rec = {"id": sid, "kind": e["kind"], "name": e["name"], "tickers": e.get("tickers", []), "aliases": e.get("aliases", []),
                "photos": len(photos), "target": target_of(e), "file": f"{base}subjects/{safe(sid)}.json"}

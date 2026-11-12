@@ -623,6 +623,29 @@ class PlainReserve(unittest.TestCase):
             self.assertEqual(a["fill_from"], "sector-tech")
             self.assertEqual(json.loads((bank / "subjects" / "gold.json").read_text())["photos"], [])  # topics: no reserve
 
+    def test_openverse_photos_are_low_res_and_always_plain(self):
+        r = {"license": "by-sa", "license_version": "2.0", "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+             "foreign_landing_url": "https://www.flickr.com/photos/jo/123", "url": "https://live.staticflickr.com/1/123_ab_b.jpg",
+             "width": 1024, "height": 768, "title": "Walmart store exterior", "creator": "Jo", "tags": [{"name": "walmart"}]}
+        c = stock.Openverse.candidate(r)
+        self.assertEqual((c["file"], c["licence"], c["licence_code"], c["small"], c["low_res"]),
+                         ("flickr:123", "CC BY-SA 2.0", "cc-by-sa-2.0", "https://live.staticflickr.com/1/123_ab_z.jpg", True))
+        self.assertIsNone(stock.Openverse.candidate({**r, "license": "by-nc"}))                    # NC
+        self.assertIsNone(stock.Openverse.candidate({**r, "width": 500, "height": 375}))           # Flickr's 500 px size
+        self.assertIsNone(stock.Openverse.candidate({**r, "foreign_landing_url": "https://example.org/x"}))
+        with tempfile.TemporaryDirectory() as d:
+            bank = Path(d)
+            mk = lambda x: B.photo(x, "hand", "x", B.HAND, (0.5, 0.5))
+            best, ok, bad = c, {**c, "file": "flickr:124"}, {**c, "file": "flickr:125"}
+            m = {"WMT": {"name": "Walmart", "kind": "company", "tickers": ["WMT"], "photos": [mk(best), mk(ok), mk(bad)]}}
+            self.assertEqual(m["WMT"]["photos"][0]["credit"], "Photo by Jo on Flickr, CC BY-SA 2.0")
+            B.save_manifest(m, ["WMT"], bank)
+            B.save_review({"min_grade": 3, "grades": {"flickr:123": 3, "flickr:124": 2, "flickr:125": 1}}, bank)
+            B.index(bank, "https://example.org/")
+            ps = json.loads((bank / "subjects" / "WMT.json").read_text())["photos"]
+            self.assertEqual([(p["url"][-12:], p.get("plain"), p.get("low_res")) for p in ps],
+                             [("123_ab_b.jpg", True, True), ("123_ab_b.jpg", True, True)])  # grade 3 and 2; 1 hidden
+
 
 class HandPicked(unittest.TestCase):
     def test_a_rebuild_keeps_hand_picked_photos_first(self):

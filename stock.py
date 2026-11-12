@@ -275,6 +275,53 @@ class Nasa:
         return True
 
 
+class Openverse:
+    """Openverse (the open media search run by WordPress): Flickr photos under licences that allow commercial use
+    and cropping (CC BY, CC BY-SA, CC0, public domain mark; never NC or ND), with no Flickr key. Pablo chose it on
+    12 Nov 2026 for companies Commons and Unsplash leave thin. Flickr's sizes above 1024 px need a secret only
+    its own API gives, so these photos are 1024 px at most: they carry low_res, the bank uses them only as plain
+    photos (never a cover), and the chat is told to use them small. No key: 20 searches a minute and 200 a day
+    from one address; answers are cached like the other sources."""
+    name = "openverse"
+    API = "https://api.openverse.org/v1/images/"
+
+    def __init__(self, log=print):
+        self.log, self.headers = log, {}
+
+    def search(self, q, page_size=20, wait=False):
+        url = self.API + "?" + urllib.parse.urlencode({"q": q, "license_type": "commercial,modification",
+                                                       "source": "flickr", "page_size": page_size, "mature": "false"})
+        d = fetch(url, self.headers, log=self.log, wait=wait)
+        return [c for c in (self.candidate(r) for r in d.get("results", [])) if c]
+
+    @staticmethod
+    def candidate(r):
+        lic, ver = (r.get("license") or "").lower(), (r.get("license_version") or "").strip()
+        if lic in ("by", "by-sa"):
+            code, name = f"cc-{lic}-{ver}".rstrip("-"), f"CC {lic.upper()} {ver}".strip()
+        elif lic in ("cc0", "pdm"):
+            code, name = lic, "CC0" if lic == "cc0" else "Public Domain Mark"
+        else:
+            return None  # NC, ND or anything else
+        page = r.get("foreign_landing_url") or ""
+        m = re.search(r"flickr\.com/photos/([^/]+)/(\d+)", page)
+        w, h, url = int(r.get("width") or 0), int(r.get("height") or 0), r.get("url") or ""
+        if not m or max(w, h) < 1000 or not url.lower().endswith(".jpg"):
+            return None  # not a Flickr photo page, or Flickr's 500 px size
+        title = r.get("title") or ""
+        tags = " ".join(t.get("name", "") for t in r.get("tags") or [])
+        return {"file": f"flickr:{m.group(2)}", "provider": "flickr", "via": "openverse", "w": w, "h": h,
+                "mime": "image/jpeg", "orig": url, "big": url, "small": re.sub(r"_b\.jpg$", "_z.jpg", url), "page": page,
+                "licence": name, "licence_code": code, "licence_url": r.get("license_url") or "",
+                "author": r.get("creator") or m.group(1),
+                "author_url": r.get("creator_url") or f"https://www.flickr.com/people/{m.group(1)}",
+                "year": None, "categories": [], "restrictions": [], "alt": title[:200],
+                "description": f"{title} {tags}"[:400], **({"low_res": True} if max(w, h) < 1500 else {})}
+
+    def track(self, url):
+        return True  # no download count
+
+
 class Pixabay:
     """Pixabay photos (Pixabay Content License: commercial use, no attribution required; the bank credits them
     anyway). Needs PIXABAY_API_KEY. Without full API access Pixabay gives at most 1280 px, too small for a full
