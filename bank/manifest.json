@@ -136919,6 +136919,7 @@
    "grid",
    "capex"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "hall",
@@ -136945,11 +136946,11 @@
    },
    {
     "shot": "data-center",
-    "shows": "Data Center 3 (UNC)",
-    "file": "File:Data Center 3 (UNC).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Data_Center_3_(UNC).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Data_Center_3_%28UNC%29.jpg/1280px-Data_Center_3_%28UNC%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Data_Center_3_%28UNC%29.jpg/500px-Data_Center_3_%28UNC%29.jpg",
+    "shows": "Data Center 2 (UNC)",
+    "file": "File:Data Center 2 (UNC).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Data_Center_2_(UNC).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Data_Center_2_%28UNC%29.jpg/1280px-Data_Center_2_%28UNC%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Data_Center_2_%28UNC%29.jpg/500px-Data_Center_2_%28UNC%29.jpg",
     "size": [
      1280,
      1707
@@ -137118,25 +137119,25 @@
    },
    {
     "shot": "network-cables",
-    "shows": "ISS064E048595 - Shannon Walker installing Ethernet cables aboard the ISS",
-    "file": "File:ISS064E048595 - Shannon Walker installing Ethernet cables aboard the ISS.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg/1920px-ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg/500px-ISS064E048595_-_Shannon_Walker_installing_Ethernet_cables_aboard_the_ISS.jpg",
+    "shows": "CAT8 Ethernet Cable-5837",
+    "file": "File:CAT8 Ethernet Cable-5837.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CAT8_Ethernet_Cable-5837.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CAT8_Ethernet_Cable-5837.jpg/1920px-CAT8_Ethernet_Cable-5837.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/CAT8_Ethernet_Cable-5837.jpg/500px-CAT8_Ethernet_Cable-5837.jpg",
     "size": [
      1920,
-     1280
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "NASA, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA",
-    "year": 2021,
+    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Raimond Spekking",
+    "year": 2024,
     "how": "catalog"
    },
    {
@@ -137164,10 +137165,1015 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@publicpowerorg?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/bv2pvCGMtzg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA"
+   },
+   {
+    "shot": "servers",
+    "shows": "A close-up of several computer servers",
+    "file": "unsplash:pf7BliMKKxM",
+    "page": "https://unsplash.com/photos/a-close-up-of-several-computer-servers-pf7BliMKKxM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1666930398504-e747d9155071?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1666930398504-e747d9155071?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Aaron McLean on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Aaron McLean",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@aaron1206?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pf7BliMKKxM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA"
+   },
+   {
+    "shot": "data-center-aisle",
+    "shows": "View from the center aisle in the nave of St. Nikolai Church, Halmstad",
+    "file": "File:View from the center aisle in the nave of St. Nikolai Church, Halmstad.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:View_from_the_center_aisle_in_the_nave_of_St._Nikolai_Church,_Halmstad.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/View_from_the_center_aisle_in_the_nave_of_St._Nikolai_Church%2C_Halmstad.jpg/1280px-View_from_the_center_aisle_in_the_nave_of_St._Nikolai_Church%2C_Halmstad.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/View_from_the_center_aisle_in_the_nave_of_St._Nikolai_Church%2C_Halmstad.jpg/500px-View_from_the_center_aisle_in_the_nave_of_St._Nikolai_Church%2C_Halmstad.jpg",
+    "size": [
+     1280,
+     1700
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Libresauce, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Libresauce",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "fiber-optic-cables",
+    "shows": "Optic fiber cables 01",
+    "file": "File:Optic fiber cables 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Optic_fiber_cables_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Optic_fiber_cables_01.jpg/1920px-Optic_fiber_cables_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Optic_fiber_cables_01.jpg/500px-Optic_fiber_cables_01.jpg",
+    "size": [
+     1920,
+     1798
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "SwarmCheng, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "SwarmCheng",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "cooling-towers",
+    "shows": "A body of water with two cooling towers in the background",
+    "file": "unsplash:WmQgU73hngg",
+    "page": "https://unsplash.com/photos/a-body-of-water-with-two-cooling-towers-in-the-background-WmQgU73hngg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1729954924953-ff957b3e9edc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1729954924953-ff957b3e9edc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Hansjörg Keller on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hansjörg Keller",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kel_foto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/WmQgU73hngg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA"
+   },
+   {
+    "shot": "solar-farm",
+    "shows": "Solar Power Station at LaLaport Kadoma1",
+    "file": "File:Solar Power Station at LaLaport Kadoma1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Solar_Power_Station_at_LaLaport_Kadoma1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Solar_Power_Station_at_LaLaport_Kadoma1.jpg/1920px-Solar_Power_Station_at_LaLaport_Kadoma1.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Solar_Power_Station_at_LaLaport_Kadoma1.jpg/500px-Solar_Power_Station_at_LaLaport_Kadoma1.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Mr.ちゅらさん, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mr.ちゅらさん",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "server-room-technician",
+    "shows": "Engine room inspection -G-PF502-035",
+    "file": "File:Engine room inspection 120416-G-PF502-035.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Engine_room_inspection_120416-G-PF502-035.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Engine_room_inspection_120416-G-PF502-035.jpg/1920px-Engine_room_inspection_120416-G-PF502-035.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Engine_room_inspection_120416-G-PF502-035.jpg/500px-Engine_room_inspection_120416-G-PF502-035.jpg",
+    "size": [
+     1920,
+     1445
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "https://www.dvidshub.net/image/1116898, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "https://www.dvidshub.net/image/1116898",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "network-switch",
+    "shows": "White and gray cable",
+    "file": "unsplash:SwVkmowt7qA",
+    "page": "https://unsplash.com/photos/white-and-gray-cable-SwVkmowt7qA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1546124404-9e7e3cac2ec1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmV0d29yayUyMHN3aXRjaHxlbnwxfHx8fDE3OTQ1MTc0NzJ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1546124404-9e7e3cac2ec1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmV0d29yayUyMHN3aXRjaHxlbnwxfHx8fDE3OTQ1MTc0NzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1351
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jonathan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jonathan",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jonathanlei0?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SwVkmowt7qA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmV0d29yayUyMHN3aXRjaHxlbnwxfHx8fDE3OTQ1MTc0NzJ8MA"
+   },
+   {
+    "shot": "cloud-computing",
+    "shows": "Cloud Computing Servicemodelle",
+    "file": "File:Cloud Computing Servicemodelle.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Cloud_Computing_Servicemodelle.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cloud_Computing_Servicemodelle.png/1920px-Cloud_Computing_Servicemodelle.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cloud_Computing_Servicemodelle.png/500px-Cloud_Computing_Servicemodelle.png",
+    "size": [
+     1920,
+     1489
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "FireEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "FireEmerald",
+    "year": 2020,
+    "how": "catalog"
+   },
+   {
+    "shot": "power-lines",
+    "shows": "High-voltage pylon at the Col de Vernant",
+    "file": "File:High-voltage pylon at the Col de Vernant (3).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:High-voltage_pylon_at_the_Col_de_Vernant_(3).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/High-voltage_pylon_at_the_Col_de_Vernant_%283%29.jpg/1280px-High-voltage_pylon_at_the_Col_de_Vernant_%283%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/High-voltage_pylon_at_the_Col_de_Vernant_%283%29.jpg/500px-High-voltage_pylon_at_the_Col_de_Vernant_%283%29.jpg",
+    "size": [
+     1280,
+     1814
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tournasol7, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Tournasol7",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "substation",
+    "shows": "Electrical substation with power lines against blue sky",
+    "file": "unsplash:XmpGqQsJxxU",
+    "page": "https://unsplash.com/photos/electrical-substation-with-power-lines-against-blue-sky-XmpGqQsJxxU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1777734794648-2bd10e93f0b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZWxlY3RyaWNhbCUyMHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODk4NTA5fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1777734794648-2bd10e93f0b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZWxlY3RyaWNhbCUyMHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODk4NTA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by janilson furtado on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "janilson furtado",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@janilson_oficial?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/XmpGqQsJxxU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZWxlY3RyaWNhbCUyMHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODk4NTA5fDA"
+   },
+   {
+    "shot": "server-rack",
+    "shows": "Colorful metal bicycle parking rack in Lysekil 2",
+    "file": "File:Colorful metal bicycle parking rack in Lysekil 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/1920px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg/500px-Colorful_metal_bicycle_parking_rack_in_Lysekil_2.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "W.carter, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "W.carter",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "transmission-tower",
+    "shows": "The sun is setting behind the power lines",
+    "file": "unsplash:OV-I7MqYg4k",
+    "page": "https://unsplash.com/photos/the-sun-is-setting-behind-the-power-lines-OV-I7MqYg4k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1721498273717-7a152d3ec13e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1721498273717-7a152d3ec13e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bernd 📷 Dittrich on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bernd 📷 Dittrich",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hdbernd?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OV-I7MqYg4k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA"
+   },
+   {
+    "shot": "power-plant",
+    "shows": "San Francisco (CA, USA), Alcatraz, Power Plant -- 2022 -- 3120",
+    "file": "File:San Francisco (CA, USA), Alcatraz, Power Plant -- 2022 -- 3120.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Power_Plant_--_2022_--_3120.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Power_Plant_--_2022_--_3120.jpg/1280px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Power_Plant_--_2022_--_3120.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Power_Plant_--_2022_--_3120.jpg/500px-San_Francisco_%28CA%2C_USA%29%2C_Alcatraz%2C_Power_Plant_--_2022_--_3120.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "servers",
+    "shows": "Hacker-Pschorr Oktoberfest Girl Remix",
+    "file": "File:Hacker-Pschorr Oktoberfest Girl Remix.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hacker-Pschorr_Oktoberfest_Girl_Remix.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hacker-Pschorr_Oktoberfest_Girl_Remix.jpg/1920px-Hacker-Pschorr_Oktoberfest_Girl_Remix.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hacker-Pschorr_Oktoberfest_Girl_Remix.jpg/500px-Hacker-Pschorr_Oktoberfest_Girl_Remix.jpg",
+    "size": [
+     1920,
+     1876
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "File:Hacker-Pschorr Oktoberfest Girl.jpg by Markburger83 Derivative work: Lauro Sirgado ( talk · contribs ), CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "File:Hacker-Pschorr Oktoberfest Girl.jpg by Markburger83 Derivative work: Lauro Sirgado ( talk · contribs )",
+    "year": 2011,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
+   },
+   {
+    "shot": "data-center-aisle",
+    "shows": "Münster, St.-Petri-Kirche, Portal -- 2022 -- 0405",
+    "file": "File:Münster, St.-Petri-Kirche, Portal -- 2022 -- 0405.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_St.-Petri-Kirche,_Portal_--_2022_--_0405.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/M%C3%BCnster%2C_St.-Petri-Kirche%2C_Portal_--_2022_--_0405.jpg/1280px-M%C3%BCnster%2C_St.-Petri-Kirche%2C_Portal_--_2022_--_0405.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/M%C3%BCnster%2C_St.-Petri-Kirche%2C_Portal_--_2022_--_0405.jpg/500px-M%C3%BCnster%2C_St.-Petri-Kirche%2C_Portal_--_2022_--_0405.jpg",
+    "size": [
+     1280,
+     2276
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "cooling-towers",
+    "shows": "Industrial cooling towers on a rooftop",
+    "file": "unsplash:XoU0NEvH7wU",
+    "page": "https://unsplash.com/photos/industrial-cooling-towers-on-a-rooftop-XoU0NEvH7wU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1761115435501-bebf019aba54?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1761115435501-bebf019aba54?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kayven on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kayven",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@shotbykayven?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/XoU0NEvH7wU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA"
+   },
+   {
+    "shot": "solar-farm",
+    "shows": "Solar panel energy farm",
+    "file": "unsplash:ZK69PVQj5nc",
+    "page": "https://unsplash.com/photos/solar-panel-energy-farm-ZK69PVQj5nc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1503495731986-41d521ecbb32?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1503495731986-41d521ecbb32?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mark Merner on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mark Merner",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@markmerner?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZK69PVQj5nc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA"
+   },
+   {
+    "shot": "network-switch",
+    "shows": "A network switch with ethernet cables connected",
+    "file": "unsplash:vE5AKQRUs7c",
+    "page": "https://unsplash.com/photos/a-network-switch-with-ethernet-cables-connected-vE5AKQRUs7c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1750711731797-25c3f2551ff8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1750711731797-25c3f2551ff8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by User_Pascal on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "User_Pascal",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@user_pascal?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vE5AKQRUs7c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA"
+   },
+   {
+    "shot": "cloud-computing",
+    "shows": "Lightning cloud to cloud (aka)",
+    "file": "File:Lightning cloud to cloud (aka).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lightning_cloud_to_cloud_(aka).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lightning_cloud_to_cloud_%28aka%29.jpg/1920px-Lightning_cloud_to_cloud_%28aka%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lightning_cloud_to_cloud_%28aka%29.jpg/500px-Lightning_cloud_to_cloud_%28aka%29.jpg",
+    "size": [
+     1920,
+     1085
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "André Karwath aka Aka, CC BY-SA 2.5, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.5",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "André Karwath aka Aka",
+    "year": 2005,
+    "how": "catalog"
+   },
+   {
+    "shot": "substation",
+    "shows": "Close-up of electrical insulators at a substation",
+    "file": "unsplash:9RabCrFVmuM",
+    "page": "https://unsplash.com/photos/close-up-of-electrical-insulators-at-a-substation-9RabCrFVmuM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1776251896448-a5eb8ae25e35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1776251896448-a5eb8ae25e35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Margo Evardson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Margo Evardson",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@stadinstudio?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9RabCrFVmuM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww"
+   },
+   {
+    "shot": "server-rack",
+    "shows": "Two server racks filled with electronic components and wires",
+    "file": "unsplash:k27hkqXuveo",
+    "page": "https://unsplash.com/photos/two-server-racks-filled-with-electronic-components-and-wires-k27hkqXuveo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1775519520461-6b6e068d9250?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNlcnZlciUyMHJhY2t8ZW58MXx8fHwxNzkzOTM4NDAzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1775519520461-6b6e068d9250?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNlcnZlciUyMHJhY2t8ZW58MXx8fHwxNzkzOTM4NDAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eric Stoynov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eric Stoynov",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ericstoynov?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/k27hkqXuveo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNlcnZlciUyMHJhY2t8ZW58MXx8fHwxNzkzOTM4NDAzfDA"
+   },
+   {
+    "shot": "transmission-tower",
+    "shows": "Power lines , electricity pylons at Raitersaich substation, Roßtal, Germany",
+    "file": "File:Raitersaich SK DSC 0028.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raitersaich_SK_DSC_0028.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Raitersaich_SK_DSC_0028.jpg/1920px-Raitersaich_SK_DSC_0028.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Raitersaich_SK_DSC_0028.jpg/500px-Raitersaich_SK_DSC_0028.jpg",
+    "size": [
+     1920,
+     1275
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Simon Koopmann, CC BY-SA 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "Simon Koopmann",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "power-plant",
+    "shows": "A group of power lines with a sky in the background",
+    "file": "unsplash:Wwo8hsQ4yEA",
+    "page": "https://unsplash.com/photos/a-group-of-power-lines-with-a-sky-in-the-background-Wwo8hsQ4yEA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1702446736200-6b9a345dea6f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=1998&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1702446736200-6b9a345dea6f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1998,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrew Van Hofwegen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrew Van Hofwegen",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jaydee21?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Wwo8hsQ4yEA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA"
+   },
+   {
+    "shot": "servers",
+    "shows": "Black ImgIX server system",
+    "file": "unsplash:pgdaAwf6IJg",
+    "page": "https://unsplash.com/photos/black-imgix-server-system-pgdaAwf6IJg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1506399309177-3b43e99fead2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA&ixlib=rb-4.1.0&w=2243&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1506399309177-3b43e99fead2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2243,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by imgix on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "imgix",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@imgix?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pgdaAwf6IJg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA"
+   },
+   {
+    "shot": "cooling-towers",
+    "shows": "Four large concrete cooling towers emitting steam under a dark cloudy sky",
+    "file": "unsplash:ixcHGhae2mg",
+    "page": "https://unsplash.com/photos/cooling-towers-at-industrial-power-plant-ixcHGhae2mg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1630142896875-d71a6ee6db03?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1630142896875-d71a6ee6db03?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Lukáš Lehotský on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Lukáš Lehotský",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@llehotsky?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ixcHGhae2mg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA"
+   },
+   {
+    "shot": "network-switch",
+    "shows": "A wi-fi router and a network switch sit side-by-side",
+    "file": "unsplash:oZgzVU_B3sE",
+    "page": "https://unsplash.com/photos/a-wi-fi-router-and-a-network-switch-sit-side-by-side-oZgzVU_B3sE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1750711158632-5273ec9b9b86?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1750711158632-5273ec9b9b86?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by User_Pascal on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "User_Pascal",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@user_pascal?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oZgzVU_B3sE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA"
+   },
+   {
+    "shot": "cloud-computing",
+    "shows": "Large cloud over Mexican landscape",
+    "file": "File:Large cloud over Mexican landscape.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Large_cloud_over_Mexican_landscape.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Large_cloud_over_Mexican_landscape.jpg/1920px-Large_cloud_over_Mexican_landscape.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Large_cloud_over_Mexican_landscape.jpg/500px-Large_cloud_over_Mexican_landscape.jpg",
+    "size": [
+     1920,
+     1090
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tomascastelazo, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tomascastelazo",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "substation",
+    "shows": "An electrical substation with metal structures and power lines behind a chain link fence",
+    "file": "unsplash:sF4IFKDa3Tg",
+    "page": "https://unsplash.com/photos/electrical-substation-with-power-lines-sF4IFKDa3Tg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1790039110126-af52ad70e601?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww&ixlib=rb-4.1.0&w=2263&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1790039110126-af52ad70e601?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2263,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Annabelle Allimonos on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Annabelle Allimonos",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bellevasiliki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sF4IFKDa3Tg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww"
+   },
+   {
+    "shot": "transmission-tower",
+    "shows": "Black electric tower under blue sky during daytime",
+    "file": "unsplash:q22jhy4vwoA",
+    "page": "https://unsplash.com/photos/black-electric-tower-under-blue-sky-during-daytime-q22jhy4vwoA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1596072215997-cac821d05b9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1596072215997-cac821d05b9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Leohoho on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Leohoho",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@leohoho?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/q22jhy4vwoA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww"
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Ship on body of water at night",
+    "file": "unsplash:lAcYPEiau0U",
+    "page": "https://unsplash.com/photos/ship-on-body-of-water-at-night-lAcYPEiau0U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1468787737698-f5c03f0570dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1468787737698-f5c03f0570dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1352
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Viktor Kiryanov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Viktor Kiryanov",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lAcYPEiau0U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA"
+   },
+   {
+    "shot": "servers",
+    "shows": "A close up of a server's nameplates on the side of a",
+    "file": "unsplash:i_JUAdanGH0",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-servers-nameplates-on-the-side-of-a-i_JUAdanGH0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1597138768744-9f97be8cdd64?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1597138768744-9f97be8cdd64?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Marc PEZIN on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Marc PEZIN",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fennings?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/i_JUAdanGH0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNlcnZlcnN8ZW58MXx8fHwxNzk0NTE3NDY0fDA"
+   },
+   {
+    "shot": "cooling-towers",
+    "shows": "Cooling tower of unfinished second stage of CHP photographed from above. Lavriki, Vsevolozhsky district, Leningrad oblast, Russia.",
+    "file": "File:Лаврики, брошеная градирня сверху (2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA%D0%B8,_%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%80%D0%BD%D1%8F_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_(2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA%D0%B8%2C_%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%80%D0%BD%D1%8F_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg/1920px-%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA%D0%B8%2C_%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%80%D0%BD%D1%8F_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA%D0%B8%2C_%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%80%D0%BD%D1%8F_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg/500px-%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA%D0%B8%2C_%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%80%D0%BD%D1%8F_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%282%29.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Nikolai Bulykin, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Nikolai Bulykin",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "network-switch",
+    "shows": "Ethernet cables connected to the back of a network device",
+    "file": "unsplash:y4GHs9GEFdM",
+    "page": "https://unsplash.com/photos/ethernet-cables-connected-to-the-back-of-a-network-device-y4GHs9GEFdM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1783683783819-e6cb806bba69?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1783683783819-e6cb806bba69?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Manuel Luikenga on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Manuel Luikenga",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@manuel_luikenga?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/y4GHs9GEFdM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG5ldHdvcmslMjBzd2l0Y2h8ZW58MXx8fHwxNzk0NTE3NDcyfDA"
+   },
+   {
+    "shot": "substation",
+    "shows": "A black and white photo of power lines and a bridge",
+    "file": "unsplash:tQN6r0xwprU",
+    "page": "https://unsplash.com/photos/a-black-and-white-photo-of-power-lines-and-a-bridge-tQN6r0xwprU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1708086632816-91d5008f4542?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww&ixlib=rb-4.1.0&w=1900&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1708086632816-91d5008f4542?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1900,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tQN6r0xwprU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww"
+   },
+   {
+    "shot": "transmission-tower",
+    "shows": "Time lapse photography of transmission tower",
+    "file": "unsplash:Is18vRGAZj0",
+    "page": "https://unsplash.com/photos/time-lapse-photography-of-transmission-tower-Is18vRGAZj0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1501722774607-350d98706b01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1501722774607-350d98706b01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1837
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Rodolfo Marques on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rodolfo Marques",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rodolfomarques?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Is18vRGAZj0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Kearny Generating Station September 2020 BW",
+    "file": "File:Kearny Generating Station September 2020 BW.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kearny_Generating_Station_September_2020_BW.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kearny_Generating_Station_September_2020_BW.jpg/1920px-Kearny_Generating_Station_September_2020_BW.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kearny_Generating_Station_September_2020_BW.jpg/500px-Kearny_Generating_Station_September_2020_BW.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "King of Hearts",
+    "year": 2020,
+    "how": "catalog"
+   },
+   {
+    "shot": "cooling-towers",
+    "shows": "A view of a city from a high rise building",
+    "file": "unsplash:GxYczcWhLT8",
+    "page": "https://unsplash.com/photos/a-view-of-a-city-from-a-high-rise-building-GxYczcWhLT8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1708885818576-11f5365560be?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1708885818576-11f5365560be?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nopparuj Lamaikul on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nopparuj Lamaikul",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@center999?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/GxYczcWhLT8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "substation",
+    "shows": "Electrical substation with transformers and power lines against blue sky",
+    "file": "unsplash:bbqAh039s6U",
+    "page": "https://unsplash.com/photos/electrical-substation-with-transformers-and-power-lines-against-blue-sky-bbqAh039s6U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1780396140802-52309c205050?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1780396140802-52309c205050?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jose Manuel Esp on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jose Manuel Esp",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jmespiga?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bbqAh039s6U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGVsZWN0cmljYWwlMjBzdWJzdGF0aW9ufGVufDF8fHx8MTc5Mzg5ODUwOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "transmission-tower",
+    "shows": "A very tall red and white tower under a blue sky",
+    "file": "unsplash:mLOCJZQlkLE",
+    "page": "https://unsplash.com/photos/a-very-tall-red-and-white-tower-under-a-blue-sky-mLOCJZQlkLE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1708451465384-f8f2bcd35cd5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=1992&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1708451465384-f8f2bcd35cd5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1992,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nopparuj Lamaikul on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nopparuj Lamaikul",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@center999?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/mLOCJZQlkLE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "A power plant with lots of power lines in front of it",
+    "file": "unsplash:Xb8IoeiWJvM",
+    "page": "https://unsplash.com/photos/a-power-plant-with-lots-of-power-lines-in-front-of-it-Xb8IoeiWJvM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1731865747195-ecb66c1ccbda?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1731865747195-ecb66c1ccbda?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nopparuj Lamaikul on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nopparuj Lamaikul",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@center999?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Xb8IoeiWJvM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "missing": [
+   "server-racks-blue-light"
+  ],
+  "checked": "2026-11-12"
  },
  "chips": {
   "name": "Semiconductors & the chip war",
@@ -137179,6 +138185,7 @@
    "chip war",
    "export controls"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "wafer",
@@ -137257,25 +138264,25 @@
    },
    {
     "shot": "semiconductor",
-    "shows": "Illuminated white and purple facade of the office building Rohm Semiconductor in Kyoto, Japan",
-    "file": "File:Illuminated white and purple facade of the office building Rohm Semiconductor in Kyoto, Japan.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto,_Japan.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg/1920px-Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg/500px-Illuminated_white_and_purple_facade_of_the_office_building_Rohm_Semiconductor_in_Kyoto%2C_Japan.jpg",
+    "shows": "National Semiconductor 24-bit flat panel display link - (Emtec Gdium Liberty 1000)",
+    "file": "File:National Semiconductor 24-bit flat panel display link - (Emtec Gdium Liberty 1000) (49849213136).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:National_Semiconductor_24-bit_flat_panel_display_link_-_(Emtec_Gdium_Liberty_1000)_(49849213136).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/National_Semiconductor_24-bit_flat_panel_display_link_-_%28Emtec_Gdium_Liberty_1000%29_%2849849213136%29.jpg/1920px-National_Semiconductor_24-bit_flat_panel_display_link_-_%28Emtec_Gdium_Liberty_1000%29_%2849849213136%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/National_Semiconductor_24-bit_flat_panel_display_link_-_%28Emtec_Gdium_Liberty_1000%29_%2849849213136%29.jpg/500px-National_Semiconductor_24-bit_flat_panel_display_link_-_%28Emtec_Gdium_Liberty_1000%29_%2849849213136%29.jpg",
     "size": [
      1920,
-     1440
+     1279
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Basile Morin",
-    "year": 2019,
+    "credit": "Martijn Boer from Netherlands, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Martijn Boer from Netherlands",
+    "year": 2020,
     "how": "catalog"
    },
    {
@@ -137306,14 +138313,14 @@
    },
    {
     "shot": "computer-chip",
-    "shows": "HP 1820-0250 6 Bit Comparator; [ 1 ] Manufactured by Hewlett Packard, 1974.",
-    "file": "File:HP 1820-0250.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HP_1820-0250.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HP_1820-0250.jpg/1920px-HP_1820-0250.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/HP_1820-0250.jpg/500px-HP_1820-0250.jpg",
+    "shows": "ML34003P - Unidentified integrated circuit. Manufactured by Microsystems International Limited (MIL), 1974",
+    "file": "File:ML34003P.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ML34003P.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ML34003P.jpg/1920px-ML34003P.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/ML34003P.jpg/500px-ML34003P.jpg",
     "size": [
      1920,
-     1560
+     1330
     ],
     "focus": [
      0.5,
@@ -137329,29 +138336,30 @@
    },
    {
     "shot": "processor",
-    "shows": "A computer processor installed in a motherboard socket with visible text and circuitry",
-    "file": "unsplash:JMwCe3w7qKk",
-    "page": "https://unsplash.com/photos/computer-processor-installed-in-motherboard-JMwCe3w7qKk?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Gray and green computer processor",
+    "file": "unsplash:FemeYrbdMWE",
+    "page": "https://unsplash.com/photos/gray-and-green-computer-processor-FemeYrbdMWE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1523655223303-4e9ef5234587?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=2259&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1523655223303-4e9ef5234587?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2000,
+     2259,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Olivier Collet on Unsplash",
+    "credit": "Photo by Roman Spiridonov on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Olivier Collet",
-    "year": 2020,
+    "author": "Roman Spiridonov",
+    "year": 2018,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@ocollet?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/JMwCe3w7qKk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww"
+    "author_url": "https://unsplash.com/@spiridonov?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/FemeYrbdMWE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cHJvY2Vzc29yfGVufDF8fHx8MTc5MzkzODQwNHww",
+    "track_pending": true
    },
    {
     "shot": "photolithography",
@@ -137378,11 +138386,11 @@
    },
    {
     "shot": "chip-factory",
-    "shows": "Route 11 Potato Chips factory - 5",
-    "file": "File:Route 11 Potato Chips factory - 5.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Route_11_Potato_Chips_factory_-_5.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Route_11_Potato_Chips_factory_-_5.jpg/1920px-Route_11_Potato_Chips_factory_-_5.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Route_11_Potato_Chips_factory_-_5.jpg/500px-Route_11_Potato_Chips_factory_-_5.jpg",
+    "shows": "Route 11 Potato Chips factory - 4",
+    "file": "File:Route 11 Potato Chips factory - 4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Route_11_Potato_Chips_factory_-_4.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Route_11_Potato_Chips_factory_-_4.jpg/1920px-Route_11_Potato_Chips_factory_-_4.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Route_11_Potato_Chips_factory_-_4.jpg/500px-Route_11_Potato_Chips_factory_-_4.jpg",
     "size": [
      1920,
      1440
@@ -137401,33 +138409,1077 @@
    },
    {
     "shot": "motherboard",
-    "shows": "Closeup photography of green and black computer motherboard",
-    "file": "unsplash:SJ5TmRRSM1U",
-    "page": "https://unsplash.com/photos/closeup-photography-of-green-and-black-computer-motherboard-SJ5TmRRSM1U?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1515630278258-407f66498911?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=2322&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1515630278258-407f66498911?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A close up of a computer motherboard on a white surface",
+    "file": "unsplash:OKBfiF6GERE",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-computer-motherboard-on-a-white-surface-OKBfiF6GERE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1712701815718-29f5fe510c0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1712701815718-29f5fe510c0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2322,
+     2000,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Bartosz Kwitkowski on Unsplash",
+    "credit": "Photo by Andrey Matveev on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Bartosz Kwitkowski",
+    "author": "Andrey Matveev",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zelebb?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OKBfiF6GERE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "semiconductor-wafer",
+    "shows": "An interesting wafer that I picked up.",
+    "file": "File:Wafer - 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wafer_-_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wafer_-_2.jpg/1920px-Wafer_-_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Wafer_-_2.jpg/500px-Wafer_-_2.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Windell Oskay, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Windell Oskay",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "chip",
+    "shows": "Brown chips on brown textile",
+    "file": "unsplash:S4PC4SeKwKg",
+    "page": "https://unsplash.com/photos/brown-chips-on-brown-textile-S4PC4SeKwKg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613919113640-25732ec5e61f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2hpcHxlbnwxfHx8fDE3OTQ1MTc0NjN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613919113640-25732ec5e61f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2hpcHxlbnwxfHx8fDE3OTQ1MTc0NjN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mustafa Bashari on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mustafa Bashari",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mustafabashari?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/S4PC4SeKwKg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2hpcHxlbnwxfHx8fDE3OTQ1MTc0NjN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "microprocessor",
+    "shows": "Intel - SB80486DX2-50, a fourth-generation x86 microprocessor introduced by Intel in 1992. This chip, which is based on the 80486 microarchitecture, had a clock",
+    "file": "File:Intel SB80486DX2-50.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Intel_SB80486DX2-50.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Intel_SB80486DX2-50.jpg/1920px-Intel_SB80486DX2-50.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Intel_SB80486DX2-50.jpg/500px-Intel_SB80486DX2-50.jpg",
+    "size": [
+     1920,
+     1692
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister rf",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "circuit-board",
+    "shows": "Blue circuit board",
+    "file": "unsplash:jXd2FSvcRr8",
+    "page": "https://unsplash.com/photos/blue-circuit-board-jXd2FSvcRr8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1562408590-e32931084e23?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1562408590-e32931084e23?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Umberto on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Umberto",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@umby?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/jXd2FSvcRr8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww",
+    "track_pending": true
+   },
+   {
+    "shot": "cpu",
+    "shows": "A close up of a cpu chip on a table",
+    "file": "unsplash:2W_xwTDeSmM",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-cpu-chip-on-a-table-2W_xwTDeSmM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1682068548081-50aa8b92c8c1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y3B1fGVufDF8fHx8MTc5NDUxNzQ2N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1682068548081-50aa8b92c8c1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y3B1fGVufDF8fHx8MTc5NDUxNzQ2N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Stan Hutter on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Stan Hutter",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hutters?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2W_xwTDeSmM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y3B1fGVufDF8fHx8MTc5NDUxNzQ2N3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "electronics",
+    "shows": "Eileen Collins (S93-E-5033, )",
+    "file": "File:Eileen Collins (S93-E-5033, 1999-07-24).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eileen_Collins_(S93-E-5033,_1999-07-24).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Eileen_Collins_%28S93-E-5033%2C_1999-07-24%29.jpg/1920px-Eileen_Collins_%28S93-E-5033%2C_1999-07-24%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Eileen_Collins_%28S93-E-5033%2C_1999-07-24%29.jpg/500px-Eileen_Collins_%28S93-E-5033%2C_1999-07-24%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: s93e5033 ., public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: s93e5033 .",
+    "year": 1999,
+    "how": "catalog"
+   },
+   {
+    "shot": "silicon",
+    "shows": "A close up of a mirror with a reflection of a person",
+    "file": "unsplash:wR4Q9r7KWBU",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-mirror-with-a-reflection-of-a-person-wR4Q9r7KWBU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1717962688747-7e13dfa31538?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=2247&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1717962688747-7e13dfa31538?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2247,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Igor Shalyminov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Igor Shalyminov",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ishalyminov?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/wR4Q9r7KWBU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "clean-room",
+    "shows": "Workers are inside a clean room manufacturing something",
+    "file": "unsplash:6RyofJC3sUw",
+    "page": "https://unsplash.com/photos/workers-are-inside-a-clean-room-manufacturing-something-6RyofJC3sUw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1748000970909-845f4aa144d2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2xlYW4lMjByb29tfGVufDF8fHx8MTc5NDUxNzQ3MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1748000970909-845f4aa144d2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2xlYW4lMjByb29tfGVufDF8fHx8MTc5NDUxNzQ3MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by TECNIC Bioprocess Solutions on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "TECNIC Bioprocess Solutions",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tecnic?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6RyofJC3sUw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2xlYW4lMjByb29tfGVufDF8fHx8MTc5NDUxNzQ3MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "computer-hardware",
+    "shows": "Commodore-64-Computer-FL",
+    "file": "File:Commodore-64-Computer-FL.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Commodore-64-Computer-FL.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Commodore-64-Computer-FL.jpg/1920px-Commodore-64-Computer-FL.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Commodore-64-Computer-FL.jpg/500px-Commodore-64-Computer-FL.jpg",
+    "size": [
+     1920,
+     1085
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Evan-Amos, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Evan-Amos",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "integrated-circuit",
+    "shows": "HP 1813-0091ː NMOS Hybrid Integrated Circuit - Control Logic/Assembly of precision resistors/Analog switches for the HP 3476A Digital Multimeter. In this pictur",
+    "file": "File:HP 1813-0091.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HP_1813-0091.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HP_1813-0091.jpg/1280px-HP_1813-0091.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/HP_1813-0091.jpg/500px-HP_1813-0091.jpg",
+    "size": [
+     1280,
+     1709
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister rf",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "cleanroom",
+    "shows": "A man in a mask using a machine",
+    "file": "unsplash:7PTD99F8oUk",
+    "page": "https://unsplash.com/photos/a-man-in-a-mask-using-a-machine-7PTD99F8oUk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1669101283107-b32aab60587a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1669101283107-b32aab60587a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Toon Lambrechts on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Toon Lambrechts",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mycellhub?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/7PTD99F8oUk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "pcb",
+    "shows": "A brown printed circuit board with intricate gold conductive pathways and small solder points",
+    "file": "unsplash:CANL3bzp6wU",
+    "page": "https://unsplash.com/photos/circuit-board-with-gold-pathways-CANL3bzp6wU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1617839625591-e5a789593135?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cHJpbnRlZCUyMGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTM4OTg1MDh8MA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1617839625591-e5a789593135?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cHJpbnRlZCUyMGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTM4OTg1MDh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Manuel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Manuel",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@manueljota?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CANL3bzp6wU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cHJpbnRlZCUyMGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTM4OTg1MDh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "motherboard",
+    "shows": "A red and black circuit board with intricate metallic pathways and solder points",
+    "file": "unsplash:aQYgUYwnCsM",
+    "page": "https://unsplash.com/photos/red-and-black-circuit-board-aQYgUYwnCsM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1580584126903-c17d41830450?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=1910&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1580584126903-c17d41830450?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1910,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michael Dziedzic on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michael Dziedzic",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lazycreekimages?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aQYgUYwnCsM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "chip",
+    "shows": "A close up of a pile of corn chips",
+    "file": "unsplash:4jUffy7Sx2w",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-pile-of-corn-chips-4jUffy7Sx2w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1699666397768-0126340e880a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1699666397768-0126340e880a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1797
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Karsten Winegeart on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Karsten Winegeart",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@_karsten?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4jUffy7Sx2w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "circuit-board",
+    "shows": "Macro photography of black circuit board",
+    "file": "unsplash:FO7JIlwjOtU",
+    "page": "https://unsplash.com/photos/macro-photography-of-black-circuit-board-FO7JIlwjOtU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1518770660439-4636190af475?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alexandre Debiève on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alexandre Debiève",
     "year": 2018,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@smee?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/SJ5TmRRSM1U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA"
+    "author_url": "https://unsplash.com/@alexkixa?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/FO7JIlwjOtU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww",
+    "track_pending": true
+   },
+   {
+    "shot": "cpu",
+    "shows": "Black and white circuit board",
+    "file": "unsplash:vruAZdZzQR0",
+    "page": "https://unsplash.com/photos/black-and-white-circuit-board-vruAZdZzQR0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1597092430872-09a3f4338c60?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA&ixlib=rb-4.1.0&w=2254&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1597092430872-09a3f4338c60?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2254,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jorge Salvador on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jorge Salvador",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jsshotz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vruAZdZzQR0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "electronics",
+    "shows": "Electronic circuit boards near tester",
+    "file": "unsplash:3GZi6OpSDcY",
+    "page": "https://unsplash.com/photos/electronic-circuit-boards-near-tester-3GZi6OpSDcY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1517420704952-d9f39e95b43e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nicolas Thomas on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nicolas Thomas",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nicolasthomas?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/3GZi6OpSDcY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww",
+    "track_pending": true
+   },
+   {
+    "shot": "silicon",
+    "shows": "An aerial view of a city from a plane",
+    "file": "unsplash:w4R5KU0-Qvc",
+    "page": "https://unsplash.com/photos/an-aerial-view-of-a-city-from-a-plane-w4R5KU0-Qvc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1671368899958-7c3162da51ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=1313&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1671368899958-7c3162da51ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1313,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Amit Lahav on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Amit Lahav",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@amit_lahav?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/w4R5KU0-Qvc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "clean-room",
+    "shows": "Workers in protective suits inside a sterile laboratory",
+    "file": "unsplash:9gZO2N6leRI",
+    "page": "https://unsplash.com/photos/workers-in-protective-suits-inside-a-sterile-laboratory-9gZO2N6leRI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1748002388689-c62b45d5c28b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2xlYW4lMjByb29tfGVufDF8fHx8MTc5NDUxNzQ3MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1748002388689-c62b45d5c28b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2xlYW4lMjByb29tfGVufDF8fHx8MTc5NDUxNzQ3MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by TECNIC Bioprocess Solutions on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "TECNIC Bioprocess Solutions",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tecnic?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9gZO2N6leRI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2xlYW4lMjByb29tfGVufDF8fHx8MTc5NDUxNzQ3MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "computer-hardware",
+    "shows": "Commodore-64-Computer-BL",
+    "file": "File:Commodore-64-Computer-BL.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Commodore-64-Computer-BL.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Commodore-64-Computer-BL.jpg/1920px-Commodore-64-Computer-BL.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Commodore-64-Computer-BL.jpg/500px-Commodore-64-Computer-BL.jpg",
+    "size": [
+     1920,
+     1085
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Evan-Amos, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Evan-Amos",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "cleanroom",
+    "shows": "Workers in protective suits inside a cleanroom",
+    "file": "unsplash:k2H_b2AEqbg",
+    "page": "https://unsplash.com/photos/workers-in-protective-suits-inside-a-cleanroom-k2H_b2AEqbg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1748349221526-33b51820b21e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1748349221526-33b51820b21e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by TECNIC Bioprocess Solutions on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "TECNIC Bioprocess Solutions",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tecnic?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/k2H_b2AEqbg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "motherboard",
+    "shows": "A black and white photo of a computer motherboard",
+    "file": "unsplash:b_GcLCaKt94",
+    "page": "https://unsplash.com/photos/a-black-and-white-photo-of-a-computer-motherboard-b_GcLCaKt94?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1697952431907-8542919a16b3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1697952431907-8542919a16b3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Albert Stoynov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Albert Stoynov",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@albertstoynov?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/b_GcLCaKt94/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW90aGVyYm9hcmR8ZW58MXx8fHwxNzkzOTM4NDA4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "chip",
+    "shows": "Clear drinking glass beside brown bread on blue ceramic plate",
+    "file": "unsplash:GiTJpq74ER0",
+    "page": "https://unsplash.com/photos/clear-drinking-glass-beside-brown-bread-on-blue-ceramic-plate-GiTJpq74ER0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613462847848-f65a8b231bb5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613462847848-f65a8b231bb5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Olga Kozachenko on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Olga Kozachenko",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@olhakozachenko?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/GiTJpq74ER0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "circuit-board",
+    "shows": "Tweezers placing a small black microchip onto a green circuit board",
+    "file": "unsplash:zs4gtT8thO0",
+    "page": "https://unsplash.com/photos/microchip-placement-on-circuit-board-zs4gtT8thO0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1640955785023-1854685dae05?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww&ixlib=rb-4.1.0&w=1998&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1640955785023-1854685dae05?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1998,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vishnu Mohanan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vishnu Mohanan",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vishnumaiea?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zs4gtT8thO0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww",
+    "track_pending": true
+   },
+   {
+    "shot": "cpu",
+    "shows": "Grey CPU chip at the center of black motherboard",
+    "file": "unsplash:8WFcelVBOoI",
+    "page": "https://unsplash.com/photos/grey-cpu-chip-at-the-center-of-black-motherboard-8WFcelVBOoI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1555617778-02518510b9fa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1555617778-02518510b9fa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Christian Wiediger on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christian Wiediger",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@christianw?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8WFcelVBOoI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "electronics",
+    "shows": "2019 Rozebrane dyski twarde",
+    "file": "File:2019 Rozebrane dyski twarde.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2019_Rozebrane_dyski_twarde.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2019_Rozebrane_dyski_twarde.jpg/1920px-2019_Rozebrane_dyski_twarde.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2019_Rozebrane_dyski_twarde.jpg/500px-2019_Rozebrane_dyski_twarde.jpg",
+    "size": [
+     1920,
+     1291
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jacek Halicki",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "silicon",
+    "shows": "Black and white labeled box",
+    "file": "unsplash:RoZWxeFL27k",
+    "page": "https://unsplash.com/photos/black-and-white-labeled-box-RoZWxeFL27k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1597207837475-ea1f19435b50?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1597207837475-ea1f19435b50?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1812
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Laura Ockel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Laura Ockel",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@viazavier?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/RoZWxeFL27k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "computer-hardware",
+    "shows": "2018 Tuner Akai AT-2200 2",
+    "file": "File:2018 Tuner Akai AT-2200 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2018_Tuner_Akai_AT-2200_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2018_Tuner_Akai_AT-2200_2.jpg/1920px-2018_Tuner_Akai_AT-2200_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/2018_Tuner_Akai_AT-2200_2.jpg/500px-2018_Tuner_Akai_AT-2200_2.jpg",
+    "size": [
+     1920,
+     669
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jacek Halicki",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "cleanroom",
+    "shows": "Person using black industrial machine",
+    "file": "unsplash:r2tVRjxzFM8",
+    "page": "https://unsplash.com/photos/person-using-black-industrial-machine-r2tVRjxzFM8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1576141546153-3e04370b5ff7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA&ixlib=rb-4.1.0&w=2389&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1576141546153-3e04370b5ff7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2389,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by L N on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "L N",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@younis67?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/r2tVRjxzFM8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "motherboard",
+    "shows": "Tilt-shift photography of green computer motherboard",
+    "file": "unsplash:bN5XdU-bap4",
+    "page": "https://unsplash.com/photos/tilt-shift-photography-of-green-computer-motherboard-bN5XdU-bap4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG1vdGhlcmJvYXJkfGVufDF8fHx8MTc5MzkzODQwOHww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG1vdGhlcmJvYXJkfGVufDF8fHx8MTc5MzkzODQwOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Chris Ried on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Chris Ried",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cdr6934?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bN5XdU-bap4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG1vdGhlcmJvYXJkfGVufDF8fHx8MTc5MzkzODQwOHww",
+    "track_pending": true
+   },
+   {
+    "shot": "chip",
+    "shows": "A close up of a bag of potato chips",
+    "file": "unsplash:L1ltnmBlA14",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-bag-of-potato-chips-L1ltnmBlA14?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641693148759-843d17ceac24?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641693148759-843d17ceac24?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Esperanza Doronila on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Esperanza Doronila",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@edoronila?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/L1ltnmBlA14/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "circuit-board",
+    "shows": "A close-up of a circuit board",
+    "file": "unsplash:6BCgNl-UY6A",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-circuit-board-6BCgNl-UY6A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1651340550839-3b295d930048?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1651340550839-3b295d930048?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Anne Nygård on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Anne Nygård",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@polarmermaid?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6BCgNl-UY6A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2lyY3VpdCUyMGJvYXJkfGVufDF8fHx8MTc5NDUxNzQ2NXww",
+    "track_pending": true
+   },
+   {
+    "shot": "cpu",
+    "shows": "Black and blue computer tower",
+    "file": "unsplash:EOAKUQcsFIU",
+    "page": "https://unsplash.com/photos/black-and-blue-computer-tower-EOAKUQcsFIU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andy Holmes on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andy Holmes",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@andyjh07?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EOAKUQcsFIU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNwdXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "electronics",
+    "shows": "Blue and black circuit board",
+    "file": "unsplash:gavODTHG36Y",
+    "page": "https://unsplash.com/photos/blue-and-black-circuit-board-gavODTHG36Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1603732551658-5fabbafa84eb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1603732551658-5fabbafa84eb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sahand Babali on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sahand Babali",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sahandbabali?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gavODTHG36Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww",
+    "track_pending": true
+   },
+   {
+    "shot": "silicon",
+    "shows": "Green, yellow, and grey frame",
+    "file": "unsplash:pGVr8YRtQ80",
+    "page": "https://unsplash.com/photos/green-yellow-and-grey-frame-pGVr8YRtQ80?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1543727166-222902a0c7d2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=2265&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1543727166-222902a0c7d2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2265,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Laura Ockel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Laura Ockel",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@viazavier?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pGVr8YRtQ80/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8c2lsaWNvbnxlbnwxfHx8fDE3OTQ1MTc0Njl8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "computer-hardware",
+    "shows": "Amiga 1000 computer. On display at the Musée Bolo , EPFL , Lausanne.",
+    "file": "File:Amiga A1000 IMG 4275.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Amiga_A1000_IMG_4275.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Amiga_A1000_IMG_4275.jpg/1920px-Amiga_A1000_IMG_4275.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Amiga_A1000_IMG_4275.jpg/500px-Amiga_A1000_IMG_4275.jpg",
+    "size": [
+     1920,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Rama & Musée Bolo, CC BY-SA 2.0 fr, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0 fr",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "author": "Rama & Musée Bolo",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "cleanroom",
+    "shows": "A person wearing a mask",
+    "file": "unsplash:fckfP4ySNug",
+    "page": "https://unsplash.com/photos/a-person-wearing-a-mask-fckfP4ySNug?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1668511237388-404cc7e56e9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1668511237388-404cc7e56e9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Toon Lambrechts on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Toon Lambrechts",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mycellhub?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/fckfP4ySNug/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNsZWFucm9vbXxlbnwxfHx8fDE3OTM4OTg1MDR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "motherboard",
+    "shows": "Black and silver audio mixer",
+    "file": "unsplash:MJ9px5L-opg",
+    "page": "https://unsplash.com/photos/black-and-silver-audio-mixer-MJ9px5L-opg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613483187636-c2024013d54a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG1vdGhlcmJvYXJkfGVufDF8fHx8MTc5MzkzODQwOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613483187636-c2024013d54a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG1vdGhlcmJvYXJkfGVufDF8fHx8MTc5MzkzODQwOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tomáš Malík on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tomáš Malík",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@malcoo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MJ9px5L-opg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG1vdGhlcmJvYXJkfGVufDF8fHx8MTc5MzkzODQwOHww",
+    "track_pending": true
+   },
+   {
+    "shot": "chip",
+    "shows": "Potato chips in bowl",
+    "file": "unsplash:ONQ86GlHs3c",
+    "page": "https://unsplash.com/photos/potato-chips-in-bowl-ONQ86GlHs3c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1528751014936-863e6e7a319c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1528751014936-863e6e7a319c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1807
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Emiliano Vittoriosi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Emiliano Vittoriosi",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@emilianovittoriosi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ONQ86GlHs3c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNoaXB8ZW58MXx8fHwxNzk0NTE3NDYzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "circuit-board",
+    "shows": "Flat lay photography of circuit board",
+    "file": "unsplash:zP7X_B86xOg",
+    "page": "https://unsplash.com/photos/flat-lay-photography-of-circuit-board-zP7X_B86xOg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Robin Glauser on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Robin Glauser",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nahakiole?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zP7X_B86xOg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "checked": "2026-11-12"
  },
  "crypto": {
   "name": "Bitcoin & crypto",
@@ -137440,6 +139492,7 @@
    "ethereum",
    "btc"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "coin",
@@ -137544,60 +139597,60 @@
    },
    {
     "shot": "chart",
-    "shows": "SFMv2 price history 2022",
-    "file": "File:SFMv2 price history 2022.png",
-    "page": "https://commons.wikimedia.org/wiki/File:SFMv2_price_history_2022.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/SFMv2_price_history_2022.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/SFMv2_price_history_2022.png/500px-SFMv2_price_history_2022.png",
+    "shows": "Crypto Trading Bot running",
+    "file": "File:Crypto Trading Bot running.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Crypto_Trading_Bot_running.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Crypto_Trading_Bot_running.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Crypto_Trading_Bot_running.png/500px-Crypto_Trading_Bot_running.png",
     "size": [
-     1789,
-     1265
+     1919,
+     1005
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Gary Reddings, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Fabo.Hax, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Gary Reddings",
-    "year": 2022,
+    "author": "Fabo.Hax",
+    "year": 2020,
     "how": "catalog"
    },
    {
     "shot": "conference",
-    "shows": "Yaroslav Ivanov, Co-Founder and CVO of ALTA-Blockchain Labs in TechWeek 2023 by a16z",
-    "file": "File:Yaroslav Ivanov, Co-Founder and CVO of ALTA-Blockchain Labs in TechWeek 2023 by a16z (54820689075).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Yaroslav_Ivanov,_Co-Founder_and_CVO_of_ALTA-Blockchain_Labs_in_TechWeek_2023_by_a16z_(54820689075).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Yaroslav_Ivanov%2C_Co-Founder_and_CVO_of_ALTA-Blockchain_Labs_in_TechWeek_2023_by_a16z_%2854820689075%29.jpg/1280px-Yaroslav_Ivanov%2C_Co-Founder_and_CVO_of_ALTA-Blockchain_Labs_in_TechWeek_2023_by_a16z_%2854820689075%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Yaroslav_Ivanov%2C_Co-Founder_and_CVO_of_ALTA-Blockchain_Labs_in_TechWeek_2023_by_a16z_%2854820689075%29.jpg/500px-Yaroslav_Ivanov%2C_Co-Founder_and_CVO_of_ALTA-Blockchain_Labs_in_TechWeek_2023_by_a16z_%2854820689075%29.jpg",
+    "shows": "Ben Delo on stage at The Spectator's \"Who's afraid of Bitcoin?\" conference",
+    "file": "File:Ben Delo on stage at The Spectator's \"Who's afraid of Bitcoin?\" conference.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ben_Delo_on_stage_at_The_Spectator%27s_%22Who%27s_afraid_of_Bitcoin%3F%22_conference.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ben_Delo_on_stage_at_The_Spectator%27s_%22Who%27s_afraid_of_Bitcoin%3F%22_conference.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ben_Delo_on_stage_at_The_Spectator%27s_%22Who%27s_afraid_of_Bitcoin%3F%22_conference.jpg/500px-Ben_Delo_on_stage_at_The_Spectator%27s_%22Who%27s_afraid_of_Bitcoin%3F%22_conference.jpg",
     "size": [
-     1280,
-     1838
+     1131,
+     1814
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jeremy Allenovsky, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Jeremy Allenovsky",
-    "year": 2023,
+    "credit": "Anne Schwarz Photography, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Anne Schwarz Photography",
+    "year": 2018,
     "how": "catalog"
    },
    {
     "shot": "dogecoin",
-    "shows": "Dogecoin gold coin on wood 1 - tails",
-    "file": "File:Dogecoin gold coin on wood 1 - tails.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dogecoin_gold_coin_on_wood_1_-_tails.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dogecoin_gold_coin_on_wood_1_-_tails.jpg/1920px-Dogecoin_gold_coin_on_wood_1_-_tails.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dogecoin_gold_coin_on_wood_1_-_tails.jpg/500px-Dogecoin_gold_coin_on_wood_1_-_tails.jpg",
+    "shows": "Dogecoin gold coin on wood 2 - tails",
+    "file": "File:Dogecoin gold coin on wood 2 - tails.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dogecoin_gold_coin_on_wood_2_-_tails.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dogecoin_gold_coin_on_wood_2_-_tails.jpg/1920px-Dogecoin_gold_coin_on_wood_2_-_tails.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dogecoin_gold_coin_on_wood_2_-_tails.jpg/500px-Dogecoin_gold_coin_on_wood_2_-_tails.jpg",
     "size": [
      1920,
-     1376
+     1419
     ],
     "focus": [
      0.5,
@@ -137613,49 +139666,30 @@
    },
    {
     "shot": "hardware-wallet",
-    "shows": "Coinkite Coldcard Hardware Wallet",
-    "file": "File:Coinkite Coldcard Hardware Wallet (44917829382).png",
-    "page": "https://commons.wikimedia.org/wiki/File:Coinkite_Coldcard_Hardware_Wallet_(44917829382).png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Coinkite_Coldcard_Hardware_Wallet_%2844917829382%29.png/1920px-Coinkite_Coldcard_Hardware_Wallet_%2844917829382%29.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Coinkite_Coldcard_Hardware_Wallet_%2844917829382%29.png/500px-Coinkite_Coldcard_Hardware_Wallet_%2844917829382%29.png",
+    "shows": "A laptop computer sitting on top of a white table",
+    "file": "unsplash:PvAcibGvwyc",
+    "page": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-table-PvAcibGvwyc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1642662069313-fc20c2c3a7ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1642662069313-fc20c2c3a7ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1277
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Gareth Halfacree from Bradford, UK, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Gareth Halfacree from Bradford, UK",
-    "year": 2018,
-    "how": "catalog"
-   },
-   {
-    "shot": "bitcoin-accepted-here",
-    "shows": "St Kitts - Liquor Store - BCH Accepted Here",
-    "file": "File:St Kitts - Liquor Store - BCH Accepted Here.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:St_Kitts_-_Liquor_Store_-_BCH_Accepted_Here.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/St_Kitts_-_Liquor_Store_-_BCH_Accepted_Here.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St_Kitts_-_Liquor_Store_-_BCH_Accepted_Here.jpg/500px-St_Kitts_-_Liquor_Store_-_BCH_Accepted_Here.jpg",
-    "size": [
-     1600,
-     1200
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "David-shattuck, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "David-shattuck",
-    "year": 2024,
-    "how": "catalog"
+    "credit": "Photo by Hendrik Morkel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hendrik Morkel",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hendrikmorkel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PvAcibGvwyc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww",
+    "track_pending": true
    },
    {
     "shot": "solana",
@@ -137679,10 +139713,903 @@
     "author": "CryptoWallet.com Images",
     "year": 2021,
     "how": "catalog"
+   },
+   {
+    "shot": "bitcoin-coin",
+    "shows": "Gold and silver round coins",
+    "file": "unsplash:4KJJezDyo3M",
+    "page": "https://unsplash.com/photos/gold-and-silver-round-coins-4KJJezDyo3M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1609726494499-27d3e942456c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Yml0Y29pbiUyMGNvaW58ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1609726494499-27d3e942456c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Yml0Y29pbiUyMGNvaW58ZW58MXx8fHwxNzk0NTE3NDYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kanchanara on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kanchanara",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kanchanara?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4KJJezDyo3M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Yml0Y29pbiUyMGNvaW58ZW58MXx8fHwxNzk0NTE3NDYzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "cryptocurrency",
+    "shows": "Person using black and gray laptop computer",
+    "file": "unsplash:GnWfl_nnZro",
+    "page": "https://unsplash.com/photos/person-using-black-and-gray-laptop-computer-GnWfl_nnZro?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1629339942248-45d4b10c8c2f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y3J5cHRvY3VycmVuY3l8ZW58MXx8fHwxNzk0NTE3NDY1fDA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1629339942248-45d4b10c8c2f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y3J5cHRvY3VycmVuY3l8ZW58MXx8fHwxNzk0NTE3NDY1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kanchanara on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kanchanara",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kanchanara?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/GnWfl_nnZro/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y3J5cHRvY3VycmVuY3l8ZW58MXx8fHwxNzk0NTE3NDY1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "blockchain",
+    "shows": "Blockchain books Donner Rotterdam 22 Dec 2017",
+    "file": "File:Blockchain books Donner Rotterdam 22 Dec 2017.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Blockchain_books_Donner_Rotterdam_22_Dec_2017.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Blockchain_books_Donner_Rotterdam_22_Dec_2017.jpg/1920px-Blockchain_books_Donner_Rotterdam_22_Dec_2017.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Blockchain_books_Donner_Rotterdam_22_Dec_2017.jpg/500px-Blockchain_books_Donner_Rotterdam_22_Dec_2017.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Someone Not Awful, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Someone Not Awful",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "bitcoin-price",
+    "shows": "Selective focus photo of Bitcoin near monitor",
+    "file": "unsplash:JrjhtBJ-pGU",
+    "page": "https://unsplash.com/photos/selective-focus-photo-of-bitcoin-near-monitor-JrjhtBJ-pGU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1516245834210-c4c142787335?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGJpdGNvaW4lMjBwcmljZXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1516245834210-c4c142787335?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGJpdGNvaW4lMjBwcmljZXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by André François McKenzie on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "André François McKenzie",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@silverhousehd?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JrjhtBJ-pGU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGJpdGNvaW4lMjBwcmljZXxlbnwxfHx8fDE3OTQ1MTc0Njd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "ethereum-coin",
+    "shows": "Two gold coin sitting on top of a pile of pink crystals",
+    "file": "unsplash:rkrSliDBH24",
+    "page": "https://unsplash.com/photos/two-gold-coin-sitting-on-top-of-a-pile-of-pink-crystals-rkrSliDBH24?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1639987759021-bc55a0c96ce1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXRoZXJldW0lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1639987759021-bc55a0c96ce1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXRoZXJldW0lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Traxer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Traxer",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@traxer?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/rkrSliDBH24/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXRoZXJldW0lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2OHww",
+    "track_pending": true
+   },
+   {
+    "shot": "crypto-wallet",
+    "shows": "Lost Crypto Wallet Concept Image",
+    "file": "File:Lost Crypto Wallet Concept Image.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lost_Crypto_Wallet_Concept_Image.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lost_Crypto_Wallet_Concept_Image.jpg/1920px-Lost_Crypto_Wallet_Concept_Image.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Lost_Crypto_Wallet_Concept_Image.jpg/500px-Lost_Crypto_Wallet_Concept_Image.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Bybit.com, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Bybit.com",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "bitcoin-mining-rig",
+    "shows": "Chiming.eth miningrig2",
+    "file": "File:Chiming.eth miningrig2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chiming.eth_miningrig2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chiming.eth_miningrig2.jpg/1920px-Chiming.eth_miningrig2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Chiming.eth_miningrig2.jpg/500px-Chiming.eth_miningrig2.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Vysulo, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Vysulo",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "digital-currency",
+    "shows": "Holding Bitcoin cryptocurrency coin",
+    "file": "File:Holding Bitcoin cryptocurrency coin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Holding_Bitcoin_cryptocurrency_coin.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Holding_Bitcoin_cryptocurrency_coin.jpg/1920px-Holding_Bitcoin_cryptocurrency_coin.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Holding_Bitcoin_cryptocurrency_coin.jpg/500px-Holding_Bitcoin_cryptocurrency_coin.jpg",
+    "size": [
+     1920,
+     1300
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Satheesh Sankaran, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Satheesh Sankaran",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "bitcoin-gold",
+    "shows": "A bitcoin sitting on top of a pile of gold coins",
+    "file": "unsplash:VkFLGd6JxOQ",
+    "page": "https://unsplash.com/photos/a-bitcoin-sitting-on-top-of-a-pile-of-gold-coins-VkFLGd6JxOQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641802914005-2a9b0f3165b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Yml0Y29pbiUyMGdvbGR8ZW58MXx8fHwxNzk0NTE3NDczfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641802914005-2a9b0f3165b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Yml0Y29pbiUyMGdvbGR8ZW58MXx8fHwxNzk0NTE3NDczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1804
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Traxer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Traxer",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@traxer?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VkFLGd6JxOQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Yml0Y29pbiUyMGdvbGR8ZW58MXx8fHwxNzk0NTE3NDczfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "coin",
+    "shows": "Gold-colored Bitcoin",
+    "file": "unsplash:iGYiBhdNTpE",
+    "page": "https://unsplash.com/photos/gold-colored-bitcoin-iGYiBhdNTpE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by André François McKenzie on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "André François McKenzie",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@silverhousehd?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/iGYiBhdNTpE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "atm",
+    "shows": "A woman using a cell phone in front of a bitcoin machine",
+    "file": "unsplash:Q6J4Tjji-QI",
+    "page": "https://unsplash.com/photos/a-woman-using-a-cell-phone-in-front-of-a-bitcoin-machine-Q6J4Tjji-QI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1687969961089-b4c8de9047bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1687969961089-b4c8de9047bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by GENERAL BYTES on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "GENERAL BYTES",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@generalbytes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Q6J4Tjji-QI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "ethereum",
+    "shows": "Three bitcoins sitting on top of a table",
+    "file": "unsplash:ZAIbez5LTrg",
+    "page": "https://unsplash.com/photos/three-bitcoins-sitting-on-top-of-a-table-ZAIbez5LTrg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1640826514546-7d2eab70a4e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8RXRoZXJldW18ZW58MXx8fHwxNzkzODk4NTIyfDA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1640826514546-7d2eab70a4e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8RXRoZXJldW18ZW58MXx8fHwxNzkzODk4NTIyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Traxer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Traxer",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@traxer?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZAIbez5LTrg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8RXRoZXJldW18ZW58MXx8fHwxNzkzODk4NTIyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "hardware-wallet",
+    "shows": "Black rectangular device on white table",
+    "file": "unsplash:N4jhGAoNuGo",
+    "page": "https://unsplash.com/photos/black-rectangular-device-on-white-table-N4jhGAoNuGo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1619709821682-ec24ace60f09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1619709821682-ec24ace60f09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Max Saeling on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Max Saeling",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@maxsaeling?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/N4jhGAoNuGo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "bitcoin-coin",
+    "shows": "A bit coin sitting on top of a stack of coins",
+    "file": "unsplash:i9_3D7O86b8",
+    "page": "https://unsplash.com/photos/a-bit-coin-sitting-on-top-of-a-stack-of-coins-i9_3D7O86b8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1707075891545-c36963b873e6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGJpdGNvaW4lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2M3ww&ixlib=rb-4.1.0&w=2101&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1707075891545-c36963b873e6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGJpdGNvaW4lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2101,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Erling Løken Andersen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Erling Løken Andersen",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@erling1loken1andersen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/i9_3D7O86b8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGJpdGNvaW4lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2M3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "blockchain",
+    "shows": "A bitcoin sitting on top of a pile of gold coins",
+    "file": "unsplash:piiqiVnhJkM",
+    "page": "https://unsplash.com/photos/a-bitcoin-sitting-on-top-of-a-pile-of-gold-coins-piiqiVnhJkM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1694219782948-afcab5c095d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGJsb2NrY2hhaW58ZW58MXx8fHwxNzk0NTE3NDY2fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1694219782948-afcab5c095d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGJsb2NrY2hhaW58ZW58MXx8fHwxNzk0NTE3NDY2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1349
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Norman Wozny on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Norman Wozny",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@thewozzvisions?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/piiqiVnhJkM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGJsb2NrY2hhaW58ZW58MXx8fHwxNzk0NTE3NDY2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "ethereum-coin",
+    "shows": "A person holding a coin in front of a computer",
+    "file": "unsplash:qF1XTSiGpqM",
+    "page": "https://unsplash.com/photos/a-person-holding-a-coin-in-front-of-a-computer-qF1XTSiGpqM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1634704760994-96e3ccf2ae85?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZXRoZXJldW0lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1634704760994-96e3ccf2ae85?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZXRoZXJldW0lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Art Rachen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Art Rachen",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@artrachen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qF1XTSiGpqM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZXRoZXJldW0lMjBjb2lufGVufDF8fHx8MTc5NDUxNzQ2OHww",
+    "track_pending": true
+   },
+   {
+    "shot": "crypto-wallet",
+    "shows": "A remote control sitting on top of a table",
+    "file": "unsplash:ZYVMG1yDwVY",
+    "page": "https://unsplash.com/photos/a-remote-control-sitting-on-top-of-a-table-ZYVMG1yDwVY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1706825402695-b10d7c2fbfaa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNyeXB0byUyMHdhbGxldHxlbnwxfHx8fDE3OTQ1MTc0NzB8MA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1706825402695-b10d7c2fbfaa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNyeXB0byUyMHdhbGxldHxlbnwxfHx8fDE3OTQ1MTc0NzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jean-Luc Picard on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jean-Luc Picard",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jeanlucbe?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZYVMG1yDwVY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNyeXB0byUyMHdhbGxldHxlbnwxfHx8fDE3OTQ1MTc0NzB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "digital-currency",
+    "shows": "Bergtocht van Vens naar Bettex in Valle d'Aosta (Italië) 012",
+    "file": "File:Bergtocht van Vens naar Bettex in Valle d'Aosta (Italië) 012.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bergtocht_van_Vens_naar_Bettex_in_Valle_d%27Aosta_(Itali%C3%AB)_012.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bergtocht_van_Vens_naar_Bettex_in_Valle_d%27Aosta_%28Itali%C3%AB%29_012.jpg/1920px-Bergtocht_van_Vens_naar_Bettex_in_Valle_d%27Aosta_%28Itali%C3%AB%29_012.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bergtocht_van_Vens_naar_Bettex_in_Valle_d%27Aosta_%28Itali%C3%AB%29_012.jpg/500px-Bergtocht_van_Vens_naar_Bettex_in_Valle_d%27Aosta_%28Itali%C3%AB%29_012.jpg",
+    "size": [
+     1920,
+     2200
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Agnes Monkelbaan, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Agnes Monkelbaan",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "coin",
+    "shows": "A bitcoin on top of a computer motherboard",
+    "file": "unsplash:AA5sf7WTv10",
+    "page": "https://unsplash.com/photos/a-bitcoin-on-top-of-a-computer-motherboard-AA5sf7WTv10?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641580529558-a96cf6efbc72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michael Förtsch on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michael Förtsch",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@michael_f?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/AA5sf7WTv10/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "atm",
+    "shows": "A man putting a bitcoin machine into a bin",
+    "file": "unsplash:lAYReiNMwJM",
+    "page": "https://unsplash.com/photos/a-man-putting-a-bitcoin-machine-into-a-bin-lAYReiNMwJM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1687969961099-d18051d05bc7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1687969961099-d18051d05bc7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by GENERAL BYTES on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "GENERAL BYTES",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@generalbytes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lAYReiNMwJM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "ethereum",
+    "shows": "A cell phone displaying a price of $ 250",
+    "file": "unsplash:qELSNhnhRFw",
+    "page": "https://unsplash.com/photos/a-cell-phone-displaying-a-price-of-250-qELSNhnhRFw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1643488072086-9d7318c0a04b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fEV0aGVyZXVtfGVufDF8fHx8MTc5Mzg5ODUyMnww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1643488072086-9d7318c0a04b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fEV0aGVyZXVtfGVufDF8fHx8MTc5Mzg5ODUyMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brian J. Tromp on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brian J. Tromp",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brianjtromp?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qELSNhnhRFw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fEV0aGVyZXVtfGVufDF8fHx8MTc5Mzg5ODUyMnww",
+    "track_pending": true
+   },
+   {
+    "shot": "hardware-wallet",
+    "shows": "A laptop computer sitting on top of a white table",
+    "file": "unsplash:s3SVUGKuIH0",
+    "page": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-white-table-s3SVUGKuIH0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1642662069292-1fc53175a328?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1642662069292-1fc53175a328?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Hendrik Morkel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hendrik Morkel",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hendrikmorkel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/s3SVUGKuIH0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGhhcmR3YXJlJTIwd2FsbGV0fGVufDF8fHx8MTc5MzkwMjEyOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "bitcoin-coin",
+    "shows": "Treptowers, Alt-Treptow, Berlin, , ako",
+    "file": "File:Treptowers, Alt-Treptow, Berlin, 1705252213, ako.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Treptowers,_Alt-Treptow,_Berlin,_1705252213,_ako.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Treptowers%2C_Alt-Treptow%2C_Berlin%2C_1705252213%2C_ako.jpg/1920px-Treptowers%2C_Alt-Treptow%2C_Berlin%2C_1705252213%2C_ako.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Treptowers%2C_Alt-Treptow%2C_Berlin%2C_1705252213%2C_ako.jpg/500px-Treptowers%2C_Alt-Treptow%2C_Berlin%2C_1705252213%2C_ako.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ansgar Koreng, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ansgar Koreng",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "blockchain",
+    "shows": "A black background with a blue and green design",
+    "file": "unsplash:loExs19kh9s",
+    "page": "https://unsplash.com/photos/a-black-background-with-a-blue-and-green-design-loExs19kh9s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1644343262170-e40d72e19a84?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGJsb2NrY2hhaW58ZW58MXx8fHwxNzk0NTE3NDY2fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1644343262170-e40d72e19a84?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGJsb2NrY2hhaW58ZW58MXx8fHwxNzk0NTE3NDY2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1424
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Batyrkhan Shalgimbekov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Batyrkhan Shalgimbekov",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sdjr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/loExs19kh9s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGJsb2NrY2hhaW58ZW58MXx8fHwxNzk0NTE3NDY2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "ethereum-coin",
+    "shows": "A close up of a coin on a table",
+    "file": "unsplash:NvLxHx8foNA",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-coin-on-a-table-NvLxHx8foNA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1644925295849-f057b6ee1c66?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGV0aGVyZXVtJTIwY29pbnxlbnwxfHx8fDE3OTQ1MTc0Njh8MA&ixlib=rb-4.1.0&w=2245&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1644925295849-f057b6ee1c66?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGV0aGVyZXVtJTIwY29pbnxlbnwxfHx8fDE3OTQ1MTc0Njh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2245,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vitaly Mazur on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vitaly Mazur",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vitalymazur?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NvLxHx8foNA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGV0aGVyZXVtJTIwY29pbnxlbnwxfHx8fDE3OTQ1MTc0Njh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "coin",
+    "shows": "A person holding a coin in front of a computer",
+    "file": "unsplash:sM4r-swmcoY",
+    "page": "https://unsplash.com/photos/a-person-holding-a-coin-in-front-of-a-computer-sM4r-swmcoY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1634704784915-aacf363b021f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1634704784915-aacf363b021f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Art Rachen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Art Rachen",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@artrachen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sM4r-swmcoY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Qml0Y29pbnxlbnwxfHx8fDE3OTM4OTg1MTh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "atm",
+    "shows": "A group of people standing around a machine",
+    "file": "unsplash:Mb_KxKr5ZMU",
+    "page": "https://unsplash.com/photos/a-group-of-people-standing-around-a-machine-Mb_KxKr5ZMU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1687969961103-ba6ece2a186f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1687969961103-ba6ece2a186f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by GENERAL BYTES on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "GENERAL BYTES",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@generalbytes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Mb_KxKr5ZMU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "ethereum",
+    "shows": "An Ethereum coin",
+    "file": "unsplash:6Jdz9qiZfsQ",
+    "page": "https://unsplash.com/photos/shape-6Jdz9qiZfsQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1660030584437-10c529d4a6cb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEV0aGVyZXVtfGVufDF8fHx8MTc5Mzg5ODUyMnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1660030584437-10c529d4a6cb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEV0aGVyZXVtfGVufDF8fHx8MTc5Mzg5ODUyMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1362
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Yiğit Ali Atasoy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Yiğit Ali Atasoy",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yigitaliatasoy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6Jdz9qiZfsQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEV0aGVyZXVtfGVufDF8fHx8MTc5Mzg5ODUyMnww",
+    "track_pending": true
+   },
+   {
+    "shot": "bitcoin-coin",
+    "shows": "Papilio demoleus ALT by kadavoor",
+    "file": "File:Papilio demoleus ALT by kadavoor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Papilio_demoleus_ALT_by_kadavoor.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Papilio_demoleus_ALT_by_kadavoor.jpg/1280px-Papilio_demoleus_ALT_by_kadavoor.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Papilio_demoleus_ALT_by_kadavoor.jpg/500px-Papilio_demoleus_ALT_by_kadavoor.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jeevan Jose, Kerala, India, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jeevan Jose, Kerala, India",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "ethereum-coin",
+    "shows": "A close up of a coin on a table",
+    "file": "unsplash:4npbccycf4U",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-coin-on-a-table-4npbccycf4U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1644925155331-cda18e17d99f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGV0aGVyZXVtJTIwY29pbnxlbnwxfHx8fDE3OTQ1MTc0Njh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1644925155331-cda18e17d99f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGV0aGVyZXVtJTIwY29pbnxlbnwxfHx8fDE3OTQ1MTc0Njh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1795
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vitaly Mazur on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vitaly Mazur",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vitalymazur?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4npbccycf4U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGV0aGVyZXVtJTIwY29pbnxlbnwxfHx8fDE3OTQ1MTc0Njh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "coin",
+    "shows": "A gold Bitcoin coin on a dark surface",
+    "file": "unsplash:I0TDRP0fj6Y",
+    "page": "https://unsplash.com/photos/bitcoin-I0TDRP0fj6Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1519162584292-56dfc9eb5db4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEJpdGNvaW58ZW58MXx8fHwxNzkzODk4NTE4fDA&ixlib=rb-4.1.0&w=2002&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1519162584292-56dfc9eb5db4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEJpdGNvaW58ZW58MXx8fHwxNzkzODk4NTE4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2002,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Thought Catalog on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Thought Catalog",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@thoughtcatalog?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/I0TDRP0fj6Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEJpdGNvaW58ZW58MXx8fHwxNzkzODk4NTE4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "atm",
+    "shows": "Graphical user interface",
+    "file": "unsplash:Ih3Tv57Z50A",
+    "page": "https://unsplash.com/photos/graphical-user-interface-Ih3Tv57Z50A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1668609541695-56ddc557db57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1668609541695-56ddc557db57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by John Paul Cuvinar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John Paul Cuvinar",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hippoatm?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Ih3Tv57Z50A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Qml0Y29pbiUyMEFUTXxlbnwxfHx8fDE3OTM4OTg1MjF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "coin",
+    "shows": "A bitcoin sitting on top of a computer chip",
+    "file": "unsplash:4GD_5kMZmY8",
+    "page": "https://unsplash.com/photos/a-bitcoin-sitting-on-top-of-a-computer-chip-4GD_5kMZmY8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1631897641570-91326d87caf5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEJpdGNvaW58ZW58MXx8fHwxNzkzODk4NTE4fDA&ixlib=rb-4.1.0&w=2377&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1631897641570-91326d87caf5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEJpdGNvaW58ZW58MXx8fHwxNzkzODk4NTE4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2377,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michael Förtsch on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michael Förtsch",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@michael_f?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4GD_5kMZmY8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEJpdGNvaW58ZW58MXx8fHwxNzkzODk4NTE4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "atm",
+    "shows": "A black and orange gaming device",
+    "file": "unsplash:PwGx1XCt6oI",
+    "page": "https://unsplash.com/photos/a-black-and-orange-gaming-device-PwGx1XCt6oI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1668609536947-bde3d6f6fc34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEJpdGNvaW4lMjBBVE18ZW58MXx8fHwxNzkzODk4NTIxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1668609536947-bde3d6f6fc34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEJpdGNvaW4lMjBBVE18ZW58MXx8fHwxNzkzODk4NTIxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by John Paul Cuvinar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John Paul Cuvinar",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hippoatm?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PwGx1XCt6oI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEJpdGNvaW4lMjBBVE18ZW58MXx8fHwxNzkzODk4NTIxfDA",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "missing": [
+   "bitcoin-accepted-here",
+   "crypto-trading"
+  ],
+  "checked": "2026-11-12"
  },
  "gold": {
   "name": "Gold",
