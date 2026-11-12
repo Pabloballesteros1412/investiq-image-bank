@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Regions Center (Little Rock)",
@@ -25,6 +24,23 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Regions_Center_(Little_Rock).jpg"
+  },
+  {
+   "shows": "A Regions Bank branch in Knoxville, Tennessee 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Regions_Bank_branch_in_Knoxville%2C_Tennessee_02.jpg/1920px-A_Regions_Bank_branch_in_Knoxville%2C_Tennessee_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/A_Regions_Bank_branch_in_Knoxville%2C_Tennessee_02.jpg/500px-A_Regions_Bank_branch_in_Knoxville%2C_Tennessee_02.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Regions_Bank_branch_in_Knoxville,_Tennessee_02.jpg"
   },
   {
    "shows": "Jackson December 2018 28 (Regions Bank Building)",
@@ -114,6 +130,60 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:56_St._Joseph_Street_Mobile_AL_01.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Regions - Tallahassee, FL - off Thomasville Road",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Regions_-_Tallahassee%2C_FL_-_off_Thomasville_Road.jpg/1920px-Regions_-_Tallahassee%2C_FL_-_off_Thomasville_Road.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Regions_-_Tallahassee%2C_FL_-_off_Thomasville_Road.jpg/500px-Regions_-_Tallahassee%2C_FL_-_off_Thomasville_Road.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Winnebaggo, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Regions_-_Tallahassee,_FL_-_off_Thomasville_Road.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Regions Bank on Centerville Road, Tallahassee, Florida",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Regions_Bank_on_Centerville_Road%2C_Tallahassee%2C_Florida.jpg/1920px-Regions_Bank_on_Centerville_Road%2C_Tallahassee%2C_Florida.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Regions_Bank_on_Centerville_Road%2C_Tallahassee%2C_Florida.jpg/500px-Regions_Bank_on_Centerville_Road%2C_Tallahassee%2C_Florida.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Regions_Bank_on_Centerville_Road,_Tallahassee,_Florida.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Regions Bank on Thomasville Road, Tallahassee, Florida",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Regions_Bank_on_Thomasville_Road%2C_Tallahassee%2C_Florida.jpg/1920px-Regions_Bank_on_Thomasville_Road%2C_Tallahassee%2C_Florida.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Regions_Bank_on_Thomasville_Road%2C_Tallahassee%2C_Florida.jpg/500px-Regions_Bank_on_Thomasville_Road%2C_Tallahassee%2C_Florida.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Regions_Bank_on_Thomasville_Road,_Tallahassee,_Florida.jpg",
    "plain": true
   }
  ]

@@ -7,8 +7,24 @@
  ],
  "sector": "sector-energy",
  "target": 10,
- "fill_from": "sector-energy",
  "photos": [
+  {
+   "shows": "TotalEnergies petrol station in Saint-Antoine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/TotalEnergies_petrol_station_in_Saint-Antoine.jpg/1920px-TotalEnergies_petrol_station_in_Saint-Antoine.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/TotalEnergies_petrol_station_in_Saint-Antoine.jpg/500px-TotalEnergies_petrol_station_in_Saint-Antoine.jpg",
+   "size": [
+    1920,
+    1446
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Андрей Романенко, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TotalEnergies_petrol_station_in_Saint-Antoine.jpg"
+  },
   {
    "shows": "2094Calamba City Canlubang Roads Landmarks Barangays 41",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2094Calamba_City_Canlubang_Roads_Landmarks_Barangays_41.jpg/1920px-2094Calamba_City_Canlubang_Roads_Landmarks_Barangays_41.jpg",
@@ -97,6 +113,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:AERO_2025,_Friedrichshafen_(P1046811).jpg",
+   "plain": true
+  },
+  {
+   "shows": "2505Dau Pampanga Landmarks 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2505Dau_Pampanga_Landmarks_02.jpg/1920px-2505Dau_Pampanga_Landmarks_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/2505Dau_Pampanga_Landmarks_02.jpg/500px-2505Dau_Pampanga_Landmarks_02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Judgefloro, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2505Dau_Pampanga_Landmarks_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "7766Dau Central Pampanga 31",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/7766Dau_Central_Pampanga_31.jpg/1920px-7766Dau_Central_Pampanga_31.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/7766Dau_Central_Pampanga_31.jpg/500px-7766Dau_Central_Pampanga_31.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Judgefloro, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:7766Dau_Central_Pampanga_31.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aire de Beaune-Mercueil - essence",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aire_de_Beaune-Mercueil_-_essence.JPG/1920px-Aire_de_Beaune-Mercueil_-_essence.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aire_de_Beaune-Mercueil_-_essence.JPG/500px-Aire_de_Beaune-Mercueil_-_essence.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Benoît Prieur, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aire_de_Beaune-Mercueil_-_essence.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Total Rwebikoona",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Total_Rwebikoona.jpg/1280px-Total_Rwebikoona.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Total_Rwebikoona.jpg/500px-Total_Rwebikoona.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gumisirizafavor, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Total_Rwebikoona.jpg",
    "plain": true
   }
  ]

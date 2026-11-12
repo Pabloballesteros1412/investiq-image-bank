@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Seagate Headquarters Fremont",
@@ -149,6 +148,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Sign_in_front_of_Seagate%27s_headquarters_(they_make_storage_devices).jpg",
+   "plain": true
+  },
+  {
+   "shows": "HDD003 Vorderseite ST2000LM015-2E8174 2000,3 GB corr",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HDD003_Vorderseite_ST2000LM015-2E8174_2000%2C3_GB_20210218_corr.jpg/1280px-HDD003_Vorderseite_ST2000LM015-2E8174_2000%2C3_GB_20210218_corr.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HDD003_Vorderseite_ST2000LM015-2E8174_2000%2C3_GB_20210218_corr.jpg/500px-HDD003_Vorderseite_ST2000LM015-2E8174_2000%2C3_GB_20210218_corr.jpg",
+   "size": [
+    1280,
+    1881
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HDD003_Vorderseite_ST2000LM015-2E8174_2000,3_GB_20210218_corr.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Seagate Service Center at Guang Hua Digital Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20190112.jpg/1920px-Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20190112.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20190112.jpg/500px-Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20190112.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seagate_Service_Center_at_Guang_Hua_Digital_Plaza_20190112.jpg",
    "plain": true
   }
  ]

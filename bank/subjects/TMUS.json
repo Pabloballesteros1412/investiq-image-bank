@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 10,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "T-Mobile Headquarters in Bellevue, WA",
@@ -43,6 +42,23 @@
    "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/pink-and-purple-led-light-o-oqR_WmqJU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "T-Mobile, Thomasville, Georgia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/T-Mobile%2C_Thomasville%2C_Georgia.jpg/1920px-T-Mobile%2C_Thomasville%2C_Georgia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/T-Mobile%2C_Thomasville%2C_Georgia.jpg/500px-T-Mobile%2C_Thomasville%2C_Georgia.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:T-Mobile,_Thomasville,_Georgia.jpg"
   },
   {
    "shows": "Mike Sievert, T-Mobile US CEO (per Wikidata)",
@@ -133,6 +149,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:T-Mobile_US_Retail_Store_in_Waterbury,_CT.jpg",
+   "plain": true
+  },
+  {
+   "shows": "T-Mobile (Newington, Connecticut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/T-Mobile_%28Newington%2C_Connecticut%29_%2851583902259%29.jpg/1920px-T-Mobile_%28Newington%2C_Connecticut%29_%2851583902259%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/T-Mobile_%28Newington%2C_Connecticut%29_%2851583902259%29.jpg/500px-T-Mobile_%28Newington%2C_Connecticut%29_%2851583902259%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:T-Mobile_(Newington,_Connecticut)_(51583902259).jpg",
+   "plain": true
+  },
+  {
+   "shows": "T-Mobile store at Plaza Venezia shopping center - Orlando, Florida",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/T-Mobile_store_at_Plaza_Venezia_shopping_center_-_Orlando%2C_Florida.jpg/1920px-T-Mobile_store_at_Plaza_Venezia_shopping_center_-_Orlando%2C_Florida.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/T-Mobile_store_at_Plaza_Venezia_shopping_center_-_Orlando%2C_Florida.jpg/500px-T-Mobile_store_at_Plaza_Venezia_shopping_center_-_Orlando%2C_Florida.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:T-Mobile_store_at_Plaza_Venezia_shopping_center_-_Orlando,_Florida.jpg",
    "plain": true
   }
  ]

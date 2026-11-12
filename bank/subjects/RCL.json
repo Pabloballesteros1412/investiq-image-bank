@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Utopia of the Seas departing Port Canaveral, Florida",
@@ -43,6 +42,23 @@
    "author_url": "https://unsplash.com/@jonohirst?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-cruise-ship-is-docked-at-a-small-island-B_BcXW5UFjA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Brilliance of the seas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Brilliance_of_the_seas_%283%29.JPG/1920px-Brilliance_of_the_seas_%283%29.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Brilliance_of_the_seas_%283%29.JPG/500px-Brilliance_of_the_seas_%283%29.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bo Randstedt, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brilliance_of_the_seas_(3).JPG"
   },
   {
    "shows": "Royal Caribbean headquarters",
@@ -96,6 +112,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Silver_Nova_Royal_Caribbean_Group_Ensign_Port_of_Rhodes_11_September_2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Royal caribbean Terminal A at PortMiami (March 11, 2024)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Royal_caribbean_Terminal_A_at_PortMiami_%28March_11%2C_2024%29.jpg/1920px-Royal_caribbean_Terminal_A_at_PortMiami_%28March_11%2C_2024%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Royal_caribbean_Terminal_A_at_PortMiami_%28March_11%2C_2024%29.jpg/500px-Royal_caribbean_Terminal_A_at_PortMiami_%28March_11%2C_2024%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kiran891, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Royal_caribbean_Terminal_A_at_PortMiami_(March_11,_2024).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Barcelone - ESP - - Royal Carribean - « Enchantment of the Seas » (cheminée) © Anthony Levrot",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Barcelone_-_ESP_-_2023.07.03_-_Royal_Carribean_-_%C2%AB_Enchantment_of_the_Seas_%C2%BB_%28chemin%C3%A9e%29_%C2%A9_Anthony_Levrot.jpg/1920px-Barcelone_-_ESP_-_2023.07.03_-_Royal_Carribean_-_%C2%AB_Enchantment_of_the_Seas_%C2%BB_%28chemin%C3%A9e%29_%C2%A9_Anthony_Levrot.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Barcelone_-_ESP_-_2023.07.03_-_Royal_Carribean_-_%C2%AB_Enchantment_of_the_Seas_%C2%BB_%28chemin%C3%A9e%29_%C2%A9_Anthony_Levrot.jpg/500px-Barcelone_-_ESP_-_2023.07.03_-_Royal_Carribean_-_%C2%AB_Enchantment_of_the_Seas_%C2%BB_%28chemin%C3%A9e%29_%C2%A9_Anthony_Levrot.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Anthony Levrot, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Barcelone_-_ESP_-_2023.07.03_-_Royal_Carribean_-_%C2%AB_Enchantment_of_the_Seas_%C2%BB_(chemin%C3%A9e)_%C2%A9_Anthony_Levrot.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Explorer of the Seas pool deck",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Explorer_of_the_Seas_pool_deck.jpg/1920px-Explorer_of_the_Seas_pool_deck.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Explorer_of_the_Seas_pool_deck.jpg/500px-Explorer_of_the_Seas_pool_deck.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mitch Ames, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Explorer_of_the_Seas_pool_deck.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Royal Caribbean Cruises – Relax",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Royal_Caribbean_Cruises_%E2%80%93_Relax.jpg/1920px-Royal_Caribbean_Cruises_%E2%80%93_Relax.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Royal_Caribbean_Cruises_%E2%80%93_Relax.jpg/500px-Royal_Caribbean_Cruises_%E2%80%93_Relax.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gervacio Rosales, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Royal_Caribbean_Cruises_%E2%80%93_Relax.jpg",
    "plain": true
   }
  ]

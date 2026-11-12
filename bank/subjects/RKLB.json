@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "A National Reconnaissance Office (NRO) payload was successfully launched aboard a Rocket Lab Electron rocket from Launch Complex-1, Mahia Peninsula, New Zealand",
@@ -25,6 +24,40 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:200131-D-RQ659-0001.JPG"
+  },
+  {
+   "shows": "TROPICS - Rocket Vertical on Pad (KSC- -PH-NAS01 0001)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TROPICS_-_Rocket_Vertical_on_Pad_%28KSC-20230426-PH-NAS01_0001%29.jpg/1280px-TROPICS_-_Rocket_Vertical_on_Pad_%28KSC-20230426-PH-NAS01_0001%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TROPICS_-_Rocket_Vertical_on_Pad_%28KSC-20230426-PH-NAS01_0001%29.jpg/500px-TROPICS_-_Rocket_Vertical_on_Pad_%28KSC-20230426-PH-NAS01_0001%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Kennedy Space Center / Rocket Labs, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TROPICS_-_Rocket_Vertical_on_Pad_(KSC-20230426-PH-NAS01_0001).jpg"
+  },
+  {
+   "shows": "TROPICS Rocket Launch (KSC- -PH-RLS01 0001-reupload) ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TROPICS_Rocket_Launch_%28KSC-20230507-PH-RLS01_0001-reupload%29_%28cropped%29.jpg/1920px-TROPICS_Rocket_Launch_%28KSC-20230507-PH-RLS01_0001-reupload%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/TROPICS_Rocket_Launch_%28KSC-20230507-PH-RLS01_0001-reupload%29_%28cropped%29.jpg/500px-TROPICS_Rocket_Launch_%28KSC-20230507-PH-RLS01_0001-reupload%29_%28cropped%29.jpg",
+   "size": [
+    1920,
+    1441
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Kennedy Space Center / Rocket Lab, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TROPICS_Rocket_Launch_(KSC-20230507-PH-RLS01_0001-reupload)_(cropped).jpg"
   },
   {
    "shows": "CeREs VCLS CubeSat 0002",
@@ -60,6 +93,96 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Rocket_Lab_PREFIRE_and_Ice_Launch_(KSC-20240605-PH-RKL01_0005).jpg",
+   "plain": true
+  },
+  {
+   "shows": "KSC- -PH CSH01 0008",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/KSC-20180410-PH_CSH01_0008.jpg/1920px-KSC-20180410-PH_CSH01_0008.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/KSC-20180410-PH_CSH01_0008.jpg/500px-KSC-20180410-PH_CSH01_0008.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cory Huston, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:KSC-20180410-PH_CSH01_0008.jpg",
+   "plain": true
+  },
+  {
+   "shows": "STF-1 Measuring",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/STF-1_Measuring.jpg/1280px-STF-1_Measuring.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/STF-1_Measuring.jpg/500px-STF-1_Measuring.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cory Huston, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:STF-1_Measuring.jpg",
+   "plain": true
+  },
+  {
+   "shows": "TROPICS Encapsulation (KSC- -PH-NAS02 0001)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TROPICS_Encapsulation_%28KSC-20230426-PH-NAS02_0001%29.jpg/1920px-TROPICS_Encapsulation_%28KSC-20230426-PH-NAS02_0001%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TROPICS_Encapsulation_%28KSC-20230426-PH-NAS02_0001%29.jpg/500px-TROPICS_Encapsulation_%28KSC-20230426-PH-NAS02_0001%29.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Kennedy Space Center / Rocket Labs, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TROPICS_Encapsulation_(KSC-20230426-PH-NAS02_0001).jpg",
+   "plain": true
+  },
+  {
+   "shows": "TROPICS Wet Dress Rehearsal (KSC- -PH-NAS01-0002)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TROPICS_Wet_Dress_Rehearsal_%28KSC-20230501-PH-NAS01-0002%29.jpg/1280px-TROPICS_Wet_Dress_Rehearsal_%28KSC-20230501-PH-NAS01-0002%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TROPICS_Wet_Dress_Rehearsal_%28KSC-20230501-PH-NAS01-0002%29.jpg/500px-TROPICS_Wet_Dress_Rehearsal_%28KSC-20230501-PH-NAS01-0002%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Kennedy Space Center / Rocket Labs, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TROPICS_Wet_Dress_Rehearsal_(KSC-20230501-PH-NAS01-0002).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Rocket Lab Launch Complex 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rocket_Lab_Launch_Complex_1.jpg/1920px-Rocket_Lab_Launch_Complex_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Rocket_Lab_Launch_Complex_1.jpg/500px-Rocket_Lab_Launch_Complex_1.jpg",
+   "size": [
+    1920,
+    946
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Grumpy Eye, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rocket_Lab_Launch_Complex_1.jpg",
    "plain": true
   }
  ]

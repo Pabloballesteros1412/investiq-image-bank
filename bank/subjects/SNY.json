@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Paul Hudson, Sanofi CEO (per Wikidata)",
@@ -60,6 +59,132 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:450_Water_Street,_Cambridge_Crossing.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Sanofi Hangzhou 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sanofi_Hangzhou_02.jpg/1920px-Sanofi_Hangzhou_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sanofi_Hangzhou_02.jpg/500px-Sanofi_Hangzhou_02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Huandy618, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sanofi_Hangzhou_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A Sanofi pharmaceutical plant in Chattanooga, Tennessee 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_02.jpg/1920px-A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_02.jpg/500px-A_Sanofi_pharmaceutical_plant_in_Chattanooga%2C_Tennessee_02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Sanofi_pharmaceutical_plant_in_Chattanooga,_Tennessee_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Siège Sanofi à Gentilly",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg/1920px-Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg/500px-Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "LPLT, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_Sanofi_%C3%A0_Gentilly.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Sanofi, Lévai utcai kapu, 2019 Veresegyház",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sanofi%2C_L%C3%A9vai_utcai_kapu%2C_2019_Veresegyh%C3%A1z.jpg/1920px-Sanofi%2C_L%C3%A9vai_utcai_kapu%2C_2019_Veresegyh%C3%A1z.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sanofi%2C_L%C3%A9vai_utcai_kapu%2C_2019_Veresegyh%C3%A1z.jpg/500px-Sanofi%2C_L%C3%A9vai_utcai_kapu%2C_2019_Veresegyh%C3%A1z.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Globetrotter19, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sanofi,_L%C3%A9vai_utcai_kapu,_2019_Veresegyh%C3%A1z.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Metamizole 500mg-1ml vials yellow background",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Metamizole_500mg-1ml_vials_yellow_background.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Metamizole_500mg-1ml_vials_yellow_background.jpg/500px-Metamizole_500mg-1ml_vials_yellow_background.jpg",
+   "size": [
+    1632,
+    1368
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wesalius, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Metamizole_500mg-1ml_vials_yellow_background.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tercian drug",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tercian_drug.jpg/1920px-Tercian_drug.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tercian_drug.jpg/500px-Tercian_drug.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "No machine-readable author provided. Jeanml assumed (based on copyright claims)., public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tercian_drug.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mitte Alexanderufer Sanofi-Pasteur MSD",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mitte_Alexanderufer_Sanofi-Pasteur_MSD.JPG/1280px-Mitte_Alexanderufer_Sanofi-Pasteur_MSD.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mitte_Alexanderufer_Sanofi-Pasteur_MSD.JPG/500px-Mitte_Alexanderufer_Sanofi-Pasteur_MSD.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fridolin freudenfett, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mitte_Alexanderufer_Sanofi-Pasteur_MSD.JPG",
    "plain": true
   }
  ]

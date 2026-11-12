@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Target Corporation",
@@ -132,6 +131,60 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_downtown_Minneapolis_Target_Corporation_store_with_its_corporate_headquarters_tower_in_the_background,_Minneapolis,_Minnesota,_USA,_05-12-07.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Target Church Avenue Brooklyn in the Snow Jan 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Target_Church_Avenue_Brooklyn_in_the_Snow_Jan_2026.jpg/1920px-Target_Church_Avenue_Brooklyn_in_the_Snow_Jan_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Target_Church_Avenue_Brooklyn_in_the_Snow_Jan_2026.jpg/500px-Target_Church_Avenue_Brooklyn_in_the_Snow_Jan_2026.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wil540 art, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Target_Church_Avenue_Brooklyn_in_the_Snow_Jan_2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Target Gift Cards",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Target_Gift_Cards_%2849430532733%29.jpg/1920px-Target_Gift_Cards_%2849430532733%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Target_Gift_Cards_%2849430532733%29.jpg/500px-Target_Gift_Cards_%2849430532733%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mike Mozart from Funny YouTube, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Target_Gift_Cards_(49430532733).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Reusable cup return - November 2024 - Sarah Stierch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Reusable_cup_return_-_November_2024_-_Sarah_Stierch.jpg/1920px-Reusable_cup_return_-_November_2024_-_Sarah_Stierch.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Reusable_cup_return_-_November_2024_-_Sarah_Stierch.jpg/500px-Reusable_cup_return_-_November_2024_-_Sarah_Stierch.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Missvain, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Reusable_cup_return_-_November_2024_-_Sarah_Stierch.jpg",
    "plain": true
   }
  ]

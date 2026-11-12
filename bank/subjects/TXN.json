@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Texas Instruments Headquarters (TI)",
@@ -114,6 +113,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Bagmane_Tech_Park,_Bangalore_(2024)_103.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Texas Instruments Construction 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Texas_Instruments_Construction_2.jpg/1920px-Texas_Instruments_Construction_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Texas_Instruments_Construction_2.jpg/500px-Texas_Instruments_Construction_2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mds08011, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Construction_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Texas Instruments Tucson Construction",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_Instruments_Tucson_Construction.jpg/1920px-Texas_Instruments_Tucson_Construction.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_Instruments_Tucson_Construction.jpg/500px-Texas_Instruments_Tucson_Construction.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mds08011, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_Tucson_Construction.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Texas Instruments TI-30-II calculator",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Texas_Instruments_TI-30-II_calculator.jpg/1920px-Texas_Instruments_TI-30-II_calculator.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Texas_Instruments_TI-30-II_calculator.jpg/500px-Texas_Instruments_TI-30-II_calculator.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rich r, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_Instruments_TI-30-II_calculator.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Texas instruments, computer, TI99-4A, 1981",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Texas_instruments%2C_computer%2C_TI99-4A%2C_1981.jpg/1920px-Texas_instruments%2C_computer%2C_TI99-4A%2C_1981.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Texas_instruments%2C_computer%2C_TI99-4A%2C_1981.jpg/500px-Texas_instruments%2C_computer%2C_TI99-4A%2C_1981.jpg",
+   "size": [
+    1920,
+    1383
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sailko, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Texas_instruments,_computer,_TI99-4A,_1981.jpg",
    "plain": true
   }
  ]

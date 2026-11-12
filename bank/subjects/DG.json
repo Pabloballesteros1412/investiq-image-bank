@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "DG Market, Bartow GA",
@@ -43,6 +42,57 @@
    "author_url": "https://unsplash.com/@cam_ballard?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-dollar-general-store-lit-up-at-night-upq1JaXpIq8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Dollar General Market, FL 6, Hamilton County",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dollar_General_Market%2C_FL_6%2C_Hamilton_County.jpg/1920px-Dollar_General_Market%2C_FL_6%2C_Hamilton_County.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dollar_General_Market%2C_FL_6%2C_Hamilton_County.jpg/500px-Dollar_General_Market%2C_FL_6%2C_Hamilton_County.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dollar_General_Market,_FL_6,_Hamilton_County.jpg"
+  },
+  {
+   "shows": "DG market, Coosa GA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DG_market%2C_Coosa_GA.jpg/1920px-DG_market%2C_Coosa_GA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/DG_market%2C_Coosa_GA.jpg/500px-DG_market%2C_Coosa_GA.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DG_market,_Coosa_GA.jpg"
+  },
+  {
+   "shows": "DG Market, Union GA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/DG_Market%2C_Union_GA.jpg/1920px-DG_Market%2C_Union_GA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/DG_Market%2C_Union_GA.jpg/500px-DG_Market%2C_Union_GA.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DG_Market,_Union_GA.jpg"
   },
   {
    "shows": "Dollar General, North Waterboro ME",
@@ -114,6 +164,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Dollar_General_store_in_Durham,_California.jpg",
+   "plain": true
+  },
+  {
+   "shows": "DG Market, US19, Monticello",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DG_Market%2C_US19%2C_Monticello.jpg/1920px-DG_Market%2C_US19%2C_Monticello.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DG_Market%2C_US19%2C_Monticello.jpg/500px-DG_Market%2C_US19%2C_Monticello.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DG_Market,_US19,_Monticello.jpg",
    "plain": true
   }
  ]

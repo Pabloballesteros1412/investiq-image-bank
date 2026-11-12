@@ -62,6 +62,42 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:T%C3%B3park_Stra%C3%9Fe_9,_2024_T%C3%B6r%C3%B6kb%C3%A1lint_8.jpg",
    "plain": true
+  },
+  {
+   "shows": "Xylem Visitor Center, Lindås",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Xylem_02.jpg/1920px-Xylem_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Xylem_02.jpg/500px-Xylem_02.jpg",
+   "size": [
+    1920,
+    1209
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bernt Fransson,Lindås, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Xylem_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Flygt propellerpumpar",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flygt_propellerpumpar.jpg/1920px-Flygt_propellerpumpar.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flygt_propellerpumpar.jpg/500px-Flygt_propellerpumpar.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Magnus Ångman, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Flygt_propellerpumpar.jpg",
+   "plain": true
   }
  ]
 }

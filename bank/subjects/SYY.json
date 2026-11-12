@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Sysco Corporation Headquarters - Houston, Texas",
@@ -113,6 +112,78 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Sysco_Food_Service_Truck_-_Pallet_Delivery_(49539528381).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Conti Street French Quarter New Orleans Feb 2019 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Conti_Street_French_Quarter_New_Orleans_Feb_2019_02.jpg/1280px-Conti_Street_French_Quarter_New_Orleans_Feb_2019_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Conti_Street_French_Quarter_New_Orleans_Feb_2019_02.jpg/500px-Conti_Street_French_Quarter_New_Orleans_Feb_2019_02.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Infrogmation of New Orleans, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Conti_Street_French_Quarter_New_Orleans_Feb_2019_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "New Orleans Central Business District, August 2021 - 44",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/New_Orleans_Central_Business_District%2C_August_2021_-_44.jpg/1920px-New_Orleans_Central_Business_District%2C_August_2021_-_44.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/New_Orleans_Central_Business_District%2C_August_2021_-_44.jpg/500px-New_Orleans_Central_Business_District%2C_August_2021_-_44.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Infrogmation of New Orleans, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:New_Orleans_Central_Business_District,_August_2021_-_44.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Sysco (Sysco trucks)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/SyscoTruck.jpg/1920px-SyscoTruck.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/SyscoTruck.jpg/500px-SyscoTruck.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SyscoTruck.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Two Sysco Semi Trucks",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Two_Sysco_Semi_Trucks.jpg/1920px-Two_Sysco_Semi_Trucks.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Two_Sysco_Semi_Trucks.jpg/500px-Two_Sysco_Semi_Trucks.jpg",
+   "size": [
+    1920,
+    1339
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "X4nMan20Oo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Two_Sysco_Semi_Trucks.jpg",
    "plain": true
   }
  ]

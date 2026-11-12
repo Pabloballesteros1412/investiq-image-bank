@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Bob Jordan, Southwest Airlines CEO (per Wikidata)",
@@ -151,6 +150,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Corporate_Office_-_Dallas_-_Texas.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aircraft Cabin 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aircraft_Cabin_1_2019-11-28.jpg/1920px-Aircraft_Cabin_1_2019-11-28.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aircraft_Cabin_1_2019-11-28.jpg/500px-Aircraft_Cabin_1_2019-11-28.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "F ASTILY, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aircraft_Cabin_1_2019-11-28.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Southwest Airlines Lone Star One livery Boeing 737-8H4 MSN 36654/LN 5273 Los Angeles International Airport (LAX/KLAX) 5.17.26",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/N8660A.jpg/1920px-N8660A.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/N8660A.jpg/500px-N8660A.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Liam Thompson, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:N8660A.jpg",
    "plain": true
   }
  ]

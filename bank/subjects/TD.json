@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "TD Bank Branch in Beaverton, Ontario, September 3 2026",
@@ -45,6 +44,23 @@
    "source": "https://unsplash.com/photos/a-brick-building-with-a-green-door-2TGZoz86NEY?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "TD branch, Wallaceburg, Ontario",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TD_branch%2C_Wallaceburg%2C_Ontario%2C_2026-07-19.jpg/1920px-TD_branch%2C_Wallaceburg%2C_Ontario%2C_2026-07-19.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TD_branch%2C_Wallaceburg%2C_Ontario%2C_2026-07-19.jpg/500px-TD_branch%2C_Wallaceburg%2C_Ontario%2C_2026-07-19.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Woodrich, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TD_branch,_Wallaceburg,_Ontario,_2026-07-19.jpg"
+  },
+  {
    "shows": "New York City COVID19 Images April 16, 2020",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg/1920px-New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg/500px-New_York_City_COVID19_Images_April_16%2C_2020_-_49784723461.jpg",
@@ -60,6 +76,114 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:New_York_City_COVID19_Images_April_16,_2020_-_49784723461.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Toronto Financial District",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Toronto_Financial_District.jpg/1920px-Toronto_Financial_District.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Toronto_Financial_District.jpg/500px-Toronto_Financial_District.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gregory Karastergios, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Toronto_Financial_District.jpg",
+   "plain": true
+  },
+  {
+   "shows": "NW corner of Bloor and Sherbourne, 2022 11 12",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NW_corner_of_Bloor_and_Sherbourne%2C_2022_11_12_%2852494729112%29.jpg/1920px-NW_corner_of_Bloor_and_Sherbourne%2C_2022_11_12_%2852494729112%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NW_corner_of_Bloor_and_Sherbourne%2C_2022_11_12_%2852494729112%29.jpg/500px-NW_corner_of_Bloor_and_Sherbourne%2C_2022_11_12_%2852494729112%29.jpg",
+   "size": [
+    1920,
+    1446
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Geo Swan from Toronto, Canada, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NW_corner_of_Bloor_and_Sherbourne,_2022_11_12_(52494729112).jpg",
+   "plain": true
+  },
+  {
+   "shows": "TD Bank, Petrolia, Ontario",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TD_Bank%2C_Petrolia%2C_Ontario%2C_2026-05-17.jpg/1920px-TD_Bank%2C_Petrolia%2C_Ontario%2C_2026-05-17.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/TD_Bank%2C_Petrolia%2C_Ontario%2C_2026-05-17.jpg/500px-TD_Bank%2C_Petrolia%2C_Ontario%2C_2026-05-17.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Woodrich, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TD_Bank,_Petrolia,_Ontario,_2026-05-17.jpg",
+   "plain": true
+  },
+  {
+   "shows": "TD Canada Trust branch, Amherstburg, Ontario",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TD_Canada_Trust_branch%2C_Amherstburg%2C_Ontario%2C_2025-06-01.jpg/1920px-TD_Canada_Trust_branch%2C_Amherstburg%2C_Ontario%2C_2025-06-01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TD_Canada_Trust_branch%2C_Amherstburg%2C_Ontario%2C_2025-06-01.jpg/500px-TD_Canada_Trust_branch%2C_Amherstburg%2C_Ontario%2C_2025-06-01.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Crisco 1492, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TD_Canada_Trust_branch,_Amherstburg,_Ontario,_2025-06-01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "TD Canada Trust, Windsor, Ontario",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TD_Canada_Trust%2C_Windsor%2C_Ontario%2C_2026-08-07.jpg/1920px-TD_Canada_Trust%2C_Windsor%2C_Ontario%2C_2026-08-07.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TD_Canada_Trust%2C_Windsor%2C_Ontario%2C_2026-08-07.jpg/500px-TD_Canada_Trust%2C_Windsor%2C_Ontario%2C_2026-08-07.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Woodrich, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TD_Canada_Trust,_Windsor,_Ontario,_2026-08-07.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Main St Booth Memorial td 08 - TD Bank",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Main_St_Booth_Memorial_td_08_-_TD_Bank.jpg/1280px-Main_St_Booth_Memorial_td_08_-_TD_Bank.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Main_St_Booth_Memorial_td_08_-_TD_Bank.jpg/500px-Main_St_Booth_Memorial_td_08_-_TD_Bank.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Main_St_Booth_Memorial_td_08_-_TD_Bank.jpg",
    "plain": true
   }
  ]

@@ -8,5 +8,24 @@
  "sector": "sector-health",
  "target": 10,
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "West Pharmaceutical Services in Eschweiler - Pumpe-Stich , Produktionsgebäude mit Firmenlogo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Ew-gummiwest2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ew-gummiwest2.jpg/500px-Ew-gummiwest2.jpg",
+   "size": [
+    1851,
+    1137
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eschweiler, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ew-gummiwest2.jpg",
+   "plain": true
+  }
+ ]
 }

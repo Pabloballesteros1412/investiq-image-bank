@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Sergio Ermotti, UBS CEO (per Wikidata)",
@@ -97,6 +96,96 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:UBS_office_at_Hyderabad.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Europaallee UBS",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Europaallee_UBS.jpg/1920px-Europaallee_UBS.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Europaallee_UBS.jpg/500px-Europaallee_UBS.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Katja Hottingen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Europaallee_UBS.jpg",
+   "plain": true
+  },
+  {
+   "shows": "UBS Bank Branch in Badenerstrasse 678 Altstetten, Zürich (Ank Kumar, Infosys Limited) 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/UBS_Bank_Branch_in_Badenerstrasse_678_Altstetten%2C_Z%C3%BCrich_%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg/1920px-UBS_Bank_Branch_in_Badenerstrasse_678_Altstetten%2C_Z%C3%BCrich_%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/UBS_Bank_Branch_in_Badenerstrasse_678_Altstetten%2C_Z%C3%BCrich_%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg/500px-UBS_Bank_Branch_in_Badenerstrasse_678_Altstetten%2C_Z%C3%BCrich_%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg",
+   "size": [
+    1920,
+    1373
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:UBS_Bank_Branch_in_Badenerstrasse_678_Altstetten,_Z%C3%BCrich_(Ank_Kumar,_Infosys_Limited)_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "UBS Chicago North Wacker",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/UBS_Chicago_North_Wacker.jpg/1920px-UBS_Chicago_North_Wacker.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/UBS_Chicago_North_Wacker.jpg/500px-UBS_Chicago_North_Wacker.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DonSpencer1, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:UBS_Chicago_North_Wacker.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eingang UBS St. Gallen",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Eingang_UBS_St._Gallen_%282026%29.jpg/1280px-Eingang_UBS_St._Gallen_%282026%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Eingang_UBS_St._Gallen_%282026%29.jpg/500px-Eingang_UBS_St._Gallen_%282026%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eingang_UBS_St._Gallen_(2026).jpg",
+   "plain": true
+  },
+  {
+   "shows": "UBS Tower Nashville from Public Square Park",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/UBS_Tower_Nashville_from_Public_Square_Park.JPG/1920px-UBS_Tower_Nashville_from_Public_Square_Park.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/UBS_Tower_Nashville_from_Public_Square_Park.JPG/500px-UBS_Tower_Nashville_from_Public_Square_Park.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:UBS_Tower_Nashville_from_Public_Square_Park.JPG",
    "plain": true
   }
  ]
