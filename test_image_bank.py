@@ -571,7 +571,7 @@ class Brands(unittest.TestCase):
 class Targets(unittest.TestCase):
     def test_a_topic_shares_its_target_over_its_shots_best_first(self):
         src = Fake()
-        src.search = lambda q: [cand(f"File:{q} {w}.jpg") for w in ("dawn", "noon", "dusk", "night", "rain")]
+        src.search = lambda q: [cand(f"File:{q} {w}.jpg", cats=["Quality images"]) for w in ("dawn", "noon", "dusk", "night", "rain")]
         s = {"id": "t", "kind": "topic", "shots": [B.norm_shot("gold bars"), B.norm_shot("gold coins")]}
         ph, missing = B.shot_photos(s, src, set(), target=6)
         self.assertEqual([p["shot"] for p in ph], ["gold-bars", "gold-coins"] * 3)      # round robin
@@ -580,6 +580,17 @@ class Targets(unittest.TestCase):
         self.assertEqual(B.target_of({"kind": "topic"}), B.TOPIC_TARGET)
         self.assertEqual(B.target_of({"kind": "company"}), B.TARGET)
         self.assertEqual(B.target_of({"kind": "company", "target": 30}), 30)
+
+    def test_after_the_first_round_commons_photos_need_a_quality_mark(self):
+        src = Fake()
+        src.search = lambda q: [cand(f"File:{q} dawn.jpg"), cand(f"File:{q} noon.jpg"),
+                                cand(f"File:{q} dusk.jpg", cats=["Quality images of gold"])]
+        s = {"id": "t", "kind": "topic", "shots": [B.norm_shot("gold bars")]}
+        ph, _ = B.shot_photos(s, src, set(), target=3)
+        self.assertEqual([p["file"] for p in ph], ["File:gold bars dusk.jpg"])         # the unmarked two stay out
+        src.search = lambda q: [cand(f"File:{q} dawn.jpg"), cand(f"File:{q} dusk.jpg", cats=["Quality images of gold"])]
+        ph, _ = B.shot_photos(s, src, set(), target=1)
+        self.assertEqual(len(ph), 1)                                                    # round one takes any
 
     def test_three_stock_photos_per_photographer_at_most(self):
         st = FakeStock()

@@ -73,6 +73,7 @@ BASE_URL = "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-imag
 TARGET = 10                           # photos per company
 FAMOUS_TARGET = 30                    # photos per well-known company (the companies with a hand-written catalog entry)
 TOPIC_TARGET = 50                     # photos per market topic and GICS sector
+QUALITY = re.compile(r"\b(featured pictures|quality images|valued images)\b", re.I)
 RESERVE_GRADE = 2                     # a company's plain Commons photos fill the places its better ones leave free
 HAND = "hand-picked"                  # 'how' of photos found by a hand search and graded by eye: a rebuild keeps them
 SEARCH_ROOM = 3                       # places a company's Commons category leaves for photos found by search
@@ -1016,7 +1017,9 @@ def brand_photos(c, brands, src, used, n, exclude=(), n_queries=BRAND_QUERIES):
 def shot_photos(s, src, used, no_sa=False, exclude=(), target=None):
     """The photos of a topic or sector: (photos, ids of shots without a photo). Its target (50) is shared out
     over its hand-written shots: the best photo of each shot first, then the second best of each, and so on, at
-    most three stock photos by the same photographer and none twice from one shoot (same file stem)."""
+    most three stock photos by the same photographer and none twice from one shoot (same file stem). After the
+    first round a Commons photo needs a quality mark (featured, quality or valued image): only about 7% of the
+    others pass the review."""
     target = target or s.get("target") or TOPIC_TARGET
     per_shot = -(-target // max(1, len(s["shots"])))
     ranked = []
@@ -1031,6 +1034,8 @@ def shot_photos(s, src, used, no_sa=False, exclude=(), target=None):
             for c in cands:
                 a = c.get("author") if c.get("provider") in STOCK else None  # one Unsplash shoot: many look-alikes
                 if c["file"] in used or stem(c["file"]) in stems or (a and per_author.get(a, 0) >= 3):
+                    continue
+                if rnd and c.get("provider") not in STOCK and not QUALITY.search(" ".join(c["categories"])):
                     continue
                 focus = sh.get("focus") or (PERSON_FOCUS if sh.get("person") else (0.5, 0.5))
                 picks.append(photo(c, sh["id"], describe(c, sh["scene"]), "catalog", focus, sh.get("person")))
