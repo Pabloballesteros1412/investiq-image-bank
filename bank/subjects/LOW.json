@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Lowe’s, Chico -L1000836",
@@ -44,6 +43,57 @@
    "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s_Home_Improvement_Store_(48614532991).jpg"
   },
   {
+   "shows": "Lowe's (Bloomfield, Connecticut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lowe%27s_%28Bloomfield%2C_Connecticut%29_%2851686567342%29.jpg/1920px-Lowe%27s_%28Bloomfield%2C_Connecticut%29_%2851686567342%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lowe%27s_%28Bloomfield%2C_Connecticut%29_%2851686567342%29.jpg/500px-Lowe%27s_%28Bloomfield%2C_Connecticut%29_%2851686567342%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s_(Bloomfield,_Connecticut)_(51686567342).jpg"
+  },
+  {
+   "shows": "Lowe's Home Improvement Retail Store",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lowe%27s_Home_Improvement_Retail_Store_%2844374442721%29.jpg/1920px-Lowe%27s_Home_Improvement_Retail_Store_%2844374442721%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lowe%27s_Home_Improvement_Retail_Store_%2844374442721%29.jpg/500px-Lowe%27s_Home_Improvement_Retail_Store_%2844374442721%29.jpg",
+   "size": [
+    1920,
+    1211
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s_Home_Improvement_Retail_Store_(44374442721).jpg"
+  },
+  {
+   "shows": "Lowe's - Brandywine Town Center Wilmington, DE August 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lowe%27s_-_Brandywine_Town_Center_Wilmington%2C_DE_August_2018_%2843841551705%29.jpg/1920px-Lowe%27s_-_Brandywine_Town_Center_Wilmington%2C_DE_August_2018_%2843841551705%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lowe%27s_-_Brandywine_Town_Center_Wilmington%2C_DE_August_2018_%2843841551705%29.jpg/500px-Lowe%27s_-_Brandywine_Town_Center_Wilmington%2C_DE_August_2018_%2843841551705%29.jpg",
+   "size": [
+    1920,
+    2056
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mike Kalasnik from Jersey City, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s_-_Brandywine_Town_Center_Wilmington,_DE_August_2018_(43841551705).jpg"
+  },
+  {
    "shows": "A Lowe's store in Murphy, North Carolina",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/A_Lowe%27s_store_in_Murphy%2C_North_Carolina.jpg/1920px-A_Lowe%27s_store_in_Murphy%2C_North_Carolina.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/A_Lowe%27s_store_in_Murphy%2C_North_Carolina.jpg/500px-A_Lowe%27s_store_in_Murphy%2C_North_Carolina.jpg",
@@ -77,6 +127,60 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s_store_in_Antioch,_California.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lowe's (Newington, Connecticut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lowe%27s_%28Newington%2C_Connecticut%29_%2851584141840%29.jpg/1920px-Lowe%27s_%28Newington%2C_Connecticut%29_%2851584141840%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lowe%27s_%28Newington%2C_Connecticut%29_%2851584141840%29.jpg/500px-Lowe%27s_%28Newington%2C_Connecticut%29_%2851584141840%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s_(Newington,_Connecticut)_(51584141840).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lowe's (Waterford, Connecticut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lowe%27s_%28Waterford%2C_Connecticut%29_%2839359754584%29.jpg/1920px-Lowe%27s_%28Waterford%2C_Connecticut%29_%2839359754584%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lowe%27s_%28Waterford%2C_Connecticut%29_%2839359754584%29.jpg/500px-Lowe%27s_%28Waterford%2C_Connecticut%29_%2839359754584%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s_(Waterford,_Connecticut)_(39359754584).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lowe's, Commonwealth Boulevard, Tallahassee",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lowe%27s%2C_Commonwealth_Boulevard%2C_Tallahassee.jpg/1920px-Lowe%27s%2C_Commonwealth_Boulevard%2C_Tallahassee.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Lowe%27s%2C_Commonwealth_Boulevard%2C_Tallahassee.jpg/500px-Lowe%27s%2C_Commonwealth_Boulevard%2C_Tallahassee.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mjrmtg, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lowe%27s,_Commonwealth_Boulevard,_Tallahassee.jpg",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "A cruise ship in a harbor with mountains in the background",
@@ -26,6 +25,91 @@
    "author_url": "https://unsplash.com/@marcotjokro?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-cruise-ship-in-a-harbor-with-mountains-in-the-background-GfQJfcIpR4E?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Carnival Liberty at Port Canaveral",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Carnival_Liberty_at_Port_Canaveral.jpg/1920px-Carnival_Liberty_at_Port_Canaveral.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Carnival_Liberty_at_Port_Canaveral.jpg/500px-Carnival_Liberty_at_Port_Canaveral.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Keiteay, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnival_Liberty_at_Port_Canaveral.jpg"
+  },
+  {
+   "shows": "Christine Duffy",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Christine_Duffy_%2854099786101%29.jpg/1920px-Christine_Duffy_%2854099786101%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Christine_Duffy_%2854099786101%29.jpg/500px-Christine_Duffy_%2854099786101%29.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Maryland GovPics, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Christine_Duffy_(54099786101).jpg"
+  },
+  {
+   "shows": "Carnival Breeze",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Carnival_Breeze_%2850044322377%29.jpg/1920px-Carnival_Breeze_%2850044322377%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Carnival_Breeze_%2850044322377%29.jpg/500px-Carnival_Breeze_%2850044322377%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Andrew Bone from Weymouth, England, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnival_Breeze_(50044322377).jpg"
+  },
+  {
+   "shows": "Carnival Dream Key West 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Carnival_Dream_Key_West_2022.jpg/1920px-Carnival_Dream_Key_West_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Carnival_Dream_Key_West_2022.jpg/500px-Carnival_Dream_Key_West_2022.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Larry D. Moore, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnival_Dream_Key_West_2022.jpg"
+  },
+  {
+   "shows": "Carnival Magic Jan 22 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Carnival_Magic_Jan_22_2023.jpg/1920px-Carnival_Magic_Jan_22_2023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Carnival_Magic_Jan_22_2023.jpg/500px-Carnival_Magic_Jan_22_2023.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Master0Garfield, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnival_Magic_Jan_22_2023.jpg"
   },
   {
    "shows": "Carnival Place, Carnival Corporation and Carnival Cruise Line headquarters in Doral, Florida . Photographed by user Coolcaesar on January 20 , 2008 .",
@@ -61,6 +145,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Cruise_Ships_In_Port_Everglades_Hollywood_Florida.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Carnival Miracle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carnival_Miracle.jpg/1920px-Carnival_Miracle.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Carnival_Miracle.jpg/500px-Carnival_Miracle.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sergey Yarmolyuk, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnival_Miracle.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Carnival Freedom 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Carnival_Freedom_2024.jpg/1920px-Carnival_Freedom_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Carnival_Freedom_2024.jpg/500px-Carnival_Freedom_2024.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Larry D. Moore, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carnival_Freedom_2024.jpg",
    "plain": true
   }
  ]

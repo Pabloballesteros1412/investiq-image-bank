@@ -80,6 +80,24 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Atrium_of_AirBnB_Headquarters_at_888_Brannan_St,_San_Francisco.jpg",
    "plain": true
+  },
+  {
+   "shows": "An Airbnb office in Toronto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AirbnbToronto.jpg/1920px-AirbnbToronto.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AirbnbToronto.jpg/500px-AirbnbToronto.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AirbnbToronto.jpg",
+   "plain": true
   }
  ]
 }

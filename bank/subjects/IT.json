@@ -26,6 +26,24 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Gartner_headquarters_cropped.jpg",
    "plain": true
+  },
+  {
+   "shows": "Gartner headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gartner_headquarters.jpg/1920px-Gartner_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gartner_headquarters.jpg/500px-Gartner_headquarters.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar at English Wikipedia ., CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gartner_headquarters.jpg",
+   "plain": true
   }
  ]
 }

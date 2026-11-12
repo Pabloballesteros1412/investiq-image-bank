@@ -10,6 +10,23 @@
  "fill_from": "sector-communication",
  "photos": [
   {
+   "shows": "Charter Spectrum Headquarters ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Charter_Spectrum_Headquarters_%28cropped%29.jpg/1280px-Charter_Spectrum_Headquarters_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Charter_Spectrum_Headquarters_%28cropped%29.jpg/500px-Charter_Spectrum_Headquarters_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1660
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "AirportExpert, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Charter_Spectrum_Headquarters_(cropped).jpg"
+  },
+  {
    "shows": "Charter Communications HQ Stamford",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Charter_Communications_HQ_Stamford.jpg/1920px-Charter_Communications_HQ_Stamford.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Charter_Communications_HQ_Stamford.jpg/500px-Charter_Communications_HQ_Stamford.jpg",
@@ -115,6 +132,24 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Charter_Spectrum_vehicle_NYC.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Charter Communications HQ Stamford ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Charter_Communications_HQ_Stamford_%28cropped%29.jpg/1920px-Charter_Communications_HQ_Stamford_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Charter_Communications_HQ_Stamford_%28cropped%29.jpg/500px-Charter_Communications_HQ_Stamford_%28cropped%29.jpg",
+   "size": [
+    1920,
+    2182
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "AirportExpert, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Charter_Communications_HQ_Stamford_(cropped).jpg",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Capital One World Headquarters",
@@ -42,6 +41,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Capital_One_Tower_-_New_Orleans.jpg"
+  },
+  {
+   "shows": "Capital One Center 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capital_One_Center_01.jpg/1280px-Capital_One_Center_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Capital_One_Center_01.jpg/500px-Capital_One_Center_01.jpg",
+   "size": [
+    1280,
+    1637
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dclemens1971, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Capital_One_Center_01.jpg"
   },
   {
    "shows": "Capital One Bank 4825 Cordell Ave Bethesda MD 08-47-49 1",
@@ -149,6 +165,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Capital_One_Headquarters_(53890423203).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Capital One Cafe Brickell, Miami Florida October 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Capital_One_Cafe_Brickell%2C_Miami_Florida_October_2022.jpg/1920px-Capital_One_Cafe_Brickell%2C_Miami_Florida_October_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Capital_One_Cafe_Brickell%2C_Miami_Florida_October_2022.jpg/500px-Capital_One_Cafe_Brickell%2C_Miami_Florida_October_2022.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Capital_One_Cafe_Brickell,_Miami_Florida_October_2022.jpg",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
   {
    "shows": "Coal power plant by Portage, Wisconsin",
@@ -25,6 +24,23 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Coal_power_plant_by_Portage,_Wisconsin.jpg"
+  },
+  {
+   "shows": "Riverside Energy Center 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Riverside_Energy_Center_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Riverside_Energy_Center_2.jpg/500px-Riverside_Energy_Center_2.jpg",
+   "size": [
+    1608,
+    1107
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dual Freq, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Riverside_Energy_Center_2.jpg"
   },
   {
    "shows": "The w:Allaint Energy coal power plant in w:Sheboygan, Wisconsin , USA.",
@@ -114,6 +130,60 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Columbia_Energy_Center_-_panoramio_(1).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Sheboygan June 2025 006 (Edgewater Generating Station)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sheboygan_June_2025_006_%28Edgewater_Generating_Station%29.jpg/1920px-Sheboygan_June_2025_006_%28Edgewater_Generating_Station%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sheboygan_June_2025_006_%28Edgewater_Generating_Station%29.jpg/500px-Sheboygan_June_2025_006_%28Edgewater_Generating_Station%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Sheboygan_June_2025_006_(Edgewater_Generating_Station).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Columbia Energy Center - panoramio - Corey Coyle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Columbia_Energy_Center_-_panoramio_-_Corey_Coyle_%281%29.jpg/1920px-Columbia_Energy_Center_-_panoramio_-_Corey_Coyle_%281%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Columbia_Energy_Center_-_panoramio_-_Corey_Coyle_%281%29.jpg/500px-Columbia_Energy_Center_-_panoramio_-_Corey_Coyle_%281%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Corey Coyle, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Columbia_Energy_Center_-_panoramio_-_Corey_Coyle_(1).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Columbia Energy Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Columbia_Energy_Center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Columbia_Energy_Center.jpg/500px-Columbia_Energy_Center.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Royalbroil, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Columbia_Energy_Center.jpg",
    "plain": true
   }
  ]

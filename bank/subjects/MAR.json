@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Marriott Headquarters",
@@ -79,6 +78,23 @@
    "source": "https://unsplash.com/photos/marriott-hotel-logo-on-a-textured-wall-EYTMKjyJrDM?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Marriott Intl HQ - August 2022c",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Marriott_Intl_HQ_-_August_2022c.jpg/1920px-Marriott_Intl_HQ_-_August_2022c.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Marriott_Intl_HQ_-_August_2022c.jpg/500px-Marriott_Intl_HQ_-_August_2022c.jpg",
+   "size": [
+    1920,
+    1395
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Moreau1, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marriott_Intl_HQ_-_August_2022c.jpg"
+  },
+  {
    "shows": "MEA Sukhumvit Park Bangkok",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MEA_Sukhumvit_Park_Bangkok.jpg/1280px-MEA_Sukhumvit_Park_Bangkok.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MEA_Sukhumvit_Park_Bangkok.jpg/500px-MEA_Sukhumvit_Park_Bangkok.jpg",
@@ -130,6 +146,42 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Marriott_Intl_HQ_-_August_2022a_-_Crop.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Courtyard by Marriott Sedona - Resort Hotel",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Courtyard_by_Marriott_Sedona_-_Resort_Hotel.jpg/1920px-Courtyard_by_Marriott_Sedona_-_Resort_Hotel.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Courtyard_by_Marriott_Sedona_-_Resort_Hotel.jpg/500px-Courtyard_by_Marriott_Sedona_-_Resort_Hotel.jpg",
+   "size": [
+    1920,
+    1304
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Courtyard_by_Marriott_Sedona_-_Resort_Hotel.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Courtyard by Marriott Westbury Long Island",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Courtyard_by_Marriott_Westbury_Long_Island.jpg/1920px-Courtyard_by_Marriott_Westbury_Long_Island.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Courtyard_by_Marriott_Westbury_Long_Island.jpg/500px-Courtyard_by_Marriott_Westbury_Long_Island.jpg",
+   "size": [
+    1920,
+    1370
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Courtyard_by_Marriott_Westbury_Long_Island.jpg",
    "plain": true
   }
  ]

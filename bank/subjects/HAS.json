@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Hasbro, Inc. world headquarters Pawtucket",
@@ -131,6 +130,60 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Hasbro_world_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hasbro booth",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hasbro_booth_%2835951275182%29.jpg/1920px-Hasbro_booth_%2835951275182%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hasbro_booth_%2835951275182%29.jpg/500px-Hasbro_booth_%2835951275182%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gage Skidmore from Peoria, AZ, United States of America, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hasbro_booth_(35951275182).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hasbro my little pony booth sdcc 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hasbro_my_little_pony_booth_sdcc_2011.jpg/1280px-Hasbro_my_little_pony_booth_sdcc_2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hasbro_my_little_pony_booth_sdcc_2011.jpg/500px-Hasbro_my_little_pony_booth_sdcc_2011.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mooshuu from San Diego, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hasbro_my_little_pony_booth_sdcc_2011.jpg",
+   "plain": true
+  },
+  {
+   "shows": "BotCon 2011 - Hasbro KRE-O booth Optimus Prime statue",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/BotCon_2011_-_Hasbro_KRE-O_booth_Optimus_Prime_statue_%285802062347%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BotCon_2011_-_Hasbro_KRE-O_booth_Optimus_Prime_statue_%285802062347%29.jpg/500px-BotCon_2011_-_Hasbro_KRE-O_booth_Optimus_Prime_statue_%285802062347%29.jpg",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BotCon_2011_-_Hasbro_KRE-O_booth_Optimus_Prime_statue_(5802062347).jpg",
    "plain": true
   }
  ]

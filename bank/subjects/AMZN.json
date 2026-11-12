@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 30,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Amazon Spheres 2018",
@@ -116,6 +115,57 @@
    "source": "https://unsplash.com/photos/an-amazon-prime-box-sitting-on-the-ground-OO1ymr3nH9w?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "AWS - Amazon Web Services Office in Houston, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/AWS_-_Amazon_Web_Services_Office_in_Houston%2C_Texas_%2846600198075%29.jpg/1920px-AWS_-_Amazon_Web_Services_Office_in_Houston%2C_Texas_%2846600198075%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/AWS_-_Amazon_Web_Services_Office_in_Houston%2C_Texas_%2846600198075%29.jpg/500px-AWS_-_Amazon_Web_Services_Office_in_Houston%2C_Texas_%2846600198075%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AWS_-_Amazon_Web_Services_Office_in_Houston,_Texas_(46600198075).jpg"
+  },
+  {
+   "shows": "Amazon Hyderabad Campus",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Amazon_Hyderabad_Campus.jpg/1920px-Amazon_Hyderabad_Campus.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Amazon_Hyderabad_Campus.jpg/500px-Amazon_Hyderabad_Campus.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kavali Chandrakanth KCK, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Hyderabad_Campus.jpg"
+  },
+  {
+   "shows": "Looking east from Park Avenue South at Amazon Go entrance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Go_315C_Pk_Av_So_2021.jpg/1920px-Amazon_Go_315C_Pk_Av_So_2021.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amazon_Go_315C_Pk_Av_So_2021.jpg/500px-Amazon_Go_315C_Pk_Av_So_2021.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim.henderson, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Go_315C_Pk_Av_So_2021.jpg"
+  },
+  {
    "shows": "Amazon fulfillment center - Troutdale Oregon",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amazon_fulfillment_center_-_Troutdale_Oregon.jpg/1920px-Amazon_fulfillment_center_-_Troutdale_Oregon.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amazon_fulfillment_center_-_Troutdale_Oregon.jpg/500px-Amazon_fulfillment_center_-_Troutdale_Oregon.jpg",
@@ -186,6 +236,312 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Amazon_Easy-Amazon_Store_Kesamudram_-_Kesamudram-_Freedom_Sales-_indiabuys_store_Kesamudram.jpg",
+   "plain": true
+  },
+  {
+   "shows": "BRS2 Amazon fulfilment centre drive unit robot",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BRS2_Amazon_fulfilment_centre_drive_unit_robot.jpg/1920px-BRS2_Amazon_fulfilment_centre_drive_unit_robot.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BRS2_Amazon_fulfilment_centre_drive_unit_robot.jpg/500px-BRS2_Amazon_fulfilment_centre_drive_unit_robot.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Auledas, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BRS2_Amazon_fulfilment_centre_drive_unit_robot.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon Hub at Apartment Building in Washington DC",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Amazon_Hub_at_Apartment_Building_in_Washington_DC.jpg/1920px-Amazon_Hub_at_Apartment_Building_in_Washington_DC.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Amazon_Hub_at_Apartment_Building_in_Washington_DC.jpg/500px-Amazon_Hub_at_Apartment_Building_in_Washington_DC.jpg",
+   "size": [
+    1920,
+    1252
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Hub_at_Apartment_Building_in_Washington_DC.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon Prime Rewards Card",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Amazon_Prime_Rewards_Card_%2832861518627%29.jpg/1920px-Amazon_Prime_Rewards_Card_%2832861518627%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Amazon_Prime_Rewards_Card_%2832861518627%29.jpg/500px-Amazon_Prime_Rewards_Card_%2832861518627%29.jpg",
+   "size": [
+    1920,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Prime_Rewards_Card_(32861518627).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon delivery station",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_delivery_station.jpg/1920px-Amazon_delivery_station.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_delivery_station.jpg/500px-Amazon_delivery_station.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wikideas1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_delivery_station.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon Locker open",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amazon_Locker_open.jpg/1280px-Amazon_Locker_open.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amazon_Locker_open.jpg/500px-Amazon_Locker_open.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bnuuy, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Locker_open.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon Locker ‘jos’ outside Marston’s Inns (Talbot Lane) - Ebbsfleet Green, Ebbsfleet Valley",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Amazon_Locker_%E2%80%98jos%E2%80%99_outside_Marston%E2%80%99s_Inns_%28Talbot_Lane%29_-_Ebbsfleet_Green%2C_Ebbsfleet_Valley.jpg/1280px-Amazon_Locker_%E2%80%98jos%E2%80%99_outside_Marston%E2%80%99s_Inns_%28Talbot_Lane%29_-_Ebbsfleet_Green%2C_Ebbsfleet_Valley.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Amazon_Locker_%E2%80%98jos%E2%80%99_outside_Marston%E2%80%99s_Inns_%28Talbot_Lane%29_-_Ebbsfleet_Green%2C_Ebbsfleet_Valley.jpg/500px-Amazon_Locker_%E2%80%98jos%E2%80%99_outside_Marston%E2%80%99s_Inns_%28Talbot_Lane%29_-_Ebbsfleet_Green%2C_Ebbsfleet_Valley.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sunolafjagtenben-hur, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Locker_%E2%80%98jos%E2%80%99_outside_Marston%E2%80%99s_Inns_(Talbot_Lane)_-_Ebbsfleet_Green,_Ebbsfleet_Valley.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon Hyderabad Campus Telangana",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amazon_Hyderabad_Campus_Telangana.jpg/1920px-Amazon_Hyderabad_Campus_Telangana.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Amazon_Hyderabad_Campus_Telangana.jpg/500px-Amazon_Hyderabad_Campus_Telangana.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kavali Chandrakanth KCK, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Hyderabad_Campus_Telangana.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon Hubs at Ebisucho Station on the Hankai Line",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amazon_Hubs_at_Ebisucho_Station_on_the_Hankai_Line.jpg/1920px-Amazon_Hubs_at_Ebisucho_Station_on_the_Hankai_Line.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Amazon_Hubs_at_Ebisucho_Station_on_the_Hankai_Line.jpg/500px-Amazon_Hubs_at_Ebisucho_Station_on_the_Hankai_Line.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "さかおり, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Hubs_at_Ebisucho_Station_on_the_Hankai_Line.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon afhaalkluisjes op de boekwinkel Tsutaya-Suzumenomiya te Chūō 5-chome in Kumagaya, -23 februari 2024 13：06",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Amazon_afhaalkluisjes_op_de_boekwinkel_Tsutaya-Suzumenomiya_te_Ch%C5%AB%C5%8D_5-chome_in_Kumagaya%2C_-23_februari_2024_13%EF%BC%9A06.jpg/1280px-Amazon_afhaalkluisjes_op_de_boekwinkel_Tsutaya-Suzumenomiya_te_Ch%C5%AB%C5%8D_5-chome_in_Kumagaya%2C_-23_februari_2024_13%EF%BC%9A06.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Amazon_afhaalkluisjes_op_de_boekwinkel_Tsutaya-Suzumenomiya_te_Ch%C5%AB%C5%8D_5-chome_in_Kumagaya%2C_-23_februari_2024_13%EF%BC%9A06.jpg/500px-Amazon_afhaalkluisjes_op_de_boekwinkel_Tsutaya-Suzumenomiya_te_Ch%C5%AB%C5%8D_5-chome_in_Kumagaya%2C_-23_februari_2024_13%EF%BC%9A06.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nori Norisa, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_afhaalkluisjes_op_de_boekwinkel_Tsutaya-Suzumenomiya_te_Ch%C5%AB%C5%8D_5-chome_in_Kumagaya,_-23_februari_2024_13%EF%BC%9A06.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon Web Services (AWS) Loft - NYC",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Amazon_Web_Services_%28AWS%29_Loft_-_NYC_%2848129118457%29.jpg/1920px-Amazon_Web_Services_%28AWS%29_Loft_-_NYC_%2848129118457%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Amazon_Web_Services_%28AWS%29_Loft_-_NYC_%2848129118457%29.jpg/500px-Amazon_Web_Services_%28AWS%29_Loft_-_NYC_%2848129118457%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_(AWS)_Loft_-_NYC_(48129118457).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon Africa HQ at Riverlands, Cape Town",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Africa_HQ_at_Riverlands%2C_Cape_Town.jpg/1920px-Amazon_Africa_HQ_at_Riverlands%2C_Cape_Town.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Amazon_Africa_HQ_at_Riverlands%2C_Cape_Town.jpg/500px-Amazon_Africa_HQ_at_Riverlands%2C_Cape_Town.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Husskeyy, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon_Africa_HQ_at_Riverlands,_Cape_Town.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Covington, United States Aug 26, 2020 05-57-26 PM",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Covington%2C_United_States_Aug_26%2C_2020_05-57-26_PM.jpeg/1280px-Covington%2C_United_States_Aug_26%2C_2020_05-57-26_PM.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Covington%2C_United_States_Aug_26%2C_2020_05-57-26_PM.jpeg/500px-Covington%2C_United_States_Aug_26%2C_2020_05-57-26_PM.jpeg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Senapa, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Covington,_United_States_Aug_26,_2020_05-57-26_PM.jpeg",
+   "plain": true
+  },
+  {
+   "shows": "Seattle - Amazon Cricket Building 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Seattle_-_Amazon_Cricket_Building_01.jpg/1920px-Seattle_-_Amazon_Cricket_Building_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Seattle_-_Amazon_Cricket_Building_01.jpg/500px-Seattle_-_Amazon_Cricket_Building_01.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seattle_-_Amazon_Cricket_Building_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Seattle - Amazon Invictus Building 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Seattle_-_Amazon_Invictus_Building_01.jpg/1920px-Seattle_-_Amazon_Invictus_Building_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Seattle_-_Amazon_Invictus_Building_01.jpg/500px-Seattle_-_Amazon_Invictus_Building_01.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seattle_-_Amazon_Invictus_Building_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Seattle - Amazon Obidos Building 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Seattle_-_Amazon_Obidos_Building_01.jpg/1920px-Seattle_-_Amazon_Obidos_Building_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Seattle_-_Amazon_Obidos_Building_01.jpg/500px-Seattle_-_Amazon_Obidos_Building_01.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seattle_-_Amazon_Obidos_Building_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Seattle - Amazon Wainwright building 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Seattle_-_Amazon_Wainwright_building_02.jpg/1280px-Seattle_-_Amazon_Wainwright_building_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Seattle_-_Amazon_Wainwright_building_02.jpg/500px-Seattle_-_Amazon_Wainwright_building_02.jpg",
+   "size": [
+    1280,
+    1927
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seattle_-_Amazon_Wainwright_building_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Amazon.com Distribution center in Antwerp, Belgium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Amazon.com_Distribution_center_in_Antwerp%2C_Belgium.jpg/1920px-Amazon.com_Distribution_center_in_Antwerp%2C_Belgium.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Amazon.com_Distribution_center_in_Antwerp%2C_Belgium.jpg/500px-Amazon.com_Distribution_center_in_Antwerp%2C_Belgium.jpg",
+   "size": [
+    1920,
+    998
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lodevermeiren, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Amazon.com_Distribution_center_in_Antwerp,_Belgium.jpg",
    "plain": true
   }
  ]

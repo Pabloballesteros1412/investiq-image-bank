@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Vasant Narasimhan, Novartis CEO (per Wikidata)",
@@ -44,6 +43,23 @@
    "author_url": "https://unsplash.com/@gr15cha?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-large-building-with-a-triangular-design-on-its-side-3pJvyFM5Mn8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Pankrác Novartis",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Pankr%C3%A1c_Novartis.jpg/1280px-Pankr%C3%A1c_Novartis.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Pankr%C3%A1c_Novartis.jpg/500px-Pankr%C3%A1c_Novartis.jpg",
+   "size": [
+    1280,
+    1656
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "VitVit, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pankr%C3%A1c_Novartis.jpg"
   },
   {
    "shows": "Novartis Campus - Novartis Pavillon",
@@ -151,6 +167,24 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Novartis_factory,_Pyewipe_-_geograph.org.uk_-_5620848.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tobrex (Tobramycin) made by Novartis Belgium for the Russian market, Apr 2026 05",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tobrex_%28Tobramycin%29_made_by_Novartis_Belgium_for_the_Russian_market%2C_Apr_2026_05.jpg/1920px-Tobrex_%28Tobramycin%29_made_by_Novartis_Belgium_for_the_Russian_market%2C_Apr_2026_05.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tobrex_%28Tobramycin%29_made_by_Novartis_Belgium_for_the_Russian_market%2C_Apr_2026_05.jpg/500px-Tobrex_%28Tobramycin%29_made_by_Novartis_Belgium_for_the_Russian_market%2C_Apr_2026_05.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Retired electrician, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tobrex_(Tobramycin)_made_by_Novartis_Belgium_for_the_Russian_market,_Apr_2026_05.jpg",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Hershey Factory",
@@ -96,6 +95,96 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Hersheys_Times_Square_Store_NYC.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A Candymonium train climbing the lift hill above the station roof, Hersheypark, June 2021 - ThrillZing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/A_Candymonium_train_climbing_the_lift_hill_above_the_station_roof%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg/1280px-A_Candymonium_train_climbing_the_lift_hill_above_the_station_roof%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/A_Candymonium_train_climbing_the_lift_hill_above_the_station_roof%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg/500px-A_Candymonium_train_climbing_the_lift_hill_above_the_station_roof%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg",
+   "size": [
+    1280,
+    1527
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ThrillZing, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Candymonium_train_climbing_the_lift_hill_above_the_station_roof,_Hersheypark,_June_2021_-_ThrillZing.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A Candymonium train on the camelback below the first drop, Hersheypark, June 2021 - ThrillZing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/A_Candymonium_train_on_the_camelback_below_the_first_drop%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg/1280px-A_Candymonium_train_on_the_camelback_below_the_first_drop%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/A_Candymonium_train_on_the_camelback_below_the_first_drop%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg/500px-A_Candymonium_train_on_the_camelback_below_the_first_drop%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ThrillZing, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Candymonium_train_on_the_camelback_below_the_first_drop,_Hersheypark,_June_2021_-_ThrillZing.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A Great Bear train climbing the Immelmann between the supports, Hersheypark, June 2021 - ThrillZing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A_Great_Bear_train_climbing_the_Immelmann_between_the_supports%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg/1920px-A_Great_Bear_train_climbing_the_Immelmann_between_the_supports%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A_Great_Bear_train_climbing_the_Immelmann_between_the_supports%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg/500px-A_Great_Bear_train_climbing_the_Immelmann_between_the_supports%2C_Hersheypark%2C_June_2021_-_ThrillZing.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ThrillZing, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Great_Bear_train_climbing_the_Immelmann_between_the_supports,_Hersheypark,_June_2021_-_ThrillZing.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hershey Kisses",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hershey_Kisses_%2849349020768%29.jpg/1920px-Hershey_Kisses_%2849349020768%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hershey_Kisses_%2849349020768%29.jpg/500px-Hershey_Kisses_%2849349020768%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mike Mozart from Funny YouTube, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hershey_Kisses_(49349020768).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hershey Kisses packaging",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hershey_Kisses_packaging.jpg/1920px-Hershey_Kisses_packaging.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Hershey_Kisses_packaging.jpg/500px-Hershey_Kisses_packaging.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mike Mozart, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hershey_Kisses_packaging.jpg",
    "plain": true
   }
  ]

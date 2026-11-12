@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "NetApp Headquarters Sunnyvale",
@@ -132,6 +131,60 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Netapp_Sunnyvale_CA_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "NetApp 3050c Fabric-Attached Storage",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NetApp_3050c.jpg/1280px-NetApp_3050c.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NetApp_3050c.jpg/500px-NetApp_3050c.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Hammond, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NetApp_3050c.jpg",
+   "plain": true
+  },
+  {
+   "shows": "NetApp DS servers and controller",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NetApp_DS_servers_and_controller.jpg/1920px-NetApp_DS_servers_and_controller.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/NetApp_DS_servers_and_controller.jpg/500px-NetApp_DS_servers_and_controller.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Robert, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NetApp_DS_servers_and_controller.jpg",
+   "plain": true
+  },
+  {
+   "shows": "NetApp FAS - 1679",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NetApp_FAS_-_IMG_1679.jpg/1920px-NetApp_FAS_-_IMG_1679.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/NetApp_FAS_-_IMG_1679.jpg/500px-NetApp_FAS_-_IMG_1679.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jemimus, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NetApp_FAS_-_IMG_1679.jpg",
    "plain": true
   }
  ]

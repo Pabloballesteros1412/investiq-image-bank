@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Domino's pizza sign illuminated at night",
@@ -115,6 +114,78 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Supreme_Pizza_20250215-170829.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ilia Chavchavadze Avenue, Tbilisi",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ilia_Chavchavadze_Avenue%2C_Tbilisi_%2850502938713%29.jpg/1920px-Ilia_Chavchavadze_Avenue%2C_Tbilisi_%2850502938713%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ilia_Chavchavadze_Avenue%2C_Tbilisi_%2850502938713%29.jpg/500px-Ilia_Chavchavadze_Avenue%2C_Tbilisi_%2850502938713%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Andrew Milligan sumo, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ilia_Chavchavadze_Avenue,_Tbilisi_(50502938713).jpg",
+   "plain": true
+  },
+  {
+   "shows": "GD 廣東 Guangdong 廣州 Guangzhou NEWORLD Plaza mall shop ChaGee Beverage June 2025 R12S 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_NEWORLD_Plaza_mall_shop_ChaGee_Beverage_June_2025_R12S_01.jpg/1920px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_NEWORLD_Plaza_mall_shop_ChaGee_Beverage_June_2025_R12S_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_NEWORLD_Plaza_mall_shop_ChaGee_Beverage_June_2025_R12S_01.jpg/500px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_NEWORLD_Plaza_mall_shop_ChaGee_Beverage_June_2025_R12S_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MeiOLA 2290 WMENSZ, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E5%BB%A3%E5%B7%9E_Guangzhou_NEWORLD_Plaza_mall_shop_ChaGee_Beverage_June_2025_R12S_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Domino's Pizza w Siedlcach",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Domino%27s_Pizza_w_Siedlcach.jpg/1920px-Domino%27s_Pizza_w_Siedlcach.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Domino%27s_Pizza_w_Siedlcach.jpg/500px-Domino%27s_Pizza_w_Siedlcach.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rafafa1234, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Domino%27s_Pizza_w_Siedlcach.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Domino's, Camilla",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Domino%27s%2C_Camilla.jpg/1920px-Domino%27s%2C_Camilla.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Domino%27s%2C_Camilla.jpg/500px-Domino%27s%2C_Camilla.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mjrmtg, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Domino%27s,_Camilla.jpg",
    "plain": true
   }
  ]

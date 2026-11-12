@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Dollar Tree store in Orlando, Florida",
@@ -131,6 +130,60 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Dollar_Tree_store.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dollar Tree shopping cart at the Rose Hill Shopping Center 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_2.jpg/1920px-Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_2.jpg/500px-Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ser Amantio di Nicolao, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dollar_Tree_shopping_cart_at_the_Rose_Hill_Shopping_Center_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Family Dollar store",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Family_Dollar_store.jpg/1920px-Family_Dollar_store.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Family_Dollar_store.jpg/500px-Family_Dollar_store.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Family_Dollar_store.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Interior of a Dollar Tree discount store in Greenville, South Carolina 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interior_of_a_Dollar_Tree_discount_store_in_Greenville%2C_South_Carolina_01.jpg/1920px-Interior_of_a_Dollar_Tree_discount_store_in_Greenville%2C_South_Carolina_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interior_of_a_Dollar_Tree_discount_store_in_Greenville%2C_South_Carolina_01.jpg/500px-Interior_of_a_Dollar_Tree_discount_store_in_Greenville%2C_South_Carolina_01.jpg",
+   "size": [
+    1920,
+    1328
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Interior_of_a_Dollar_Tree_discount_store_in_Greenville,_South_Carolina_01.jpg",
    "plain": true
   }
  ]

@@ -10,6 +10,23 @@
  "fill_from": "sector-industrials",
  "photos": [
   {
+   "shows": "J.B. Hunt intermodal semi truck",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/J.B._Hunt_intermodal_semi_truck.jpg/1920px-J.B._Hunt_intermodal_semi_truck.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/J.B._Hunt_intermodal_semi_truck.jpg/500px-J.B._Hunt_intermodal_semi_truck.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wikideas1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:J.B._Hunt_intermodal_semi_truck.jpg"
+  },
+  {
    "shows": "J.B. Hunt intermodal semi truck 2",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/J.B._Hunt_intermodal_semi_truck_2.jpg/1920px-J.B._Hunt_intermodal_semi_truck_2.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/J.B._Hunt_intermodal_semi_truck_2.jpg/500px-J.B._Hunt_intermodal_semi_truck_2.jpg",
@@ -79,6 +96,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:JB_Hunt_truck_in_Harrisburg_jeh.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Benching Freight Graffiti in SoCal (12-06-2020)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Benching_Freight_Graffiti_in_SoCal_%2812-06-2020%29_%2850711728653%29.jpg/1920px-Benching_Freight_Graffiti_in_SoCal_%2812-06-2020%29_%2850711728653%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Benching_Freight_Graffiti_in_SoCal_%2812-06-2020%29_%2850711728653%29.jpg/500px-Benching_Freight_Graffiti_in_SoCal_%2812-06-2020%29_%2850711728653%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "siamesepuppy, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Benching_Freight_Graffiti_in_SoCal_(12-06-2020)_(50711728653).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Benching Freight Graffiti July 19th 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Benching_Freight_Graffiti_July_19th_2020_%2850131356663%29.jpg/1920px-Benching_Freight_Graffiti_July_19th_2020_%2850131356663%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Benching_Freight_Graffiti_July_19th_2020_%2850131356663%29.jpg/500px-Benching_Freight_Graffiti_July_19th_2020_%2850131356663%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "siamesepuppy, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Benching_Freight_Graffiti_July_19th_2020_(50131356663).jpg",
    "plain": true
   }
  ]

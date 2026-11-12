@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Alibaba's headquarters building is seen in the photo",
@@ -26,6 +25,23 @@
    "author_url": "https://unsplash.com/@daisy0914?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/alibabas-headquarters-building-is-seen-in-the-photo-9fkwZsAqqQE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Alibaba group Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alibaba_group_Headquarters.jpg/1920px-Alibaba_group_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alibaba_group_Headquarters.jpg/500px-Alibaba_group_Headquarters.jpg",
+   "size": [
+    1920,
+    844
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Thomas LOMBARD , designed by HASSELL (architects) [ 1 ], CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Alibaba_group_Headquarters.jpg"
   },
   {
    "shows": "Alibaba Group provisional office at Xiong'an",
@@ -133,6 +149,42 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Alibaba_group_Headquarters_(cropped).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Alibaba Chaoyang Technology Park interior",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alibaba_Chaoyang_Technology_Park_interior.jpg/1920px-Alibaba_Chaoyang_Technology_Park_interior.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alibaba_Chaoyang_Technology_Park_interior.jpg/500px-Alibaba_Chaoyang_Technology_Park_interior.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HoweyYuan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Alibaba_Chaoyang_Technology_Park_interior.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Alibaba Shenzhen Branch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alibaba_Shenzhen_Branch.jpg/1920px-Alibaba_Shenzhen_Branch.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alibaba_Shenzhen_Branch.jpg/500px-Alibaba_Shenzhen_Branch.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lhzss8, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Alibaba_Shenzhen_Branch.jpg",
    "plain": true
   }
  ]

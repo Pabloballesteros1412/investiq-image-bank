@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Lucid Showroom Miami Worldcenter 29 June 2023 - 2",
@@ -167,6 +166,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Lucid_Air_IAA_2023_1X7A0513.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lucid Air Bahrain Front",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lucid_Air_Bahrain_Front.jpg/1920px-Lucid_Air_Bahrain_Front.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lucid_Air_Bahrain_Front.jpg/500px-Lucid_Air_Bahrain_Front.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ToyGTone, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lucid_Air_Bahrain_Front.jpg",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "VDO Bunge waterfront",
@@ -151,6 +150,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:T%C3%A1bl%C3%A1s_Stra%C3%9Fe_36-38,_Illatosgraben-Br%C3%BCcke,_Bunge,_2024_Ferencv%C3%A1ros.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bunge terminal, Quebec City (downtown, Quebec province, Canada 03)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bunge_terminal%2C_Quebec_City_%28downtown%2C_Quebec_province%2C_Canada_03%29.jpg/1920px-Bunge_terminal%2C_Quebec_City_%28downtown%2C_Quebec_province%2C_Canada_03%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bunge_terminal%2C_Quebec_City_%28downtown%2C_Quebec_province%2C_Canada_03%29.jpg/500px-Bunge_terminal%2C_Quebec_City_%28downtown%2C_Quebec_province%2C_Canada_03%29.jpg",
+   "size": [
+    1920,
+    1234
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wilfredor, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bunge_terminal,_Quebec_City_(downtown,_Quebec_province,_Canada_03).jpg",
+   "plain": true
+  },
+  {
+   "shows": "SDD 3378 Yokosuka",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SDD_3378_Yokosuka.jpg/1920px-SDD_3378_Yokosuka.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SDD_3378_Yokosuka.jpg/500px-SDD_3378_Yokosuka.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "S. DÉNIEL, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SDD_3378_Yokosuka.jpg",
    "plain": true
   }
  ]

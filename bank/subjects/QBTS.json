@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "A Wafer of the Latest D-Wave Quantum Computers",
@@ -166,6 +165,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Quantum_Computer_(3796519198).jpg",
+   "plain": true
+  },
+  {
+   "shows": "D-Wave Quantum (D-Wave Systems)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/DWaveSC18.jpg/1920px-DWaveSC18.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/DWaveSC18.jpg/500px-DWaveSC18.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DWaveSC18.jpg",
    "plain": true
   }
  ]

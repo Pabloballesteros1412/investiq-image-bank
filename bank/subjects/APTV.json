@@ -8,5 +8,42 @@
  "sector": "sector-consumer-discretionary",
  "target": 10,
  "fill_from": "sector-consumer-discretionary",
- "photos": []
+ "photos": [
+  {
+   "shows": "Wuppertal Lise-Meitner-Str 0019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wuppertal_Lise-Meitner-Str_0019.jpg/1920px-Wuppertal_Lise-Meitner-Str_0019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Wuppertal_Lise-Meitner-Str_0019.jpg/500px-Wuppertal_Lise-Meitner-Str_0019.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Atamari, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wuppertal_Lise-Meitner-Str_0019.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wuppertal Vorm Eichholz 0002",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Vorm_Eichholz_0002.jpg/1920px-Wuppertal_Vorm_Eichholz_0002.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Wuppertal_Vorm_Eichholz_0002.jpg/500px-Wuppertal_Vorm_Eichholz_0002.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Atamari, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wuppertal_Vorm_Eichholz_0002.jpg",
+   "plain": true
+  }
+ ]
 }

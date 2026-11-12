@@ -7,8 +7,24 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
+  {
+   "shows": "An Eaton Corporation office building in Brossard, Quebec",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/An_Eaton_Corporation_office_building_in_Brossard%2C_Quebec.jpg/1920px-An_Eaton_Corporation_office_building_in_Brossard%2C_Quebec.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/An_Eaton_Corporation_office_building_in_Brossard%2C_Quebec.jpg/500px-An_Eaton_Corporation_office_building_in_Brossard%2C_Quebec.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:An_Eaton_Corporation_office_building_in_Brossard,_Quebec.jpg"
+  },
   {
    "shows": "Eaton factory, 2018 Győr",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Eaton_factory%2C_2018_Gy%C5%91r.jpg/1920px-Eaton_factory%2C_2018_Gy%C5%91r.jpg",
@@ -97,6 +113,78 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Leaf_charging.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tarifschalter 1x(Eaton Z-TS50-3) 000",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tarifschalter_1x%28Eaton_Z-TS50-3%29_000.jpg/1920px-Tarifschalter_1x%28Eaton_Z-TS50-3%29_000.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tarifschalter_1x%28Eaton_Z-TS50-3%29_000.jpg/500px-Tarifschalter_1x%28Eaton_Z-TS50-3%29_000.jpg",
+   "size": [
+    1920,
+    1626
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "SweetWood, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tarifschalter_1x(Eaton_Z-TS50-3)_000.jpg",
+   "plain": true
+  },
+  {
+   "shows": "EATON 2-pole RCBO is explained. I(n)=10A, with \"C\" characteristicks ΔI=30mA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EATON_286465.JPG/1280px-EATON_286465.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/EATON_286465.JPG/500px-EATON_286465.JPG",
+   "size": [
+    1280,
+    1708
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dmitry G, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EATON_286465.JPG",
+   "plain": true
+  },
+  {
+   "shows": "1-pole EATON disconnection switch for DIN-rail for 32A",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/EATON_IS-32-1.JPG/1920px-EATON_IS-32-1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/EATON_IS-32-1.JPG/500px-EATON_IS-32-1.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dmitry G, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EATON_IS-32-1.JPG",
+   "plain": true
+  },
+  {
+   "shows": "EATON PKZMO-4 motor protective circuit breaker",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/EATON_PKZMO-4_motor_protective_circuit_breaker.JPG/1280px-EATON_PKZMO-4_motor_protective_circuit_breaker.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/EATON_PKZMO-4_motor_protective_circuit_breaker.JPG/500px-EATON_PKZMO-4_motor_protective_circuit_breaker.JPG",
+   "size": [
+    1280,
+    1708
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dmitry G, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EATON_PKZMO-4_motor_protective_circuit_breaker.JPG",
    "plain": true
   }
  ]

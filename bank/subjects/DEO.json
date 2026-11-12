@@ -98,6 +98,42 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:CR_Gimli.jpg",
    "plain": true
+  },
+  {
+   "shows": "Red Stripe 2012",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Red_Stripe_2012.JPG/1920px-Red_Stripe_2012.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Red_Stripe_2012.JPG/500px-Red_Stripe_2012.JPG",
+   "size": [
+    1920,
+    1439
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WestportWiki, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Stripe_2012.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Cardhu single malt - pure (vatted) malt",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cardhu_single_malt_-_pure_%28vatted%29_malt.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cardhu_single_malt_-_pure_%28vatted%29_malt.JPG/500px-Cardhu_single_malt_-_pure_%28vatted%29_malt.JPG",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Markmark28, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cardhu_single_malt_-_pure_(vatted)_malt.JPG",
+   "plain": true
   }
  ]
 }

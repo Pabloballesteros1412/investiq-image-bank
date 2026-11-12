@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 10,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "John Stankey, AT&T CEO (per Wikidata)",
@@ -132,6 +131,60 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:AT%26T_Store,_Bainbridge,_Georgia.jpg",
+   "plain": true
+  },
+  {
+   "shows": "An AT&T wireless retail store in Asheville, North Carolina 03",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/An_AT%26T_wireless_retail_store_in_Asheville%2C_North_Carolina_03.jpg/1920px-An_AT%26T_wireless_retail_store_in_Asheville%2C_North_Carolina_03.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/An_AT%26T_wireless_retail_store_in_Asheville%2C_North_Carolina_03.jpg/500px-An_AT%26T_wireless_retail_store_in_Asheville%2C_North_Carolina_03.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:An_AT%26T_wireless_retail_store_in_Asheville,_North_Carolina_03.jpg",
+   "plain": true
+  },
+  {
+   "shows": "FirstNet - Built with AT&T - Cellular Truck",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FirstNet_-_Built_with_AT%26T_-_Cellular_Truck.jpg/1920px-FirstNet_-_Built_with_AT%26T_-_Cellular_Truck.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/FirstNet_-_Built_with_AT%26T_-_Cellular_Truck.jpg/500px-FirstNet_-_Built_with_AT%26T_-_Cellular_Truck.jpg",
+   "size": [
+    1920,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FirstNet_-_Built_with_AT%26T_-_Cellular_Truck.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AT&T Building, Little Rock",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AT%26T_Building%2C_Little_Rock.jpg/1920px-AT%26T_Building%2C_Little_Rock.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/AT%26T_Building%2C_Little_Rock.jpg/500px-AT%26T_Building%2C_Little_Rock.jpg",
+   "size": [
+    1920,
+    1537
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dclemens1971, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AT%26T_Building,_Little_Rock.jpg",
    "plain": true
   }
  ]

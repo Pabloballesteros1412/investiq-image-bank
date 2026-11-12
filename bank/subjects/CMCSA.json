@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 10,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Center City - Comcast Center",
@@ -166,6 +165,24 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Comcast_Center_from_Pennwalt_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Xfinity truck cape may",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Xfinity_truck_cape_may.jpg/1920px-Xfinity_truck_cape_may.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Xfinity_truck_cape_may.jpg/500px-Xfinity_truck_cape_may.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Own work, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Xfinity_truck_cape_may.jpg",
    "plain": true
   }
  ]

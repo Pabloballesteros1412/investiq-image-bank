@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "101 Barclays Street",
@@ -169,6 +168,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:BNY_Mellon_Center_building_in_morning_(11846068283).jpg",
+   "plain": true
+  },
+  {
+   "shows": "BNY Mellon Bank Center i",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BNY_Mellon_Bank_Center_i.jpg/1280px-BNY_Mellon_Bank_Center_i.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/BNY_Mellon_Bank_Center_i.jpg/500px-BNY_Mellon_Bank_Center_i.jpg",
+   "size": [
+    1280,
+    2105
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wobbanight, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BNY_Mellon_Bank_Center_i.jpg",
    "plain": true
   }
  ]

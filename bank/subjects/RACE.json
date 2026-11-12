@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Ferrari",
@@ -132,6 +131,60 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_Store_-_Regent_Street_-_London,_2009-05-18.jpg",
+   "plain": true
+  },
+  {
+   "shows": "1951 Ferrari 340 America, chassis 0126A. Photographed at the Casa Ferrari display during the 2023 Pebble Beach Concours d'Elegance.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ferrari_0126A_at_CF_20234321.jpg/1920px-Ferrari_0126A_at_CF_20234321.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ferrari_0126A_at_CF_20234321.jpg/500px-Ferrari_0126A_at_CF_20234321.jpg",
+   "size": [
+    1920,
+    1289
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Prova MO, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferrari_0126A_at_CF_20234321.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ferrari 250 Monza, chassis 0432M. Photographed at the Casa Ferrari display during the 2023 Pebble Beach Concours d'Elegance.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ferrari_0432M_at_CF_20234329.jpg/1920px-Ferrari_0432M_at_CF_20234329.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ferrari_0432M_at_CF_20234329.jpg/500px-Ferrari_0432M_at_CF_20234329.jpg",
+   "size": [
+    1920,
+    1255
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Prova MO, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferrari_0432M_at_CF_20234329.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ferrari 250 GT SWB, chassis 1759GT. Photographed at the Casa Ferrari display during the 2023 Pebble Beach Concours d'Elegance.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ferrari_1759GT_at_CF_20234382.jpg/1920px-Ferrari_1759GT_at_CF_20234382.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ferrari_1759GT_at_CF_20234382.jpg/500px-Ferrari_1759GT_at_CF_20234382.jpg",
+   "size": [
+    1920,
+    1334
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Prova MO, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferrari_1759GT_at_CF_20234382.jpg",
    "plain": true
   }
  ]

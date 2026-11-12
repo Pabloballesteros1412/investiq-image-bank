@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "HSBC HK building at night",
@@ -149,6 +148,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:HSBC_Building,_Hongkong_(Ank_Kumar,_Infosys)_03.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HSBC Building, Markham Liberty Square, Markham",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/HSBCMarkhamLibertySquare2.jpg/1920px-HSBCMarkhamLibertySquare2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/HSBCMarkhamLibertySquare2.jpg/500px-HSBCMarkhamLibertySquare2.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HSBCMarkhamLibertySquare2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HK tram tour view 德輔道西 Des Voeux Road West 西營盤 Sai Ying Pun August 2025 N13P 36",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HK_tram_tour_view_%E5%BE%B7%E8%BC%94%E9%81%93%E8%A5%BF_Des_Voeux_Road_West_%E8%A5%BF%E7%87%9F%E7%9B%A4_Sai_Ying_Pun_August_2025_N13P_36.jpg/1920px-HK_tram_tour_view_%E5%BE%B7%E8%BC%94%E9%81%93%E8%A5%BF_Des_Voeux_Road_West_%E8%A5%BF%E7%87%9F%E7%9B%A4_Sai_Ying_Pun_August_2025_N13P_36.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/HK_tram_tour_view_%E5%BE%B7%E8%BC%94%E9%81%93%E8%A5%BF_Des_Voeux_Road_West_%E8%A5%BF%E7%87%9F%E7%9B%A4_Sai_Ying_Pun_August_2025_N13P_36.jpg/500px-HK_tram_tour_view_%E5%BE%B7%E8%BC%94%E9%81%93%E8%A5%BF_Des_Voeux_Road_West_%E8%A5%BF%E7%87%9F%E7%9B%A4_Sai_Ying_Pun_August_2025_N13P_36.jpg",
+   "size": [
+    1920,
+    1442
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HDISMMSY POON YAU, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_tram_tour_view_%E5%BE%B7%E8%BC%94%E9%81%93%E8%A5%BF_Des_Voeux_Road_West_%E8%A5%BF%E7%87%9F%E7%9B%A4_Sai_Ying_Pun_August_2025_N13P_36.jpg",
    "plain": true
   }
  ]

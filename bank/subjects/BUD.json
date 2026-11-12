@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Two persons holding white Budweiser bottles",
@@ -151,6 +150,42 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:CASS_BEER_IN_SEOUL_SOUTH_KOREA_OCT_2012_(8228636363).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Labatt Brewery on Richmond St",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Labatt_Brewery_on_Richmond_St.jpg/1920px-Labatt_Brewery_on_Richmond_St.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Labatt_Brewery_on_Richmond_St.jpg/500px-Labatt_Brewery_on_Richmond_St.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gogerr, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Labatt_Brewery_on_Richmond_St.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Labatt Brewing Company in London, Ontario",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Labatt_Brewing_Company_in_London%2C_Ontario.jpg/1920px-Labatt_Brewing_Company_in_London%2C_Ontario.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Labatt_Brewing_Company_in_London%2C_Ontario.jpg/500px-Labatt_Brewing_Company_in_London%2C_Ontario.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gogerr, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Labatt_Brewing_Company_in_London,_Ontario.jpg",
    "plain": true
   }
  ]

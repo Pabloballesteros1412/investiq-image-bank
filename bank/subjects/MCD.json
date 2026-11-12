@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 30,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Big Mac hamburger",
@@ -116,6 +115,40 @@
    "source": "https://unsplash.com/photos/a-mcdonalds-sign-lit-up-at-night-cbXZj1Jehnc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Mcd Sign Drive through Sign board",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mcd_Sign_Drive_through_Sign_board.jpg/1920px-Mcd_Sign_Drive_through_Sign_board.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Mcd_Sign_Drive_through_Sign_board.jpg/500px-Mcd_Sign_Drive_through_Sign_board.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "投稿者が撮影, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mcd_Sign_Drive_through_Sign_board.jpg"
+  },
+  {
+   "shows": "McDonald's store in Lemery, Batangas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/McDonald%27s_store_in_Lemery%2C_Batangas.jpg/1280px-McDonald%27s_store_in_Lemery%2C_Batangas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/McDonald%27s_store_in_Lemery%2C_Batangas.jpg/500px-McDonald%27s_store_in_Lemery%2C_Batangas.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aerous, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_store_in_Lemery,_Batangas.jpg"
+  },
+  {
    "shows": "McDonald's restaurant in Blairsville, Georgia",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/McDonald%27s_restaurant_in_Blairsville%2C_Georgia.jpg/1920px-McDonald%27s_restaurant_in_Blairsville%2C_Georgia.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/McDonald%27s_restaurant_in_Blairsville%2C_Georgia.jpg/500px-McDonald%27s_restaurant_in_Blairsville%2C_Georgia.jpg",
@@ -221,6 +254,294 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:UK_Headquarters_of_McDonald%27s_Corporation.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Combos de Big Mac y McNífica servidos en el McDonald's del Obelisco de Buenos Aires",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires.jpg/1920px-Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires.jpg/500px-Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Horacio Cambeiro, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Combos_de_Big_Mac_y_McN%C3%ADfica_servidos_en_el_McDonald%27s_del_Obelisco_de_Buenos_Aires.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kolomna October Revolution street 246 2020-05 544",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kolomna_October_Revolution_street_246_2020-05_544.JPG/1920px-Kolomna_October_Revolution_street_246_2020-05_544.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Kolomna_October_Revolution_street_246_2020-05_544.JPG/500px-Kolomna_October_Revolution_street_246_2020-05_544.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Artyom Svetlov, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kolomna_October_Revolution_street_246_2020-05_544.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Los Angeles CA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Los_Angeles_CA_20230215_%2874%29.jpg/1920px-Los_Angeles_CA_20230215_%2874%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Los_Angeles_CA_20230215_%2874%29.jpg/500px-Los_Angeles_CA_20230215_%2874%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sony 1992, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Los_Angeles_CA_20230215_(74).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mc Flurry - zmrzlina",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mc_Flurry_-_zmrzlina.jpg/1920px-Mc_Flurry_-_zmrzlina.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mc_Flurry_-_zmrzlina.jpg/500px-Mc_Flurry_-_zmrzlina.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pohled 111, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mc_Flurry_-_zmrzlina.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Pochoutky z Mcdonald",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pochoutky_z_Mcdonald.jpg/1920px-Pochoutky_z_Mcdonald.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Pochoutky_z_Mcdonald.jpg/500px-Pochoutky_z_Mcdonald.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pohled 111, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pochoutky_z_Mcdonald.jpg",
+   "plain": true
+  },
+  {
+   "shows": "McDonald's delivery bike",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/McDonald%27s_delivery_bike.jpg/1280px-McDonald%27s_delivery_bike.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/McDonald%27s_delivery_bike.jpg/500px-McDonald%27s_delivery_bike.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Syced, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_delivery_bike.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HK CWB Causeway Bay night Leighton Road Centre shop McDonald's Restaurant in July 2026 N13P",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HK_CWB_Causeway_Bay_night_Leighton_Road_Centre_shop_McDonald%27s_Restaurant_in_July_2026_N13P.jpg/1280px-HK_CWB_Causeway_Bay_night_Leighton_Road_Centre_shop_McDonald%27s_Restaurant_in_July_2026_N13P.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/HK_CWB_Causeway_Bay_night_Leighton_Road_Centre_shop_McDonald%27s_Restaurant_in_July_2026_N13P.jpg/500px-HK_CWB_Causeway_Bay_night_Leighton_Road_Centre_shop_McDonald%27s_Restaurant_in_July_2026_N13P.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MCFALENCZ 20008, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_CWB_Causeway_Bay_night_Leighton_Road_Centre_shop_McDonald%27s_Restaurant_in_July_2026_N13P.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Silver Mansion MacDonald's",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Silver_Mansion_MacDonald%27s.jpg/1920px-Silver_Mansion_MacDonald%27s.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Silver_Mansion_MacDonald%27s.jpg/500px-Silver_Mansion_MacDonald%27s.jpg",
+   "size": [
+    1920,
+    1446
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ricky36, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Silver_Mansion_MacDonald%27s.jpg",
+   "plain": true
+  },
+  {
+   "shows": "2026 Shogun Burger series in Hong Kong",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2026_Shogun_Burger_series_in_Hong_Kong.jpg/1920px-2026_Shogun_Burger_series_in_Hong_Kong.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2026_Shogun_Burger_series_in_Hong_Kong.jpg/500px-2026_Shogun_Burger_series_in_Hong_Kong.jpg",
+   "size": [
+    1920,
+    1313
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Royal Sailor, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2026_Shogun_Burger_series_in_Hong_Kong.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PikiWiki Israel the well of rishon le zion",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/PikiWiki_Israel_60784_the_well_of_rishon_le_zion.jpg/1920px-PikiWiki_Israel_60784_the_well_of_rishon_le_zion.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/PikiWiki_Israel_60784_the_well_of_rishon_le_zion.jpg/500px-PikiWiki_Israel_60784_the_well_of_rishon_le_zion.jpg",
+   "size": [
+    1920,
+    1204
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ישראל פרקר Israel Preker, CC BY 2.5, via Wikimedia Commons",
+   "licence": "CC BY 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_60784_the_well_of_rishon_le_zion.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Avondeten in een vestiging van McDonald's in Hamamatsu, -9 juni 2022 18：19",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Avondeten_in_een_vestiging_van_McDonald%27s_in_Hamamatsu%2C_-9_juni_2022_18%EF%BC%9A19.jpg/1920px-Avondeten_in_een_vestiging_van_McDonald%27s_in_Hamamatsu%2C_-9_juni_2022_18%EF%BC%9A19.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Avondeten_in_een_vestiging_van_McDonald%27s_in_Hamamatsu%2C_-9_juni_2022_18%EF%BC%9A19.jpg/500px-Avondeten_in_een_vestiging_van_McDonald%27s_in_Hamamatsu%2C_-9_juni_2022_18%EF%BC%9A19.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "lazy fri13th, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Avondeten_in_een_vestiging_van_McDonald%27s_in_Hamamatsu,_-9_juni_2022_18%EF%BC%9A19.jpg",
+   "plain": true
+  },
+  {
+   "shows": "JP Japan Kyoto shop 麥當勞 McDonald's Restaurant food yellow oil fried 麥樂雞 Chicken McNuggets June 2026 N13P 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/JP_Japan_Kyoto_shop_%E9%BA%A5%E7%95%B6%E5%8B%9E_McDonald%27s_Restaurant_food_yellow_oil_fried_%E9%BA%A5%E6%A8%82%E9%9B%9E_Chicken_McNuggets_June_2026_N13P_01.jpg/1280px-JP_Japan_Kyoto_shop_%E9%BA%A5%E7%95%B6%E5%8B%9E_McDonald%27s_Restaurant_food_yellow_oil_fried_%E9%BA%A5%E6%A8%82%E9%9B%9E_Chicken_McNuggets_June_2026_N13P_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/JP_Japan_Kyoto_shop_%E9%BA%A5%E7%95%B6%E5%8B%9E_McDonald%27s_Restaurant_food_yellow_oil_fried_%E9%BA%A5%E6%A8%82%E9%9B%9E_Chicken_McNuggets_June_2026_N13P_01.jpg/500px-JP_Japan_Kyoto_shop_%E9%BA%A5%E7%95%B6%E5%8B%9E_McDonald%27s_Restaurant_food_yellow_oil_fried_%E9%BA%A5%E6%A8%82%E9%9B%9E_Chicken_McNuggets_June_2026_N13P_01.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HAGAT hOMSZE, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:JP_Japan_Kyoto_shop_%E9%BA%A5%E7%95%B6%E5%8B%9E_McDonald%27s_Restaurant_food_yellow_oil_fried_%E9%BA%A5%E6%A8%82%E9%9B%9E_Chicken_McNuggets_June_2026_N13P_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "McDonald di Cameron Highland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/McDonald_di_Cameron_Highland.jpg/1920px-McDonald_di_Cameron_Highland.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/McDonald_di_Cameron_Highland.jpg/500px-McDonald_di_Cameron_Highland.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Encik Tekateki, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald_di_Cameron_Highland.jpg",
+   "plain": true
+  },
+  {
+   "shows": "McDonald Kota Damansara",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/McDonald_Kota_Damansara_20250727_140513.jpg/1920px-McDonald_Kota_Damansara_20250727_140513.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/McDonald_Kota_Damansara_20250727_140513.jpg/500px-McDonald_Kota_Damansara_20250727_140513.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wiki Farazi, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald_Kota_Damansara_20250727_140513.jpg",
+   "plain": true
+  },
+  {
+   "shows": "McDonald's Linsen 2nd Restaurant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/McDonald%27s_Linsen_2nd_Restaurant_20130127.jpg/1280px-McDonald%27s_Linsen_2nd_Restaurant_20130127.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/McDonald%27s_Linsen_2nd_Restaurant_20130127.jpg/500px-McDonald%27s_Linsen_2nd_Restaurant_20130127.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Solomon203, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_Linsen_2nd_Restaurant_20130127.jpg",
+   "plain": true
+  },
+  {
+   "shows": "McDonald's office in Toronto - 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/McDonald%27s_office_in_Toronto_-_2018.jpg/1920px-McDonald%27s_office_in_Toronto_-_2018.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/McDonald%27s_office_in_Toronto_-_2018.jpg/500px-McDonald%27s_office_in_Toronto_-_2018.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sikander Iqbal, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonald%27s_office_in_Toronto_-_2018.jpg",
    "plain": true
   }
  ]

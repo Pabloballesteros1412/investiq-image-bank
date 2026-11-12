@@ -7,7 +7,6 @@
  ],
  "sector": "sector-energy",
  "target": 10,
- "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "Oil platform P-51 (Brazil)-2",
@@ -112,6 +111,78 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Petrobras_Building_-_Centro_District_-_Downtown_Rio_de_Janeiro_-_Brazil_(17557155691).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Salvador - BA (Sep 2024) 0333",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Salvador_-_BA_%28Sep_2024%29_0333.jpg/1920px-Salvador_-_BA_%28Sep_2024%29_0333.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Salvador_-_BA_%28Sep_2024%29_0333.jpg/500px-Salvador_-_BA_%28Sep_2024%29_0333.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sturm, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Salvador_-_BA_(Sep_2024)_0333.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Petrobras 10 de Julio, Santiago 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Petrobras_10_de_Julio%2C_Santiago_20230814_01.jpg/1920px-Petrobras_10_de_Julio%2C_Santiago_20230814_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Petrobras_10_de_Julio%2C_Santiago_20230814_01.jpg/500px-Petrobras_10_de_Julio%2C_Santiago_20230814_01.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Carlos Figueroa Rojas, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Petrobras_10_de_Julio,_Santiago_20230814_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Petrobras, Limache",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Petrobras%2C_Limache_20230524.jpg/1920px-Petrobras%2C_Limache_20230524.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Petrobras%2C_Limache_20230524.jpg/500px-Petrobras%2C_Limache_20230524.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Carlos yo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Petrobras,_Limache_20230524.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Petrobras Building - Centro District - Rio de Janeiro - Brazil",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Petrobras_Building_-_Centro_District_-_Rio_de_Janeiro_-_Brazil.jpg/1920px-Petrobras_Building_-_Centro_District_-_Rio_de_Janeiro_-_Brazil.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Petrobras_Building_-_Centro_District_-_Rio_de_Janeiro_-_Brazil.jpg/500px-Petrobras_Building_-_Centro_District_-_Rio_de_Janeiro_-_Brazil.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Adam Jones, Ph.D., CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Petrobras_Building_-_Centro_District_-_Rio_de_Janeiro_-_Brazil.jpg",
    "plain": true
   }
  ]

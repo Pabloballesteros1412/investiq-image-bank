@@ -97,6 +97,42 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Williamsburg_Aug_2026_191.jpg",
    "plain": true
+  },
+  {
+   "shows": "One Citizens Plaza entrance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/One_Citizens_Plaza_entrance.jpg/1280px-One_Citizens_Plaza_entrance.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/One_Citizens_Plaza_entrance.jpg/500px-One_Citizens_Plaza_entrance.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kenneth C. Zirkel, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:One_Citizens_Plaza_entrance.jpg",
+   "plain": true
+  },
+  {
+   "shows": "One Citizens Plaza, Providence",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/One_Citizens_Plaza%2C_Providence.jpg/1920px-One_Citizens_Plaza%2C_Providence.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/One_Citizens_Plaza%2C_Providence.jpg/500px-One_Citizens_Plaza%2C_Providence.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "dconvertini, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:One_Citizens_Plaza,_Providence.jpg",
+   "plain": true
   }
  ]
 }

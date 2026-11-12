@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "GM Renaissance Center - Hôtel le plus haut en Amérique du Nord - panoramio",
@@ -82,6 +81,23 @@
   },
   {
    "shows": "General Motors Canada office - Address: 101 McNabb St, Markham, ON L3R 4H8",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GeneralMotorsCanada3.jpg/1920px-GeneralMotorsCanada3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GeneralMotorsCanada3.jpg/500px-GeneralMotorsCanada3.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GeneralMotorsCanada3.jpg"
+  },
+  {
+   "shows": "General Motors Canada office - Address: 101 McNabb St, Markham, ON L3R 4H8",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/GeneralMotorsCanada.jpg/1920px-GeneralMotorsCanada.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/GeneralMotorsCanada.jpg/500px-GeneralMotorsCanada.jpg",
    "size": [
@@ -150,6 +166,24 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:General_Motors_Factory_ZERO_Detroit_plant,_2021_(51845515837).jpg",
+   "plain": true
+  },
+  {
+   "shows": "General Motors Building 5th Avenue",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/General_Motors_Building_5th_Avenue.jpg/1280px-General_Motors_Building_5th_Avenue.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/General_Motors_Building_5th_Avenue.jpg/500px-General_Motors_Building_5th_Avenue.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:General_Motors_Building_5th_Avenue.jpg",
    "plain": true
   }
  ]
