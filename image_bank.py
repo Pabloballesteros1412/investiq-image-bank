@@ -53,7 +53,7 @@ with "manual": ["exclude"], then build --only <ID>; "manual": true freezes the s
 bank/universe.json, on a company: "commons_category", "ceo", "image" or "name" corrected by hand and listed
 in "manual" (e.g. "manual": ["commons_category"]) survive the next `universe`.
 """
-import csv, html, json, os, re, sys, threading, time, unicodedata, urllib.error, urllib.parse, urllib.request
+import csv, html, http.client, json, os, re, sys, threading, time, unicodedata, urllib.error, urllib.parse, urllib.request
 from collections import OrderedDict
 from concurrent.futures import Future, ThreadPoolExecutor
 from datetime import date
@@ -271,7 +271,7 @@ def get_json(params, url=COMMONS_API, tries=8):
                 raise
             print(f"  (HTTP {e.code} from {urllib.parse.urlsplit(url).netloc}, waiting {wait_for(e, attempt)} s)", file=sys.stderr)
             time.sleep(wait_for(e, attempt))
-        except urllib.error.URLError:
+        except (urllib.error.URLError, OSError, http.client.HTTPException):  # also a reset or a cut-off answer
             if attempt == tries - 1:
                 raise
             time.sleep(5 * (attempt + 1))

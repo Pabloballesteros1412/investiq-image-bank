@@ -5739,6 +5739,56 @@
     "track": "https://api.unsplash.com/photos/KDOigAcQ8PE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8V2F5bW98ZW58MXx8fHwxNzkzOTYwMDI4fDA"
    },
    {
+    "shot": "hand",
+    "shows": "Google Headquarters, Mountain View, California",
+    "file": "loc:2013630580",
+    "page": "https://www.loc.gov/item/2013630580/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/1200,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/500,/0/default.jpg",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "hand",
+    "shows": "Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California",
+    "file": "loc:2013630577",
+    "page": "https://www.loc.gov/item/2013630577/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/2250,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/500,/0/default.jpg",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
     "shot": "b8",
     "shows": "Computer screen showing google search",
     "file": "unsplash:c4aT8MfEzdw",
@@ -6334,6 +6384,56 @@
     "author_url": "https://www.flickr.com/photos/7940758@N07",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Google Headquarters, Mountain View, California",
+    "file": "loc:2013630578",
+    "page": "https://www.loc.gov/item/2013630578/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21150/full/1200,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21150/full/500,/0/default.jpg",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "hand",
+    "shows": "[Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California]",
+    "file": "loc:2013630576",
+    "page": "https://www.loc.gov/item/2013630576/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21148/full/2250,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21148/full/500,/0/default.jpg",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    }
   ],
   "checked": "2026-11-06",
@@ -11120,6 +11220,31 @@
     "author_url": "https://www.flickr.com/photos/14876067@N00",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Apple Store, 5th Avenue, New York, New York",
+    "file": "loc:2010630295",
+    "page": "https://www.loc.gov/item/2010630295/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04302/full/1828,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04302/full/500,/0/default.jpg",
+    "size": [
+     1828,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2007,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
     "shot": "hand",
@@ -17236,6 +17361,58 @@
     "provider": "flickr",
     "author_url": "https://www.flickr.com/photos/52378535@N06",
     "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "The corporate headquarters for GEICO (1959) is an International Style complex of carefully articulated buildings in Chevy Chase, Maryland",
+    "file": "loc:2018697969",
+    "page": "https://www.loc.gov/item/2018697969/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/49200/49200v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/49200/49200r.jpg",
+    "size": [
+     1024,
+     1003
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2014,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "An old-style location of the Dairy Queen ice-cream shop chain in Carbondale, Illinois",
+    "file": "loc:2020721471",
+    "page": "https://www.loc.gov/item/2020721471/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/59200/59275v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/59200/59275r.jpg",
+    "size": [
+     1024,
+     627
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2019,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
     "low_res": true
    }
   ],
@@ -49620,6 +49797,32 @@
     "author_url": "https://www.flickr.com/photos/88575173@N00",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "View from the 27th-floor observation deck of the Louisiana State Capitol in Baton Rouge, one of America's best-known state capitol buildings",
+    "file": "loc:2021755875",
+    "page": "https://www.loc.gov/item/2021755875/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/67600/67654v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/67600/67654r.jpg",
+    "size": [
+     1024,
+     363
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2021,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+    "low_res": true
    }
   ],
   "checked": "2026-11-06",
@@ -55131,6 +55334,32 @@
     "how": "hand-picked"
    },
    {
+    "shot": "hand",
+    "shows": "The former General Electric Co. headquarters building, now (in 2018) a research facility, in Schenectady, New York",
+    "file": "loc:2018700863",
+    "page": "https://www.loc.gov/item/2018700863/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/52700/52787v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/52700/52787r.jpg",
+    "size": [
+     1024,
+     753
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2018,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+    "low_res": true
+   },
+   {
     "shot": "ge9x",
     "shows": "777X Roll-Out (blurred)",
     "file": "File:777X Roll-Out (46649681164) (blurred).jpg",
@@ -55463,6 +55692,31 @@
     "author_url": "https://www.flickr.com/photos/51764518@N02",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Remnants of an old \"GE\" (for General Electric) sign at the Johnson Electric Co. in Pueblo, Colorado",
+    "file": "loc:2015632344",
+    "page": "https://www.loc.gov/item/2015632344/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32300:32329/full/1200,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32300:32329/full/500,/0/default.jpg",
+    "size": [
+     1200,
+     1798
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2015,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    }
   ],
   "checked": "2026-11-06",
@@ -57994,6 +58248,31 @@
     "author_url": "https://www.flickr.com/photos/90208834@N00",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Goldman Sachs Tower in Jersey City, New Jersey",
+    "file": "loc:2017882213",
+    "page": "https://www.loc.gov/item/2017882213/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45464/full/2231,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45464/full/500,/0/default.jpg",
+    "size": [
+     2231,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2017,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
     "shot": "b1",
@@ -64064,6 +64343,58 @@
     "year": 2017,
     "how": "Commons category",
     "category": "HII"
+   },
+   {
+    "shot": "hand",
+    "shows": "The Newport News Shipbuilding yard, on Chesapeake Bay in Newport News, Virginia, part of the state's \"Tidewater\" area where the bay and the James River meet the Atlantic Ocean",
+    "file": "loc:2020724706",
+    "page": "https://www.loc.gov/item/2020724706/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/61500/61541v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/61500/61541r.jpg",
+    "size": [
+     1024,
+     690
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2019,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "The Newport News Shipbuilding yard, on Chesapeake Bay in Newport News, Virginia, part of the state's \"Tidewater\" area where the bay and the James River meet the Atlantic Ocean",
+    "file": "loc:2020724707",
+    "page": "https://www.loc.gov/item/2020724707/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/61500/61542v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/61500/61542r.jpg",
+    "size": [
+     1024,
+     682
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2019,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+    "low_res": true
    }
   ],
   "checked": "2026-11-04",
@@ -66092,6 +66423,58 @@
     "how": "hand-picked"
    },
    {
+    "shot": "hand",
+    "shows": "Linda Qian, an employee in a cleanroom \"bunny suit,\" works at the Intel Corporation's wafer fabrication facility in Chandler, Arizona",
+    "file": "loc:2018703085",
+    "page": "https://www.loc.gov/item/2018703085/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55097v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55097r.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2018,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Margaret Henschel, an employee at the Intel Corporation's wafer fabrication facility in Chandler, Arizona, moves through its cleanroom in her industrial \"bunny suit\"",
+    "file": "loc:2018703081",
+    "page": "https://www.loc.gov/item/2018703081/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55093v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55093r.jpg",
+    "size": [
+     1024,
+     733
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2018,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+    "low_res": true
+   },
+   {
     "shot": "b6",
     "shows": "Intel processor on black motherboard",
     "file": "unsplash:CKpBhTXvLis",
@@ -66694,6 +67077,32 @@
     "provider": "flickr",
     "author_url": "https://www.flickr.com/photos/31029865@N06",
     "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Kenneth Rudolph (left) and John Hojnacki work in cleanroom \"bunny suits\" at the Intel Corporation's wafer fabrication facility in Chandler, Arizona",
+    "file": "loc:2018703083",
+    "page": "https://www.loc.gov/item/2018703083/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55095v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55095r.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2018,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
     "low_res": true
    }
   ],
@@ -99921,6 +100330,31 @@
     "low_res": true
    },
    {
+    "shot": "hand",
+    "shows": "Pepsi sign, located at Meeker's Harware store in Danbury, Connecticut",
+    "file": "loc:2012631635",
+    "page": "https://www.loc.gov/item/2012631635/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20200:20226/full/1249,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20200:20226/full/500,/0/default.jpg",
+    "size": [
+     1249,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2011,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
     "shot": "b8",
     "shows": "Gatorade frost bottles are displayed in a store",
     "file": "unsplash:_2EKK3841vU",
@@ -100514,6 +100948,58 @@
     "provider": "flickr",
     "author_url": "https://www.flickr.com/photos/37171504@N00",
     "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Vintage sign for the soft drink Pepsi-Cola in Bisbee, Arizona. Pepsi-Cola was a prominent competitor of the better-known and more international Coca-Cola brand. By the turn of the 20th Century, Pepsi-",
+    "file": "loc:2018663397",
+    "page": "https://www.loc.gov/item/2018663397/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/49600/49678v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/49600/49678r.jpg",
+    "size": [
+     1024,
+     595
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2018,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "The proprietors of Big Bear's Market & Deli in Springdale, Oregon, turned a commercial sign touting the soft drink Pepsi-Cola into a mural suggesting the store's rural location along the Historic Colu",
+    "file": "loc:2018699441",
+    "page": "https://www.loc.gov/item/2018699441/",
+    "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/51200/51239v.jpg",
+    "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/51200/51239r.jpg",
+    "size": [
+     1024,
+     709
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2018,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
     "low_res": true
    }
   ],
@@ -182286,32 +182772,32 @@
    "space economy",
    "rockets"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "rocket-night",
-    "shows": "A long exposure rocket launch arc over a dark body of water at night",
-    "file": "unsplash:TV2gg2kZD1o",
-    "page": "https://unsplash.com/photos/rocket-launch-arc-over-dark-water-TV2gg2kZD1o?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "An orange light trail streaks into the dark night sky as a Falcon 9 rocket launches a commercial satellite.",
+    "file": "wordpress:167682",
+    "page": "https://wordpress.org/photos/photo/282693d1f2/",
+    "url": "https://pd.w.org/2025/12/282693d1f28b74fb7.54434343.jpeg",
+    "preview": "https://pd.w.org/2025/12/282693d1f28b74fb7.54434343-768x512.jpeg",
     "size": [
-     2250,
-     1500
+     4461,
+     2974
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by SpaceX on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "SpaceX",
-    "year": 2016,
+    "credit": "Photo by Nattanon Dungsunenarn on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Nattanon Dungsunenarn",
+    "year": 2025,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@spacex?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/TV2gg2kZD1o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA"
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/nutn0n/"
    },
    {
     "shot": "satellite",
@@ -182341,11 +182827,11 @@
    },
    {
     "shot": "earth",
-    "shows": "Dramatic Views of Hurricane Florence from the International Space Station From 9 12",
-    "file": "File:Dramatic Views of Hurricane Florence from the International Space Station From 9 12 (42828603210).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/1920px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg/500px-Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_%2842828603210%29.jpg",
+    "shows": "The Earth's moon in its waning gibbous stage",
+    "file": "nasa:iss058e024106",
+    "page": "https://images.nasa.gov/details/iss058e024106",
+    "url": "https://images-assets.nasa.gov/image/iss058e024106/iss058e024106~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/iss058e024106/iss058e024106~medium.jpg",
     "size": [
      1920,
      1280
@@ -182354,13 +182840,15 @@
      0.5,
      0.5
     ],
-    "credit": "NASA/Goddard Space Flight Center, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "NASA/Goddard Space Flight Center",
-    "year": 2018,
-    "how": "catalog"
+    "credit": "Photo: NASA, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
    },
    {
     "shot": "iss",
@@ -182390,29 +182878,26 @@
    },
    {
     "shot": "new-glenn",
-    "shows": "Water falls between brown rock formation during daytime",
-    "file": "unsplash:TfK2cq9WzDE",
-    "page": "https://unsplash.com/photos/water-falls-between-brown-rock-formation-during-daytime-TfK2cq9WzDE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1602677691639-af0590030f51?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TmV3JTIwR2xlbm58ZW58MXx8fHwxNzkzOTE2NjYzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1602677691639-af0590030f51?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TmV3JTIwR2xlbm58ZW58MXx8fHwxNzkzOTE2NjYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "New Glenn launch signals new era for Space Launch Complex 36",
+    "file": "File:New Glenn launch signals new era for Space Launch Complex 36 (8832113).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_(8832113).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_%288832113%29.jpg/1920px-New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_%288832113%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_%288832113%29.jpg/500px-New_Glenn_launch_signals_new_era_for_Space_Launch_Complex_36_%288832113%29.jpg",
     "size": [
-     2250,
-     1500
+     1920,
+     1755
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Tyler Rutherford on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Tyler Rutherford",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@tylerjr14?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/TfK2cq9WzDE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TmV3JTIwR2xlbm58ZW58MXx8fHwxNzkzOTE2NjYzfDA"
+    "credit": "U.S. Space Force 45SW by Senior Airman Samuel Becker, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "U.S. Space Force 45SW by Senior Airman Samuel Becker",
+    "year": 2025,
+    "how": "catalog"
    },
    {
     "shot": "rocket-lab",
@@ -182439,29 +182924,28 @@
    },
    {
     "shot": "mars-rover",
-    "shows": "Grey plastic capsule",
-    "file": "unsplash:S5c8MV04URs",
-    "page": "https://unsplash.com/photos/grey-plastic-capsule-S5c8MV04URs?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1554234221-2ed6b07f7f73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycyUyMHJvdmVyfGVufDF8fHx8MTc5MzkxNjY2Nnww&ixlib=rb-4.1.0&w=2241&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1554234221-2ed6b07f7f73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycyUyMHJvdmVyfGVufDF8fHx8MTc5MzkxNjY2Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Artist Concept of Rover on Mars",
+    "file": "nasa:PIA04413",
+    "page": "https://images.nasa.gov/details/PIA04413",
+    "url": "https://images-assets.nasa.gov/image/PIA04413/PIA04413~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/PIA04413/PIA04413~medium.jpg",
     "size": [
-     2241,
-     1500
+     1920,
+     1536
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Chris Boyer on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Chris Boyer",
-    "year": 2019,
+    "credit": "Photo: NASA/JPL/Cornell University, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/JPL/Cornell University",
+    "year": 2003,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@csgboyer?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/S5c8MV04URs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TWFycyUyMHJvdmVyfGVufDF8fHx8MTc5MzkxNjY2Nnww"
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
    },
    {
     "shot": "james-webb-space-telescope",
@@ -182488,26 +182972,28 @@
    },
    {
     "shot": "rocket-factory",
-    "shows": "A-4 (V-2) rocket engine at the Peenemünde Historical Technical Museum",
-    "file": "File:A-4 (V-2) rocket engine at the Peenemünde Historical Technical Museum.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A-4_(V-2)_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/A-4_%28V-2%29_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg/1280px-A-4_%28V-2%29_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/A-4_%28V-2%29_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg/500px-A-4_%28V-2%29_rocket_engine_at_the_Peenem%C3%BCnde_Historical_Technical_Museum.jpg",
+    "shows": "Robert H. Champion -Director NASA Michoud Assembly Facility",
+    "file": "nasa:MAF_20200903_Champion_03",
+    "page": "https://images.nasa.gov/details/MAF_20200903_Champion_03",
+    "url": "https://images-assets.nasa.gov/image/MAF_20200903_Champion_03/MAF_20200903_Champion_03~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/MAF_20200903_Champion_03/MAF_20200903_Champion_03~medium.jpg",
     "size": [
-     1280,
-     2276
+     1920,
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Siarhei Besarab, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Siarhei Besarab",
-    "year": 2025,
-    "how": "catalog"
+    "credit": "Photo: NASA/Michael DeMocker, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/Michael DeMocker",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
    },
    {
     "shot": "space-launch-system",
@@ -182534,10 +183020,987 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@arw_?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/usmMdpXd66k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U3BhY2UlMjBMYXVuY2glMjBTeXN0ZW18ZW58MXx8fHwxNzkzOTE2NjcwfDA"
+   },
+   {
+    "shot": "rocket",
+    "shows": "Soyuz rocket launches from Baikonur launch pad",
+    "file": "unsplash:JkaKy_77wF8",
+    "page": "https://unsplash.com/photos/soyuz-rocket-launches-from-baikonur-launch-pad-JkaKy_77wF8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1614642240262-a452c2c11724?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1614642240262-a452c2c11724?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1697
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by NASA on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "NASA",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nasa?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JkaKy_77wF8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww"
+   },
+   {
+    "shot": "space",
+    "shows": "Hubble ultra deep field",
+    "file": "File:Hubble ultra deep field.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hubble_ultra_deep_field.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/1920px-Hubble_ultra_deep_field.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/500px-Hubble_ultra_deep_field.jpg",
+    "size": [
+     1920,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA and the European Space Agency., public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA and the European Space Agency.",
+    "year": 2003,
+    "how": "catalog"
+   },
+   {
+    "shot": "astronaut",
+    "shows": "Buzz aldrin walking on the moon",
+    "file": "unsplash:e5eDHbmHprg",
+    "page": "https://unsplash.com/photos/buzz-aldrin-walking-on-the-moon-e5eDHbmHprg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1541873676-a18131494184?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YXN0cm9uYXV0fGVufDF8fHx8MTc5NDU0Mjc3OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1541873676-a18131494184?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YXN0cm9uYXV0fGVufDF8fHx8MTc5NDU0Mjc3OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1667
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by History in HD on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "History in HD",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@historyhd?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/e5eDHbmHprg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YXN0cm9uYXV0fGVufDF8fHx8MTc5NDU0Mjc3OHww"
+   },
+   {
+    "shot": "rocket-launch",
+    "shows": "NASA joins last of five sections for Space Launch System Rocket stage",
+    "file": "nasa:MAF_20190917_ES Join at area 47_Jnl-0514",
+    "page": "https://images.nasa.gov/details/MAF_20190917_ES%20Join%20at%20area%2047_Jnl-0514",
+    "url": "https://images-assets.nasa.gov/image/MAF_20190917_ES%20Join%20at%20area%2047_Jnl-0514/MAF_20190917_ES%20Join%20at%20area%2047_Jnl-0514~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/MAF_20190917_ES%20Join%20at%20area%2047_Jnl-0514/MAF_20190917_ES%20Join%20at%20area%2047_Jnl-0514~medium.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: NASA/Jared Lyons, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/Jared Lyons",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
+   },
+   {
+    "shot": "earth-from-space",
+    "shows": "STS-135 final flyaround of ISS 1",
+    "file": "File:STS-135 final flyaround of ISS 1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:STS-135_final_flyaround_of_ISS_1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/STS-135_final_flyaround_of_ISS_1.jpg/1920px-STS-135_final_flyaround_of_ISS_1.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/STS-135_final_flyaround_of_ISS_1.jpg/500px-STS-135_final_flyaround_of_ISS_1.jpg",
+    "size": [
+     1920,
+     1278
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA",
+    "year": 2011,
+    "how": "catalog"
+   },
+   {
+    "shot": "spacex",
+    "shows": "CRS-20 Dragon–Enhanced",
+    "file": "File:CRS-20 Dragon–Enhanced.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CRS-20_Dragon%E2%80%93Enhanced.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CRS-20_Dragon%E2%80%93Enhanced.jpg/1920px-CRS-20_Dragon%E2%80%93Enhanced.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CRS-20_Dragon%E2%80%93Enhanced.jpg/500px-CRS-20_Dragon%E2%80%93Enhanced.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Original: NASA Johnson Space Center Derivative work: Nythar, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Original: NASA Johnson Space Center Derivative work: Nythar",
+    "year": 2020,
+    "how": "catalog"
+   },
+   {
+    "shot": "nasa",
+    "shows": "NASA Administrator Isaacman Visits NASA Stennis",
+    "file": "nasa:SSC-20260115-s00049H",
+    "page": "https://images.nasa.gov/details/SSC-20260115-s00049H",
+    "url": "https://images-assets.nasa.gov/image/SSC-20260115-s00049H/SSC-20260115-s00049H~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/SSC-20260115-s00049H/SSC-20260115-s00049H~medium.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: NASA/Danny Nowlin, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/Danny Nowlin",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
+   },
+   {
+    "shot": "space-station",
+    "shows": "NASA Range Supports Space Station",
+    "file": "nasa:AFRC2025-0164-24",
+    "page": "https://images.nasa.gov/details/AFRC2025-0164-24",
+    "url": "https://images-assets.nasa.gov/image/AFRC2025-0164-24/AFRC2025-0164-24~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/AFRC2025-0164-24/AFRC2025-0164-24~medium.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: NASA/Christopher LC Clark, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/Christopher LC Clark",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
+   },
+   {
+    "shot": "launch-pad",
+    "shows": "SLS at Launch Pad 39B",
+    "file": "nasa:KSC-20220318-PH-KLS01_0068",
+    "page": "https://images.nasa.gov/details/KSC-20220318-PH-KLS01_0068",
+    "url": "https://images-assets.nasa.gov/image/KSC-20220318-PH-KLS01_0068/KSC-20220318-PH-KLS01_0068~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/KSC-20220318-PH-KLS01_0068/KSC-20220318-PH-KLS01_0068~medium.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: NASA/Kim Shiflett, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/Kim Shiflett",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
+   },
+   {
+    "shot": "rocket-night",
+    "shows": "A long exposure rocket launch arc over a dark body of water at night",
+    "file": "unsplash:TV2gg2kZD1o",
+    "page": "https://unsplash.com/photos/rocket-launch-arc-over-dark-water-TV2gg2kZD1o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by SpaceX on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "SpaceX",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@spacex?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/TV2gg2kZD1o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cm9ja2V0JTIwbGF1bmNoJTIwbmlnaHR8ZW58MXx8fHwxNzkzOTEzMDU1fDA"
+   },
+   {
+    "shot": "satellite",
+    "shows": "Africa from low orbiting satellite Suomi NPP",
+    "file": "File:Africa from low orbiting satellite Suomi NPP.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Africa_from_low_orbiting_satellite_Suomi_NPP.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Africa_from_low_orbiting_satellite_Suomi_NPP.jpg/1920px-Africa_from_low_orbiting_satellite_Suomi_NPP.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Africa_from_low_orbiting_satellite_Suomi_NPP.jpg/500px-Africa_from_low_orbiting_satellite_Suomi_NPP.jpg",
+    "size": [
+     1920,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA/NOAA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA/NOAA",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "earth",
+    "shows": "International Space Station star trails - JSC2012E039800",
+    "file": "File:International Space Station star trails - JSC2012E039800.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:International_Space_Station_star_trails_-_JSC2012E039800.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/International_Space_Station_star_trails_-_JSC2012E039800.jpg/1920px-International_Space_Station_star_trails_-_JSC2012E039800.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/International_Space_Station_star_trails_-_JSC2012E039800.jpg/500px-International_Space_Station_star_trails_-_JSC2012E039800.jpg",
+    "size": [
+     1920,
+     1278
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA/Don Pettit, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA/Don Pettit",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "iss",
+    "shows": "A space station in the middle of the night",
+    "file": "unsplash:ZE0X3vAnBvs",
+    "page": "https://unsplash.com/photos/a-space-station-in-the-middle-of-the-night-ZE0X3vAnBvs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1633984726552-3ed7296dc5c9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8SW50ZXJuYXRpb25hbCUyMFNwYWNlJTIwU3RhdGlvbnxlbnwxfHx8fDE3OTM5MTY2NjJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1633984726552-3ed7296dc5c9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8SW50ZXJuYXRpb25hbCUyMFNwYWNlJTIwU3RhdGlvbnxlbnwxfHx8fDE3OTM5MTY2NjJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Norbert Kowalczyk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Norbert Kowalczyk",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@norbertkowalczyk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZE0X3vAnBvs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8SW50ZXJuYXRpb25hbCUyMFNwYWNlJTIwU3RhdGlvbnxlbnwxfHx8fDE3OTM5MTY2NjJ8MA"
+   },
+   {
+    "shot": "mars-rover",
+    "shows": "On May 19th, 2005, NASA's Mars Exploration Rover Spirit captured this stunning view as the Sun sank below the rim of Gusev crater on Mars. This Panoramic Camera",
+    "file": "File:MarsSunset.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MarsSunset.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MarsSunset.jpg/1920px-MarsSunset.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MarsSunset.jpg/500px-MarsSunset.jpg",
+    "size": [
+     1920,
+     1478
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA/JPL/Texas A&M/Cornell, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA/JPL/Texas A&M/Cornell",
+    "year": 2005,
+    "how": "catalog"
+   },
+   {
+    "shot": "james-webb-space-telescope",
+    "shows": "James Webb Space Telescope Mirror Reveal",
+    "file": "nasa:GSFC_20161102_2016-21507_012",
+    "page": "https://images.nasa.gov/details/GSFC_20161102_2016-21507_012",
+    "url": "https://images-assets.nasa.gov/image/GSFC_20161102_2016-21507_012/GSFC_20161102_2016-21507_012~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/GSFC_20161102_2016-21507_012/GSFC_20161102_2016-21507_012~medium.jpg",
+    "size": [
+     1920,
+     1484
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: NASA/GSFC/Bill Hrybyk, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/GSFC/Bill Hrybyk",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
+   },
+   {
+    "shot": "rocket-factory",
+    "shows": "Boeing CST-100 Starliner CFT Booster Departure",
+    "file": "nasa:KSC-20190524-PH_ENG01_0002",
+    "page": "https://images.nasa.gov/details/KSC-20190524-PH_ENG01_0002",
+    "url": "https://images-assets.nasa.gov/image/KSC-20190524-PH_ENG01_0002/KSC-20190524-PH_ENG01_0002~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/KSC-20190524-PH_ENG01_0002/KSC-20190524-PH_ENG01_0002~medium.jpg",
+    "size": [
+     1920,
+     1278
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: NASA/Emmett Given, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/Emmett Given",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
+   },
+   {
+    "shot": "space-launch-system",
+    "shows": "Rocket launching into a clear blue sky",
+    "file": "unsplash:Zyya1S43nFw",
+    "page": "https://unsplash.com/photos/rocket-launching-into-a-clear-blue-sky-Zyya1S43nFw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1776446655363-7f2fe3bbe920?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3BhY2UlMjBMYXVuY2glMjBTeXN0ZW18ZW58MXx8fHwxNzkzOTE2NjcwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1776446655363-7f2fe3bbe920?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3BhY2UlMjBMYXVuY2glMjBTeXN0ZW18ZW58MXx8fHwxNzkzOTE2NjcwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrew Wilson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrew Wilson",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@arw_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Zyya1S43nFw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U3BhY2UlMjBMYXVuY2glMjBTeXN0ZW18ZW58MXx8fHwxNzkzOTE2NjcwfDA"
+   },
+   {
+    "shot": "rocket",
+    "shows": "Rocket ship photography",
+    "file": "unsplash:uj3hvdfQujI",
+    "page": "https://unsplash.com/photos/rocket-ship-photography-uj3hvdfQujI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by SpaceX on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "SpaceX",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@spacex?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uj3hvdfQujI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww"
+   },
+   {
+    "shot": "space",
+    "shows": "CMB Timeline300 no WMAP",
+    "file": "File:CMB Timeline300 no WMAP.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/1920px-CMB_Timeline300_no_WMAP.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/500px-CMB_Timeline300_no_WMAP.jpg",
+    "size": [
+     1920,
+     1267
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA/WMAP Science Team, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA/WMAP Science Team",
+    "year": 2006,
+    "how": "catalog"
+   },
+   {
+    "shot": "astronaut",
+    "shows": "An astronaut in a white suit holding a glowing orb against a nebula",
+    "file": "unsplash:pGss3gTt5Mk",
+    "page": "https://unsplash.com/photos/astronaut-holding-glowing-orb-in-space-pGss3gTt5Mk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1655114722721-5c75114be5ab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YXN0cm9uYXV0fGVufDF8fHx8MTc5NDU0Mjc3OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1655114722721-5c75114be5ab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YXN0cm9uYXV0fGVufDF8fHx8MTc5NDU0Mjc3OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alex Shuper on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alex Shuper",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alexshuperart?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pGss3gTt5Mk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YXN0cm9uYXV0fGVufDF8fHx8MTc5NDU0Mjc3OHww"
+   },
+   {
+    "shot": "rocket-launch",
+    "shows": "Rocket launch light trail at dusk",
+    "file": "unsplash:-p-KCm6xB9I",
+    "page": "https://unsplash.com/photos/rocket-launch-light-trail-at-dusk--p-KCm6xB9I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1457364887197-9150188c107b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cm9ja2V0JTIwbGF1bmNofGVufDF8fHx8MTc5NDU0Mjg2Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1457364887197-9150188c107b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cm9ja2V0JTIwbGF1bmNofGVufDF8fHx8MTc5NDU0Mjg2Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by SpaceX on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "SpaceX",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@spacex?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-p-KCm6xB9I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cm9ja2V0JTIwbGF1bmNofGVufDF8fHx8MTc5NDU0Mjg2Mnww"
+   },
+   {
+    "shot": "earth-from-space",
+    "shows": "A view of the earth from space",
+    "file": "unsplash:OCe8cTGymSQ",
+    "page": "https://unsplash.com/photos/a-view-of-the-earth-from-space-OCe8cTGymSQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1663427929917-333d88949f7a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZWFydGglMjBmcm9tJTIwc3BhY2V8ZW58MXx8fHwxNzk0NTQyODkyfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1663427929917-333d88949f7a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZWFydGglMjBmcm9tJTIwc3BhY2V8ZW58MXx8fHwxNzk0NTQyODkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Carl Wang on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Carl Wang",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@carl_wang?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OCe8cTGymSQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZWFydGglMjBmcm9tJTIwc3BhY2V8ZW58MXx8fHwxNzk0NTQyODkyfDA"
+   },
+   {
+    "shot": "spacex",
+    "shows": "A building with a sign that says spacex on it",
+    "file": "unsplash:z4El4WAsF8w",
+    "page": "https://unsplash.com/photos/a-building-with-a-sign-that-says-spacex-on-it-z4El4WAsF8w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1711919600878-b5d9e77d3357?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8c3BhY2V4fGVufDF8fHx8MTc5NDU0MzAwNHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1711919600878-b5d9e77d3357?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8c3BhY2V4fGVufDF8fHx8MTc5NDU0MzAwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sven Piper on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sven Piper",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@svenpiper?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/z4El4WAsF8w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8c3BhY2V4fGVufDF8fHx8MTc5NDU0MzAwNHww"
+   },
+   {
+    "shot": "nasa",
+    "shows": "STS-129 Atlantis Ready to Fly",
+    "file": "File:STS-129 Atlantis Ready to Fly.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:STS-129_Atlantis_Ready_to_Fly.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/STS-129_Atlantis_Ready_to_Fly.jpg/1920px-STS-129_Atlantis_Ready_to_Fly.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/STS-129_Atlantis_Ready_to_Fly.jpg/500px-STS-129_Atlantis_Ready_to_Fly.jpg",
+    "size": [
+     1920,
+     1268
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Bill Ingalls, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Bill Ingalls",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "space-station",
+    "shows": "STS-134 International Space Station after undocking",
+    "file": "File:STS-134 International Space Station after undocking.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:STS-134_International_Space_Station_after_undocking.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/STS-134_International_Space_Station_after_undocking.jpg/1920px-STS-134_International_Space_Station_after_undocking.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/STS-134_International_Space_Station_after_undocking.jpg/500px-STS-134_International_Space_Station_after_undocking.jpg",
+    "size": [
+     1920,
+     1275
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA",
+    "year": 2011,
+    "how": "catalog"
+   },
+   {
+    "shot": "launch-pad",
+    "shows": "Brightly lit STS-135 on launch pad 39a",
+    "file": "File:Brightly lit STS-135 on launch pad 39a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brightly_lit_STS-135_on_launch_pad_39a.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Brightly_lit_STS-135_on_launch_pad_39a.jpg/1920px-Brightly_lit_STS-135_on_launch_pad_39a.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Brightly_lit_STS-135_on_launch_pad_39a.jpg/500px-Brightly_lit_STS-135_on_launch_pad_39a.jpg",
+    "size": [
+     1920,
+     1278
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Bill Ingalls, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Bill Ingalls",
+    "year": 2011,
+    "how": "catalog"
+   },
+   {
+    "shot": "rocket-night",
+    "shows": "Body of water during night time",
+    "file": "unsplash:9nw9SRmmfZw",
+    "page": "https://unsplash.com/photos/body-of-water-during-night-time-9nw9SRmmfZw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581293963396-4d8804f556c2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHJvY2tldCUyMGxhdW5jaCUyMG5pZ2h0fGVufDF8fHx8MTc5MzkxMzA1NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581293963396-4d8804f556c2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHJvY2tldCUyMGxhdW5jaCUyMG5pZ2h0fGVufDF8fHx8MTc5MzkxMzA1NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mike Bergmann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mike Bergmann",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@michael_lee_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9nw9SRmmfZw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHJvY2tldCUyMGxhdW5jaCUyMG5pZ2h0fGVufDF8fHx8MTc5MzkxMzA1NXww"
+   },
+   {
+    "shot": "satellite",
+    "shows": "Caspian Sea from orbit-NoRedLines",
+    "file": "File:Caspian Sea from orbit-NoRedLines.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Caspian_Sea_from_orbit-NoRedLines.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Caspian_Sea_from_orbit-NoRedLines.jpg/1280px-Caspian_Sea_from_orbit-NoRedLines.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Caspian_Sea_from_orbit-NoRedLines.jpg/500px-Caspian_Sea_from_orbit-NoRedLines.jpg",
+    "size": [
+     1280,
+     1629
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Caspian_Sea_from_orbit.jpg : Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC derivative work: IdLoveOne ( talk ), public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Caspian_Sea_from_orbit.jpg : Jeff Schmaltz, MODIS Rapid Response Team, NASA/GSFC derivative work: IdLoveOne ( talk )",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "earth",
+    "shows": "The official mission insignia of the Expedition 75 crew aboard the International Space Station",
+    "file": "nasa:iss075-s-001",
+    "page": "https://images.nasa.gov/details/iss075-s-001",
+    "url": "https://images-assets.nasa.gov/image/iss075-s-001/iss075-s-001~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/iss075-s-001/iss075-s-001~medium.jpg",
+    "size": [
+     1920,
+     1536
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: NASA/Fox Bonilla, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/Fox Bonilla",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
+   },
+   {
+    "shot": "iss",
+    "shows": "ISS March 2009",
+    "file": "File:ISS March 2009.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ISS_March_2009.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ISS_March_2009.jpg/1920px-ISS_March_2009.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ISS_March_2009.jpg/500px-ISS_March_2009.jpg",
+    "size": [
+     1920,
+     1446
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "National Aeronautics and Space Administration, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "National Aeronautics and Space Administration",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "mars-rover",
+    "shows": "PIA16239 High-Resolution Self-Portrait by Curiosity Rover Arm Camera",
+    "file": "File:PIA16239 High-Resolution Self-Portrait by Curiosity Rover Arm Camera.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg/1280px-PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg/500px-PIA16239_High-Resolution_Self-Portrait_by_Curiosity_Rover_Arm_Camera.jpg",
+    "size": [
+     1280,
+     1780
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA/JPL-Caltech/Malin Space Science Systems Derivative work including grading, distortion correction, minor local adjustments and rendering from tiff-file: Julian Herzog, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA/JPL-Caltech/Malin Space Science Systems Derivative work including grading, distortion correction, minor local adjustments and rendering from tiff-file: Julian Herzog",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "james-webb-space-telescope",
+    "shows": "Jupiter Showcases Auroras, Hazes (NIRCam Closeup)",
+    "file": "File:Jupiter Showcases Auroras, Hazes (NIRCam Closeup).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jupiter_Showcases_Auroras,_Hazes_(NIRCam_Closeup).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jupiter_Showcases_Auroras%2C_Hazes_%28NIRCam_Closeup%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jupiter_Showcases_Auroras%2C_Hazes_%28NIRCam_Closeup%29.jpg/500px-Jupiter_Showcases_Auroras%2C_Hazes_%28NIRCam_Closeup%29.jpg",
+    "size": [
+     1646,
+     1561
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA's James Webb Space Telescope. Image processing by Judy Schmidt., public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA's James Webb Space Telescope. Image processing by Judy Schmidt.",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "rocket-factory",
+    "shows": "Louisiana Governor John Bel Edwards Visits NASA’s Rocket Factory",
+    "file": "nasa:MAF_20171101_P_LED EVENT at MAF-18",
+    "page": "https://images.nasa.gov/details/MAF_20171101_P_LED%20EVENT%20at%20MAF-18",
+    "url": "https://images-assets.nasa.gov/image/MAF_20171101_P_LED%20EVENT%20at%20MAF-18/MAF_20171101_P_LED%20EVENT%20at%20MAF-18~large.jpg",
+    "preview": "https://images-assets.nasa.gov/image/MAF_20171101_P_LED%20EVENT%20at%20MAF-18/MAF_20171101_P_LED%20EVENT%20at%20MAF-18~medium.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: NASA/SBSEIPEL, public domain",
+    "licence": "Public domain (NASA)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "author": "NASA/SBSEIPEL",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "nasa",
+    "author_url": "https://images.nasa.gov"
+   },
+   {
+    "shot": "space-launch-system",
+    "shows": "Artemis I Launch (NHQ202211160017)",
+    "file": "File:Artemis I Launch (NHQ202211160017).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Artemis_I_Launch_(NHQ202211160017).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/1920px-Artemis_I_Launch_%28NHQ202211160017%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Artemis_I_Launch_%28NHQ202211160017%29.jpg/500px-Artemis_I_Launch_%28NHQ202211160017%29.jpg",
+    "size": [
+     1920,
+     1921
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Joel Kowsky, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Joel Kowsky",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "rocket",
+    "shows": "Space rocket with flames",
+    "file": "unsplash:NVWyN8GamCk",
+    "page": "https://unsplash.com/photos/space-rocket-with-flames-NVWyN8GamCk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1518365050014-70fe7232897f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1518365050014-70fe7232897f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bill Jelen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bill Jelen",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@billjelen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NVWyN8GamCk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cm9ja2V0fGVufDF8fHx8MTc5NDU0MjY0Nnww"
+   },
+   {
+    "shot": "space",
+    "shows": "Michael Gernhardt in space during STS-69 in 1995",
+    "file": "File:Michael Gernhardt in space during STS-69 in 1995.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Gernhardt_in_space_during_STS-69_in_1995.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Michael_Gernhardt_in_space_during_STS-69_in_1995.jpg/1920px-Michael_Gernhardt_in_space_during_STS-69_in_1995.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Michael_Gernhardt_in_space_during_STS-69_in_1995.jpg/500px-Michael_Gernhardt_in_space_during_STS-69_in_1995.jpg",
+    "size": [
+     1920,
+     1913
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA",
+    "year": 1995,
+    "how": "catalog"
+   },
+   {
+    "shot": "astronaut",
+    "shows": "ISS-32 American EVA b3 Aki Hoshide",
+    "file": "File:ISS-32 American EVA b3 Aki Hoshide.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ISS-32_American_EVA_b3_Aki_Hoshide.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/ISS-32_American_EVA_b3_Aki_Hoshide.jpg/1920px-ISS-32_American_EVA_b3_Aki_Hoshide.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/ISS-32_American_EVA_b3_Aki_Hoshide.jpg/500px-ISS-32_American_EVA_b3_Aki_Hoshide.jpg",
+    "size": [
+     1920,
+     1275
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Akihiko Hoshide / NASA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Akihiko Hoshide / NASA",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "rocket-launch",
+    "shows": "First NASA ISINGLASS rocket launch",
+    "file": "File:First NASA ISINGLASS rocket launch.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:First_NASA_ISINGLASS_rocket_launch.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/First_NASA_ISINGLASS_rocket_launch.jpg/1280px-First_NASA_ISINGLASS_rocket_launch.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/First_NASA_ISINGLASS_rocket_launch.jpg/500px-First_NASA_ISINGLASS_rocket_launch.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NASA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "earth-from-space",
+    "shows": "A view of the earth from space at night",
+    "file": "unsplash:Xu4Pz7GI9JY",
+    "page": "https://unsplash.com/photos/a-view-of-the-earth-from-space-at-night-Xu4Pz7GI9JY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1634176866089-b633f4aec882?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVhcnRoJTIwZnJvbSUyMHNwYWNlfGVufDF8fHx8MTc5NDU0Mjg5Mnww&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1634176866089-b633f4aec882?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVhcnRoJTIwZnJvbSUyMHNwYWNlfGVufDF8fHx8MTc5NDU0Mjg5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Anirudh on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Anirudh",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lanirudhreddy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Xu4Pz7GI9JY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVhcnRoJTIwZnJvbSUyMHNwYWNlfGVufDF8fHx8MTc5NDU0Mjg5Mnww"
+   },
+   {
+    "shot": "spacex",
+    "shows": "A spacex rocket is flying in the sky",
+    "file": "unsplash:PSDEqr7lE7k",
+    "page": "https://unsplash.com/photos/a-spacex-rocket-is-flying-in-the-sky-PSDEqr7lE7k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1634175734730-feeb73322946?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c3BhY2V4fGVufDF8fHx8MTc5NDU0MzAwNHww&ixlib=rb-4.1.0&w=2175&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1634175734730-feeb73322946?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c3BhY2V4fGVufDF8fHx8MTc5NDU0MzAwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2175,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Anirudh on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Anirudh",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lanirudhreddy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PSDEqr7lE7k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c3BhY2V4fGVufDF8fHx8MTc5NDU0MzAwNHww"
    }
   ],
-  "checked": "2026-11-05",
-  "target": 50
+  "checked": "2026-11-13"
  },
  "glp1": {
   "name": "Weight-loss drugs (GLP-1)",
@@ -182810,8 +184273,8 @@
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "target": 50,
+  "error": "IncompleteRead: IncompleteRead(10864 bytes read, 96324 more expected)"
  },
  "politics": {
   "name": "US politics & markets",
@@ -183067,8 +184530,8 @@
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "target": 50,
+  "error": "IncompleteRead: IncompleteRead(49280 bytes read, 838302 more expected)"
  },
  "europe": {
   "name": "Europe & the ECB",
@@ -183083,6 +184546,7 @@
    "dax",
    "stoxx"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "ecb",
@@ -183158,51 +184622,50 @@
    },
    {
     "shot": "la-defense",
-    "shows": "A view of a city at night from a high point of view",
-    "file": "unsplash:oo02-PJWXVM",
-    "page": "https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-high-point-of-view-oo02-PJWXVM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1679231926887-91b1ac5da431?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TGElMjBEJUMzJUE5ZmVuc2V8ZW58MXx8fHwxNzkzOTIwMjQ3fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1679231926887-91b1ac5da431?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TGElMjBEJUMzJUE5ZmVuc2V8ZW58MXx8fHwxNzkzOTIwMjQ3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Contemporary architecture, La Défense, Paris, France",
+    "file": "wordpress:2621",
+    "page": "https://wordpress.org/photos/photo/9961f294eb/",
+    "url": "https://pd.w.org/2022/01/9961f294ebb98518.86984711-2048x1536.jpg",
+    "preview": "https://pd.w.org/2022/01/9961f294ebb98518.86984711-768x576.jpg",
     "size": [
-     2400,
-     1277
+     2048,
+     1536
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Timelab on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Timelab",
-    "year": 2023,
+    "credit": "Photo by Michael Burridge on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Michael Burridge",
+    "year": 2022,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@timelabpro?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/oo02-PJWXVM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TGElMjBEJUMzJUE5ZmVuc2V8ZW58MXx8fHwxNzkzOTIwMjQ3fDA"
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/mburridge/"
    },
    {
     "shot": "euro-coins",
-    "shows": "Zoropsis spinimana with one euro coin",
-    "file": "File:Zoropsis spinimana with one euro coin 2024-08-28.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Zoropsis_spinimana_with_one_euro_coin_2024-08-28.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zoropsis_spinimana_with_one_euro_coin_2024-08-28.jpg/1920px-Zoropsis_spinimana_with_one_euro_coin_2024-08-28.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zoropsis_spinimana_with_one_euro_coin_2024-08-28.jpg/500px-Zoropsis_spinimana_with_one_euro_coin_2024-08-28.jpg",
+    "shows": "1 Euro at Republica 2023 02",
+    "file": "File:1 Euro at Republica 2023 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1_Euro_at_Republica_2023_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1_Euro_at_Republica_2023_02.jpg/1280px-1_Euro_at_Republica_2023_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1_Euro_at_Republica_2023_02.jpg/500px-1_Euro_at_Republica_2023_02.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Hubert Berberich ( HubiB ), CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Hubert Berberich ( HubiB )",
-    "year": 2024,
+    "credit": "Kritzolina, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Kritzolina",
+    "year": 2023,
     "how": "catalog"
    },
    {
@@ -183283,11 +184746,11 @@
    },
    {
     "shot": "deutsche-borse",
-    "shows": "Frankfurt Stock Exchange (Ank Kumar) 03",
-    "file": "File:Frankfurt Stock Exchange (Ank Kumar) 03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg/1920px-Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg/500px-Frankfurt_Stock_Exchange_%28Ank_Kumar%29_03.jpg",
+    "shows": "Frankfurt Stock Exchange (Ank Kumar) 02",
+    "file": "File:Frankfurt Stock Exchange (Ank Kumar) 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange_(Ank_Kumar)_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_02.jpg/1920px-Frankfurt_Stock_Exchange_%28Ank_Kumar%29_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Frankfurt_Stock_Exchange_%28Ank_Kumar%29_02.jpg/500px-Frankfurt_Stock_Exchange_%28Ank_Kumar%29_02.jpg",
     "size": [
      1920,
      1280
@@ -183306,30 +184769,1068 @@
    },
    {
     "shot": "brussels-european-quarter",
-    "shows": "European Quarter Brussels 01",
-    "file": "File:European Quarter Brussels 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:European_Quarter_Brussels_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/European_Quarter_Brussels_01.jpg/1280px-European_Quarter_Brussels_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/European_Quarter_Brussels_01.jpg/500px-European_Quarter_Brussels_01.jpg",
+    "shows": "Rue de la Loi, European Quarter in Brussels during civil twilight",
+    "file": "File:Rue de la Loi, European Quarter in Brussels during civil twilight (DSCF6957).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rue_de_la_Loi,_European_Quarter_in_Brussels_during_civil_twilight_(DSCF6957).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg/1920px-Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg/500px-Rue_de_la_Loi%2C_European_Quarter_in_Brussels_during_civil_twilight_%28DSCF6957%29.jpg",
     "size": [
-     1280,
+     1920,
+     1342
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Trougnouf (Benoit Brummer), CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Trougnouf (Benoit Brummer)",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "euro",
+    "shows": "A scattered pile of various euro banknotes including twenty, one hundred, and two hundred denominations",
+    "file": "unsplash:kkACMU0GYko",
+    "page": "https://unsplash.com/photos/euro-banknotes-in-various-denominations-kkACMU0GYko?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1621280336935-ed7cae618aac?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1621280336935-ed7cae618aac?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ibrahim Boran on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ibrahim Boran",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ibrahimboran?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/kkACMU0GYko/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "european-union-flag",
+    "shows": "Row of european union flags",
+    "file": "unsplash:0NRkVddA2fw",
+    "page": "https://unsplash.com/photos/row-of-european-union-flags-0NRkVddA2fw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1594810205183-18a8b0ce6c13?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1594810205183-18a8b0ce6c13?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Guillaume Périgois on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Guillaume Périgois",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@guillaumeperigois?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0NRkVddA2fw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "brussels",
+    "shows": "Green trees and brown and white concrete building during daytime",
+    "file": "unsplash:SXcA2DfasvM",
+    "page": "https://unsplash.com/photos/green-trees-and-brown-and-white-concrete-building-during-daytime-SXcA2DfasvM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1626013969117-8c13864fdb2d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1626013969117-8c13864fdb2d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Najib Samatar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Najib Samatar",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@samatarstudios?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SXcA2DfasvM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "paris",
+    "shows": "The Pont Alexandre III bridge illuminated at night in Paris, France",
+    "file": "unsplash:R5scocnOOdM",
+    "page": "https://unsplash.com/photos/pont-alexandre-iii-bridge-in-paris-R5scocnOOdM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA&ixlib=rb-4.1.0&w=2121&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2121,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Léonard Cotte on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Léonard Cotte",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ettocl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/R5scocnOOdM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "london-city",
+    "shows": "Super moon over City of London from Tate Modern 6",
+    "file": "File:Super moon over City of London from Tate Modern 2018-01-31 6.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_6.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_6.jpg/1920px-Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_6.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_6.jpg/500px-Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_6.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Colin, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Colin",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "european-parliament",
+    "shows": "Glass walled building during daytime",
+    "file": "unsplash:wVqC9dty3VQ",
+    "page": "https://unsplash.com/photos/glass-walled-building-during-daytime-wVqC9dty3VQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1594811815859-c354d5afc3dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXVyb3BlYW4lMjBwYXJsaWFtZW50fGVufDF8fHx8MTc5NDU0MzMwMnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1594811815859-c354d5afc3dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXVyb3BlYW4lMjBwYXJsaWFtZW50fGVufDF8fHx8MTc5NDU0MzMwMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Guillaume Périgois on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Guillaume Périgois",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@guillaumeperigois?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/wVqC9dty3VQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXVyb3BlYW4lMjBwYXJsaWFtZW50fGVufDF8fHx8MTc5NDU0MzMwMnww",
+    "track_pending": true
+   },
+   {
+    "shot": "berlin",
+    "shows": "Needle tower among small buildings",
+    "file": "unsplash:g8DI2ZZFt8I",
+    "page": "https://unsplash.com/photos/needle-tower-among-small-buildings-g8DI2ZZFt8I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1566404791232-af9fe0ae8f8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1566404791232-af9fe0ae8f8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Adam Vradenburg on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Adam Vradenburg",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vradenburg?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/g8DI2ZZFt8I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "euro-banknotes",
+    "shows": "20 euro bill on white and blue textile",
+    "file": "unsplash:r0zrjWheW2g",
+    "page": "https://unsplash.com/photos/20-euro-bill-on-white-and-blue-textile-r0zrjWheW2g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1621378864046-0122e4a415a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXVybyUyMGJhbmtub3Rlc3xlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1621378864046-0122e4a415a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXVybyUyMGJhbmtub3Rlc3xlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ibrahim Boran on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ibrahim Boran",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ibrahimboran?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/r0zrjWheW2g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXVybyUyMGJhbmtub3Rlc3xlbnwxfHx8fDE3OTQ1NDMzODR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "eu-flag",
+    "shows": "Blue and yellow star flag",
+    "file": "unsplash:8Yw6tsB8tnc",
+    "page": "https://unsplash.com/photos/blue-and-yellow-star-flag-8Yw6tsB8tnc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1608817576203-3c27ed168bd2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZXUlMjBmbGFnfGVufDF8fHx8MTc5NDU0MzQxN3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1608817576203-3c27ed168bd2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZXUlMjBmbGFnfGVufDF8fHx8MTc5NDU0MzQxN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1404
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Christian Lue on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christian Lue",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@christianlue?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8Yw6tsB8tnc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZXUlMjBmbGFnfGVufDF8fHx8MTc5NDU0MzQxN3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "ecb",
+    "shows": "Europäische Zentralbank Frankfurt",
+    "file": "File:Europäische Zentralbank Frankfurt.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Zentralbank_Frankfurt.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/1920px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/500px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg",
+    "size": [
+     1920,
+     1480
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Thomas Wolf , www.foto-tw.de, CC BY-SA 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "Thomas Wolf , www.foto-tw.de",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "frankfurt",
+    "shows": "Skyline Frankfurt 2011-01",
+    "file": "File:Skyline Frankfurt 2011-01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_2011-01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyline_Frankfurt_2011-01.jpg/1920px-Skyline_Frankfurt_2011-01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyline_Frankfurt_2011-01.jpg/500px-Skyline_Frankfurt_2011-01.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Thomas Wolf ( Der Wolf im Wald ), CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Thomas Wolf ( Der Wolf im Wald )",
+    "year": 2011,
+    "how": "catalog"
+   },
+   {
+    "shot": "la-defense",
+    "shows": "A view of a city at night from a high point of view",
+    "file": "unsplash:oo02-PJWXVM",
+    "page": "https://unsplash.com/photos/a-view-of-a-city-at-night-from-a-high-point-of-view-oo02-PJWXVM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1679231926887-91b1ac5da431?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TGElMjBEJUMzJUE5ZmVuc2V8ZW58MXx8fHwxNzkzOTIwMjQ3fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1679231926887-91b1ac5da431?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TGElMjBEJUMzJUE5ZmVuc2V8ZW58MXx8fHwxNzkzOTIwMjQ3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1277
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Timelab on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Timelab",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@timelabpro?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oo02-PJWXVM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TGElMjBEJUMzJUE5ZmVuc2V8ZW58MXx8fHwxNzkzOTIwMjQ3fDA"
+   },
+   {
+    "shot": "berlaymont",
+    "shows": "Blue flag on pole near building",
+    "file": "unsplash:C241mbgtgys",
+    "page": "https://unsplash.com/photos/blue-flag-on-pole-near-building-C241mbgtgys?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1608817576152-26bbdb00afb7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QmVybGF5bW9udHxlbnwxfHx8fDE3OTM5MjAyNTJ8MA&ixlib=rb-4.1.0&w=2380&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1608817576152-26bbdb00afb7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QmVybGF5bW9udHxlbnwxfHx8fDE3OTM5MjAyNTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2380,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Christian Lue on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christian Lue",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@christianlue?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/C241mbgtgys/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QmVybGF5bW9udHxlbnwxfHx8fDE3OTM5MjAyNTJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "reichstag-building",
+    "shows": "White concrete building under cloudy sky during daytime",
+    "file": "unsplash:tccpANvOY_4",
+    "page": "https://unsplash.com/photos/white-concrete-building-under-cloudy-sky-during-daytime-tccpANvOY_4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1591079751210-718012d90ff7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UmVpY2hzdGFnJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzOTIwMjUzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1591079751210-718012d90ff7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UmVpY2hzdGFnJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzOTIwMjUzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by hoch3fotografie on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "hoch3fotografie",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hoch3fotografie?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tccpANvOY_4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UmVpY2hzdGFnJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzOTIwMjUzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "euro",
+    "shows": "A person holding a handful of crumpled euro banknotes in their cupped hands",
+    "file": "unsplash:Y_x747Yshlw",
+    "page": "https://unsplash.com/photos/person-holding-crumpled-euro-banknotes-Y_x747Yshlw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1527788263495-3518a5c1c42d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA&ixlib=rb-4.1.0&w=2348&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1527788263495-3518a5c1c42d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2348,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Christian Dubovan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christian Dubovan",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cdubo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Y_x747Yshlw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "european-union-flag",
+    "shows": "A blue flag with stars",
+    "file": "unsplash:1X3li7TGf6o",
+    "page": "https://unsplash.com/photos/a-blue-flag-with-stars-1X3li7TGf6o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1658823276022-d6613757faa3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1658823276022-d6613757faa3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alexey Larionov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alexey Larionov",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alexart251?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/1X3li7TGf6o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "brussels",
+    "shows": "Atomium, Brussels Belgium",
+    "file": "unsplash:JAEog_jEAo0",
+    "page": "https://unsplash.com/photos/atomium-brussels-belgium-JAEog_jEAo0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1573995890753-a4f23342db17?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1573995890753-a4f23342db17?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1680
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Cosmin Serban on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cosmin Serban",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cosminserban?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JAEog_jEAo0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "paris",
+    "shows": "Eiffel Tower, Paris France",
+    "file": "unsplash:nnzkZNYWHaU",
+    "page": "https://unsplash.com/photos/eiffel-tower-paris-france-nnzkZNYWHaU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2256,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Chris Karidis on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Chris Karidis",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chriskaridis?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nnzkZNYWHaU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "london-city",
+    "shows": "Guildhall, City of London - Diliff",
+    "file": "File:Guildhall, City of London - Diliff.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Guildhall,_City_of_London_-_Diliff.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Guildhall%2C_City_of_London_-_Diliff.jpg/1920px-Guildhall%2C_City_of_London_-_Diliff.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Guildhall%2C_City_of_London_-_Diliff.jpg/500px-Guildhall%2C_City_of_London_-_Diliff.jpg",
+    "size": [
+     1920,
      1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "FrDr, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Diliff",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "european-parliament",
+    "shows": "European Parliament Strasbourg Hemicycle - Diliff",
+    "file": "File:European Parliament Strasbourg Hemicycle - Diliff.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1920px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/500px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+    "size": [
+     1920,
+     1084
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Diliff",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "berlin",
+    "shows": "The Brandenburg Gate illuminated at night with a clear blue sky in Berlin",
+    "file": "unsplash:uFGi0_YciE0",
+    "page": "https://unsplash.com/photos/brandenburg-gate-at-night-in-berlin-uFGi0_YciE0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1587330979470-3595ac045ab0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1587330979470-3595ac045ab0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Florian Wehde on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Florian Wehde",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@florianwehde?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uFGi0_YciE0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "euro-banknotes",
+    "shows": "50 and 20 euro banknotes",
+    "file": "unsplash:JhbrPBIZj0o",
+    "page": "https://unsplash.com/photos/50-and-20-euro-banknotes-JhbrPBIZj0o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1621981386829-9b458a2cddde?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZXVybyUyMGJhbmtub3Rlc3xlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1621981386829-9b458a2cddde?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZXVybyUyMGJhbmtub3Rlc3xlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ibrahim Boran on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ibrahim Boran",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ibrahimboran?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JhbrPBIZj0o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZXVybyUyMGJhbmtub3Rlc3xlbnwxfHx8fDE3OTQ1NDMzODR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "eu-flag",
+    "shows": "Blue and yellow stars flag on pole",
+    "file": "unsplash:ueLA4x2gZf8",
+    "page": "https://unsplash.com/photos/blue-and-yellow-stars-flag-on-pole-ueLA4x2gZf8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1531412501799-1b4c354ca957?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZXUlMjBmbGFnfGVufDF8fHx8MTc5NDU0MzQxN3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1531412501799-1b4c354ca957?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZXUlMjBmbGFnfGVufDF8fHx8MTc5NDU0MzQxN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Christian Wiediger on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christian Wiediger",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@christianw?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ueLA4x2gZf8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZXUlMjBmbGFnfGVufDF8fHx8MTc5NDU0MzQxN3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "ecb",
+    "shows": "Seat of the European Central Bank and Frankfurt Skyline at dawn 1",
+    "file": "File:Seat of the European Central Bank and Frankfurt Skyline at dawn 20150422 1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg/1920px-Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg/500px-Seat_of_the_European_Central_Bank_and_Frankfurt_Skyline_at_dawn_20150422_1.jpg",
+    "size": [
+     1920,
+     1008
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "DXR, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "FrDr",
-    "year": 2024,
+    "author": "DXR",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "frankfurt",
+    "shows": "River in city",
+    "file": "unsplash:m9TjCeDQvhE",
+    "page": "https://unsplash.com/photos/river-in-city-m9TjCeDQvhE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1564335357796-fe17930f8c57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEZyYW5rZnVydCUyMHNreWxpbmV8ZW58MXx8fHwxNzkzOTIwMjQ1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1564335357796-fe17930f8c57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEZyYW5rZnVydCUyMHNreWxpbmV8ZW58MXx8fHwxNzkzOTIwMjQ1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kai Pilger on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kai Pilger",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kaip?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/m9TjCeDQvhE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEZyYW5rZnVydCUyMHNreWxpbmV8ZW58MXx8fHwxNzkzOTIwMjQ1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "la-defense",
+    "shows": "Buildings during daytime",
+    "file": "unsplash:Sj5rnewuV5k",
+    "page": "https://unsplash.com/photos/buildings-during-daytime-Sj5rnewuV5k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1563998534358-8e1821a9cb4c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fExhJTIwRCVDMyVBOWZlbnNlfGVufDF8fHx8MTc5MzkyMDI0N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1563998534358-8e1821a9cb4c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fExhJTIwRCVDMyVBOWZlbnNlfGVufDF8fHx8MTc5MzkyMDI0N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1535
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Chantal Garnier on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Chantal Garnier",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chantalgarnier?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Sj5rnewuV5k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fExhJTIwRCVDMyVBOWZlbnNlfGVufDF8fHx8MTc5MzkyMDI0N3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "berlaymont",
+    "shows": "Blue flag on pole near building during daytime",
+    "file": "unsplash:HL4LEIyGEYU",
+    "page": "https://unsplash.com/photos/blue-flag-on-pole-near-building-during-daytime-HL4LEIyGEYU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1594810459121-0dc1e2271b67?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QmVybGF5bW9udHxlbnwxfHx8fDE3OTM5MjAyNTJ8MA&ixlib=rb-4.1.0&w=1958&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1594810459121-0dc1e2271b67?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QmVybGF5bW9udHxlbnwxfHx8fDE3OTM5MjAyNTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1958,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Guillaume Périgois on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Guillaume Périgois",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@guillaumeperigois?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HL4LEIyGEYU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QmVybGF5bW9udHxlbnwxfHx8fDE3OTM5MjAyNTJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "reichstag-building",
+    "shows": "Glass building under gray sky",
+    "file": "unsplash:C5mfoiSiMBw",
+    "page": "https://unsplash.com/photos/glass-building-under-gray-sky-C5mfoiSiMBw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1588673138155-53fc23bcad88?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UmVpY2hzdGFnJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzOTIwMjUzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1588673138155-53fc23bcad88?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UmVpY2hzdGFnJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzOTIwMjUzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ivan Rohovchenko on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ivan Rohovchenko",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ivrn?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/C5mfoiSiMBw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UmVpY2hzdGFnJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzOTIwMjUzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "euro",
+    "shows": "Euro banknote collection on wooden surface",
+    "file": "unsplash:ms6N-gBtbCQ",
+    "page": "https://unsplash.com/photos/euro-banknote-collection-on-wooden-surface-ms6N-gBtbCQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1579170053380-58064b2dee67?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1579170053380-58064b2dee67?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Markus Spiske on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Markus Spiske",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@markusspiske?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ms6N-gBtbCQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZXVyb3xlbnwxfHx8fDE3OTQ1NDMxMzJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "european-union-flag",
+    "shows": "A close up of a blue and yellow flag",
+    "file": "unsplash:RrOS23rbgnI",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-blue-and-yellow-flag-RrOS23rbgnI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1675855508248-83b25370ff61?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1675855508248-83b25370ff61?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2001,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by engin akyurt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "engin akyurt",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/RrOS23rbgnI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZXVyb3BlYW4lMjB1bmlvbiUyMGZsYWd8ZW58MXx8fHwxNzk0NTQzMTQxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "brussels",
+    "shows": "Photography of buildings during daytime",
+    "file": "unsplash:TUthZjfR3Ps",
+    "page": "https://unsplash.com/photos/photography-of-buildings-during-daytime-TUthZjfR3Ps?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1575845664732-ee40fdc525a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1575845664732-ee40fdc525a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by François Genon on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "François Genon",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@genon2?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/TUthZjfR3Ps/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YnJ1c3NlbHN8ZW58MXx8fHwxNzk0NTQzMTc2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "paris",
+    "shows": "Eiffel Tower at Paris, France",
+    "file": "unsplash:QAwciFlS1g4",
+    "page": "https://unsplash.com/photos/eiffel-tower-at-paris-france-QAwciFlS1g4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1431274172761-fca41d930114?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1431274172761-fca41d930114?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Anthony DELANOIX on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Anthony DELANOIX",
+    "year": 2015,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anthonydelanoix?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/QAwciFlS1g4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cGFyaXN8ZW58MXx8fHwxNzk0NTQzMTg0fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "london-city",
+    "shows": "City Hall, London, Spiral Staircase - 1",
+    "file": "File:City Hall, London, Spiral Staircase - 1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:City_Hall,_London,_Spiral_Staircase_-_1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/City_Hall%2C_London%2C_Spiral_Staircase_-_1.jpg/1920px-City_Hall%2C_London%2C_Spiral_Staircase_-_1.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/City_Hall%2C_London%2C_Spiral_Staircase_-_1.jpg/500px-City_Hall%2C_London%2C_Spiral_Staircase_-_1.jpg",
+    "size": [
+     1920,
+     1304
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Colin, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Colin",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "european-parliament",
+    "shows": "A circular view of a building with a sky background",
+    "file": "unsplash:njf7yG6S5xE",
+    "page": "https://unsplash.com/photos/a-circular-view-of-a-building-with-a-sky-background-njf7yG6S5xE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1639864281528-907c82a361c3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGV1cm9wZWFuJTIwcGFybGlhbWVudHxlbnwxfHx8fDE3OTQ1NDMzMDJ8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1639864281528-907c82a361c3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGV1cm9wZWFuJTIwcGFybGlhbWVudHxlbnwxfHx8fDE3OTQ1NDMzMDJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Paolo Margari on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Paolo Margari",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@paolomargari?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/njf7yG6S5xE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGV1cm9wZWFuJTIwcGFybGlhbWVudHxlbnwxfHx8fDE3OTQ1NDMzMDJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "berlin",
+    "shows": "Low-angle photography of Berlin Cathedral, Berlin, Germany during daytime",
+    "file": "unsplash:teGUtvdTiQ8",
+    "page": "https://unsplash.com/photos/low-angle-photography-of-berlin-cathedral-berlin-germany-during-daytime-teGUtvdTiQ8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1538685634737-24b83e3fa2f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1538685634737-24b83e3fa2f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Julia Solonina on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Julia Solonina",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@julie_soul?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/teGUtvdTiQ8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YmVybGlufGVufDF8fHx8MTc5NDU0MzM2M3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "euro-banknotes",
+    "shows": "A close-up of assorted euro banknotes",
+    "file": "unsplash:ORy-C_iPZXo",
+    "page": "https://unsplash.com/photos/a-close-up-of-assorted-euro-banknotes-ORy-C_iPZXo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1776542438036-d5cbda3bac43?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGV1cm8lMjBiYW5rbm90ZXN8ZW58MXx8fHwxNzk0NTQzMzg0fDA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1776542438036-d5cbda3bac43?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGV1cm8lMjBiYW5rbm90ZXN8ZW58MXx8fHwxNzk0NTQzMzg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2001,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Maxim Hopman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Maxim Hopman",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nampoh?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ORy-C_iPZXo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGV1cm8lMjBiYW5rbm90ZXN8ZW58MXx8fHwxNzk0NTQzMzg0fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "eu-flag",
+    "shows": "Regierungsviertel, Berlin-Mitte, , ako",
+    "file": "File:Regierungsviertel, Berlin-Mitte, 170325, ako.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Regierungsviertel,_Berlin-Mitte,_170325,_ako.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg/1920px-Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg/500px-Regierungsviertel%2C_Berlin-Mitte%2C_170325%2C_ako.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ansgar Koreng, CC BY-SA 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "Ansgar Koreng",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "ecb",
+    "shows": "Blue and yellow star decor",
+    "file": "unsplash:7y3G6s201Gk",
+    "page": "https://unsplash.com/photos/blue-and-yellow-star-decor-7y3G6s201Gk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1589395706442-2fb4c9e65489?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEV1cm9wZWFuJTIwQ2VudHJhbCUyMEJhbmslMjBGcmFua2Z1cnR8ZW58MXx8fHwxNzkzOTE2Njc5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1589395706442-2fb4c9e65489?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEV1cm9wZWFuJTIwQ2VudHJhbCUyMEJhbmslMjBGcmFua2Z1cnR8ZW58MXx8fHwxNzkzOTE2Njc5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by bruno neurath-wilson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "bruno neurath-wilson",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brunonw?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/7y3G6s201Gk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEV1cm9wZWFuJTIwQ2VudHJhbCUyMEJhbmslMjBGcmFua2Z1cnR8ZW58MXx8fHwxNzkzOTE2Njc5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "frankfurt",
+    "shows": "Frankfurter Altstadt mit Skyline 2019",
+    "file": "File:Frankfurter Altstadt mit Skyline 2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Frankfurter_Altstadt_mit_Skyline_2019.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurter_Altstadt_mit_Skyline_2019.jpg/1920px-Frankfurter_Altstadt_mit_Skyline_2019.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Frankfurter_Altstadt_mit_Skyline_2019.jpg/500px-Frankfurter_Altstadt_mit_Skyline_2019.jpg",
+    "size": [
+     1920,
+     1132
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Thomas Wolf , www.foto-tw.de, CC BY-SA 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "Thomas Wolf , www.foto-tw.de",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "la-defense",
+    "shows": "La Défense de nuit, Paris, France 2",
+    "file": "File:La Défense de nuit, Paris, France 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:La_D%C3%A9fense_de_nuit,_Paris,_France_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/La_D%C3%A9fense_de_nuit%2C_Paris%2C_France_2.jpg/1920px-La_D%C3%A9fense_de_nuit%2C_Paris%2C_France_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/La_D%C3%A9fense_de_nuit%2C_Paris%2C_France_2.jpg/500px-La_D%C3%A9fense_de_nuit%2C_Paris%2C_France_2.jpg",
+    "size": [
+     1920,
+     1365
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ros K, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Ros K",
+    "year": 2011,
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-05",
-  "target": 50
+  "checked": "2026-11-13"
  },
  "quantum": {
   "name": "Quantum computing",
