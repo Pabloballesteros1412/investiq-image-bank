@@ -175536,6 +175536,7 @@
    "electric cars",
    "batteries"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "charging",
@@ -175640,29 +175641,26 @@
    },
    {
     "shot": "ev-charging",
-    "shows": "A hand plugging a charging cable into a white electric vehicle",
-    "file": "unsplash:2jRNVr0ac7s",
-    "page": "https://unsplash.com/photos/electric-vehicle-charging-with-cable-2jRNVr0ac7s?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1704475336842-0ab3798abf0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXYlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5NDE5OTJ8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1704475336842-0ab3798abf0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXYlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5NDE5OTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Ev super charging station ,valakom",
+    "file": "File:Ev super charging station ,valakom.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ev_super_charging_station_,valakom.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ev_super_charging_station_%2Cvalakom.jpg/1920px-Ev_super_charging_station_%2Cvalakom.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ev_super_charging_station_%2Cvalakom.jpg/500px-Ev_super_charging_station_%2Cvalakom.jpg",
     "size": [
-     2249,
-     1500
+     1920,
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Zaptec on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Zaptec",
-    "year": 2024,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@zaptec?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/2jRNVr0ac7s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXYlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5NDE5OTJ8MA"
+    "credit": "Sujithshivam511, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Sujithshivam511",
+    "year": 2026,
+    "how": "catalog"
    },
    {
     "shot": "rivian",
@@ -175692,63 +175690,60 @@
    },
    {
     "shot": "battery",
-    "shows": "Person holding black and green electronic device",
-    "file": "unsplash:30D7430ywf4",
-    "page": "https://unsplash.com/photos/person-holding-black-and-green-electronic-device-30D7430ywf4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1592318348310-f31b61a931c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1592318348310-f31b61a931c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A bunch of black and white objects with a green arrow above them",
+    "file": "unsplash:73taIS3YeNQ",
+    "page": "https://unsplash.com/photos/a-bunch-of-black-and-white-objects-with-a-green-arrow-above-them-73taIS3YeNQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1722289016701-7661d52f38c5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1722289016701-7661d52f38c5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2250,
+     2000,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Kumpan Electric on Unsplash",
+    "credit": "Photo by Igor Omilaev on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Kumpan Electric",
-    "year": 2020,
+    "author": "Igor Omilaev",
+    "year": 2024,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@kumpan_electric?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/30D7430ywf4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA"
+    "author_url": "https://unsplash.com/@omilaev?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/73taIS3YeNQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA"
    },
    {
     "shot": "electric-vehicle",
-    "shows": "Black vehicle",
-    "file": "unsplash:2JvEjF0tf50",
-    "page": "https://unsplash.com/photos/black-vehicle-2JvEjF0tf50?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1567409378873-888d6fa7debc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjB2ZWhpY2xlfGVufDF8fHx8MTc5Mzk0MTk5NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1567409378873-888d6fa7debc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjB2ZWhpY2xlfGVufDF8fHx8MTc5Mzk0MTk5NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Electric vehicle charging station , Wiesbaden (LRM )",
+    "file": "File:Electric vehicle charging station , Wiesbaden (LRM 20250711 185218).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Electric_vehicle_charging_station_,_Wiesbaden_(LRM_20250711_185218).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Electric_vehicle_charging_station_%2C_Wiesbaden_%28LRM_20250711_185218%29.jpg/1280px-Electric_vehicle_charging_station_%2C_Wiesbaden_%28LRM_20250711_185218%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Electric_vehicle_charging_station_%2C_Wiesbaden_%28LRM_20250711_185218%29.jpg/500px-Electric_vehicle_charging_station_%2C_Wiesbaden_%28LRM_20250711_185218%29.jpg",
     "size": [
-     2250,
-     1500
+     1280,
+     1709
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Andrew Roberts on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Andrew Roberts",
-    "year": 2019,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@studiodenley?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/2JvEjF0tf50/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjB2ZWhpY2xlfGVufDF8fHx8MTc5Mzk0MTk5NXww"
+    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "author": "Matti Blume",
+    "year": 2025,
+    "how": "catalog"
    },
    {
     "shot": "electric-scooter",
-    "shows": "Seattle (WA, USA), Pine Street, E-Scooter -- 2022 -- 1489",
-    "file": "File:Seattle (WA, USA), Pine Street, E-Scooter -- 2022 -- 1489.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Pine_Street,_E-Scooter_--_2022_--_1489.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seattle_%28WA%2C_USA%29%2C_Pine_Street%2C_E-Scooter_--_2022_--_1489.jpg/1920px-Seattle_%28WA%2C_USA%29%2C_Pine_Street%2C_E-Scooter_--_2022_--_1489.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Seattle_%28WA%2C_USA%29%2C_Pine_Street%2C_E-Scooter_--_2022_--_1489.jpg/500px-Seattle_%28WA%2C_USA%29%2C_Pine_Street%2C_E-Scooter_--_2022_--_1489.jpg",
+    "shows": "Seattle (WA, USA), Pike Street, E-Scooter -- 2022 -- 1460",
+    "file": "File:Seattle (WA, USA), Pike Street, E-Scooter -- 2022 -- 1460.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Pike_Street,_E-Scooter_--_2022_--_1460.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seattle_%28WA%2C_USA%29%2C_Pike_Street%2C_E-Scooter_--_2022_--_1460.jpg/1920px-Seattle_%28WA%2C_USA%29%2C_Pike_Street%2C_E-Scooter_--_2022_--_1460.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seattle_%28WA%2C_USA%29%2C_Pike_Street%2C_E-Scooter_--_2022_--_1460.jpg/500px-Seattle_%28WA%2C_USA%29%2C_Pike_Street%2C_E-Scooter_--_2022_--_1460.jpg",
     "size": [
      1920,
      1280
@@ -175767,30 +175762,1070 @@
    },
    {
     "shot": "charging-cable",
-    "shows": "Nokia mobile phone USB charging cable",
-    "file": "File:Nokia mobile phone USB charging cable - 20130310.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg/1920px-Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg/500px-Nokia_mobile_phone_USB_charging_cable_-_20130310.jpg",
+    "shows": "EV Type2 Charging Cable",
+    "file": "File:EV Type2 Charging Cable.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:EV_Type2_Charging_Cable.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EV_Type2_Charging_Cable.jpg/1920px-EV_Type2_Charging_Cable.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/EV_Type2_Charging_Cable.jpg/500px-EV_Type2_Charging_Cable.jpg",
     "size": [
      1920,
-     1440
+     1079
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jacklee ., CC BY-SA 3.0, via Wikimedia Commons",
+    "credit": "Pamsimhaho, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Pamsimhaho",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "tesla-charging",
+    "shows": "Black car in tilt shift lens",
+    "file": "unsplash:4SyUf9MvWjU",
+    "page": "https://unsplash.com/photos/black-car-in-tilt-shift-lens-4SyUf9MvWjU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1615901555268-839b7a1ede54?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dGVzbGElMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTQ1MzIxNzF8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1615901555268-839b7a1ede54?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dGVzbGElMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTQ1MzIxNzF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by myenergi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "myenergi",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@myenergi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4SyUf9MvWjU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dGVzbGElMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTQ1MzIxNzF8MA"
+   },
+   {
+    "shot": "electric-vehicle-charging",
+    "shows": "FES, Electric vehicle charging station, Wiesbaden (LRM )",
+    "file": "File:FES, Electric vehicle charging station, Wiesbaden (LRM 20250711 183544).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FES,_Electric_vehicle_charging_station,_Wiesbaden_(LRM_20250711_183544).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FES%2C_Electric_vehicle_charging_station%2C_Wiesbaden_%28LRM_20250711_183544%29.jpg/1280px-FES%2C_Electric_vehicle_charging_station%2C_Wiesbaden_%28LRM_20250711_183544%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FES%2C_Electric_vehicle_charging_station%2C_Wiesbaden_%28LRM_20250711_183544%29.jpg/500px-FES%2C_Electric_vehicle_charging_station%2C_Wiesbaden_%28LRM_20250711_183544%29.jpg",
+    "size": [
+     1280,
+     1709
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+    "author": "Matti Blume",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "ev-charger",
+    "shows": "A woman is using a power washer on a brick wall",
+    "file": "unsplash:zuSjeUwRzFY",
+    "page": "https://unsplash.com/photos/a-woman-is-using-a-power-washer-on-a-brick-wall-zuSjeUwRzFY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1704475386627-dcfcd97ed51a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZXYlMjBjaGFyZ2VyfGVufDF8fHx8MTc5NDUzMjE3M3ww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1704475386627-dcfcd97ed51a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZXYlMjBjaGFyZ2VyfGVufDF8fHx8MTc5NDUzMjE3M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zaptec on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zaptec",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zaptec?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zuSjeUwRzFY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZXYlMjBjaGFyZ2VyfGVufDF8fHx8MTc5NDUzMjE3M3ww"
+   },
+   {
+    "shot": "electric-car-battery",
+    "shows": "Electric car engine with visible wiring and battery components",
+    "file": "unsplash:lGrYPbLF4p4",
+    "page": "https://unsplash.com/photos/electric-car-engine-with-visible-wiring-and-battery-components-lGrYPbLF4p4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1767990495521-95cceb571125?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGVsZWN0cmljJTIwY2FyJTIwYmF0dGVyeXxlbnwxfHx8fDE3OTQ1MzIxNzV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1767990495521-95cceb571125?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGVsZWN0cmljJTIwY2FyJTIwYmF0dGVyeXxlbnwxfHx8fDE3OTQ1MzIxNzV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1406
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bernd 📷 Dittrich on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bernd 📷 Dittrich",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hdbernd?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lGrYPbLF4p4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGVsZWN0cmljJTIwY2FyJTIwYmF0dGVyeXxlbnwxfHx8fDE3OTQ1MzIxNzV8MA"
+   },
+   {
+    "shot": "charging-port",
+    "shows": "Close-up of a red smartphone charging port",
+    "file": "unsplash:gXxZKh7UJJo",
+    "page": "https://unsplash.com/photos/close-up-of-a-red-smartphone-charging-port-gXxZKh7UJJo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1774137909186-3fe3ae3ddc08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhcmdpbmclMjBwb3J0fGVufDF8fHx8MTc5NDUzMjE3Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1774137909186-3fe3ae3ddc08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhcmdpbmclMjBwb3J0fGVufDF8fHx8MTc5NDUzMjE3Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gavin Phillips on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gavin Phillips",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gavinspavin?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gXxZKh7UJJo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhcmdpbmclMjBwb3J0fGVufDF8fHx8MTc5NDUzMjE3Nnww"
+   },
+   {
+    "shot": "electric-car-highway",
+    "shows": "A man driving a car while holding a tablet",
+    "file": "unsplash:zfwvYplR694",
+    "page": "https://unsplash.com/photos/a-man-driving-a-car-while-holding-a-tablet-zfwvYplR694?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1707002752318-4edf7a4214df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZWxlY3RyaWMlMjBjYXIlMjBoaWdod2F5fGVufDF8fHx8MTc5NDUzNTc4OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1707002752318-4edf7a4214df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZWxlY3RyaWMlMjBjYXIlMjBoaWdod2F5fGVufDF8fHx8MTc5NDUzNTc4OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Robbie on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Robbie",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rschweidler?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zfwvYplR694/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZWxlY3RyaWMlMjBjYXIlMjBoaWdod2F5fGVufDF8fHx8MTc5NDUzNTc4OHww"
+   },
+   {
+    "shot": "ev",
+    "shows": "A blue car is parked at a gas station",
+    "file": "unsplash:Ywfh8dNrr1I",
+    "page": "https://unsplash.com/photos/a-blue-car-is-parked-at-a-gas-station-Ywfh8dNrr1I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1707758283344-28fcbe00be37?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXZ8ZW58MXx8fHwxNzk0NTM1NzgwfDA&ixlib=rb-4.1.0&w=1475&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1707758283344-28fcbe00be37?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXZ8ZW58MXx8fHwxNzk0NTM1NzgwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1475,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by YRKA PICTURED on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "YRKA PICTURED",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yrkapictured?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Ywfh8dNrr1I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXZ8ZW58MXx8fHwxNzk0NTM1NzgwfDA"
+   },
+   {
+    "shot": "charging-station-night",
+    "shows": "A blue car parked in front of a gas station",
+    "file": "unsplash:UUG01f0n_88",
+    "page": "https://unsplash.com/photos/a-blue-car-parked-in-front-of-a-gas-station-UUG01f0n_88?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1707758283398-7df21adba23a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA&ixlib=rb-4.1.0&w=1439&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1707758283398-7df21adba23a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1439,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by YRKA PICTURED on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "YRKA PICTURED",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yrkapictured?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/UUG01f0n_88/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA"
+   },
+   {
+    "shot": "electric-car-interior",
+    "shows": "Person holding white and black box",
+    "file": "unsplash:hqkqua9UNGI",
+    "page": "https://unsplash.com/photos/person-holding-white-and-black-box-hqkqua9UNGI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1602847192498-b2a1a367ea75?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cmljJTIwY2FyJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzk0NTM1NzgyfDA&ixlib=rb-4.1.0&w=2262&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1602847192498-b2a1a367ea75?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cmljJTIwY2FyJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzk0NTM1NzgyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2262,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by the blowup on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "the blowup",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@theblowup?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hqkqua9UNGI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cmljJTIwY2FyJTIwaW50ZXJpb3J8ZW58MXx8fHwxNzk0NTM1NzgyfDA"
+   },
+   {
+    "shot": "electric-truck",
+    "shows": "A blue truck with a door open",
+    "file": "unsplash:Y1bx_aq-Vfw",
+    "page": "https://unsplash.com/photos/a-blue-truck-with-a-door-open-Y1bx_aq-Vfw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1660145954339-b94968afca8f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZWxlY3RyaWMlMjB0cnVja3xlbnwxfHx8fDE3OTQ1MzU3ODN8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1660145954339-b94968afca8f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZWxlY3RyaWMlMjB0cnVja3xlbnwxfHx8fDE3OTQ1MzU3ODN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Netze BW on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Netze BW",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@netzebw?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Y1bx_aq-Vfw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZWxlY3RyaWMlMjB0cnVja3xlbnwxfHx8fDE3OTQ1MzU3ODN8MA"
+   },
+   {
+    "shot": "charging",
+    "shows": "A black electric car charging on a city street with a blue cable",
+    "file": "unsplash:N2Td7KpIvYc",
+    "page": "https://unsplash.com/photos/electric-car-charging-on-city-street-N2Td7KpIvYc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1615829386703-e2bb66a7cb7d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZWxlY3RyaWMlMjBjYXIlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5MDkzNDB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1615829386703-e2bb66a7cb7d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZWxlY3RyaWMlMjBjYXIlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5MDkzNDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Precious Madubuike on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Precious Madubuike",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@preciousm?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/N2Td7KpIvYc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZWxlY3RyaWMlMjBjYXIlMjBjaGFyZ2luZ3xlbnwxfHx8fDE3OTM5MDkzNDB8MA"
+   },
+   {
+    "shot": "station",
+    "shows": "A white car plugged in to a charging station",
+    "file": "unsplash:JkTjKEVcckg",
+    "page": "https://unsplash.com/photos/a-white-car-plugged-in-to-a-charging-station-JkTjKEVcckg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1671785253964-bdb43087ed99?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2hhcmdpbmclMjBzdGF0aW9ufGVufDF8fHx8MTc5MzkwOTM0MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1671785253964-bdb43087ed99?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2hhcmdpbmclMjBzdGF0aW9ufGVufDF8fHx8MTc5MzkwOTM0MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by JUICE on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "JUICE",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@juice_world?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JkTjKEVcckg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2hhcmdpbmclMjBzdGF0aW9ufGVufDF8fHx8MTc5MzkwOTM0MXww"
+   },
+   {
+    "shot": "electric-car",
+    "shows": "An electric car plugged in to a charging station",
+    "file": "unsplash:mfqj3ZSs_h0",
+    "page": "https://unsplash.com/photos/an-electric-car-plugged-in-to-a-charging-station-mfqj3ZSs_h0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1639302610362-4c86747e8680?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1639302610362-4c86747e8680?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eren Goldman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eren Goldman",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@erengoldman?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/mfqj3ZSs_h0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA"
+   },
+   {
+    "shot": "ev-charging",
+    "shows": "A car is parked in front of a building",
+    "file": "unsplash:zHXYTK6RYmk",
+    "page": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-building-zHXYTK6RYmk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1691626435043-26eb6eb9bfd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGV2JTIwY2hhcmdpbmd8ZW58MXx8fHwxNzkzOTQxOTkyfDA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1691626435043-26eb6eb9bfd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGV2JTIwY2hhcmdpbmd8ZW58MXx8fHwxNzkzOTQxOTkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Hyundai Motor Group on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hyundai Motor Group",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hyundaimotorgroup?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zHXYTK6RYmk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGV2JTIwY2hhcmdpbmd8ZW58MXx8fHwxNzkzOTQxOTkyfDA"
+   },
+   {
+    "shot": "rivian",
+    "shows": "A car driving under a bridge",
+    "file": "unsplash:Iv_qO8vb_7c",
+    "page": "https://unsplash.com/photos/a-car-driving-under-a-bridge-Iv_qO8vb_7c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1667137091766-1c8875148598?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Uml2aWFuJTIwUjFUfGVufDF8fHx8MTc5MzkwOTM0OHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1667137091766-1c8875148598?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Uml2aWFuJTIwUjFUfGVufDF8fHx8MTc5MzkwOTM0OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wes Hicks on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Wes Hicks",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sickhews?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Iv_qO8vb_7c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Uml2aWFuJTIwUjFUfGVufDF8fHx8MTc5MzkwOTM0OHww"
+   },
+   {
+    "shot": "battery",
+    "shows": "Black and silver electronic device",
+    "file": "unsplash:USW-dIQpcAk",
+    "page": "https://unsplash.com/photos/black-and-silver-electronic-device-USW-dIQpcAk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581244249923-172ef5029576?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581244249923-172ef5029576?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mika Baumeister on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mika Baumeister",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/USW-dIQpcAk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmF0dGVyeXxlbnwxfHx8fDE3OTM5NDE5OTR8MA"
+   },
+   {
+    "shot": "electric-scooter",
+    "shows": "Man in white t-shirt and black shorts riding blue motor scooter",
+    "file": "unsplash:ZjOQIFXq5Ns",
+    "page": "https://unsplash.com/photos/man-in-white-t-shirt-and-black-shorts-riding-blue-motor-scooter-ZjOQIFXq5Ns?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1623079478319-945f25f0a97b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1623079478319-945f25f0a97b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ather Energy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ather Energy",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@atherenergy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZjOQIFXq5Ns/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA"
+   },
+   {
+    "shot": "tesla-charging",
+    "shows": "A red and white gas pump",
+    "file": "unsplash:Y3KZtv76Grc",
+    "page": "https://unsplash.com/photos/a-red-and-white-gas-pump-Y3KZtv76Grc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1669349412975-a9dd0d2292ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHRlc2xhJTIwY2hhcmdpbmd8ZW58MXx8fHwxNzk0NTMyMTcxfDA&ixlib=rb-4.1.0&w=2068&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1669349412975-a9dd0d2292ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHRlc2xhJTIwY2hhcmdpbmd8ZW58MXx8fHwxNzk0NTMyMTcxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2068,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ernie Journeys on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ernie Journeys",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@erniejourneys?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Y3KZtv76Grc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHRlc2xhJTIwY2hhcmdpbmd8ZW58MXx8fHwxNzk0NTMyMTcxfDA"
+   },
+   {
+    "shot": "electric-vehicle-charging",
+    "shows": "Black metal stand on gray concrete road during daytime",
+    "file": "unsplash:VUuBpG5avLY",
+    "page": "https://unsplash.com/photos/black-metal-stand-on-gray-concrete-road-during-daytime-VUuBpG5avLY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1619913387719-a43ee8859d9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGVsZWN0cmljJTIwdmVoaWNsZSUyMGNoYXJnaW5nfGVufDF8fHx8MTc5NDUzMjE3Mnww&ixlib=rb-4.1.0&w=2264&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1619913387719-a43ee8859d9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGVsZWN0cmljJTIwdmVoaWNsZSUyMGNoYXJnaW5nfGVufDF8fHx8MTc5NDUzMjE3Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2264,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Roger Starnes Sr on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Roger Starnes Sr",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rstar50?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VUuBpG5avLY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGVsZWN0cmljJTIwdmVoaWNsZSUyMGNoYXJnaW5nfGVufDF8fHx8MTc5NDUzMjE3Mnww"
+   },
+   {
+    "shot": "ev-charger",
+    "shows": "A wall mounted phone on the side of a building",
+    "file": "unsplash:hKDUWDQTZMw",
+    "page": "https://unsplash.com/photos/a-wall-mounted-phone-on-the-side-of-a-building-hKDUWDQTZMw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1704475447074-10f039c137dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1704475447074-10f039c137dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1799
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zaptec on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zaptec",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zaptec?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hKDUWDQTZMw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA"
+   },
+   {
+    "shot": "charging-port",
+    "shows": "White earbud charging case with usb-c port",
+    "file": "unsplash:9E3LzWhIcnw",
+    "page": "https://unsplash.com/photos/white-earbud-charging-case-with-usb-c-port-9E3LzWhIcnw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1783890848517-7836f14074ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA&ixlib=rb-4.1.0&w=1501&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1783890848517-7836f14074ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1501,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ali Kanjarawi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ali Kanjarawi",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ali_kanjarawi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9E3LzWhIcnw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA"
+   },
+   {
+    "shot": "ev",
+    "shows": "Ljungris July 2013",
+    "file": "File:Ljungris July 2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ljungris_July_2013.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ljungris_July_2013.jpg/1920px-Ljungris_July_2013.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ljungris_July_2013.jpg/500px-Ljungris_July_2013.jpg",
+    "size": [
+     1920,
+     1282
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Arild Vågen, CC BY-SA 3.0, via Wikimedia Commons",
     "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Jacklee .",
+    "author": "Arild Vågen",
     "year": 2013,
     "how": "catalog"
+   },
+   {
+    "shot": "charging-station-night",
+    "shows": "A row of tesla charging stations at night",
+    "file": "unsplash:5hbzWe6ens4",
+    "page": "https://unsplash.com/photos/a-row-of-tesla-charging-stations-at-night-5hbzWe6ens4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641659376402-3d2f48a91ed7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641659376402-3d2f48a91ed7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Stephen Mease on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Stephen Mease",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@smeasevt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/5hbzWe6ens4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA"
+   },
+   {
+    "shot": "electric-truck",
+    "shows": "A truck with a trailer",
+    "file": "unsplash:dYjunfM-w8Y",
+    "page": "https://unsplash.com/photos/a-truck-with-a-trailer-dYjunfM-w8Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1660146268060-87bc27d6dfd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3RyaWMlMjB0cnVja3xlbnwxfHx8fDE3OTQ1MzU3ODN8MA&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1660146268060-87bc27d6dfd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3RyaWMlMjB0cnVja3xlbnwxfHx8fDE3OTQ1MzU3ODN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1201,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Netze BW on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Netze BW",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@netzebw?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dYjunfM-w8Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3RyaWMlMjB0cnVja3xlbnwxfHx8fDE3OTQ1MzU3ODN8MA"
+   },
+   {
+    "shot": "station",
+    "shows": "Black car parked beside brown brick wall",
+    "file": "unsplash:9RZlFXzrANI",
+    "page": "https://unsplash.com/photos/black-car-parked-beside-brown-brick-wall-9RZlFXzrANI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1600490819528-42405785433a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNoYXJnaW5nJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM5MDkzNDF8MA&ixlib=rb-4.1.0&w=2247&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1600490819528-42405785433a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNoYXJnaW5nJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM5MDkzNDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2247,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Evnex Ltd on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Evnex Ltd",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@evnex?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9RZlFXzrANI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNoYXJnaW5nJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM5MDkzNDF8MA"
+   },
+   {
+    "shot": "electric-car",
+    "shows": "Green and white number 2",
+    "file": "unsplash:HjV_hEECgcM",
+    "page": "https://unsplash.com/photos/green-and-white-number-2-HjV_hEECgcM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1594535182308-8ffefbb661e1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1594535182308-8ffefbb661e1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1308
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michael Marais on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michael Marais",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@michael_marais?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HjV_hEECgcM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZWxlY3RyaWMlMjBjYXJ8ZW58MXx8fHwxNzkzOTQxOTkwfDA"
+   },
+   {
+    "shot": "rivian",
+    "shows": "A car parked on a road with trees on either side of it",
+    "file": "unsplash:-etQnTFbVK0",
+    "page": "https://unsplash.com/photos/a-car-parked-on-a-road-with-trees-on-either-side-of-it--etQnTFbVK0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1667137092088-4215666af77d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Uml2aWFuJTIwUjFUfGVufDF8fHx8MTc5MzkwOTM0OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1667137092088-4215666af77d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Uml2aWFuJTIwUjFUfGVufDF8fHx8MTc5MzkwOTM0OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wes Hicks on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Wes Hicks",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sickhews?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-etQnTFbVK0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Uml2aWFuJTIwUjFUfGVufDF8fHx8MTc5MzkwOTM0OHww"
+   },
+   {
+    "shot": "battery",
+    "shows": "Orange 9V Duracell battery",
+    "file": "unsplash:NIDPm-ltVbA",
+    "page": "https://unsplash.com/photos/orange-9v-duracell-battery-NIDPm-ltVbA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1550496923-a0e3ef948e3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGJhdHRlcnl8ZW58MXx8fHwxNzkzOTQxOTk0fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1550496923-a0e3ef948e3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGJhdHRlcnl8ZW58MXx8fHwxNzkzOTQxOTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brett Jordan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brett Jordan",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brett_jordan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NIDPm-ltVbA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGJhdHRlcnl8ZW58MXx8fHwxNzkzOTQxOTk0fDA"
+   },
+   {
+    "shot": "electric-scooter",
+    "shows": "A man riding a scooter on a city street",
+    "file": "unsplash:llXmQYNP4bk",
+    "page": "https://unsplash.com/photos/a-man-riding-a-scooter-on-a-city-street-llXmQYNP4bk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1648204798633-c51d248d637a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1648204798633-c51d248d637a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ather Energy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ather Energy",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@atherenergy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/llXmQYNP4bk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA"
+   },
+   {
+    "shot": "ev-charger",
+    "shows": "A black cord plugged into a wooden wall",
+    "file": "unsplash:2n7ugRl1YsQ",
+    "page": "https://unsplash.com/photos/a-black-cord-plugged-into-a-wooden-wall-2n7ugRl1YsQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1704474618942-ae933a8edd86?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1704474618942-ae933a8edd86?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1799
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zaptec on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zaptec",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zaptec?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2n7ugRl1YsQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA"
+   },
+   {
+    "shot": "charging-port",
+    "shows": "Modern car interior with charging ports and tray",
+    "file": "unsplash:yebprIDB6zk",
+    "page": "https://unsplash.com/photos/modern-car-interior-with-charging-ports-and-tray-yebprIDB6zk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1758239744937-eb1e608a6d1e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1758239744937-eb1e608a6d1e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1594
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Obi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Obi",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@obionyeador?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yebprIDB6zk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA"
+   },
+   {
+    "shot": "ev",
+    "shows": "An electric car plugged in to a charging station",
+    "file": "unsplash:oz7enr450Kw",
+    "page": "https://unsplash.com/photos/an-electric-car-plugged-in-to-a-charging-station-oz7enr450Kw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1738101001592-d135bfe87d35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGV2fGVufDF8fHx8MTc5NDUzNTc4MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1738101001592-d135bfe87d35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGV2fGVufDF8fHx8MTc5NDUzNTc4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Haberdoedas on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Haberdoedas",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@haberdoedas?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oz7enr450Kw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGV2fGVufDF8fHx8MTc5NDUzNTc4MHww"
+   },
+   {
+    "shot": "charging-station-night",
+    "shows": "A black car parked in front of a gas station",
+    "file": "unsplash:ZDyUXkiWPCA",
+    "page": "https://unsplash.com/photos/a-black-car-parked-in-front-of-a-gas-station-ZDyUXkiWPCA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1707758283240-814ee7fbb33a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA&ixlib=rb-4.1.0&w=1463&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1707758283240-814ee7fbb33a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1463,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by YRKA PICTURED on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "YRKA PICTURED",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yrkapictured?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZDyUXkiWPCA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y2hhcmdpbmclMjBzdGF0aW9uJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzgxfDA"
+   },
+   {
+    "shot": "electric-truck",
+    "shows": "A black futuristic electric truck parked indoors",
+    "file": "unsplash:_sfPtFVUqHg",
+    "page": "https://unsplash.com/photos/a-black-futuristic-electric-truck-parked-indoors-_sfPtFVUqHg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1768352841908-b7a62404b714?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGVsZWN0cmljJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0NTM1NzgzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1768352841908-b7a62404b714?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGVsZWN0cmljJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0NTM1NzgzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Rana Singh on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rana Singh",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ceorana?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_sfPtFVUqHg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGVsZWN0cmljJTIwdHJ1Y2t8ZW58MXx8fHwxNzk0NTM1NzgzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "station",
+    "shows": "A couple of black and white phones on a black background",
+    "file": "unsplash:nIrW3S5whYI",
+    "page": "https://unsplash.com/photos/a-couple-of-black-and-white-phones-on-a-black-background-nIrW3S5whYI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1713771284743-e0d11ac7a80b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNoYXJnaW5nJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM5MDkzNDF8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1713771284743-e0d11ac7a80b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNoYXJnaW5nJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM5MDkzNDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by ChargeX on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "ChargeX",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chargex?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nIrW3S5whYI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNoYXJnaW5nJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM5MDkzNDF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "electric-car",
+    "shows": "An electric car plugged in to a charger",
+    "file": "unsplash:U5V-wSyMjI4",
+    "page": "https://unsplash.com/photos/an-electric-car-plugged-in-to-a-charger-U5V-wSyMjI4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1724963914478-77af9eba1c50?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGVsZWN0cmljJTIwY2FyfGVufDF8fHx8MTc5Mzk0MTk5MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1724963914478-77af9eba1c50?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGVsZWN0cmljJTIwY2FyfGVufDF8fHx8MTc5Mzk0MTk5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Toa Heftiba on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Toa Heftiba",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@heftiba?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/U5V-wSyMjI4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGVsZWN0cmljJTIwY2FyfGVufDF8fHx8MTc5Mzk0MTk5MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "battery",
+    "shows": "Green and white plastic box",
+    "file": "unsplash:mLxy5nt9Z90",
+    "page": "https://unsplash.com/photos/green-and-white-plastic-box-mLxy5nt9Z90?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGJhdHRlcnl8ZW58MXx8fHwxNzkzOTQxOTk0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1605191737662-98ba90cb953e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGJhdHRlcnl8ZW58MXx8fHwxNzkzOTQxOTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kumpan Electric on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kumpan Electric",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kumpan_electric?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/mLxy5nt9Z90/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGJhdHRlcnl8ZW58MXx8fHwxNzkzOTQxOTk0fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "electric-scooter",
+    "shows": "A man riding a scooter in the middle of the desert",
+    "file": "unsplash:qzzReo9-Nyw",
+    "page": "https://unsplash.com/photos/a-man-riding-a-scooter-in-the-middle-of-the-desert-qzzReo9-Nyw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1689562185334-89d26c23bd90?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1689562185334-89d26c23bd90?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Hiboy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hiboy",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hiboyofficial?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qzzReo9-Nyw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGVsZWN0cmljJTIwc2Nvb3RlcnxlbnwxfHx8fDE3OTM5MDkzNTJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "ev-charger",
+    "shows": "An electric car is charging at a station",
+    "file": "unsplash:cijIh10hXRI",
+    "page": "https://unsplash.com/photos/an-electric-car-is-charging-at-a-station-cijIh10hXRI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1751553512991-7ae218946be9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1751553512991-7ae218946be9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ratio EV Charging on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ratio EV Charging",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ratioev?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cijIh10hXRI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGV2JTIwY2hhcmdlcnxlbnwxfHx8fDE3OTQ1MzIxNzN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "charging-port",
+    "shows": "White smartphone case with charging ports on side",
+    "file": "unsplash:77bZEg4Kl7o",
+    "page": "https://unsplash.com/photos/white-smartphone-case-with-charging-ports-on-side-77bZEg4Kl7o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1774102619965-5a49ce4f6329?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1774102619965-5a49ce4f6329?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Georgiy Lyamin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Georgiy Lyamin",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@glyamin?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/77bZEg4Kl7o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNoYXJnaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTQ1MzIxNzZ8MA",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "checked": "2026-11-13"
  },
  "nuclear": {
   "name": "Nuclear power & uranium",
@@ -175802,6 +176837,7 @@
    "smr",
    "nuclear power"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "cooling-towers",
@@ -175877,25 +176913,25 @@
    },
    {
     "shot": "control-room",
-    "shows": "Fukushima 1 Power Plant control room",
-    "file": "File:Fukushima 1 Power Plant control room.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fukushima_1_Power_Plant_control_room.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Fukushima_1_Power_Plant_control_room.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fukushima_1_Power_Plant_control_room.jpg/500px-Fukushima_1_Power_Plant_control_room.jpg",
+    "shows": "Control room of Commonwealth Edison Company's Dresden nuclear power station",
+    "file": "File:Control room of Commonwealth Edison Company's Dresden nuclear power station.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Control_room_of_Commonwealth_Edison_Company%27s_Dresden_nuclear_power_station.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Control_room_of_Commonwealth_Edison_Company%27s_Dresden_nuclear_power_station.jpg/1920px-Control_room_of_Commonwealth_Edison_Company%27s_Dresden_nuclear_power_station.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Control_room_of_Commonwealth_Edison_Company%27s_Dresden_nuclear_power_station.jpg/500px-Control_room_of_Commonwealth_Edison_Company%27s_Dresden_nuclear_power_station.jpg",
     "size": [
-     1600,
-     1200
+     1920,
+     1286
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "kawamoto takuo, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "kawamoto takuo",
-    "year": 1999,
+    "credit": "ENERGY.GOV, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "ENERGY.GOV",
+    "year": null,
     "how": "catalog"
    },
    {
@@ -175969,11 +177005,11 @@
    },
    {
     "shot": "uranium-mine",
-    "shows": "Shinarump Mine Waste Rock",
-    "file": "File:Shinarump Mine Waste Rock.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shinarump_Mine_Waste_Rock.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Shinarump_Mine_Waste_Rock.jpg/1920px-Shinarump_Mine_Waste_Rock.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Shinarump_Mine_Waste_Rock.jpg/500px-Shinarump_Mine_Waste_Rock.jpg",
+    "shows": "Shinarump Mine Waste Rock 2",
+    "file": "File:Shinarump Mine Waste Rock 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shinarump_Mine_Waste_Rock_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Shinarump_Mine_Waste_Rock_2.jpg/1920px-Shinarump_Mine_Waste_Rock_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Shinarump_Mine_Waste_Rock_2.jpg/500px-Shinarump_Mine_Waste_Rock_2.jpg",
     "size": [
      1920,
      1283
@@ -175992,53 +177028,1096 @@
    },
    {
     "shot": "nuclear-reactor-construction",
-    "shows": "Belarusian Nuclear Power Plant construction 1",
-    "file": "File:Belarusian Nuclear Power Plant construction (2017) 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Belarusian_Nuclear_Power_Plant_construction_(2017)_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belarusian_Nuclear_Power_Plant_construction_%282017%29_1.jpg/1920px-Belarusian_Nuclear_Power_Plant_construction_%282017%29_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Belarusian_Nuclear_Power_Plant_construction_%282017%29_1.jpg/500px-Belarusian_Nuclear_Power_Plant_construction_%282017%29_1.jpg",
+    "shows": "Two Pressurized Water Reactors (PWRs) under construction at the Kudankulam nuclear power plant, India. Photo Credit: Petr Pavlicek / IAEA",
+    "file": "File:Kudankulam 04710085 (8386517520).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kudankulam_04710085_(8386517520).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kudankulam_04710085_%288386517520%29.jpg/1920px-Kudankulam_04710085_%288386517520%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kudankulam_04710085_%288386517520%29.jpg/500px-Kudankulam_04710085_%288386517520%29.jpg",
     "size": [
      1920,
-     1440
+     1084
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Homoatrox, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "Petr Pavlicek/IAEA Imagebank, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Homoatrox",
-    "year": 2017,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Petr Pavlicek/IAEA Imagebank",
+    "year": 2013,
     "how": "catalog"
    },
    {
     "shot": "diablo-canyon",
-    "shows": "Canyon Diablo Graphite Nodule",
-    "file": "File:Canyon Diablo Graphite Nodule.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Canyon_Diablo_Graphite_Nodule.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Canyon_Diablo_Graphite_Nodule.jpg/1920px-Canyon_Diablo_Graphite_Nodule.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Canyon_Diablo_Graphite_Nodule.jpg/500px-Canyon_Diablo_Graphite_Nodule.jpg",
+    "shows": "Canyon Diablo, UCLA Meteorite Gallery",
+    "file": "File:Canyon Diablo, UCLA Meteorite Gallery.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Canyon_Diablo,_UCLA_Meteorite_Gallery.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canyon_Diablo%2C_UCLA_Meteorite_Gallery.jpg/1920px-Canyon_Diablo%2C_UCLA_Meteorite_Gallery.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canyon_Diablo%2C_UCLA_Meteorite_Gallery.jpg/500px-Canyon_Diablo%2C_UCLA_Meteorite_Gallery.jpg",
     "size": [
      1920,
-     1440
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "NathanScientific, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "NathanScientific",
+    "credit": "Vahe Martirosyan, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Vahe Martirosyan",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "nuclear-power-plant",
+    "shows": "Gray control panel",
+    "file": "unsplash:cHR1Q2g1_F4",
+    "page": "https://unsplash.com/photos/gray-control-panel-cHR1Q2g1_F4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1567665184315-5581ad476373?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bnVjbGVhciUyMHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzk0NTM1Nzg0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1567665184315-5581ad476373?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bnVjbGVhciUyMHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzk0NTM1Nzg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dan Meyers on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dan Meyers",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dmey503?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cHR1Q2g1_F4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bnVjbGVhciUyMHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzk0NTM1Nzg0fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "Smoke billows from the cooling towers of a factory",
+    "file": "unsplash:CfwSQoGkd6E",
+    "page": "https://unsplash.com/photos/smoke-billows-from-the-cooling-towers-of-a-factory-CfwSQoGkd6E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1689456779696-44f73dafadbe?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc4Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1689456779696-44f73dafadbe?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc4Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andry Sagatelov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andry Sagatelov",
     "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@theoldbeautifulman?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CfwSQoGkd6E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc4Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-energy",
+    "shows": "Henry Moore Nuclear Energy !",
+    "file": "File:Henry Moore Nuclear Energy !.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Henry_Moore_Nuclear_Energy_!.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Henry_Moore_Nuclear_Energy_%21.JPG/1280px-Henry_Moore_Nuclear_Energy_%21.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Henry_Moore_Nuclear_Energy_%21.JPG/500px-Henry_Moore_Nuclear_Energy_%21.JPG",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Just, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Just",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Industrial power plant skyline",
+    "file": "unsplash:zAITDJYV09w",
+    "page": "https://unsplash.com/photos/industrial-power-plant-skyline-zAITDJYV09w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1473876637954-4b493d59fd97?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=2048&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1473876637954-4b493d59fd97?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2048,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jason Mavrommatis on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jason Mavrommatis",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jasonblackeye?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zAITDJYV09w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-reactor",
+    "shows": "Grayscale photography of laboratory",
+    "file": "unsplash:JuP6-Z3LXSE",
+    "page": "https://unsplash.com/photos/grayscale-photography-of-laboratory-JuP6-Z3LXSE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1576673195903-bb573ef5a755?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bnVjbGVhciUyMHJlYWN0b3J8ZW58MXx8fHwxNzk0NTM1NzkwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1576673195903-bb573ef5a755?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bnVjbGVhciUyMHJlYWN0b3J8ZW58MXx8fHwxNzk0NTM1NzkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1638
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Austrian National Library on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Austrian National Library",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@austriannationallibrary?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JuP6-Z3LXSE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bnVjbGVhciUyMHJlYWN0b3J8ZW58MXx8fHwxNzk0NTM1NzkwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "radiation-sign",
+    "shows": "Beware of... well... just beware sign",
+    "file": "unsplash:SZ3a9Hj56dM",
+    "page": "https://unsplash.com/photos/beware-of-well-just-beware-sign-SZ3a9Hj56dM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1767571442369-4fcceff9c49c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHJhZGlhdGlvbiUyMHNpZ258ZW58MXx8fHwxNzk0NTM1NzkxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1767571442369-4fcceff9c49c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHJhZGlhdGlvbiUyMHNpZ258ZW58MXx8fHwxNzk0NTM1NzkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Cohen Berg on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cohen Berg",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cohenberg?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SZ3a9Hj56dM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHJhZGlhdGlvbiUyMHNpZ258ZW58MXx8fHwxNzk0NTM1NzkxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-plant-night",
+    "shows": "A nuclear power plant at night with a foggy sky",
+    "file": "unsplash:puU0vsoaDGI",
+    "page": "https://unsplash.com/photos/a-nuclear-power-plant-at-night-with-a-foggy-sky-puU0vsoaDGI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1700607101915-99650c815caf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bnVjbGVhciUyMHBsYW50JTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzkzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1700607101915-99650c815caf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bnVjbGVhciUyMHBsYW50JTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzkzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1796
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Lukáš Lehotský on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Lukáš Lehotský",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@llehotsky?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/puU0vsoaDGI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bnVjbGVhciUyMHBsYW50JTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzkzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "steam-cooling-tower",
+    "shows": "Cooling towers emitting steam against a clear blue sky",
+    "file": "unsplash:6FRprYb2zuM",
+    "page": "https://unsplash.com/photos/cooling-towers-emitting-steam-against-a-clear-blue-sky-6FRprYb2zuM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1772376920750-dac1470b1bad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c3RlYW0lMjBjb29saW5nJTIwdG93ZXJ8ZW58MXx8fHwxNzk0NTM1Nzk1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1772376920750-dac1470b1bad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c3RlYW0lMjBjb29saW5nJTIwdG93ZXJ8ZW58MXx8fHwxNzk0NTM1Nzk1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Energie-portal.sk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Energie-portal.sk",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@energie_portal_sk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6FRprYb2zuM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c3RlYW0lMjBjb29saW5nJTIwdG93ZXJ8ZW58MXx8fHwxNzk0NTM1Nzk1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "atomic",
+    "shows": "Silhouette of mountain during sunset",
+    "file": "unsplash:w0FvtVztsQE",
+    "page": "https://unsplash.com/photos/silhouette-of-mountain-during-sunset-w0FvtVztsQE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1607637222633-fad06de370a8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGF0b21pY3xlbnwxfHx8fDE3OTQ1MzU3OTZ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1607637222633-fad06de370a8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGF0b21pY3xlbnwxfHx8fDE3OTQ1MzU3OTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Oscar Ävalos on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Oscar Ävalos",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fastermaster0?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/w0FvtVztsQE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGF0b21pY3xlbnwxfHx8fDE3OTQ1MzU3OTZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-towers",
+    "shows": "Cooling towers of a power plant are depicted",
+    "file": "unsplash:zF-gjsbJ8mU",
+    "page": "https://unsplash.com/photos/cooling-towers-of-a-power-plant-are-depicted-zF-gjsbJ8mU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1751453875319-660527493daa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50JTIwY29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTM5MDkzNDR8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1751453875319-660527493daa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50JTIwY29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTM5MDkzNDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sergio Pérez Mateo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sergio Pérez Mateo",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sergiopereez?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zF-gjsbJ8mU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50JTIwY29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTM5MDkzNDR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-power-plant",
+    "shows": "Worm's eye view of cave hole",
+    "file": "unsplash:55WtbkjDNRY",
+    "page": "https://unsplash.com/photos/worms-eye-view-of-cave-hole-55WtbkjDNRY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1484061118478-a0366837794e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1484061118478-a0366837794e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jakob Madsen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jakob Madsen",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jmadsen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/55WtbkjDNRY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "3 women standing on green grass field during daytime",
+    "file": "unsplash:IhuzPxyBunQ",
+    "page": "https://unsplash.com/photos/3-women-standing-on-green-grass-field-during-daytime-IhuzPxyBunQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1604614765191-02ea6bdb941b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=2265&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1604614765191-02ea6bdb941b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2265,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michael Schofield on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michael Schofield",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@coachpotatoes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IhuzPxyBunQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "A large factory with a rainbow in the background",
+    "file": "unsplash:IJTX8aDDMa0",
+    "page": "https://unsplash.com/photos/a-large-factory-with-a-rainbow-in-the-background-IJTX8aDDMa0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1576053437895-4253b2d33985?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=2317&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1576053437895-4253b2d33985?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2317,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ivo Lukacovic on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ivo Lukacovic",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ilblog?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IJTX8aDDMa0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-reactor",
+    "shows": "Advanced Test Reactor",
+    "file": "File:Advanced Test Reactor.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Advanced_Test_Reactor.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Advanced_Test_Reactor.jpg/1280px-Advanced_Test_Reactor.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Advanced_Test_Reactor.jpg/500px-Advanced_Test_Reactor.jpg",
+    "size": [
+     1280,
+     1682
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Argonne National Laboratory, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Argonne National Laboratory",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "radiation-sign",
+    "shows": "Yellow umbrella near bare trees during daytime",
+    "file": "unsplash:8NqAwh2H6No",
+    "page": "https://unsplash.com/photos/yellow-umbrella-near-bare-trees-during-daytime-8NqAwh2H6No?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1602620228764-8afef96a9d9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJhZGlhdGlvbiUyMHNpZ258ZW58MXx8fHwxNzk0NTM1NzkxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1602620228764-8afef96a9d9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJhZGlhdGlvbiUyMHNpZ258ZW58MXx8fHwxNzk0NTM1NzkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1810
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dasha Urvachova on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dasha Urvachova",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dashikka?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8NqAwh2H6No/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJhZGlhdGlvbiUyMHNpZ258ZW58MXx8fHwxNzk0NTM1NzkxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-plant-night",
+    "shows": "City skyline across body of water during night time",
+    "file": "unsplash:t1IxtzsrN9U",
+    "page": "https://unsplash.com/photos/city-skyline-across-body-of-water-during-night-time-t1IxtzsrN9U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581204991880-2c5ae86d6edc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bnVjbGVhciUyMHBsYW50JTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzkzfDA&ixlib=rb-4.1.0&w=2012&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581204991880-2c5ae86d6edc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bnVjbGVhciUyMHBsYW50JTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzkzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2012,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by John McArthur on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John McArthur",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@snowjam?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/t1IxtzsrN9U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bnVjbGVhciUyMHBsYW50JTIwbmlnaHR8ZW58MXx8fHwxNzk0NTM1NzkzfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "steam-cooling-tower",
+    "shows": "Three large cooling towers emitting thick white steam under a dark, cloudy sky",
+    "file": "unsplash:ATrkMTEBfFU",
+    "page": "https://unsplash.com/photos/cooling-towers-with-steam-under-clouds-ATrkMTEBfFU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1786359994506-b486097d9a8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1786359994506-b486097d9a8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Abhaya Behera on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Abhaya Behera",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@abhaya?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ATrkMTEBfFU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww",
+    "track_pending": true
+   },
+   {
+    "shot": "atomic",
+    "shows": "Texturas da Gruta da Lapinha",
+    "file": "File:Texturas da Gruta da Lapinha.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Texturas_da_Gruta_da_Lapinha.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Texturas_da_Gruta_da_Lapinha.jpg/1920px-Texturas_da_Gruta_da_Lapinha.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Texturas_da_Gruta_da_Lapinha.jpg/500px-Texturas_da_Gruta_da_Lapinha.jpg",
+    "size": [
+     1920,
+     1275
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Rafael Rodrigues Camargo, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Rafael Rodrigues Camargo",
+    "year": 2011,
+    "how": "catalog"
+   },
+   {
+    "shot": "cooling-towers",
+    "shows": "Cooling towers emitting steam against a clear sky",
+    "file": "unsplash:oCcpBLYyq_M",
+    "page": "https://unsplash.com/photos/cooling-towers-emitting-steam-against-a-clear-sky-oCcpBLYyq_M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1772376920901-b7dcf5df492b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50JTIwY29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTM5MDkzNDR8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1772376920901-b7dcf5df492b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50JTIwY29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTM5MDkzNDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Energie-portal.sk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Energie-portal.sk",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@energie_portal_sk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oCcpBLYyq_M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50JTIwY29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTM5MDkzNDR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-power-plant",
+    "shows": "White dome building near green trees during daytime",
+    "file": "unsplash:smdRanNAZMQ",
+    "page": "https://unsplash.com/photos/white-dome-building-near-green-trees-during-daytime-smdRanNAZMQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1582196832677-83a5c7e34c72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1582196832677-83a5c7e34c72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mick De Paola on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mick De Paola",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mickdepaola?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/smdRanNAZMQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "Godorf Cologne Rhineland-Refinery-Cooling-Towers-during-demolition-02",
+    "file": "File:Godorf Cologne Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg/1920px-Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg/500px-Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg",
+    "size": [
+     1920,
+     1484
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "CEphoto, Uwe Aranas",
+    "year": 2016,
+    "how": "catalog"
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Krafla power plant - Kröflustöð - alternative",
+    "file": "File:Krafla power plant - Kröflustöð - alternative.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg/1920px-Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg/500px-Krafla_power_plant_-_Kr%C3%B6flust%C3%B6%C3%B0_-_alternative.jpg",
+    "size": [
+     1920,
+     647
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Villy Fink Isaksen, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Villy Fink Isaksen",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "steam-cooling-tower",
+    "shows": "Cooling towers emitting steam under a cloudy sky",
+    "file": "unsplash:1vPR7Jjk2VY",
+    "page": "https://unsplash.com/photos/cooling-towers-emitting-steam-under-a-cloudy-sky-1vPR7Jjk2VY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1768158990097-e78d4e003168?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1768158990097-e78d4e003168?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Richard Heinen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Richard Heinen",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@richard_he?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/1vPR7Jjk2VY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-power-plant",
+    "shows": "White smoke coming out from green field",
+    "file": "unsplash:uvtUELc92SI",
+    "page": "https://unsplash.com/photos/white-smoke-coming-out-from-green-field-uvtUELc92SI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613685856864-caa143093279?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613685856864-caa143093279?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2133
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Patrick Federi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Patrick Federi",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@federi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uvtUELc92SI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "Smoke billows from the cooling towers of a nuclear power plant",
+    "file": "unsplash:8rtotUvnp8U",
+    "page": "https://unsplash.com/photos/smoke-billows-from-the-cooling-towers-of-a-nuclear-power-plant-8rtotUvnp8U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1689456852106-f9531a517c8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1689456852106-f9531a517c8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andry Sagatelov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andry Sagatelov",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@theoldbeautifulman?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8rtotUvnp8U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Komatsu bulldozer pushing coal in Power plant Ljubljana (winter 2017)",
+    "file": "File:Komatsu bulldozer pushing coal in Power plant Ljubljana (winter 2017).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_(winter_2017).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg/1920px-Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg/500px-Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_%28winter_2017%29.jpg",
+    "size": [
+     1920,
+     1051
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Petar Milošević",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "steam-cooling-tower",
+    "shows": "Industrial power plant with cooling tower emitting steam",
+    "file": "unsplash:9x83zPd_RGw",
+    "page": "https://unsplash.com/photos/industrial-power-plant-with-cooling-tower-emitting-steam-9x83zPd_RGw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1757266705997-16542fe72f20?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1757266705997-16542fe72f20?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jakub Żerdzicki on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jakub Żerdzicki",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9x83zPd_RGw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-power-plant",
+    "shows": "White smoke coming out from the factory",
+    "file": "unsplash:SxUflnMhvTQ",
+    "page": "https://unsplash.com/photos/white-smoke-coming-out-from-the-factory-SxUflnMhvTQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613685860910-f51e297ba797?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613685860910-f51e297ba797?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2182
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Patrick Federi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Patrick Federi",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@federi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SxUflnMhvTQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "Smoke billows from the cooling towers of a coal fired power plant",
+    "file": "unsplash:ODDynrj537k",
+    "page": "https://unsplash.com/photos/smoke-billows-from-the-cooling-towers-of-a-coal-fired-power-plant-ODDynrj537k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1689456894914-9872ed68781e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=2126&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1689456894914-9872ed68781e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2126,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andry Sagatelov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andry Sagatelov",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@theoldbeautifulman?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ODDynrj537k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "NesjavellirPowerPlant edit2",
+    "file": "File:NesjavellirPowerPlant edit2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NesjavellirPowerPlant_edit2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/1920px-NesjavellirPowerPlant_edit2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/NesjavellirPowerPlant_edit2.jpg/500px-NesjavellirPowerPlant_edit2.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Gretar Ívarsson – Edited by Fir0002, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Gretar Ívarsson – Edited by Fir0002",
+    "year": 2006,
+    "how": "catalog"
+   },
+   {
+    "shot": "steam-cooling-tower",
+    "shows": "Industrial power plant with cooling tower emitting steam",
+    "file": "unsplash:qDyL3-tk_ts",
+    "page": "https://unsplash.com/photos/industrial-power-plant-with-cooling-tower-emitting-steam-qDyL3-tk_ts?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1759384395680-c16405aee554?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1759384395680-c16405aee554?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jakub Żerdzicki on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jakub Żerdzicki",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qDyL3-tk_ts/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHN0ZWFtJTIwY29vbGluZyUyMHRvd2VyfGVufDF8fHx8MTc5NDUzNTc5NXww",
+    "track_pending": true
+   },
+   {
+    "shot": "nuclear-power-plant",
+    "shows": "Yellow and black car near green trees during daytime",
+    "file": "unsplash:sQjF3elwy40",
+    "page": "https://unsplash.com/photos/yellow-and-black-car-near-green-trees-during-daytime-sQjF3elwy40?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1603012947878-50e1308cbe79?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1603012947878-50e1308cbe79?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1810
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dasha Urvachova on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dasha Urvachova",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dashikka?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sQjF3elwy40/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fG51Y2xlYXIlMjBwb3dlciUyMHBsYW50fGVufDF8fHx8MTc5NDUzNTc4NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "Man in black shirt and pants standing on white round ceiling",
+    "file": "unsplash:Lgd7HXMH-B8",
+    "page": "https://unsplash.com/photos/man-in-black-shirt-and-pants-standing-on-white-round-ceiling-Lgd7HXMH-B8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1582368290517-a888d26e1624?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1582368290517-a888d26e1624?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mick De Paola on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mick De Paola",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mickdepaola?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Lgd7HXMH-B8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Smoke billows from the cooling towers of a power plant",
+    "file": "unsplash:MG_0AXIrphs",
+    "page": "https://unsplash.com/photos/smoke-billows-from-the-cooling-towers-of-a-power-plant-MG_0AXIrphs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1691927458684-8b30380b9412?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1691927458684-8b30380b9412?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Billy Joachim on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Billy Joachim",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@baj810?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MG_0AXIrphs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "A large building with a tower",
+    "file": "unsplash:zyBRs2YhkaI",
+    "page": "https://unsplash.com/photos/a-large-building-with-a-tower-zyBRs2YhkaI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1662312888824-4aa8741cb13f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1662312888824-4aa8741cb13f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1466
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Prometheus 🔥 on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Prometheus 🔥",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@iamateapot?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zyBRs2YhkaI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Waste hall - in Iru Thermal Power Plant",
+    "file": "File:Waste hall - in Iru Thermal Power Plant.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Waste_hall_-_in_Iru_Thermal_Power_Plant.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Waste_hall_-_in_Iru_Thermal_Power_Plant.jpg/1920px-Waste_hall_-_in_Iru_Thermal_Power_Plant.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Waste_hall_-_in_Iru_Thermal_Power_Plant.jpg/500px-Waste_hall_-_in_Iru_Thermal_Power_Plant.jpg",
+    "size": [
+     1920,
+     960
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Lauri Veerde, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Lauri Veerde",
+    "year": 2020,
+    "how": "catalog"
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "A group of cooling towers in the snow",
+    "file": "unsplash:xCjtVLiNLZQ",
+    "page": "https://unsplash.com/photos/a-group-of-cooling-towers-in-the-snow-xCjtVLiNLZQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1700607101639-a08a20f7e969?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1700607101639-a08a20f7e969?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1796
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Lukáš Lehotský on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Lukáš Lehotský",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@llehotsky?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/xCjtVLiNLZQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "White power plant",
+    "file": "unsplash:Px1DLXKhzNc",
+    "page": "https://unsplash.com/photos/white-power-plant-Px1DLXKhzNc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1569410593054-c37f3c20c52d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1569410593054-c37f3c20c52d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jan Antonin Kolar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jan Antonin Kolar",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jankolar?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Px1DLXKhzNc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHBvd2VyJTIwcGxhbnR8ZW58MXx8fHwxNzkzODg0MzM3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "cooling-tower",
+    "shows": "Brown brick wall under white clouds during daytime",
+    "file": "unsplash:rJmIzXnNZNM",
+    "page": "https://unsplash.com/photos/brown-brick-wall-under-white-clouds-during-daytime-rJmIzXnNZNM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1592554235721-d60627b19ac5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1592554235721-d60627b19ac5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1100
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Diego Relyveld on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Diego Relyveld",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@idiego?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/rJmIzXnNZNM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvb2xpbmclMjB0b3dlcnxlbnwxfHx8fDE3OTQ1MzU3ODZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Gateway Generating Station rectified",
+    "file": "File:Gateway Generating Station rectified.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gateway_Generating_Station_rectified.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gateway_Generating_Station_rectified.jpg/1920px-Gateway_Generating_Station_rectified.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gateway_Generating_Station_rectified.jpg/500px-Gateway_Generating_Station_rectified.jpg",
+    "size": [
+     1920,
+     702
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "JPxG, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "JPxG",
+    "year": 2021,
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "checked": "2026-11-13"
  },
  "defense": {
   "name": "Defense & geopolitics",
