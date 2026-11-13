@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Corning multiport splitters for fiber optics - Beacon Hill, Boston, MA - 01",
@@ -169,6 +168,26 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Private_(Corning)_Dassault_Falcon_900EX_(28483759776).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Corning Inc. Headquarters Snowy",
+   "url": "https://live.staticflickr.com/2820/11077247305_99af85f492_b.jpg",
+   "preview": "https://live.staticflickr.com/2820/11077247305_99af85f492_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by holl7510 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83035350@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83035350@N06/11077247305",
    "plain": true
   }
  ]

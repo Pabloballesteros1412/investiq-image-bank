@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Colgate signage near body of water",
@@ -26,6 +25,26 @@
    "author_url": "https://unsplash.com/@veronicadidit?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/colgate-signage-near-body-of-water-_uTex0tQXzg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Colgate Clock Jersey City (1 of 2)",
+   "url": "https://live.staticflickr.com/3080/3157735699_ee9f0ced87_b.jpg",
+   "preview": "https://live.staticflickr.com/3080/3157735699_ee9f0ced87_z.jpg",
+   "size": [
+    822,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tony Fischer Photography on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/22714323@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22714323@N06/3157735699",
+   "plain": true
   },
   {
    "shows": "Colgate-Palmolive Building 300 Park Avenue",

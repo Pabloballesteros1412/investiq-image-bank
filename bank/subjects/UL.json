@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "A box of dove soap next to a palm leaf",
@@ -169,6 +168,26 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Marco-Polo-Tower_%26_Unilever-Haus_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Unilever Côte d'Ivoire · abidjan, ad, advertising, africa, afrique",
+   "url": "https://live.staticflickr.com/2469/4017231573_e2a6b896b1_b.jpg",
+   "preview": "https://live.staticflickr.com/2469/4017231573_e2a6b896b1_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by abdallahh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/22168167@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22168167@N00/4017231573",
    "plain": true
   }
  ]

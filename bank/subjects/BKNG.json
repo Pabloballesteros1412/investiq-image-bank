@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "A sign on the side of a building that says bookking com",
@@ -150,6 +149,46 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Booking.com_Headquarters1.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Booking.com · amsterdam, picnic09, architecture, brick, building",
+   "url": "https://live.staticflickr.com/2649/3968618520_8d50580270_b.jpg",
+   "preview": "https://live.staticflickr.com/2649/3968618520_8d50580270_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pandemia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/48889088479@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/48889088479@N01/3968618520",
+   "plain": true
+  },
+  {
+   "shows": "Booking.com offices @ Rembrandtplein @ Amsterdam",
+   "url": "https://live.staticflickr.com/8612/16051437607_14129548a9_b.jpg",
+   "preview": "https://live.staticflickr.com/8612/16051437607_14129548a9_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by *_* on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/22539273@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22539273@N00/16051437607",
    "plain": true
   }
  ]

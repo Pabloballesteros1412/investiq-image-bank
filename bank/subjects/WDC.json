@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Western Digital Headquarters",
@@ -151,6 +150,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Western_Digital_Headquarters_in_the_Santa_Teresa_district_of_San_Jose,_California_2244.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Western Digital Scorpio Blue 320GB 2.5' Laptop HDDs",
+   "url": "https://live.staticflickr.com/3617/3372951801_d58151951d_b.jpg",
+   "preview": "https://live.staticflickr.com/3617/3372951801_d58151951d_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by William Hook on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/83542829@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83542829@N00/3372951801",
+   "plain": true
+  },
+  {
+   "shows": "Western Digital TV Live HD",
+   "url": "https://live.staticflickr.com/5343/7416399486_f6cc1b73b9_b.jpg",
+   "preview": "https://live.staticflickr.com/5343/7416399486_f6cc1b73b9_z.jpg",
+   "size": [
+    1024,
+    688
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tolbxela on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/25147647@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/25147647@N04/7416399486",
    "plain": true
   }
  ]

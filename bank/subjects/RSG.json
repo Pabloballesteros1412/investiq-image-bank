@@ -7,8 +7,27 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
+  {
+   "shows": "Republic Services #2998",
+   "url": "https://live.staticflickr.com/65535/52268400700_e4d5f273c2_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52268400700_e4d5f273c2_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by TheInvertedFan on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/166828354@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/166828354@N05/52268400700",
+   "plain": true
+  },
   {
    "shows": "Republic Services garbage truck in Kent, WA - 0009",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Republic_Services_garbage_truck_in_Kent%2C_WA_%282025%29_-_0009.jpg/1920px-Republic_Services_garbage_truck_in_Kent%2C_WA_%282025%29_-_0009.jpg",
@@ -79,6 +98,106 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Republic_Services_garbage_truck.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Republic Services · alliedwaste, alliedwasteservices, garbagetrucks, republicservices, blur",
+   "url": "https://live.staticflickr.com/8050/8374329479_8417578e0a_b.jpg",
+   "preview": "https://live.staticflickr.com/8050/8374329479_8417578e0a_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dorsey Photography on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/72780460@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/72780460@N08/8374329479",
+   "plain": true
+  },
+  {
+   "shows": "Republic Services · alliedwasteservices, republicservices",
+   "url": "https://live.staticflickr.com/2897/14559361916_ec7f89aaaa_b.jpg",
+   "preview": "https://live.staticflickr.com/2897/14559361916_ec7f89aaaa_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dorsey Photography on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/72780460@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/72780460@N08/14559361916",
+   "plain": true
+  },
+  {
+   "shows": "Republic Services Curbside Trash bins",
+   "url": "https://live.staticflickr.com/65535/50301521217_ff91fa313a_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/50301521217_ff91fa313a_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by joncutrer on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/47121680@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47121680@N00/50301521217",
+   "plain": true
+  },
+  {
+   "shows": "Republic Services Trash Truck",
+   "url": "https://live.staticflickr.com/65535/50301368081_209d02d188_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/50301368081_209d02d188_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by joncutrer on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/47121680@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47121680@N00/50301368081",
+   "plain": true
+  },
+  {
+   "shows": "Republic Services-stickered BFI Otto Classic",
+   "url": "https://live.staticflickr.com/65535/52102330874_e6719f5b57_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52102330874_e6719f5b57_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by TheInvertedFan on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/166828354@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/166828354@N05/52102330874",
    "plain": true
   }
  ]

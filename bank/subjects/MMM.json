@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "3-M Building Maplewood MN1",
@@ -166,6 +165,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:3M_Administration_Building_entry.jpg",
+   "plain": true
+  },
+  {
+   "shows": "3M Futuro Reversible Splint Wrist Brace",
+   "url": "https://live.staticflickr.com/7022/6393617505_f3a4fec19c_b.jpg",
+   "preview": "https://live.staticflickr.com/7022/6393617505_f3a4fec19c_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by liewcf on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/34353636@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/34353636@N00/6393617505",
    "plain": true
   }
  ]

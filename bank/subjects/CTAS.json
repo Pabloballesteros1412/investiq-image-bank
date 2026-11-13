@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Cintas",
@@ -169,6 +168,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_Conformity_Truck_Delivery_(15316551283).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cintas Cube Truck1995 · bruno, cintas, offer, offers, oneredpaperclip",
+   "url": "https://live.staticflickr.com/42/85874064_818568b9bf_b.jpg",
+   "preview": "https://live.staticflickr.com/42/85874064_818568b9bf_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kylemac on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/36002228@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36002228@N00/85874064",
    "plain": true
   }
  ]

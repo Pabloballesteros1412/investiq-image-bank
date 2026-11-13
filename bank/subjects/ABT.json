@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Robert Ford, Abbott Laboratories CEO (per Wikidata)",
@@ -168,6 +167,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Abbott_Freestyle_Libre_3_sensor_applicator-1149.jpg",
+   "plain": true
+  },
+  {
+   "shows": "FreeStyle Libre 2 Reader and LibreLink app",
+   "url": "https://live.staticflickr.com/65535/49446598708_dd2eac4035_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49446598708_dd2eac4035_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by originaldaniel on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/184613180@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/184613180@N08/49446598708",
    "plain": true
   }
  ]

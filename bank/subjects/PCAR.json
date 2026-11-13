@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Red and white truck on road during daytime",
@@ -151,6 +150,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Paccar_MX-11,_BAS_24,_Brussels_(P1170444-RR).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kenworth T600 Truck and Reefer Trailer",
+   "url": "https://live.staticflickr.com/6178/6134503437_fdf2bf1ffd_b.jpg",
+   "preview": "https://live.staticflickr.com/6178/6134503437_fdf2bf1ffd_z.jpg",
+   "size": [
+    1024,
+    540
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by born1945 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12567713@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12567713@N00/6134503437",
+   "plain": true
+  },
+  {
+   "shows": "Classic Kenworth Truck and Trailer",
+   "url": "https://live.staticflickr.com/7177/6793183938_7a6a945b7d_b.jpg",
+   "preview": "https://live.staticflickr.com/7177/6793183938_7a6a945b7d_z.jpg",
+   "size": [
+    1024,
+    538
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by born1945 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12567713@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12567713@N00/6793183938",
    "plain": true
   }
  ]

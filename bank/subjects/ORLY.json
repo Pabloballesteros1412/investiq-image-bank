@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "An O'Reilly Auto Parts store in Murphy, North Carolina",
@@ -42,6 +41,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:O%27Reilly_Auto_Parts_(Old_Saybrook,_Connecticut)_(43134666254).jpg"
+  },
+  {
+   "shows": "O'Reilly Auto Parts (Old Saybrook, Connecticut)",
+   "url": "https://live.staticflickr.com/1791/43134666254_f4868f1df3_b.jpg",
+   "preview": "https://live.staticflickr.com/1791/43134666254_f4868f1df3_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jjbers on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/148374920@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/148374920@N02/43134666254",
+   "plain": true
   },
   {
    "shows": "O’Reilly Auto Parts - Oneonta, AL",
@@ -131,6 +150,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Commerce_March_2017_081_(O%27Reilly_Auto_Parts).jpg",
+   "plain": true
+  },
+  {
+   "shows": "O'Reilly Auto Parts (Willimantic, Connecticut)",
+   "url": "https://live.staticflickr.com/974/28110932178_e625c00de6_b.jpg",
+   "preview": "https://live.staticflickr.com/974/28110932178_e625c00de6_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jjbers on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/148374920@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/148374920@N02/28110932178",
+   "plain": true
+  },
+  {
+   "shows": "O'Reilly Auto Parts - Allegan",
+   "url": "https://live.staticflickr.com/65535/50875682968_5352389650_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/50875682968_5352389650_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kzoo Cowboy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/92871081@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/92871081@N03/50875682968",
    "plain": true
   }
  ]

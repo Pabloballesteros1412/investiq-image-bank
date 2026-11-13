@@ -7,7 +7,6 @@
  ],
  "sector": "sector-energy",
  "target": 10,
- "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "Devon Energy Tower Nima",
@@ -76,6 +75,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Devon_Tower5.jpg"
+  },
+  {
+   "shows": "Devon Energy Center 2, Oklahoma City, OK",
+   "url": "https://live.staticflickr.com/2939/13896936327_3fde3414c0_b.jpg",
+   "preview": "https://live.staticflickr.com/2939/13896936327_3fde3414c0_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by TexasExplorer98 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/76792851@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/76792851@N07/13896936327",
+   "plain": true
   },
   {
    "shows": "Devon Energy Center, Sheridan Avenue, Oklahoma City, OK",

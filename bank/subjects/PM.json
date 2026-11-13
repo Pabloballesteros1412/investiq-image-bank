@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Philip Morris International's Operation Center in Lausanne, Switzerland",
@@ -77,6 +76,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:NYCW_2025_-_Jacek_Olczak_01.jpg"
+  },
+  {
+   "shows": "IQOS from Philip Morris · electroniccigarette, heatnotburn, iqos, philipmorris, smoking",
+   "url": "https://live.staticflickr.com/450/31677032162_2f8e3b0a05_b.jpg",
+   "preview": "https://live.staticflickr.com/450/31677032162_2f8e3b0a05_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vaping360 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/127173209@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/127173209@N05/31677032162",
+   "plain": true
   },
   {
    "shows": "Philip Morris Blended Leaf Complex",

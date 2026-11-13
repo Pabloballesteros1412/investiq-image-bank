@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Otis Escalator 506 NCE (Daniel Åhs)",
@@ -151,6 +150,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_escalators_OTIS_November_2021_SS2_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Otis elevator · edwardballwakullaspringsstatepark, elevator, florida, lift, lodge",
+   "url": "https://live.staticflickr.com/4038/4475519104_82c41d24ed_b.jpg",
+   "preview": "https://live.staticflickr.com/4038/4475519104_82c41d24ed_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by sun dazed on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/8411191@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8411191@N07/4475519104",
+   "plain": true
+  },
+  {
+   "shows": "Otis elevator · edwardballwakullaspringsstatepark, elevator, florida, lift, lodge",
+   "url": "https://live.staticflickr.com/4013/4475517866_04668ba1d9_b.jpg",
+   "preview": "https://live.staticflickr.com/4013/4475517866_04668ba1d9_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by sun dazed on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/8411191@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8411191@N07/4475517866",
    "plain": true
   }
  ]

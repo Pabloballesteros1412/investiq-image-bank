@@ -150,6 +150,26 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Las_Vegas_-_Hotel_Excalibur_-_panoramio.jpg",
    "plain": true
+  },
+  {
+   "shows": "MGM Grand [Las Vegas] · buiding, grand, las, lasvegas, mgm",
+   "url": "https://live.staticflickr.com/20/73472750_c60330efb4_b.jpg",
+   "preview": "https://live.staticflickr.com/20/73472750_c60330efb4_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ground.zero on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83265757@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83265757@N00/73472750",
+   "plain": true
   }
  ]
 }

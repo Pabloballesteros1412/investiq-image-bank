@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "New york stock exchange building with american flags",
@@ -63,6 +62,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/8256808@N02/1613548865",
+   "plain": true
+  },
+  {
+   "shows": "New York Stock Exchange · bu00f6rse, geotagged, newyork, newyorkstockexchange, stockmarket",
+   "url": "https://live.staticflickr.com/182/422215562_77a2f3b3f5_b.jpg",
+   "preview": "https://live.staticflickr.com/182/422215562_77a2f3b3f5_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kosmolaut on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/69444890@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/69444890@N00/422215562",
    "plain": true
   },
   {
@@ -143,6 +162,46 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/23780205@N06/2889344204",
+   "plain": true
+  },
+  {
+   "shows": "Christmas at the New York Stock Exchange",
+   "url": "https://live.staticflickr.com/2372/2144520859_fe9f84104b_b.jpg",
+   "preview": "https://live.staticflickr.com/2372/2144520859_fe9f84104b_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by epicharmus on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/8256808@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8256808@N02/2144520859",
+   "plain": true
+  },
+  {
+   "shows": "NYSE ~ New York Stock Exchange",
+   "url": "https://live.staticflickr.com/8310/8040241703_a4b7620467_b.jpg",
+   "preview": "https://live.staticflickr.com/8310/8040241703_a4b7620467_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Prayitno / Thank you for (12 millions +) view on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/34128007@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/34128007@N04/8040241703",
    "plain": true
   }
  ]

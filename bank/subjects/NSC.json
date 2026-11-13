@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Norfolk Southern Headquarters, Atlanta 2",
@@ -42,6 +41,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Norfolk_Southern_Headquarters,_Atlanta_1.jpg"
+  },
+  {
+   "shows": "Norfolk Southern 8817 · condensation, diesel, engine, freight, gravel",
+   "url": "https://live.staticflickr.com/3018/2530358760_d686cf8b36_b.jpg",
+   "preview": "https://live.staticflickr.com/3018/2530358760_d686cf8b36_z.jpg",
+   "size": [
+    1024,
+    921
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ravensong75 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12938199@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12938199@N00/2530358760",
+   "plain": true
   },
   {
    "shows": "Norfolk Southern Headquarters Norfolk Virginia USA",
@@ -113,6 +132,66 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Inman_Yard_-_Norfolk_Southern_with_sign.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Norfolk Southern Intermodal Freight in Whiting, Indiana",
+   "url": "https://live.staticflickr.com/4076/4762199108_a220651054_b.jpg",
+   "preview": "https://live.staticflickr.com/4076/4762199108_a220651054_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by vxla on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/14812197@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/14812197@N00/4762199108",
+   "plain": true
+  },
+  {
+   "shows": "Norfolk Southern Coal Train",
+   "url": "https://live.staticflickr.com/134/387841268_1936c2c244_b.jpg",
+   "preview": "https://live.staticflickr.com/134/387841268_1936c2c244_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dok1 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/51096110@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/51096110@N00/387841268",
+   "plain": true
+  },
+  {
+   "shows": "Norfolk Southern 8807 · 8807, norfolk, railroad, southern, train",
+   "url": "https://live.staticflickr.com/3271/2319949033_e67c664d9d_b.jpg",
+   "preview": "https://live.staticflickr.com/3271/2319949033_e67c664d9d_z.jpg",
+   "size": [
+    1024,
+    798
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ravensong75 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12938199@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12938199@N00/2319949033",
    "plain": true
   }
  ]

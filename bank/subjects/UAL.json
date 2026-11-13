@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Scott Kirby, United Airlines Holdings CEO (per Wikidata)",
@@ -150,6 +149,46 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:JFK_terminal_United_IMG_2000.JPG",
+   "plain": true
+  },
+  {
+   "shows": "United Airlines - N664UA · 2010, 763, klax, lax, n664ua",
+   "url": "https://live.staticflickr.com/5201/5292207438_26bb6548f4_b.jpg",
+   "preview": "https://live.staticflickr.com/5201/5292207438_26bb6548f4_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by InSapphoWeTrust on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/56619626@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/56619626@N05/5292207438",
+   "plain": true
+  },
+  {
+   "shows": "United Airlines - N120UA · 744, 747, bayarea, boeing747, boeing747400",
+   "url": "https://live.staticflickr.com/2813/9196389211_efd69fd355_b.jpg",
+   "preview": "https://live.staticflickr.com/2813/9196389211_efd69fd355_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by InSapphoWeTrust on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/56619626@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/56619626@N05/9196389211",
    "plain": true
   }
  ]

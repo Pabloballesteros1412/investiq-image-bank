@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Northern Trust Bank 50 South Lasalle Street from north",
@@ -96,6 +95,106 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_August_2022_063_(Northern_Trust_Building).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tampa, FL - Northern Trust Building",
+   "url": "https://live.staticflickr.com/65535/52629239821_774c77c568_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52629239821_774c77c568_z.jpg",
+   "size": [
+    986,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Stabbur's Master on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/124651729@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/124651729@N04/52629239821",
+   "plain": true
+  },
+  {
+   "shows": "Northern Trust Building · architecture, brickell, building, downtown, miami",
+   "url": "https://live.staticflickr.com/65535/48955290347_cc69c6803f_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48955290347_cc69c6803f_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Phillip Pessar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/25955895@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/25955895@N03/48955290347",
+   "plain": true
+  },
+  {
+   "shows": "Northern Trust Building · architecture, building, downtown, miami, northern",
+   "url": "https://live.staticflickr.com/65535/48955101246_f300e80293_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48955101246_f300e80293_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Phillip Pessar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/25955895@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/25955895@N03/48955101246",
+   "plain": true
+  },
+  {
+   "shows": "Northern Trust Company Building",
+   "url": "https://live.staticflickr.com/65535/51574881733_3ba8a7effa_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51574881733_3ba8a7effa_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ajay_suresh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83136374@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83136374@N05/51574881733",
+   "plain": true
+  },
+  {
+   "shows": "Northern Trust Building",
+   "url": "https://live.staticflickr.com/65535/54595087609_8b70a218da_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54595087609_8b70a218da_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/53301297@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/53301297@N00/54595087609",
    "plain": true
   }
  ]

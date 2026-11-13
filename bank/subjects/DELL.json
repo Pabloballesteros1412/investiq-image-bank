@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Dell Technologies Headquarters",
@@ -168,6 +167,26 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Dell_offices_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dell laptop keyboard · closeup, computer, dell, inspiron, keyboard",
+   "url": "https://live.staticflickr.com/2457/3860586024_3d3b1942c5_b.jpg",
+   "preview": "https://live.staticflickr.com/2457/3860586024_3d3b1942c5_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by bigpresh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/62806367@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/62806367@N00/3860586024",
    "plain": true
   }
  ]

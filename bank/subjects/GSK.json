@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "GlaxoSmithKline building, London, 30 July 2007 ( )",
@@ -131,6 +130,66 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Glaxo_Smith_Kline_Building_at_Brentford_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "GOC Kew to Osterley 085: GSK",
+   "url": "https://live.staticflickr.com/5546/11187599734_3f12363ea8_b.jpg",
+   "preview": "https://live.staticflickr.com/5546/11187599734_3f12363ea8_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Peter O'Connor aka anemoneprojectors on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/58414938@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/58414938@N00/11187599734",
+   "plain": true
+  },
+  {
+   "shows": "Good morning #GSK Brentford",
+   "url": "https://live.staticflickr.com/5540/14231955840_6f823a9b18_b.jpg",
+   "preview": "https://live.staticflickr.com/5540/14231955840_6f823a9b18_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dullhunk on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/14829735@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/14829735@N00/14231955840",
+   "plain": true
+  },
+  {
+   "shows": "GSK Building · accusations, accused, allegations, building, cases",
+   "url": "https://live.staticflickr.com/3863/14393223147_c69dc021b7_b.jpg",
+   "preview": "https://live.staticflickr.com/3863/14393223147_c69dc021b7_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by theglobalpanorama on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/121483302@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/121483302@N02/14393223147",
    "plain": true
   }
  ]

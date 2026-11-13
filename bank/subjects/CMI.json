@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Cummins headquarters",
@@ -168,6 +167,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Cummins,_IAA_2024,_Hanover_(P1190856).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cummins Engine Factory, Columbus, Indiana",
+   "url": "https://live.staticflickr.com/1830/42856099761_66d612cc79_b.jpg",
+   "preview": "https://live.staticflickr.com/1830/42856099761_66d612cc79_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by born1945 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12567713@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12567713@N00/42856099761",
    "plain": true
   }
  ]

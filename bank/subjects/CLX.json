@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Blue and white clorox plastic bottle",
@@ -26,6 +25,26 @@
    "author_url": "https://unsplash.com/@claybanks?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/blue-and-white-clorox-plastic-bottle-kBaf0DwBPbE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Clorox Green Works Natural All-Purpose Cleaner",
+   "url": "https://live.staticflickr.com/4121/4812064874_86142bf48b_b.jpg",
+   "preview": "https://live.staticflickr.com/4121/4812064874_86142bf48b_z.jpg",
+   "size": [
+    467,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by theimpulsivebuy on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/27410581@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/27410581@N07/4812064874",
+   "plain": true
   },
   {
    "shows": "Clorox (Clorox)",
@@ -115,6 +134,66 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:HK_SKW_%E7%AD%B2%E7%AE%95%E7%81%A3_Shau_Kei_Wan_%E6%9C%9B%E9%9A%86%E8%A1%97_Mong_Lung_Street_October_2021_SS2_005.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Fresh Step Cat Box Filler Kitty Litter. 9/2014 Target Display, Clorox, by Mike Mozart of TheToyChannel and JeepersMedia on YouTube #Fresh #Step #Cat #Litter",
+   "url": "https://live.staticflickr.com/5573/15107645250_103bc9ebb7_b.jpg",
+   "preview": "https://live.staticflickr.com/5573/15107645250_103bc9ebb7_z.jpg",
+   "size": [
+    1024,
+    664
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/15107645250",
+   "plain": true
+  },
+  {
+   "shows": "Fresh Step Cat Box Filler Kitty Litter. 9/2014 Target Display, Clorox, by Mike Mozart of TheToyChannel and JeepersMedia on YouTube #Fresh #Step #Cat #Litter",
+   "url": "https://live.staticflickr.com/3876/15271331456_c11903ed10_b.jpg",
+   "preview": "https://live.staticflickr.com/3876/15271331456_c11903ed10_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/15271331456",
+   "plain": true
+  },
+  {
+   "shows": "Fresh Step Cat Box Filler Kitty Litter. 9/2014 Target Display, Clorox, by Mike Mozart of TheToyChannel and JeepersMedia on YouTube #Fresh #Step #Cat #Litter",
+   "url": "https://live.staticflickr.com/3878/15107770788_3e789f4d66_b.jpg",
+   "preview": "https://live.staticflickr.com/3878/15107770788_3e789f4d66_z.jpg",
+   "size": [
+    1024,
+    727
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/15107770788",
    "plain": true
   }
  ]

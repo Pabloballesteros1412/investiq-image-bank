@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Jane Fraser, Citigroup CEO (per Wikidata)",
@@ -166,6 +165,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Citigroup_Center_Oct_2023_06.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Citibank branch at the Arnold, Constable Building",
+   "url": "https://live.staticflickr.com/3060/2679430602_5f8ee5c813_b.jpg",
+   "preview": "https://live.staticflickr.com/3060/2679430602_5f8ee5c813_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by epicharmus on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/8256808@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8256808@N02/2679430602",
    "plain": true
   }
  ]

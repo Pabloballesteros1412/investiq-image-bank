@@ -131,6 +131,26 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Zoomheadquarters.jpg",
    "plain": true
+  },
+  {
+   "shows": "VFRÖ - Zoom Meeting 3/2020",
+   "url": "https://live.staticflickr.com/65535/49693224797_abcb3f4f72_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49693224797_abcb3f4f72_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by radiofabrik on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/31964246@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/31964246@N04/49693224797",
+   "plain": true
   }
  ]
 }

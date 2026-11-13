@@ -81,6 +81,26 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Foxstudios.jpg",
    "plain": true
+  },
+  {
+   "shows": "FOX NEWS channel (store?)",
+   "url": "https://live.staticflickr.com/166/399079800_4c203864dc_b.jpg",
+   "preview": "https://live.staticflickr.com/166/399079800_4c203864dc_z.jpg",
+   "size": [
+    1024,
+    763
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jasoneppink on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/38102495@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/38102495@N00/399079800",
+   "plain": true
   }
  ]
 }

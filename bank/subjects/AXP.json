@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Person holding credit card",
@@ -169,6 +168,26 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:New_American_Express_Building,_1_John_Street,_Carlton_Hill,_Brighton_(August_2019)_(3).JPG",
+   "plain": true
+  },
+  {
+   "shows": "American Express Advertising Cards",
+   "url": "https://live.staticflickr.com/5140/5399559544_3389f2741b_b.jpg",
+   "preview": "https://live.staticflickr.com/5140/5399559544_3389f2741b_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by The.Comedian on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/37815348@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37815348@N00/5399559544",
    "plain": true
   }
  ]

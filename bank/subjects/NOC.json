@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "NASA, Northrop Grumman Test Fire SLS BOLE Booster (Water tower)",
@@ -151,6 +150,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Northrop_Grumman_De_Havilland_Canada_DHC-8_test_aircraft_N984HA_BWI_MD1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Northrop Grumman RQ-4A 'Global Hawk'",
+   "url": "https://live.staticflickr.com/5542/11378678995_658e6d4e02_b.jpg",
+   "preview": "https://live.staticflickr.com/5542/11378678995_658e6d4e02_z.jpg",
+   "size": [
+    1024,
+    410
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mark6mauno on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/98147195@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98147195@N00/11378678995",
+   "plain": true
+  },
+  {
+   "shows": "Northrop Grumman B-2 'Spirit'",
+   "url": "https://live.staticflickr.com/3834/11380129133_e1f1e81eb6_b.jpg",
+   "preview": "https://live.staticflickr.com/3834/11380129133_e1f1e81eb6_z.jpg",
+   "size": [
+    1024,
+    512
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mark6mauno on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/98147195@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98147195@N00/11380129133",
    "plain": true
   }
  ]

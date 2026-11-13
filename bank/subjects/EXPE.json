@@ -10,6 +10,26 @@
  "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
+   "shows": "Expedia building in Bellevue, WA",
+   "url": "https://live.staticflickr.com/5007/5240421968_b985ba75e2_b.jpg",
+   "preview": "https://live.staticflickr.com/5007/5240421968_b985ba75e2_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by sporst on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/37799356@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37799356@N05/5240421968",
+   "plain": true
+  },
+  {
    "shows": "Expedia Group south entrance",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Expedia_Group_south_entrance.jpg/1920px-Expedia_Group_south_entrance.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Expedia_Group_south_entrance.jpg/500px-Expedia_Group_south_entrance.jpg",
@@ -61,6 +81,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:David_Scowsill_interviews_Barry_Diller,_Chairman_and_Senior_Executive_of_IAC_%26_Expedia,_Inc._(25691901234).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Expedia in the Real World",
+   "url": "https://live.staticflickr.com/5447/10092113195_de5ba3b380_b.jpg",
+   "preview": "https://live.staticflickr.com/5447/10092113195_de5ba3b380_z.jpg",
+   "size": [
+    1024,
+    856
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mikecogh on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/89165847@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/89165847@N00/10092113195",
    "plain": true
   }
  ]
