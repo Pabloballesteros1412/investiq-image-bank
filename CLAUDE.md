@@ -193,13 +193,23 @@ Decisions (Pablo, 4 Nov 2026):
   name the company or a brand. Yield: famous ~41% (grade >= 2), the rest ~20%: name clashes (Snowflake, SAP, Vale,
   Ventas, Iron Mountain...), events, screenshots, naming-rights stadiums and towers, corporate jets (all rejected).
   2,011 candidates graded: 72 grade 3, 526 grade 2.
-- Progress (13 Nov, ~01:00 UTC): index 4,227 photos on the branch (main still 2,337). Commons company candidates:
-  3,248 graded, 178 grade 3 + 1,175 grade 2, all merged. Topics grown in 2-hour pieces (~1 topic an hour, Unsplash
-  demo limit): done recession, jobs, bull-market, crash, ai, datacenters, chips, crypto, gold, oil, tariffs,
-  china, dollar, bonds (graded); `topics_a5.txt` (21 topics) running, then `topics_b.txt` (13). Unsplash grade 2
-  hides a stock topic photo, so each grown topic loses ~half; a refill pass from the cache at the end (`build
-  --kind topic,sector --redo`, cached answers cost nothing) fills the gaps. Unsplash download counts pending grow
-  (361): they are sent at the start and end of builds, 50 an hour.
+- **More keyless free sources** (13 Nov, Pablo: "recórrete toda la web buscando fotos sin copyright"; done only
+  through official APIs with clear licences, never by scraping sites): `stock.LoC` (Library of Congress, Carol M.
+  Highsmith Archive only: public domain, "no known restrictions"; IIIF full size for older scans, newer scans
+  have only a 1024 px `v.jpg` -> `low_res`, used for companies only) and `stock.WordPress` (WordPress Photos, CC0,
+  2048 px or full). Both run in topic builds with Unsplash; NASA too (space subjects). Tried and dropped:
+  StockSnap (CDN serves 960 px), rawpixel (1024 px, mostly illustrations), nappy (2,200 photos), Openverse's
+  museum sources. LoC for companies (`grow_loc.py`, scratchpad) yields little: 25 candidates in 194 companies
+  (Google HQ, Intel fab, Pepsi signs, GE Schenectady), the rest name clashes (Circle -> Logan Circle).
+  `safe_search()` skips a stock source that fails for one query (a connection reset, Cloudflare 525 from
+  loc.gov had cost defense and consumer their rebuild); a used-up hourly limit still stops the build.
+- Progress (13 Nov, morning): Commons and Openverse company candidates all graded and merged. Topics grown in
+  2-hour pieces (~1-2 topics an hour, Unsplash demo limit): done recession, jobs, bull-market, crash, ai,
+  datacenters, chips, crypto, gold, oil, tariffs, china, dollar, bonds, housing, earnings, ipo, ev, nuclear,
+  banks, investing (graded); the rest of `topics_a6.txt` (defense and consumer to redo), then `topics_b.txt` (13),
+  then the sectors. Unsplash grade 2 hides a stock topic photo, so each grown topic loses ~half; a refill pass
+  from the cache at the end (`build --kind topic,sector --redo`, cached answers cost nothing) fills the gaps.
+  Unsplash download counts pending grow (~500): they are sent at the start and end of builds, 50 an hour.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
