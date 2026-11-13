@@ -670,7 +670,7 @@ class StockKeys(unittest.TestCase):
         self.assertEqual([(x.name, "Authorization" in x.headers) for x in s], [("unsplash", False)])
         self.assertEqual(stock.sources(env={"NO_NASA": "1"}, probe=lambda url: False), [])
         s = stock.sources(env={"FLICKR_API_KEY": "f", "PIXABAY_API_KEY": "p"}, probe=lambda url: False)
-        self.assertEqual([x.name for x in s], ["flickr", "pixabay", "nasa"])         # NASA needs no key
+        self.assertEqual([x.name for x in s], ["flickr", "pixabay", "nasa", "loc", "wordpress"])  # keyless last
 
     def test_flickr_only_free_licences_and_big_enough_photos(self):
         lic = {"4": ("CC BY 2.0", "cc-by-2.0", "https://creativecommons.org/licenses/by/2.0/")}
@@ -686,6 +686,42 @@ class StockKeys(unittest.TestCase):
         e = B.photo(c, "s", "x", "catalog", (0.5, 0.5))
         self.assertEqual((e["credit"], e["licence_kind"], e["url"], e["provider"]),
                          ("Photo by Jo on Flickr, CC BY 2.0", "by", p["url_k"], "flickr"))
+
+    def test_library_of_congress_highsmith_only_and_full_size(self):
+        r = {"contributor": ["highsmith, carol m."], "rights_advisory": "No known restrictions on publication.",
+             "title": "Oil refinery, Philadelphia, Pennsylvania", "date": "1980-01-01", "subject": ["refineries"],
+             "id": "http://www.loc.gov/item/2011630489/",
+             "image_url": ["https://tile.loc.gov/image-services/iiif/service:pnp:highsm:12200:12292/full/pct:50/0/default.jpg#h=1733&w=2195"]}
+        c = stock.LoC.candidate(r)
+        self.assertEqual((c["file"], c["w"], c["h"], c.get("low_res")), ("loc:2011630489", 1900, 1500, None))
+        self.assertTrue(c["big"].endswith("highsm:12200:12292/full/1900,/0/default.jpg"))
+        e = B.photo(c, "s", "x", "catalog", (0.5, 0.5))
+        self.assertEqual((e["credit"], e["licence_kind"], e["page"]),
+                         ("Photo: Carol M. Highsmith, Library of Congress, public domain", "pd", "https://www.loc.gov/item/2011630489/"))
+        self.assertIsNone(stock.LoC.candidate({**r, "contributor": ["someone else"]}))       # only Highsmith's gift
+        self.assertIsNone(stock.LoC.candidate({**r, "rights_advisory": "Rights status not evaluated."}))
+        new = {**r, "image_url": ["https://tile.loc.gov/storage-services/service/pnp/highsm/58500/58574v.jpg#h=712&w=1024"]}
+        self.assertTrue(stock.LoC.candidate(new)["low_res"])                                 # newer scans: 1024 px only
+
+    def test_wordpress_photos_cc0_and_big_enough(self):
+        def rec(w, h, s2=None):
+            sizes = {"full": {"width": w, "height": h, "source_url": "https://pd.w.org/a.jpg"}}
+            if s2:
+                sizes["2048x2048"] = {"width": s2[0], "height": s2[1], "source_url": "https://pd.w.org/a-2048.jpg"}
+            return {"id": 7, "link": "https://wordpress.org/photos/photo/7/", "date": "2026-01-02",
+                    "content": {"rendered": "<p>Container ship at the port&#8217;s dock</p>"},
+                    "_embedded": {"wp:featuredmedia": [{"mime_type": "image/jpeg", "source_url": "https://pd.w.org/a.jpg",
+                                                         "media_details": {"width": w, "height": h, "sizes": sizes}}],
+                                  "author": [{"name": "Ana", "link": "https://wordpress.org/photos/author/ana/"}],
+                                  "wp:term": [[{"name": "port"}, {"name": "shipping"}]]}}
+        c = stock.WordPress.candidate(rec(3000, 4000, (1536, 2048)))
+        self.assertEqual((c["file"], c["big"], c["w"], c["licence_code"]), ("wordpress:7", "https://pd.w.org/a-2048.jpg", 1536, "cc0"))
+        self.assertIn("port’s dock", c["description"])
+        self.assertIn("shipping", c["description"])
+        c = stock.WordPress.candidate(rec(4000, 2400, (2048, 1229)))                  # 2048 px too short for 4:5
+        self.assertEqual((c["big"], c["h"]), ("https://pd.w.org/a.jpg", 2400))
+        self.assertIsNone(stock.WordPress.candidate(rec(1600, 1000)))                 # too small
+        self.assertEqual(B.photo(c, "s", "x", "catalog", (0.5, 0.5))["credit"], "Photo by Ana on WordPress.org Photos, CC0")
 
     def test_nasa_only_for_space_and_public_domain(self):
         n = stock.Nasa()

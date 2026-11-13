@@ -19,7 +19,7 @@ Not allowed: selling the photos unaltered or building a competing photo service 
 photos are not under the free licence and are left out. Unsplash's guidelines also ask to hotlink its image
 addresses (the bank does) and to tell its API when a photo is chosen (the build does: `track`).
 """
-import hashlib, json, os, re, threading, time, urllib.error, urllib.parse, urllib.request
+import hashlib, html, json, os, re, threading, time, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 CACHE = Path(__file__).resolve().parent / ".cache" / "stock"
@@ -322,6 +322,124 @@ class Openverse:
         return True  # no download count
 
 
+def _throttle(url, gap):
+    """Wait before a request that is not in the cache, so free APIs without keys are asked gently."""
+    path = CACHE / (hashlib.sha1(url.encode()).hexdigest() + ".json")
+    if not (path.exists() and time.time() - path.stat().st_mtime < TTL):
+        time.sleep(gap)
+
+
+class LoC:
+    """The Library of Congress's Carol M. Highsmith Archive: about 100,000 photos of the United States (cities,
+    buildings, factories, ports, farms, stores) that Highsmith gave to the public ('No known restrictions on
+    publication'). Pablo asked on 13 Nov 2026 for photos without copyright from anywhere on the web; this is one
+    of the few large sets whose rights are clear. No key. Older scans are served at full size through IIIF (asked
+    at the width a slide needs); newer ones only at 1024 px, which only companies take (as low_res)."""
+    name = "loc"
+    API = "https://www.loc.gov/photos/"
+    CONTRIBUTOR = "highsmith, carol m."
+
+    def __init__(self, log=print, low_res=False):
+        self.log, self.headers, self.low_res = log, {}, low_res
+
+    def search(self, q):
+        url = self.API + "?" + urllib.parse.urlencode({"q": q, "fa": f"contributor:{self.CONTRIBUTOR}", "fo": "json",
+                                                       "c": PER_PAGE})
+        _throttle(url, 1.5)
+        d = fetch(url, self.headers, log=self.log)
+        out = (self.candidate(r) for r in d.get("results", []))
+        return [c for c in out if c and (self.low_res or not c.get("low_res"))]
+
+    @staticmethod
+    def candidate(r, slide_h=1500, preview_w=500, max_w=2400):
+        if LoC.CONTRIBUTOR not in [x.lower() for x in r.get("contributor") or []]:
+            return None
+        rights = r.get("rights_advisory") or (r.get("item") or {}).get("rights_advisory") or ""
+        rights = " ".join(rights) if isinstance(rights, list) else rights
+        if "no known restrictions" not in rights.lower():
+            return None
+        imgs = r.get("image_url") or []
+        m = re.search(r"#h=(\d+)&w=(\d+)", imgs[-1]) if imgs else None
+        iiif = next((u.split("/full/")[0] for u in imgs if "/image-services/iiif/" in u), None)
+        item = (r.get("id") or "").replace("http://", "https://")
+        num = re.search(r"/item/(\w+)/", item)
+        if not m or not num:
+            return None
+        h, w = int(m.group(1)), int(m.group(2))
+        pct = re.search(r"/full/pct:(\d+)/", imgs[-1])
+        if iiif and not re.search(r"\d[a-z]$", iiif) and pct:
+            w, h = w * 100 // int(pct.group(1)), h * 100 // int(pct.group(1))  # the scan's full size
+            width = int(min(w, max_w, max(1200, -(-slide_h * w // h))))
+            big, small, size, low = (f"{iiif}/full/{width},/0/default.jpg", f"{iiif}/full/{preview_w},/0/default.jpg",
+                                     [width, round(width * h / w)], False)
+        else:
+            v = next((u.split("#")[0] for u in imgs if re.search(r"v\.jpg", u)), None)
+            if not v:
+                return None
+            big, small, size, low = v, v.replace("v.jpg", "r.jpg"), [w, h], True
+        if max(size) < 1000:
+            return None
+        title = r.get("title") or ""
+        subjects = " ".join(r.get("subject") or [])
+        y = re.match(r"(\d{4})", r.get("date") or "")
+        return {"file": f"loc:{num.group(1)}", "provider": "loc", "w": size[0], "h": size[1], "mime": "image/jpeg",
+                "orig": big, "big": big, "small": small, "page": item,
+                "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)", "licence_code": "pd",
+                "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+                "author": "Carol M. Highsmith", "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+                "year": int(y.group(1)) if y else None, "categories": [], "restrictions": [], "alt": title[:200],
+                "description": f"{title} {subjects}"[:400], **({"low_res": True} if low else {})}
+
+    def track(self, url):
+        return True  # no download count
+
+
+class WordPress:
+    """The WordPress.org Photo Directory: photos given to the public domain (CC0) by their photographers and checked
+    by WordPress volunteers before they are listed (Pablo, 13 Nov 2026: photos without copyright). No key.
+    Served at full size (pd.w.org) and at 2048 px."""
+    name = "wordpress"
+    API = "https://wordpress.org/photos/wp-json/wp/v2/photos"
+
+    def __init__(self, log=print):
+        self.log, self.headers = log, {}
+
+    def search(self, q):
+        url = self.API + "?" + urllib.parse.urlencode({"search": q, "per_page": PER_PAGE, "_embed": 1})
+        _throttle(url, 1.0)
+        d = fetch(url, self.headers, log=self.log)
+        return [c for c in (self.candidate(r) for r in (d if isinstance(d, list) else [])) if c]
+
+    @staticmethod
+    def candidate(r):
+        e = r.get("_embedded") or {}
+        media = (e.get("wp:featuredmedia") or [{}])[0]
+        md = media.get("media_details") or {}
+        w, h = int(md.get("width") or 0), int(md.get("height") or 0)
+        if media.get("mime_type") != "image/jpeg" or min(w, h) < 1200:
+            return None
+        sizes = md.get("sizes") or {}
+        s2 = sizes.get("2048x2048") or {}
+        if s2.get("source_url") and int(s2.get("height") or 0) >= 1500:  # enough for a 4:5 slide: the lighter file
+            big, bw, bh = s2["source_url"], int(s2["width"]), int(s2["height"])
+        else:
+            big, bw, bh = media.get("source_url"), w, h
+        small = (sizes.get("medium_large") or sizes.get("large") or {}).get("source_url") or big
+        author = (e.get("author") or [{}])[0]
+        tags = " ".join(t.get("name", "") for grp in e.get("wp:term") or [] for t in grp or [] if isinstance(t, dict))
+        text = html.unescape(re.sub(r"<[^>]+>", " ", (r.get("content") or {}).get("rendered", ""))).strip()
+        y = re.match(r"(\d{4})", r.get("date") or "")
+        return {"file": f"wordpress:{r['id']}", "provider": "wordpress", "w": int(bw), "h": int(bh), "mime": "image/jpeg",
+                "orig": big, "big": big, "small": small, "page": r.get("link") or "",
+                "licence": "CC0 1.0", "licence_code": "cc0", "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+                "author": author.get("name") or "unknown", "author_url": author.get("link") or "",
+                "year": int(y.group(1)) if y else None, "categories": [], "restrictions": [], "alt": text[:200],
+                "description": f"{text} {tags}"[:400]}
+
+    def track(self, url):
+        return True  # no download count
+
+
 class Pixabay:
     """Pixabay photos (Pixabay Content License: commercial use, no attribution required; the bank credits them
     anyway). Needs PIXABAY_API_KEY. Without full API access Pixabay gives at most 1280 px, too small for a full
@@ -382,8 +500,8 @@ def sources(log=print, env=None, probe=answers_without_key):
         key = (env.get(var) or "").strip()
         if key:
             out.append(cls(key, log))
-    if not env.get("NO_NASA"):
-        out.append(Nasa(None, log))
+    if not env.get("NO_NASA"):  # keyless public-domain and CC0 sources (NO_NASA turns them all off, for tests)
+        out += [Nasa(None, log), LoC(log), WordPress(log)]
     return out
 
 

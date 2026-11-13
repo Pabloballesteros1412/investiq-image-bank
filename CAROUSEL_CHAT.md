@@ -2,8 +2,9 @@
 
 El chat de Claude que hace los carruseles de InvestIQ encuentra las fotos en un índice público
 (`bank/index.json`). Las fotos están en Wikimedia Commons (las de empresas: solo las mejores, revisadas a ojo),
-Unsplash, Flickr (solo licencias libres, también a través de Openverse), la NASA y Pixabay, y el chat las recorta
-a la diapositiva.
+Unsplash, Flickr (solo licencias libres, también a través de Openverse), la NASA, Pixabay, la Biblioteca del
+Congreso de EE. UU. (archivo de Carol M. Highsmith, dominio público) y WordPress Photos (CC0), y el chat las
+recorta a la diapositiva.
 
 1. **El repo tiene que ser público** (ya lo es).
 2. **Pega este bloque en las instrucciones del proyecto** de Claude que hace los carruseles:
@@ -20,7 +21,7 @@ Banco de imágenes de InvestIQ
   (en HTML: object-fit: cover; object-position: x% y%).
 - Usa solo fotos del banco, nunca imágenes de otras webs.
 - Pon el crédito de cada foto que uses tal cual aparece en "credit", en letra pequeña en la diapositiva o en
-  una diapositiva final de créditos. Si la foto trae "author_url" (Unsplash, Flickr, NASA, Pixabay) y el texto del post
+  una diapositiva final de créditos. Si la foto trae "author_url" (Unsplash, Flickr, NASA, Pixabay, Biblioteca del Congreso, WordPress) y el texto del post
   admite enlaces, enlaza ahí al fotógrafo.
 - Solo recortar: no retoques, no redibujes y no generes imágenes parecidas. En las fotos de personas reales
   ("person": true) no des a entender que esa persona respalda InvestIQ. Los cargos (CEO, presidente...) pueden
@@ -37,7 +38,7 @@ Banco de imágenes de InvestIQ
 
 Si el chat crea las diapositivas con código y no consigue leer el índice o descargar las fotos, en los
 ajustes de claude.ai permite los dominios `raw.githubusercontent.com`, `upload.wikimedia.org`,
-`images.unsplash.com`, `images.pexels.com` y `live.staticflickr.com` en el acceso a internet de la ejecución de código.
+`images.unsplash.com`, `images.pexels.com`, `live.staticflickr.com`, `tile.loc.gov` y `pd.w.org` en el acceso a internet de la ejecución de código.
 
 Cada vez que se rehace el banco (`build` y `git push`), el chat ve los cambios en el siguiente carrusel. No
 hace falta cambiar nada en el proyecto.
