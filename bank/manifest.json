@@ -149749,29 +149749,28 @@
   "photos": [
    {
     "shot": "power-plant",
-    "shows": "A factory with smoke coming out of it",
-    "file": "unsplash:RqOyRtYGhLg",
-    "page": "https://unsplash.com/photos/a-factory-with-smoke-coming-out-of-it-RqOyRtYGhLg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A photograph captures a rural scene with a combine harvester operating in a field of tall, golden rice stalks. Several cattle egrets, are scattered among the ha",
+    "file": "wordpress:231780",
+    "page": "https://wordpress.org/photos/photo/8126a5f244/",
+    "url": "https://pd.w.org/2026/07/8126a5f244805ef15.96870771.jpg",
+    "preview": "https://pd.w.org/2026/07/8126a5f244805ef15.96870771-768x512.jpg",
     "size": [
-     2255,
-     1500
+     6000,
+     4000
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Etienne Girardet on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Etienne Girardet",
-    "year": 2022,
+    "credit": "Photo by Brandon Zhang on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Brandon Zhang",
+    "year": 2026,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@etiennegirardet?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/RqOyRtYGhLg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA"
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/heybran/"
    },
    {
     "shot": "transmission-lines",
@@ -149928,25 +149927,25 @@
    },
    {
     "shot": "water-treatment-plant",
-    "shows": "Kafue water treatment plant picture 2",
-    "file": "File:Kafue water treatment plant picture 2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kafue_water_treatment_plant_picture_2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kafue_water_treatment_plant_picture_2.jpg/1280px-Kafue_water_treatment_plant_picture_2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kafue_water_treatment_plant_picture_2.jpg/500px-Kafue_water_treatment_plant_picture_2.jpg",
+    "shows": "Waterloo Water Treatment Plant - MC 05",
+    "file": "File:Waterloo Water Treatment Plant - MC 05.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Waterloo_Water_Treatment_Plant_-_MC_05.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Waterloo_Water_Treatment_Plant_-_MC_05.jpg/1920px-Waterloo_Water_Treatment_Plant_-_MC_05.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Waterloo_Water_Treatment_Plant_-_MC_05.jpg/500px-Waterloo_Water_Treatment_Plant_-_MC_05.jpg",
     "size": [
-     1280,
-     1707
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Olympian Xeus, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Marshelec, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Olympian Xeus",
-    "year": 2022,
+    "author": "Marshelec",
+    "year": 2023,
     "how": "catalog"
    },
    {
@@ -150000,35 +149999,139 @@
     "track_pending": true
    },
    {
-    "shot": "power-plant",
-    "shows": "Viborg Power Plant -1",
-    "file": "File:Viborg Power Plant 2014-11-17-1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Viborg_Power_Plant_2014-11-17-1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Viborg_Power_Plant_2014-11-17-1.jpg/1920px-Viborg_Power_Plant_2014-11-17-1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Viborg_Power_Plant_2014-11-17-1.jpg/500px-Viborg_Power_Plant_2014-11-17-1.jpg",
+    "shot": "power-lines",
+    "shows": "A utility worker in a hard hat and harness repairing overhead power lines",
+    "file": "unsplash:Q3WVbAfdOoY",
+    "page": "https://unsplash.com/photos/utility-worker-repairing-overhead-power-lines-Q3WVbAfdOoY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1597502310092-31cdaa35b46d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1597502310092-31cdaa35b46d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1238
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Slaunger, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
+    "credit": "Photo by Антон Дмитриев on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Антон Дмитриев",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ehmitrich?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Q3WVbAfdOoY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "electricity",
+    "shows": "Arc en Ciel Plage de Radès",
+    "file": "File:Arc en Ciel Plage de Radès.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arc_en_Ciel_Plage_de_Rad%C3%A8s.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arc_en_Ciel_Plage_de_Rad%C3%A8s.jpg/1920px-Arc_en_Ciel_Plage_de_Rad%C3%A8s.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arc_en_Ciel_Plage_de_Rad%C3%A8s.jpg/500px-Arc_en_Ciel_Plage_de_Rad%C3%A8s.jpg",
+    "size": [
+     1920,
+     1363
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Smailtn Camera location 36° 46′ 26.97″ N, 10° 17′ 27.77″ E View this and other nearby images on: OpenStreetMap 36.774157; 10.291047, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Slaunger",
-    "year": 2014,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Smailtn Camera location 36° 46′ 26.97″ N, 10° 17′ 27.77″ E View this and other nearby images on: OpenStreetMap 36.774157; 10.291047",
+    "year": 2023,
     "how": "catalog"
    },
    {
-    "shot": "transmission-lines",
+    "shot": "wind-farm",
+    "shows": "Power County Wind Farm 002",
+    "file": "File:Power County Wind Farm 002.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Power_County_Wind_Farm_002.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Power_County_Wind_Farm_002.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Power_County_Wind_Farm_002.jpg/500px-Power_County_Wind_Farm_002.jpg",
+    "size": [
+     1920,
+     1349
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "ENERGY.GOV, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "ENERGY.GOV",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "solar-panels",
+    "shows": "A close up of a solar panel on a building",
+    "file": "unsplash:2SfssudtyIA",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-solar-panel-on-a-building-2SfssudtyIA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1724041875334-0a6397111c7e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1724041875334-0a6397111c7e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Benjamin Jopen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Benjamin Jopen",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@benjopen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2SfssudtyIA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "water",
+    "shows": "Rippling dark teal water surface",
+    "file": "unsplash:ZxGdri2EWzk",
+    "page": "https://unsplash.com/photos/rippling-dark-teal-water-surface-ZxGdri2EWzk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1555412654-72a95a495858?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1555412654-72a95a495858?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Akira Hojo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Akira Hojo",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@joephotography?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZxGdri2EWzk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "electric-grid",
     "shows": "A couple of power lines sitting next to each other",
     "file": "unsplash:FXw3zkbqd0w",
     "page": "https://unsplash.com/photos/a-couple-of-power-lines-sitting-next-to-each-other-FXw3zkbqd0w?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1644567103258-6da3857faab4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1644567103258-6da3857faab4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "url": "https://images.unsplash.com/photo-1644567103258-6da3857faab4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZWxlY3RyaWMlMjBncmlkfGVufDF8fHx8MTc5NDYxMTc2M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1644567103258-6da3857faab4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZWxlY3RyaWMlMjBncmlkfGVufDF8fHx8MTc5NDYxMTc2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -150046,7 +150149,133 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@oqtave?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/FXw3zkbqd0w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww",
+    "track": "https://api.unsplash.com/photos/FXw3zkbqd0w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZWxlY3RyaWMlMjBncmlkfGVufDF8fHx8MTc5NDYxMTc2M3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "dam",
+    "shows": "Gray concrete dam under blue sky during daytime",
+    "file": "unsplash:o8iXJVAahUc",
+    "page": "https://unsplash.com/photos/gray-concrete-dam-under-blue-sky-during-daytime-o8iXJVAahUc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1606050309588-741702cceb9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tejj on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tejj",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tejjj?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/o8iXJVAahUc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "utility-pole",
+    "shows": "Red-tailed hawk on power pole-2033",
+    "file": "File:Red-tailed hawk on power pole-2033.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red-tailed_hawk_on_power_pole-2033.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Red-tailed_hawk_on_power_pole-2033.jpg/1920px-Red-tailed_hawk_on_power_pole-2033.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Red-tailed_hawk_on_power_pole-2033.jpg/500px-Red-tailed_hawk_on_power_pole-2033.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Frank Schulenburg",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "energy",
+    "shows": "Energy-consumption-by-source-Romania",
+    "file": "File:Energy-consumption-by-source-Romania.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Energy-consumption-by-source-Romania.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Energy-consumption-by-source-Romania.png/1920px-Energy-consumption-by-source-Romania.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Energy-consumption-by-source-Romania.png/500px-Energy-consumption-by-source-Romania.png",
+    "size": [
+     1920,
+     1848
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Hannah Ritchie and Max Roser and Pablo Rosado, CC BY 1.0, via Wikimedia Commons",
+    "licence": "CC BY 1.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/1.0",
+    "author": "Hannah Ritchie and Max Roser and Pablo Rosado",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "power-plant",
+    "shows": "A factory with smoke coming out of it",
+    "file": "unsplash:RqOyRtYGhLg",
+    "page": "https://unsplash.com/photos/a-factory-with-smoke-coming-out-of-it-RqOyRtYGhLg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1650668013755-9434dfd0f067?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Etienne Girardet on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Etienne Girardet",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@etiennegirardet?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/RqOyRtYGhLg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBwbGFudHxlbnwxfHx8fDE3OTM4ODQzMzd8MA"
+   },
+   {
+    "shot": "transmission-lines",
+    "shows": "Man in blue orange and white jacket wearing red helmet",
+    "file": "unsplash:fW6lwDM26o0",
+    "page": "https://unsplash.com/photos/man-in-blue-orange-and-white-jacket-wearing-red-helmet-fW6lwDM26o0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1595831708961-1b13c0dd2422?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww&ixlib=rb-4.1.0&w=2328&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1595831708961-1b13c0dd2422?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2328,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Антон Дмитриев on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Антон Дмитриев",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ehmitrich?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/fW6lwDM26o0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHRyYW5zbWlzc2lvbiUyMGxpbmVzfGVufDF8fHx8MTc5Mzg4NDMzOXww",
     "track_pending": true
    },
    {
@@ -150101,302 +150330,37 @@
    },
    {
     "shot": "hydroelectric-dam",
-    "shows": "SantaMaria Aereo",
-    "file": "File:SantaMaria Aereo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SantaMaria_Aereo.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SantaMaria_Aereo.jpg/1280px-SantaMaria_Aereo.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/SantaMaria_Aereo.jpg/500px-SantaMaria_Aereo.jpg",
+    "shows": "Hoover Dam, Nevada (Arizona-Nevada, USA) -- 2012 -- 6125",
+    "file": "File:Hoover Dam, Nevada (Arizona-Nevada, USA) -- 2012 -- 6125.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hoover_Dam,_Nevada_(Arizona-Nevada,_USA)_--_2012_--_6125.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hoover_Dam%2C_Nevada_%28Arizona-Nevada%2C_USA%29_--_2012_--_6125.jpg/1280px-Hoover_Dam%2C_Nevada_%28Arizona-Nevada%2C_USA%29_--_2012_--_6125.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hoover_Dam%2C_Nevada_%28Arizona-Nevada%2C_USA%29_--_2012_--_6125.jpg/500px-Hoover_Dam%2C_Nevada_%28Arizona-Nevada%2C_USA%29_--_2012_--_6125.jpg",
     "size": [
      1280,
-     1920
+     1605
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "INDE, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "INDE",
-    "year": 2006,
-    "how": "catalog"
-   },
-   {
-    "shot": "electricity-meter",
-    "shows": "Kos-Kos city-Electricity meter-02ASD",
-    "file": "File:Kos-Kos city-Electricity meter-02ASD.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kos-Kos_city-Electricity_meter-02ASD.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kos-Kos_city-Electricity_meter-02ASD.jpg/1280px-Kos-Kos_city-Electricity_meter-02ASD.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Kos-Kos_city-Electricity_meter-02ASD.jpg/500px-Kos-Kos_city-Electricity_meter-02ASD.jpg",
-    "size": [
-     1280,
-     1923
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Asurnipal, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Asurnipal",
-    "year": 2019,
+    "author": "Dietmar Rabich",
+    "year": 2012,
     "how": "catalog"
    },
    {
     "shot": "substation",
-    "shows": "A view of a city from a rooftop",
-    "file": "unsplash:1_Oj6VNavsk",
-    "page": "https://unsplash.com/photos/a-view-of-a-city-from-a-rooftop-1_Oj6VNavsk?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1727692112857-5113e32a6159?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1727692112857-5113e32a6159?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Brown and gray metal machine",
+    "file": "unsplash:cfLpe6MuSZ0",
+    "page": "https://unsplash.com/photos/brown-and-gray-metal-machine-cfLpe6MuSZ0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1629754093005-410efa256407?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1629754093005-410efa256407?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Rose Galloway Green on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Rose Galloway Green",
-    "year": 2024,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@rgreen?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/1_Oj6VNavsk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "water-treatment-plant",
-    "shows": "Waterloo Water Treatment Plant - MC 01",
-    "file": "File:Waterloo Water Treatment Plant - MC 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Waterloo_Water_Treatment_Plant_-_MC_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Waterloo_Water_Treatment_Plant_-_MC_01.jpg/1920px-Waterloo_Water_Treatment_Plant_-_MC_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Waterloo_Water_Treatment_Plant_-_MC_01.jpg/500px-Waterloo_Water_Treatment_Plant_-_MC_01.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Marshelec, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Marshelec",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "lineman",
-    "shows": "Celcor employees in Aerial work platforms in Cabanatuan",
-    "file": "File:Celcor employees in Aerial work platforms in Cabanatuan (12).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Celcor_employees_in_Aerial_work_platforms_in_Cabanatuan_(12).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Celcor_employees_in_Aerial_work_platforms_in_Cabanatuan_%2812%29.jpg/1920px-Celcor_employees_in_Aerial_work_platforms_in_Cabanatuan_%2812%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Celcor_employees_in_Aerial_work_platforms_in_Cabanatuan_%2812%29.jpg/500px-Celcor_employees_in_Aerial_work_platforms_in_Cabanatuan_%2812%29.jpg",
-    "size": [
-     1920,
-     1437
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Captainmorlypogi1959, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Captainmorlypogi1959",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-power-station",
-    "shows": "Power plant at dusk, next to water",
-    "file": "unsplash:t_K1HVbDv3E",
-    "page": "https://unsplash.com/photos/power-plant-at-dusk-next-to-water-t_K1HVbDv3E?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1750074905875-a837f1e9f92e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1750074905875-a837f1e9f92e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Zoshua Colah on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Zoshua Colah",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/t_K1HVbDv3E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "power-plant",
-    "shows": "Navajo generating station Page 2",
-    "file": "File:Navajo generating station Page 2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Navajo_generating_station_Page_2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Navajo_generating_station_Page_2.jpg/1920px-Navajo_generating_station_Page_2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Navajo_generating_station_Page_2.jpg/500px-Navajo_generating_station_Page_2.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Myrabella, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Myrabella",
-    "year": 2014,
-    "how": "catalog"
-   },
-   {
-    "shot": "transmission-lines",
-    "shows": "Overhead Transmission Lines",
-    "file": "File:Overhead Transmission Lines.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Overhead_Transmission_Lines.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Overhead_Transmission_Lines.jpg/1920px-Overhead_Transmission_Lines.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Overhead_Transmission_Lines.jpg/500px-Overhead_Transmission_Lines.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Abby brooklyn, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Abby brooklyn",
-    "year": 2021,
-    "how": "catalog"
-   },
-   {
-    "shot": "wind-turbines",
-    "shows": "Wind turbines on brown sand under white clouds and blue sky during daytime",
-    "file": "unsplash:tTv6Lo5uQVQ",
-    "page": "https://unsplash.com/photos/wind-turbines-on-brown-sand-under-white-clouds-and-blue-sky-during-daytime-tTv6Lo5uQVQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1587168173357-99c7e95fb5cd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww&ixlib=rb-4.1.0&w=2003&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1587168173357-99c7e95fb5cd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2003,
+     2251,
      1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Rabih Shasha on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Rabih Shasha",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@rabihshasha?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/tTv6Lo5uQVQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww",
-    "track_pending": true
-   },
-   {
-    "shot": "solar-farm",
-    "shows": "A photovoltaic power station in the United States",
-    "file": "File:A photovoltaic power station in the United States (36130544874).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_photovoltaic_power_station_in_the_United_States_(36130544874).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/A_photovoltaic_power_station_in_the_United_States_%2836130544874%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/A_photovoltaic_power_station_in_the_United_States_%2836130544874%29.jpg/500px-A_photovoltaic_power_station_in_the_United_States_%2836130544874%29.jpg",
-    "size": [
-     1920,
-     1282
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Chris Allan. – U.S. Department of Energy from United States, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Photo by Chris Allan. – U.S. Department of Energy from United States",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "hydroelectric-dam",
-    "shows": "Assuan-Hochdamm 15",
-    "file": "File:Assuan-Hochdamm 15.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Assuan-Hochdamm_15.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Assuan-Hochdamm_15.JPG/1920px-Assuan-Hochdamm_15.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Assuan-Hochdamm_15.JPG/500px-Assuan-Hochdamm_15.JPG",
-    "size": [
-     1920,
-     1439
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Olaf Tausch, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Olaf Tausch",
-    "year": 2011,
-    "how": "catalog"
-   },
-   {
-    "shot": "electricity-meter",
-    "shows": "Electricity meter display - BEST Museum, Mumbai",
-    "file": "File:Electricity meter display - BEST Museum, Mumbai.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Electricity_meter_display_-_BEST_Museum,_Mumbai.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Electricity_meter_display_-_BEST_Museum%2C_Mumbai.jpg/1280px-Electricity_meter_display_-_BEST_Museum%2C_Mumbai.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Electricity_meter_display_-_BEST_Museum%2C_Mumbai.jpg/500px-Electricity_meter_display_-_BEST_Museum%2C_Mumbai.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Rasik Tirodkar, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Rasik Tirodkar",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "substation",
-    "shows": "White and gray industrial machine",
-    "file": "unsplash:UdEDm68XqQE",
-    "page": "https://unsplash.com/photos/white-and-gray-industrial-machine-UdEDm68XqQE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1629754085858-b8f545b7c5aa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1629754085858-b8f545b7c5aa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
     ],
     "focus": [
      0.5,
@@ -150411,62 +150375,147 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@sfkopstein?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/UdEDm68XqQE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA",
+    "track": "https://api.unsplash.com/photos/cfLpe6MuSZ0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHN1YnN0YXRpb258ZW58MXx8fHwxNzkzODg5NDAwfDA",
     "track_pending": true
    },
    {
-    "shot": "water-treatment-plant",
-    "shows": "Deer Island Waste Water Treatment Plant",
-    "file": "File:Deer Island Waste Water Treatment Plant.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Deer_Island_Waste_Water_Treatment_Plant.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Deer_Island_Waste_Water_Treatment_Plant.jpg/1920px-Deer_Island_Waste_Water_Treatment_Plant.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Deer_Island_Waste_Water_Treatment_Plant.jpg/500px-Deer_Island_Waste_Water_Treatment_Plant.jpg",
+    "shot": "power-lines",
+    "shows": "Black electricity post under white sky",
+    "file": "unsplash:cC7YIjJQHFk",
+    "page": "https://unsplash.com/photos/black-electricity-post-under-white-sky-cC7YIjJQHFk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1587622054651-e3e62142c3e0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1587622054651-e3e62142c3e0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1115
+     1200,
+     1803
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Doc Searls, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Doc Searls",
-    "year": 2009,
-    "how": "catalog"
+    "credit": "Photo by Jorge Salvador on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jorge Salvador",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jsshotz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cC7YIjJQHFk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA",
+    "track_pending": true
    },
    {
-    "shot": "lineman",
-    "shows": "Burol 1 Balagtas Highway 05",
-    "file": "File:Burol 1 Balagtas Highway 05.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Burol_1_Balagtas_Highway_05.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burol_1_Balagtas_Highway_05.jpg/1920px-Burol_1_Balagtas_Highway_05.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Burol_1_Balagtas_Highway_05.jpg/500px-Burol_1_Balagtas_Highway_05.jpg",
+    "shot": "electricity",
+    "shows": "An electrical switch box with circuit breakers and colorful wiring in a control panel",
+    "file": "unsplash:kK7uPfb2YWU",
+    "page": "https://unsplash.com/photos/electrical-switch-box-with-circuit-breakers-kK7uPfb2YWU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZWxlY3RyaWNpdHl8ZW58MXx8fHwxNzk0NjExNjUyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZWxlY3RyaWNpdHl8ZW58MXx8fHwxNzk0NjExNjUyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "RamaGaspar, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Photo by Markus Spiske on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Markus Spiske",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@markusspiske?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/kK7uPfb2YWU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZWxlY3RyaWNpdHl8ZW58MXx8fHwxNzk0NjExNjUyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "wind-farm",
+    "shows": "Sunrise Windpark Gollenberg (D500-97780M) by Achim Lammerts",
+    "file": "File:2026-08-29 Sunrise Windpark Gollenberg (D500-97780M) by Achim Lammerts.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2026-08-29_Sunrise_Windpark_Gollenberg_(D500-97780M)_by_Achim_Lammerts.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2026-08-29_Sunrise_Windpark_Gollenberg_%28D500-97780M%29_by_Achim_Lammerts.jpg/1920px-2026-08-29_Sunrise_Windpark_Gollenberg_%28D500-97780M%29_by_Achim_Lammerts.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/2026-08-29_Sunrise_Windpark_Gollenberg_%28D500-97780M%29_by_Achim_Lammerts.jpg/500px-2026-08-29_Sunrise_Windpark_Gollenberg_%28D500-97780M%29_by_Achim_Lammerts.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Achim Lammerts (Syntaxys), CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "RamaGaspar",
-    "year": 2022,
+    "author": "Achim Lammerts (Syntaxys)",
+    "year": 2026,
     "how": "catalog"
    },
    {
-    "shot": "gas-power-station",
-    "shows": "Factory with smoke stacks along a waterfront",
-    "file": "unsplash:iELrESODVCA",
-    "page": "https://unsplash.com/photos/factory-with-smoke-stacks-along-a-waterfront-iELrESODVCA?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1750074905183-1f8d5e591245?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1750074905183-1f8d5e591245?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "solar-panels",
+    "shows": "Solar panels on green field",
+    "file": "unsplash:513dBrMJ_5w",
+    "page": "https://unsplash.com/photos/solar-panels-on-green-field-513dBrMJ_5w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1509391366360-2e959784a276?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by American Public Power Association on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "American Public Power Association",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@publicpowerorg?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/513dBrMJ_5w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "water",
+    "shows": "Rippling crystal blue water",
+    "file": "unsplash:9-OCsKoyQlk",
+    "page": "https://unsplash.com/photos/rippling-crystal-blue-water-9-OCsKoyQlk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1562016600-ece13e8ba570?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1562016600-ece13e8ba570?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1589
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wesley Tingey on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Wesley Tingey",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@wesleyphotography?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9-OCsKoyQlk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "electric-grid",
+    "shows": "Galvanized sheet fence near tower",
+    "file": "unsplash:ywHdzhM75XY",
+    "page": "https://unsplash.com/photos/galvanized-sheet-fence-near-tower-ywHdzhM75XY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1503232893484-d4611d44c608?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGVsZWN0cmljJTIwZ3JpZHxlbnwxfHx8fDE3OTQ2MTE3NjN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1503232893484-d4611d44c608?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGVsZWN0cmljJTIwZ3JpZHxlbnwxfHx8fDE3OTQ2MTE3NjN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -150475,16 +150524,70 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Zoshua Colah on Unsplash",
+    "credit": "Photo by Aleksandr Popov on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Zoshua Colah",
-    "year": 2025,
+    "author": "Aleksandr Popov",
+    "year": 2017,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/iELrESODVCA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA",
+    "author_url": "https://unsplash.com/@5tep5?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ywHdzhM75XY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGVsZWN0cmljJTIwZ3JpZHxlbnwxfHx8fDE3OTQ2MTE3NjN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "dam",
+    "shows": "Water dam during daytime photo",
+    "file": "unsplash:BTSBVZd9jWo",
+    "page": "https://unsplash.com/photos/water-dam-during-daytime-photo-BTSBVZd9jWo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1570106230673-3bab9f2f3c63?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1570106230673-3bab9f2f3c63?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Prateek Srivastava on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Prateek Srivastava",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@prateek05?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/BTSBVZd9jWo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "utility-pole",
+    "shows": "A group of birds sitting on top of power lines",
+    "file": "unsplash:glIVmUqipKk",
+    "page": "https://unsplash.com/photos/a-group-of-birds-sitting-on-top-of-power-lines-glIVmUqipKk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1681594095966-3db40133e930?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHV0aWxpdHklMjBwb2xlfGVufDF8fHx8MTc5NDYxMTgzMnww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1681594095966-3db40133e930?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHV0aWxpdHklMjBwb2xlfGVufDF8fHx8MTc5NDYxMTgzMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daniel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniel",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@format_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/glIVmUqipKk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHV0aWxpdHklMjBwb2xlfGVufDF8fHx8MTc5NDYxMTgzMnww",
     "track_pending": true
    },
    {
@@ -150515,26 +150618,257 @@
     "track_pending": true
    },
    {
-    "shot": "transmission-lines",
-    "shows": "Transmission lines in the Palm Springs-South Coast Field Office",
-    "file": "File:Transmission lines in the Palm Springs-South Coast Field Office (33618049028).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Transmission_lines_in_the_Palm_Springs-South_Coast_Field_Office_(33618049028).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Transmission_lines_in_the_Palm_Springs-South_Coast_Field_Office_%2833618049028%29.jpg/1920px-Transmission_lines_in_the_Palm_Springs-South_Coast_Field_Office_%2833618049028%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Transmission_lines_in_the_Palm_Springs-South_Coast_Field_Office_%2833618049028%29.jpg/500px-Transmission_lines_in_the_Palm_Springs-South_Coast_Field_Office_%2833618049028%29.jpg",
+    "shot": "wind-turbines",
+    "shows": "Wind turbines on brown sand under white clouds and blue sky during daytime",
+    "file": "unsplash:tTv6Lo5uQVQ",
+    "page": "https://unsplash.com/photos/wind-turbines-on-brown-sand-under-white-clouds-and-blue-sky-during-daytime-tTv6Lo5uQVQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1587168173357-99c7e95fb5cd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww&ixlib=rb-4.1.0&w=2003&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1587168173357-99c7e95fb5cd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1282
+     2003,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "blmcalifornia, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "blmcalifornia",
+    "credit": "Photo by Rabih Shasha on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rabih Shasha",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rabihshasha?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tTv6Lo5uQVQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2luZCUyMHR1cmJpbmVzfGVufDF8fHx8MTc5Mzg4OTM5NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "hydroelectric-dam",
+    "shows": "Idukki Dam Reservoir Hillview Pano Kerala Mar22 R16 -Pano",
+    "file": "File:Idukki Dam Reservoir Hillview Pano Kerala Mar22 R16 05581-Pano.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Idukki_Dam_Reservoir_Hillview_Pano_Kerala_Mar22_R16_05581-Pano.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Idukki_Dam_Reservoir_Hillview_Pano_Kerala_Mar22_R16_05581-Pano.jpg/1920px-Idukki_Dam_Reservoir_Hillview_Pano_Kerala_Mar22_R16_05581-Pano.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Idukki_Dam_Reservoir_Hillview_Pano_Kerala_Mar22_R16_05581-Pano.jpg/500px-Idukki_Dam_Reservoir_Hillview_Pano_Kerala_Mar22_R16_05581-Pano.jpg",
+    "size": [
+     1920,
+     725
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract ., CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "power-lines",
+    "shows": "Power lines during Blue Hour BW",
+    "file": "File:Power lines during Blue Hour BW.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Power_lines_during_Blue_Hour_BW.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Power_lines_during_Blue_Hour_BW.jpg/1920px-Power_lines_during_Blue_Hour_BW.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Power_lines_during_Blue_Hour_BW.jpg/500px-Power_lines_during_Blue_Hour_BW.jpg",
+    "size": [
+     1920,
+     1130
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "PumpkinSky, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "PumpkinSky",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "electricity",
+    "shows": "Wind turbines on snowy mountain under clear blue sky during daytime",
+    "file": "unsplash:nyL-rzwP-Mk",
+    "page": "https://unsplash.com/photos/wind-turbines-on-snowy-mountain-under-clear-blue-sky-during-daytime-nyL-rzwP-Mk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1487875961445-47a00398c267?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cmljaXR5fGVufDF8fHx8MTc5NDYxMTY1Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1487875961445-47a00398c267?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cmljaXR5fGVufDF8fHx8MTc5NDYxMTY1Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jason Mavrommatis on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jason Mavrommatis",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jasonblackeye?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nyL-rzwP-Mk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGVsZWN0cmljaXR5fGVufDF8fHx8MTc5NDYxMTY1Mnww",
+    "track_pending": true
+   },
+   {
+    "shot": "wind-farm",
+    "shows": "Middelgrunden wind farm edit filtered",
+    "file": "File:Middelgrunden wind farm 2009-07-01 edit filtered.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Middelgrunden_wind_farm_2009-07-01_edit_filtered.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Middelgrunden_wind_farm_2009-07-01_edit_filtered.jpg/1920px-Middelgrunden_wind_farm_2009-07-01_edit_filtered.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Middelgrunden_wind_farm_2009-07-01_edit_filtered.jpg/500px-Middelgrunden_wind_farm_2009-07-01_edit_filtered.jpg",
+    "size": [
+     1920,
+     1398
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kim Hansen . Postprocessing (crop, rotation, color adjustment, dust spot removal and noise reduction) by Richard Bartz and Kim Hansen ., CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Photo by Kim Hansen . Postprocessing (crop, rotation, color adjustment, dust spot removal and noise reduction) by Richard Bartz and Kim Hansen .",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "solar-panels",
+    "shows": "Black and white solar panels",
+    "file": "unsplash:0GbrjL3vZF4",
+    "page": "https://unsplash.com/photos/black-and-white-solar-panels-0GbrjL3vZF4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA&ixlib=rb-4.1.0&w=2217&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2217,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nuno Marques on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nuno Marques",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@logvisuals?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0GbrjL3vZF4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "water",
+    "shows": "Water ripple effect",
+    "file": "unsplash:rrfdqjJWwmU",
+    "page": "https://unsplash.com/photos/water-ripple-effect-rrfdqjJWwmU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1527066236128-2ff79f7b9705?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA&ixlib=rb-4.1.0&w=2265&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1527066236128-2ff79f7b9705?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2265,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by David Becker on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Becker",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@beckerworks?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/rrfdqjJWwmU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "dam",
+    "shows": "Aerial view of a concrete dam releasing water into a river near pine forests",
+    "file": "unsplash:w6X7XaolqA0",
+    "page": "https://unsplash.com/photos/concrete-dam-releasing-water-into-river-w6X7XaolqA0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1560279966-2d681f3d4dfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1560279966-2d681f3d4dfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dan Meyers on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dan Meyers",
     "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dmey503?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/w6X7XaolqA0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww",
+    "track_pending": true
+   },
+   {
+    "shot": "utility-pole",
+    "shows": "Linemen working on a utility pole with bucket truck",
+    "file": "unsplash:UyqxlMS8X84",
+    "page": "https://unsplash.com/photos/linemen-working-on-a-utility-pole-with-bucket-truck-UyqxlMS8X84?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1759542877886-39d81e8f2eee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHV0aWxpdHklMjBwb2xlfGVufDF8fHx8MTc5NDYxMTgzMnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1759542877886-39d81e8f2eee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHV0aWxpdHklMjBwb2xlfGVufDF8fHx8MTc5NDYxMTgzMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mario Spencer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mario Spencer",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@spencphoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/UyqxlMS8X84/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHV0aWxpdHklMjBwb2xlfGVufDF8fHx8MTc5NDYxMTgzMnww",
+    "track_pending": true
+   },
+   {
+    "shot": "power-plant",
+    "shows": "Navajo Generating Station from the south",
+    "file": "File:Navajo Generating Station from the south.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Navajo_Generating_Station_from_the_south.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Navajo_Generating_Station_from_the_south.JPG/1920px-Navajo_Generating_Station_from_the_south.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Navajo_Generating_Station_from_the_south.JPG/500px-Navajo_Generating_Station_from_the_south.JPG",
+    "size": [
+     1920,
+     1281
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here are not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract ., CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here are not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
+    "year": 2012,
     "how": "catalog"
    },
    {
@@ -150565,410 +150899,138 @@
     "track_pending": true
    },
    {
-    "shot": "solar-farm",
-    "shows": "Madeira-Canical-fuel depotand terminal-hill photovoltaic power station-02ASD",
-    "file": "File:Madeira-Canical-fuel depotand terminal-hill photovoltaic power station-02ASD.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Madeira-Canical-fuel_depotand_terminal-hill_photovoltaic_power_station-02ASD.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Madeira-Canical-fuel_depotand_terminal-hill_photovoltaic_power_station-02ASD.jpg/1920px-Madeira-Canical-fuel_depotand_terminal-hill_photovoltaic_power_station-02ASD.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Madeira-Canical-fuel_depotand_terminal-hill_photovoltaic_power_station-02ASD.jpg/500px-Madeira-Canical-fuel_depotand_terminal-hill_photovoltaic_power_station-02ASD.jpg",
+    "shot": "power-lines",
+    "shows": "A group of power lines in the middle of a city",
+    "file": "unsplash:Qn7dUULTZhs",
+    "page": "https://unsplash.com/photos/a-group-of-power-lines-in-the-middle-of-a-city-Qn7dUULTZhs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1694931537779-277fa32ed4a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA&ixlib=rb-4.1.0&w=2304&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1694931537779-277fa32ed4a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2304,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Lynn on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Lynn",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lynne_e?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Qn7dUULTZhs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHBvd2VyJTIwbGluZXN8ZW58MXx8fHwxNzk0NjExNjI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "wind-farm",
+    "shows": "Wind Turbines and Power Lines, East Sussex, England - April 2009",
+    "file": "File:Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/1920px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg/500px-Wind_Turbines_and_Power_Lines%2C_East_Sussex%2C_England_-_April_2009.jpg",
     "size": [
      1920,
-     1440
+     927
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Asurnipal, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "Diliff, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Asurnipal",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "hydroelectric-dam",
-    "shows": "Hoover Dam, Nevada (Arizona-Nevada, USA) -- 2012 -- 6125",
-    "file": "File:Hoover Dam, Nevada (Arizona-Nevada, USA) -- 2012 -- 6125.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hoover_Dam,_Nevada_(Arizona-Nevada,_USA)_--_2012_--_6125.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hoover_Dam%2C_Nevada_%28Arizona-Nevada%2C_USA%29_--_2012_--_6125.jpg/1280px-Hoover_Dam%2C_Nevada_%28Arizona-Nevada%2C_USA%29_--_2012_--_6125.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hoover_Dam%2C_Nevada_%28Arizona-Nevada%2C_USA%29_--_2012_--_6125.jpg/500px-Hoover_Dam%2C_Nevada_%28Arizona-Nevada%2C_USA%29_--_2012_--_6125.jpg",
-    "size": [
-     1280,
-     1605
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dietmar Rabich",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "electricity-meter",
-    "shows": "Electricity meter in India",
-    "file": "File:Electricity meter in India.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Electricity_meter_in_India.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Electricity_meter_in_India.jpg/1280px-Electricity_meter_in_India.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Electricity_meter_in_India.jpg/500px-Electricity_meter_in_India.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "GautamSudhanshu, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "GautamSudhanshu",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "substation",
-    "shows": "Switchyard of electric substation 750kV",
-    "file": "File:Switchyard of electric substation 750kV.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Switchyard_of_electric_substation_750kV.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Switchyard_of_electric_substation_750kV.png/1920px-Switchyard_of_electric_substation_750kV.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Switchyard_of_electric_substation_750kV.png/500px-Switchyard_of_electric_substation_750kV.png",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Novoklimov, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Novoklimov",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Diliff",
     "year": 2009,
     "how": "catalog"
    },
    {
-    "shot": "water-treatment-plant",
-    "shows": "Ullrich Water Treatment Plant Intake Lake Austin 2020",
-    "file": "File:Ullrich Water Treatment Plant Intake Lake Austin 2020.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ullrich_Water_Treatment_Plant_Intake_Lake_Austin_2020.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ullrich_Water_Treatment_Plant_Intake_Lake_Austin_2020.jpg/1920px-Ullrich_Water_Treatment_Plant_Intake_Lake_Austin_2020.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ullrich_Water_Treatment_Plant_Intake_Lake_Austin_2020.jpg/500px-Ullrich_Water_Treatment_Plant_Intake_Lake_Austin_2020.jpg",
+    "shot": "solar-panels",
+    "shows": "Blue solar panel",
+    "file": "unsplash:WvusC5M-TM8",
+    "page": "https://unsplash.com/photos/blue-solar-panel-WvusC5M-TM8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1558449028-b53a39d100fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Larry D. Moore, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Larry D. Moore",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "lineman",
-    "shows": "Men at work in Barangay Caniogan Calumpit 06",
-    "file": "File:Men at work in Barangay Caniogan Calumpit 06.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Men_at_work_in_Barangay_Caniogan_Calumpit_06.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Men_at_work_in_Barangay_Caniogan_Calumpit_06.jpg/1920px-Men_at_work_in_Barangay_Caniogan_Calumpit_06.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Men_at_work_in_Barangay_Caniogan_Calumpit_06.jpg/500px-Men_at_work_in_Barangay_Caniogan_Calumpit_06.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "FBenjr123, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "FBenjr123",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-power-station",
-    "shows": "Gas station with shell branding and v-power signage",
-    "file": "unsplash:rNLHha_5ti0",
-    "page": "https://unsplash.com/photos/gas-station-with-shell-branding-and-v-power-signage-rNLHha_5ti0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1772459361260-e5d8655b06f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA&ixlib=rb-4.1.0&w=1468&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1772459361260-e5d8655b06f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1468,
+     2000,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Lex Brogan on Unsplash",
+    "credit": "Photo by Chelsea on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Lex Brogan",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@lexbrogan?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/rNLHha_5ti0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGdhcyUyMHBvd2VyJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODk0MDV8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "power-plant",
-    "shows": "Navajo Generating Station from the south",
-    "file": "File:Navajo Generating Station from the south.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Navajo_Generating_Station_from_the_south.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Navajo_Generating_Station_from_the_south.JPG/1920px-Navajo_Generating_Station_from_the_south.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Navajo_Generating_Station_from_the_south.JPG/500px-Navajo_Generating_Station_from_the_south.JPG",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here are not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract ., CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "This Photo was taken by Wolfgang Moroder . Feel free to use my photos, but please mention me as the author and send me a message . This image is not in the public domain . Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media , if applicable terms of the licenses listed here are not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved. Please if you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract .",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "transmission-lines",
-    "shows": "Transmission Lines at Sunset",
-    "file": "File:Transmission Lines at Sunset.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Transmission_Lines_at_Sunset.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Transmission_Lines_at_Sunset.jpg/1920px-Transmission_Lines_at_Sunset.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Transmission_Lines_at_Sunset.jpg/500px-Transmission_Lines_at_Sunset.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kkiefuik This photo was taken with Canon EOS 90D, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Kkiefuik This photo was taken with Canon EOS 90D",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "wind-turbines",
-    "shows": "White wind turbines on green grass field during daytime",
-    "file": "unsplash:i-eXpmQ98M8",
-    "page": "https://unsplash.com/photos/white-wind-turbines-on-green-grass-field-during-daytime-i-eXpmQ98M8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1616596091194-eaec099773e4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHdpbmQlMjB0dXJiaW5lc3xlbnwxfHx8fDE3OTM4ODkzOTR8MA&ixlib=rb-4.1.0&w=2220&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1616596091194-eaec099773e4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHdpbmQlMjB0dXJiaW5lc3xlbnwxfHx8fDE3OTM4ODkzOTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2220,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Made From The Sky on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Made From The Sky",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@madefromthesky?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/i-eXpmQ98M8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHdpbmQlMjB0dXJiaW5lc3xlbnwxfHx8fDE3OTM4ODkzOTR8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "solar-farm",
-    "shows": "An aerial view of a large solar farm",
-    "file": "unsplash:Y5j57HvzuZg",
-    "page": "https://unsplash.com/photos/an-aerial-view-of-a-large-solar-farm-Y5j57HvzuZg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1641959166364-6c9b9898e804?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA&ixlib=rb-4.1.0&w=2252&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1641959166364-6c9b9898e804?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2252,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by ダモ リ on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "ダモ リ",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@darmau?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Y5j57HvzuZg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNvbGFyJTIwZmFybXxlbnwxfHx8fDE3OTM4ODkzOTZ8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "hydroelectric-dam",
-    "shows": "Peechi Dam 3",
-    "file": "File:Peechi Dam 3.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Peechi_Dam_3.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Peechi_Dam_3.jpg/1920px-Peechi_Dam_3.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Peechi_Dam_3.jpg/500px-Peechi_Dam_3.jpg",
-    "size": [
-     1920,
-     1081
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Lijovklm, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Lijovklm",
-    "year": 2021,
-    "how": "catalog"
-   },
-   {
-    "shot": "electricity-meter",
-    "shows": "Electricians fixing electricity meter 3",
-    "file": "File:Electricians fixing electricity meter 3.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Electricians_fixing_electricity_meter_3.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Electricians_fixing_electricity_meter_3.jpg/1280px-Electricians_fixing_electricity_meter_3.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Electricians_fixing_electricity_meter_3.jpg/500px-Electricians_fixing_electricity_meter_3.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jeromi Mikhael, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Jeromi Mikhael",
+    "author": "Chelsea",
     "year": 2019,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chelseadeeyo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/WvusC5M-TM8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c29sYXIlMjBwYW5lbHN8ZW58MXx8fHwxNzk0NjExNjk2fDA",
+    "track_pending": true
    },
    {
-    "shot": "substation",
-    "shows": "Substation in Vääksy at night",
-    "file": "File:Substation in Vääksy at night.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Substation_in_V%C3%A4%C3%A4ksy_at_night.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Substation_in_V%C3%A4%C3%A4ksy_at_night.jpg/1920px-Substation_in_V%C3%A4%C3%A4ksy_at_night.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Substation_in_V%C3%A4%C3%A4ksy_at_night.jpg/500px-Substation_in_V%C3%A4%C3%A4ksy_at_night.jpg",
+    "shot": "water",
+    "shows": "Body of water under sky",
+    "file": "unsplash:6ArTTluciuA",
+    "page": "https://unsplash.com/photos/body-of-water-under-sky-6ArTTluciuA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Unnerving duck, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Unnerving duck",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Matt Hardy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Matt Hardy",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@matthardy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6ArTTluciuA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2F0ZXJ8ZW58MXx8fHwxNzk0NjExNzE5fDA",
+    "track_pending": true
    },
    {
-    "shot": "water-treatment-plant",
-    "shows": "Gear Island Water Treatment Plant - MC",
-    "file": "File:Gear Island Water Treatment Plant - MC.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gear_Island_Water_Treatment_Plant_-_MC.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gear_Island_Water_Treatment_Plant_-_MC.jpg/1920px-Gear_Island_Water_Treatment_Plant_-_MC.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gear_Island_Water_Treatment_Plant_-_MC.jpg/500px-Gear_Island_Water_Treatment_Plant_-_MC.jpg",
+    "shot": "dam",
+    "shows": "Aerial photo of dam during daytime",
+    "file": "unsplash:EhcI5FPSZs8",
+    "page": "https://unsplash.com/photos/aerial-photo-of-dam-during-daytime-EhcI5FPSZs8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1569918190173-6a5792908184?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1569918190173-6a5792908184?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1970
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Marshelec, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Marshelec",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-power-station",
-    "shows": "Natural gas power plants in the United States",
-    "file": "File:Natural gas power plants in the United States.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Natural_gas_power_plants_in_the_United_States.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Natural_gas_power_plants_in_the_United_States.png/1920px-Natural_gas_power_plants_in_the_United_States.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Natural_gas_power_plants_in_the_United_States.png/500px-Natural_gas_power_plants_in_the_United_States.png",
-    "size": [
-     1920,
-     1069
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wikideas1, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wikideas1",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "power-plant",
-    "shows": "Waste block turbine and generator in Iru Thermal Power Plant",
-    "file": "File:Waste block turbine and generator in Iru Thermal Power Plant.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Waste_block_turbine_and_generator_in_Iru_Thermal_Power_Plant.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waste_block_turbine_and_generator_in_Iru_Thermal_Power_Plant.jpg/1920px-Waste_block_turbine_and_generator_in_Iru_Thermal_Power_Plant.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Waste_block_turbine_and_generator_in_Iru_Thermal_Power_Plant.jpg/500px-Waste_block_turbine_and_generator_in_Iru_Thermal_Power_Plant.jpg",
-    "size": [
-     1920,
-     960
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Lauri Veerde, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Lauri Veerde",
-    "year": 2020,
-    "how": "catalog"
+    "credit": "Photo by Marcus Woodbridge on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Marcus Woodbridge",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@marcuswoodbridge?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EhcI5FPSZs8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGFtfGVufDF8fHx8MTc5NDYxMTc5NHww",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  "sector-real-estate": {
   "name": "Real estate sector",
