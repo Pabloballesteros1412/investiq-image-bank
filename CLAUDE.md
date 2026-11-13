@@ -178,7 +178,28 @@ Decisions (Pablo, 4 Nov 2026):
 - Pablo asked to "scrape any website": declined (copyright; InvestIQ posts commercially). Added free-licence
   sources instead (stock.py): Flickr (CC BY / BY-SA / CC0 / PDM / US gov only, >= 1600 px; needs FLICKR_API_KEY in
   the environment), NASA (public domain, no key, space subjects only, launch providers' photos excluded), Pixabay
-  (needs PIXABAY_API_KEY and full-HD access). Openverse tested and dropped (flaky, Flickr at 1024 px).
+  (needs PIXABAY_API_KEY and full-HD access). Openverse first tested and dropped (flaky, Flickr at 1024 px).
+- Flickr API keys now need Flickr Pro (Pablo saw "creación de claves API desactivada para cuentas gratuitas", 12
+  Nov); Pablo asked whether to give me his Flickr login to scrape: declined (no passwords in chat, Flickr's terms
+  forbid robots outside the API, a free account unlocks nothing). Pro for a month would give the same photos at
+  2048 px.
+- **Openverse after all** (Pablo, 12 Nov night, after seeing samples: "adelante con openverse"): `stock.Openverse`
+  (Flickr photos, `license_type=commercial,modification`, no key: 20 searches/min, 200/day nominal, it let ~700
+  through in one night). Flickr's sizes above 1024 px need a secret only its API gives, so every Openverse photo
+  carries `low_res` (long side < 1500): `is_plain()` makes the index mark it `plain`, a grade-2 one is held in
+  `reserve()` like a Commons grade 2, and the index rules / CAROUSEL_CHAT.md tell the chat never to use one as a
+  cover and to use it small (half slide, inset, grid). Collector `grow_openverse.py` (scratchpad): famous
+  companies first (brand terms, "<name> headquarters", the name), at most 4 per photographer, the description must
+  name the company or a brand. Yield: famous ~41% (grade >= 2), the rest ~20%: name clashes (Snowflake, SAP, Vale,
+  Ventas, Iron Mountain...), events, screenshots, naming-rights stadiums and towers, corporate jets (all rejected).
+  2,011 candidates graded: 72 grade 3, 526 grade 2.
+- Progress (13 Nov, ~01:00 UTC): index 4,227 photos on the branch (main still 2,337). Commons company candidates:
+  3,248 graded, 178 grade 3 + 1,175 grade 2, all merged. Topics grown in 2-hour pieces (~1 topic an hour, Unsplash
+  demo limit): done recession, jobs, bull-market, crash, ai, datacenters, chips, crypto, gold, oil, tariffs,
+  china, dollar, bonds (graded); `topics_a5.txt` (21 topics) running, then `topics_b.txt` (13). Unsplash grade 2
+  hides a stock topic photo, so each grown topic loses ~half; a refill pass from the cache at the end (`build
+  --kind topic,sector --redo`, cached answers cost nothing) fills the gaps. Unsplash download counts pending grow
+  (361): they are sent at the start and end of builds, 50 an hour.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
