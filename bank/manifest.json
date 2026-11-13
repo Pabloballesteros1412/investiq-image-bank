@@ -153683,26 +153683,28 @@
    },
    {
     "shot": "washington-dc",
-    "shows": "Jefferson Memorial Washington April 2017 002",
-    "file": "File:Jefferson Memorial Washington April 2017 002.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Jefferson_Memorial_Washington_April_2017_002.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jefferson_Memorial_Washington_April_2017_002.jpg/1920px-Jefferson_Memorial_Washington_April_2017_002.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Jefferson_Memorial_Washington_April_2017_002.jpg/500px-Jefferson_Memorial_Washington_April_2017_002.jpg",
+    "shows": "Griffiti and torn poster revealing an eye on building hoarding, Washington DC",
+    "file": "wordpress:65887",
+    "page": "https://wordpress.org/photos/photo/42765e95d6/",
+    "url": "https://pd.w.org/2024/03/42765e95d6646d342.05355419.jpeg",
+    "preview": "https://pd.w.org/2024/03/42765e95d6646d342.05355419-768x510.jpeg",
     "size": [
-     1920,
-     1282
+     4288,
+     2848
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "King of Hearts",
-    "year": 2017,
-    "how": "catalog"
+    "credit": "Photo by goeyburner on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "goeyburner",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/goeyburner/"
    },
    {
     "shot": "hundred-dollar-bills",
@@ -153731,29 +153733,6 @@
     "track": "https://api.unsplash.com/photos/WyxqQpyFNk8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww"
    },
    {
-    "shot": "mortgage-rates",
-    "shows": "2022 NASCAR Ruoff Mortgage 500",
-    "file": "File:2022 NASCAR Ruoff Mortgage 500 (4).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2022_NASCAR_Ruoff_Mortgage_500_(4).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2022_NASCAR_Ruoff_Mortgage_500_%284%29.jpg/1920px-2022_NASCAR_Ruoff_Mortgage_500_%284%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/2022_NASCAR_Ruoff_Mortgage_500_%284%29.jpg/500px-2022_NASCAR_Ruoff_Mortgage_500_%284%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cpl. Brennan J. Beauton, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Cpl. Brennan J. Beauton",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
     "shot": "money-stack",
     "shows": "A stack of money sitting on top of a white table",
     "file": "unsplash:e-CrwdBNL7k",
@@ -153780,176 +153759,62 @@
     "track": "https://api.unsplash.com/photos/e-CrwdBNL7k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bW9uZXklMjBzdGFja3xlbnwxfHx8fDE3OTM5MzQ3ODR8MA"
    },
    {
-    "shot": "bank-interest",
-    "shows": "CZE-20-Czechoslovak National Bank-10 Korun",
-    "file": "File:CZE-20-Czechoslovak National Bank-10 Korun (1927).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CZE-20-Czechoslovak_National_Bank-10_Korun_(1927).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CZE-20-Czechoslovak_National_Bank-10_Korun_%281927%29.jpg/1280px-CZE-20-Czechoslovak_National_Bank-10_Korun_%281927%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CZE-20-Czechoslovak_National_Bank-10_Korun_%281927%29.jpg/500px-CZE-20-Czechoslovak_National_Bank-10_Korun_%281927%29.jpg",
+    "shot": "interest-rates",
+    "shows": "Andamento dell'interesse totale al variare di TAN e numero di rate",
+    "file": "File:Andamento dell'interesse totale al variare di TAN e numero di rate.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Andamento_dell%27interesse_totale_al_variare_di_TAN_e_numero_di_rate.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Andamento_dell%27interesse_totale_al_variare_di_TAN_e_numero_di_rate.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Andamento_dell%27interesse_totale_al_variare_di_TAN_e_numero_di_rate.jpg/500px-Andamento_dell%27interesse_totale_al_variare_di_TAN_e_numero_di_rate.jpg",
     "size": [
-     1280,
-     1530
+     1831,
+     1060
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "National Museum of American History, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "National Museum of American History",
-    "year": 2015,
-    "how": "catalog",
-    "flags": [
-     "restrictions: currency"
-    ]
-   },
-   {
-    "shot": "eccles",
-    "shows": "2025 construction Eccles Federal Reserve Building Washington DC 13-01-38 1",
-    "file": "File:2025 construction Eccles Federal Reserve Building Washington DC 2025-12-17 13-01-38 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-12-17_13-01-38_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-12-17_13-01-38_1.jpg/1920px-2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-12-17_13-01-38_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-12-17_13-01-38_1.jpg/500px-2025_construction_Eccles_Federal_Reserve_Building_Washington_DC_2025-12-17_13-01-38_1.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "G. Edward Johnson, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "G. Edward Johnson",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "boardroom",
-    "shows": "Interior of the Board room.",
-    "file": "File:Ec 35 (25841504020).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ec_35_(25841504020).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ec_35_%2825841504020%29.jpg/1920px-Ec_35_%2825841504020%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ec_35_%2825841504020%29.jpg/500px-Ec_35_%2825841504020%29.jpg",
-    "size": [
-     1920,
-     1288
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2007,
-    "how": "catalog"
-   },
-   {
-    "shot": "fomc",
-    "shows": "Federal Open Market Committee (FOMC) Chairman Ben S. Bernanke addresses reporters in his opening statement at a press conference. The event took place in Washin",
-    "file": "File:FOMC D4A4501 (11439897774).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:FOMC_D4A4501_(11439897774).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/FOMC_D4A4501_%2811439897774%29.jpg/1920px-FOMC_D4A4501_%2811439897774%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/FOMC_D4A4501_%2811439897774%29.jpg/500px-FOMC_D4A4501_%2811439897774%29.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2013,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-reserve",
-    "shows": "New Orleans Federal Reserve Bank Building - Poydras Street side",
-    "file": "File:New Orleans Federal Reserve Bank Building - Poydras Street side.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:New_Orleans_Federal_Reserve_Bank_Building_-_Poydras_Street_side.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/New_Orleans_Federal_Reserve_Bank_Building_-_Poydras_Street_side.jpg/1920px-New_Orleans_Federal_Reserve_Bank_Building_-_Poydras_Street_side.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/New_Orleans_Federal_Reserve_Bank_Building_-_Poydras_Street_side.jpg/500px-New_Orleans_Federal_Reserve_Bank_Building_-_Poydras_Street_side.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Infrogmation of New Orleans, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Aleskandro, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Infrogmation of New Orleans",
+    "author": "Aleskandro",
+    "year": 2020,
+    "how": "catalog"
+   },
+   {
+    "shot": "central-bank",
+    "shows": "A large building with five stars on top of it",
+    "file": "unsplash:J_GHl2FdtBo",
+    "page": "https://unsplash.com/photos/a-large-building-with-five-stars-on-top-of-it-J_GHl2FdtBo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1632085912720-8dc46985c183?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2VudHJhbCUyMGJhbmt8ZW58MXx8fHwxNzk0NTYxMDM5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1632085912720-8dc46985c183?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2VudHJhbCUyMGJhbmt8ZW58MXx8fHwxNzk0NTYxMDM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Christian Lue on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christian Lue",
     "year": 2021,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@christianlue?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/J_GHl2FdtBo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2VudHJhbCUyMGJhbmt8ZW58MXx8fHwxNzk0NTYxMDM5fDA",
+    "track_pending": true
    },
    {
-    "shot": "federal-reserve-building",
-    "shows": "Federal Reserve Building (Detroit) exterior at midday, from southwest",
-    "file": "File:Federal Reserve Building (Detroit) exterior at midday, from southwest (1).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Building_(Detroit)_exterior_at_midday,_from_southwest_(1).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Federal_Reserve_Building_%28Detroit%29_exterior_at_midday%2C_from_southwest_%281%29.jpg/1920px-Federal_Reserve_Building_%28Detroit%29_exterior_at_midday%2C_from_southwest_%281%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Federal_Reserve_Building_%28Detroit%29_exterior_at_midday%2C_from_southwest_%281%29.jpg/500px-Federal_Reserve_Building_%28Detroit%29_exterior_at_midday%2C_from_southwest_%281%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "42-BRT, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "42-BRT",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "washington-dc",
-    "shows": "July 4th fireworks, Washington, D.C. (LOC)",
-    "file": "File:July 4th fireworks, Washington, D.C. (LOC).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:July_4th_fireworks,_Washington,_D.C._(LOC).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/July_4th_fireworks%2C_Washington%2C_D.C._%28LOC%29.jpg/1920px-July_4th_fireworks%2C_Washington%2C_D.C._%28LOC%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/July_4th_fireworks%2C_Washington%2C_D.C._%28LOC%29.jpg/500px-July_4th_fireworks%2C_Washington%2C_D.C._%28LOC%29.jpg",
-    "size": [
-     1920,
-     1414
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Carol M. Highsmith, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Carol M. Highsmith",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "hundred-dollar-bills",
+    "shot": "us-dollar",
     "shows": "A close-up of Benjamin Franklin on a United States one hundred dollar bill",
     "file": "unsplash:wTO6MWpMrJk",
     "page": "https://unsplash.com/photos/benjamin-franklin-on-hundred-dollar-bill-wTO6MWpMrJk?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "url": "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -153967,135 +153832,16 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@adamnir?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/wTO6MWpMrJk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww",
+    "track": "https://api.unsplash.com/photos/wTO6MWpMrJk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA",
     "track_pending": true
    },
    {
-    "shot": "mortgage-rates",
-    "shows": "Professor Warren speaks about mortgage loan disclosures",
-    "file": "File:Professor Warren speaks about mortgage loan disclosures (5412215592).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Professor_Warren_speaks_about_mortgage_loan_disclosures_(5412215592).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Professor_Warren_speaks_about_mortgage_loan_disclosures_%285412215592%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Professor_Warren_speaks_about_mortgage_loan_disclosures_%285412215592%29.jpg/500px-Professor_Warren_speaks_about_mortgage_loan_disclosures_%285412215592%29.jpg",
-    "size": [
-     1413,
-     1600
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Consumer Financial Protection Bureau from United States, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Consumer Financial Protection Bureau from United States",
-    "year": 2010,
-    "how": "catalog"
-   },
-   {
-    "shot": "money-stack",
-    "shows": "Stack of books on table",
-    "file": "unsplash:LVcjYwuHQlg",
-    "page": "https://unsplash.com/photos/stack-of-books-on-table-LVcjYwuHQlg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1604156425963-9be03f86a428?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW9uZXklMjBzdGFja3xlbnwxfHx8fDE3OTM5MzQ3ODR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1604156425963-9be03f86a428?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW9uZXklMjBzdGFja3xlbnwxfHx8fDE3OTM5MzQ3ODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Mufid Majnun on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Mufid Majnun",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@mufidpwt?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/LVcjYwuHQlg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW9uZXklMjBzdGFja3xlbnwxfHx8fDE3OTM5MzQ3ODR8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "bank-interest",
-    "shows": "Negative Interest Rate 2009-2019",
-    "file": "File:Negative Interest Rate 2009-2019.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Negative_Interest_Rate_2009-2019.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Negative_Interest_Rate_2009-2019.png/1920px-Negative_Interest_Rate_2009-2019.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Negative_Interest_Rate_2009-2019.png/500px-Negative_Interest_Rate_2009-2019.png",
-    "size": [
-     1920,
-     1187
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "stock-ai.com, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "stock-ai.com",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "eccles",
-    "shows": "Marriner S. Eccles Federal Reserve Board Building",
-    "file": "File:Marriner S. Eccles Federal Reserve Board Building.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/1920px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg/500px-Marriner_S._Eccles_Federal_Reserve_Board_Building.jpg",
-    "size": [
-     1920,
-     1065
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "AgnosticPreachersKid, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "AgnosticPreachersKid",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "boardroom",
-    "shows": "Chairman Ben S. Bernanke speaks to the 2012 College Fed Challenge Finalists. The finals were held in the Board Room at the Board of Governors on November 27, 20",
-    "file": "File:CB FC 112712 BR 1360 (8548482385).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CB_FC_112712_BR_1360_(8548482385).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/CB_FC_112712_BR_1360_%288548482385%29.jpg/1920px-CB_FC_112712_BR_1360_%288548482385%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/CB_FC_112712_BR_1360_%288548482385%29.jpg/500px-CB_FC_112712_BR_1360_%288548482385%29.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "fomc",
-    "shows": "CP FOMC Group 7.5x10",
-    "file": "File:CP FOMC Group 7.5x10 11142022 DSCF5769 (52563724010).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CP_FOMC_Group_7.5x10_11142022_DSCF5769_(52563724010).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CP_FOMC_Group_7.5x10_11142022_DSCF5769_%2852563724010%29.jpg/1920px-CP_FOMC_Group_7.5x10_11142022_DSCF5769_%2852563724010%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CP_FOMC_Group_7.5x10_11142022_DSCF5769_%2852563724010%29.jpg/500px-CP_FOMC_Group_7.5x10_11142022_DSCF5769_%2852563724010%29.jpg",
+    "shot": "capitol-hill",
+    "shows": "G Street DC b CHHD",
+    "file": "File:G Street DC b CHHD.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:G_Street_DC_b_CHHD.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/G_Street_DC_b_CHHD.JPG/1920px-G_Street_DC_b_CHHD.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/G_Street_DC_b_CHHD.JPG/500px-G_Street_DC_b_CHHD.JPG",
     "size": [
      1920,
      1440
@@ -154104,90 +153850,21 @@
      0.5,
      0.5
     ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2022,
+    "credit": "Smallbones, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Smallbones",
+    "year": 2013,
     "how": "catalog"
    },
    {
-    "shot": "federal-reserve",
-    "shows": "Federal Reserve Police car",
-    "file": "File:Federal Reserve Police car.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Police_car.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Federal_Reserve_Police_car.jpg/1920px-Federal_Reserve_Police_car.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Federal_Reserve_Police_car.jpg/500px-Federal_Reserve_Police_car.jpg",
-    "size": [
-     1920,
-     1140
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Daniel Schwen",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-reserve-building",
-    "shows": "Federal Reserve Bank, Richmond, Virginia",
-    "file": "File:Federal Reserve Bank, Richmond, Virginia.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank,_Richmond,_Virginia.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Federal_Reserve_Bank%2C_Richmond%2C_Virginia.jpg/1280px-Federal_Reserve_Bank%2C_Richmond%2C_Virginia.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Federal_Reserve_Bank%2C_Richmond%2C_Virginia.jpg/500px-Federal_Reserve_Bank%2C_Richmond%2C_Virginia.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ben Schumin, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Ben Schumin",
-    "year": 2003,
-    "how": "catalog"
-   },
-   {
-    "shot": "washington-dc",
-    "shows": "Great Hall, Washington Union Station -L1005585",
-    "file": "File:Great Hall, Washington Union Station (2024)-L1005585.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Great_Hall,_Washington_Union_Station_(2024)-L1005585.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Great_Hall%2C_Washington_Union_Station_%282024%29-L1005585.jpg/1920px-Great_Hall%2C_Washington_Union_Station_%282024%29-L1005585.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Great_Hall%2C_Washington_Union_Station_%282024%29-L1005585.jpg/500px-Great_Hall%2C_Washington_Union_Station_%282024%29-L1005585.jpg",
-    "size": [
-     1920,
-     1664
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Frank Schulenburg",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "hundred-dollar-bills",
-    "shows": "A one hundred dollar bill with a hundred dollar bill on top of it",
-    "file": "unsplash:d09HOBf5Ae8",
-    "page": "https://unsplash.com/photos/a-one-hundred-dollar-bill-with-a-hundred-dollar-bill-on-top-of-it-d09HOBf5Ae8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1671469899101-953e0a0931a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1671469899101-953e0a0931a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "washington-monument",
+    "shows": "Large monument",
+    "file": "unsplash:RJogiATgkcg",
+    "page": "https://unsplash.com/photos/large-monument-RJogiATgkcg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1578276445434-ea4a70fc3b64?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1578276445434-ea4a70fc3b64?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
      1800
@@ -154196,48 +153873,25 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Jonathan Borba on Unsplash",
+    "credit": "Photo by Brian Erickson on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Jonathan Borba",
-    "year": 2022,
+    "author": "Brian Erickson",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jonathanborba?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/d09HOBf5Ae8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA",
+    "author_url": "https://unsplash.com/@itsbrianerickson?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/RJogiATgkcg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww",
     "track_pending": true
    },
    {
-    "shot": "mortgage-rates",
-    "shows": "Outstanding Residential Fixed-Rate Mortgages in Canada by Term Length (May 2020)",
-    "file": "File:Outstanding Residential Fixed-Rate Mortgages in Canada by Term Length (May 2020).png",
-    "page": "https://commons.wikimedia.org/wiki/File:Outstanding_Residential_Fixed-Rate_Mortgages_in_Canada_by_Term_Length_(May_2020).png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Outstanding_Residential_Fixed-Rate_Mortgages_in_Canada_by_Term_Length_%28May_2020%29.png/1920px-Outstanding_Residential_Fixed-Rate_Mortgages_in_Canada_by_Term_Length_%28May_2020%29.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Outstanding_Residential_Fixed-Rate_Mortgages_in_Canada_by_Term_Length_%28May_2020%29.png/500px-Outstanding_Residential_Fixed-Rate_Mortgages_in_Canada_by_Term_Length_%28May_2020%29.png",
-    "size": [
-     1920,
-     1089
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "WOWA Leads, Inc., CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "WOWA Leads, Inc.",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "money-stack",
-    "shows": "money stack",
-    "file": "File:Money-2180330 1920.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Money-2180330_1920.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Money-2180330_1920.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Money-2180330_1920.jpg/500px-Money-2180330_1920.jpg",
+    "shot": "bank-building-columns",
+    "shows": "HSBC Bank Interior Carved Columns",
+    "file": "File:HSBC Bank Interior Carved Columns.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HSBC_Bank_Interior_Carved_Columns.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/HSBC_Bank_Interior_Carved_Columns.jpg/1920px-HSBC_Bank_Interior_Carved_Columns.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/HSBC_Bank_Interior_Carved_Columns.jpg/500px-HSBC_Bank_Interior_Carved_Columns.jpg",
     "size": [
      1920,
      1280
@@ -154246,173 +153900,130 @@
      0.5,
      0.5
     ],
-    "credit": "kschneider2991, CC0, via Wikimedia Commons",
+    "credit": "Anne and David, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Anne and David",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "money-printing",
+    "shows": "Qing Block for Printing Paper Money 01",
+    "file": "File:Qing Block for Printing Paper Money 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Qing_Block_for_Printing_Paper_Money_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Qing_Block_for_Printing_Paper_Money_01.jpg/1920px-Qing_Block_for_Printing_Paper_Money_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Qing_Block_for_Printing_Paper_Money_01.jpg/500px-Qing_Block_for_Printing_Paper_Money_01.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Gary Lee Todd, Ph.D., CC0, via Wikimedia Commons",
     "licence": "CC0",
     "licence_kind": "cc0",
     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "kschneider2991",
-    "year": 2017,
+    "author": "Gary Lee Todd, Ph.D.",
+    "year": 2008,
     "how": "catalog"
    },
    {
-    "shot": "bank-interest",
-    "shows": "City of Melbourne Bank Limited, Interest warrant issued by London branch (June 1892)",
-    "file": "File:City of Melbourne Bank Limited, Interest warrant issued by London branch (June 1892).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:City_of_Melbourne_Bank_Limited,_Interest_warrant_issued_by_London_branch_(June_1892).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/City_of_Melbourne_Bank_Limited%2C_Interest_warrant_issued_by_London_branch_%28June_1892%29.jpg/1920px-City_of_Melbourne_Bank_Limited%2C_Interest_warrant_issued_by_London_branch_%28June_1892%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/City_of_Melbourne_Bank_Limited%2C_Interest_warrant_issued_by_London_branch_%28June_1892%29.jpg/500px-City_of_Melbourne_Bank_Limited%2C_Interest_warrant_issued_by_London_branch_%28June_1892%29.jpg",
+    "shot": "mortgage",
+    "shows": "Rocket Mortgage FieldHouse",
+    "file": "File:Rocket Mortgage FieldHouse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rocket_Mortgage_FieldHouse.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rocket_Mortgage_FieldHouse.jpg/1920px-Rocket_Mortgage_FieldHouse.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rocket_Mortgage_FieldHouse.jpg/500px-Rocket_Mortgage_FieldHouse.jpg",
     "size": [
      1920,
-     1559
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "TrimmerinWiki, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Cards84664, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "TrimmerinWiki",
-    "year": 2026,
+    "author": "Cards84664",
+    "year": 2019,
     "how": "catalog"
    },
    {
-    "shot": "eccles",
-    "shows": "Eccles Building - north side",
-    "file": "File:Eccles Building - north side.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Eccles_Building_-_north_side.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Eccles_Building_-_north_side.JPG/1920px-Eccles_Building_-_north_side.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Eccles_Building_-_north_side.JPG/500px-Eccles_Building_-_north_side.JPG",
-    "size": [
-     1920,
-     1085
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "AgnosticPreachersKid, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "AgnosticPreachersKid",
-    "year": 2010,
-    "how": "catalog"
-   },
-   {
-    "shot": "boardroom",
-    "shows": "Ford A0377 NLGRF photo contact sheet ( )(Gerald Ford Library)",
-    "file": "File:Ford A0377 NLGRF photo contact sheet (1974-08-27)(Gerald Ford Library).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ford_A0377_NLGRF_photo_contact_sheet_(1974-08-27)(Gerald_Ford_Library).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ford_A0377_NLGRF_photo_contact_sheet_%281974-08-27%29%28Gerald_Ford_Library%29.jpg/1280px-Ford_A0377_NLGRF_photo_contact_sheet_%281974-08-27%29%28Gerald_Ford_Library%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ford_A0377_NLGRF_photo_contact_sheet_%281974-08-27%29%28Gerald_Ford_Library%29.jpg/500px-Ford_A0377_NLGRF_photo_contact_sheet_%281974-08-27%29%28Gerald_Ford_Library%29.jpg",
+    "shot": "dollar-bills-close-up",
+    "shows": "A close-up of a United States fifty-dollar bill showing the signature of Rosa Gumataotao Rios.",
+    "file": "File:DollarRiosClose.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:DollarRiosClose.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DollarRiosClose.jpg/1280px-DollarRiosClose.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DollarRiosClose.jpg/500px-DollarRiosClose.jpg",
     "size": [
      1280,
-     1804
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "White House Photographic Office (WHPO) - Thomas, public domain, via Wikimedia Commons",
+    "credit": "Caravansera, public domain, via Wikimedia Commons",
     "licence": "Public domain",
     "licence_kind": "pd",
     "licence_url": "",
-    "author": "White House Photographic Office (WHPO) - Thomas",
-    "year": 1974,
-    "how": "catalog"
+    "author": "Caravansera",
+    "year": 2024,
+    "how": "catalog",
+    "flags": [
+     "restrictions: currency"
+    ]
    },
    {
-    "shot": "fomc",
-    "shows": "Federal Open Market Committee (FOMC) participants gather at the Marriner S. Eccles Building in Washington, D.C., for a two-day meeting held on March 18-19, 2014",
-    "file": "File:CY FOMC 031814-3066 (13272861314).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CY_FOMC_031814-3066_(13272861314).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CY_FOMC_031814-3066_%2813272861314%29.jpg/1920px-CY_FOMC_031814-3066_%2813272861314%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CY_FOMC_031814-3066_%2813272861314%29.jpg/500px-CY_FOMC_031814-3066_%2813272861314%29.jpg",
+    "shot": "us-treasury-building",
+    "shows": "U.S. Treasury Building from behind the fence",
+    "file": "File:U.S. Treasury Building from behind the fence.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:U.S._Treasury_Building_from_behind_the_fence.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/U.S._Treasury_Building_from_behind_the_fence.jpg/1920px-U.S._Treasury_Building_from_behind_the_fence.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/U.S._Treasury_Building_from_behind_the_fence.jpg/500px-U.S._Treasury_Building_from_behind_the_fence.jpg",
     "size": [
      1920,
-     1277
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2014,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-reserve",
-    "shows": "Federal Reserve Board (Board of Governors of the Federal Reserve System) open meeting, October 2023",
-    "file": "File:Federal Reserve Board (Board of Governors of the Federal Reserve System) open meeting, October 2023.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Board_(Board_of_Governors_of_the_Federal_Reserve_System)_open_meeting,_October_2023.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Federal_Reserve_Board_%28Board_of_Governors_of_the_Federal_Reserve_System%29_open_meeting%2C_October_2023.jpg/1920px-Federal_Reserve_Board_%28Board_of_Governors_of_the_Federal_Reserve_System%29_open_meeting%2C_October_2023.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Federal_Reserve_Board_%28Board_of_Governors_of_the_Federal_Reserve_System%29_open_meeting%2C_October_2023.jpg/500px-Federal_Reserve_Board_%28Board_of_Governors_of_the_Federal_Reserve_System%29_open_meeting%2C_October_2023.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-reserve-building",
-    "shows": "Federal reserve",
-    "file": "File:Federal reserve 1170524.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_reserve_1170524.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Federal_reserve_1170524.jpg/1920px-Federal_reserve_1170524.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Federal_reserve_1170524.jpg/500px-Federal_reserve_1170524.jpg",
-    "size": [
-     1920,
-     1442
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Zorinzirin, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Frypie, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Zorinzirin",
-    "year": 2026,
+    "author": "Frypie",
+    "year": 2025,
     "how": "catalog"
    },
    {
     "shot": "washington-dc",
-    "shows": "WashMonument WhiteHouse",
-    "file": "File:WashMonument WhiteHouse.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:WashMonument_WhiteHouse.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WashMonument_WhiteHouse.jpg/1920px-WashMonument_WhiteHouse.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/WashMonument_WhiteHouse.jpg/500px-WashMonument_WhiteHouse.jpg",
+    "shows": "Washington Monument Dusk Jan 2006",
+    "file": "File:Washington Monument Dusk Jan 2006.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Washington_Monument_Dusk_Jan_2006.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Washington_Monument_Dusk_Jan_2006.jpg/1280px-Washington_Monument_Dusk_Jan_2006.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Washington_Monument_Dusk_Jan_2006.jpg/500px-Washington_Monument_Dusk_Jan_2006.jpg",
     "size": [
-     1920,
-     1251
+     1280,
+     1814
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "U.S. Air Force Tech. Sgt. Andy Dunaway, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Air Force Tech. Sgt. Andy Dunaway",
-    "year": 2003,
+    "credit": "Diliff, CC BY-SA 2.5, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.5",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "author": "Diliff",
+    "year": 2006,
     "how": "catalog"
    },
    {
@@ -154443,314 +154054,789 @@
     "track_pending": true
    },
    {
-    "shot": "mortgage-rates",
-    "shows": "CFPB staffer listens to Professor Warren speak about mortgage loan disclosures",
-    "file": "File:CFPB staffer listens to Professor Warren speak about mortgage loan disclosures (5412215662).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CFPB_staffer_listens_to_Professor_Warren_speak_about_mortgage_loan_disclosures_(5412215662).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/CFPB_staffer_listens_to_Professor_Warren_speak_about_mortgage_loan_disclosures_%285412215662%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CFPB_staffer_listens_to_Professor_Warren_speak_about_mortgage_loan_disclosures_%285412215662%29.jpg/500px-CFPB_staffer_listens_to_Professor_Warren_speak_about_mortgage_loan_disclosures_%285412215662%29.jpg",
-    "size": [
-     1600,
-     1063
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Consumer Financial Protection Bureau from United States, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Consumer Financial Protection Bureau from United States",
-    "year": 2010,
-    "how": "catalog"
-   },
-   {
     "shot": "money-stack",
-    "shows": "Netflix Money Heist safe Gamescom 2019",
-    "file": "File:Netflix Money Heist safe Gamescom 2019.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Netflix_Money_Heist_safe_Gamescom_2019.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Netflix_Money_Heist_safe_Gamescom_2019.jpg/1280px-Netflix_Money_Heist_safe_Gamescom_2019.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Netflix_Money_Heist_safe_Gamescom_2019.jpg/500px-Netflix_Money_Heist_safe_Gamescom_2019.jpg",
+    "shows": "A stack of gold bitcoins sitting on top of a table",
+    "file": "unsplash:yNvPH1QEor4",
+    "page": "https://unsplash.com/photos/a-stack-of-gold-bitcoins-sitting-on-top-of-a-table-yNvPH1QEor4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1707075891514-6b72a31a35cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fG1vbmV5JTIwc3RhY2t8ZW58MXx8fHwxNzkzOTM0Nzg0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1707075891514-6b72a31a35cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fG1vbmV5JTIwc3RhY2t8ZW58MXx8fHwxNzkzOTM0Nzg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1920
+     1200,
+     1681
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "dronepicr, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "dronepicr",
-    "year": 2019,
-    "how": "catalog"
+    "credit": "Photo by Erling Løken Andersen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Erling Løken Andersen",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@erling1loken1andersen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yNvPH1QEor4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fG1vbmV5JTIwc3RhY2t8ZW58MXx8fHwxNzkzOTM0Nzg0fDA",
+    "track_pending": true
    },
    {
-    "shot": "bank-interest",
-    "shows": "Per 1 oktober vervalt de negatieve rente (Triodos Bank), Hillegersberg, Rotterdam",
-    "file": "File:Per 1 oktober vervalt de negatieve rente (Triodos Bank), Hillegersberg, Rotterdam (2022).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Per_1_oktober_vervalt_de_negatieve_rente_(Triodos_Bank),_Hillegersberg,_Rotterdam_(2022).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Per_1_oktober_vervalt_de_negatieve_rente_%28Triodos_Bank%29%2C_Hillegersberg%2C_Rotterdam_%282022%29.jpg/1920px-Per_1_oktober_vervalt_de_negatieve_rente_%28Triodos_Bank%29%2C_Hillegersberg%2C_Rotterdam_%282022%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Per_1_oktober_vervalt_de_negatieve_rente_%28Triodos_Bank%29%2C_Hillegersberg%2C_Rotterdam_%282022%29.jpg/500px-Per_1_oktober_vervalt_de_negatieve_rente_%28Triodos_Bank%29%2C_Hillegersberg%2C_Rotterdam_%282022%29.jpg",
+    "shot": "central-bank",
+    "shows": "High-rise building under gray sky",
+    "file": "unsplash:8Vc-RuZgsQ0",
+    "page": "https://unsplash.com/photos/high-rise-building-under-gray-sky-8Vc-RuZgsQ0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1564858611808-558666dbccf1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2VudHJhbCUyMGJhbmt8ZW58MXx8fHwxNzk0NTYxMDM5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1564858611808-558666dbccf1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2VudHJhbCUyMGJhbmt8ZW58MXx8fHwxNzk0NTYxMDM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Paul Fiedler on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Paul Fiedler",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@paulfiedler?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8Vc-RuZgsQ0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2VudHJhbCUyMGJhbmt8ZW58MXx8fHwxNzk0NTYxMDM5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "us-dollar",
+    "shows": "us dollar",
+    "file": "unsplash:snQJLSb3FN4",
+    "page": "https://unsplash.com/photos/text-snQJLSb3FN4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1665844763064-1d36cfc25d9f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1665844763064-1d36cfc25d9f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2256,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Niconor Brown on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Niconor Brown",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nick876?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/snQJLSb3FN4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "washington-monument",
+    "shows": "Washington monument washington dc during daytime",
+    "file": "unsplash:7CU2gd2HGrw",
+    "page": "https://unsplash.com/photos/washington-monument-washington-dc-during-daytime-7CU2gd2HGrw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1617293541287-5530026ca9b1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1617293541287-5530026ca9b1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eric Dekker on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eric Dekker",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@egdekker?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/7CU2gd2HGrw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "washington-dc",
+    "shows": "Frederick Douglass Memorial Bridge from the southwest Washington DC 16-48-14",
+    "file": "File:Frederick Douglass Memorial Bridge from the southwest Washington DC 2022-11-26 16-48-14.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Frederick_Douglass_Memorial_Bridge_from_the_southwest_Washington_DC_2022-11-26_16-48-14.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Frederick_Douglass_Memorial_Bridge_from_the_southwest_Washington_DC_2022-11-26_16-48-14.jpg/1920px-Frederick_Douglass_Memorial_Bridge_from_the_southwest_Washington_DC_2022-11-26_16-48-14.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Frederick_Douglass_Memorial_Bridge_from_the_southwest_Washington_DC_2022-11-26_16-48-14.jpg/500px-Frederick_Douglass_Memorial_Bridge_from_the_southwest_Washington_DC_2022-11-26_16-48-14.jpg",
     "size": [
      1920,
-     1080
+     960
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 08:26, 17 September 2022 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 08:26, 17 September 2022 (UTC)",
+    "credit": "G. Edward Johnson, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "G. Edward Johnson",
     "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "eccles",
-    "shows": "Federal Reserve Building - eagle and pediment",
-    "file": "File:Federal Reserve Building - eagle and pediment - 2012-09-13.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg/1280px-Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg/500px-Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg",
+    "shot": "hundred-dollar-bills",
+    "shows": "Rainbow yarn for knitting, display in front of a needlework shop in Graz, Austria, GW23-100",
+    "file": "File:Rainbow yarn for knitting, display in front of a needlework shop in Graz, Austria, GW23-100.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rainbow_yarn_for_knitting,_display_in_front_of_a_needlework_shop_in_Graz,_Austria,_GW23-100.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg/1920px-Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg/500px-Rainbow_yarn_for_knitting%2C_display_in_front_of_a_needlework_shop_in_Graz%2C_Austria%2C_GW23-100.jpg",
     "size": [
-     1280,
-     1920
+     1920,
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tim Evanson, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
+    "credit": "Lusi Lindwurm, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Tim Evanson",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "fomc",
-    "shows": "Federal Open Market Committee participants’ assessments of appropriate monetary policy: Midpoint of target range or target level for the federal funds rate, Mar",
-    "file": "File:Fomcprojtabl20170315.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Fomcprojtabl20170315.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fomcprojtabl20170315.png/1920px-Fomcprojtabl20170315.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Fomcprojtabl20170315.png/500px-Fomcprojtabl20170315.png",
-    "size": [
-     1920,
-     1352
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "United States Federal Open Market Committee, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "United States Federal Open Market Committee",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-reserve",
-    "shows": "Federal Reserve Banks",
-    "file": "File:Federal Reserve Banks.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Banks.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Federal_Reserve_Banks.png/1920px-Federal_Reserve_Banks.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Federal_Reserve_Banks.png/500px-Federal_Reserve_Banks.png",
-    "size": [
-     1920,
-     1102
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "US Federal Reserve, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "US Federal Reserve",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Lusi Lindwurm",
     "year": 2023,
     "how": "catalog"
    },
    {
-    "shot": "federal-reserve-building",
-    "shows": "Federal reserve building",
-    "file": "File:Federal reserve building 1160435.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Federal_reserve_building_1160435.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Federal_reserve_building_1160435.jpg/1920px-Federal_reserve_building_1160435.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Federal_reserve_building_1160435.jpg/500px-Federal_reserve_building_1160435.jpg",
+    "shot": "central-bank",
+    "shows": "Bare tree near glass building during daytime",
+    "file": "unsplash:j7IcauMOU6Y",
+    "page": "https://unsplash.com/photos/bare-tree-near-glass-building-during-daytime-j7IcauMOU6Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1610272946242-959051a9e546?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1610272946242-959051a9e546?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1442
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Robert Kennicott, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Robert Kennicott",
-    "year": 2026,
-    "how": "catalog"
+    "credit": "Photo by Markus Spiske on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Markus Spiske",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@markusspiske?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/j7IcauMOU6Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww",
+    "track_pending": true
    },
    {
-    "shot": "washington-dc",
-    "shows": "White House, Washington DC",
-    "file": "unsplash:igCBFrMd11I",
-    "page": "https://unsplash.com/photos/white-house-washington-dc-igCBFrMd11I?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1485394595691-5411947d63a4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA&ixlib=rb-4.1.0&w=2304&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1485394595691-5411947d63a4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "us-dollar",
+    "shows": "100 us dollar bill",
+    "file": "unsplash:lOg_fQLHo7s",
+    "page": "https://unsplash.com/photos/100-us-dollar-bill-lOg_fQLHo7s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1583916011819-e4b81836bb57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1583916011819-e4b81836bb57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2304,
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Frederick Warren on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Frederick Warren",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@carnations?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lOg_fQLHo7s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "washington-monument",
+    "shows": "The washington monument in washington dc at sunset",
+    "file": "unsplash:dGq5R8JOQSI",
+    "page": "https://unsplash.com/photos/the-washington-monument-in-washington-dc-at-sunset-dGq5R8JOQSI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1635521451272-93c54a8224c1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1635521451272-93c54a8224c1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by David Everett Strickler on Unsplash",
+    "credit": "Photo by Harrison Mitchell on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "David Everett Strickler",
-    "year": 2017,
+    "author": "Harrison Mitchell",
+    "year": 2021,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@mktgmantra?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/igCBFrMd11I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA",
+    "author_url": "https://unsplash.com/@harrisonmitchell?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dGq5R8JOQSI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww",
     "track_pending": true
    },
    {
     "shot": "hundred-dollar-bills",
-    "shows": "5 us dollar bill",
-    "file": "unsplash:xofoXnAHU18",
-    "page": "https://unsplash.com/photos/5-us-dollar-bill-xofoXnAHU18?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1609520612886-51b20d8c9ea5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1609520612886-51b20d8c9ea5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Air-to-air photo of a Sukhoi Superjet 100 over Italy",
+    "file": "File:Air-to-air photo of a Sukhoi Superjet 100 (97004) over Italy.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Air-to-air_photo_of_a_Sukhoi_Superjet_100_(97004)_over_Italy.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Air-to-air_photo_of_a_Sukhoi_Superjet_100_%2897004%29_over_Italy.jpg/1920px-Air-to-air_photo_of_a_Sukhoi_Superjet_100_%2897004%29_over_Italy.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Air-to-air_photo_of_a_Sukhoi_Superjet_100_%2897004%29_over_Italy.jpg/500px-Air-to-air_photo_of_a_Sukhoi_Superjet_100_%2897004%29_over_Italy.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Katsuhiko Tokunaga/ SuperJet International, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Katsuhiko Tokunaga/ SuperJet International",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "central-bank",
+    "shows": "City during nighttime",
+    "file": "unsplash:D_mBx5Xwww8",
+    "page": "https://unsplash.com/photos/city-during-nighttime-D_mBx5Xwww8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1564613655536-8033f6237184?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1564613655536-8033f6237184?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1431
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by cmophoto.net on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "cmophoto.net",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cmophoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/D_mBx5Xwww8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "us-dollar",
+    "shows": "A pattern of us one hundred dollar bills",
+    "file": "unsplash:cnQxICZabFQ",
+    "page": "https://unsplash.com/photos/a-pattern-of-us-one-hundred-dollar-bills-cnQxICZabFQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1768107030187-2bc5f71d59ad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1768107030187-2bc5f71d59ad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
+     2133
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Logan Voss on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Logan Voss",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@loganvoss?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cnQxICZabFQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "washington-monument",
+    "shows": "A man standing in front of the washington monument",
+    "file": "unsplash:EINXN0VdL8A",
+    "page": "https://unsplash.com/photos/a-man-standing-in-front-of-the-washington-monument-EINXN0VdL8A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641327384123-3f8cc49ebf4f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641327384123-3f8cc49ebf4f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Lyyfe Williams on Unsplash",
+    "credit": "Photo by Ian Hutchinson on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Lyyfe Williams",
-    "year": 2021,
+    "author": "Ian Hutchinson",
+    "year": 2022,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@lyyfe_williams?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/xofoXnAHU18/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA",
+    "author_url": "https://unsplash.com/@ianhutchinson92?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EINXN0VdL8A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8d2FzaGluZ3RvbiUyMG1vbnVtZW50fGVufDF8fHx8MTc5NDU2MTIzM3ww",
     "track_pending": true
    },
    {
-    "shot": "money-stack",
-    "shows": "Money exhanger in Hargeisa",
-    "file": "File:Money exhanger in Hargeisa.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Money_exhanger_in_Hargeisa.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Money_exhanger_in_Hargeisa.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Money_exhanger_in_Hargeisa.JPG/500px-Money_exhanger_in_Hargeisa.JPG",
+    "shot": "hundred-dollar-bills",
+    "shows": "A picture of a one hundred dollar bill",
+    "file": "unsplash:pPMDbGZe3jo",
+    "page": "https://unsplash.com/photos/a-picture-of-a-one-hundred-dollar-bill-pPMDbGZe3jo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1671469903526-e1b23254fe41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1671469903526-e1b23254fe41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1600,
-     1200
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "J Hazard, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "J Hazard",
-    "year": 2005,
-    "how": "catalog"
+    "credit": "Photo by Jonathan Borba on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jonathan Borba",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jonathanborba?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pPMDbGZe3jo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA",
+    "track_pending": true
    },
    {
-    "shot": "bank-interest",
-    "shows": "History of Prime Rates and the Bank of Canada Target Overnight Rate",
-    "file": "File:History of Prime Rates and the Bank of Canada Target Overnight Rate.png",
-    "page": "https://commons.wikimedia.org/wiki/File:History_of_Prime_Rates_and_the_Bank_of_Canada_Target_Overnight_Rate.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/History_of_Prime_Rates_and_the_Bank_of_Canada_Target_Overnight_Rate.png/1920px-History_of_Prime_Rates_and_the_Bank_of_Canada_Target_Overnight_Rate.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/History_of_Prime_Rates_and_the_Bank_of_Canada_Target_Overnight_Rate.png/500px-History_of_Prime_Rates_and_the_Bank_of_Canada_Target_Overnight_Rate.png",
+    "shot": "central-bank",
+    "shows": "A city street with a few cars driving down it",
+    "file": "unsplash:jfDMQatxGJU",
+    "page": "https://unsplash.com/photos/a-city-street-with-a-few-cars-driving-down-it-jfDMQatxGJU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1676805245761-c0fb147d167a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1676805245761-c0fb147d167a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2001,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alireza Akhlaghi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alireza Akhlaghi",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alirezaakhlaghiofficial?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/jfDMQatxGJU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "us-dollar",
+    "shows": "100 us dollar bill",
+    "file": "unsplash:BPMPQGp38e0",
+    "page": "https://unsplash.com/photos/100-us-dollar-bill-BPMPQGp38e0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1590625848451-07c54b56a680?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1590625848451-07c54b56a680?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Live Richer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Live Richer",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gobankingrates?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/BPMPQGp38e0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "washington-monument",
+    "shows": "Washington monument under white clouds during daytime",
+    "file": "unsplash:4_esnLRLvjI",
+    "page": "https://unsplash.com/photos/washington-monument-under-white-clouds-during-daytime-4_esnLRLvjI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1625065857052-f0588b13cc92?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1625065857052-f0588b13cc92?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1798
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by E on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "E",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@wack8767?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4_esnLRLvjI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "hundred-dollar-bills",
+    "shows": "Smaky -100 computer. On display at the Musée Bolo , EPFL , Lausanne.",
+    "file": "File:Smaky 100 IMG 4155.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Smaky_100_IMG_4155.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Smaky_100_IMG_4155.jpg/1920px-Smaky_100_IMG_4155.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Smaky_100_IMG_4155.jpg/500px-Smaky_100_IMG_4155.jpg",
     "size": [
      1920,
-     823
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "WOWA Leads, Inc., CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "WOWA Leads, Inc.",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "eccles",
-    "shows": "Front entrance of the Marriner S. Eccles building, built in 1937",
-    "file": "File:EA 091807 EC 1268 (26114164095).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:EA_091807_EC_1268_(26114164095).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/EA_091807_EC_1268_%2826114164095%29.jpg/1280px-EA_091807_EC_1268_%2826114164095%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/EA_091807_EC_1268_%2826114164095%29.jpg/500px-EA_091807_EC_1268_%2826114164095%29.jpg",
-    "size": [
-     1280,
      1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2007,
+    "credit": "Rama & Musée Bolo, CC BY-SA 2.0 fr, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0 fr",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "author": "Rama & Musée Bolo",
+    "year": 2010,
     "how": "catalog"
    },
    {
-    "shot": "fomc",
-    "shows": "Chairman Ben S. Bernanke takes a reporter's question at a press conference on December 12, 2012. The event followed the December 11-12 meeting of the Federal Op",
-    "file": "File:CB PC 121212 DE 5197 (8548486247).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CB_PC_121212_DE_5197_(8548486247).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CB_PC_121212_DE_5197_%288548486247%29.jpg/1920px-CB_PC_121212_DE_5197_%288548486247%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/CB_PC_121212_DE_5197_%288548486247%29.jpg/500px-CB_PC_121212_DE_5197_%288548486247%29.jpg",
+    "shot": "central-bank",
+    "shows": "A city with a very tall building in the background",
+    "file": "unsplash:RQ01KttjjbA",
+    "page": "https://unsplash.com/photos/a-city-with-a-very-tall-building-in-the-background-RQ01KttjjbA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1676805270051-de6efe04b93f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1676805270051-de6efe04b93f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1278
+     1200,
+     1601
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Federalreserve, public domain, via Wikimedia Commons",
+    "credit": "Photo by Alireza Akhlaghi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alireza Akhlaghi",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alirezaakhlaghiofficial?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/RQ01KttjjbA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "us-dollar",
+    "shows": "Morning-glory-C6295b",
+    "file": "File:Morning-glory-C6295b.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Morning-glory-C6295b.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Morning-glory-C6295b.jpg/1280px-Morning-glory-C6295b.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Morning-glory-C6295b.jpg/500px-Morning-glory-C6295b.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Morning-glory-C6295a.jpg : Fg2 (Frank J. Gualtieri Jr.) derivative work: Kaldari ( talk ), public domain, via Wikimedia Commons",
     "licence": "Public domain",
     "licence_kind": "pd",
     "licence_url": "",
-    "author": "Federalreserve",
-    "year": 2012,
+    "author": "Morning-glory-C6295a.jpg : Fg2 (Frank J. Gualtieri Jr.) derivative work: Kaldari ( talk )",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "washington-monument",
+    "shows": "Washington monument washington dc during daytime",
+    "file": "unsplash:dYj1JT98dB8",
+    "page": "https://unsplash.com/photos/washington-monument-washington-dc-during-daytime-dYj1JT98dB8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1606189079511-1ee69f8fc165?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1606189079511-1ee69f8fc165?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mayer Tawfik on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mayer Tawfik",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mayertawfik?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dYj1JT98dB8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "hundred-dollar-bills",
+    "shows": "Sukhoi SuperJet 100",
+    "file": "File:Sukhoi SuperJet 100 (5114478300).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sukhoi_SuperJet_100_(5114478300).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sukhoi_SuperJet_100_%285114478300%29.jpg/1920px-Sukhoi_SuperJet_100_%285114478300%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sukhoi_SuperJet_100_%285114478300%29.jpg/500px-Sukhoi_SuperJet_100_%285114478300%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "SuperJet International, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "SuperJet International",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "central-bank",
+    "shows": "Blue and white glass building",
+    "file": "unsplash:aey5tW0Xcd8",
+    "page": "https://unsplash.com/photos/blue-and-white-glass-building-aey5tW0Xcd8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1604419284725-fe29dfe7091e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1604419284725-fe29dfe7091e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Clemens van Lay on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Clemens van Lay",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@clemensvanlay?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aey5tW0Xcd8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "us-dollar",
+    "shows": "20 us dollar bill",
+    "file": "unsplash:NwRkpGiW5do",
+    "page": "https://unsplash.com/photos/20-us-dollar-bill-NwRkpGiW5do?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1584271538735-2d9a76c56e7f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1584271538735-2d9a76c56e7f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Avinash Kumar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Avinash Kumar",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ashishjha?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NwRkpGiW5do/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "washington-monument",
+    "shows": "White and gray tower near body of water",
+    "file": "unsplash:ddnzlaU3a8k",
+    "page": "https://unsplash.com/photos/white-and-gray-tower-near-body-of-water-ddnzlaU3a8k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1617293541384-2edc6f152ed9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1617293541384-2edc6f152ed9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eric Dekker on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eric Dekker",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@egdekker?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ddnzlaU3a8k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "hundred-dollar-bills",
+    "shows": "Office paper FOV 100",
+    "file": "File:Office paper FOV 100.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Office_paper_FOV_100.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Office_paper_FOV_100.png/1920px-Office_paper_FOV_100.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Office_paper_FOV_100.png/500px-Office_paper_FOV_100.png",
+    "size": [
+     1920,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Pavel.Somov, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Pavel.Somov",
+    "year": 2021,
+    "how": "catalog"
+   },
+   {
+    "shot": "central-bank",
+    "shows": "City skyline across body of water during daytime",
+    "file": "unsplash:kU_JLUIbnf8",
+    "page": "https://unsplash.com/photos/city-skyline-across-body-of-water-during-daytime-kU_JLUIbnf8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1583698103226-455bbbb409c6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1583698103226-455bbbb409c6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dimitri Karastelev on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dimitri Karastelev",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dkfra19?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/kU_JLUIbnf8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNlbnRyYWwlMjBiYW5rfGVufDF8fHx8MTc5NDU2MTAzOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "us-dollar",
+    "shows": "10 and 20 us dollar bill",
+    "file": "unsplash:zymeAaWiRNQ",
+    "page": "https://unsplash.com/photos/10-and-20-us-dollar-bill-zymeAaWiRNQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/flagged/photo-1580934625204-5d0d29fa445b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/flagged/photo-1580934625204-5d0d29fa445b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Colin Watts on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Colin Watts",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@colinwatts?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zymeAaWiRNQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "washington-monument",
+    "shows": "Man in black jacket walking on park during daytime",
+    "file": "unsplash:j12efOXdvV4",
+    "page": "https://unsplash.com/photos/man-in-black-jacket-walking-on-park-during-daytime-j12efOXdvV4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1617293541287-8c3aac62a116?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1617293541287-8c3aac62a116?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eric Dekker on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eric Dekker",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@egdekker?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/j12efOXdvV4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHdhc2hpbmd0b24lMjBtb251bWVudHxlbnwxfHx8fDE3OTQ1NjEyMzN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "hundred-dollar-bills",
+    "shows": "Leichtathletik WM 2013 Moskau 100 m Vorlauf",
+    "file": "File:Leichtathletik WM 2013 Moskau 100 m Vorlauf.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg/1920px-Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg/500px-Leichtathletik_WM_2013_Moskau_100_m_Vorlauf.jpg",
+    "size": [
+     1920,
+     836
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tobi 87, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Tobi 87",
+    "year": 2013,
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-12"
+  "missing": [
+   "mortgage-rates",
+   "bank-interest"
+  ],
+  "checked": "2026-11-13"
  },
  "inflation": {
   "name": "Inflation & cost of living",
@@ -154792,64 +154878,62 @@
    },
    {
     "shot": "gas-prices",
-    "shows": "Shell gas station sign showing fuel prices and passing cars",
-    "file": "unsplash:bHjWzh8OnGU",
-    "page": "https://unsplash.com/photos/shell-gas-station-sign-showing-fuel-prices-and-passing-cars-bHjWzh8OnGU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1785528440588-23643880f0f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Z2FzJTIwcHJpY2VzJTIwc2lnbnxlbnwxfHx8fDE3OTM4OTEyMjB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1785528440588-23643880f0f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Z2FzJTIwcHJpY2VzJTIwc2lnbnxlbnwxfHx8fDE3OTM4OTEyMjB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "The gas prices, but not the \"open\" sign, are accurate at this little truck stop east of the town of Sabinol, Texas, for the pumps have long been dry",
+    "file": "loc:2014631299",
+    "page": "https://www.loc.gov/item/2014631299/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:27000:27099/full/1200,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:27000:27099/full/500,/0/default.jpg",
     "size": [
-     2400,
-     1445
+     1200,
+     1798
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Abhishek Mamidipally on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Abhishek Mamidipally",
-    "year": 2026,
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2014,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@abhishek_mgv?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/bHjWzh8OnGU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Z2FzJTIwcHJpY2VzJTIwc2lnbnxlbnwxfHx8fDE3OTM4OTEyMjB8MA",
-    "track_pending": true
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
     "shot": "receipt",
-    "shows": "Receipt from Sir Alec Rose, Fruiterer",
-    "file": "File:Receipt from Sir Alec Rose, Fruiterer - 53632044650.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Receipt_from_Sir_Alec_Rose,_Fruiterer_-_53632044650.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Receipt_from_Sir_Alec_Rose%2C_Fruiterer_-_53632044650.jpg/1280px-Receipt_from_Sir_Alec_Rose%2C_Fruiterer_-_53632044650.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Receipt_from_Sir_Alec_Rose%2C_Fruiterer_-_53632044650.jpg/500px-Receipt_from_Sir_Alec_Rose%2C_Fruiterer_-_53632044650.jpg",
+    "shows": "Bauhaus Museum Shop receipt, Oude Pekela 02",
+    "file": "File:Bauhaus Museum Shop receipt, Oude Pekela (2020) 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bauhaus_Museum_Shop_receipt,_Oude_Pekela_(2020)_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bauhaus_Museum_Shop_receipt%2C_Oude_Pekela_%282020%29_02.jpg/1920px-Bauhaus_Museum_Shop_receipt%2C_Oude_Pekela_%282020%29_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bauhaus_Museum_Shop_receipt%2C_Oude_Pekela_%282020%29_02.jpg/500px-Bauhaus_Museum_Shop_receipt%2C_Oude_Pekela_%282020%29_02.jpg",
     "size": [
-     1280,
-     1920
+     1920,
+     1080
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tim Sheerman-Chase, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tim Sheerman-Chase",
-    "year": 2024,
+    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 12:27, 4 March 2020 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 12:27, 4 March 2020 (UTC)",
+    "year": 2020,
     "how": "catalog"
    },
    {
     "shot": "price-tags",
-    "shows": "HK 九龍塘 Kln Town 又一城商場 Festival Walk mall shop Taste by 百佳超級市場 ParknShop Supermarket goods December 2020 SS2 49",
-    "file": "File:HK 九龍塘 Kln Town 又一城商場 Festival Walk mall shop Taste by 百佳超級市場 ParknShop Supermarket goods December 2020 SS2 49.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_49.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_49.jpg/1280px-HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_49.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_49.jpg/500px-HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_49.jpg",
+    "shows": "HK 九龍塘 Kln Town 又一城商場 Festival Walk mall shop Taste by 百佳超級市場 ParknShop Supermarket goods December 2020 SS2 40",
+    "file": "File:HK 九龍塘 Kln Town 又一城商場 Festival Walk mall shop Taste by 百佳超級市場 ParknShop Supermarket goods December 2020 SS2 40.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_40.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_40.jpg/1920px-HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_40.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_40.jpg/500px-HK_%E4%B9%9D%E9%BE%8D%E5%A1%98_Kln_Town_%E5%8F%88%E4%B8%80%E5%9F%8E%E5%95%86%E5%A0%B4_Festival_Walk_mall_shop_Taste_by_%E7%99%BE%E4%BD%B3%E8%B6%85%E7%B4%9A%E5%B8%82%E5%A0%B4_ParknShop_Supermarket_goods_December_2020_SS2_40.jpg",
     "size": [
-     1280,
-     1707
+     1920,
+     1440
     ],
     "focus": [
      0.5,
@@ -154969,107 +155053,34 @@
    },
    {
     "shot": "shopping-basket",
-    "shows": "Edah shopping basket, Hillegersberg, Rotterdam 01",
-    "file": "File:Edah shopping basket, Hillegersberg, Rotterdam (2021) 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Edah_shopping_basket,_Hillegersberg,_Rotterdam_(2021)_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Edah_shopping_basket%2C_Hillegersberg%2C_Rotterdam_%282021%29_01.jpg/1920px-Edah_shopping_basket%2C_Hillegersberg%2C_Rotterdam_%282021%29_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Edah_shopping_basket%2C_Hillegersberg%2C_Rotterdam_%282021%29_01.jpg/500px-Edah_shopping_basket%2C_Hillegersberg%2C_Rotterdam_%282021%29_01.jpg",
+    "shows": "Dirx Drogist shopping basket, Blijdorp, Rotterdam 01",
+    "file": "File:Dirx Drogist shopping basket, Blijdorp, Rotterdam (2020) 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dirx_Drogist_shopping_basket,_Blijdorp,_Rotterdam_(2020)_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dirx_Drogist_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_01.jpg/1920px-Dirx_Drogist_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dirx_Drogist_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_01.jpg/500px-Dirx_Drogist_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_01.jpg",
     "size": [
      1920,
-     1081
+     1080
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 22:14, 16 January 2022 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 01:01, 5 February 2021 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 22:14, 16 January 2022 (UTC)",
-    "year": 2021,
+    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 01:01, 5 February 2021 (UTC)",
+    "year": 2020,
     "how": "catalog"
    },
    {
     "shot": "restaurant-menu-board",
-    "shows": "Menu board and service preparer at Red White and Que restaurant in New Jersey",
-    "file": "File:Menu board and service preparer at Red White and Que restaurant in New Jersey.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Menu_board_and_service_preparer_at_Red_White_and_Que_restaurant_in_New_Jersey.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Menu_board_and_service_preparer_at_Red_White_and_Que_restaurant_in_New_Jersey.jpg/1920px-Menu_board_and_service_preparer_at_Red_White_and_Que_restaurant_in_New_Jersey.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Menu_board_and_service_preparer_at_Red_White_and_Que_restaurant_in_New_Jersey.jpg/500px-Menu_board_and_service_preparer_at_Red_White_and_Que_restaurant_in_New_Jersey.jpg",
-    "size": [
-     1920,
-     1530
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tomwsulcer, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Tomwsulcer",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "cart",
-    "shows": "Shopping cart of Prisma shop",
-    "file": "File:Shopping cart of Prisma shop.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Shopping_cart_of_Prisma_shop.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shopping_cart_of_Prisma_shop.JPG/1920px-Shopping_cart_of_Prisma_shop.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shopping_cart_of_Prisma_shop.JPG/500px-Shopping_cart_of_Prisma_shop.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dmitry G, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Dmitry G",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-prices",
-    "shows": "Gas prices displayed on a sign at a station",
-    "file": "unsplash:DykYMZLzZ8Y",
-    "page": "https://unsplash.com/photos/gas-prices-displayed-on-a-sign-at-a-station-DykYMZLzZ8Y?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1768424096914-df76c8aa8304?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1768424096914-df76c8aa8304?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2248,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Vladislav Klapin on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Vladislav Klapin",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@lemonvlad?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/DykYMZLzZ8Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "receipt",
-    "shows": "FEDS Taipei Baoqing Store shopping receipt",
-    "file": "File:FEDS Taipei Baoqing Store shopping receipt 20171103.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:FEDS_Taipei_Baoqing_Store_shopping_receipt_20171103.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FEDS_Taipei_Baoqing_Store_shopping_receipt_20171103.jpg/1280px-FEDS_Taipei_Baoqing_Store_shopping_receipt_20171103.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FEDS_Taipei_Baoqing_Store_shopping_receipt_20171103.jpg/500px-FEDS_Taipei_Baoqing_Store_shopping_receipt_20171103.jpg",
+    "shows": "Sandwich board menu, Restaurant La Cigale, Praia dos Olhos de Água",
+    "file": "File:2018-02-13 Sandwich board menu, Restaurant La Cigale, Praia dos Olhos de Água.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:2018-02-13_Sandwich_board_menu,_Restaurant_La_Cigale,_Praia_dos_Olhos_de_%C3%81gua.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2018-02-13_Sandwich_board_menu%2C_Restaurant_La_Cigale%2C_Praia_dos_Olhos_de_%C3%81gua.JPG/1280px-2018-02-13_Sandwich_board_menu%2C_Restaurant_La_Cigale%2C_Praia_dos_Olhos_de_%C3%81gua.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2018-02-13_Sandwich_board_menu%2C_Restaurant_La_Cigale%2C_Praia_dos_Olhos_de_%C3%81gua.JPG/500px-2018-02-13_Sandwich_board_menu%2C_Restaurant_La_Cigale%2C_Praia_dos_Olhos_de_%C3%81gua.JPG",
     "size": [
      1280,
      1707
@@ -155078,36 +155089,263 @@
      0.5,
      0.5
     ],
-    "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Solomon203",
-    "year": 2017,
+    "author": "Kolforn ( Kolforn ) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/4.0 CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 true true",
+    "year": 2018,
     "how": "catalog"
    },
    {
-    "shot": "price-tags",
-    "shows": "Price tags on a supermarket shelf",
-    "file": "File:T&T Supermarket (50056160783).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:T%26T_Supermarket_(50056160783).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/T%26T_Supermarket_%2850056160783%29.jpg/1920px-T%26T_Supermarket_%2850056160783%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/T%26T_Supermarket_%2850056160783%29.jpg/500px-T%26T_Supermarket_%2850056160783%29.jpg",
+    "shot": "grocery-prices",
+    "shows": "\"wow\" price tag",
+    "file": "File:\"wow\" price tag.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%22wow%22_price_tag.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%22wow%22_price_tag.jpg/1920px-%22wow%22_price_tag.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/%22wow%22_price_tag.jpg/500px-%22wow%22_price_tag.jpg",
     "size": [
      1920,
-     1280
+     1536
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "GoToVan from Vancouver, Canada, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
+    "credit": "Tessa Bury, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "GoToVan from Vancouver, Canada",
-    "year": 2020,
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Tessa Bury",
+    "year": 2025,
     "how": "catalog"
+   },
+   {
+    "shot": "price-tag",
+    "shows": "Winterswijk (NL), Wochenmarkt -- 2024 -- 4329",
+    "file": "File:Winterswijk (NL), Wochenmarkt -- 2024 -- 4329.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Winterswijk_(NL),_Wochenmarkt_--_2024_--_4329.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Winterswijk_%28NL%29%2C_Wochenmarkt_--_2024_--_4329.jpg/1280px-Winterswijk_%28NL%29%2C_Wochenmarkt_--_2024_--_4329.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Winterswijk_%28NL%29%2C_Wochenmarkt_--_2024_--_4329.jpg/500px-Winterswijk_%28NL%29%2C_Wochenmarkt_--_2024_--_4329.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2024,
+    "how": "catalog"
+   },
+   {
+    "shot": "gas-station-prices",
+    "shows": "Shell Gas Station Prices @ Canoe Creek Service Plaza",
+    "file": "File:Shell Gas Station Prices @ Canoe Creek Service Plaza.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shell_Gas_Station_Prices_@_Canoe_Creek_Service_Plaza.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Shell_Gas_Station_Prices_%40_Canoe_Creek_Service_Plaza.jpg/1920px-Shell_Gas_Station_Prices_%40_Canoe_Creek_Service_Plaza.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Shell_Gas_Station_Prices_%40_Canoe_Creek_Service_Plaza.jpg/500px-Shell_Gas_Station_Prices_%40_Canoe_Creek_Service_Plaza.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "DanTD, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "DanTD",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "supermarket-checkout",
+    "shows": "Groceries are being scanned at a supermarket checkout",
+    "file": "unsplash:WNzniTfWNCA",
+    "page": "https://unsplash.com/photos/groceries-are-being-scanned-at-a-supermarket-checkout-WNzniTfWNCA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1752057118708-cb96baf7ef45?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c3VwZXJtYXJrZXQlMjBjaGVja291dHxlbnwxfHx8fDE3OTQ1NjE0OTh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1752057118708-cb96baf7ef45?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c3VwZXJtYXJrZXQlMjBjaGVja291dHxlbnwxfHx8fDE3OTQ1NjE0OTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Enkhjin photography on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Enkhjin photography",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@enkhjin_photo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/WNzniTfWNCA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c3VwZXJtYXJrZXQlMjBjaGVja291dHxlbnwxfHx8fDE3OTQ1NjE0OTh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "shopping-receipt",
+    "shows": "FamilyMart 69A receipt",
+    "file": "File:FamilyMart 009770 69A receipt 20120321.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FamilyMart_009770_69A_receipt_20120321.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FamilyMart_009770_69A_receipt_20120321.jpg/1280px-FamilyMart_009770_69A_receipt_20120321.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FamilyMart_009770_69A_receipt_20120321.jpg/500px-FamilyMart_009770_69A_receipt_20120321.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Solomon203, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Solomon203",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "rising-prices",
+    "shows": "Rising petrol prices - geograph.org.uk",
+    "file": "File:Rising petrol prices - geograph.org.uk - 7238697.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rising_petrol_prices_-_geograph.org.uk_-_7238697.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rising_petrol_prices_-_geograph.org.uk_-_7238697.jpg/1920px-Rising_petrol_prices_-_geograph.org.uk_-_7238697.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Rising_petrol_prices_-_geograph.org.uk_-_7238697.jpg/500px-Rising_petrol_prices_-_geograph.org.uk_-_7238697.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Mr Ignavy, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Mr Ignavy",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "fruit-market",
+    "shows": "A vibrant market stall displaying piles of fresh tropical fruits and berries",
+    "file": "unsplash:2zJhA9RSkys",
+    "page": "https://unsplash.com/photos/market-stall-with-fresh-tropical-fruit-2zJhA9RSkys?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1609780447631-05b93e5a88ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1609780447631-05b93e5a88ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2001,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alexander Schimmeck on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alexander Schimmeck",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alschim?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2zJhA9RSkys/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "wallet-empty",
+    "shows": "Person holding brown leather bifold wallet",
+    "file": "unsplash:3aGZ7a97qwA",
+    "page": "https://unsplash.com/photos/person-holding-brown-leather-bifold-wallet-3aGZ7a97qwA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1624811532681-e58a7e25f273?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbGV0JTIwZW1wdHl8ZW58MXx8fHwxNzk0NTYxNjA5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1624811532681-e58a7e25f273?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbGV0JTIwZW1wdHl8ZW58MXx8fHwxNzk0NTYxNjA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Towfiqu barbhuiya on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Towfiqu barbhuiya",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@towfiqu999999?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/3aGZ7a97qwA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbGV0JTIwZW1wdHl8ZW58MXx8fHwxNzk0NTYxNjA5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-in-hand",
+    "shows": "Copper-colored coins on in person's hands",
+    "file": "unsplash:TBHOuN6URGU",
+    "page": "https://unsplash.com/photos/copper-colored-coins-on-in-persons-hands-TBHOuN6URGU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1574607383476-f517f260d30b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1574607383476-f517f260d30b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Annie Spratt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Annie Spratt",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anniespratt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/TBHOuN6URGU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "gas-prices",
+    "shows": "A gas station price sign displaying fuel costs on a sunlit city street",
+    "file": "unsplash:9Dl8NP5CKfE",
+    "page": "https://unsplash.com/photos/gas-station-price-sign-on-street-9Dl8NP5CKfE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1790253656677-fa895f42c93f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1790253656677-fa895f42c93f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Timur Seyfelmlyukov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Timur Seyfelmlyukov",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@timurse?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9Dl8NP5CKfE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA",
+    "track_pending": true
    },
    {
     "shot": "eggs",
@@ -155138,38 +155376,11 @@
    },
    {
     "shot": "rent",
-    "shows": "For rent sign on wall below window glass of building",
-    "file": "unsplash:6ZSzKPHfooU",
-    "page": "https://unsplash.com/photos/for-rent-sign-on-wall-below-window-glass-of-building-6ZSzKPHfooU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1505758480-67e8d1b6fcec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Zm9yJTIwcmVudCUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjI1fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1505758480-67e8d1b6fcec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Zm9yJTIwcmVudCUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2000,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Jose Alonso on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Jose Alonso",
-    "year": 2017,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jd_alon?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/6ZSzKPHfooU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Zm9yJTIwcmVudCUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjI1fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "butcher-shop",
-    "shows": "A woman is walking out of a door with doughnuts",
-    "file": "unsplash:CfrNnJ3WbYo",
-    "page": "https://unsplash.com/photos/a-woman-is-walking-out-of-a-door-with-doughnuts-CfrNnJ3WbYo?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1700478933733-c05d9e8d995d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1700478933733-c05d9e8d995d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Door with korean text for rent sign",
+    "file": "unsplash:kYwR2AjflbQ",
+    "page": "https://unsplash.com/photos/door-with-korean-text-for-rent-sign-kYwR2AjflbQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1758721211964-a922a19d9208?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGZvciUyMHJlbnQlMjBzaWdufGVufDF8fHx8MTc5Mzg5MTIyNXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1758721211964-a922a19d9208?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGZvciUyMHJlbnQlMjBzaWdufGVufDF8fHx8MTc5Mzg5MTIyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
      1800
@@ -155178,25 +155389,79 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Amy Vann on Unsplash",
+    "credit": "Photo by sehoon ye on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Amy Vann",
-    "year": 2023,
+    "author": "sehoon ye",
+    "year": 2025,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@girl_behindthelens?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/CfrNnJ3WbYo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww",
+    "author_url": "https://unsplash.com/@_3bread?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/kYwR2AjflbQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGZvciUyMHJlbnQlMjBzaWdufGVufDF8fHx8MTc5Mzg5MTIyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "butcher-shop",
+    "shows": "Interior of a traditional butcher shop with meat and tools",
+    "file": "unsplash:PG02K4OnvQo",
+    "page": "https://unsplash.com/photos/interior-of-a-traditional-butcher-shop-with-meat-and-tools-PG02K4OnvQo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782143791676-f512dc36b6ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782143791676-f512dc36b6ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1799
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Candes J on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Candes J",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@candesjaramillo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PG02K4OnvQo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww",
     "track_pending": true
    },
    {
     "shot": "fuel-pump-nozzle",
-    "shows": "Petrol pump mp3h0355",
-    "file": "File:Petrol pump mp3h0355.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Petrol_pump_mp3h0355.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Petrol_pump_mp3h0355.jpg/1920px-Petrol_pump_mp3h0355.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Petrol_pump_mp3h0355.jpg/500px-Petrol_pump_mp3h0355.jpg",
+    "shows": "A red umbrella sticking out of a metal door",
+    "file": "unsplash:bIepGe9dPBo",
+    "page": "https://unsplash.com/photos/a-red-umbrella-sticking-out-of-a-metal-door-bIepGe9dPBo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1646836725825-ab4e1de2ddba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGZ1ZWwlMjBwdW1wJTIwbm96emxlfGVufDF8fHx8MTc5Mzg5MTIyOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1646836725825-ab4e1de2ddba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGZ1ZWwlMjBwdW1wJTIwbm96emxlfGVufDF8fHx8MTc5Mzg5MTIyOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Marek Studzinski on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Marek Studzinski",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jccards?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bIepGe9dPBo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGZ1ZWwlMjBwdW1wJTIwbm96emxlfGVufDF8fHx8MTc5Mzg5MTIyOHww",
+    "track_pending": true
+   },
+   {
+    "shot": "shopping-basket",
+    "shows": "Passeio de Buggy no Parque das Dunas de Genipabu, RN - 2",
+    "file": "File:Passeio de Buggy no Parque das Dunas de Genipabu, RN - 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu,_RN_-_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu%2C_RN_-_2.jpg/1920px-Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu%2C_RN_-_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu%2C_RN_-_2.jpg/500px-Passeio_de_Buggy_no_Parque_das_Dunas_de_Genipabu%2C_RN_-_2.jpg",
     "size": [
      1920,
      1280
@@ -155205,140 +155470,21 @@
      0.5,
      0.5
     ],
-    "credit": "Rama, CC BY-SA 2.0 fr, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0 fr",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
-    "author": "Rama",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "shopping-basket",
-    "shows": "shopping basket",
-    "file": "File:Baskets (12482877544).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Baskets_(12482877544).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Baskets_%2812482877544%29.jpg/1920px-Baskets_%2812482877544%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Baskets_%2812482877544%29.jpg/500px-Baskets_%2812482877544%29.jpg",
-    "size": [
-     1920,
-     1279
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "XoMEoX, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "XoMEoX",
-    "year": 2014,
-    "how": "catalog"
-   },
-   {
-    "shot": "restaurant-menu-board",
-    "shows": "A Black colored menu board from Kau Yee Hong Kong Style restaurant",
-    "file": "File:A Black colored menu board from Kau Yee Hong Kong Style restaurant.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_Black_colored_menu_board_from_Kau_Yee_Hong_Kong_Style_restaurant.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/A_Black_colored_menu_board_from_Kau_Yee_Hong_Kong_Style_restaurant.jpg/1280px-A_Black_colored_menu_board_from_Kau_Yee_Hong_Kong_Style_restaurant.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/A_Black_colored_menu_board_from_Kau_Yee_Hong_Kong_Style_restaurant.jpg/500px-A_Black_colored_menu_board_from_Kau_Yee_Hong_Kong_Style_restaurant.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Jjunoo, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Peachyeung316",
-    "year": 2021,
+    "author": "Jjunoo",
+    "year": 2015,
     "how": "catalog"
    },
    {
-    "shot": "cart",
-    "shows": "Shopping carts Tegut Tauberbischofsheim",
-    "file": "File:Shopping carts Tegut Tauberbischofsheim.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shopping_carts_Tegut_Tauberbischofsheim.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Shopping_carts_Tegut_Tauberbischofsheim.jpg/1920px-Shopping_carts_Tegut_Tauberbischofsheim.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Shopping_carts_Tegut_Tauberbischofsheim.jpg/500px-Shopping_carts_Tegut_Tauberbischofsheim.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Triplec85, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Triplec85",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-prices",
-    "shows": "Irving circle k gas station sign displaying current fuel prices",
-    "file": "unsplash:0jShvWAjrso",
-    "page": "https://unsplash.com/photos/irving-circle-k-gas-station-sign-displaying-current-fuel-prices-0jShvWAjrso?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1779486283514-08bec2d0ffda?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1779486283514-08bec2d0ffda?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1798
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by GG on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "GG",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@ggforshort?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/0jShvWAjrso/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "receipt",
-    "shows": "Sainsburys receipt scanning notice",
-    "file": "File:Sainsburys receipt scanning notice.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sainsburys_receipt_scanning_notice.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sainsburys_receipt_scanning_notice.jpg/1280px-Sainsburys_receipt_scanning_notice.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sainsburys_receipt_scanning_notice.jpg/500px-Sainsburys_receipt_scanning_notice.jpg",
-    "size": [
-     1280,
-     2276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cnbrb, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Cnbrb",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "price-tags",
-    "shows": "Supermarket in Dhaka, November 2017 03",
-    "file": "File:Supermarket in Dhaka, November 2017 03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Supermarket_in_Dhaka,_November_2017_03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Supermarket_in_Dhaka%2C_November_2017_03.jpg/1920px-Supermarket_in_Dhaka%2C_November_2017_03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Supermarket_in_Dhaka%2C_November_2017_03.jpg/500px-Supermarket_in_Dhaka%2C_November_2017_03.jpg",
+    "shot": "price-tag",
+    "shows": "Fishes for Sale in Dhaka 02",
+    "file": "File:Fishes for Sale in Dhaka 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fishes_for_Sale_in_Dhaka_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fishes_for_Sale_in_Dhaka_02.jpg/1920px-Fishes_for_Sale_in_Dhaka_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fishes_for_Sale_in_Dhaka_02.jpg/500px-Fishes_for_Sale_in_Dhaka_02.jpg",
     "size": [
      1920,
      1440
@@ -155356,392 +155502,147 @@
     "how": "catalog"
    },
    {
-    "shot": "eggs",
-    "shows": "Eggs shortage at Coles supermarket at Indooroopilly Shopping Centre, 2022",
-    "file": "File:Eggs shortage at Coles supermarket at Indooroopilly Shopping Centre, 2022.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Eggs_shortage_at_Coles_supermarket_at_Indooroopilly_Shopping_Centre,_2022.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eggs_shortage_at_Coles_supermarket_at_Indooroopilly_Shopping_Centre%2C_2022.jpg/1280px-Eggs_shortage_at_Coles_supermarket_at_Indooroopilly_Shopping_Centre%2C_2022.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Eggs_shortage_at_Coles_supermarket_at_Indooroopilly_Shopping_Centre%2C_2022.jpg/500px-Eggs_shortage_at_Coles_supermarket_at_Indooroopilly_Shopping_Centre%2C_2022.jpg",
+    "shot": "gas-station-prices",
+    "shows": "A sign for a gas station with a sky background",
+    "file": "unsplash:CABvAkAcIr0",
+    "page": "https://unsplash.com/photos/a-sign-for-a-gas-station-with-a-sky-background-CABvAkAcIr0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1588733041565-b702669fb603?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1588733041565-b702669fb603?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     2400,
+     1350
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kgbo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kgbo",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "rent",
-    "shows": "Cabins for rent sign on a window",
-    "file": "unsplash:pA-AhdMZfww",
-    "page": "https://unsplash.com/photos/cabins-for-rent-sign-on-a-window-pA-AhdMZfww?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1765167812317-aab1010e68bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Zm9yJTIwcmVudCUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1765167812317-aab1010e68bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Zm9yJTIwcmVudCUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Bailey Blazier on Unsplash",
+    "credit": "Photo by Devin Spell on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Bailey Blazier",
-    "year": 2025,
+    "author": "Devin Spell",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@bblazier?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/pA-AhdMZfww/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Zm9yJTIwcmVudCUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjI1fDA",
+    "author_url": "https://unsplash.com/@devin_spell?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CABvAkAcIr0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA",
     "track_pending": true
    },
    {
-    "shot": "butcher-shop",
-    "shows": "Prizren, Kosovo butcher shop window",
-    "file": "File:Prizren, Kosovo 2023-02-04 butcher shop window.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Prizren,_Kosovo_2023-02-04_butcher_shop_window.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Prizren%2C_Kosovo_2023-02-04_butcher_shop_window.jpg/1920px-Prizren%2C_Kosovo_2023-02-04_butcher_shop_window.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Prizren%2C_Kosovo_2023-02-04_butcher_shop_window.jpg/500px-Prizren%2C_Kosovo_2023-02-04_butcher_shop_window.jpg",
+    "shot": "supermarket-checkout",
+    "shows": "A supermarket aisle illuminated by red neon checkout numbers and a blue glowing kiosk",
+    "file": "unsplash:g4YiaeIF-a4",
+    "page": "https://unsplash.com/photos/supermarket-aisle-with-red-neon-lights-g4YiaeIF-a4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1794191403204-bdf124262920?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHN1cGVybWFya2V0JTIwY2hlY2tvdXR8ZW58MXx8fHwxNzk0NTYxNDk4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1794191403204-bdf124262920?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHN1cGVybWFya2V0JTIwY2hlY2tvdXR8ZW58MXx8fHwxNzk0NTYxNDk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Sharon Hahn Darlin, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Sharon Hahn Darlin",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Felipe Melo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Felipe Melo",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fmeloooo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/g4YiaeIF-a4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHN1cGVybWFya2V0JTIwY2hlY2tvdXR8ZW58MXx8fHwxNzk0NTYxNDk4fDA",
+    "track_pending": true
    },
    {
-    "shot": "fuel-pump-nozzle",
-    "shows": "SPBU Pertamina 2022",
-    "file": "File:SPBU Pertamina 2022.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SPBU_Pertamina_2022.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/SPBU_Pertamina_2022.jpg/1920px-SPBU_Pertamina_2022.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/SPBU_Pertamina_2022.jpg/500px-SPBU_Pertamina_2022.jpg",
+    "shot": "fruit-market",
+    "shows": "Assorted fruits at the market",
+    "file": "unsplash:-gOUx23DNks",
+    "page": "https://unsplash.com/photos/assorted-fruits-at-the-market--gOUx23DNks?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1272
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Henri Aja, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Henri Aja",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by Jacopo Maiarelli on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jacopo Maiarelli",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ja_ma?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-gOUx23DNks/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA",
+    "track_pending": true
    },
    {
-    "shot": "shopping-basket",
-    "shows": "Dirx Drogist shopping basket, Blijdorp, Rotterdam 02",
-    "file": "File:Dirx Drogist shopping basket, Blijdorp, Rotterdam (2020) 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dirx_Drogist_shopping_basket,_Blijdorp,_Rotterdam_(2020)_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dirx_Drogist_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_02.jpg/1920px-Dirx_Drogist_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Dirx_Drogist_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_02.jpg/500px-Dirx_Drogist_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_02.jpg",
+    "shot": "coins-in-hand",
+    "shows": "Coins are held in a hand",
+    "file": "unsplash:klezRf1_0Pk",
+    "page": "https://unsplash.com/photos/coins-are-held-in-a-hand-klezRf1_0Pk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1744978083824-808f188a8da5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1744978083824-808f188a8da5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     2256,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 01:01, 5 February 2021 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 01:01, 5 February 2021 (UTC)",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "restaurant-menu-board",
-    "shows": "Malt Pier Bistro menu board, Newstead, Queensland",
-    "file": "File:Malt Pier Bistro menu board, Newstead, Queensland.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Malt_Pier_Bistro_menu_board,_Newstead,_Queensland.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Malt_Pier_Bistro_menu_board%2C_Newstead%2C_Queensland.jpg/1280px-Malt_Pier_Bistro_menu_board%2C_Newstead%2C_Queensland.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Malt_Pier_Bistro_menu_board%2C_Newstead%2C_Queensland.jpg/500px-Malt_Pier_Bistro_menu_board%2C_Newstead%2C_Queensland.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kgbo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kgbo",
-    "year": 2018,
-    "how": "catalog"
-   },
-   {
-    "shot": "cart",
-    "shows": "Stray GFS Shopping Cart at Sabor Tropical Supermarket, Little Havana Miami",
-    "file": "File:Stray GFS Shopping Cart at Sabor Tropical Supermarket, Little Havana Miami.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stray_GFS_Shopping_Cart_at_Sabor_Tropical_Supermarket,_Little_Havana_Miami.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stray_GFS_Shopping_Cart_at_Sabor_Tropical_Supermarket%2C_Little_Havana_Miami.jpg/1920px-Stray_GFS_Shopping_Cart_at_Sabor_Tropical_Supermarket%2C_Little_Havana_Miami.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stray_GFS_Shopping_Cart_at_Sabor_Tropical_Supermarket%2C_Little_Havana_Miami.jpg/500px-Stray_GFS_Shopping_Cart_at_Sabor_Tropical_Supermarket%2C_Little_Havana_Miami.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Phillip Pessar",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Immo Wegmann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Immo Wegmann",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tinkerman?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/klezRf1_0Pk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA",
+    "track_pending": true
    },
    {
     "shot": "gas-prices",
-    "shows": "Kfc and shell gas prices at night",
-    "file": "unsplash:1CIZdqNexoc",
-    "page": "https://unsplash.com/photos/kfc-and-shell-gas-prices-at-night-1CIZdqNexoc?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1761069346425-8ac28225b54c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1761069346425-8ac28225b54c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A gas station sign displays the time for gas prices",
+    "file": "unsplash:B4r5K1wE7rY",
+    "page": "https://unsplash.com/photos/a-gas-station-sign-displays-the-time-for-gas-prices-B4r5K1wE7rY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1642363033998-c6ed978da79b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1642363033998-c6ed978da79b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1200,
-     1549
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Michael Starkie on Unsplash",
+    "credit": "Photo by Richard Bell on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Michael Starkie",
-    "year": 2025,
+    "author": "Richard Bell",
+    "year": 2022,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@starkie_pics?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/1CIZdqNexoc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA",
+    "author_url": "https://unsplash.com/@maplerockdesign?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/B4r5K1wE7rY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHByaWNlcyUyMHNpZ258ZW58MXx8fHwxNzkzODkxMjIwfDA",
     "track_pending": true
    },
    {
-    "shot": "receipt",
-    "shows": "7-Eleven NCL Store NJ4 receipt",
-    "file": "File:7-Eleven NCL Store NJ4 receipt 20130608.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:7-Eleven_NCL_Store_NJ4_receipt_20130608.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/7-Eleven_NCL_Store_NJ4_receipt_20130608.jpg/1280px-7-Eleven_NCL_Store_NJ4_receipt_20130608.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/7-Eleven_NCL_Store_NJ4_receipt_20130608.jpg/500px-7-Eleven_NCL_Store_NJ4_receipt_20130608.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Solomon203, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Solomon203",
-    "year": 2013,
-    "how": "catalog"
-   },
-   {
-    "shot": "price-tags",
-    "shows": "Delhaize crunchy muesli price and Nutri-Score",
-    "file": "File:Delhaize crunchy muesli price and Nutri-Score.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Delhaize_crunchy_muesli_price_and_Nutri-Score.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Delhaize_crunchy_muesli_price_and_Nutri-Score.jpg/1920px-Delhaize_crunchy_muesli_price_and_Nutri-Score.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Delhaize_crunchy_muesli_price_and_Nutri-Score.jpg/500px-Delhaize_crunchy_muesli_price_and_Nutri-Score.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The RedBurn, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "The RedBurn",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "eggs",
-    "shows": "Fresh eggs sold at SM Supermarket at SM Seaside City ( )",
-    "file": "File:Fresh eggs sold at SM Supermarket at SM Seaside City (2024-07-07).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fresh_eggs_sold_at_SM_Supermarket_at_SM_Seaside_City_(2024-07-07).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fresh_eggs_sold_at_SM_Supermarket_at_SM_Seaside_City_%282024-07-07%29.jpg/1280px-Fresh_eggs_sold_at_SM_Supermarket_at_SM_Seaside_City_%282024-07-07%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fresh_eggs_sold_at_SM_Supermarket_at_SM_Seaside_City_%282024-07-07%29.jpg/500px-Fresh_eggs_sold_at_SM_Supermarket_at_SM_Seaside_City_%282024-07-07%29.jpg",
-    "size": [
-     1280,
-     1680
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wide Awake!, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Wide Awake!",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "rent",
-    "shows": "Darlington hotel apartments for rent sign",
-    "file": "unsplash:jaLWB0wUXxo",
-    "page": "https://unsplash.com/photos/darlington-hotel-apartments-for-rent-sign-jaLWB0wUXxo?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1768086850731-78f8ebb7220a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGZvciUyMHJlbnQlMjBzaWdufGVufDF8fHx8MTc5Mzg5MTIyNXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1768086850731-78f8ebb7220a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGZvciUyMHJlbnQlMjBzaWdufGVufDF8fHx8MTc5Mzg5MTIyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1600
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Dawn Waters on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Dawn Waters",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@dawnwatersbknyc?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/jaLWB0wUXxo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGZvciUyMHJlbnQlMjBzaWdufGVufDF8fHx8MTc5Mzg5MTIyNXww",
-    "track_pending": true
-   },
-   {
-    "shot": "butcher-shop",
-    "shows": "Albóndigas de carne. Meatballs from the butcher shop",
-    "file": "File:Albóndigas de carne. Meatballs from the butcher shop.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Alb%C3%B3ndigas_de_carne._Meatballs_from_the_butcher_shop.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alb%C3%B3ndigas_de_carne._Meatballs_from_the_butcher_shop.jpg/1920px-Alb%C3%B3ndigas_de_carne._Meatballs_from_the_butcher_shop.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Alb%C3%B3ndigas_de_carne._Meatballs_from_the_butcher_shop.jpg/500px-Alb%C3%B3ndigas_de_carne._Meatballs_from_the_butcher_shop.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Juan Emilio Prades Bel, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Juan Emilio Prades Bel",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "fuel-pump-nozzle",
-    "shows": "Yellow Gas Pump - E86 and 86 Eco Unleaded",
-    "file": "File:Yellow Gas Pump - E86 and 86 Eco Unleaded (54558253711).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Yellow_Gas_Pump_-_E86_and_86_Eco_Unleaded_(54558253711).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Yellow_Gas_Pump_-_E86_and_86_Eco_Unleaded_%2854558253711%29.jpg/1920px-Yellow_Gas_Pump_-_E86_and_86_Eco_Unleaded_%2854558253711%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Yellow_Gas_Pump_-_E86_and_86_Eco_Unleaded_%2854558253711%29.jpg/500px-Yellow_Gas_Pump_-_E86_and_86_Eco_Unleaded_%2854558253711%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tony Webster",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "shopping-basket",
-    "shows": "C1000 shopping basket, Blijdorp, Rotterdam 02",
-    "file": "File:C1000 shopping basket, Blijdorp, Rotterdam (2020) 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:C1000_shopping_basket,_Blijdorp,_Rotterdam_(2020)_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/C1000_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_02.jpg/1280px-C1000_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/C1000_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_02.jpg/500px-C1000_shopping_basket%2C_Blijdorp%2C_Rotterdam_%282020%29_02.jpg",
-    "size": [
-     1280,
-     2276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 22:24, 7 November 2021 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 22:24, 7 November 2021 (UTC)",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "restaurant-menu-board",
-    "shows": "Chandler's Drive-In menu board, Thomasville, Georgia",
-    "file": "File:Chandler's Drive-In menu board, Thomasville, Georgia.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chandler%27s_Drive-In_menu_board,_Thomasville,_Georgia.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chandler%27s_Drive-In_menu_board%2C_Thomasville%2C_Georgia.jpg/1920px-Chandler%27s_Drive-In_menu_board%2C_Thomasville%2C_Georgia.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Chandler%27s_Drive-In_menu_board%2C_Thomasville%2C_Georgia.jpg/500px-Chandler%27s_Drive-In_menu_board%2C_Thomasville%2C_Georgia.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "The Bushranger",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "cart",
-    "shows": "Publix MetroWest Village shopping carts",
-    "file": "File:Publix MetroWest Village shopping carts.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Publix_MetroWest_Village_shopping_carts.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Publix_MetroWest_Village_shopping_carts.jpg/1920px-Publix_MetroWest_Village_shopping_carts.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Publix_MetroWest_Village_shopping_carts.jpg/500px-Publix_MetroWest_Village_shopping_carts.jpg",
+    "shot": "price-tag",
+    "shows": "Münster, Wochenmarkt -- 2015 -- 7410",
+    "file": "File:Münster, Wochenmarkt -- 2015 -- 7410.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Wochenmarkt_--_2015_--_7410.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%BCnster%2C_Wochenmarkt_--_2015_--_7410.jpg/1920px-M%C3%BCnster%2C_Wochenmarkt_--_2015_--_7410.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/M%C3%BCnster%2C_Wochenmarkt_--_2015_--_7410.jpg/500px-M%C3%BCnster%2C_Wochenmarkt_--_2015_--_7410.jpg",
     "size": [
      1920,
      1280
@@ -155750,186 +155651,48 @@
      0.5,
      0.5
     ],
-    "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Nielsoncaetanosalmeron",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-prices",
-    "shows": "05 OMV gas station prices in Austria - gas prices in Europe 2012",
-    "file": "File:05 OMV gas station prices in Austria - gas prices in Europe 2012.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:05_OMV_gas_station_prices_in_Austria_-_gas_prices_in_Europe_2012.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/05_OMV_gas_station_prices_in_Austria_-_gas_prices_in_Europe_2012.jpg/1280px-05_OMV_gas_station_prices_in_Austria_-_gas_prices_in_Europe_2012.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/05_OMV_gas_station_prices_in_Austria_-_gas_prices_in_Europe_2012.jpg/500px-05_OMV_gas_station_prices_in_Austria_-_gas_prices_in_Europe_2012.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Marek Ślusarczyk ( Tupungato ) Photo portfolio, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Marek Ślusarczyk ( Tupungato ) Photo portfolio",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "receipt",
-    "shows": "Bauhaus Museum Shop receipt, Oude Pekela 01",
-    "file": "File:Bauhaus Museum Shop receipt, Oude Pekela (2020) 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bauhaus_Museum_Shop_receipt,_Oude_Pekela_(2020)_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bauhaus_Museum_Shop_receipt%2C_Oude_Pekela_%282020%29_01.jpg/1280px-Bauhaus_Museum_Shop_receipt%2C_Oude_Pekela_%282020%29_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bauhaus_Museum_Shop_receipt%2C_Oude_Pekela_%282020%29_01.jpg/500px-Bauhaus_Museum_Shop_receipt%2C_Oude_Pekela_%282020%29_01.jpg",
-    "size": [
-     1280,
-     2276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 12:27, 4 March 2020 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 12:27, 4 March 2020 (UTC)",
-    "year": 2020,
+    "author": "Dietmar Rabich",
+    "year": 2015,
     "how": "catalog"
    },
    {
-    "shot": "price-tags",
-    "shows": "Coca Cola regular bottle price and Nutri-Score",
-    "file": "File:Coca Cola regular bottle price and Nutri-Score.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Coca_Cola_regular_bottle_price_and_Nutri-Score.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coca_Cola_regular_bottle_price_and_Nutri-Score.jpg/1920px-Coca_Cola_regular_bottle_price_and_Nutri-Score.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coca_Cola_regular_bottle_price_and_Nutri-Score.jpg/500px-Coca_Cola_regular_bottle_price_and_Nutri-Score.jpg",
+    "shot": "gas-station-prices",
+    "shows": "Circle k gas station sign showing fuel prices",
+    "file": "unsplash:MCvbH_HkT7Y",
+    "page": "https://unsplash.com/photos/circle-k-gas-station-sign-showing-fuel-prices-MCvbH_HkT7Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1779486283465-0a5992beffbb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1779486283465-0a5992beffbb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     2248,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "The RedBurn, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "The RedBurn",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "eggs",
-    "shows": "SZ 深圳 Shenzhen 福田 Futian 金田路 Jintian Road 七鮮超市 Seven Fresh Supermarket eggs April 2024 R12S 01",
-    "file": "File:SZ 深圳 Shenzhen 福田 Futian 金田路 Jintian Road 七鮮超市 Seven Fresh Supermarket eggs April 2024 R12S 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E9%87%91%E7%94%B0%E8%B7%AF_Jintian_Road_%E4%B8%83%E9%AE%AE%E8%B6%85%E5%B8%82_Seven_Fresh_Supermarket_eggs_April_2024_R12S_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E9%87%91%E7%94%B0%E8%B7%AF_Jintian_Road_%E4%B8%83%E9%AE%AE%E8%B6%85%E5%B8%82_Seven_Fresh_Supermarket_eggs_April_2024_R12S_01.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E9%87%91%E7%94%B0%E8%B7%AF_Jintian_Road_%E4%B8%83%E9%AE%AE%E8%B6%85%E5%B8%82_Seven_Fresh_Supermarket_eggs_April_2024_R12S_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E9%87%91%E7%94%B0%E8%B7%AF_Jintian_Road_%E4%B8%83%E9%AE%AE%E8%B6%85%E5%B8%82_Seven_Fresh_Supermarket_eggs_April_2024_R12S_01.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E9%87%91%E7%94%B0%E8%B7%AF_Jintian_Road_%E4%B8%83%E9%AE%AE%E8%B6%85%E5%B8%82_Seven_Fresh_Supermarket_eggs_April_2024_R12S_01.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "TSAU Hauang Biahoar, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "TSAU Hauang Biahoar",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "rent",
-    "shows": "For rent sign, Israel",
-    "file": "File:For rent sign, Israel.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:For_rent_sign,_Israel.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/For_rent_sign%2C_Israel.jpg/1920px-For_rent_sign%2C_Israel.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/For_rent_sign%2C_Israel.jpg/500px-For_rent_sign%2C_Israel.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Danielrosehill, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Danielrosehill",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "butcher-shop",
-    "shows": "A butcher shop window at Thanksgiving time",
-    "file": "unsplash:AzmuWs_OVuw",
-    "page": "https://unsplash.com/photos/a-butcher-shop-window-at-thanksgiving-time-AzmuWs_OVuw?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1580117287402-5e41b890e6b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww&ixlib=rb-4.1.0&w=2091&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1580117287402-5e41b890e6b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2091,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Library of Congress on Unsplash",
+    "credit": "Photo by GG on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Library of Congress",
-    "year": 2020,
+    "author": "GG",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@libraryofcongress?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/AzmuWs_OVuw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGJ1dGNoZXIlMjBzaG9wfGVufDF8fHx8MTc5Mzg5MTIyNnww",
+    "author_url": "https://unsplash.com/@ggforshort?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MCvbH_HkT7Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA",
     "track_pending": true
    },
    {
-    "shot": "fuel-pump-nozzle",
-    "shows": "fuel pump nozzle",
-    "file": "File:Miss me? (3617795677).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Miss_me%3F_(3617795677).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Miss_me%3F_%283617795677%29.jpg/1280px-Miss_me%3F_%283617795677%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Miss_me%3F_%283617795677%29.jpg/500px-Miss_me%3F_%283617795677%29.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "frankieleon, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "frankieleon",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
-    "shot": "shopping-basket",
-    "shows": "Carrots and cucumber on brown woven basket",
-    "file": "unsplash:AJFQGDaFP-s",
-    "page": "https://unsplash.com/photos/carrots-and-cucumber-on-brown-woven-basket-AJFQGDaFP-s?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1609842947419-ba4f04d5d60f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNob3BwaW5nJTIwYmFza2V0fGVufDF8fHx8MTc5Mzg5MTIyOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1609842947419-ba4f04d5d60f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNob3BwaW5nJTIwYmFza2V0fGVufDF8fHx8MTc5Mzg5MTIyOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "supermarket-checkout",
+    "shows": "Cashier weighing groceries at a supermarket checkout",
+    "file": "unsplash:m1c3tRvDjbo",
+    "page": "https://unsplash.com/photos/cashier-weighing-groceries-at-a-supermarket-checkout-m1c3tRvDjbo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1774978613949-c29cbfe9f862?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHN1cGVybWFya2V0JTIwY2hlY2tvdXR8ZW58MXx8fHwxNzk0NTYxNDk4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1774978613949-c29cbfe9f862?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHN1cGVybWFya2V0JTIwY2hlY2tvdXR8ZW58MXx8fHwxNzk0NTYxNDk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
      1800
@@ -155938,43 +155701,436 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Sara Scarpa on Unsplash",
+    "credit": "Photo by Adhitya Sibikumar on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Sara Scarpa",
-    "year": 2021,
+    "author": "Adhitya Sibikumar",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@sarascarpa?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/AJFQGDaFP-s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNob3BwaW5nJTIwYmFza2V0fGVufDF8fHx8MTc5Mzg5MTIyOXww",
+    "author_url": "https://unsplash.com/@adhitya_2505?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/m1c3tRvDjbo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHN1cGVybWFya2V0JTIwY2hlY2tvdXR8ZW58MXx8fHwxNzk0NTYxNDk4fDA",
     "track_pending": true
    },
    {
-    "shot": "restaurant-menu-board",
-    "shows": "Del Taco Combo Meals menu board",
-    "file": "File:Del Taco Combo Meals menu board.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Del_Taco_Combo_Meals_menu_board.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Del_Taco_Combo_Meals_menu_board.jpg/1920px-Del_Taco_Combo_Meals_menu_board.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Del_Taco_Combo_Meals_menu_board.jpg/500px-Del_Taco_Combo_Meals_menu_board.jpg",
+    "shot": "fruit-market",
+    "shows": "Kothapet Fruit Market",
+    "file": "File:Kothapet Fruit Market.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kothapet_Fruit_Market.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kothapet_Fruit_Market.jpg/1920px-Kothapet_Fruit_Market.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Kothapet_Fruit_Market.jpg/500px-Kothapet_Fruit_Market.jpg",
     "size": [
      1920,
-     1281
+     1271
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Rick Obst, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Rick Obst",
-    "year": 2026,
+    "credit": "Dey.sandip, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dey.sandip",
+    "year": 2018,
     "how": "catalog"
+   },
+   {
+    "shot": "coins-in-hand",
+    "shows": "A woman holding a small coin in her hand",
+    "file": "unsplash:aX1Zg3mqXA0",
+    "page": "https://unsplash.com/photos/a-woman-holding-a-small-coin-in-her-hand-aX1Zg3mqXA0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1647334359879-f481a5b3c80d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1647334359879-f481a5b3c80d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vardan Papikyan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vardan Papikyan",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@varpap?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aX1Zg3mqXA0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29pbnMlMjBpbiUyMGhhbmR8ZW58MXx8fHwxNzk0NTYxNjYwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "price-tag",
+    "shows": "Münster, Domplatz, Wochenmarkt -- 2019 -- 2650",
+    "file": "File:Münster, Domplatz, Wochenmarkt -- 2019 -- 2650.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Domplatz,_Wochenmarkt_--_2019_--_2650.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/M%C3%BCnster%2C_Domplatz%2C_Wochenmarkt_--_2019_--_2650.jpg/1920px-M%C3%BCnster%2C_Domplatz%2C_Wochenmarkt_--_2019_--_2650.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/M%C3%BCnster%2C_Domplatz%2C_Wochenmarkt_--_2019_--_2650.jpg/500px-M%C3%BCnster%2C_Domplatz%2C_Wochenmarkt_--_2019_--_2650.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "gas-station-prices",
+    "shows": "Gas station sign with prices at night",
+    "file": "unsplash:AzX8TjzTm18",
+    "page": "https://unsplash.com/photos/gas-station-sign-with-prices-at-night-AzX8TjzTm18?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1762506938800-fd15d560cc6a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1762506938800-fd15d560cc6a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sergej ***** on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sergej *****",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@skstrannik?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/AzX8TjzTm18/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHN0YXRpb24lMjBwcmljZXN8ZW58MXx8fHwxNzk0NTYxMzcxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "fruit-market",
+    "shows": "Orange and red apple fruits",
+    "file": "unsplash:2gKapCYKogo",
+    "page": "https://unsplash.com/photos/orange-and-red-apple-fruits-2gKapCYKogo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1585590853943-67022b1d8fe8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1585590853943-67022b1d8fe8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Yulia Shinova on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Yulia Shinova",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yulcha_ro?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2gKapCYKogo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZnJ1aXQlMjBtYXJrZXR8ZW58MXx8fHwxNzk0NTYxNTMxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-in-hand",
+    "shows": "A person holding a pile of coins in their hands",
+    "file": "unsplash:BCJ5TRULhNo",
+    "page": "https://unsplash.com/photos/a-person-holding-a-pile-of-coins-in-their-hands-BCJ5TRULhNo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1634979150688-9b59fc2be1a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1634979150688-9b59fc2be1a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by rc.xyz NFT gallery on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "rc.xyz NFT gallery",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@moneyphotos?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/BCJ5TRULhNo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "price-tag",
+    "shows": "Münster, Giebelhüüskesmarkt -- 2025 -- 2022",
+    "file": "File:Münster, Giebelhüüskesmarkt -- 2025 -- 2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Giebelh%C3%BC%C3%BCskesmarkt_--_2025_--_2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/M%C3%BCnster%2C_Giebelh%C3%BC%C3%BCskesmarkt_--_2025_--_2022.jpg/1920px-M%C3%BCnster%2C_Giebelh%C3%BC%C3%BCskesmarkt_--_2025_--_2022.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/M%C3%BCnster%2C_Giebelh%C3%BC%C3%BCskesmarkt_--_2025_--_2022.jpg/500px-M%C3%BCnster%2C_Giebelh%C3%BC%C3%BCskesmarkt_--_2025_--_2022.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "fruit-market",
+    "shows": "A variety of fruits and vegetables on display at a market",
+    "file": "unsplash:lIV2W8j7CC4",
+    "page": "https://unsplash.com/photos/a-variety-of-fruits-and-vegetables-on-display-at-a-market-lIV2W8j7CC4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1654508590628-21c717998f6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=2265&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1654508590628-21c717998f6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2265,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nadine Marfurt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nadine Marfurt",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nadine3?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lIV2W8j7CC4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-in-hand",
+    "shows": "A person holding two gold coins in their hand",
+    "file": "unsplash:_OkKfguWOz4",
+    "page": "https://unsplash.com/photos/a-person-holding-two-gold-coins-in-their-hand-_OkKfguWOz4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1738736870628-8a801d5ec0d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1738736870628-8a801d5ec0d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jakub Żerdzicki on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jakub Żerdzicki",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_OkKfguWOz4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "price-tag",
+    "shows": "Funchal (Madeira, Portugal), Mercado dos Lavradores -- 2025 -- 0965",
+    "file": "File:Funchal (Madeira, Portugal), Mercado dos Lavradores -- 2025 -- 0965.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Funchal_(Madeira,_Portugal),_Mercado_dos_Lavradores_--_2025_--_0965.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Funchal_%28Madeira%2C_Portugal%29%2C_Mercado_dos_Lavradores_--_2025_--_0965.jpg/1280px-Funchal_%28Madeira%2C_Portugal%29%2C_Mercado_dos_Lavradores_--_2025_--_0965.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Funchal_%28Madeira%2C_Portugal%29%2C_Mercado_dos_Lavradores_--_2025_--_0965.jpg/500px-Funchal_%28Madeira%2C_Portugal%29%2C_Mercado_dos_Lavradores_--_2025_--_0965.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "fruit-market",
+    "shows": "Selective focus photography of displayed basket of fruits",
+    "file": "unsplash:5S7i0ORPoYY",
+    "page": "https://unsplash.com/photos/selective-focus-photography-of-displayed-basket-of-fruits-5S7i0ORPoYY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1568391047493-d859d5ddb509?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1568391047493-d859d5ddb509?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alex Meier on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alex Meier",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alexmeier19?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/5S7i0ORPoYY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-in-hand",
+    "shows": "A person holding a coin in front of a computer keyboard",
+    "file": "unsplash:puYe3yLXkv4",
+    "page": "https://unsplash.com/photos/a-person-holding-a-coin-in-front-of-a-computer-keyboard-puYe3yLXkv4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1738996747326-65b5d7d7fe9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1738996747326-65b5d7d7fe9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jakub Żerdzicki on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jakub Żerdzicki",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/puYe3yLXkv4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "fruit-market",
+    "shows": "Variety of colorful exotic fruits at a market stall",
+    "file": "unsplash:lPJ5CYD09P4",
+    "page": "https://unsplash.com/photos/variety-of-colorful-exotic-fruits-at-a-market-stall-lPJ5CYD09P4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1760705186373-f0fccf98b88c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1760705186373-f0fccf98b88c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Martin Katler on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Martin Katler",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@martinkatler?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lPJ5CYD09P4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-in-hand",
+    "shows": "Hand holding ethereum with crypto graphs in background",
+    "file": "unsplash:2RGVk_SnFlE",
+    "page": "https://unsplash.com/photos/hand-holding-ethereum-with-crypto-graphs-in-background-2RGVk_SnFlE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1744473534558-efcd1664d14f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1744473534558-efcd1664d14f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jakub Żerdzicki on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jakub Żerdzicki",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2RGVk_SnFlE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvaW5zJTIwaW4lMjBoYW5kfGVufDF8fHx8MTc5NDU2MTY2MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "fruit-market",
+    "shows": "A farmers market with a variety of fruits and vegetables",
+    "file": "unsplash:VoRtYfdvzgM",
+    "page": "https://unsplash.com/photos/a-farmers-market-with-a-variety-of-fruits-and-vegetables-VoRtYfdvzgM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1731601815512-ea7eef40a518?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1731601815512-ea7eef40a518?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Antonio Araujo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Antonio Araujo",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@antonioaaaraujo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VoRtYfdvzgM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww",
+    "track_pending": true
+   },
+   {
+    "shot": "fruit-market",
+    "shows": "Fruit stand on the market",
+    "file": "unsplash:lneMADustvA",
+    "page": "https://unsplash.com/photos/fruit-stand-on-the-market-lneMADustvA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1604124900062-cf98463691ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=1876&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1604124900062-cf98463691ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1876,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by kabita Darlami on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "kabita Darlami",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@itskabita?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lneMADustvA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZydWl0JTIwbWFya2V0fGVufDF8fHx8MTc5NDU2MTUzMXww",
+    "track_pending": true
    }
   ],
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  "recession": {
   "name": "Recession & slowdown",
