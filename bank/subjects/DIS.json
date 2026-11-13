@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 30,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Cinderella Castle January 2021 Portrait",
@@ -165,6 +164,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Disneystudiowatertower.JPG"
+  },
+  {
+   "shows": "Disneyland California Adventure",
+   "url": "https://live.staticflickr.com/2796/4266708728_0f88897f57_b.jpg",
+   "preview": "https://live.staticflickr.com/2796/4266708728_0f88897f57_z.jpg",
+   "size": [
+    1024,
+    853
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Roebot on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/40814689@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/40814689@N00/4266708728",
+   "plain": true
+  },
+  {
+   "shows": "Cinderella's Castle with Icicles - Walt Disney World",
+   "url": "https://live.staticflickr.com/2061/2166622562_306255224c_b.jpg",
+   "preview": "https://live.staticflickr.com/2061/2166622562_306255224c_z.jpg",
+   "size": [
+    1024,
+    686
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by hyku on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/12734746@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12734746@N00/2166622562",
+   "plain": true
   },
   {
    "shows": "Disney Wish smokestack detail",
@@ -344,6 +383,186 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Team_Disney_Anaheim_2014.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Disneyland · disneyland, paris",
+   "url": "https://live.staticflickr.com/6028/5977471573_0755c06e45_b.jpg",
+   "preview": "https://live.staticflickr.com/6028/5977471573_0755c06e45_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sean MacEntee on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/18090920@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/18090920@N07/5977471573",
+   "plain": true
+  },
+  {
+   "shows": "Disneyland · disneyland, paris",
+   "url": "https://live.staticflickr.com/6141/5981775149_e121afbe0f_b.jpg",
+   "preview": "https://live.staticflickr.com/6141/5981775149_e121afbe0f_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sean MacEntee on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/18090920@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/18090920@N07/5981775149",
+   "plain": true
+  },
+  {
+   "shows": "Disneyland sign, Harbor Blvd, Anaheim, 1974",
+   "url": "https://live.staticflickr.com/2836/12443406744_2cdb607e7d_b.jpg",
+   "preview": "https://live.staticflickr.com/2836/12443406744_2cdb607e7d_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Orange County Archives on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/30346812@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30346812@N07/12443406744",
+   "plain": true
+  },
+  {
+   "shows": "Disneyland sign, 1313 Harbor Blvd, Anaheim, 1974",
+   "url": "https://live.staticflickr.com/2837/12443403734_238bde543a_b.jpg",
+   "preview": "https://live.staticflickr.com/2837/12443403734_238bde543a_z.jpg",
+   "size": [
+    1024,
+    628
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Orange County Archives on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/30346812@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30346812@N07/12443403734",
+   "plain": true
+  },
+  {
+   "shows": "Disneyland – Fantasmic – New Fire Breathing Dragon",
+   "url": "https://live.staticflickr.com/3532/3922706362_a834b25fd6_b.jpg",
+   "preview": "https://live.staticflickr.com/3532/3922706362_a834b25fd6_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by fortherock on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/29925020@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29925020@N03/3922706362",
+   "plain": true
+  },
+  {
+   "shows": "Disneyland California Adventure",
+   "url": "https://live.staticflickr.com/2633/3897573250_e33b5b8695_b.jpg",
+   "preview": "https://live.staticflickr.com/2633/3897573250_e33b5b8695_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by fortherock on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/29925020@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29925020@N03/3897573250",
+   "plain": true
+  },
+  {
+   "shows": "Disneyland California Adventure Paradise Pier",
+   "url": "https://live.staticflickr.com/4086/5211281450_fdbf3323bd_b.jpg",
+   "preview": "https://live.staticflickr.com/4086/5211281450_fdbf3323bd_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mike Saechang on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/7390466@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/7390466@N06/5211281450",
+   "plain": true
+  },
+  {
+   "shows": "Cinderella Castle at Christmas Magic Kingdom Walt Disney World 2008",
+   "url": "https://live.staticflickr.com/3217/3155252210_93e7bd4d02_b.jpg",
+   "preview": "https://live.staticflickr.com/3217/3155252210_93e7bd4d02_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mrkathika on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/23842402@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/23842402@N07/3155252210",
+   "plain": true
+  },
+  {
+   "shows": "Walt Disney World Monorail - Monorail Black",
+   "url": "https://live.staticflickr.com/2551/3692961395_43719b8b50_b.jpg",
+   "preview": "https://live.staticflickr.com/2551/3692961395_43719b8b50_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Evan Wohrman on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/46027550@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/46027550@N00/3692961395",
    "plain": true
   }
  ]

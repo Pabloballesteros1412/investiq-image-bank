@@ -8,5 +8,26 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "P10419AZS · allegion",
+   "url": "https://live.staticflickr.com/65535/48861083601_089e04c412_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48861083601_089e04c412_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by IndyMayorsOffice on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/155509408@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/155509408@N02/48861083601",
+   "plain": true
+  }
+ ]
 }

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 30,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Le siège social de Johnson & Johnson à New Brunswick dans le New Jersey.",
@@ -163,6 +162,66 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Johnson_%26_Johnson_offices_in_Madrid_(Spain)_01.jpg"
+  },
+  {
+   "shows": "Johnson & Johnson · healthcare, johnsonjohnson, medical, pharmaceutical",
+   "url": "https://live.staticflickr.com/298/19914772470_6278b077ac_b.jpg",
+   "preview": "https://live.staticflickr.com/298/19914772470_6278b077ac_z.jpg",
+   "size": [
+    678,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/19914772470",
+   "plain": true
+  },
+  {
+   "shows": "Johnson & Johnson · healthcare, johnsonjohnson, medical, pharmaceutical",
+   "url": "https://live.staticflickr.com/435/19916066779_1a281ebca0_b.jpg",
+   "preview": "https://live.staticflickr.com/435/19916066779_1a281ebca0_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/19916066779",
+   "plain": true
+  },
+  {
+   "shows": "Johnson & Johnson · healthcare, jnj, johnsonjohnson, medical, pharmaceutical",
+   "url": "https://live.staticflickr.com/409/19481813803_b509905d4c_b.jpg",
+   "preview": "https://live.staticflickr.com/409/19481813803_b509905d4c_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/19481813803",
+   "plain": true
   },
   {
    "shows": "Janssen Pharmaceutical Companies of Johnson & Johnson. Leiden, 2021",
@@ -450,6 +509,46 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Madrid_-_Johnson_%26_Johnson_1.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Johnson & Johnson / Alza / Scios",
+   "url": "https://live.staticflickr.com/3004/2590380812_9c4be31dc1_b.jpg",
+   "preview": "https://live.staticflickr.com/3004/2590380812_9c4be31dc1_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by chronos_tachyon on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/31027339@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/31027339@N00/2590380812",
+   "plain": true
+  },
+  {
+   "shows": "Johnson & Johnson · johnsonjohnson",
+   "url": "https://live.staticflickr.com/1660/26419186961_6507de1a5d_b.jpg",
+   "preview": "https://live.staticflickr.com/1660/26419186961_6507de1a5d_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/26419186961",
    "plain": true
   }
  ]

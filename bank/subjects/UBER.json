@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 30,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Uber Taxi at 7-11 Kadoma Shinbashi",
@@ -96,6 +95,46 @@
    "author_url": "https://unsplash.com/@dariendesigns?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/white-uber-car-parked-on-grassy-roadside-under-trees-5fCL_V9J8Bw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "UBER EATS · instagramapp, iphoneography, square",
+   "url": "https://live.staticflickr.com/5518/30904611552_c363e45e02_b.jpg",
+   "preview": "https://live.staticflickr.com/5518/30904611552_c363e45e02_z.jpg",
+   "size": [
+    819,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by LoopZilla on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/24987280@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/24987280@N00/30904611552",
+   "plain": true
+  },
+  {
+   "shows": "Uber Eats bicycle · bicycle, bike, delivery, eats, japan",
+   "url": "https://live.staticflickr.com/65535/49268172888_d05ea981aa_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49268172888_d05ea981aa_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Yuya Tamai on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/76758469@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/76758469@N00/49268172888",
+   "plain": true
   },
   {
    "shows": "Uber car in Kyiv",
@@ -509,24 +548,6 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:%27The_Shard%27_and_Tornado_Clipper_Uber_Boat_from_Tower_Millennium_Pier_River_Thames_London_England.jpg",
-   "plain": true
-  },
-  {
-   "shows": "Uber OTTO autonomous driving truck",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Uber_OTTO_autonomous_driving_truck.jpg/1920px-Uber_OTTO_autonomous_driving_truck.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Uber_OTTO_autonomous_driving_truck.jpg/500px-Uber_OTTO_autonomous_driving_truck.jpg",
-   "size": [
-    1920,
-    1406
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Steve Jurvetson, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Uber_OTTO_autonomous_driving_truck.jpg",
    "plain": true
   }
  ]

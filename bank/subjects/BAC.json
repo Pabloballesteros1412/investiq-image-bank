@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 30,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Bank of America branch in NYC",
@@ -508,6 +507,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ballard_-_Seafirst_Bank_Branch.jpg",
+   "plain": true
+  },
+  {
+   "shows": "H_23 Downtown - Bank of America Tower (aka Industrial Trust Tower or The Superman Building) - Looking South-West Toward West End",
+   "url": "https://live.staticflickr.com/2562/3822884779_b31a105c25_b.jpg",
+   "preview": "https://live.staticflickr.com/2562/3822884779_b31a105c25_z.jpg",
+   "size": [
+    695,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by CthulhuWho1 (Will Hart) on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/41340252@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/41340252@N08/3822884779",
+   "plain": true
+  },
+  {
+   "shows": "Columbia Center / Bank of America tower - IMG_1466",
+   "url": "https://live.staticflickr.com/7022/6647760697_778a8b2773_b.jpg",
+   "preview": "https://live.staticflickr.com/7022/6647760697_778a8b2773_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nicola since 1972 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/15216811@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/15216811@N06/6647760697",
    "plain": true
   }
  ]

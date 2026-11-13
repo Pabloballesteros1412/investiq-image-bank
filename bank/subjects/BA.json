@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 30,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Biman Bangladesh Airlines Boeing 787 Dreamliner 2",
@@ -491,6 +490,66 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:At_Boeing%27s_Everett_factory_near_Seattle_(9130160595).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Our first Boeing 787 in its Jetstar livery",
+   "url": "https://live.staticflickr.com/5530/9474818199_3a9f236eea_b.jpg",
+   "preview": "https://live.staticflickr.com/5530/9474818199_3a9f236eea_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jetstar Airways on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/60687350@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/60687350@N07/9474818199",
+   "plain": true
+  },
+  {
+   "shows": "Our first Boeing 787 in its Jetstar livery",
+   "url": "https://live.staticflickr.com/3763/9477606308_479ea38120_b.jpg",
+   "preview": "https://live.staticflickr.com/3763/9477606308_479ea38120_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jetstar Airways on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/60687350@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/60687350@N07/9477606308",
+   "plain": true
+  },
+  {
+   "shows": "Our first Boeing 787 in its Jetstar livery",
+   "url": "https://live.staticflickr.com/7317/9474820455_fd56cfefa4_b.jpg",
+   "preview": "https://live.staticflickr.com/7317/9474820455_fd56cfefa4_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jetstar Airways on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/60687350@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/60687350@N07/9474820455",
    "plain": true
   }
  ]

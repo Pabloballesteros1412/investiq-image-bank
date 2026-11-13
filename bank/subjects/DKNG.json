@@ -8,5 +8,26 @@
  "sector": "sector-consumer-discretionary",
  "target": 10,
  "fill_from": "sector-consumer-discretionary",
- "photos": []
+ "photos": [
+  {
+   "shows": "Welcome to the Big Time · draftkings, irony",
+   "url": "https://live.staticflickr.com/735/21748498333_892dd2cea8_b.jpg",
+   "preview": "https://live.staticflickr.com/735/21748498333_892dd2cea8_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by inky on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/48600084288@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/48600084288@N01/21748498333",
+   "plain": true
+  }
+ ]
 }

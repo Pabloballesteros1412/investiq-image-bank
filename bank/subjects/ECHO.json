@@ -8,5 +8,46 @@
  "sector": "sector-communication",
  "target": 10,
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "7 seconds: Echostar XXIII launch by SpaceX",
+   "url": "https://live.staticflickr.com/3929/33492874295_12df7b7e40_b.jpg",
+   "preview": "https://live.staticflickr.com/3929/33492874295_12df7b7e40_z.jpg",
+   "size": [
+    1024,
+    341
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Michael Seeley on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/76093456@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/76093456@N04/33492874295",
+   "plain": true
+  },
+  {
+   "shows": "Echostar XXIII launch by SpaceX",
+   "url": "https://live.staticflickr.com/3929/32626261514_58d3e165e9_b.jpg",
+   "preview": "https://live.staticflickr.com/3929/32626261514_58d3e165e9_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Michael Seeley on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/76093456@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/76093456@N04/32626261514",
+   "plain": true
+  }
+ ]
 }

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 30,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Karl the Fog playing with the Salesforce Tower-L1003555",
@@ -146,6 +145,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_Completed_2018.jpg"
+  },
+  {
+   "shows": "Salesforce Tower, Monument Circle, Indianapolis, IN",
+   "url": "https://live.staticflickr.com/65535/54217739489_7cb469340d_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54217739489_7cb469340d_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/59081381@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/59081381@N03/54217739489",
+   "plain": true
   },
   {
    "shows": "Construction on the Salesforce Tower Chicago",
@@ -451,6 +470,86 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_from_Sacramento_and_Davis_Street_2021.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Salesforce Tower in San Francisco",
+   "url": "https://live.staticflickr.com/4517/37959859235_ee91fa5fac_b.jpg",
+   "preview": "https://live.staticflickr.com/4517/37959859235_ee91fa5fac_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jun Seita on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/90454079@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/90454079@N00/37959859235",
+   "plain": true
+  },
+  {
+   "shows": "SF Sunset on the new Salesforce Tower",
+   "url": "https://live.staticflickr.com/4692/38214641085_a776bac1a3_b.jpg",
+   "preview": "https://live.staticflickr.com/4692/38214641085_a776bac1a3_z.jpg",
+   "size": [
+    1024,
+    656
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jurvetson on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/44124348109@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/44124348109@N01/38214641085",
+   "plain": true
+  },
+  {
+   "shows": "Salesforce Park · america, architecture, bluesky, building, buildings",
+   "url": "https://live.staticflickr.com/65535/52623298645_ab3a7b3dea_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52623298645_ab3a7b3dea_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dalecruse on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/91873384@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/91873384@N04/52623298645",
+   "plain": true
+  },
+  {
+   "shows": "Salesforce Tower in San Francisco",
+   "url": "https://live.staticflickr.com/4524/38815828842_87d86d1415_b.jpg",
+   "preview": "https://live.staticflickr.com/4524/38815828842_87d86d1415_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jun Seita on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/90454079@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/90454079@N00/38815828842",
    "plain": true
   }
  ]

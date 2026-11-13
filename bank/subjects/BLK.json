@@ -204,6 +204,26 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Gregg_Lemkau.jpg",
    "plain": true
+  },
+  {
+   "shows": "black, blackrock, building, city, collage",
+   "url": "https://live.staticflickr.com/5004/5373264803_05a5f3a9bf_b.jpg",
+   "preview": "https://live.staticflickr.com/5004/5373264803_05a5f3a9bf_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by eflon on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/23094783@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/23094783@N03/5373264803",
+   "plain": true
   }
  ]
 }

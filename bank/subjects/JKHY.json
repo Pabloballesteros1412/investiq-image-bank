@@ -8,5 +8,26 @@
  "sector": "sector-financials",
  "target": 10,
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Jack Henry & Associates Inc. / Birmingham",
+   "url": "https://live.staticflickr.com/136/323144674_700cb3b99c_b.jpg",
+   "preview": "https://live.staticflickr.com/136/323144674_700cb3b99c_z.jpg",
+   "size": [
+    1024,
+    819
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by curtis palmer on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/46453719@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/46453719@N00/323144674",
+   "plain": true
+  }
+ ]
 }

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 30,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "IBM Quantum System One on display at O'Hare International Airport",
@@ -453,6 +452,106 @@
    "licence": "Attribution",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:2004-09-02_1580x2800_chicago_IBM_building.jpg",
+   "plain": true
+  },
+  {
+   "shows": "IBM Think D100 Test · hmkd100testthink, ibm, orange, business, information",
+   "url": "https://live.staticflickr.com/3154/2741404653_cb3f31386a_b.jpg",
+   "preview": "https://live.staticflickr.com/3154/2741404653_cb3f31386a_z.jpg",
+   "size": [
+    1024,
+    681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Howdy, I'm H. Michael Karshis on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/48889115061@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/48889115061@N01/2741404653",
+   "plain": true
+  },
+  {
+   "shows": "IBM Servers · datacenter, ibm, rack, servers",
+   "url": "https://live.staticflickr.com/3080/3226685033_a1821f3e95_b.jpg",
+   "preview": "https://live.staticflickr.com/3080/3226685033_a1821f3e95_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Leonardo Rizzi on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/29479498@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29479498@N05/3226685033",
+   "plain": true
+  },
+  {
+   "shows": "IBM JX · ibm, ibmpcjr, oldcomputers, retrocomputing, average",
+   "url": "https://live.staticflickr.com/4100/4871934432_6a94d405ee_b.jpg",
+   "preview": "https://live.staticflickr.com/4100/4871934432_6a94d405ee_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Easterbilby on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/37796451@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37796451@N00/4871934432",
+   "plain": true
+  },
+  {
+   "shows": "IBM thinkpad T40 · computer, ibm, ibmthinkpad, laptop, lenovo",
+   "url": "https://live.staticflickr.com/2045/2356361015_e55dbfe7a4_b.jpg",
+   "preview": "https://live.staticflickr.com/2045/2356361015_e55dbfe7a4_z.jpg",
+   "size": [
+    1024,
+    830
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Asim Bijarani on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/8624431@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8624431@N08/2356361015",
+   "plain": true
+  },
+  {
+   "shows": "IBM 3279-S3G · 3270, 3279, htpc, ibm, mainframe",
+   "url": "https://live.staticflickr.com/5065/5625208727_147e635069_b.jpg",
+   "preview": "https://live.staticflickr.com/5065/5625208727_147e635069_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by vaxomatic on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/21881956@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/21881956@N05/5625208727",
    "plain": true
   }
  ]

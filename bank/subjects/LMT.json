@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 30,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "F-35 Heritage Flight Team performs in Bell Fort Worth Alliance AirShow",
@@ -96,6 +95,66 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg"
+  },
+  {
+   "shows": "Lockheed Martin F-22 Raptor",
+   "url": "https://live.staticflickr.com/65535/47966612553_7e51579e1f_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/47966612553_7e51579e1f_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aeroman3 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/47430793@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47430793@N08/47966612553",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin F-22 'Raptor's' at Hickam AFB, Hawaii",
+   "url": "https://live.staticflickr.com/4829/46874195252_90371c1499_b.jpg",
+   "preview": "https://live.staticflickr.com/4829/46874195252_90371c1499_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aeroman3 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/47430793@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47430793@N08/46874195252",
+   "plain": true
+  },
+  {
+   "shows": "F-35 Lightning · f35, fighter, lighting, plane, aircraft",
+   "url": "https://live.staticflickr.com/323/18789066116_c0d5606609_b.jpg",
+   "preview": "https://live.staticflickr.com/323/18789066116_c0d5606609_z.jpg",
+   "size": [
+    1024,
+    563
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Heath Cajandig on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/96228372@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/96228372@N06/18789066116",
+   "plain": true
   },
   {
    "shows": "C-130J Super Hercules Dyess AFB Air Show 2018 22",
@@ -366,6 +425,146 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Lockheed-Martin_Meridian_facility.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin F-22A 'Raptor'",
+   "url": "https://live.staticflickr.com/3807/11378755835_af325f1a6f_b.jpg",
+   "preview": "https://live.staticflickr.com/3807/11378755835_af325f1a6f_z.jpg",
+   "size": [
+    1024,
+    410
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mark6mauno on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/98147195@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98147195@N00/11378755835",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin F-35C Lightning II (BuNo 169601) (with VMFA-314 at Miramar NAS) and McDonnell Douglas (now Boeing) F/A-18A-15-MC Hornet (F/A-18A++) (BuNo 162442)",
+   "url": "https://live.staticflickr.com/65535/48681647591_4cc73fe2c8_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48681647591_4cc73fe2c8_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aeroman3 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/47430793@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47430793@N08/48681647591",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin F-22 'Raptor's'",
+   "url": "https://live.staticflickr.com/65535/48932008903_d1cb8205fb_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48932008903_d1cb8205fb_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aeroman3 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/47430793@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47430793@N08/48932008903",
+   "plain": true
+  },
+  {
+   "shows": "Israel Receives First Two F-35 Fighters",
+   "url": "https://live.staticflickr.com/284/31524656601_e12ebc9ba7_b.jpg",
+   "preview": "https://live.staticflickr.com/284/31524656601_e12ebc9ba7_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by U.S. Embassy Jerusalem on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/46886434@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/46886434@N04/31524656601",
+   "plain": true
+  },
+  {
+   "shows": "Israel Receives First Two F-35 Fighters",
+   "url": "https://live.staticflickr.com/124/31524655671_684cf4be68_b.jpg",
+   "preview": "https://live.staticflickr.com/124/31524655671_684cf4be68_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by U.S. Embassy Jerusalem on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/46886434@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/46886434@N04/31524655671",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin HQ as 'Snowquester' begins",
+   "url": "https://live.staticflickr.com/8237/8534548938_814a574f3d_b.jpg",
+   "preview": "https://live.staticflickr.com/8237/8534548938_814a574f3d_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Matthew Straubmuller on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/51344631@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/51344631@N06/8534548938",
+   "plain": true
+  },
+  {
+   "shows": "Gov. Malloy and Lockheed Martin reach deal to keep Sikorsky headquarters and jobs in Connecticut",
+   "url": "https://live.staticflickr.com/5203/29567473960_bd9576a8ff_b.jpg",
+   "preview": "https://live.staticflickr.com/5203/29567473960_bd9576a8ff_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Office of Governor Dan Malloy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/57939039@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/57939039@N08/29567473960",
    "plain": true
   }
  ]
