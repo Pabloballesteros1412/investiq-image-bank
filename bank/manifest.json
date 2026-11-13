@@ -197493,8 +197493,8 @@
     "track": "https://api.unsplash.com/photos/KVym2PAn1gA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmVhY2glMjByZXNvcnR8ZW58MXx8fHwxNzkzOTMwOTAxfDA"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "target": 50,
+  "error": "HTTPError: HTTP Error 403: Forbidden"
  },
  "luxury": {
   "name": "Luxury goods",
