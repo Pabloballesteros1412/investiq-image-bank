@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 30,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Nvidia sign",
@@ -530,6 +529,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/130561288@N04/51785515291",
+   "plain": true
+  },
+  {
+   "shows": "Computer Store in Akihabara",
+   "url": "https://live.staticflickr.com/65535/51878908796_5725d1055d_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51878908796_5725d1055d_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dick Thomas Johnson on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/31029865@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/31029865@N06/51878908796",
    "plain": true
   }
  ]

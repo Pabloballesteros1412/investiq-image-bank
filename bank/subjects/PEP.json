@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 30,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Pepsi 355 ml, 591 ml, and 710 ml, Canada (obverse)",
@@ -527,6 +526,46 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/14247646@N00/5354557218",
+   "plain": true
+  },
+  {
+   "shows": "mountain dew glow experiment (4)",
+   "url": "https://live.staticflickr.com/8292/7663555316_fe81a74d8d_b.jpg",
+   "preview": "https://live.staticflickr.com/8292/7663555316_fe81a74d8d_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Joelk75 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/75001512@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75001512@N00/7663555316",
+   "plain": true
+  },
+  {
+   "shows": "Mountain Dew in Grass · grass, mountaindew, pop, soda, closeup",
+   "url": "https://live.staticflickr.com/1/898231_ca259fd6e0_b.jpg",
+   "preview": "https://live.staticflickr.com/1/898231_ca259fd6e0_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by compujeramey on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/37171504@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37171504@N00/898231",
    "plain": true
   }
  ]

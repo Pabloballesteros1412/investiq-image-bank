@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 30,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Intel Headquarters in 2023",
@@ -514,6 +513,46 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/187597251@N05/49996071753",
+   "plain": true
+  },
+  {
+   "shows": "Computer Store in Akihabara",
+   "url": "https://live.staticflickr.com/65535/51879036954_f4b27c0a31_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51879036954_f4b27c0a31_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dick Thomas Johnson on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/31029865@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/31029865@N06/51879036954",
+   "plain": true
+  },
+  {
+   "shows": "Computer Store in Akihabara",
+   "url": "https://live.staticflickr.com/65535/51878799323_a77c658d54_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51878799323_a77c658d54_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dick Thomas Johnson on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/31029865@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/31029865@N06/51878799323",
    "plain": true
   }
  ]

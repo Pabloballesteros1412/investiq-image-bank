@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 30,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Warren Buffett at the 2015 SelectUSA Investment Summit",
@@ -98,6 +97,46 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/37334508@N00/24689333975",
+   "plain": true
+  },
+  {
+   "shows": "BNSF desert drag · bnsf, bnsf7520, cool, mojavedesert",
+   "url": "https://live.staticflickr.com/2292/2072586138_b1fd806c75_b.jpg",
+   "preview": "https://live.staticflickr.com/2292/2072586138_b1fd806c75_z.jpg",
+   "size": [
+    1024,
+    716
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kla4067 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/84263554@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/84263554@N00/2072586138",
+   "plain": true
+  },
+  {
+   "shows": "1/3 BNSF 532 Leads EB Manifest Olathe, KS 6-24-22",
+   "url": "https://live.staticflickr.com/65535/52334211517_5926c7fb52_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52334211517_5926c7fb52_z.jpg",
+   "size": [
+    1024,
+    619
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by KansasScanner on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/52378535@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/52378535@N06/52334211517",
    "plain": true
   },
   {
@@ -508,6 +547,46 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/45942104@N00/484589362",
+   "plain": true
+  },
+  {
+   "shows": "BNSF Train crossing Goat lick trestle",
+   "url": "https://live.staticflickr.com/6021/6019767371_90b58ab23c_b.jpg",
+   "preview": "https://live.staticflickr.com/6021/6019767371_90b58ab23c_z.jpg",
+   "size": [
+    644,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Loco Steve on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/36989019@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36989019@N08/6019767371",
+   "plain": true
+  },
+  {
+   "shows": "BNSF train @Two Medicine Trestle",
+   "url": "https://live.staticflickr.com/6025/6005390722_225fe6a683_b.jpg",
+   "preview": "https://live.staticflickr.com/6025/6005390722_225fe6a683_z.jpg",
+   "size": [
+    1024,
+    703
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Loco Steve on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/36989019@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36989019@N08/6005390722",
    "plain": true
   }
  ]

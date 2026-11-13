@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 30,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Goldman Sachs Tower @ 30 Hudson Street as viewed from the Exchange Place waterfront",
@@ -145,6 +144,46 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_(4088024683)_crop.jpg"
+  },
+  {
+   "shows": "Goldman Sachs office tower, Jersey City",
+   "url": "https://live.staticflickr.com/3771/10118139334_f86484e1de_b.jpg",
+   "preview": "https://live.staticflickr.com/3771/10118139334_f86484e1de_z.jpg",
+   "size": [
+    678,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by R'lyeh Imaging on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/65449832@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/65449832@N00/10118139334",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower · 2011, america, building, city, goldman",
+   "url": "https://live.staticflickr.com/6068/6125000958_1a92ff5d96_b.jpg",
+   "preview": "https://live.staticflickr.com/6068/6125000958_1a92ff5d96_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Peter Zoon on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/90208834@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/90208834@N00/6125000958",
+   "plain": true
   },
   {
    "shows": "200 West Street (24258p)",
@@ -488,6 +527,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/19257752@N00/3141757430",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs & Freedom Tower",
+   "url": "https://live.staticflickr.com/7193/6992837213_a36172b530_b.jpg",
+   "preview": "https://live.staticflickr.com/7193/6992837213_a36172b530_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by edenpictures on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/10485077@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/10485077@N06/6992837213",
    "plain": true
   }
  ]

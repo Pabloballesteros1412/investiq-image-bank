@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 30,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Meta i Almedalen",
@@ -112,6 +111,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_(2025)_(cropped)_(b).jpg"
+  },
+  {
+   "shows": "Meta Quest 2 · facebook, meta, oculus, quest, reality",
+   "url": "https://live.staticflickr.com/65535/52328573038_5120f89ac5_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52328573038_5120f89ac5_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by abx.justin on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/196388265@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/196388265@N05/52328573038",
+   "plain": true
   },
   {
    "shows": "Lulea Facebook datacenter building",
@@ -455,6 +474,86 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/76295441@N00/8409460174",
+   "plain": true
+  },
+  {
+   "shows": "Person with a Meta Quest 2 pointing an object (transparent bg)",
+   "url": "https://live.staticflickr.com/65535/52360085059_0f4b1e61e4_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52360085059_0f4b1e61e4_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by metalograms on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/196505105@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/196505105@N02/52360085059",
+   "plain": true
+  },
+  {
+   "shows": "Oculus Rift · games, globalpanorama, kiev, oculus, oculusvr",
+   "url": "https://live.staticflickr.com/7260/13491081124_fdbdaa256d_b.jpg",
+   "preview": "https://live.staticflickr.com/7260/13491081124_fdbdaa256d_z.jpg",
+   "size": [
+    1024,
+    607
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by theglobalpanorama on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/121483302@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/121483302@N02/13491081124",
+   "plain": true
+  },
+  {
+   "shows": "Maxim Kapinus and Oculus Rift",
+   "url": "https://live.staticflickr.com/8280/10187199554_fd8265dfb1_b.jpg",
+   "preview": "https://live.staticflickr.com/8280/10187199554_fd8265dfb1_z.jpg",
+   "size": [
+    1024,
+    694
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sergey Galyonkin on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/22974618@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22974618@N00/10187199554",
+   "plain": true
+  },
+  {
+   "shows": "Oculus Rift DK2 · desempacando, dk2, oculus, rift, business",
+   "url": "https://live.staticflickr.com/5593/15219750365_7617fb0598_b.jpg",
+   "preview": "https://live.staticflickr.com/5593/15219750365_7617fb0598_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Avodrocc on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/22086776@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22086776@N00/15219750365",
    "plain": true
   }
  ]
