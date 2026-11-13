@@ -148514,30 +148514,28 @@
    },
    {
     "shot": "gas-pipeline",
-    "shows": "Green utility box with no smoking sign and yellow pipe",
-    "file": "unsplash:MJuBifMRSkg",
-    "page": "https://unsplash.com/photos/green-utility-box-with-no-smoking-sign-and-yellow-pipe-MJuBifMRSkg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1782281851517-901af84b6e3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1782281851517-901af84b6e3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A small natural-gas facility near the town of Carrizo Springs in Dimmit County, Texas",
+    "file": "loc:2014630580",
+    "page": "https://www.loc.gov/item/2014630580/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:26300:26380/full/2248,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:26300:26380/full/500,/0/default.jpg",
     "size": [
-     2250,
+     2248,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Fer Troulik on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Fer Troulik",
-    "year": 2026,
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2014,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@fertroulik?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/MJuBifMRSkg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww",
-    "track_pending": true
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
     "shot": "lng-carrier",
@@ -148567,14 +148565,14 @@
    },
    {
     "shot": "fuel-tanker-truck",
-    "shows": "Shell Tanker Truck at a Fuel Station in Capioví, Argentina",
-    "file": "File:Shell Tanker Truck at a Fuel Station in Capioví, Argentina.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shell_Tanker_Truck_at_a_Fuel_Station_in_Capiov%C3%AD,_Argentina.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shell_Tanker_Truck_at_a_Fuel_Station_in_Capiov%C3%AD%2C_Argentina.jpg/1920px-Shell_Tanker_Truck_at_a_Fuel_Station_in_Capiov%C3%AD%2C_Argentina.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Shell_Tanker_Truck_at_a_Fuel_Station_in_Capiov%C3%AD%2C_Argentina.jpg/500px-Shell_Tanker_Truck_at_a_Fuel_Station_in_Capiov%C3%AD%2C_Argentina.jpg",
+    "shows": "YPF fuel tanker truck on National Route 12 in Capioví, Misiones, Argentina",
+    "file": "File:YPF fuel tanker truck on National Route 12 in Capioví, Misiones, Argentina.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:YPF_fuel_tanker_truck_on_National_Route_12_in_Capiov%C3%AD,_Misiones,_Argentina.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/YPF_fuel_tanker_truck_on_National_Route_12_in_Capiov%C3%AD%2C_Misiones%2C_Argentina.jpg/1920px-YPF_fuel_tanker_truck_on_National_Route_12_in_Capiov%C3%AD%2C_Misiones%2C_Argentina.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/YPF_fuel_tanker_truck_on_National_Route_12_in_Capiov%C3%AD%2C_Misiones%2C_Argentina.jpg/500px-YPF_fuel_tanker_truck_on_National_Route_12_in_Capiov%C3%AD%2C_Misiones%2C_Argentina.jpg",
     "size": [
      1920,
-     1440
+     1123
     ],
     "focus": [
      0.5,
@@ -148690,6 +148688,206 @@
     "track": "https://api.unsplash.com/photos/NzpifrHgQV0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww"
    },
    {
+    "shot": "energy",
+    "shows": "Energy carrier",
+    "file": "File:Energy carrier.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Energy_carrier.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Energy_carrier.jpg/1920px-Energy_carrier.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Energy_carrier.jpg/500px-Energy_carrier.jpg",
+    "size": [
+     1920,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Timgan, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Timgan",
+    "year": 2021,
+    "how": "catalog"
+   },
+   {
+    "shot": "oil",
+    "shows": "Macro view of golden oil bubbles floating in water with warm amber tones",
+    "file": "unsplash:ReiMJUT19uI",
+    "page": "https://unsplash.com/photos/golden-oil-bubbles-in-water-ReiMJUT19uI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1627436712678-960862eac951?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2lsfGVufDF8fHx8MTc5NDYxMTU4Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1627436712678-960862eac951?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2lsfGVufDF8fHx8MTc5NDYxMTU4Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Susan Wilkinson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Susan Wilkinson",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@susan_wilkinson?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ReiMJUT19uI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b2lsfGVufDF8fHx8MTc5NDYxMTU4Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "gas",
+    "shows": "Factories with smoke under cloudy sky",
+    "file": "unsplash:6xeDIZgoPaw",
+    "page": "https://unsplash.com/photos/factories-with-smoke-under-cloudy-sky-6xeDIZgoPaw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Patrick Hendry on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Patrick Hendry",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@worldsbetweenlines?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6xeDIZgoPaw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "pipeline",
+    "shows": "Pipeline construction in Canada",
+    "file": "File:Pipeline construction in Canada.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pipeline_construction_in_Canada.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pipeline_construction_in_Canada.jpg/1920px-Pipeline_construction_in_Canada.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pipeline_construction_in_Canada.jpg/500px-Pipeline_construction_in_Canada.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jason Woodhead, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Jason Woodhead",
+    "year": 2008,
+    "how": "catalog"
+   },
+   {
+    "shot": "fuel",
+    "shows": "Starting the charcoal",
+    "file": "File:Starting the charcoal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Starting_the_charcoal.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Starting_the_charcoal.jpg/1920px-Starting_the_charcoal.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Starting_the_charcoal.jpg/500px-Starting_the_charcoal.jpg",
+    "size": [
+     1920,
+     1509
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tomascastelazo, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tomascastelazo",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "power",
+    "shows": "Photo of truss towers",
+    "file": "unsplash:yETqkLnhsUI",
+    "page": "https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Matthew Henry on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Matthew Henry",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@matthewhenry?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yETqkLnhsUI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "drilling",
+    "shows": "Drill bits 2017 G1",
+    "file": "File:Drill bits 2017 G1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drill_bits_2017_G1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Drill_bits_2017_G1.jpg/1920px-Drill_bits_2017_G1.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Drill_bits_2017_G1.jpg/500px-Drill_bits_2017_G1.jpg",
+    "size": [
+     1920,
+     1200
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "George Chernilevsky, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "George Chernilevsky",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "lng",
+    "shows": "Two large lng tanks on a barge with cranes",
+    "file": "unsplash:Wx6aqlqbdys",
+    "page": "https://unsplash.com/photos/two-large-lng-tanks-on-a-barge-with-cranes-Wx6aqlqbdys?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1775580279270-574c001be3a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bG5nfGVufDF8fHx8MTc5NDYxMTY5OHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1775580279270-574c001be3a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bG5nfGVufDF8fHx8MTc5NDYxMTY5OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Markus Kammermann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Markus Kammermann",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@makabera?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Wx6aqlqbdys/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bG5nfGVufDF8fHx8MTc5NDYxMTY5OHww",
+    "track_pending": true
+   },
+   {
     "shot": "oil-rig",
     "shows": "Oil rig",
     "file": "unsplash:guADzpF9pDI",
@@ -148718,161 +148916,11 @@
    },
    {
     "shot": "refinery",
-    "shows": "A large industrial area with a lot of tall buildings",
-    "file": "unsplash:1f3kODRtpxQ",
-    "page": "https://unsplash.com/photos/a-large-industrial-area-with-a-lot-of-tall-buildings-1f3kODRtpxQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1733069348827-bb538b2a6a1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cmVmaW5lcnl8ZW58MXx8fHwxNzkzODg0MzM2fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1733069348827-bb538b2a6a1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cmVmaW5lcnl8ZW58MXx8fHwxNzkzODg0MzM2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2000,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Anthony Maw on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Anthony Maw",
-    "year": 2024,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@anthonymaw?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/1f3kODRtpxQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cmVmaW5lcnl8ZW58MXx8fHwxNzkzODg0MzM2fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "pumpjack-sunset",
-    "shows": "Pumpjacks on Lost Hills Oil Field in California on Route 46 at sunset. Almost all of the pumps shown on this picture were busy when I took the picture.",
-    "file": "File:PumpjacksLostHillsSunset.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:PumpjacksLostHillsSunset.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/PumpjacksLostHillsSunset.JPG/1920px-PumpjacksLostHillsSunset.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/PumpjacksLostHillsSunset.JPG/500px-PumpjacksLostHillsSunset.JPG",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Arne Hückelheim, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Arne Hückelheim",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-pipeline",
-    "shows": "An industrial port is shown over the water",
-    "file": "unsplash:OzWPFZivbwQ",
-    "page": "https://unsplash.com/photos/an-industrial-port-is-shown-over-the-water-OzWPFZivbwQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1754512213929-4e3a8c23296b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1754512213929-4e3a8c23296b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2000,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Alessandra Gentili on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Alessandra Gentili",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@rosieposiebee?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/OzWPFZivbwQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww",
-    "track_pending": true
-   },
-   {
-    "shot": "lng-carrier",
-    "shows": "LNG Carriers dilihat dari Sembawang 2021",
-    "file": "File:LNG Carriers dilihat dari Sembawang 2021.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:LNG_Carriers_dilihat_dari_Sembawang_2021.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/LNG_Carriers_dilihat_dari_Sembawang_2021.jpg/1920px-LNG_Carriers_dilihat_dari_Sembawang_2021.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/LNG_Carriers_dilihat_dari_Sembawang_2021.jpg/500px-LNG_Carriers_dilihat_dari_Sembawang_2021.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Encik Tekateki, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Encik Tekateki",
-    "year": 2021,
-    "how": "catalog"
-   },
-   {
-    "shot": "fuel-tanker-truck",
-    "shows": "Shell Fuel Tanker Truck at Capioví Service Station, Misiones, Argentina",
-    "file": "File:Shell Fuel Tanker Truck at Capioví Service Station, Misiones, Argentina.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shell_Fuel_Tanker_Truck_at_Capiov%C3%AD_Service_Station,_Misiones,_Argentina.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shell_Fuel_Tanker_Truck_at_Capiov%C3%AD_Service_Station%2C_Misiones%2C_Argentina.jpg/1920px-Shell_Fuel_Tanker_Truck_at_Capiov%C3%AD_Service_Station%2C_Misiones%2C_Argentina.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Shell_Fuel_Tanker_Truck_at_Capiov%C3%AD_Service_Station%2C_Misiones%2C_Argentina.jpg/500px-Shell_Fuel_Tanker_Truck_at_Capiov%C3%AD_Service_Station%2C_Misiones%2C_Argentina.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Horacio Cambeiro, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Horacio Cambeiro",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-station",
-    "shows": "White, red, and gray concrete building",
-    "file": "unsplash:m4XijjbttD8",
-    "page": "https://unsplash.com/photos/white-red-and-gray-concrete-building-m4XijjbttD8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2241&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1567777176186-dfa735f1fe20?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2241,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Mehluli Hikwa on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Mehluli Hikwa",
-    "year": 2019,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@thatafro?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/m4XijjbttD8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "offshore-platform",
-    "shows": "Offshore platform with rainbow in the sky",
-    "file": "unsplash:kmeBkhMZ8Wc",
-    "page": "https://unsplash.com/photos/offshore-platform-with-rainbow-in-the-sky-kmeBkhMZ8Wc?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1765005629275-110a02f16d65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG9mZnNob3JlJTIwcGxhdGZvcm18ZW58MXx8fHwxNzkzODg5Mzk5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1765005629275-110a02f16d65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG9mZnNob3JlJTIwcGxhdGZvcm18ZW58MXx8fHwxNzkzODg5Mzk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A factory with pipes and a sky background",
+    "file": "unsplash:vOtSZd_8Af4",
+    "page": "https://unsplash.com/photos/a-factory-with-pipes-and-a-sky-background-vOtSZd_8Af4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1678984239420-43cdc183bce6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1678984239420-43cdc183bce6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -148881,51 +148929,55 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Laurenz Kruty on Unsplash",
+    "credit": "Photo by Jakub Pabis on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Laurenz Kruty",
-    "year": 2025,
+    "author": "Jakub Pabis",
+    "year": 2023,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@laukr?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/kmeBkhMZ8Wc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG9mZnNob3JlJTIwcGxhdGZvcm18ZW58MXx8fHwxNzkzODg5Mzk5fDA",
+    "author_url": "https://unsplash.com/@jakubpabis?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vOtSZd_8Af4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww",
     "track_pending": true
    },
    {
-    "shot": "drilling-rig-workers",
-    "shows": "Derrickmen working at a rig",
-    "file": "File:Derrickmen working at a rig.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Derrickmen_working_at_a_rig.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Derrickmen_working_at_a_rig.jpg/1280px-Derrickmen_working_at_a_rig.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Derrickmen_working_at_a_rig.jpg/500px-Derrickmen_working_at_a_rig.jpg",
+    "shot": "gas-station",
+    "shows": "A gas station at night with no people around",
+    "file": "unsplash:OnmOFmwTlP0",
+    "page": "https://unsplash.com/photos/a-gas-station-at-night-with-no-people-around-OnmOFmwTlP0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1695561324569-5e47c76dc0a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1695561324569-5e47c76dc0a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "National Institute for Occupational Safety and Health, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "National Institute for Occupational Safety and Health",
-    "year": 2008,
-    "how": "catalog"
+    "credit": "Photo by Hans Eiskonen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hans Eiskonen",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@eiskonen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OnmOFmwTlP0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA",
+    "track_pending": true
    },
    {
     "shot": "natural-gas-plant",
-    "shows": "A power plant sits beside the water",
-    "file": "unsplash:_yiY7WfdBeU",
-    "page": "https://unsplash.com/photos/a-power-plant-sits-beside-the-water-_yiY7WfdBeU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1750074905166-4d139944b868?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=2218&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1750074905166-4d139944b868?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Power plant towers over a river at sunset",
+    "file": "unsplash:HUVtc1WGv2I",
+    "page": "https://unsplash.com/photos/power-plant-towers-over-a-river-at-sunset-HUVtc1WGv2I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1750074905408-db3b0f29202a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1750074905408-db3b0f29202a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2218,
-     1501
+     2400,
+     1500
     ],
     "focus": [
      0.5,
@@ -148940,7 +148992,188 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/_yiY7WfdBeU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww",
+    "track": "https://api.unsplash.com/photos/HUVtc1WGv2I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww",
+    "track_pending": true
+   },
+   {
+    "shot": "oil",
+    "shows": "Sunset at Coal Oil Point",
+    "file": "File:Sunset at Coal Oil Point.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunset_at_Coal_Oil_Point.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sunset_at_Coal_Oil_Point.jpg/1920px-Sunset_at_Coal_Oil_Point.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sunset_at_Coal_Oil_Point.jpg/500px-Sunset_at_Coal_Oil_Point.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Glenn Beltz, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Glenn Beltz",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "gas",
+    "shows": "Black and white gas stove",
+    "file": "unsplash:CdW4DAF5i7Q",
+    "page": "https://unsplash.com/photos/black-and-white-gas-stove-CdW4DAF5i7Q?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1607324772107-8ad6740ca195?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1607324772107-8ad6740ca195?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by KWON JUNHO on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "KWON JUNHO",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@juno1412?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CdW4DAF5i7Q/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "pipeline",
+    "shows": "Pipe-burst-after-erosion-in-a-steam-pipeline-01",
+    "file": "File:Pipe-burst-after-erosion-in-a-steam-pipeline-01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pipe-burst-after-erosion-in-a-steam-pipeline-01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pipe-burst-after-erosion-in-a-steam-pipeline-01.jpg/1920px-Pipe-burst-after-erosion-in-a-steam-pipeline-01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Pipe-burst-after-erosion-in-a-steam-pipeline-01.jpg/500px-Pipe-burst-after-erosion-in-a-steam-pipeline-01.jpg",
+    "size": [
+     1920,
+     1371
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "CEphoto, Uwe Aranas",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "fuel",
+    "shows": "A woman pumping gas into her car at a gas station",
+    "file": "unsplash:-qUe8eiXH-c",
+    "page": "https://unsplash.com/photos/a-woman-pumping-gas-into-her-car-at-a-gas-station--qUe8eiXH-c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1709536240391-fa5b06a756d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1709536240391-fa5b06a756d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by engin akyurt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "engin akyurt",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-qUe8eiXH-c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "power",
+    "shows": "Silhouette of electric post during sunset",
+    "file": "unsplash:qpAOxji4dAo",
+    "page": "https://unsplash.com/photos/silhouette-of-electric-post-during-sunset-qpAOxji4dAo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1610028290816-5d937a395a49?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrey Metelev on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrey Metelev",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@metelevan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qpAOxji4dAo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "drilling",
+    "shows": "A close up of a person holding a drill",
+    "file": "unsplash:TY3hv1J2lfg",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-person-holding-a-drill-TY3hv1J2lfg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1625562888409-14b30c2b17b5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1625562888409-14b30c2b17b5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jimmy Nilsson Masth on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jimmy Nilsson Masth",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jimmynilssonmasth?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/TY3hv1J2lfg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww",
+    "track_pending": true
+   },
+   {
+    "shot": "lng",
+    "shows": "A large cargo ship in the middle of the ocean",
+    "file": "unsplash:EHt9VrQnUc8",
+    "page": "https://unsplash.com/photos/a-large-cargo-ship-in-the-middle-of-the-ocean-EHt9VrQnUc8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1560134025-a119c071bf16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1560134025-a119c071bf16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Joshua J. Cotten on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Joshua J. Cotten",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jcotten?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EHt9VrQnUc8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA",
     "track_pending": true
    },
    {
@@ -148972,130 +149205,11 @@
    },
    {
     "shot": "refinery",
-    "shows": "Aerial view of city buildings during daytime",
-    "file": "unsplash:i7myDM7EN-E",
-    "page": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-i7myDM7EN-E?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1614377493833-7f92e84773ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1614377493833-7f92e84773ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1600
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Diyar Al Maamouri on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Diyar Al Maamouri",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@diyar97?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/i7myDM7EN-E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww",
-    "track_pending": true
-   },
-   {
-    "shot": "pumpjack-sunset",
-    "shows": "Pumpjacks on Lost Hills Oil Field in California on Route 46 at sunset. Almost all of the pumps shown on this picture were busy when I took the picture.",
-    "file": "File:PumpjacksFull.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:PumpjacksFull.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PumpjacksFull.JPG/1920px-PumpjacksFull.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PumpjacksFull.JPG/500px-PumpjacksFull.JPG",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Arne Hückelheim, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Arne Hückelheim",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-pipeline",
-    "shows": "Marker pole for gas pipeline near Paffendorf NRW Germany",
-    "file": "File:Marker pole for gas pipeline near Paffendorf NRW Germany.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Marker_pole_for_gas_pipeline_near_Paffendorf_NRW_Germany.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Marker_pole_for_gas_pipeline_near_Paffendorf_NRW_Germany.jpg/1280px-Marker_pole_for_gas_pipeline_near_Paffendorf_NRW_Germany.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Marker_pole_for_gas_pipeline_near_Paffendorf_NRW_Germany.jpg/500px-Marker_pole_for_gas_pipeline_near_Paffendorf_NRW_Germany.jpg",
-    "size": [
-     1280,
-     1578
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bob Goedert, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bob Goedert",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "lng-carrier",
-    "shows": "KARMOL LNGT POWERSHIP AFRICA aux larges de Dakar 06",
-    "file": "File:KARMOL LNGT POWERSHIP AFRICA aux larges de Dakar 06.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:KARMOL_LNGT_POWERSHIP_AFRICA_aux_larges_de_Dakar_06.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KARMOL_LNGT_POWERSHIP_AFRICA_aux_larges_de_Dakar_06.jpg/1280px-KARMOL_LNGT_POWERSHIP_AFRICA_aux_larges_de_Dakar_06.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/KARMOL_LNGT_POWERSHIP_AFRICA_aux_larges_de_Dakar_06.jpg/500px-KARMOL_LNGT_POWERSHIP_AFRICA_aux_larges_de_Dakar_06.jpg",
-    "size": [
-     1280,
-     1706
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Fawaz.tairou, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Fawaz.tairou",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "fuel-tanker-truck",
-    "shows": "Rotten Robbie tanker truck delivering fuel",
-    "file": "File:Rotten Robbie tanker truck delivering fuel.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rotten_Robbie_tanker_truck_delivering_fuel.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rotten_Robbie_tanker_truck_delivering_fuel.jpg/1920px-Rotten_Robbie_tanker_truck_delivering_fuel.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Rotten_Robbie_tanker_truck_delivering_fuel.jpg/500px-Rotten_Robbie_tanker_truck_delivering_fuel.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Grendelkhan",
-    "year": 2018,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-station",
-    "shows": "A gas station at night with no people around",
-    "file": "unsplash:OnmOFmwTlP0",
-    "page": "https://unsplash.com/photos/a-gas-station-at-night-with-no-people-around-OnmOFmwTlP0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1695561324569-5e47c76dc0a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1695561324569-5e47c76dc0a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A factory with smoke coming out of it",
+    "file": "unsplash:NShzzEoljvY",
+    "page": "https://unsplash.com/photos/a-factory-with-smoke-coming-out-of-it-NShzzEoljvY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1667015048811-612f197bf398?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1667015048811-612f197bf398?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -149104,93 +149218,201 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Hans Eiskonen on Unsplash",
+    "credit": "Photo by Danny Burke on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Hans Eiskonen",
-    "year": 2023,
+    "author": "Danny Burke",
+    "year": 2022,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@eiskonen?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/OnmOFmwTlP0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA",
+    "author_url": "https://unsplash.com/@djburkephotography?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NShzzEoljvY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww",
     "track_pending": true
    },
    {
-    "shot": "offshore-platform",
-    "shows": "A small offshore oil platform on a calm and hazy blue sea",
-    "file": "unsplash:eDyuRETCj9o",
-    "page": "https://unsplash.com/photos/offshore-oil-platform-on-calm-sea-eDyuRETCj9o?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1787770048282-ac20bd9452f1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG9mZnNob3JlJTIwcGxhdGZvcm18ZW58MXx8fHwxNzkzODg5Mzk5fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1787770048282-ac20bd9452f1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG9mZnNob3JlJTIwcGxhdGZvcm18ZW58MXx8fHwxNzkzODg5Mzk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "gas-station",
+    "shows": "A gas pump is connected to a car at a gas station",
+    "file": "unsplash:H4GGjhkhwF0",
+    "page": "https://unsplash.com/photos/a-gas-pump-is-connected-to-a-car-at-a-gas-station-H4GGjhkhwF0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2251,
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by engin akyurt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "engin akyurt",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/H4GGjhkhwF0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "oil",
+    "shows": "Clear glass cruet bottle",
+    "file": "unsplash:uOBApnN_K7w",
+    "page": "https://unsplash.com/photos/clear-glass-cruet-bottle-uOBApnN_K7w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8b2lsfGVufDF8fHx8MTc5NDYxMTU4Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8b2lsfGVufDF8fHx8MTc5NDYxMTU4Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1665
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Roberta Sorge on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Roberta Sorge",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@robertina?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uOBApnN_K7w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8b2lsfGVufDF8fHx8MTc5NDYxMTU4Nnww",
+    "track_pending": true
+   },
+   {
+    "shot": "gas",
+    "shows": "Black gas stove with white and black gas stove",
+    "file": "unsplash:8qgUQ4HfwDA",
+    "page": "https://unsplash.com/photos/black-gas-stove-with-white-and-black-gas-stove-8qgUQ4HfwDA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1608454770647-01dc0f7dd97d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1608454770647-01dc0f7dd97d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Myko Makh on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Myko Makh",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mykomoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8qgUQ4HfwDA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "fuel",
+    "shows": "Man fueling plane near man",
+    "file": "unsplash:sAqXxp1l6WM",
+    "page": "https://unsplash.com/photos/man-fueling-plane-near-man-sAqXxp1l6WM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1541612529637-7f8d12b21635?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1541612529637-7f8d12b21635?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jose Lebron on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jose Lebron",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lebrom390?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sAqXxp1l6WM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "power",
+    "shows": "Blue solar panel boards",
+    "file": "unsplash:V4ZYJZJ3W4M",
+    "page": "https://unsplash.com/photos/blue-solar-panel-boards-V4ZYJZJ3W4M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=2266&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2266,
      1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Paul Einerhand on Unsplash",
+    "credit": "Photo by Zbynek Burival on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Paul Einerhand",
-    "year": 2026,
+    "author": "Zbynek Burival",
+    "year": 2018,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@pauleinerhand?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/eDyuRETCj9o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG9mZnNob3JlJTIwcGxhdGZvcm18ZW58MXx8fHwxNzkzODg5Mzk5fDA",
+    "author_url": "https://unsplash.com/@zburival?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/V4ZYJZJ3W4M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA",
     "track_pending": true
    },
    {
-    "shot": "drilling-rig-workers",
-    "shows": "The repairing and rebuilding of the damaged containment dome for the Arctic Challenger of Shell Oil Company",
-    "file": "File:The repairing and rebuilding of the damaged containment dome for the Arctic Challenger of Shell Oil Company..JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:The_repairing_and_rebuilding_of_the_damaged_containment_dome_for_the_Arctic_Challenger_of_Shell_Oil_Company..JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_repairing_and_rebuilding_of_the_damaged_containment_dome_for_the_Arctic_Challenger_of_Shell_Oil_Company..JPG/1920px-The_repairing_and_rebuilding_of_the_damaged_containment_dome_for_the_Arctic_Challenger_of_Shell_Oil_Company..JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_repairing_and_rebuilding_of_the_damaged_containment_dome_for_the_Arctic_Challenger_of_Shell_Oil_Company..JPG/500px-The_repairing_and_rebuilding_of_the_damaged_containment_dome_for_the_Arctic_Challenger_of_Shell_Oil_Company..JPG",
+    "shot": "drilling",
+    "shows": "Drilling rig at a construction site in Tuntorp",
+    "file": "File:Drilling rig at a construction site in Tuntorp.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drilling_rig_at_a_construction_site_in_Tuntorp.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Drilling_rig_at_a_construction_site_in_Tuntorp.jpg/1280px-Drilling_rig_at_a_construction_site_in_Tuntorp.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Drilling_rig_at_a_construction_site_in_Tuntorp.jpg/500px-Drilling_rig_at_a_construction_site_in_Tuntorp.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "TJ Guiton, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "TJ Guiton",
-    "year": 2012,
+    "credit": "W.carter, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "W.carter",
+    "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "natural-gas-plant",
-    "shows": "A power plant stands near water under a blue sky",
-    "file": "unsplash:KkYpV-65I0w",
-    "page": "https://unsplash.com/photos/a-power-plant-stands-near-water-under-a-blue-sky-KkYpV-65I0w?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1750074905922-9634c396959a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1750074905922-9634c396959a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "lng",
+    "shows": "A Van Oord trailing suction hopper dredger vessel with LNG tanks on blue water",
+    "file": "unsplash:SL2_a-pJoN4",
+    "page": "https://unsplash.com/photos/van-oord-trailing-suction-hopper-dredger-SL2_a-pJoN4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1789371755246-aa52c80574d5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1789371755246-aa52c80574d5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2400,
-     1470
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Zoshua Colah on Unsplash",
+    "credit": "Photo by Markus Kammermann on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Zoshua Colah",
-    "year": 2025,
+    "author": "Markus Kammermann",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/KkYpV-65I0w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww",
+    "author_url": "https://unsplash.com/@makabera?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SL2_a-pJoN4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA",
     "track_pending": true
    },
    {
@@ -149222,130 +149444,38 @@
    },
    {
     "shot": "refinery",
-    "shows": "A black and white photo of smoke billowing from a factory",
-    "file": "unsplash:2hXsUlFkve4",
-    "page": "https://unsplash.com/photos/a-black-and-white-photo-of-smoke-billowing-from-a-factory-2hXsUlFkve4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1680970422424-f63d2355adb3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1680970422424-f63d2355adb3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Industrial refinery with smoking stacks under a cloudy sky",
+    "file": "unsplash:0w3nOe1j29I",
+    "page": "https://unsplash.com/photos/industrial-refinery-with-smoking-stacks-under-a-cloudy-sky-0w3nOe1j29I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1768564206500-5cddb1fea679?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1768564206500-5cddb1fea679?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1200,
-     1800
+     2400,
+     1349
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Danny Burke on Unsplash",
+    "credit": "Photo by Barnaby on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Danny Burke",
-    "year": 2023,
+    "author": "Barnaby",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@djburkephotography?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/2hXsUlFkve4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww",
+    "author_url": "https://unsplash.com/@bfenton_photo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0w3nOe1j29I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww",
     "track_pending": true
    },
    {
-    "shot": "pumpjack-sunset",
-    "shows": "Pumpjacks on Lost Hills Oil Field in California on Route 46 at sunset. Almost all of the pumps shown on this picture were busy when I took the picture.",
-    "file": "File:PumpjacksSundown.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:PumpjacksSundown.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/PumpjacksSundown.JPG/1920px-PumpjacksSundown.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/PumpjacksSundown.JPG/500px-PumpjacksSundown.JPG",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Arne Hückelheim, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Arne Hückelheim",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-pipeline",
-    "shows": "Gas pipe bridge",
-    "file": "File:Gas pipe bridge.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gas_pipe_bridge.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gas_pipe_bridge.jpg/1920px-Gas_pipe_bridge.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Gas_pipe_bridge.jpg/500px-Gas_pipe_bridge.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Szombat78, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Szombat78",
-    "year": 2021,
-    "how": "catalog"
-   },
-   {
-    "shot": "lng-carrier",
-    "shows": "Shahamah LNG carrier",
-    "file": "File:Shahamah LNG carrier.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shahamah_LNG_carrier.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Shahamah_LNG_carrier.jpg/1920px-Shahamah_LNG_carrier.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Shahamah_LNG_carrier.jpg/500px-Shahamah_LNG_carrier.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "青空白帆, CC BY 2.1 jp, via Wikimedia Commons",
-    "licence": "CC BY 2.1 jp",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.1/jp/deed.en",
-    "author": "青空白帆",
-    "year": 2007,
-    "how": "catalog"
-   },
-   {
-    "shot": "fuel-tanker-truck",
-    "shows": "Side View of a Shell Fuel Tanker in Capioví, Misiones, Argentina",
-    "file": "File:Side View of a Shell Fuel Tanker in Capioví, Misiones, Argentina.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Side_View_of_a_Shell_Fuel_Tanker_in_Capiov%C3%AD,_Misiones,_Argentina.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Side_View_of_a_Shell_Fuel_Tanker_in_Capiov%C3%AD%2C_Misiones%2C_Argentina.jpg/1920px-Side_View_of_a_Shell_Fuel_Tanker_in_Capiov%C3%AD%2C_Misiones%2C_Argentina.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Side_View_of_a_Shell_Fuel_Tanker_in_Capiov%C3%AD%2C_Misiones%2C_Argentina.jpg/500px-Side_View_of_a_Shell_Fuel_Tanker_in_Capiov%C3%AD%2C_Misiones%2C_Argentina.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Horacio Cambeiro, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Horacio Cambeiro",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
     "shot": "gas-station",
-    "shows": "A gas pump is connected to a car at a gas station",
-    "file": "unsplash:H4GGjhkhwF0",
-    "page": "https://unsplash.com/photos/a-gas-pump-is-connected-to-a-car-at-a-gas-station-H4GGjhkhwF0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Circle gasoline station",
+    "file": "unsplash:UXr9V6SZF-4",
+    "page": "https://unsplash.com/photos/circle-gasoline-station-UXr9V6SZF-4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1570838562484-e873ff08d81f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1570838562484-e873ff08d81f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2000,
      1500
@@ -149354,63 +149484,175 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by engin akyurt on Unsplash",
+    "credit": "Photo by Diego Carneiro on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "engin akyurt",
-    "year": 2024,
+    "author": "Diego Carneiro",
+    "year": 2019,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/H4GGjhkhwF0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA",
+    "author_url": "https://unsplash.com/@diegocarneiro?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/UXr9V6SZF-4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA",
     "track_pending": true
    },
    {
-    "shot": "offshore-platform",
-    "shows": "Oil Platform Crew Transfer",
-    "file": "File:Oil Platform Crew Transfer.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oil_Platform_Crew_Transfer.jpg/1920px-Oil_Platform_Crew_Transfer.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Oil_Platform_Crew_Transfer.jpg/500px-Oil_Platform_Crew_Transfer.jpg",
+    "shot": "oil",
+    "shows": "Deepwater Horizon oil spill - May 24, 2010",
+    "file": "File:Deepwater Horizon oil spill - May 24, 2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Deepwater_Horizon_oil_spill_-_May_24,_2010.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deepwater_Horizon_oil_spill_-_May_24%2C_2010.jpg/1920px-Deepwater_Horizon_oil_spill_-_May_24%2C_2010.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Deepwater_Horizon_oil_spill_-_May_24%2C_2010.jpg/500px-Deepwater_Horizon_oil_spill_-_May_24%2C_2010.jpg",
     "size": [
      1920,
-     1440
+     1476
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "GuavaTrain, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "GuavaTrain",
-    "year": 2024,
+    "credit": "NASA / GSFC , MODIS Rapid Response, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NASA / GSFC , MODIS Rapid Response",
+    "year": 2010,
     "how": "catalog"
    },
    {
-    "shot": "natural-gas-plant",
-    "shows": "Solohiv natural gas plant - fragment",
-    "file": "File:Solohiv natural gas plant - fragment.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Solohiv_natural_gas_plant_-_fragment.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Solohiv_natural_gas_plant_-_fragment.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Solohiv_natural_gas_plant_-_fragment.jpg/500px-Solohiv_natural_gas_plant_-_fragment.jpg",
+    "shot": "gas",
+    "shows": "A gas pump next to a brick wall",
+    "file": "unsplash:lBP2muAsD94",
+    "page": "https://unsplash.com/photos/a-gas-pump-next-to-a-brick-wall-lBP2muAsD94?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1635627026254-b652e62d1d07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdhc3xlbnwxfHx8fDE3OTQ2MTE2MDl8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1635627026254-b652e62d1d07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdhc3xlbnwxfHx8fDE3OTQ2MTE2MDl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "ReAl, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "ReAl",
-    "year": 2014,
-    "how": "catalog"
+    "credit": "Photo by Dawn McDonald on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dawn McDonald",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dpreacherdawn?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lBP2muAsD94/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdhc3xlbnwxfHx8fDE3OTQ2MTE2MDl8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "fuel",
+    "shows": "Empty gas station near empty road facing snow capped mountain at daytime",
+    "file": "unsplash:QfBAsUzsmgk",
+    "page": "https://unsplash.com/photos/empty-gas-station-near-empty-road-facing-snow-capped-mountain-at-daytime-QfBAsUzsmgk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1489596162121-4a8e544d6de0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=2100&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1489596162121-4a8e544d6de0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2100,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Khamkéo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Khamkéo",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mahkeo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/QfBAsUzsmgk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "power",
+    "shows": "A person's arm raised with a clenched fist against a plain light background",
+    "file": "unsplash:h4elZPxUXLU",
+    "page": "https://unsplash.com/photos/clenched-fist-on-light-background-h4elZPxUXLU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1591045211820-2fe94117fe18?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHBvd2VyfGVufDF8fHx8MTc5NDYxMTY2MXww&ixlib=rb-4.1.0&w=2316&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1591045211820-2fe94117fe18?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHBvd2VyfGVufDF8fHx8MTc5NDYxMTY2MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2316,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Clay Banks on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Clay Banks",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@claybanks?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/h4elZPxUXLU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHBvd2VyfGVufDF8fHx8MTc5NDYxMTY2MXww",
+    "track_pending": true
+   },
+   {
+    "shot": "drilling",
+    "shows": "Man drilling on a wooden plank using a power drill",
+    "file": "unsplash:eZaKj3xAzTE",
+    "page": "https://unsplash.com/photos/man-drilling-on-a-wooden-plank-using-a-power-drill-eZaKj3xAzTE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1567507145544-da3fe1b4f8f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1567507145544-da3fe1b4f8f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Simone Impei on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Simone Impei",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@frizz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/eZaKj3xAzTE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww",
+    "track_pending": true
+   },
+   {
+    "shot": "lng",
+    "shows": "Large lng tanks on a cargo ship",
+    "file": "unsplash:Ou2pf_Nvba4",
+    "page": "https://unsplash.com/photos/large-lng-tanks-on-a-cargo-ship-Ou2pf_Nvba4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1784914179849-8f96de95b2fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1784914179849-8f96de95b2fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Julia Taubitz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Julia Taubitz",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@justmejuliee?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Ou2pf_Nvba4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA",
+    "track_pending": true
    },
    {
     "shot": "oil-rig",
@@ -149440,62 +149682,39 @@
     "track_pending": true
    },
    {
-    "shot": "refinery",
-    "shows": "A factory with pipes and a sky background",
-    "file": "unsplash:vOtSZd_8Af4",
-    "page": "https://unsplash.com/photos/a-factory-with-pipes-and-a-sky-background-vOtSZd_8Af4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1678984239420-43cdc183bce6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1678984239420-43cdc183bce6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "gas-station",
+    "shows": "Gasoline station during nighttime",
+    "file": "unsplash:lP1RhcNrENM",
+    "page": "https://unsplash.com/photos/gasoline-station-during-nighttime-lP1RhcNrENM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1487803556724-cb9f0b8151d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1487803556724-cb9f0b8151d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2250,
-     1500
+     1200,
+     1680
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Jakub Pabis on Unsplash",
+    "credit": "Photo by Khamkéo on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Jakub Pabis",
-    "year": 2023,
+    "author": "Khamkéo",
+    "year": 2017,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jakubpabis?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/vOtSZd_8Af4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww",
+    "author_url": "https://unsplash.com/@mahkeo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lP1RhcNrENM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA",
     "track_pending": true
    },
    {
-    "shot": "pumpjack-sunset",
-    "shows": "Find the Oilwell - Flickr - FreeWine",
-    "file": "File:Find the Oilwell - Flickr - FreeWine.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Find_the_Oilwell_-_Flickr_-_FreeWine.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Find_the_Oilwell_-_Flickr_-_FreeWine.jpg/1920px-Find_the_Oilwell_-_Flickr_-_FreeWine.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Find_the_Oilwell_-_Flickr_-_FreeWine.jpg/500px-Find_the_Oilwell_-_Flickr_-_FreeWine.jpg",
-    "size": [
-     1920,
-     1442
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Thomas & Dianne Jones, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Thomas & Dianne Jones",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-pipeline",
-    "shows": "A large elk standing on top of a grass covered field",
-    "file": "unsplash:iX1hzmdL0E4",
-    "page": "https://unsplash.com/photos/a-large-elk-standing-on-top-of-a-grass-covered-field-iX1hzmdL0E4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1711669326598-1edabde24845?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1711669326598-1edabde24845?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "oil",
+    "shows": "Oil droplets floating in water against a warm amber and dark background",
+    "file": "unsplash:NttQeISxYko",
+    "page": "https://unsplash.com/photos/oil-droplets-in-amber-water-NttQeISxYko?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1626554873526-89b2c51ba12d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fG9pbHxlbnwxfHx8fDE3OTQ2MTE1ODZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1626554873526-89b2c51ba12d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fG9pbHxlbnwxfHx8fDE3OTQ2MTE1ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
      1800
@@ -149504,193 +149723,20 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Lianhao Qu on Unsplash",
+    "credit": "Photo by Pawel Czerwinski on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Lianhao Qu",
-    "year": 2024,
+    "author": "Pawel Czerwinski",
+    "year": 2021,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@lianhao?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/iX1hzmdL0E4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHBpcGVsaW5lfGVufDF8fHx8MTc5Mzg4NDMzOHww",
-    "track_pending": true
-   },
-   {
-    "shot": "lng-carrier",
-    "shows": "02 LNG tanker, GULF ENERGY - IMO",
-    "file": "File:2023-05-20 02 LNG tanker, GULF ENERGY - IMO 7390143.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2023-05-20_02_LNG_tanker,_GULF_ENERGY_-_IMO_7390143.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2023-05-20_02_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg/1920px-2023-05-20_02_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/2023-05-20_02_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg/500px-2023-05-20_02_LNG_tanker%2C_GULF_ENERGY_-_IMO_7390143.jpg",
-    "size": [
-     1920,
-     486
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Gordon Leggett, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Gordon Leggett",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "fuel-tanker-truck",
-    "shows": "Isuzu FVM Fuel Tanker Truck 2017",
-    "file": "File:Isuzu FVM Fuel Tanker Truck 2017.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Isuzu_FVM_Fuel_Tanker_Truck_2017.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Isuzu_FVM_Fuel_Tanker_Truck_2017.jpg/1920px-Isuzu_FVM_Fuel_Tanker_Truck_2017.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Isuzu_FVM_Fuel_Tanker_Truck_2017.jpg/500px-Isuzu_FVM_Fuel_Tanker_Truck_2017.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Captainmorlypogi1959, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Captainmorlypogi1959",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "gas-station",
-    "shows": "A row of gas pumps filled with gas",
-    "file": "unsplash:nipgFe8mWB8",
-    "page": "https://unsplash.com/photos/a-row-of-gas-pumps-filled-with-gas-nipgFe8mWB8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1654334036171-e01e52b2ce8e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=1468&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1654334036171-e01e52b2ce8e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1468,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by engin akyurt on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "engin akyurt",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/nipgFe8mWB8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "offshore-platform",
-    "shows": "Holstein at Dusk",
-    "file": "File:Holstein at Dusk.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Holstein_at_Dusk.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Holstein_at_Dusk.jpg/1920px-Holstein_at_Dusk.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Holstein_at_Dusk.jpg/500px-Holstein_at_Dusk.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "GuavaTrain, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "GuavaTrain",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "natural-gas-plant",
-    "shows": "32 Coleman natural gas plant of Devon Energy, Morrison Petroleum and NorthStar Energy Services",
-    "file": "File:32 Coleman natural gas plant of Devon Energy, Morrison Petroleum and NorthStar Energy Services.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:32_Coleman_natural_gas_plant_of_Devon_Energy,_Morrison_Petroleum_and_NorthStar_Energy_Services.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/32_Coleman_natural_gas_plant_of_Devon_Energy%2C_Morrison_Petroleum_and_NorthStar_Energy_Services.jpg/1920px-32_Coleman_natural_gas_plant_of_Devon_Energy%2C_Morrison_Petroleum_and_NorthStar_Energy_Services.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/32_Coleman_natural_gas_plant_of_Devon_Energy%2C_Morrison_Petroleum_and_NorthStar_Energy_Services.jpg/500px-32_Coleman_natural_gas_plant_of_Devon_Energy%2C_Morrison_Petroleum_and_NorthStar_Energy_Services.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Marek Ślusarczyk ( Tupungato ) Photo portfolio, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Marek Ślusarczyk ( Tupungato ) Photo portfolio",
-    "year": 2007,
-    "how": "catalog"
-   },
-   {
-    "shot": "oil-rig",
-    "shows": "Vehicle near tower",
-    "file": "unsplash:MVA-zlTQdSE",
-    "page": "https://unsplash.com/photos/vehicle-near-tower-MVA-zlTQdSE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1562237553-36ad661d6f2c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG9pbCUyMHJpZ3xlbnwxfHx8fDE3OTM4ODQzMzR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1562237553-36ad661d6f2c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG9pbCUyMHJpZ3xlbnwxfHx8fDE3OTM4ODQzMzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by WORKSITE Ltd. on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "WORKSITE Ltd.",
-    "year": 2019,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@worksite?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/MVA-zlTQdSE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG9pbCUyMHJpZ3xlbnwxfHx8fDE3OTM4ODQzMzR8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "refinery",
-    "shows": "A large industrial plant with pipes and pipes",
-    "file": "unsplash:TEG-70TAgf4",
-    "page": "https://unsplash.com/photos/a-large-industrial-plant-with-pipes-and-pipes-TEG-70TAgf4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1678984240126-70bcddd7a228?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1678984240126-70bcddd7a228?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Jakub Pabis on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Jakub Pabis",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jakubpabis?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/TEG-70TAgf4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww",
+    "author_url": "https://unsplash.com/@pawel_czerwinski?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NttQeISxYko/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fG9pbHxlbnwxfHx8fDE3OTQ2MTE1ODZ8MA",
     "track_pending": true
    }
   ],
-  "checked": "2026-11-12"
+  "checked": "2026-11-13"
  },
  "sector-utilities": {
   "name": "Utilities sector",
