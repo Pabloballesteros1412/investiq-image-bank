@@ -417,7 +417,7 @@
    "central bank",
    "us dollar",
    "capitol hill",
-   "washington monument",
+   "calculator and money",
    "bank building columns",
    "money printing",
    "mortgage",
@@ -1212,7 +1212,7 @@
    "smartphone app",
    "tech office",
    "server",
-   "cloud"
+   "fiber optic cables"
   ]},
   {"id": "sector-health", "kind": "sector", "name": "Health care sector", "gics": "Health Care", "aliases": ["health care"], "shots": [
    {"id": "hospital", "q": "hospital", "must": ["hospital", "medical center", "medical centre"], "exclude": ["File:Ellis Island hospital window mural (01897).jpg"], "scene": "hospital"},
