@@ -179422,8 +179422,8 @@
     "track": "https://api.unsplash.com/photos/iNEVt0gLjSM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww"
    }
   ],
-  "checked": "2026-11-05",
-  "target": 50
+  "target": 50,
+  "error": "ConnectionResetError: [Errno 104] Connection reset by peer"
  },
  "consumer": {
   "name": "Consumer spending & retail",
@@ -179692,8 +179692,8 @@
     "track": "https://api.unsplash.com/photos/clYlmCaQbzY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Zm9vZCUyMGRlbGl2ZXJ5fGVufDF8fHx8MTc5MzkxMzA0M3ww"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "target": 50,
+  "error": "RuntimeError: www.loc.gov: HTTP 525 error code: 525\n"
  },
  "banks": {
   "name": "Banks & the financial system",
@@ -179706,40 +179706,43 @@
    "regional banks",
    "credit"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "bank",
-    "shows": "Children playing at sunset on a Mekong bank in Si Phan Don",
-    "file": "File:Children playing at sunset on a Mekong bank in Si Phan Don.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg/1920px-Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg/500px-Children_playing_at_sunset_on_a_Mekong_bank_in_Si_Phan_Don.jpg",
+    "shows": "An urban canal surrounded by residential buildings and green vegetation, with a large pile of garbage and construction debris dumped along the riverbank.",
+    "file": "wordpress:257598",
+    "page": "https://wordpress.org/photos/photo/5606af3bc0/",
+    "url": "https://pd.w.org/2026/11/5606af3bc08001ac1.83697017-1536x2048.jpg",
+    "preview": "https://pd.w.org/2026/11/5606af3bc08001ac1.83697017-768x1024.jpg",
     "size": [
-     1920,
-     1280
+     1536,
+     2048
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Basile Morin",
-    "year": 2017,
-    "how": "catalog"
+    "credit": "Photo by Fozle Rabbi on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Fozle Rabbi",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/fozlerabbi48/"
    },
    {
     "shot": "bank-building",
-    "shows": "Lüdinghausen, Berenbrock, Dortmund-Ems-Kanal (an der Kreisstraße 23) -- 2015 -- 4668-70",
-    "file": "File:Lüdinghausen, Berenbrock, Dortmund-Ems-Kanal (an der Kreisstraße 23) -- 2015 -- 4668-70.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:L%C3%BCdinghausen,_Berenbrock,_Dortmund-Ems-Kanal_(an_der_Kreisstra%C3%9Fe_23)_--_2015_--_4668-70.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/L%C3%BCdinghausen%2C_Berenbrock%2C_Dortmund-Ems-Kanal_%28an_der_Kreisstra%C3%9Fe_23%29_--_2015_--_4668-70.jpg/1920px-L%C3%BCdinghausen%2C_Berenbrock%2C_Dortmund-Ems-Kanal_%28an_der_Kreisstra%C3%9Fe_23%29_--_2015_--_4668-70.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/L%C3%BCdinghausen%2C_Berenbrock%2C_Dortmund-Ems-Kanal_%28an_der_Kreisstra%C3%9Fe_23%29_--_2015_--_4668-70.jpg/500px-L%C3%BCdinghausen%2C_Berenbrock%2C_Dortmund-Ems-Kanal_%28an_der_Kreisstra%C3%9Fe_23%29_--_2015_--_4668-70.jpg",
+    "shows": "Seattle (WA, USA), HomeStreet Bank Headquarters -- 2022 -- 1454",
+    "file": "File:Seattle (WA, USA), HomeStreet Bank Headquarters -- 2022 -- 1454.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg/1920px-Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg/500px-Seattle_%28WA%2C_USA%29%2C_HomeStreet_Bank_Headquarters_--_2022_--_1454.jpg",
     "size": [
      1920,
-     1080
+     1280
     ],
     "focus": [
      0.5,
@@ -179750,7 +179753,7 @@
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Dietmar Rabich",
-    "year": 2015,
+    "year": 2022,
     "how": "catalog"
    },
    {
@@ -179856,11 +179859,11 @@
    },
    {
     "shot": "banking-app",
-    "shows": "A woman holding a cell phone in her hand",
-    "file": "unsplash:9XrefmwkHCs",
-    "page": "https://unsplash.com/photos/a-woman-holding-a-cell-phone-in-her-hand-9XrefmwkHCs?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1681826291722-70bd7e9e6fc3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1681826291722-70bd7e9e6fc3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A man holding a cell phone in front of a keyboard",
+    "file": "unsplash:_EiTfumwmaU",
+    "page": "https://unsplash.com/photos/a-man-holding-a-cell-phone-in-front-of-a-keyboard-_EiTfumwmaU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1681826292838-c37fbd22263a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1681826292838-c37fbd22263a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2400,
      1350
@@ -179878,7 +179881,7 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@atlanticmoney?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/9XrefmwkHCs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA"
+    "track": "https://api.unsplash.com/photos/_EiTfumwmaU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA"
    },
    {
     "shot": "counting-money",
@@ -179908,11 +179911,57 @@
    },
    {
     "shot": "bank-branch",
-    "shows": "A Caixa Geral de Depósitos bank entrance with metal railings and a tree",
-    "file": "unsplash:F_NEaxKkQSE",
-    "page": "https://unsplash.com/photos/caixa-geral-de-depositos-bank-entrance-F_NEaxKkQSE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1786618315979-ce020c4e0516?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGJhbmslMjBicmFuY2h8ZW58MXx8fHwxNzkzOTEzMDUzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1786618315979-ce020c4e0516?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGJhbmslMjBicmFuY2h8ZW58MXx8fHwxNzkzOTEzMDUzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Standard Bank Branch in Cape Town",
+    "file": "File:Standard Bank Branch in Cape Town.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Standard_Bank_Branch_in_Cape_Town.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Standard_Bank_Branch_in_Cape_Town.jpg/1920px-Standard_Bank_Branch_in_Cape_Town.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Standard_Bank_Branch_in_Cape_Town.jpg/500px-Standard_Bank_Branch_in_Cape_Town.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Husskeyy, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Husskeyy",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "cash",
+    "shows": "Cash betaalautomaat bij zelfscankassa 01",
+    "file": "File:Cash betaalautomaat bij zelfscankassa 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cash_betaalautomaat_bij_zelfscankassa_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cash_betaalautomaat_bij_zelfscankassa_01.jpg/1280px-Cash_betaalautomaat_bij_zelfscankassa_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cash_betaalautomaat_bij_zelfscankassa_01.jpg/500px-Cash_betaalautomaat_bij_zelfscankassa_01.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Agaath, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Agaath",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "bank-sign",
+    "shows": "A bank sign lit up in the dark",
+    "file": "unsplash:UENYI2DL1RA",
+    "page": "https://unsplash.com/photos/a-bank-sign-lit-up-in-the-dark-UENYI2DL1RA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -179921,43 +179970,1006 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Timur Seyfelmlyukov on Unsplash",
+    "credit": "Photo by POURIA 🦋 on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Timur Seyfelmlyukov",
-    "year": 2026,
+    "author": "POURIA 🦋",
+    "year": 2023,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@timurse?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/F_NEaxKkQSE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGJhbmslMjBicmFuY2h8ZW58MXx8fHwxNzkzOTEzMDUzfDA"
+    "author_url": "https://unsplash.com/@poeti8?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/UENYI2DL1RA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA"
    },
    {
-    "shot": "cash",
-    "shows": "Antique cash register in a cafe, Darjeeling",
-    "file": "File:Antique cash register in a cafe, Darjeeling.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Antique_cash_register_in_a_cafe,_Darjeeling.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Antique_cash_register_in_a_cafe%2C_Darjeeling.jpg/1920px-Antique_cash_register_in_a_cafe%2C_Darjeeling.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Antique_cash_register_in_a_cafe%2C_Darjeeling.jpg/500px-Antique_cash_register_in_a_cafe%2C_Darjeeling.jpg",
+    "shot": "bank-interior",
+    "shows": "Winona Savings Bank interior 01",
+    "file": "File:Winona Savings Bank interior 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Winona_Savings_Bank_interior_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Winona_Savings_Bank_interior_01.jpg/1920px-Winona_Savings_Bank_interior_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Winona_Savings_Bank_interior_01.jpg/500px-Winona_Savings_Bank_interior_01.jpg",
     "size": [
      1920,
-     2050
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Subhrajyoti07, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Subhrajyoti07",
+    "author": "Farragutful",
+    "year": 2024,
+    "how": "catalog"
+   },
+   {
+    "shot": "banking",
+    "shows": "Barclays Bank, West Kirby",
+    "file": "File:Barclays Bank, West Kirby.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Barclays_Bank,_West_Kirby.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Barclays_Bank%2C_West_Kirby.jpg/1920px-Barclays_Bank%2C_West_Kirby.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Barclays_Bank%2C_West_Kirby.jpg/500px-Barclays_Bank%2C_West_Kirby.jpg",
+    "size": [
+     1920,
+     1539
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Rodhullandemu, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Rodhullandemu",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "money",
+    "shows": "Money from computer",
+    "file": "File:Money from computer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Money_from_computer.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Money_from_computer.jpg/1920px-Money_from_computer.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Money_from_computer.jpg/500px-Money_from_computer.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Stevepb, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Stevepb",
     "year": 2017,
     "how": "catalog"
+   },
+   {
+    "shot": "credit-cards",
+    "shows": "A woman sitting at a table looking at her cell phone",
+    "file": "unsplash:1JnN9QhmTGU",
+    "page": "https://unsplash.com/photos/a-woman-sitting-at-a-table-looking-at-her-cell-phone-1JnN9QhmTGU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1713947506242-8fcae733d158?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y3JlZGl0JTIwY2FyZHN8ZW58MXx8fHwxNzkzODc3OTk5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1713947506242-8fcae733d158?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y3JlZGl0JTIwY2FyZHN8ZW58MXx8fHwxNzkzODc3OTk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vitaly Gariev on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vitaly Gariev",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@silverkblack?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/1JnN9QhmTGU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y3JlZGl0JTIwY2FyZHN8ZW58MXx8fHwxNzkzODc3OTk5fDA"
+   },
+   {
+    "shot": "financial-district",
+    "shows": "Water St Hanover Sq Old Slip td ( ) 06 - 10 Hanover Square",
+    "file": "File:Water St Hanover Sq Old Slip td (2018-08-09) 06 - 10 Hanover Square.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Water_St_Hanover_Sq_Old_Slip_td_(2018-08-09)_06_-_10_Hanover_Square.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Water_St_Hanover_Sq_Old_Slip_td_%282018-08-09%29_06_-_10_Hanover_Square.jpg/1280px-Water_St_Hanover_Sq_Old_Slip_td_%282018-08-09%29_06_-_10_Hanover_Square.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Water_St_Hanover_Sq_Old_Slip_td_%282018-08-09%29_06_-_10_Hanover_Square.jpg/500px-Water_St_Hanover_Sq_Old_Slip_td_%282018-08-09%29_06_-_10_Hanover_Square.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tdorante10",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "safe-deposit-box",
+    "shows": "Safe deposit box in Japan",
+    "file": "File:Safe deposit box in Japan 2025-01-15.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Safe_deposit_box_in_Japan_2025-01-15.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Safe_deposit_box_in_Japan_2025-01-15.jpg/1920px-Safe_deposit_box_in_Japan_2025-01-15.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Safe_deposit_box_in_Japan_2025-01-15.jpg/500px-Safe_deposit_box_in_Japan_2025-01-15.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Asanagi, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Asanagi",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "bank-teller",
+    "shows": "SNS Bank automatic teller machine, Assen 01",
+    "file": "File:SNS Bank automatic teller machine, Assen (2019) 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SNS_Bank_automatic_teller_machine,_Assen_(2019)_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SNS_Bank_automatic_teller_machine%2C_Assen_%282019%29_01.jpg/1280px-SNS_Bank_automatic_teller_machine%2C_Assen_%282019%29_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SNS_Bank_automatic_teller_machine%2C_Assen_%282019%29_01.jpg/500px-SNS_Bank_automatic_teller_machine%2C_Assen_%282019%29_01.jpg",
+    "size": [
+     1280,
+     2276
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 20:35, 2 June 2019 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 20:35, 2 June 2019 (UTC)",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "wallet",
+    "shows": "Hands holding empty wallet and phone",
+    "file": "unsplash:K05Udh2LhFA",
+    "page": "https://unsplash.com/photos/hands-holding-empty-wallet-and-phone-K05Udh2LhFA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1614260938313-a7fc1a7ad0d2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Emil Kalibradov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Emil Kalibradov",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@emkal?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/K05Udh2LhFA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww"
+   },
+   {
+    "shot": "bank",
+    "shows": "River bank of Don Khon with stilt wooden houses at golden hour from Don Det Laos",
+    "file": "File:River bank of Don Khon with stilt wooden houses at golden hour from Don Det Laos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg/1920px-River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg/500px-River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Basile Morin",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "bank-building",
+    "shows": "A bank building with signage and a bare tree",
+    "file": "unsplash:dkIZFCw61YA",
+    "page": "https://unsplash.com/photos/a-bank-building-with-signage-and-a-bare-tree-dkIZFCw61YA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1770359718280-817b01057e02?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1770359718280-817b01057e02?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by MChe Lee on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "MChe Lee",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mclee?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dkIZFCw61YA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA"
+   },
+   {
+    "shot": "credit-card",
+    "shows": "Person holding credit card swipe machine",
+    "file": "unsplash:-JJg90OAnWI",
+    "page": "https://unsplash.com/photos/person-holding-credit-card-swipe-machine--JJg90OAnWI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1556740720-776b84291f8e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1556740720-776b84291f8e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Blake Wisz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Blake Wisz",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@blakewisz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-JJg90OAnWI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA"
+   },
+   {
+    "shot": "atm",
+    "shows": "A person standing in front of a atm machine",
+    "file": "unsplash:fDoNi9IrBTM",
+    "page": "https://unsplash.com/photos/a-person-standing-in-front-of-a-atm-machine-fDoNi9IrBTM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1653752821251-bb0225afd001?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1653752821251-bb0225afd001?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Julian on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Julian",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@julian21?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/fDoNi9IrBTM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA"
+   },
+   {
+    "shot": "banking-app",
+    "shows": "A person holding a smart phone in their hand",
+    "file": "unsplash:j6LFEedJ2FM",
+    "page": "https://unsplash.com/photos/a-person-holding-a-smart-phone-in-their-hand-j6LFEedJ2FM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1681825984459-47ee999da245?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1681825984459-47ee999da245?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Atlantic Money on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Atlantic Money",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@atlanticmoney?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/j6LFEedJ2FM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA"
+   },
+   {
+    "shot": "bank-sign",
+    "shows": "A bank sign on the side of a wooden building",
+    "file": "unsplash:ugb7Q1bmnZg",
+    "page": "https://unsplash.com/photos/a-bank-sign-on-the-side-of-a-wooden-building-ugb7Q1bmnZg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1683283106454-8b1b22ebf9e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=1998&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1683283106454-8b1b22ebf9e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1998,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nikola  Tomašić on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nikola  Tomašić",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@3kolone?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ugb7Q1bmnZg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA"
+   },
+   {
+    "shot": "banking",
+    "shows": "Central Bank of Luxembourg",
+    "file": "File:Central Bank of Luxembourg.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Central_Bank_of_Luxembourg.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Central_Bank_of_Luxembourg.jpg/1920px-Central_Bank_of_Luxembourg.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Central_Bank_of_Luxembourg.jpg/500px-Central_Bank_of_Luxembourg.jpg",
+    "size": [
+     1920,
+     1164
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Krzysztof Golik",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "credit-cards",
+    "shows": "A group of credit cards sitting next to a cell phone",
+    "file": "unsplash:EjAkfNQb46k",
+    "page": "https://unsplash.com/photos/a-group-of-credit-cards-sitting-next-to-a-cell-phone-EjAkfNQb46k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1646992914433-de93d0d06c98?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1646992914433-de93d0d06c98?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by CardMapr.nl on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "CardMapr.nl",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cardmapr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EjAkfNQb46k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww"
+   },
+   {
+    "shot": "financial-district",
+    "shows": "A very tall building with lots of windows",
+    "file": "unsplash:_qnCE2fti4o",
+    "page": "https://unsplash.com/photos/a-very-tall-building-with-lots-of-windows-_qnCE2fti4o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1704668716264-7dff4eb0a545?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5Mzg4MDcwNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1704668716264-7dff4eb0a545?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5Mzg4MDcwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zarif Ali on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zarif Ali",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zarif?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_qnCE2fti4o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5Mzg4MDcwNHww"
+   },
+   {
+    "shot": "wallet",
+    "shows": "Black leather wallet",
+    "file": "unsplash:8WO2s6Yr0Ok",
+    "page": "https://unsplash.com/photos/black-leather-wallet-8WO2s6Yr0Ok?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1579014134953-1580d7f123f3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1579014134953-1580d7f123f3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Emil Kalibradov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Emil Kalibradov",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@emkal?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8WO2s6Yr0Ok/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww"
+   },
+   {
+    "shot": "bank",
+    "shows": "Grayscale photo of man holding paper",
+    "file": "unsplash:VLg5MhJLTds",
+    "page": "https://unsplash.com/photos/grayscale-photo-of-man-holding-paper-VLg5MhJLTds?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1571840615771-acc2e9f42641?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGJhbmt8ZW58MXx8fHwxNzkzOTQxOTk5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1571840615771-acc2e9f42641?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGJhbmt8ZW58MXx8fHwxNzkzOTQxOTk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1477
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Museums Victoria on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Museums Victoria",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@museumsvictoria?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VLg5MhJLTds/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGJhbmt8ZW58MXx8fHwxNzkzOTQxOTk5fDA"
+   },
+   {
+    "shot": "bank-building",
+    "shows": "A large building with a clock on the front of it",
+    "file": "unsplash:hg416HPEoU4",
+    "page": "https://unsplash.com/photos/a-large-building-with-a-clock-on-the-front-of-it-hg416HPEoU4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723534791930-1dfe85c8d96b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723534791930-1dfe85c8d96b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1308
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hg416HPEoU4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA"
+   },
+   {
+    "shot": "credit-card",
+    "shows": "A person holding a credit card in their hand",
+    "file": "unsplash:9Wtaaf0d4No",
+    "page": "https://unsplash.com/photos/a-person-holding-a-credit-card-in-their-hand-9Wtaaf0d4No?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1708423423306-a2a6198f6a3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1708423423306-a2a6198f6a3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jim Chen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jim Chen",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@carrywallet?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9Wtaaf0d4No/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA"
+   },
+   {
+    "shot": "atm",
+    "shows": "A building with a atm sign lit up at night",
+    "file": "unsplash:7Q1lhdgbyNU",
+    "page": "https://unsplash.com/photos/a-building-with-a-atm-sign-lit-up-at-night-7Q1lhdgbyNU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1611605862651-c91b8778ce01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1611605862651-c91b8778ce01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jake Allen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jake Allen",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jakeallenmedia?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/7Q1lhdgbyNU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA"
+   },
+   {
+    "shot": "banking-app",
+    "shows": "A person holding a cell phone with a chart on the screen",
+    "file": "unsplash:i-EZGbJOMKQ",
+    "page": "https://unsplash.com/photos/a-person-holding-a-cell-phone-with-a-chart-on-the-screen-i-EZGbJOMKQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1671459923834-47a0b8ed93f5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGJhbmtpbmclMjBhcHB8ZW58MXx8fHwxNzkzOTQyMDA0fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1671459923834-47a0b8ed93f5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGJhbmtpbmclMjBhcHB8ZW58MXx8fHwxNzkzOTQyMDA0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Denise Chan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Denise Chan",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@elchan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/i-EZGbJOMKQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGJhbmtpbmclMjBhcHB8ZW58MXx8fHwxNzkzOTQyMDA0fDA"
+   },
+   {
+    "shot": "bank-sign",
+    "shows": "ATM Dan Bank and Restoran road signs",
+    "file": "unsplash:KXK1_ldXZ50",
+    "page": "https://unsplash.com/photos/atm-dan-bank-and-restoran-road-signs-KXK1_ldXZ50?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1560144916-c3698cd3b8f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1560144916-c3698cd3b8f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Aviv Rachmadian on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Aviv Rachmadian",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@avivrchmdn?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/KXK1_ldXZ50/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA"
+   },
+   {
+    "shot": "banking",
+    "shows": "Israeli West Bank Barrier",
+    "file": "File:Israeli West Bank Barrier.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Israeli_West_Bank_Barrier.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Israeli_West_Bank_Barrier.jpg/1920px-Israeli_West_Bank_Barrier.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Israeli_West_Bank_Barrier.jpg/500px-Israeli_West_Bank_Barrier.jpg",
+    "size": [
+     1920,
+     1277
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Justin McIntosh, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Justin McIntosh",
+    "year": 2004,
+    "how": "catalog"
+   },
+   {
+    "shot": "credit-cards",
+    "shows": "A hand holding a credit card in front of a computer",
+    "file": "unsplash:SuEDt1yZ5U4",
+    "page": "https://unsplash.com/photos/a-hand-holding-a-credit-card-in-front-of-a-computer-SuEDt1yZ5U4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1649359569078-c445b3c6a116?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1649359569078-c445b3c6a116?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Diego Gennaro on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Diego Gennaro",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@_nnaro_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SuEDt1yZ5U4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww"
+   },
+   {
+    "shot": "wallet",
+    "shows": "Person holding brown leather card wallet",
+    "file": "unsplash:wL8sz3Graj4",
+    "page": "https://unsplash.com/photos/person-holding-brown-leather-card-wallet-wL8sz3Graj4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1614330316567-11d8e572db16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1614330316567-11d8e572db16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Emil Kalibradov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Emil Kalibradov",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@emkal?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/wL8sz3Graj4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww"
+   },
+   {
+    "shot": "bank-building",
+    "shows": "Icici bank building illuminated at night, person walking nearby",
+    "file": "unsplash:RR-lxzolW7c",
+    "page": "https://unsplash.com/photos/icici-bank-building-illuminated-at-night-person-walking-nearby-RR-lxzolW7c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1785220299728-b4e28272616b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1785220299728-b4e28272616b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Adhitya Sibikumar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Adhitya Sibikumar",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@adhitya_2505?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/RR-lxzolW7c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA"
+   },
+   {
+    "shot": "credit-card",
+    "shows": "A person holding a credit card in their hand",
+    "file": "unsplash:kmakbD6Nlhc",
+    "page": "https://unsplash.com/photos/a-person-holding-a-credit-card-in-their-hand-kmakbD6Nlhc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1726057403601-c099f03e7b3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1726057403601-c099f03e7b3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by SumUp on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "SumUp",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sumup?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/kmakbD6Nlhc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA"
+   },
+   {
+    "shot": "atm",
+    "shows": "A atm machine sitting in front of a building",
+    "file": "unsplash:J99OAWLhqHs",
+    "page": "https://unsplash.com/photos/a-atm-machine-sitting-in-front-of-a-building-J99OAWLhqHs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1592694211759-5f929e008cfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1592694211759-5f929e008cfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrew Valdivia on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrew Valdivia",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@donovan_valdivia?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/J99OAWLhqHs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA"
+   },
+   {
+    "shot": "bank-sign",
+    "shows": "The image shows the brightly colored \"b\" logo",
+    "file": "unsplash:Em9aUmGB9Lc",
+    "page": "https://unsplash.com/photos/the-image-shows-the-brightly-colored-b-logo-Em9aUmGB9Lc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1748344115958-edea093cdac6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=2203&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1748344115958-edea093cdac6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2203,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Em9aUmGB9Lc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA"
+   },
+   {
+    "shot": "credit-cards",
+    "shows": "A close up of a credit card",
+    "file": "unsplash:9uxRcupG36I",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-credit-card-9uxRcupG36I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1640545232493-9a9b5c88ede4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1640545232493-9a9b5c88ede4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Андрей Сизов on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Андрей Сизов",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alpridephoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9uxRcupG36I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww"
+   },
+   {
+    "shot": "wallet",
+    "shows": "A man holding a wallet and a watch",
+    "file": "unsplash:JPhVGeY4H7I",
+    "page": "https://unsplash.com/photos/a-man-holding-a-wallet-and-a-watch-JPhVGeY4H7I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1637169797848-12431f1d355c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1637169797848-12431f1d355c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Clay Banks on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Clay Banks",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@claybanks?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JPhVGeY4H7I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww"
+   },
+   {
+    "shot": "credit-card",
+    "shows": "A person is holding a credit card in their hand",
+    "file": "unsplash:XBi0c3PBR14",
+    "page": "https://unsplash.com/photos/a-person-is-holding-a-credit-card-in-their-hand-XBi0c3PBR14?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1726137569807-c0ce211ccbec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1726137569807-c0ce211ccbec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by SumUp on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "SumUp",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sumup?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/XBi0c3PBR14/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA"
+   },
+   {
+    "shot": "atm",
+    "shows": "A man standing in front of a atm machine",
+    "file": "unsplash:Pl9feRmi3qE",
+    "page": "https://unsplash.com/photos/a-man-standing-in-front-of-a-atm-machine-Pl9feRmi3qE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1722842654091-74783b8c0887?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1722842654091-74783b8c0887?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1660
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alexandros Giannakakis on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alexandros Giannakakis",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alegi__?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Pl9feRmi3qE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA"
+   },
+   {
+    "shot": "bank-sign",
+    "shows": "Bank of baroda logo on a building's facade",
+    "file": "unsplash:8qekdRp_NFU",
+    "page": "https://unsplash.com/photos/bank-of-baroda-logo-on-a-buildings-facade-8qekdRp_NFU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1748344116137-48d0e11c19e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=2172&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1748344116137-48d0e11c19e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2172,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8qekdRp_NFU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA"
+   },
+   {
+    "shot": "credit-cards",
+    "shows": "A person holding a smart phone and a credit card",
+    "file": "unsplash:9fByQORuvqM",
+    "page": "https://unsplash.com/photos/a-person-holding-a-smart-phone-and-a-credit-card-9fByQORuvqM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1635950340810-2fb374521a7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1635950340810-2fb374521a7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by CardMapr.nl on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "CardMapr.nl",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cardmapr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9fByQORuvqM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww"
+   },
+   {
+    "shot": "wallet",
+    "shows": "Brown leather bifold wallet on white table",
+    "file": "unsplash:LBKDJI8Ernw",
+    "page": "https://unsplash.com/photos/brown-leather-bifold-wallet-on-white-table-LBKDJI8Ernw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1624538000860-24716b9050f2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1624538000860-24716b9050f2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by suraj kumar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "suraj kumar",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@surajjnv?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/LBKDJI8Ernw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww"
+   },
+   {
+    "shot": "credit-card",
+    "shows": "A blue sim card sitting on top of a wooden table",
+    "file": "unsplash:ISCDAxCEbPM",
+    "page": "https://unsplash.com/photos/a-blue-sim-card-sitting-on-top-of-a-wooden-table-ISCDAxCEbPM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1687720106084-d6e235ad226c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1687720106084-d6e235ad226c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1812
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by JERO SenneGs on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "JERO SenneGs",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jerosennegs?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ISCDAxCEbPM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "checked": "2026-11-13"
  },
  "investing": {
   "name": "Investing basics, retirement & index funds",
@@ -179972,29 +180984,32 @@
    "compound interest",
    "401k"
   ],
+  "target": 50,
   "photos": [
    {
     "shot": "stock-market",
-    "shows": "European Stock Market concept image",
-    "file": "File:European Stock Market concept image.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:European_Stock_Market_concept_image.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/European_Stock_Market_concept_image.jpg/1920px-European_Stock_Market_concept_image.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/European_Stock_Market_concept_image.jpg/500px-European_Stock_Market_concept_image.jpg",
+    "shows": "The Stock Yards building, the center of a historic livestock-market district in Fort Worth, Texas",
+    "file": "loc:2013650788",
+    "page": "https://www.loc.gov/item/2013650788/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18700:18744/full/1891,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18700:18744/full/500,/0/default.jpg",
     "size": [
-     1920,
-     1280
+     1891,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "forextime.com, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "forextime.com",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "catalog",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
     "shot": "piggy-bank",
@@ -180099,71 +181114,74 @@
    },
    {
     "shot": "investment",
-    "shows": "View of the Union Investment-Skyscraper at a sunny winter day 2013",
-    "file": "File:View of the Union Investment-Skyscraper at a sunny winter day 2013.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:View_of_the_Union_Investment-Skyscraper_at_a_sunny_winter_day_2013.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_Union_Investment-Skyscraper_at_a_sunny_winter_day_2013.jpg/1280px-View_of_the_Union_Investment-Skyscraper_at_a_sunny_winter_day_2013.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/View_of_the_Union_Investment-Skyscraper_at_a_sunny_winter_day_2013.jpg/500px-View_of_the_Union_Investment-Skyscraper_at_a_sunny_winter_day_2013.jpg",
+    "shows": "Investment in Clean Technology Supply Chains",
+    "file": "File:Investment in Clean Technology Supply Chains.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Investment_in_Clean_Technology_Supply_Chains.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Investment_in_Clean_Technology_Supply_Chains.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Investment_in_Clean_Technology_Supply_Chains.png/500px-Investment_in_Clean_Technology_Supply_Chains.png",
     "size": [
-     1280,
-     1920
+     1920,
+     1080
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jürgen Matern, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Jürgen Matern",
-    "year": 2013,
+    "credit": "International Energy Agency, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "International Energy Agency",
+    "year": 2023,
     "how": "catalog"
    },
    {
     "shot": "savings",
-    "shows": "Ambigram tattoo New York Rich Man",
-    "file": "File:Ambigram tattoo New York Rich Man.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ambigram_tattoo_New_York_Rich_Man.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ambigram_tattoo_New_York_Rich_Man.jpg/1920px-Ambigram_tattoo_New_York_Rich_Man.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ambigram_tattoo_New_York_Rich_Man.jpg/500px-Ambigram_tattoo_New_York_Rich_Man.jpg",
+    "shows": "A man holding a jar with a savings label on it",
+    "file": "unsplash:0ITvgXAU5Oo",
+    "page": "https://unsplash.com/photos/a-man-holding-a-jar-with-a-savings-label-on-it-0ITvgXAU5Oo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1633158829556-6ea20ad39b4f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNhdmluZ3N8ZW58MXx8fHwxNzkzOTQ1NjEyfDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1633158829556-6ea20ad39b4f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNhdmluZ3N8ZW58MXx8fHwxNzkzOTQ1NjEyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1920
+     2249,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Basile Morin",
-    "year": 2020,
-    "how": "catalog"
+    "credit": "Photo by Towfiqu barbhuiya on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Towfiqu barbhuiya",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@towfiqu999999?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0ITvgXAU5Oo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNhdmluZ3N8ZW58MXx8fHwxNzkzOTQ1NjEyfDA"
    },
    {
     "shot": "financial-planning",
-    "shows": "Wenzhou financial bureau planning",
-    "file": "File:Wenzhou financial bureau planning (2001).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wenzhou_financial_bureau_planning_(2001).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wenzhou_financial_bureau_planning_%282001%29.jpg/1920px-Wenzhou_financial_bureau_planning_%282001%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wenzhou_financial_bureau_planning_%282001%29.jpg/500px-Wenzhou_financial_bureau_planning_%282001%29.jpg",
+    "shows": "Soldiers learn basics of financial planning to achieve goals",
+    "file": "File:Soldiers learn basics of financial planning to achieve goals (4591879).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Soldiers_learn_basics_of_financial_planning_to_achieve_goals_(4591879).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Soldiers_learn_basics_of_financial_planning_to_achieve_goals_%284591879%29.jpg/1920px-Soldiers_learn_basics_of_financial_planning_to_achieve_goals_%284591879%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Soldiers_learn_basics_of_financial_planning_to_achieve_goals_%284591879%29.jpg/500px-Soldiers_learn_basics_of_financial_planning_to_achieve_goals_%284591879%29.jpg",
     "size": [
      1920,
-     1200
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "J stream, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "J stream",
-    "year": 2022,
+    "credit": "U.S. Army photo by William King, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "U.S. Army photo by William King",
+    "year": 2018,
     "how": "catalog"
    },
    {
@@ -180194,11 +181212,57 @@
    },
    {
     "shot": "money-growth",
-    "shows": "Manifest Money and wealth Citrine",
-    "file": "File:Manifest Money and wealth Citrine (23196258320).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Manifest_Money_and_wealth_Citrine_(23196258320).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Manifest_Money_and_wealth_Citrine_%2823196258320%29.jpg/1920px-Manifest_Money_and_wealth_Citrine_%2823196258320%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Manifest_Money_and_wealth_Citrine_%2823196258320%29.jpg/500px-Manifest_Money_and_wealth_Citrine_%2823196258320%29.jpg",
+    "shows": "Beyond Money- Redefining Success in the 21st Century",
+    "file": "File:Beyond Money- Redefining Success in the 21st Century.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Beyond_Money-_Redefining_Success_in_the_21st_Century.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beyond_Money-_Redefining_Success_in_the_21st_Century.jpg/1280px-Beyond_Money-_Redefining_Success_in_the_21st_Century.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Beyond_Money-_Redefining_Success_in_the_21st_Century.jpg/500px-Beyond_Money-_Redefining_Success_in_the_21st_Century.jpg",
+    "size": [
+     1280,
+     2048
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Prokirtigupta, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Prokirtigupta",
+    "year": 2024,
+    "how": "catalog"
+   },
+   {
+    "shot": "investing",
+    "shows": "The Shariati Innovation Adoption model (SIA)",
+    "file": "File:The Shariati Innovation Adoption model (SIA).png",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Shariati_Innovation_Adoption_model_(SIA).png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Shariati_Innovation_Adoption_model_%28SIA%29.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Shariati_Innovation_Adoption_model_%28SIA%29.png/500px-The_Shariati_Innovation_Adoption_model_%28SIA%29.png",
+    "size": [
+     1678,
+     1198
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Seb.von.st-sund, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Seb.von.st-sund",
+    "year": 2010,
+    "how": "catalog"
+   },
+   {
+    "shot": "stock-market-app",
+    "shows": "Wyvern Warrior of the Week- Federico Olimpi",
+    "file": "File:Wyvern Warrior of the Week- Federico Olimpi (7536652).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wyvern_Warrior_of_the_Week-_Federico_Olimpi_(7536652).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wyvern_Warrior_of_the_Week-_Federico_Olimpi_%287536652%29.jpg/1920px-Wyvern_Warrior_of_the_Week-_Federico_Olimpi_%287536652%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wyvern_Warrior_of_the_Week-_Federico_Olimpi_%287536652%29.jpg/500px-Wyvern_Warrior_of_the_Week-_Federico_Olimpi_%287536652%29.jpg",
     "size": [
      1920,
      1280
@@ -180207,17 +181271,1010 @@
      0.5,
      0.5
     ],
-    "credit": "Chris B from auckland, new zealand, public domain, via Wikimedia Commons",
+    "credit": "U.S. Air Force 31FWPA by Senior Airman Jessica Blair, public domain, via Wikimedia Commons",
     "licence": "Public domain",
     "licence_kind": "pd",
     "licence_url": "",
-    "author": "Chris B from auckland, new zealand",
-    "year": 2015,
+    "author": "U.S. Air Force 31FWPA by Senior Airman Jessica Blair",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "stocks",
+    "shows": "A person holding up a cell phone with a stock chart on it",
+    "file": "unsplash:sK-ziQvKGsk",
+    "page": "https://unsplash.com/photos/a-person-holding-up-a-cell-phone-with-a-stock-chart-on-it-sK-ziQvKGsk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1642052502780-8ee67e3bf930?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHN0b2Nrc3xlbnwxfHx8fDE3OTQ1MzkxMTR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1642052502780-8ee67e3bf930?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHN0b2Nrc3xlbnwxfHx8fDE3OTQ1MzkxMTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by PiggyBank on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "PiggyBank",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@piggybank?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sK-ziQvKGsk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHN0b2Nrc3xlbnwxfHx8fDE3OTQ1MzkxMTR8MA"
+   },
+   {
+    "shot": "portfolio",
+    "shows": "Internal page from \"Honys Torres Portfolio 2019\"",
+    "file": "File:Internal page from \"Honys Torres Portfolio 2019\".jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Internal_page_from_%22Honys_Torres_Portfolio_2019%22.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Internal_page_from_%22Honys_Torres_Portfolio_2019%22.jpg/1920px-Internal_page_from_%22Honys_Torres_Portfolio_2019%22.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Internal_page_from_%22Honys_Torres_Portfolio_2019%22.jpg/500px-Internal_page_from_%22Honys_Torres_Portfolio_2019%22.jpg",
+    "size": [
+     1920,
+     1437
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "HonysTorresArt, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "HonysTorresArt",
+    "year": 2026,
+    "how": "catalog"
+   },
+   {
+    "shot": "money-jar",
+    "shows": "Silver round coins on blue round container",
+    "file": "unsplash:SoqG9RWd_FA",
+    "page": "https://unsplash.com/photos/silver-round-coins-on-blue-round-container-SoqG9RWd_FA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1586430156076-4f400aeebef1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1586430156076-4f400aeebef1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nick Fewings on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nick Fewings",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jannerboy62?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SoqG9RWd_FA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA"
+   },
+   {
+    "shot": "savings-jar",
+    "shows": "A woman holding a jar with savings written on it",
+    "file": "unsplash:yIIFNiEKkYI",
+    "page": "https://unsplash.com/photos/a-woman-holding-a-jar-with-savings-written-on-it-yIIFNiEKkYI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1634474588707-de99f09285c0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2F2aW5ncyUyMGphcnxlbnwxfHx8fDE3OTQ1MzkyODF8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1634474588707-de99f09285c0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2F2aW5ncyUyMGphcnxlbnwxfHx8fDE3OTQ1MzkyODF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Towfiqu barbhuiya on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Towfiqu barbhuiya",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@towfiqu999999?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yIIFNiEKkYI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2F2aW5ncyUyMGphcnxlbnwxfHx8fDE3OTQ1MzkyODF8MA"
+   },
+   {
+    "shot": "financial-advisor",
+    "shows": "Julian Gualtieri",
+    "file": "File:Julian Gualtieri.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Julian_Gualtieri.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Julian_Gualtieri.jpg/1920px-Julian_Gualtieri.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Julian_Gualtieri.jpg/500px-Julian_Gualtieri.jpg",
+    "size": [
+     1920,
+     2008
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Editor x45, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Editor x45",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "compound-interest",
+    "shows": "$50 two-year Interest Bearing Note (1864), 5% interest, paid at maturity .",
+    "file": "File:US-$50-IBN-1864-Fr.203.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:US-$50-IBN-1864-Fr.203.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/US-%2450-IBN-1864-Fr.203.jpg/1920px-US-%2450-IBN-1864-Fr.203.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/US-%2450-IBN-1864-Fr.203.jpg/500px-US-%2450-IBN-1864-Fr.203.jpg",
+    "size": [
+     1920,
+     1768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "National Museum of American History, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "National Museum of American History",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "coins-plant",
+    "shows": "Green plant on brown round coins",
+    "file": "unsplash:lZ_4nPFKcV8",
+    "page": "https://unsplash.com/photos/green-plant-on-brown-round-coins-lZ_4nPFKcV8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29pbnMlMjBwbGFudHxlbnwxfHx8fDE3OTQ1MzkzMjl8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29pbnMlMjBwbGFudHxlbnwxfHx8fDE3OTQ1MzkzMjl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by micheile henderson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "micheile henderson",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@micheile?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lZ_4nPFKcV8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29pbnMlMjBwbGFudHxlbnwxfHx8fDE3OTQ1MzkzMjl8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "wealth",
+    "shows": "A bar chart showing increasing wealth over time using US dollar bill textures",
+    "file": "unsplash:PcDGGex9-jA",
+    "page": "https://unsplash.com/photos/wealth-growth-bar-chart-PcDGGex9-jA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1592495989226-03f88104f8cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHdlYWx0aHxlbnwxfHx8fDE3OTQ1MzkzNTV8MA&ixlib=rb-4.1.0&w=2358&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1592495989226-03f88104f8cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHdlYWx0aHxlbnwxfHx8fDE3OTQ1MzkzNTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2358,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Morgan Housel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Morgan Housel",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@morganhousel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PcDGGex9-jA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHdlYWx0aHxlbnwxfHx8fDE3OTQ1MzkzNTV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "piggy-bank",
+    "shows": "A piggy bank and coins",
+    "file": "unsplash:Rel6bBC6AuA",
+    "page": "https://unsplash.com/photos/a-piggy-bank-and-coins-Rel6bBC6AuA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1656049471454-ff3c59812741?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1656049471454-ff3c59812741?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Katie Harp on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Katie Harp",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kharp?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Rel6bBC6AuA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "retirees",
+    "shows": "Man in red jacket standing beside woman in blue jacket",
+    "file": "unsplash:sjor4I5nE7o",
+    "page": "https://unsplash.com/photos/man-in-red-jacket-standing-beside-woman-in-blue-jacket-sjor4I5nE7o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1622579576507-03ebf0968f0f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cmV0aXJlZCUyMGNvdXBsZXxlbnwxfHx8fDE3OTM5MTMwNDh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1622579576507-03ebf0968f0f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cmV0aXJlZCUyMGNvdXBsZXxlbnwxfHx8fDE3OTM5MTMwNDh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Diana Parkhouse on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Diana Parkhouse",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ditakesphotos?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sjor4I5nE7o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cmV0aXJlZCUyMGNvdXBsZXxlbnwxfHx8fDE3OTM5MTMwNDh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-growth",
+    "shows": "A stack of coins sitting on top of a table",
+    "file": "unsplash:blwOTf6fFAk",
+    "page": "https://unsplash.com/photos/a-stack-of-coins-sitting-on-top-of-a-table-blwOTf6fFAk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1700303043287-656327196056?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29pbnMlMjBzdGFja3xlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1700303043287-656327196056?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29pbnMlMjBzdGFja3xlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alexandra Dobrin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alexandra Dobrin",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@_3puncte_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/blwOTf6fFAk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29pbnMlMjBzdGFja3xlbnwxfHx8fDE3OTM5MTMwNTB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "investment",
+    "shows": "Investment Scrabble text",
+    "file": "unsplash:OlSGcrLSYkw",
+    "page": "https://unsplash.com/photos/investment-scrabble-text-OlSGcrLSYkw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1559067096-49ebca3406aa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGludmVzdG1lbnR8ZW58MXx8fHwxNzkzOTQyMDA5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1559067096-49ebca3406aa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGludmVzdG1lbnR8ZW58MXx8fHwxNzkzOTQyMDA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Precondo CA on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Precondo CA",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@precondo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OlSGcrLSYkw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGludmVzdG1lbnR8ZW58MXx8fHwxNzkzOTQyMDA5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "savings",
+    "shows": "Coins falling into a white piggy bank",
+    "file": "unsplash:eE4uRsnNCsI",
+    "page": "https://unsplash.com/photos/coins-falling-into-a-white-piggy-bank-eE4uRsnNCsI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1768839721719-c5ed97c1fd58?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHNhdmluZ3N8ZW58MXx8fHwxNzkzOTQ1NjEyfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1768839721719-c5ed97c1fd58?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHNhdmluZ3N8ZW58MXx8fHwxNzkzOTQ1NjEyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sasun Bughdaryan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sasun Bughdaryan",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sasun1990?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/eE4uRsnNCsI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHNhdmluZ3N8ZW58MXx8fHwxNzkzOTQ1NjEyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "retirement",
+    "shows": "Woman in brown coat sitting on brown wooden bench near white cruise ship during daytime",
+    "file": "unsplash:SPQqQy5OUSo",
+    "page": "https://unsplash.com/photos/woman-in-brown-coat-sitting-on-brown-wooden-bench-near-white-cruise-ship-during-daytime-SPQqQy5OUSo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1624150402111-9a54e5c2c798?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1624150402111-9a54e5c2c798?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Julius Yls on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Julius Yls",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@juliusyls?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SPQqQy5OUSo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "money-jar",
+    "shows": "A glass filled with lots of money sitting on top of a table",
+    "file": "unsplash:jYkAs17X0eE",
+    "page": "https://unsplash.com/photos/a-glass-filled-with-lots-of-money-sitting-on-top-of-a-table-jYkAs17X0eE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1685390864505-2629253671a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1685390864505-2629253671a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by George Tsiolis on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "George Tsiolis",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gtsiolis?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/jYkAs17X0eE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "savings-jar",
+    "shows": "Coins in clear glass jar with house fund sign",
+    "file": "unsplash:G-Aj03ckq0w",
+    "page": "https://unsplash.com/photos/coins-in-clear-glass-jar-with-house-fund-sign-G-Aj03ckq0w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1578091436046-ecd3f4fe6992?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c2F2aW5ncyUyMGphcnxlbnwxfHx8fDE3OTQ1MzkyODF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1578091436046-ecd3f4fe6992?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c2F2aW5ncyUyMGphcnxlbnwxfHx8fDE3OTQ1MzkyODF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sandy Millar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sandy Millar",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sandym10?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/G-Aj03ckq0w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c2F2aW5ncyUyMGphcnxlbnwxfHx8fDE3OTQ1MzkyODF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "compound-interest",
+    "shows": "$10 one-year Interest Bearing Note (1864), 5% interest, paid at maturity .",
+    "file": "File:US-$10-IBN-1864-Fr.196a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:US-$10-IBN-1864-Fr.196a.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/US-%2410-IBN-1864-Fr.196a.jpg/1920px-US-%2410-IBN-1864-Fr.196a.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/US-%2410-IBN-1864-Fr.196a.jpg/500px-US-%2410-IBN-1864-Fr.196a.jpg",
+    "size": [
+     1920,
+     1842
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "National Museum of American History, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "National Museum of American History",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "coins-plant",
+    "shows": "A glass jar filled with coins and a plant",
+    "file": "unsplash:joqWSI9u_XM",
+    "page": "https://unsplash.com/photos/a-glass-jar-filled-with-coins-and-a-plant-joqWSI9u_XM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbnMlMjBwbGFudHxlbnwxfHx8fDE3OTQ1MzkzMjl8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1633158829875-e5316a358c6f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbnMlMjBwbGFudHxlbnwxfHx8fDE3OTQ1MzkzMjl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Towfiqu barbhuiya on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Towfiqu barbhuiya",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@towfiqu999999?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/joqWSI9u_XM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbnMlMjBwbGFudHxlbnwxfHx8fDE3OTQ1MzkzMjl8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "wealth",
+    "shows": "Lucky Diamond Rich face",
+    "file": "File:Lucky Diamond Rich face.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lucky_Diamond_Rich_face.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lucky_Diamond_Rich_face.jpg/1280px-Lucky_Diamond_Rich_face.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lucky_Diamond_Rich_face.jpg/500px-Lucky_Diamond_Rich_face.jpg",
+    "size": [
+     1280,
+     1943
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "TOONMAN_blchin, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "TOONMAN_blchin",
+    "year": 2009,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
+   },
+   {
+    "shot": "piggy-bank",
+    "shows": "Coin bank",
+    "file": "unsplash:5f1RsK-pyZQ",
+    "page": "https://unsplash.com/photos/coin-bank-5f1RsK-pyZQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1561837581-abd854e0ee22?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHBpZ2d5JTIwYmFuayUyMGNvaW5zfGVufDF8fHx8MTc5MzkxMzA0N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1561837581-abd854e0ee22?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHBpZ2d5JTIwYmFuayUyMGNvaW5zfGVufDF8fHx8MTc5MzkxMzA0N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Diane Helentjaris on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Diane Helentjaris",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dhelentjaris?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/5f1RsK-pyZQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHBpZ2d5JTIwYmFuayUyMGNvaW5zfGVufDF8fHx8MTc5MzkxMzA0N3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "retirees",
+    "shows": "Man and woman with white dog walking on dirt road during daytime",
+    "file": "unsplash:JuzLjNh-S6k",
+    "page": "https://unsplash.com/photos/man-and-woman-with-white-dog-walking-on-dirt-road-during-daytime-JuzLjNh-S6k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1622579403278-5483be061960?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHJldGlyZWQlMjBjb3VwbGV8ZW58MXx8fHwxNzkzOTEzMDQ4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1622579403278-5483be061960?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHJldGlyZWQlMjBjb3VwbGV8ZW58MXx8fHwxNzkzOTEzMDQ4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Diana Parkhouse on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Diana Parkhouse",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ditakesphotos?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JuzLjNh-S6k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHJldGlyZWQlMjBjb3VwbGV8ZW58MXx8fHwxNzkzOTEzMDQ4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-growth",
+    "shows": "Stacks of coins increasing in height from left to right",
+    "file": "unsplash:894I850Hyl0",
+    "page": "https://unsplash.com/photos/stacks-of-coins-increasing-in-height-from-left-to-right-894I850Hyl0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1768207450151-30c0bf8e8091?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1768207450151-30c0bf8e8091?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kamil on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kamil",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kamil916?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/894I850Hyl0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "retirement",
+    "shows": "Elderly hands depositing coins into a yellow piggy bank",
+    "file": "unsplash:z3TnzxotdPc",
+    "page": "https://unsplash.com/photos/elderly-hands-depositing-coins-into-a-yellow-piggy-bank-z3TnzxotdPc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1777805866020-e56953302a08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA&ixlib=rb-4.1.0&w=2290&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1777805866020-e56953302a08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2290,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sasun Bughdaryan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sasun Bughdaryan",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sasun1990?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/z3TnzxotdPc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "money-jar",
+    "shows": "Man holding clear glass jar",
+    "file": "unsplash:76HIoI5Ni1E",
+    "page": "https://unsplash.com/photos/man-holding-clear-glass-jar-76HIoI5Ni1E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1537849244241-351b40016963?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1537849244241-351b40016963?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1798
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Melissa Walker Horn on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Melissa Walker Horn",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sugercoatit?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/76HIoI5Ni1E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "savings-jar",
+    "shows": "Wroclaw- Ratusz, wieza",
+    "file": "File:Wroclaw- Ratusz, wieza.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wroclaw-_Ratusz,_wieza.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wroclaw-_Ratusz%2C_wieza.jpg/1280px-Wroclaw-_Ratusz%2C_wieza.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Wroclaw-_Ratusz%2C_wieza.jpg/500px-Wroclaw-_Ratusz%2C_wieza.jpg",
+    "size": [
+     1280,
+     1824
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jar.ciurus, CC BY-SA 3.0 pl, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 pl",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+    "author": "Jar.ciurus",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "coins-plant",
+    "shows": "Green-leafed plant",
+    "file": "unsplash:6YEvDz-cPBE",
+    "page": "https://unsplash.com/photos/green-leafed-plant-6YEvDz-cPBE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1572775146189-b792cd0b76ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNvaW5zJTIwcGxhbnR8ZW58MXx8fHwxNzk0NTM5MzI5fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1572775146189-b792cd0b76ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNvaW5zJTIwcGxhbnR8ZW58MXx8fHwxNzk0NTM5MzI5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by John Cameron on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "John Cameron",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@john_cameron?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6YEvDz-cPBE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNvaW5zJTIwcGxhbnR8ZW58MXx8fHwxNzk0NTM5MzI5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "piggy-bank",
+    "shows": "A piggy bank with colorful eggs",
+    "file": "unsplash:A4CCLJYVflo",
+    "page": "https://unsplash.com/photos/a-piggy-bank-with-colorful-eggs-A4CCLJYVflo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1662144374178-753a74fa28fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1662144374178-753a74fa28fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Umesh Soni on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Umesh Soni",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@umeshsonii?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/A4CCLJYVflo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "retirees",
+    "shows": "Elderly couple smiling together on a couch",
+    "file": "unsplash:-FYWsRxATAE",
+    "page": "https://unsplash.com/photos/elderly-couple-smiling-together-on-a-couch--FYWsRxATAE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1758691031787-90867cb6fb2c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJldGlyZWQlMjBjb3VwbGV8ZW58MXx8fHwxNzkzOTEzMDQ4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1758691031787-90867cb6fb2c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJldGlyZWQlMjBjb3VwbGV8ZW58MXx8fHwxNzkzOTEzMDQ4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vitaly Gariev on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vitaly Gariev",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@silverkblack?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/-FYWsRxATAE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJldGlyZWQlMjBjb3VwbGV8ZW58MXx8fHwxNzkzOTEzMDQ4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-growth",
+    "shows": "Two stacks of gold coins on a dark surface",
+    "file": "unsplash:L9B9GiQHaTo",
+    "page": "https://unsplash.com/photos/two-stacks-of-gold-coins-on-a-dark-surface-L9B9GiQHaTo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1755369394394-685cd2ea3140?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1755369394394-685cd2ea3140?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Anthony Aird on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Anthony Aird",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anthonyaird?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/L9B9GiQHaTo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "retirement",
+    "shows": "Elderly couple looking at bills and phone",
+    "file": "unsplash:_nl1owGBorc",
+    "page": "https://unsplash.com/photos/elderly-couple-looking-at-bills-and-phone-_nl1owGBorc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1758686254493-d73c9c2a3049?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1758686254493-d73c9c2a3049?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vitaly Gariev on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vitaly Gariev",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@silverkblack?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_nl1owGBorc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHJldGlyZW1lbnR8ZW58MXx8fHwxNzkzOTQ1NjE2fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "money-jar",
+    "shows": "Person holding clear glass jar filled with money",
+    "file": "unsplash:J4_4o_HmaQE",
+    "page": "https://unsplash.com/photos/person-holding-clear-glass-jar-filled-with-money-J4_4o_HmaQE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1538388933536-31c33d2703a0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1538388933536-31c33d2703a0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2248,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Melissa Walker Horn on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Melissa Walker Horn",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sugercoatit?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/J4_4o_HmaQE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bW9uZXklMjBqYXJ8ZW58MXx8fHwxNzk0NTM5MjYwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "savings-jar",
+    "shows": "Wroclaw- Kosciol sw. Elzbiety",
+    "file": "File:Wroclaw- Kosciol sw. Elzbiety.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wroclaw-_Kosciol_sw._Elzbiety.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wroclaw-_Kosciol_sw._Elzbiety.jpg/1920px-Wroclaw-_Kosciol_sw._Elzbiety.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Wroclaw-_Kosciol_sw._Elzbiety.jpg/500px-Wroclaw-_Kosciol_sw._Elzbiety.jpg",
+    "size": [
+     1920,
+     1121
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jar.ciurus, CC BY-SA 3.0 pl, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 pl",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+    "author": "Jar.ciurus",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "piggy-bank",
+    "shows": "Coins falling into a piggy bank on a black background",
+    "file": "unsplash:yrc-9m995-0",
+    "page": "https://unsplash.com/photos/coins-falling-into-a-piggy-bank-on-a-black-background-yrc-9m995-0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1760657045486-f455ffe66b45?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1760657045486-f455ffe66b45?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Townsend Walton on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Townsend Walton",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@twalton?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yrc-9m995-0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cGlnZ3klMjBiYW5rJTIwY29pbnN8ZW58MXx8fHwxNzkzOTEzMDQ3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-growth",
+    "shows": "Stack of copper coins against black background",
+    "file": "unsplash:CdXlkUvbQXY",
+    "page": "https://unsplash.com/photos/stack-of-copper-coins-against-black-background-CdXlkUvbQXY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1755010062224-c00c4623490d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=1501&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1755010062224-c00c4623490d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1501,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Merrilee Schultz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Merrilee Schultz",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@schultzmerr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CdXlkUvbQXY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "money-jar",
+    "shows": "Glass jar with money and coins spilled on table",
+    "file": "unsplash:GtX2ljDPyPI",
+    "page": "https://unsplash.com/photos/glass-jar-with-money-and-coins-spilled-on-table-GtX2ljDPyPI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1776161560681-5f87875e04dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG1vbmV5JTIwamFyfGVufDF8fHx8MTc5NDUzOTI2MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1776161560681-5f87875e04dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG1vbmV5JTIwamFyfGVufDF8fHx8MTc5NDUzOTI2MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sasun Bughdaryan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sasun Bughdaryan",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sasun1990?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/GtX2ljDPyPI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG1vbmV5JTIwamFyfGVufDF8fHx8MTc5NDUzOTI2MHww",
+    "track_pending": true
+   },
+   {
+    "shot": "piggy-bank",
+    "shows": "A coin being inserted into a piggy bank",
+    "file": "unsplash:h0avRw9-bdI",
+    "page": "https://unsplash.com/photos/a-coin-being-inserted-into-a-piggy-bank-h0avRw9-bdI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1769676391614-ee47569b1c69?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBpZ2d5JTIwYmFuayUyMGNvaW5zfGVufDF8fHx8MTc5MzkxMzA0N3ww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1769676391614-ee47569b1c69?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBpZ2d5JTIwYmFuayUyMGNvaW5zfGVufDF8fHx8MTc5MzkxMzA0N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Markus Kammermann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Markus Kammermann",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@makabera?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/h0avRw9-bdI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBpZ2d5JTIwYmFuayUyMGNvaW5zfGVufDF8fHx8MTc5MzkxMzA0N3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "coins-growth",
+    "shows": "Stacks of silver coins in a row",
+    "file": "unsplash:NxBUw0TXpBo",
+    "page": "https://unsplash.com/photos/stacks-of-silver-coins-in-a-row-NxBUw0TXpBo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1769676391627-0e33d5ac8682?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1769676391627-0e33d5ac8682?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     940
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Markus Kammermann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Markus Kammermann",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@makabera?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NxBUw0TXpBo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGNvaW5zJTIwc3RhY2t8ZW58MXx8fHwxNzkzOTEzMDUwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "money-jar",
+    "shows": "Dülmen, St.-Viktor-Kirche, Innenansicht -- 2018 -- 0583",
+    "file": "File:Dülmen, St.-Viktor-Kirche, Innenansicht -- 2018 -- 0583.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_St.-Viktor-Kirche,_Innenansicht_--_2018_--_0583.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/D%C3%BClmen%2C_St.-Viktor-Kirche%2C_Innenansicht_--_2018_--_0583.jpg/1920px-D%C3%BClmen%2C_St.-Viktor-Kirche%2C_Innenansicht_--_2018_--_0583.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/D%C3%BClmen%2C_St.-Viktor-Kirche%2C_Innenansicht_--_2018_--_0583.jpg/500px-D%C3%BClmen%2C_St.-Viktor-Kirche%2C_Innenansicht_--_2018_--_0583.jpg",
+    "size": [
+     1920,
+     1536
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2018,
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 50
+  "checked": "2026-11-13"
  },
  "space": {
   "name": "Space economy",

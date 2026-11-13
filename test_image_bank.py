@@ -760,3 +760,23 @@ class StockKeys(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d, mock.patch.object(B.stock, "sources", return_value=[]):
             with self.assertRaises(SystemExit):
                 B.build(MINI, bank=d, kinds=("topic", "sector"), log=lambda *_: None)
+
+
+class FlakySource(unittest.TestCase):
+    def test_a_failing_stock_source_is_skipped_but_a_used_up_limit_still_stops(self):
+        import contextlib, io
+
+        class Broken:
+            name = "loc"
+
+            def __init__(self, err):
+                self.err = err
+
+            def search(self, q):
+                raise self.err
+
+        with contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(B.safe_search(Broken(RuntimeError("www.loc.gov: HTTP 525")))("gold"), [])
+            self.assertEqual(B.safe_search(Broken(ConnectionResetError(104, "reset")))("gold"), [])
+        with self.assertRaises(stock.RateLimited):
+            B.safe_search(Broken(stock.RateLimited("limit")))("gold")

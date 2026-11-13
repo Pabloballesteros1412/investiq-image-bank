@@ -743,12 +743,27 @@ def stock_match(c, shot, q):
     return bool(words) and all(re.search(r"(?<![a-z0-9])" + re.escape(w) + r"(?:s|es)?(?![a-z0-9])", hay) for w in stems)
 
 
+def safe_search(st):
+    """A stock source's search that answers [] when the source fails (a connection reset, a server error after
+    the retries): one source's hiccup must not cost the subject its other sources. A used-up hourly limit still
+    stops the build (RateLimited)."""
+    def search(q):
+        try:
+            return st.search(q)
+        except stock.RateLimited:
+            raise
+        except Exception as e:
+            print(f"  ({st.name}: {q!r} skipped: {type(e).__name__}: {str(e)[:120]})", file=sys.stderr, flush=True)
+            return []
+    return search
+
+
 def choose(shot, search_fn, used=(), no_sa=False, exclude=(), stock_sources=(), enough=3):
     """Acceptable candidates for a shot, best first: [(score, candidate, query)], from the stock sources (when
     given; never for real people) and Commons. The fallback queries are tried only while fewer than enough photos
     qualify (three; more when a topic takes several photos per shot), and their results rank lower."""
     seen, out = set(), []
-    fns = [] if shot.get("person") else [(st.search, True) for st in stock_sources]
+    fns = [] if shot.get("person") else [(safe_search(st), True) for st in stock_sources]
     for i, q in enumerate([shot["q"], *shot.get("alt", [])]):
         for fn, is_stock in [*fns, (search_fn, False)]:
             for rank, c in enumerate(fn(q)):
@@ -1007,7 +1022,7 @@ def brand_photos(c, brands, src, used, n, exclude=(), n_queries=BRAND_QUERIES):
     found, seen = [], set()
     for qi, q in enumerate(queries):
         for st in stock_sources:
-            for rank, cand in enumerate(st.search(q)):
+            for rank, cand in enumerate(safe_search(st)(q)):
                 if cand["file"] in seen:
                     continue
                 seen.add(cand["file"])

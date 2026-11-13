@@ -19,7 +19,7 @@ Not allowed: selling the photos unaltered or building a competing photo service 
 photos are not under the free licence and are left out. Unsplash's guidelines also ask to hotlink its image
 addresses (the bank does) and to tell its API when a photo is chosen (the build does: `track`).
 """
-import hashlib, html, json, os, re, threading, time, urllib.error, urllib.parse, urllib.request
+import hashlib, html, http.client, json, os, re, threading, time, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 CACHE = Path(__file__).resolve().parent / ".cache" / "stock"
@@ -56,11 +56,11 @@ def fetch(url, headers, cache=True, log=print, tries=6, wait=True):
                 log(f"  ({urllib.parse.urlsplit(url).netloc}: hourly limit reached, waiting {wait // 60} min)")
                 time.sleep(min(wait, 3700))
                 continue
-            if e.code in (500, 502, 503, 504) and attempt < tries - 1:
+            if e.code in (500, 502, 503, 504, 520, 521, 522, 523, 524, 525, 526) and attempt < tries - 1:  # 52x: Cloudflare
                 time.sleep(10 * (attempt + 1))
                 continue
             raise RuntimeError(f"{urllib.parse.urlsplit(url).netloc}: HTTP {e.code} {body}") from None
-        except urllib.error.URLError:
+        except (urllib.error.URLError, OSError, http.client.HTTPException):  # also a connection reset mid-answer
             if attempt == tries - 1:
                 raise
             time.sleep(10 * (attempt + 1))
