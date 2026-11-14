@@ -161780,52 +161780,53 @@
    },
    {
     "shot": "chatbot",
-    "shows": "Piqsels.com-id-zbxec",
-    "file": "File:Piqsels.com-id-zbxec.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Piqsels.com-id-zbxec.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Piqsels.com-id-zbxec.jpg/1920px-Piqsels.com-id-zbxec.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Piqsels.com-id-zbxec.jpg/500px-Piqsels.com-id-zbxec.jpg",
+    "shows": "A glowing blue key labeled AI on a black computer keyboard",
+    "file": "unsplash:dwOcAJxSuD8",
+    "page": "https://unsplash.com/photos/glowing-blue-ai-keyboard-key-dwOcAJxSuD8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1718241905916-1f9786324de9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1718241905916-1f9786324de9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1660
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "piqsels, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "piqsels",
-    "year": 2018,
-    "how": "catalog"
-   },
-   {
-    "shot": "machine-learning",
-    "shows": "A close up of a typewriter with a paper reading machine learning",
-    "file": "unsplash:f57lx37DCM4",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-paper-reading-machine-learning-f57lx37DCM4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwxfHx8fDE3OTM5MzgzOTN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwxfHx8fDE3OTM5MzgzOTN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
+     2400,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Markus Winkler on Unsplash",
+    "credit": "Photo by BoliviaInteligente on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Markus Winkler",
-    "year": 2020,
+    "author": "BoliviaInteligente",
+    "year": 2024,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@markuswinkler?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/f57lx37DCM4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG1hY2hpbmUlMjBsZWFybmluZ3xlbnwxfHx8fDE3OTM5MzgzOTN8MA"
+    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dwOcAJxSuD8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "machine-learning",
+    "shows": "Machine Learning cookies",
+    "file": "File:Machine Learning cookies.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Machine_Learning_cookies.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Machine_Learning_cookies.jpg/1920px-Machine_Learning_cookies.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Machine_Learning_cookies.jpg/500px-Machine_Learning_cookies.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Syced, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Syced",
+    "year": 2022,
+    "how": "catalog"
    },
    {
     "shot": "computer-chip",
@@ -161928,109 +161929,97 @@
    },
    {
     "shot": "computer-code",
-    "shows": "Computer screen displaying HTML code for a web development project",
-    "file": "unsplash:oXlXu2qukGE",
-    "page": "https://unsplash.com/photos/computer-screen-displaying-web-code-oXlXu2qukGE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1607706189992-eae578626c86?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29tcHV0ZXIlMjBjb2RlfGVufDF8fHx8MTc5MzkzODM5OHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1607706189992-eae578626c86?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29tcHV0ZXIlMjBjb2RlfGVufDF8fHx8MTc5MzkzODM5OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Dumbells rest upright on either side of a keyboard and computer monitor displaying code.",
+    "file": "wordpress:36295",
+    "page": "https://wordpress.org/photos/photo/720650345f/",
+    "url": "https://pd.w.org/2023/09/720650345f3034480.65233446-2048x1536.jpg",
+    "preview": "https://pd.w.org/2023/09/720650345f3034480.65233446-768x576.jpg",
     "size": [
-     2250,
-     1500
+     2048,
+     1536
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Mohammad Rahmani on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Mohammad Rahmani",
-    "year": 2020,
+    "credit": "Photo by NF Tushar on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "NF Tushar",
+    "year": 2023,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@afgprogrammer?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/oXlXu2qukGE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29tcHV0ZXIlMjBjb2RlfGVufDF8fHx8MTc5MzkzODM5OHww"
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/nftushar/"
    },
    {
     "shot": "humanoid",
-    "shows": "A person wearing a helmet",
-    "file": "unsplash:td116npEPgQ",
-    "page": "https://unsplash.com/photos/a-person-wearing-a-helmet-td116npEPgQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1633957897986-70e83293f3ff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1633957897986-70e83293f3ff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Humanoid robot at Science Square Tsukuba 4",
+    "file": "File:Humanoid robot at Science Square Tsukuba 4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Humanoid_robot_at_Science_Square_Tsukuba_4.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Humanoid_robot_at_Science_Square_Tsukuba_4.jpg/1280px-Humanoid_robot_at_Science_Square_Tsukuba_4.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Humanoid_robot_at_Science_Square_Tsukuba_4.jpg/500px-Humanoid_robot_at_Science_Square_Tsukuba_4.jpg",
     "size": [
-     1200,
-     1775
+     1280,
+     1700
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Mathew Schwartz on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Mathew Schwartz",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@cadop?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/td116npEPgQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww"
+    "credit": "Syced, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Syced",
+    "year": 2024,
+    "how": "catalog"
    },
    {
     "shot": "neural-network",
-    "shows": "A central computer processor chip with AI lettering on a black circuit board",
-    "file": "unsplash:5b9Lr-ggr0E",
-    "page": "https://unsplash.com/photos/computer-processor-chip-with-ai-lettering-5b9Lr-ggr0E?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1716436329475-4c55d05383bb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fG5ldXJhbCUyMG5ldHdvcmt8ZW58MXx8fHwxNzk0NTEzODUxfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1716436329475-4c55d05383bb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fG5ldXJhbCUyMG5ldHdvcmt8ZW58MXx8fHwxNzk0NTEzODUxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Conditional neural field with encoder",
+    "file": "File:Conditional neural field with encoder.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Conditional_neural_field_with_encoder.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Conditional_neural_field_with_encoder.jpg/1920px-Conditional_neural_field_with_encoder.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Conditional_neural_field_with_encoder.jpg/500px-Conditional_neural_field_with_encoder.jpg",
     "size": [
-     2400,
-     1500
+     1920,
+     1152
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by BoliviaInteligente on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "BoliviaInteligente",
-    "year": 2024,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/5b9Lr-ggr0E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fG5ldXJhbCUyMG5ldHdvcmt8ZW58MXx8fHwxNzk0NTEzODUxfDA",
-    "track_pending": true
+    "credit": "FjordJarl9, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "FjordJarl9",
+    "year": 2025,
+    "how": "catalog"
    },
    {
     "shot": "ai-robot",
-    "shows": "Robot and human hands reaching toward ai text",
-    "file": "unsplash:FHgWFzDDAOs",
-    "page": "https://unsplash.com/photos/robot-and-human-hands-reaching-toward-ai-text-FHgWFzDDAOs?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YWklMjByb2JvdHxlbnwxfHx8fDE3OTQ1MTM4NTN8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YWklMjByb2JvdHxlbnwxfHx8fDE3OTQ1MTM4NTN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Ai-Da Robot at Abu Dhabi Art",
+    "file": "File:Ai-Da Robot at Abu Dhabi Art.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ai-Da_Robot_at_Abu_Dhabi_Art.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ai-Da_Robot_at_Abu_Dhabi_Art.jpg/1920px-Ai-Da_Robot_at_Abu_Dhabi_Art.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ai-Da_Robot_at_Abu_Dhabi_Art.jpg/500px-Ai-Da_Robot_at_Abu_Dhabi_Art.jpg",
     "size": [
-     2400,
-     1350
+     1920,
+     1642
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Igor Omilaev on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Igor Omilaev",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@omilaev?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/FHgWFzDDAOs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YWklMjByb2JvdHxlbnwxfHx8fDE3OTQ1MTM4NTN8MA",
-    "track_pending": true
+    "credit": "Lennymur, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Lennymur",
+    "year": 2019,
+    "how": "catalog"
    },
    {
     "shot": "data-center",
@@ -162061,53 +162050,49 @@
    },
    {
     "shot": "gpu",
-    "shows": "GPU blade with glycol cooling",
-    "file": "File:GPU blade with glycol cooling (54685994424).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:GPU_blade_with_glycol_cooling_(54685994424).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GPU_blade_with_glycol_cooling_%2854685994424%29.jpg/1920px-GPU_blade_with_glycol_cooling_%2854685994424%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GPU_blade_with_glycol_cooling_%2854685994424%29.jpg/500px-GPU_blade_with_glycol_cooling_%2854685994424%29.jpg",
+    "shows": "OK-XFC connected to GPU",
+    "file": "File:OK-XFC connected to GPU.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:OK-XFC_connected_to_GPU.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/OK-XFC_connected_to_GPU.jpg/1920px-OK-XFC_connected_to_GPU.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/OK-XFC_connected_to_GPU.jpg/500px-OK-XFC_connected_to_GPU.jpg",
     "size": [
      1920,
-     1097
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Steve Jurvetson, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Steve Jurvetson",
-    "year": 2025,
+    "credit": "Petr Kadlec, CC BY-SA 3.0 cz, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 cz",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/cz/deed.en",
+    "author": "Petr Kadlec",
+    "year": 2009,
     "how": "catalog"
    },
    {
     "shot": "artificial-intelligence-laptop",
-    "shows": "A white robot with blue eyes and a laptop",
-    "file": "unsplash:-0xMiYQmk8g",
-    "page": "https://unsplash.com/photos/a-white-robot-with-blue-eyes-and-a-laptop--0xMiYQmk8g?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1684369175833-4b445ad6bfb5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2UlMjBsYXB0b3B8ZW58MXx8fHwxNzk0NTEzODU2fDA&ixlib=rb-4.1.0&w=2057&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1684369175833-4b445ad6bfb5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2UlMjBsYXB0b3B8ZW58MXx8fHwxNzk0NTEzODU2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Expedition for the Fulldome (mg-3067-cc)",
+    "file": "File:Expedition for the Fulldome (mg-3067-cc).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Expedition_for_the_Fulldome_(mg-3067-cc).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Expedition_for_the_Fulldome_%28mg-3067-cc%29.jpg/1920px-Expedition_for_the_Fulldome_%28mg-3067-cc%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Expedition_for_the_Fulldome_%28mg-3067-cc%29.jpg/500px-Expedition_for_the_Fulldome_%28mg-3067-cc%29.jpg",
     "size": [
-     2057,
-     1500
+     1920,
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Mohamed Nohassi on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Mohamed Nohassi",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@coopery?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/-0xMiYQmk8g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2UlMjBsYXB0b3B8ZW58MXx8fHwxNzk0NTEzODU2fDA",
-    "track_pending": true
+    "credit": "ESO/B. Tafreshi ( twanight.org ), CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "ESO/B. Tafreshi ( twanight.org )",
+    "year": 2016,
+    "how": "catalog"
    },
    {
     "shot": "robot",
@@ -162138,207 +162123,126 @@
    },
    {
     "shot": "chatgpt",
-    "shows": "A close up of a computer screen with a menu on it",
-    "file": "unsplash:fvxNerA8uk0",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-a-menu-on-it-fvxNerA8uk0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1677691820099-a6e8040aa077?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhdGdwdHxlbnwxfHx8fDE3OTQ1MTM4NjB8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1677691820099-a6e8040aa077?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhdGdwdHxlbnwxfHx8fDE3OTQ1MTM4NjB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "ChatGPT street art in Tel Aviv",
+    "file": "File:ChatGPT street art in Tel Aviv.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ChatGPT_street_art_in_Tel_Aviv.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ChatGPT_street_art_in_Tel_Aviv.jpg/1280px-ChatGPT_street_art_in_Tel_Aviv.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/ChatGPT_street_art_in_Tel_Aviv.jpg/500px-ChatGPT_street_art_in_Tel_Aviv.jpg",
     "size": [
-     2000,
-     1500
+     1280,
+     1645
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Emiliano Vittoriosi on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Emiliano Vittoriosi",
+    "credit": "Artem.G, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Artem.G",
     "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@emilianovittoriosi?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/fvxNerA8uk0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2hhdGdwdHxlbnwxfHx8fDE3OTQ1MTM4NjB8MA",
-    "track_pending": true
+    "how": "catalog"
    },
    {
     "shot": "ai-chip",
-    "shows": "Glowing ai chip on a circuit board",
-    "file": "unsplash:w69Z8K-HGQU",
-    "page": "https://unsplash.com/photos/glowing-ai-chip-on-a-circuit-board-w69Z8K-HGQU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1744640326166-433469d102f2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YWklMjBjaGlwfGVufDF8fHx8MTc5NDUxMzg2MXww&ixlib=rb-4.1.0&w=2265&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1744640326166-433469d102f2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YWklMjBjaGlwfGVufDF8fHx8MTc5NDUxMzg2MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A close up of a computer motherboard with many components",
+    "file": "unsplash:XJuogr6jhv8",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-computer-motherboard-with-many-components-XJuogr6jhv8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1716436329476-fd6cbaa1fc71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1716436329476-fd6cbaa1fc71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2265,
+     2400,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Immo Wegmann on Unsplash",
+    "credit": "Photo by BoliviaInteligente on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Immo Wegmann",
-    "year": 2025,
+    "author": "BoliviaInteligente",
+    "year": 2024,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@tinkerman?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/w69Z8K-HGQU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YWklMjBjaGlwfGVufDF8fHx8MTc5NDUxMzg2MXww",
+    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/XJuogr6jhv8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA",
     "track_pending": true
    },
    {
     "shot": "automation",
-    "shows": "automation",
-    "file": "File:Automation T2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Automation_T2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Automation_T2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Automation_T2.jpg/500px-Automation_T2.jpg",
+    "shows": "Renault Rafale PHEV 300 Auto Zuerich 2024 6504",
+    "file": "File:Renault Rafale PHEV 300 Auto Zuerich 2024 DSC 6504.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Renault_Rafale_PHEV_300_Auto_Zuerich_2024_DSC_6504.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Renault_Rafale_PHEV_300_Auto_Zuerich_2024_DSC_6504.jpg/1920px-Renault_Rafale_PHEV_300_Auto_Zuerich_2024_DSC_6504.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Renault_Rafale_PHEV_300_Auto_Zuerich_2024_DSC_6504.jpg/500px-Renault_Rafale_PHEV_300_Auto_Zuerich_2024_DSC_6504.jpg",
     "size": [
-     1807,
-     1205
+     1920,
+     1112
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "AliciaNowaste, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Alexander-93, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "AliciaNowaste",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "futuristic-technology",
-    "shows": "A futuristic transporter (potw2413a)",
-    "file": "File:A futuristic transporter (potw2413a).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_futuristic_transporter_(potw2413a).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_futuristic_transporter_%28potw2413a%29.jpg/1920px-A_futuristic_transporter_%28potw2413a%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/A_futuristic_transporter_%28potw2413a%29.jpg/500px-A_futuristic_transporter_%28potw2413a%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sergio Otarola/ESO, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Sergio Otarola/ESO",
+    "author": "Alexander-93",
     "year": 2024,
     "how": "catalog"
    },
    {
-    "shot": "artificial-intelligence",
-    "shows": "Person holding green paper",
-    "file": "unsplash:t1PaIbMTJIM",
-    "page": "https://unsplash.com/photos/person-holding-green-paper-t1PaIbMTJIM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MXx8fHwxNzkzOTM0Nzg2fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MXx8fHwxNzkzOTM0Nzg2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "futuristic-technology",
+    "shows": "Army evaluates DARPA's futuristic soft exosuit",
+    "file": "File:Army evaluates DARPA's futuristic soft exosuit (15242255257).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Army_evaluates_DARPA%27s_futuristic_soft_exosuit_(15242255257).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Army_evaluates_DARPA%27s_futuristic_soft_exosuit_%2815242255257%29.jpg/1280px-Army_evaluates_DARPA%27s_futuristic_soft_exosuit_%2815242255257%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Army_evaluates_DARPA%27s_futuristic_soft_exosuit_%2815242255257%29.jpg/500px-Army_evaluates_DARPA%27s_futuristic_soft_exosuit_%2815242255257%29.jpg",
     "size": [
-     2400,
-     1347
+     1280,
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Hitesh Choudhary on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Hitesh Choudhary",
-    "year": 2018,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@hiteshchoudhary?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/t1PaIbMTJIM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGFydGlmaWNpYWwlMjBpbnRlbGxpZ2VuY2V8ZW58MXx8fHwxNzkzOTM0Nzg2fDA",
-    "track_pending": true
+    "credit": "U.S. Army RDECOM from Aberdeen Proving Ground, MD, USA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "U.S. Army RDECOM from Aberdeen Proving Ground, MD, USA",
+    "year": 2014,
+    "how": "catalog"
    },
    {
     "shot": "robot-hand",
-    "shows": "Robot and human hands reaching toward each other",
-    "file": "unsplash:X9Cemmq4YjM",
-    "page": "https://unsplash.com/photos/robot-and-human-hands-reaching-toward-each-other-X9Cemmq4YjM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1680783954745-3249be59e527?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ib3QlMjBoYW5kfGVufDF8fHx8MTc5MzkzNDc4OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1680783954745-3249be59e527?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ib3QlMjBoYW5kfGVufDF8fHx8MTc5MzkzNDc4OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A yellow robotic arm with black joints and a mechanical hand",
+    "file": "unsplash:66VbdwUpmA8",
+    "page": "https://unsplash.com/photos/robotic-arm-with-mechanical-hand-66VbdwUpmA8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1786539861520-6e91dc64a958?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1786539861520-6e91dc64a958?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1200,
+     2251,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Cash Macanaya on Unsplash",
+    "credit": "Photo by Enchanted Tools on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Cash Macanaya",
-    "year": 2023,
+    "author": "Enchanted Tools",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@cashmacanaya?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/X9Cemmq4YjM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ib3QlMjBoYW5kfGVufDF8fHx8MTc5MzkzNDc4OHww",
+    "author_url": "https://unsplash.com/@enchantedtools?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/66VbdwUpmA8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA",
     "track_pending": true
-   },
-   {
-    "shot": "chatbot",
-    "shows": "Person typing on smartphone with ai chatbot on screen",
-    "file": "unsplash:CaRba5ZXJTQ",
-    "page": "https://unsplash.com/photos/person-typing-on-smartphone-with-ai-chatbot-on-screen-CaRba5ZXJTQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1762330465857-07e4c81c0dfa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1762330465857-07e4c81c0dfa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Zulfugar Karimov on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Zulfugar Karimov",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@zulfugarkarimov?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/CaRba5ZXJTQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "computer-chip",
-    "shows": "IC 2944, Nicknamed the Running Chicken Nebula",
-    "file": "File:IC 2944, Nicknamed the Running Chicken Nebula.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:IC_2944,_Nicknamed_the_Running_Chicken_Nebula.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/IC_2944%2C_Nicknamed_the_Running_Chicken_Nebula.jpg/1920px-IC_2944%2C_Nicknamed_the_Running_Chicken_Nebula.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/IC_2944%2C_Nicknamed_the_Running_Chicken_Nebula.jpg/500px-IC_2944%2C_Nicknamed_the_Running_Chicken_Nebula.jpg",
-    "size": [
-     1920,
-     1737
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ESO, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "ESO",
-    "year": 2011,
-    "how": "catalog"
    },
    {
     "shot": "server-racks",
@@ -162369,146 +162273,61 @@
    },
    {
     "shot": "robotic-arm",
-    "shows": "Blue robotic prosthetic hand against teal background",
-    "file": "unsplash:sbVu5zitZt0",
-    "page": "https://unsplash.com/photos/blue-robotic-prosthetic-hand-against-teal-background-sbVu5zitZt0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cm9ib3RpYyUyMGFybXxlbnwxfHx8fDE3OTM4OTQ4NTh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cm9ib3RpYyUyMGFybXxlbnwxfHx8fDE3OTM4OTQ4NTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Robotic arm with pincers in a dusty environment",
+    "file": "unsplash:Au8NdOftMaI",
+    "page": "https://unsplash.com/photos/robotic-arm-with-pincers-in-a-dusty-environment-Au8NdOftMaI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1774229637247-3cd45219826c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1774229637247-3cd45219826c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1200,
-     1800
+     2400,
+     1327
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by ThisisEngineering on Unsplash",
+    "credit": "Photo by Akshat Sharma on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "ThisisEngineering",
-    "year": 2020,
+    "author": "Akshat Sharma",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@thisisengineering?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/sbVu5zitZt0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cm9ib3RpYyUyMGFybXxlbnwxfHx8fDE3OTM4OTQ4NTh8MA",
+    "author_url": "https://unsplash.com/@asphotographypics?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Au8NdOftMaI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA",
     "track_pending": true
    },
    {
     "shot": "computer-code",
-    "shows": "Boy in front of computer monitor",
-    "file": "unsplash:vJP-wZ6hGBg",
-    "page": "https://unsplash.com/photos/boy-in-front-of-computer-monitor-vJP-wZ6hGBg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1536148935331-408321065b18?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNvbXB1dGVyJTIwY29kZXxlbnwxfHx8fDE3OTM5MzgzOTh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1536148935331-408321065b18?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNvbXB1dGVyJTIwY29kZXxlbnwxfHx8fDE3OTM5MzgzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Forellen auf dem Grill",
+    "file": "File:140531 Forellen auf dem Grill.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:140531_Forellen_auf_dem_Grill.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/140531_Forellen_auf_dem_Grill.jpg/1920px-140531_Forellen_auf_dem_Grill.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/140531_Forellen_auf_dem_Grill.jpg/500px-140531_Forellen_auf_dem_Grill.jpg",
     "size": [
-     1200,
-     1803
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Arif Riyanto on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Arif Riyanto",
-    "year": 2018,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@arifriyanto?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/vJP-wZ6hGBg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNvbXB1dGVyJTIwY29kZXxlbnwxfHx8fDE3OTM5MzgzOTh8MA",
-    "track_pending": true
+    "credit": "Ansgar Koreng, CC BY-SA 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "Ansgar Koreng",
+    "year": 2014,
+    "how": "catalog"
    },
    {
     "shot": "humanoid",
-    "shows": "White and black coffee maker",
-    "file": "unsplash:khHs6rdee7I",
-    "page": "https://unsplash.com/photos/white-and-black-coffee-maker-khHs6rdee7I?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1593377201811-4516986cbe41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1593377201811-4516986cbe41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1806
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Maximalfocus on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Maximalfocus",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@maximalfocus?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/khHs6rdee7I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww",
-    "track_pending": true
-   },
-   {
-    "shot": "ai-robot",
-    "shows": "A robot that is standing in the water",
-    "file": "unsplash:ykO7Nb5pQt8",
-    "page": "https://unsplash.com/photos/a-robot-that-is-standing-in-the-water-ykO7Nb5pQt8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1654009603731-20b6d7536002?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGFpJTIwcm9ib3R8ZW58MXx8fHwxNzk0NTEzODUzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1654009603731-20b6d7536002?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGFpJTIwcm9ib3R8ZW58MXx8fHwxNzk0NTEzODUzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Cash Macanaya on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Cash Macanaya",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@cashmacanaya?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ykO7Nb5pQt8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGFpJTIwcm9ib3R8ZW58MXx8fHwxNzk0NTEzODUzfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "data-center",
-    "shows": "Rows of black server racks with white logos in a data center",
-    "file": "unsplash:klWUhr-wPJ8",
-    "page": "https://unsplash.com/photos/server-racks-in-data-center-klWUhr-wPJ8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGRhdGElMjBjZW50ZXJ8ZW58MXx8fHwxNzkzOTM4Mzk4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1506399558188-acca6f8cbf41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGRhdGElMjBjZW50ZXJ8ZW58MXx8fHwxNzkzOTM4Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2400,
-     1431
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by imgix on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "imgix",
-    "year": 2017,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@imgix?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/klWUhr-wPJ8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGRhdGElMjBjZW50ZXJ8ZW58MXx8fHwxNzkzOTM4Mzk4fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "robot",
-    "shows": "Yellow and gray robot toy",
-    "file": "unsplash:1DjbGRDh7-E",
-    "page": "https://unsplash.com/photos/yellow-and-gray-robot-toy-1DjbGRDh7-E?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1589254065909-b7086229d08c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ib3R8ZW58MXx8fHwxNzk0NTEzODU3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1589254065909-b7086229d08c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ib3R8ZW58MXx8fHwxNzk0NTEzODU3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A chrome humanoid sculpture with intricate details",
+    "file": "unsplash:DiD2wgijf_A",
+    "page": "https://unsplash.com/photos/a-chrome-humanoid-sculpture-with-intricate-details-DiD2wgijf_A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1770249196550-ff6c641165cb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1770249196550-ff6c641165cb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
      1800
@@ -162517,105 +162336,28 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Jason Leung on Unsplash",
+    "credit": "Photo by Vik Molina on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Jason Leung",
-    "year": 2020,
+    "author": "Vik Molina",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@ninjason?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/1DjbGRDh7-E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cm9ib3R8ZW58MXx8fHwxNzk0NTEzODU3fDA",
+    "author_url": "https://unsplash.com/@asecasvik?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/DiD2wgijf_A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww",
     "track_pending": true
    },
    {
-    "shot": "chatgpt",
-    "shows": "The ChatGPT interface showing examples, capabilities, and limitations on a dark blue screen",
-    "file": "unsplash:drwpcjkvxuU",
-    "page": "https://unsplash.com/photos/chatgpt-interface-with-examples-and-capabilities-drwpcjkvxuU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1675865254433-6ba341f0f00b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2hhdGdwdHxlbnwxfHx8fDE3OTQ1MTM4NjB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1675865254433-6ba341f0f00b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2hhdGdwdHxlbnwxfHx8fDE3OTQ1MTM4NjB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "robot",
+    "shows": "White robot wallpaper",
+    "file": "unsplash:JjGXjESMxOY",
+    "page": "https://unsplash.com/photos/white-robot-wallpaper-JjGXjESMxOY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1535378620166-273708d44e4c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=1697&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1535378620166-273708d44e4c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2250,
+     1697,
      1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Levart_Photographer on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Levart_Photographer",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@siva_photography?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/drwpcjkvxuU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2hhdGdwdHxlbnwxfHx8fDE3OTQ1MTM4NjB8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "ai-chip",
-    "shows": "A computer chip with the letter ai on it",
-    "file": "unsplash:U9e6ySWMW_0",
-    "page": "https://unsplash.com/photos/a-computer-chip-with-the-letter-ai-on-it-U9e6ySWMW_0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1716436329836-208bea5a55e6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YWklMjBjaGlwfGVufDF8fHx8MTc5NDUxMzg2MXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1716436329836-208bea5a55e6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YWklMjBjaGlwfGVufDF8fHx8MTc5NDUxMzg2MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2400,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by BoliviaInteligente on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "BoliviaInteligente",
-    "year": 2024,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/U9e6ySWMW_0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8YWklMjBjaGlwfGVufDF8fHx8MTc5NDUxMzg2MXww",
-    "track_pending": true
-   },
-   {
-    "shot": "automation",
-    "shows": "2016 Konica Auto S3 1",
-    "file": "File:2016 Konica Auto S3 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2016_Konica_Auto_S3_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2016_Konica_Auto_S3_1.jpg/1920px-2016_Konica_Auto_S3_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2016_Konica_Auto_S3_1.jpg/500px-2016_Konica_Auto_S3_1.jpg",
-    "size": [
-     1920,
-     1476
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jacek Halicki",
-    "year": 2016,
-    "how": "catalog"
-   },
-   {
-    "shot": "robot-hand",
-    "shows": "White robot",
-    "file": "unsplash:rDxP1tF3CmA",
-    "page": "https://unsplash.com/photos/white-robot-rDxP1tF3CmA?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1535378273068-9bb67d5beacd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=2052&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1535378273068-9bb67d5beacd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2052,
-     1501
     ],
     "focus": [
      0.5,
@@ -162630,123 +162372,73 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@possessedphotography?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/rDxP1tF3CmA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA",
+    "track": "https://api.unsplash.com/photos/JjGXjESMxOY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww",
     "track_pending": true
    },
    {
-    "shot": "chatbot",
-    "shows": "Smartphone screen displays ai chatbot interface",
-    "file": "unsplash:BlWbfrQrI5k",
-    "page": "https://unsplash.com/photos/smartphone-screen-displays-ai-chatbot-interface-BlWbfrQrI5k?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1762330467475-a565d04e1808?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1762330467475-a565d04e1808?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "ai-chip",
+    "shows": "A spiral notebook with the letter a on it",
+    "file": "unsplash:5K_ijgjiDko",
+    "page": "https://unsplash.com/photos/a-spiral-notebook-with-the-letter-a-on-it-5K_ijgjiDko?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1684369585080-11700ba4a9e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=1897&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1684369585080-11700ba4a9e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2250,
+     1897,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mohamed Nohassi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mohamed Nohassi",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@coopery?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/5K_ijgjiDko/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "robot-hand",
+    "shows": "A bright orange robotic hand reaching forward against a plain light background",
+    "file": "unsplash:9NpAU2OqYiI",
+    "page": "https://unsplash.com/photos/orange-robotic-hand-reaching-forward-9NpAU2OqYiI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1786539861533-860fea17321f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1786539861533-860fea17321f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Zulfugar Karimov on Unsplash",
+    "credit": "Photo by Enchanted Tools on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Zulfugar Karimov",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@zulfugarkarimov?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/BlWbfrQrI5k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNoYXRib3R8ZW58MXx8fHwxNzkzOTM0Nzg5fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "computer-chip",
-    "shows": "ST90E40ZL1 68-leaded windowed ceramic quad flat pack package; 16K EPROM HCMOS MCU with EEPROM, RAM and A/D Converter; EPROM 16Kbytes, RAM 256 bytes, EEPROM 512 ",
-    "file": "File:ST90E40ZL1 (2).png",
-    "page": "https://commons.wikimedia.org/wiki/File:ST90E40ZL1_(2).png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST90E40ZL1_%282%29.png/1920px-ST90E40ZL1_%282%29.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST90E40ZL1_%282%29.png/500px-ST90E40ZL1_%282%29.png",
-    "size": [
-     1920,
-     1621
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Mister rf",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "server-racks",
-    "shows": "Server rack filled with network and electronic equipment",
-    "file": "unsplash:UpkcO_xS5k0",
-    "page": "https://unsplash.com/photos/server-rack-filled-with-network-and-electronic-equipment-UpkcO_xS5k0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1785682231847-93265d8e633d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHNlcnZlciUyMHJhY2tzfGVufDF8fHx8MTc5MzkzODM5Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1785682231847-93265d8e633d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHNlcnZlciUyMHJhY2tzfGVufDF8fHx8MTc5MzkzODM5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Valentin Lacoste on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Valentin Lacoste",
+    "author": "Enchanted Tools",
     "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@valentinlacoste?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/UpkcO_xS5k0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHNlcnZlciUyMHJhY2tzfGVufDF8fHx8MTc5MzkzODM5Nnww",
-    "track_pending": true
-   },
-   {
-    "shot": "robotic-arm",
-    "shows": "A close-up of a microscope",
-    "file": "unsplash:ojlLAZDegs0",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-microscope-ojlLAZDegs0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1667123113124-0980f3214baa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1667123113124-0980f3214baa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Eyosias G on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Eyosias G",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@yozz_t?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ojlLAZDegs0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA",
+    "author_url": "https://unsplash.com/@enchantedtools?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9NpAU2OqYiI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA",
     "track_pending": true
    },
    {
     "shot": "computer-code",
-    "shows": "Tierser Alpl Rosszähne",
-    "file": "File:140626 Tierser Alpl Rosszähne.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:140626_Tierser_Alpl_Rossz%C3%A4hne.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/140626_Tierser_Alpl_Rossz%C3%A4hne.jpg/1920px-140626_Tierser_Alpl_Rossz%C3%A4hne.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/140626_Tierser_Alpl_Rossz%C3%A4hne.jpg/500px-140626_Tierser_Alpl_Rossz%C3%A4hne.jpg",
+    "shows": "Berliner Dom",
+    "file": "File:141227 Berliner Dom.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:141227_Berliner_Dom.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/1920px-141227_Berliner_Dom.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/141227_Berliner_Dom.jpg/500px-141227_Berliner_Dom.jpg",
     "size": [
      1920,
-     1280
+     1344
     ],
     "focus": [
      0.5,
@@ -162761,116 +162453,39 @@
     "how": "catalog"
    },
    {
-    "shot": "humanoid",
-    "shows": "A purple humanoid head with textured markings",
-    "file": "unsplash:M7PWgSlws5Y",
-    "page": "https://unsplash.com/photos/a-purple-humanoid-head-with-textured-markings-M7PWgSlws5Y?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1771503735122-22405ba958f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1771503735122-22405ba958f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Shubham Dhage on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Shubham Dhage",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@theshubhamdhage?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/M7PWgSlws5Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGh1bWFub2lkfGVufDF8fHx8MTc5MzkzODM5OXww",
-    "track_pending": true
-   },
-   {
-    "shot": "data-center",
-    "shows": "Center of the Milky Way Galaxy IV – Composite",
-    "file": "File:Center of the Milky Way Galaxy IV – Composite.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/1920px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg/500px-Center_of_the_Milky_Way_Galaxy_IV_%E2%80%93_Composite.jpg",
-    "size": [
-     1920,
-     960
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA/JPL-Caltech/ESA/CXC/STScI, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA/JPL-Caltech/ESA/CXC/STScI",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
     "shot": "robot",
-    "shows": "Blue plastic robot toy",
-    "file": "unsplash:R4WCbazrD1g",
-    "page": "https://unsplash.com/photos/blue-plastic-robot-toy-R4WCbazrD1g?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1527430253228-e93688616381?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cm9ib3R8ZW58MXx8fHwxNzk0NTEzODU3fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1527430253228-e93688616381?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cm9ib3R8ZW58MXx8fHwxNzk0NTEzODU3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "White robot",
+    "file": "unsplash:MECKPoKJYjM",
+    "page": "https://unsplash.com/photos/white-robot-MECKPoKJYjM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1555255707-c07966088b7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1555255707-c07966088b7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2400,
-     1347
+     1350
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Emilipothèse on Unsplash",
+    "credit": "Photo by Arseny Togulev on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Emilipothèse",
-    "year": 2018,
+    "author": "Arseny Togulev",
+    "year": 2019,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@emilipothese?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/R4WCbazrD1g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cm9ib3R8ZW58MXx8fHwxNzk0NTEzODU3fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "chatgpt",
-    "shows": "A laptop displays \"what can i help with?\"",
-    "file": "unsplash:5e4Zlblkvks",
-    "page": "https://unsplash.com/photos/a-laptop-displays-what-can-i-help-with-5e4Zlblkvks?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1745674684468-b9fc392fda3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNoYXRncHR8ZW58MXx8fHwxNzk0NTEzODYwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1745674684468-b9fc392fda3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNoYXRncHR8ZW58MXx8fHwxNzk0NTEzODYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Aerps.com on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Aerps.com",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@almoya?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/5e4Zlblkvks/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNoYXRncHR8ZW58MXx8fHwxNzk0NTEzODYwfDA",
+    "author_url": "https://unsplash.com/@tetrakiss?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MECKPoKJYjM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww",
     "track_pending": true
    },
    {
     "shot": "ai-chip",
-    "shows": "A spiral notebook with the word ai on it",
-    "file": "unsplash:tdu54W07_gw",
-    "page": "https://unsplash.com/photos/a-spiral-notebook-with-the-word-ai-on-it-tdu54W07_gw?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1684369585053-2b35888b3ae8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=1718&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1684369585053-2b35888b3ae8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A computer chip with the letter a on it",
+    "file": "unsplash:3ihil3w85-4",
+    "page": "https://unsplash.com/photos/a-computer-chip-with-the-letter-a-on-it-3ihil3w85-4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1684369586188-bad829e7c51f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=1718&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1684369586188-bad829e7c51f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1718,
      1501
@@ -162888,93 +162503,16 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@coopery?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/tdu54W07_gw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA",
+    "track": "https://api.unsplash.com/photos/3ihil3w85-4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA",
     "track_pending": true
    },
    {
     "shot": "robot-hand",
-    "shows": "A close up of a robot hand holding a cell phone",
-    "file": "unsplash:nDtaziIVfow",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-robot-hand-holding-a-cell-phone-nDtaziIVfow?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1696554976856-1aef8df91e62?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=1549&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1696554976856-1aef8df91e62?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1549,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Bernd 📷 Dittrich on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Bernd 📷 Dittrich",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@hdbernd?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/nDtaziIVfow/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "chatbot",
-    "shows": "Mauritia flexuosa MHNT.BOT.2005.0.974",
-    "file": "File:Mauritia flexuosa MHNT.BOT.2005.0.974.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mauritia_flexuosa_MHNT.BOT.2005.0.974.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mauritia_flexuosa_MHNT.BOT.2005.0.974.jpg/1920px-Mauritia_flexuosa_MHNT.BOT.2005.0.974.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mauritia_flexuosa_MHNT.BOT.2005.0.974.jpg/500px-Mauritia_flexuosa_MHNT.BOT.2005.0.974.jpg",
-    "size": [
-     1920,
-     1689
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Didier Descouens, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Didier Descouens",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "computer-chip",
-    "shows": "A computer chip with the word gat printed on it",
-    "file": "unsplash:Fc1GBkmV-Dw",
-    "page": "https://unsplash.com/photos/a-computer-chip-with-the-word-gat-printed-on-it-Fc1GBkmV-Dw?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1678957949479-b1e876bee3f1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNvbXB1dGVyJTIwY2hpcHxlbnwxfHx8fDE3OTM4ODA3MDZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1678957949479-b1e876bee3f1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNvbXB1dGVyJTIwY2hpcHxlbnwxfHx8fDE3OTM4ODA3MDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2400,
-     1352
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by D koi on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "D koi",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@dkoi?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Fc1GBkmV-Dw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNvbXB1dGVyJTIwY2hpcHxlbnwxfHx8fDE3OTM4ODA3MDZ8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "server-racks",
-    "shows": "A hand adjusting components in a glowing server rack",
-    "file": "unsplash:5FS9ci4eHg0",
-    "page": "https://unsplash.com/photos/a-hand-adjusting-components-in-a-glowing-server-rack-5FS9ci4eHg0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1783419231367-89bd75443ad7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNlcnZlciUyMHJhY2tzfGVufDF8fHx8MTc5MzkzODM5Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1783419231367-89bd75443ad7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNlcnZlciUyMHJhY2tzfGVufDF8fHx8MTc5MzkzODM5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "An orange humanoid robot with animal-like ears waving its hand against a white background",
+    "file": "unsplash:vqS5skYTCj0",
+    "page": "https://unsplash.com/photos/orange-humanoid-robot-waving-hand-vqS5skYTCj0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1786540103214-b60c8632be6e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1786540103214-b60c8632be6e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -162983,47 +162521,274 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Aleksandr Lyaptsev on Unsplash",
+    "credit": "Photo by Enchanted Tools on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Aleksandr Lyaptsev",
+    "author": "Enchanted Tools",
     "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@lyaptseviridi?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/5FS9ci4eHg0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHNlcnZlciUyMHJhY2tzfGVufDF8fHx8MTc5MzkzODM5Nnww",
+    "author_url": "https://unsplash.com/@enchantedtools?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vqS5skYTCj0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHJvYm90JTIwaGFuZHxlbnwxfHx8fDE3OTM5MzQ3ODh8MA",
     "track_pending": true
    },
    {
-    "shot": "robotic-arm",
-    "shows": "Black and yellow corded power tool",
-    "file": "unsplash:MY97RmOk1Fs",
-    "page": "https://unsplash.com/photos/black-and-yellow-corded-power-tool-MY97RmOk1Fs?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1582772168790-9e7441942224?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1582772168790-9e7441942224?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "computer-code",
+    "shows": "Computer programming codes displayed on a monitor",
+    "file": "unsplash:MgtHZ4zlC1U",
+    "page": "https://unsplash.com/photos/computer-programming-codes-displayed-on-a-monitor-MgtHZ4zlC1U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1576836165612-8bc9b07e7778?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGNvbXB1dGVyJTIwY29kZXxlbnwxfHx8fDE3OTM5MzgzOTh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1576836165612-8bc9b07e7778?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGNvbXB1dGVyJTIwY29kZXxlbnwxfHx8fDE3OTM5MzgzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2400,
-     1350
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Pi Supply on Unsplash",
+    "credit": "Photo by Markus Spiske on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Pi Supply",
+    "author": "Markus Spiske",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@markusspiske?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MgtHZ4zlC1U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGNvbXB1dGVyJTIwY29kZXxlbnwxfHx8fDE3OTM5MzgzOTh8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "robot",
+    "shows": "A toy robot with a blue background",
+    "file": "unsplash:Ns79tUYyVQQ",
+    "page": "https://unsplash.com/photos/a-toy-robot-with-a-blue-background-Ns79tUYyVQQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1659018966820-de07c94e0d01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=2321&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1659018966820-de07c94e0d01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2321,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ant Rozetsky on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ant Rozetsky",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rozetsky?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Ns79tUYyVQQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "ai-chip",
+    "shows": "An ai chip on a circuit board",
+    "file": "unsplash:sNt81Whsncg",
+    "page": "https://unsplash.com/photos/an-ai-chip-on-a-circuit-board-sNt81Whsncg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1749006590639-e749e6b7d84c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1749006590639-e749e6b7d84c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2133
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Omar:. Lopez-Rincon on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Omar:. Lopez-Rincon",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@procopiopi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sNt81Whsncg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGFpJTIwY2hpcHxlbnwxfHx8fDE3OTQ1MTM4NjF8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "computer-code",
+    "shows": "Konzerthaus Berlin (Nacht) - clone",
+    "file": "File:150524 Konzerthaus Berlin (Nacht) - clone.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:150524_Konzerthaus_Berlin_(Nacht)_-_clone.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/150524_Konzerthaus_Berlin_%28Nacht%29_-_clone.jpg/1920px-150524_Konzerthaus_Berlin_%28Nacht%29_-_clone.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/150524_Konzerthaus_Berlin_%28Nacht%29_-_clone.jpg/500px-150524_Konzerthaus_Berlin_%28Nacht%29_-_clone.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ansgar Koreng, CC BY 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY 3.0 de",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+    "author": "Ansgar Koreng",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "robot",
+    "shows": "Yellow and black robot toy",
+    "file": "unsplash:iDQVmcPFOCI",
+    "page": "https://unsplash.com/photos/yellow-and-black-robot-toy-iDQVmcPFOCI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1589254066213-a0c9dc853511?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1589254066213-a0c9dc853511?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jason Leung on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jason Leung",
     "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@pisupply?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/MY97RmOk1Fs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHJvYm90aWMlMjBhcm18ZW58MXx8fHwxNzkzODk0ODU4fDA",
+    "author_url": "https://unsplash.com/@ninjason?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/iDQVmcPFOCI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "ai-chip",
+    "shows": "Cochem, Unterbachstraße, Gebäude -- 2018 -- 0053",
+    "file": "File:Cochem, Unterbachstraße, Gebäude -- 2018 -- 0053.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cochem,_Unterbachstra%C3%9Fe,_Geb%C3%A4ude_--_2018_--_0053.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cochem%2C_Unterbachstra%C3%9Fe%2C_Geb%C3%A4ude_--_2018_--_0053.jpg/1920px-Cochem%2C_Unterbachstra%C3%9Fe%2C_Geb%C3%A4ude_--_2018_--_0053.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cochem%2C_Unterbachstra%C3%9Fe%2C_Geb%C3%A4ude_--_2018_--_0053.jpg/500px-Cochem%2C_Unterbachstra%C3%9Fe%2C_Geb%C3%A4ude_--_2018_--_0053.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "computer-code",
+    "shows": "Märchendom Saalfelder Feengrotten",
+    "file": "File:140823 Märchendom Saalfelder Feengrotten.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:140823_M%C3%A4rchendom_Saalfelder_Feengrotten.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/140823_M%C3%A4rchendom_Saalfelder_Feengrotten.jpg/1920px-140823_M%C3%A4rchendom_Saalfelder_Feengrotten.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/140823_M%C3%A4rchendom_Saalfelder_Feengrotten.jpg/500px-140823_M%C3%A4rchendom_Saalfelder_Feengrotten.jpg",
+    "size": [
+     1920,
+     1402
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ansgar Koreng, CC BY 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY 3.0 de",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+    "author": "Ansgar Koreng",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "robot",
+    "shows": "Blue and purple robot toy",
+    "file": "unsplash:Ejcuhcdfwrs",
+    "page": "https://unsplash.com/photos/blue-and-purple-robot-toy-Ejcuhcdfwrs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1582571352032-448f7928eca3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1582571352032-448f7928eca3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1403
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eric Krull on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eric Krull",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@ekrull?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Ejcuhcdfwrs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww",
+    "track_pending": true
+   },
+   {
+    "shot": "ai-chip",
+    "shows": "Braunton (Devon, UK), Black Horse Inn -- 2013",
+    "file": "File:Braunton (Devon, UK), Black Horse Inn -- 2013 -- 00169.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Braunton_(Devon,_UK),_Black_Horse_Inn_--_2013_--_00169.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Braunton_%28Devon%2C_UK%29%2C_Black_Horse_Inn_--_2013_--_00169.jpg/1920px-Braunton_%28Devon%2C_UK%29%2C_Black_Horse_Inn_--_2013_--_00169.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Braunton_%28Devon%2C_UK%29%2C_Black_Horse_Inn_--_2013_--_00169.jpg/500px-Braunton_%28Devon%2C_UK%29%2C_Black_Horse_Inn_--_2013_--_00169.jpg",
+    "size": [
+     1920,
+     1251
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Dietmar Rabich",
+    "year": 2013,
+    "how": "catalog"
+   },
+   {
+    "shot": "robot",
+    "shows": "Black and white robot toy on red wooden table",
+    "file": "unsplash:zwd435-ewb4",
+    "page": "https://unsplash.com/photos/black-and-white-robot-toy-on-red-wooden-table-zwd435-ewb4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1201,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrea De Santis on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrea De Santis",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@santesson89?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zwd435-ewb4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww",
     "track_pending": true
    }
   ],
-  "checked": "2026-11-12"
+  "checked": "2026-11-14"
  },
  "datacenters": {
   "name": "AI data centers & power demand",
