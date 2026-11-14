@@ -95,6 +95,24 @@
    "source": "https://commons.wikimedia.org/wiki/File:Al_Jazeera_English_Newsroom.jpg"
   },
   {
+   "shows": "Old movie theater in Lompoc, California",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24200:24267/full/2248,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24200:24267/full/500,/0/default.jpg",
+   "size": [
+    2248,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2013631445/"
+  },
+  {
    "shows": "People playing video games at Gamescom 2026, Cologne",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/People_playing_video_games_at_Gamescom_2026%2C_Cologne_%28P1260629%29.jpg/1920px-People_playing_video_games_at_Gamescom_2026%2C_Cologne_%28P1260629%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/People_playing_video_games_at_Gamescom_2026%2C_Cologne_%28P1260629%29.jpg/500px-People_playing_video_games_at_Gamescom_2026%2C_Cologne_%28P1260629%29.jpg",
@@ -561,6 +579,23 @@
    "source": "https://unsplash.com/photos/blue-and-white-light-in-dark-room-lY_JEN49Re4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Erdfunkstelle Raisting 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erdfunkstelle_Raisting_2.jpg/1920px-Erdfunkstelle_Raisting_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erdfunkstelle_Raisting_2.jpg/500px-Erdfunkstelle_Raisting_2.jpg",
+   "size": [
+    1920,
+    1731
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Richard Bartz , Munich aka Makro Freak, CC BY-SA 2.5, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Erdfunkstelle_Raisting_2.jpg"
+  },
+  {
    "shows": "A small television sitting on top of a wooden dresser",
    "url": "https://images.unsplash.com/photo-1692803629992-90acbafd964d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHRlbGV2aXNpb258ZW58MXx8fHwxNzk0NjA3NTIxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1692803629992-90acbafd964d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHRlbGV2aXNpb258ZW58MXx8fHwxNzk0NjA3NTIxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -633,21 +668,22 @@
    "source": "https://unsplash.com/photos/blue-and-pink-fiber-optic-decor-buRbhjYpyoI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Erdfunkstelle Raisting 2",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erdfunkstelle_Raisting_2.jpg/1920px-Erdfunkstelle_Raisting_2.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Erdfunkstelle_Raisting_2.jpg/500px-Erdfunkstelle_Raisting_2.jpg",
+   "shows": "satellite dish",
+   "url": "https://images-assets.nasa.gov/image/KSC-2011-2959/KSC-2011-2959~large.jpg",
+   "preview": "https://images-assets.nasa.gov/image/KSC-2011-2959/KSC-2011-2959~medium.jpg",
    "size": [
     1920,
-    1731
+    1280
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Richard Bartz , Munich aka Makro Freak, CC BY-SA 2.5, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.5",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Erdfunkstelle_Raisting_2.jpg"
+   "credit": "Photo: NASA, public domain",
+   "licence": "Public domain (NASA)",
+   "author_url": "https://images.nasa.gov",
+   "provider": "nasa",
+   "source": "https://images.nasa.gov/details/KSC-2011-2959"
   },
   {
    "shows": "A remote control sitting in front of a television",
@@ -668,6 +704,24 @@
    "source": "https://unsplash.com/photos/a-remote-control-sitting-in-front-of-a-television-yjXAtMCPdGs?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "White and gray wireless headphones",
+   "url": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGhlYWRwaG9uZXN8ZW58MXx8fHwxNzk0NjA3NjQ5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGhlYWRwaG9uZXN8ZW58MXx8fHwxNzk0NjA3NjQ5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1358
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Akhil Yerabati on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@justaguyintech?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-gray-wireless-headphones-Q2uV5TkjNz8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Blue and white light digital wallpaper",
    "url": "https://images.unsplash.com/photo-1606778303077-3780ea8d5420?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGZpYmVyJTIwb3B0aWN8ZW58MXx8fHwxNzkzODgwNzEzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1606778303077-3780ea8d5420?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGZpYmVyJTIwb3B0aWN8ZW58MXx8fHwxNzkzODgwNzEzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -686,6 +740,24 @@
    "source": "https://unsplash.com/photos/blue-and-white-light-digital-wallpaper-jlrnBE3Jn3o?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "White and black satellite dish lot",
+   "url": "https://images.unsplash.com/photo-1529527495849-f010c791e839?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHNhdGVsbGl0ZSUyMGRpc2h8ZW58MXx8fHwxNzkzODgwNzE0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1529527495849-f010c791e839?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHNhdGVsbGl0ZSUyMGRpc2h8ZW58MXx8fHwxNzkzODgwNzE0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pawel Czerwinski on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@pawel_czerwinski?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-black-satellite-dish-lot-xq2EsbMRPe4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Vintage television set with a blank screen",
    "url": "https://images.unsplash.com/photo-1766941234615-644690cad4e2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHRlbGV2aXNpb258ZW58MXx8fHwxNzk0NjA3NTIxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1766941234615-644690cad4e2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHRlbGV2aXNpb258ZW58MXx8fHwxNzk0NjA3NTIxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -702,6 +774,60 @@
    "author_url": "https://unsplash.com/@nottwentyseven?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/vintage-television-set-with-a-blank-screen-GWhqmo8uz24?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White apple airpods charging case",
+   "url": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGhlYWRwaG9uZXN8ZW58MXx8fHwxNzk0NjA3NjQ5fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGhlYWRwaG9uZXN8ZW58MXx8fHwxNzk0NjA3NjQ5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by John M. Smit on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@john_smit?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-apple-airpods-charging-case-Mc5EwlPC3zA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Abstract blue glowing fiber optics with bokeh effect",
+   "url": "https://images.unsplash.com/photo-1776052823208-b9d3df048e34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGZpYmVyJTIwb3B0aWN8ZW58MXx8fHwxNzkzODgwNzEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1776052823208-b9d3df048e34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGZpYmVyJTIwb3B0aWN8ZW58MXx8fHwxNzkzODgwNzEzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kashish Lamba on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@drunkenchimp?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/abstract-blue-glowing-fiber-optics-with-bokeh-effect-DGwunSOMMbk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A couple of satellite dishes sitting on top of a cement ground",
+   "url": "https://images.unsplash.com/photo-1697578878480-7ca386822b26?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNhdGVsbGl0ZSUyMGRpc2h8ZW58MXx8fHwxNzkzODgwNzE0fDA&ixlib=rb-4.1.0&w=2322&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1697578878480-7ca386822b26?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNhdGVsbGl0ZSUyMGRpc2h8ZW58MXx8fHwxNzkzODgwNzE0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2322,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Francis Tokede on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cosmascares?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-couple-of-satellite-dishes-sitting-on-top-of-a-cement-ground-J3SJamkbkH4?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
