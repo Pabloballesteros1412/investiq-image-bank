@@ -113,24 +113,6 @@
    "source": "https://unsplash.com/photos/a-black-car-parked-in-a-wooded-area-5IaRz8fQBtI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Lighthouse at Battery Point, California",
-   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:25600:25634/full/2322,/0/default.jpg",
-   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:25600:25634/full/500,/0/default.jpg",
-   "size": [
-    2322,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
-   "provider": "loc",
-   "source": "https://www.loc.gov/item/2013635079/"
-  },
-  {
    "shows": "EV Type2 Charging Cable1",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/EV_Type2_Charging_Cable1.jpg/1920px-EV_Type2_Charging_Cable1.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/EV_Type2_Charging_Cable1.jpg/500px-EV_Type2_Charging_Cable1.jpg",
@@ -182,6 +164,23 @@
    "author_url": "https://unsplash.com/@zaptec?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-black-cord-plugged-into-a-wooden-wall-2n7ugRl1YsQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Electric Vehicle Charging Port 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Electric_Vehicle_Charging_Port_3.jpg/1920px-Electric_Vehicle_Charging_Port_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Electric_Vehicle_Charging_Port_3.jpg/500px-Electric_Vehicle_Charging_Port_3.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Esthee2010, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Electric_Vehicle_Charging_Port_3.jpg"
   },
   {
    "shows": "An electric car plugged in to a charging station",
