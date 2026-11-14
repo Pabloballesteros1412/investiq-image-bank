@@ -6,6 +6,7 @@
   "FTNT"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -24,6 +25,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Fortinet_exhibition_stall.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Fortinet FortiGate 3810A · 2012, 3810a, amsterdam, canonef12iiextensiontube, canonef50mmf18mkii",
+   "url": "https://live.staticflickr.com/8485/8183860813_71193197f7_b.jpg",
+   "preview": "https://live.staticflickr.com/8485/8183860813_71193197f7_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dvanzuijlekom on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/52365139@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/52365139@N05/8183860813",
+   "plain": true
+  },
+  {
+   "shows": "Fortinet FortiGate 100D · computing, firewall, fortigate, fortinet, it",
+   "url": "https://live.staticflickr.com/4507/37855201782_d4d498d803_b.jpg",
+   "preview": "https://live.staticflickr.com/4507/37855201782_d4d498d803_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by webernetz on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/144534024@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/144534024@N07/37855201782",
    "plain": true
   }
  ]

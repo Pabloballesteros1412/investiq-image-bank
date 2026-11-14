@@ -6,7 +6,7 @@
   "JD"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Building 1, JD.com Headquarters",
@@ -24,6 +24,23 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Building_1,_JD.com_Headquarters_(20240925134055).jpg"
+  },
+  {
+   "shows": "Building 2, JD.com Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Building_2%2C_JD.com_Headquarters_%2820240925133013%29.jpg/1920px-Building_2%2C_JD.com_Headquarters_%2820240925133013%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Building_2%2C_JD.com_Headquarters_%2820240925133013%29.jpg/500px-Building_2%2C_JD.com_Headquarters_%2820240925133013%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Building_2,_JD.com_Headquarters_(20240925133013).jpg"
   },
   {
    "shows": "GD 廣東 Guangdong 廣州 Guangzhou 天河路 598 TianHe Road 百腦匯電腦城 Buynow Electronic Market mall shop DJ Com October 2024 R12S",
@@ -113,6 +130,60 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E9%BE%8D%E5%B4%97_Longgang_%E5%90%89%E8%8F%AF%E8%B7%AF_Jihua_Road_%E6%A8%82%E5%8C%AF%E5%9F%8E_Le_Hui_City_mall_%E4%BA%AC%E6%9D%B1%E5%AE%B6%E9%9B%BB_JD.COM_store_May_2024_R12S.jpg",
+   "plain": true
+  },
+  {
+   "shows": "GD 廣東 Guangdong 中山 Zhongshan 巴士 Bus 030 tour view August 2024 R12S 137",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%B7%B4%E5%A3%AB_Bus_030_tour_view_August_2024_R12S_137.jpg/1920px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%B7%B4%E5%A3%AB_Bus_030_tour_view_August_2024_R12S_137.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%B7%B4%E5%A3%AB_Bus_030_tour_view_August_2024_R12S_137.jpg/500px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%B7%B4%E5%A3%AB_Bus_030_tour_view_August_2024_R12S_137.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BDKOWM mICeZ 528, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E4%B8%AD%E5%B1%B1_Zhongshan_%E5%B7%B4%E5%A3%AB_Bus_030_tour_view_August_2024_R12S_137.jpg",
+   "plain": true
+  },
+  {
+   "shows": "SZ Shenzhen Futian JinTian Road 京東家電 JD.COM store September 2025 N13P 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SZ_Shenzhen_Futian_JinTian_Road_%E4%BA%AC%E6%9D%B1%E5%AE%B6%E9%9B%BB_JD.COM_store_September_2025_N13P_01.jpg/1280px-SZ_Shenzhen_Futian_JinTian_Road_%E4%BA%AC%E6%9D%B1%E5%AE%B6%E9%9B%BB_JD.COM_store_September_2025_N13P_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SZ_Shenzhen_Futian_JinTian_Road_%E4%BA%AC%E6%9D%B1%E5%AE%B6%E9%9B%BB_JD.COM_store_September_2025_N13P_01.jpg/500px-SZ_Shenzhen_Futian_JinTian_Road_%E4%BA%AC%E6%9D%B1%E5%AE%B6%E9%9B%BB_JD.COM_store_September_2025_N13P_01.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "KRIGHTZ 6KM CCYOOP, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Futian_JinTian_Road_%E4%BA%AC%E6%9D%B1%E5%AE%B6%E9%9B%BB_JD.COM_store_September_2025_N13P_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "SZ 深圳 Shenzhen 福田 Futian 深圳花好園 HuaHao Yuan Shopping Mall shop JD Com June 2024 R12S",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%B7%B1%E5%9C%B3%E8%8A%B1%E5%A5%BD%E5%9C%92_HuaHao_Yuan_Shopping_Mall_shop_JD_Com_June_2024_R12S.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%B7%B1%E5%9C%B3%E8%8A%B1%E5%A5%BD%E5%9C%92_HuaHao_Yuan_Shopping_Mall_shop_JD_Com_June_2024_R12S.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%B7%B1%E5%9C%B3%E8%8A%B1%E5%A5%BD%E5%9C%92_HuaHao_Yuan_Shopping_Mall_shop_JD_Com_June_2024_R12S.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%B7%B1%E5%9C%B3%E8%8A%B1%E5%A5%BD%E5%9C%92_HuaHao_Yuan_Shopping_Mall_shop_JD_Com_June_2024_R12S.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BISLTAIO Tosmacia, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%B7%B1%E5%9C%B3%E8%8A%B1%E5%A5%BD%E5%9C%92_HuaHao_Yuan_Shopping_Mall_shop_JD_Com_June_2024_R12S.jpg",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "WTW"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
   {
@@ -42,6 +43,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_Willis_Towers_Watson_building,_Ipswich,_Suffolk_(37026322353).jpg",
+   "plain": true
+  },
+  {
+   "shows": "The Willis Towers Watson building in Ipswich - Suffolk aerial view",
+   "url": "https://live.staticflickr.com/4473/37026322353_4d01eab66f_b.jpg",
+   "preview": "https://live.staticflickr.com/4473/37026322353_4d01eab66f_z.jpg",
+   "size": [
+    1024,
+    767
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by John D Fielding on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/29372296@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29372296@N00/37026322353",
    "plain": true
   }
  ]

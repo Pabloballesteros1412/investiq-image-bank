@@ -6,7 +6,7 @@
   "ROST"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Ross Store 01",
@@ -41,6 +41,23 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ross,_Erie_PA_(54956206918).jpg"
+  },
+  {
+   "shows": "Ross Modesto, California 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ross_Modesto%2C_California_2.jpg/1920px-Ross_Modesto%2C_California_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ross_Modesto%2C_California_2.jpg/500px-Ross_Modesto%2C_California_2.jpg",
+   "size": [
+    1920,
+    1339
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ross_Modesto,_California_2.jpg"
   },
   {
    "shows": "Ross Dress for Less, Colorado Springs",
@@ -130,6 +147,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Setting_Up_Ross_Store_Historic_Overtown_(54355633082).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ross Dress for Less, Butler Plaza Central, Gainesville",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ross_Dress_for_Less%2C_Butler_Plaza_Central%2C_Gainesville.jpg/1280px-Ross_Dress_for_Less%2C_Butler_Plaza_Central%2C_Gainesville.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ross_Dress_for_Less%2C_Butler_Plaza_Central%2C_Gainesville.jpg/500px-Ross_Dress_for_Less%2C_Butler_Plaza_Central%2C_Gainesville.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ross_Dress_for_Less,_Butler_Plaza_Central,_Gainesville.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ross in Former Macy’s (Burdines) Downtown Miami",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ross_in_Former_Macy%E2%80%99s_%28Burdines%29_Downtown_Miami_%2851286984141%29.jpg/1920px-Ross_in_Former_Macy%E2%80%99s_%28Burdines%29_Downtown_Miami_%2851286984141%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ross_in_Former_Macy%E2%80%99s_%28Burdines%29_Downtown_Miami_%2851286984141%29.jpg/500px-Ross_in_Former_Macy%E2%80%99s_%28Burdines%29_Downtown_Miami_%2851286984141%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ross_in_Former_Macy%E2%80%99s_(Burdines)_Downtown_Miami_(51286984141).jpg",
    "plain": true
   }
  ]

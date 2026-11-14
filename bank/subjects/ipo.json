@@ -3,6 +3,7 @@
  "kind": "topic",
  "name": "IPOs",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
    "shows": "A black and white photo of the new york stock exchange",
@@ -21,6 +22,23 @@
    "author_url": "https://unsplash.com/@martinrajdl?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-black-and-white-photo-of-the-new-york-stock-exchange-4YFhbgm1keU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Brussels Stock Exchange",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Brussels_Stock_Exchange_%283%29.jpg/1920px-Brussels_Stock_Exchange_%283%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Brussels_Stock_Exchange_%283%29.jpg/500px-Brussels_Stock_Exchange_%283%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bernard Lee, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brussels_Stock_Exchange_(3).jpg"
   },
   {
    "shows": "New York Stock Exchange (NYSE) - Slack IPO",
@@ -91,6 +109,129 @@
    "author_url": "https://unsplash.com/@cyril92?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/wall-street-sign-with-american-flags-in-the-background-Ykq8v2b8lyw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Manhattan - New York Stock Exchange Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Manhattan_-_New_York_Stock_Exchange_Building_-_20190929151052.jpg/1920px-Manhattan_-_New_York_Stock_Exchange_Building_-_20190929151052.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Manhattan_-_New_York_Stock_Exchange_Building_-_20190929151052.jpg/500px-Manhattan_-_New_York_Stock_Exchange_Building_-_20190929151052.jpg",
+   "size": [
+    1920,
+    1218
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Skypetrus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Manhattan_-_New_York_Stock_Exchange_Building_-_20190929151052.jpg"
+  },
+  {
+   "shows": "Wide-Angle New York Stock Exchange",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg/1920px-Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg/500px-Wide-Angle_New_York_Stock_Exchange_%2851680640260%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Billie Grace Ward from New York, USA, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wide-Angle_New_York_Stock_Exchange_(51680640260).jpg"
+  },
+  {
+   "shows": "NASDAQ stock market display",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NASDAQ_stock_market_display.jpg/1920px-NASDAQ_stock_market_display.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/NASDAQ_stock_market_display.jpg/500px-NASDAQ_stock_market_display.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "bfishadow on Flickr, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NASDAQ_stock_market_display.jpg"
+  },
+  {
+   "shows": "A street with buildings and flags",
+   "url": "https://images.unsplash.com/photo-1661959118121-c3f0ebf1345e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8V2FsbCUyMFN0cmVldCUyMGZsYWdzfGVufDF8fHx8MTc5MzkwOTM0Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1661959118121-c3f0ebf1345e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8V2FsbCUyMFN0cmVldCUyMGZsYWdzfGVufDF8fHx8MTc5MzkwOTM0Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Maria Lin Kim on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mrsmaria?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-street-with-buildings-and-flags-PdtSqv_EWVQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The Manhattan skyline and Brooklyn Bridge over the East River in New York",
+   "url": "https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmV3JTIweW9ya3xlbnwxfHx8fDE3OTQ2NTgzMTB8MA&ixlib=rb-4.1.0&w=2253&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmV3JTIweW9ya3xlbnwxfHx8fDE3OTQ2NTgzMTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2253,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Patrick Tomasso on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@impatrickt?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/manhattan-skyline-and-brooklyn-bridge-SVVTZtTGyaU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person holding a cell phone in front of a laptop",
+   "url": "https://images.unsplash.com/photo-1716279083559-ffc3a863c457?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGJyb2tlcnxlbnwxfHx8fDE3OTQ2Njg1Nzl8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1716279083559-ffc3a863c457?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGJyb2tlcnxlbnwxfHx8fDE3OTQ2Njg1Nzl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by TabTrader.com on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tabtrader_com?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-laptop-q7hV_tY4n6E?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large american flag hanging from the side of a building",
+   "url": "https://images.unsplash.com/photo-1653866114671-b50358b58a65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFdhbGwlMjBTdHJlZXQlMjBmbGFnc3xlbnwxfHx8fDE3OTM5MDkzNDJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1653866114671-b50358b58a65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFdhbGwlMjBTdHJlZXQlMjBmbGFnc3xlbnwxfHx8fDE3OTM5MDkzNDJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Hans on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hansphoto?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-american-flag-hanging-from-the-side-of-a-building-SeNtSpNCfXI?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

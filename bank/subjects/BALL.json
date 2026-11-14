@@ -6,6 +6,80 @@
   "BALL"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "James Webb Space Telescope Mirror38",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/James_Webb_Space_Telescope_Mirror38.jpg/1920px-James_Webb_Space_Telescope_Mirror38.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/James_Webb_Space_Telescope_Mirror38.jpg/500px-James_Webb_Space_Telescope_Mirror38.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA/MSFC/David Higginbotham/Emmett Given, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Mirror38.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Yes, the James Webb Space Telescope Mirrors 'Can'",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yes%2C_the_James_Webb_Space_Telescope_Mirrors_%27Can%27_%287986235455%29.jpg/1920px-Yes%2C_the_James_Webb_Space_Telescope_Mirrors_%27Can%27_%287986235455%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yes%2C_the_James_Webb_Space_Telescope_Mirrors_%27Can%27_%287986235455%29.jpg/500px-Yes%2C_the_James_Webb_Space_Telescope_Mirrors_%27Can%27_%287986235455%29.jpg",
+   "size": [
+    1920,
+    1610
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Goddard Space Flight Center from Greenbelt, MD, USA, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Yes,_the_James_Webb_Space_Telescope_Mirrors_%27Can%27_(7986235455).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Building the Space Telescope Imaging Spectrograph of Hubble Space Telescope 1996 18 lg web",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Building_the_Space_Telescope_Imaging_Spectrograph_of_Hubble_Space_Telescope_1996_18_lg_web.jpg/1920px-Building_the_Space_Telescope_Imaging_Spectrograph_of_Hubble_Space_Telescope_1996_18_lg_web.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Building_the_Space_Telescope_Imaging_Spectrograph_of_Hubble_Space_Telescope_1996_18_lg_web.jpg/500px-Building_the_Space_Telescope_Imaging_Spectrograph_of_Hubble_Space_Telescope_1996_18_lg_web.jpg",
+   "size": [
+    1920,
+    1524
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Building_the_Space_Telescope_Imaging_Spectrograph_of_Hubble_Space_Telescope_1996_18_lg_web.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mars Reconnaissance Orbiter HiRISE",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mars_Reconnaissance_Orbiter_HiRISE.jpg/1920px-Mars_Reconnaissance_Orbiter_HiRISE.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mars_Reconnaissance_Orbiter_HiRISE.jpg/500px-Mars_Reconnaissance_Orbiter_HiRISE.jpg",
+   "size": [
+    1920,
+    1251
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mars_Reconnaissance_Orbiter_HiRISE.jpg",
+   "plain": true
+  }
+ ]
 }

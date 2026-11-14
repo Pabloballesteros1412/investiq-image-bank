@@ -6,7 +6,7 @@
   "APD"
  ],
  "sector": "sector-materials",
- "fill_from": "sector-materials",
+ "target": 10,
  "photos": [
   {
    "shows": "Air Products Headquarters, Trexlertown",
@@ -96,6 +96,96 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Air_Products%27_Yard_-_geograph.org.uk_-_2801159.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hattingen (Ruhrbrücke Kosterstraße) 04 ies",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hattingen_%28Ruhrbr%C3%BCcke_Kosterstra%C3%9Fe%29_04_ies.jpg/1920px-Hattingen_%28Ruhrbr%C3%BCcke_Kosterstra%C3%9Fe%29_04_ies.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hattingen_%28Ruhrbr%C3%BCcke_Kosterstra%C3%9Fe%29_04_ies.jpg/500px-Hattingen_%28Ruhrbr%C3%BCcke_Kosterstra%C3%9Fe%29_04_ies.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Frank Vincentz, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hattingen_(Ruhrbr%C3%BCcke_Kosterstra%C3%9Fe)_04_ies.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Air Products, Ellesmere Port - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Air_Products%2C_Ellesmere_Port_-_geograph.org.uk_-_3497122.jpg/1920px-Air_Products%2C_Ellesmere_Port_-_geograph.org.uk_-_3497122.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Air_Products%2C_Ellesmere_Port_-_geograph.org.uk_-_3497122.jpg/500px-Air_Products%2C_Ellesmere_Port_-_geograph.org.uk_-_3497122.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jeff Buck, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Air_Products,_Ellesmere_Port_-_geograph.org.uk_-_3497122.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Air Products, Girvan - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Air_Products%2C_Girvan_-_geograph.org.uk_-_7668968.jpg/1920px-Air_Products%2C_Girvan_-_geograph.org.uk_-_7668968.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Air_Products%2C_Girvan_-_geograph.org.uk_-_7668968.jpg/500px-Air_Products%2C_Girvan_-_geograph.org.uk_-_7668968.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Billy McCrorie, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Air_Products,_Girvan_-_geograph.org.uk_-_7668968.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Air Products Chemical Works - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Air_Products_Chemical_Works_-_geograph.org.uk_-_4625961.jpg/1920px-Air_Products_Chemical_Works_-_geograph.org.uk_-_4625961.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Air_Products_Chemical_Works_-_geograph.org.uk_-_4625961.jpg/500px-Air_Products_Chemical_Works_-_geograph.org.uk_-_4625961.jpg",
+   "size": [
+    1920,
+    1343
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Peter McDermott, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Air_Products_Chemical_Works_-_geograph.org.uk_-_4625961.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bar air products serve van",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bar_air_products_serve_van.jpg/1920px-Bar_air_products_serve_van.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bar_air_products_serve_van.jpg/500px-Bar_air_products_serve_van.jpg",
+   "size": [
+    1920,
+    874
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stelaplex, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bar_air_products_serve_van.jpg",
    "plain": true
   }
  ]

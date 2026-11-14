@@ -6,6 +6,7 @@
   "WMT"
  ],
  "sector": "sector-staples",
+ "target": 30,
  "photos": [
   {
    "shows": "John Furner headshot 2019",
@@ -77,6 +78,40 @@
    "author_url": "https://unsplash.com/@unsplashbydan?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/busy-road-traffic-passes-a-walmart-store-fNV-AkJRPx0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Walmart store exterior",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Walmart_store_exterior_5266815680.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Walmart_store_exterior_5266815680.jpg/500px-Walmart_store_exterior_5266815680.jpg",
+   "size": [
+    1728,
+    1298
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Walmart Corporate from Bentonville, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_store_exterior_5266815680.jpg"
+  },
+  {
+   "shows": "Walmart Visitors Center in Bentonville, Arkansas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Walmart_Visitors_Center_in_Bentonville%2C_Arkansas.jpg/1920px-Walmart_Visitors_Center_in_Bentonville%2C_Arkansas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Walmart_Visitors_Center_in_Bentonville%2C_Arkansas.jpg/500px-Walmart_Visitors_Center_in_Bentonville%2C_Arkansas.jpg",
+   "size": [
+    1920,
+    1617
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Walmart from Bentonville, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_Visitors_Center_in_Bentonville,_Arkansas.jpg"
   },
   {
    "shows": "Walmart Supercenter - Quincy, FL",
@@ -184,6 +219,330 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Walmart_7.jpg",
+   "plain": true
+  },
+  {
+   "shows": "WALMART SHEKOU STORE AT NANHAI BOULEVARD,SHENZHEN",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN.jpg/1280px-WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN.jpg/500px-WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN.jpg",
+   "size": [
+    1280,
+    1919
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD,SHENZHEN.jpg",
+   "plain": true
+  },
+  {
+   "shows": "WALMART CUIZHU STORE AT CUIZHU ROAD, SHENZHEN",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD%2C_SHENZHEN.jpg/1920px-WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD%2C_SHENZHEN.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD%2C_SHENZHEN.jpg/500px-WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD%2C_SHENZHEN.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WALMART_CUIZHU_STORE_AT_CUIZHU_ROAD,_SHENZHEN.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Inland Empire CA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Inland_Empire_CA_20230816_004001269.jpg/1920px-Inland_Empire_CA_20230816_004001269.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Inland_Empire_CA_20230816_004001269.jpg/500px-Inland_Empire_CA_20230816_004001269.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sony 1992, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Inland_Empire_CA_20230816_004001269.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart in Newton, Mississippi",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Walmart_in_Newton%2C_Mississippi.jpg/1920px-Walmart_in_Newton%2C_Mississippi.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Walmart_in_Newton%2C_Mississippi.jpg/500px-Walmart_in_Newton%2C_Mississippi.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ktkvtsh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_in_Newton,_Mississippi.jpg",
+   "plain": true
+  },
+  {
+   "shows": "SZ 深圳 Shenzhen 福田 Futian 振華路 Zhenhua Road 華強北 Huaqiang North shop 沃爾瑪 Walmart Supermarket August 2025 N13P 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%8C%AF%E8%8F%AF%E8%B7%AF_Zhenhua_Road_%E8%8F%AF%E5%BC%B7%E5%8C%97_Huaqiang_North_shop_%E6%B2%83%E7%88%BE%E7%91%AA_Walmart_Supermarket_August_2025_N13P_02.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%8C%AF%E8%8F%AF%E8%B7%AF_Zhenhua_Road_%E8%8F%AF%E5%BC%B7%E5%8C%97_Huaqiang_North_shop_%E6%B2%83%E7%88%BE%E7%91%AA_Walmart_Supermarket_August_2025_N13P_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%8C%AF%E8%8F%AF%E8%B7%AF_Zhenhua_Road_%E8%8F%AF%E5%BC%B7%E5%8C%97_Huaqiang_North_shop_%E6%B2%83%E7%88%BE%E7%91%AA_Walmart_Supermarket_August_2025_N13P_02.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%8C%AF%E8%8F%AF%E8%B7%AF_Zhenhua_Road_%E8%8F%AF%E5%BC%B7%E5%8C%97_Huaqiang_North_shop_%E6%B2%83%E7%88%BE%E7%91%AA_Walmart_Supermarket_August_2025_N13P_02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "GOSDHN YANDKS LAMOU, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0_Futian_%E6%8C%AF%E8%8F%AF%E8%B7%AF_Zhenhua_Road_%E8%8F%AF%E5%BC%B7%E5%8C%97_Huaqiang_North_shop_%E6%B2%83%E7%88%BE%E7%91%AA_Walmart_Supermarket_August_2025_N13P_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart - August 2025 - Sarah Stierch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Walmart_-_August_2025_-_Sarah_Stierch.jpg/1920px-Walmart_-_August_2025_-_Sarah_Stierch.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Walmart_-_August_2025_-_Sarah_Stierch.jpg/500px-Walmart_-_August_2025_-_Sarah_Stierch.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Missvain, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_-_August_2025_-_Sarah_Stierch.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart Boys Clothing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Walmart_Boys_Clothing.jpg/1280px-Walmart_Boys_Clothing.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Walmart_Boys_Clothing.jpg/500px-Walmart_Boys_Clothing.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ktkvtsh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_Boys_Clothing.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Social distancing at Walmart Canada",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SocialDistancingWalmartCanada.jpg/1920px-SocialDistancingWalmartCanada.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SocialDistancingWalmartCanada.jpg/500px-SocialDistancingWalmartCanada.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SocialDistancingWalmartCanada.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart Neighborhood Market Miami",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Walmart_Neighborhood_Market_Miami_%2852379318565%29.jpg/1920px-Walmart_Neighborhood_Market_Miami_%2852379318565%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Walmart_Neighborhood_Market_Miami_%2852379318565%29.jpg/500px-Walmart_Neighborhood_Market_Miami_%2852379318565%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_Neighborhood_Market_Miami_(52379318565).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Covid-19 social distancing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Covid-19_social_distancing_%2850149826762%29.jpg/1920px-Covid-19_social_distancing_%2850149826762%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Covid-19_social_distancing_%2850149826762%29.jpg/500px-Covid-19_social_distancing_%2850149826762%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "daveynin from United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Covid-19_social_distancing_(50149826762).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart Patria",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Walmart_Patria.jpg/1920px-Walmart_Patria.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Walmart_Patria.jpg/500px-Walmart_Patria.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Doctor Dragon 2000, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_Patria.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart home office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Walmart_home_office_%2814286313202%29.jpg/1920px-Walmart_home_office_%2814286313202%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Walmart_home_office_%2814286313202%29.jpg/500px-Walmart_home_office_%2814286313202%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jo Naylor from Villisca, Iowa, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_home_office_(14286313202).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart Home Office sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Walmart_Home_Office_sign.jpg/1280px-Walmart_Home_Office_sign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Walmart_Home_Office_sign.jpg/500px-Walmart_Home_Office_sign.jpg",
+   "size": [
+    1280,
+    1792
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Walmart Corporate, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_Home_Office_sign.jpg",
+   "plain": true
+  },
+  {
+   "shows": "WALMART SHEKOU STORE AT NANHAI BOULEVARD,SHENZHEN",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN_%283%29.jpg/1920px-WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN_%283%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN_%283%29.jpg/500px-WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD%2CSHENZHEN_%283%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WALMART_SHEKOU_STORE_AT_NANHAI_BOULEVARD,SHENZHEN_(3).jpg",
+   "plain": true
+  },
+  {
+   "shows": "WALMART SHENZHEN HONGLING STORE AT HONGLING NORTH ROAD, SHENZHEN",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WALMART_SHENZHEN_HONGLING_STORE_AT_HONGLING_NORTH_ROAD%2C_SHENZHEN.jpg/1920px-WALMART_SHENZHEN_HONGLING_STORE_AT_HONGLING_NORTH_ROAD%2C_SHENZHEN.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/WALMART_SHENZHEN_HONGLING_STORE_AT_HONGLING_NORTH_ROAD%2C_SHENZHEN.jpg/500px-WALMART_SHENZHEN_HONGLING_STORE_AT_HONGLING_NORTH_ROAD%2C_SHENZHEN.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WALMART_SHENZHEN_HONGLING_STORE_AT_HONGLING_NORTH_ROAD,_SHENZHEN.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart distribution center in Tomah",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Walmart_distribution_center_in_Tomah.jpg/1920px-Walmart_distribution_center_in_Tomah.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Walmart_distribution_center_in_Tomah.jpg/500px-Walmart_distribution_center_in_Tomah.jpg",
+   "size": [
+    1920,
+    917
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wikideas1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_distribution_center_in_Tomah.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart Super Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Walmart_Super_Center.jpg/1920px-Walmart_Super_Center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Walmart_Super_Center.jpg/500px-Walmart_Super_Center.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JBTHEMILKER, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_Super_Center.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Walmart sign - Quincy, FL",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Walmart_sign_-_Quincy%2C_FL.jpg/1920px-Walmart_sign_-_Quincy%2C_FL.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Walmart_sign_-_Quincy%2C_FL.jpg/500px-Walmart_sign_-_Quincy%2C_FL.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "FLGALine1999, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Walmart_sign_-_Quincy,_FL.jpg",
    "plain": true
   }
  ]

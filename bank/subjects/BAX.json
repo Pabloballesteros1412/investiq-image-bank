@@ -6,6 +6,7 @@
   "BAX"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -78,6 +79,24 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Baxter_Colleague_CX_infusion_pump.JPG",
+   "plain": true
+  },
+  {
+   "shows": "A Baxter International facility in Marion, North Carolina 03",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/A_Baxter_International_facility_in_Marion%2C_North_Carolina_03.jpg/1920px-A_Baxter_International_facility_in_Marion%2C_North_Carolina_03.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/A_Baxter_International_facility_in_Marion%2C_North_Carolina_03.jpg/500px-A_Baxter_International_facility_in_Marion%2C_North_Carolina_03.jpg",
+   "size": [
+    1920,
+    1327
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Baxter_International_facility_in_Marion,_North_Carolina_03.jpg",
    "plain": true
   }
  ]

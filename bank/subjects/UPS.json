@@ -6,7 +6,7 @@
   "UPS"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "A ups truck driving down a city street",
@@ -43,6 +43,23 @@
    "author_url": "https://unsplash.com/@john_money?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/ups-delivery-truck-on-city-street-JB4UlLgWDWM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "11 52 35 United Parcel Service truck along Hemlock Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2023-08-04_11_52_35_United_Parcel_Service_truck_along_Hemlock_Lane_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1920px-2023-08-04_11_52_35_United_Parcel_Service_truck_along_Hemlock_Lane_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2023-08-04_11_52_35_United_Parcel_Service_truck_along_Hemlock_Lane_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/500px-2023-08-04_11_52_35_United_Parcel_Service_truck_along_Hemlock_Lane_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2023-08-04_11_52_35_United_Parcel_Service_truck_along_Hemlock_Lane_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg"
   },
   {
    "shows": "HTS Systems UPS Ground",
@@ -132,6 +149,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:UPS_Drop_Box,_N_Crossing_Cir,_Valdosta.jpg",
+   "plain": true
+  },
+  {
+   "shows": "UPS semi trailer truck in Arlington Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UPS_semi_trailer_truck_in_Arlington_Texas.jpg/1920px-UPS_semi_trailer_truck_in_Arlington_Texas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/UPS_semi_trailer_truck_in_Arlington_Texas.jpg/500px-UPS_semi_trailer_truck_in_Arlington_Texas.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Department of Agriculture, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:UPS_semi_trailer_truck_in_Arlington_Texas.jpg",
+   "plain": true
+  },
+  {
+   "shows": "UPS worker unloads boxes from semi trailer truck onto conveyor belt",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/UPS_worker_unloads_boxes_from_semi_trailer_truck_onto_conveyor_belt.jpg/1920px-UPS_worker_unloads_boxes_from_semi_trailer_truck_onto_conveyor_belt.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/UPS_worker_unloads_boxes_from_semi_trailer_truck_onto_conveyor_belt.jpg/500px-UPS_worker_unloads_boxes_from_semi_trailer_truck_onto_conveyor_belt.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Department of Agriculture, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:UPS_worker_unloads_boxes_from_semi_trailer_truck_onto_conveyor_belt.jpg",
    "plain": true
   }
  ]

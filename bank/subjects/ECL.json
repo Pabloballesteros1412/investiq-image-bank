@@ -6,6 +6,7 @@
   "ECL"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
   {
@@ -78,6 +79,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ecolab_and_Alliance_Bank_Center.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ecolab Hand Sanitizer Dispenser",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Ecolab_Hand_Sanitizer_Dispenser_%283687657991%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ecolab_Hand_Sanitizer_Dispenser_%283687657991%29.jpg/500px-Ecolab_Hand_Sanitizer_Dispenser_%283687657991%29.jpg",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tnarik Innael from London, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ecolab_Hand_Sanitizer_Dispenser_(3687657991).jpg",
    "plain": true
   }
  ]

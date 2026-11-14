@@ -6,6 +6,7 @@
   "VMC"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
   {
@@ -24,6 +25,86 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Vulcan_materials_dolcito_quarry.jpg",
+   "plain": true
+  },
+  {
+   "shows": "vulcan materials pit 3",
+   "url": "https://live.staticflickr.com/3716/9524911616_f879bcb20f_b.jpg",
+   "preview": "https://live.staticflickr.com/3716/9524911616_f879bcb20f_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by valli_mark on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39939287@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39939287@N00/9524911616",
+   "plain": true
+  },
+  {
+   "shows": "Hoover Cement and Vulcan Materials - Huntsville AL",
+   "url": "https://live.staticflickr.com/1811/30054001978_541ba0601f_b.jpg",
+   "preview": "https://live.staticflickr.com/1811/30054001978_541ba0601f_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by formulanone on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/30552029@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30552029@N00/30054001978",
+   "plain": true
+  },
+  {
+   "shows": "vulcan materials pit 2",
+   "url": "https://live.staticflickr.com/7288/9522128993_f32f4ea562_b.jpg",
+   "preview": "https://live.staticflickr.com/7288/9522128993_f32f4ea562_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by valli_mark on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39939287@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39939287@N00/9522128993",
+   "plain": true
+  },
+  {
+   "shows": "Vulcan Materials Dallas · dallas, texas",
+   "url": "https://live.staticflickr.com/65535/50442804272_33eae35d60_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/50442804272_33eae35d60_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by formulanone on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/30552029@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30552029@N00/50442804272",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "ORCL"
  ],
  "sector": "sector-tech",
+ "target": 30,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -112,6 +113,77 @@
    "source": "https://commons.wikimedia.org/wiki/File:Oracle_Headquarters_Redwood_Shores.jpg"
   },
   {
+   "shows": "USA 17 at Oracle Corporation Headquarters - July 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_%288218%29.jpg/1280px-USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_%288218%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_%288218%29.jpg/500px-USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_%288218%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_(8218).jpg"
+  },
+  {
+   "shows": "Fixing the database",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fixing_the_database_%284140461901%29.jpg/1920px-Fixing_the_database_%284140461901%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fixing_the_database_%284140461901%29.jpg/500px-Fixing_the_database_%284140461901%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Håkan Dahlström from Malmö, Sweden, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fixing_the_database_(4140461901).jpg"
+  },
+  {
+   "shows": "500 Oracle Parkway, Oracle HQ",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/500_Oracle_Parkway%2C_Oracle_HQ.JPG/1280px-500_Oracle_Parkway%2C_Oracle_HQ.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/500_Oracle_Parkway%2C_Oracle_HQ.JPG/500px-500_Oracle_Parkway%2C_Oracle_HQ.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:500_Oracle_Parkway,_Oracle_HQ.JPG"
+  },
+  {
+   "shows": "Oracle Corporation Headquarters - July 2019 (8267)",
+   "url": "https://live.staticflickr.com/65535/48402803731_91dab500ea_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48402803731_91dab500ea_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by varnent on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/9910730@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/9910730@N08/48402803731",
+   "plain": true
+  },
+  {
    "shows": "Oracle Redwood City May 2011 002",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Oracle_Redwood_City_May_2011_002.jpg/1920px-Oracle_Redwood_City_May_2011_002.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Oracle_Redwood_City_May_2011_002.jpg/500px-Oracle_Redwood_City_May_2011_002.jpg",
@@ -163,6 +235,282 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_(8327).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Canada office in Markham.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/OracleMarkham5.jpg/1920px-OracleMarkham5.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/OracleMarkham5.jpg/500px-OracleMarkham5.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:OracleMarkham5.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oracle building Amsterdam 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oracle_building_Amsterdam_2019.jpg/1920px-Oracle_building_Amsterdam_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oracle_building_Amsterdam_2019.jpg/500px-Oracle_building_Amsterdam_2019.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steven Lek, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_building_Amsterdam_2019.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Corporation headquarters 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oracle_Corporation_headquarters_1_2018-12-09.jpg/1920px-Oracle_Corporation_headquarters_1_2018-12-09.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Oracle_Corporation_headquarters_1_2018-12-09.jpg/500px-Oracle_Corporation_headquarters_1_2018-12-09.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "F ASTILY, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_Corporation_headquarters_1_2018-12-09.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Larry Ellison and Exadata2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Larry_Ellison_and_Exadata2.jpg/1920px-Larry_Ellison_and_Exadata2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Larry_Ellison_and_Exadata2.jpg/500px-Larry_Ellison_and_Exadata2.jpg",
+   "size": [
+    1920,
+    1285
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oracle Corporate Communications, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Larry_Ellison_and_Exadata2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Exadata X2-2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Oracle_Exadata_X2-2.jpg/1280px-Oracle_Exadata_X2-2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Oracle_Exadata_X2-2.jpg/500px-Oracle_Exadata_X2-2.jpg",
+   "size": [
+    1280,
+    1928
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ExadataPM, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_Exadata_X2-2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Exalytics",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Oracle_Exalytics.jpeg/1920px-Oracle_Exalytics.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Oracle_Exalytics.jpeg/500px-Oracle_Exalytics.jpeg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oracle Photos Screenshot (not real name given), CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_Exalytics.jpeg",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Exadata & Oracle Exalogic",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/OracleExadataExalogic.JPG/1280px-OracleExadataExalogic.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/OracleExadataExalogic.JPG/500px-OracleExadataExalogic.JPG",
+   "size": [
+    1280,
+    1933
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:OracleExadataExalogic.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Corporation (Oracle Exalogic)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/OracleExalogic.JPG/1280px-OracleExalogic.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/OracleExalogic.JPG/500px-OracleExalogic.JPG",
+   "size": [
+    1280,
+    1933
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:OracleExalogic.JPG",
+   "plain": true
+  },
+  {
+   "shows": "In Redwood Shores, California.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Oracle_HQ2.jpg/1920px-Oracle_HQ2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Oracle_HQ2.jpg/500px-Oracle_HQ2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Peter Kaminski from San Francisco, California, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_HQ2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Exadata X2-2 ¼ rack",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Exadata_X2-2_%C2%BC_rack.jpeg/1280px-Exadata_X2-2_%C2%BC_rack.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Exadata_X2-2_%C2%BC_rack.jpeg/500px-Exadata_X2-2_%C2%BC_rack.jpeg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bezik, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exadata_X2-2_%C2%BC_rack.jpeg",
+   "plain": true
+  },
+  {
+   "shows": "Oracle office in Melbourne",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oracle_office_in_Melbourne.jpg/1920px-Oracle_office_in_Melbourne.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Oracle_office_in_Melbourne.jpg/500px-Oracle_office_in_Melbourne.jpg",
+   "size": [
+    1920,
+    1991
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Shkuru Afshar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_office_in_Melbourne.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oracle facility - Hillsboro, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Oracle_facility_-_Hillsboro%2C_Oregon.JPG/1920px-Oracle_facility_-_Hillsboro%2C_Oregon.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Oracle_facility_-_Hillsboro%2C_Oregon.JPG/500px-Oracle_facility_-_Hillsboro%2C_Oregon.JPG",
+   "size": [
+    1920,
+    1357
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oracle_facility_-_Hillsboro,_Oregon.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Corporation Headquarters - July 2019 (8632)",
+   "url": "https://live.staticflickr.com/65535/48403000477_c0919877f4_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48403000477_c0919877f4_z.jpg",
+   "size": [
+    1024,
+    582
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by varnent on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/9910730@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/9910730@N08/48403000477",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Corporation Headquarters - July 2019 (8630)",
+   "url": "https://live.staticflickr.com/65535/48402999277_cc556cd36d_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48402999277_cc556cd36d_z.jpg",
+   "size": [
+    1024,
+    461
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by varnent on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/9910730@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/9910730@N08/48402999277",
+   "plain": true
+  },
+  {
+   "shows": "Oracle Corporation Headquarters - July 2019 (8620)",
+   "url": "https://live.staticflickr.com/65535/48402997837_e9538cc6be_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48402997837_e9538cc6be_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by varnent on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/9910730@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/9910730@N08/48402997837",
    "plain": true
   }
  ]

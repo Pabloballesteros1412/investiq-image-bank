@@ -6,7 +6,7 @@
   "KR"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Kroger Delivery Downtown Miami",
@@ -41,6 +41,40 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Kroger_Headquarters,_Cincinnati,_OH_(33477128798).jpg"
+  },
+  {
+   "shows": "Kroger Delivery Downtown Miami",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kroger_Delivery_Downtown_Miami_%2852730661468%29.jpg/1920px-Kroger_Delivery_Downtown_Miami_%2852730661468%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kroger_Delivery_Downtown_Miami_%2852730661468%29.jpg/500px-Kroger_Delivery_Downtown_Miami_%2852730661468%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kroger_Delivery_Downtown_Miami_(52730661468).jpg"
+  },
+  {
+   "shows": "The exterior of a Kroger Marketplace store in Athens, Georgia 04",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_exterior_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_04.jpg/1920px-The_exterior_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_04.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_exterior_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_04.jpg/500px-The_exterior_of_a_Kroger_Marketplace_store_in_Athens%2C_Georgia_04.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_exterior_of_a_Kroger_Marketplace_store_in_Athens,_Georgia_04.jpg"
   },
   {
    "shows": "Cincinnati-kroger-building",

@@ -6,6 +6,7 @@
   "MGM"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 10,
  "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
@@ -44,6 +45,23 @@
    "source": "https://unsplash.com/photos/a-view-of-the-las-vegas-hotel-and-casino-from-across-the-water-hn15tO9NUiA?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Bellagio Hotel in Las Vegas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bellagio_Hotel_in_Las_Vegas.jpg/1920px-Bellagio_Hotel_in_Las_Vegas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Bellagio_Hotel_in_Las_Vegas.jpg/500px-Bellagio_Hotel_in_Las_Vegas.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jbro1186, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bellagio_Hotel_in_Las_Vegas.jpg"
+  },
+  {
    "shows": "Hotel Excalibur Las Vegas",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hotel_Excalibur_Las_Vegas.jpg/1920px-Hotel_Excalibur_Las_Vegas.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hotel_Excalibur_Las_Vegas.jpg/500px-Hotel_Excalibur_Las_Vegas.jpg",
@@ -77,6 +95,80 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Luxor_Resort_%26_Casino_pool,_Las_Vegas.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bellagio Shops",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bellagio_Shops.jpg/1920px-Bellagio_Shops.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Bellagio_Shops.jpg/500px-Bellagio_Shops.jpg",
+   "size": [
+    1920,
+    1289
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Julian Lupyan, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bellagio_Shops.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bellagio Hotel and Casino, Las Vegas, Nevada, USA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bellagio_Hotel_and_Casino%2C_Las_Vegas%2C_Nevada%2C_USA_%2816772334689%29.jpg/1280px-Bellagio_Hotel_and_Casino%2C_Las_Vegas%2C_Nevada%2C_USA_%2816772334689%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bellagio_Hotel_and_Casino%2C_Las_Vegas%2C_Nevada%2C_USA_%2816772334689%29.jpg/500px-Bellagio_Hotel_and_Casino%2C_Las_Vegas%2C_Nevada%2C_USA_%2816772334689%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim G from Silicon Valley, CA, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bellagio_Hotel_and_Casino,_Las_Vegas,_Nevada,_USA_(16772334689).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Las Vegas - Hotel Excalibur - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Las_Vegas_-_Hotel_Excalibur_-_panoramio.jpg/1920px-Las_Vegas_-_Hotel_Excalibur_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Las_Vegas_-_Hotel_Excalibur_-_panoramio.jpg/500px-Las_Vegas_-_Hotel_Excalibur_-_panoramio.jpg",
+   "size": [
+    1920,
+    1291
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pavel Špindler, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Las_Vegas_-_Hotel_Excalibur_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "MGM Grand [Las Vegas] · buiding, grand, las, lasvegas, mgm",
+   "url": "https://live.staticflickr.com/20/73472750_c60330efb4_b.jpg",
+   "preview": "https://live.staticflickr.com/20/73472750_c60330efb4_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ground.zero on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83265757@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83265757@N00/73472750",
    "plain": true
   }
  ]

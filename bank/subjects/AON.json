@@ -6,6 +6,7 @@
   "AON"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
   {
@@ -24,6 +25,23 @@
    "licence": "Attribution",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:2020-01-01_4904x7356_chicago_aon_center.jpg"
+  },
+  {
+   "shows": "Aon Center Chicago 2020-2446",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aon_Center_Chicago_2020-2446.jpg/1280px-Aon_Center_Chicago_2020-2446.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Aon_Center_Chicago_2020-2446.jpg/500px-Aon_Center_Chicago_2020-2446.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul R. Burley, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aon_Center_Chicago_2020-2446.jpg"
   },
   {
    "shows": "122 Leadenhall Street - geograph- -by-Julian-Osley",
@@ -113,6 +131,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:2_Prudential_18_(14815160237).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aon Center and Blue Cross Blue Shield Tower, Chicago, Illinois, US (PPL1-Corrected) julesvernex2-2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aon_Center_and_Blue_Cross_Blue_Shield_Tower%2C_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2-2.jpg/1280px-Aon_Center_and_Blue_Cross_Blue_Shield_Tower%2C_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2-2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Aon_Center_and_Blue_Cross_Blue_Shield_Tower%2C_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2-2.jpg/500px-Aon_Center_and_Blue_Cross_Blue_Shield_Tower%2C_Chicago%2C_Illinois%2C_US_%28PPL1-Corrected%29_julesvernex2-2.jpg",
+   "size": [
+    1280,
+    1948
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jules Verne Times Two, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aon_Center_and_Blue_Cross_Blue_Shield_Tower,_Chicago,_Illinois,_US_(PPL1-Corrected)_julesvernex2-2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "\"CSO\" on the AON Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%22CSO%22_on_the_AON_Tower_%285007815195%29.jpg/1280px-%22CSO%22_on_the_AON_Tower_%285007815195%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/%22CSO%22_on_the_AON_Tower_%285007815195%29.jpg/500px-%22CSO%22_on_the_AON_Tower_%285007815195%29.jpg",
+   "size": [
+    1280,
+    1927
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "vxla, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:%22CSO%22_on_the_AON_Tower_(5007815195).jpg",
    "plain": true
   }
  ]

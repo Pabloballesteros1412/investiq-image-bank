@@ -6,8 +6,26 @@
   "NEE"
  ],
  "sector": "sector-utilities",
+ "target": 10,
  "fill_from": "sector-utilities",
  "photos": [
+  {
+   "shows": "St. Lucie Nuclear Power Plant by Don Ramey Logan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/St._Lucie_Nuclear_Power_Plant_by_Don_Ramey_Logan.jpg/1920px-St._Lucie_Nuclear_Power_Plant_by_Don_Ramey_Logan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/St._Lucie_Nuclear_Power_Plant_by_Don_Ramey_Logan.jpg/500px-St._Lucie_Nuclear_Power_Plant_by_Don_Ramey_Logan.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Don Ramey Logan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:St._Lucie_Nuclear_Power_Plant_by_Don_Ramey_Logan.jpg"
+  },
   {
    "shows": "St. Lucie Nuclear Power Plant - view from Indian River",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg/1920px-St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg",

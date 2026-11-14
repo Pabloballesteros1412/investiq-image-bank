@@ -6,7 +6,7 @@
   "WDC"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
+ "target": 10,
  "photos": [
   {
    "shows": "Western Digital Headquarters",
@@ -78,6 +78,118 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Western_Digital_booth,_Computex_Taipei_20130607.jpg",
+   "plain": true
+  },
+  {
+   "shows": "WD Black booth, Taipei Game Show 20220125b",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WD_Black_booth%2C_Taipei_Game_Show_20220125b.jpg/1920px-WD_Black_booth%2C_Taipei_Game_Show_20220125b.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/WD_Black_booth%2C_Taipei_Game_Show_20220125b.jpg/500px-WD_Black_booth%2C_Taipei_Game_Show_20220125b.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "玄史生, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WD_Black_booth,_Taipei_Game_Show_20220125b.jpg",
+   "plain": true
+  },
+  {
+   "shows": "SATA-HDD WD40EFRX 4.0TB in externem Gehäuse",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SATA-HDD_WD40EFRX_4.0TB_in_externem_Geh%C3%A4use_DSC00339.jpg/1920px-SATA-HDD_WD40EFRX_4.0TB_in_externem_Geh%C3%A4use_DSC00339.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SATA-HDD_WD40EFRX_4.0TB_in_externem_Geh%C3%A4use_DSC00339.jpg/500px-SATA-HDD_WD40EFRX_4.0TB_in_externem_Geh%C3%A4use_DSC00339.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SATA-HDD_WD40EFRX_4.0TB_in_externem_Geh%C3%A4use_DSC00339.jpg",
+   "plain": true
+  },
+  {
+   "shows": "WD Blue Hard Disk Drive connected to Laptop via USB-C",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/WD_Blue_Hard_Disk_Drive_connected_to_Laptop_via_USB-C.jpg/1920px-WD_Blue_Hard_Disk_Drive_connected_to_Laptop_via_USB-C.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/WD_Blue_Hard_Disk_Drive_connected_to_Laptop_via_USB-C.jpg/500px-WD_Blue_Hard_Disk_Drive_connected_to_Laptop_via_USB-C.jpg",
+   "size": [
+    1920,
+    1446
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Augkun-ane, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WD_Blue_Hard_Disk_Drive_connected_to_Laptop_via_USB-C.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Western Digital Headquarters in the Santa Teresa district of San Jose, California 2244",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Western_Digital_Headquarters_in_the_Santa_Teresa_district_of_San_Jose%2C_California_2244.jpg/1920px-Western_Digital_Headquarters_in_the_Santa_Teresa_district_of_San_Jose%2C_California_2244.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Western_Digital_Headquarters_in_the_Santa_Teresa_district_of_San_Jose%2C_California_2244.jpg/500px-Western_Digital_Headquarters_in_the_Santa_Teresa_district_of_San_Jose%2C_California_2244.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cristiano Tomás, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Western_Digital_Headquarters_in_the_Santa_Teresa_district_of_San_Jose,_California_2244.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Western Digital Scorpio Blue 320GB 2.5' Laptop HDDs",
+   "url": "https://live.staticflickr.com/3617/3372951801_d58151951d_b.jpg",
+   "preview": "https://live.staticflickr.com/3617/3372951801_d58151951d_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by William Hook on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/83542829@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83542829@N00/3372951801",
+   "plain": true
+  },
+  {
+   "shows": "Western Digital TV Live HD",
+   "url": "https://live.staticflickr.com/5343/7416399486_f6cc1b73b9_b.jpg",
+   "preview": "https://live.staticflickr.com/5343/7416399486_f6cc1b73b9_z.jpg",
+   "size": [
+    1024,
+    688
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tolbxela on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/25147647@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/25147647@N04/7416399486",
    "plain": true
   }
  ]

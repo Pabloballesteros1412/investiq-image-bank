@@ -6,7 +6,7 @@
   "ORLY"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "An O'Reilly Auto Parts store in Murphy, North Carolina",
@@ -24,6 +24,43 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:An_O%27Reilly_Auto_Parts_store_in_Murphy,_North_Carolina.jpg"
+  },
+  {
+   "shows": "O'Reilly Auto Parts (Old Saybrook, Connecticut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/O%27Reilly_Auto_Parts_%28Old_Saybrook%2C_Connecticut%29_%2843134666254%29.jpg/1920px-O%27Reilly_Auto_Parts_%28Old_Saybrook%2C_Connecticut%29_%2843134666254%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/O%27Reilly_Auto_Parts_%28Old_Saybrook%2C_Connecticut%29_%2843134666254%29.jpg/500px-O%27Reilly_Auto_Parts_%28Old_Saybrook%2C_Connecticut%29_%2843134666254%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:O%27Reilly_Auto_Parts_(Old_Saybrook,_Connecticut)_(43134666254).jpg"
+  },
+  {
+   "shows": "O'Reilly Auto Parts (Old Saybrook, Connecticut)",
+   "url": "https://live.staticflickr.com/1791/43134666254_f4868f1df3_b.jpg",
+   "preview": "https://live.staticflickr.com/1791/43134666254_f4868f1df3_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jjbers on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/148374920@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/148374920@N02/43134666254",
+   "plain": true
   },
   {
    "shows": "O’Reilly Auto Parts - Oneonta, AL",
@@ -59,6 +96,100 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Jefferson_Hwy,_Old_Jefferson_Louisiana_March_2026_-_O%27Reilly_Auto_Parts.jpg",
+   "plain": true
+  },
+  {
+   "shows": "O'Reilly Auto Parts, Bonney Lake, Washington.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/O%27Reilly_4507.jpg/1920px-O%27Reilly_4507.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/O%27Reilly_4507.jpg/500px-O%27Reilly_4507.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:O%27Reilly_4507.jpg",
+   "plain": true
+  },
+  {
+   "shows": "O'Reilly Auto Parts store - 2522 Tangley, Houston, TX 77005",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/OrEILLYAutoPartsHouston.jpg/1920px-OrEILLYAutoPartsHouston.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/OrEILLYAutoPartsHouston.jpg/500px-OrEILLYAutoPartsHouston.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WhisperToMe, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:OrEILLYAutoPartsHouston.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Commerce March 2017 081 (O'Reilly Auto Parts)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Commerce_March_2017_081_%28O%27Reilly_Auto_Parts%29.jpg/1920px-Commerce_March_2017_081_%28O%27Reilly_Auto_Parts%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Commerce_March_2017_081_%28O%27Reilly_Auto_Parts%29.jpg/500px-Commerce_March_2017_081_%28O%27Reilly_Auto_Parts%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Commerce_March_2017_081_(O%27Reilly_Auto_Parts).jpg",
+   "plain": true
+  },
+  {
+   "shows": "O'Reilly Auto Parts (Willimantic, Connecticut)",
+   "url": "https://live.staticflickr.com/974/28110932178_e625c00de6_b.jpg",
+   "preview": "https://live.staticflickr.com/974/28110932178_e625c00de6_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jjbers on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/148374920@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/148374920@N02/28110932178",
+   "plain": true
+  },
+  {
+   "shows": "O'Reilly Auto Parts - Allegan",
+   "url": "https://live.staticflickr.com/65535/50875682968_5352389650_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/50875682968_5352389650_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kzoo Cowboy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/92871081@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/92871081@N03/50875682968",
    "plain": true
   }
  ]

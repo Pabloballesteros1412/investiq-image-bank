@@ -6,6 +6,8 @@
   "AVGO"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Broadcom BCM94331PCIEBT4 - Broadcom BCM4331KML1G-0958",
@@ -182,6 +184,252 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Broadcom_BCM94331PCIEDUAL_-_BCM4331KMLG-0218.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Speedport Smart 4 Typ A - board - Broadcom BCM63158B1VKFSBG-0667",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg/1920px-Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg/500px-Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Speedport_Smart_4_Typ_A_-_board_-_Broadcom_BCM63158B1VKFSBG-0667.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Linksys WRT54GL v1.1 - board - Broadcom BCM5352EKPBG-2445",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Linksys_WRT54GL_v1.1_-_board_-_Broadcom_BCM5352EKPBG-2445.jpg/1920px-Linksys_WRT54GL_v1.1_-_board_-_Broadcom_BCM5352EKPBG-2445.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Linksys_WRT54GL_v1.1_-_board_-_Broadcom_BCM5352EKPBG-2445.jpg/500px-Linksys_WRT54GL_v1.1_-_board_-_Broadcom_BCM5352EKPBG-2445.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Linksys_WRT54GL_v1.1_-_board_-_Broadcom_BCM5352EKPBG-2445.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Option GlobeSurfer II 7.2 - board - Broadcom BCM5352EKPBG-2502",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Option_GlobeSurfer_II_7.2_-_board_-_Broadcom_BCM5352EKPBG-2502.jpg/1920px-Option_GlobeSurfer_II_7.2_-_board_-_Broadcom_BCM5352EKPBG-2502.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Option_GlobeSurfer_II_7.2_-_board_-_Broadcom_BCM5352EKPBG-2502.jpg/500px-Option_GlobeSurfer_II_7.2_-_board_-_Broadcom_BCM5352EKPBG-2502.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Option_GlobeSurfer_II_7.2_-_board_-_Broadcom_BCM5352EKPBG-2502.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Broadcom BCM94321MC - Broadcom BCM2055KFBG-3223",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Broadcom_BCM94321MC_-_Broadcom_BCM2055KFBG-3223.jpg/1920px-Broadcom_BCM94321MC_-_Broadcom_BCM2055KFBG-3223.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Broadcom_BCM94321MC_-_Broadcom_BCM2055KFBG-3223.jpg/500px-Broadcom_BCM94321MC_-_Broadcom_BCM2055KFBG-3223.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Broadcom_BCM94321MC_-_Broadcom_BCM2055KFBG-3223.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Feature1 Raspberry-Pi 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Feature1_Raspberry-Pi_3.jpg/1920px-Feature1_Raspberry-Pi_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Feature1_Raspberry-Pi_3.jpg/500px-Feature1_Raspberry-Pi_3.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "lespounder, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Feature1_Raspberry-Pi_3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Acer TravelMate P253-M-32344G50Maks - motherboard Q5WV1 LA-7912P - Broadcom BCM57785XB0KMLG-0228",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Acer_TravelMate_P253-M-32344G50Maks_-_motherboard_Q5WV1_LA-7912P_-_Broadcom_BCM57785XB0KMLG-0228.jpg/1920px-Acer_TravelMate_P253-M-32344G50Maks_-_motherboard_Q5WV1_LA-7912P_-_Broadcom_BCM57785XB0KMLG-0228.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Acer_TravelMate_P253-M-32344G50Maks_-_motherboard_Q5WV1_LA-7912P_-_Broadcom_BCM57785XB0KMLG-0228.jpg/500px-Acer_TravelMate_P253-M-32344G50Maks_-_motherboard_Q5WV1_LA-7912P_-_Broadcom_BCM57785XB0KMLG-0228.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Acer_TravelMate_P253-M-32344G50Maks_-_motherboard_Q5WV1_LA-7912P_-_Broadcom_BCM57785XB0KMLG-0228.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Acer Extensa 5220 - Columbia MB -1N - Broadcom BCM5787MKMLG-5525",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Acer_Extensa_5220_-_Columbia_MB_06236-1N_-_Broadcom_BCM5787MKMLG-5525.jpg/1920px-Acer_Extensa_5220_-_Columbia_MB_06236-1N_-_Broadcom_BCM5787MKMLG-5525.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Acer_Extensa_5220_-_Columbia_MB_06236-1N_-_Broadcom_BCM5787MKMLG-5525.jpg/500px-Acer_Extensa_5220_-_Columbia_MB_06236-1N_-_Broadcom_BCM5787MKMLG-5525.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Acer_Extensa_5220_-_Columbia_MB_06236-1N_-_Broadcom_BCM5787MKMLG-5525.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Broadcom 5903 · cc, chip, creativecommons, electonics, logo",
+   "url": "https://live.staticflickr.com/2864/9214371131_3bc561cbf1_b.jpg",
+   "preview": "https://live.staticflickr.com/2864/9214371131_3bc561cbf1_z.jpg",
+   "size": [
+    1024,
+    876
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by walknboston on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/60309882@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/60309882@N00/9214371131",
+   "plain": true
+  },
+  {
+   "shows": "Broadcom ブロードカム (133/365/499)",
+   "url": "https://live.staticflickr.com/7369/14181739025_39c2598048_b.jpg",
+   "preview": "https://live.staticflickr.com/7369/14181739025_39c2598048_z.jpg",
+   "size": [
+    1024,
+    684
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Christopher Hsia on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/49013708@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/49013708@N00/14181739025",
+   "plain": true
+  },
+  {
+   "shows": "Broadcom BCM7019 STB SoC die shot",
+   "url": "https://live.staticflickr.com/4593/25271862518_ca1b248d38_b.jpg",
+   "preview": "https://live.staticflickr.com/4593/25271862518_ca1b248d38_z.jpg",
+   "size": [
+    1024,
+    890
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Martijn Boer on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/140974729@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/140974729@N05/25271862518",
+   "plain": true
+  },
+  {
+   "shows": "My laptop's wireless card Broadcom BCM4311 PCI Express",
+   "url": "https://live.staticflickr.com/2046/2224327540_55eae846c0_b.jpg",
+   "preview": "https://live.staticflickr.com/2046/2224327540_55eae846c0_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Collin Anderson on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/7852439@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/7852439@N07/2224327540",
+   "plain": true
+  },
+  {
+   "shows": "Raspberry Pi 3 Broadcom BCM2837 Main Processor / SOC",
+   "url": "https://live.staticflickr.com/4391/35761930473_3d67705e45_b.jpg",
+   "preview": "https://live.staticflickr.com/4391/35761930473_3d67705e45_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by adlerweb on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/53792148@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/53792148@N06/35761930473",
+   "plain": true
+  },
+  {
+   "shows": "Broadcom BCM94360CD · bcm94360cd, bluetooth, broadcom, handoff, wifi",
+   "url": "https://live.staticflickr.com/7440/15906907743_4ef4caa5bb_b.jpg",
+   "preview": "https://live.staticflickr.com/7440/15906907743_4ef4caa5bb_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by shizo on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/69501650@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/69501650@N00/15906907743",
    "plain": true
   }
  ]

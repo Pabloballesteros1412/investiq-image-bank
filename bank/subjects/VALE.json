@@ -6,8 +6,26 @@
   "VALE"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
+  {
+   "shows": "Trem da Vale com minério de ferro na EFVM e BR-381 em Timóteo MG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Trem_da_Vale_com_min%C3%A9rio_de_ferro_na_EFVM_e_BR-381_em_Tim%C3%B3teo_MG.JPG/1920px-Trem_da_Vale_com_min%C3%A9rio_de_ferro_na_EFVM_e_BR-381_em_Tim%C3%B3teo_MG.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Trem_da_Vale_com_min%C3%A9rio_de_ferro_na_EFVM_e_BR-381_em_Tim%C3%B3teo_MG.JPG/500px-Trem_da_Vale_com_min%C3%A9rio_de_ferro_na_EFVM_e_BR-381_em_Tim%C3%B3teo_MG.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HVL, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Trem_da_Vale_com_min%C3%A9rio_de_ferro_na_EFVM_e_BR-381_em_Tim%C3%B3teo_MG.JPG"
+  },
   {
    "shows": "Itabira MG Brasil - Mina de Ferro da Vale - panoramio",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg/1920px-Itabira_MG_Brasil_-_Mina_de_Ferro_da_Vale_-_panoramio.jpg",
@@ -42,6 +60,42 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_da_Vale_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Vale S.A. in Vitória (Espírito Santo, Brazil) - 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vale_S.A._in_Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%2C_Brazil%29_-_02.jpg/1920px-Vale_S.A._in_Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%2C_Brazil%29_-_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vale_S.A._in_Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%2C_Brazil%29_-_02.jpg/500px-Vale_S.A._in_Vit%C3%B3ria_%28Esp%C3%ADrito_Santo%2C_Brazil%29_-_02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Vale_S.A._in_Vit%C3%B3ria_(Esp%C3%ADrito_Santo,_Brazil)_-_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Itabira MG Brasil - Mineração Vale - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_Vale_-_panoramio.jpg/1920px-Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_Vale_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_Vale_-_panoramio.jpg/500px-Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_Vale_-_panoramio.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Josue Marinho, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_Vale_-_panoramio.jpg",
    "plain": true
   }
  ]

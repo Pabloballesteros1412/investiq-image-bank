@@ -6,7 +6,7 @@
   "SMCI"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
+ "target": 10,
  "photos": [
   {
    "shows": "Super Micro Computer booth",
@@ -60,6 +60,140 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:AOC-S3108L-H8IR.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Supermicro X10SLM+-LN4F server motherboard IO panel detail view",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Supermicro_X10SLM%2B-LN4F_server_motherboard_IO_panel_detail_view.jpg/1920px-Supermicro_X10SLM%2B-LN4F_server_motherboard_IO_panel_detail_view.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Supermicro_X10SLM%2B-LN4F_server_motherboard_IO_panel_detail_view.jpg/500px-Supermicro_X10SLM%2B-LN4F_server_motherboard_IO_panel_detail_view.jpg",
+   "size": [
+    1920,
+    1230
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phiarc, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Supermicro_X10SLM%2B-LN4F_server_motherboard_IO_panel_detail_view.jpg",
+   "plain": true
+  },
+  {
+   "shows": "5016T-MTFB Supermicro server barebone.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/5016T-MTFB.jpg/1920px-5016T-MTFB.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/5016T-MTFB.jpg/500px-5016T-MTFB.jpg",
+   "size": [
+    1920,
+    1687
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Audrius Meskauskas (both author and uploader), CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:5016T-MTFB.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AOC-SLG3-2E4R",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/AOC-SLG3-2E4R.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/AOC-SLG3-2E4R.jpg/500px-AOC-SLG3-2E4R.jpg",
+   "size": [
+    1920,
+    1476
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dmitry Nosachev, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AOC-SLG3-2E4R.jpg",
+   "plain": true
+  },
+  {
+   "shows": "new server (supermicro) · 1u, computer, hoh3aek0aefo, mountable, rack",
+   "url": "https://live.staticflickr.com/1244/851927397_b3929b5e59_b.jpg",
+   "preview": "https://live.staticflickr.com/1244/851927397_b3929b5e59_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by k0a1a.net on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/35632769@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/35632769@N00/851927397",
+   "plain": true
+  },
+  {
+   "shows": "Serveur SuperMicro ouvert",
+   "url": "https://live.staticflickr.com/8326/8136283096_4b1ff3e6e4_b.jpg",
+   "preview": "https://live.staticflickr.com/8326/8136283096_4b1ff3e6e4_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by zigazou76 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/38712296@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/38712296@N07/8136283096",
+   "plain": true
+  },
+  {
+   "shows": "Serveur SuperMicro · corneille, pc, rack, serveur, supermicro",
+   "url": "https://live.staticflickr.com/8466/8136237787_52b649d986_b.jpg",
+   "preview": "https://live.staticflickr.com/8466/8136237787_52b649d986_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by zigazou76 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/38712296@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/38712296@N07/8136237787",
+   "plain": true
+  },
+  {
+   "shows": "Serveur SuperMicro · corneille, pc, rack, serveur, supermicro",
+   "url": "https://live.staticflickr.com/8332/8136280946_00b623d5cc_b.jpg",
+   "preview": "https://live.staticflickr.com/8332/8136280946_00b623d5cc_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by zigazou76 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/38712296@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/38712296@N07/8136280946",
    "plain": true
   }
  ]

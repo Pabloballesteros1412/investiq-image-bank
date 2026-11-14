@@ -6,6 +6,8 @@
   "ADBE"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Adobe Systems West Tower, San Jose, CA, SW corner",
@@ -181,6 +183,190 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Adobe_in_San_Jose.jpg",
+   "plain": true
+  },
+  {
+   "shows": "San Jose, CA Adobe World Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Adobe_%28561951797%29.jpg/1920px-Adobe_%28561951797%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Adobe_%28561951797%29.jpg/500px-Adobe_%28561951797%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bryce Edwards from San Jose, CA, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_(561951797).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Systems Fremont 5",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Adobe_Systems_Fremont_5.jpg/1920px-Adobe_Systems_Fremont_5.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Adobe_Systems_Fremont_5.jpg/500px-Adobe_Systems_Fremont_5.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cumulus Clouds, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Systems_Fremont_5.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Systems East Tower, San Jose, CA, SW corner",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Adobe_Systems_East_Tower%2C_San_Jose%2C_CA%2C_SW_corner_2024-02-28.jpg/1920px-Adobe_Systems_East_Tower%2C_San_Jose%2C_CA%2C_SW_corner_2024-02-28.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Adobe_Systems_East_Tower%2C_San_Jose%2C_CA%2C_SW_corner_2024-02-28.jpg/500px-Adobe_Systems_East_Tower%2C_San_Jose%2C_CA%2C_SW_corner_2024-02-28.jpg",
+   "size": [
+    1920,
+    1797
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Systems_East_Tower,_San_Jose,_CA,_SW_corner_2024-02-28.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Systems Almaden Tower, San Jose, CA, SE corner",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Adobe_Systems_Almaden_Tower%2C_San_Jose%2C_CA%2C_SE_corner_2024-02-28.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Adobe_Systems_Almaden_Tower%2C_San_Jose%2C_CA%2C_SE_corner_2024-02-28.jpg/500px-Adobe_Systems_Almaden_Tower%2C_San_Jose%2C_CA%2C_SE_corner_2024-02-28.jpg",
+   "size": [
+    1273,
+    1729
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Systems_Almaden_Tower,_San_Jose,_CA,_SE_corner_2024-02-28.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Systems Fremont 6",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Adobe_Systems_Fremont_6.jpg/1920px-Adobe_Systems_Fremont_6.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Adobe_Systems_Fremont_6.jpg/500px-Adobe_Systems_Fremont_6.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cumulus Clouds, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Systems_Fremont_6.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Systems East Tower, San Jose, CA, east side",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Adobe_Systems_East_Tower%2C_San_Jose%2C_CA%2C_east_side_2024-02-28.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Adobe_Systems_East_Tower%2C_San_Jose%2C_CA%2C_east_side_2024-02-28.jpg/500px-Adobe_Systems_East_Tower%2C_San_Jose%2C_CA%2C_east_side_2024-02-28.jpg",
+   "size": [
+    1143,
+    1874
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Systems_East_Tower,_San_Jose,_CA,_east_side_2024-02-28.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Systems Fremont 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Adobe_Systems_Fremont_3.jpg/1920px-Adobe_Systems_Fremont_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Adobe_Systems_Fremont_3.jpg/500px-Adobe_Systems_Fremont_3.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cumulus Clouds, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Systems_Fremont_3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe talk at the 2025 Bild Expo Presented by B&H Photo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Adobe_talk_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg/1920px-Adobe_talk_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Adobe_talk_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg/500px-Adobe_talk_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tzim78, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_talk_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Logo · adobe, adobecommunitysummit, community, logo, sanjose",
+   "url": "https://live.staticflickr.com/63/193513407_d8c1fecbd5_b.jpg",
+   "preview": "https://live.staticflickr.com/63/193513407_d8c1fecbd5_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by midiman on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/41611970@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/41611970@N00/193513407",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Logo · 2006, adobe, community, logo, summit",
+   "url": "https://live.staticflickr.com/74/204550268_d17bfbe76d_b.jpg",
+   "preview": "https://live.staticflickr.com/74/204550268_d17bfbe76d_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by midiman on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/41611970@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/41611970@N00/204550268",
    "plain": true
   }
  ]

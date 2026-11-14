@@ -6,6 +6,7 @@
   "XYZ"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
   {
@@ -60,6 +61,66 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Japan-Mobility-Show-2025-RuinDig_0421.jpg",
+   "plain": true
+  },
+  {
+   "shows": "square reader · dscrx100, rx100",
+   "url": "https://live.staticflickr.com/3711/8944040321_3c9dacf32e_b.jpg",
+   "preview": "https://live.staticflickr.com/3711/8944040321_3c9dacf32e_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by [cipher] on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/36521954194@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36521954194@N01/8944040321",
+   "plain": true
+  },
+  {
+   "shows": "Old Square Reader, New Square Reader",
+   "url": "https://live.staticflickr.com/6174/6183843592_c185ff8510_b.jpg",
+   "preview": "https://live.staticflickr.com/6174/6183843592_c185ff8510_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by stephenyeargin on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/56871496@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/56871496@N00/6183843592",
+   "plain": true
+  },
+  {
+   "shows": "#square reader at the Apple store in Palo Alto",
+   "url": "https://live.staticflickr.com/6055/5886735556_f44f18cd01_b.jpg",
+   "preview": "https://live.staticflickr.com/6055/5886735556_f44f18cd01_z.jpg",
+   "size": [
+    765,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jonathanfh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/93839050@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/93839050@N00/5886735556",
    "plain": true
   }
  ]

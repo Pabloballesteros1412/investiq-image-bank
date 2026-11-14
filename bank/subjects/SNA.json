@@ -6,6 +6,7 @@
   "SNA"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -78,6 +79,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Snap-on_van,_Knaresborough_Road,_Harrogate_(7th_September_2017).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Snap-on Linerlock",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Snap-on_Linerlock_%2833757739715%29.jpg/1920px-Snap-on_Linerlock_%2833757739715%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Snap-on_Linerlock_%2833757739715%29.jpg/500px-Snap-on_Linerlock_%2833757739715%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "James Case from Philadelphia, Mississippi, U.S.A., CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Snap-on_Linerlock_(33757739715).jpg",
    "plain": true
   }
  ]

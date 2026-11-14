@@ -159,7 +159,7 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
 
   var n = { company: 0, topic: 0, sector: 0 }, photos = 0;
   S.forEach(function (s) { n[s.kind]++; photos += s.photos.length; });
-  var goal = S.length * T;
+  var goal = S.reduce(function (a, s) { return a + (s.target || T); }, 0);
   document.getElementById("summary").innerHTML =
     (D.universe ? "<span><b>" + n.company + "</b> empresas</span>" : "<span><b>" + n.company + "</b> empresas con tomas escritas a mano (el resto del S&amp;P 500 se añade al construir)</span>") +
     "<span><b>" + n.topic + "</b> temas</span><span><b>" + n.sector + "</b> sectores</span><span><b>" + photos.toLocaleString("es") + "</b> de " + goal.toLocaleString("es") + " fotos</span>";
@@ -170,11 +170,11 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
     nx.textContent = "Se buscarán en Wikimedia Commons en cuanto el entorno tenga acceso: 10 por cada empresa del S&P 500 y empresas famosas que cotizan en EE. UU., 10 por tema y 10 por sector. Mientras tanto, cada tema enseña sus búsquedas y sus prompts de IA.";
   } else {
     nt.textContent = "Fotos de Wikimedia Commons, Unsplash y Pexels";
-    nx.innerHTML = 'Las de empresas vienen de <a href="https://commons.wikimedia.org" target="_blank" rel="noopener">Wikimedia Commons</a> y solo están las mejores, revisadas a ojo. Las de temas y sectores, de <a href="https://unsplash.com/?utm_source=investiq_image_bank&amp;utm_medium=referral" target="_blank" rel="noopener">Unsplash</a> y <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a> cuando las hay. Cada foto lleva su crédito. Si una empresa tiene menos de 10, el chat la completa con fotos genéricas de su sector. Si las miniaturas no se ven aquí, abre la galería pública del repo.';
+    nx.innerHTML = 'Las de empresas vienen de <a href="https://commons.wikimedia.org" target="_blank" rel="noopener">Wikimedia Commons</a> y solo están las mejores, revisadas a ojo. Las de temas y sectores, de <a href="https://unsplash.com/?utm_source=investiq_image_bank&amp;utm_medium=referral" target="_blank" rel="noopener">Unsplash</a> y <a href="https://www.pexels.com" target="_blank" rel="noopener">Pexels</a> cuando las hay. Cada foto lleva su crédito. Objetivo: 10 fotos por empresa, 30 por empresa famosa y 50 por tema o sector. Si una empresa no llega, el chat la completa con fotos genéricas de su sector. Si las miniaturas no se ven aquí, abre la galería pública del repo.';
   }
 
   function card(s) {
-    var k = s.photos.length, st = k >= T ? "ok" : k ? "low" : "pending", label = k >= T ? "Completa" : k ? k + " de " + T : (s.built ? "Sin fotos" : "Pendiente");
+    var t = s.target || T, k = s.photos.length, st = k >= t ? "ok" : k ? "low" : "pending", label = k >= t ? "Completa" : k ? k + " de " + t : (s.built ? "Sin fotos" : "Pendiente");
     var chips = s.kind === "company" ? s.tickers.slice(0, 2).map(function (t) { return '<span class="chip">' + esc(t) + "</span>"; }).join("") : '<span class="chip kind">' + KIND[s.kind] + "</span>";
     var strip = "";
     for (var i = 0; i < 4; i++) strip += "<span>" + (s.photos[i] ? img(s.photos[i].preview) : "") + "</span>";
@@ -224,12 +224,12 @@ details.prompt p { margin: 6px 0 0; user-select: all; background: var(--frame); 
     current = s || null;
     list.hidden = !!s; detail.hidden = !s;
     if (!s) { apply(); return; }
-    var k = s.photos.length, note = "";
-    if (s.kind === "company" && k < T && s.sector && byId[s.sector]) note = (k ? "Tiene " + k + (k === 1 ? " foto propia aprobada" : " fotos propias aprobadas") : "Ninguna de sus fotos de Commons pasó la revisión") + ': el chat completa con fotos genéricas de <a href="#' + esc(s.sector) + '">' + esc(byId[s.sector].name) + "</a>.";
+    var k = s.photos.length, t = s.target || T, note = "";
+    if (s.kind === "company" && k < t && s.sector && byId[s.sector]) note = (k ? "Tiene " + k + (k === 1 ? " foto propia aprobada" : " fotos propias aprobadas") : "Ninguna de sus fotos de Commons pasó la revisión") + ': el chat completa con fotos genéricas de <a href="#' + esc(s.sector) + '">' + esc(byId[s.sector].name) + "</a>.";
     else if (!k && !s.planned.length) note = s.built ? "Ninguna de sus fotos de Commons pasó la revisión." : "Pendiente: se buscará automáticamente en su categoría de Commons.";
     detail.innerHTML = '<a class="back" href="#">← Todas las fichas</a><div class="dh"><h2>' + esc(s.name) + "</h2>" +
       (s.kind === "company" ? s.tickers.map(function (t) { return '<span class="chip">' + esc(t) + "</span>"; }).join("") : '<span class="chip kind">' + KIND[s.kind] + "</span>") +
-      '<span class="count">' + k + " de " + T + " fotos</span></div>" + (note ? '<p class="dnote">' + note + "</p>" : "") +
+      '<span class="count">' + k + " de " + t + " fotos</span></div>" + (note ? '<p class="dnote">' + note + "</p>" : "") +
       '<div class="grid">' + (k ? s.photos.map(shot).join("") : s.planned.map(planned).join("")) + "</div>";
     window.scrollTo(0, 0);
   }

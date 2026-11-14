@@ -6,7 +6,7 @@
   "LMT"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 30,
  "photos": [
   {
    "shows": "F-35 Heritage Flight Team performs in Bell Fort Worth Alliance AirShow",
@@ -78,6 +78,83 @@
    "author_url": "https://unsplash.com/@barendkaas?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-military-jet-flying-in-the-sky-BRsX9sIQIvc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "F-35 AA-1 from the runway at the Lockheed Martin Aeronautics plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg/1920px-F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg/500px-F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg",
+   "size": [
+    1920,
+    1370
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "John E. Wilson, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:F-35_AA-1_from_the_runway_at_the_Lockheed_Martin_Aeronautics_plant.jpg"
+  },
+  {
+   "shows": "Lockheed Martin F-22 Raptor",
+   "url": "https://live.staticflickr.com/65535/47966612553_7e51579e1f_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/47966612553_7e51579e1f_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aeroman3 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/47430793@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47430793@N08/47966612553",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin F-22 'Raptor's' at Hickam AFB, Hawaii",
+   "url": "https://live.staticflickr.com/4829/46874195252_90371c1499_b.jpg",
+   "preview": "https://live.staticflickr.com/4829/46874195252_90371c1499_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aeroman3 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/47430793@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47430793@N08/46874195252",
+   "plain": true
+  },
+  {
+   "shows": "F-35 Lightning · f35, fighter, lighting, plane, aircraft",
+   "url": "https://live.staticflickr.com/323/18789066116_c0d5606609_b.jpg",
+   "preview": "https://live.staticflickr.com/323/18789066116_c0d5606609_z.jpg",
+   "size": [
+    1024,
+    563
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Heath Cajandig on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/96228372@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/96228372@N06/18789066116",
+   "plain": true
   },
   {
    "shows": "C-130J Super Hercules Dyess AFB Air Show 2018 22",
@@ -168,6 +245,326 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_Office,_Colorado_Springs_(54557169938).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Test Pilot Dan Canin Poses with X-59 Research Aircraft (AFRC2023-0198-28)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Test_Pilot_Dan_Canin_Poses_with_X-59_Research_Aircraft_%28AFRC2023-0198-28%29.jpg/1920px-Test_Pilot_Dan_Canin_Poses_with_X-59_Research_Aircraft_%28AFRC2023-0198-28%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Test_Pilot_Dan_Canin_Poses_with_X-59_Research_Aircraft_%28AFRC2023-0198-28%29.jpg/500px-Test_Pilot_Dan_Canin_Poses_with_X-59_Research_Aircraft_%28AFRC2023-0198-28%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Headquarters / NASA/Steve Freeman, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Test_Pilot_Dan_Canin_Poses_with_X-59_Research_Aircraft_(AFRC2023-0198-28).jpg",
+   "plain": true
+  },
+  {
+   "shows": "AFE Airmen support F-22 Raptors in DFE",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AFE_Airmen_support_F-22_Raptors_in_DFE_%287404091%29.jpg/1920px-AFE_Airmen_support_F-22_Raptors_in_DFE_%287404091%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AFE_Airmen_support_F-22_Raptors_in_DFE_%287404091%29.jpg/500px-AFE_Airmen_support_F-22_Raptors_in_DFE_%287404091%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Staff Sgt. Tristan Biese, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AFE_Airmen_support_F-22_Raptors_in_DFE_(7404091).jpg",
+   "plain": true
+  },
+  {
+   "shows": "SR-71 Blackbird Nosedown View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SR-71_Blackbird_Nosedown_View.jpg/1920px-SR-71_Blackbird_Nosedown_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SR-71_Blackbird_Nosedown_View.jpg/500px-SR-71_Blackbird_Nosedown_View.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Northern-Virginia-Photographer, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SR-71_Blackbird_Nosedown_View.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin chalet, ILA 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ILA_2018%2C_%281X7A6880%29.jpg/1920px-ILA_2018%2C_%281X7A6880%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/ILA_2018%2C_%281X7A6880%29.jpg/500px-ILA_2018%2C_%281X7A6880%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ILA_2018,_(1X7A6880).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Stand de Lockheed Martin IAC 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Stand_de_Lockheed_Martin_IAC_2022.jpg/1920px-Stand_de_Lockheed_Martin_IAC_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Stand_de_Lockheed_Martin_IAC_2022.jpg/500px-Stand_de_Lockheed_Martin_IAC_2022.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Artvill, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Stand_de_Lockheed_Martin_IAC_2022.jpg",
+   "plain": true
+  },
+  {
+   "shows": "F-35 Full Scale Mock-Up, ILA 2024, Schoenefeld (ILA45494)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/F-35_Full_Scale_Mock-Up%2C_ILA_2024%2C_Schoenefeld_%28ILA45494%29.jpg/1920px-F-35_Full_Scale_Mock-Up%2C_ILA_2024%2C_Schoenefeld_%28ILA45494%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/F-35_Full_Scale_Mock-Up%2C_ILA_2024%2C_Schoenefeld_%28ILA45494%29.jpg/500px-F-35_Full_Scale_Mock-Up%2C_ILA_2024%2C_Schoenefeld_%28ILA45494%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:F-35_Full_Scale_Mock-Up,_ILA_2024,_Schoenefeld_(ILA45494).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin Factory, Lockheed Martin Drive, Liverpool, NY",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lockheed_Martin_Factory%2C_Lockheed_Martin_Drive%2C_Liverpool%2C_NY_%2854415523712%29.jpg/1920px-Lockheed_Martin_Factory%2C_Lockheed_Martin_Drive%2C_Liverpool%2C_NY_%2854415523712%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lockheed_Martin_Factory%2C_Lockheed_Martin_Drive%2C_Liverpool%2C_NY_%2854415523712%29.jpg/500px-Lockheed_Martin_Factory%2C_Lockheed_Martin_Drive%2C_Liverpool%2C_NY_%2854415523712%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Warren LeMay from Chicago, IL, United States, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_Factory,_Lockheed_Martin_Drive,_Liverpool,_NY_(54415523712).jpg",
+   "plain": true
+  },
+  {
+   "shows": "09 Robert Gross Collection Photo - Robert E Gross Collection Image",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/09_04047_Robert_Gross_Collection_Photo_-_Robert_E_Gross_Collection_Image_%2854283361648%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/09_04047_Robert_Gross_Collection_Photo_-_Robert_E_Gross_Collection_Image_%2854283361648%29.jpg/500px-09_04047_Robert_Gross_Collection_Photo_-_Robert_E_Gross_Collection_Image_%2854283361648%29.jpg",
+   "size": [
+    1600,
+    1070
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "San Diego Air & Space Museum Archives, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:09_04047_Robert_Gross_Collection_Photo_-_Robert_E_Gross_Collection_Image_(54283361648).jpg",
+   "plain": true
+  },
+  {
+   "shows": "GOES-T SUVI and EXIS Instruments Integrated with Spacecraft",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/GOES-T_SUVI_and_EXIS_Instruments_Integrated_with_Spacecraft_%2836029388715%29.jpg/1920px-GOES-T_SUVI_and_EXIS_Instruments_Integrated_with_Spacecraft_%2836029388715%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/GOES-T_SUVI_and_EXIS_Instruments_Integrated_with_Spacecraft_%2836029388715%29.jpg/500px-GOES-T_SUVI_and_EXIS_Instruments_Integrated_with_Spacecraft_%2836029388715%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NOAA Satellites, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GOES-T_SUVI_and_EXIS_Instruments_Integrated_with_Spacecraft_(36029388715).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed-Martin Meridian facility",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Lockheed-Martin_Meridian_facility.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Lockheed-Martin_Meridian_facility.jpg/500px-Lockheed-Martin_Meridian_facility.jpg",
+   "size": [
+    1606,
+    1231
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dofftoubab, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lockheed-Martin_Meridian_facility.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin F-22A 'Raptor'",
+   "url": "https://live.staticflickr.com/3807/11378755835_af325f1a6f_b.jpg",
+   "preview": "https://live.staticflickr.com/3807/11378755835_af325f1a6f_z.jpg",
+   "size": [
+    1024,
+    410
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mark6mauno on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/98147195@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98147195@N00/11378755835",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin F-35C Lightning II (BuNo 169601) (with VMFA-314 at Miramar NAS) and McDonnell Douglas (now Boeing) F/A-18A-15-MC Hornet (F/A-18A++) (BuNo 162442)",
+   "url": "https://live.staticflickr.com/65535/48681647591_4cc73fe2c8_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48681647591_4cc73fe2c8_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aeroman3 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/47430793@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47430793@N08/48681647591",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin F-22 'Raptor's'",
+   "url": "https://live.staticflickr.com/65535/48932008903_d1cb8205fb_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48932008903_d1cb8205fb_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aeroman3 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/47430793@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47430793@N08/48932008903",
+   "plain": true
+  },
+  {
+   "shows": "Israel Receives First Two F-35 Fighters",
+   "url": "https://live.staticflickr.com/284/31524656601_e12ebc9ba7_b.jpg",
+   "preview": "https://live.staticflickr.com/284/31524656601_e12ebc9ba7_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by U.S. Embassy Jerusalem on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/46886434@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/46886434@N04/31524656601",
+   "plain": true
+  },
+  {
+   "shows": "Israel Receives First Two F-35 Fighters",
+   "url": "https://live.staticflickr.com/124/31524655671_684cf4be68_b.jpg",
+   "preview": "https://live.staticflickr.com/124/31524655671_684cf4be68_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by U.S. Embassy Jerusalem on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/46886434@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/46886434@N04/31524655671",
+   "plain": true
+  },
+  {
+   "shows": "Lockheed Martin HQ as 'Snowquester' begins",
+   "url": "https://live.staticflickr.com/8237/8534548938_814a574f3d_b.jpg",
+   "preview": "https://live.staticflickr.com/8237/8534548938_814a574f3d_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Matthew Straubmuller on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/51344631@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/51344631@N06/8534548938",
+   "plain": true
+  },
+  {
+   "shows": "Gov. Malloy and Lockheed Martin reach deal to keep Sikorsky headquarters and jobs in Connecticut",
+   "url": "https://live.staticflickr.com/5203/29567473960_bd9576a8ff_b.jpg",
+   "preview": "https://live.staticflickr.com/5203/29567473960_bd9576a8ff_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Office of Governor Dan Malloy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/57939039@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/57939039@N08/29567473960",
    "plain": true
   }
  ]

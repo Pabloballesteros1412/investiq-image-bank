@@ -6,6 +6,68 @@
   "CPRT"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "DSC_0082_01 · accident, bigtruc, chevy, collission, copart",
+   "url": "https://live.staticflickr.com/4104/4950954457_4a30b0d2e7_b.jpg",
+   "preview": "https://live.staticflickr.com/4104/4950954457_4a30b0d2e7_z.jpg",
+   "size": [
+    1024,
+    685
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by tsuacctnt on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/8842985@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8842985@N03/4950954457",
+   "plain": true
+  },
+  {
+   "shows": "DSC_0084_01 · accident, bigtruc, chevy, collission, copart",
+   "url": "https://live.staticflickr.com/4083/4951550320_93619385c9_b.jpg",
+   "preview": "https://live.staticflickr.com/4083/4951550320_93619385c9_z.jpg",
+   "size": [
+    1024,
+    685
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by tsuacctnt on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/8842985@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8842985@N03/4951550320",
+   "plain": true
+  },
+  {
+   "shows": "DSC_0093_01 · accident, bigtruc, chevy, collission, copart",
+   "url": "https://live.staticflickr.com/4124/4950976939_0536fc121e_b.jpg",
+   "preview": "https://live.staticflickr.com/4124/4950976939_0536fc121e_z.jpg",
+   "size": [
+    1024,
+    685
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by tsuacctnt on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/8842985@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8842985@N03/4950976939",
+   "plain": true
+  }
+ ]
 }

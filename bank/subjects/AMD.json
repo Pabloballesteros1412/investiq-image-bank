@@ -6,6 +6,8 @@
   "AMD"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "AMD Ryzen 7 1800X",
@@ -97,6 +99,43 @@
    "source": "https://unsplash.com/photos/a-blue-radeon-graphics-card-sits-among-green-leaves-l6PLfGcAzZc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "AMD Markham Canada - Address: 1 Commerce Valley Drive East, Markham, ON L3T 7X6, Canada",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/1920px-AMDMarkham10.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/500px-AMDMarkham10.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMDMarkham10.jpg"
+  },
+  {
+   "shows": "AMD Ryzen 7 5800X3D",
+   "url": "https://live.staticflickr.com/65535/55045896543_7950b776fc_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/55045896543_7950b776fc_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by htomari on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/34923408@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/34923408@N07/55045896543",
+   "plain": true
+  },
+  {
    "shows": "2485 Augustine Drive headquarters in Santa Clara, California",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/1920px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg/500px-2485_Augustine_Drive_headquarters_in_Santa_Clara%2C_California.jpg",
@@ -184,6 +223,314 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:AMD_exhibition_stand_at_Gamescom_2022_in_Cologne,_Germany_(52760298273).jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD headquarter",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/AMD_headquarter_20240318.jpg/1920px-AMD_headquarter_20240318.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/AMD_headquarter_20240318.jpg/500px-AMD_headquarter_20240318.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lijiaxuan, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_headquarter_20240318.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Radeon HD 8490 OEM",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Radeon_HD_8490_OEM_%281%29.jpg/1920px-Radeon_HD_8490_OEM_%281%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Radeon_HD_8490_OEM_%281%29.jpg/500px-Radeon_HD_8490_OEM_%281%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oligopolism, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Radeon_HD_8490_OEM_(1).jpg",
+   "plain": true
+  },
+  {
+   "shows": "North entrance of Raycom InfoTech Park Building C",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/North_entrance_of_Raycom_InfoTech_Park_Building_C_%2820250208171243%29.jpg/1920px-North_entrance_of_Raycom_InfoTech_Park_Building_C_%2820250208171243%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/North_entrance_of_Raycom_InfoTech_Park_Building_C_%2820250208171243%29.jpg/500px-North_entrance_of_Raycom_InfoTech_Park_Building_C_%2820250208171243%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "N509FZ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:North_entrance_of_Raycom_InfoTech_Park_Building_C_(20250208171243).jpg",
+   "plain": true
+  },
+  {
+   "shows": "3COM NoteWorthy 3CXM056-BNW - board - AMD AM29F200BT-90EC-6340",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/3COM_NoteWorthy_3CXM056-BNW_-_board_-_AMD_AM29F200BT-90EC-6340.jpg/1920px-3COM_NoteWorthy_3CXM056-BNW_-_board_-_AMD_AM29F200BT-90EC-6340.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/3COM_NoteWorthy_3CXM056-BNW_-_board_-_AMD_AM29F200BT-90EC-6340.jpg/500px-3COM_NoteWorthy_3CXM056-BNW_-_board_-_AMD_AM29F200BT-90EC-6340.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:3COM_NoteWorthy_3CXM056-BNW_-_board_-_AMD_AM29F200BT-90EC-6340.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wraith family",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Wraith_family.jpg/1920px-Wraith_family.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Wraith_family.jpg/500px-Wraith_family.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "CGBR, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wraith_family.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Am27C512-150DC EPROM UV 512K-bit 64K x 8 150ns 28-Pin CDIP; Manufactured by AMD",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Am27C512.jpg/1920px-Am27C512.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Am27C512.jpg/500px-Am27C512.jpg",
+   "size": [
+    1920,
+    1791
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Am27C512.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Apple 820-0865-A - AMD AM79C950AKC-0936",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_820-0865-A_-_AMD_AM79C950AKC-0936.jpg/1920px-Apple_820-0865-A_-_AMD_AM79C950AKC-0936.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_820-0865-A_-_AMD_AM79C950AKC-0936.jpg/500px-Apple_820-0865-A_-_AMD_AM79C950AKC-0936.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Apple_820-0865-A_-_AMD_AM79C950AKC-0936.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HIS AMD Radeon 5670",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/HIS_AMD_Radeon_5670.jpg/1920px-HIS_AMD_Radeon_5670.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/HIS_AMD_Radeon_5670.jpg/500px-HIS_AMD_Radeon_5670.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Shanze1, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HIS_AMD_Radeon_5670.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD CPU",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMD_CPU_%2849325505733%29.jpg/1920px-AMD_CPU_%2849325505733%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMD_CPU_%2849325505733%29.jpg/500px-AMD_CPU_%2849325505733%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel Garcia, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_CPU_(49325505733).jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD Ryzen 5 1600 processor with Wraith Spire cooler - detail view of cooler",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg/1280px-AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg/500px-AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ITEagle Europe - Sebastiaan Broekhoven, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD Radeon Memory - 8 GB * 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AMDRadeonMemory.JPG/1920px-AMDRadeonMemory.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AMDRadeonMemory.JPG/500px-AMDRadeonMemory.JPG",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMDRadeonMemory.JPG",
+   "plain": true
+  },
+  {
+   "shows": "AMD Austin campus",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AMD_Austin_campus.JPG/1920px-AMD_Austin_campus.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AMD_Austin_campus.JPG/500px-AMD_Austin_campus.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Matthewrutledge, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_Austin_campus.JPG",
+   "plain": true
+  },
+  {
+   "shows": "AMD CPU Stock Heatsink",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AMD_CPU_Stock_Heatsink.jpg/1920px-AMD_CPU_Stock_Heatsink.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AMD_CPU_Stock_Heatsink.jpg/500px-AMD_CPU_Stock_Heatsink.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Edmund Tse from Sydney, Australia, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_CPU_Stock_Heatsink.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD booth, Computex Taipei",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AMD_booth%2C_Computex_Taipei_20130607.jpg/1920px-AMD_booth%2C_Computex_Taipei_20130607.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AMD_booth%2C_Computex_Taipei_20130607.jpg/500px-AMD_booth%2C_Computex_Taipei_20130607.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Lin, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_booth,_Computex_Taipei_20130607.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Embedded World 2014 AMD Booth",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Embedded_World_2014_AMD_Booth.jpg/1920px-Embedded_World_2014_AMD_Booth.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Embedded_World_2014_AMD_Booth.jpg/500px-Embedded_World_2014_AMD_Booth.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ordercrazy, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Embedded_World_2014_AMD_Booth.jpg",
+   "plain": true
+  },
+  {
+   "shows": "E3 2011 - AMD booth",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/E3_2011_-_AMD_booth_%285822119709%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/E3_2011_-_AMD_booth_%285822119709%29.jpg/500px-E3_2011_-_AMD_booth_%285822119709%29.jpg",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:E3_2011_-_AMD_booth_(5822119709).jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMD@7nm(12nmIOD)@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062___DSCx1",
+   "url": "https://live.staticflickr.com/65535/48258240636_011e4ca349_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48258240636_011e4ca349_z.jpg",
+   "size": [
+    1024,
+    1015
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by FritzchensFritz on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/130561288@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/130561288@N04/48258240636",
    "plain": true
   }
  ]

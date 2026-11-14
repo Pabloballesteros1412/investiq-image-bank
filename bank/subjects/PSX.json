@@ -6,7 +6,7 @@
   "PSX"
  ],
  "sector": "sector-energy",
- "fill_from": "sector-energy",
+ "target": 10,
  "photos": [
   {
    "shows": "Phillips 66 gas pump in Stanhope, NJ",
@@ -24,6 +24,23 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Phillips_66_gas_pump_in_Stanhope,_NJ.jpg"
+  },
+  {
+   "shows": "Phillips 66 Refinery in Billings, Montana",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Phillips_66_Refinery_in_Billings%2C_Montana.jpg/1920px-Phillips_66_Refinery_in_Billings%2C_Montana.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Phillips_66_Refinery_in_Billings%2C_Montana.jpg/500px-Phillips_66_Refinery_in_Billings%2C_Montana.jpg",
+   "size": [
+    1920,
+    1190
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Phillips_66_Refinery_in_Billings,_Montana.jpg"
   },
   {
    "shows": "Bayway Refinery, New Jersey",
@@ -77,6 +94,96 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Phillips_66_gas_station_Bristow_OK_2026-09-15_12-59-16.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Phillips 66 Gas Station - Fuel Prices - Salt Lake City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Phillips_66_Gas_Station_-_Fuel_Prices_-_Salt_Lake_City.jpg/1920px-Phillips_66_Gas_Station_-_Fuel_Prices_-_Salt_Lake_City.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Phillips_66_Gas_Station_-_Fuel_Prices_-_Salt_Lake_City.jpg/500px-Phillips_66_Gas_Station_-_Fuel_Prices_-_Salt_Lake_City.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Phillips_66_Gas_Station_-_Fuel_Prices_-_Salt_Lake_City.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Phillips 66 Gas Sign & Gas Pumps @ Ware Oil in Perry, FL",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Phillips_66_Gas_Sign_%26_Gas_Pumps_%40_Ware_Oil_in_Perry%2C_FL.jpg/1920px-Phillips_66_Gas_Sign_%26_Gas_Pumps_%40_Ware_Oil_in_Perry%2C_FL.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Phillips_66_Gas_Sign_%26_Gas_Pumps_%40_Ware_Oil_in_Perry%2C_FL.jpg/500px-Phillips_66_Gas_Sign_%26_Gas_Pumps_%40_Ware_Oil_in_Perry%2C_FL.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DanTD, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Phillips_66_Gas_Sign_%26_Gas_Pumps_@_Ware_Oil_in_Perry,_FL.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Gas Pump outside Visitor's Center - Baxter Springs - Kansas - USA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gas_Pump_outside_Visitor%27s_Center_-_Baxter_Springs_-_Kansas_-_USA_%2841160257354%29.jpg/1920px-Gas_Pump_outside_Visitor%27s_Center_-_Baxter_Springs_-_Kansas_-_USA_%2841160257354%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Gas_Pump_outside_Visitor%27s_Center_-_Baxter_Springs_-_Kansas_-_USA_%2841160257354%29.jpg/500px-Gas_Pump_outside_Visitor%27s_Center_-_Baxter_Springs_-_Kansas_-_USA_%2841160257354%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Adam Jones from Kelowna, BC, Canada, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gas_Pump_outside_Visitor%27s_Center_-_Baxter_Springs_-_Kansas_-_USA_(41160257354).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Phillips 66 at Night",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Phillips_66_at_Night_%2855112373576%29.jpg/1920px-Phillips_66_at_Night_%2855112373576%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Phillips_66_at_Night_%2855112373576%29.jpg/500px-Phillips_66_at_Night_%2855112373576%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "formulanone, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Phillips_66_at_Night_(55112373576).jpg",
+   "plain": true
+  },
+  {
+   "shows": "1960 Phillips 66 Gas Station on Route 66 in Eureka, MO",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1960_Phillips_66_Gas_Station_on_Route_66_in_Eureka%2C_MO.jpg/1920px-1960_Phillips_66_Gas_Station_on_Route_66_in_Eureka%2C_MO.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1960_Phillips_66_Gas_Station_on_Route_66_in_Eureka%2C_MO.jpg/500px-1960_Phillips_66_Gas_Station_on_Route_66_in_Eureka%2C_MO.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "EagleScout2017, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1960_Phillips_66_Gas_Station_on_Route_66_in_Eureka,_MO.jpg",
    "plain": true
   }
  ]

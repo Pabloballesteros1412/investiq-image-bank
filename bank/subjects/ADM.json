@@ -6,7 +6,7 @@
   "ADM"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "ADM Jetty, Erith II",
@@ -78,6 +78,114 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Archer_Daniels_Midland_Tank_Car_(49690312411).jpg",
+   "plain": true
+  },
+  {
+   "shows": "ADM Milling - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ADM_Milling_-_geograph.org.uk_-_7760695.jpg/1920px-ADM_Milling_-_geograph.org.uk_-_7760695.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ADM_Milling_-_geograph.org.uk_-_7760695.jpg/500px-ADM_Milling_-_geograph.org.uk_-_7760695.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ceri Thomas, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ADM_Milling_-_geograph.org.uk_-_7760695.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chancelot Mill - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chancelot_Mill_-_geograph.org.uk_-_7306950.jpg/1920px-Chancelot_Mill_-_geograph.org.uk_-_7306950.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chancelot_Mill_-_geograph.org.uk_-_7306950.jpg/500px-Chancelot_Mill_-_geograph.org.uk_-_7306950.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stephen McKay, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chancelot_Mill_-_geograph.org.uk_-_7306950.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chancelot Mill, Leith - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Chancelot_Mill%2C_Leith_-_geograph.org.uk_-_6258436.jpg/1920px-Chancelot_Mill%2C_Leith_-_geograph.org.uk_-_6258436.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Chancelot_Mill%2C_Leith_-_geograph.org.uk_-_6258436.jpg/500px-Chancelot_Mill%2C_Leith_-_geograph.org.uk_-_6258436.jpg",
+   "size": [
+    1920,
+    1259
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "M J Richardson, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chancelot_Mill,_Leith_-_geograph.org.uk_-_6258436.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chancelot Mill, Leith Harbour - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chancelot_Mill%2C_Leith_Harbour_-_geograph.org.uk_-_8386506.jpg/1920px-Chancelot_Mill%2C_Leith_Harbour_-_geograph.org.uk_-_8386506.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chancelot_Mill%2C_Leith_Harbour_-_geograph.org.uk_-_8386506.jpg/500px-Chancelot_Mill%2C_Leith_Harbour_-_geograph.org.uk_-_8386506.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Richard Webb, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chancelot_Mill,_Leith_Harbour_-_geograph.org.uk_-_8386506.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Archer Daniels Midland Fulton Market grain elevator 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Archer_Daniels_Midland_Fulton_Market_grain_elevator_2.jpg/1920px-Archer_Daniels_Midland_Fulton_Market_grain_elevator_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Archer_Daniels_Midland_Fulton_Market_grain_elevator_2.jpg/500px-Archer_Daniels_Midland_Fulton_Market_grain_elevator_2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tdl1060, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Archer_Daniels_Midland_Fulton_Market_grain_elevator_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ADM Szamotuły sp. z o. o",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ADM_Szamotu%C5%82y_sp._z_o._o.jpg/1920px-ADM_Szamotu%C5%82y_sp._z_o._o.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/ADM_Szamotu%C5%82y_sp._z_o._o.jpg/500px-ADM_Szamotu%C5%82y_sp._z_o._o.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stiopa, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ADM_Szamotu%C5%82y_sp._z_o._o.jpg",
    "plain": true
   }
  ]

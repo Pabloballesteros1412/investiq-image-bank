@@ -6,6 +6,7 @@
   "SHOP"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -25,6 +26,26 @@
    "author_url": "https://unsplash.com/@hookle?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/laptop-displaying-website-in-workspace-6Pa7l0unTAY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Shopify Booth · btconf, btconf14, capitol, du00fcsseldorf, düsseldorf",
+   "url": "https://live.staticflickr.com/3716/14097250490_12bb7c909d_b.jpg",
+   "preview": "https://live.staticflickr.com/3716/14097250490_12bb7c909d_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by andreasdantz on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/29481208@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29481208@N08/14097250490",
+   "plain": true
   }
  ]
 }

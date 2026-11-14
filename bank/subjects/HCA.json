@@ -6,7 +6,7 @@
   "HCA"
  ],
  "sector": "sector-health",
- "fill_from": "sector-health",
+ "target": 10,
  "photos": [
   {
    "shows": "Overland Park Regional main and ED entrance",
@@ -114,6 +114,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_Hospital_from_the_Thames.jpg",
+   "plain": true
+  },
+  {
+   "shows": "London Bridge Hospital, from 20 Fenchurch Street - Sky Garden",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/London_Bridge_Hospital%2C_from_20_Fenchurch_Street_-_Sky_Garden.jpg/1920px-London_Bridge_Hospital%2C_from_20_Fenchurch_Street_-_Sky_Garden.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/London_Bridge_Hospital%2C_from_20_Fenchurch_Street_-_Sky_Garden.jpg/500px-London_Bridge_Hospital%2C_from_20_Fenchurch_Street_-_Sky_Garden.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Celsoazevedo, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_Hospital,_from_20_Fenchurch_Street_-_Sky_Garden.jpg",
+   "plain": true
+  },
+  {
+   "shows": "London Bridge Hospital (South Face - 01)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/London_Bridge_Hospital_%28South_Face_-_01%29.jpg/1280px-London_Bridge_Hospital_%28South_Face_-_01%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/London_Bridge_Hospital_%28South_Face_-_01%29.jpg/500px-London_Bridge_Hospital_%28South_Face_-_01%29.jpg",
+   "size": [
+    1280,
+    1681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Doyle of London, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:London_Bridge_Hospital_(South_Face_-_01).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lister Hospital, Chelsea",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lister_Hospital%2C_Chelsea_-_2025-06-15.jpg/1920px-Lister_Hospital%2C_Chelsea_-_2025-06-15.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Lister_Hospital%2C_Chelsea_-_2025-06-15.jpg/500px-Lister_Hospital%2C_Chelsea_-_2025-06-15.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Txemari. (Navarra)., CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lister_Hospital,_Chelsea_-_2025-06-15.jpg",
+   "plain": true
+  },
+  {
+   "shows": "The Lister Hospital",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Lister_Hospital_%287050566171%29.jpg/1920px-The_Lister_Hospital_%287050566171%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Lister_Hospital_%287050566171%29.jpg/500px-The_Lister_Hospital_%287050566171%29.jpg",
+   "size": [
+    1920,
+    1837
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Hisgett from Birmingham, UK, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Lister_Hospital_(7050566171).jpg",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "XOM"
  ],
  "sector": "sector-energy",
+ "target": 30,
  "photos": [
   {
    "shows": "An ExxonMobil gas station in Hiawassee, Georgia",
@@ -184,6 +185,370 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:ExxonMobil_Gas_Station_(53590168016).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Exxon station, Jefferson Highway & Shrewsbury Court, Old Jefferson Louisiana May 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Exxon_station%2C_Jefferson_Highway_%26_Shrewsbury_Court%2C_Old_Jefferson_Louisiana_May_2024.jpg/1920px-Exxon_station%2C_Jefferson_Highway_%26_Shrewsbury_Court%2C_Old_Jefferson_Louisiana_May_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Exxon_station%2C_Jefferson_Highway_%26_Shrewsbury_Court%2C_Old_Jefferson_Louisiana_May_2024.jpg/500px-Exxon_station%2C_Jefferson_Highway_%26_Shrewsbury_Court%2C_Old_Jefferson_Louisiana_May_2024.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Infrogmation, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exxon_station,_Jefferson_Highway_%26_Shrewsbury_Court,_Old_Jefferson_Louisiana_May_2024.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goose Creek Exxon Baytown Texas 10-5-2008",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg/1920px-Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg/500px-Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg",
+   "size": [
+    1920,
+    1448
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Baytownbert, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goose_Creek_Exxon_Baytown_Texas_10-5-2008.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Smokestacks and Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Smokestacks_and_Texas_%28947%29.jpg/1920px-Smokestacks_and_Texas_%28947%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Smokestacks_and_Texas_%28947%29.jpg/500px-Smokestacks_and_Texas_%28947%29.jpg",
+   "size": [
+    1920,
+    1033
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy Luck, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Smokestacks_and_Texas_(947).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Exxon in Raleigh, NC",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Exxon_in_Raleigh%2C_NC.jpg/1920px-Exxon_in_Raleigh%2C_NC.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Exxon_in_Raleigh%2C_NC.jpg/500px-Exxon_in_Raleigh%2C_NC.jpg",
+   "size": [
+    1920,
+    1446
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Iconoclasty, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exxon_in_Raleigh,_NC.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Former Mobil Gas Station, Chester MA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Former_Mobil_Gas_Station%2C_Chester_MA.jpg/1920px-Former_Mobil_Gas_Station%2C_Chester_MA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Former_Mobil_Gas_Station%2C_Chester_MA.jpg/500px-Former_Mobil_Gas_Station%2C_Chester_MA.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Former_Mobil_Gas_Station,_Chester_MA.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Exxon, N. Slappey Blvd., Albany",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Exxon%2C_N._Slappey_Blvd.%2C_Albany.jpg/1920px-Exxon%2C_N._Slappey_Blvd.%2C_Albany.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Exxon%2C_N._Slappey_Blvd.%2C_Albany.jpg/500px-Exxon%2C_N._Slappey_Blvd.%2C_Albany.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exxon,_N._Slappey_Blvd.,_Albany.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Exxon, Union GA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Exxon%2C_Union_GA.jpg/1920px-Exxon%2C_Union_GA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Exxon%2C_Union_GA.jpg/500px-Exxon%2C_Union_GA.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "John Phelan, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exxon,_Union_GA.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mobil Gasoline",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Mobil_Gasoline.jpg/1920px-Mobil_Gasoline.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Mobil_Gasoline.jpg/500px-Mobil_Gasoline.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mobil_Gasoline.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Arby's, Mobil Gas Station, US19, Jefferson County",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Arby%27s%2C_Mobil_Gas_Station%2C_US19%2C_Jefferson_County.jpg/1920px-Arby%27s%2C_Mobil_Gas_Station%2C_US19%2C_Jefferson_County.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Arby%27s%2C_Mobil_Gas_Station%2C_US19%2C_Jefferson_County.jpg/500px-Arby%27s%2C_Mobil_Gas_Station%2C_US19%2C_Jefferson_County.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Arby%27s,_Mobil_Gas_Station,_US19,_Jefferson_County.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Esso Station mit McDonalds",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Esso_Station_mit_McDonalds_141734.jpg/1920px-Esso_Station_mit_McDonalds_141734.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Esso_Station_mit_McDonalds_141734.jpg/500px-Esso_Station_mit_McDonalds_141734.jpg",
+   "size": [
+    1920,
+    1844
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Trop86, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Esso_Station_mit_McDonalds_141734.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hagen, Tankstelle Bülowstraße 18",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hagen%2C_Tankstelle_B%C3%BClowstra%C3%9Fe_18.jpg/1920px-Hagen%2C_Tankstelle_B%C3%BClowstra%C3%9Fe_18.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Hagen%2C_Tankstelle_B%C3%BClowstra%C3%9Fe_18.jpg/500px-Hagen%2C_Tankstelle_B%C3%BClowstra%C3%9Fe_18.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aquamunda, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hagen,_Tankstelle_B%C3%BClowstra%C3%9Fe_18.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hagen, Tankstelle Hagener Straße 136",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hagen%2C_Tankstelle_Hagener_Stra%C3%9Fe_136.jpg/1920px-Hagen%2C_Tankstelle_Hagener_Stra%C3%9Fe_136.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hagen%2C_Tankstelle_Hagener_Stra%C3%9Fe_136.jpg/500px-Hagen%2C_Tankstelle_Hagener_Stra%C3%9Fe_136.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aquamunda, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hagen,_Tankstelle_Hagener_Stra%C3%9Fe_136.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dairy Queen, Mobil, US 221 Madison County",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dairy_Queen%2C_Mobil%2C_US_221_Madison_County.jpg/1920px-Dairy_Queen%2C_Mobil%2C_US_221_Madison_County.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Dairy_Queen%2C_Mobil%2C_US_221_Madison_County.jpg/500px-Dairy_Queen%2C_Mobil%2C_US_221_Madison_County.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dairy_Queen,_Mobil,_US_221_Madison_County.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Engine Oil",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Engine_Oil.jpg/1280px-Engine_Oil.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Engine_Oil.jpg/500px-Engine_Oil.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Taoheedah, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Engine_Oil.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Esso filling station, Treforest industrial estate - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Esso_filling_station%2C_Treforest_industrial_estate_-_geograph.org.uk_-_7302968.jpg/1920px-Esso_filling_station%2C_Treforest_industrial_estate_-_geograph.org.uk_-_7302968.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Esso_filling_station%2C_Treforest_industrial_estate_-_geograph.org.uk_-_7302968.jpg/500px-Esso_filling_station%2C_Treforest_industrial_estate_-_geograph.org.uk_-_7302968.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "David Smith, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Esso_filling_station,_Treforest_industrial_estate_-_geograph.org.uk_-_7302968.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kings Hwy Nostrand Av td ( ) 08 - Mobil Bolla",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kings_Hwy_Nostrand_Av_td_%282022-05-01%29_08_-_Mobil_Bolla.jpg/1920px-Kings_Hwy_Nostrand_Av_td_%282022-05-01%29_08_-_Mobil_Bolla.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kings_Hwy_Nostrand_Av_td_%282022-05-01%29_08_-_Mobil_Bolla.jpg/500px-Kings_Hwy_Nostrand_Av_td_%282022-05-01%29_08_-_Mobil_Bolla.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kings_Hwy_Nostrand_Av_td_(2022-05-01)_08_-_Mobil_Bolla.jpg",
+   "plain": true
+  },
+  {
+   "shows": "09 11 09 The Exxon gas station at Pennington Road and North Olden Avenue in Ewing Township, Mercer County, New Jersey",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2023-11-27_09_11_09_The_Exxon_gas_station_at_Pennington_Road_and_North_Olden_Avenue_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1920px-2023-11-27_09_11_09_The_Exxon_gas_station_at_Pennington_Road_and_North_Olden_Avenue_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/2023-11-27_09_11_09_The_Exxon_gas_station_at_Pennington_Road_and_North_Olden_Avenue_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/500px-2023-11-27_09_11_09_The_Exxon_gas_station_at_Pennington_Road_and_North_Olden_Avenue_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2023-11-27_09_11_09_The_Exxon_gas_station_at_Pennington_Road_and_North_Olden_Avenue_in_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Esso gas station - Canada owned and operated - 20250327A",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Esso_gas_station_-_Canada_owned_and_operated_-_20250327A.jpg/1280px-Esso_gas_station_-_Canada_owned_and_operated_-_20250327A.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Esso_gas_station_-_Canada_owned_and_operated_-_20250327A.jpg/500px-Esso_gas_station_-_Canada_owned_and_operated_-_20250327A.jpg",
+   "size": [
+    1280,
+    1700
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sikander Iqbal, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Esso_gas_station_-_Canada_owned_and_operated_-_20250327A.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ExxonMobil Building · 1750mm, 30d, building, canon, canoneos30d",
+   "url": "https://live.staticflickr.com/3616/3485817394_2917c44fe0_b.jpg",
+   "preview": "https://live.staticflickr.com/3616/3485817394_2917c44fe0_z.jpg",
+   "size": [
+    709,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by o b s k u r a on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/88575173@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/88575173@N00/3485817394",
+   "plain": true
+  },
+  {
+   "shows": "View from the 27th-floor observation deck of the Louisiana State Capitol in Baton Rouge, one of America's best-known state capitol buildings",
+   "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/67600/67654v.jpg",
+   "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/67600/67654r.jpg",
+   "size": [
+    1024,
+    363
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "low_res": true,
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2021755875/",
    "plain": true
   }
  ]

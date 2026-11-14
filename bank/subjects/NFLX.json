@@ -6,6 +6,7 @@
   "NFLX"
  ],
  "sector": "sector-communication",
+ "target": 30,
  "fill_from": "sector-communication",
  "photos": [
   {
@@ -60,6 +61,26 @@
    "author_url": "https://unsplash.com/@thibaultpenin?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-television-with-the-netflix-logo-lit-up-in-the-dark-GrzoKN1aqSg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Adios Senor Netflix · business, document, paper",
+   "url": "https://live.staticflickr.com/3535/3890718857_c021a4d254_b.jpg",
+   "preview": "https://live.staticflickr.com/3535/3890718857_c021a4d254_z.jpg",
+   "size": [
+    1024,
+    681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by cogdogblog on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/37996646802@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37996646802@N01/3890718857",
+   "plain": true
   },
   {
    "shows": "101 Albright Way",
@@ -150,6 +171,212 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Netflix_at_Thong_Lor.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix (Netflix original programming)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2019-08-04_-_Netflix.jpg/1920px-2019-08-04_-_Netflix.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2019-08-04_-_Netflix.jpg/500px-2019-08-04_-_Netflix.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "玄 史生, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2019-08-04_-_Netflix.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Google ATV Reference RCU G10 - Netflix button",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Google_ATV_Reference_RCU_G10_-_Netflix_button.jpg/1920px-Google_ATV_Reference_RCU_G10_-_Netflix_button.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Google_ATV_Reference_RCU_G10_-_Netflix_button.jpg/500px-Google_ATV_Reference_RCU_G10_-_Netflix_button.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paowee, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Google_ATV_Reference_RCU_G10_-_Netflix_button.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix button",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Netflix_button_%2841826741022%29.jpg/1920px-Netflix_button_%2841826741022%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Netflix_button_%2841826741022%29.jpg/500px-Netflix_button_%2841826741022%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stock Catalog, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Netflix_button_(41826741022).jpg",
+   "plain": true
+  },
+  {
+   "shows": "NETFLIX Yamatesen",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NETFLIX_Yamatesen.jpg/1920px-NETFLIX_Yamatesen.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NETFLIX_Yamatesen.jpg/500px-NETFLIX_Yamatesen.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "番記者, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NETFLIX_Yamatesen.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix House at King of Prussia Mall",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Netflix_House_at_King_of_Prussia_Mall.jpeg/1920px-Netflix_House_at_King_of_Prussia_Mall.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Netflix_House_at_King_of_Prussia_Mall.jpeg/500px-Netflix_House_at_King_of_Prussia_Mall.jpeg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dough4872, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Netflix_House_at_King_of_Prussia_Mall.jpeg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix House in King of Prussia Mall first floor mall entrance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Netflix_House_in_King_of_Prussia_Mall_first_floor_mall_entrance.jpeg/1920px-Netflix_House_in_King_of_Prussia_Mall_first_floor_mall_entrance.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Netflix_House_in_King_of_Prussia_Mall_first_floor_mall_entrance.jpeg/500px-Netflix_House_in_King_of_Prussia_Mall_first_floor_mall_entrance.jpeg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dough4872, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Netflix_House_in_King_of_Prussia_Mall_first_floor_mall_entrance.jpeg",
+   "plain": true
+  },
+  {
+   "shows": "100 Winchester Circle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/100_Winchester_Circle.jpg/1920px-100_Winchester_Circle.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/100_Winchester_Circle.jpg/500px-100_Winchester_Circle.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:100_Winchester_Circle.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix envelope and dvd · netflix, business, document, paper, text",
+   "url": "https://live.staticflickr.com/3051/2654302987_e65ecd69b9_b.jpg",
+   "preview": "https://live.staticflickr.com/3051/2654302987_e65ecd69b9_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Marit & Toomas Hinnosaar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/27519540@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/27519540@N04/2654302987",
+   "plain": true
+  },
+  {
+   "shows": "Netflix envelope · netflix, business, note, office, paper",
+   "url": "https://live.staticflickr.com/3200/2655128664_302f3a5b47_b.jpg",
+   "preview": "https://live.staticflickr.com/3200/2655128664_302f3a5b47_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Marit & Toomas Hinnosaar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/27519540@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/27519540@N04/2655128664",
+   "plain": true
+  },
+  {
+   "shows": "Orange is the new Black Netflix Ad, Times Square - NYC",
+   "url": "https://live.staticflickr.com/1950/44518215424_f78c6b165d_b.jpg",
+   "preview": "https://live.staticflickr.com/1950/44518215424_f78c6b165d_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by willbuckner on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/160344139@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/160344139@N02/44518215424",
+   "plain": true
+  },
+  {
+   "shows": "Generic Netflix DVD · dvd, business, document, office, paper",
+   "url": "https://live.staticflickr.com/4087/5044329667_97167e62e7_b.jpg",
+   "preview": "https://live.staticflickr.com/4087/5044329667_97167e62e7_z.jpg",
+   "size": [
+    1024,
+    677
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JoePhoto on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/18474854@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/18474854@N00/5044329667",
    "plain": true
   }
  ]

@@ -3,6 +3,7 @@
  "kind": "topic",
  "name": "Defense & geopolitics",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
    "shows": "An aerial view of the Pentagon, Washington, D.C., May 15, 2023",
@@ -57,6 +58,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:An_F-A-18C_Hornet_launches_from_the_flight_deck_of_the_conventionally_powered_aircraft_carrier.jpg"
   },
   {
+   "shows": "Brussels NATO Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/1920px-Brussels_NATO_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brussels_NATO_Headquarters.jpg/500px-Brussels_NATO_Headquarters.jpg",
+   "size": [
+    1920,
+    1027
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ad Meskens, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Brussels_NATO_Headquarters.jpg"
+  },
+  {
    "shows": "Patriot missile firing during Balikatan 2023",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Patriot_missile_firing_during_Balikatan_2023.jpg/1920px-Patriot_missile_firing_during_Balikatan_2023.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Patriot_missile_firing_during_Balikatan_2023.jpg/500px-Patriot_missile_firing_during_Balikatan_2023.jpg",
@@ -108,6 +126,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:M1A2_Abrams_firing.jpg"
   },
   {
+   "shows": "US Navy -N-1234E-002 PCU Virginia (SSN 774) returns to the General Dynamics Electric Boat shipyard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg/1920px-US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg/500px-US_Navy_040730-N-1234E-002_PCU_Virginia_%28SSN_774%29_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Navy photo by General Dynamics Electric Boat, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg"
+  },
+  {
    "shows": "A fighter jet flying through a blue sky",
    "url": "https://images.unsplash.com/photo-1706083729094-74fb69aa3dc7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1706083729094-74fb69aa3dc7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -124,6 +159,592 @@
    "author_url": "https://unsplash.com/@matteotiso?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-blue-sky-iNEVt0gLjSM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A fighter jet flying through a cloudy blue sky",
+   "url": "https://images.unsplash.com/photo-1689182314475-ff55f109b430?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZmlnaHRlciUyMGpldHxlbnwxfHx8fDE3OTQ1MzU3OTR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1689182314475-ff55f109b430?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZmlnaHRlciUyMGpldHxlbnwxfHx8fDE3OTQ1MzU3OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1612
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Cook aynne on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cookaynne?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-cloudy-blue-sky-rSHK8P8M-40?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large military ship in the middle of a body of water",
+   "url": "https://images.unsplash.com/photo-1685178362030-9b574eb9ae7c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmF2eSUyMHNoaXB8ZW58MXx8fHwxNzk0NTM1Nzk3fDA&ixlib=rb-4.1.0&w=2326&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1685178362030-9b574eb9ae7c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmF2eSUyMHNoaXB8ZW58MXx8fHwxNzk0NTM1Nzk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2326,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vidar Nordli-Mathisen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vidarnm?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-military-ship-in-the-middle-of-a-body-of-water-c7cx5ThfwSE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Strong Europe Tank Challenge 2018 ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Strong_Europe_Tank_Challenge_2018_%2842054365704%29_%28cropped%29.jpg/1920px-Strong_Europe_Tank_Challenge_2018_%2842054365704%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Strong_Europe_Tank_Challenge_2018_%2842054365704%29_%28cropped%29.jpg/500px-Strong_Europe_Tank_Challenge_2018_%2842054365704%29_%28cropped%29.jpg",
+   "size": [
+    1920,
+    1262
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "7th Army Training Command from Grafenwoehr, Germany, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Strong_Europe_Tank_Challenge_2018_(42054365704)_(cropped).jpg"
+  },
+  {
+   "shows": "An olive green military attack helicopter flying low over a grassy rural landscape",
+   "url": "https://images.unsplash.com/photo-1519074031893-210d39bd3885?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bWlsaXRhcnklMjBoZWxpY29wdGVyfGVufDF8fHx8MTc5NDU0NjcwNnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1519074031893-210d39bd3885?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bWlsaXRhcnklMjBoZWxpY29wdGVyfGVufDF8fHx8MTc5NDU0NjcwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1359
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by DON JACKSON-WYATT on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@the_don_photography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/military-attack-helicopter-over-rural-landscape-sbhubyl7lWI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Men in green and brown camouflage uniform",
+   "url": "https://images.unsplash.com/photo-1608396941316-ea89219bd56e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c29sZGllcnxlbnwxfHx8fDE3OTQ1NDY3MzJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1608396941316-ea89219bd56e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c29sZGllcnxlbnwxfHx8fDE3OTQ1NDY3MzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Filip Andrejevic on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@fandrejevic?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/men-in-green-and-brown-camouflage-uniform-1LTunOck3es?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An aerial view of a boat in the water",
+   "url": "https://images.unsplash.com/photo-1654266181373-a32838f3cdf6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8d2Fyc2hpcHxlbnwxfHx8fDE3OTQ1NDY3OTl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1654266181373-a32838f3cdf6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8d2Fyc2hpcHxlbnwxfHx8fDE3OTQ1NDY3OTl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1801
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alonso Reyes on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alonsoreyes?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/an-aerial-view-of-a-boat-in-the-water-Kyped8f4SyY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "F-22 Raptor edit1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/F-22_Raptor_edit1.jpg/1920px-F-22_Raptor_edit1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/F-22_Raptor_edit1.jpg/500px-F-22_Raptor_edit1.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "F-22_Raptor.JPG : Master Sgt. Andy Dunaway, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:F-22_Raptor_edit1.jpg"
+  },
+  {
+   "shows": "A fighter jet flying through a blue sky",
+   "url": "https://images.unsplash.com/photo-1694417334847-7ebdaf04a8c3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1694417334847-7ebdaf04a8c3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Guy Croisiaux on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@croisiaux?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-blue-sky-eNzBir_x1t8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "F-15 vertical deploy",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/F-15_vertical_deploy.jpg/1280px-F-15_vertical_deploy.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/F-15_vertical_deploy.jpg/500px-F-15_vertical_deploy.jpg",
+   "size": [
+    1280,
+    1965
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Staff Sergeant Jeffrey Allen, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:F-15_vertical_deploy.jpg"
+  },
+  {
+   "shows": "A military tank driving on a dirt road, kicking up dust, with a soldier visible",
+   "url": "https://images.unsplash.com/photo-1630161861535-b39e5635da68?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fG1pbGl0YXJ5fGVufDF8fHx8MTc5NDUzNTc5Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1630161861535-b39e5635da68?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fG1pbGl0YXJ5fGVufDF8fHx8MTc5NDUzNTc5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kevin Schmid on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lighttouchedphotography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/military-tank-driving-on-dirt-road-DIq7Bs3ga2s?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Seven navy ship sailing on ocean during daytime",
+   "url": "https://images.unsplash.com/photo-1521041601476-47a88cecb403?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bmF2eSUyMHNoaXB8ZW58MXx8fHwxNzk0NTM1Nzk3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1521041601476-47a88cecb403?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bmF2eSUyMHNoaXB8ZW58MXx8fHwxNzk0NTM1Nzk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Asael Peña on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@asaelamaury?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/seven-navy-ship-sailing-on-ocean-during-daytime-SCgE-uLumj4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two military helicopters flying over a mountain range",
+   "url": "https://images.unsplash.com/photo-1697461771293-6da16516049e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG1pbGl0YXJ5JTIwaGVsaWNvcHRlcnxlbnwxfHx8fDE3OTQ1NDY3MDZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1697461771293-6da16516049e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG1pbGl0YXJ5JTIwaGVsaWNvcHRlcnxlbnwxfHx8fDE3OTQ1NDY3MDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Eleonora Patricola on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@ele1010?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/two-military-helicopters-flying-over-a-mountain-range-KnOTfqphZWk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Grayscale photo of man in black jacket and pants holding rifle",
+   "url": "https://images.unsplash.com/photo-1583872341575-610c859c7a57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c29sZGllcnxlbnwxfHx8fDE3OTQ1NDY3MzJ8MA&ixlib=rb-4.1.0&w=1307&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1583872341575-610c859c7a57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c29sZGllcnxlbnwxfHx8fDE3OTQ1NDY3MzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1307,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Eduard Delputte on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@edelputte?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/grayscale-photo-of-man-in-black-jacket-and-pants-holding-rifle-DezIqettd-E?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A fighter jet is flying through the air",
+   "url": "https://images.unsplash.com/photo-1730058504100-af8a3d6e243b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Ri0yMiUyMFJhcHRvcnxlbnwxfHx8fDE3OTM5MTMwMzN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1730058504100-af8a3d6e243b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Ri0yMiUyMFJhcHRvcnxlbnwxfHx8fDE3OTM5MTMwMzN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    2134
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jonas on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jonasw?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-is-flying-through-the-air-gEmzBtso8dY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A fighter jet sitting on top of an airport runway",
+   "url": "https://images.unsplash.com/photo-1698269076729-2711a3e953f0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1698269076729-2711a3e953f0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lincoln Holley on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@linxphotography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-sitting-on-top-of-an-airport-runway-KeEmVv5r9E8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Six fighter jets",
+   "url": "https://images.unsplash.com/photo-1500252185289-40ca85eb23a7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZmlnaHRlciUyMGpldHxlbnwxfHx8fDE3OTQ1MzU3OTR8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1500252185289-40ca85eb23a7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZmlnaHRlciUyMGpldHxlbnwxfHx8fDE3OTQ1MzU3OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by UX Gun on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@uxgun?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/six-fighter-jets-5Mj4PO7KIFc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A british flag is flying on a ship",
+   "url": "https://images.unsplash.com/photo-1694661262500-8b850a9949e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG5hdnklMjBzaGlwfGVufDF8fHx8MTc5NDUzNTc5N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1694661262500-8b850a9949e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG5hdnklMjBzaGlwfGVufDF8fHx8MTc5NDUzNTc5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by David Clode on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@davidclode?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-british-flag-is-flying-on-a-ship-YTcNICrWRZA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two military helicopters flying close to each other",
+   "url": "https://images.unsplash.com/photo-1728964493745-933101476b55?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG1pbGl0YXJ5JTIwaGVsaWNvcHRlcnxlbnwxfHx8fDE3OTQ1NDY3MDZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1728964493745-933101476b55?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG1pbGl0YXJ5JTIwaGVsaWNvcHRlcnxlbnwxfHx8fDE3OTQ1NDY3MDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bryan Ramos on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@officialbryaan?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/two-military-helicopters-flying-close-to-each-other-LxVGobiwubc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two F-22A Raptor in column flight - (Noise reduced)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg/1920px-Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg/500px-Two_F-22A_Raptor_in_column_flight_-_%28Noise_reduced%29.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by TSgt Ben Bloker - Selective noise reduction by Diliff, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Two_F-22A_Raptor_in_column_flight_-_(Noise_reduced).jpg"
+  },
+  {
+   "shows": "White and black jet plane in mid air during daytime",
+   "url": "https://images.unsplash.com/photo-1629793150331-a01ff1c70bce?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1629793150331-a01ff1c70bce?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8RXVyb2ZpZ2h0ZXIlMjBUeXBob29ufGVufDF8fHx8MTc5MzkxMzA0M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    2056
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by SaiKrishna Saketh Yellapragada on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@saiksaketh?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-black-jet-plane-in-mid-air-during-daytime-lFGgPEu3vS0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A fighter jet flying through a blue sky",
+   "url": "https://images.unsplash.com/photo-1724755216762-f719613f7426?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGZpZ2h0ZXIlMjBqZXR8ZW58MXx8fHwxNzk0NTM1Nzk0fDA&ixlib=rb-4.1.0&w=2290&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1724755216762-f719613f7426?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGZpZ2h0ZXIlMjBqZXR8ZW58MXx8fHwxNzk0NTM1Nzk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2290,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tom Photography on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@big_t2?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-blue-sky-CPWOxjOwWUk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large navy ship with a bunch of fighter jets on top of it",
+   "url": "https://images.unsplash.com/photo-1685178863425-9dacad84e74c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG5hdnklMjBzaGlwfGVufDF8fHx8MTc5NDUzNTc5N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1685178863425-9dacad84e74c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG5hdnklMjBzaGlwfGVufDF8fHx8MTc5NDUzNTc5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1419
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vidar Nordli-Mathisen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vidarnm?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-navy-ship-with-a-bunch-of-fighter-jets-on-top-of-it-bOTxqWs8I0g?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A military helicopter flying through a cloudy sky",
+   "url": "https://images.unsplash.com/photo-1696272838777-dc15ac2446a6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fG1pbGl0YXJ5JTIwaGVsaWNvcHRlcnxlbnwxfHx8fDE3OTQ1NDY3MDZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1696272838777-dc15ac2446a6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fG1pbGl0YXJ5JTIwaGVsaWNvcHRlcnxlbnwxfHx8fDE3OTQ1NDY3MDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lincoln Holley on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@linxphotography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-military-helicopter-flying-through-a-cloudy-sky-cG1koe9kixM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A fighter jet flying through a cloudy sky",
+   "url": "https://images.unsplash.com/photo-1684693703154-a9b7d63e0ba8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEYtMjIlMjBSYXB0b3J8ZW58MXx8fHwxNzkzOTEzMDMzfDA&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1684693703154-a9b7d63e0ba8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEYtMjIlMjBSYXB0b3J8ZW58MXx8fHwxNzkzOTEzMDMzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1201,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Daniel Shapiro on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dshap?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-cloudy-sky-GbQXqvKvCXc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A fighter jet flying through a cloudy sky",
+   "url": "https://images.unsplash.com/photo-1698701095093-917424793ad6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEV1cm9maWdodGVyJTIwVHlwaG9vbnxlbnwxfHx8fDE3OTM5MTMwNDN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1698701095093-917424793ad6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEV1cm9maWdodGVyJTIwVHlwaG9vbnxlbnwxfHx8fDE3OTM5MTMwNDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lincoln Holley on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@linxphotography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-cloudy-sky-nSxZQlmR8js?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A fighter jet flying through a blue sky",
+   "url": "https://images.unsplash.com/photo-1698306557984-e921cb20917d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGZpZ2h0ZXIlMjBqZXR8ZW58MXx8fHwxNzk0NTM1Nzk0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1698306557984-e921cb20917d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGZpZ2h0ZXIlMjBqZXR8ZW58MXx8fHwxNzk0NTM1Nzk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1799
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Spencer Davis on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@spencerdavis?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-blue-sky-kMXCLEqMPj0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large ship is docked at a pier",
+   "url": "https://images.unsplash.com/photo-1712823715723-1f64db0f4c90?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fG5hdnklMjBzaGlwfGVufDF8fHx8MTc5NDUzNTc5N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1712823715723-1f64db0f4c90?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fG5hdnklMjBzaGlwfGVufDF8fHx8MTc5NDUzNTc5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Winston Chen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@winstonchen?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-ship-is-docked-at-a-pier-ja3sBTfrLzY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "CVN-69-SPIE-training",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CVN-69-SPIE-training.jpg/1920px-CVN-69-SPIE-training.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/CVN-69-SPIE-training.jpg/500px-CVN-69-SPIE-training.jpg",
+   "size": [
+    1920,
+    1276
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "United States Navy photo by Mass Communication Specialist 2nd Class Miguel Angel Contreras, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CVN-69-SPIE-training.jpg"
+  },
+  {
+   "shows": "Lockheed Martin F-22A Raptor JSOH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lockheed_Martin_F-22A_Raptor_JSOH.jpg/1920px-Lockheed_Martin_F-22A_Raptor_JSOH.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lockheed_Martin_F-22A_Raptor_JSOH.jpg/500px-Lockheed_Martin_F-22A_Raptor_JSOH.jpg",
+   "size": [
+    1920,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rob Shenk from Great Falls, VA, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lockheed_Martin_F-22A_Raptor_JSOH.jpg"
+  },
+  {
+   "shows": "30+68 German Air Force Eurofighter Typhoon EF2000 ILA Berlin 2016 06",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/30%2B68_German_Air_Force_Eurofighter_Typhoon_EF2000_ILA_Berlin_2016_06.jpg/1920px-30%2B68_German_Air_Force_Eurofighter_Typhoon_EF2000_ILA_Berlin_2016_06.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/30%2B68_German_Air_Force_Eurofighter_Typhoon_EF2000_ILA_Berlin_2016_06.jpg/500px-30%2B68_German_Air_Force_Eurofighter_Typhoon_EF2000_ILA_Berlin_2016_06.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Julian Herzog ( Website ), CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30%2B68_German_Air_Force_Eurofighter_Typhoon_EF2000_ILA_Berlin_2016_06.jpg"
+  },
+  {
+   "shows": "A blue and yellow fighter jet flying through a cloudy sky",
+   "url": "https://images.unsplash.com/photo-1684627539737-2cf0198b5482?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGZpZ2h0ZXIlMjBqZXR8ZW58MXx8fHwxNzk0NTM1Nzk0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1684627539737-2cf0198b5482?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGZpZ2h0ZXIlMjBqZXR8ZW58MXx8fHwxNzk0NTM1Nzk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Daniel Shapiro on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dshap?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-blue-and-yellow-fighter-jet-flying-through-a-cloudy-sky-12uNHfvIXms?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "USS Lake Erie (CG 70) missile test",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg/1280px-USS_Lake_Erie_%28CG_70%29_missile_test.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/USS_Lake_Erie_%28CG_70%29_missile_test.jpg/500px-USS_Lake_Erie_%28CG_70%29_missile_test.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mass Communication Specialist 2nd Class Maebel Tinoko (U.S. Navy), public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:USS_Lake_Erie_(CG_70)_missile_test.jpg"
+  },
+  {
+   "shows": "A military helicopter flying in the sky",
+   "url": "https://images.unsplash.com/photo-1766514937921-da8aa3e189fe?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG1pbGl0YXJ5JTIwaGVsaWNvcHRlcnxlbnwxfHx8fDE3OTQ1NDY3MDZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1766514937921-da8aa3e189fe?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG1pbGl0YXJ5JTIwaGVsaWNvcHRlcnxlbnwxfHx8fDE3OTQ1NDY3MDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bornil Amin on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bornil?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-military-helicopter-flying-in-the-sky-Fr-QD0afRds?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

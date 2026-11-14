@@ -6,6 +6,7 @@
   "NKE"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 30,
  "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
@@ -97,6 +98,60 @@
    "source": "https://unsplash.com/photos/the-nike-logo-is-lit-up-on-the-side-of-a-building-SrrFCmYXHLg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Nike Flagship - NYC",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nike_Flagship_-_NYC_%2848155560636%29.jpg/1280px-Nike_Flagship_-_NYC_%2848155560636%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nike_Flagship_-_NYC_%2848155560636%29.jpg/500px-Nike_Flagship_-_NYC_%2848155560636%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nike_Flagship_-_NYC_(48155560636).jpg"
+  },
+  {
+   "shows": "HK CWB 銅鑼灣 Causeway Bay 加寧街 Cleveland Street April 2021 SS2 04",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%8A%A0%E5%AF%A7%E8%A1%97_Cleveland_Street_April_2021_SS2_04.jpg/1280px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%8A%A0%E5%AF%A7%E8%A1%97_Cleveland_Street_April_2021_SS2_04.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%8A%A0%E5%AF%A7%E8%A1%97_Cleveland_Street_April_2021_SS2_04.jpg/500px-HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%8A%A0%E5%AF%A7%E8%A1%97_Cleveland_Street_April_2021_SS2_04.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ORELDANE LSING so, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%8A%A0%E5%AF%A7%E8%A1%97_Cleveland_Street_April_2021_SS2_04.jpg"
+  },
+  {
+   "shows": "Nike Air Jordan 5 Raging Bull (3M)",
+   "url": "https://live.staticflickr.com/3412/3547011472_dfcd6fb5b0_b.jpg",
+   "preview": "https://live.staticflickr.com/3412/3547011472_dfcd6fb5b0_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by chrishimself on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/29322132@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29322132@N08/3547011472",
+   "plain": true
+  },
+  {
    "shows": "Nike Headquarters Oregon",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nike_Headquarters_Oregon.jpg/1920px-Nike_Headquarters_Oregon.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Nike_Headquarters_Oregon.jpg/500px-Nike_Headquarters_Oregon.jpg",
@@ -166,6 +221,264 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Nikeworldheadquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nike Brickell City Centre - Run - Miami FL Feb 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nike_Brickell_City_Centre_-_Run_-_Miami_FL_Feb_2025.jpg/1920px-Nike_Brickell_City_Centre_-_Run_-_Miami_FL_Feb_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nike_Brickell_City_Centre_-_Run_-_Miami_FL_Feb_2025.jpg/500px-Nike_Brickell_City_Centre_-_Run_-_Miami_FL_Feb_2025.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nike_Brickell_City_Centre_-_Run_-_Miami_FL_Feb_2025.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nike by Brickell Brickell City Centre - Different Mannequins",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nike_by_Brickell_Brickell_City_Centre_-_Different_Mannequins.jpg/1280px-Nike_by_Brickell_Brickell_City_Centre_-_Different_Mannequins.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nike_by_Brickell_Brickell_City_Centre_-_Different_Mannequins.jpg/500px-Nike_by_Brickell_Brickell_City_Centre_-_Different_Mannequins.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nike_by_Brickell_Brickell_City_Centre_-_Different_Mannequins.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nike By Brickell Store Brickell City Centre, front window",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nike_By_Brickell_Store_Brickell_City_Centre%2C_front_window.jpg/1920px-Nike_By_Brickell_Store_Brickell_City_Centre%2C_front_window.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Nike_By_Brickell_Store_Brickell_City_Centre%2C_front_window.jpg/500px-Nike_By_Brickell_Store_Brickell_City_Centre%2C_front_window.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nike_By_Brickell_Store_Brickell_City_Centre,_front_window.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Football Boot A 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Football_Boot_A_2018.jpg/1920px-Football_Boot_A_2018.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Football_Boot_A_2018.jpg/500px-Football_Boot_A_2018.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "RickyBennison, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Football_Boot_A_2018.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Football Boot B 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Football_Boot_B_2018.jpg/1920px-Football_Boot_B_2018.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Football_Boot_B_2018.jpg/500px-Football_Boot_B_2018.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "RickyBennison, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Football_Boot_B_2018.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nike Factory Store at The Outlets ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nike_Factory_Store_at_The_Outlets_%282023-12-03%29.jpg/1920px-Nike_Factory_Store_at_The_Outlets_%282023-12-03%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nike_Factory_Store_at_The_Outlets_%282023-12-03%29.jpg/500px-Nike_Factory_Store_at_The_Outlets_%282023-12-03%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "PaulGorduiz106, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nike_Factory_Store_at_The_Outlets_(2023-12-03).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nike Carousel, 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nike_Carousel%2C_2026_%2801%29.jpg/1920px-Nike_Carousel%2C_2026_%2801%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Nike_Carousel%2C_2026_%2801%29.jpg/500px-Nike_Carousel%2C_2026_%2801%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nike_Carousel,_2026_(01).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Interior of the Toronto Eaton Centre, May 22 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Interior_of_the_Toronto_Eaton_Centre%2C_May_22_2026_%2811%29.jpg/1920px-Interior_of_the_Toronto_Eaton_Centre%2C_May_22_2026_%2811%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Interior_of_the_Toronto_Eaton_Centre%2C_May_22_2026_%2811%29.jpg/500px-Interior_of_the_Toronto_Eaton_Centre%2C_May_22_2026_%2811%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Toronto_Eaton_Centre,_May_22_2026_(11).jpg",
+   "plain": true
+  },
+  {
+   "shows": "HK TKO 將軍澳 Tseung Kwan O PopCorn mall shop Nike February 2022 Px3 11",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Nike_February_2022_Px3_11.jpg/1920px-HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Nike_February_2022_Px3_11.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Nike_February_2022_Px3_11.jpg/500px-HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Nike_February_2022_Px3_11.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WOOMENAICHIWACHA9, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Nike_February_2022_Px3_11.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nike and Adidas store at Suzhou Center Mall",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nike_and_Adidas_store_at_Suzhou_Center_Mall-20240523.jpg/1920px-Nike_and_Adidas_store_at_Suzhou_Center_Mall-20240523.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nike_and_Adidas_store_at_Suzhou_Center_Mall-20240523.jpg/500px-Nike_and_Adidas_store_at_Suzhou_Center_Mall-20240523.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Shwangtianyuan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nike_and_Adidas_store_at_Suzhou_Center_Mall-20240523.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dunhill & Nike Osaka",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dunhill_%26_Nike_Osaka.jpg/1280px-Dunhill_%26_Nike_Osaka.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dunhill_%26_Nike_Osaka.jpg/500px-Dunhill_%26_Nike_Osaka.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mr.ちゅらさん, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dunhill_%26_Nike_Osaka.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nike Air Jordan 5 Raging Bull (3M)",
+   "url": "https://live.staticflickr.com/3650/3546204553_d7bc92285e_b.jpg",
+   "preview": "https://live.staticflickr.com/3650/3546204553_d7bc92285e_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by chrishimself on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/29322132@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29322132@N08/3546204553",
+   "plain": true
+  },
+  {
+   "shows": "Nike Air Jordan 5 Raging Bull (3M)",
+   "url": "https://live.staticflickr.com/3562/3546205577_52838d7490_b.jpg",
+   "preview": "https://live.staticflickr.com/3562/3546205577_52838d7490_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by chrishimself on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/29322132@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29322132@N08/3546205577",
+   "plain": true
+  },
+  {
+   "shows": "F/S: Air Jordan 'Flint' VII",
+   "url": "https://live.staticflickr.com/4054/4359549497_355961485b_b.jpg",
+   "preview": "https://live.staticflickr.com/4054/4359549497_355961485b_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kid_SBTG on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/14977223@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/14977223@N04/4359549497",
    "plain": true
   }
  ]

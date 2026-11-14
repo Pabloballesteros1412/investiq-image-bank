@@ -6,7 +6,7 @@
   "PSA"
  ],
  "sector": "sector-real-estate",
- "fill_from": "sector-real-estate",
+ "target": 10,
  "photos": [
   {
    "shows": "Little Havana, Miami, Florida Public Storage Sharp Angle",
@@ -24,6 +24,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Little_Havana,_Miami,_Florida_Public_Storage_Sharp_Angle.jpg"
+  },
+  {
+   "shows": "Little Havana, Miami, Florida Public Storage",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Little_Havana%2C_Miami%2C_Florida_Public_Storage.jpg/1920px-Little_Havana%2C_Miami%2C_Florida_Public_Storage.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Little_Havana%2C_Miami%2C_Florida_Public_Storage.jpg/500px-Little_Havana%2C_Miami%2C_Florida_Public_Storage.jpg",
+   "size": [
+    1920,
+    1805
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sharon Hahn Darlin, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Little_Havana,_Miami,_Florida_Public_Storage.jpg"
   },
   {
    "shows": "Public Storage at 30 Brodie Dr, Richmond Hill, ON L4B 3K8",
@@ -77,6 +94,96 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Seattle,_September_5,_2024_-_003.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Long Island City Queens June 2024 065",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Long_Island_City_Queens_June_2024_065.jpg/1920px-Long_Island_City_Queens_June_2024_065.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Long_Island_City_Queens_June_2024_065.jpg/500px-Long_Island_City_Queens_June_2024_065.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_Queens_June_2024_065.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Public Storage at 30 Brodie Dr, Richmond Hill, ON L4B 3K8",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/PublicStorageRichmondHill2.jpg/1920px-PublicStorageRichmondHill2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/PublicStorageRichmondHill2.jpg/500px-PublicStorageRichmondHill2.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PublicStorageRichmondHill2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Long Island City October 2022 050",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Long_Island_City_October_2022_050.jpg/1920px-Long_Island_City_October_2022_050.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Long_Island_City_October_2022_050.jpg/500px-Long_Island_City_October_2022_050.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_October_2022_050.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Public Storage - Address: 4120 Finch Ave E, Scarborough, ON",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/PublicStorageToronto.jpg/1920px-PublicStorageToronto.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/PublicStorageToronto.jpg/500px-PublicStorageToronto.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PublicStorageToronto.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Long Island City February 2023 042",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Long_Island_City_February_2023_042.jpg/1920px-Long_Island_City_February_2023_042.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Long_Island_City_February_2023_042.jpg/500px-Long_Island_City_February_2023_042.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_February_2023_042.jpg",
    "plain": true
   }
  ]

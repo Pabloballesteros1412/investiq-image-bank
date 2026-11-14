@@ -6,7 +6,7 @@
   "PG"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Cincinnati-procter-and-gamble-headquarters",
@@ -43,6 +43,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:Procter_and_Gamble_World_Headquarters,_Cincinnati,_OH_(32278862657).jpg"
   },
   {
+   "shows": "Procter and Gamble World Headquarters, Cincinnati, OH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862807%29.jpg/1920px-Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862807%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862807%29.jpg/500px-Procter_and_Gamble_World_Headquarters%2C_Cincinnati%2C_OH_%2832278862807%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Procter_and_Gamble_World_Headquarters,_Cincinnati,_OH_(32278862807).jpg"
+  },
+  {
    "shows": "Procter & Gamble offices @ Passerelle de Tivoli @ Lancy",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Procter_%26_Gamble_offices_%40_Passerelle_de_Tivoli_%40_Lancy_%2850520218407%29.jpg/1920px-Procter_%26_Gamble_offices_%40_Passerelle_de_Tivoli_%40_Lancy_%2850520218407%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Procter_%26_Gamble_offices_%40_Passerelle_de_Tivoli_%40_Lancy_%2850520218407%29.jpg/500px-Procter_%26_Gamble_offices_%40_Passerelle_de_Tivoli_%40_Lancy_%2850520218407%29.jpg",
@@ -58,6 +75,114 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Procter_%26_Gamble_offices_@_Passerelle_de_Tivoli_@_Lancy_(50520218407).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Crest toothpaste in Mainland China",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Crest_toothpaste_in_Mainland_China.jpg/1280px-Crest_toothpaste_in_Mainland_China.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Crest_toothpaste_in_Mainland_China.jpg/500px-Crest_toothpaste_in_Mainland_China.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "彩色琪子, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Crest_toothpaste_in_Mainland_China.jpg",
+   "plain": true
+  },
+  {
+   "shows": "P&G REJOICE GINSENG NOURISHING SHAMPOO",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/P%26G_REJOICE_GINSENG_NOURISHING_SHAMPOO.jpg/1280px-P%26G_REJOICE_GINSENG_NOURISHING_SHAMPOO.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/P%26G_REJOICE_GINSENG_NOURISHING_SHAMPOO.jpg/500px-P%26G_REJOICE_GINSENG_NOURISHING_SHAMPOO.jpg",
+   "size": [
+    1280,
+    1565
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:P%26G_REJOICE_GINSENG_NOURISHING_SHAMPOO.jpg",
+   "plain": true
+  },
+  {
+   "shows": "P&G REJOICE GREENTEA SHAMPOO",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/P%26G_REJOICE_GREENTEA_SHAMPOO.jpg/1280px-P%26G_REJOICE_GREENTEA_SHAMPOO.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/P%26G_REJOICE_GREENTEA_SHAMPOO.jpg/500px-P%26G_REJOICE_GREENTEA_SHAMPOO.jpg",
+   "size": [
+    1280,
+    1931
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:P%26G_REJOICE_GREENTEA_SHAMPOO.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PnG Locust Point Baltimore",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PnG_Locust_Point_Baltimore.JPG/1920px-PnG_Locust_Point_Baltimore.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/PnG_Locust_Point_Baltimore.JPG/500px-PnG_Locust_Point_Baltimore.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Smallbones, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PnG_Locust_Point_Baltimore.JPG",
+   "plain": true
+  },
+  {
+   "shows": "P&G Japan Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P%26G_Japan_Headquarters_140619.JPG/1280px-P%26G_Japan_Headquarters_140619.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/P%26G_Japan_Headquarters_140619.JPG/500px-P%26G_Japan_Headquarters_140619.JPG",
+   "size": [
+    1280,
+    1929
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gotojack, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:P%26G_Japan_Headquarters_140619.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Cincinnati, OH - Procter & Gamble, Ivorydale Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cincinnati%2C_OH_-_Procter_%26_Gamble%2C_Ivorydale_Plant_%287%29.jpg/1280px-Cincinnati%2C_OH_-_Procter_%26_Gamble%2C_Ivorydale_Plant_%287%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cincinnati%2C_OH_-_Procter_%26_Gamble%2C_Ivorydale_Plant_%287%29.jpg/500px-Cincinnati%2C_OH_-_Procter_%26_Gamble%2C_Ivorydale_Plant_%287%29.jpg",
+   "size": [
+    1280,
+    1917
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bmzuckerman, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cincinnati,_OH_-_Procter_%26_Gamble,_Ivorydale_Plant_(7).jpg",
    "plain": true
   }
  ]

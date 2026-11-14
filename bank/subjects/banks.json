@@ -3,7 +3,26 @@
  "kind": "topic",
  "name": "Banks & the financial system",
  "tickers": [],
+ "target": 50,
  "photos": [
+  {
+   "shows": "A large building with a clock on the front of it",
+   "url": "https://images.unsplash.com/photo-1723534791930-1dfe85c8d96b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1723534791930-1dfe85c8d96b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1308
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zoshua Colah on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-building-with-a-clock-on-the-front-of-it-hg416HPEoU4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
   {
    "shows": "A bunch of metal boxes stacked on top of each other",
    "url": "https://images.unsplash.com/photo-1565126035964-29e1c95b13f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YmFuayUyMHZhdWx0fGVufDF8fHx8MTc5Mzg4MDcwNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
@@ -76,6 +95,24 @@
    "source": "https://unsplash.com/photos/a-person-using-an-atm-machine-to-pay-money-OnRPps1wPus?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "A man holding a cell phone in front of a keyboard",
+   "url": "https://images.unsplash.com/photo-1681826292838-c37fbd22263a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1681826292838-c37fbd22263a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YmFua2luZyUyMGFwcHxlbnwxfHx8fDE3OTM5NDIwMDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Atlantic Money on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@atlanticmoney?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-man-holding-a-cell-phone-in-front-of-a-keyboard-_EiTfumwmaU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Person holding 100 euro bill",
    "url": "https://images.unsplash.com/photo-1580067319115-42124a255c57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvdW50aW5nJTIwbW9uZXl8ZW58MXx8fHwxNzkzOTQyMDA1fDA&ixlib=rb-4.1.0&w=2261&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1580067319115-42124a255c57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvdW50aW5nJTIwbW9uZXl8ZW58MXx8fHwxNzkzOTQyMDA1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -92,6 +129,381 @@
    "author_url": "https://unsplash.com/@itsomidarmin?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/person-holding-100-euro-bill-ESsGNnhUiCg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A bank sign lit up in the dark",
+   "url": "https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1684679674829-fc7b436ec8e8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by POURIA 🦋 on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@poeti8?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bank-sign-lit-up-in-the-dark-UENYI2DL1RA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Barclays Bank, West Kirby",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Barclays_Bank%2C_West_Kirby.jpg/1920px-Barclays_Bank%2C_West_Kirby.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Barclays_Bank%2C_West_Kirby.jpg/500px-Barclays_Bank%2C_West_Kirby.jpg",
+   "size": [
+    1920,
+    1539
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rodhullandemu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Barclays_Bank,_West_Kirby.jpg"
+  },
+  {
+   "shows": "Euro coins and banknotes",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/1920px-Euro_coins_and_banknotes.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Euro_coins_and_banknotes.jpg/500px-Euro_coins_and_banknotes.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Avij ( talk · contribs ), public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes.jpg"
+  },
+  {
+   "shows": "Person holding credit card swipe machine",
+   "url": "https://images.unsplash.com/photo-1556740720-776b84291f8e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1556740720-776b84291f8e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Blake Wisz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@blakewisz?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-holding-credit-card-swipe-machine--JJg90OAnWI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A very tall building with lots of windows",
+   "url": "https://images.unsplash.com/photo-1704668716264-7dff4eb0a545?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5Mzg4MDcwNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1704668716264-7dff4eb0a545?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5Mzg4MDcwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zarif Ali on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zarif?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-very-tall-building-with-lots-of-windows-_qnCE2fti4o?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Safe deposit boxes.agr",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Safe_deposit_boxes.agr.jpg/1280px-Safe_deposit_boxes.agr.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Safe_deposit_boxes.agr.jpg/500px-Safe_deposit_boxes.agr.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ArnoldReinhold, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Safe_deposit_boxes.agr.jpg"
+  },
+  {
+   "shows": "Person holding brown leather card wallet",
+   "url": "https://images.unsplash.com/photo-1614330316567-11d8e572db16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1614330316567-11d8e572db16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Emil Kalibradov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@emkal?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-holding-brown-leather-card-wallet-wL8sz3Graj4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Grayscale photography of door lockers",
+   "url": "https://images.unsplash.com/photo-1570912355338-cdb934b76b12?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8dmF1bHR8ZW58MXx8fHwxNzk0NjcyNzgyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1570912355338-cdb934b76b12?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8dmF1bHR8ZW58MXx8fHwxNzk0NjcyNzgyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1595
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Emiel Maters on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@emielmaters?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/grayscale-photography-of-door-lockers-3a7nrgYSbRE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Focus photography of person counting dollar banknotes",
+   "url": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGRvbGxhcnN8ZW58MXx8fHwxNzk0NjcyODMxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGRvbGxhcnN8ZW58MXx8fHwxNzk0NjcyODMxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alexander Grey on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sharonmccutcheon?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/focus-photography-of-person-counting-dollar-banknotes--8a5eJ1-mmQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person holding a credit card in their hand",
+   "url": "https://images.unsplash.com/photo-1708423423306-a2a6198f6a3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1708423423306-a2a6198f6a3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jim Chen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@carrywallet?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-credit-card-in-their-hand-9Wtaaf0d4No?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person standing in front of a atm machine",
+   "url": "https://images.unsplash.com/photo-1653752821251-bb0225afd001?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1653752821251-bb0225afd001?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Julian on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@julian21?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-standing-in-front-of-a-atm-machine-fDoNi9IrBTM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A bank sign on the side of a wooden building",
+   "url": "https://images.unsplash.com/photo-1683283106454-8b1b22ebf9e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=1998&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1683283106454-8b1b22ebf9e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFuayUyMHNpZ258ZW58MXx8fHwxNzk0NTM4OTk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1998,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nikola  Tomašić on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@3kolone?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bank-sign-on-the-side-of-a-wooden-building-ugb7Q1bmnZg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of a credit card",
+   "url": "https://images.unsplash.com/photo-1640545232493-9a9b5c88ede4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1640545232493-9a9b5c88ede4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNyZWRpdCUyMGNhcmRzfGVufDF8fHx8MTc5Mzg3Nzk5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Андрей Сизов on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alpridephoto?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-credit-card-9uxRcupG36I?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person getting 1 U.S. dollar banknote in wallet",
+   "url": "https://images.unsplash.com/photo-1512358958014-b651a7ee1773?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1512358958014-b651a7ee1773?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2FsbGV0fGVufDF8fHx8MTc5NDUzOTMwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Allef Vinicius on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@seteph?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-getting-1-us-dollar-banknote-in-wallet-fJTqyZMOh18?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person holding fan of U.S. dollars banknote",
+   "url": "https://images.unsplash.com/photo-1518183214770-9cffbec72538?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGRvbGxhcnN8ZW58MXx8fHwxNzk0NjcyODMxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1518183214770-9cffbec72538?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGRvbGxhcnN8ZW58MXx8fHwxNzk0NjcyODMxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alexander Grey on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sharonmccutcheon?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-holding-fan-of-us-dollars-banknote-rItGZ4vquWk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person holding a smart phone and a credit card",
+   "url": "https://images.unsplash.com/photo-1635950340810-2fb374521a7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1635950340810-2fb374521a7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2246,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by CardMapr.nl on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cardmapr?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-smart-phone-and-a-credit-card-9fByQORuvqM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A building with a atm sign lit up at night",
+   "url": "https://images.unsplash.com/photo-1611605862651-c91b8778ce01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1611605862651-c91b8778ce01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jake Allen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jakeallenmedia?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-building-with-a-atm-sign-lit-up-at-night-7Q1lhdgbyNU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A man standing in front of a atm machine",
+   "url": "https://images.unsplash.com/photo-1722842654091-74783b8c0887?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1722842654091-74783b8c0887?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QVRNJTIwbWFjaGluZXxlbnwxfHx8fDE3OTM5MTMwNTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1660
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alexandros Giannakakis on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alegi__?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-man-standing-in-front-of-a-atm-machine-Pl9feRmi3qE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A gleaming golden vault door stands open",
+   "url": "https://images.unsplash.com/photo-1777652062282-9b2985cd28d9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dmF1bHR8ZW58MXx8fHwxNzk0NjcyNzgyfDA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1777652062282-9b2985cd28d9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dmF1bHR8ZW58MXx8fHwxNzk0NjcyNzgyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2255,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lu on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lucaakalu?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-gleaming-golden-vault-door-stands-open-Hk8kt6aVxQY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A couple of atm machines sitting next to each other",
+   "url": "https://images.unsplash.com/photo-1682344059600-a869f15f3ace?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFUTSUyMG1hY2hpbmV8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1682344059600-a869f15f3ace?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFUTSUyMG1hY2hpbmV8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Keller Chewning on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kellerchewning?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-couple-of-atm-machines-sitting-next-to-each-other-7hPj7Ci6dK0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Hand using keypad on an atm machine",
+   "url": "https://images.unsplash.com/photo-1771527355678-49c169623a58?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEFUTSUyMG1hY2hpbmV8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1771527355678-49c169623a58?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEFUTSUyMG1hY2hpbmV8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1616
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Gizem Nikomedi on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@gnikomedi?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/hand-using-keypad-on-an-atm-machine-JcSashYYarE?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

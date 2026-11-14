@@ -6,7 +6,7 @@
   "INTC"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
+ "target": 30,
  "photos": [
   {
    "shows": "Intel Headquarters in 2023",
@@ -96,6 +96,80 @@
    "source": "https://unsplash.com/photos/macro-shot-photography-of-intel-core-i5-processor-eM6WUs4nKMY?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Intel HQ exterior 5",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Intel_HQ_exterior_5.JPG/1920px-Intel_HQ_exterior_5.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Intel_HQ_exterior_5.JPG/500px-Intel_HQ_exterior_5.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_HQ_exterior_5.JPG"
+  },
+  {
+   "shows": "Intel building in Haifa - IDC9",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Intel_building_in_Haifa_-_IDC9.jpg/1920px-Intel_building_in_Haifa_-_IDC9.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Intel_building_in_Haifa_-_IDC9.jpg/500px-Intel_building_in_Haifa_-_IDC9.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "xiquinhosilva, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_building_in_Haifa_-_IDC9.jpg"
+  },
+  {
+   "shows": "Linda Qian, an employee in a cleanroom \"bunny suit,\" works at the Intel Corporation's wafer fabrication facility in Chandler, Arizona",
+   "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55097v.jpg",
+   "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55097r.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "low_res": true,
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2018703085/",
+   "plain": true
+  },
+  {
+   "shows": "Margaret Henschel, an employee at the Intel Corporation's wafer fabrication facility in Chandler, Arizona, moves through its cleanroom in her industrial \"bunny suit\"",
+   "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55093v.jpg",
+   "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/55000/55093r.jpg",
+   "size": [
+    1024,
+    733
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "low_res": true,
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2018703081/",
+   "plain": true
+  },
+  {
    "shows": "Intel Core i9-9900K",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_Core_i9-9900K_20201121_120317.jpg/1920px-Intel_Core_i9-9900K_20201121_120317.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Intel_Core_i9-9900K_20201121_120317.jpg/500px-Intel_Core_i9-9900K_20201121_120317.jpg",
@@ -147,6 +221,338 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Intel_HQ_exterior_3.JPG",
+   "plain": true
+  },
+  {
+   "shows": "TEI0185 Altera Agilex 5 E SoC FPGA AXE5 EAGLE DevKit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TEI0185_Altera_Agilex_5_E_SoC_FPGA_AXE5_EAGLE_DevKit.jpg/1920px-TEI0185_Altera_Agilex_5_E_SoC_FPGA_AXE5_EAGLE_DevKit.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/TEI0185_Altera_Agilex_5_E_SoC_FPGA_AXE5_EAGLE_DevKit.jpg/500px-TEI0185_Altera_Agilex_5_E_SoC_FPGA_AXE5_EAGLE_DevKit.jpg",
+   "size": [
+    1920,
+    1441
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Antti Lukats, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TEI0185_Altera_Agilex_5_E_SoC_FPGA_AXE5_EAGLE_DevKit.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel-Stand im asiatischen Raum 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Intel-Stand_im_asiatischen_Raum_20240118_01.jpg/1920px-Intel-Stand_im_asiatischen_Raum_20240118_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Intel-Stand_im_asiatischen_Raum_20240118_01.jpg/500px-Intel-Stand_im_asiatischen_Raum_20240118_01.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "玄 史生, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel-Stand_im_asiatischen_Raum_20240118_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel Realsense box",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Intel_Realsense_box_.jpg/1920px-Intel_Realsense_box_.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Intel_Realsense_box_.jpg/500px-Intel_Realsense_box_.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Syced, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_Realsense_box_.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Red Hat Summit 2018 5943",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Red_Hat_Summit_2018_IMG_5943_%2841609516940%29.jpg/1920px-Red_Hat_Summit_2018_IMG_5943_%2841609516940%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Red_Hat_Summit_2018_IMG_5943_%2841609516940%29.jpg/500px-Red_Hat_Summit_2018_IMG_5943_%2841609516940%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "titanium22 from TOKYO, Japan, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Hat_Summit_2018_IMG_5943_(41609516940).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel E97378-001 CNDP152A10 DTC-DAA10-2698",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Intel_E97378-001_CNDP152A10_DTC-DAA10-2698.jpg/1920px-Intel_E97378-001_CNDP152A10_DTC-DAA10-2698.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Intel_E97378-001_CNDP152A10_DTC-DAA10-2698.jpg/500px-Intel_E97378-001_CNDP152A10_DTC-DAA10-2698.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_E97378-001_CNDP152A10_DTC-DAA10-2698.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel S2600CP4 dual socket 2011 server motherboard",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Intel_S2600CP4.jpg/1920px-Intel_S2600CP4.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Intel_S2600CP4.jpg/500px-Intel_S2600CP4.jpg",
+   "size": [
+    1920,
+    1734
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phiarc, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_S2600CP4.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel Gigabit CT Desktop Adapter back",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Intel_Gigabit_CT_Desktop_Adapter_back.jpg/1920px-Intel_Gigabit_CT_Desktop_Adapter_back.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Intel_Gigabit_CT_Desktop_Adapter_back.jpg/500px-Intel_Gigabit_CT_Desktop_Adapter_back.jpg",
+   "size": [
+    1920,
+    1239
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phiarc, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_Gigabit_CT_Desktop_Adapter_back.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel Realsense lidar camera L515",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Intel_Realsense_lidar_camera_L515.jpg/1280px-Intel_Realsense_lidar_camera_L515.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Intel_Realsense_lidar_camera_L515.jpg/500px-Intel_Realsense_lidar_camera_L515.jpg",
+   "size": [
+    1280,
+    1705
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Marc Auledas, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_Realsense_lidar_camera_L515.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Gdansk Intel IGK1 - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gdansk_Intel_IGK1_-_panoramio.jpg/1920px-Gdansk_Intel_IGK1_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gdansk_Intel_IGK1_-_panoramio.jpg/500px-Gdansk_Intel_IGK1_-_panoramio.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Almondox, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gdansk_Intel_IGK1_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel facility in Hillsboro, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Intel_facility_in_Hillsboro%2C_Oregon.jpg/1920px-Intel_facility_in_Hillsboro%2C_Oregon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Intel_facility_in_Hillsboro%2C_Oregon.jpg/500px-Intel_facility_in_Hillsboro%2C_Oregon.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sam Beebe, Ecotrust, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_facility_in_Hillsboro,_Oregon.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Titanium RMZ building - Intel office old airport road",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Titanium_RMZ_building_-_Intel_office_old_airport_road.JPG/1920px-Titanium_RMZ_building_-_Intel_office_old_airport_road.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Titanium_RMZ_building_-_Intel_office_old_airport_road.JPG/500px-Titanium_RMZ_building_-_Intel_office_old_airport_road.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rameshng, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Titanium_RMZ_building_-_Intel_office_old_airport_road.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Intel factory, Kiryat Gat industry zone",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Intel_factory%2C_Kiryat_Gat_industry_zone.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Intel_factory%2C_Kiryat_Gat_industry_zone.jpg/500px-Intel_factory%2C_Kiryat_Gat_industry_zone.jpg",
+   "size": [
+    1682,
+    1262
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ארכיון קרית גת, CC BY 2.5, via Wikimedia Commons",
+   "licence": "CC BY 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_factory,_Kiryat_Gat_industry_zone.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel microchip manufacturing plant Hudson MA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Intel_microchip_manufacturing_plant_Hudson_MA.JPG/1920px-Intel_microchip_manufacturing_plant_Hudson_MA.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Intel_microchip_manufacturing_plant_Hudson_MA.JPG/500px-Intel_microchip_manufacturing_plant_Hudson_MA.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nick Allen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_microchip_manufacturing_plant_Hudson_MA.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Intel Building IGK2 - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Intel_Building_IGK2_-_panoramio.jpg/1920px-Intel_Building_IGK2_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Intel_Building_IGK2_-_panoramio.jpg/500px-Intel_Building_IGK2_-_panoramio.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Almondox, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Intel_Building_IGK2_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intel@unknown_soma_cpu@SoMa_L450C234_Malay___DSCx4@macro",
+   "url": "https://live.staticflickr.com/65535/49603828887_ccfd59228c_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49603828887_ccfd59228c_z.jpg",
+   "size": [
+    1024,
+    1023
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by FritzchensFritz on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/130561288@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/130561288@N04/49603828887",
+   "plain": true
+  },
+  {
+   "shows": "Intel@unknown_soma_cpu@SoMa_L450C234_Malay___DSCx2@macro",
+   "url": "https://live.staticflickr.com/65535/49603829742_b8acfdf579_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49603829742_b8acfdf579_z.jpg",
+   "size": [
+    1022,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by FritzchensFritz on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/130561288@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/130561288@N04/49603829742",
+   "plain": true
+  },
+  {
+   "shows": "Intel D945GCLF2D, Mini-ITX Atom 330",
+   "url": "https://live.staticflickr.com/3574/3785083764_775bfbd0a9_b.jpg",
+   "preview": "https://live.staticflickr.com/3574/3785083764_775bfbd0a9_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Karl-Martin Skontorp on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/21905741@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/21905741@N06/3785083764",
+   "plain": true
+  },
+  {
+   "shows": "Intel Xeon 3060 Conroe (Reshoot)",
+   "url": "https://live.staticflickr.com/65535/49996071753_d8b54c68fa_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49996071753_d8b54c68fa_z.jpg",
+   "size": [
+    1024,
+    781
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by cole8888 on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/187597251@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/187597251@N05/49996071753",
    "plain": true
   }
  ]

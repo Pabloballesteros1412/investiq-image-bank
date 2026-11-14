@@ -6,6 +6,7 @@
   "DLR"
  ],
  "sector": "sector-real-estate",
+ "target": 10,
  "fill_from": "sector-real-estate",
  "photos": [
   {
@@ -42,6 +43,84 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Digital_Realty_data_center_-_Hillsboro,_Oregon.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Digital Realty datacenter - Address: 371 Gough Rd, Markham, ON L3R 4B6",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/DigitalRealtyDatacenterMarkham2.jpg/1920px-DigitalRealtyDatacenterMarkham2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/DigitalRealtyDatacenterMarkham2.jpg/500px-DigitalRealtyDatacenterMarkham2.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DigitalRealtyDatacenterMarkham2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Digital Realty Data Center Solutions",
+   "url": "https://live.staticflickr.com/8093/8553487578_4d02a26d73_b.jpg",
+   "preview": "https://live.staticflickr.com/8093/8553487578_4d02a26d73_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/53301297@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/53301297@N00/8553487578",
+   "plain": true
+  },
+  {
+   "shows": "DIGITAL REALTY · datacenter, frankfurt, hanauerlandstr, rechenzentrum",
+   "url": "https://live.staticflickr.com/65535/53863265911_4a895810aa_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/53863265911_4a895810aa_z.jpg",
+   "size": [
+    1024,
+    684
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by conceptphoto.info on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39453974@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39453974@N04/53863265911",
+   "plain": true
+  },
+  {
+   "shows": "Digital Realty @ 900 Walnut",
+   "url": "https://live.staticflickr.com/8389/8552384349_cb7ba5948d_b.jpg",
+   "preview": "https://live.staticflickr.com/8389/8552384349_cb7ba5948d_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/53301297@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/53301297@N00/8552384349",
    "plain": true
   }
  ]

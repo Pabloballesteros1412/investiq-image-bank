@@ -6,7 +6,7 @@
   "NOC"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "NASA, Northrop Grumman Test Fire SLS BOLE Booster (Water tower)",
@@ -60,6 +60,136 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:EURONAVAL_2022_(7484436).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Integrated Science Instrument Module\" (OTIS)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Integrated_Science_Instrument_Module%22_%28OTIS%29_-_40319403885.jpg/1920px-Integrated_Science_Instrument_Module%22_%28OTIS%29_-_40319403885.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Integrated_Science_Instrument_Module%22_%28OTIS%29_-_40319403885.jpg/500px-Integrated_Science_Instrument_Module%22_%28OTIS%29_-_40319403885.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Northrop Grumman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Integrated_Science_Instrument_Module%22_(OTIS)_-_40319403885.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A view of the secondary mirror of the James Webb Space Telescope",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/A_view_of_the_secondary_mirror_of_the_James_Webb_Space_Telescope.jpg/1920px-A_view_of_the_secondary_mirror_of_the_James_Webb_Space_Telescope.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/A_view_of_the_secondary_mirror_of_the_James_Webb_Space_Telescope.jpg/500px-A_view_of_the_secondary_mirror_of_the_James_Webb_Space_Telescope.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Gunn, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_view_of_the_secondary_mirror_of_the_James_Webb_Space_Telescope.jpg",
+   "plain": true
+  },
+  {
+   "shows": "14 24 45 Entrance to the Northrop Grumman Space Center at Warp Drive along Atlantic Boulevard in Sterling, Loudoun County, Virginia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2018-07-29_14_24_45_Entrance_to_the_Northrop_Grumman_Space_Center_at_Warp_Drive_along_Atlantic_Boulevard_in_Sterling%2C_Loudoun_County%2C_Virginia.jpg/1920px-2018-07-29_14_24_45_Entrance_to_the_Northrop_Grumman_Space_Center_at_Warp_Drive_along_Atlantic_Boulevard_in_Sterling%2C_Loudoun_County%2C_Virginia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2018-07-29_14_24_45_Entrance_to_the_Northrop_Grumman_Space_Center_at_Warp_Drive_along_Atlantic_Boulevard_in_Sterling%2C_Loudoun_County%2C_Virginia.jpg/500px-2018-07-29_14_24_45_Entrance_to_the_Northrop_Grumman_Space_Center_at_Warp_Drive_along_Atlantic_Boulevard_in_Sterling%2C_Loudoun_County%2C_Virginia.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2018-07-29_14_24_45_Entrance_to_the_Northrop_Grumman_Space_Center_at_Warp_Drive_along_Atlantic_Boulevard_in_Sterling,_Loudoun_County,_Virginia.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Northrup Grumman Mission Systems building in Linthicum",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Northrup_Grumman_Mission_Systems_building_in_Linthicum.jpg/1920px-Northrup_Grumman_Mission_Systems_building_in_Linthicum.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Northrup_Grumman_Mission_Systems_building_in_Linthicum.jpg/500px-Northrup_Grumman_Mission_Systems_building_in_Linthicum.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jonathan Schilling, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Northrup_Grumman_Mission_Systems_building_in_Linthicum.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Northrop Grumman De Havilland Canada DHC-8 test aircraft N984HA BWI MD1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Northrop_Grumman_De_Havilland_Canada_DHC-8_test_aircraft_N984HA_BWI_MD1.jpg/1920px-Northrop_Grumman_De_Havilland_Canada_DHC-8_test_aircraft_N984HA_BWI_MD1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Northrop_Grumman_De_Havilland_Canada_DHC-8_test_aircraft_N984HA_BWI_MD1.jpg/500px-Northrop_Grumman_De_Havilland_Canada_DHC-8_test_aircraft_N984HA_BWI_MD1.jpg",
+   "size": [
+    1920,
+    1068
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Acroterion, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Northrop_Grumman_De_Havilland_Canada_DHC-8_test_aircraft_N984HA_BWI_MD1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Northrop Grumman RQ-4A 'Global Hawk'",
+   "url": "https://live.staticflickr.com/5542/11378678995_658e6d4e02_b.jpg",
+   "preview": "https://live.staticflickr.com/5542/11378678995_658e6d4e02_z.jpg",
+   "size": [
+    1024,
+    410
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mark6mauno on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/98147195@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98147195@N00/11378678995",
+   "plain": true
+  },
+  {
+   "shows": "Northrop Grumman B-2 'Spirit'",
+   "url": "https://live.staticflickr.com/3834/11380129133_e1f1e81eb6_b.jpg",
+   "preview": "https://live.staticflickr.com/3834/11380129133_e1f1e81eb6_z.jpg",
+   "size": [
+    1024,
+    512
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mark6mauno on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/98147195@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98147195@N00/11380129133",
    "plain": true
   }
  ]

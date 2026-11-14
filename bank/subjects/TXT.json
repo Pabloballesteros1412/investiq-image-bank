@@ -6,7 +6,7 @@
   "TXT"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "Red and white airplane flying in the sky during daytime",
@@ -114,6 +114,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Textron_Tower_-_Providence.jpg",
+   "plain": true
+  },
+  {
+   "shows": "USS Higgins (DDG 76) Aerosonde Flight",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/USS_Higgins_%28DDG_76%29_Aerosonde_Flight_%288432266%29.jpg/1920px-USS_Higgins_%28DDG_76%29_Aerosonde_Flight_%288432266%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/USS_Higgins_%28DDG_76%29_Aerosonde_Flight_%288432266%29.jpg/500px-USS_Higgins_%28DDG_76%29_Aerosonde_Flight_%288432266%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Navy photo by Petty Officer 1st Class Hannah Fry, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:USS_Higgins_(DDG_76)_Aerosonde_Flight_(8432266).jpg",
+   "plain": true
+  },
+  {
+   "shows": "EBACE 2018, Le Grand-Saconnex (BL7C0442)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/EBACE_2018%2C_Le_Grand-Saconnex_%28BL7C0442%29.jpg/1920px-EBACE_2018%2C_Le_Grand-Saconnex_%28BL7C0442%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/EBACE_2018%2C_Le_Grand-Saconnex_%28BL7C0442%29.jpg/500px-EBACE_2018%2C_Le_Grand-Saconnex_%28BL7C0442%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EBACE_2018,_Le_Grand-Saconnex_(BL7C0442).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Textron eViation Nexus Tiltrotor eVTOL model (EBACE 2023)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Textron_eViation_Nexus_Tiltrotor_eVTOL_model_%28EBACE_2023%29.jpg/1920px-Textron_eViation_Nexus_Tiltrotor_eVTOL_model_%28EBACE_2023%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Textron_eViation_Nexus_Tiltrotor_eVTOL_model_%28EBACE_2023%29.jpg/500px-Textron_eViation_Nexus_Tiltrotor_eVTOL_model_%28EBACE_2023%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Textron_eViation_Nexus_Tiltrotor_eVTOL_model_(EBACE_2023).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Textron Tower and Bannigan Building WLM 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Textron_Tower_and_Bannigan_Building_WLM_2026.jpg/1280px-Textron_Tower_and_Bannigan_Building_WLM_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Textron_Tower_and_Bannigan_Building_WLM_2026.jpg/500px-Textron_Tower_and_Bannigan_Building_WLM_2026.jpg",
+   "size": [
+    1280,
+    1997
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wobbanight, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Textron_Tower_and_Bannigan_Building_WLM_2026.jpg",
    "plain": true
   }
  ]

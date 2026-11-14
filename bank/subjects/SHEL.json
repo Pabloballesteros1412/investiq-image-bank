@@ -6,7 +6,7 @@
   "SHEL"
  ],
  "sector": "sector-energy",
- "fill_from": "sector-energy",
+ "target": 10,
  "photos": [
   {
    "shows": "011 Shell Centre - global headquarters of Shell plc oil company in London UK",
@@ -60,6 +60,23 @@
    "author_url": "https://unsplash.com/@mangowastaken?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/shell-gas-station-canopy-with-logo-under-blue-sky-wESLTzuT-do?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Shell gas station NH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Shell_gas_station_NH.jpg/1920px-Shell_gas_station_NH.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Shell_gas_station_NH.jpg/500px-Shell_gas_station_NH.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shell_gas_station_NH.jpg"
   },
   {
    "shows": "The Shell Centre",

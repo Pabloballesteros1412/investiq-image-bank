@@ -6,7 +6,7 @@
   "TM"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "A black toyota land cruiser parked in front of a building",
@@ -43,6 +43,23 @@
    "author_url": "https://unsplash.com/@dustbarnes?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/tan-toyota-tacoma-pickup-truck-o7fqZ18YFXc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "9977San Fernando Exit Overpass Bridges 24",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/9977San_Fernando_Exit_Overpass_Bridges_24.jpg/1920px-9977San_Fernando_Exit_Overpass_Bridges_24.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/9977San_Fernando_Exit_Overpass_Bridges_24.jpg/500px-9977San_Fernando_Exit_Overpass_Bridges_24.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Judgefloro, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:9977San_Fernando_Exit_Overpass_Bridges_24.jpg"
   },
   {
    "shows": "Headquarter of Toyota Motor Corporation 3",
@@ -96,6 +113,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:C1FDF36E-C3C0-4ECE-935B-9D03B6.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lugares con letrero en la Carretera Federal 328",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lugares_con_letrero_en_la_Carretera_Federal_328.jpg/1920px-Lugares_con_letrero_en_la_Carretera_Federal_328.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lugares_con_letrero_en_la_Carretera_Federal_328.jpg/500px-Lugares_con_letrero_en_la_Carretera_Federal_328.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Álvaro de la Paz Franco, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lugares_con_letrero_en_la_Carretera_Federal_328.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ron Brooks Toyota - 30 July 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ron_Brooks_Toyota_-_30_July_2026.jpg/1920px-Ron_Brooks_Toyota_-_30_July_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ron_Brooks_Toyota_-_30_July_2026.jpg/500px-Ron_Brooks_Toyota_-_30_July_2026.jpg",
+   "size": [
+    1920,
+    1274
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aethonatic, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ron_Brooks_Toyota_-_30_July_2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Toyota dealership - Address: 11240 Yonge St, Richmond Hill, ON L4S 1K9",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ToyotaRichmondHill.jpg/1920px-ToyotaRichmondHill.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ToyotaRichmondHill.jpg/500px-ToyotaRichmondHill.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ToyotaRichmondHill.jpg",
+   "plain": true
+  },
+  {
+   "shows": "GER Ingolstadt, Hebbelstraße 0001",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/GER_Ingolstadt%2C_Hebbelstra%C3%9Fe_0001.jpg/1920px-GER_Ingolstadt%2C_Hebbelstra%C3%9Fe_0001.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/GER_Ingolstadt%2C_Hebbelstra%C3%9Fe_0001.jpg/500px-GER_Ingolstadt%2C_Hebbelstra%C3%9Fe_0001.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "-wuppertaler, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GER_Ingolstadt,_Hebbelstra%C3%9Fe_0001.jpg",
    "plain": true
   }
  ]

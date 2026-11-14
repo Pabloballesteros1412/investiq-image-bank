@@ -6,7 +6,7 @@
   "TSCO"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Tractor Supply Company, GA125, Lowndes County",
@@ -24,6 +24,40 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_GA125,_Lowndes_County.jpg"
+  },
+  {
+   "shows": "Tractor Supply Company",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tractor_Supply_Company_%2854859079452%29.jpg/1920px-Tractor_Supply_Company_%2854859079452%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tractor_Supply_Company_%2854859079452%29.jpg/500px-Tractor_Supply_Company_%2854859079452%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company_(54859079452).jpg"
+  },
+  {
+   "shows": "Tractor Supply Company Ripon, California",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tractor_Supply_Company_Ripon%2C_California.jpg/1920px-Tractor_Supply_Company_Ripon%2C_California.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tractor_Supply_Company_Ripon%2C_California.jpg/500px-Tractor_Supply_Company_Ripon%2C_California.jpg",
+   "size": [
+    1920,
+    1276
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company_Ripon,_California.jpg"
   },
   {
    "shows": "Tractor Supply (in former Walmart) - Thomasville, GA",
@@ -113,6 +147,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Dothan,_Alabama.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tractor Supply Company, Quitman",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tractor_Supply_Company%2C_Quitman.jpg/1920px-Tractor_Supply_Company%2C_Quitman.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tractor_Supply_Company%2C_Quitman.jpg/500px-Tractor_Supply_Company%2C_Quitman.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mjrmtg, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Quitman.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tractor Supply, Timber Dr, Lowndes County",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tractor_Supply%2C_Timber_Dr%2C_Lowndes_County.jpg/1920px-Tractor_Supply%2C_Timber_Dr%2C_Lowndes_County.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tractor_Supply%2C_Timber_Dr%2C_Lowndes_County.jpg/500px-Tractor_Supply%2C_Timber_Dr%2C_Lowndes_County.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tractor_Supply,_Timber_Dr,_Lowndes_County.jpg",
    "plain": true
   }
  ]

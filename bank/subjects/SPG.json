@@ -6,7 +6,7 @@
   "SPG"
  ],
  "sector": "sector-real-estate",
- "fill_from": "sector-real-estate",
+ "target": 10,
  "photos": [
   {
    "shows": "Simon building Indianapolis (35393p)",
@@ -131,6 +131,60 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Arundel_Mills,_September_2018.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Grapevine Mills Entry 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grapevine_Mills_Entry_2.jpg/1920px-Grapevine_Mills_Entry_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Grapevine_Mills_Entry_2.jpg/500px-Grapevine_Mills_Entry_2.jpg",
+   "size": [
+    1920,
+    1446
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "LazyCat256, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Grapevine_Mills_Entry_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Grapevine Mills Entry 4 and anchor",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grapevine_Mills_Entry_4_and_anchor.jpg/1920px-Grapevine_Mills_Entry_4_and_anchor.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Grapevine_Mills_Entry_4_and_anchor.jpg/500px-Grapevine_Mills_Entry_4_and_anchor.jpg",
+   "size": [
+    1920,
+    1446
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "LazyCat256, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Grapevine_Mills_Entry_4_and_anchor.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Simon Property Group Headquarters from Washington Street in 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Simon_Property_Group_Headquarters_from_Washington_Street_in_2022.jpg/1280px-Simon_Property_Group_Headquarters_from_Washington_Street_in_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Simon_Property_Group_Headquarters_from_Washington_Street_in_2022.jpg/500px-Simon_Property_Group_Headquarters_from_Washington_Street_in_2022.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "IndyTaylor, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Simon_Property_Group_Headquarters_from_Washington_Street_in_2022.jpg",
    "plain": true
   }
  ]

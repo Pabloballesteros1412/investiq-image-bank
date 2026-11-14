@@ -6,6 +6,7 @@
   "PNR"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -24,6 +25,66 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Pentair_Building_-_US_Corporate_Headquarters_Office_Building_(34514586172).jpg"
+  },
+  {
+   "shows": "Sfeerbeeld bedrijfsproces bij Pentair in Enschede",
+   "url": "https://live.staticflickr.com/65535/54535488979_88a803bd1b_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54535488979_88a803bd1b_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Provincie Overijssel on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/58857837@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/58857837@N04/54535488979",
+   "plain": true
+  },
+  {
+   "shows": "waterbesparende innovatie Pentair Enschede",
+   "url": "https://live.staticflickr.com/65535/54535538128_4d8b8d10d9_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54535538128_4d8b8d10d9_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Provincie Overijssel on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/58857837@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/58857837@N04/54535538128",
+   "plain": true
+  },
+  {
+   "shows": "Sfeerbeeld bedrijfsproces bij Pentair in Enschede",
+   "url": "https://live.staticflickr.com/65535/54535647375_5db91c718d_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54535647375_5db91c718d_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Provincie Overijssel on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/58857837@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/58857837@N04/54535647375",
+   "plain": true
   }
  ]
 }

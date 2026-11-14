@@ -6,6 +6,7 @@
   "LYFT"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -115,6 +116,62 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Lyft_sign,_N._Mississipi,_PDX,_2016.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lyft Electric Bikes",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lyft_Electric_Bikes.jpg/1920px-Lyft_Electric_Bikes.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lyft_Electric_Bikes.jpg/500px-Lyft_Electric_Bikes.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lyft_Electric_Bikes.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lyft Scooter 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lyft_Scooter_1_2019-04-17.jpg/1280px-Lyft_Scooter_1_2019-04-17.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lyft_Scooter_1_2019-04-17.jpg/500px-Lyft_Scooter_1_2019-04-17.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "F ASTILY, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lyft_Scooter_1_2019-04-17.jpg",
+   "plain": true
+  },
+  {
+   "shows": "LYFT · 5d, 5dmarkiii, canon, cinematic, lyft",
+   "url": "https://live.staticflickr.com/7374/9603965456_3fb9952904_b.jpg",
+   "preview": "https://live.staticflickr.com/7374/9603965456_3fb9952904_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tribute/ Homenaje on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/24236270@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/24236270@N08/9603965456",
    "plain": true
   }
  ]

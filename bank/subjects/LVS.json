@@ -6,7 +6,7 @@
   "LVS"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Marina Bay Sands, Singapore",
@@ -43,6 +43,162 @@
    "author_url": "https://unsplash.com/@brynlwsk?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/gold-and-white-lighted-building-Y3nBfFpXVIY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Marina Bay Sands Singapore",
+   "url": "https://live.staticflickr.com/5446/17256120250_7644d0277d_b.jpg",
+   "preview": "https://live.staticflickr.com/5446/17256120250_7644d0277d_z.jpg",
+   "size": [
+    1024,
+    677
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lenny K Photography on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/57527070@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/57527070@N06/17256120250",
+   "plain": true
+  },
+  {
+   "shows": "Reflections @ Marina Bay Sands",
+   "url": "https://live.staticflickr.com/5251/5519480742_321e156b0e_b.jpg",
+   "preview": "https://live.staticflickr.com/5251/5519480742_321e156b0e_z.jpg",
+   "size": [
+    737,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by williamcho on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/84493444@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/84493444@N00/5519480742",
+   "plain": true
+  },
+  {
+   "shows": "Marina Bay Sands · architechture, landscape, marinabay, rokinon, samyang",
+   "url": "https://live.staticflickr.com/334/20231139896_2491e03f40_b.jpg",
+   "preview": "https://live.staticflickr.com/334/20231139896_2491e03f40_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by hams37 on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/76258517@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/76258517@N03/20231139896",
+   "plain": true
+  },
+  {
+   "shows": "N883LS LAS VEGAS SANDS CORP 1989 Gulfstream IV C-N 1110",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/N883LS_LAS_VEGAS_SANDS_CORP_1989_Gulfstream_IV_C-N_1110_%2812806019493%29.jpg/1920px-N883LS_LAS_VEGAS_SANDS_CORP_1989_Gulfstream_IV_C-N_1110_%2812806019493%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/N883LS_LAS_VEGAS_SANDS_CORP_1989_Gulfstream_IV_C-N_1110_%2812806019493%29.jpg/500px-N883LS_LAS_VEGAS_SANDS_CORP_1989_Gulfstream_IV_C-N_1110_%2812806019493%29.jpg",
+   "size": [
+    1920,
+    1234
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tomás Del Coro from Las Vegas, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:N883LS_LAS_VEGAS_SANDS_CORP_1989_Gulfstream_IV_C-N_1110_(12806019493).jpg",
+   "plain": true
+  },
+  {
+   "shows": "N338LS Gulfstream G550 Las Vegas Sands Corp STN",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/N338LS_Gulfstream_G550_Las_Vegas_Sands_Corp_STN_250226.jpg/1920px-N338LS_Gulfstream_G550_Las_Vegas_Sands_Corp_STN_250226.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/N338LS_Gulfstream_G550_Las_Vegas_Sands_Corp_STN_250226.jpg/500px-N338LS_Gulfstream_G550_Las_Vegas_Sands_Corp_STN_250226.jpg",
+   "size": [
+    1920,
+    734
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "kitmasterbloke, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:N338LS_Gulfstream_G550_Las_Vegas_Sands_Corp_STN_250226.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Skypark swimming pool @ Marina Bay Sands",
+   "url": "https://live.staticflickr.com/4105/4846288779_4ba37a6b96_b.jpg",
+   "preview": "https://live.staticflickr.com/4105/4846288779_4ba37a6b96_z.jpg",
+   "size": [
+    1024,
+    617
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jo@net on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/15411972@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/15411972@N00/4846288779",
+   "plain": true
+  },
+  {
+   "shows": "Marina Bay Sands, Singapore",
+   "url": "https://live.staticflickr.com/7293/27605840822_3a5659dca5_b.jpg",
+   "preview": "https://live.staticflickr.com/7293/27605840822_3a5659dca5_z.jpg",
+   "size": [
+    1024,
+    816
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Rod Waddington on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/64607715@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/64607715@N05/27605840822",
+   "plain": true
+  },
+  {
+   "shows": "Marina Bay Sands · marinabaysands, singapore",
+   "url": "https://live.staticflickr.com/5204/5380862681_1912ceb4af_b.jpg",
+   "preview": "https://live.staticflickr.com/5204/5380862681_1912ceb4af_z.jpg",
+   "size": [
+    1024,
+    681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by edwin.11 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/97681386@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/97681386@N00/5380862681",
+   "plain": true
   }
  ]
 }

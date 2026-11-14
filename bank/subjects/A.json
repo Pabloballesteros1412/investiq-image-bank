@@ -6,6 +6,7 @@
   "A"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -60,6 +61,24 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Agilent_Technologies_showroom,_Keisokuki_Land_(T%C5%8Dy%C5%8D_Keisokuki)_-_1-3-12_Sotokanda,_2006-11-29_21.32.31_(by_Matt_Perreault).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Digital Multimeter Agilent U1272A",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Digital_Multimeter_Agilent_U1272A.jpg/1280px-Digital_Multimeter_Agilent_U1272A.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Digital_Multimeter_Agilent_U1272A.jpg/500px-Digital_Multimeter_Agilent_U1272A.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Medvedev, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Digital_Multimeter_Agilent_U1272A.jpg",
    "plain": true
   }
  ]

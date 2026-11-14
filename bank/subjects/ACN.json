@@ -6,7 +6,7 @@
   "ACN"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
+ "target": 10,
  "photos": [
   {
    "shows": "Accenture (Accenture)",
@@ -41,6 +41,23 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Praha_Chodov_V_Parku_12_Accenture.jpg"
+  },
+  {
+   "shows": "Accenture Argentina",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Accenture_Argentina.jpg/1920px-Accenture_Argentina.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Accenture_Argentina.jpg/500px-Accenture_Argentina.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roberto Fiadone, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Accenture_Argentina.jpg"
   },
   {
    "shows": "Grand Canal Square - panoramio",
@@ -112,6 +129,60 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Worm%27s_eye_view_of_Accenture_building.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Pyrmont, New South Wales",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2015-04-02_Pyrmont%2C_New_South_Wales.jpg/1920px-2015-04-02_Pyrmont%2C_New_South_Wales.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/2015-04-02_Pyrmont%2C_New_South_Wales.jpg/500px-2015-04-02_Pyrmont%2C_New_South_Wales.jpg",
+   "size": [
+    1920,
+    1491
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Maksym Kozlenko, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2015-04-02_Pyrmont,_New_South_Wales.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Accenture Nové Butovice budovy",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Accenture_Nov%C3%A9_Butovice_budovy.JPG/1920px-Accenture_Nov%C3%A9_Butovice_budovy.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Accenture_Nov%C3%A9_Butovice_budovy.JPG/500px-Accenture_Nov%C3%A9_Butovice_budovy.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "VitVit, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Accenture_Nov%C3%A9_Butovice_budovy.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Accenture building Reston",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Accenture_building_Reston.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Accenture_building_Reston.jpg/500px-Accenture_building_Reston.jpg",
+   "size": [
+    1600,
+    1099
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BLM Platinum, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Accenture_building_Reston.jpg",
    "plain": true
   }
  ]

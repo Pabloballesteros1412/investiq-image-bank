@@ -6,7 +6,7 @@
   "CSCO"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
+ "target": 10,
  "photos": [
   {
    "shows": "Red Hat Summit 2018 5910",
@@ -42,6 +42,150 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Signage_-_Cisco_San_Jose_Main_Campus.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cisco WS-X6708-10G-3C switch module",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cisco_WS-X6708-10G-3C_switch_module.jpg/1920px-Cisco_WS-X6708-10G-3C_switch_module.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cisco_WS-X6708-10G-3C_switch_module.jpg/500px-Cisco_WS-X6708-10G-3C_switch_module.jpg",
+   "size": [
+    1920,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Martijn Boer, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cisco_WS-X6708-10G-3C_switch_module.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cisco Aironet 1552H on street light, Canberra 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cisco_Aironet_1552H_on_street_light%2C_Canberra_1.jpg/1280px-Cisco_Aironet_1552H_on_street_light%2C_Canberra_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Cisco_Aironet_1552H_on_street_light%2C_Canberra_1.jpg/500px-Cisco_Aironet_1552H_on_street_light%2C_Canberra_1.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ethmostigmus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cisco_Aironet_1552H_on_street_light,_Canberra_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Enrutador gris y negro",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Enrutador_gris_y_negro.jpg/1920px-Enrutador_gris_y_negro.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Enrutador_gris_y_negro.jpg/500px-Enrutador_gris_y_negro.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "EEIM, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Enrutador_gris_y_negro.jpg",
+   "plain": true
+  },
+  {
+   "shows": "IP-phone Cisco 7906 with SCCP protocol support",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cisco_7906.jpg/1920px-Cisco_7906.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cisco_7906.jpg/500px-Cisco_7906.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Антон Пищулин, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cisco_7906.jpg",
+   "plain": true
+  },
+  {
+   "shows": "SCCP IP-phone CP7970 by Cisco",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cisco_CP7970.jpg/1920px-Cisco_CP7970.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cisco_CP7970.jpg/500px-Cisco_CP7970.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Антон Пищулин, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cisco_CP7970.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cisco (Cisco telephones)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cisco_CP79XX.jpg/1920px-Cisco_CP79XX.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Cisco_CP79XX.jpg/500px-Cisco_CP79XX.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Антон Пищулин, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cisco_CP79XX.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cisco San Jose Main Campus",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cisco_San_Jose_Main_Campus_%281%29.jpg/1920px-Cisco_San_Jose_Main_Campus_%281%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Cisco_San_Jose_Main_Campus_%281%29.jpg/500px-Cisco_San_Jose_Main_Campus_%281%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Prayitno, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cisco_San_Jose_Main_Campus_(1).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cisco Office Garching",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cisco_Office_Garching.jpg/1920px-Cisco_Office_Garching.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cisco_Office_Garching.jpg/500px-Cisco_Office_Garching.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tneumann42, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cisco_Office_Garching.jpg",
    "plain": true
   }
  ]

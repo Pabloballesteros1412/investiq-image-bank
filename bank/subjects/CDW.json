@@ -6,8 +6,29 @@
   "CDW"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
+  {
+   "shows": "CDW .................. who is that?/???",
+   "url": "https://live.staticflickr.com/198/513015253_28748fe0b4_b.jpg",
+   "preview": "https://live.staticflickr.com/198/513015253_28748fe0b4_z.jpg",
+   "size": [
+    681,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by deansouglass on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/99486623@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/99486623@N00/513015253",
+   "plain": true
+  },
   {
    "shows": "CDW in Chicago - Address: 120 S Riverside Plaza, Chicago, IL 60606, USA",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CDWChicago.jpg/1920px-CDWChicago.jpg",

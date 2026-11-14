@@ -6,6 +6,7 @@
   "TMO"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -24,6 +25,46 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Thermo_Fisher_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Thermo Fisher's new gene synthesis chip",
+   "url": "https://live.staticflickr.com/1933/30142485817_4bbf785eb7_b.jpg",
+   "preview": "https://live.staticflickr.com/1933/30142485817_4bbf785eb7_z.jpg",
+   "size": [
+    1024,
+    731
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jurvetson on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/44124348109@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/44124348109@N01/30142485817",
+   "plain": true
+  },
+  {
+   "shows": "Thermo Fisher Scientific · 18105mm3556, 2012, bremen, deutschland, germany",
+   "url": "https://live.staticflickr.com/8151/7282284120_493b0b3540_b.jpg",
+   "preview": "https://live.staticflickr.com/8151/7282284120_493b0b3540_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by larsjuh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/22528972@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22528972@N05/7282284120",
    "plain": true
   }
  ]

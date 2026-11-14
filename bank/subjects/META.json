@@ -6,6 +6,7 @@
   "META"
  ],
  "sector": "sector-communication",
+ "target": 30,
  "photos": [
   {
    "shows": "Meta i Almedalen",
@@ -95,6 +96,43 @@
    "source": "https://unsplash.com/photos/instagram-app-icon-on-screen-fmqhTMu4IVU?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Mark Zuckerberg ( ) (b)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mark_Zuckerberg_%282025%29_%28cropped%29_%28b%29.jpg/1280px-Mark_Zuckerberg_%282025%29_%28cropped%29_%28b%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mark_Zuckerberg_%282025%29_%28cropped%29_%28b%29.jpg/500px-Mark_Zuckerberg_%282025%29_%28cropped%29_%28b%29.jpg",
+   "size": [
+    1280,
+    1706
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jeff Sainlar; Social Producer and Editor, Meta, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_(2025)_(cropped)_(b).jpg"
+  },
+  {
+   "shows": "Meta Quest 2 · facebook, meta, oculus, quest, reality",
+   "url": "https://live.staticflickr.com/65535/52328573038_5120f89ac5_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52328573038_5120f89ac5_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by abx.justin on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/196388265@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/196388265@N05/52328573038",
+   "plain": true
+  },
+  {
    "shows": "Lulea Facebook datacenter building",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lulea_Facebook_datacenter_building.jpg/1920px-Lulea_Facebook_datacenter_building.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lulea_Facebook_datacenter_building.jpg/500px-Lulea_Facebook_datacenter_building.jpg",
@@ -182,6 +220,340 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3S_Display_Unit.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 - 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Meta_Quest_3_-_3.jpg/1920px-Meta_Quest_3_-_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Meta_Quest_3_-_3.jpg/500px-Meta_Quest_3_-_3.jpg",
+   "size": [
+    1920,
+    1351
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kyu3a, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_-_3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3s with controllers",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Meta_Quest_3s_with_controllers.jpg/1920px-Meta_Quest_3s_with_controllers.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Meta_Quest_3s_with_controllers.jpg/500px-Meta_Quest_3s_with_controllers.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Loafhouse, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3s_with_controllers.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 Top View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Meta_Quest_3_Top_View.jpg/1280px-Meta_Quest_3_Top_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Meta_Quest_3_Top_View.jpg/500px-Meta_Quest_3_Top_View.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy.wonder.cohen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_Top_View.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 side View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Meta_Quest_3_side_View.jpg/1280px-Meta_Quest_3_side_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Meta_Quest_3_side_View.jpg/500px-Meta_Quest_3_side_View.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy.wonder.cohen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_side_View.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 back View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Meta_Quest_3_back_View.jpg/1280px-Meta_Quest_3_back_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Meta_Quest_3_back_View.jpg/500px-Meta_Quest_3_back_View.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Roy.wonder.cohen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_back_View.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Facebook Offices Menlo Park California",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Facebook_Offices_Menlo_Park_California_%2834183281176%29.jpg/1920px-Facebook_Offices_Menlo_Park_California_%2834183281176%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Facebook_Offices_Menlo_Park_California_%2834183281176%29.jpg/500px-Facebook_Offices_Menlo_Park_California_%2834183281176%29.jpg",
+   "size": [
+    1920,
+    1028
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Anthony Quintano from Honolulu, HI, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Facebook_Offices_Menlo_Park_California_(34183281176).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 - 5",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meta_Quest_3_-_5.jpg/1920px-Meta_Quest_3_-_5.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Meta_Quest_3_-_5.jpg/500px-Meta_Quest_3_-_5.jpg",
+   "size": [
+    1920,
+    1319
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kyu3a, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_-_5.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 display",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meta_Quest_3_display.jpg/1920px-Meta_Quest_3_display.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Meta_Quest_3_display.jpg/500px-Meta_Quest_3_display.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "IHazACatNamedMax, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_display.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Quest 3 - 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Meta_Quest_3_-_2.jpg/1920px-Meta_Quest_3_-_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Meta_Quest_3_-_2.jpg/500px-Meta_Quest_3_-_2.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kyu3a, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Quest_3_-_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Facebook building 391, Mountain View, pre-dawn",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Facebook_building_391%2C_Mountain_View%2C_pre-dawn.jpg/1920px-Facebook_building_391%2C_Mountain_View%2C_pre-dawn.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Facebook_building_391%2C_Mountain_View%2C_pre-dawn.jpg/500px-Facebook_building_391%2C_Mountain_View%2C_pre-dawn.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dicklyon, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Facebook_building_391,_Mountain_View,_pre-dawn.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Camera of Meta Glasses",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Camera_of_Meta_Glasses.jpg/1920px-Camera_of_Meta_Glasses.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Camera_of_Meta_Glasses.jpg/500px-Camera_of_Meta_Glasses.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kyu3a, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Camera_of_Meta_Glasses.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meta Glasses - 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Meta_Glasses_-_1.jpg/1280px-Meta_Glasses_-_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Meta_Glasses_-_1.jpg/500px-Meta_Glasses_-_1.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kyu3a, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Meta_Glasses_-_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Rayban x Meta glasses Generazione 2 con lenti Polaroid, wayfarer",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rayban_x_Meta_glasses_Generazione_2_con_lenti_Polaroid%2C_wayfarer.jpg/1920px-Rayban_x_Meta_glasses_Generazione_2_con_lenti_Polaroid%2C_wayfarer.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Rayban_x_Meta_glasses_Generazione_2_con_lenti_Polaroid%2C_wayfarer.jpg/500px-Rayban_x_Meta_glasses_Generazione_2_con_lenti_Polaroid%2C_wayfarer.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ItzANormalFioko, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rayban_x_Meta_glasses_Generazione_2_con_lenti_Polaroid,_wayfarer.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Facebook · facebook, facebooknotebook, facebookpen",
+   "url": "https://live.staticflickr.com/8328/8409460174_cf3975638a_b.jpg",
+   "preview": "https://live.staticflickr.com/8328/8409460174_cf3975638a_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sarah.Marshall on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/76295441@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/76295441@N00/8409460174",
+   "plain": true
+  },
+  {
+   "shows": "Person with a Meta Quest 2 pointing an object (transparent bg)",
+   "url": "https://live.staticflickr.com/65535/52360085059_0f4b1e61e4_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52360085059_0f4b1e61e4_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by metalograms on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/196505105@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/196505105@N02/52360085059",
+   "plain": true
+  },
+  {
+   "shows": "Oculus Rift · games, globalpanorama, kiev, oculus, oculusvr",
+   "url": "https://live.staticflickr.com/7260/13491081124_fdbdaa256d_b.jpg",
+   "preview": "https://live.staticflickr.com/7260/13491081124_fdbdaa256d_z.jpg",
+   "size": [
+    1024,
+    607
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by theglobalpanorama on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/121483302@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/121483302@N02/13491081124",
+   "plain": true
+  },
+  {
+   "shows": "Maxim Kapinus and Oculus Rift",
+   "url": "https://live.staticflickr.com/8280/10187199554_fd8265dfb1_b.jpg",
+   "preview": "https://live.staticflickr.com/8280/10187199554_fd8265dfb1_z.jpg",
+   "size": [
+    1024,
+    694
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sergey Galyonkin on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/22974618@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22974618@N00/10187199554",
+   "plain": true
+  },
+  {
+   "shows": "Oculus Rift DK2 · desempacando, dk2, oculus, rift, business",
+   "url": "https://live.staticflickr.com/5593/15219750365_7617fb0598_b.jpg",
+   "preview": "https://live.staticflickr.com/5593/15219750365_7617fb0598_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Avodrocc on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/22086776@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22086776@N00/15219750365",
    "plain": true
   }
  ]

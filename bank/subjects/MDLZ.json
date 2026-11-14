@@ -6,7 +6,7 @@
   "MDLZ"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "A cadbury dairy milk roast almond chocolate bar",
@@ -132,6 +132,66 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:20250623_155847_Mondel%C4%93z_factory_in_Tomasz%C3%B3w_Mazowiecki,_Poland.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oreo Cookies Birthday Cake",
+   "url": "https://live.staticflickr.com/2922/13963683274_c00d83da05_b.jpg",
+   "preview": "https://live.staticflickr.com/2922/13963683274_c00d83da05_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/13963683274",
+   "plain": true
+  },
+  {
+   "shows": "Oreo Cookies Birthday Cake",
+   "url": "https://live.staticflickr.com/7253/13963736844_d3194b01f1_b.jpg",
+   "preview": "https://live.staticflickr.com/7253/13963736844_d3194b01f1_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/13963736844",
+   "plain": true
+  },
+  {
+   "shows": "Oreo Cookies Watermelon · oreo, oreocookies, oreocookieswatermelon, watermelon, business",
+   "url": "https://live.staticflickr.com/7209/13885066429_5cabe3a4fb_b.jpg",
+   "preview": "https://live.staticflickr.com/7209/13885066429_5cabe3a4fb_z.jpg",
+   "size": [
+    1024,
+    426
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/13885066429",
    "plain": true
   }
  ]

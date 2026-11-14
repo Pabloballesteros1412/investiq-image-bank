@@ -6,6 +6,88 @@
   "CME"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "chicago mercantile exchange",
+   "url": "https://live.staticflickr.com/638/20913194110_47d883956f_b.jpg",
+   "preview": "https://live.staticflickr.com/638/20913194110_47d883956f_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dandeluca on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19257752@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19257752@N00/20913194110",
+   "plain": true
+  },
+  {
+   "shows": "Chicago Mercantile Exchange",
+   "url": "https://live.staticflickr.com/5120/5905560519_39c8ddafeb_b.jpg",
+   "preview": "https://live.staticflickr.com/5120/5905560519_39c8ddafeb_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by edenpictures on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/10485077@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/10485077@N06/5905560519",
+   "plain": true
+  },
+  {
+   "shows": "Chicago Mercantile Exchange",
+   "url": "https://live.staticflickr.com/1022/526514273_2eff10ab78_b.jpg",
+   "preview": "https://live.staticflickr.com/1022/526514273_2eff10ab78_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Matthew Black on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/60099286@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/60099286@N00/526514273",
+   "plain": true
+  },
+  {
+   "shows": "Chicago Mercantile Exchange Center",
+   "url": "https://live.staticflickr.com/65535/52047852047_189d57b126_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52047852047_189d57b126_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by chris.rycroft on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/193316968@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/193316968@N06/52047852047",
+   "plain": true
+  }
+ ]
 }

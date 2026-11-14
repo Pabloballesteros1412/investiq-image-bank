@@ -6,7 +6,7 @@
   "FDX"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "FedEx SmartPost Warehouse",
@@ -166,6 +166,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:FedEx_Express_Taiwan_LAA-070_left_side_at_Neihu_Flagship_Store,_Spring_Casa_20161126.jpg",
+   "plain": true
+  },
+  {
+   "shows": "FedEx Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FedEx_Office_%2848155564796%29.jpg/1920px-FedEx_Office_%2848155564796%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FedEx_Office_%2848155564796%29.jpg/500px-FedEx_Office_%2848155564796%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FedEx_Office_(48155564796).jpg",
    "plain": true
   }
  ]

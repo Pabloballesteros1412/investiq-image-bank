@@ -6,7 +6,7 @@
   "RL"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Ralph's Coffee Rockefeller Center NYC",
@@ -148,6 +148,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:HK_%E6%9D%B1%E6%B6%8C_Tung_Chung_%E7%BE%8E%E6%9D%B1%E8%B7%AF_Mei_Tung_Road_%E6%9D%B1%E8%96%88%E5%9F%8E_CityGate_Outlets_shopping_mall_shop_clothing_Uniqlo_March_2022_Px3_03.jpg",
+   "plain": true
+  },
+  {
+   "shows": "JP 日本 Japan 沖繩 OKINAWA Outlet Mall Ashibinaa shop January 2025 R12S 242",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_shop_January_2025_R12S_242.jpg/1280px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_shop_January_2025_R12S_242.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_shop_January_2025_R12S_242.jpg/500px-JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_shop_January_2025_R12S_242.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Naha Mama Pavilionz, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E6%B2%96%E7%B9%A9_OKINAWA_Outlet_Mall_Ashibinaa_shop_January_2025_R12S_242.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HK AM 金鐘 Admiralty 太古廣場 Pacific Place mall void Polo Ralph Lauren roadshow night July 2026 N13P 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HK_AM_%E9%87%91%E9%90%98_Admiralty_%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4_Pacific_Place_mall_void_Polo_Ralph_Lauren_roadshow_night_July_2026_N13P_02.jpg/1280px-HK_AM_%E9%87%91%E9%90%98_Admiralty_%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4_Pacific_Place_mall_void_Polo_Ralph_Lauren_roadshow_night_July_2026_N13P_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HK_AM_%E9%87%91%E9%90%98_Admiralty_%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4_Pacific_Place_mall_void_Polo_Ralph_Lauren_roadshow_night_July_2026_N13P_02.jpg/500px-HK_AM_%E9%87%91%E9%90%98_Admiralty_%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4_Pacific_Place_mall_void_Polo_Ralph_Lauren_roadshow_night_July_2026_N13P_02.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HUAWSHI teauLung, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_AM_%E9%87%91%E9%90%98_Admiralty_%E5%A4%AA%E5%8F%A4%E5%BB%A3%E5%A0%B4_Pacific_Place_mall_void_Polo_Ralph_Lauren_roadshow_night_July_2026_N13P_02.jpg",
    "plain": true
   }
  ]

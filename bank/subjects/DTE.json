@@ -6,6 +6,7 @@
   "DTE"
  ],
  "sector": "sector-utilities",
+ "target": 10,
  "fill_from": "sector-utilities",
  "photos": [
   {
@@ -60,6 +61,26 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:DTE-Headquarters-Campus-Improvements-Rear.jpg",
+   "plain": true
+  },
+  {
+   "shows": "20200807 06 DTE Energy, Monroe Power Plan",
+   "url": "https://live.staticflickr.com/65535/50538676511_3770382f57_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/50538676511_3770382f57_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by davidwilson1949 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/32693718@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/32693718@N07/50538676511",
    "plain": true
   }
  ]

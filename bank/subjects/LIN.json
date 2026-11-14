@@ -6,7 +6,7 @@
   "LIN"
  ],
  "sector": "sector-materials",
- "fill_from": "sector-materials",
+ "target": 10,
  "photos": [
   {
    "shows": "Storage tanks by Linde group, Schiedam-8228",
@@ -24,6 +24,23 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Storage_tanks_by_Linde_group,_Schiedam-8228.jpg"
+  },
+  {
+   "shows": "Linde AG Angerblock 9686",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Linde_AG_Angerblock_9686.jpg/1920px-Linde_AG_Angerblock_9686.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Linde_AG_Angerblock_9686.jpg/500px-Linde_AG_Angerblock_9686.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Henning Schlottmann (User:H-stt), CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Linde_AG_Angerblock_9686.jpg"
   },
   {
    "shows": "Linde-Gasometer Bitterfeld",
@@ -77,6 +94,96 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Linde_(previously_AGA)_air_separation_plant_in_Washington,_West_Virginia..JPG",
+   "plain": true
+  },
+  {
+   "shows": "99The Linde Group in the Philippines",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/99The_Linde_Group_in_the_Philippines.jpg/1920px-99The_Linde_Group_in_the_Philippines.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/99The_Linde_Group_in_the_Philippines.jpg/500px-99The_Linde_Group_in_the_Philippines.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Judgefloro, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:99The_Linde_Group_in_the_Philippines.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Apalit Santo Tomas San Fernando Pampanga 32",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Apalit_Santo_Tomas_San_Fernando_Pampanga_32.jpg/1920px-Apalit_Santo_Tomas_San_Fernando_Pampanga_32.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Apalit_Santo_Tomas_San_Fernando_Pampanga_32.jpg/500px-Apalit_Santo_Tomas_San_Fernando_Pampanga_32.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Beeveevee, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Apalit_Santo_Tomas_San_Fernando_Pampanga_32.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Linde Hydraulics (Ballenstedt)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Linde_Hydraulics_%28Ballenstedt%29.jpg/1920px-Linde_Hydraulics_%28Ballenstedt%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Linde_Hydraulics_%28Ballenstedt%29.jpg/500px-Linde_Hydraulics_%28Ballenstedt%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Migebert, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Linde_Hydraulics_(Ballenstedt).jpg",
+   "plain": true
+  },
+  {
+   "shows": "HK Sheung Wan 文咸街 Bonham Strand UD Trucks August 2018 SSG 林德集團 The Linde Group 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/HK_Sheung_Wan_%E6%96%87%E5%92%B8%E8%A1%97_Bonham_Strand_UD_Trucks_August_2018_SSG_%E6%9E%97%E5%BE%B7%E9%9B%86%E5%9C%98_The_Linde_Group_01.jpg/1920px-HK_Sheung_Wan_%E6%96%87%E5%92%B8%E8%A1%97_Bonham_Strand_UD_Trucks_August_2018_SSG_%E6%9E%97%E5%BE%B7%E9%9B%86%E5%9C%98_The_Linde_Group_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/HK_Sheung_Wan_%E6%96%87%E5%92%B8%E8%A1%97_Bonham_Strand_UD_Trucks_August_2018_SSG_%E6%9E%97%E5%BE%B7%E9%9B%86%E5%9C%98_The_Linde_Group_01.jpg/500px-HK_Sheung_Wan_%E6%96%87%E5%92%B8%E8%A1%97_Bonham_Strand_UD_Trucks_August_2018_SSG_%E6%9E%97%E5%BE%B7%E9%9B%86%E5%9C%98_The_Linde_Group_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "FuongmIE rens, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_Sheung_Wan_%E6%96%87%E5%92%B8%E8%A1%97_Bonham_Strand_UD_Trucks_August_2018_SSG_%E6%9E%97%E5%BE%B7%E9%9B%86%E5%9C%98_The_Linde_Group_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lokomotiva 700.634-9, Svitavská pobřežní dráha 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lokomotiva_700.634-9%2C_Svitavsk%C3%A1_pob%C5%99e%C5%BEn%C3%AD_dr%C3%A1ha_01.jpg/1920px-Lokomotiva_700.634-9%2C_Svitavsk%C3%A1_pob%C5%99e%C5%BEn%C3%AD_dr%C3%A1ha_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lokomotiva_700.634-9%2C_Svitavsk%C3%A1_pob%C5%99e%C5%BEn%C3%AD_dr%C3%A1ha_01.jpg/500px-Lokomotiva_700.634-9%2C_Svitavsk%C3%A1_pob%C5%99e%C5%BEn%C3%AD_dr%C3%A1ha_01.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michal Gregor, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lokomotiva_700.634-9,_Svitavsk%C3%A1_pob%C5%99e%C5%BEn%C3%AD_dr%C3%A1ha_01.jpg",
    "plain": true
   }
  ]

@@ -6,7 +6,7 @@
   "MS"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
+ "target": 10,
  "photos": [
   {
    "shows": "Morgan Stanley Times Square",
@@ -42,6 +42,23 @@
    "author_url": "https://unsplash.com/@novaspark?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/morgan-stanley-building-illuminated-at-night-CM6Wb_VCSsw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The Morgan Stanley Building (WTM by official-ly cool 111)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_Morgan_Stanley_Building_%28WTM_by_official-ly_cool_111%29.jpg/1280px-The_Morgan_Stanley_Building_%28WTM_by_official-ly_cool_111%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/The_Morgan_Stanley_Building_%28WTM_by_official-ly_cool_111%29.jpg/500px-The_Morgan_Stanley_Building_%28WTM_by_official-ly_cool_111%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "This photo was taken by participant/team official-ly cool as part of the Commons:Wikipedia Takes Manhattan project on April 4, 2008. This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original. https://creativecommons.org/licenses/by-sa/3.0 CC BY-SA 3.0 Creative Commons Attribution-Share Alike 3.0 true true, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Morgan_Stanley_Building_(WTM_by_official-ly_cool_111).jpg"
   },
   {
    "shows": "Morgan Stanley Headquarters",
@@ -149,6 +166,24 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Morgan-stanley-building.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Times Sq Nov 2021 158",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Times_Sq_Nov_2021_158.jpg/1280px-Times_Sq_Nov_2021_158.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Times_Sq_Nov_2021_158.jpg/500px-Times_Sq_Nov_2021_158.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Epicgenius, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Times_Sq_Nov_2021_158.jpg",
    "plain": true
   }
  ]

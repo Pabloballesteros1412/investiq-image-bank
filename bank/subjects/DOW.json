@@ -6,6 +6,7 @@
   "DOW"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
   {
@@ -78,6 +79,78 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Dow_Chemical_Plant,_Taft,_St._Charles_Parish,_Louisiana_on_the_Mississippi_River_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Schkopau Dow Verwaltungsgebäude",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schkopau_Dow_Verwaltungsgeb%C3%A4ude_%281%29.jpg/1920px-Schkopau_Dow_Verwaltungsgeb%C3%A4ude_%281%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Schkopau_Dow_Verwaltungsgeb%C3%A4ude_%281%29.jpg/500px-Schkopau_Dow_Verwaltungsgeb%C3%A4ude_%281%29.jpg",
+   "size": [
+    1920,
+    1393
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Catatine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Schkopau_Dow_Verwaltungsgeb%C3%A4ude_(1).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Schkopau DOW-Bogen",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Schkopau_DOW-Bogen.jpg/1920px-Schkopau_DOW-Bogen.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Schkopau_DOW-Bogen.jpg/500px-Schkopau_DOW-Bogen.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joeb07, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Schkopau_DOW-Bogen.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dow Chemical works - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dow_Chemical_works_-_geograph.org.uk_-_650287.jpg/1920px-Dow_Chemical_works_-_geograph.org.uk_-_650287.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dow_Chemical_works_-_geograph.org.uk_-_650287.jpg/500px-Dow_Chemical_works_-_geograph.org.uk_-_650287.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ben Harris, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dow_Chemical_works_-_geograph.org.uk_-_650287.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dow Corning, Bay City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dow_Corning%2C_Bay_City.jpg/1920px-Dow_Corning%2C_Bay_City.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Dow_Corning%2C_Bay_City.jpg/500px-Dow_Corning%2C_Bay_City.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Guettarda, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dow_Corning,_Bay_City.jpg",
    "plain": true
   }
  ]

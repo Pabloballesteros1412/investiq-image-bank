@@ -6,7 +6,7 @@
   "KDP"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Dr pepper sign atop a historic brick building",
@@ -45,6 +45,23 @@
    "source": "https://unsplash.com/photos/canada-dry-ginger-ale-can-Trf3V1l0kN0?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Caribou Blend Coffee Pod",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Caribou_Blend_Coffee_Pod.jpg/1920px-Caribou_Blend_Coffee_Pod.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Caribou_Blend_Coffee_Pod.jpg/500px-Caribou_Blend_Coffee_Pod.jpg",
+   "size": [
+    1920,
+    2033
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Caribou_Blend_Coffee_Pod.jpg"
+  },
+  {
    "shows": "Hotel room at the Silver Legacy Resort Casino - November 2021 - Sarah Stierch 05",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hotel_room_at_the_Silver_Legacy_Resort_Casino_-_November_2021_-_Sarah_Stierch_05.jpg/1920px-Hotel_room_at_the_Silver_Legacy_Resort_Casino_-_November_2021_-_Sarah_Stierch_05.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Hotel_room_at_the_Silver_Legacy_Resort_Casino_-_November_2021_-_Sarah_Stierch_05.jpg/500px-Hotel_room_at_the_Silver_Legacy_Resort_Casino_-_November_2021_-_Sarah_Stierch_05.jpg",
@@ -78,6 +95,102 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Keurig_hotel_coffee_maker_machine_(43090967122).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Keurig K-Elite Coffee Maker",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Keurig_K-Elite_Coffee_Maker.jpg/1280px-Keurig_K-Elite_Coffee_Maker.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Keurig_K-Elite_Coffee_Maker.jpg/500px-Keurig_K-Elite_Coffee_Maker.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Keurig_K-Elite_Coffee_Maker.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Keurig K350 Brewer",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Keurig_K350_Brewer.jpg/1280px-Keurig_K350_Brewer.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Keurig_K350_Brewer.jpg/500px-Keurig_K350_Brewer.jpg",
+   "size": [
+    1280,
+    1861
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Keurig_K350_Brewer.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dr Pepper · drink, drpepper, soda, sweden, vu00e4steru00e5s",
+   "url": "https://live.staticflickr.com/8032/8061174035_7c0337dd3d_b.jpg",
+   "preview": "https://live.staticflickr.com/8032/8061174035_7c0337dd3d_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by callocx on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/61400543@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/61400543@N04/8061174035",
+   "plain": true
+  },
+  {
+   "shows": "Keurig Coffee Maker · coffee, keurig, maker",
+   "url": "https://live.staticflickr.com/3866/19106726012_131499d684_b.jpg",
+   "preview": "https://live.staticflickr.com/3866/19106726012_131499d684_z.jpg",
+   "size": [
+    1024,
+    632
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/19106726012",
+   "plain": true
+  },
+  {
+   "shows": "Keurig Coffee Maker · coffee, keurig, maker",
+   "url": "https://live.staticflickr.com/3956/19115765431_4717dafce1_b.jpg",
+   "preview": "https://live.staticflickr.com/3956/19115765431_4717dafce1_z.jpg",
+   "size": [
+    1024,
+    488
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/19115765431",
    "plain": true
   }
  ]

@@ -6,7 +6,7 @@
   "GSK"
  ],
  "sector": "sector-health",
- "fill_from": "sector-health",
+ "target": 10,
  "photos": [
   {
    "shows": "GlaxoSmithKline building, London, 30 July 2007 ( )",
@@ -24,6 +24,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:GlaxoSmithKline_building,_London,_30_July_2007_(cropped).jpg"
+  },
+  {
+   "shows": "The GlaxoSmithKline Building In Brentford - London",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_GlaxoSmithKline_Building_In_Brentford_-_London.jpg/1920px-The_GlaxoSmithKline_Building_In_Brentford_-_London.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/The_GlaxoSmithKline_Building_In_Brentford_-_London.jpg/500px-The_GlaxoSmithKline_Building_In_Brentford_-_London.jpg",
+   "size": [
+    1920,
+    1203
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim Linwood, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_GlaxoSmithKline_Building_In_Brentford_-_London.jpg"
   },
   {
    "shows": "Footbridge and GSK building at Brentford - geograph.org.uk",
@@ -59,6 +76,120 @@
    "licence": "CC BY-SA 2.5",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:GSK_HQ.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Meningococcal and HPV Vaccines, Washington, DC USA 4270",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2018.11.20_Meningococcal_and_HPV_Vaccines%2C_Washington%2C_DC_USA_4270_%2845260286484%29.jpg/1280px-2018.11.20_Meningococcal_and_HPV_Vaccines%2C_Washington%2C_DC_USA_4270_%2845260286484%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/2018.11.20_Meningococcal_and_HPV_Vaccines%2C_Washington%2C_DC_USA_4270_%2845260286484%29.jpg/500px-2018.11.20_Meningococcal_and_HPV_Vaccines%2C_Washington%2C_DC_USA_4270_%2845260286484%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ted Eytan, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2018.11.20_Meningococcal_and_HPV_Vaccines,_Washington,_DC_USA_4270_(45260286484).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Boostrix-IPV vaccine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Boostrix-IPV_vaccine.jpg/1920px-Boostrix-IPV_vaccine.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Boostrix-IPV_vaccine.jpg/500px-Boostrix-IPV_vaccine.jpg",
+   "size": [
+    1920,
+    1389
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Whispyhistory, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Boostrix-IPV_vaccine.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Glaxo Smith Kline Building at Brentford - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Glaxo_Smith_Kline_Building_at_Brentford_-_panoramio.jpg/1920px-Glaxo_Smith_Kline_Building_at_Brentford_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Glaxo_Smith_Kline_Building_at_Brentford_-_panoramio.jpg/500px-Glaxo_Smith_Kline_Building_at_Brentford_-_panoramio.jpg",
+   "size": [
+    1920,
+    1399
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Maxwell Hamilton, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Glaxo_Smith_Kline_Building_at_Brentford_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "GOC Kew to Osterley 085: GSK",
+   "url": "https://live.staticflickr.com/5546/11187599734_3f12363ea8_b.jpg",
+   "preview": "https://live.staticflickr.com/5546/11187599734_3f12363ea8_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Peter O'Connor aka anemoneprojectors on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/58414938@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/58414938@N00/11187599734",
+   "plain": true
+  },
+  {
+   "shows": "Good morning #GSK Brentford",
+   "url": "https://live.staticflickr.com/5540/14231955840_6f823a9b18_b.jpg",
+   "preview": "https://live.staticflickr.com/5540/14231955840_6f823a9b18_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dullhunk on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/14829735@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/14829735@N00/14231955840",
+   "plain": true
+  },
+  {
+   "shows": "GSK Building · accusations, accused, allegations, building, cases",
+   "url": "https://live.staticflickr.com/3863/14393223147_c69dc021b7_b.jpg",
+   "preview": "https://live.staticflickr.com/3863/14393223147_c69dc021b7_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by theglobalpanorama on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/121483302@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/121483302@N02/14393223147",
    "plain": true
   }
  ]

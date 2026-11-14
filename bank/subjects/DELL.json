@@ -6,7 +6,7 @@
   "DELL"
  ],
  "sector": "sector-tech",
- "fill_from": "sector-tech",
+ "target": 10,
  "photos": [
   {
    "shows": "Dell Technologies Headquarters",
@@ -42,6 +42,23 @@
    "author_url": "https://unsplash.com/@eroneko11?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/dell-laptop-on-white-surface-i5UV2HpITYA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Dell Compellent building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dell_Compellent_building.jpg/1920px-Dell_Compellent_building.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Dell_Compellent_building.jpg/500px-Dell_Compellent_building.jpg",
+   "size": [
+    1920,
+    1148
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Grika, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dell_Compellent_building.jpg"
   },
   {
    "shows": "Dell HQ RR1, Round Rock, Texas",
@@ -114,6 +131,62 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:RR1-_Dell_Campus.jpg",
+   "plain": true
+  },
+  {
+   "shows": "(PHOTO2) USO Services on Facebook Live",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%28PHOTO2%29_USO_Services_on_Facebook_Live_%286175618%29.jpg/1920px-%28PHOTO2%29_USO_Services_on_Facebook_Live_%286175618%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%28PHOTO2%29_USO_Services_on_Facebook_Live_%286175618%29.jpg/500px-%28PHOTO2%29_USO_Services_on_Facebook_Live_%286175618%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pfc. Robert Wormley, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:(PHOTO2)_USO_Services_on_Facebook_Live_(6175618).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dell offices - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dell_offices_-_panoramio.jpg/1920px-Dell_offices_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dell_offices_-_panoramio.jpg/500px-Dell_offices_-_panoramio.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alexey Komarov, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dell_offices_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dell laptop keyboard · closeup, computer, dell, inspiron, keyboard",
+   "url": "https://live.staticflickr.com/2457/3860586024_3d3b1942c5_b.jpg",
+   "preview": "https://live.staticflickr.com/2457/3860586024_3d3b1942c5_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by bigpresh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/62806367@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/62806367@N00/3860586024",
    "plain": true
   }
  ]

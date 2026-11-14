@@ -3,24 +3,42 @@
  "kind": "sector",
  "name": "Real estate sector",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
-   "shows": "A black and white photo of two tall buildings",
-   "url": "https://images.unsplash.com/photo-1694538398758-b4ae17cf125d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1694538398758-b4ae17cf125d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "View of modern glass skyscrapers with the Hudson River in the background. Tall office towers line a busy avenue, while the river and distant cityscape stretch a",
+   "url": "https://pd.w.org/2026/08/1866a70aebb0ad685.87876694.jpg",
+   "preview": "https://pd.w.org/2026/08/1866a70aebb0ad685.87876694-768x511.jpg",
    "size": [
-    2250,
-    1500
+    6016,
+    4000
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Bagus Alif Widhiwipati on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@bagusawe?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-black-and-white-photo-of-two-tall-buildings-6S9VlOSonpg?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "Photo by Joel Peralta on WordPress.org Photos, CC0",
+   "licence": "CC0 1.0",
+   "author_url": "https://wordpress.org/photos/author/jjperalta/",
+   "provider": "wordpress",
+   "source": "https://wordpress.org/photos/photo/1866a70aeb/"
+  },
+  {
+   "shows": "Defans apartment complex 05",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Defans_apartment_complex_05.jpg/1920px-Defans_apartment_complex_05.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Defans_apartment_complex_05.jpg/500px-Defans_apartment_complex_05.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MBH, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Defans_apartment_complex_05.jpg"
   },
   {
    "shows": "Person sitting on chair beside escalator",
@@ -39,6 +57,23 @@
    "author_url": "https://unsplash.com/@weidemann?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/person-sitting-on-chair-beside-escalator-oGhTfu1UrOY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Bedford Link Logistics Park (5 of 13)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bedford_Link_Logistics_Park_%285_of_13%29.jpg/1920px-Bedford_Link_Logistics_Park_%285_of_13%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bedford_Link_Logistics_Park_%285_of_13%29.jpg/500px-Bedford_Link_Logistics_Park_%285_of_13%29.jpg",
+   "size": [
+    1920,
+    1076
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "GJG00, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bedford_Link_Logistics_Park_(5_of_13).jpg"
   },
   {
    "shows": "Canopy bed of Amantaka Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos",
@@ -92,6 +127,629 @@
    "author_url": "https://unsplash.com/@shatskiy?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/black-and-white-electric-post-under-blue-sky-during-daytime-31JqyCVndUM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Low angle photo of city high rise buildings during daytime",
+   "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnVpbGRpbmdzfGVufDF8fHx8MTc5NDYxMjA1OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnVpbGRpbmdzfGVufDF8fHx8MTc5NDYxMjA1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sean Pollock on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@seanpollock?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/low-angle-photo-of-city-high-rise-buildings-during-daytime-PhYq704ffdA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two teal-and-white skyscrapers",
+   "url": "https://images.unsplash.com/photo-1534237710431-e2fc698436d0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2t5c2NyYXBlcnxlbnwxfHx8fDE3OTQ2MTIwNzJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1534237710431-e2fc698436d0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2t5c2NyYXBlcnxlbnwxfHx8fDE3OTQ2MTIwNzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Simone Hutsch on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@heysupersimi?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/two-teal-and-white-skyscrapers-_wpce-AsLxk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White modern cement building under blue sky",
+   "url": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YXBhcnRtZW50JTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0NjE0Nzg1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YXBhcnRtZW50JTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0NjE0Nzg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1699
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Joel Filipe on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@joelfilip?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-modern-cement-building-under-blue-sky-RFDP7_80v5A?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Modern glass building at dusk with light trails",
+   "url": "https://images.unsplash.com/photo-1470075801209-17f9ec0cada6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8b2ZmaWNlJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0NjE0ODAxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1470075801209-17f9ec0cada6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8b2ZmaWNlJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0NjE0ODAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tiomothy Swope on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@timothy_swope?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/modern-glass-building-at-dusk-with-light-trails-zwe--GYIZtc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "High rise buildings city scape photography",
+   "url": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y2l0eXxlbnwxfHx8fDE3OTQ2MTQ4MTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y2l0eXxlbnwxfHx8fDE3OTQ2MTQ4MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ben o'bro on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@benobro?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/high-rise-buildings-city-scape-photography-wpU4veNGnHg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Properties in Quarry Bay viewed from Mount Parker Road",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Properties_in_Quarry_Bay_viewed_from_Mount_Parker_Road.jpg/1920px-Properties_in_Quarry_Bay_viewed_from_Mount_Parker_Road.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Properties_in_Quarry_Bay_viewed_from_Mount_Parker_Road.jpg/500px-Properties_in_Quarry_Bay_viewed_from_Mount_Parker_Road.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "KennethFKL1994, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Properties_in_Quarry_Bay_viewed_from_Mount_Parker_Road.jpg"
+  },
+  {
+   "shows": "A large warehouse filled with lots of boxes",
+   "url": "https://images.unsplash.com/photo-1684695749267-233af13276d0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2FyZWhvdXNlfGVufDF8fHx8MTc5NDYxNDg2M3ww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1684695749267-233af13276d0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2FyZWhvdXNlfGVufDF8fHx8MTc5NDYxNDg2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alberto Rodríguez on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@albertorodriguez?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-warehouse-filled-with-lots-of-boxes--aCrA9FmT8Y?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A black and white photo of two tall buildings",
+   "url": "https://images.unsplash.com/photo-1694538398758-b4ae17cf125d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1694538398758-b4ae17cf125d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2ZmaWNlJTIwdG93ZXJzfGVufDF8fHx8MTc5Mzg4OTM5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bagus Alif Widhiwipati on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bagusawe?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-black-and-white-photo-of-two-tall-buildings-6S9VlOSonpg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "One World Trade Center, Financial District, Manhattan, New York",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/One_World_Trade_Center%2C_Financial_District%2C_Manhattan%2C_New_York.jpg/1280px-One_World_Trade_Center%2C_Financial_District%2C_Manhattan%2C_New_York.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/One_World_Trade_Center%2C_Financial_District%2C_Manhattan%2C_New_York.jpg/500px-One_World_Trade_Center%2C_Financial_District%2C_Manhattan%2C_New_York.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Christian David, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:One_World_Trade_Center,_Financial_District,_Manhattan,_New_York.jpg"
+  },
+  {
+   "shows": "Low-angle photo of high-rise building",
+   "url": "https://images.unsplash.com/photo-1518873247959-ccfbaecd34d9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGhvdGVsJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1518873247959-ccfbaecd34d9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGhvdGVsJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dmitry Chernyshov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@oneor0?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/low-angle-photo-of-high-rise-building-TUUpl08uSMM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Long Island City New York May 2015 panorama 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Long_Island_City_New_York_May_2015_panorama_3.jpg/1920px-Long_Island_City_New_York_May_2015_panorama_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Long_Island_City_New_York_May_2015_panorama_3.jpg/500px-Long_Island_City_New_York_May_2015_panorama_3.jpg",
+   "size": [
+    1920,
+    960
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "King of Hearts, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg"
+  },
+  {
+   "shows": "Low angle photography of high-rise building",
+   "url": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YnVpbGRpbmdzfGVufDF8fHx8MTc5NDYxMjA1OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1554469384-e58fac16e23a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YnVpbGRpbmdzfGVufDF8fHx8MTc5NDYxMjA1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Harry Shelton on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@itsharryshelton?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/low-angle-photography-of-high-rise-building-pPxhM0CRzl4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The Empire State Building in New York City under a pale crescent moon",
+   "url": "https://images.unsplash.com/photo-1428366890462-dd4baecf492b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2t5c2NyYXBlcnxlbnwxfHx8fDE3OTQ2MTIwNzJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1428366890462-dd4baecf492b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2t5c2NyYXBlcnxlbnwxfHx8fDE3OTQ2MTIwNzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ben Dumond on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bendumond?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/empire-state-building-in-new-york-VedK8_UlmkY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A modern office building with blue and silver panels under a warm sky",
+   "url": "https://images.unsplash.com/photo-1574958269340-fa927503f3dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8b2ZmaWNlJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0NjE0ODAxfDA&ixlib=rb-4.1.0&w=1933&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1574958269340-fa927503f3dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8b2ZmaWNlJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0NjE0ODAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1933,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kaleb tapp on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kalebtapp?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/modern-office-building-with-blue-panels-1deQbU6DhBg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two men in hard hats pointing at a construction site with scaffolding",
+   "url": "https://images.unsplash.com/photo-1591588582259-e675bd2e6088?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNvbnN0cnVjdGlvbnxlbnwxfHx8fDE3OTQ2MDc2Mjh8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1591588582259-e675bd2e6088?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNvbnN0cnVjdGlvbnxlbnwxfHx8fDE3OTQ2MDc2Mjh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mark Potterton on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@markpot123?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/men-pointing-at-construction-site-sNVkn3507Oo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White and brown city buildings during daytime",
+   "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2l0eXxlbnwxfHx8fDE3OTQ2MTQ4MTh8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2l0eXxlbnwxfHx8fDE3OTQ2MTQ4MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1476
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pedro Lastra on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@peterlaster?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-brown-city-buildings-during-daytime-Nyvq2juw4_o?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two women walking through a warehouse aisle with blue shelving units",
+   "url": "https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2FyZWhvdXNlfGVufDF8fHx8MTc5NDYxNDg2M3ww&ixlib=rb-4.1.0&w=2254&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1664382953403-fc1ac77073a0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8d2FyZWhvdXNlfGVufDF8fHx8MTc5NDYxNDg2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2254,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Centre for Ageing Better on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@ageing_better?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/women-walking-through-warehouse-aisle-ZlOlRnWk8zU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Skyscraper Los Angeles Downtown 2013",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Skyscraper_Los_Angeles_Downtown_2013.jpg/1920px-Skyscraper_Los_Angeles_Downtown_2013.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Skyscraper_Los_Angeles_Downtown_2013.jpg/500px-Skyscraper_Los_Angeles_Downtown_2013.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tuxyso, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Skyscraper_Los_Angeles_Downtown_2013.jpg"
+  },
+  {
+   "shows": "A hotel sign on top of a building",
+   "url": "https://images.unsplash.com/photo-1671683886944-6478e6c84cbc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhvdGVsJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1671683886944-6478e6c84cbc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhvdGVsJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ana Lanza on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@anitalanza?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-hotel-sign-on-top-of-a-building-aroQQ_iz0Jg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Skyline of the Central Business District of Singapore with Esplanade Bridge",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg/1920px-Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg/500px-Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg",
+   "size": [
+    1920,
+    1303
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge.jpg"
+  },
+  {
+   "shows": "High building",
+   "url": "https://images.unsplash.com/photo-1542361345-89e58247f2d5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YnVpbGRpbmdzfGVufDF8fHx8MTc5NDYxMjA1OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1542361345-89e58247f2d5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8YnVpbGRpbmdzfGVufDF8fHx8MTc5NDYxMjA1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Grant Ritchie on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@grantritchie?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/high-building-FBkrQhnLQoY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Modern skyscrapers including a copper-toned tower under a cloudy sky in Moscow",
+   "url": "https://images.unsplash.com/photo-1541447271487-09612b3f49f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNreXNjcmFwZXJ8ZW58MXx8fHwxNzk0NjEyMDcyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1541447271487-09612b3f49f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNreXNjcmFwZXJ8ZW58MXx8fHwxNzk0NjEyMDcyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alexandr Bormotin on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bormot?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/skyscrapers-in-moscow-city-center-jj3PpeBIlLA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A modern glass office building corner against a clear deep blue sky",
+   "url": "https://images.unsplash.com/photo-1576731753569-3e93a228048c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG9mZmljZSUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5NDYxNDgwMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1576731753569-3e93a228048c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG9mZmljZSUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5NDYxNDgwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sasha Pleshco on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@thecyclichedgehog?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/modern-glass-office-building-corner-nBRHY7YZ3M0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Super moon over City of London from Tate Modern 4",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg/1920px-Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg/500px-Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Colin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Super_moon_over_City_of_London_from_Tate_Modern_2018-01-31_4.jpg"
+  },
+  {
+   "shows": "A warehouse filled with lots of boxes and pallets",
+   "url": "https://images.unsplash.com/photo-1672552226380-486fe900b322?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2FyZWhvdXNlfGVufDF8fHx8MTc5NDYxNDg2M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1672552226380-486fe900b322?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8d2FyZWhvdXNlfGVufDF8fHx8MTc5NDYxNDg2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Arum Visuals on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@arumvisuals?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-warehouse-filled-with-lots-of-boxes-and-pallets-VnMbc9Szs-E?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large white building with lots of windows",
+   "url": "https://images.unsplash.com/photo-1725345653429-8b3926cc229c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGhvdGVsJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1725345653429-8b3926cc229c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGhvdGVsJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ben Grayland on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bengrayland?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-white-building-with-lots-of-windows-zWnPoFMTXCs?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "City skyline across body of water during daytime",
+   "url": "https://images.unsplash.com/photo-1613968317130-e6565f71b9d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNpdHklMjBza3lsaW5lfGVufDF8fHx8MTc5Mzg4OTQwMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1613968317130-e6565f71b9d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNpdHklMjBza3lsaW5lfGVufDF8fHx8MTc5Mzg4OTQwMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Julien Maculan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@maculan?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/city-skyline-across-body-of-water-during-daytime-YcqXpi4yVcw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Bottom view shot of airplane flying above high rise building",
+   "url": "https://images.unsplash.com/photo-1494145904049-0dca59b4bbad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YnVpbGRpbmdzfGVufDF8fHx8MTc5NDYxMjA1OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1494145904049-0dca59b4bbad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YnVpbGRpbmdzfGVufDF8fHx8MTc5NDYxMjA1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1798
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sorasak on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@boontohhgraphy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/bottom-view-shot-of-airplane-flying-above-high-rise-building-KxCJXXGsv9I?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Modern skyscrapers and historic brick buildings in the Boston skyline under a grey sky",
+   "url": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNreXNjcmFwZXJ8ZW58MXx8fHwxNzk0NjEyMDcyfDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1460472178825-e5240623afd5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNreXNjcmFwZXJ8ZW58MXx8fHwxNzk0NjEyMDcyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alice Donovan Rouse on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alicekat?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/boston-skyline-with-modern-and-historic-buildings-tMHAmxLyzvA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Low angle photography curtain wall buildings",
+   "url": "https://images.unsplash.com/photo-1462396240927-52058a6a84ec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG9mZmljZSUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5NDYxNDgwMXww&ixlib=rb-4.1.0&w=1998&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1462396240927-52058a6a84ec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fG9mZmljZSUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5NDYxNDgwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1998,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Patrick Tomasso on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@impatrickt?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/low-angle-photography-curtain-wall-buildings-gMes5dNykus?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Lower Manhattan from Jersey City July 2014 002",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lower_Manhattan_from_Jersey_City_July_2014_002.jpg/1920px-Lower_Manhattan_from_Jersey_City_July_2014_002.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lower_Manhattan_from_Jersey_City_July_2014_002.jpg/500px-Lower_Manhattan_from_Jersey_City_July_2014_002.jpg",
+   "size": [
+    1920,
+    1152
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "King of Hearts, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_July_2014_002.jpg"
+  },
+  {
+   "shows": "A large warehouse filled with lots of shelves",
+   "url": "https://images.unsplash.com/photo-1644079446600-219068676743?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHdhcmVob3VzZXxlbnwxfHx8fDE3OTQ2MTQ4NjN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1644079446600-219068676743?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHdhcmVob3VzZXxlbnwxfHx8fDE3OTQ2MTQ4NjN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lance Chang on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@carmendis?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-warehouse-filled-with-lots-of-shelves-h3pVxOIpnzk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Modern office buildings with glass facade at sunset",
+   "url": "https://images.unsplash.com/photo-1758022959319-5089f72d66cd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fG9mZmljZSUyMHRvd2Vyc3xlbnwxfHx8fDE3OTM4ODkzOTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1758022959319-5089f72d66cd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fG9mZmljZSUyMHRvd2Vyc3xlbnwxfHx8fDE3OTM4ODkzOTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dima on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dsk1306?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/modern-office-buildings-with-glass-facade-at-sunset-Kut10CROvqk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A hotel sign on the side of a building",
+   "url": "https://images.unsplash.com/photo-1723672833895-e82664c37af2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGhvdGVsJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=2205&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1723672833895-e82664c37af2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGhvdGVsJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2205,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jon Tyson on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jontyson?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-hotel-sign-on-the-side-of-a-building-HaGzg4HZkQY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "New york city skyline at sunset with empire state building",
+   "url": "https://images.unsplash.com/photo-1758967905380-f62a8c8fd373?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNpdHklMjBza3lsaW5lfGVufDF8fHx8MTc5Mzg4OTQwMnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1758967905380-f62a8c8fd373?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNpdHklMjBza3lsaW5lfGVufDF8fHx8MTc5Mzg4OTQwMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1351
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by NIR HIMI on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nirhimi?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/new-york-city-skyline-at-sunset-with-empire-state-building-9Av9ibY_naM?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

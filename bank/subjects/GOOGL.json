@@ -7,6 +7,8 @@
   "GOOG"
  ],
  "sector": "sector-communication",
+ "target": 30,
+ "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Waymo Jaguar I-Pace in San Francisco 2023 dllu",
@@ -98,6 +100,42 @@
    "source": "https://unsplash.com/photos/a-waymo-self-driving-car-is-seen-in-the-city-KDOigAcQ8PE?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Google Headquarters, Mountain View, California",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/1200,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/500,/0/default.jpg",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2013630580/"
+  },
+  {
+   "shows": "Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/2250,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/500,/0/default.jpg",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2013630577/"
+  },
+  {
    "shows": "Mountain View (CA, USA), Charleston Road, Google-Schild -- 2022 -- 2896",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Google-Schild_--_2022_--_2896.jpg/1920px-Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Google-Schild_--_2022_--_2896.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Google-Schild_--_2022_--_2896.jpg/500px-Mountain_View_%28CA%2C_USA%29%2C_Charleston_Road%2C_Google-Schild_--_2022_--_2896.jpg",
@@ -185,6 +223,344 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Sede_de_Alphabet_Inc._-_Berl%C3%ADn_-_20240101_001.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Mitte Tucholskystraße Alphabet",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg/1280px-Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg/500px-Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fridolin freudenfett, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mitte_Tucholskystra%C3%9Fe_Alphabet.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Google bike · bike, google",
+   "url": "https://live.staticflickr.com/4111/4968669528_cf0c9a8850_b.jpg",
+   "preview": "https://live.staticflickr.com/4111/4968669528_cf0c9a8850_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Daniel Dionne on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/30352243@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30352243@N00/4968669528",
+   "plain": true
+  },
+  {
+   "shows": "google-glass-12 · glass, google, design, illustration",
+   "url": "https://live.staticflickr.com/3808/8813585832_241a9b5449_b.jpg",
+   "preview": "https://live.staticflickr.com/3808/8813585832_241a9b5449_z.jpg",
+   "size": [
+    1024,
+    665
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by giuseppe.costantino on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/69730904@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/69730904@N03/8813585832",
+   "plain": true
+  },
+  {
+   "shows": "Waymo Jaguar I-Pace",
+   "url": "https://live.staticflickr.com/902/26266044147_706a020615_b.jpg",
+   "preview": "https://live.staticflickr.com/902/26266044147_706a020615_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by elisfkc on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/127662106@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/127662106@N04/26266044147",
+   "plain": true
+  },
+  {
+   "shows": "Waymo Jaguar I-Pace",
+   "url": "https://live.staticflickr.com/867/40242611745_f433b68f54_b.jpg",
+   "preview": "https://live.staticflickr.com/867/40242611745_f433b68f54_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by elisfkc on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/127662106@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/127662106@N04/40242611745",
+   "plain": true
+  },
+  {
+   "shows": "Waymo Jaguar I-Pace",
+   "url": "https://live.staticflickr.com/887/27264541428_5162ae729f_b.jpg",
+   "preview": "https://live.staticflickr.com/887/27264541428_5162ae729f_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by elisfkc on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/127662106@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/127662106@N04/27264541428",
+   "plain": true
+  },
+  {
+   "shows": "Waymo Self Driving Vehicles Brickell",
+   "url": "https://live.staticflickr.com/65535/54503531839_d0d653d5fc_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54503531839_d0d653d5fc_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Phillip Pessar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/25955895@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/25955895@N03/54503531839",
+   "plain": true
+  },
+  {
+   "shows": "Waymo Car in my Neighborhood",
+   "url": "https://live.staticflickr.com/65535/54457417422_51b6f7dbed_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54457417422_51b6f7dbed_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Phillip Pessar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/25955895@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/25955895@N03/54457417422",
+   "plain": true
+  },
+  {
+   "shows": "Waymo self-driving car. · california, sanfrancisco, selfdrivingcar, unitedstates, waymo",
+   "url": "https://live.staticflickr.com/65535/52194843144_120e29533b_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52194843144_120e29533b_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jdnx on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/21442511@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/21442511@N08/52194843144",
+   "plain": true
+  },
+  {
+   "shows": "Waymo Car Parked at Wendy's",
+   "url": "https://live.staticflickr.com/65535/54504233900_3e371031e7_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54504233900_3e371031e7_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Phillip Pessar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/25955895@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/25955895@N03/54504233900",
+   "plain": true
+  },
+  {
+   "shows": "Waymo at rest · austin, car, factory, future, grafitti",
+   "url": "https://live.staticflickr.com/65535/54031456653_a3b6dbbfa0_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54031456653_a3b6dbbfa0_z.jpg",
+   "size": [
+    1024,
+    704
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lars Plougmann on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75062596@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75062596@N00/54031456653",
+   "plain": true
+  },
+  {
+   "shows": "Waymo self-driving car training on Austin roads",
+   "url": "https://live.staticflickr.com/65535/53146450909_5f00fa5bec_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/53146450909_5f00fa5bec_z.jpg",
+   "size": [
+    1024,
+    771
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lars Plougmann on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75062596@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75062596@N00/53146450909",
+   "plain": true
+  },
+  {
+   "shows": "Waymo Autonomous Vehicle, 7th Street, Garfield, Phoenix, AZ",
+   "url": "https://live.staticflickr.com/65535/54438142845_961908f1ff_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54438142845_961908f1ff_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/59081381@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/59081381@N03/54438142845",
+   "plain": true
+  },
+  {
+   "shows": "Android Assistant on the Google Pixel XL smartphone",
+   "url": "https://live.staticflickr.com/5491/29526761674_42924b1f20_b.jpg",
+   "preview": "https://live.staticflickr.com/5491/29526761674_42924b1f20_z.jpg",
+   "size": [
+    1024,
+    575
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pestoverde on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/30364433@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30364433@N05/29526761674",
+   "plain": true
+  },
+  {
+   "shows": "Google Pixel and Pixel XL smartphones",
+   "url": "https://live.staticflickr.com/5617/30120254046_2fa846e859_b.jpg",
+   "preview": "https://live.staticflickr.com/5617/30120254046_2fa846e859_z.jpg",
+   "size": [
+    1024,
+    575
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pestoverde on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/30364433@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30364433@N05/30120254046",
+   "plain": true
+  },
+  {
+   "shows": "Google Pixel 2 XL 64 GB, White (Refurbished)",
+   "url": "https://live.staticflickr.com/4834/46123346772_a81dbca015_b.jpg",
+   "preview": "https://live.staticflickr.com/4834/46123346772_a81dbca015_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ekosunaryo on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/149902810@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/149902810@N07/46123346772",
+   "plain": true
+  },
+  {
+   "shows": "The Android attack ! · 3gs, android, google, iphone, smartphone",
+   "url": "https://live.staticflickr.com/5012/5480146781_2337edceb3_b.jpg",
+   "preview": "https://live.staticflickr.com/5012/5480146781_2337edceb3_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by MIKI Yoshihito. (#mikiyoshihito) on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/7940758@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/7940758@N07/5480146781",
    "plain": true
   }
  ]

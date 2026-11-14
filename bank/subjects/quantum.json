@@ -3,6 +3,7 @@
  "kind": "topic",
  "name": "Quantum computing",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
    "shows": "A quantum computer with gold plates and intricate silver wiring against a black background",
@@ -72,6 +73,74 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.jpg"
+  },
+  {
+   "shows": "Wire Bonded Superconducting Quantum Chip with 6 Transmons 002",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wire_Bonded_Superconducting_Quantum_Chip_with_6_Transmons_002.png/1920px-Wire_Bonded_Superconducting_Quantum_Chip_with_6_Transmons_002.png",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Wire_Bonded_Superconducting_Quantum_Chip_with_6_Transmons_002.png/500px-Wire_Bonded_Superconducting_Quantum_Chip_with_6_Transmons_002.png",
+   "size": [
+    1920,
+    1661
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "OJB Quantum, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wire_Bonded_Superconducting_Quantum_Chip_with_6_Transmons_002.png"
+  },
+  {
+   "shows": "Original description from the American Air Force Research Laboratory : \"An optical engineer evaluates the interaction of multiple lasers that will be used aboar",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lasertests.jpg/1280px-Lasertests.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lasertests.jpg/500px-Lasertests.jpg",
+   "size": [
+    1280,
+    1579
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Air Force Research Laboratory’s Directed Energy Directorate, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lasertests.jpg"
+  },
+  {
+   "shows": "FMN Lab team",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FMN_Lab_team_%282%29.jpg/1920px-FMN_Lab_team_%282%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/FMN_Lab_team_%282%29.jpg/500px-FMN_Lab_team_%282%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "FMNLab, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FMN_Lab_team_(2).jpg"
+  },
+  {
+   "shows": "Military laser experiment",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Military_laser_experiment.jpg/1920px-Military_laser_experiment.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Military_laser_experiment.jpg/500px-Military_laser_experiment.jpg",
+   "size": [
+    1920,
+    1251
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "US Air Force, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Military_laser_experiment.jpg"
   }
  ]
 }

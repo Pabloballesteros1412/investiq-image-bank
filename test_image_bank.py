@@ -1,5 +1,5 @@
 """Offline tests of the image bank (no network): python -m unittest discover -p "test_*.py" """
-import json, tempfile, unittest
+import json, re, tempfile, unittest
 from pathlib import Path
 
 import image_bank as B
@@ -99,8 +99,8 @@ class Fake:
 
 MINI = {"style": "Photo.", "negative": "text", "subjects": [
     {"id": "MMM", "kind": "company", "name": "3M", "tickers": ["MMM"], "shots": [{"id": "hq", "q": "3M Center", "scene": "3M Center campus"}]},
-    {"id": "gold", "kind": "topic", "name": "Gold", "aliases": ["bullion"], "shots": ["gold bars", "gold coins"] + [f"gold thing {i}" for i in range(8)]},
-] + [{"id": sid, "kind": "sector", "name": g, "gics": g, "shots": [f"{g} view {i}" for i in range(10)]} for g, sid in B.SECTORS.items()]}
+    {"id": "gold", "kind": "topic", "name": "Gold", "aliases": ["bullion"], "shots": ["gold bars", "gold coins"] + [f"gold thing {c}" for c in "abcdefgh"]},
+] + [{"id": sid, "kind": "sector", "name": g, "gics": g, "shots": [f"{g} view {c}" for c in "abcdefghij"]} for g, sid in B.SECTORS.items()]}
 B.norm_catalog(MINI)
 
 
@@ -231,13 +231,14 @@ class Build(unittest.TestCase):
     def test_company_photos(self):
         m = self.run_build(only="MMM")
         ph = m["MMM"]["photos"]
-        self.assertEqual(len(ph), B.TARGET)
+        self.assertEqual(m["MMM"]["target"], B.FAMOUS_TARGET)                          # a hand-written catalog entry
+        self.assertGreater(len(ph), B.TARGET)                                           # as many as the fake has
         self.assertEqual([p["how"] for p in ph[:3]], ["catalog", "Wikidata main image", "Wikidata CEO"])
         self.assertEqual((ph[2]["shows"], ph[2]["person"], ph[2]["focus"]), ("William Brown, 3M CEO (per Wikidata)", True, [0.5, 0.33]))
         self.assertIn("restrictions: personality", ph[2]["flags"])
         files = [p["file"] for p in ph]
         self.assertEqual(len(files), len(set(files)))
-        self.assertEqual(sum("3M building" in f for f in files), 1)                     # near-duplicates
+        self.assertEqual(sum(bool(re.match(r"File:3M building \d\.jpg", f)) for f in files), 1)  # near-duplicates
         self.assertLessEqual(sum(p.get("category") == "3M factories" for p in ph), 2)   # two per subcategory
         self.assertNotIn("File:3M logo.png", files)
         self.assertNotIn("File:Unrelated tower.jpg", files)                             # searches must name the company
@@ -293,14 +294,15 @@ class Build(unittest.TestCase):
         ix = json.loads((self.bank / "index.json").read_text())
         rec = {s["id"]: s for s in ix["subjects"]}
         self.assertEqual(rec["MMM"]["file"], "https://example.org/bank/subjects/MMM.json")
-        self.assertNotIn("fill_from", rec["MMM"])                                       # 10 photos of its own
+        self.assertEqual((rec["MMM"]["target"], rec["ZZZ"]["target"], rec["gold"]["target"]), (30, 10, 50))
+        self.assertEqual(rec["MMM"]["fill_from"], "sector-industrials")                # 13 of 30: its sector fills in
         self.assertEqual(rec["ZZZ"]["fill_from"], "sector-utilities")                  # fewer than 10: its sector fills in
         self.assertEqual(B.lookup("bullion", self.bank)[0]["credit"], "Jane Doe, CC BY-SA 4.0, via Wikimedia Commons")
         mmm = json.loads((self.bank / "subjects" / "MMM.json").read_text())
         p = mmm["photos"][0]
         self.assertEqual(set(p) >= {"shows", "url", "preview", "size", "focus", "credit", "licence", "source"}, True)
         self.assertTrue(any("fill_from" in r for r in ix["rules"]))
-        self.assertEqual(B.credits(self.bank), 25)                          # MMM 10, ZZZ 5 (one per search naming a place: same name stem), gold 10
+        self.assertEqual(B.credits(self.bank), 28)                          # MMM 13 (target 30), ZZZ 5 (one per search naming a place: same name stem), gold 10
         self.assertIn("Jane Doe", (self.bank / "CREDITS.md").read_text())
 
     def test_topics_sectors_and_prompts(self):
@@ -566,6 +568,44 @@ class Brands(unittest.TestCase):
             self.assertNotIn(bad, [p["file"] for p in B.published_photos(m["AAPL"], rv)])
 
 
+class Targets(unittest.TestCase):
+    def test_a_topic_shares_its_target_over_its_shots_best_first(self):
+        src = Fake()
+        src.search = lambda q: [cand(f"File:{q} {w}.jpg", cats=["Quality images"]) for w in ("dawn", "noon", "dusk", "night", "rain")]
+        s = {"id": "t", "kind": "topic", "shots": [B.norm_shot("gold bars"), B.norm_shot("gold coins")]}
+        ph, missing = B.shot_photos(s, src, set(), target=6)
+        self.assertEqual([p["shot"] for p in ph], ["gold-bars", "gold-coins"] * 3)      # round robin
+        self.assertEqual(missing, [])
+        self.assertEqual(len({p["file"] for p in ph}), 6)
+        self.assertEqual(B.target_of({"kind": "topic"}), B.TOPIC_TARGET)
+        self.assertEqual(B.target_of({"kind": "company"}), B.TARGET)
+        self.assertEqual(B.target_of({"kind": "company", "target": 30}), 30)
+
+    def test_after_the_first_round_commons_photos_need_a_quality_mark(self):
+        src = Fake()
+        src.search = lambda q: [cand(f"File:{q} dawn.jpg"), cand(f"File:{q} noon.jpg"),
+                                cand(f"File:{q} dusk.jpg", cats=["Quality images of gold"])]
+        s = {"id": "t", "kind": "topic", "shots": [B.norm_shot("gold bars")]}
+        ph, _ = B.shot_photos(s, src, set(), target=3)
+        self.assertEqual([p["file"] for p in ph], ["File:gold bars dusk.jpg"])         # the unmarked two stay out
+        src.search = lambda q: [cand(f"File:{q} dawn.jpg"), cand(f"File:{q} dusk.jpg", cats=["Quality images of gold"])]
+        ph, _ = B.shot_photos(s, src, set(), target=1)
+        self.assertEqual(len(ph), 1)                                                    # round one takes any
+
+    def test_three_stock_photos_per_photographer_at_most(self):
+        st = FakeStock()
+        row = lambda q, i: {"id": f"{q[-4:]}{'abcde'[i]}", "width": 6000, "height": 4000, "alt_description": f"{q} on a table",
+                            "urls": {"raw": f"https://images.unsplash.com/photo-{q[-4:]}{i}"},
+                            "links": {"html": f"https://unsplash.com/photos/{i}"}, "user": {"name": "Ann Lee"}}
+        st.search = lambda q: [stock.Unsplash.candidate(row(q, i)) for i in range(5)]
+        src = Fake()
+        src.search = lambda q: []
+        src.stock = [st]
+        s = {"id": "t", "kind": "topic", "shots": [B.norm_shot("gold bars"), B.norm_shot("gold coins")]}
+        ph, _ = B.shot_photos(s, src, set(), target=8)
+        self.assertEqual(len(ph), 3)
+
+
 class PlainReserve(unittest.TestCase):
     def test_plain_photos_fill_a_companys_free_places_and_are_marked(self):
         with tempfile.TemporaryDirectory() as d:
@@ -582,6 +622,29 @@ class PlainReserve(unittest.TestCase):
             self.assertEqual([(p["shows"] and p.get("plain", False)) for p in a["photos"]], [False, True])  # better first
             self.assertEqual(a["fill_from"], "sector-tech")
             self.assertEqual(json.loads((bank / "subjects" / "gold.json").read_text())["photos"], [])  # topics: no reserve
+
+    def test_openverse_photos_are_low_res_and_always_plain(self):
+        r = {"license": "by-sa", "license_version": "2.0", "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+             "foreign_landing_url": "https://www.flickr.com/photos/jo/123", "url": "https://live.staticflickr.com/1/123_ab_b.jpg",
+             "width": 1024, "height": 768, "title": "Walmart store exterior", "creator": "Jo", "tags": [{"name": "walmart"}]}
+        c = stock.Openverse.candidate(r)
+        self.assertEqual((c["file"], c["licence"], c["licence_code"], c["small"], c["low_res"]),
+                         ("flickr:123", "CC BY-SA 2.0", "cc-by-sa-2.0", "https://live.staticflickr.com/1/123_ab_z.jpg", True))
+        self.assertIsNone(stock.Openverse.candidate({**r, "license": "by-nc"}))                    # NC
+        self.assertIsNone(stock.Openverse.candidate({**r, "width": 500, "height": 375}))           # Flickr's 500 px size
+        self.assertIsNone(stock.Openverse.candidate({**r, "foreign_landing_url": "https://example.org/x"}))
+        with tempfile.TemporaryDirectory() as d:
+            bank = Path(d)
+            mk = lambda x: B.photo(x, "hand", "x", B.HAND, (0.5, 0.5))
+            best, ok, bad = c, {**c, "file": "flickr:124"}, {**c, "file": "flickr:125"}
+            m = {"WMT": {"name": "Walmart", "kind": "company", "tickers": ["WMT"], "photos": [mk(best), mk(ok), mk(bad)]}}
+            self.assertEqual(m["WMT"]["photos"][0]["credit"], "Photo by Jo on Flickr, CC BY-SA 2.0")
+            B.save_manifest(m, ["WMT"], bank)
+            B.save_review({"min_grade": 3, "grades": {"flickr:123": 3, "flickr:124": 2, "flickr:125": 1}}, bank)
+            B.index(bank, "https://example.org/")
+            ps = json.loads((bank / "subjects" / "WMT.json").read_text())["photos"]
+            self.assertEqual([(p["url"][-12:], p.get("plain"), p.get("low_res")) for p in ps],
+                             [("123_ab_b.jpg", True, True), ("123_ab_b.jpg", True, True)])  # grade 3 and 2; 1 hidden
 
 
 class HandPicked(unittest.TestCase):
@@ -601,11 +664,77 @@ class HandPicked(unittest.TestCase):
 
 class StockKeys(unittest.TestCase):
     def test_key_from_environment_or_from_the_proxy(self):
-        s = stock.sources(env={"UNSPLASH_ACCESS_KEY": "k1"}, probe=lambda url: False)
+        s = stock.sources(env={"UNSPLASH_ACCESS_KEY": "k1", "NO_NASA": "1"}, probe=lambda url: False)
         self.assertEqual([(x.name, x.headers.get("Authorization")) for x in s], [("unsplash", "Client-ID k1")])
-        s = stock.sources(env={}, probe=lambda url: "unsplash" in url)        # a network secret for api.unsplash.com
+        s = stock.sources(env={"NO_NASA": "1"}, probe=lambda url: "unsplash" in url)  # a network secret for api.unsplash.com
         self.assertEqual([(x.name, "Authorization" in x.headers) for x in s], [("unsplash", False)])
-        self.assertEqual(stock.sources(env={}, probe=lambda url: False), [])
+        self.assertEqual(stock.sources(env={"NO_NASA": "1"}, probe=lambda url: False), [])
+        s = stock.sources(env={"FLICKR_API_KEY": "f", "PIXABAY_API_KEY": "p"}, probe=lambda url: False)
+        self.assertEqual([x.name for x in s], ["flickr", "pixabay", "nasa", "loc", "wordpress"])  # keyless last
+
+    def test_flickr_only_free_licences_and_big_enough_photos(self):
+        lic = {"4": ("CC BY 2.0", "cc-by-2.0", "https://creativecommons.org/licenses/by/2.0/")}
+        p = {"id": "9", "owner": "u1", "ownername": "Jo", "license": "4", "title": "Oil rig at dusk",
+             "description": {"_content": "North Sea <b>platform</b>"}, "tags": "oil rig", "datetaken": "2019-05-01 10:00:00",
+             "url_k": "https://live.staticflickr.com/1/9_k.jpg", "width_k": "2048", "height_k": "1365",
+             "url_z": "https://live.staticflickr.com/1/9_z.jpg"}
+        c = stock.Flickr.candidate(p, lic)
+        self.assertEqual((c["file"], c["w"], c["licence_code"], c["year"]), ("flickr:9", 2048, "cc-by-2.0", 2019))
+        self.assertIn("platform", c["description"])
+        self.assertIsNone(stock.Flickr.candidate({**p, "license": "2"}, lic))         # NC: not in the list
+        self.assertIsNone(stock.Flickr.candidate({k: v for k, v in p.items() if not k.endswith("_k")}, lic))  # 1024 px
+        e = B.photo(c, "s", "x", "catalog", (0.5, 0.5))
+        self.assertEqual((e["credit"], e["licence_kind"], e["url"], e["provider"]),
+                         ("Photo by Jo on Flickr, CC BY 2.0", "by", p["url_k"], "flickr"))
+
+    def test_library_of_congress_highsmith_only_and_full_size(self):
+        r = {"contributor": ["highsmith, carol m."], "rights_advisory": "No known restrictions on publication.",
+             "title": "Oil refinery, Philadelphia, Pennsylvania", "date": "1980-01-01", "subject": ["refineries"],
+             "id": "http://www.loc.gov/item/2011630489/",
+             "image_url": ["https://tile.loc.gov/image-services/iiif/service:pnp:highsm:12200:12292/full/pct:50/0/default.jpg#h=1733&w=2195"]}
+        c = stock.LoC.candidate(r)
+        self.assertEqual((c["file"], c["w"], c["h"], c.get("low_res")), ("loc:2011630489", 1900, 1500, None))
+        self.assertTrue(c["big"].endswith("highsm:12200:12292/full/1900,/0/default.jpg"))
+        e = B.photo(c, "s", "x", "catalog", (0.5, 0.5))
+        self.assertEqual((e["credit"], e["licence_kind"], e["page"]),
+                         ("Photo: Carol M. Highsmith, Library of Congress, public domain", "pd", "https://www.loc.gov/item/2011630489/"))
+        self.assertIsNone(stock.LoC.candidate({**r, "contributor": ["someone else"]}))       # only Highsmith's gift
+        self.assertIsNone(stock.LoC.candidate({**r, "rights_advisory": "Rights status not evaluated."}))
+        new = {**r, "image_url": ["https://tile.loc.gov/storage-services/service/pnp/highsm/58500/58574v.jpg#h=712&w=1024"]}
+        self.assertTrue(stock.LoC.candidate(new)["low_res"])                                 # newer scans: 1024 px only
+
+    def test_wordpress_photos_cc0_and_big_enough(self):
+        def rec(w, h, s2=None):
+            sizes = {"full": {"width": w, "height": h, "source_url": "https://pd.w.org/a.jpg"}}
+            if s2:
+                sizes["2048x2048"] = {"width": s2[0], "height": s2[1], "source_url": "https://pd.w.org/a-2048.jpg"}
+            return {"id": 7, "link": "https://wordpress.org/photos/photo/7/", "date": "2026-01-02",
+                    "content": {"rendered": "<p>Container ship at the port&#8217;s dock</p>"},
+                    "_embedded": {"wp:featuredmedia": [{"mime_type": "image/jpeg", "source_url": "https://pd.w.org/a.jpg",
+                                                         "media_details": {"width": w, "height": h, "sizes": sizes}}],
+                                  "author": [{"name": "Ana", "link": "https://wordpress.org/photos/author/ana/"}],
+                                  "wp:term": [[{"name": "port"}, {"name": "shipping"}]]}}
+        c = stock.WordPress.candidate(rec(3000, 4000, (1536, 2048)))
+        self.assertEqual((c["file"], c["big"], c["w"], c["licence_code"]), ("wordpress:7", "https://pd.w.org/a-2048.jpg", 1536, "cc0"))
+        self.assertIn("port’s dock", c["description"])
+        self.assertIn("shipping", c["description"])
+        c = stock.WordPress.candidate(rec(4000, 2400, (2048, 1229)))                  # 2048 px too short for 4:5
+        self.assertEqual((c["big"], c["h"]), ("https://pd.w.org/a.jpg", 2400))
+        self.assertIsNone(stock.WordPress.candidate(rec(1600, 1000)))                 # too small
+        self.assertEqual(B.photo(c, "s", "x", "catalog", (0.5, 0.5))["credit"], "Photo by Ana on WordPress.org Photos, CC0")
+
+    def test_nasa_only_for_space_and_public_domain(self):
+        n = stock.Nasa()
+        self.assertEqual(n.search("supermarket shopping cart"), [])                  # not space: not searched
+        c = stock.Nasa.candidate({"nasa_id": "KSC-1", "title": "Rocket launch", "photographer": "Kim Shiflett",
+                                  "date_created": "2024-05-25T00:00:00Z"}, {"File:ImageWidth": 4000, "File:ImageHeight": 6000})
+        self.assertEqual((c["w"], c["h"]), (1280, 1920))                               # '~large': 1920 px long side
+        e = B.photo(c, "s", "x", "catalog", (0.5, 0.5))
+        self.assertEqual((e["credit"], e["licence_kind"]), ("Photo: NASA/Kim Shiflett, public domain", "pd"))
+        big = {"File:ImageWidth": 4000, "File:ImageHeight": 6000}
+        self.assertIsNone(stock.Nasa.candidate({"nasa_id": "K2", "title": "Launch", "secondary_creator": "Rocket Lab"}, big))
+        self.assertIsNone(stock.Nasa.candidate({"nasa_id": "K3", "title": "Launch", "description": "Photo credit: SpaceX"}, big))
+        self.assertIsNotNone(stock.Nasa.candidate({"nasa_id": "K4", "title": "Launch", "description": "Photo credit: NASA/Joel Kowsky"}, big))
 
     def test_a_source_at_its_hourly_limit_still_counts_as_there(self):
         import email.message, urllib.error
@@ -631,3 +760,23 @@ class StockKeys(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d, mock.patch.object(B.stock, "sources", return_value=[]):
             with self.assertRaises(SystemExit):
                 B.build(MINI, bank=d, kinds=("topic", "sector"), log=lambda *_: None)
+
+
+class FlakySource(unittest.TestCase):
+    def test_a_failing_stock_source_is_skipped_but_a_used_up_limit_still_stops(self):
+        import contextlib, io
+
+        class Broken:
+            name = "loc"
+
+            def __init__(self, err):
+                self.err = err
+
+            def search(self, q):
+                raise self.err
+
+        with contextlib.redirect_stderr(io.StringIO()):
+            self.assertEqual(B.safe_search(Broken(RuntimeError("www.loc.gov: HTTP 525")))("gold"), [])
+            self.assertEqual(B.safe_search(Broken(ConnectionResetError(104, "reset")))("gold"), [])
+        with self.assertRaises(stock.RateLimited):
+            B.safe_search(Broken(stock.RateLimited("limit")))("gold")

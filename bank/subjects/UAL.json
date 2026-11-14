@@ -6,7 +6,7 @@
   "UAL"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "Scott Kirby, United Airlines Holdings CEO (per Wikidata)",
@@ -63,6 +63,23 @@
    "source": "https://unsplash.com/photos/a-bunch-of-airplanes-that-are-on-a-runway-C6vFrs_7CSk?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "N87318 United Express Embraer ERJ-175, Montréal-Pierre Elliott Trudeau International Airport, Canada",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/N87318_United_Express_Embraer_ERJ-175%2C_Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport%2C_Canada.jpg/1920px-N87318_United_Express_Embraer_ERJ-175%2C_Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport%2C_Canada.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/N87318_United_Express_Embraer_ERJ-175%2C_Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport%2C_Canada.jpg/500px-N87318_United_Express_Embraer_ERJ-175%2C_Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport%2C_Canada.jpg",
+   "size": [
+    1920,
+    1204
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wilfredor, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:N87318_United_Express_Embraer_ERJ-175,_Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport,_Canada.jpg"
+  },
+  {
    "shows": "Aircraft at Los Angeles International Airport July 2022",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aircraft_at_Los_Angeles_International_Airport_July_2022_%282%29.jpg/1280px-Aircraft_at_Los_Angeles_International_Airport_July_2022_%282%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Aircraft_at_Los_Angeles_International_Airport_July_2022_%282%29.jpg/500px-Aircraft_at_Los_Angeles_International_Airport_July_2022_%282%29.jpg",
@@ -114,6 +131,64 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:United_Airlines_office@Guam.JPG",
+   "plain": true
+  },
+  {
+   "shows": "JFK terminal United 2000",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/JFK_terminal_United_IMG_2000.JPG/1920px-JFK_terminal_United_IMG_2000.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/JFK_terminal_United_IMG_2000.JPG/500px-JFK_terminal_United_IMG_2000.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bjoertvedt, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:JFK_terminal_United_IMG_2000.JPG",
+   "plain": true
+  },
+  {
+   "shows": "United Airlines - N664UA · 2010, 763, klax, lax, n664ua",
+   "url": "https://live.staticflickr.com/5201/5292207438_26bb6548f4_b.jpg",
+   "preview": "https://live.staticflickr.com/5201/5292207438_26bb6548f4_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by InSapphoWeTrust on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/56619626@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/56619626@N05/5292207438",
+   "plain": true
+  },
+  {
+   "shows": "United Airlines - N120UA · 744, 747, bayarea, boeing747, boeing747400",
+   "url": "https://live.staticflickr.com/2813/9196389211_efd69fd355_b.jpg",
+   "preview": "https://live.staticflickr.com/2813/9196389211_efd69fd355_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by InSapphoWeTrust on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/56619626@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/56619626@N05/9196389211",
    "plain": true
   }
  ]

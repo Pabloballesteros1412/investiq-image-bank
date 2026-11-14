@@ -6,7 +6,7 @@
   "MTB"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
+ "target": 10,
  "photos": [
   {
    "shows": "Exterior of an M&T Bank branch in Shelburne, Vermont",
@@ -96,6 +96,96 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Buffalo_M%26T_Bank_Building_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "M&T Bank Hertel Parkside Branch - fmr Fidelity Trust Company Hertel Branch - Buffalo, New York",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/M%26T_Bank_Hertel_Parkside_Branch_-_fmr_Fidelity_Trust_Company_Hertel_Branch_-_Buffalo%2C_New_York_-_20230104.jpg/1920px-M%26T_Bank_Hertel_Parkside_Branch_-_fmr_Fidelity_Trust_Company_Hertel_Branch_-_Buffalo%2C_New_York_-_20230104.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/M%26T_Bank_Hertel_Parkside_Branch_-_fmr_Fidelity_Trust_Company_Hertel_Branch_-_Buffalo%2C_New_York_-_20230104.jpg/500px-M%26T_Bank_Hertel_Parkside_Branch_-_fmr_Fidelity_Trust_Company_Hertel_Branch_-_Buffalo%2C_New_York_-_20230104.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Andre Carrotflower, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:M%26T_Bank_Hertel_Parkside_Branch_-_fmr_Fidelity_Trust_Company_Hertel_Branch_-_Buffalo,_New_York_-_20230104.jpg",
+   "plain": true
+  },
+  {
+   "shows": "M&T Bank, Tamaqua, Pennsylvania",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/M%26T_Bank%2C_Tamaqua%2C_Pennsylvania.jpg/1920px-M%26T_Bank%2C_Tamaqua%2C_Pennsylvania.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/M%26T_Bank%2C_Tamaqua%2C_Pennsylvania.jpg/500px-M%26T_Bank%2C_Tamaqua%2C_Pennsylvania.jpg",
+   "size": [
+    1920,
+    1265
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJonahJackalope, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:M%26T_Bank,_Tamaqua,_Pennsylvania.jpg",
+   "plain": true
+  },
+  {
+   "shows": "M&T Center main st side",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/M%26T_Center_main_st_side.JPG/1920px-M%26T_Center_main_st_side.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/M%26T_Center_main_st_side.JPG/500px-M%26T_Center_main_st_side.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fortunate4now, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:M%26T_Center_main_st_side.JPG",
+   "plain": true
+  },
+  {
+   "shows": "M&T Center washington st side",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/M%26T_Center_washington_st_side.JPG/1920px-M%26T_Center_washington_st_side.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/M%26T_Center_washington_st_side.JPG/500px-M%26T_Center_washington_st_side.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fortunate4now, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:M%26T_Center_washington_st_side.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Fredonia, New York",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Fredonia%2C_New_York_-_4096807352.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Fredonia%2C_New_York_-_4096807352.jpg/500px-Fredonia%2C_New_York_-_4096807352.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dougtone, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fredonia,_New_York_-_4096807352.jpg",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "CPNG"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 10,
  "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
@@ -42,6 +43,44 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Coupang_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Coupang delivery truck in Seoul.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coupang_2.jpg/1920px-Coupang_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Coupang_2.jpg/500px-Coupang_2.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bonnielou2013, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Coupang_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oh coupang · clarendon, instagramapp, iphoneography, square",
+   "url": "https://live.staticflickr.com/5731/21866018892_a87478d54a_b.jpg",
+   "preview": "https://live.staticflickr.com/5731/21866018892_a87478d54a_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Arnie Kim on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/95919717@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/95919717@N02/21866018892",
    "plain": true
   }
  ]

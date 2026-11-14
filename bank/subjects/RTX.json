@@ -6,6 +6,7 @@
   "RTX"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -42,6 +43,86 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Raytheon_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Raytheon SM-2 Standard Surface-to-Air Missile",
+   "url": "https://live.staticflickr.com/3686/9455279572_2e1a4ec0f4_b.jpg",
+   "preview": "https://live.staticflickr.com/3686/9455279572_2e1a4ec0f4_z.jpg",
+   "size": [
+    1024,
+    410
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mark6mauno on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/98147195@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98147195@N00/9455279572",
+   "plain": true
+  },
+  {
+   "shows": "Raytheon Waterloo · corporation, evil, ontario, philipst, raytheon",
+   "url": "https://live.staticflickr.com/1/2512297_4651ce80d5_b.jpg",
+   "preview": "https://live.staticflickr.com/1/2512297_4651ce80d5_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by gloom on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/48600087005@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/48600087005@N01/2512297",
+   "plain": true
+  },
+  {
+   "shows": "Pratt & Whitney J58 Engine -2",
+   "url": "https://live.staticflickr.com/8110/8653981934_57bf2f0869_b.jpg",
+   "preview": "https://live.staticflickr.com/8110/8653981934_57bf2f0869_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by hj_west on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/13813081@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/13813081@N06/8653981934",
+   "plain": true
+  },
+  {
+   "shows": "Pratt & Whitney R-4360 Engine",
+   "url": "https://live.staticflickr.com/8099/8652881595_ebc8d898c9_b.jpg",
+   "preview": "https://live.staticflickr.com/8099/8652881595_ebc8d898c9_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by hj_west on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/13813081@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/13813081@N06/8652881595",
    "plain": true
   }
  ]

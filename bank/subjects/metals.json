@@ -3,6 +3,7 @@
  "kind": "topic",
  "name": "Industrial metals & mining",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
    "shows": "A group of power lines sitting on top of a lush green hillside",
@@ -21,6 +22,23 @@
    "author_url": "https://unsplash.com/@nhuenerfuerst?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-group-of-power-lines-sitting-on-top-of-a-lush-green-hillside-_5tA5AUpp0Q?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Rolled steel transportation",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rolled_steel_transportation.jpg/1920px-Rolled_steel_transportation.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Rolled_steel_transportation.jpg/500px-Rolled_steel_transportation.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Vasily Astanin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rolled_steel_transportation.jpg"
   },
   {
    "shows": "Aluminium ingots St-Saphorin",
@@ -108,6 +126,273 @@
    "author_url": "https://unsplash.com/@boomandbucket?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-few-yellow-trucks-on-a-road-ed9HcUgZORI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Steel beams forming the roof structure of a building against a bright sky",
+   "url": "https://images.unsplash.com/uploads/14123892966835548e7bd/14369636?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c3RlZWwlMjBiZWFtc3xlbnwxfHx8fDE3OTQ1NjE3Mzh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/uploads/14123892966835548e7bd/14369636?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c3RlZWwlMjBiZWFtc3xlbnwxfHx8fDE3OTQ1NjE3Mzh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by D R on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dkphotos22?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/steel-beams-of-building-roof-structure-dSRhwPe6v9c?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A machine that is cutting a piece of metal",
+   "url": "https://images.unsplash.com/photo-1740209475472-aa7d280f7452?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YWx1bWludW18ZW58MXx8fHwxNzk0NTY0NTMyfDA&ixlib=rb-4.1.0&w=2247&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1740209475472-aa7d280f7452?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YWx1bWludW18ZW58MXx8fHwxNzk0NTY0NTMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2247,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by aluminum Zheng ji on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zhengjialuminum?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-machine-that-is-cutting-a-piece-of-metal-sxtClAGwRck?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Oilshale mine 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oilshale_mine_01.jpg/1920px-Oilshale_mine_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Oilshale_mine_01.jpg/500px-Oilshale_mine_01.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Peeter paaver, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oilshale_mine_01.jpg"
+  },
+  {
+   "shows": "A factory with a lot of steel being made",
+   "url": "https://images.unsplash.com/photo-1697281679290-ad7be1b10682?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c3RlZWwlMjBmYWN0b3J5fGVufDF8fHx8MTc5NDU2NDYwNHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1697281679290-ad7be1b10682?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8c3RlZWwlMjBmYWN0b3J5fGVufDF8fHx8MTc5NDU2NDYwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Morteza Mohammadi on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@morophoto?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-factory-with-a-lot-of-steel-being-made-P8jEvckndSE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Copper pipes forming a cross shape on blue background",
+   "url": "https://images.unsplash.com/photo-1769376695235-d3253548a5d7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y29wcGVyJTIwcGlwZXN8ZW58MXx8fHwxNzk0NTY0NjE4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1769376695235-d3253548a5d7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y29wcGVyJTIwcGlwZXN8ZW58MXx8fHwxNzk0NTY0NjE4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zach M on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zachmmalin?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/copper-pipes-forming-a-cross-shape-on-blue-background-h5If_bg7898?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person grinding pipe steel wool photography",
+   "url": "https://images.unsplash.com/photo-1522322512347-a0e57fd1744c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHN0ZWVsfGVufDF8fHx8MTc5MzkzODQxMHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1522322512347-a0e57fd1744c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHN0ZWVsfGVufDF8fHx8MTc5MzkzODQxMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Karan Bhatia on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@karanbhatia9?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-grinding-pipe-steel-wool-photography-ib7jwp7m0iA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Iron Ore",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Iron_Ore.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Iron_Ore.jpg/500px-Iron_Ore.jpg",
+   "size": [
+    1632,
+    1224
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mervat Salman, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Iron_Ore.jpg"
+  },
+  {
+   "shows": "Mina de Chuquicamata, Calama, Chile, , DD 121",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_121.JPG/1280px-Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_121.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_121.JPG/500px-Mina_de_Chuquicamata%2C_Calama%2C_Chile%2C_2016-02-01%2C_DD_121.JPG",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Diego Delso, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mina_de_Chuquicamata,_Calama,_Chile,_2016-02-01,_DD_121.JPG"
+  },
+  {
+   "shows": "A large industrial ladle filled with molten metal suspended by a chain in a factory",
+   "url": "https://images.unsplash.com/photo-1791356099225-82e4901ea804?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG1vbHRlbiUyMG1ldGFsfGVufDF8fHx8MTc5NDY0MzU1NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1791356099225-82e4901ea804?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG1vbHRlbiUyMG1ldGFsfGVufDF8fHx8MTc5NDY0MzU1NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by yasin hemmati on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@yasinb3da?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/molten-metal-in-industrial-ladle-lvNBy4l3tWo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A coil of copper wire on a table",
+   "url": "https://images.unsplash.com/photo-1707409464255-e78eb873298a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29wcGVyJTIwd2lyZXxlbnwxfHx8fDE3OTM5NDU2MzZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1707409464255-e78eb873298a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29wcGVyJTIwd2lyZXxlbnwxfHx8fDE3OTM5NDU2MzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1351
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Guille B on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@guilleb?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-coil-of-copper-wire-on-a-table-TqueZSSAloY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A yellow Caterpillar haul truck driving on a dusty road near rocky mountains",
+   "url": "https://images.unsplash.com/photo-1622645636770-11fbf0611463?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bWluZXxlbnwxfHx8fDE3OTQ1NjQ1NDR8MA&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1622645636770-11fbf0611463?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bWluZXxlbnwxfHx8fDE3OTQ1NjQ1NDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2256,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by omid roshan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@oommiidd?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/caterpillar-haul-truck-in-rocky-quarry-Evss0Whf5OI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Photography of black metal industrial factory",
+   "url": "https://images.unsplash.com/photo-1511454493857-0a29f2c023c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHN0ZWVsJTIwZmFjdG9yeXxlbnwxfHx8fDE3OTQ1NjQ2MDR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1511454493857-0a29f2c023c7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHN0ZWVsJTIwZmFjdG9yeXxlbnwxfHx8fDE3OTQ1NjQ2MDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Adrienguh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@adrienguh?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/photography-of-black-metal-industrial-factory-wvagVtn3GGk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White and black airplane on brown sand during daytime",
+   "url": "https://images.unsplash.com/photo-1600363503477-a8d1d6d57dfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG1pbmluZ3xlbnwxfHx8fDE3OTM5NDU2MzR8MA&ixlib=rb-4.1.0&w=2124&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1600363503477-a8d1d6d57dfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG1pbmluZ3xlbnwxfHx8fDE3OTM5NDU2MzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2124,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Albert Hyseni on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alberthyseni?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-black-airplane-on-brown-sand-during-daytime-Sy_8KuxLwBI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Yellow truck on gray road during daytime",
+   "url": "https://images.unsplash.com/photo-1523660778745-247ed0bcce31?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWluZXxlbnwxfHx8fDE3OTQ1NjQ1NDR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1523660778745-247ed0bcce31?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWluZXxlbnwxfHx8fDE3OTQ1NjQ1NDR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dominik Vanyi on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dominik_photography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/yellow-truck-on-gray-road-during-daytime-1HEDPbH6HIE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Lighted brown concrete buildings near body of water at nighttime",
+   "url": "https://images.unsplash.com/photo-1524037755327-dc2def03712a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG1pbmluZ3xlbnwxfHx8fDE3OTM5NDU2MzR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1524037755327-dc2def03712a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG1pbmluZ3xlbnwxfHx8fDE3OTM5NDU2MzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dominik Vanyi on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dominik_photography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/lighted-brown-concrete-buildings-near-body-of-water-at-nighttime-F1B0-iuAxO4?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

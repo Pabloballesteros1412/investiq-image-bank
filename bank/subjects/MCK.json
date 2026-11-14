@@ -6,6 +6,7 @@
   "MCK"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -96,6 +97,42 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Palace_Hotel_SF_%26_McKesson_Plaza.JPG",
+   "plain": true
+  },
+  {
+   "shows": "McKesson Plaza corner",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/McKesson_Plaza_corner.JPG/1280px-McKesson_Plaza_corner.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/McKesson_Plaza_corner.JPG/500px-McKesson_Plaza_corner.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McKesson_Plaza_corner.JPG",
+   "plain": true
+  },
+  {
+   "shows": "McKesson Medical-Surgical Corporate campus",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/McKesson_Medical-Surgical_Corporate_campus.jpg/1920px-McKesson_Medical-Surgical_Corporate_campus.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/McKesson_Medical-Surgical_Corporate_campus.jpg/500px-McKesson_Medical-Surgical_Corporate_campus.jpg",
+   "size": [
+    1920,
+    1078
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Serijarla, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McKesson_Medical-Surgical_Corporate_campus.jpg",
    "plain": true
   }
  ]

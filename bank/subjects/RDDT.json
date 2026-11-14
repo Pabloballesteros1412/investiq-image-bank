@@ -6,6 +6,7 @@
   "RDDT"
  ],
  "sector": "sector-communication",
+ "target": 10,
  "fill_from": "sector-communication",
  "photos": [
   {
@@ -25,6 +26,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Web_Summit_2017_-_Centre_Stage_Day_2_CG1_7885_(38232183112)_(cropped).jpg"
+  },
+  {
+   "shows": "Reddit alien · alien, bobblehead, reddit, business, computer",
+   "url": "https://live.staticflickr.com/3050/2592234300_85ae78cc8e_b.jpg",
+   "preview": "https://live.staticflickr.com/3050/2592234300_85ae78cc8e_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Teuobk on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/13261823@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/13261823@N05/2592234300",
+   "plain": true
   }
  ]
 }

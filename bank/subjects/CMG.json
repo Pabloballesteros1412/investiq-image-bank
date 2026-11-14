@@ -6,7 +6,7 @@
   "CMG"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Chipotle Mexican Grill in Markham, ON",
@@ -24,6 +24,23 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:ChipotleMexicanGrillMarkham.jpg"
+  },
+  {
+   "shows": "Chipotle Outdoor Seating at 1566 Monterey St in San Jose, California",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chipotle_Outdoor_Seating_at_1566_Monterey_St_in_San_Jose%2C_California_%2845311393252%29.jpg/1920px-Chipotle_Outdoor_Seating_at_1566_Monterey_St_in_San_Jose%2C_California_%2845311393252%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Chipotle_Outdoor_Seating_at_1566_Monterey_St_in_San_Jose%2C_California_%2845311393252%29.jpg/500px-Chipotle_Outdoor_Seating_at_1566_Monterey_St_in_San_Jose%2C_California_%2845311393252%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Will Buckner, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chipotle_Outdoor_Seating_at_1566_Monterey_St_in_San_Jose,_California_(45311393252).jpg"
   },
   {
    "shows": "Chipotle Brandon",
@@ -95,6 +112,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Chipotle_-_Cedar_Mill,_Oregon.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chipotle Mexican Grill in Markham, ON",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ChipotleMexicanGrillMarkham2.jpg/1920px-ChipotleMexicanGrillMarkham2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ChipotleMexicanGrillMarkham2.jpg/500px-ChipotleMexicanGrillMarkham2.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ChipotleMexicanGrillMarkham2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chipotle Grove Station Miami June 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chipotle_Grove_Station_Miami_June_2025.jpg/1920px-Chipotle_Grove_Station_Miami_June_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Chipotle_Grove_Station_Miami_June_2025.jpg/500px-Chipotle_Grove_Station_Miami_June_2025.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chipotle_Grove_Station_Miami_June_2025.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chipotle Mexican Grill Brickell, Miami Florida Sept 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Chipotle_Mexican_Grill_Brickell%2C_Miami_Florida_Sept_2022.jpg/1920px-Chipotle_Mexican_Grill_Brickell%2C_Miami_Florida_Sept_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Chipotle_Mexican_Grill_Brickell%2C_Miami_Florida_Sept_2022.jpg/500px-Chipotle_Mexican_Grill_Brickell%2C_Miami_Florida_Sept_2022.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chipotle_Mexican_Grill_Brickell,_Miami_Florida_Sept_2022.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chipotle Mexican Grill Miami",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chipotle_Mexican_Grill_Miami_%2852633169337%29.jpg/1920px-Chipotle_Mexican_Grill_Miami_%2852633169337%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Chipotle_Mexican_Grill_Miami_%2852633169337%29.jpg/500px-Chipotle_Mexican_Grill_Miami_%2852633169337%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chipotle_Mexican_Grill_Miami_(52633169337).jpg",
    "plain": true
   }
  ]

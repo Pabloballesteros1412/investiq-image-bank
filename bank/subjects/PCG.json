@@ -6,8 +6,29 @@
   "PCG"
  ],
  "sector": "sector-utilities",
+ "target": 10,
  "fill_from": "sector-utilities",
  "photos": [
+  {
+   "shows": "PG&E Kenworth Class 8 LNG Truck",
+   "url": "https://live.staticflickr.com/3272/2675581621_c8c91906ae_b.jpg",
+   "preview": "https://live.staticflickr.com/3272/2675581621_c8c91906ae_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pgegreenenergy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/26715412@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/26715412@N03/2675581621",
+   "plain": true
+  },
   {
    "shows": "2009-0725-CA-Fresno-SJLightPowerCorp",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2009-0725-CA-Fresno-SJLightPowerCorp.jpg/1920px-2009-0725-CA-Fresno-SJLightPowerCorp.jpg",
@@ -60,6 +81,98 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:PG%26E_Substation_J_(San_Francisco).jpg",
+   "plain": true
+  },
+  {
+   "shows": "PG&E Embarcadero Substation - September 2025 - Sarah Stierch 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_02.jpg/1280px-PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_02.jpg/500px-PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_02.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Missvain, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PG%26E_Embarcadero_Substation_-_September_2025_-_Sarah_Stierch_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "USA-Oakland-Pacific Gas & Electric Company Building-1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USA-Oakland-Pacific_Gas_%26_Electric_Company_Building-1.jpg/1280px-USA-Oakland-Pacific_Gas_%26_Electric_Company_Building-1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USA-Oakland-Pacific_Gas_%26_Electric_Company_Building-1.jpg/500px-USA-Oakland-Pacific_Gas_%26_Electric_Company_Building-1.jpg",
+   "size": [
+    1280,
+    1925
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eugene Zelenko, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:USA-Oakland-Pacific_Gas_%26_Electric_Company_Building-1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PG&E Ford Ranger",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/PG%26E_Ford_Ranger.jpg/1920px-PG%26E_Ford_Ranger.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/PG%26E_Ford_Ranger.jpg/500px-PG%26E_Ford_Ranger.jpg",
+   "size": [
+    1920,
+    1235
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PG%26E_Ford_Ranger.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Freightliner FL 112 - PG&E dump truck",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Freightliner_FL_112_-_PG%26E_dump_truck.jpg/1920px-Freightliner_FL_112_-_PG%26E_dump_truck.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Freightliner_FL_112_-_PG%26E_dump_truck.jpg/500px-Freightliner_FL_112_-_PG%26E_dump_truck.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Frank Deanrdo, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Freightliner_FL_112_-_PG%26E_dump_truck.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PG&E Potrero Power Plant · dogpatch, pge, powerplant, sanfrancisco, architecture",
+   "url": "https://live.staticflickr.com/116/308999513_03f57c17bb_b.jpg",
+   "preview": "https://live.staticflickr.com/116/308999513_03f57c17bb_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Orin Zebest on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/33917831@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/33917831@N00/308999513",
    "plain": true
   }
  ]

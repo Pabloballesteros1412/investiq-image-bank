@@ -6,6 +6,7 @@
   "AMAT"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -60,6 +61,26 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Applied_Materials_Metron_office_-_Hillsboro,_Oregon.JPG",
+   "plain": true
+  },
+  {
+   "shows": "SVST - Applied Materials · bigsur, miur, monterey, sanfrancisco, sausalito",
+   "url": "https://live.staticflickr.com/3273/2839902586_54ea8e2101_b.jpg",
+   "preview": "https://live.staticflickr.com/3273/2839902586_54ea8e2101_z.jpg",
+   "size": [
+    684,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mattiaaccornero on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/7576581@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/7576581@N03/2839902586",
    "plain": true
   }
  ]

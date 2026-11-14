@@ -6,8 +6,26 @@
   "MELI"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 10,
  "fill_from": "sector-consumer-discretionary",
  "photos": [
+  {
+   "shows": "Furgón de reparto eléctrico de MercadoLibre Chile",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Furg%C3%B3n_de_reparto_el%C3%A9ctrico_de_MercadoLibre_Chile.jpg/1920px-Furg%C3%B3n_de_reparto_el%C3%A9ctrico_de_MercadoLibre_Chile.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Furg%C3%B3n_de_reparto_el%C3%A9ctrico_de_MercadoLibre_Chile.jpg/500px-Furg%C3%B3n_de_reparto_el%C3%A9ctrico_de_MercadoLibre_Chile.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "José Ignacio Gallardo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Furg%C3%B3n_de_reparto_el%C3%A9ctrico_de_MercadoLibre_Chile.jpg"
+  },
   {
    "shows": "Mercadolibre edificio saavedra",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mercadolibre_edificio_saavedra.jpg/1920px-Mercadolibre_edificio_saavedra.jpg",
@@ -42,6 +60,42 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Camioneta_de_mercadolibre_en_el_centro_de_xalapa.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Camioneta de mercadolibre en xalapa",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Camioneta_de_mercadolibre_en_xalapa.jpg/1280px-Camioneta_de_mercadolibre_en_xalapa.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Camioneta_de_mercadolibre_en_xalapa.jpg/500px-Camioneta_de_mercadolibre_en_xalapa.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Koffermejia, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Camioneta_de_mercadolibre_en_xalapa.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Camioneta mercadolibre",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Camioneta_mercadolibre.jpg/1280px-Camioneta_mercadolibre.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Camioneta_mercadolibre.jpg/500px-Camioneta_mercadolibre.jpg",
+   "size": [
+    1280,
+    1762
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Koffermejia, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Camioneta_mercadolibre.jpg",
    "plain": true
   }
  ]

@@ -6,7 +6,7 @@
   "XEL"
  ],
  "sector": "sector-utilities",
- "fill_from": "sector-utilities",
+ "target": 10,
  "photos": [
   {
    "shows": "2023 Denver Auto Show International eMV electric boom truck",
@@ -114,6 +114,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Xcel_Energy,_790_Buchanan,_Amarillo,_TX_2024-03-16.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Holcombe Dam-3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Holcombe_Dam-3.jpg/1920px-Holcombe_Dam-3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Holcombe_Dam-3.jpg/500px-Holcombe_Dam-3.jpg",
+   "size": [
+    1920,
+    1967
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wikideas1, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Holcombe_Dam-3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Zuni Generation Station",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zuni_Generation_Station_2021-10-14.jpg/1920px-Zuni_Generation_Station_2021-10-14.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Zuni_Generation_Station_2021-10-14.jpg/500px-Zuni_Generation_Station_2021-10-14.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Zuni_Generation_Station_2021-10-14.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Zuni Generation Station, transmission towers",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zuni_Generation_Station%2C_transmission_towers_2021-10-14.jpg/1280px-Zuni_Generation_Station%2C_transmission_towers_2021-10-14.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zuni_Generation_Station%2C_transmission_towers_2021-10-14.jpg/500px-Zuni_Generation_Station%2C_transmission_towers_2021-10-14.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Zuni_Generation_Station,_transmission_towers_2021-10-14.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Comanche Generating Station",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Comanche_Generating_Station.JPG/1920px-Comanche_Generating_Station.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Comanche_Generating_Station.JPG/500px-Comanche_Generating_Station.JPG",
+   "size": [
+    1920,
+    1249
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jeffrey Beall, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Comanche_Generating_Station.JPG",
    "plain": true
   }
  ]

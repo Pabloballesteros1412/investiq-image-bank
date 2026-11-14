@@ -6,6 +6,7 @@
   "RJF"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
   {
@@ -24,6 +25,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Raymond_James_Financial_(53872771875).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Raymond James Financial · manhattan, newyork, newyorkcity, raymondjames, raymondjamesfinancial",
+   "url": "https://live.staticflickr.com/65535/53872771875_eae5997cae_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/53872771875_eae5997cae_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ajay_suresh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83136374@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83136374@N05/53872771875",
    "plain": true
   }
  ]

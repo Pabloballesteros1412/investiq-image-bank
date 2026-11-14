@@ -6,7 +6,7 @@
   "NIO"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "NIO House",
@@ -79,6 +79,23 @@
    "source": "https://unsplash.com/photos/a-nio-el6-electric-suv-is-shown-indoors-Z4j-xJbwEEc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "(CHN-Hubei) Showcar Nio EC7 No-plate",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%28CHN-Hubei%29_Showcar_Nio_EC7_No-plate_2024-12-04.jpg/1920px-%28CHN-Hubei%29_Showcar_Nio_EC7_No-plate_2024-12-04.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/%28CHN-Hubei%29_Showcar_Nio_EC7_No-plate_2024-12-04.jpg/500px-%28CHN-Hubei%29_Showcar_Nio_EC7_No-plate_2024-12-04.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "S5A-0043, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:(CHN-Hubei)_Showcar_Nio_EC7_No-plate_2024-12-04.jpg"
+  },
+  {
    "shows": "GD 廣東 Guangdong 河源市 HeYuan JJ 堅基 JianJi 商業中心 Commercial Center 商場 Plaza Mall shop NIO automobile showroom April 2026 N13P 01",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%B2%B3%E6%BA%90%E5%B8%82_HeYuan_JJ_%E5%A0%85%E5%9F%BA_JianJi_%E5%95%86%E6%A5%AD%E4%B8%AD%E5%BF%83_Commercial_Center_%E5%95%86%E5%A0%B4_Plaza_Mall_shop_NIO_automobile_showroom_April_2026_N13P_01.jpg/1920px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%B2%B3%E6%BA%90%E5%B8%82_HeYuan_JJ_%E5%A0%85%E5%9F%BA_JianJi_%E5%95%86%E6%A5%AD%E4%B8%AD%E5%BF%83_Commercial_Center_%E5%95%86%E5%A0%B4_Plaza_Mall_shop_NIO_automobile_showroom_April_2026_N13P_01.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%B2%B3%E6%BA%90%E5%B8%82_HeYuan_JJ_%E5%A0%85%E5%9F%BA_JianJi_%E5%95%86%E6%A5%AD%E4%B8%AD%E5%BF%83_Commercial_Center_%E5%95%86%E5%A0%B4_Plaza_Mall_shop_NIO_automobile_showroom_April_2026_N13P_01.jpg/500px-GD_%E5%BB%A3%E6%9D%B1_Guangdong_%E6%B2%B3%E6%BA%90%E5%B8%82_HeYuan_JJ_%E5%A0%85%E5%9F%BA_JianJi_%E5%95%86%E6%A5%AD%E4%B8%AD%E5%BF%83_Commercial_Center_%E5%95%86%E5%A0%B4_Plaza_Mall_shop_NIO_automobile_showroom_April_2026_N13P_01.jpg",
@@ -148,6 +165,24 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_17.jpg",
+   "plain": true
+  },
+  {
+   "shows": "SZ 深圳 Shenzhen 寶安 BaoAn 萬豐 寶安海岸城 Coastal City mall shop automobile showroom n roadshow July 2024 R12S 18",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_18.jpg/1920px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_18.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_18.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_18.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ZHONG 82035 WANGZ, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_18.jpg",
    "plain": true
   }
  ]

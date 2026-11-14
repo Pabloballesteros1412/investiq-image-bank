@@ -6,6 +6,7 @@
   "AIG"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
   {
@@ -41,6 +42,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:HK_%E9%87%91%E9%90%98_Admiralty_%E5%A4%8F%E6%85%A4%E9%81%93_Harcourt_Road_AIG_Tower_September_2019_SSG_10.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Robert Benmosche",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Robert_Benmosche.JPG/1280px-Robert_Benmosche.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Robert_Benmosche.JPG/500px-Robert_Benmosche.JPG",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "AIG, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Robert_Benmosche.JPG",
    "plain": true
   }
  ]

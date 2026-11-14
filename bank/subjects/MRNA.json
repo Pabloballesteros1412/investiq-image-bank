@@ -6,6 +6,7 @@
   "MRNA"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -62,6 +63,23 @@
    "source": "https://unsplash.com/photos/a-close-up-of-a-bottle-of-covidd-k_5wJQ-q49I?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "NYCW 2026 - Stéphane Bancel 08 ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NYCW_2026_-_St%C3%A9phane_Bancel_08_%28cropped%29.jpg/1280px-NYCW_2026_-_St%C3%A9phane_Bancel_08_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/NYCW_2026_-_St%C3%A9phane_Bancel_08_%28cropped%29.jpg/500px-NYCW_2026_-_St%C3%A9phane_Bancel_08_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1826
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xuthoria, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NYCW_2026_-_St%C3%A9phane_Bancel_08_(cropped).jpg"
+  },
+  {
    "shows": "Moderna Headquarters",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moderna_Headquarters_%2854960816438%29.jpg/1920px-Moderna_Headquarters_%2854960816438%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moderna_Headquarters_%2854960816438%29.jpg/500px-Moderna_Headquarters_%2854960816438%29.jpg",
@@ -77,6 +95,24 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Moderna_Headquarters_(54960816438).jpg",
+   "plain": true
+  },
+  {
+   "shows": "31 FW Airmen receive second Moderna COVID-19 vaccine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538676%29.jpg/1920px-31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538676%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538676%29.jpg/500px-31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_%286538676%29.jpg",
+   "size": [
+    1920,
+    1372
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Airman 1st Class Brooke Keisler, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_(6538676).jpg",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "DGX"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -42,6 +43,84 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Quest_Diagnostics_Manteca,_California.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Quest Columbus",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Quest_Columbus.jpg/1280px-Quest_Columbus.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Quest_Columbus.jpg/500px-Quest_Columbus.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ɱ, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Quest_Columbus.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Quest Diagnostics, Cambridge",
+   "url": "https://live.staticflickr.com/3449/3376254404_b8b44fc48a_b.jpg",
+   "preview": "https://live.staticflickr.com/3449/3376254404_b8b44fc48a_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by euthman on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/78147607@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/78147607@N00/3376254404",
+   "plain": true
+  },
+  {
+   "shows": "Quest Diagnostics? · bellevue, safeway",
+   "url": "https://live.staticflickr.com/4486/37053664403_d401cf1f95_b.jpg",
+   "preview": "https://live.staticflickr.com/4486/37053664403_d401cf1f95_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Northwest Retail on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/143641059@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/143641059@N08/37053664403",
+   "plain": true
+  },
+  {
+   "shows": "Quest Diagnostics",
+   "url": "https://live.staticflickr.com/4148/5193416221_0deabf9e6b_b.jpg",
+   "preview": "https://live.staticflickr.com/4148/5193416221_0deabf9e6b_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kennejima on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/17152247@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/17152247@N00/5193416221",
    "plain": true
   }
  ]

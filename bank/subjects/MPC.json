@@ -6,7 +6,7 @@
   "MPC"
  ],
  "sector": "sector-energy",
- "fill_from": "sector-energy",
+ "target": 10,
  "photos": [
   {
    "shows": "Lighted Marathon gas station",
@@ -25,6 +25,23 @@
    "author_url": "https://unsplash.com/@danny_lincoln?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/lighted-marathon-gas-station-yqymOwXGZ1Y?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A Marathon Petroleum gas station in Murphy, North Carolina 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/A_Marathon_Petroleum_gas_station_in_Murphy%2C_North_Carolina_02.jpg/1920px-A_Marathon_Petroleum_gas_station_in_Murphy%2C_North_Carolina_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/A_Marathon_Petroleum_gas_station_in_Murphy%2C_North_Carolina_02.jpg/500px-A_Marathon_Petroleum_gas_station_in_Murphy%2C_North_Carolina_02.jpg",
+   "size": [
+    1920,
+    1207
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Marathon_Petroleum_gas_station_in_Murphy,_North_Carolina_02.jpg"
   },
   {
    "shows": "Marathon Petroleum from Main Street",
@@ -78,6 +95,96 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Marathon_Petroleum_Company_Detroit.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Marathon Circle K",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marathon_Circle_K_%2854394194267%29.jpg/1920px-Marathon_Circle_K_%2854394194267%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Marathon_Circle_K_%2854394194267%29.jpg/500px-Marathon_Circle_K_%2854394194267%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marathon_Circle_K_(54394194267).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Marathon Gas station on US90, Madison County",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Marathon_Gas_station_on_US90%2C_Madison_County.jpg/1920px-Marathon_Gas_station_on_US90%2C_Madison_County.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Marathon_Gas_station_on_US90%2C_Madison_County.jpg/500px-Marathon_Gas_station_on_US90%2C_Madison_County.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marathon_Gas_station_on_US90,_Madison_County.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Marathon Gas, Busy Bee Convenience Store, US90, Wellborn",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marathon_Gas%2C_Busy_Bee_Convenience_Store%2C_US90%2C_Wellborn.jpg/1920px-Marathon_Gas%2C_Busy_Bee_Convenience_Store%2C_US90%2C_Wellborn.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Marathon_Gas%2C_Busy_Bee_Convenience_Store%2C_US90%2C_Wellborn.jpg/500px-Marathon_Gas%2C_Busy_Bee_Convenience_Store%2C_US90%2C_Wellborn.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marathon_Gas,_Busy_Bee_Convenience_Store,_US90,_Wellborn.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Marathon gas, Subway, Steinhatchee",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Marathon_gas%2C_Subway%2C_Steinhatchee.jpg/1920px-Marathon_gas%2C_Subway%2C_Steinhatchee.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Marathon_gas%2C_Subway%2C_Steinhatchee.jpg/500px-Marathon_gas%2C_Subway%2C_Steinhatchee.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mjrmtg, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marathon_gas,_Subway,_Steinhatchee.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hwy 49 Food Mart Marathon Gas, Fort Valley",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hwy_49_Food_Mart_Marathon_Gas%2C_Fort_Valley.jpg/1920px-Hwy_49_Food_Mart_Marathon_Gas%2C_Fort_Valley.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hwy_49_Food_Mart_Marathon_Gas%2C_Fort_Valley.jpg/500px-Hwy_49_Food_Mart_Marathon_Gas%2C_Fort_Valley.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hwy_49_Food_Mart_Marathon_Gas,_Fort_Valley.jpg",
    "plain": true
   }
  ]

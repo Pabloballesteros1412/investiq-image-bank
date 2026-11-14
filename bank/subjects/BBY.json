@@ -6,7 +6,7 @@
   "BBY"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "The image shows the exterior of a best buy store",
@@ -25,6 +25,23 @@
    "author_url": "https://unsplash.com/@piak?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/the-image-shows-the-exterior-of-a-best-buy-store-K0u-Q7yd61c?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Best Buy (Newington, Connecticut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Best_Buy_%28Newington%2C_Connecticut%29_%2851582409597%29.jpg/1920px-Best_Buy_%28Newington%2C_Connecticut%29_%2851582409597%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Best_Buy_%28Newington%2C_Connecticut%29_%2851582409597%29.jpg/500px-Best_Buy_%28Newington%2C_Connecticut%29_%2851582409597%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Best_Buy_(Newington,_Connecticut)_(51582409597).jpg"
   },
   {
    "shows": "Best Buy in Vancouver 2025",
@@ -132,6 +149,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Best_Buy_Headquarters_in_Richfield_Minnesota_(53833202473).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Best Buy Geek Squad at Markville",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BestBuyMarkvilleGeekSquad.jpg/1920px-BestBuyMarkvilleGeekSquad.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/BestBuyMarkvilleGeekSquad.jpg/500px-BestBuyMarkvilleGeekSquad.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BestBuyMarkvilleGeekSquad.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Software Aisle Best Buy Edmonton 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Software_Aisle_Best_Buy_Edmonton_2020.jpg/1920px-Software_Aisle_Best_Buy_Edmonton_2020.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Software_Aisle_Best_Buy_Edmonton_2020.jpg/500px-Software_Aisle_Best_Buy_Edmonton_2020.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rowanswiki, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Software_Aisle_Best_Buy_Edmonton_2020.jpg",
    "plain": true
   }
  ]

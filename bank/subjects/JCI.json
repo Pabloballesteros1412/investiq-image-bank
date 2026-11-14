@@ -6,6 +6,7 @@
   "JCI"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -96,6 +97,60 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D1%8A%D0%BD_%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%81,_%D0%91%D1%83%D0%BB._%D0%A6%D0%B0%D1%80%D0%B8%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE_%D1%88%D0%BE%D1%81%D0%B5,_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Johnson Controls in Richmond Hill, Ontario",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/JohnsonControlsRichmondHill2.jpg/1920px-JohnsonControlsRichmondHill2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/JohnsonControlsRichmondHill2.jpg/500px-JohnsonControlsRichmondHill2.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:JohnsonControlsRichmondHill2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "YORK (BRAND FROM JOHNSON CONTROLS) AIR CONDITIONER OUTDOOR UNIT",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YORK_%28BRAND_FROM_JOHNSON_CONTROLS%29_AIR_CONDITIONER_OUTDOOR_UNIT_%282%29.jpg/1920px-YORK_%28BRAND_FROM_JOHNSON_CONTROLS%29_AIR_CONDITIONER_OUTDOOR_UNIT_%282%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YORK_%28BRAND_FROM_JOHNSON_CONTROLS%29_AIR_CONDITIONER_OUTDOOR_UNIT_%282%29.jpg/500px-YORK_%28BRAND_FROM_JOHNSON_CONTROLS%29_AIR_CONDITIONER_OUTDOOR_UNIT_%282%29.jpg",
+   "size": [
+    1920,
+    1386
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:YORK_(BRAND_FROM_JOHNSON_CONTROLS)_AIR_CONDITIONER_OUTDOOR_UNIT_(2).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Johnson Controls - Plant Mandling Automotive Experience",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Johnson_Controls_-_Plant_Mandling_Automotive_Experience.jpg/1920px-Johnson_Controls_-_Plant_Mandling_Automotive_Experience.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Johnson_Controls_-_Plant_Mandling_Automotive_Experience.jpg/500px-Johnson_Controls_-_Plant_Mandling_Automotive_Experience.jpg",
+   "size": [
+    1920,
+    912
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Herzi Pinki, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Johnson_Controls_-_Plant_Mandling_Automotive_Experience.jpg",
    "plain": true
   }
  ]

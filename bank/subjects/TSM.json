@@ -6,6 +6,8 @@
   "TSM"
  ],
  "sector": "sector-tech",
+ "target": 30,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "TSMC Fab 12A 01",
@@ -74,6 +76,43 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG"
+  },
+  {
+   "shows": "Building of Taiwan Semiconductor Manufacturing Fab 12B at dusk1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg/1920px-Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg/500px-Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "曾 成訓, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg"
+  },
+  {
+   "shows": "tsmc fab12 · fab12, tsmc, u53f0u7a4d, u53f0u7a4d12u5ee0, u65b0u7af9",
+   "url": "https://live.staticflickr.com/8032/7999387860_a7e80bdcd3_b.jpg",
+   "preview": "https://live.staticflickr.com/8032/7999387860_a7e80bdcd3_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/7999387860",
+   "plain": true
   },
   {
    "shows": "TSMC Fab 18 May 2025",
@@ -181,6 +220,272 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:TSMC_factory_in_Taichung%27s_Central_Taiwan_Science_Park.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tsmc factory hsinchu",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Tsmc_factory_hsinchu.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tsmc_factory_hsinchu.JPG/500px-Tsmc_factory_hsinchu.JPG",
+   "size": [
+    1600,
+    1067
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Arusanov, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Trucks entering and leaving TSMC Fab 18 May 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Trucks_entering_and_leaving_TSMC_Fab_18_May_2025.jpg/1920px-Trucks_entering_and_leaving_TSMC_Fab_18_May_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Trucks_entering_and_leaving_TSMC_Fab_18_May_2025.jpg/500px-Trucks_entering_and_leaving_TSMC_Fab_18_May_2025.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Trucks_entering_and_leaving_TSMC_Fab_18_May_2025.jpg",
+   "plain": true
+  },
+  {
+   "shows": "TSMC Fab 12A 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TSMC_Fab_12A_02.jpg/1920px-TSMC_Fab_12A_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TSMC_Fab_12A_02.jpg/500px-TSMC_Fab_12A_02.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "曾 成訓, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TSMC_Fab_12A_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "TSMC fabs in Hsinchu 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSMC_fabs_in_Hsinchu_02.jpg/1280px-TSMC_fabs_in_Hsinchu_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSMC_fabs_in_Hsinchu_02.jpg/500px-TSMC_fabs_in_Hsinchu_02.jpg",
+   "size": [
+    1280,
+    1918
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "曾 成訓, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "TSMC Global R＆D Center 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TSMC_Global_R%EF%BC%86D_Center_2023.jpg/1920px-TSMC_Global_R%EF%BC%86D_Center_2023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/TSMC_Global_R%EF%BC%86D_Center_2023.jpg/500px-TSMC_Global_R%EF%BC%86D_Center_2023.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "曾 成訓, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center_2023.jpg",
+   "plain": true
+  },
+  {
+   "shows": "TSMC Mobile Recruiting Office in National Tsing Hua University",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TSMC_Mobile_Recruiting_Office_in_National_Tsing_Hua_University.jpg/1920px-TSMC_Mobile_Recruiting_Office_in_National_Tsing_Hua_University.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/TSMC_Mobile_Recruiting_Office_in_National_Tsing_Hua_University.jpg/500px-TSMC_Mobile_Recruiting_Office_in_National_Tsing_Hua_University.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tbatb, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TSMC_Mobile_Recruiting_Office_in_National_Tsing_Hua_University.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Taiwan light trails",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Taiwan_light_trails.jpg/1920px-Taiwan_light_trails.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Taiwan_light_trails.jpg/500px-Taiwan_light_trails.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "曾 成訓, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Taiwan_light_trails.jpg",
+   "plain": true
+  },
+  {
+   "shows": "tsmc fab12 · fab12, tsmc, u53f0u7a4d, u53f0u7a4d12u5ee0, u65b0u7af9",
+   "url": "https://live.staticflickr.com/8444/7999394616_6424dbe843_b.jpg",
+   "preview": "https://live.staticflickr.com/8444/7999394616_6424dbe843_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/7999394616",
+   "plain": true
+  },
+  {
+   "shows": "tsmc fab12 · fab12, tsmc, u53f0u7a4d, \\u53f0\\u7a4d, u53f0u7a4d12u5ee0",
+   "url": "https://live.staticflickr.com/8174/7999384313_68879e8533_b.jpg",
+   "preview": "https://live.staticflickr.com/8174/7999384313_68879e8533_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/7999384313",
+   "plain": true
+  },
+  {
+   "shows": "tsmc fab12 · fab12, tsmc, u53f0u7a4d, u53f0u7a4d12u5ee0, u65b0u7af9",
+   "url": "https://live.staticflickr.com/8441/7999396400_7601e3eeb6_b.jpg",
+   "preview": "https://live.staticflickr.com/8441/7999396400_7601e3eeb6_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/7999396400",
+   "plain": true
+  },
+  {
+   "shows": "TSMC North America #sanjose",
+   "url": "https://live.staticflickr.com/310/19929817280_77516389ec_b.jpg",
+   "preview": "https://live.staticflickr.com/310/19929817280_77516389ec_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Richard Masoner / Cyclelicious on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/99247795@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/99247795@N00/19929817280",
+   "plain": true
+  },
+  {
+   "shows": "Jan 12, 2020 San Jose / CA / USA - Taiwan Semiconductor Manufacturing Company (TSMC) headquarters in Silicon Valley; TSMC is the world's largest dedicated independent (pure-play) semiconductor foundry",
+   "url": "https://live.staticflickr.com/65535/51541052478_1f8f7e085b_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51541052478_1f8f7e085b_z.jpg",
+   "size": [
+    1024,
+    778
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by f097653195037 on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/193964432@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/193964432@N03/51541052478",
+   "plain": true
+  },
+  {
+   "shows": "三巴颱風前夕-台積12廠 · tsmc, u53f0u7a4d, u53f0u7a4d12u5ee0, u53f0u7a4du96fb, 台積",
+   "url": "https://live.staticflickr.com/8182/7984102596_4666b8f434_b.jpg",
+   "preview": "https://live.staticflickr.com/8182/7984102596_4666b8f434_z.jpg",
+   "size": [
+    680,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/7984102596",
+   "plain": true
+  },
+  {
+   "shows": "tsmc fab12 · fab12, tsmc, u53f0u7a4d, u53f0u7a4d12u5ee0, u65b0u7af9",
+   "url": "https://live.staticflickr.com/8450/7999389648_998be290c9_b.jpg",
+   "preview": "https://live.staticflickr.com/8450/7999389648_998be290c9_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/7999389648",
    "plain": true
   }
  ]

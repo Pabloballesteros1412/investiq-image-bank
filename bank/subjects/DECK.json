@@ -6,6 +6,7 @@
   "DECK"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 10,
  "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
@@ -42,6 +43,86 @@
    "author_url": "https://unsplash.com/@landonliedtke?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/pair-of-white-hoka-running-shoes-with-lime-green-soles-853F1TIGVpk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "In the land of the Ugg boots",
+   "url": "https://live.staticflickr.com/6090/6039880113_5e65a0b79b_b.jpg",
+   "preview": "https://live.staticflickr.com/6090/6039880113_5e65a0b79b_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 4nitsirk on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/26223114@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/26223114@N02/6039880113",
+   "plain": true
+  },
+  {
+   "shows": "UGG Boots · boots, feet, ugg, uggs",
+   "url": "https://live.staticflickr.com/3504/4560663091_86cfd7ecb4_b.jpg",
+   "preview": "https://live.staticflickr.com/3504/4560663091_86cfd7ecb4_z.jpg",
+   "size": [
+    1024,
+    799
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lunar Castle on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/49718457@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/49718457@N07/4560663091",
+   "plain": true
+  },
+  {
+   "shows": "Only in NYC - glitter ugg boots",
+   "url": "https://live.staticflickr.com/5287/5255776436_f5c6047bdc_b.jpg",
+   "preview": "https://live.staticflickr.com/5287/5255776436_f5c6047bdc_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Shiraz Chakera on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/57446549@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/57446549@N00/5255776436",
+   "plain": true
+  },
+  {
+   "shows": "Hoka running shoes in use by nurse at Virginia Mason OrthClinic, seattle, Washington, USA",
+   "url": "https://live.staticflickr.com/8724/17184401078_cfbf9b40db_b.jpg",
+   "preview": "https://live.staticflickr.com/8724/17184401078_cfbf9b40db_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Wonderlane on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/71401718@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/71401718@N00/17184401078",
+   "plain": true
   }
  ]
 }

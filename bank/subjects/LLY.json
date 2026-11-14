@@ -6,6 +6,8 @@
   "LLY"
  ],
  "sector": "sector-health",
+ "target": 30,
+ "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Eli Lilly Headquarters",
@@ -92,6 +94,60 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_Corporate_Center,_Indianapolis,_Indiana,_USA.jpg"
+  },
+  {
+   "shows": "Alcobendas - Lilly España 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alcobendas_-_Lilly_Espa%C3%B1a_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Alcobendas_-_Lilly_Espa%C3%B1a_1.jpg/500px-Alcobendas_-_Lilly_Espa%C3%B1a_1.jpg",
+   "size": [
+    1827,
+    1470
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Zarateman, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Alcobendas_-_Lilly_Espa%C3%B1a_1.jpg"
+  },
+  {
+   "shows": "Eli Lilly Corporate Center, side",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eli_Lilly_Corporate_Center%2C_side.jpg/1280px-Eli_Lilly_Corporate_Center%2C_side.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Eli_Lilly_Corporate_Center%2C_side.jpg/500px-Eli_Lilly_Corporate_Center%2C_side.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_Corporate_Center,_side.jpg"
+  },
+  {
+   "shows": "Eli Lilly & Company 2 · 2011, indiana, indianapolis, architecture, brick",
+   "url": "https://live.staticflickr.com/5298/5469618669_c48bfab7ba_b.jpg",
+   "preview": "https://live.staticflickr.com/5298/5469618669_c48bfab7ba_z.jpg",
+   "size": [
+    1024,
+    746
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/53301297@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/53301297@N00/5469618669",
+   "plain": true
   },
   {
    "shows": "Lilly mounjaro KwikPen Tirzepatid 5 mg per dose rate-9442",
@@ -181,6 +237,188 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Lilly_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lilly - Building 44",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lilly_-_Building_44.jpg/1920px-Lilly_-_Building_44.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lilly_-_Building_44.jpg/500px-Lilly_-_Building_44.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lilly_-_Building_44.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eli Lilly & Company corporate campus, Feb. 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eli_Lilly_%26_Company_corporate_campus%2C_Feb._2011.jpg/1920px-Eli_Lilly_%26_Company_corporate_campus%2C_Feb._2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eli_Lilly_%26_Company_corporate_campus%2C_Feb._2011.jpg/500px-Eli_Lilly_%26_Company_corporate_campus%2C_Feb._2011.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_%26_Company_corporate_campus,_Feb._2011.jpg",
+   "plain": true
+  },
+  {
+   "shows": "American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2872535%29.jpg/1920px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2872535%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2872535%29.jpg/500px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2872535%29.jpg",
+   "size": [
+    1920,
+    1429
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(72535).jpg",
+   "plain": true
+  },
+  {
+   "shows": "American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2834148%29.jpg/1920px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2834148%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2834148%29.jpg/500px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2834148%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(34148).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eli Lilly & Company - Feb 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eli_Lilly_%26_Company_-_Feb_2011.jpg/1920px-Eli_Lilly_%26_Company_-_Feb_2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eli_Lilly_%26_Company_-_Feb_2011.jpg/500px-Eli_Lilly_%26_Company_-_Feb_2011.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eli_Lilly_%26_Company_-_Feb_2011.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lilly HumaPen Ergo-0342",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lilly_HumaPen_Ergo-0342.jpg/1920px-Lilly_HumaPen_Ergo-0342.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lilly_HumaPen_Ergo-0342.jpg/500px-Lilly_HumaPen_Ergo-0342.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lilly_HumaPen_Ergo-0342.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bad Homburg Ehemalige Zentrale Eli Lilly 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bad_Homburg_Ehemalige_Zentrale_Eli_Lilly_1.JPG/1920px-Bad_Homburg_Ehemalige_Zentrale_Eli_Lilly_1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bad_Homburg_Ehemalige_Zentrale_Eli_Lilly_1.JPG/500px-Bad_Homburg_Ehemalige_Zentrale_Eli_Lilly_1.JPG",
+   "size": [
+    1920,
+    1437
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Karsten11, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bad_Homburg_Ehemalige_Zentrale_Eli_Lilly_1.JPG",
+   "plain": true
+  },
+  {
+   "shows": "American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2889506%29.jpg/1920px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2889506%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2889506%29.jpg/500px-American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_%2889506%29.jpg",
+   "size": [
+    1920,
+    1041
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(89506).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Autoinjector with Trulicity by Lilly (Dulaglutid)-3129",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Autoinjector_with_Trulicity_by_Lilly_%28Dulaglutid%29-3129.jpg/1920px-Autoinjector_with_Trulicity_by_Lilly_%28Dulaglutid%29-3129.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Autoinjector_with_Trulicity_by_Lilly_%28Dulaglutid%29-3129.jpg/500px-Autoinjector_with_Trulicity_by_Lilly_%28Dulaglutid%29-3129.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Autoinjector_with_Trulicity_by_Lilly_(Dulaglutid)-3129.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Eli Lilly & Company · 2011, indiana, indianapolis, architecture, building",
+   "url": "https://live.staticflickr.com/5254/5469616593_0f0574e04c_b.jpg",
+   "preview": "https://live.staticflickr.com/5254/5469616593_0f0574e04c_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/53301297@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/53301297@N00/5469616593",
    "plain": true
   }
  ]

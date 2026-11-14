@@ -6,6 +6,7 @@
   "ARM"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -78,6 +79,24 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Windows_on_ARM.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Arm Holdings (ARM Cortex-A57)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ARMCortexA57A53_%28cropped%29.jpg/1920px-ARMCortexA57A53_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ARMCortexA57A53_%28cropped%29.jpg/500px-ARMCortexA57A53_%28cropped%29.jpg",
+   "size": [
+    1920,
+    1919
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ARMCortexA57A53_(cropped).jpg",
    "plain": true
   }
  ]

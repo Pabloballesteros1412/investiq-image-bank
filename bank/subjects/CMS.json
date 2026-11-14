@@ -6,6 +6,7 @@
   "CMS"
  ],
  "sector": "sector-utilities",
+ "target": 10,
  "fill_from": "sector-utilities",
  "photos": [
   {
@@ -95,6 +96,80 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ludington_Hydro_Plant_(8741624752).jpg",
+   "plain": true
+  },
+  {
+   "shows": "One Energy Plaza, Jackson, Michigan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/One_Energy_Plaza%2C_Jackson%2C_Michigan.jpg/1280px-One_Energy_Plaza%2C_Jackson%2C_Michigan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/One_Energy_Plaza%2C_Jackson%2C_Michigan.jpg/500px-One_Energy_Plaza%2C_Jackson%2C_Michigan.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Hofmeister, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:One_Energy_Plaza,_Jackson,_Michigan.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Big Rock Point Nuclear Power Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Big_Rock_Point_Nuclear_Power_Plant.jpg/1920px-Big_Rock_Point_Nuclear_Power_Plant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Big_Rock_Point_Nuclear_Power_Plant.jpg/500px-Big_Rock_Point_Nuclear_Power_Plant.jpg",
+   "size": [
+    1920,
+    1531
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nuclear Regulatory Commission from US, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Big_Rock_Point_Nuclear_Power_Plant.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dan E Karn Power Plant - August 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dan_E_Karn_Power_Plant_-_August_2020_%282586%29.jpg/1920px-Dan_E_Karn_Power_Plant_-_August_2020_%282586%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dan_E_Karn_Power_Plant_-_August_2020_%282586%29.jpg/500px-Dan_E_Karn_Power_Plant_-_August_2020_%282586%29.jpg",
+   "size": [
+    1920,
+    789
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dan_E_Karn_Power_Plant_-_August_2020_(2586).jpg",
+   "plain": true
+  },
+  {
+   "shows": "cms energy building · flickrcmsconsumersenergyjacksonmichiganlanemontgomery, viapixelpipe, architecture, building, business",
+   "url": "https://live.staticflickr.com/3516/3245201018_89a6618459_b.jpg",
+   "preview": "https://live.staticflickr.com/3516/3245201018_89a6618459_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by lane.montgomery on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/81287193@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/81287193@N00/3245201018",
    "plain": true
   }
  ]

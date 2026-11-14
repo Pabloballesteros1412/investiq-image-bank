@@ -6,6 +6,7 @@
   "CI"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -42,6 +43,84 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_Cigna_Group_Headquarters_%E2%80%93_Bloomfield,_Connecticut_(55622201133).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Connecticut General Life Insurance Company Headquarters original",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Connecticut_General_Life_Insurance_Company_Headquarters_original.JPG/1920px-Connecticut_General_Life_Insurance_Company_Headquarters_original.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Connecticut_General_Life_Insurance_Company_Headquarters_original.JPG/500px-Connecticut_General_Life_Insurance_Company_Headquarters_original.JPG",
+   "size": [
+    1920,
+    1445
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sphilbrick, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Connecticut_General_Life_Insurance_Company_Headquarters_original.JPG",
+   "plain": true
+  },
+  {
+   "shows": "CIGNA South Office Building, Bloomfield, CT",
+   "url": "https://live.staticflickr.com/3753/12291233833_6a34a53a21_b.jpg",
+   "preview": "https://live.staticflickr.com/3753/12291233833_6a34a53a21_z.jpg",
+   "size": [
+    1024,
+    844
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by furtherandfurther on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/69249032@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/69249032@N04/12291233833",
+   "plain": true
+  },
+  {
+   "shows": "Cigna booth in the exhibit hall",
+   "url": "https://live.staticflickr.com/8323/8094184826_2f40fa7030_b.jpg",
+   "preview": "https://live.staticflickr.com/8323/8094184826_2f40fa7030_z.jpg",
+   "size": [
+    1008,
+    672
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ICMA Photos on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/31418530@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/31418530@N02/8094184826",
+   "plain": true
+  },
+  {
+   "shows": "CIGNA South Office Building, Bloomfield, CT",
+   "url": "https://live.staticflickr.com/65535/48330562341_f7ae7648d0_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/48330562341_f7ae7648d0_z.jpg",
+   "size": [
+    1024,
+    844
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by furtherandfurther8793 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/182774695@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/182774695@N02/48330562341",
    "plain": true
   }
  ]

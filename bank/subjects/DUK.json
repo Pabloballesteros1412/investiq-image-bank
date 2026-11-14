@@ -6,8 +6,42 @@
   "DUK"
  ],
  "sector": "sector-utilities",
- "fill_from": "sector-utilities",
+ "target": 10,
  "photos": [
+  {
+   "shows": "Duke Energy Plaza January 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Duke_Energy_Plaza_January_2023.jpg/1280px-Duke_Energy_Plaza_January_2023.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Duke_Energy_Plaza_January_2023.jpg/500px-Duke_Energy_Plaza_January_2023.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "City Dweller 2, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Duke_Energy_Plaza_January_2023.jpg"
+  },
+  {
+   "shows": "Duke Energy Center and The Westin Charlotte, 2010",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Duke_Energy_Center_and_The_Westin_Charlotte%2C_2010.jpg/1280px-Duke_Energy_Center_and_The_Westin_Charlotte%2C_2010.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Duke_Energy_Center_and_The_Westin_Charlotte%2C_2010.jpg/500px-Duke_Energy_Center_and_The_Westin_Charlotte%2C_2010.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Justin Cozart from Dallas, TX, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Duke_Energy_Center_and_The_Westin_Charlotte,_2010.jpg"
+  },
   {
    "shows": "Duke Energy Building St Petersburg FL 2025",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Duke_Energy_Building_St_Petersburg_FL_2025.jpg/1280px-Duke_Energy_Building_St_Petersburg_FL_2025.jpg",
@@ -78,6 +112,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Duke_Energy_Center_Charlotte.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Duke Energy Convention Center, Cincinnati, OH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Duke_Energy_Convention_Center%2C_Cincinnati%2C_OH_%2840255501013%29.jpg/1920px-Duke_Energy_Convention_Center%2C_Cincinnati%2C_OH_%2840255501013%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Duke_Energy_Convention_Center%2C_Cincinnati%2C_OH_%2840255501013%29.jpg/500px-Duke_Energy_Convention_Center%2C_Cincinnati%2C_OH_%2840255501013%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Duke_Energy_Convention_Center,_Cincinnati,_OH_(40255501013).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Old Albee Theatre Facade, Cincinnati, OH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Albee_Theatre_Facade%2C_Cincinnati%2C_OH_%2833344883528%29.jpg/1280px-Old_Albee_Theatre_Facade%2C_Cincinnati%2C_OH_%2833344883528%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Old_Albee_Theatre_Facade%2C_Cincinnati%2C_OH_%2833344883528%29.jpg/500px-Old_Albee_Theatre_Facade%2C_Cincinnati%2C_OH_%2833344883528%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Albee_Theatre_Facade,_Cincinnati,_OH_(33344883528).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aerial view of Allen Steam Station, October 2020",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_view_of_Allen_Steam_Station%2C_October_2020.JPG/1920px-Aerial_view_of_Allen_Steam_Station%2C_October_2020.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aerial_view_of_Allen_Steam_Station%2C_October_2020.JPG/500px-Aerial_view_of_Allen_Steam_Station%2C_October_2020.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi.1415926535, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Allen_Steam_Station,_October_2020.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Duke Energy Plaza November 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Duke_Energy_Plaza_November_2022.jpg/1280px-Duke_Energy_Plaza_November_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Duke_Energy_Plaza_November_2022.jpg/500px-Duke_Energy_Plaza_November_2022.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "City Dweller 2, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Duke_Energy_Plaza_November_2022.jpg",
    "plain": true
   }
  ]

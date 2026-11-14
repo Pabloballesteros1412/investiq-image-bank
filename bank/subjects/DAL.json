@@ -6,7 +6,7 @@
   "DAL"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "Ed Bastian, Delta Air Lines CEO (per Wikidata)",
@@ -150,6 +150,42 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Delta_World_HQ_-_entrance_with_security_station.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Delta Wing Event (KSC- -PH-KLS01 0076)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Delta_Wing_Event_%28KSC-20230922-PH-KLS01_0076%29.jpg/1920px-Delta_Wing_Event_%28KSC-20230922-PH-KLS01_0076%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Delta_Wing_Event_%28KSC-20230922-PH-KLS01_0076%29.jpg/500px-Delta_Wing_Event_%28KSC-20230922-PH-KLS01_0076%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Kennedy Space Center / NASA/Kim Shiflett, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Delta_Wing_Event_(KSC-20230922-PH-KLS01_0076).jpg",
+   "plain": true
+  },
+  {
+   "shows": "N661US Business Class Cabin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/N661US_Business_Class_Cabin.jpg/1920px-N661US_Business_Class_Cabin.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/N661US_Business_Class_Cabin.jpg/500px-N661US_Business_Class_Cabin.jpg",
+   "size": [
+    1920,
+    1444
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ultratweed, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:N661US_Business_Class_Cabin.jpg",
    "plain": true
   }
  ]

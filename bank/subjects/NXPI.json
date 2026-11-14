@@ -6,6 +6,7 @@
   "NXPI"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -96,6 +97,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Concept_truck_for_NXP_promotion_in_the_ENOVA_electronics_exhibition_in_Paris_Porte_de_Versailles_2016.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Blaupunkt Lancia 843 CD-Ypsilon - control panel - board - NXP PCF8576DH-7685",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Blaupunkt_Lancia_843_CD-Ypsilon_-_control_panel_-_board_-_NXP_PCF8576DH-7685.jpg/1920px-Blaupunkt_Lancia_843_CD-Ypsilon_-_control_panel_-_board_-_NXP_PCF8576DH-7685.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Blaupunkt_Lancia_843_CD-Ypsilon_-_control_panel_-_board_-_NXP_PCF8576DH-7685.jpg/500px-Blaupunkt_Lancia_843_CD-Ypsilon_-_control_panel_-_board_-_NXP_PCF8576DH-7685.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Blaupunkt_Lancia_843_CD-Ypsilon_-_control_panel_-_board_-_NXP_PCF8576DH-7685.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Philips 32PFL7762D-12 - board 1 - NXP pnx8314HS-102-7251",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Philips_32PFL7762D-12_-_board_1_-_NXP_pnx8314HS-102-7251.jpg/1920px-Philips_32PFL7762D-12_-_board_1_-_NXP_pnx8314HS-102-7251.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Philips_32PFL7762D-12_-_board_1_-_NXP_pnx8314HS-102-7251.jpg/500px-Philips_32PFL7762D-12_-_board_1_-_NXP_pnx8314HS-102-7251.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Philips_32PFL7762D-12_-_board_1_-_NXP_pnx8314HS-102-7251.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nxp sillicon mounament israel",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nxp_sillicon_mounament_israel.jpg/1920px-Nxp_sillicon_mounament_israel.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nxp_sillicon_mounament_israel.jpg/500px-Nxp_sillicon_mounament_israel.jpg",
+   "size": [
+    1920,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stas Yosupov, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Nxp_sillicon_mounament_israel.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Deutsche Telekom Sinus 501 - base station - board - NXP PHC2300-3140",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Deutsche_Telekom_Sinus_501_-_base_station_-_board_-_NXP_PHC2300-3140.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Deutsche_Telekom_Sinus_501_-_base_station_-_board_-_NXP_PHC2300-3140.jpg/500px-Deutsche_Telekom_Sinus_501_-_base_station_-_board_-_NXP_PHC2300-3140.jpg",
+   "size": [
+    1708,
+    1708
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Telekom_Sinus_501_-_base_station_-_board_-_NXP_PHC2300-3140.jpg",
    "plain": true
   }
  ]

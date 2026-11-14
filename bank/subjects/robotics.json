@@ -3,6 +3,7 @@
  "kind": "topic",
  "name": "Robotics & automation",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
    "shows": "A factory filled with lots of orange machines",
@@ -41,6 +42,23 @@
    "source": "https://unsplash.com/photos/robotic-arms-assembling-a-car-chassis-on-a-factory-line-EyqUxJuOb1Q?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Boston Dynamics Atlas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boston_Dynamics_Atlas_%283%29.jpg/1280px-Boston_Dynamics_Atlas_%283%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boston_Dynamics_Atlas_%283%29.jpg/500px-Boston_Dynamics_Atlas_%283%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Damian B Oh, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Boston_Dynamics_Atlas_(3).jpg"
+  },
+  {
    "shows": "A yellow and black robot standing in the dark",
    "url": "https://images.unsplash.com/photo-1696258686263-9f42a5e34371?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qm9zdG9uJTIwRHluYW1pY3MlMjBTcG90fGVufDF8fHx8MTc5MzkyMDI1OXww&ixlib=rb-4.1.0&w=2026&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1696258686263-9f42a5e34371?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Qm9zdG9uJTIwRHluYW1pY3MlMjBTcG90fGVufDF8fHx8MTc5MzkyMDI1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -57,6 +75,24 @@
    "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-yellow-and-black-robot-standing-in-the-dark-xtt9ohgbZu4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white and black toy truck sitting on the side of a road",
+   "url": "https://images.unsplash.com/photo-1706534259630-3c33b33fd5ce?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZGVsaXZlcnklMjByb2JvdHxlbnwxfHx8fDE3OTM5MjAyNjN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1706534259630-3c33b33fd5ce?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZGVsaXZlcnklMjByb2JvdHxlbnwxfHx8fDE3OTM5MjAyNjN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vladislav Shevchenko on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cha2ned?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-white-and-black-toy-truck-sitting-on-the-side-of-a-road-C9uU6JVz62I?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "FANUC 6-axis welding robots",
@@ -92,6 +128,347 @@
    "author_url": "https://unsplash.com/@dilip_28?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/humanoid-robot-in-white-exhibition-space-2I0yMzTI4Us?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Blue industrial robot arm in factory",
+   "url": "https://images.unsplash.com/photo-1716191299980-a6e8827ba10b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cm9ib3QlMjBhcm18ZW58MXx8fHwxNzk0NTQ5OTU5fDA&ixlib=rb-4.1.0&w=2393&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1716191299980-a6e8827ba10b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cm9ib3QlMjBhcm18ZW58MXx8fHwxNzk0NTQ5OTU5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2393,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Homa Appliances on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@homaappliances?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Tour4 Spoetzl Brewery Shiner Texas 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tour4_Spoetzl_Brewery_Shiner_Texas_2024.jpg/1920px-Tour4_Spoetzl_Brewery_Shiner_Texas_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tour4_Spoetzl_Brewery_Shiner_Texas_2024.jpg/500px-Tour4_Spoetzl_Brewery_Shiner_Texas_2024.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Larry D. Moore, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tour4_Spoetzl_Brewery_Shiner_Texas_2024.jpg"
+  },
+  {
+   "shows": "Gray vehicle being fixed inside factory using robot machines",
+   "url": "https://images.unsplash.com/photo-1567789884554-0b844b597180?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cm9ib3QlMjBmYWN0b3J5fGVufDF8fHx8MTc5NDU1MzgzOHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1567789884554-0b844b597180?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cm9ib3QlMjBmYWN0b3J5fGVufDF8fHx8MTc5NDU1MzgzOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lenny Kuhne on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lennykuhne?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/gray-vehicle-being-fixed-inside-factory-using-robot-machines-jHZ70nRk7Ns?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A group of glossy white humanoid robots against a dark blue background",
+   "url": "https://images.unsplash.com/photo-1666597107756-ef489e9f1f09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8aHVtYW5vaWQlMjByb2JvdHxlbnwxfHx8fDE3OTM4OTQ4NTB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1666597107756-ef489e9f1f09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8aHVtYW5vaWQlMjByb2JvdHxlbnwxfHx8fDE3OTM4OTQ4NTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by julien Tromeur on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@julientromeur?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/glossy-white-humanoid-robots-6UDansS-rPI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Brown dog robot toy",
+   "url": "https://images.unsplash.com/photo-1559715541-d4fc97b8d6dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cm9ib3QlMjBkb2d8ZW58MXx8fHwxNzk0NTUzOTI0fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1559715541-d4fc97b8d6dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cm9ib3QlMjBkb2d8ZW58MXx8fHwxNzk0NTUzOTI0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Brett Jordan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@brett_jordan?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/brown-dog-robot-toy-U32jeOdkgfA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White robotic arms and tangled wires on a workshop floor",
+   "url": "https://images.unsplash.com/photo-1785306589602-15f4bb004691?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGluZHVzdHJpYWwlMjByb2JvdHxlbnwxfHx8fDE3OTM5MjAyNTZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1785306589602-15f4bb004691?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGluZHVzdHJpYWwlMjByb2JvdHxlbnwxfHx8fDE3OTM5MjAyNTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Seb Reivers on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sebbiepie?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-robotic-arms-and-tangled-wires-on-a-workshop-floor-z2P4FRSbYHI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of an orange robot with a green light",
+   "url": "https://images.unsplash.com/photo-1696258686929-07cc08982ecb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qm9zdG9uJTIwRHluYW1pY3MlMjBTcG90fGVufDF8fHx8MTc5MzkyMDI1OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1696258686929-07cc08982ecb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qm9zdG9uJTIwRHluYW1pY3MlMjBTcG90fGVufDF8fHx8MTc5MzkyMDI1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mika Baumeister on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-an-orange-robot-with-a-green-light-zf5vvjgoBtU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white and black robot sitting on top of a brick road",
+   "url": "https://images.unsplash.com/photo-1717538855595-c2025a0755bb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGVsaXZlcnklMjByb2JvdHxlbnwxfHx8fDE3OTM5MjAyNjN8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1717538855595-c2025a0755bb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGVsaXZlcnklMjByb2JvdHxlbnwxfHx8fDE3OTM5MjAyNjN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1351
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Leiada Krözjhen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@leiadakrozjhen?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-white-and-black-robot-sitting-on-top-of-a-brick-road-U-WdRP2M56w?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white humanoid robot with a tablet screen displaying colorful bokeh lights",
+   "url": "https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1534723328310-e82dad3ee43f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1598
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Owen Beard on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@owenbeard?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/humanoid-robot-with-tablet-screen-K21Dn4OVxNw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Robot arm playing chess with a human hand",
+   "url": "https://images.unsplash.com/photo-1763788427927-87bc7c1fbcf7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHJvYm90JTIwYXJtfGVufDF8fHx8MTc5NDU0OTk1OXww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1763788427927-87bc7c1fbcf7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHJvYm90JTIwYXJtfGVufDF8fHx8MTc5NDU0OTk1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Amos K on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tychicus?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/robot-arm-playing-chess-with-a-human-hand-C2Dt2kSU9Jk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A robotic arm with a red nozzle above a black circuit board",
+   "url": "https://images.unsplash.com/photo-1532186773960-85649e5cb70b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJvYm90aWNzfGVufDF8fHx8MTc5NDU0OTk3MXww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1532186773960-85649e5cb70b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHJvYm90aWNzfGVufDF8fHx8MTc5NDU0OTk3MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Louis Reed on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@_louisreed?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/robotic-arm-on-circuit-board-wSTCaQpiLtc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of a motorcycle",
+   "url": "https://images.unsplash.com/photo-1641312874336-6279a832a3dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGh1bWFub2lkJTIwcm9ib3R8ZW58MXx8fHwxNzkzODk0ODUwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1641312874336-6279a832a3dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGh1bWFub2lkJTIwcm9ib3R8ZW58MXx8fHwxNzkzODk0ODUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1981
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mathew Schwartz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cadop?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-motorcycle-LobqNg0BWUo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Husky dog rests on couch near robot vacuum cleaner",
+   "url": "https://images.unsplash.com/photo-1762500824773-c171c77c29c0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cm9ib3QlMjBkb2d8ZW58MXx8fHwxNzk0NTUzOTI0fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1762500824773-c171c77c29c0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cm9ib3QlMjBkb2d8ZW58MXx8fHwxNzk0NTUzOTI0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dreame Vacuum Cleaner on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dreametech?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/husky-dog-rests-on-couch-near-robot-vacuum-cleaner-skThVPN5vH8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A child touching the finger of a white robotic hand",
+   "url": "https://images.unsplash.com/photo-1682159672286-40790338349b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHJvYm90aWN8ZW58MXx8fHwxNzk0NTUzOTM4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1682159672286-40790338349b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHJvYm90aWN8ZW58MXx8fHwxNzk0NTUzOTM4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1453
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Katja Ano on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@katjaano?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/child-touching-white-robotic-hand-_7ceGXTAtyQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of a robot that is yellow",
+   "url": "https://images.unsplash.com/photo-1696258686286-1191184126aa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Qm9zdG9uJTIwRHluYW1pY3MlMjBTcG90fGVufDF8fHx8MTc5MzkyMDI1OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1696258686286-1191184126aa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Qm9zdG9uJTIwRHluYW1pY3MlMjBTcG90fGVufDF8fHx8MTc5MzkyMDI1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mika Baumeister on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-robot-that-is-yellow-NnYbRvZUi9A?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A robot standing in front of a white wall",
+   "url": "https://images.unsplash.com/photo-1717347424091-08275b73c918?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1717347424091-08275b73c918?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHJvYm90fGVufDF8fHx8MTc5NDUxMzg1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Michael Martinelli on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@michaelmartinelli?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-robot-standing-in-front-of-a-white-wall--CPRUDsU7Mo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Man in blue crew neck t-shirt standing beside woman in orange tank top",
+   "url": "https://images.unsplash.com/photo-1581090121489-ff9b54bbee43?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJvYm90aWNzfGVufDF8fHx8MTc5NDU0OTk3MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1581090121489-ff9b54bbee43?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJvYm90aWNzfGVufDF8fHx8MTc5NDU0OTk3MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ThisisEngineering on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@thisisengineering?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/man-in-blue-crew-neck-t-shirt-standing-beside-woman-in-orange-tank-top-H4ClLKv3pqw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white delivery robot with digital eyes and an antenna",
+   "url": "https://images.unsplash.com/photo-1780942899180-fa36a51406e2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGRlbGl2ZXJ5JTIwcm9ib3R8ZW58MXx8fHwxNzkzOTIwMjYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1780942899180-fa36a51406e2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGRlbGl2ZXJ5JTIwcm9ib3R8ZW58MXx8fHwxNzkzOTIwMjYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1811
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bradley Andrews on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bradleyandroos?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-white-delivery-robot-with-digital-eyes-and-an-antenna-YXvnmzHW3UI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An orange robot with a digital screen face displaying a stylized animal expression",
+   "url": "https://images.unsplash.com/photo-1786539861470-9d9539804cef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGh1bWFub2lkJTIwcm9ib3R8ZW58MXx8fHwxNzkzODk0ODUwfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1786539861470-9d9539804cef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGh1bWFub2lkJTIwcm9ib3R8ZW58MXx8fHwxNzkzODk0ODUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Enchanted Tools on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@enchantedtools?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/orange-robot-with-digital-screen-face-dcxsZGRdty0?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

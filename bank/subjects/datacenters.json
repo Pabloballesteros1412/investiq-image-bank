@@ -3,6 +3,7 @@
  "kind": "topic",
  "name": "AI data centers & power demand",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
    "shows": "BalticServers data center",
@@ -74,22 +75,22 @@
    "source": "https://unsplash.com/photos/electrical-transformer-in-power-substation-VuR4oHZ3ucc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "A server room with rows of black and white cabinets under blue cables",
-   "url": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyJTIwcm9vbXxlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "A messy network server room showing wires, patch panels in a room",
+   "url": "https://pd.w.org/2025/03/64767dd6fa0a274a7.16922418-1542x2048.jpg",
+   "preview": "https://pd.w.org/2025/03/64767dd6fa0a274a7.16922418-768x1020.jpg",
    "size": [
-    2400,
-    1350
+    1542,
+    2048
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Taylor Vick on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@tvick?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/server-room-with-network-cabinets-aWslrFhs1w4?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "Photo by Moses Cursor Ssebunya on WordPress.org Photos, CC0",
+   "licence": "CC0 1.0",
+   "author_url": "https://wordpress.org/photos/author/mosescursor/",
+   "provider": "wordpress",
+   "source": "https://wordpress.org/photos/photo/64767dd6fa/"
   },
   {
    "shows": "A rack of servers with wires and wires attached to them",
@@ -144,6 +145,272 @@
    "author_url": "https://unsplash.com/@publicpowerorg?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/power-plant-illuminated-at-night-bv2pvCGMtzg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A server room with rows of black and white cabinets under blue cables",
+   "url": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyc3xlbnwxfHx8fDE3OTQ1MTc0NjR8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1564457461758-8ff96e439e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c2VydmVyc3xlbnwxfHx8fDE3OTQ1MTc0NjR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Taylor Vick on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tvick?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/server-room-with-network-cabinets-aWslrFhs1w4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Network Aisle Front",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Network_Aisle_Front.jpg/1920px-Network_Aisle_Front.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Network_Aisle_Front.jpg/500px-Network_Aisle_Front.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Robert.Harker, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Network_Aisle_Front.jpg"
+  },
+  {
+   "shows": "A body of water with two cooling towers in the background",
+   "url": "https://images.unsplash.com/photo-1729954924953-ff957b3e9edc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1729954924953-ff957b3e9edc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Hansjörg Keller on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kel_foto?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-body-of-water-with-two-cooling-towers-in-the-background-WmQgU73hngg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Summit Computer Room Installation (rubin- - )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Summit_Computer_Room_Installation_%28rubin-2018-05-02-192537%29.jpg/1920px-Summit_Computer_Room_Installation_%28rubin-2018-05-02-192537%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Summit_Computer_Room_Installation_%28rubin-2018-05-02-192537%29.jpg/500px-Summit_Computer_Room_Installation_%28rubin-2018-05-02-192537%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rubin Observatory/ NSF /AURA, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Summit_Computer_Room_Installation_(rubin-2018-05-02-192537).jpg"
+  },
+  {
+   "shows": "Transmission Lines at Sunset",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Transmission_Lines_at_Sunset.jpg/1920px-Transmission_Lines_at_Sunset.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Transmission_Lines_at_Sunset.jpg/500px-Transmission_Lines_at_Sunset.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kkiefuik This photo was taken with Canon EOS 90D, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Transmission_Lines_at_Sunset.jpg"
+  },
+  {
+   "shows": "Blue UTP cord",
+   "url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmV0d29ya3xlbnwxfHx8fDE3OTQ2NjE5MTF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmV0d29ya3xlbnwxfHx8fDE3OTQ2NjE5MTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jordan Harrison on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jouwdan?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-utp-cord-40XgDxBfYXM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The sun is setting behind the power lines",
+   "url": "https://images.unsplash.com/photo-1721498273717-7a152d3ec13e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1721498273717-7a152d3ec13e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dHJhbnNtaXNzaW9uJTIwdG93ZXJ8ZW58MXx8fHwxNzkzOTM4NDA0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bernd 📷 Dittrich on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hdbernd?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/the-sun-is-setting-behind-the-power-lines-OV-I7MqYg4k?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Four large concrete cooling towers emitting steam under a dark cloudy sky",
+   "url": "https://images.unsplash.com/photo-1630142896875-d71a6ee6db03?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1630142896875-d71a6ee6db03?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29vbGluZyUyMHRvd2Vyc3xlbnwxfHx8fDE3OTQ1MTc0Njl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2246,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lukáš Lehotský on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@llehotsky?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/cooling-towers-at-industrial-power-plant-ixcHGhae2mg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Cable network",
+   "url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmV0d29ya3xlbnwxfHx8fDE3OTQ2NjE5MTF8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmV0d29ya3xlbnwxfHx8fDE3OTQ2NjE5MTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1347
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Taylor Vick on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tvick?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/cable-network-M5tzZtFCOfs?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Silver and black hard disk drive",
+   "url": "https://images.unsplash.com/photo-1601737487795-dab272f52420?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8aGFyZCUyMGRyaXZlfGVufDF8fHx8MTc5NDY2MTkzOXww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1601737487795-dab272f52420?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8aGFyZCUyMGRyaXZlfGVufDF8fHx8MTc5NDY2MTkzOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nick on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nkend?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/silver-and-black-hard-disk-drive-VYfxkePredI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Power lines , electricity pylons at Raitersaich substation, Roßtal, Germany",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Raitersaich_SK_DSC_0028.jpg/1920px-Raitersaich_SK_DSC_0028.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Raitersaich_SK_DSC_0028.jpg/500px-Raitersaich_SK_DSC_0028.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Simon Koopmann, CC BY-SA 3.0 de, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0 de",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raitersaich_SK_DSC_0028.jpg"
+  },
+  {
+   "shows": "A black and white photo of smoke coming out of a factory",
+   "url": "https://images.unsplash.com/photo-1688763699666-88cef43ac4e4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNvb2xpbmclMjB0b3dlcnN8ZW58MXx8fHwxNzk0NTE3NDY5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1688763699666-88cef43ac4e4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNvb2xpbmclMjB0b3dlcnN8ZW58MXx8fHwxNzk0NTE3NDY5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Andry Sagatelov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@theoldbeautifulman?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-black-and-white-photo-of-smoke-coming-out-of-a-factory-HWaZyJ4SyrU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black electric tower under blue sky during daytime",
+   "url": "https://images.unsplash.com/photo-1596072215997-cac821d05b9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1596072215997-cac821d05b9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHRyYW5zbWlzc2lvbiUyMHRvd2VyfGVufDF8fHx8MTc5MzkzODQwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Leohoho on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@leohoho?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-electric-tower-under-blue-sky-during-daytime-q22jhy4vwoA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Power plant cooling towers rise behind a hill",
+   "url": "https://images.unsplash.com/photo-1776653096709-82782ccda652?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvb2xpbmclMjB0b3dlcnN8ZW58MXx8fHwxNzk0NTE3NDY5fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1776653096709-82782ccda652?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvb2xpbmclMjB0b3dlcnN8ZW58MXx8fHwxNzk0NTE3NDY5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jason hu on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hujason?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/power-plant-cooling-towers-rise-behind-a-hill-uQjM-W6X2h0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A body of water with a group of smokestacks in the distance",
+   "url": "https://images.unsplash.com/photo-1664284163483-e6ce0a068a20?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGNvb2xpbmclMjB0b3dlcnN8ZW58MXx8fHwxNzk0NTE3NDY5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1664284163483-e6ce0a068a20?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGNvb2xpbmclMjB0b3dlcnN8ZW58MXx8fHwxNzk0NTE3NDY5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lee Lawson on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lawsonlee?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-body-of-water-with-a-group-of-smokestacks-in-the-distance-KT000dVUJj4?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

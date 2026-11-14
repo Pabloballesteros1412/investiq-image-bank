@@ -6,6 +6,7 @@
   "HIG"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
   {
@@ -59,6 +60,42 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_Hartford_Insurance_Group,_Inc._(55621080635).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hartford Plaza 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hartford_Plaza_3.jpg/1280px-Hartford_Plaza_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Hartford_Plaza_3.jpg/500px-Hartford_Plaza_3.jpg",
+   "size": [
+    1280,
+    2051
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wobbanight, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hartford_Plaza_3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hartford Fire Insurance Company Building 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hartford_Fire_Insurance_Company_Building_1.jpg/1920px-Hartford_Fire_Insurance_Company_Building_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Hartford_Fire_Insurance_Company_Building_1.jpg/500px-Hartford_Fire_Insurance_Company_Building_1.jpg",
+   "size": [
+    1920,
+    996
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wobbanight, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hartford_Fire_Insurance_Company_Building_1.jpg",
    "plain": true
   }
  ]

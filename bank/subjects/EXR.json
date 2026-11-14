@@ -6,7 +6,7 @@
   "EXR"
  ],
  "sector": "sector-real-estate",
- "fill_from": "sector-real-estate",
+ "target": 10,
  "photos": [
   {
    "shows": "Extra Space Storage office in Kingstowne",
@@ -41,6 +41,23 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_February_2023_061.jpg"
+  },
+  {
+   "shows": "Extra Space Storage Miami",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Extra_Space_Storage_Miami.jpg/1920px-Extra_Space_Storage_Miami.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Extra_Space_Storage_Miami.jpg/500px-Extra_Space_Storage_Miami.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Extra_Space_Storage_Miami.jpg"
   },
   {
    "shows": "Extra Space Storage Miami",
@@ -148,6 +165,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Extra_Space_Storage_at_night_(51804816070).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Long Island City Queens February 2026 195",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Long_Island_City_Queens_February_2026_195.jpg/1920px-Long_Island_City_Queens_February_2026_195.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Long_Island_City_Queens_February_2026_195.jpg/500px-Long_Island_City_Queens_February_2026_195.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_Queens_February_2026_195.jpg",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "FSLR"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -24,6 +25,26 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_(15863210084).jpg"
+  },
+  {
+   "shows": "First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels",
+   "url": "https://live.staticflickr.com/3411/5815934553_8895250e65_b.jpg",
+   "preview": "https://live.staticflickr.com/3411/5815934553_8895250e65_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by russf on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/97785072@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/97785072@N00/5815934553",
+   "plain": true
   },
   {
    "shows": "First Solar in Frankfurt/Oder.",
@@ -59,6 +80,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Dornbirn-Montfortstrasse_21-MEW-Dach-FirstSolar-MuenchenSolar-01ASD.jpg",
+   "plain": true
+  },
+  {
+   "shows": "First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels",
+   "url": "https://live.staticflickr.com/2065/5815984067_8bb1702b08_b.jpg",
+   "preview": "https://live.staticflickr.com/2065/5815984067_8bb1702b08_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by russf on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/97785072@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/97785072@N00/5815984067",
+   "plain": true
+  },
+  {
+   "shows": "First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels",
+   "url": "https://live.staticflickr.com/3384/5816501280_4e90306c02_b.jpg",
+   "preview": "https://live.staticflickr.com/3384/5816501280_4e90306c02_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by russf on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/97785072@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/97785072@N00/5816501280",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "WEC"
  ],
  "sector": "sector-utilities",
+ "target": 10,
  "fill_from": "sector-utilities",
  "photos": [
   {
@@ -42,6 +43,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Presque_Isle_Power_Plant.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Milwaukee July 2023 004 (Public Service Building)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Milwaukee_July_2023_004_%28Public_Service_Building%29.jpg/1920px-Milwaukee_July_2023_004_%28Public_Service_Building%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Milwaukee_July_2023_004_%28Public_Service_Building%29.jpg/500px-Milwaukee_July_2023_004_%28Public_Service_Building%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_July_2023_004_(Public_Service_Building).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Public Service Building Milwaukee Wisconsin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Public_Service_Building_Milwaukee_Wisconsin.jpg/1920px-Public_Service_Building_Milwaukee_Wisconsin.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Public_Service_Building_Milwaukee_Wisconsin.jpg/500px-Public_Service_Building_Milwaukee_Wisconsin.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Royalbroil, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Public_Service_Building_Milwaukee_Wisconsin.jpg",
    "plain": true
   }
  ]

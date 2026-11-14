@@ -6,6 +6,7 @@
   "ADI"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -60,6 +61,102 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_Analog_Devices_Building_at_the_University_of_Limerick_(2016).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kramer Electronics SID-X1N - board - Analog Devices ADV7623-5542",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kramer_Electronics_SID-X1N_-_board_-_Analog_Devices_ADV7623-5542.jpg/1920px-Kramer_Electronics_SID-X1N_-_board_-_Analog_Devices_ADV7623-5542.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kramer_Electronics_SID-X1N_-_board_-_Analog_Devices_ADV7623-5542.jpg/500px-Kramer_Electronics_SID-X1N_-_board_-_Analog_Devices_ADV7623-5542.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kramer_Electronics_SID-X1N_-_board_-_Analog_Devices_ADV7623-5542.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Orckit ORfast-R2-A-SA-U-W - board 3 - Analog Devices AD768AR-1919",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Orckit_ORfast-R2-A-SA-U-W_-_board_3_-_Analog_Devices_AD768AR-1919.jpg/1920px-Orckit_ORfast-R2-A-SA-U-W_-_board_3_-_Analog_Devices_AD768AR-1919.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Orckit_ORfast-R2-A-SA-U-W_-_board_3_-_Analog_Devices_AD768AR-1919.jpg/500px-Orckit_ORfast-R2-A-SA-U-W_-_board_3_-_Analog_Devices_AD768AR-1919.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Orckit_ORfast-R2-A-SA-U-W_-_board_3_-_Analog_Devices_AD768AR-1919.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Analog Devices · electronics, elektor, airport, business, city",
+   "url": "https://live.staticflickr.com/5606/15632554259_954cc7a783_b.jpg",
+   "preview": "https://live.staticflickr.com/5606/15632554259_954cc7a783_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by elektorlabs on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/128772740@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/128772740@N08/15632554259",
+   "plain": true
+  },
+  {
+   "shows": "Analog Devices (ADI) ADP3186 Synchronous Buck Controller (Colour Corrected)",
+   "url": "https://live.staticflickr.com/65535/49899780366_06a85906d3_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49899780366_06a85906d3_z.jpg",
+   "size": [
+    1001,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by cole8888 on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/187597251@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/187597251@N05/49899780366",
+   "plain": true
+  },
+  {
+   "shows": "Analog Devices (ADI) ADP3186 Package",
+   "url": "https://live.staticflickr.com/65535/49899267973_013607859f_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49899267973_013607859f_z.jpg",
+   "size": [
+    1000,
+    1000
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by cole8888 on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/187597251@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/187597251@N05/49899267973",
    "plain": true
   }
  ]

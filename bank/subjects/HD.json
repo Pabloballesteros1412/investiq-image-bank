@@ -6,6 +6,7 @@
   "HD"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 30,
  "photos": [
   {
    "shows": "The Home Depot Shopping Center Street Signage in Ontario, Oregon",
@@ -91,6 +92,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_Home_Improvement_Store_in_Ontario,_Oregon.jpg"
+  },
+  {
+   "shows": "Home Depot (Buckland Hills)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Home_Depot_%28Buckland_Hills%29_%2852008479162%29.jpg/1920px-Home_Depot_%28Buckland_Hills%29_%2852008479162%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Home_Depot_%28Buckland_Hills%29_%2852008479162%29.jpg/500px-Home_Depot_%28Buckland_Hills%29_%2852008479162%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Windham, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_(Buckland_Hills)_(52008479162).jpg"
   },
   {
    "shows": "Home Depot Interior 2",
@@ -180,6 +198,348 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:The_appliances_section_of_a_Home_Depot_store_in_Blairsville,_Ga.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Curbside pickup sign at a Home Depot in Eugene, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Curbside_pickup_sign_at_a_Home_Depot_in_Eugene%2C_Oregon.jpg/1920px-Curbside_pickup_sign_at_a_Home_Depot_in_Eugene%2C_Oregon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Curbside_pickup_sign_at_a_Home_Depot_in_Eugene%2C_Oregon.jpg/500px-Curbside_pickup_sign_at_a_Home_Depot_in_Eugene%2C_Oregon.jpg",
+   "size": [
+    1920,
+    1391
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rick Obst, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Curbside_pickup_sign_at_a_Home_Depot_in_Eugene,_Oregon.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot's Garden Center in Ontario, Oregon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Home_Depot%27s_Garden_Center_in_Ontario%2C_Oregon.jpg/1920px-Home_Depot%27s_Garden_Center_in_Ontario%2C_Oregon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Home_Depot%27s_Garden_Center_in_Ontario%2C_Oregon.jpg/500px-Home_Depot%27s_Garden_Center_in_Ontario%2C_Oregon.jpg",
+   "size": [
+    1920,
+    1442
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rick Obst, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot%27s_Garden_Center_in_Ontario,_Oregon.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot, Bainbridge",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Home_Depot%2C_Bainbridge.jpg/1920px-Home_Depot%2C_Bainbridge.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Home_Depot%2C_Bainbridge.jpg/500px-Home_Depot%2C_Bainbridge.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot,_Bainbridge.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot, Griffin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Home_Depot%2C_Griffin.JPG/1920px-Home_Depot%2C_Griffin.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Home_Depot%2C_Griffin.JPG/500px-Home_Depot%2C_Griffin.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot,_Griffin.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot - Kitchener, ON",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Home_Depot_-_Kitchener%2C_ON.jpg/1920px-Home_Depot_-_Kitchener%2C_ON.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Home_Depot_-_Kitchener%2C_ON.jpg/500px-Home_Depot_-_Kitchener%2C_ON.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JFVoll, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_-_Kitchener,_ON.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot Plaza sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Home_Depot_Plaza_sign.jpg/1280px-Home_Depot_Plaza_sign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Home_Depot_Plaza_sign.jpg/500px-Home_Depot_Plaza_sign.jpg",
+   "size": [
+    1280,
+    2311
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_Plaza_sign.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot front Tulsa OK 12-25-43",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg/1920px-Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg/500px-Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg",
+   "size": [
+    1920,
+    960
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "G. Edward Johnson, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_front_Tulsa_OK_2024-11-10_12-25-43.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot, Valdosta",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Home_Depot%2C_Valdosta.JPG/1920px-Home_Depot%2C_Valdosta.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Home_Depot%2C_Valdosta.JPG/500px-Home_Depot%2C_Valdosta.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot,_Valdosta.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot - June 2024 - Sarah Stierch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Home_Depot_-_June_2024_-_Sarah_Stierch.jpg/1280px-Home_Depot_-_June_2024_-_Sarah_Stierch.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Home_Depot_-_June_2024_-_Sarah_Stierch.jpg/500px-Home_Depot_-_June_2024_-_Sarah_Stierch.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_-_June_2024_-_Sarah_Stierch.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot (Berlin, Connecticut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Home_Depot_%28Berlin%2C_Connecticut%29_%2851584147020%29.jpg/1920px-Home_Depot_%28Berlin%2C_Connecticut%29_%2851584147020%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Home_Depot_%28Berlin%2C_Connecticut%29_%2851584147020%29.jpg/500px-Home_Depot_%28Berlin%2C_Connecticut%29_%2851584147020%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_(Berlin,_Connecticut)_(51584147020).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot (Bloomfield, Connecticut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Home_Depot_%28Bloomfield%2C_Connecticut%29_%2851688036059%29.jpg/1920px-Home_Depot_%28Bloomfield%2C_Connecticut%29_%2851688036059%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Home_Depot_%28Bloomfield%2C_Connecticut%29_%2851688036059%29.jpg/500px-Home_Depot_%28Bloomfield%2C_Connecticut%29_%2851688036059%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_(Bloomfield,_Connecticut)_(51688036059).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot (Glastonbury, Connecitcut)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Home_Depot_%28Glastonbury%2C_Connecitcut%29_%2851183748786%29.jpg/1920px-Home_Depot_%28Glastonbury%2C_Connecitcut%29_%2851183748786%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Home_Depot_%28Glastonbury%2C_Connecitcut%29_%2851183748786%29.jpg/500px-Home_Depot_%28Glastonbury%2C_Connecitcut%29_%2851183748786%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JJBers from Willimantic, Connecticut, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_(Glastonbury,_Connecitcut)_(51183748786).jpg",
+   "plain": true
+  },
+  {
+   "shows": "The Home Depot, St. Lucie West, Port St. Lucie, FL",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Home_Depot%2C_St._Lucie_West%2C_Port_St._Lucie%2C_FL.jpg/1920px-The_Home_Depot%2C_St._Lucie_West%2C_Port_St._Lucie%2C_FL.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Home_Depot%2C_St._Lucie_West%2C_Port_St._Lucie%2C_FL.jpg/500px-The_Home_Depot%2C_St._Lucie_West%2C_Port_St._Lucie%2C_FL.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Winnebaggo, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Home_Depot,_St._Lucie_West,_Port_St._Lucie,_FL.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot, Macon",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Home_Depot%2C_Macon.jpg/1920px-Home_Depot%2C_Macon.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Home_Depot%2C_Macon.jpg/500px-Home_Depot%2C_Macon.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot,_Macon.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot Interior 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Home_Depot_Interior_1.jpg/1280px-Home_Depot_Interior_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Home_Depot_Interior_1.jpg/500px-Home_Depot_Interior_1.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Plantsmushrooms, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_Interior_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ford Transit Home Depot Rental Truck",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ford_Transit_Home_Depot_Rental_Truck.jpg/1920px-Ford_Transit_Home_Depot_Rental_Truck.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ford_Transit_Home_Depot_Rental_Truck.jpg/500px-Ford_Transit_Home_Depot_Rental_Truck.jpg",
+   "size": [
+    1920,
+    1257
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ford_Transit_Home_Depot_Rental_Truck.jpg",
+   "plain": true
+  },
+  {
+   "shows": "BobCat on trailer in rental posture at Home Depot in Burlington, Ontario, Canada - QEW",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/BobCat_on_trailer_in_rental_posture_at_Home_Depot_in_Burlington%2C_Ontario%2C_Canada_-_QEW.jpg/1920px-BobCat_on_trailer_in_rental_posture_at_Home_Depot_in_Burlington%2C_Ontario%2C_Canada_-_QEW.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/BobCat_on_trailer_in_rental_posture_at_Home_Depot_in_Burlington%2C_Ontario%2C_Canada_-_QEW.jpg/500px-BobCat_on_trailer_in_rental_posture_at_Home_Depot_in_Burlington%2C_Ontario%2C_Canada_-_QEW.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Britcouple007's Cam, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BobCat_on_trailer_in_rental_posture_at_Home_Depot_in_Burlington,_Ontario,_Canada_-_QEW.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot at Vista Palms Orlando FL 15-39-07",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Home_Depot_at_Vista_Palms_Orlando_FL_2025-02-12_15-39-07.jpg/1920px-Home_Depot_at_Vista_Palms_Orlando_FL_2025-02-12_15-39-07.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Home_Depot_at_Vista_Palms_Orlando_FL_2025-02-12_15-39-07.jpg/500px-Home_Depot_at_Vista_Palms_Orlando_FL_2025-02-12_15-39-07.jpg",
+   "size": [
+    1920,
+    960
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "G. Edward Johnson, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_at_Vista_Palms_Orlando_FL_2025-02-12_15-39-07.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Home Depot at 8815 N Florida Ave, Tampa, Florida, 19 April 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Home_Depot_at_8815_N_Florida_Ave%2C_Tampa%2C_Florida%2C_19_April_2026_%2801%29.jpg/1920px-Home_Depot_at_8815_N_Florida_Ave%2C_Tampa%2C_Florida%2C_19_April_2026_%2801%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Home_Depot_at_8815_N_Florida_Ave%2C_Tampa%2C_Florida%2C_19_April_2026_%2801%29.jpg/500px-Home_Depot_at_8815_N_Florida_Ave%2C_Tampa%2C_Florida%2C_19_April_2026_%2801%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MatthewHoobin, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Home_Depot_at_8815_N_Florida_Ave,_Tampa,_Florida,_19_April_2026_(01).jpg",
    "plain": true
   }
  ]

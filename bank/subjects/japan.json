@@ -3,24 +3,25 @@
  "kind": "topic",
  "name": "Japan economy",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
-   "shows": "Tokyo tower illuminated at dusk with city skyline",
-   "url": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VG9reW8lMjBza3lsaW5lfGVufDF8fHx8MTc5MzkyMzY4OXww&ixlib=rb-4.1.0&w=2254&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8VG9reW8lMjBza3lsaW5lfGVufDF8fHx8MTc5MzkyMzY4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "The Rainbow Bridge stretches across the blue waters of Tokyo Bay beneath a clear blue sky, with the skyline from Tennozu to Odaiba visible in the distance",
+   "url": "https://pd.w.org/2025/06/629685958629ad912.78361745.jpg",
+   "preview": "https://pd.w.org/2025/06/629685958629ad912.78361745-768x512.jpg",
    "size": [
-    2254,
-    1501
+    5568,
+    3712
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Louie Martinez on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@thetalkinglens?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/tokyo-tower-illuminated-at-dusk-with-city-skyline-IocJwyqRv3M?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "Photo by Masaki Endo on WordPress.org Photos, CC0",
+   "licence": "CC0 1.0",
+   "author_url": "https://wordpress.org/photos/author/beansg/",
+   "provider": "wordpress",
+   "source": "https://wordpress.org/photos/photo/6296859586/"
   },
   {
    "shows": "Crowds of people crossing the Shibuya scramble intersection at night in Tokyo",
@@ -76,6 +77,41 @@
    "source": "https://unsplash.com/photos/white-and-black-train-on-rail-tIA68glTme0?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Osaka Skyline from Tsutenkaku UTC+9",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Osaka_Skyline_from_Tsutenkaku_20260510_110100_UTC%2B9.jpg/1920px-Osaka_Skyline_from_Tsutenkaku_20260510_110100_UTC%2B9.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Osaka_Skyline_from_Tsutenkaku_20260510_110100_UTC%2B9.jpg/500px-Osaka_Skyline_from_Tsutenkaku_20260510_110100_UTC%2B9.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Loggieloggie, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Osaka_Skyline_from_Tsutenkaku_20260510_110100_UTC%2B9.jpg"
+  },
+  {
+   "shows": "Cars on road near high rise buildings during daytime",
+   "url": "https://images.unsplash.com/photo-1581402446962-455000661393?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEdpbnphfGVufDF8fHx8MTc5MzkyNzMwMHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1581402446962-455000661393?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEdpbnphfGVufDF8fHx8MTc5MzkyNzMwMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jeriel Jan del Prado on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jerieljan?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/cars-on-road-near-high-rise-buildings-during-daytime-S2gd2CHknvg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "A narrow alleyway in Tokyo at night with glowing red lanterns and illuminated signs",
    "url": "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VG9reW8lMjBuaWdodHxlbnwxfHx8fDE3OTM5MjczMDF8MA&ixlib=rb-4.1.0&w=2172&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1573455494060-c5595004fb6c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8VG9reW8lMjBuaWdodHxlbnwxfHx8fDE3OTM5MjczMDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -92,6 +128,558 @@
    "author_url": "https://unsplash.com/@dnevozhai?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/alleyway-with-red-lanterns-in-tokyo-D68ADLeMh5Q?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Cars driving through a neon-lit intersection in Shibuya, Tokyo, at night",
+   "url": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dG9reW98ZW58MXx8fHwxNzk0NTU3MTgxfDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dG9reW98ZW58MXx8fHwxNzk0NTU3MTgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jezael Melgoza on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jezar?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/cars-in-neon-shibuya-intersection-alY6_OpdwRQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The Chureito Pagoda overlooking the city of Fujiyoshida and Mount Fuji in Japan",
+   "url": "https://images.unsplash.com/photo-1528164344705-47542687000d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8amFwYW58ZW58MXx8fHwxNzk0NTU3MjU2fDA&ixlib=rb-4.1.0&w=2307&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1528164344705-47542687000d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8amFwYW58ZW58MXx8fHwxNzk0NTU3MjU2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2307,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Manuel Cosentino on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@manucosen?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/chureito-pagoda-and-mount-fuji-n--CMLApjfI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "People walking on street during daytime",
+   "url": "https://images.unsplash.com/photo-1590559899731-a382839e5549?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8b3Nha2F8ZW58MXx8fHwxNzk0NTU3MjY5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1590559899731-a382839e5549?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8b3Nha2F8ZW58MXx8fHwxNzk0NTU3MjY5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kit Ko on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kokit1202?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/people-walking-on-street-during-daytime-9zYjlA4LqTU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Red paper lanterns hanging in a narrow alleyway in Shinjuku City, Tokyo",
+   "url": "https://images.unsplash.com/photo-1617870314635-fc819547ec11?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2hpbmp1a3V8ZW58MXx8fHwxNzk0NTU3Mjc2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1617870314635-fc819547ec11?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c2hpbmp1a3V8ZW58MXx8fHwxNzk0NTU3Mjc2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pema G. Lama on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@peemaglama?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/red-lanterns-in-shinjuku-city-alley-6cfK0SEtpbY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Mount Fuji with snow-covered peak under a clear blue sky in Fujinomiya, Japan",
+   "url": "https://images.unsplash.com/photo-1578637387939-43c525550085?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bW91bnQlMjBmdWppfGVufDF8fHx8MTc5NDU1NzI4NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1578637387939-43c525550085?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bW91bnQlMjBmdWppfGVufDF8fHx8MTc5NDU1NzI4NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Aditya Anjagi on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@visuard?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/mount-fuji-in-fujinomiya-japan-KZSDCocsOEE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Tokyo tower illuminated at dusk with city skyline",
+   "url": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8dG9reW8lMjB0b3dlcnxlbnwxfHx8fDE3OTQ1NTcyOTJ8MA&ixlib=rb-4.1.0&w=2254&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1513407030348-c983a97b98d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8dG9reW8lMjB0b3dlcnxlbnwxfHx8fDE3OTQ1NTcyOTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2254,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Louie Martinez on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@thetalkinglens?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/tokyo-tower-illuminated-at-dusk-with-city-skyline-IocJwyqRv3M?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A traditional pagoda rising above a narrow street in Kyoto, Japan, at golden hour",
+   "url": "https://images.unsplash.com/photo-1624253321171-1be53e12f5f4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8a3lvdG98ZW58MXx8fHwxNzk0NTU3Mjk5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1624253321171-1be53e12f5f4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8a3lvdG98ZW58MXx8fHwxNzk0NTU3Mjk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Roméo A. on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@gronemo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/pagoda-on-narrow-street-in-kyoto-SlIl9eZjWUc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A flag flying in front of a building",
+   "url": "https://images.unsplash.com/photo-1714392050687-5a57f2daa874?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8amFwYW5lc2UlMjBmbGFnfGVufDF8fHx8MTc5NDU1NzMwNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1714392050687-5a57f2daa874?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8amFwYW5lc2UlMjBmbGFnfGVufDF8fHx8MTc5NDU1NzMwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Fumiaki Hayashi on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@fumirin?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-flag-flying-in-front-of-a-building-7TfsC_hfrAY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Tokyo Tower glowing orange above the dark blue cityscape of Minato City, Japan",
+   "url": "https://images.unsplash.com/photo-1606044466411-207a9a49711f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dG9reW8lMjBza3lsaW5lJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTU3MzEyfDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1606044466411-207a9a49711f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dG9reW8lMjBza3lsaW5lJTIwbmlnaHR8ZW58MXx8fHwxNzk0NTU3MzEyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Marek Okon on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@marekokon?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/tokyo-tower-at-night-in-tokyo-3-esk8zPwPY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Minato City, Tokyo, Japan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/1920px-Minato_City%2C_Tokyo%2C_Japan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/500px-Minato_City%2C_Tokyo%2C_Japan.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "David Kernan, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg"
+  },
+  {
+   "shows": "Aerial view of city buildings during night time",
+   "url": "https://images.unsplash.com/photo-1602646993760-7b885ba225af?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U2hpYnV5YSUyMENyb3NzaW5nfGVufDF8fHx8MTc5MzkyMzY5Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1602646993760-7b885ba225af?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8U2hpYnV5YSUyMENyb3NzaW5nfGVufDF8fHx8MTc5MzkyMzY5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jet dela cruz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jetjetdelacruz?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-night-time-E5JGJjgADGE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white Shinkansen bullet train arriving at a modern railway station platform",
+   "url": "https://images.unsplash.com/photo-1514337224818-9787cf717f2a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U2hpbmthbnNlbnxlbnwxfHx8fDE3OTM5MjcyOTZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1514337224818-9787cf717f2a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U2hpbmthbnNlbnxlbnwxfHx8fDE3OTM5MjcyOTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Fikri Rasyid on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@fikrirasyid?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/shinkansen-bullet-train-at-station-3ba59K57wE4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A crowd of people crossing a street in a city",
+   "url": "https://images.unsplash.com/photo-1727887165061-ca3904b140bd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEdpbnphfGVufDF8fHx8MTc5MzkyNzMwMHww&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1727887165061-ca3904b140bd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEdpbnphfGVufDF8fHx8MTc5MzkyNzMwMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2255,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ryunosuke Kikuno on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@ryunosuke_kikuno?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-crowd-of-people-crossing-a-street-in-a-city-ygbSezvTOQ8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A wet street at night in Tokyo with neon lights reflecting on the pavement",
+   "url": "https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VG9reW8lMjBuaWdodHxlbnwxfHx8fDE3OTM5MjczMDF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1601042879364-f3947d3f9c16?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VG9reW8lMjBuaWdodHxlbnwxfHx8fDE3OTM5MjczMDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1799
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Valentin BEAUVAIS on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@valentinbvs?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/wet-street-at-night-in-tokyo-yVUQlyRlJSw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Tokyo Shibuya Scramble Crossing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/1920px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/500px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Benh LIEU SONG ( Flickr ), CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
+  },
+  {
+   "shows": "Three bicycles parked in front of building",
+   "url": "https://images.unsplash.com/photo-1480796927426-f609979314bd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8amFwYW58ZW58MXx8fHwxNzk0NTU3MjU2fDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1480796927426-f609979314bd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8amFwYW58ZW58MXx8fHwxNzk0NTU3MjU2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Clay Banks on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@claybanks?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/three-bicycles-parked-in-front-of-building-hwLAI5lRhdM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Boat on river between high rise buildings during nighttime",
+   "url": "https://images.unsplash.com/photo-1584505489290-96eb4e406d08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b3Nha2F8ZW58MXx8fHwxNzk0NTU3MjY5fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1584505489290-96eb4e406d08?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8b3Nha2F8ZW58MXx8fHwxNzk0NTU3MjY5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Juliana Barquero on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@juliebaa?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/boat-on-river-between-high-rise-buildings-during-nighttime-WaHPhFveWLk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Buildings with colorful neon street signs at blue hour, Shinjuku, Tokyo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Buildings_with_colorful_neon_street_signs_at_blue_hour%2C_Shinjuku%2C_Tokyo.jpg/1920px-Buildings_with_colorful_neon_street_signs_at_blue_hour%2C_Shinjuku%2C_Tokyo.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Buildings_with_colorful_neon_street_signs_at_blue_hour%2C_Shinjuku%2C_Tokyo.jpg/500px-Buildings_with_colorful_neon_street_signs_at_blue_hour%2C_Shinjuku%2C_Tokyo.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Buildings_with_colorful_neon_street_signs_at_blue_hour,_Shinjuku,_Tokyo.jpg"
+  },
+  {
+   "shows": "Tokyo Tower at night 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tokyo_Tower_at_night_2.JPG/1280px-Tokyo_Tower_at_night_2.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tokyo_Tower_at_night_2.JPG/500px-Tokyo_Tower_at_night_2.JPG",
+   "size": [
+    1280,
+    1823
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "kakidai, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_at_night_2.JPG"
+  },
+  {
+   "shows": "A stone path through a tunnel of orange torii gates in Kyoto, Japan",
+   "url": "https://images.unsplash.com/photo-1558862107-d49ef2a04d72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8a3lvdG98ZW58MXx8fHwxNzk0NTU3Mjk5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1558862107-d49ef2a04d72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8a3lvdG98ZW58MXx8fHwxNzk0NTU3Mjk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by David Emrich on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@davidemrich?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/torii-gates-in-kyoto-EJvGBYjrwEA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A japanese flag flying in front of a mountain",
+   "url": "https://images.unsplash.com/photo-1671486794165-061d7625cc40?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8amFwYW5lc2UlMjBmbGFnfGVufDF8fHx8MTc5NDU1NzMwNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1671486794165-061d7625cc40?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8amFwYW5lc2UlMjBmbGFnfGVufDF8fHx8MTc5NDU1NzMwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Caleb Jack on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hitthetrailjack?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-japanese-flag-flying-in-front-of-a-mountain-dgwF_NzAEyg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Aerial photography of city",
+   "url": "https://images.unsplash.com/photo-1573456373835-579c408de263?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U2hpYnV5YSUyMENyb3NzaW5nfGVufDF8fHx8MTc5MzkyMzY5Mnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1573456373835-579c408de263?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8U2hpYnV5YSUyMENyb3NzaW5nfGVufDF8fHx8MTc5MzkyMzY5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1481
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Denys Nevozhai on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dnevozhai?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/aerial-photography-of-city-6ULy3pxuxL8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white bullet train pulling into a train station",
+   "url": "https://images.unsplash.com/photo-1695833913339-f2591ac948ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFNoaW5rYW5zZW58ZW58MXx8fHwxNzkzOTI3Mjk2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1695833913339-f2591ac948ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFNoaW5rYW5zZW58ZW58MXx8fHwxNzkzOTI3Mjk2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Antonio Fadel on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@fi_fa?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-white-bullet-train-pulling-into-a-train-station-TxP2yCR74sg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Colorful illuminated facades of buildings at night, with green, blue and pink lights, Kabukicho, Shinjuku, Tokyo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Colorful_illuminated_facades_of_buildings_at_night%2C_with_green%2C_blue_and_pink_lights%2C_Kabukicho%2C_Shinjuku%2C_Tokyo.jpg/1920px-Colorful_illuminated_facades_of_buildings_at_night%2C_with_green%2C_blue_and_pink_lights%2C_Kabukicho%2C_Shinjuku%2C_Tokyo.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Colorful_illuminated_facades_of_buildings_at_night%2C_with_green%2C_blue_and_pink_lights%2C_Kabukicho%2C_Shinjuku%2C_Tokyo.jpg/500px-Colorful_illuminated_facades_of_buildings_at_night%2C_with_green%2C_blue_and_pink_lights%2C_Kabukicho%2C_Shinjuku%2C_Tokyo.jpg",
+   "size": [
+    1920,
+    1546
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Colorful_illuminated_facades_of_buildings_at_night,_with_green,_blue_and_pink_lights,_Kabukicho,_Shinjuku,_Tokyo.jpg"
+  },
+  {
+   "shows": "Worm's-eye view of Tokyo Skytree with vertical symmetry impression, a sunny day, in Japan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg/1920px-Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg/500px-Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression%2C_a_sunny_day%2C_in_Japan.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression,_a_sunny_day,_in_Japan.jpg"
+  },
+  {
+   "shows": "Blue trains on tracks before Mount Fuji in Fujinomiya, Japan",
+   "url": "https://images.unsplash.com/photo-1683713552787-eb7843b46df8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGphcGFufGVufDF8fHx8MTc5NDU1NzI1Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1683713552787-eb7843b46df8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGphcGFufGVufDF8fHx8MTc5NDU1NzI1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by wei on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chanwei_snap?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/trains-before-mount-fuji-in-fujinomiya-dlD6CdOgVc0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A red pagoda overlooking a city with Mount Fuji in the distance",
+   "url": "https://images.unsplash.com/photo-1578271887552-5ac3a72752bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bW91bnQlMjBmdWppfGVufDF8fHx8MTc5NDU1NzI4NXww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1578271887552-5ac3a72752bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bW91bnQlMjBmdWppfGVufDF8fHx8MTc5NDU1NzI4NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Max Bender on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@maxwbender?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/pagoda-and-mount-fuji-in-japan-FuxYvi-hcWQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Red tower in the middle of city during daytime",
+   "url": "https://images.unsplash.com/photo-1593839154339-377e24b3ba32?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHRva3lvJTIwdG93ZXJ8ZW58MXx8fHwxNzk0NTU3MjkyfDA&ixlib=rb-4.1.0&w=2337&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1593839154339-377e24b3ba32?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHRva3lvJTIwdG93ZXJ8ZW58MXx8fHwxNzk0NTU3MjkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2337,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Clement Souchet on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@windclems?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/red-tower-in-the-middle-of-city-during-daytime-FVK-lpEc-Bc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A flag pole with a japanese flag on top of it",
+   "url": "https://images.unsplash.com/photo-1719805076941-f4a0c86f836b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8amFwYW5lc2UlMjBmbGFnfGVufDF8fHx8MTc5NDU1NzMwNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1719805076941-f4a0c86f836b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8amFwYW5lc2UlMjBmbGFnfGVufDF8fHx8MTc5NDU1NzMwNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Shuken Nakamura on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@shukennakamura?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-flag-pole-with-a-japanese-flag-on-top-of-it-BRMqT1H872s?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A crowd of people walking across the Shibuya Crossing in Tokyo, Japan",
+   "url": "https://images.unsplash.com/photo-1528642474498-1af0c17fd8c3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFNoaWJ1eWElMjBDcm9zc2luZ3xlbnwxfHx8fDE3OTM5MjM2OTJ8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1528642474498-1af0c17fd8c3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFNoaWJ1eWElMjBDcm9zc2luZ3xlbnwxfHx8fDE3OTM5MjM2OTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ryoji Iwata on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@ryoji__iwata?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/crowd-walking-across-shibuya-crossing-IBaVuZsJJTo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The orange Itsukushima Shrine torii gate standing in the water at Hatsukaichi, Japan",
+   "url": "https://images.unsplash.com/photo-1504109586057-7a2ae83d1338?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGphcGFufGVufDF8fHx8MTc5NDU1NzI1Nnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1504109586057-7a2ae83d1338?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGphcGFufGVufDF8fHx8MTc5NDU1NzI1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1348
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nicki Eliza Schinow on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nicki_schinow?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/itsukushima-shrine-torii-gate-in-japan-BjJP2TN8WoI?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

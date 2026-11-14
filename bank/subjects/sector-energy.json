@@ -3,6 +3,7 @@
  "kind": "sector",
  "name": "Energy sector",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
    "shows": "The West Bollsta semi-submersible drilling rig docked in a harbor at low light",
@@ -56,6 +57,24 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:LostHillsPumpjacksSunset.JPG"
+  },
+  {
+   "shows": "A small natural-gas facility near the town of Carrizo Springs in Dimmit County, Texas",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:26300:26380/full/2248,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:26300:26380/full/500,/0/default.jpg",
+   "size": [
+    2248,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2014630580/"
   },
   {
    "shows": "A large lng carrier ship docked in a harbor",
@@ -145,6 +164,561 @@
    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/power-plant-chimneys-stand-tall-over-water-NzpifrHgQV0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An oil rig in the middle of the ocean at sunset",
+   "url": "https://images.unsplash.com/photo-1633829131104-e2134f75c6e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG9pbHxlbnwxfHx8fDE3OTQ2MTE1ODZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1633829131104-e2134f75c6e5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG9pbHxlbnwxfHx8fDE3OTQ2MTE1ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Arvind Vallabh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vallabh1?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/an-oil-rig-in-the-middle-of-the-ocean-at-sunset-rqWWhKzVCaU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Factories with smoke under cloudy sky",
+   "url": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Patrick Hendry on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@worldsbetweenlines?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/factories-with-smoke-under-cloudy-sky-6xeDIZgoPaw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Pipeline construction in Canada",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pipeline_construction_in_Canada.jpg/1920px-Pipeline_construction_in_Canada.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Pipeline_construction_in_Canada.jpg/500px-Pipeline_construction_in_Canada.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jason Woodhead, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pipeline_construction_in_Canada.jpg"
+  },
+  {
+   "shows": "A woman pumping gas into her car at a gas station",
+   "url": "https://images.unsplash.com/photo-1709536240391-fa5b06a756d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1709536240391-fa5b06a756d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by engin akyurt on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-woman-pumping-gas-into-her-car-at-a-gas-station--qUe8eiXH-c?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Photo of truss towers",
+   "url": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Matthew Henry on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@matthewhenry?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A drilling rig in a field with trees in the background",
+   "url": "https://images.unsplash.com/photo-1675060968711-d71df010a91f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1675060968711-d71df010a91f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Brad Weaver on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bweaver?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-drilling-rig-in-a-field-with-trees-in-the-background-gxmE_k37cxE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two large lng tanks on a barge with cranes",
+   "url": "https://images.unsplash.com/photo-1775580279270-574c001be3a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bG5nfGVufDF8fHx8MTc5NDYxMTY5OHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1775580279270-574c001be3a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bG5nfGVufDF8fHx8MTc5NDYxMTY5OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Markus Kammermann on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@makabera?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/two-large-lng-tanks-on-a-barge-with-cranes-Wx6aqlqbdys?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Oil refinery lit up at night",
+   "url": "https://images.unsplash.com/photo-1745748420819-dd57cb012cf9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHJlZmluZXJ5JTIwbmlnaHR8ZW58MXx8fHwxNzk0NjUxMDg0fDA&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1745748420819-dd57cb012cf9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHJlZmluZXJ5JTIwbmlnaHR8ZW58MXx8fHwxNzk0NjUxMDg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2255,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by D Yang on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@xiaoyang_6?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/oil-refinery-lit-up-at-night-vaHAD5kOBJ8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Oil Tanker in North Sea 3928",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oil_Tanker_in_North_Sea_3928.jpg/1920px-Oil_Tanker_in_North_Sea_3928.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Oil_Tanker_in_North_Sea_3928.jpg/500px-Oil_Tanker_in_North_Sea_3928.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ImagePerson, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oil_Tanker_in_North_Sea_3928.jpg"
+  },
+  {
+   "shows": "Oil rig",
+   "url": "https://images.unsplash.com/photo-1578356058390-f58c575337a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8b2lsJTIwcmlnfGVufDF8fHx8MTc5Mzg4NDMzNHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1578356058390-f58c575337a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8b2lsJTIwcmlnfGVufDF8fHx8MTc5Mzg4NDMzNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zach Theo on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zacharytheodore?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/oil-rig-guADzpF9pDI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A factory with pipes and a sky background",
+   "url": "https://images.unsplash.com/photo-1678984239420-43cdc183bce6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1678984239420-43cdc183bce6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jakub Pabis on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jakubpabis?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-factory-with-pipes-and-a-sky-background-vOtSZd_8Af4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A gas station at night with no people around",
+   "url": "https://images.unsplash.com/photo-1695561324569-5e47c76dc0a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1695561324569-5e47c76dc0a3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Hans Eiskonen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@eiskonen?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-gas-station-at-night-with-no-people-around-OnmOFmwTlP0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Power plant towers over a river at sunset",
+   "url": "https://images.unsplash.com/photo-1750074905408-db3b0f29202a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1750074905408-db3b0f29202a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmF0dXJhbCUyMGdhcyUyMHBsYW50fGVufDF8fHx8MTc5Mzg4OTQwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zoshua Colah on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/power-plant-towers-over-a-river-at-sunset-HUVtc1WGv2I?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black and white gas stove",
+   "url": "https://images.unsplash.com/photo-1607324772107-8ad6740ca195?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1607324772107-8ad6740ca195?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2FzfGVufDF8fHx8MTc5NDYxMTYwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by KWON JUNHO on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@juno1412?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-and-white-gas-stove-CdW4DAF5i7Q?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Empty gas station near empty road facing snow capped mountain at daytime",
+   "url": "https://images.unsplash.com/photo-1489596162121-4a8e544d6de0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=2100&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1489596162121-4a8e544d6de0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGZ1ZWx8ZW58MXx8fHwxNzk0NjExNjQyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2100,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Khamkéo on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mahkeo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/empty-gas-station-near-empty-road-facing-snow-capped-mountain-at-daytime-QfBAsUzsmgk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Blue solar panel boards",
+   "url": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=2266&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cG93ZXJ8ZW58MXx8fHwxNzk0NjExNjYxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2266,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zbynek Burival on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zburival?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-solar-panel-boards-V4ZYJZJ3W4M?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An oil rig in the middle of the ocean",
+   "url": "https://images.unsplash.com/photo-1727461553668-45322401f863?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1727461553668-45322401f863?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGRyaWxsaW5nfGVufDF8fHx8MTc5NDYxMTY4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sven Piper on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@svenpiper?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/an-oil-rig-in-the-middle-of-the-ocean-7UGmtWtWERY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Blue and red tanker ship docked at an lng terminal",
+   "url": "https://images.unsplash.com/photo-1784911543605-a4090507bed0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1784911543605-a4090507bed0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGxuZ3xlbnwxfHx8fDE3OTQ2MTE2OTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Julia Taubitz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@justmejuliee?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-and-red-tanker-ship-docked-at-an-lng-terminal-PNFZIshLMVU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An industrial oil refinery complex illuminated by bright floodlights at night",
+   "url": "https://images.unsplash.com/photo-1794097546231-2011af367c5c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHJlZmluZXJ5JTIwbmlnaHR8ZW58MXx8fHwxNzk0NjUxMDg0fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1794097546231-2011af367c5c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHJlZmluZXJ5JTIwbmlnaHR8ZW58MXx8fHwxNzk0NjUxMDg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Johan Putter on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@canopus62?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/industrial-oil-refinery-at-night-W9aKbQs-bs0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Darvasa gas crater panorama crop",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Darvasa_gas_crater_panorama_crop.jpg/1920px-Darvasa_gas_crater_panorama_crop.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Darvasa_gas_crater_panorama_crop.jpg/500px-Darvasa_gas_crater_panorama_crop.jpg",
+   "size": [
+    1920,
+    799
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tormod Sandtorv (original picture) Hellbus (derived work), CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Darvasa_gas_crater_panorama_crop.jpg"
+  },
+  {
+   "shows": "Gray and black gas pump",
+   "url": "https://images.unsplash.com/photo-1625056845185-9f60e8d15189?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZ1ZWwlMjBzdGF0aW9ufGVufDF8fHx8MTc5NDY1MTA5OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1625056845185-9f60e8d15189?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZ1ZWwlMjBzdGF0aW9ufGVufDF8fHx8MTc5NDY1MTA5OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Marius Matuschzik on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mariusmatuschzik?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/gray-and-black-gas-pump-MmZjp89agyE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An oil rig in the middle of the ocean",
+   "url": "https://images.unsplash.com/photo-1633155617309-6201a8096e8a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2lsJTIwcmlnfGVufDF8fHx8MTc5Mzg4NDMzNHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1633155617309-6201a8096e8a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8b2lsJTIwcmlnfGVufDF8fHx8MTc5Mzg4NDMzNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Arvind Vallabh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vallabh1?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/an-oil-rig-in-the-middle-of-the-ocean-kjk90_OSGZU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Industrial refinery with smoking stacks under a cloudy sky",
+   "url": "https://images.unsplash.com/photo-1768564206500-5cddb1fea679?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1768564206500-5cddb1fea679?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fHJlZmluZXJ5fGVufDF8fHx8MTc5Mzg4NDMzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1349
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Barnaby on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bfenton_photo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/industrial-refinery-with-smoking-stacks-under-a-cloudy-sky-0w3nOe1j29I?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A gas pump is connected to a car at a gas station",
+   "url": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1709536240401-58dff8e8d597?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by engin akyurt on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-gas-pump-is-connected-to-a-car-at-a-gas-station-H4GGjhkhwF0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A gas pump next to a brick wall",
+   "url": "https://images.unsplash.com/photo-1635627026254-b652e62d1d07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdhc3xlbnwxfHx8fDE3OTQ2MTE2MDl8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1635627026254-b652e62d1d07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdhc3xlbnwxfHx8fDE3OTQ2MTE2MDl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dawn McDonald on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dpreacherdawn?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-gas-pump-next-to-a-brick-wall-lBP2muAsD94?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Green and grey transmission tower during nighttime",
+   "url": "https://images.unsplash.com/photo-1509391111737-9b07f052f6b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHBvd2VyfGVufDF8fHx8MTc5NDYxMTY2MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1509391111737-9b07f052f6b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHBvd2VyfGVufDF8fHx8MTc5NDYxMTY2MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by American Public Power Association on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@publicpowerorg?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/green-and-grey-transmission-tower-during-nighttime-AA5v6sMcalY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An oil rig in the middle of the ocean",
+   "url": "https://images.unsplash.com/photo-1722183704200-e96339975ba4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMHJpZ3xlbnwxfHx8fDE3OTM4ODQzMzR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1722183704200-e96339975ba4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMHJpZ3xlbnwxfHx8fDE3OTM4ODQzMzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sheng Hu on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@laohu911?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/an-oil-rig-in-the-middle-of-the-ocean-0wsMNnEFaTo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Gasoline station during nighttime",
+   "url": "https://images.unsplash.com/photo-1487803556724-cb9f0b8151d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1487803556724-cb9f0b8151d1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Khamkéo on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mahkeo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/gasoline-station-during-nighttime-lP1RhcNrENM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A man pumping gas into his car at a gas station",
+   "url": "https://images.unsplash.com/photo-1709719263439-364363375a3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGdhc3xlbnwxfHx8fDE3OTQ2MTE2MDl8MA&ixlib=rb-4.1.0&w=2344&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1709719263439-364363375a3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGdhc3xlbnwxfHx8fDE3OTQ2MTE2MDl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2344,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ali Mkumbwa on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mkumbwajr?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-man-pumping-gas-into-his-car-at-a-gas-station-BK20Ws-wSFc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Gray and black gas station",
+   "url": "https://images.unsplash.com/photo-1540928696360-3f168184d8ca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1540928696360-3f168184d8ca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Justin Chrn on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@justinchrn?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/gray-and-black-gas-station-XQZmfprZt6s?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A gas station with a red carpet on the floor",
+   "url": "https://images.unsplash.com/photo-1637417168775-532c76fa4fa4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1637417168775-532c76fa4fa4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Szasa Amanda on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@szasamanda?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-gas-station-with-a-red-carpet-on-the-floor-fWr4f79RdXA?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

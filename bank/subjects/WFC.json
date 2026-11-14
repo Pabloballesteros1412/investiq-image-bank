@@ -6,7 +6,7 @@
   "WFC"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
+ "target": 10,
  "photos": [
   {
    "shows": "Wells Fargo Bank in Cheyenne Wyoming",
@@ -167,6 +167,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Wells_Fargo_Center_from_Foshay_-_Flickr_-_Mulad.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Exterior of a modern Wells Fargo bank branch in Athens, Georgia 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Exterior_of_a_modern_Wells_Fargo_bank_branch_in_Athens%2C_Georgia_01.jpg/1920px-Exterior_of_a_modern_Wells_Fargo_bank_branch_in_Athens%2C_Georgia_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Exterior_of_a_modern_Wells_Fargo_bank_branch_in_Athens%2C_Georgia_01.jpg/500px-Exterior_of_a_modern_Wells_Fargo_bank_branch_in_Athens%2C_Georgia_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_a_modern_Wells_Fargo_bank_branch_in_Athens,_Georgia_01.jpg",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "ADSK"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -96,6 +97,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Autodesk_Technology_Centre_Toronto_(day).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Carl Bass Autodesk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Carl_Bass_Autodesk.jpg/1920px-Carl_Bass_Autodesk.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Carl_Bass_Autodesk.jpg/500px-Carl_Bass_Autodesk.jpg",
+   "size": [
+    1920,
+    1812
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "CBassAD, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Carl_Bass_Autodesk.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Autodesk Technology Centre Toronto (night)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Autodesk_Technology_Centre_Toronto_%28night%29.jpg/1280px-Autodesk_Technology_Centre_Toronto_%28night%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Autodesk_Technology_Centre_Toronto_%28night%29.jpg/500px-Autodesk_Technology_Centre_Toronto_%28night%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Autodesk_Technology_Centre_Toronto_(night).jpg",
    "plain": true
   }
  ]

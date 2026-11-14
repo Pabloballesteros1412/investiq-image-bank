@@ -3,6 +3,7 @@
  "kind": "topic",
  "name": "Market crash & volatility",
  "tickers": [],
+ "target": 50,
  "photos": [
   {
    "shows": "A view of a city and a bridge over a body of water",
@@ -109,6 +110,221 @@
    "author_url": "https://unsplash.com/@bylolo?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/black-and-white-street-sign-CeVj8lPBJSc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A lightning bolt strikes over a city at night",
+   "url": "https://images.unsplash.com/photo-1654243177527-dbf97c211fab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1654243177527-dbf97c211fab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1812
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Oleksandr Horbach on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@grbchh?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-lightning-bolt-strikes-over-a-city-at-night-ksNkGGKtd60?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Wall street signs and a red traffic light",
+   "url": "https://images.unsplash.com/photo-1747893062403-f7db0e9f0fe4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHdhbGwlMjBzdHJlZXQlMjBzaWdufGVufDF8fHx8MTc5NDUxMzg1OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1747893062403-f7db0e9f0fe4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHdhbGwlMjBzdHJlZXQlMjBzaWdufGVufDF8fHx8MTc5NDUxMzg1OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Supradoc on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@supradoc?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/wall-street-signs-and-a-red-traffic-light-1u9Im-KxFrk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White and black braille machine",
+   "url": "https://images.unsplash.com/photo-1585829364536-ce348dd72ebc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y3Jpc2lzfGVufDF8fHx8MTc5NDY1ODM0NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1585829364536-ce348dd72ebc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y3Jpc2lzfGVufDF8fHx8MTc5NDY1ODM0NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Markus Winkler on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@markuswinkler?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-black-braille-machine--TRcaFMV5vk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Frankfurt am Main, Skulptur -Bulle & Bär- -- 2015 -- 6760",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Frankfurt_am_Main%2C_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6760.jpg/1280px-Frankfurt_am_Main%2C_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6760.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Frankfurt_am_Main%2C_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6760.jpg/500px-Frankfurt_am_Main%2C_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6760.jpg",
+   "size": [
+    1280,
+    1761
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Frankfurt_am_Main,_Skulptur_-Bulle_%26_B%C3%A4r-_--_2015_--_6760.jpg"
+  },
+  {
+   "shows": "Us a flag on top of building",
+   "url": "https://images.unsplash.com/photo-1599566530569-68774cad9cfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHdhbGwlMjBzdHJlZXR8ZW58MXx8fHwxNzkzOTM4Mzk0fDA&ixlib=rb-4.1.0&w=2241&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1599566530569-68774cad9cfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHdhbGwlMjBzdHJlZXR8ZW58MXx8fHwxNzkzOTM4Mzk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2241,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by David Vives on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@davidvives?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/us-a-flag-on-top-of-building-Nzbkev7SQTg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A lightning bolt striking over a city at night",
+   "url": "https://images.unsplash.com/photo-1613053554449-d05c76186887?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1613053554449-d05c76186887?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Theo Tab on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@theotopia?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-lightning-bolt-striking-over-a-city-at-night-2wh869865gs?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A lightning bolt strikes over a city at night",
+   "url": "https://images.unsplash.com/photo-1648500845123-98b15d1309d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1648500845123-98b15d1309d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dmitry Grachyov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@drook?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-lightning-bolt-strikes-over-a-city-at-night-kntWeEmdreI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Brown bear walking near trees",
+   "url": "https://images.unsplash.com/photo-1551792714-9a8b35338793?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmVhcnxlbnwxfHx8fDE3OTQ2NTgzNTF8MA&ixlib=rb-4.1.0&w=2218&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1551792714-9a8b35338793?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmVhcnxlbnwxfHx8fDE3OTQ2NTgzNTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2218,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zdeněk Macháček on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zmachacek?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/brown-bear-walking-near-trees-_QG2C0q6J-s?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A lightning storm is seen over a city at night",
+   "url": "https://images.unsplash.com/photo-1627748174374-b0ab3fcbb981?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=1865&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1627748174374-b0ab3fcbb981?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1865,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alex Meta on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alexzew98?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-lightning-storm-is-seen-over-a-city-at-night-rQGawPNP2jo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Shallow focus photo of brown grizzly bear",
+   "url": "https://images.unsplash.com/photo-1568162603664-fcd658421851?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YmVhcnxlbnwxfHx8fDE3OTQ2NTgzNTF8MA&ixlib=rb-4.1.0&w=2019&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1568162603664-fcd658421851?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YmVhcnxlbnwxfHx8fDE3OTQ2NTgzNTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2019,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Becca on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@binkabonka?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/shallow-focus-photo-of-brown-grizzly-bear-_r6w0R6SueQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A lightning bolt striking over a city at night",
+   "url": "https://images.unsplash.com/photo-1671578233852-946431ff1555?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1671578233852-946431ff1555?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bGlnaHRuaW5nJTIwY2l0eXxlbnwxfHx8fDE3OTQ1MTM4NTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1348
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Peter Cabral on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@peter_cabral_photography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-lightning-bolt-striking-over-a-city-at-night-KdgUwm6X-6c?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Brown bear with blue eyes",
+   "url": "https://images.unsplash.com/photo-1599948058230-78896e742f7e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YmVhcnxlbnwxfHx8fDE3OTQ2NTgzNTF8MA&ixlib=rb-4.1.0&w=2022&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1599948058230-78896e742f7e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YmVhcnxlbnwxfHx8fDE3OTQ2NTgzNTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2022,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mana5280 on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mana5280?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/brown-bear-with-blue-eyes-rGPDLlMNFF4?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

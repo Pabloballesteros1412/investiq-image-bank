@@ -6,7 +6,7 @@
   "SJM"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Mark Smucker, J.M. Smucker Company CEO",
@@ -24,6 +24,23 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Mark_Smucker,_J.M._Smucker_Company_CEO.jpg"
+  },
+  {
+   "shows": "Mark Smucker, J.M. Smucker Company CEO ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mark_Smucker%2C_J.M._Smucker_Company_CEO_%28cropped%29.jpg/1280px-Mark_Smucker%2C_J.M._Smucker_Company_CEO_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mark_Smucker%2C_J.M._Smucker_Company_CEO_%28cropped%29.jpg/500px-Mark_Smucker%2C_J.M._Smucker_Company_CEO_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1708
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Airman 1st Class Gabriel Jones, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mark_Smucker,_J.M._Smucker_Company_CEO_(cropped).jpg"
   },
   {
    "shows": "7-20-22 Smucker HQ Orrville",
@@ -95,6 +112,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Shalom_Kosher_interior_29.jpg",
+   "plain": true
+  },
+  {
+   "shows": "03 01 35 A sample of Smucker's Concord Grape Jelly in the Dulles section of Sterling, Loudoun County, Virginia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2020-06-24_03_01_35_A_sample_of_Smucker%27s_Concord_Grape_Jelly_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg/1920px-2020-06-24_03_01_35_A_sample_of_Smucker%27s_Concord_Grape_Jelly_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2020-06-24_03_01_35_A_sample_of_Smucker%27s_Concord_Grape_Jelly_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg/500px-2020-06-24_03_01_35_A_sample_of_Smucker%27s_Concord_Grape_Jelly_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2020-06-24_03_01_35_A_sample_of_Smucker%27s_Concord_Grape_Jelly_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Shalom Kosher interior 30",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Shalom_Kosher_interior_30.jpg/1280px-Shalom_Kosher_interior_30.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Shalom_Kosher_interior_30.jpg/500px-Shalom_Kosher_interior_30.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bohemian Baltimore, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shalom_Kosher_interior_30.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Milk-Bone factory, Buffalo, New York",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Milk-Bone_factory%2C_Buffalo%2C_New_York.jpg/1920px-Milk-Bone_factory%2C_Buffalo%2C_New_York.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Milk-Bone_factory%2C_Buffalo%2C_New_York.jpg/500px-Milk-Bone_factory%2C_Buffalo%2C_New_York.jpg",
+   "size": [
+    1920,
+    1150
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "André Carrotflower, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Milk-Bone_factory,_Buffalo,_New_York.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Jif peanut butter production plant Lexington Kentucky",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jif_peanut_butter_production_plant_Lexington_Kentucky.JPG/1920px-Jif_peanut_butter_production_plant_Lexington_Kentucky.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jif_peanut_butter_production_plant_Lexington_Kentucky.JPG/500px-Jif_peanut_butter_production_plant_Lexington_Kentucky.JPG",
+   "size": [
+    1920,
+    747
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dwight Burdette, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jif_peanut_butter_production_plant_Lexington_Kentucky.JPG",
    "plain": true
   }
  ]

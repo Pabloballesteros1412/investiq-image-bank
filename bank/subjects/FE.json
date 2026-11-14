@@ -6,8 +6,26 @@
   "FE"
  ],
  "sector": "sector-utilities",
+ "target": 10,
  "fill_from": "sector-utilities",
  "photos": [
+  {
+   "shows": "First Energy Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/First_Energy_Building.jpg/1280px-First_Energy_Building.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/First_Energy_Building.jpg/500px-First_Energy_Building.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cards84664, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:First_Energy_Building.jpg"
+  },
   {
    "shows": "Akron Centre Plaza & Superblock",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Akron_Centre_Plaza_%26_Superblock.jpg/1920px-Akron_Centre_Plaza_%26_Superblock.jpg",
@@ -24,6 +42,80 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Akron_Centre_Plaza_%26_Superblock.jpg",
+   "plain": true
+  },
+  {
+   "shows": "R. Paul Smith power plant MD2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/R._Paul_Smith_power_plant_MD2.jpg/1920px-R._Paul_Smith_power_plant_MD2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/R._Paul_Smith_power_plant_MD2.jpg/500px-R._Paul_Smith_power_plant_MD2.jpg",
+   "size": [
+    1920,
+    1498
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Acroterion, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:R._Paul_Smith_power_plant_MD2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "First Energy Building Arkon 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/First_Energy_Building_Arkon_2025.jpg/1280px-First_Energy_Building_Arkon_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/First_Energy_Building_Arkon_2025.jpg/500px-First_Energy_Building_Arkon_2025.jpg",
+   "size": [
+    1280,
+    1781
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dillguy9, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:First_Energy_Building_Arkon_2025.jpg",
+   "plain": true
+  },
+  {
+   "shows": "First Energy Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/First_Energy_Tower.jpg/1280px-First_Energy_Tower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/First_Energy_Tower.jpg/500px-First_Energy_Tower.jpg",
+   "size": [
+    1280,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dillguy9, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:First_Energy_Tower.jpg",
+   "plain": true
+  },
+  {
+   "shows": "An Interesting Window View",
+   "url": "https://live.staticflickr.com/7270/7145287481_af78fd759d_b.jpg",
+   "preview": "https://live.staticflickr.com/7270/7145287481_af78fd759d_z.jpg",
+   "size": [
+    1024,
+    570
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JL Johnson // User47.com on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/37569637@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37569637@N07/7145287481",
    "plain": true
   }
  ]

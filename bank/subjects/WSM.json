@@ -6,7 +6,7 @@
   "WSM"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "A Williams Sonoma retail store at The Summit shopping mall in Birmingham, Alabama",
@@ -24,6 +24,23 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:A_Williams_Sonoma_retail_store_at_The_Summit_shopping_mall_in_Birmingham,_Alabama.jpg"
+  },
+  {
+   "shows": "Post Street Store Front",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Post_Street_Store_Front.JPG/1280px-Post_Street_Store_Front.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Post_Street_Store_Front.JPG/500px-Post_Street_Store_Front.JPG",
+   "size": [
+    1280,
+    1603
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Brooke Buchanan - Communications & Public Relations Manager, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Post_Street_Store_Front.JPG"
   },
   {
    "shows": "Williams Sonoma Shops At Brickell Park",
@@ -149,6 +166,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Williams_Sonoma_(16467806802).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Williams Sonoma Shops at Merrick Park - April 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Williams_Sonoma_Shops_at_Merrick_Park_-_April_2024.jpg/1920px-Williams_Sonoma_Shops_at_Merrick_Park_-_April_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Williams_Sonoma_Shops_at_Merrick_Park_-_April_2024.jpg/500px-Williams_Sonoma_Shops_at_Merrick_Park_-_April_2024.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Williams_Sonoma_Shops_at_Merrick_Park_-_April_2024.jpg",
    "plain": true
   }
  ]

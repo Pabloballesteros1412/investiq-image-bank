@@ -6,6 +6,7 @@
   "BEN"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
   {
@@ -60,6 +61,24 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Franklintempletonheadquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Franklin Templeton Investments HQ campus 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Franklin_Templeton_Investments_HQ_campus_1.JPG/1920px-Franklin_Templeton_Investments_HQ_campus_1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Franklin_Templeton_Investments_HQ_campus_1.JPG/500px-Franklin_Templeton_Investments_HQ_campus_1.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Franklin_Templeton_Investments_HQ_campus_1.JPG",
    "plain": true
   }
  ]

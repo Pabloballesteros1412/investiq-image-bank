@@ -6,7 +6,7 @@
   "ABT"
  ],
  "sector": "sector-health",
- "fill_from": "sector-health",
+ "target": 10,
  "photos": [
   {
    "shows": "Robert Ford, Abbott Laboratories CEO (per Wikidata)",
@@ -25,6 +25,23 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Robert_B_Ford.jpg"
+  },
+  {
+   "shows": "Abbott Freestyle Libre 3 CGM applicator",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Abbott_Freestyle_Libre_3_CGM_applicator_%282%29.jpg/1280px-Abbott_Freestyle_Libre_3_CGM_applicator_%282%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Abbott_Freestyle_Libre_3_CGM_applicator_%282%29.jpg/500px-Abbott_Freestyle_Libre_3_CGM_applicator_%282%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Marius Vassnes, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Abbott_Freestyle_Libre_3_CGM_applicator_(2).jpg"
   },
   {
    "shows": "ID Now testing",
@@ -78,6 +95,98 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:201407_Abbott_Hangzhou_Factory_in_HEDA.jpg",
+   "plain": true
+  },
+  {
+   "shows": "FreeStyle libre am Oberarm und Auslesegerät-1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-1.JPG/1920px-FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-1.JPG/500px-FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-1.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Thirunavukkarasye-Raveendran, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FreeStyle_libre_am_Oberarm_und_Ausleseger%C3%A4t-1.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Abbott Freestyle Libre 2 glucose sensor-1157",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Abbott_Freestyle_Libre_2_glucose_sensor-1157.jpg/1920px-Abbott_Freestyle_Libre_2_glucose_sensor-1157.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Abbott_Freestyle_Libre_2_glucose_sensor-1157.jpg/500px-Abbott_Freestyle_Libre_2_glucose_sensor-1157.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Abbott_Freestyle_Libre_2_glucose_sensor-1157.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Abbott Freestyle Libre 3 Glukosesensor in situ-1145",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Abbott_Freestyle_Libre_3_Glukosesensor_in_situ-1145.jpg/1920px-Abbott_Freestyle_Libre_3_Glukosesensor_in_situ-1145.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Abbott_Freestyle_Libre_3_Glukosesensor_in_situ-1145.jpg/500px-Abbott_Freestyle_Libre_3_Glukosesensor_in_situ-1145.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Abbott_Freestyle_Libre_3_Glukosesensor_in_situ-1145.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Abbott Freestyle Libre 3 sensor applicator-1149",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Abbott_Freestyle_Libre_3_sensor_applicator-1149.jpg/1920px-Abbott_Freestyle_Libre_3_sensor_applicator-1149.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Abbott_Freestyle_Libre_3_sensor_applicator-1149.jpg/500px-Abbott_Freestyle_Libre_3_sensor_applicator-1149.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Abbott_Freestyle_Libre_3_sensor_applicator-1149.jpg",
+   "plain": true
+  },
+  {
+   "shows": "FreeStyle Libre 2 Reader and LibreLink app",
+   "url": "https://live.staticflickr.com/65535/49446598708_dd2eac4035_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49446598708_dd2eac4035_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by originaldaniel on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/184613180@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/184613180@N08/49446598708",
    "plain": true
   }
  ]

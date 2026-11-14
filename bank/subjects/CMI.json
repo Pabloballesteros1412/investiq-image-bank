@@ -6,7 +6,7 @@
   "CMI"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "Cummins headquarters",
@@ -113,6 +113,80 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_04.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A Cummins machine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/A_Cummins_machine_%282026%29.jpg/1920px-A_Cummins_machine_%282026%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/A_Cummins_machine_%282026%29.jpg/500px-A_Cummins_machine_%282026%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_Cummins_machine_(2026).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cummins Onan P4500i Digital Inverter Generator",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cummins_Onan_P4500i_Digital_Inverter_Generator.jpg/1920px-Cummins_Onan_P4500i_Digital_Inverter_Generator.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cummins_Onan_P4500i_Digital_Inverter_Generator.jpg/500px-Cummins_Onan_P4500i_Digital_Inverter_Generator.jpg",
+   "size": [
+    1920,
+    1616
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cummins_Onan_P4500i_Digital_Inverter_Generator.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cummins, IAA 2024, Hanover",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cummins%2C_IAA_2024%2C_Hanover_%28P1190856%29.jpg/1920px-Cummins%2C_IAA_2024%2C_Hanover_%28P1190856%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cummins%2C_IAA_2024%2C_Hanover_%28P1190856%29.jpg/500px-Cummins%2C_IAA_2024%2C_Hanover_%28P1190856%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cummins,_IAA_2024,_Hanover_(P1190856).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cummins Engine Factory, Columbus, Indiana",
+   "url": "https://live.staticflickr.com/1830/42856099761_66d612cc79_b.jpg",
+   "preview": "https://live.staticflickr.com/1830/42856099761_66d612cc79_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by born1945 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12567713@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12567713@N00/42856099761",
    "plain": true
   }
  ]

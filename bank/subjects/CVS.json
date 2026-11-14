@@ -6,7 +6,7 @@
   "CVS"
  ],
  "sector": "sector-health",
- "fill_from": "sector-health",
+ "target": 10,
  "photos": [
   {
    "shows": "A CVS pharmacy on Church Street in Burlington, Vermont",
@@ -79,6 +79,23 @@
    "source": "https://unsplash.com/photos/cvs-pharmacy-sign-on-building-gqv_RSh8jWg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "CVSpharmacy Napa - September 2023 - Sarah Stierch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CVSpharmacy_Napa_-_September_2023_-_Sarah_Stierch.jpg/1280px-CVSpharmacy_Napa_-_September_2023_-_Sarah_Stierch.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/CVSpharmacy_Napa_-_September_2023_-_Sarah_Stierch.jpg/500px-CVSpharmacy_Napa_-_September_2023_-_Sarah_Stierch.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CVSpharmacy_Napa_-_September_2023_-_Sarah_Stierch.jpg"
+  },
+  {
    "shows": "All the essentials - CVS vending machine in San Francisco, 2019",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/All_the_essentials_-_CVS_vending_machine_in_San_Francisco%2C_2019.jpg/1280px-All_the_essentials_-_CVS_vending_machine_in_San_Francisco%2C_2019.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/All_the_essentials_-_CVS_vending_machine_in_San_Francisco%2C_2019.jpg/500px-All_the_essentials_-_CVS_vending_machine_in_San_Francisco%2C_2019.jpg",
@@ -130,6 +147,42 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:CVS_Pharmacy,_Oak_Grove_GA.jpg",
+   "plain": true
+  },
+  {
+   "shows": "CVS on 4th St, St Petersburg, Florida, August 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/CVS_on_4th_St%2C_St_Petersburg%2C_Florida%2C_August_2019.jpg/1920px-CVS_on_4th_St%2C_St_Petersburg%2C_Florida%2C_August_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/CVS_on_4th_St%2C_St_Petersburg%2C_Florida%2C_August_2019.jpg/500px-CVS_on_4th_St%2C_St_Petersburg%2C_Florida%2C_August_2019.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "pasa47, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CVS_on_4th_St,_St_Petersburg,_Florida,_August_2019.jpg",
+   "plain": true
+  },
+  {
+   "shows": "CVS Pharmacy at Target, Dadeland Miami Florida 2022",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CVS_Pharmacy_at_Target%2C_Dadeland_Miami_Florida_2022.jpg/1920px-CVS_Pharmacy_at_Target%2C_Dadeland_Miami_Florida_2022.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/CVS_Pharmacy_at_Target%2C_Dadeland_Miami_Florida_2022.jpg/500px-CVS_Pharmacy_at_Target%2C_Dadeland_Miami_Florida_2022.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CVS_Pharmacy_at_Target,_Dadeland_Miami_Florida_2022.jpg",
    "plain": true
   }
  ]

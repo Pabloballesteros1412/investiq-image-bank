@@ -6,8 +6,29 @@
   "AMP"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
+  {
+   "shows": "Ameriprise Financial Center and Capella Tower, Minneapolis, Minnesota",
+   "url": "https://live.staticflickr.com/1775/44025193962_c978b74811_b.jpg",
+   "preview": "https://live.staticflickr.com/1775/44025193962_c978b74811_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/44025193962",
+   "plain": true
+  },
   {
    "shows": "Ameriprise Financial Center Minneapolis 1",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ameriprise_Financial_Center_Minneapolis_1.jpg/1280px-Ameriprise_Financial_Center_Minneapolis_1.jpg",
@@ -24,6 +45,64 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ameriprise_Financial_Center_Minneapolis_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ameriprise Financial Center Minneapolis o",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ameriprise_Financial_Center_Minneapolis_2185640999_o.jpg/1920px-Ameriprise_Financial_Center_Minneapolis_2185640999_o.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Ameriprise_Financial_Center_Minneapolis_2185640999_o.jpg/500px-Ameriprise_Financial_Center_Minneapolis_2185640999_o.jpg",
+   "size": [
+    1920,
+    1152
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ameriprise_Financial_Center_Minneapolis_2185640999_o.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ameriprise Financial Center and Capella Tower, Minneapolis, Minnesota",
+   "url": "https://live.staticflickr.com/1814/30205721858_e2a807cfbe_b.jpg",
+   "preview": "https://live.staticflickr.com/1814/30205721858_e2a807cfbe_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/30205721858",
+   "plain": true
+  },
+  {
+   "shows": "Ameriprise Financial Center, Minneapolis, Minnesota",
+   "url": "https://live.staticflickr.com/1834/44025378142_dbf5d0e56e_b.jpg",
+   "preview": "https://live.staticflickr.com/1834/44025378142_dbf5d0e56e_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/44025378142",
    "plain": true
   }
  ]

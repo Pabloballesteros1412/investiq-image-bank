@@ -6,6 +6,7 @@
   "HAL"
  ],
  "sector": "sector-energy",
+ "target": 10,
  "fill_from": "sector-energy",
  "photos": [
   {
@@ -114,6 +115,60 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Halliburton_Corporate_Office_Headquarters_-_Houston,_Texas_(46791825294).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Halliburton saftey meeting before every shift",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Halliburton_saftey_meeting_before_every_shift.JPG/1920px-Halliburton_saftey_meeting_before_every_shift.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Halliburton_saftey_meeting_before_every_shift.JPG/500px-Halliburton_saftey_meeting_before_every_shift.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joshua Doubek, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Halliburton_saftey_meeting_before_every_shift.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Well logging cabin and wire 161",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Well_logging_cabin_and_wire_161.jpg/1920px-Well_logging_cabin_and_wire_161.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Well_logging_cabin_and_wire_161.jpg/500px-Well_logging_cabin_and_wire_161.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ciacho5, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Well_logging_cabin_and_wire_161.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Halliburton North Belt Sign 01 - East Side",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Halliburton_North_Belt_Sign_01_-_East_Side.jpg/1920px-Halliburton_North_Belt_Sign_01_-_East_Side.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Halliburton_North_Belt_Sign_01_-_East_Side.jpg/500px-Halliburton_North_Belt_Sign_01_-_East_Side.jpg",
+   "size": [
+    1920,
+    1075
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "0x0077BE, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Halliburton_North_Belt_Sign_01_-_East_Side.jpg",
    "plain": true
   }
  ]

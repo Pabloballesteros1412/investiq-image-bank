@@ -6,7 +6,7 @@
   "AMC"
  ],
  "sector": "sector-communication",
- "fill_from": "sector-communication",
+ "target": 10,
  "photos": [
   {
    "shows": "AMC Empire 25 NYC",
@@ -78,6 +78,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:AMC_Oakbrook_Center_12_in_Illinois,_US_01.jpg"
   },
   {
+   "shows": "AMC Dine-In Yorktown 18 Theater 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/AMC_Dine-In_Yorktown_18_Theater_02.jpg/1280px-AMC_Dine-In_Yorktown_18_Theater_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/AMC_Dine-In_Yorktown_18_Theater_02.jpg/500px-AMC_Dine-In_Yorktown_18_Theater_02.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "SimLibrarian, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMC_Dine-In_Yorktown_18_Theater_02.jpg"
+  },
+  {
    "shows": "AMC Lennox Town Center 24 jeh",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AMC_Lennox_Town_Center_24_jeh.jpg/1920px-AMC_Lennox_Town_Center_24_jeh.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AMC_Lennox_Town_Center_24_jeh.jpg/500px-AMC_Lennox_Town_Center_24_jeh.jpg",
@@ -129,6 +146,42 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:AMC_Mount_Lebanon_6_sign_1_10-24-2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMC Mount Lebanon 6 Auditorium 4 - 2 of 4 10-24-2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/AMC_Mount_Lebanon_6_Auditorium_4_-_2_of_4_10-24-2026.jpg/1920px-AMC_Mount_Lebanon_6_Auditorium_4_-_2_of_4_10-24-2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/AMC_Mount_Lebanon_6_Auditorium_4_-_2_of_4_10-24-2026.jpg/500px-AMC_Mount_Lebanon_6_Auditorium_4_-_2_of_4_10-24-2026.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cutlass, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMC_Mount_Lebanon_6_Auditorium_4_-_2_of_4_10-24-2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AMC Theatres sign from 2nd floor, Tallahassee Mall",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AMC_Theatres_sign_from_2nd_floor%2C_Tallahassee_Mall.JPG/1920px-AMC_Theatres_sign_from_2nd_floor%2C_Tallahassee_Mall.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/AMC_Theatres_sign_from_2nd_floor%2C_Tallahassee_Mall.JPG/500px-AMC_Theatres_sign_from_2nd_floor%2C_Tallahassee_Mall.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Rivera, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMC_Theatres_sign_from_2nd_floor,_Tallahassee_Mall.JPG",
    "plain": true
   }
  ]

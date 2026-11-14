@@ -6,6 +6,7 @@
   "AME"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -24,6 +25,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:9th_Bengaluru_Space_Expo_2026,_Bangalore_International_Exhibition_Centre_72.jpg",
+   "plain": true
+  },
+  {
+   "shows": "9th Bengaluru Space Expo 2026, Bangalore International Exhibition Centre 73",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/9th_Bengaluru_Space_Expo_2026%2C_Bangalore_International_Exhibition_Centre_73.jpg/1920px-9th_Bengaluru_Space_Expo_2026%2C_Bangalore_International_Exhibition_Centre_73.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/9th_Bengaluru_Space_Expo_2026%2C_Bangalore_International_Exhibition_Centre_73.jpg/500px-9th_Bengaluru_Space_Expo_2026%2C_Bangalore_International_Exhibition_Centre_73.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gpkp, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:9th_Bengaluru_Space_Expo_2026,_Bangalore_International_Exhibition_Centre_73.jpg",
    "plain": true
   }
  ]

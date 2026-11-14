@@ -6,6 +6,7 @@
   "ALB"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
   {
@@ -24,6 +25,26 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Albemarle_Corporation_Lithium_Operation_at_Silver_Peak_(49810666528).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Albemarle Corporation Lithium Operation at Silver Peak",
+   "url": "https://live.staticflickr.com/65535/49810666528_9c65128018_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49810666528_9c65128018_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by formulanone on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/30552029@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30552029@N00/49810666528",
    "plain": true
   }
  ]

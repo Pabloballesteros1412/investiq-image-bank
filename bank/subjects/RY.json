@@ -6,6 +6,7 @@
   "RY"
  ],
  "sector": "sector-financials",
+ "target": 10,
  "fill_from": "sector-financials",
  "photos": [
   {
@@ -131,6 +132,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Guichets_RBC_-_1000_De_La_Gauchetiere_-_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "2010 VANCOUVER WINTER OLYMPICS | SELLING THE GAMES :: RBC ROYAL BANK OF CANADA 3",
+   "url": "https://live.staticflickr.com/2774/4392307138_77c9273b27_b.jpg",
+   "preview": "https://live.staticflickr.com/2774/4392307138_77c9273b27_z.jpg",
+   "size": [
+    763,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Michael Francis McCarthy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/24294133@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/24294133@N03/4392307138",
+   "plain": true
+  },
+  {
+   "shows": "Royal Bank of Canada Building, Nassau",
+   "url": "https://live.staticflickr.com/4419/35869907774_280ffd76d0_b.jpg",
+   "preview": "https://live.staticflickr.com/4419/35869907774_280ffd76d0_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Remarksman on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/22289779@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22289779@N05/35869907774",
    "plain": true
   }
  ]

@@ -6,6 +6,8 @@
   "GE"
  ],
  "sector": "sector-industrials",
+ "target": 30,
+ "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "General Electric GE90 right engine on a 773ER",
@@ -129,6 +131,43 @@
    "source": "https://unsplash.com/photos/passenger-airplane-with-ge-aerospace-branding-VYyvQZCC3a4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "N747GF Boeing 747-446 General Electric Farnborough 15.7.26",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/N747GF_Boeing_747-446_General_Electric_Farnborough_15.7.26.jpg/1920px-N747GF_Boeing_747-446_General_Electric_Farnborough_15.7.26.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/N747GF_Boeing_747-446_General_Electric_Farnborough_15.7.26.jpg/500px-N747GF_Boeing_747-446_General_Electric_Farnborough_15.7.26.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Colin Cooke Photo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:N747GF_Boeing_747-446_General_Electric_Farnborough_15.7.26.jpg"
+  },
+  {
+   "shows": "The former General Electric Co. headquarters building, now (in 2018) a research facility, in Schenectady, New York",
+   "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/52700/52787v.jpg",
+   "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/52700/52787r.jpg",
+   "size": [
+    1024,
+    753
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "low_res": true,
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2018700863/",
+   "plain": true
+  },
+  {
    "shows": "777X Roll-Out (blurred)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/777X_Roll-Out_%2846649681164%29_%28blurred%29.jpg/1920px-777X_Roll-Out_%2846649681164%29_%28blurred%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/777X_Roll-Out_%2846649681164%29_%28blurred%29.jpg/500px-777X_Roll-Out_%2846649681164%29_%28blurred%29.jpg",
@@ -180,6 +219,210 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Detail_of_GEnx_turbofan_engine_core.jpg",
+   "plain": true
+  },
+  {
+   "shows": "777X Roll-Out",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/777X_Roll-Out_%2840407364223%29.jpg/1920px-777X_Roll-Out_%2840407364223%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/777X_Roll-Out_%2840407364223%29.jpg/500px-777X_Roll-Out_%2840407364223%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(40407364223).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Salon du Bourget 254",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salon_du_Bourget_20090619_254.jpg/1920px-Salon_du_Bourget_20090619_254.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Salon_du_Bourget_20090619_254.jpg/500px-Salon_du_Bourget_20090619_254.jpg",
+   "size": [
+    1920,
+    1477
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Georges Seguin ( Okki ), CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Salon_du_Bourget_20090619_254.jpg",
+   "plain": true
+  },
+  {
+   "shows": "GEnx-Jet-Engine Le Bourget",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEnx-Jet-Engine_Le_Bourget_20110624.jpg/1920px-GEnx-Jet-Engine_Le_Bourget_20110624.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/GEnx-Jet-Engine_Le_Bourget_20110624.jpg/500px-GEnx-Jet-Engine_Le_Bourget_20110624.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tieum512, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GEnx-Jet-Engine_Le_Bourget_20110624.jpg",
+   "plain": true
+  },
+  {
+   "shows": "777X Roll-Out",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/777X_Roll-Out_%2846649681164%29.jpg/1920px-777X_Roll-Out_%2846649681164%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/777X_Roll-Out_%2846649681164%29.jpg/500px-777X_Roll-Out_%2846649681164%29.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46649681164).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Turbofan CFM Leap at Paris Air Show 2013",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg/1920px-Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg/500px-Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tangopaso, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Turbofan_CFM_Leap_at_Paris_Air_Show_2013.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chevrons on GEnx-1B nacelle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chevrons_on_GEnx-1B_nacelle.jpg/1280px-Chevrons_on_GEnx-1B_nacelle.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Chevrons_on_GEnx-1B_nacelle.jpg/500px-Chevrons_on_GEnx-1B_nacelle.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Olivier Cleynen, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chevrons_on_GEnx-1B_nacelle.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Air Canada GE90 Boeing 777-200LR",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Air_Canada_GE90_Boeing_777-200LR.jpg/1280px-Air_Canada_GE90_Boeing_777-200LR.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Air_Canada_GE90_Boeing_777-200LR.jpg/500px-Air_Canada_GE90_Boeing_777-200LR.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kristoferb, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Air_Canada_GE90_Boeing_777-200LR.jpg",
+   "plain": true
+  },
+  {
+   "shows": "GE Aviation Hungary, hall, electric gate and boom barrier, 2019 Veresegyház",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GE_Aviation_Hungary%2C_hall%2C_electric_gate_and_boom_barrier%2C_2019_Veresegyh%C3%A1z.jpg/1920px-GE_Aviation_Hungary%2C_hall%2C_electric_gate_and_boom_barrier%2C_2019_Veresegyh%C3%A1z.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GE_Aviation_Hungary%2C_hall%2C_electric_gate_and_boom_barrier%2C_2019_Veresegyh%C3%A1z.jpg/500px-GE_Aviation_Hungary%2C_hall%2C_electric_gate_and_boom_barrier%2C_2019_Veresegyh%C3%A1z.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Globetrotter19, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GE_Aviation_Hungary,_hall,_electric_gate_and_boom_barrier,_2019_Veresegyh%C3%A1z.jpg",
+   "plain": true
+  },
+  {
+   "shows": "General Electric AM Transistor Radio",
+   "url": "https://live.staticflickr.com/3662/3601779057_a4ff37fb34_b.jpg",
+   "preview": "https://live.staticflickr.com/3662/3601779057_a4ff37fb34_z.jpg",
+   "size": [
+    1024,
+    739
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by alexkerhead on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/26354629@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/26354629@N02/3601779057",
+   "plain": true
+  },
+  {
+   "shows": "General Electric Alarm Clock",
+   "url": "https://live.staticflickr.com/2681/4055061532_5d0d4a66c1_b.jpg",
+   "preview": "https://live.staticflickr.com/2681/4055061532_5d0d4a66c1_z.jpg",
+   "size": [
+    1024,
+    798
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by alexkerhead on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/26354629@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/26354629@N02/4055061532",
+   "plain": true
+  },
+  {
+   "shows": "Vintage General Electric 7-Transistor Cordless Table Radio, Model T-146A (Cocoa), AM Band, Battery-Powered, Made In USA, Circa 1959",
+   "url": "https://live.staticflickr.com/5585/14614905750_54af8df999_b.jpg",
+   "preview": "https://live.staticflickr.com/5585/14614905750_54af8df999_z.jpg",
+   "size": [
+    1024,
+    870
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by France1978 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/51764518@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/51764518@N02/14614905750",
    "plain": true
   }
  ]

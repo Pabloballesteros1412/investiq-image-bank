@@ -6,7 +6,7 @@
   "LULU"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Lululemon Aventura Mall",
@@ -42,6 +42,23 @@
    "author_url": "https://unsplash.com/@partrickl?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-building-with-a-sign-that-says-dublin-on-it-xRdQQbNS-bc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Lululemon Disney Springs, Orlando, Florida",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lululemon_Disney_Springs%2C_Orlando%2C_Florida.jpg/1280px-Lululemon_Disney_Springs%2C_Orlando%2C_Florida.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lululemon_Disney_Springs%2C_Orlando%2C_Florida.jpg/500px-Lululemon_Disney_Springs%2C_Orlando%2C_Florida.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lululemon_Disney_Springs,_Orlando,_Florida.jpg"
   },
   {
    "shows": "Haus Marktgasse 12 in Zürich mit Lululemon-Laden",
@@ -113,6 +130,60 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:20241231_Lululemon_store_at_Grand_Emporium.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lululemon Athletica at Markville",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/LululemonAthleticaMarkville2.jpg/1920px-LululemonAthleticaMarkville2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/LululemonAthleticaMarkville2.jpg/500px-LululemonAthleticaMarkville2.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:LululemonAthleticaMarkville2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lululemon Brickell City Centre",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lululemon_Brickell_City_Centre_%2845619354165%29.jpg/1920px-Lululemon_Brickell_City_Centre_%2845619354165%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Lululemon_Brickell_City_Centre_%2845619354165%29.jpg/500px-Lululemon_Brickell_City_Centre_%2845619354165%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lululemon_Brickell_City_Centre_(45619354165).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lululemon Grand Opening Miami Worldcenter",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lululemon_Grand_Opening_Miami_Worldcenter.jpg/1920px-Lululemon_Grand_Opening_Miami_Worldcenter.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lululemon_Grand_Opening_Miami_Worldcenter.jpg/500px-Lululemon_Grand_Opening_Miami_Worldcenter.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lululemon_Grand_Opening_Miami_Worldcenter.jpg",
    "plain": true
   }
  ]

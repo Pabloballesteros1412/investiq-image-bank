@@ -6,7 +6,7 @@
   "AFL"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
+ "target": 10,
  "photos": [
   {
    "shows": "Aflac WWHQ",
@@ -113,6 +113,86 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Aflac_Toyota_Sequoia_Sonoma_2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aflac duck · aflac, animal, duck, objects, toy",
+   "url": "https://live.staticflickr.com/22/29963818_a497e6163b_b.jpg",
+   "preview": "https://live.staticflickr.com/22/29963818_a497e6163b_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by hibino on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19126881@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19126881@N00/29963818",
+   "plain": true
+  },
+  {
+   "shows": "aflac 007 · aflac, brownzelip, heather, rayanddawnbrownphoto, raybrown",
+   "url": "https://live.staticflickr.com/1438/5136981441_f634f28806_b.jpg",
+   "preview": "https://live.staticflickr.com/1438/5136981441_f634f28806_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by BrownZelip on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39581872@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39581872@N02/5136981441",
+   "plain": true
+  },
+  {
+   "shows": "The Aflac Duck · balloons, macysthanksgivingdayparade2012",
+   "url": "https://live.staticflickr.com/8200/8209280248_bd798f0d10_b.jpg",
+   "preview": "https://live.staticflickr.com/8200/8209280248_bd798f0d10_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by TheGirlsNY on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/55768440@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/55768440@N00/8209280248",
+   "plain": true
+  },
+  {
+   "shows": "aflac 002 · aflac, brownzelip, heather, rayanddawnbrownphoto, raybrown",
+   "url": "https://live.staticflickr.com/4110/5136983513_14fdbf98d3_b.jpg",
+   "preview": "https://live.staticflickr.com/4110/5136983513_14fdbf98d3_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by BrownZelip on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39581872@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39581872@N02/5136983513",
    "plain": true
   }
  ]

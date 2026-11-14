@@ -6,6 +6,7 @@
   "SLB"
  ],
  "sector": "sector-energy",
+ "target": 10,
  "fill_from": "sector-energy",
  "photos": [
   {
@@ -132,6 +133,26 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Schlumberger_Gould_Research_Centre.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Full moon on Schlumberger Cambridge Research at the blue hour.",
+   "url": "https://live.staticflickr.com/7806/47101649632_cea6be39c2_b.jpg",
+   "preview": "https://live.staticflickr.com/7806/47101649632_cea6be39c2_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by valerian.guillot on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/131250044@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/131250044@N03/47101649632",
    "plain": true
   }
  ]

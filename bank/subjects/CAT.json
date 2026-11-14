@@ -6,6 +6,7 @@
   "CAT"
  ],
  "sector": "sector-industrials",
+ "target": 30,
  "photos": [
   {
    "shows": "A Caterpillar bulldozer pushing earth",
@@ -77,6 +78,40 @@
    "author_url": "https://unsplash.com/@troyscanon?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/bulldozer-working-on-earth-pile-x01SNOspBWo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "CAT 420XE - Arlington, MA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CAT_420XE_-_Arlington%2C_MA.jpg/1920px-CAT_420XE_-_Arlington%2C_MA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CAT_420XE_-_Arlington%2C_MA.jpg/500px-CAT_420XE_-_Arlington%2C_MA.jpg",
+   "size": [
+    1920,
+    1374
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CAT_420XE_-_Arlington,_MA.jpg"
+  },
+  {
+   "shows": "FS-PJK- TONED",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20190916-FS-PJK-12626_TONED.jpg/1920px-20190916-FS-PJK-12626_TONED.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/20190916-FS-PJK-12626_TONED.jpg/500px-20190916-FS-PJK-12626_TONED.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "USDAgov, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:20190916-FS-PJK-12626_TONED.jpg"
   },
   {
    "shows": "CAT 797 SDB BHPBilliton Escondida Chile 2 HR",
@@ -184,6 +219,330 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Excavators,_Caterpillar_Inc.,_2021_Changsha_International_Construction_Equipment_Exhibition,_Picture1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lubricant of Caterpillar, 2025 Changsha International Construction Equipment Exhibition",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lubricant_of_Caterpillar%2C_2025_Changsha_International_Construction_Equipment_Exhibition.jpg/1920px-Lubricant_of_Caterpillar%2C_2025_Changsha_International_Construction_Equipment_Exhibition.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Lubricant_of_Caterpillar%2C_2025_Changsha_International_Construction_Equipment_Exhibition.jpg/500px-Lubricant_of_Caterpillar%2C_2025_Changsha_International_Construction_Equipment_Exhibition.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Huangdan2060, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lubricant_of_Caterpillar,_2025_Changsha_International_Construction_Equipment_Exhibition.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Caterpillar engines Crewe Gresty Bridge Depot Open Day 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Caterpillar_engines_Crewe_Gresty_Bridge_Depot_Open_Day_2018.jpg/1920px-Caterpillar_engines_Crewe_Gresty_Bridge_Depot_Open_Day_2018.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Caterpillar_engines_Crewe_Gresty_Bridge_Depot_Open_Day_2018.jpg/500px-Caterpillar_engines_Crewe_Gresty_Bridge_Depot_Open_Day_2018.jpg",
+   "size": [
+    1920,
+    1265
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "kitmasterbloke, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Caterpillar_engines_Crewe_Gresty_Bridge_Depot_Open_Day_2018.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Seewasserwerk Frasnacht Notstrom",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Seewasserwerk_Frasnacht_Notstrom.jpg/1920px-Seewasserwerk_Frasnacht_Notstrom.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Seewasserwerk_Frasnacht_Notstrom.jpg/500px-Seewasserwerk_Frasnacht_Notstrom.jpg",
+   "size": [
+    1920,
+    1556
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "1-Byte, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seewasserwerk_Frasnacht_Notstrom.jpg",
+   "plain": true
+  },
+  {
+   "shows": "100th CES simulate repair of damaged runway during CBRNE exercise",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/100th_CES_simulate_repair_of_damaged_runway_during_CBRNE_exercise_%287381764%29.jpg/1920px-100th_CES_simulate_repair_of_damaged_runway_during_CBRNE_exercise_%287381764%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/100th_CES_simulate_repair_of_damaged_runway_during_CBRNE_exercise_%287381764%29.jpg/500px-100th_CES_simulate_repair_of_damaged_runway_during_CBRNE_exercise_%287381764%29.jpg",
+   "size": [
+    1920,
+    1541
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Karen Abeyasekere, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:100th_CES_simulate_repair_of_damaged_runway_during_CBRNE_exercise_(7381764).jpg",
+   "plain": true
+  },
+  {
+   "shows": "48th CES demonstrates RADR readiness",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/48th_CES_demonstrates_RADR_readiness_%286914504%29.jpg/1920px-48th_CES_demonstrates_RADR_readiness_%286914504%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/48th_CES_demonstrates_RADR_readiness_%286914504%29.jpg/500px-48th_CES_demonstrates_RADR_readiness_%286914504%29.jpg",
+   "size": [
+    1920,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Airman 1st Class Cedrique Oldaker, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:48th_CES_demonstrates_RADR_readiness_(6914504).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Airmen participate in RADR training",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Airmen_participate_in_RADR_training_%286659823%29.jpg/1920px-Airmen_participate_in_RADR_training_%286659823%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Airmen_participate_in_RADR_training_%286659823%29.jpg/500px-Airmen_participate_in_RADR_training_%286659823%29.jpg",
+   "size": [
+    1920,
+    1401
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Staff Sgt. Trevor Rhynes, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Airmen_participate_in_RADR_training_(6659823).jpg",
+   "plain": true
+  },
+  {
+   "shows": "36th Logistics Readiness Squadron loads heavy machinery for Humanitarian Aid for Commonwealth Northern Mariana Islands departure",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/36th_Logistics_Readiness_Squadron_loads_heavy_machinery_for_Humanitarian_Aid_for_Commonwealth_Northern_Mariana_Islands_departure_%283%29.jpg/1920px-36th_Logistics_Readiness_Squadron_loads_heavy_machinery_for_Humanitarian_Aid_for_Commonwealth_Northern_Mariana_Islands_departure_%283%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/36th_Logistics_Readiness_Squadron_loads_heavy_machinery_for_Humanitarian_Aid_for_Commonwealth_Northern_Mariana_Islands_departure_%283%29.jpg/500px-36th_Logistics_Readiness_Squadron_loads_heavy_machinery_for_Humanitarian_Aid_for_Commonwealth_Northern_Mariana_Islands_departure_%283%29.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Senior Airman Audree Campbell, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:36th_Logistics_Readiness_Squadron_loads_heavy_machinery_for_Humanitarian_Aid_for_Commonwealth_Northern_Mariana_Islands_departure_(3).jpg",
+   "plain": true
+  },
+  {
+   "shows": "A Caterpillar Crane (OR787, 10287, S26F L) used by Green for Life in Toronto, Ontario.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/OR787_Crane.jpg/1920px-OR787_Crane.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/OR787_Crane.jpg/500px-OR787_Crane.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "PvOberstein, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:OR787_Crane.jpg",
+   "plain": true
+  },
+  {
+   "shows": "134th CES remove scale, lay concrete at Morón Air Base",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/134th_CES_remove_scale%2C_lay_concrete_at_Mor%C3%B3n_Air_Base_%289139708%29.jpg/1920px-134th_CES_remove_scale%2C_lay_concrete_at_Mor%C3%B3n_Air_Base_%289139708%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/134th_CES_remove_scale%2C_lay_concrete_at_Mor%C3%B3n_Air_Base_%289139708%29.jpg/500px-134th_CES_remove_scale%2C_lay_concrete_at_Mor%C3%B3n_Air_Base_%289139708%29.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air National Guard photo by Master Sgt. Teri Eicher, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:134th_CES_remove_scale,_lay_concrete_at_Mor%C3%B3n_Air_Base_(9139708).jpg",
+   "plain": true
+  },
+  {
+   "shows": "CAT 928F and 416B 4x4 Turbo - Arlington, MA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CAT_928F_and_416B_4x4_Turbo_-_Arlington%2C_MA.jpg/1920px-CAT_928F_and_416B_4x4_Turbo_-_Arlington%2C_MA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/CAT_928F_and_416B_4x4_Turbo_-_Arlington%2C_MA.jpg/500px-CAT_928F_and_416B_4x4_Turbo_-_Arlington%2C_MA.jpg",
+   "size": [
+    1920,
+    1240
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CAT_928F_and_416B_4x4_Turbo_-_Arlington,_MA.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Day 2- Raising the Steaks and Serving up Success",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Day_2-_Raising_the_Steaks_and_Serving_up_Success_%288849754%29.jpg/1920px-Day_2-_Raising_the_Steaks_and_Serving_up_Success_%288849754%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Day_2-_Raising_the_Steaks_and_Serving_up_Success_%288849754%29.jpg/500px-Day_2-_Raising_the_Steaks_and_Serving_up_Success_%288849754%29.jpg",
+   "size": [
+    1920,
+    1332
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Airman 1st Class Skylar Ellis, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Day_2-_Raising_the_Steaks_and_Serving_up_Success_(8849754).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bulldozer at the beach, 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bulldozer_at_the_beach%2C_2023_%2852705926707%29.jpg/1920px-Bulldozer_at_the_beach%2C_2023_%2852705926707%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bulldozer_at_the_beach%2C_2023_%2852705926707%29.jpg/500px-Bulldozer_at_the_beach%2C_2023_%2852705926707%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jon Lavis from Seaford, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bulldozer_at_the_beach,_2023_(52705926707).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cat Bulldozer 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cat_Bulldozer_2023_%2852705928312%29.jpg/1920px-Cat_Bulldozer_2023_%2852705928312%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cat_Bulldozer_2023_%2852705928312%29.jpg/500px-Cat_Bulldozer_2023_%2852705928312%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jon Lavis from Seaford, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cat_Bulldozer_2023_(52705928312).jpg",
+   "plain": true
+  },
+  {
+   "shows": "378th ECES fills the gaps during RADR training",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/378th_ECES_fills_the_gaps_during_RADR_training_%289474332%29.jpg/1920px-378th_ECES_fills_the_gaps_during_RADR_training_%289474332%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/378th_ECES_fills_the_gaps_during_RADR_training_%289474332%29.jpg/500px-378th_ECES_fills_the_gaps_during_RADR_training_%289474332%29.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Senior Airman DeQuan Simmons, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:378th_ECES_fills_the_gaps_during_RADR_training_(9474332).jpg",
+   "plain": true
+  },
+  {
+   "shows": "86th CEG improve proficiency with Rapid Airfield Deployment Readiness training",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/86th_CEG_improve_proficiency_with_Rapid_Airfield_Deployment_Readiness_training_%289621379%29.jpg/1920px-86th_CEG_improve_proficiency_with_Rapid_Airfield_Deployment_Readiness_training_%289621379%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/86th_CEG_improve_proficiency_with_Rapid_Airfield_Deployment_Readiness_training_%289621379%29.jpg/500px-86th_CEG_improve_proficiency_with_Rapid_Airfield_Deployment_Readiness_training_%289621379%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force photo by Airman Paden Henry, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:86th_CEG_improve_proficiency_with_Rapid_Airfield_Deployment_Readiness_training_(9621379).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Stott Logging - Kisatchie National Forest - 011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Stott_Logging_-_Kisatchie_National_Forest_-_011_%2851718468014%29.jpg/1920px-Stott_Logging_-_Kisatchie_National_Forest_-_011_%2851718468014%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Stott_Logging_-_Kisatchie_National_Forest_-_011_%2851718468014%29.jpg/500px-Stott_Logging_-_Kisatchie_National_Forest_-_011_%2851718468014%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "US Forest Service - Southern Region, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Stott_Logging_-_Kisatchie_National_Forest_-_011_(51718468014).jpg",
+   "plain": true
+  },
+  {
+   "shows": "AFCENT delivers Jordanian humanitarian aid to Gaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AFCENT_delivers_Jordanian_humanitarian_aid_to_Gaza_%288292258%29.jpg/1920px-AFCENT_delivers_Jordanian_humanitarian_aid_to_Gaza_%288292258%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/AFCENT_delivers_Jordanian_humanitarian_aid_to_Gaza_%288292258%29.jpg/500px-AFCENT_delivers_Jordanian_humanitarian_aid_to_Gaza_%288292258%29.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Air Force AFCENT by Staff Sgt. Caleb Roland, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AFCENT_delivers_Jordanian_humanitarian_aid_to_Gaza_(8292258).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Landsat 9 EGSE Arrival (KSC- -PH-ENM01 0112)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Landsat_9_EGSE_Arrival_%28KSC-20210629-PH-ENM01_0112%29.jpg/1920px-Landsat_9_EGSE_Arrival_%28KSC-20210629-PH-ENM01_0112%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Landsat_9_EGSE_Arrival_%28KSC-20210629-PH-ENM01_0112%29.jpg/500px-Landsat_9_EGSE_Arrival_%28KSC-20210629-PH-ENM01_0112%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NASA Kennedy Space Center / USSF 30th Space Wing/Ernest Mend, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Landsat_9_EGSE_Arrival_(KSC-20210629-PH-ENM01_0112).jpg",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "FCX"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
   {
@@ -77,6 +78,104 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Freeport-McMoRan_Sierrita_Mine_(2949468056).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Copper Square, Phoenix, Arizona - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Copper_Square%2C_Phoenix%2C_Arizona_-_panoramio_%285%29.jpg/1280px-Copper_Square%2C_Phoenix%2C_Arizona_-_panoramio_%285%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Copper_Square%2C_Phoenix%2C_Arizona_-_panoramio_%285%29.jpg/500px-Copper_Square%2C_Phoenix%2C_Arizona_-_panoramio_%285%29.jpg",
+   "size": [
+    1280,
+    1927
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "davidpinter, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Copper_Square,_Phoenix,_Arizona_-_panoramio_(5).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Freeport-McMoRan Sierrita Mine",
+   "url": "https://live.staticflickr.com/3067/2949468056_7f22491b7e_b.jpg",
+   "preview": "https://live.staticflickr.com/3067/2949468056_7f22491b7e_z.jpg",
+   "size": [
+    1024,
+    681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by desertdutchman on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/10271343@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/10271343@N00/2949468056",
+   "plain": true
+  },
+  {
+   "shows": "Freeport-McMoRan Center, Central Avenue and Van Buren Street, Phoenix, AZ",
+   "url": "https://live.staticflickr.com/65535/54440134894_be3074b053_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54440134894_be3074b053_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/59081381@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/59081381@N03/54440134894",
+   "plain": true
+  },
+  {
+   "shows": "Freeport-McMoRan Center, Central Avenue and Van Buren Street, Phoenix, AZ",
+   "url": "https://live.staticflickr.com/65535/54440311595_4918c14680_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54440311595_4918c14680_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/59081381@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/59081381@N03/54440311595",
+   "plain": true
+  },
+  {
+   "shows": "Freeport-McMoRan Center, Central Avenue and Van Buren Street, Phoenix, AZ",
+   "url": "https://live.staticflickr.com/65535/54440134949_919a5b0770_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54440134949_919a5b0770_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/59081381@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/59081381@N03/54440134949",
    "plain": true
   }
  ]

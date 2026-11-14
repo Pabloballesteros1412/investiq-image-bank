@@ -3,7 +3,26 @@
  "kind": "sector",
  "name": "Consumer discretionary sector",
  "tickers": [],
+ "target": 50,
  "photos": [
+  {
+   "shows": "Well-decorated Christmas tree in a shopping mall in Malaysia. Visitors are watching the Christmas tree.",
+   "url": "https://pd.w.org/2025/01/4816798ec09197bf5.12430495-1536x2048.jpg",
+   "preview": "https://pd.w.org/2025/01/4816798ec09197bf5.12430495-768x1024.jpg",
+   "size": [
+    1536,
+    2048
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by KafleG on WordPress.org Photos, CC0",
+   "licence": "CC0 1.0",
+   "author_url": "https://wordpress.org/photos/author/kafleg/",
+   "provider": "wordpress",
+   "source": "https://wordpress.org/photos/photo/4816798ec0/"
+  },
   {
    "shows": "A woman in a rust-colored sweater paying with a card at a salon counter",
    "url": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cmV0YWlsJTIwc3RvcmV8ZW58MXx8fHwxNzkzODgwNzEwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
@@ -59,6 +78,24 @@
    "source": "https://unsplash.com/photos/white-bed-linen-with-throw-pillows-Yrxr3bsPdS0?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "A restaurant with a round table and chairs",
+   "url": "https://images.unsplash.com/photo-1650490632010-e18cbb694dd1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHJlc3RhdXJhbnQlMjBpbnRlcmlvcnxlbnwxfHx8fDE3OTM4ODA3MTN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1650490632010-e18cbb694dd1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHJlc3RhdXJhbnQlMjBpbnRlcmlvcnxlbnwxfHx8fDE3OTM4ODA3MTN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Decima Athens on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@decimaandathens?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-restaurant-with-a-round-table-and-chairs-PisnUZWdsms?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Rows of sneakers displayed on shelves in a store",
    "url": "https://images.unsplash.com/photo-1760302318631-a8d342cd4951?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHNuZWFrZXJzJTIwc3RvcmV8ZW58MXx8fHwxNzkzODgwNzE1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1760302318631-a8d342cd4951?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHNuZWFrZXJzJTIwc3RvcmV8ZW58MXx8fHwxNzkzODgwNzE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -93,6 +130,594 @@
    "author_url": "https://unsplash.com/@highlightid?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/assorted-tops-hanging-indoors-roHpoNuME1w?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A woman holding shopping bags and talking on a cell phone",
+   "url": "https://images.unsplash.com/photo-1713256683892-5bab22f76be0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHNob3BwaW5nfGVufDF8fHx8MTc5Mzk0MTk5OHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1713256683892-5bab22f76be0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHNob3BwaW5nfGVufDF8fHx8MTc5Mzk0MTk5OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Look Studio on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lookphoto?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-woman-holding-shopping-bags-and-talking-on-a-cell-phone-oDZmWpHZ85Q?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Red sports car",
+   "url": "https://images.unsplash.com/photo-1508974239320-0a029497e820?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNhcnxlbnwxfHx8fDE3OTQ2MDQyMzR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1508974239320-0a029497e820?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNhcnxlbnwxfHx8fDE3OTQ2MDQyMzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Yuvraj Singh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@yxvi?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/red-sports-car-tmAynVA_ihE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Illuminated facade of a 3-storey restaurant with Japanese signs and red paper lanterns, Chiyoda, Tokyo",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Illuminated_facade_of_a_3-storey_restaurant_with_Japanese_signs_and_red_paper_lanterns%2C_Chiyoda%2C_Tokyo.jpg/1280px-Illuminated_facade_of_a_3-storey_restaurant_with_Japanese_signs_and_red_paper_lanterns%2C_Chiyoda%2C_Tokyo.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Illuminated_facade_of_a_3-storey_restaurant_with_Japanese_signs_and_red_paper_lanterns%2C_Chiyoda%2C_Tokyo.jpg/500px-Illuminated_facade_of_a_3-storey_restaurant_with_Japanese_signs_and_red_paper_lanterns%2C_Chiyoda%2C_Tokyo.jpg",
+   "size": [
+    1280,
+    1551
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Illuminated_facade_of_a_3-storey_restaurant_with_Japanese_signs_and_red_paper_lanterns,_Chiyoda,_Tokyo.jpg"
+  },
+  {
+   "shows": "A black marble reception desk with gold trim in a hotel lobby",
+   "url": "https://images.unsplash.com/photo-1660557989695-14fac79c086d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aG90ZWwlMjBsb2JieXxlbnwxfHx8fDE3OTM5MjczMDd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1660557989695-14fac79c086d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aG90ZWwlMjBsb2JieXxlbnwxfHx8fDE3OTM5MjczMDd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dylan Calluy on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dylancalluy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/reception-desk-in-hotel-lobby-8BYahZcwYgI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Clothing store Modas Trevo in Barcelos",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Clothing_store_Modas_Trevo_in_Barcelos.jpg/1920px-Clothing_store_Modas_Trevo_in_Barcelos.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Clothing_store_Modas_Trevo_in_Barcelos.jpg/500px-Clothing_store_Modas_Trevo_in_Barcelos.jpg",
+   "size": [
+    1920,
+    1169
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Krzysztof Golik, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Clothing_store_Modas_Trevo_in_Barcelos.jpg"
+  },
+  {
+   "shows": "A woman holding a sign in a furniture store",
+   "url": "https://images.unsplash.com/photo-1703250151890-9d299b88e886?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZnVybml0dXJlJTIwc3RvcmV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1703250151890-9d299b88e886?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZnVybml0dXJlJTIwc3RvcmV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Stacie Ong on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sohl_?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-woman-holding-a-sign-in-a-furniture-store-4gR08BYCnSA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Assorted-colored toys on table",
+   "url": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dG95c3xlbnwxfHx8fDE3OTQ2MDQzNzd8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1558060370-d644479cb6f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dG95c3xlbnwxfHx8fDE3OTQ2MDQzNzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Huy Hung Trinh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@trinhhuyhung?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/assorted-colored-toys-on-table-zoyBqT7ytLU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Inside of a department store with clothes on display",
+   "url": "https://images.unsplash.com/photo-1743228672550-8b8f22cf0031?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGVwYXJ0bWVudCUyMHN0b3JlfGVufDF8fHx8MTc5NDYyMTk0OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1743228672550-8b8f22cf0031?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGVwYXJ0bWVudCUyMHN0b3JlfGVufDF8fHx8MTc5NDYyMTk0OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Albert Stoynov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@albertstoynov?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/inside-of-a-department-store-with-clothes-on-display-XmfAjdvSZIU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White bed with gray pillow",
+   "url": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aG90ZWwlMjByb29tfGVufDF8fHx8MTc5NDYyMjAxNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aG90ZWwlMjByb29tfGVufDF8fHx8MTc5NDYyMjAxNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    2133
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Linus Mimietz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@linusmimietz?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-bed-with-gray-pillow-p3UWyaujtQo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Photography of Cinema",
+   "url": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2luZW1hfGVufDF8fHx8MTc5NDYyMjA4MHww&ixlib=rb-4.1.0&w=1875&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y2luZW1hfGVufDF8fHx8MTc5NDYyMjA4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1875,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Myke Simon on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@myke_simon?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/photography-of-cinema-atsUqIm3wxo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Rows of illuminated slot machines with chairs on a patterned carpet in a casino",
+   "url": "https://images.unsplash.com/photo-1596838132731-3301c3fd4317?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FzaW5vfGVufDF8fHx8MTc5NDYyMjEzNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1596838132731-3301c3fd4317?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FzaW5vfGVufDF8fHx8MTc5NDYyMjEzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kvnga on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kvnga?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/slot-machines-in-a-casino-vBWsG91aR_U?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Clothing racks with neutral toned garments",
+   "url": "https://images.unsplash.com/photo-1603400521630-9f2de124b33b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y2xvdGhpbmclMjByYWNrfGVufDF8fHx8MTc5NDYyMjE0OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1603400521630-9f2de124b33b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y2xvdGhpbmclMjByYWNrfGVufDF8fHx8MTc5NDYyMjE0OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Thom Bradley on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@thombradley?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/clothing-racks-with-neutral-toned-garments-mwa_nzFpnJw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person browsing electronics in a brightly lit store",
+   "url": "https://images.unsplash.com/photo-1761494296583-99b15e9063c5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZWxlY3Ryb25pY3MlMjBzdG9yZXxlbnwxfHx8fDE3OTQ2MjIxNzZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1761494296583-99b15e9063c5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZWxlY3Ryb25pY3MlMjBzdG9yZXxlbnwxfHx8fDE3OTQ2MjIxNzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bhanu Singh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@insane_scene?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-browsing-electronics-in-a-brightly-lit-store-bKDOZ7neVl4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Boutique Les Vins Gourmands à Lille (octobre 2020)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Boutique_Les_Vins_Gourmands_%C3%A0_Lille_%28octobre_2020%29.jpg/1920px-Boutique_Les_Vins_Gourmands_%C3%A0_Lille_%28octobre_2020%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Boutique_Les_Vins_Gourmands_%C3%A0_Lille_%28octobre_2020%29.jpg/500px-Boutique_Les_Vins_Gourmands_%C3%A0_Lille_%28octobre_2020%29.jpg",
+   "size": [
+    1920,
+    1820
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Benoît Prieur, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Boutique_Les_Vins_Gourmands_%C3%A0_Lille_(octobre_2020).jpg"
+  },
+  {
+   "shows": "Hotel 3 Nagas with old red Citroen at blue hour in Luang Prabang",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hotel_3_Nagas_with_old_red_Citroen_at_blue_hour_in_Luang_Prabang.jpg/1920px-Hotel_3_Nagas_with_old_red_Citroen_at_blue_hour_in_Luang_Prabang.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hotel_3_Nagas_with_old_red_Citroen_at_blue_hour_in_Luang_Prabang.jpg/500px-Hotel_3_Nagas_with_old_red_Citroen_at_blue_hour_in_Luang_Prabang.jpg",
+   "size": [
+    1920,
+    960
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hotel_3_Nagas_with_old_red_Citroen_at_blue_hour_in_Luang_Prabang.jpg"
+  },
+  {
+   "shows": "A matte grey sports car with yellow accents parked on an asphalt surface",
+   "url": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNhcnxlbnwxfHx8fDE3OTQ2MDQyMzR8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNhcnxlbnwxfHx8fDE3OTQ2MDQyMzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Aaron Huber on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@aahubs?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/matte-grey-sports-car-with-yellow-8qYE6LGHW-c?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "People sitting on chairs inside restaurant",
+   "url": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cmVzdGF1cmFudHxlbnwxfHx8fDE3OTQ2MDQyNTR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cmVzdGF1cmFudHxlbnwxfHx8fDE3OTQ2MDQyNTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1812
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Volkan Buyukvardar on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vardarious?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/people-sitting-on-chairs-inside-restaurant-1H30uRC1plc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A hotel lobby with patterned carpet, armchairs, and an arched doorway leading to stairs",
+   "url": "https://images.unsplash.com/photo-1573052905904-34ad8c27f0cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aG90ZWwlMjBsb2JieXxlbnwxfHx8fDE3OTM5MjczMDd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1573052905904-34ad8c27f0cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aG90ZWwlMjBsb2JieXxlbnwxfHx8fDE3OTM5MjczMDd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jennifer Latuperisa-Andresen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@fraumuksch?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/hotel-lobby-with-patterned-carpet-Cj7a21nHLyo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A pair of white and brown shoes on a table",
+   "url": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNuZWFrZXJzfGVufDF8fHx8MTc5NDYwNDI3MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNuZWFrZXJzfGVufDF8fHx8MTc5NDYwNDI3MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mojtaba Fahiminia on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@fahiminia?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-pair-of-white-and-brown-shoes-on-a-table-t4g1gctAaKk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Multicolored learning toys",
+   "url": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG95c3xlbnwxfHx8fDE3OTQ2MDQzNzd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG95c3xlbnwxfHx8fDE3OTQ2MDQzNzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vanessa Bucceri on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vbcreative?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/multicolored-learning-toys-gDiRwIYAMA8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Woman holding colorful shopping bags against a wall",
+   "url": "https://images.unsplash.com/photo-1760565030278-89a95a1ee721?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHNob3BwaW5nJTIwYmFnc3xlbnwxfHx8fDE3OTM5MTMwMzV8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1760565030278-89a95a1ee721?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHNob3BwaW5nJTIwYmFnc3xlbnwxfHx8fDE3OTM5MTMwMzV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Iuliia Pilipeichenko on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@pilipeichenko?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/woman-holding-colorful-shopping-bags-against-a-wall-MX320XB5oR8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A group of mannequins are on an escalator",
+   "url": "https://images.unsplash.com/photo-1653552487671-12b4c5074f7e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGRlcGFydG1lbnQlMjBzdG9yZXxlbnwxfHx8fDE3OTQ2MjE5NDl8MA&ixlib=rb-4.1.0&w=2100&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1653552487671-12b4c5074f7e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGRlcGFydG1lbnQlMjBzdG9yZXxlbnwxfHx8fDE3OTQ2MjE5NDl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2100,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kay Enn on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kay_enn?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-group-of-mannequins-are-on-an-escalator-vPjO1oXd2K8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Pillows on bed",
+   "url": "https://images.unsplash.com/photo-1576354302919-96748cb8299e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhvdGVsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MjIwMTZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1576354302919-96748cb8299e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhvdGVsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MjIwMTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    2120
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Gabriel Alenius on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@gabrielalenius?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/pillows-on-bed-lTrbjFd8Iwo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Red cinema chair",
+   "url": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2luZW1hfGVufDF8fHx8MTc5NDYyMjA4MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2luZW1hfGVufDF8fHx8MTc5NDYyMjA4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Felix Mooneeram on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@felixmooneeram?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/red-cinema-chair-evlkOfkQ5rE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A casino table with a lot of chips on it",
+   "url": "https://images.unsplash.com/photo-1517232115160-ff93364542dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2FzaW5vfGVufDF8fHx8MTc5NDYyMjEzNnww&ixlib=rb-4.1.0&w=1998&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1517232115160-ff93364542dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y2FzaW5vfGVufDF8fHx8MTc5NDYyMjEzNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1998,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kaysha on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kaysha?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-casino-table-with-a-lot-of-chips-on-it-V3qzwMY2ak0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Rows of colorful sweaters hanging on hangers on a clothing rack",
+   "url": "https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2xvdGhpbmclMjByYWNrfGVufDF8fHx8MTc5NDYyMjE0OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1582719188393-bb71ca45dbb9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2xvdGhpbmclMjByYWNrfGVufDF8fHx8MTc5NDYyMjE0OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Markus Winkler on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@markuswinkler?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/sweaters-on-clothing-rack-PQmXUxmfR44?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white multi-story hotel building with balconies and palm trees in a courtyard",
+   "url": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGhvdGVsfGVufDF8fHx8MTc5Mzg4MDcxMnww&ixlib=rb-4.1.0&w=1920&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1455587734955-081b22074882?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGhvdGVsfGVufDF8fHx8MTc5Mzg4MDcxMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Francesca Saraco on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@fransaraco?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/hotel-building-with-balconies-and-palms-_dS27XGgRyQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A modern restaurant interior with red leather booths, wooden tables, and hanging pendant lights",
+   "url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cmVzdGF1cmFudHxlbnwxfHx8fDE3OTQ2MDQyNTR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1552566626-52f8b828add9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cmVzdGF1cmFudHxlbnwxfHx8fDE3OTQ2MDQyNTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nick Karvounis on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nickkarvounis?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/restaurant-interior-with-red-leather-booths-Ciqxn7FE4vE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Entrance lobby of Amantaka luxury Resort & Hotel at blue hour in Luang Prabang Laos",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Entrance_lobby_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg/1920px-Entrance_lobby_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Entrance_lobby_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg/500px-Entrance_lobby_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg",
+   "size": [
+    1920,
+    1212
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Basile Morin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Entrance_lobby_of_Amantaka_luxury_Resort_%26_Hotel_at_blue_hour_in_Luang_Prabang_Laos.jpg"
+  },
+  {
+   "shows": "Assorted-color alphabet cube toy lot",
+   "url": "https://images.unsplash.com/photo-1535572290543-960a8046f5af?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHRveXN8ZW58MXx8fHwxNzk0NjA0Mzc3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1535572290543-960a8046f5af?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHRveXN8ZW58MXx8fHwxNzk0NjA0Mzc3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Susan Holt Simpson on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@shs521?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/assorted-color-alphabet-cube-toy-lot-H7SCRwU1aiM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A wood-paneled hotel room with a bed, lamps, and a framed portrait in Stockholm",
+   "url": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGhvdGVsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MjIwMTZ8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1590381105924-c72589b9ef3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGhvdGVsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MjIwMTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Rod Long on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@rodlong?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/hotel-room-with-wood-paneling-in-stockholm-2P_ifaetDm0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Red and black theater chairs",
+   "url": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2luZW1hfGVufDF8fHx8MTc5NDYyMjA4MHww&ixlib=rb-4.1.0&w=2274&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1595769816263-9b910be24d5f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y2luZW1hfGVufDF8fHx8MTc5NDYyMjA4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2274,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Geoffrey Moffett on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@geoffreymoffett?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/red-and-black-theater-chairs-TFRezw7pQwI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "13-02-27-spielbank-wiesbaden-by-RalfR-093",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg/1920px-13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg/500px-13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ralf Roletschek, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg"
   }
  ]
 }

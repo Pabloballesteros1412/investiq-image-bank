@@ -6,6 +6,7 @@
   "NRG"
  ],
  "sector": "sector-utilities",
+ "target": 10,
  "fill_from": "sector-utilities",
  "photos": [
   {
@@ -24,6 +25,66 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Norwalk_Harbor_Generating_Station_-_NRG_Energy_-_Manresa_Island.jpg",
+   "plain": true
+  },
+  {
+   "shows": "NRG Energy # 32382 gondola car",
+   "url": "https://live.staticflickr.com/5754/22739051279_28deafe916_b.jpg",
+   "preview": "https://live.staticflickr.com/5754/22739051279_28deafe916_z.jpg",
+   "size": [
+    1024,
+    445
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by James St. John on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/47445767@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/47445767@N05/22739051279",
+   "plain": true
+  },
+  {
+   "shows": "NRG Energy Warren F. Beasley Generating Station",
+   "url": "https://live.staticflickr.com/883/39382727600_beb65c77eb_b.jpg",
+   "preview": "https://live.staticflickr.com/883/39382727600_beb65c77eb_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tonyglen14 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/85517748@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/85517748@N02/39382727600",
+   "plain": true
+  },
+  {
+   "shows": "NRG Energy Warren F. Beasley Generating Station",
+   "url": "https://live.staticflickr.com/876/40297271585_c60502e7cf_b.jpg",
+   "preview": "https://live.staticflickr.com/876/40297271585_c60502e7cf_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tonyglen14 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/85517748@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/85517748@N02/40297271585",
    "plain": true
   }
  ]

@@ -6,6 +6,7 @@
   "ABNB"
  ],
  "sector": "sector-consumer-discretionary",
+ "target": 10,
  "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
@@ -25,6 +26,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Brian_Chesky_2025.jpg"
+  },
+  {
+   "shows": "Airbnb · airbnb, sharingeconomy, architecture, building, business",
+   "url": "https://live.staticflickr.com/413/20095445482_f6f5df0582_b.jpg",
+   "preview": "https://live.staticflickr.com/413/20095445482_f6f5df0582_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/20095445482",
+   "plain": true
   },
   {
    "shows": "888 Brannan, San Francisco, 2016",
@@ -78,6 +99,84 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Atrium_of_AirBnB_Headquarters_at_888_Brannan_St,_San_Francisco.jpg",
+   "plain": true
+  },
+  {
+   "shows": "An Airbnb office in Toronto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AirbnbToronto.jpg/1920px-AirbnbToronto.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AirbnbToronto.jpg/500px-AirbnbToronto.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AirbnbToronto.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Airbnb · airbnb, sharingeconomy",
+   "url": "https://live.staticflickr.com/430/19915395410_611f840957_b.jpg",
+   "preview": "https://live.staticflickr.com/430/19915395410_611f840957_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/19915395410",
+   "plain": true
+  },
+  {
+   "shows": "Airbnb Office · airbnb, sharingeconomy, architecture, building, business",
+   "url": "https://live.staticflickr.com/7563/27071084566_2933d8c540_b.jpg",
+   "preview": "https://live.staticflickr.com/7563/27071084566_2933d8c540_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/27071084566",
+   "plain": true
+  },
+  {
+   "shows": "Airbnb · airbnb, sharingeconomy, architecture, building, city",
+   "url": "https://live.staticflickr.com/389/19916697329_2333c3ddeb_b.jpg",
+   "preview": "https://live.staticflickr.com/389/19916697329_2333c3ddeb_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/19916697329",
    "plain": true
   }
  ]

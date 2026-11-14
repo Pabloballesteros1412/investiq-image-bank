@@ -6,7 +6,7 @@
   "BP"
  ],
  "sector": "sector-energy",
- "fill_from": "sector-energy",
+ "target": 10,
  "photos": [
   {
    "shows": "Dark blue car at a bp gas station at night",
@@ -96,6 +96,100 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:BP,_S%26S_Food_Store,_White_Springs.JPG",
+   "plain": true
+  },
+  {
+   "shows": "BP Pulse EV chargers - 12 October 2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BP_Pulse_EV_chargers_-_12_October_2025.jpg/1920px-BP_Pulse_EV_chargers_-_12_October_2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/BP_Pulse_EV_chargers_-_12_October_2025.jpg/500px-BP_Pulse_EV_chargers_-_12_October_2025.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aethonatic, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BP_Pulse_EV_chargers_-_12_October_2025.jpg",
+   "plain": true
+  },
+  {
+   "shows": "B-1B Lancers receive first-ever hot-pit refuel in Romania",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/B-1B_Lancers_receive_first-ever_hot-pit_refuel_in_Romania.jpg/1920px-B-1B_Lancers_receive_first-ever_hot-pit_refuel_in_Romania.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/B-1B_Lancers_receive_first-ever_hot-pit_refuel_in_Romania.jpg/500px-B-1B_Lancers_receive_first-ever_hot-pit_refuel_in_Romania.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Staff Sgt. Allison Payne, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:B-1B_Lancers_receive_first-ever_hot-pit_refuel_in_Romania.jpg",
+   "plain": true
+  },
+  {
+   "shows": "DAV 2815-Air BP Aviation Fuel",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/DAV_2815-Air_BP_Aviation_Fuel.jpg/1920px-DAV_2815-Air_BP_Aviation_Fuel.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/DAV_2815-Air_BP_Aviation_Fuel.jpg/500px-DAV_2815-Air_BP_Aviation_Fuel.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DavidivardiIL, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DAV_2815-Air_BP_Aviation_Fuel.jpg",
+   "plain": true
+  },
+  {
+   "shows": "BP gas station · 269, american, bp, bplogo, bpsign",
+   "url": "https://live.staticflickr.com/189/460376214_64ce794c97_b.jpg",
+   "preview": "https://live.staticflickr.com/189/460376214_64ce794c97_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by futureatlas.com on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/87913776@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/87913776@N00/460376214",
+   "plain": true
+  },
+  {
+   "shows": "BP Gas Station British Petroleum Gasoline Station Sign. 5/2014",
+   "url": "https://live.staticflickr.com/5116/14231501312_a744b93289_b.jpg",
+   "preview": "https://live.staticflickr.com/5116/14231501312_a744b93289_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/14231501312",
    "plain": true
   }
  ]

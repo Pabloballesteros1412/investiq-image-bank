@@ -6,7 +6,7 @@
   "CASY"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Exterior of a Casey's Retail Company convenience store in Farragut, Tennessee 01",
@@ -24,6 +24,23 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_a_Casey%27s_Retail_Company_convenience_store_in_Farragut,_Tennessee_01.jpg"
+  },
+  {
+   "shows": "Casey's General Store - Eagle Grove - Iowa",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Casey%27s_General_Store_-_Eagle_Grove_-_Iowa_%2854490545741%29.jpg/1920px-Casey%27s_General_Store_-_Eagle_Grove_-_Iowa_%2854490545741%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Casey%27s_General_Store_-_Eagle_Grove_-_Iowa_%2854490545741%29.jpg/500px-Casey%27s_General_Store_-_Eagle_Grove_-_Iowa_%2854490545741%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Casey%27s_General_Store_-_Eagle_Grove_-_Iowa_(54490545741).jpg"
   },
   {
    "shows": "Casey's General Store Springfield",
@@ -95,6 +112,78 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Casey%27s_Gas_Station_(52195242887).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Interior of a Casey's Retail Company convenience store in Farragut, Tennessee 03",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Interior_of_a_Casey%27s_Retail_Company_convenience_store_in_Farragut%2C_Tennessee_03.jpg/1920px-Interior_of_a_Casey%27s_Retail_Company_convenience_store_in_Farragut%2C_Tennessee_03.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Interior_of_a_Casey%27s_Retail_Company_convenience_store_in_Farragut%2C_Tennessee_03.jpg/500px-Interior_of_a_Casey%27s_Retail_Company_convenience_store_in_Farragut%2C_Tennessee_03.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Harrison Keely, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Interior_of_a_Casey%27s_Retail_Company_convenience_store_in_Farragut,_Tennessee_03.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Casey's in Brookover Corner",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Casey%27s_in_Brookover_Corner.jpg/1920px-Casey%27s_in_Brookover_Corner.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Casey%27s_in_Brookover_Corner.jpg/500px-Casey%27s_in_Brookover_Corner.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "GlenpoolOK, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Casey%27s_in_Brookover_Corner.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Casey's Taco Pizza Box Opened",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/CaseysBoxOpen.jpg/1920px-CaseysBoxOpen.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/CaseysBoxOpen.jpg/500px-CaseysBoxOpen.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Junk Food Living, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CaseysBoxOpen.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Slice of Casey's Taco Pizza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CaseysSlice1.jpg/1920px-CaseysSlice1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/CaseysSlice1.jpg/500px-CaseysSlice1.jpg",
+   "size": [
+    1920,
+    2124
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Junk Food Living, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CaseysSlice1.jpg",
    "plain": true
   }
  ]

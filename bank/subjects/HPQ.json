@@ -6,6 +6,7 @@
   "HPQ"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -24,6 +25,146 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:HP_Headquarters_Palo_Alto.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HP Laptop · 2008, 9, commart, cpu, eeepc",
+   "url": "https://live.staticflickr.com/3025/2572018841_1aa9980865_b.jpg",
+   "preview": "https://live.staticflickr.com/3025/2572018841_1aa9980865_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mgminthu on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/72695348@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/72695348@N00/2572018841",
+   "plain": true
+  },
+  {
+   "shows": "My HP laptop with skin",
+   "url": "https://live.staticflickr.com/4009/4316143258_389f06baff_b.jpg",
+   "preview": "https://live.staticflickr.com/4009/4316143258_389f06baff_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Elve on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/8307534@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8307534@N03/4316143258",
+   "plain": true
+  },
+  {
+   "shows": "HP laptop bundle",
+   "url": "https://live.staticflickr.com/7700/17203076568_5a871f7ee1_b.jpg",
+   "preview": "https://live.staticflickr.com/7700/17203076568_5a871f7ee1_z.jpg",
+   "size": [
+    1024,
+    535
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kongaaccess on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/128862678@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/128862678@N04/17203076568",
+   "plain": true
+  },
+  {
+   "shows": "The NEW new laptop from the front",
+   "url": "https://live.staticflickr.com/2533/4159467464_383c2a2f64_b.jpg",
+   "preview": "https://live.staticflickr.com/2533/4159467464_383c2a2f64_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by acnatta on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/29218907@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29218907@N00/4159467464",
+   "plain": true
+  },
+  {
+   "shows": "All new Ubuntu laptop - 2011-04-12",
+   "url": "https://live.staticflickr.com/3167/5712371145_7d78a51340_b.jpg",
+   "preview": "https://live.staticflickr.com/3167/5712371145_7d78a51340_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 4nitsirk on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/26223114@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/26223114@N02/5712371145",
+   "plain": true
+  },
+  {
+   "shows": "HP ChromeBook · chrome, chromebook, google, hp, laptop",
+   "url": "https://live.staticflickr.com/2895/14424276408_f3f9827672_b.jpg",
+   "preview": "https://live.staticflickr.com/2895/14424276408_f3f9827672_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JohnKarak on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/98231059@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98231059@N00/14424276408",
+   "plain": true
+  },
+  {
+   "shows": "£9.95 HP Printer · 1053, 750gb, apple, computer, desktop",
+   "url": "https://live.staticflickr.com/3145/2586296015_e6ed5f3dc7_b.jpg",
+   "preview": "https://live.staticflickr.com/3145/2586296015_e6ed5f3dc7_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by William Hook on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/83542829@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83542829@N00/2586296015",
    "plain": true
   }
  ]

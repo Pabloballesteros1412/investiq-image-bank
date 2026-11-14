@@ -6,6 +6,7 @@
   "REGN"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -60,6 +61,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Regeneron_Pharmaceuticals_(52641236716).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Regeneron Pharmaceuticals",
+   "url": "https://live.staticflickr.com/65535/52641236716_688bc77372_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52641236716_688bc77372_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ajay_suresh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83136374@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83136374@N05/52641236716",
    "plain": true
   }
  ]

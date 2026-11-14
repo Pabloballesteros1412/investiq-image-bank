@@ -6,6 +6,7 @@
   "PKG"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
   {
@@ -24,6 +25,24 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Packaging_Corporation_of_America_-_PCA_-_Minneapolis_(25285329737).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Packaging Corporation of America mill, Clyattville, Georgia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Packaging_Corporation_of_America_mill%2C_Clyattville%2C_Georgia.jpg/1920px-Packaging_Corporation_of_America_mill%2C_Clyattville%2C_Georgia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Packaging_Corporation_of_America_mill%2C_Clyattville%2C_Georgia.jpg/500px-Packaging_Corporation_of_America_mill%2C_Clyattville%2C_Georgia.jpg",
+   "size": [
+    1920,
+    1321
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Packaging_Corporation_of_America_mill,_Clyattville,_Georgia.jpg",
    "plain": true
   }
  ]

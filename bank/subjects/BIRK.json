@@ -6,7 +6,7 @@
   "BIRK"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Bstore Booragoon (Garden City), 2026",
@@ -167,6 +167,24 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Birkenstock-Store_Mannheim_Q5.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Birkenstock Arizona Blue sandals",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Birkenstock_Arizona_Blue_sandals.jpg/1920px-Birkenstock_Arizona_Blue_sandals.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Birkenstock_Arizona_Blue_sandals.jpg/500px-Birkenstock_Arizona_Blue_sandals.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TheHumanKite, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Birkenstock_Arizona_Blue_sandals.jpg",
    "plain": true
   }
  ]

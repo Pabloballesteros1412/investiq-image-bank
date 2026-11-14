@@ -3,7 +3,26 @@
  "kind": "sector",
  "name": "Health care sector",
  "tickers": [],
+ "target": 50,
  "photos": [
+  {
+   "shows": "Laboratory technicians at a pharmaceutical lab in Rockville, Maryland",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15600:15699/full/1923,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:15600:15699/full/500,/0/default.jpg",
+   "size": [
+    1923,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2011633892/"
+  },
   {
    "shows": "White and blue medication pill blister pack",
    "url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cGlsbHMlMjBibGlzdGVyfGVufDF8fHx8MTc5Mzg3Nzk5N3ww&ixlib=rb-4.1.0&w=2145&q=80&fm=jpg&fit=max",
@@ -145,6 +164,724 @@
    "author_url": "https://unsplash.com/@babydog50?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/white-and-gray-digital-device-LwYlLzteMxo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Doctor writing on a patient's chart",
+   "url": "https://images.unsplash.com/photo-1758691461990-03b49d969495?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGhlYWx0aGNhcmV8ZW58MXx8fHwxNzk0NjA0MjQ5fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1758691461990-03b49d969495?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGhlYWx0aGNhcmV8ZW58MXx8fHwxNzk0NjA0MjQ5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vitaly Gariev on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@silverkblack?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/doctor-writing-on-a-patients-chart-8WYkI3cEZm8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Man in white scrub suit wearing green mask",
+   "url": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ashkan Forouzani on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@ashkfor121?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/man-in-white-scrub-suit-wearing-green-mask-DPEPYPBZpB8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Surgeon operating, Fitzsimons Army Medical Center, circa 1990",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Surgeon_operating%2C_Fitzsimons_Army_Medical_Center%2C_circa_1990.JPEG/1280px-Surgeon_operating%2C_Fitzsimons_Army_Medical_Center%2C_circa_1990.JPEG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Surgeon_operating%2C_Fitzsimons_Army_Medical_Center%2C_circa_1990.JPEG/500px-Surgeon_operating%2C_Fitzsimons_Army_Medical_Center%2C_circa_1990.JPEG",
+   "size": [
+    1280,
+    1907
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Unknown author Unknown author, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Surgeon_operating,_Fitzsimons_Army_Medical_Center,_circa_1990.JPEG"
+  },
+  {
+   "shows": "A hospital room with a bed and a desk",
+   "url": "https://images.unsplash.com/photo-1710074213379-2a9c2653046a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8aG9zcGl0YWwlMjByb29tfGVufDF8fHx8MTc5NDYwNDI2MHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1710074213379-2a9c2653046a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8aG9zcGl0YWwlMjByb29tfGVufDF8fHx8MTc5NDYwNDI2MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zoshua Colah on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-hospital-room-with-a-bed-and-a-desk-_fdWqec7VRo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White blue and orange medication pill",
+   "url": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGlsbHN8ZW58MXx8fHwxNzk0NTQzNTAzfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGlsbHN8ZW58MXx8fHwxNzk0NTQzNTAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1482
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Myriam Zilles on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@myriamzilles?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-blue-and-orange-medication-pill-KltoLK6Mk-g?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A lab scientist labelling a cryovial tube to aliquot suspected COVID-19 sample at the NCDC National Reference Laboratory",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/A_lab_scientist_labelling_a_cryovial_tube_to_aliquot_suspected_COVID-19_sample_at_the_NCDC_National_Reference_Laboratory.jpg/1920px-A_lab_scientist_labelling_a_cryovial_tube_to_aliquot_suspected_COVID-19_sample_at_the_NCDC_National_Reference_Laboratory.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/A_lab_scientist_labelling_a_cryovial_tube_to_aliquot_suspected_COVID-19_sample_at_the_NCDC_National_Reference_Laboratory.jpg/500px-A_lab_scientist_labelling_a_cryovial_tube_to_aliquot_suspected_COVID-19_sample_at_the_NCDC_National_Reference_Laboratory.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rubbyfem, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_lab_scientist_labelling_a_cryovial_tube_to_aliquot_suspected_COVID-19_sample_at_the_NCDC_National_Reference_Laboratory.jpg"
+  },
+  {
+   "shows": "Person putting on blue medical gloves",
+   "url": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWVkaWNhbHxlbnwxfHx8fDE3OTQ2MDQyNzd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1584820927498-cfe5211fd8bf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWVkaWNhbHxlbnwxfHx8fDE3OTQ2MDQyNzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Clay Banks on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@claybanks?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-putting-on-blue-medical-gloves-cEzMOp5FtV4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A black medical stethoscope on a light blue background",
+   "url": "https://images.unsplash.com/photo-1655313719493-16ebe4906441?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RldGhvc2NvcGV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1655313719493-16ebe4906441?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RldGhvc2NvcGV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Etactics Inc on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@etactics?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/stethoscope-on-blue-medical-background-g3PsF4_y7ZY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A brightly lit pharmacy interior with shelves stocked with various health and beauty products",
+   "url": "https://images.unsplash.com/photo-1789108978116-2763682414a4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHBoYXJtYWN5JTIwc2hlbHZlc3xlbnwxfHx8fDE3OTM5MTY2NzB8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1789108978116-2763682414a4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHBoYXJtYWN5JTIwc2hlbHZlc3xlbnwxfHx8fDE3OTM5MTY2NzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Cheung Yin on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cheungyin?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/pharmacy-interior-with-stocked-product-shelves-lile4HrTcvQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Blue and white lollipop on white surface",
+   "url": "https://images.unsplash.com/photo-1623867821208-c4d8025f8194?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHN5cmluZ2V8ZW58MXx8fHwxNzkzOTQ1NjEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1623867821208-c4d8025f8194?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHN5cmluZ2V8ZW58MXx8fHwxNzkzOTQ1NjEzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mika Baumeister on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-and-white-lollipop-on-white-surface-fPE_qTJu3Ws?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Pile of blister packs of colorful medicine tablets",
+   "url": "https://images.unsplash.com/photo-1577401132921-cb39bb0adcff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGlsbHMlMjBibGlzdGVyfGVufDF8fHx8MTc5Mzg3Nzk5N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1577401132921-cb39bb0adcff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cGlsbHMlMjBibGlzdGVyfGVufDF8fHx8MTc5Mzg3Nzk5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Volodymyr Hryshchenko on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lunarts?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/pile-of-blister-packs-of-colorful-medicine-tablets-m1Hq4ibP9rc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A doctor holding a stethoscope",
+   "url": "https://images.unsplash.com/photo-1666887360388-93e684b6474a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGRvY3RvciUyMHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5Mzg3Nzk5OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1666887360388-93e684b6474a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGRvY3RvciUyMHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5Mzg3Nzk5OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nappy on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nappystudio?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-doctor-holding-a-stethoscope-jkQzYGJ7dBA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Group of doctors walking on hospital hallway",
+   "url": "https://images.unsplash.com/photo-1516841273335-e39b37888115?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG51cnNlfGVufDF8fHx8MTc5Mzg4MDcwNnww&ixlib=rb-4.1.0&w=2191&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1516841273335-e39b37888115?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG51cnNlfGVufDF8fHx8MTc5Mzg4MDcwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2191,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Luis Melendez on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lcma1028?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/group-of-doctors-walking-on-hospital-hallway-Pd4lRfKo16U?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A group of doctors performing surgery on a patient",
+   "url": "https://images.unsplash.com/photo-1640876777002-badf6aee5bcc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1640876777002-badf6aee5bcc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Akram Huseyn on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@akramhuseyn?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-group-of-doctors-performing-surgery-on-a-patient-brbF5FSnSgI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Empty hospital bed inside room",
+   "url": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aG9zcGl0YWwlMjByb29tfGVufDF8fHx8MTc5NDYwNDI2MHww&ixlib=rb-4.1.0&w=2399&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aG9zcGl0YWwlMjByb29tfGVufDF8fHx8MTc5NDYwNDI2MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2399,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Adhy Savala on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@adhy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/empty-hospital-bed-inside-room-zbpgmGe27p8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Assorted-color medication pills",
+   "url": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cGlsbHN8ZW58MXx8fHwxNzk0NTQzNTAzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cGlsbHN8ZW58MXx8fHwxNzk0NTQzNTAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1594
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pina messina on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@pinamessina?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/assorted-color-medication-pills-kfJkpeI6Lgc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Medical professionals working",
+   "url": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bWVkaWNhbHxlbnwxfHx8fDE3OTQ2MDQyNzd8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bWVkaWNhbHxlbnwxfHx8fDE3OTQ2MDQyNzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Piron Guillaume on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@gpiron?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/medical-professionals-working-U4FyCp3-KzY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A pair of black headphones",
+   "url": "https://images.unsplash.com/photo-1655313719612-8248b2c4d1e7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c3RldGhvc2NvcGV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1655313719612-8248b2c4d1e7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c3RldGhvc2NvcGV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Etactics Inc on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@etactics?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-pair-of-black-headphones-2qiXVelOgyw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person holding yellow and white pen",
+   "url": "https://images.unsplash.com/photo-1611689102192-1f6e0e52df0a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN5cmluZ2V8ZW58MXx8fHwxNzkzOTQ1NjEzfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1611689102192-1f6e0e52df0a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN5cmluZ2V8ZW58MXx8fHwxNzkzOTQ1NjEzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1492
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Diana Polekhina on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@diana_pole?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-holding-yellow-and-white-pen-ZBstHWt9vLc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A pack of pills next to a contraption on a table",
+   "url": "https://images.unsplash.com/photo-1715868655465-2276c4f93f1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cGlsbHMlMjBibGlzdGVyfGVufDF8fHx8MTc5Mzg3Nzk5N3ww&ixlib=rb-4.1.0&w=2259&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1715868655465-2276c4f93f1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8cGlsbHMlMjBibGlzdGVyfGVufDF8fHx8MTc5Mzg3Nzk5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2259,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ksenia Pixelesse on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@pixelesse?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-pack-of-pills-next-to-a-contraption-on-a-table-IyBoSN9dPhY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A doctor's coat with a stethoscope attached to it",
+   "url": "https://images.unsplash.com/photo-1674702703321-b44990d8b6ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGRvY3RvciUyMHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5Mzg3Nzk5OHww&ixlib=rb-4.1.0&w=1322&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1674702703321-b44990d8b6ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGRvY3RvciUyMHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5Mzg3Nzk5OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1322,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Abdulai Sayni on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@abdulaisayni80?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-doctors-coat-with-a-stethoscope-attached-to-it-zXpwZN7rnZY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A smiling doctor in a white coat talking to a patient in a clinic",
+   "url": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=2302&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2302,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by National Cancer Institute on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nci?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/doctor-talking-to-patient-in-clinic-tl447mekwuQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A hospital room with a bed and a chair",
+   "url": "https://images.unsplash.com/photo-1710698936989-500f359c6482?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGhvc3BpdGFsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MDQyNjB8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1710698936989-500f359c6482?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGhvc3BpdGFsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MDQyNjB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Max Tcvetkov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@your_scorpion?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-hospital-room-with-a-bed-and-a-chair-60YFPezQ-oc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White medication pills on brown surface",
+   "url": "https://images.unsplash.com/photo-1588718889344-f7bd7a565d20?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHBpbGxzfGVufDF8fHx8MTc5NDU0MzUwM3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1588718889344-f7bd7a565d20?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHBpbGxzfGVufDF8fHx8MTc5NDU0MzUwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by James Yarema on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jamesyarema?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-medication-pills-on-brown-surface-kdgiNc0sDeI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Man wearing medical mask and robe",
+   "url": "https://images.unsplash.com/photo-1550831107-1553da8c8464?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG1lZGljYWx8ZW58MXx8fHwxNzk0NjA0Mjc3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1550831107-1553da8c8464?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fG1lZGljYWx8ZW58MXx8fHwxNzk0NjA0Mjc3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JC Gellidon on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jcgellidon?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/man-wearing-medical-mask-and-robe-UIp163xCV6w?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A black stethoscope and a blood pressure gauge on a white fabric surface",
+   "url": "https://images.unsplash.com/photo-1700832082200-af7deeb63d9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c3RldGhvc2NvcGV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1700832082200-af7deeb63d9b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8c3RldGhvc2NvcGV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1805
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Immo Wegmann on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tinkerman?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/stethoscope-and-blood-pressure-gauge-njrDE70M2VI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A hand in a glove holds a syringe",
+   "url": "https://images.unsplash.com/photo-1746017090180-ebb14a589639?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHN5cmluZ2V8ZW58MXx8fHwxNzkzOTQ1NjEzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1746017090180-ebb14a589639?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHN5cmluZ2V8ZW58MXx8fHwxNzkzOTQ1NjEzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mina Rad on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@miinrad?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-hand-in-a-glove-holds-a-syringe-4-mGRdpO6Ac?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Red and white medication pill blister pack",
+   "url": "https://images.unsplash.com/photo-1630094539416-5e17c6191be5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cGlsbHMlMjBibGlzdGVyfGVufDF8fHx8MTc5Mzg3Nzk5N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1630094539416-5e17c6191be5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cGlsbHMlMjBibGlzdGVyfGVufDF8fHx8MTc5Mzg3Nzk5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Melany @ tuinfosalud.com on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@melany_tuinfosalud?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/red-and-white-medication-pill-blister-pack-Y8WJyAmakms?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Woman in white button up shirt and blue stethoscope",
+   "url": "https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=2024&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2024,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JESHOOTS.COM on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jeshoots?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/woman-in-white-button-up-shirt-and-blue-stethoscope-l0j0DHVWcIE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A hospital room with a bed and a television",
+   "url": "https://images.unsplash.com/photo-1670665352618-49ae2ae914ff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGhvc3BpdGFsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MDQyNjB8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1670665352618-49ae2ae914ff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGhvc3BpdGFsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MDQyNjB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ronaldo Pangan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@agp1210?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-hospital-room-with-a-bed-and-a-television-pVok4zH3AOg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Round white pills",
+   "url": "https://images.unsplash.com/photo-1573883430697-4c3479aae6b9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBpbGxzfGVufDF8fHx8MTc5NDU0MzUwM3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1573883430697-4c3479aae6b9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBpbGxzfGVufDF8fHx8MTc5NDU0MzUwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Hal Gatewood on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@halacious?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/round-white-pills-iPl3q-gEGzY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Two medical professionals in white coats reviewing a brain scan on computer monitors",
+   "url": "https://images.unsplash.com/photo-1666214277657-e60f05c40b04?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fG1lZGljYWx8ZW58MXx8fHwxNzk0NjA0Mjc3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1666214277657-e60f05c40b04?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fG1lZGljYWx8ZW58MXx8fHwxNzk0NjA0Mjc3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Accuray on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@accuray?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/medical-professionals-reviewing-brain-scan-5VkNa1LrS8A?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A modern stethoscope on a white background",
+   "url": "https://images.unsplash.com/photo-1763070282903-cbe9922ab7ab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8c3RldGhvc2NvcGV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1763070282903-cbe9922ab7ab?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8c3RldGhvc2NvcGV8ZW58MXx8fHwxNzk0NjA0MzAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1201,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by anita shirmohamadi on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@aniiiiiiitam?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-modern-stethoscope-on-a-white-background-XBX9DepYQYQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person in white long sleeve shirt holding silver and black tube type mod",
+   "url": "https://images.unsplash.com/photo-1606619353143-8e11b4bdf76b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHN5cmluZ2V8ZW58MXx8fHwxNzkzOTQ1NjEzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1606619353143-8e11b4bdf76b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHN5cmluZ2V8ZW58MXx8fHwxNzkzOTQ1NjEzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kristine Wook on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kwook?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-in-white-long-sleeve-shirt-holding-silver-and-black-tube-type-mod-gwuhbsRzOvo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of many pills in a blister",
+   "url": "https://images.unsplash.com/photo-1705517243962-230c07db6b23?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBpbGxzJTIwYmxpc3RlcnxlbnwxfHx8fDE3OTM4Nzc5OTd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1705517243962-230c07db6b23?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBpbGxzJTIwYmxpc3RlcnxlbnwxfHx8fDE3OTM4Nzc5OTd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Marek Studzinski on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jccards?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-many-pills-in-a-blister-3jUMK4Zki3E?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A doctor showing a patient something on the tablet",
+   "url": "https://images.unsplash.com/photo-1666886573531-48d2e3c2b684?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1666886573531-48d2e3c2b684?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fGRvY3RvcnxlbnwxfHx8fDE3OTQ1NDMzODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nappy on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nappystudio?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-doctor-showing-a-patient-something-on-the-tablet-J5UTvRgse7Q?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White hospital bed in a room",
+   "url": "https://images.unsplash.com/photo-1611587266737-cc128ffe2946?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGhvc3BpdGFsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MDQyNjB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1611587266737-cc128ffe2946?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGhvc3BpdGFsJTIwcm9vbXxlbnwxfHx8fDE3OTQ2MDQyNjB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ante Samarzija on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@antesamarzija?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-hospital-bed-in-a-room-F7m3QZJ_4mg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A hand holding two pills in the dark",
+   "url": "https://images.unsplash.com/photo-1639677425025-e4f43c990156?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHBpbGxzfGVufDF8fHx8MTc5NDU0MzUwM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1639677425025-e4f43c990156?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHBpbGxzfGVufDF8fHx8MTc5NDU0MzUwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    2133
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Cosmin Ursea on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cosminursea?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-hand-holding-two-pills-in-the-dark-t8PrBszEMps?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Glass medical vials and a large intravenous fluid bottle on a dark surface",
+   "url": "https://images.unsplash.com/photo-1576671081837-49000212a370?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fG1lZGljYWx8ZW58MXx8fHwxNzk0NjA0Mjc3fDA&ixlib=rb-4.1.0&w=2063&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1576671081837-49000212a370?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fG1lZGljYWx8ZW58MXx8fHwxNzk0NjA0Mjc3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2063,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by National Cancer Institute on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nci?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/medical-vials-and-intravenous-fluid-bottle-KMvoHcB-w5g?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A stethoscope, a medical mask, and a pen on a blue",
+   "url": "https://images.unsplash.com/photo-1676364424409-e87919caffe1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5NDYwNDMwMXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1676364424409-e87919caffe1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5NDYwNDMwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bermix Studio on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bermixstudio?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-stethoscope-a-medical-mask-and-a-pen-on-a-blue-p33-JPlv55g?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

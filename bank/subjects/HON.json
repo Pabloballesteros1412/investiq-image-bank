@@ -6,6 +6,7 @@
   "HON"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -58,6 +59,23 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Honeywell-charlotte-hq-1.jpg"
+  },
+  {
+   "shows": "Praha Chodov V Parku 16 Honeywell",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Praha_Chodov_V_Parku_16_Honeywell.jpg/1280px-Praha_Chodov_V_Parku_16_Honeywell.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Praha_Chodov_V_Parku_16_Honeywell.jpg/500px-Praha_Chodov_V_Parku_16_Honeywell.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JiriMatejicek, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Praha_Chodov_V_Parku_16_Honeywell.jpg"
   },
   {
    "shows": "HON HQ photo",
@@ -129,6 +147,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Honeywell_Beijing_office_at_C%26W_Industry_Park_(20230304111905).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Honeywell Markham Office - Address: Suite 100, 85 Enterprise Blvd, Unionville, ON L6G 0B5",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HoneywellMarkhamOffice2.jpg/1920px-HoneywellMarkhamOffice2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HoneywellMarkhamOffice2.jpg/500px-HoneywellMarkhamOffice2.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HoneywellMarkhamOffice2.jpg",
    "plain": true
   }
  ]

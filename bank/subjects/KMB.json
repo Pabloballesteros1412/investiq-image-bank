@@ -6,7 +6,7 @@
   "KMB"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Kimberly-Clark Corporation Headquarters - Irving - Texas",
@@ -24,6 +24,182 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Kimberly-Clark_Corporation_Headquarters_-_Irving_-_Texas.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kimberly-Clark automatic paper towel dispenser",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kimberly-Clark_automatic_paper_towel_dispenser.JPG/1280px-Kimberly-Clark_automatic_paper_towel_dispenser.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kimberly-Clark_automatic_paper_towel_dispenser.JPG/500px-Kimberly-Clark_automatic_paper_towel_dispenser.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kimberly-Clark_automatic_paper_towel_dispenser.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Looking at the sign for a Kimberly-Clark building near Neenah, Wisconsin, USA. Taken October 27 2006 by myself.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/KimberlyClarkBuildingSign.jpg/1920px-KimberlyClarkBuildingSign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/KimberlyClarkBuildingSign.jpg/500px-KimberlyClarkBuildingSign.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "User Royalbroil on en.wikipedia, CC BY-SA 2.5, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:KimberlyClarkBuildingSign.jpg",
+   "plain": true
+  },
+  {
+   "shows": "kleenex · allergies, colds, congestion, covid, flu",
+   "url": "https://live.staticflickr.com/1790/41610560270_15ce916253_b.jpg",
+   "preview": "https://live.staticflickr.com/1790/41610560270_15ce916253_z.jpg",
+   "size": [
+    1024,
+    628
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dean Hochman on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/17997843@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/17997843@N02/41610560270",
+   "plain": true
+  },
+  {
+   "shows": "Kleenex Hand Towels · kleenex, really, towels",
+   "url": "https://live.staticflickr.com/1392/5103436169_bb7832fe30_b.jpg",
+   "preview": "https://live.staticflickr.com/1392/5103436169_bb7832fe30_z.jpg",
+   "size": [
+    1024,
+    902
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by theimpulsivebuy on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/27410581@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/27410581@N07/5103436169",
+   "plain": true
+  },
+  {
+   "shows": "kleenex anti-viral commuter freebie",
+   "url": "https://live.staticflickr.com/2644/3876906995_c6afe1d533_b.jpg",
+   "preview": "https://live.staticflickr.com/2644/3876906995_c6afe1d533_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by fsse8info on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/37031529@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37031529@N00/3876906995",
+   "plain": true
+  },
+  {
+   "shows": "Kleenex Cottonelle Toilet Paper Enriched With Aloe & Vitamin E",
+   "url": "https://live.staticflickr.com/2619/3975918315_faa2acc276_b.jpg",
+   "preview": "https://live.staticflickr.com/2619/3975918315_faa2acc276_z.jpg",
+   "size": [
+    1024,
+    788
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by theimpulsivebuy on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/27410581@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/27410581@N07/3975918315",
+   "plain": true
+  },
+  {
+   "shows": "Apple Kleenex Dispenser · airport, apple, basestation, design, dispenser",
+   "url": "https://live.staticflickr.com/98/261781793_4629362ef0_b.jpg",
+   "preview": "https://live.staticflickr.com/98/261781793_4629362ef0_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Daniel Morrison on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/36561624@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36561624@N00/261781793",
+   "plain": true
+  },
+  {
+   "shows": "Huggies · 11, 111111, baby, delievery, hospital",
+   "url": "https://live.staticflickr.com/6212/6336510236_5943e40124_b.jpg",
+   "preview": "https://live.staticflickr.com/6212/6336510236_5943e40124_z.jpg",
+   "size": [
+    1024,
+    681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by KOMUnews on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12801018@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12801018@N00/6336510236",
+   "plain": true
+  },
+  {
+   "shows": "Huggies · huggies",
+   "url": "https://live.staticflickr.com/1346/1438525862_04771c3656_b.jpg",
+   "preview": "https://live.staticflickr.com/1346/1438525862_04771c3656_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ivanlanin on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/81434456@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/81434456@N00/1438525862",
    "plain": true
   }
  ]

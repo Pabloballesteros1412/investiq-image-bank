@@ -6,7 +6,7 @@
   "KHC"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Kraft Heinz Headquarters Chicago",
@@ -78,6 +78,118 @@
    "author_url": "https://unsplash.com/@jocallen?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/heinz-sign-on-red-brick-building-W5LOVmukZvk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Heinz Ketchup · heinz, ketchup, chili",
+   "url": "https://live.staticflickr.com/8573/16713766055_e9e40459b3_b.jpg",
+   "preview": "https://live.staticflickr.com/8573/16713766055_e9e40459b3_z.jpg",
+   "size": [
+    1024,
+    669
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/16713766055",
+   "plain": true
+  },
+  {
+   "shows": "Kraft Mayo Real Mayonnaise Packet",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kraft_Mayo_Real_Mayonnaise_Packet.jpg/1280px-Kraft_Mayo_Real_Mayonnaise_Packet.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kraft_Mayo_Real_Mayonnaise_Packet.jpg/500px-Kraft_Mayo_Real_Mayonnaise_Packet.jpg",
+   "size": [
+    1280,
+    1865
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kraft_Mayo_Real_Mayonnaise_Packet.jpg",
+   "plain": true
+  },
+  {
+   "shows": "03 28 50 A bottle of Kraft Classic Catalina Fat Free Dressing in the Dulles section of Sterling, Loudoun County, Virginia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2020-11-24_03_28_50_A_bottle_of_Kraft_Classic_Catalina_Fat_Free_Dressing_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg/1280px-2020-11-24_03_28_50_A_bottle_of_Kraft_Classic_Catalina_Fat_Free_Dressing_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2020-11-24_03_28_50_A_bottle_of_Kraft_Classic_Catalina_Fat_Free_Dressing_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg/500px-2020-11-24_03_28_50_A_bottle_of_Kraft_Classic_Catalina_Fat_Free_Dressing_in_the_Dulles_section_of_Sterling%2C_Loudoun_County%2C_Virginia.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2020-11-24_03_28_50_A_bottle_of_Kraft_Classic_Catalina_Fat_Free_Dressing_in_the_Dulles_section_of_Sterling,_Loudoun_County,_Virginia.jpg",
+   "plain": true
+  },
+  {
+   "shows": "21 06 13 A packet of Kraft Singles White American cheese still in its packaging in Dunn Loring, Fairfax County, Virginia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2019-02-06_21_06_13_A_packet_of_Kraft_Singles_White_American_cheese_still_in_its_packaging_in_Dunn_Loring%2C_Fairfax_County%2C_Virginia.jpg/1920px-2019-02-06_21_06_13_A_packet_of_Kraft_Singles_White_American_cheese_still_in_its_packaging_in_Dunn_Loring%2C_Fairfax_County%2C_Virginia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2019-02-06_21_06_13_A_packet_of_Kraft_Singles_White_American_cheese_still_in_its_packaging_in_Dunn_Loring%2C_Fairfax_County%2C_Virginia.jpg/500px-2019-02-06_21_06_13_A_packet_of_Kraft_Singles_White_American_cheese_still_in_its_packaging_in_Dunn_Loring%2C_Fairfax_County%2C_Virginia.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2019-02-06_21_06_13_A_packet_of_Kraft_Singles_White_American_cheese_still_in_its_packaging_in_Dunn_Loring,_Fairfax_County,_Virginia.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kraft Heinz Headquarters Chicago (closeup b)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kraft_Heinz_Headquarters_Chicago_%28closeup_b%29.jpg/1920px-Kraft_Heinz_Headquarters_Chicago_%28closeup_b%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kraft_Heinz_Headquarters_Chicago_%28closeup_b%29.jpg/500px-Kraft_Heinz_Headquarters_Chicago_%28closeup_b%29.jpg",
+   "size": [
+    1920,
+    1049
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lacrossewi, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kraft_Heinz_Headquarters_Chicago_(closeup_b).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Heinz ketchup - 57 varieties",
+   "url": "https://live.staticflickr.com/68/218374286_5985ba8879_b.jpg",
+   "preview": "https://live.staticflickr.com/68/218374286_5985ba8879_z.jpg",
+   "size": [
+    1024,
+    964
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Leonid Mamchenkov on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/37165469@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37165469@N00/218374286",
+   "plain": true
   }
  ]
 }

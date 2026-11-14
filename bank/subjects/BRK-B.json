@@ -6,7 +6,7 @@
   "BRK-B"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
+ "target": 30,
  "photos": [
   {
    "shows": "Warren Buffett at the 2015 SelectUSA Investment Summit",
@@ -80,6 +80,66 @@
    "source": "https://unsplash.com/photos/snoopy-character-in-ice-cream-cone-at-dairy-queen-VAcoeLvX2Pg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Circa 1958 neon Dairy Queen sign, Holbrook, AZ",
+   "url": "https://live.staticflickr.com/1505/24689333975_4c2aa0b853_b.jpg",
+   "preview": "https://live.staticflickr.com/1505/24689333975_4c2aa0b853_z.jpg",
+   "size": [
+    1024,
+    778
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dv over dt on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/37334508@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37334508@N00/24689333975",
+   "plain": true
+  },
+  {
+   "shows": "BNSF desert drag · bnsf, bnsf7520, cool, mojavedesert",
+   "url": "https://live.staticflickr.com/2292/2072586138_b1fd806c75_b.jpg",
+   "preview": "https://live.staticflickr.com/2292/2072586138_b1fd806c75_z.jpg",
+   "size": [
+    1024,
+    716
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kla4067 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/84263554@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/84263554@N00/2072586138",
+   "plain": true
+  },
+  {
+   "shows": "1/3 BNSF 532 Leads EB Manifest Olathe, KS 6-24-22",
+   "url": "https://live.staticflickr.com/65535/52334211517_5926c7fb52_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52334211517_5926c7fb52_z.jpg",
+   "size": [
+    1024,
+    619
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by KansasScanner on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/52378535@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/52378535@N06/52334211517",
+   "plain": true
+  },
+  {
    "shows": "Berkshire Hathaway Annual Meeting 2025",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Berkshire_Hathaway_Annual_Meeting_2025.jpg/1920px-Berkshire_Hathaway_Annual_Meeting_2025.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Berkshire_Hathaway_Annual_Meeting_2025.jpg/500px-Berkshire_Hathaway_Annual_Meeting_2025.jpg",
@@ -113,6 +173,420 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:OmahaKiewitPlaza.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Berkshire Hathaway HomeServices, 6 Pancras Square, April 2023 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg/1920px-Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg/500px-Berkshire_Hathaway_HomeServices%2C_6_Pancras_Square%2C_April_2023_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "No Swan So Fine, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Berkshire_Hathaway_HomeServices,_6_Pancras_Square,_April_2023_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kirby G5 upright vacuum cleaner",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirby_G5_upright_vacuum_cleaner_-_20140913.jpg/1280px-Kirby_G5_upright_vacuum_cleaner_-_20140913.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Kirby_G5_upright_vacuum_cleaner_-_20140913.jpg/500px-Kirby_G5_upright_vacuum_cleaner_-_20140913.jpg",
+   "size": [
+    1280,
+    1715
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Thrapston2 ., CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kirby_G5_upright_vacuum_cleaner_-_20140913.jpg",
+   "plain": true
+  },
+  {
+   "shows": "National Indemnity bldg from NW 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/National_Indemnity_bldg_from_NW_1.jpg/1920px-National_Indemnity_bldg_from_NW_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/National_Indemnity_bldg_from_NW_1.jpg/500px-National_Indemnity_bldg_from_NW_1.jpg",
+   "size": [
+    1920,
+    1238
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ammodramus, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:National_Indemnity_bldg_from_NW_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Geico Insurance Gecko Car",
+   "url": "https://live.staticflickr.com/3877/14864022579_e8d71bfe92_b.jpg",
+   "preview": "https://live.staticflickr.com/3877/14864022579_e8d71bfe92_z.jpg",
+   "size": [
+    1024,
+    546
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/14864022579",
+   "plain": true
+  },
+  {
+   "shows": "Geico Insurance Gecko Car",
+   "url": "https://live.staticflickr.com/5586/14864157288_735bffa377_b.jpg",
+   "preview": "https://live.staticflickr.com/5586/14864157288_735bffa377_z.jpg",
+   "size": [
+    1024,
+    854
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/14864157288",
+   "plain": true
+  },
+  {
+   "shows": "Geico Insurance Gecko Car",
+   "url": "https://live.staticflickr.com/3926/14864150278_a00913f9b0_b.jpg",
+   "preview": "https://live.staticflickr.com/3926/14864150278_a00913f9b0_z.jpg",
+   "size": [
+    1024,
+    584
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/14864150278",
+   "plain": true
+  },
+  {
+   "shows": "Geico Insurance Gecko Car",
+   "url": "https://live.staticflickr.com/5562/14864092070_bccc397dd7_b.jpg",
+   "preview": "https://live.staticflickr.com/5562/14864092070_bccc397dd7_z.jpg",
+   "size": [
+    1024,
+    508
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/14864092070",
+   "plain": true
+  },
+  {
+   "shows": "Dairy Queen · 345stlaurentboulevard, canada, cone, cream, dairy",
+   "url": "https://live.staticflickr.com/3047/2858743646_31bd12c6f0_b.jpg",
+   "preview": "https://live.staticflickr.com/3047/2858743646_31bd12c6f0_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ian Muttoo on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/20741443@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/20741443@N00/2858743646",
+   "plain": true
+  },
+  {
+   "shows": "Dairy Queen · dairy, queen, toronto",
+   "url": "https://live.staticflickr.com/7110/7835244128_72a6bef3d6_b.jpg",
+   "preview": "https://live.staticflickr.com/7110/7835244128_72a6bef3d6_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by grongar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/70757891@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/70757891@N00/7835244128",
+   "plain": true
+  },
+  {
+   "shows": "Dairy Queen - Pinapple Sundae",
+   "url": "https://live.staticflickr.com/6122/5957921953_6463d6d549_b.jpg",
+   "preview": "https://live.staticflickr.com/6122/5957921953_6463d6d549_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Calgary Reviews on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/51930963@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/51930963@N02/5957921953",
+   "plain": true
+  },
+  {
+   "shows": "Dairy Queen · btp, cc, favorite, galleried, image",
+   "url": "https://live.staticflickr.com/2626/3863094963_207c6d2b95_b.jpg",
+   "preview": "https://live.staticflickr.com/2626/3863094963_207c6d2b95_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JD Hancock on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83346641@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83346641@N00/3863094963",
+   "plain": true
+  },
+  {
+   "shows": "dairy queen · dairyqueen, dessert, hotfudge, icecream, melty",
+   "url": "https://live.staticflickr.com/2012/3536038954_2cb732174b_b.jpg",
+   "preview": "https://live.staticflickr.com/2012/3536038954_2cb732174b_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ginnerobot on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/78011127@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/78011127@N00/3536038954",
+   "plain": true
+  },
+  {
+   "shows": "Dairy Queen Hialeah Built 1952",
+   "url": "https://live.staticflickr.com/8184/8374131396_99d84f2a9d_b.jpg",
+   "preview": "https://live.staticflickr.com/8184/8374131396_99d84f2a9d_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Phillip Pessar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/25955895@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/25955895@N03/8374131396",
+   "plain": true
+  },
+  {
+   "shows": "Duracell battery AA type · battery, duracell, alkaline, battery, electricity",
+   "url": "https://live.staticflickr.com/3043/3046002213_16aeb5104a_b.jpg",
+   "preview": "https://live.staticflickr.com/3043/3046002213_16aeb5104a_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Anton Fomkin on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/32598846@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/32598846@N07/3046002213",
+   "plain": true
+  },
+  {
+   "shows": "Duracell battery AA type · battery, duracell, battery, electricity, technology",
+   "url": "https://live.staticflickr.com/3151/3046835952_fcf16e20d2_b.jpg",
+   "preview": "https://live.staticflickr.com/3151/3046835952_fcf16e20d2_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Anton Fomkin on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/32598846@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/32598846@N07/3046835952",
+   "plain": true
+  },
+  {
+   "shows": "DURACELL · battery, boredatwork, d300s, duracell, ilovemyjob",
+   "url": "https://live.staticflickr.com/6185/6141987280_d1089a86d6_b.jpg",
+   "preview": "https://live.staticflickr.com/6185/6141987280_d1089a86d6_z.jpg",
+   "size": [
+    689,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by marc falardeau on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/49889874@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/49889874@N05/6141987280",
+   "plain": true
+  },
+  {
+   "shows": "Shaded Duracell · battery, concept, duracell, lighting, macro",
+   "url": "https://live.staticflickr.com/1020/529419767_75ce37b90c_b.jpg",
+   "preview": "https://live.staticflickr.com/1020/529419767_75ce37b90c_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by commorancy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/8356650@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8356650@N03/529419767",
+   "plain": true
+  },
+  {
+   "shows": "Alkaline Battery (Duracell 625A)",
+   "url": "https://live.staticflickr.com/5095/5477945864_1eec39bb76_b.jpg",
+   "preview": "https://live.staticflickr.com/5095/5477945864_1eec39bb76_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by huzu1959 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/44031495@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/44031495@N02/5477945864",
+   "plain": true
+  },
+  {
+   "shows": "Welcome Berkshire Hathaway Shareholders",
+   "url": "https://live.staticflickr.com/178/484589362_d6ae857ad8_b.jpg",
+   "preview": "https://live.staticflickr.com/178/484589362_d6ae857ad8_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Neubie on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/45942104@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/45942104@N00/484589362",
+   "plain": true
+  },
+  {
+   "shows": "BNSF Train crossing Goat lick trestle",
+   "url": "https://live.staticflickr.com/6021/6019767371_90b58ab23c_b.jpg",
+   "preview": "https://live.staticflickr.com/6021/6019767371_90b58ab23c_z.jpg",
+   "size": [
+    644,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Loco Steve on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/36989019@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36989019@N08/6019767371",
+   "plain": true
+  },
+  {
+   "shows": "BNSF train @Two Medicine Trestle",
+   "url": "https://live.staticflickr.com/6025/6005390722_225fe6a683_b.jpg",
+   "preview": "https://live.staticflickr.com/6025/6005390722_225fe6a683_z.jpg",
+   "size": [
+    1024,
+    703
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Loco Steve on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/36989019@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36989019@N08/6005390722",
    "plain": true
   }
  ]

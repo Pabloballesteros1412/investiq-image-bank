@@ -6,7 +6,7 @@
   "BKNG"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "A sign on the side of a building that says bookking com",
@@ -25,6 +25,23 @@
    "author_url": "https://unsplash.com/@jasrolyn?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-sign-on-the-side-of-a-building-that-says-bookking-com-7BqK0rCPO5k?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Booking.com Campus Amsterdam",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Booking.com_Campus_Amsterdam.jpg/1280px-Booking.com_Campus_Amsterdam.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Booking.com_Campus_Amsterdam.jpg/500px-Booking.com_Campus_Amsterdam.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mohamed Osama AlNagdy, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Booking.com_Campus_Amsterdam.jpg"
   },
   {
    "shows": "Kantoorgebouw van Booking dot com",
@@ -60,6 +77,118 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:B-6902@SHA_(20191114100729).jpg",
+   "plain": true
+  },
+  {
+   "shows": "2023 Booking. com-Oosterdoksdraaibrug",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2023_Booking._com-Oosterdoksdraaibrug.jpg/1920px-2023_Booking._com-Oosterdoksdraaibrug.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/2023_Booking._com-Oosterdoksdraaibrug.jpg/500px-2023_Booking._com-Oosterdoksdraaibrug.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ceescamel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2023_Booking._com-Oosterdoksdraaibrug.jpg",
+   "plain": true
+  },
+  {
+   "shows": "2023 Booking.com, ODE, Asd",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2023_Booking.com%2C_ODE%2C_Asd_%281%29.jpg/1920px-2023_Booking.com%2C_ODE%2C_Asd_%281%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2023_Booking.com%2C_ODE%2C_Asd_%281%29.jpg/500px-2023_Booking.com%2C_ODE%2C_Asd_%281%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ceescamel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2023_Booking.com,_ODE,_Asd_(1).jpg",
+   "plain": true
+  },
+  {
+   "shows": "2023 Brug 2270, Oosterdoksdraaibrug, Asd-afstandsfoto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2023_Brug_2270%2C_Oosterdoksdraaibrug%2C_Asd-afstandsfoto.jpg/1920px-2023_Brug_2270%2C_Oosterdoksdraaibrug%2C_Asd-afstandsfoto.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2023_Brug_2270%2C_Oosterdoksdraaibrug%2C_Asd-afstandsfoto.jpg/500px-2023_Brug_2270%2C_Oosterdoksdraaibrug%2C_Asd-afstandsfoto.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ceescamel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2023_Brug_2270,_Oosterdoksdraaibrug,_Asd-afstandsfoto.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Booking.com Headquarters1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Booking.com_Headquarters1.JPG/1920px-Booking.com_Headquarters1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Booking.com_Headquarters1.JPG/500px-Booking.com_Headquarters1.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wakuwaku99, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Booking.com_Headquarters1.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Booking.com · amsterdam, picnic09, architecture, brick, building",
+   "url": "https://live.staticflickr.com/2649/3968618520_8d50580270_b.jpg",
+   "preview": "https://live.staticflickr.com/2649/3968618520_8d50580270_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pandemia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/48889088479@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/48889088479@N01/3968618520",
+   "plain": true
+  },
+  {
+   "shows": "Booking.com offices @ Rembrandtplein @ Amsterdam",
+   "url": "https://live.staticflickr.com/8612/16051437607_14129548a9_b.jpg",
+   "preview": "https://live.staticflickr.com/8612/16051437607_14129548a9_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by *_* on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/22539273@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22539273@N00/16051437607",
    "plain": true
   }
  ]

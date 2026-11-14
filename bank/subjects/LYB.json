@@ -6,6 +6,7 @@
   "LYB"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
   {
@@ -60,6 +61,120 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:LyondellBasell_Houston_Refinery_-_3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wesseling Germany LyondellBasell-02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wesseling_Germany_LyondellBasell-02.jpg/1920px-Wesseling_Germany_LyondellBasell-02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Wesseling_Germany_LyondellBasell-02.jpg/500px-Wesseling_Germany_LyondellBasell-02.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wesseling_Germany_LyondellBasell-02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wesseling Germany Flare-and-silos-of-Basell-01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wesseling_Germany_Flare-and-silos-of-Basell-01.jpg/1920px-Wesseling_Germany_Flare-and-silos-of-Basell-01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Wesseling_Germany_Flare-and-silos-of-Basell-01.jpg/500px-Wesseling_Germany_Flare-and-silos-of-Basell-01.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wesseling_Germany_Flare-and-silos-of-Basell-01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "LyondellBasell Houston Refinery - 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/LyondellBasell_Houston_Refinery_-_2.jpg/1920px-LyondellBasell_Houston_Refinery_-_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/LyondellBasell_Houston_Refinery_-_2.jpg/500px-LyondellBasell_Houston_Refinery_-_2.jpg",
+   "size": [
+    1920,
+    1442
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rifleman 82, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:LyondellBasell_Houston_Refinery_-_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tarragona: Polígono Petroquímico",
+   "url": "https://live.staticflickr.com/65535/51402979129_ce1724125a_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51402979129_ce1724125a_z.jpg",
+   "size": [
+    1024,
+    577
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jorge Franganillo on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/46191841@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/46191841@N00/51402979129",
+   "plain": true
+  },
+  {
+   "shows": "Refineries@Night10618#6ssview",
+   "url": "https://live.staticflickr.com/4753/39634884072_d1f8eeb56e_b.jpg",
+   "preview": "https://live.staticflickr.com/4753/39634884072_d1f8eeb56e_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 2C2KPhotography on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/27903549@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/27903549@N02/39634884072",
+   "plain": true
+  },
+  {
+   "shows": "Refineries@Night10618#1lyb@225",
+   "url": "https://live.staticflickr.com/4672/39634885232_5662dcca83_b.jpg",
+   "preview": "https://live.staticflickr.com/4672/39634885232_5662dcca83_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 2C2KPhotography on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/27903549@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/27903549@N02/39634885232",
    "plain": true
   }
  ]

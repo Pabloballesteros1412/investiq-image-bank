@@ -7,7 +7,7 @@
   "NWS"
  ],
  "sector": "sector-communication",
- "fill_from": "sector-communication",
+ "target": 10,
  "photos": [
   {
    "shows": "Robert James Thomson, News Corp CEO (per Wikidata)",
@@ -97,6 +97,104 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:News_Corporation_Headquarters_(48155642582).jpg",
+   "plain": true
+  },
+  {
+   "shows": "News Corporation Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/News_Corporation_Headquarters_%285903813640%29.jpg/1920px-News_Corporation_Headquarters_%285903813640%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/News_Corporation_Headquarters_%285903813640%29.jpg/500px-News_Corporation_Headquarters_%285903813640%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alex Proimos from Sydney, Australia, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:News_Corporation_Headquarters_(5903813640).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wall Street Journal · wallstreetjournal, wsj, business, newspaper, paper",
+   "url": "https://live.staticflickr.com/1287/1202823367_8b8a58c3cf_b.jpg",
+   "preview": "https://live.staticflickr.com/1287/1202823367_8b8a58c3cf_z.jpg",
+   "size": [
+    817,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kevin dooley on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12836528@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12836528@N00/1202823367",
+   "plain": true
+  },
+  {
+   "shows": "My Dad and I have had this bet since high school... $100 paid anytime one of us gets our name in the Wall Street Journal. Pay up, sucka! (ps: Stolen from Nick Felton, who's the superstar of this artic",
+   "url": "https://live.staticflickr.com/3029/3087568318_87df10fa6a_b.jpg",
+   "preview": "https://live.staticflickr.com/3029/3087568318_87df10fa6a_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dpstyles™ on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/77725780@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/77725780@N00/3087568318",
+   "plain": true
+  },
+  {
+   "shows": "Wall Street Journal · phone",
+   "url": "https://live.staticflickr.com/7457/9222958563_1191904984_b.jpg",
+   "preview": "https://live.staticflickr.com/7457/9222958563_1191904984_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by steevithak on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/8386148@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8386148@N06/9222958563",
+   "plain": true
+  },
+  {
+   "shows": "Wall Street Journal · journal, street, wall",
+   "url": "https://live.staticflickr.com/132/317882787_956218030f_b.jpg",
+   "preview": "https://live.staticflickr.com/132/317882787_956218030f_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Paull Young on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/36975105@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36975105@N00/317882787",
    "plain": true
   }
  ]

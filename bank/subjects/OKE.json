@@ -6,6 +6,7 @@
   "OKE"
  ],
  "sector": "sector-energy",
+ "target": 10,
  "fill_from": "sector-energy",
  "photos": [
   {
@@ -24,6 +25,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:OneOK_Plaza,_Tulsa,_OK,_NE_corner_2026-03-23.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ONEOK Headquarter",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ONEOK_Headquarter.jpg/1920px-ONEOK_Headquarter.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ONEOK_Headquarter.jpg/500px-ONEOK_Headquarter.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joseph Wingenfeld (flickr.com), CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ONEOK_Headquarter.jpg",
    "plain": true
   }
  ]

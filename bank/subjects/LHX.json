@@ -6,6 +6,7 @@
   "LHX"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -24,6 +25,46 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Artillery_Signal_Support_for_Cobra_Gold_2025_(8888764).jpg",
+   "plain": true
+  },
+  {
+   "shows": "2BCT L3Harris ENVG-B Training, Mar. 8, 2022",
+   "url": "https://live.staticflickr.com/65535/51928765933_00d4f67042_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51928765933_00d4f67042_z.jpg",
+   "size": [
+    1024,
+    773
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Fort Drum & 10th Mountain Division (LI) on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/62309569@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/62309569@N03/51928765933",
+   "plain": true
+  },
+  {
+   "shows": "2BCT L3Harris ENVG-B Training, Mar. 8, 2022",
+   "url": "https://live.staticflickr.com/65535/51928678021_f1273c10fb_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51928678021_f1273c10fb_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Fort Drum & 10th Mountain Division (LI) on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/62309569@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/62309569@N03/51928678021",
    "plain": true
   }
  ]

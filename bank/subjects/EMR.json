@@ -6,8 +6,26 @@
   "EMR"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
+  {
+   "shows": "Emerson Electric Canada - Address: 306 Town Centre Blvd, Markham, ON L3R 0Y6",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/EmersonElectricCanada2.jpg/1280px-EmersonElectricCanada2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/EmersonElectricCanada2.jpg/500px-EmersonElectricCanada2.jpg",
+   "size": [
+    1280,
+    1933
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EmersonElectricCanada2.jpg"
+  },
   {
    "shows": "Emerson Automation Solutions",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Emerson_Automation_Solutions.jpg/1920px-Emerson_Automation_Solutions.jpg",

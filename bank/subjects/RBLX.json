@@ -6,6 +6,7 @@
   "RBLX"
  ],
  "sector": "sector-communication",
+ "target": 10,
  "fill_from": "sector-communication",
  "photos": [
   {
@@ -95,6 +96,42 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Roblox_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "2850 S. Delaware Street",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2850_S._Delaware_Street.jpg/1920px-2850_S._Delaware_Street.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2850_S._Delaware_Street.jpg/500px-2850_S._Delaware_Street.jpg",
+   "size": [
+    1920,
+    1065
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2850_S._Delaware_Street.jpg",
+   "plain": true
+  },
+  {
+   "shows": "970 Park Place",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/970_Park_Place.jpg/1920px-970_Park_Place.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/970_Park_Place.jpg/500px-970_Park_Place.jpg",
+   "size": [
+    1920,
+    1128
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:970_Park_Place.jpg",
    "plain": true
   }
  ]

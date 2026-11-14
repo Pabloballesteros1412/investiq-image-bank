@@ -6,7 +6,7 @@
   "DEO"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "A glass of guinness sitting on top of a table",
@@ -63,6 +63,26 @@
    "source": "https://unsplash.com/photos/black-guinness-gate-1Rfjzq1DJYM?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "GUINNESS DARK AND LIGHT. · bubbles, candles, celebration, dublin, flame",
+   "url": "https://live.staticflickr.com/3306/3521957229_be967f8f27_b.jpg",
+   "preview": "https://live.staticflickr.com/3306/3521957229_be967f8f27_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Neal. on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/31878512@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/31878512@N06/3521957229",
+   "plain": true
+  },
+  {
    "shows": "Diageo Global headquarters (HQ)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Diageo_Global_headquarters_%28HQ%29.jpg/1920px-Diageo_Global_headquarters_%28HQ%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Diageo_Global_headquarters_%28HQ%29.jpg/500px-Diageo_Global_headquarters_%28HQ%29.jpg",
@@ -96,6 +116,82 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:CR_Gimli.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Red Stripe 2012",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Red_Stripe_2012.JPG/1920px-Red_Stripe_2012.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Red_Stripe_2012.JPG/500px-Red_Stripe_2012.JPG",
+   "size": [
+    1920,
+    1439
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WestportWiki, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Stripe_2012.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Cardhu single malt - pure (vatted) malt",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Cardhu_single_malt_-_pure_%28vatted%29_malt.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Cardhu_single_malt_-_pure_%28vatted%29_malt.JPG/500px-Cardhu_single_malt_-_pure_%28vatted%29_malt.JPG",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Markmark28, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cardhu_single_malt_-_pure_(vatted)_malt.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Guinness · guinness",
+   "url": "https://live.staticflickr.com/183/442696302_5c3e209b15_b.jpg",
+   "preview": "https://live.staticflickr.com/183/442696302_5c3e209b15_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ceasol on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/16758332@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/16758332@N00/442696302",
+   "plain": true
+  },
+  {
+   "shows": "GUINNESS IN DUBLIN [19 JANUARY 2018]-13567",
+   "url": "https://live.staticflickr.com/4667/25927762638_0283389cc0_b.jpg",
+   "preview": "https://live.staticflickr.com/4667/25927762638_0283389cc0_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by infomatique on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/80824546@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/80824546@N00/25927762638",
    "plain": true
   }
  ]

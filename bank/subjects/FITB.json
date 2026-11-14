@@ -6,7 +6,7 @@
   "FITB"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
+ "target": 10,
  "photos": [
   {
    "shows": "Fifth Third Bank Headquarters",
@@ -41,6 +41,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Fairborn_Fifth_Third_Bank.jpg"
+  },
+  {
+   "shows": "Fifth Third Bank Building, Cincinnati, OH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fifth_Third_Bank_Building%2C_Cincinnati%2C_OH_%2846497023284%29.jpg/1280px-Fifth_Third_Bank_Building%2C_Cincinnati%2C_OH_%2846497023284%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Fifth_Third_Bank_Building%2C_Cincinnati%2C_OH_%2846497023284%29.jpg/500px-Fifth_Third_Bank_Building%2C_Cincinnati%2C_OH_%2846497023284%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Warren LeMay from Cincinnati, OH, United States, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fifth_Third_Bank_Building,_Cincinnati,_OH_(46497023284).jpg"
   },
   {
    "shows": "Fifth Third Bank - Beech Grove - June 2022 - Sarah Stierch",

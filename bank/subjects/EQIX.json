@@ -6,7 +6,7 @@
   "EQIX"
  ],
  "sector": "sector-real-estate",
- "fill_from": "sector-real-estate",
+ "target": 10,
  "photos": [
   {
    "shows": "Equinix - Corporate Headquarters",
@@ -148,6 +148,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Infomart_Dallas_Interior_Lobby.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Equinix San Jose Campus 2210",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Equinix_San_Jose_Campus_2210.jpg/1920px-Equinix_San_Jose_Campus_2210.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Equinix_San_Jose_Campus_2210.jpg/500px-Equinix_San_Jose_Campus_2210.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cristiano Tomás, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Equinix_San_Jose_Campus_2210.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Internet World Fair 2017",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Internet_World_Fair_2017_%2802%29.jpg/1920px-Internet_World_Fair_2017_%2802%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Internet_World_Fair_2017_%2802%29.jpg/500px-Internet_World_Fair_2017_%2802%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ordercrazy, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Internet_World_Fair_2017_(02).jpg",
    "plain": true
   }
  ]

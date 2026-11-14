@@ -6,6 +6,8 @@
   "BLK"
  ],
  "sector": "sector-financials",
+ "target": 30,
+ "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "50 Hudson Yards",
@@ -183,6 +185,44 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_(55379880087)_(cropped).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Gregg Lemkau",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gregg_Lemkau.jpg/1920px-Gregg_Lemkau.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gregg_Lemkau.jpg/500px-Gregg_Lemkau.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Hans Gonzalez, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gregg_Lemkau.jpg",
+   "plain": true
+  },
+  {
+   "shows": "black, blackrock, building, city, collage",
+   "url": "https://live.staticflickr.com/5004/5373264803_05a5f3a9bf_b.jpg",
+   "preview": "https://live.staticflickr.com/5004/5373264803_05a5f3a9bf_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by eflon on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/23094783@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/23094783@N03/5373264803",
    "plain": true
   }
  ]

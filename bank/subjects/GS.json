@@ -6,6 +6,7 @@
   "GS"
  ],
  "sector": "sector-financials",
+ "target": 30,
  "photos": [
   {
    "shows": "Goldman Sachs Tower @ 30 Hudson Street as viewed from the Exchange Place waterfront",
@@ -92,6 +93,115 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:David_Solomon.jpg"
+  },
+  {
+   "shows": "30 Hudson Street at Dusk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/30_Hudson_Street_at_Dusk.jpg/1280px-30_Hudson_Street_at_Dusk.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/30_Hudson_Street_at_Dusk.jpg/500px-30_Hudson_Street_at_Dusk.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Loganbutler3, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30_Hudson_Street_at_Dusk.jpg"
+  },
+  {
+   "shows": "Goldman Sachs Tower ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Goldman_Sachs_Tower_%282011-04-09%29.jpg/1280px-Goldman_Sachs_Tower_%282011-04-09%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Goldman_Sachs_Tower_%282011-04-09%29.jpg/500px-Goldman_Sachs_Tower_%282011-04-09%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paulm27, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_(2011-04-09).jpg"
+  },
+  {
+   "shows": "Goldman Sachs Tower crop",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goldman_Sachs_Tower_%284088024683%29_crop.jpg/1280px-Goldman_Sachs_Tower_%284088024683%29_crop.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Goldman_Sachs_Tower_%284088024683%29_crop.jpg/500px-Goldman_Sachs_Tower_%284088024683%29_crop.jpg",
+   "size": [
+    1280,
+    1877
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ludovic Bertron from New York City, Usa; cropped by Beyond My Ken ( talk ) 01:38, 11 June 2014 (UTC), CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_(4088024683)_crop.jpg"
+  },
+  {
+   "shows": "Goldman Sachs office tower, Jersey City",
+   "url": "https://live.staticflickr.com/3771/10118139334_f86484e1de_b.jpg",
+   "preview": "https://live.staticflickr.com/3771/10118139334_f86484e1de_z.jpg",
+   "size": [
+    678,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by R'lyeh Imaging on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/65449832@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/65449832@N00/10118139334",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower · 2011, america, building, city, goldman",
+   "url": "https://live.staticflickr.com/6068/6125000958_1a92ff5d96_b.jpg",
+   "preview": "https://live.staticflickr.com/6068/6125000958_1a92ff5d96_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Peter Zoon on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/90208834@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/90208834@N00/6125000958",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower in Jersey City, New Jersey",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45464/full/2231,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45464/full/500,/0/default.jpg",
+   "size": [
+    2231,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2017882213/"
   },
   {
    "shows": "200 West Street (24258p)",
@@ -181,6 +291,260 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_006.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower, Jersey City, New Jersey",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey_%287237127364%29.jpg/1920px-Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey_%287237127364%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey_%287237127364%29.jpg/500px-Goldman_Sachs_Tower%2C_Jersey_City%2C_New_Jersey_%287237127364%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower,_Jersey_City,_New_Jersey_(7237127364).jpg",
+   "plain": true
+  },
+  {
+   "shows": "200 West Street 005",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/200_West_Street_005.jpg/1280px-200_West_Street_005.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/200_West_Street_005.jpg/500px-200_West_Street_005.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_005.jpg",
+   "plain": true
+  },
+  {
+   "shows": "30 Hudson Street 037",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/30_Hudson_Street_037.jpg/1280px-30_Hudson_Street_037.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/30_Hudson_Street_037.jpg/500px-30_Hudson_Street_037.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30_Hudson_Street_037.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs River Court Building Fleet Street 1977c",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg/1280px-Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg/500px-Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg",
+   "size": [
+    1280,
+    2210
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ClemRutter, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_River_Court_Building_Fleet_Street_1977c.jpg",
+   "plain": true
+  },
+  {
+   "shows": "200 West Street 002",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/200_West_Street_002.jpg/1280px-200_West_Street_002.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/200_West_Street_002.jpg/500px-200_West_Street_002.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_002.jpg",
+   "plain": true
+  },
+  {
+   "shows": "30 Hudson Street 035",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/30_Hudson_Street_035.jpg/1280px-30_Hudson_Street_035.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/30_Hudson_Street_035.jpg/500px-30_Hudson_Street_035.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30_Hudson_Street_035.jpg",
+   "plain": true
+  },
+  {
+   "shows": "200 West Street 007",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/200_West_Street_007.jpg/1280px-200_West_Street_007.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/200_West_Street_007.jpg/500px-200_West_Street_007.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_West_Street_007.jpg",
+   "plain": true
+  },
+  {
+   "shows": "30 Hudson Street 031",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/30_Hudson_Street_031.jpg/1280px-30_Hudson_Street_031.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/30_Hudson_Street_031.jpg/500px-30_Hudson_Street_031.jpg",
+   "size": [
+    1280,
+    2847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30_Hudson_Street_031.jpg",
+   "plain": true
+  },
+  {
+   "shows": "30 Hudson Street December 2022 001",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/30_Hudson_Street_December_2022_001.jpg/1280px-30_Hudson_Street_December_2022_001.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/30_Hudson_Street_December_2022_001.jpg/500px-30_Hudson_Street_December_2022_001.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:30_Hudson_Street_December_2022_001.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower (Jersey City) 2021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Goldman_Sachs_Tower_%28Jersey_City%29_2021.jpg/1280px-Goldman_Sachs_Tower_%28Jersey_City%29_2021.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Goldman_Sachs_Tower_%28Jersey_City%29_2021.jpg/500px-Goldman_Sachs_Tower_%28Jersey_City%29_2021.jpg",
+   "size": [
+    1280,
+    1916
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "AtsushiJC, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_(Jersey_City)_2021.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower August 2012",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Goldman_Sachs_Tower_August_2012.jpg/1280px-Goldman_Sachs_Tower_August_2012.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Goldman_Sachs_Tower_August_2012.jpg/500px-Goldman_Sachs_Tower_August_2012.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "King of Hearts, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_August_2012.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower 200 West Street Battery Park City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Goldman_Sachs_Tower_200_West_Street_Battery_Park_City.jpg/1280px-Goldman_Sachs_Tower_200_West_Street_Battery_Park_City.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Goldman_Sachs_Tower_200_West_Street_Battery_Park_City.jpg/500px-Goldman_Sachs_Tower_200_West_Street_Battery_Park_City.jpg",
+   "size": [
+    1280,
+    1787
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_200_West_Street_Battery_Park_City.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Goldman Sachs Tower - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goldman_Sachs_Tower_-_panoramio.jpg/1280px-Goldman_Sachs_Tower_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Goldman_Sachs_Tower_-_panoramio.jpg/500px-Goldman_Sachs_Tower_-_panoramio.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pablo Costa Tirado (…, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldman_Sachs_Tower_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "new-goldman-sachs-building",
+   "url": "https://live.staticflickr.com/3221/3141757430_4a1267bc78_b.jpg",
+   "preview": "https://live.staticflickr.com/3221/3141757430_4a1267bc78_z.jpg",
+   "size": [
+    1024,
+    769
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by dandeluca on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19257752@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19257752@N00/3141757430",
    "plain": true
   }
  ]

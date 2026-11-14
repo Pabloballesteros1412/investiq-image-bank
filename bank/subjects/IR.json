@@ -6,6 +6,7 @@
   "IR"
  ],
  "sector": "sector-industrials",
+ "target": 10,
  "fill_from": "sector-industrials",
  "photos": [
   {
@@ -24,6 +25,118 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ingersoll_Rand_Total_Air_System.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chelsea Waterside Pk td ( ) 09",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chelsea_Waterside_Pk_td_%282018-11-23%29_09.jpg/1920px-Chelsea_Waterside_Pk_td_%282018-11-23%29_09.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Chelsea_Waterside_Pk_td_%282018-11-23%29_09.jpg/500px-Chelsea_Waterside_Pk_td_%282018-11-23%29_09.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chelsea_Waterside_Pk_td_(2018-11-23)_09.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ingersoll Rand Air Compressor, Imperial Type 10 Duplex",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ingersoll_Rand_Air_Compressor%2C_Imperial_Type_10_Duplex.jpg/1920px-Ingersoll_Rand_Air_Compressor%2C_Imperial_Type_10_Duplex.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ingersoll_Rand_Air_Compressor%2C_Imperial_Type_10_Duplex.jpg/500px-Ingersoll_Rand_Air_Compressor%2C_Imperial_Type_10_Duplex.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sheila1988, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ingersoll_Rand_Air_Compressor,_Imperial_Type_10_Duplex.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Grand Canyon Nat Park South Rim Greenway Construction",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Grand_Canyon_Nat_Park_South_Rim_Greenway_Construction_09869_%287290323782%29.jpg/1920px-Grand_Canyon_Nat_Park_South_Rim_Greenway_Construction_09869_%287290323782%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Grand_Canyon_Nat_Park_South_Rim_Greenway_Construction_09869_%287290323782%29.jpg/500px-Grand_Canyon_Nat_Park_South_Rim_Greenway_Construction_09869_%287290323782%29.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Grand Canyon National Park, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Nat_Park_South_Rim_Greenway_Construction_09869_(7290323782).jpg",
+   "plain": true
+  },
+  {
+   "shows": "9599Tambubong Caingin Sampaloc San Rafael, Bulacan Arterial Road Bypass 31",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/9599Tambubong_Caingin_Sampaloc_San_Rafael%2C_Bulacan_Arterial_Road_Bypass_31.jpg/1920px-9599Tambubong_Caingin_Sampaloc_San_Rafael%2C_Bulacan_Arterial_Road_Bypass_31.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/9599Tambubong_Caingin_Sampaloc_San_Rafael%2C_Bulacan_Arterial_Road_Bypass_31.jpg/500px-9599Tambubong_Caingin_Sampaloc_San_Rafael%2C_Bulacan_Arterial_Road_Bypass_31.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Judgefloro, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:9599Tambubong_Caingin_Sampaloc_San_Rafael,_Bulacan_Arterial_Road_Bypass_31.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ingersoll Rand SD100 roller",
+   "url": "https://live.staticflickr.com/629/22524019084_d14e64ccde_b.jpg",
+   "preview": "https://live.staticflickr.com/629/22524019084_d14e64ccde_z.jpg",
+   "size": [
+    1024,
+    700
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Asylumkid on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/46185203@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/46185203@N05/22524019084",
+   "plain": true
+  },
+  {
+   "shows": "cut out of a ingersoll rand screw compressor",
+   "url": "https://live.staticflickr.com/2369/1673179736_33d1a62fc7_b.jpg",
+   "preview": "https://live.staticflickr.com/2369/1673179736_33d1a62fc7_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by shehal on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/96739039@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/96739039@N00/1673179736",
    "plain": true
   }
  ]

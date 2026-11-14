@@ -161,6 +161,78 @@ Decisions (Pablo, 4 Nov 2026):
 - Index: 2,267 photos (1,807 Commons, 1,388 of them plain; 460 Unsplash). Companies with 0 / 1 / 2 / 3+ photos:
   135 / 81 / 58 / 309. 42 Unsplash download counts pending (the next build sends them first).
 
+## Bigger bank: 10 / 30 / 50 (12 Nov 2026)
+- Pablo: 10 photos for every company, 30 for the well-known ones, 50 for topics. `TARGET` 10, `FAMOUS_TARGET` 30
+  (the 50 companies with a hand-written catalog entry), `TOPIC_TARGET` 50 (sectors too); `target_of(e)` reads the
+  manifest entry's `target`; the index gives every subject its `target` and `fill_from` compares against it.
+- Topics: 10 more short searches each (20 shots); `shot_photos` shares the target over the shots in rounds
+  (best of each shot, then second best...), at most 3 stock photos per photographer, one per file stem, and after
+  the first round Commons photos only with a quality mark (`QUALITY`): only ~7% of the others passed review.
+- Companies: `grow_companies.py` (scratchpad) collects Commons candidates for every company below target (deeper
+  category crawl, searches for HQ/store/plant/sign...) into a JSON file; graded by eye; graded >= 2 merged into the
+  manifest as `hand-picked` (a rebuild keeps them) - only while no build runs, since a build rewrites the manifest.
+  Yield ~38% (grade 3 ~4%, grade 2 ~34%).
+- Grading at scale: parallel subagents with `RUBRIC.md` plus a brief (topics: different photos of the same kind of
+  thing are each graded on their merits; only near-identical repeats get 2), spot-checked by eye; Sonnet graders
+  agree with the spot checks.
+- Pablo asked to "scrape any website": declined (copyright; InvestIQ posts commercially). Added free-licence
+  sources instead (stock.py): Flickr (CC BY / BY-SA / CC0 / PDM / US gov only, >= 1600 px; needs FLICKR_API_KEY in
+  the environment), NASA (public domain, no key, space subjects only, launch providers' photos excluded), Pixabay
+  (needs PIXABAY_API_KEY and full-HD access). Openverse first tested and dropped (flaky, Flickr at 1024 px).
+- Flickr API keys now need Flickr Pro (Pablo saw "creación de claves API desactivada para cuentas gratuitas", 12
+  Nov); Pablo asked whether to give me his Flickr login to scrape: declined (no passwords in chat, Flickr's terms
+  forbid robots outside the API, a free account unlocks nothing). Pro for a month would give the same photos at
+  2048 px.
+- **Openverse after all** (Pablo, 12 Nov night, after seeing samples: "adelante con openverse"): `stock.Openverse`
+  (Flickr photos, `license_type=commercial,modification`, no key: 20 searches/min, 200/day nominal, it let ~700
+  through in one night). Flickr's sizes above 1024 px need a secret only its API gives, so every Openverse photo
+  carries `low_res` (long side < 1500): `is_plain()` makes the index mark it `plain`, a grade-2 one is held in
+  `reserve()` like a Commons grade 2, and the index rules / CAROUSEL_CHAT.md tell the chat never to use one as a
+  cover and to use it small (half slide, inset, grid). Collector `grow_openverse.py` (scratchpad): famous
+  companies first (brand terms, "<name> headquarters", the name), at most 4 per photographer, the description must
+  name the company or a brand. Yield: famous ~41% (grade >= 2), the rest ~20%: name clashes (Snowflake, SAP, Vale,
+  Ventas, Iron Mountain...), events, screenshots, naming-rights stadiums and towers, corporate jets (all rejected).
+  2,011 candidates graded: 72 grade 3, 526 grade 2.
+- **More keyless free sources** (13 Nov, Pablo: "recórrete toda la web buscando fotos sin copyright"; done only
+  through official APIs with clear licences, never by scraping sites): `stock.LoC` (Library of Congress, Carol M.
+  Highsmith Archive only: public domain, "no known restrictions"; IIIF full size for older scans, newer scans
+  have only a 1024 px `v.jpg` -> `low_res`, used for companies only) and `stock.WordPress` (WordPress Photos, CC0,
+  2048 px or full). Both run in topic builds with Unsplash; NASA too (space subjects). Tried and dropped:
+  StockSnap (CDN serves 960 px), rawpixel (1024 px, mostly illustrations), nappy (2,200 photos), Openverse's
+  museum sources. LoC for companies (`grow_loc.py`, scratchpad) yields little: 25 candidates in 194 companies
+  (Google HQ, Intel fab, Pepsi signs, GE Schenectady), the rest name clashes (Circle -> Logan Circle).
+  `safe_search()` skips a stock source that fails for one query (a connection reset, Cloudflare 525 from
+  loc.gov had cost defense and consumer their rebuild); a used-up hourly limit still stops the build.
+- Progress (13 Nov, morning): Commons and Openverse company candidates all graded and merged. Topics grown in
+  2-hour pieces (~1-2 topics an hour, Unsplash demo limit): done recession, jobs, bull-market, crash, ai,
+  datacenters, chips, crypto, gold, oil, tariffs, china, dollar, bonds, housing, earnings, ipo, ev, nuclear,
+  banks, investing (graded); the rest of `topics_a6.txt` (defense and consumer to redo), then `topics_b.txt` (13),
+  then the sectors. Unsplash grade 2 hides a stock topic photo, so each grown topic loses ~half; a refill pass
+  from the cache at the end (`build --kind topic,sector --redo`, cached answers cost nothing) fills the gaps.
+  Unsplash download counts pending grow (~500): they are sent at the start and end of builds, 50 an hour.
+- Progress (14 Nov): every topic and sector has had its grow piece (luxury cut short by the Unsplash limit) and
+  every pick was graded by eye (sheets in the scratchpad, sector grades by Sonnet subagents with spot checks).
+  Refill pass from the cache under way (`build --kind topic,sector --redo`, 2-hour pieces; a container restart
+  killed one, nothing lost). After the first refill the sectors had 20-46 published each; tech, financials,
+  consumer discretionary and materials ran dry, so each got 8 more short searches in `catalog.json` (piggy bank,
+  ATM, motherboard, quarry, department store...). Commons topic picks after the first round keep bringing
+  featured pictures that only share a word (birds, butterflies, nebulae, food dishes): ~5% reach grade 3.
+- Companies (13-14 Nov): deep Openverse pass (`grow_openverse_deep.py`, brand terms 4-8 + store/factory/office/
+  building; 688 candidates, ~13% usable: name clashes, events, sponsorship) and a WordPress Photos pass
+  (`grow_wordpress.py`: 32 candidates, only 3 SpaceX launch photos usable; the directory is small and its rules
+  keep brands out, so it is not worth another company pass) were graded and merged: +6 best, +70 plain.
+  Bank: 4,966 published photos (14 Nov, before the refill). Unsplash download counts pending: ~730.
+- Second refill (14 Nov): 170 more short searches in `catalog.json` (8 per thin topic: "finance", "server",
+  "atm", "uranium"...; a string already used as a shot id in that topic gets renamed, or `check_catalog` fails).
+  `build --kind topic,sector --redo` in 2-hour pieces (5-9 topics a piece, Unsplash demo limit), every pick graded
+  after each piece (stock by me, Commons by Sonnet subagents with `grader_brief.md`): Unsplash ~35-40% grade 3,
+  Commons in topics now ~3-7% (maps, diagrams, word matches: bells for "bell", wine barrels for "barrel").
+  Stopped after europe for the merge; still to refill: quantum, robotics, cybersecurity, india, japan, metals,
+  travel, luxury. Unsplash's search for "bell" answers HTTP 410 (skipped by `safe_search`).
+- **Merged into main (14 Nov, PR #5)**: 5,454 published photos (main had 2,337): companies 3,969 (183 of 583 at
+  target, 120 with none, the 50 famous ones 25 on average), topics 1,034, sectors 451 (none at 50 yet: quantum 8,
+  earnings 11, ipo 13, ai 16 ... most 25-45). 3,158 are `plain` (grade 2 or `low_res`).
+
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
    terms fixed after their first search (Abbott, Cisco, Casey's, Chipotle, McCormick, On, P&G, Qualcomm, Roku)
@@ -169,9 +241,12 @@ Decisions (Pablo, 4 Nov 2026):
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
    **Unsplash production**: applied on 5 Nov (in review). Once approved (`X-Ratelimit-Limit: 1000`), the company
    brand pass takes about half an hour.
-2. Done: PRs #1, #2 and #3 merged into `main` (6-7 Nov 2026); the raw `main/bank/index.json` the chat reads
-   has 2,266 photos and 631 subjects (checked 7 Nov). Later work goes in through a new PR.
-3. Switch on GitHub Pages (Settings -> Pages -> main, /docs) if Pablo wants the gallery with images.
+2. Done: PRs #1 to #5 merged into `main` (#5 on 14 Nov: 5,454 photos, 631 subjects). Later work goes in
+   through a new PR. Next for topics: finish the second refill (the 8 above), then more refill passes from the
+   cache (`--redo`, free) with grading after each, and new short searches for the thinnest (quantum, earnings, ipo).
+3. Done: GitHub Pages is on (main, /docs): https://pabloballesteros1412.github.io/investiq-image-bank/ . Every
+   merge into main redeploys it ("pages build and deployment" runs, all green; github.io is not reachable from
+   the cloud container, so check it through those runs).
 4. Done (7 Nov): hand search on Commons for the 26 catalog companies with 0-3 good photos (5 targeted queries
    each: HQ by address, plants, products, signs), 303 candidates graded by eye: 45 grade 3 (put first), 121 grade 2
    (reserve). They carry `"how": "hand-picked"` (`HAND`) and a rebuild keeps them. Still thin: ASML (Commons has

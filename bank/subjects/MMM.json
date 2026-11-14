@@ -6,7 +6,7 @@
   "MMM"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "3-M Building Maplewood MN1",
@@ -43,6 +43,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:3M_Corporate_Headquarters_-_Minnesota_(48614471286).jpg"
   },
   {
+   "shows": "3M huset Järva krog 1000 Solnabilder",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/3M_huset_J%C3%A4rva_krog_1000_Solnabilder.jpg/1920px-3M_huset_J%C3%A4rva_krog_1000_Solnabilder.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/3M_huset_J%C3%A4rva_krog_1000_Solnabilder.jpg/500px-3M_huset_J%C3%A4rva_krog_1000_Solnabilder.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sniper Zeta, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:3M_huset_J%C3%A4rva_krog_1000_Solnabilder.jpg"
+  },
+  {
    "shows": "3M (3M)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/3M_Japan.jpg/1920px-3M_Japan.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/3M_Japan.jpg/500px-3M_Japan.jpg",
@@ -76,6 +93,98 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:MTA_Distributes_N95_Masks_and_Other_PPE_to_Frontline_Employees_(49747585341).jpg",
+   "plain": true
+  },
+  {
+   "shows": "MTA Distributes N95 Masks to Frontline Employees",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/MTA_Distributes_N95_Masks_to_Frontline_Employees_%2849746306938%29.jpg/1920px-MTA_Distributes_N95_Masks_to_Frontline_Employees_%2849746306938%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/MTA_Distributes_N95_Masks_to_Frontline_Employees_%2849746306938%29.jpg/500px-MTA_Distributes_N95_Masks_to_Frontline_Employees_%2849746306938%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Metropolitan Transportation Authority of the State of New York from United States of America, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MTA_Distributes_N95_Masks_to_Frontline_Employees_(49746306938).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Oregon National Guard ressuplies Assisted Living Facilities with PPE",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Oregon_National_Guard_ressuplies_Assisted_Living_Facilities_with_PPE_%2849790235566%29.jpg/1280px-Oregon_National_Guard_ressuplies_Assisted_Living_Facilities_with_PPE_%2849790235566%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Oregon_National_Guard_ressuplies_Assisted_Living_Facilities_with_PPE_%2849790235566%29.jpg/500px-Oregon_National_Guard_ressuplies_Assisted_Living_Facilities_with_PPE_%2849790235566%29.jpg",
+   "size": [
+    1280,
+    1924
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oregon National Guard from Salem, Oregon, United States, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Oregon_National_Guard_ressuplies_Assisted_Living_Facilities_with_PPE_(49790235566).jpg",
+   "plain": true
+  },
+  {
+   "shows": "3M Livonia Michigan branch office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/3M_Livonia_Michigan_branch_office.JPG/1920px-3M_Livonia_Michigan_branch_office.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/3M_Livonia_Michigan_branch_office.JPG/500px-3M_Livonia_Michigan_branch_office.JPG",
+   "size": [
+    1920,
+    795
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dwight Burdette, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:3M_Livonia_Michigan_branch_office.JPG",
+   "plain": true
+  },
+  {
+   "shows": "3M Administration Building entry",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/3M_Administration_Building_entry.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/3M_Administration_Building_entry.jpg/500px-3M_Administration_Building_entry.jpg",
+   "size": [
+    1920,
+    1987
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "McGhiever, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:3M_Administration_Building_entry.jpg",
+   "plain": true
+  },
+  {
+   "shows": "3M Futuro Reversible Splint Wrist Brace",
+   "url": "https://live.staticflickr.com/7022/6393617505_f3a4fec19c_b.jpg",
+   "preview": "https://live.staticflickr.com/7022/6393617505_f3a4fec19c_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by liewcf on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/34353636@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/34353636@N00/6393617505",
    "plain": true
   }
  ]

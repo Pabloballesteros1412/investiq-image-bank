@@ -6,6 +6,7 @@
   "GEHC"
  ],
  "sector": "sector-health",
+ "target": 10,
  "fill_from": "sector-health",
  "photos": [
   {
@@ -78,6 +79,64 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:GE_Healthcare_Grove_Centre,_Amersham_-_geograph.org.uk_-_2633080.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Metastron (Strontium-89), GE Healthcare",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Metastron_%28Strontium-89%29%2C_GE_Healthcare.jpg/1280px-Metastron_%28Strontium-89%29%2C_GE_Healthcare.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Metastron_%28Strontium-89%29%2C_GE_Healthcare.jpg/500px-Metastron_%28Strontium-89%29%2C_GE_Healthcare.jpg",
+   "size": [
+    1280,
+    1923
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "IAEA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Metastron_(Strontium-89),_GE_Healthcare.jpg",
+   "plain": true
+  },
+  {
+   "shows": "GE Healthcare Typhoon 9400 scanner",
+   "url": "https://live.staticflickr.com/1174/839586263_3480246814_b.jpg",
+   "preview": "https://live.staticflickr.com/1174/839586263_3480246814_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jepoirrier on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/57519914@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/57519914@N00/839586263",
+   "plain": true
+  },
+  {
+   "shows": "GE Healthcare Ettan Spot Picker in action",
+   "url": "https://live.staticflickr.com/135/358660660_f9a5030ae3_b.jpg",
+   "preview": "https://live.staticflickr.com/135/358660660_f9a5030ae3_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jepoirrier on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/57519914@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/57519914@N00/358660660",
    "plain": true
   }
  ]

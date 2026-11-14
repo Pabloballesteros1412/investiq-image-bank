@@ -6,8 +6,29 @@
   "WY"
  ],
  "sector": "sector-real-estate",
+ "target": 10,
  "fill_from": "sector-real-estate",
  "photos": [
+  {
+   "shows": "Weyerhaeuser raw log exports",
+   "url": "https://live.staticflickr.com/2808/8771038859_8358beac70_b.jpg",
+   "preview": "https://live.staticflickr.com/2808/8771038859_8358beac70_z.jpg",
+   "size": [
+    1024,
+    684
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sam Beebe on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/28585409@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/28585409@N04/8771038859",
+   "plain": true
+  },
   {
    "shows": "Seattle - Weyerhaeuser Building 01",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Seattle_-_Weyerhaeuser_Building_01.jpg/1920px-Seattle_-_Weyerhaeuser_Building_01.jpg",
@@ -24,6 +45,96 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Seattle_-_Weyerhaeuser_Building_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Weyerhaeuser Building (Federal Way) 10",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Weyerhaeuser_Building_%28Federal_Way%29_10.jpg/1920px-Weyerhaeuser_Building_%28Federal_Way%29_10.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Weyerhaeuser_Building_%28Federal_Way%29_10.jpg/500px-Weyerhaeuser_Building_%28Federal_Way%29_10.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Weyerhaeuser_Building_(Federal_Way)_10.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Woodbridge Corporate Park 6068",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Woodbridge_Corporate_Park_6068.jpg/1920px-Woodbridge_Corporate_Park_6068.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Woodbridge_Corporate_Park_6068.jpg/500px-Woodbridge_Corporate_Park_6068.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Woodbridge_Corporate_Park_6068.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Everett - Weyerhaeuser Office Building 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Everett_-_Weyerhaeuser_Office_Building_01.jpg/1920px-Everett_-_Weyerhaeuser_Office_Building_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Everett_-_Weyerhaeuser_Office_Building_01.jpg/500px-Everett_-_Weyerhaeuser_Office_Building_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Everett_-_Weyerhaeuser_Office_Building_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Weyerhaeuser Factory, Columbia Falls, MT",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Weyerhaeuser_Factory%2C_Columbia_Falls%2C_MT_-_51533178813.jpg/1920px-Weyerhaeuser_Factory%2C_Columbia_Falls%2C_MT_-_51533178813.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Weyerhaeuser_Factory%2C_Columbia_Falls%2C_MT_-_51533178813.jpg/500px-Weyerhaeuser_Factory%2C_Columbia_Falls%2C_MT_-_51533178813.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "w_lemay, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Weyerhaeuser_Factory,_Columbia_Falls,_MT_-_51533178813.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Raymond, WA - Weyerhaeuser plant 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raymond%2C_WA_-_Weyerhaeuser_plant_01.jpg/1920px-Raymond%2C_WA_-_Weyerhaeuser_plant_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raymond%2C_WA_-_Weyerhaeuser_plant_01.jpg/500px-Raymond%2C_WA_-_Weyerhaeuser_plant_01.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raymond,_WA_-_Weyerhaeuser_plant_01.jpg",
    "plain": true
   }
  ]

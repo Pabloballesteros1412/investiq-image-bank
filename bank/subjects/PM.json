@@ -6,7 +6,7 @@
   "PM"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Philip Morris International's Operation Center in Lausanne, Switzerland",
@@ -42,6 +42,60 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:NYCW_2025_-_Jacek_Olczak_02_(cropped).jpg"
+  },
+  {
+   "shows": "Philip Morris International Lausanne",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Philip_Morris_International_Lausanne_%282%29.jpg/1920px-Philip_Morris_International_Lausanne_%282%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Philip_Morris_International_Lausanne_%282%29.jpg/500px-Philip_Morris_International_Lausanne_%282%29.jpg",
+   "size": [
+    1920,
+    1207
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gzzz, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Philip_Morris_International_Lausanne_(2).jpg"
+  },
+  {
+   "shows": "NYCW 2025 - Jacek Olczak 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NYCW_2025_-_Jacek_Olczak_01.jpg/1920px-NYCW_2025_-_Jacek_Olczak_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/NYCW_2025_-_Jacek_Olczak_01.jpg/500px-NYCW_2025_-_Jacek_Olczak_01.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xuthoria, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NYCW_2025_-_Jacek_Olczak_01.jpg"
+  },
+  {
+   "shows": "IQOS from Philip Morris · electroniccigarette, heatnotburn, iqos, philipmorris, smoking",
+   "url": "https://live.staticflickr.com/450/31677032162_2f8e3b0a05_b.jpg",
+   "preview": "https://live.staticflickr.com/450/31677032162_2f8e3b0a05_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vaping360 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/127173209@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/127173209@N05/31677032162",
+   "plain": true
   },
   {
    "shows": "Philip Morris Blended Leaf Complex",
@@ -95,6 +149,42 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:House_of_Sampoerna_Mei_2015.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cigarette packet foil",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cigarette_packet_foil.JPG/1920px-Cigarette_packet_foil.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cigarette_packet_foil.JPG/500px-Cigarette_packet_foil.JPG",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kiwiev, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cigarette_packet_foil.JPG",
+   "plain": true
+  },
+  {
+   "shows": "NYCW 2025 - Jacek Olczak, Almar Latour 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/NYCW_2025_-_Jacek_Olczak%2C_Almar_Latour_01.jpg/1920px-NYCW_2025_-_Jacek_Olczak%2C_Almar_Latour_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/NYCW_2025_-_Jacek_Olczak%2C_Almar_Latour_01.jpg/500px-NYCW_2025_-_Jacek_Olczak%2C_Almar_Latour_01.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Xuthoria, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NYCW_2025_-_Jacek_Olczak,_Almar_Latour_01.jpg",
    "plain": true
   }
  ]

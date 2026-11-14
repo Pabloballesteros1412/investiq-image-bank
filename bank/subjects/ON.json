@@ -6,6 +6,7 @@
   "ON"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -96,6 +97,80 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Embedded_World_2016,_On_Semiconductor_(02).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Auerswald COMander Basic - Mainboard - On Semiconductor UC3843AN-3128",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Auerswald_COMander_Basic_-_Mainboard_-_On_Semiconductor_UC3843AN-3128.jpg/1920px-Auerswald_COMander_Basic_-_Mainboard_-_On_Semiconductor_UC3843AN-3128.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Auerswald_COMander_Basic_-_Mainboard_-_On_Semiconductor_UC3843AN-3128.jpg/500px-Auerswald_COMander_Basic_-_Mainboard_-_On_Semiconductor_UC3843AN-3128.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Auerswald_COMander_Basic_-_Mainboard_-_On_Semiconductor_UC3843AN-3128.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Auerswald COMfortel DECT 660C - base station - ON Semiconductor LM 317T",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Auerswald_COMfortel_DECT_660C_-_base_station_-_ON_Semiconductor_LM_317T-93169.jpg/1920px-Auerswald_COMfortel_DECT_660C_-_base_station_-_ON_Semiconductor_LM_317T-93169.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Auerswald_COMfortel_DECT_660C_-_base_station_-_ON_Semiconductor_LM_317T-93169.jpg/500px-Auerswald_COMfortel_DECT_660C_-_base_station_-_ON_Semiconductor_LM_317T-93169.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Auerswald_COMfortel_DECT_660C_-_base_station_-_ON_Semiconductor_LM_317T-93169.jpg",
+   "plain": true
+  },
+  {
+   "shows": "2N5038: NPN silicon power transistor, 150V, 20A, 140W, TO-3 packaging Manufacturer: ON Semiconductor",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2N5038_1.jpg/1920px-2N5038_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/2N5038_1.jpg/500px-2N5038_1.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2N5038_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ON Semiconductor · electronics, elektor",
+   "url": "https://live.staticflickr.com/8404/15816571001_a1187bc06b_b.jpg",
+   "preview": "https://live.staticflickr.com/8404/15816571001_a1187bc06b_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by elektorlabs on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/128772740@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/128772740@N08/15816571001",
    "plain": true
   }
  ]

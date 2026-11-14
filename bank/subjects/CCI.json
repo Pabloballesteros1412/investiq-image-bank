@@ -6,6 +6,7 @@
   "CCI"
  ],
  "sector": "sector-real-estate",
+ "target": 10,
  "fill_from": "sector-real-estate",
  "photos": [
   {
@@ -59,6 +60,26 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Mobile_tower_11101_PGA_Pkwy_Frisco,_Texas.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Crown Castle Tower New Hanover",
+   "url": "https://live.staticflickr.com/3835/14365017018_43c97a21f4_b.jpg",
+   "preview": "https://live.staticflickr.com/3835/14365017018_43c97a21f4_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Montgomery County Planning Commission on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75012107@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75012107@N05/14365017018",
    "plain": true
   }
  ]

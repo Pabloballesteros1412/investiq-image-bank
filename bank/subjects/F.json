@@ -6,7 +6,7 @@
   "F"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "Ford Motor Company Headquarters, Dearborn, Mi. The Glasshouse; built in 1956, architect: Skidmore, Owings & Merrill LLP",
@@ -131,6 +131,64 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Ford_Motor_Company_Workshop.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ford Motor Factory, North Fremantle 08",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ford_Motor_Factory%2C_North_Fremantle_08.jpg/1920px-Ford_Motor_Factory%2C_North_Fremantle_08.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ford_Motor_Factory%2C_North_Fremantle_08.jpg/500px-Ford_Motor_Factory%2C_North_Fremantle_08.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sam Wilson, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ford_Motor_Factory,_North_Fremantle_08.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ford Mustang · car, ford, mustang",
+   "url": "https://live.staticflickr.com/2186/5797368980_e020a200ef_b.jpg",
+   "preview": "https://live.staticflickr.com/2186/5797368980_e020a200ef_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Spunkr. on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/57398913@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/57398913@N02/5797368980",
+   "plain": true
+  },
+  {
+   "shows": "2013 Ford Mustang · 2013, ford, fordmustang, ge152xt, green",
+   "url": "https://live.staticflickr.com/65535/52621301869_8caf298c5b_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/52621301869_8caf298c5b_z.jpg",
+   "size": [
+    1024,
+    724
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Rutger van der Maar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83468718@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83468718@N06/52621301869",
    "plain": true
   }
  ]

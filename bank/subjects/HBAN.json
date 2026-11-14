@@ -6,7 +6,7 @@
   "HBAN"
  ],
  "sector": "sector-financials",
- "fill_from": "sector-financials",
+ "target": 10,
  "photos": [
   {
    "shows": "Huntington west Milwaukee",
@@ -24,6 +24,40 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Huntington_west_Milwaukee.jpg"
+  },
+  {
+   "shows": "Huntington Center, Columbus, OH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Huntington_Center%2C_Columbus%2C_OH_-_48310603576.jpg/1280px-Huntington_Center%2C_Columbus%2C_OH_-_48310603576.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Huntington_Center%2C_Columbus%2C_OH_-_48310603576.jpg/500px-Huntington_Center%2C_Columbus%2C_OH_-_48310603576.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "w_lemay, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Huntington_Center,_Columbus,_OH_-_48310603576.jpg"
+  },
+  {
+   "shows": "Huntington Tower April 2024",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Huntington_Tower_April_2024.jpg/1280px-Huntington_Tower_April_2024.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Huntington_Tower_April_2024.jpg/500px-Huntington_Tower_April_2024.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dillguy9, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Huntington_Tower_April_2024.jpg"
   },
   {
    "shows": "Columbus Huntington Center",
@@ -59,6 +93,96 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Huntington_Bank_-_Cranberry_TWP,_PA_-_panoramio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HNB Building High Street Entrance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HNB_Building_High_Street_Entrance.jpg/1920px-HNB_Building_High_Street_Entrance.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/HNB_Building_High_Street_Entrance.jpg/500px-HNB_Building_High_Street_Entrance.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "General Ization, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HNB_Building_High_Street_Entrance.jpg",
+   "plain": true
+  },
+  {
+   "shows": "The Huntington Bank Building, Columbus, OH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Huntington_Bank_Building%2C_Columbus%2C_OH_-_48310739197.jpg/1920px-The_Huntington_Bank_Building%2C_Columbus%2C_OH_-_48310739197.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Huntington_Bank_Building%2C_Columbus%2C_OH_-_48310739197.jpg/500px-The_Huntington_Bank_Building%2C_Columbus%2C_OH_-_48310739197.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "w_lemay, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Huntington_Bank_Building,_Columbus,_OH_-_48310739197.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Huntington Plaza Building, Columbus, OH",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Huntington_Plaza_Building%2C_Columbus%2C_OH_-_48310552821.jpg/1920px-Huntington_Plaza_Building%2C_Columbus%2C_OH_-_48310552821.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Huntington_Plaza_Building%2C_Columbus%2C_OH_-_48310552821.jpg/500px-Huntington_Plaza_Building%2C_Columbus%2C_OH_-_48310552821.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "w_lemay, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Huntington_Plaza_Building,_Columbus,_OH_-_48310552821.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Backside of Huntington Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Backside_of_Huntington_Tower.jpg/1280px-Backside_of_Huntington_Tower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Backside_of_Huntington_Tower.jpg/500px-Backside_of_Huntington_Tower.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dillguy9, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Backside_of_Huntington_Tower.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Corner view of Huntington Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Corner_view_of_Huntington_Tower.jpg/1920px-Corner_view_of_Huntington_Tower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Corner_view_of_Huntington_Tower.jpg/500px-Corner_view_of_Huntington_Tower.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dillguy9, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Corner_view_of_Huntington_Tower.jpg",
    "plain": true
   }
  ]

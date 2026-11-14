@@ -6,7 +6,7 @@
   "SBUX"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 30,
  "photos": [
   {
    "shows": "Starbucks Soto Headquarters",
@@ -79,6 +79,63 @@
    "source": "https://unsplash.com/photos/white-and-brown-starbucks-cup-7Gm1Jwt1uYA?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Starbucks Eagles Landing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Starbucks_Eagles_Landing.jpg/1920px-Starbucks_Eagles_Landing.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Starbucks_Eagles_Landing.jpg/500px-Starbucks_Eagles_Landing.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Andrepoiy, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Eagles_Landing.jpg"
+  },
+  {
+   "shows": "Starbucks · coffee, starbucks",
+   "url": "https://live.staticflickr.com/1669/25260154916_61dc152ae9_b.jpg",
+   "preview": "https://live.staticflickr.com/1669/25260154916_61dc152ae9_z.jpg",
+   "size": [
+    678,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Open Grid Scheduler / Grid Engine on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29155878@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29155878@N03/25260154916",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks Headquarters · kyletaylor, malenabuckleyess, seattle, socialchange, washington",
+   "url": "https://live.staticflickr.com/2111/2279052438_37038f04e5_b.jpg",
+   "preview": "https://live.staticflickr.com/2111/2279052438_37038f04e5_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kyle Taylor, Dream It. Do It. on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/95672737@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/95672737@N00/2279052438",
+   "plain": true
+  },
+  {
    "shows": "STARBUCKS COFFEE LUSHAN HOTEL STORE, SHENZHEN",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/STARBUCKS_COFFEE_LUSHAN_HOTEL_STORE%2C_SHENZHEN.jpg/1920px-STARBUCKS_COFFEE_LUSHAN_HOTEL_STORE%2C_SHENZHEN.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/STARBUCKS_COFFEE_LUSHAN_HOTEL_STORE%2C_SHENZHEN.jpg/500px-STARBUCKS_COFFEE_LUSHAN_HOTEL_STORE%2C_SHENZHEN.jpg",
@@ -149,6 +206,348 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Brian_Niccol_(uncropped).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks (Starbucks)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Starbucks_%2828455542418%29.jpg/1280px-Starbucks_%2828455542418%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Starbucks_%2828455542418%29.jpg/500px-Starbucks_%2828455542418%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Trafford, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_(28455542418).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks Reserve Bar @ Pender x Granville street",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starbucks_Reserve_Bar_%40_Pender_x_Granville_street_%2831392329977%29.jpg/1920px-Starbucks_Reserve_Bar_%40_Pender_x_Granville_street_%2831392329977%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starbucks_Reserve_Bar_%40_Pender_x_Granville_street_%2831392329977%29.jpg/500px-Starbucks_Reserve_Bar_%40_Pender_x_Granville_street_%2831392329977%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "GoToVan from Vancouver, Canada, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Reserve_Bar_@_Pender_x_Granville_street_(31392329977).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aire des Breguières Nord - Starbucks (novembre 2021)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Aire_des_Bregui%C3%A8res_Nord_-_Starbucks_%28novembre_2021%29.jpg/1920px-Aire_des_Bregui%C3%A8res_Nord_-_Starbucks_%28novembre_2021%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Aire_des_Bregui%C3%A8res_Nord_-_Starbucks_%28novembre_2021%29.jpg/500px-Aire_des_Bregui%C3%A8res_Nord_-_Starbucks_%28novembre_2021%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Benoît Prieur, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aire_des_Bregui%C3%A8res_Nord_-_Starbucks_(novembre_2021).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aire du centre de la France - Starbucks",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aire_du_centre_de_la_France_-_Starbucks.jpg/1280px-Aire_du_centre_de_la_France_-_Starbucks.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Aire_du_centre_de_la_France_-_Starbucks.jpg/500px-Aire_du_centre_de_la_France_-_Starbucks.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Benoît Prieur, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aire_du_centre_de_la_France_-_Starbucks.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Intérieur de la gare de Nantes - Stabucks et escalators (mars 2023)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Int%C3%A9rieur_de_la_gare_de_Nantes_-_Stabucks_et_escalators_%28mars_2023%29.JPG/1920px-Int%C3%A9rieur_de_la_gare_de_Nantes_-_Stabucks_et_escalators_%28mars_2023%29.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Int%C3%A9rieur_de_la_gare_de_Nantes_-_Stabucks_et_escalators_%28mars_2023%29.JPG/500px-Int%C3%A9rieur_de_la_gare_de_Nantes_-_Stabucks_et_escalators_%28mars_2023%29.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Benoît Prieur, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Int%C3%A9rieur_de_la_gare_de_Nantes_-_Stabucks_et_escalators_(mars_2023).JPG",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks Bangalore Airport",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starbucks_Bangalore_Airport.jpg/1920px-Starbucks_Bangalore_Airport.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starbucks_Bangalore_Airport.jpg/500px-Starbucks_Bangalore_Airport.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Yourusernamewillbepublic2, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Bangalore_Airport.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks-Ice-Milk--- 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Starbucks-Ice-Milk---2024-07-05_01.jpg/1280px-Starbucks-Ice-Milk---2024-07-05_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Starbucks-Ice-Milk---2024-07-05_01.jpg/500px-Starbucks-Ice-Milk---2024-07-05_01.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "RuinDig/Yuki Uchida, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks-Ice-Milk---2024-07-05_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks california lutheran university",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starbucks_california_lutheran_university.jpg/1920px-Starbucks_california_lutheran_university.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starbucks_california_lutheran_university.jpg/500px-Starbucks_california_lutheran_university.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TOLocal, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_california_lutheran_university.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A basket of pink tumblers at Safeway",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/A_basket_of_pink_tumblers_at_Safeway.jpg/1920px-A_basket_of_pink_tumblers_at_Safeway.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/A_basket_of_pink_tumblers_at_Safeway.jpg/500px-A_basket_of_pink_tumblers_at_Safeway.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ser Amantio di Nicolao, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_basket_of_pink_tumblers_at_Safeway.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tropicana Gardens Mall Starbucks Reserve 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tropicana_Gardens_Mall_Starbucks_Reserve_%28220114%29_01.jpg/1920px-Tropicana_Gardens_Mall_Starbucks_Reserve_%28220114%29_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tropicana_Gardens_Mall_Starbucks_Reserve_%28220114%29_01.jpg/500px-Tropicana_Gardens_Mall_Starbucks_Reserve_%28220114%29_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "*angys*, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tropicana_Gardens_Mall_Starbucks_Reserve_(220114)_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Elizabeth Street Melbourne CBD May 9, 2025 6653",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elizabeth_Street_Melbourne_CBD_May_9%2C_2025_202505091123_IMG_6653.jpg/1920px-Elizabeth_Street_Melbourne_CBD_May_9%2C_2025_202505091123_IMG_6653.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Elizabeth_Street_Melbourne_CBD_May_9%2C_2025_202505091123_IMG_6653.jpg/500px-Elizabeth_Street_Melbourne_CBD_May_9%2C_2025_202505091123_IMG_6653.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ウィ貴公子, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Street_Melbourne_CBD_May_9,_2025_202505091123_IMG_6653.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Canecas Starbucks em cafeteria de Curitiba, Paraná",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canecas_Starbucks_em_cafeteria_de_Curitiba%2C_Paran%C3%A1.jpg/1920px-Canecas_Starbucks_em_cafeteria_de_Curitiba%2C_Paran%C3%A1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Canecas_Starbucks_em_cafeteria_de_Curitiba%2C_Paran%C3%A1.jpg/500px-Canecas_Starbucks_em_cafeteria_de_Curitiba%2C_Paran%C3%A1.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Simplus Menegati, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Canecas_Starbucks_em_cafeteria_de_Curitiba,_Paran%C3%A1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks Park Shopping Barigui, em Curitiba 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Starbucks_Park_Shopping_Barigui%2C_em_Curitiba_01.jpg/1280px-Starbucks_Park_Shopping_Barigui%2C_em_Curitiba_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Starbucks_Park_Shopping_Barigui%2C_em_Curitiba_01.jpg/500px-Starbucks_Park_Shopping_Barigui%2C_em_Curitiba_01.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Simplus Menegati, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Park_Shopping_Barigui,_em_Curitiba_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks Coffee at Kingsway Mall in Edmonton, Alberta, Canada.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/StarbucksCoffeeKingswayMall.jpg/1920px-StarbucksCoffeeKingswayMall.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/StarbucksCoffeeKingswayMall.jpg/500px-StarbucksCoffeeKingswayMall.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rowanlovescars, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:StarbucksCoffeeKingswayMall.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks at Londonderry Mall in Edmonton, Alberta, Canada.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/StarbucksLondonderryMall.jpg/1920px-StarbucksLondonderryMall.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/StarbucksLondonderryMall.jpg/500px-StarbucksLondonderryMall.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rowanlovescars, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:StarbucksLondonderryMall.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks at Southgate Centre in Edmonton, Alberta, Canada.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/StarbucksSouthgateCentre.jpg/1920px-StarbucksSouthgateCentre.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/StarbucksSouthgateCentre.jpg/500px-StarbucksSouthgateCentre.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rowanlovescars, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:StarbucksSouthgateCentre.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks Clock Tower - Flickr - Peter Kaminski",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Starbucks_Clock_Tower_-_Flickr_-_Peter_Kaminski.jpg/1920px-Starbucks_Clock_Tower_-_Flickr_-_Peter_Kaminski.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Starbucks_Clock_Tower_-_Flickr_-_Peter_Kaminski.jpg/500px-Starbucks_Clock_Tower_-_Flickr_-_Peter_Kaminski.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Peter Kaminski from Southern California, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Clock_Tower_-_Flickr_-_Peter_Kaminski.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Starbucks Coffee shop on the corner of Linshen Road and Zhongshan Road in Huwei",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Starbucks_Coffee_shop_on_the_corner_of_Linshen_Road_and_Zhongshan_Road_in_Huwei.jpg/1920px-Starbucks_Coffee_shop_on_the_corner_of_Linshen_Road_and_Zhongshan_Road_in_Huwei.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Starbucks_Coffee_shop_on_the_corner_of_Linshen_Road_and_Zhongshan_Road_in_Huwei.jpg/500px-Starbucks_Coffee_shop_on_the_corner_of_Linshen_Road_and_Zhongshan_Road_in_Huwei.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "大頭家族, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Starbucks_Coffee_shop_on_the_corner_of_Linshen_Road_and_Zhongshan_Road_in_Huwei.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A STARBUCKS COFFEE STORE IN SHENZHEN UNIVERSITY",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/A_STARBUCKS_COFFEE_STORE_IN_SHENZHEN_UNIVERSITY.jpg/1920px-A_STARBUCKS_COFFEE_STORE_IN_SHENZHEN_UNIVERSITY.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/A_STARBUCKS_COFFEE_STORE_IN_SHENZHEN_UNIVERSITY.jpg/500px-A_STARBUCKS_COFFEE_STORE_IN_SHENZHEN_UNIVERSITY.jpg",
+   "size": [
+    1920,
+    1063
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A_STARBUCKS_COFFEE_STORE_IN_SHENZHEN_UNIVERSITY.jpg",
    "plain": true
   }
  ]

@@ -6,7 +6,7 @@
   "VZ"
  ],
  "sector": "sector-communication",
- "fill_from": "sector-communication",
+ "target": 10,
  "photos": [
   {
    "shows": "Verizon Store - Cellular Retail Phone Store",
@@ -150,6 +150,42 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Verizon_store,_Saratoga_Shopping_Center.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Verizon Metro Communication Center Colocation Datacenter - 1200 H Street NW - Washington D.C",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Verizon_Metro_Communication_Center_Colocation_Datacenter_-_1200_H_Street_NW_-_Washington_D.C..jpg/1920px-Verizon_Metro_Communication_Center_Colocation_Datacenter_-_1200_H_Street_NW_-_Washington_D.C..jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Verizon_Metro_Communication_Center_Colocation_Datacenter_-_1200_H_Street_NW_-_Washington_D.C..jpg/500px-Verizon_Metro_Communication_Center_Colocation_Datacenter_-_1200_H_Street_NW_-_Washington_D.C..jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Verizon_Metro_Communication_Center_Colocation_Datacenter_-_1200_H_Street_NW_-_Washington_D.C..jpg",
+   "plain": true
+  },
+  {
+   "shows": "Verizon Building, Pine Street, Harrisburg, PA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Verizon_Building%2C_Pine_Street%2C_Harrisburg%2C_PA.jpg/1920px-Verizon_Building%2C_Pine_Street%2C_Harrisburg%2C_PA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Verizon_Building%2C_Pine_Street%2C_Harrisburg%2C_PA.jpg/500px-Verizon_Building%2C_Pine_Street%2C_Harrisburg%2C_PA.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Warren LeMay, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Verizon_Building,_Pine_Street,_Harrisburg,_PA.jpg",
    "plain": true
   }
  ]

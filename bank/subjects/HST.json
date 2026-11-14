@@ -6,6 +6,7 @@
   "HST"
  ],
  "sector": "sector-real-estate",
+ "target": 10,
  "fill_from": "sector-real-estate",
  "photos": [
   {
@@ -24,6 +25,24 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Host_Hotels_HQ_Bethesda_MD_HST_20210314_181959_1_crop.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Host Hotels HQ Bethesda",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Host_Hotels_HQ_Bethesda_2021-11-28.jpg/1920px-Host_Hotels_HQ_Bethesda_2021-11-28.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Host_Hotels_HQ_Bethesda_2021-11-28.jpg/500px-Host_Hotels_HQ_Bethesda_2021-11-28.jpg",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "angela n., CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Host_Hotels_HQ_Bethesda_2021-11-28.jpg",
    "plain": true
   }
  ]

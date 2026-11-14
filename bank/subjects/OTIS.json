@@ -6,7 +6,7 @@
   "OTIS"
  ],
  "sector": "sector-industrials",
- "fill_from": "sector-industrials",
+ "target": 10,
  "photos": [
   {
    "shows": "Otis Escalator 506 NCE (Daniel Åhs)",
@@ -78,6 +78,118 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Vrchlabi_Lanovska_auto_Otis.jpg",
+   "plain": true
+  },
+  {
+   "shows": "SZ 深圳 Shenzhen 福田區 Futian 市民中心 Civic Center 深圳圖書館 Shenzhen Library OTIS escalators December 2023 R12S",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E6%B7%B1%E5%9C%B3%E5%9C%96%E6%9B%B8%E9%A4%A8_Shenzhen_Library_OTIS_escalators_December_2023_R12S.jpg/1280px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E6%B7%B1%E5%9C%B3%E5%9C%96%E6%9B%B8%E9%A4%A8_Shenzhen_Library_OTIS_escalators_December_2023_R12S.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E6%B7%B1%E5%9C%B3%E5%9C%96%E6%9B%B8%E9%A4%A8_Shenzhen_Library_OTIS_escalators_December_2023_R12S.jpg/500px-SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E6%B7%B1%E5%9C%B3%E5%9C%96%E6%9B%B8%E9%A4%A8_Shenzhen_Library_OTIS_escalators_December_2023_R12S.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Yuenwingtsui O Chee, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E7%A6%8F%E7%94%B0%E5%8D%80_Futian_%E5%B8%82%E6%B0%91%E4%B8%AD%E5%BF%83_Civic_Center_%E6%B7%B1%E5%9C%B3%E5%9C%96%E6%9B%B8%E9%A4%A8_Shenzhen_Library_OTIS_escalators_December_2023_R12S.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HK KTD MTR Tuen Ma Line 鑽石山站 Diamond Hill Station July 2021 SS2 20",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HK_KTD_MTR_Tuen_Ma_Line_%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%AB%99_Diamond_Hill_Station_July_2021_SS2_20.jpg/1280px-HK_KTD_MTR_Tuen_Ma_Line_%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%AB%99_Diamond_Hill_Station_July_2021_SS2_20.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/HK_KTD_MTR_Tuen_Ma_Line_%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%AB%99_Diamond_Hill_Station_July_2021_SS2_20.jpg/500px-HK_KTD_MTR_Tuen_Ma_Line_%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%AB%99_Diamond_Hill_Station_July_2021_SS2_20.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Towamng Yama Kittyzi, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_KTD_MTR_Tuen_Ma_Line_%E9%91%BD%E7%9F%B3%E5%B1%B1%E7%AB%99_Diamond_Hill_Station_July_2021_SS2_20.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HK TST 尖沙咀 Tsim Sha Tsui 加拿分道 20 Carnarvon Road 加拿芬廣場 Carnarvon Plaza life control button penal October 2021 SS2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E5%8A%A0%E6%8B%BF%E5%88%86%E9%81%93_20_Carnarvon_Road_%E5%8A%A0%E6%8B%BF%E8%8A%AC%E5%BB%A3%E5%A0%B4_Carnarvon_Plaza_life_control_button_penal_October_2021_SS2.jpg/1280px-HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E5%8A%A0%E6%8B%BF%E5%88%86%E9%81%93_20_Carnarvon_Road_%E5%8A%A0%E6%8B%BF%E8%8A%AC%E5%BB%A3%E5%A0%B4_Carnarvon_Plaza_life_control_button_penal_October_2021_SS2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E5%8A%A0%E6%8B%BF%E5%88%86%E9%81%93_20_Carnarvon_Road_%E5%8A%A0%E6%8B%BF%E8%8A%AC%E5%BB%A3%E5%A0%B4_Carnarvon_Plaza_life_control_button_penal_October_2021_SS2.jpg/500px-HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E5%8A%A0%E6%8B%BF%E5%88%86%E9%81%93_20_Carnarvon_Road_%E5%8A%A0%E6%8B%BF%E8%8A%AC%E5%BB%A3%E5%A0%B4_Carnarvon_Plaza_life_control_button_penal_October_2021_SS2.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TATGOAM Luackmie, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_TST_%E5%B0%96%E6%B2%99%E5%92%80_Tsim_Sha_Tsui_%E5%8A%A0%E6%8B%BF%E5%88%86%E9%81%93_20_Carnarvon_Road_%E5%8A%A0%E6%8B%BF%E8%8A%AC%E5%BB%A3%E5%A0%B4_Carnarvon_Plaza_life_control_button_penal_October_2021_SS2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HK WCN 灣仔北 Wan Chai North 香港會展 HKCEC escalators OTIS November 2021 SS2 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_escalators_OTIS_November_2021_SS2_01.jpg/1280px-HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_escalators_OTIS_November_2021_SS2_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_escalators_OTIS_November_2021_SS2_01.jpg/500px-HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_escalators_OTIS_November_2021_SS2_01.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ESIG HIPWOUAo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_WCN_%E7%81%A3%E4%BB%94%E5%8C%97_Wan_Chai_North_%E9%A6%99%E6%B8%AF%E6%9C%83%E5%B1%95_HKCEC_escalators_OTIS_November_2021_SS2_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Otis elevator · edwardballwakullaspringsstatepark, elevator, florida, lift, lodge",
+   "url": "https://live.staticflickr.com/4038/4475519104_82c41d24ed_b.jpg",
+   "preview": "https://live.staticflickr.com/4038/4475519104_82c41d24ed_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by sun dazed on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/8411191@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8411191@N07/4475519104",
+   "plain": true
+  },
+  {
+   "shows": "Otis elevator · edwardballwakullaspringsstatepark, elevator, florida, lift, lodge",
+   "url": "https://live.staticflickr.com/4013/4475517866_04668ba1d9_b.jpg",
+   "preview": "https://live.staticflickr.com/4013/4475517866_04668ba1d9_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by sun dazed on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/8411191@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/8411191@N07/4475517866",
    "plain": true
   }
  ]

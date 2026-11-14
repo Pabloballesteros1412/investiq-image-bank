@@ -6,6 +6,7 @@
   "NEM"
  ],
  "sector": "sector-materials",
+ "target": 10,
  "fill_from": "sector-materials",
  "photos": [
   {
@@ -60,6 +61,120 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Newmont_Gold_Quarry_mine.jpg",
+   "plain": true
+  },
+  {
+   "shows": "EITI NGGL AhafoMine 007 B002",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/EITI_NGGL_AhafoMine_007_B002.jpg/1280px-EITI_NGGL_AhafoMine_007_B002.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/EITI_NGGL_AhafoMine_007_B002.jpg/500px-EITI_NGGL_AhafoMine_007_B002.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "The EITI, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EITI_NGGL_AhafoMine_007_B002.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Gold Mining in Ashanti Region (Ashanti)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gold_Mining_in_Ashanti_Region_%28Ashanti%29.jpg/1920px-Gold_Mining_in_Ashanti_Region_%28Ashanti%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Gold_Mining_in_Ashanti_Region_%28Ashanti%29.jpg/500px-Gold_Mining_in_Ashanti_Region_%28Ashanti%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "EITI, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gold_Mining_in_Ashanti_Region_(Ashanti).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Cripple Creek 12",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cripple_Creek_12.jpg/1920px-Cripple_Creek_12.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Cripple_Creek_12.jpg/500px-Cripple_Creek_12.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi3.124, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cripple_Creek_12.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Newmont Gold Quarry mine · aerial, desert, eurekacounty, goldquarry, greatbasin",
+   "url": "https://live.staticflickr.com/3544/3468118515_59616ec475_b.jpg",
+   "preview": "https://live.staticflickr.com/3544/3468118515_59616ec475_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Uncle Kick-Kick on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/28016468@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/28016468@N06/3468118515",
+   "plain": true
+  },
+  {
+   "shows": "Newmont Mine, Ghana · ghana, mining, newmont, newmontmine",
+   "url": "https://live.staticflickr.com/3004/2314910926_c9232da06e_b.jpg",
+   "preview": "https://live.staticflickr.com/3004/2314910926_c9232da06e_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by The EITI on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/24432475@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/24432475@N03/2314910926",
+   "plain": true
+  },
+  {
+   "shows": "Newmont Mine, Ghana · ghana, mine, mining, newmont",
+   "url": "https://live.staticflickr.com/2161/2314113985_c251e835a8_b.jpg",
+   "preview": "https://live.staticflickr.com/2161/2314113985_c251e835a8_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by The EITI on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/24432475@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/24432475@N03/2314113985",
    "plain": true
   }
  ]

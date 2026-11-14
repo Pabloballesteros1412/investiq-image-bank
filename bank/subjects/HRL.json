@@ -6,6 +6,7 @@
   "HRL"
  ],
  "sector": "sector-staples",
+ "target": 10,
  "fill_from": "sector-staples",
  "photos": [
   {
@@ -78,6 +79,60 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:9768Spam_with_Real_Hormel_Bacon_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hormel Plant, Austin, Minnesota-02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hormel_Plant%2C_Austin%2C_Minnesota-02.jpg/1920px-Hormel_Plant%2C_Austin%2C_Minnesota-02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hormel_Plant%2C_Austin%2C_Minnesota-02.jpg/500px-Hormel_Plant%2C_Austin%2C_Minnesota-02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Myotus, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hormel_Plant,_Austin,_Minnesota-02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "9768Spam with Real Hormel Bacon 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/9768Spam_with_Real_Hormel_Bacon_02.jpg/1920px-9768Spam_with_Real_Hormel_Bacon_02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/9768Spam_with_Real_Hormel_Bacon_02.jpg/500px-9768Spam_with_Real_Hormel_Bacon_02.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Judgefloro, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:9768Spam_with_Real_Hormel_Bacon_02.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Hormel Historic Home 2016",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hormel_Historic_Home_2016.jpg/1920px-Hormel_Historic_Home_2016.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hormel_Historic_Home_2016.jpg/500px-Hormel_Historic_Home_2016.jpg",
+   "size": [
+    1920,
+    1850
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Darb02, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hormel_Historic_Home_2016.jpg",
    "plain": true
   }
  ]

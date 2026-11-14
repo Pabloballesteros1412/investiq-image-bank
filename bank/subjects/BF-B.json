@@ -6,7 +6,7 @@
   "BF-B"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Old Forester 86 proof and 100 proof",
@@ -95,6 +95,106 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Brown-Forman_warehouse_A_and_bottling_house.jpg",
+   "plain": true
+  },
+  {
+   "shows": "'If alcohol is a crutch, Jack Daniels is a wheelchair.'",
+   "url": "https://live.staticflickr.com/7757/28076318791_279d1a8f50_b.jpg",
+   "preview": "https://live.staticflickr.com/7757/28076318791_279d1a8f50_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Thad Zajdowicz on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/40632439@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/40632439@N00/28076318791",
+   "plain": true
+  },
+  {
+   "shows": "Jack Daniels · alcohol, jackdaniels, tennesseewhiskey, whiskey, text",
+   "url": "https://live.staticflickr.com/6021/5912413620_56141647f9_b.jpg",
+   "preview": "https://live.staticflickr.com/6021/5912413620_56141647f9_z.jpg",
+   "size": [
+    1024,
+    685
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by cookbookman17 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/58545726@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/58545726@N02/5912413620",
+   "plain": true
+  },
+  {
+   "shows": "Jack Daniel's Tennessee · daniels, distillery, jack, container, indoors",
+   "url": "https://live.staticflickr.com/2487/3691093456_de280b6e6e_b.jpg",
+   "preview": "https://live.staticflickr.com/2487/3691093456_de280b6e6e_z.jpg",
+   "size": [
+    1024,
+    685
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Leslie-V on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/10016994@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/10016994@N08/3691093456",
+   "plain": true
+  },
+  {
+   "shows": "Small Jack Daniels · alcohol, bottle, drink, luxurious, small",
+   "url": "https://live.staticflickr.com/8574/15868034652_3a1f6783ab_b.jpg",
+   "preview": "https://live.staticflickr.com/8574/15868034652_3a1f6783ab_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 羅奕沛 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/128854551@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/128854551@N08/15868034652",
+   "plain": true
+  },
+  {
+   "shows": "Jack Daniels Distillery · brothervisit2010, daniels, distillery, jack",
+   "url": "https://live.staticflickr.com/4066/4572133337_b5f902325f_b.jpg",
+   "preview": "https://live.staticflickr.com/4066/4572133337_b5f902325f_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mike Murry on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/98069371@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98069371@N00/4572133337",
    "plain": true
   }
  ]

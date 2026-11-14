@@ -6,7 +6,7 @@
   "GME"
  ],
  "sector": "sector-consumer-discretionary",
- "fill_from": "sector-consumer-discretionary",
+ "target": 10,
  "photos": [
   {
    "shows": "GameStop Retail Store - Vallejo - California",
@@ -167,6 +167,24 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:GameStop_store_Tower_City_Center_Cleveland.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Gamestop Kingstowne - 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gamestop_Kingstowne_-_3.jpg/1280px-Gamestop_Kingstowne_-_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gamestop_Kingstowne_-_3.jpg/500px-Gamestop_Kingstowne_-_3.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ser_Amantio_di_Nicolao, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gamestop_Kingstowne_-_3.jpg",
    "plain": true
   }
  ]

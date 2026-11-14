@@ -6,7 +6,7 @@
   "MNST"
  ],
  "sector": "sector-staples",
- "fill_from": "sector-staples",
+ "target": 10,
  "photos": [
   {
    "shows": "Monster Beverage Headquarters",
@@ -62,6 +62,40 @@
    "source": "https://unsplash.com/photos/a-row-of-green-cans-M3E9f6pvGxM?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Monster Energy drink ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Monster_Energy_drink_%28cropped%29.jpg/1280px-Monster_Energy_drink_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Monster_Energy_drink_%28cropped%29.jpg/500px-Monster_Energy_drink_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1919
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "DYVER, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Monster_Energy_drink_(cropped).jpg"
+  },
+  {
+   "shows": "Monster Energy drinks 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Monster_Energy_drinks_01.jpg/1920px-Monster_Energy_drinks_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Monster_Energy_drinks_01.jpg/500px-Monster_Energy_drinks_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oto Zapletal, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Monster_Energy_drinks_01.jpg"
+  },
+  {
    "shows": "Energy Drink Display",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Energy_Drink_Display.jpg/1920px-Energy_Drink_Display.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Energy_Drink_Display.jpg/500px-Energy_Drink_Display.jpg",
@@ -95,6 +129,60 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Japan_monster.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Monster Mango Loco (China Version) 330ml",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monster_Mango_Loco_%28China_Version%29_330ml_20260627184700.jpg/1280px-Monster_Mango_Loco_%28China_Version%29_330ml_20260627184700.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Monster_Mango_Loco_%28China_Version%29_330ml_20260627184700.jpg/500px-Monster_Mango_Loco_%28China_Version%29_330ml_20260627184700.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TurnOnTheNight, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Monster_Mango_Loco_(China_Version)_330ml_20260627184700.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Monster Energy Zero Ultra (China Version) 330ml",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Monster_Energy_Zero_Ultra_%28China_Version%29_330ml_20260628130320.jpg/1280px-Monster_Energy_Zero_Ultra_%28China_Version%29_330ml_20260628130320.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Monster_Energy_Zero_Ultra_%28China_Version%29_330ml_20260628130320.jpg/500px-Monster_Energy_Zero_Ultra_%28China_Version%29_330ml_20260628130320.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TurnOnTheNight, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Monster_Energy_Zero_Ultra_(China_Version)_330ml_20260628130320.jpg",
+   "plain": true
+  },
+  {
+   "shows": "The Bay Fish Shop, Glenelg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Bay_Fish_Shop%2C_Glenelg_20260313-122125.jpg/1280px-The_Bay_Fish_Shop%2C_Glenelg_20260313-122125.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Bay_Fish_Shop%2C_Glenelg_20260313-122125.jpg/500px-The_Bay_Fish_Shop%2C_Glenelg_20260313-122125.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "RegionVisitor90, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Bay_Fish_Shop,_Glenelg_20260313-122125.jpg",
    "plain": true
   }
  ]

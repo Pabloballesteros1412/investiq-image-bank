@@ -6,6 +6,7 @@
   "VLO"
  ],
  "sector": "sector-energy",
+ "target": 10,
  "fill_from": "sector-energy",
  "photos": [
   {
@@ -24,6 +25,46 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Valero_Three_Rivers_Refinery_Texas_2020.jpg"
+  },
+  {
+   "shows": "Valero Corner Store · antonio, convenience, corner, gas, hollywood",
+   "url": "https://live.staticflickr.com/6168/6254251134_e01cc660cf_b.jpg",
+   "preview": "https://live.staticflickr.com/6168/6254251134_e01cc660cf_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by derrich on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39054250@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39054250@N06/6254251134",
+   "plain": true
+  },
+  {
+   "shows": "Valero Oil Refinery Aruba",
+   "url": "https://live.staticflickr.com/4142/4901402311_b38b775d4a_b.jpg",
+   "preview": "https://live.staticflickr.com/4142/4901402311_b38b775d4a_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by D-Stanley on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/79721788@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/79721788@N00/4901402311",
+   "plain": true
   }
  ]
 }

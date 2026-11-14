@@ -6,6 +6,7 @@
   "ED"
  ],
  "sector": "sector-utilities",
+ "target": 10,
  "fill_from": "sector-utilities",
  "photos": [
   {
@@ -24,6 +25,26 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Consolidated_Edison_Building_(54574210764).jpg"
+  },
+  {
+   "shows": "Consolidated Edison Building",
+   "url": "https://live.staticflickr.com/65535/54574210764_eb7126c26b_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54574210764_eb7126c26b_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ajay_suresh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83136374@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83136374@N05/54574210764",
+   "plain": true
   },
   {
    "shows": "East 74th Street IRT Power Station, New York City, 1109 1026 DxO",
@@ -77,6 +98,78 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:57th_St_3rd_Av_td_14_-_Gotham_Towne_House.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Moon Over Con Ed",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Moon_Over_Con_Ed_%2851324369179%29.jpg/1280px-Moon_Over_Con_Ed_%2851324369179%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Moon_Over_Con_Ed_%2851324369179%29.jpg/500px-Moon_Over_Con_Ed_%2851324369179%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Moon_Over_Con_Ed_(51324369179).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Twilight in NYC with Empire State Building on the left ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Twilight_in_NYC_with_Empire_State_Building_on_the_left_%28cropped%29.jpg/1920px-Twilight_in_NYC_with_Empire_State_Building_on_the_left_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Twilight_in_NYC_with_Empire_State_Building_on_the_left_%28cropped%29.jpg/500px-Twilight_in_NYC_with_Empire_State_Building_on_the_left_%28cropped%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mike Sinko, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Twilight_in_NYC_with_Empire_State_Building_on_the_left_(cropped).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Con Edison utility service truck equipped with a Terex bucket lift conducting maintenance in New York City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Con_Edison_utility_service_truck_equipped_with_a_Terex_bucket_lift_conducting_maintenance_in_New_York_City.jpg/1920px-Con_Edison_utility_service_truck_equipped_with_a_Terex_bucket_lift_conducting_maintenance_in_New_York_City.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Con_Edison_utility_service_truck_equipped_with_a_Terex_bucket_lift_conducting_maintenance_in_New_York_City.jpg/500px-Con_Edison_utility_service_truck_equipped_with_a_Terex_bucket_lift_conducting_maintenance_in_New_York_City.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Con_Edison_utility_service_truck_equipped_with_a_Terex_bucket_lift_conducting_maintenance_in_New_York_City.jpg",
+   "plain": true
+  },
+  {
+   "shows": "14th St 3rd Av td ( ) 10 - Con Edison Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/14th_St_3rd_Av_td_%282018-03-22%29_10_-_Con_Edison_Building.jpg/1280px-14th_St_3rd_Av_td_%282018-03-22%29_10_-_Con_Edison_Building.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/14th_St_3rd_Av_td_%282018-03-22%29_10_-_Con_Edison_Building.jpg/500px-14th_St_3rd_Av_td_%282018-03-22%29_10_-_Con_Edison_Building.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:14th_St_3rd_Av_td_(2018-03-22)_10_-_Con_Edison_Building.jpg",
    "plain": true
   }
  ]

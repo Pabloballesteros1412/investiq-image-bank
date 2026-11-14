@@ -6,6 +6,7 @@
   "TEAM"
  ],
  "sector": "sector-tech",
+ "target": 10,
  "fill_from": "sector-tech",
  "photos": [
   {
@@ -60,6 +61,66 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Atlassian_(Japanese_branch_office)_in_Marinos_Town.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Atlassian, Sydney · atlassian, newsouthwales, nsw, sydney",
+   "url": "https://live.staticflickr.com/2625/3730958249_d3c8f27797_b.jpg",
+   "preview": "https://live.staticflickr.com/2625/3730958249_d3c8f27797_z.jpg",
+   "size": [
+    1024,
+    685
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by avlxyz on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/10559879@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/10559879@N00/3730958249",
+   "plain": true
+  },
+  {
+   "shows": "Atlassian Office SYD 343 George St",
+   "url": "https://live.staticflickr.com/593/20073184574_0072faff1a_b.jpg",
+   "preview": "https://live.staticflickr.com/593/20073184574_0072faff1a_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by darkhorse166 on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/44238219@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/44238219@N08/20073184574",
+   "plain": true
+  },
+  {
+   "shows": "The Atlassian office in the 'historic corn exchange building.'",
+   "url": "https://live.staticflickr.com/3324/3307593241_ed06b24ee0_b.jpg",
+   "preview": "https://live.staticflickr.com/3324/3307593241_ed06b24ee0_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by wonderyort on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/11112304@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/11112304@N00/3307593241",
    "plain": true
   }
  ]

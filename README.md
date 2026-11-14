@@ -1,12 +1,12 @@
 # Banco de imágenes de InvestIQ para carruseles
 
 Un banco de fotos propio, reales y con licencia libre, para el chat de Claude que hace los carruseles de
-InvestIQ. Tiene 10 fotos por cada empresa del S&P 500 y por cada empresa famosa que cotiza en EE. UU., 10 por
-cada tema de mercado y 10 por cada sector. Las de empresas vienen de Wikimedia Commons y solo se publican las
-mejores, revisadas a ojo; las de temas y sectores, de Unsplash y Pexels (y de Commons cuando ellos no tienen lo
-que se busca). Las fotos no se copian: el banco guarda el enlace de cada una, qué muestra, su crédito y dónde
-recortarla. El chat lo lee en `bank/index.json`. Cómo
-conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
+InvestIQ. Objetivo: 10 fotos por cada empresa del S&P 500 y por cada empresa famosa que cotiza en EE. UU., 30 por
+las 50 empresas más conocidas y 50 por cada tema de mercado y cada sector. Las fotos vienen de Wikimedia Commons,
+Unsplash, Flickr (solo licencias libres, a través de Openverse), la Biblioteca del Congreso de EE. UU. (archivo
+de Carol M. Highsmith, dominio público), WordPress Photos (CC0) y la NASA, y solo se publican las que pasan una
+revisión a ojo. Las fotos no se copian: el banco guarda el enlace de cada una, qué muestra, su crédito y dónde
+recortarla. El chat lo lee en `bank/index.json`. Cómo conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
 
 - **Empresas (unas 590):** las del S&P 500, que se leen de Wikipedia en cada `universe`, más 86 empresas
   famosas que cotizan en EE. UU. y no están en el índice (`extras.json`: TSMC, ASML, Novo Nordisk, Alibaba,
@@ -20,14 +20,11 @@ conectarlo al chat: [`CAROUSEL_CHAT.md`](CAROUSEL_CHAT.md).
   básico, energía, servicios públicos, inmobiliario y materiales. Rellenan los huecos de las empresas que no
   llegan a 10 fotos propias, marcadas como genéricas.
 
-## Estado (4 nov 2026, noche)
+## Estado (13 nov 2026)
 
-Primera construcción completa contra Wikimedia: 3.828 fotos. Tras ver una muestra, Pablo decidió quedarse solo
-con las mejores de Commons y usar Unsplash y Pexels, también para las marcas de las empresas. Las 3.828 se
-revisaron a ojo y **407 tienen nota 3**: son las únicas que publica el índice (336 de empresas: 220 empresas tienen
-al menos una; 71 de temas y sectores). Falta lanzar Unsplash y Pexels, que rellenarán temas, sectores y las
-empresas con marcas: el código está listo y el entorno ya llega a sus dominios, pero faltan sus claves
-(`UNSPLASH_ACCESS_KEY`, `PEXELS_API_KEY`).
+El índice de la rama de trabajo pasa de 4.500 fotos (`main`: 2.337). Las fotos de Commons y de Flickr
+(Openverse) de empresas están todas revisadas; los temas se amplían a 50 en tandas de dos horas, porque Unsplash
+da solo 50 búsquedas por hora mientras no apruebe la cuenta para producción. El detalle, en `CLAUDE.md`.
 
 ## Construirlo
 
@@ -201,6 +198,10 @@ python image_bank.py index
 - **Unsplash y Pexels.** Su licencia permite el uso comercial sin pedir permiso ni citar, aunque ambas piden
   el crédito («Photo by … on Unsplash») y el banco lo da en `credit`, con el enlace al fotógrafo en
   `author_url`. No se puede vender la foto tal cual ni montar con ellas otro banco de fotos público.
+- **Flickr, Biblioteca del Congreso, WordPress y NASA.** De Flickr solo se toman fotos CC BY, CC BY-SA, CC0 o de
+  dominio público; vía Openverse llegan a 1024 px (`low_res`: nunca de portada). Las de Carol M. Highsmith en la
+  Biblioteca del Congreso son de dominio público (ella las donó sin restricciones), las de WordPress Photos son
+  CC0 y las de la NASA, de dominio público. El crédito va igualmente en `credit`.
 - **Enlaces.** Si una foto se borra de Commons, su enlace deja de funcionar. Repetir `build --redo` de vez en
   cuando renueva el banco.
 - **Descargas desde la nube.** Desde direcciones compartidas (sesiones en la nube), `upload.wikimedia.org`
