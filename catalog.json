@@ -565,7 +565,15 @@
     "recession",
     "fall",
     "stocks",
-    "red"
+    "red",
+    "thunderstorm",
+    "dark clouds",
+    "broken glass",
+    "dominoes",
+    "worried man",
+    "stress",
+    "cliff edge",
+    "tornado"
   ]},
   {"id": "ai", "kind": "topic", "name": "Artificial intelligence boom", "aliases": ["ai", "artificial intelligence", "generative ai", "llm", "chatbot"], "shots": [
    "artificial intelligence",
@@ -595,7 +603,15 @@
     "neural",
     "machine",
     "digital",
-    "innovation"
+    "innovation",
+    "robot face",
+    "programmer",
+    "coding",
+    "self driving car",
+    "facial recognition",
+    "smart speaker",
+    "server lights",
+    "computer vision"
   ]},
   {"id": "datacenters", "kind": "topic", "name": "AI data centers & power demand", "aliases": ["data center", "datacenter", "power demand", "electricity", "grid", "capex"], "shots": [
    {"id": "hall", "q": "data center servers", "alt": ["server room", "server racks"], "must": ["data center", "datacenter", "data centre", "server room", "servers", "server racks"], "exclude": ["File:Data Center 3 (UNC).jpg", "File:Data Center 2 (UNC).jpg"], "scene": "A long data center hall with server racks"},
@@ -823,7 +839,15 @@
     "investment",
     "bank",
     "savings",
-    "economy"
+    "economy",
+    "us currency",
+    "white house",
+    "signing contract",
+    "loan",
+    "interest rate",
+    "paper money",
+    "government debt",
+    "washington monument"
   ]},
   {"id": "housing", "kind": "topic", "name": "Housing market & mortgages", "aliases": ["housing", "home market", "mortgages", "home prices", "homebuilders"], "shots": [
    {"id": "suburb", "q": "suburban housing aerial", "alt": ["suburb aerial", "housing development aerial"], "scene": "A suburban housing development from above"},
@@ -882,7 +906,15 @@
     "office",
     "trading",
     "chart",
-    "money"
+    "money",
+    "accounting",
+    "accountant desk",
+    "bar graph",
+    "pie chart",
+    "paperwork",
+    "business presentation",
+    "boardroom",
+    "profit"
   ]},
   {"id": "ipo", "kind": "topic", "name": "IPOs", "aliases": ["ipo", "listing", "initial public offering", "going public"], "shots": [
    "new york stock exchange",
@@ -911,7 +943,15 @@
     "new york",
     "bell",
     "exchange",
-    "broker"
+    "broker",
+    "financial district",
+    "lower manhattan",
+    "ticker tape",
+    "startup office",
+    "champagne toast",
+    "confetti",
+    "handshake deal",
+    "stock certificate"
   ]},
   {"id": "ev", "kind": "topic", "name": "Electric vehicles", "aliases": ["ev", "electric vehicles", "electric cars", "batteries"], "shots": [
    {"id": "charging", "q": "electric car charging", "alt": ["electric vehicle charging", "EV charging"], "scene": "An electric car plugged in and charging"},
@@ -967,7 +1007,15 @@
     "radiation",
     "electricity",
     "energy plant",
-    "nuclear station"
+    "nuclear station",
+    "geiger counter",
+    "atomic power",
+    "turbine hall",
+    "hazmat suit",
+    "radioactive",
+    "fusion reactor",
+    "steam plant",
+    "power grid"
   ]},
   {"id": "defense", "kind": "topic", "name": "Defense & geopolitics", "aliases": ["defense", "defence", "war", "geopolitics", "military", "nato"], "shots": [
    {"id": "pentagon", "q": "The Pentagon aerial view", "alt": ["Pentagon building Arlington"], "must": ["pentagon"], "exclude": ["File:Aerial view of the Pentagon during rescue operations post-September 11 attack.JPEG"], "scene": "The Pentagon seen from above"},
@@ -1179,7 +1227,15 @@
     "technology",
     "computer",
     "physics laboratory",
-    "lab equipment"
+    "lab equipment",
+    "atom model",
+    "laser beam",
+    "optics",
+    "electron microscope",
+    "liquid nitrogen",
+    "cleanroom",
+    "light particles",
+    "vacuum chamber"
   ]},
   {"id": "robotics", "kind": "topic", "name": "Robotics & automation", "aliases": ["robotics", "robots", "automation", "humanoid"], "shots": [
    "industrial robot",
