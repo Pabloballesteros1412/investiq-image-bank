@@ -222,6 +222,16 @@ Decisions (Pablo, 4 Nov 2026):
   (`grow_wordpress.py`: 32 candidates, only 3 SpaceX launch photos usable; the directory is small and its rules
   keep brands out, so it is not worth another company pass) were graded and merged: +6 best, +70 plain.
   Bank: 4,966 published photos (14 Nov, before the refill). Unsplash download counts pending: ~730.
+- Second refill (14 Nov): 170 more short searches in `catalog.json` (8 per thin topic: "finance", "server",
+  "atm", "uranium"...; a string already used as a shot id in that topic gets renamed, or `check_catalog` fails).
+  `build --kind topic,sector --redo` in 2-hour pieces (5-9 topics a piece, Unsplash demo limit), every pick graded
+  after each piece (stock by me, Commons by Sonnet subagents with `grader_brief.md`): Unsplash ~35-40% grade 3,
+  Commons in topics now ~3-7% (maps, diagrams, word matches: bells for "bell", wine barrels for "barrel").
+  Stopped after europe for the merge; still to refill: quantum, robotics, cybersecurity, india, japan, metals,
+  travel, luxury. Unsplash's search for "bell" answers HTTP 410 (skipped by `safe_search`).
+- **Merged into main (14 Nov, PR #5)**: 5,454 published photos (main had 2,337): companies 3,969 (183 of 583 at
+  target, 120 with none, the 50 famous ones 25 on average), topics 1,034, sectors 451 (none at 50 yet: quantum 8,
+  earnings 11, ipo 13, ai 16 ... most 25-45). 3,158 are `plain` (grade 2 or `low_res`).
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
@@ -231,8 +241,9 @@ Decisions (Pablo, 4 Nov 2026):
    photos (`python review.py sheets` + `grade`), `index`, `credits`, `python dashboard.py`, commit and push.
    **Unsplash production**: applied on 5 Nov (in review). Once approved (`X-Ratelimit-Limit: 1000`), the company
    brand pass takes about half an hour.
-2. Done: PRs #1 to #4 merged into `main` (6-7 Nov 2026); the raw `main/bank/index.json` the chat reads
-   has 2,337 photos and 631 subjects (checked 7 Nov). Later work goes in through a new PR.
+2. Done: PRs #1 to #5 merged into `main` (#5 on 14 Nov: 5,454 photos, 631 subjects). Later work goes in
+   through a new PR. Next for topics: finish the second refill (the 8 above), then more refill passes from the
+   cache (`--redo`, free) with grading after each, and new short searches for the thinnest (quantum, earnings, ipo).
 3. Done: GitHub Pages is on (main, /docs): https://pabloballesteros1412.github.io/investiq-image-bank/ . Every
    merge into main redeploys it ("pages build and deployment" runs, all green; github.io is not reachable from
    the cloud container, so check it through those runs).

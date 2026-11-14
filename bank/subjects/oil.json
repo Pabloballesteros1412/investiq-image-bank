@@ -6,6 +6,24 @@
  "target": 50,
  "photos": [
   {
+   "shows": "A pumpjack oil drill outside the little town of Frannie, which straddles the line between Park and Big Horn counties in northwestern Wyoming",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48100:48164/full/2250,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48100:48164/full/500,/0/default.jpg",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2017884795/"
+  },
+  {
    "shows": "Oil platform P-51 (Brazil)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/1920px-Oil_platform_P-51_%28Brazil%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oil_platform_P-51_%28Brazil%29.jpg/500px-Oil_platform_P-51_%28Brazil%29.jpg",
@@ -199,6 +217,24 @@
    "source": "https://commons.wikimedia.org/wiki/File:Holstein_at_Dusk.jpg"
   },
   {
+   "shows": "A person filling a car with gas at a gas station",
+   "url": "https://images.unsplash.com/photo-1709536240401-ae8f6ca55e18?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZnVlbHxlbnwxfHx8fDE3OTQ2MTE2NDJ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1709536240401-ae8f6ca55e18?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8ZnVlbHxlbnwxfHx8fDE3OTQ2MTE2NDJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by engin akyurt on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-filling-a-car-with-gas-at-a-gas-station-4dOr247sHaI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Assorted-colored steel container",
    "url": "https://images.unsplash.com/photo-1571232038410-a7cbbd2a9c48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8b2lsJTIwYmFycmVsc3xlbnwxfHx8fDE3OTM5MDIxMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1571232038410-a7cbbd2a9c48?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8b2lsJTIwYmFycmVsc3xlbnwxfHx8fDE3OTM5MDIxMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -253,22 +289,22 @@
    "source": "https://unsplash.com/photos/an-oil-pump-in-the-middle-of-a-field-EtCzbex6FzE?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "A person filling a car with gas at a gas station",
-   "url": "https://images.unsplash.com/photo-1709536240401-ae8f6ca55e18?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1709536240401-ae8f6ca55e18?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Z2FzJTIwc3RhdGlvbnxlbnwxfHx8fDE3OTM4ODkzOTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "A gas station lit up at night on the water",
+   "url": "https://images.unsplash.com/photo-1674521645695-815ef207866b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1674521645695-815ef207866b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGdhcyUyMHN0YXRpb258ZW58MXx8fHwxNzkzODg5Mzk4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    2000,
-    1500
+    1200,
+    2133
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by engin akyurt on Unsplash",
+   "credit": "Photo by Valeriia Neganova on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@neganova?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-person-filling-a-car-with-gas-at-a-gas-station-4dOr247sHaI?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/a-gas-station-lit-up-at-night-on-the-water-pvtrzin-usI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A helicopter flying near an offshore oil platform with a tall drilling derrick",
@@ -290,8 +326,8 @@
   },
   {
    "shows": "An oil rig being serviced by a supply ship",
-   "url": "https://images.unsplash.com/photo-1749073668528-38ab64575f5d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG9pbCUyMHJpZ3xlbnwxfHx8fDE3OTM4ODQzMzR8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1749073668528-38ab64575f5d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG9pbCUyMHJpZ3xlbnwxfHx8fDE3OTM4ODQzMzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "url": "https://images.unsplash.com/photo-1749073668528-38ab64575f5d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG9pbHxlbnwxfHx8fDE3OTQ2MTE1ODZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1749073668528-38ab64575f5d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG9pbHxlbnwxfHx8fDE3OTQ2MTE1ODZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     2400,
     1350
@@ -305,24 +341,6 @@
    "author_url": "https://unsplash.com/@heyfrancox?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/an-oil-rig-being-serviced-by-a-supply-ship-3J2FB7BItdA?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Oil pump jack silhouetted against a hazy sunset",
-   "url": "https://images.unsplash.com/photo-1778124691381-ee0ef169500c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG9pbCUyMHB1bXB8ZW58MXx8fHwxNzk0NTIxMDgzfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1778124691381-ee0ef169500c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG9pbCUyMHB1bXB8ZW58MXx8fHwxNzk0NTIxMDgzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2000,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Nils Huenerfuerst on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@nhuenerfuerst?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/oil-pump-jack-silhouetted-against-a-hazy-sunset-RlE1fta2Txg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Red and white tower during nighttime",
@@ -343,22 +361,22 @@
    "source": "https://unsplash.com/photos/red-and-white-tower-during-nighttime-7NULKst_T8k?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "A black and white photo of an oil pump",
-   "url": "https://images.unsplash.com/photo-1694039446022-2d227e8b104b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG9pbCUyMHB1bXB8ZW58MXx8fHwxNzk0NTIxMDgzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1694039446022-2d227e8b104b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG9pbCUyMHB1bXB8ZW58MXx8fHwxNzk0NTIxMDgzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "Oil pump jack silhouetted against a hazy sunset",
+   "url": "https://images.unsplash.com/photo-1778124691381-ee0ef169500c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG9pbCUyMHB1bXB8ZW58MXx8fHwxNzk0NTIxMDgzfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1778124691381-ee0ef169500c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG9pbCUyMHB1bXB8ZW58MXx8fHwxNzk0NTIxMDgzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    2250,
+    2000,
     1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Jacob Padilla on Unsplash",
+   "credit": "Photo by Nils Huenerfuerst on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@jacob17pad?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@nhuenerfuerst?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-black-and-white-photo-of-an-oil-pump-YDm4MjUoEJE?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/oil-pump-jack-silhouetted-against-a-hazy-sunset-RlE1fta2Txg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A drilling rig in the middle of a desert",
@@ -377,6 +395,24 @@
    "author_url": "https://unsplash.com/@seeinghour?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-drilling-rig-in-the-middle-of-a-desert-wFJCdcjXrxU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A black and white photo of an oil pump",
+   "url": "https://images.unsplash.com/photo-1694039446022-2d227e8b104b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG9pbCUyMHB1bXB8ZW58MXx8fHwxNzk0NTIxMDgzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1694039446022-2d227e8b104b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fG9pbCUyMHB1bXB8ZW58MXx8fHwxNzk0NTIxMDgzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jacob Padilla on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jacob17pad?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-black-and-white-photo-of-an-oil-pump-YDm4MjUoEJE?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "An oil pump sitting next to a body of water",

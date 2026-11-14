@@ -42,21 +42,40 @@
    "source": "https://unsplash.com/photos/a-statue-of-a-bull-on-a-brick-street-ZQZMJ0y7FDo?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "New York Stock Exchange, Manhattan, New York",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg/1920px-New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg/500px-New_York_Stock_Exchange%2C_Manhattan%2C_New_York_%287236984682%29.jpg",
+   "shows": "Grayscale photo of 1-21 Wall street signage",
+   "url": "https://images.unsplash.com/photo-1483129804960-cb1964499894?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8V2FsbCUyMFN0cmVldCUyMHNpZ258ZW58MXx8fHwxNzkzODk0ODM5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1483129804960-cb1964499894?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8V2FsbCUyMFN0cmVldCUyMHNpZ258ZW58MXx8fHwxNzkzODk0ODM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    1440
+    2250,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange,_Manhattan,_New_York_(7236984682).jpg"
+   "credit": "Photo by Chris Li on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chrisli?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/grayscale-photo-of-1-21-wall-street-signage-6Y6OnwBKk-o?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "New York Stock Exchange trading floor on Wall Street, New York, New York",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:16000:16025/full/2242,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:16000:16025/full/500,/0/default.jpg",
+   "size": [
+    2242,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2011634218/"
   },
   {
    "shows": "NASDAQ Times Square - panoramio",
@@ -181,6 +200,77 @@
    "source": "https://unsplash.com/photos/a-statue-of-a-bull-on-a-city-street-5p2wRfeIC4E?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "A view of a city with tall buildings",
+   "url": "https://images.unsplash.com/photo-1735730980560-efc07e912809?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fG1hbmhhdHRhbiUyMGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5NDUxMDIzM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1735730980560-efc07e912809?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fG1hbmhhdHRhbiUyMGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5NDUxMDIzM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lydia on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lydia__?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-view-of-a-city-with-tall-buildings-LpT9DDBS99w?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "New York Stock Exchange building, 1718 1841",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/New_York_Stock_Exchange_building%2C_20231002_1718_1841.jpg/1280px-New_York_Stock_Exchange_building%2C_20231002_1718_1841.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/New_York_Stock_Exchange_building%2C_20231002_1718_1841.jpg/500px-New_York_Stock_Exchange_building%2C_20231002_1718_1841.jpg",
+   "size": [
+    1280,
+    1917
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_building,_20231002_1718_1841.jpg"
+  },
+  {
+   "shows": "A bronze bull statue with large horns against a plain white background",
+   "url": "https://images.unsplash.com/photo-1439434768192-c60615c1b3c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnVsbHxlbnwxfHx8fDE3OTQ2NTQ2NjZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1439434768192-c60615c1b3c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnVsbHxlbnwxfHx8fDE3OTQ2NTQ2NjZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Hans Eiskonen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@eiskonen?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/bronze-bull-statue-with-horns-wn57cSQ7VzI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Empire State Building, New York at night",
+   "url": "https://images.unsplash.com/photo-1541336032412-2048a678540d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bmV3JTIweW9ya3xlbnwxfHx8fDE3OTQ2NTgzMTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1541336032412-2048a678540d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bmV3JTIweW9ya3xlbnwxfHx8fDE3OTQ2NTgzMTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1799
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Timo Wagner on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@timovaknar?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/empire-state-building-new-york-at-night-fT6-YkB0nfg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "New York City (New York, USA), Wall Street -- 2012 -- 6614",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg/1920px-New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg/500px-New_York_City_%28New_York%2C_USA%29%2C_Wall_Street_--_2012_--_6614.jpg",
@@ -216,9 +306,9 @@
    "source": "https://unsplash.com/photos/a-statue-of-a-bull-on-a-brick-sidewalk-GXOA82zHjno?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Grayscale photo of 1-21 Wall street signage",
-   "url": "https://images.unsplash.com/photo-1483129804960-cb1964499894?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8V2FsbCUyMFN0cmVldCUyMHNpZ258ZW58MXx8fHwxNzkzODk0ODM5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1483129804960-cb1964499894?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8V2FsbCUyMFN0cmVldCUyMHNpZ258ZW58MXx8fHwxNzkzODk0ODM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "A street sign on the corner of wall street",
+   "url": "https://images.unsplash.com/photo-1728588319492-18f6d04b8678?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8V2FsbCUyMFN0cmVldCUyMHNpZ258ZW58MXx8fHwxNzkzODk0ODM5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1728588319492-18f6d04b8678?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8V2FsbCUyMFN0cmVldCUyMHNpZ258ZW58MXx8fHwxNzkzODk0ODM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     2250,
     1500
@@ -227,11 +317,11 @@
     0.5,
     0.5
    ],
-   "credit": "Photo by Chris Li on Unsplash",
+   "credit": "Photo by Frolicsome Fairy on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@chrisli?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@frolicsomefairy?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/grayscale-photo-of-1-21-wall-street-signage-6Y6OnwBKk-o?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/a-street-sign-on-the-corner-of-wall-street-aAQqlfNS9t0?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A view of a city skyline from the water",
@@ -306,6 +396,24 @@
    "source": "https://unsplash.com/photos/new-york-stock-exchange-building-facade-with-sculptures-and-columns-Onv9-fIWM60?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "A close-up view of a majestic ankole-watusi bull",
+   "url": "https://images.unsplash.com/photo-1742968498911-03842b300da8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YnVsbHxlbnwxfHx8fDE3OTQ2NTQ2NjZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1742968498911-03842b300da8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YnVsbHxlbnwxfHx8fDE3OTQ2NTQ2NjZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Amanda Swanepoel on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@amandaswanepoel?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-view-of-a-majestic-ankole-watusi-bull-k62qEIEgKVM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "American flags fly outside the new york stock exchange building",
    "url": "https://images.unsplash.com/photo-1778406466505-6129d0555557?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fE5ldyUyMFlvcmslMjBTdG9jayUyMEV4Y2hhbmdlfGVufDF8fHx8MTc5Mzg5MTIzNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1778406466505-6129d0555557?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fE5ldyUyMFlvcmslMjBTdG9jayUyMEV4Y2hhbmdlfGVufDF8fHx8MTc5Mzg5MTIzNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -322,59 +430,6 @@
    "author_url": "https://unsplash.com/@viikster?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/american-flags-fly-outside-the-new-york-stock-exchange-building-KMAED5u3-Xk?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A street sign on the corner of wall street",
-   "url": "https://images.unsplash.com/photo-1728588319492-18f6d04b8678?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8V2FsbCUyMFN0cmVldCUyMHNpZ258ZW58MXx8fHwxNzkzODk0ODM5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1728588319492-18f6d04b8678?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8V2FsbCUyMFN0cmVldCUyMHNpZ258ZW58MXx8fHwxNzkzODk0ODM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Frolicsome Fairy on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@frolicsomefairy?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-street-sign-on-the-corner-of-wall-street-aAQqlfNS9t0?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Lower Manhattan-0593",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2024-11-17-Lower_Manhattan-0593.jpg/1920px-2024-11-17-Lower_Manhattan-0593.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2024-11-17-Lower_Manhattan-0593.jpg/500px-2024-11-17-Lower_Manhattan-0593.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Superbass, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:2024-11-17-Lower_Manhattan-0593.jpg"
-  },
-  {
-   "shows": "A view of a city with tall buildings",
-   "url": "https://images.unsplash.com/photo-1735730980560-efc07e912809?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fG1hbmhhdHRhbiUyMGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5NDUxMDIzM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1735730980560-efc07e912809?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fG1hbmhhdHRhbiUyMGZpbmFuY2lhbCUyMGRpc3RyaWN0fGVufDF8fHx8MTc5NDUxMDIzM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1800
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Lydia on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@lydia__?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-view-of-a-city-with-tall-buildings-LpT9DDBS99w?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A traffic light and street sign in front of a building",
@@ -395,6 +450,23 @@
    "source": "https://unsplash.com/photos/a-traffic-light-and-street-sign-in-front-of-a-building-xgyjwuCHK5g?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Lower Manhattan-0593",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2024-11-17-Lower_Manhattan-0593.jpg/1920px-2024-11-17-Lower_Manhattan-0593.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2024-11-17-Lower_Manhattan-0593.jpg/500px-2024-11-17-Lower_Manhattan-0593.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Superbass, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2024-11-17-Lower_Manhattan-0593.jpg"
+  },
+  {
    "shows": "A large body of water with a city in the background",
    "url": "https://images.unsplash.com/photo-1739130980677-02249c5e8dd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fExvd2VyJTIwTWFuaGF0dGFuJTIwc2t5bGluZXxlbnwxfHx8fDE3OTM4OTQ4NDN8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1739130980677-02249c5e8dd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fExvd2VyJTIwTWFuaGF0dGFuJTIwc2t5bGluZXxlbnwxfHx8fDE3OTM4OTQ4NDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -413,6 +485,41 @@
    "source": "https://unsplash.com/photos/a-large-body-of-water-with-a-city-in-the-background-yJDeuEpZnIM?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "A statue of a bull on a city street",
+   "url": "https://images.unsplash.com/photo-1678716194778-d512647dea57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YnVsbHxlbnwxfHx8fDE3OTQ2NTQ2NjZ8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1678716194778-d512647dea57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YnVsbHxlbnwxfHx8fDE3OTQ2NTQ2NjZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bumgeun Nick Suh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sbg1020?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-statue-of-a-bull-on-a-city-street-PRawj-mjWmY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "View of Empire State Building from Rockefeller Center New York City dllu",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/1920px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/500px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+   "size": [
+    1920,
+    1443
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg"
+  },
+  {
    "shows": "A view of a city skyline from the water",
    "url": "https://images.unsplash.com/photo-1722470867337-fe6cebd4b701?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fExvd2VyJTIwTWFuaGF0dGFuJTIwc2t5bGluZXxlbnwxfHx8fDE3OTM4OTQ4NDN8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1722470867337-fe6cebd4b701?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fExvd2VyJTIwTWFuaGF0dGFuJTIwc2t5bGluZXxlbnwxfHx8fDE3OTM4OTQ4NDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -429,23 +536,6 @@
    "author_url": "https://unsplash.com/@rollingshots?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-view-of-a-city-skyline-from-the-water-ptTUYfPC0Lw?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Lower Manhattan from Jersey City November 2016 002",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lower_Manhattan_from_Jersey_City_November_2016_002.jpg/1920px-Lower_Manhattan_from_Jersey_City_November_2016_002.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lower_Manhattan_from_Jersey_City_November_2016_002.jpg/500px-Lower_Manhattan_from_Jersey_City_November_2016_002.jpg",
-   "size": [
-    1920,
-    1080
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_November_2016_002.jpg"
   }
  ]
 }
