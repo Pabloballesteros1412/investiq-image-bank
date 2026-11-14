@@ -6,24 +6,6 @@
  "target": 50,
  "photos": [
   {
-   "shows": "The Santa Barbara Biltmore is a luxury hotel located in Montecito, California",
-   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:22000:22068/full/2078,/0/default.jpg",
-   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:22000:22068/full/500,/0/default.jpg",
-   "size": [
-    2078,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
-   "provider": "loc",
-   "source": "https://www.loc.gov/item/2013632525/"
-  },
-  {
    "shows": "A black watch on a white surface",
    "url": "https://images.unsplash.com/photo-1662384197911-e82189f4dc60?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Um9sZXh8ZW58MXx8fHwxNzkzOTMwODk3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1662384197911-e82189f4dc60?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Um9sZXh8ZW58MXx8fHwxNzkzOTMwODk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -383,42 +365,6 @@
    "source": "https://unsplash.com/photos/red-leather-handbag-on-white-table-oCXVxwTFwqE?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "A blue and black diamond",
-   "url": "https://images.unsplash.com/photo-1664044020180-b75bfddf9776?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1664044020180-b75bfddf9776?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1350
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Viktor Mindt on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@vikomio77?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-blue-and-black-diamond-4yWWIEKOBaU?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A bottle of champagne sitting on top of ice",
-   "url": "https://images.unsplash.com/photo-1643618829236-a23857519fb6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNoYW1wYWduZXxlbnwxfHx8fDE3OTQ2NDM2NTZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1643618829236-a23857519fb6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNoYW1wYWduZXxlbnwxfHx8fDE3OTQ2NDM2NTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1800
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Katya Azimova on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@_katishna_?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-bottle-of-champagne-sitting-on-top-of-ice-tEaajGCUyy8?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
    "shows": "Glass perfume bottle",
    "url": "https://images.unsplash.com/photo-1543422655-ac1c6ca993ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1543422655-ac1c6ca993ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -581,24 +527,6 @@
    "source": "https://unsplash.com/photos/four-clear-champagne-flutes-znXmpb53QJU?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "A bottle of perfume sitting on top of a table",
-   "url": "https://images.unsplash.com/photo-1723391962154-8a2b6299bc09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1723391962154-8a2b6299bc09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Pavlo on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@pavlo_talpa?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-bottle-of-perfume-sitting-on-top-of-a-table-x6uDzV1AHRI?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
    "shows": "White and gold yacht scenery",
    "url": "https://images.unsplash.com/photo-1562281302-809108fd533c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8eWFjaHR8ZW58MXx8fHwxNzk0NjQ3MjM4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1562281302-809108fd533c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8eWFjaHR8ZW58MXx8fHwxNzk0NjQ3MjM4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -653,24 +581,6 @@
    "source": "https://unsplash.com/photos/the-ceiling-of-a-building-with-a-glass-dome-0EQUCl5v5-g?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Round silver-colored Fossil chronograph watch at 9:22 with brown leather band",
-   "url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2F0Y2h8ZW58MXx8fHwxNzk0NjQzNTkxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2F0Y2h8ZW58MXx8fHwxNzk0NjQzNTkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Fabian Heimann on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@fabianheimann?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/round-silver-colored-fossil-chronograph-watch-at-922-with-brown-leather-band-4R_WEmhx8og?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
    "shows": "Brown leather handbag on brown wooden table",
    "url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aGFuZGJhZ3xlbnwxfHx8fDE3OTQ2NDM2MDN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aGFuZGJhZ3xlbnwxfHx8fDE3OTQ2NDM2MDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -687,24 +597,6 @@
    "author_url": "https://unsplash.com/@arnosenoner?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/brown-leather-handbag-on-brown-wooden-table-ZT16YkAYueo?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A diamond on a black background with a reflection",
-   "url": "https://images.unsplash.com/photo-1702149001693-67ca09997ecc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1702149001693-67ca09997ecc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1350
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by A Chosen Soul on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@a_chosensoul?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-diamond-on-a-black-background-with-a-reflection-7HwNaKAFAsw?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Wine glasses shallow focus",
@@ -725,24 +617,6 @@
    "source": "https://unsplash.com/photos/wine-glasses-shallow-focus-vmrCxMRdq58?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Clear glass perfume bottle on brown wooden table",
-   "url": "https://images.unsplash.com/photo-1593487568720-92097fb460fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1593487568720-92097fb460fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by deanna alys on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@deannaalys?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/clear-glass-perfume-bottle-on-brown-wooden-table-xQwRvghauaU?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
    "shows": "White and blue yacht on sea under blue sky during daytime",
    "url": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8eWFjaHR8ZW58MXx8fHwxNzk0NjQ3MjM4fDA&ixlib=rb-4.1.0&w=2183&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8eWFjaHR8ZW58MXx8fHwxNzk0NjQ3MjM4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -759,42 +633,6 @@
    "author_url": "https://unsplash.com/@alina_k0906?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/white-and-blue-yacht-on-sea-under-blue-sky-during-daytime-86wR5GZJZdQ?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Green and white UNKs coffee store signage",
-   "url": "https://images.unsplash.com/photo-1625328923319-74cafe485866?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Um9sZXh8ZW58MXx8fHwxNzkzOTMwODk3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1625328923319-74cafe485866?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Um9sZXh8ZW58MXx8fHwxNzkzOTMwODk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Nathan Aguirre on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@thenathanaguirre?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/green-and-white-unks-coffee-store-signage-dlJkvGHjaCE?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A view of the ceiling of a large building",
-   "url": "https://images.unsplash.com/photo-1684494520878-b3111a36a6dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1684494520878-b3111a36a6dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2251,
-    1501
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Soner Eker on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@sonereker?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-view-of-the-ceiling-of-a-large-building-JOfusLpOS98?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
