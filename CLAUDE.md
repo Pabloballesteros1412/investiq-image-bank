@@ -210,6 +210,18 @@ Decisions (Pablo, 4 Nov 2026):
   then the sectors. Unsplash grade 2 hides a stock topic photo, so each grown topic loses ~half; a refill pass
   from the cache at the end (`build --kind topic,sector --redo`, cached answers cost nothing) fills the gaps.
   Unsplash download counts pending grow (~500): they are sent at the start and end of builds, 50 an hour.
+- Progress (14 Nov): every topic and sector has had its grow piece (luxury cut short by the Unsplash limit) and
+  every pick was graded by eye (sheets in the scratchpad, sector grades by Sonnet subagents with spot checks).
+  Refill pass from the cache under way (`build --kind topic,sector --redo`, 2-hour pieces; a container restart
+  killed one, nothing lost). After the first refill the sectors had 20-46 published each; tech, financials,
+  consumer discretionary and materials ran dry, so each got 8 more short searches in `catalog.json` (piggy bank,
+  ATM, motherboard, quarry, department store...). Commons topic picks after the first round keep bringing
+  featured pictures that only share a word (birds, butterflies, nebulae, food dishes): ~5% reach grade 3.
+- Companies (13-14 Nov): deep Openverse pass (`grow_openverse_deep.py`, brand terms 4-8 + store/factory/office/
+  building; 688 candidates, ~13% usable: name clashes, events, sponsorship) and a WordPress Photos pass
+  (`grow_wordpress.py`: 32 candidates, only 3 SpaceX launch photos usable; the directory is small and its rules
+  keep brands out, so it is not worth another company pass) were graded and merged: +6 best, +70 plain.
+  Bank: 4,966 published photos (14 Nov, before the refill). Unsplash download counts pending: ~730.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
