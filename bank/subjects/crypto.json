@@ -253,22 +253,21 @@
    "source": "https://unsplash.com/photos/a-bit-coin-sitting-on-top-of-a-stock-chart-ZiaLOTk1_v8?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Long-closed and now vine-covered site of Bryant's Grocery in the crossroads community of Money, Mississippi",
-   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:42600:42661/full/2000,/0/default.jpg",
-   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:42600:42661/full/500,/0/default.jpg",
+   "shows": "Cryptocurrency Mining Farm",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cryptocurrency_Mining_Farm.jpg/1920px-Cryptocurrency_Mining_Farm.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cryptocurrency_Mining_Farm.jpg/500px-Cryptocurrency_Mining_Farm.jpg",
    "size": [
-    2000,
-    1500
+    1920,
+    1080
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
-   "provider": "loc",
-   "source": "https://www.loc.gov/item/2017879607/"
+   "credit": "Marco Krohn, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_Mining_Farm.jpg"
   },
   {
    "shows": "A bitcoin on top of a computer motherboard",
@@ -449,24 +448,6 @@
    "author_url": "https://unsplash.com/@generalbytes?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-person-sitting-on-a-bench-in-a-room-NtvHjru4jdI?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A man sitting on a bench using a cell phone",
-   "url": "https://images.unsplash.com/photo-1688126921116-9019dc755cd6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fEJpdGNvaW4lMjBBVE18ZW58MXx8fHwxNzkzODk4NTIxfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1688126921116-9019dc755cd6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fEJpdGNvaW4lMjBBVE18ZW58MXx8fHwxNzkzODk4NTIxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2251,
-    1501
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by GENERAL BYTES on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@generalbytes?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-man-sitting-on-a-bench-using-a-cell-phone-2fgO8iBeJ1U?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
