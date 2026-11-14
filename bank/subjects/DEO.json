@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "A glass of guinness sitting on top of a table",
@@ -173,6 +172,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/16758332@N00/442696302",
+   "plain": true
+  },
+  {
+   "shows": "GUINNESS IN DUBLIN [19 JANUARY 2018]-13567",
+   "url": "https://live.staticflickr.com/4667/25927762638_0283389cc0_b.jpg",
+   "preview": "https://live.staticflickr.com/4667/25927762638_0283389cc0_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by infomatique on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/80824546@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/80824546@N00/25927762638",
    "plain": true
   }
  ]

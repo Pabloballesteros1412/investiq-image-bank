@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "A bottle of tylenol next to a bed",
@@ -163,6 +162,46 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/39160147@N03/15937522910",
+   "plain": true
+  },
+  {
+   "shows": "Tylenol · tylenol, business, commerce, finance, label",
+   "url": "https://live.staticflickr.com/8658/15502494494_a2d8edc124_b.jpg",
+   "preview": "https://live.staticflickr.com/8658/15502494494_a2d8edc124_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/15502494494",
+   "plain": true
+  },
+  {
+   "shows": "Tylenol · tylenol, business, indoors, internet, people",
+   "url": "https://live.staticflickr.com/3847/14343389390_6fec32ff31_b.jpg",
+   "preview": "https://live.staticflickr.com/3847/14343389390_6fec32ff31_z.jpg",
+   "size": [
+    765,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/14343389390",
    "plain": true
   }
  ]

@@ -6,6 +6,24 @@
  "target": 50,
  "photos": [
   {
+   "shows": "Long idle parts of the giant Colorado Fuel and Iron steel mill, founded in 1881, in Pueblo, Colorado",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32600:32668/full/2248,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32600:32668/full/500,/0/default.jpg",
+   "size": [
+    2248,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2015632683/"
+  },
+  {
    "shows": "A grassy field with power lines in the background",
    "url": "https://images.unsplash.com/photo-1720986315552-f3ef473b93ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29wcGVyJTIwbWluZXxlbnwxfHx8fDE3OTM4ODk0MDZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1720986315552-f3ef473b93ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29wcGVyJTIwbWluZXxlbnwxfHx8fDE3OTM4ODk0MDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -111,6 +129,23 @@
    "source": "https://unsplash.com/photos/yellow-and-black-crane-on-brown-field-during-daytime-zY8WM82id0s?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Canadian Kraft Paper mill (The Pas, MB)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canadian_Kraft_Paper_mill_%28The_Pas%2C_MB%29.jpg/1920px-Canadian_Kraft_Paper_mill_%28The_Pas%2C_MB%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canadian_Kraft_Paper_mill_%28The_Pas%2C_MB%29.jpg/500px-Canadian_Kraft_Paper_mill_%28The_Pas%2C_MB%29.jpg",
+   "size": [
+    1920,
+    1344
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Canadian_Kraft_Paper_mill_(The_Pas,_MB).jpg"
+  },
+  {
    "shows": "A man in a blue and white striped shirt working on a piece of metal",
    "url": "https://images.unsplash.com/photo-1635184549996-8e482768acea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2xhc3MlMjBmYWN0b3J5fGVufDF8fHx8MTc5Mzg5MTIxN3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1635184549996-8e482768acea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z2xhc3MlMjBmYWN0b3J5fGVufDF8fHx8MTc5Mzg5MTIxN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -127,6 +162,202 @@
    "author_url": "https://unsplash.com/@danhadar?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-man-in-a-blue-and-white-striped-shirt-working-on-a-piece-of-metal-EugjQpiERtk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Seamless Steel Pipes",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Seamless_Steel_Pipes.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Seamless_Steel_Pipes.jpg/500px-Seamless_Steel_Pipes.jpg",
+   "size": [
+    1706,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Seamless Steel Pipes, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seamless_Steel_Pipes.jpg"
+  },
+  {
+   "shows": "A large machine is in the middle of a dirt field",
+   "url": "https://images.unsplash.com/photo-1578804376914-6d367cd21488?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fG1pbmluZ3xlbnwxfHx8fDE3OTM5NDU2MzR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1578804376914-6d367cd21488?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fG1pbmluZ3xlbnwxfHx8fDE3OTM5NDU2MzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Albert Hyseni on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alberthyseni?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-machine-is-in-the-middle-of-a-dirt-field-qq8eWIreIgg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large rocky mountain",
+   "url": "https://images.unsplash.com/photo-1664565262236-65166affe34a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG1pbmV8ZW58MXx8fHwxNzk0NTY0NTQ0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1664565262236-65166affe34a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fG1pbmV8ZW58MXx8fHwxNzk0NTY0NTQ0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Chris on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@silverdaddy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-rocky-mountain-6LNv5BmYuvI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Grey industrial equipment",
+   "url": "https://images.unsplash.com/photo-1513828742140-ccaa28f3eda0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGluZHVzdHJpYWx8ZW58MXx8fHwxNzk0NjA3NTMyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1513828742140-ccaa28f3eda0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGluZHVzdHJpYWx8ZW58MXx8fHwxNzk0NjA3NTMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Crystal Kwok on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@spacexuan?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/grey-industrial-equipment-mhUsz2ezlXQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large rock wall",
+   "url": "https://images.unsplash.com/photo-1667841712928-6372a8bb1f3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cXVhcnJ5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1667841712928-6372a8bb1f3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8cXVhcnJ5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pascal Bullan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jetztabertempo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-rock-wall-u6zVikMNTmQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large pile of steel beams in a warehouse",
+   "url": "https://images.unsplash.com/photo-1671022442106-c787685d9fed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHN0ZWVsJTIwYmVhbXN8ZW58MXx8fHwxNzk0NTYxNzM4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1671022442106-c787685d9fed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHN0ZWVsJTIwYmVhbXN8ZW58MXx8fHwxNzk0NTYxNzM4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Corey Willett on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@coreyw2005?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-pile-of-steel-beams-in-a-warehouse-X6thX8FvMLA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Brown wood logs",
+   "url": "https://images.unsplash.com/photo-1571035089306-e40c9289fe78?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8dGltYmVyfGVufDF8fHx8MTc5NDYyOTI2N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1571035089306-e40c9289fe78?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8dGltYmVyfGVufDF8fHx8MTc5NDYyOTI2N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1799
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Meritt Thomas on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@merittthomas?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/brown-wood-logs-R-8vTdXjHoA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A log is being sawn by a sawmill",
+   "url": "https://images.unsplash.com/photo-1749572855201-feb5cf658479?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2F3bWlsbHxlbnwxfHx8fDE3OTQ2MjkyNzd8MA&ixlib=rb-4.1.0&w=2254&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1749572855201-feb5cf658479?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2F3bWlsbHxlbnwxfHx8fDE3OTQ2MjkyNzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2254,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Georg Eiermann on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@georgeiermann?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-log-is-being-sawn-by-a-sawmill-5bjzV3g0ZJc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Steel Coils - Leeco Steel - Antonio Rosset",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Steel_Coils_-_Leeco_Steel_-_Antonio_Rosset.jpg/1920px-Steel_Coils_-_Leeco_Steel_-_Antonio_Rosset.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Steel_Coils_-_Leeco_Steel_-_Antonio_Rosset.jpg/500px-Steel_Coils_-_Leeco_Steel_-_Antonio_Rosset.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Arosset, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Steel_Coils_-_Leeco_Steel_-_Antonio_Rosset.jpg"
+  },
+  {
+   "shows": "Orange and white excavator on brown ground during daytime",
+   "url": "https://images.unsplash.com/photo-1630288214173-a119cf823388?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXhjYXZhdG9yfGVufDF8fHx8MTc5Mzg4NDMyN3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1630288214173-a119cf823388?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZXhjYXZhdG9yfGVufDF8fHx8MTc5Mzg4NDMyN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Billy Freeman on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@billyfreeman?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/orange-and-white-excavator-on-brown-ground-during-daytime-nkxB5Ab-ONY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A view of a large factory in the distance",
+   "url": "https://images.unsplash.com/photo-1723929100016-2081b9215d2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNlbWVudCUyMHBsYW50fGVufDF8fHx8MTc5Mzg5MTIxMXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1723929100016-2081b9215d2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNlbWVudCUyMHBsYW50fGVufDF8fHx8MTc5Mzg5MTIxMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sue Winston on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@winniepix?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-view-of-a-large-factory-in-the-distance-U9Wkl_n0pqU?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A large factory with a large crane",
@@ -147,38 +378,236 @@
    "source": "https://unsplash.com/photos/a-large-factory-with-a-large-crane-_rm0DueNGfE?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Canadian Kraft Paper mill (The Pas, MB)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canadian_Kraft_Paper_mill_%28The_Pas%2C_MB%29.jpg/1920px-Canadian_Kraft_Paper_mill_%28The_Pas%2C_MB%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canadian_Kraft_Paper_mill_%28The_Pas%2C_MB%29.jpg/500px-Canadian_Kraft_Paper_mill_%28The_Pas%2C_MB%29.jpg",
+   "shows": "Sulfur mining in Kawah Ijen - Indonesia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg/1920px-Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg/500px-Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg",
    "size": [
     1920,
-    1344
+    696
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
+   "credit": "Sémhur ( talk ), CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Canadian_Kraft_Paper_mill_(The_Pas,_MB).jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Sulfur_mining_in_Kawah_Ijen_-_Indonesia_-_20110608.jpg"
   },
   {
-   "shows": "Bingham Canyon Mine - Salt Lake County, Utah - May 11, 2012",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg/1920px-Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg/500px-Bingham_Canyon_Mine_%282%29_-_Salt_Lake_County%2C_Utah_-_May_11%2C_2012.jpg",
+   "shows": "Mining tunnel",
+   "url": "https://images.unsplash.com/photo-1530424257364-cd52a3e9bd40?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fG1pbmV8ZW58MXx8fHwxNzk0NTY0NTQ0fDA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1530424257364-cd52a3e9bd40?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fG1pbmV8ZW58MXx8fHwxNzk0NTY0NTQ0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    1440
+    1500,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "David Ratledge, CC BY 4.0, via Wikimedia Commons",
-   "licence": "CC BY 4.0",
+   "credit": "Photo by Martin Brechtl on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@majc0?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/mining-tunnel-S02FHccCSdA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A heavy industrial crane lifting a glowing molten metal ladle in a steel mill",
+   "url": "https://images.unsplash.com/photo-1474674556023-efef886fa147?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGluZHVzdHJpYWx8ZW58MXx8fHwxNzk0NjA3NTMyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1474674556023-efef886fa147?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGluZHVzdHJpYWx8ZW58MXx8fHwxNzk0NjA3NTMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ant Rozetsky on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@rozetsky?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/industrial-crane-lifting-molten-metal-ladle-io7dX_1EFCg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "An aerial view of a quarry with a blue pool",
+   "url": "https://images.unsplash.com/photo-1571223641822-b82408a0e705?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cXVhcnJ5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1571223641822-b82408a0e705?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cXVhcnJ5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1263
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dion Beetson on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dionbeetson?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/an-aerial-view-of-a-quarry-with-a-blue-pool-oF7hh97lVqA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A yellow excavator on a hill with a blue sky in the background",
+   "url": "https://images.unsplash.com/photo-1649807479468-40011b31ee09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZXhjYXZhdG9yfGVufDF8fHx8MTc5Mzg4NDMyN3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1649807479468-40011b31ee09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZXhjYXZhdG9yfGVufDF8fHx8MTc5Mzg4NDMyN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Built Robotics on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@built?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-yellow-excavator-on-a-hill-with-a-blue-sky-in-the-background-zmW-UG2OX_M?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large industrial cement plant on the shore of a lake below a forested mountain",
+   "url": "https://images.unsplash.com/photo-1791524000745-87b3fb24537f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNlbWVudCUyMHBsYW50fGVufDF8fHx8MTc5Mzg5MTIxMXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1791524000745-87b3fb24537f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNlbWVudCUyMHBsYW50fGVufDF8fHx8MTc5Mzg5MTIxMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by sangam sharma on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sangam_sharma?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/cement-plant-on-forested-mountain-lake-rFO6pbySgbo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Vast open-pit mine with distant city skyline",
+   "url": "https://images.unsplash.com/photo-1763824391183-931ce7101902?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG9wZW4lMjBwaXQlMjBtaW5lfGVufDF8fHx8MTc5Mzg5MTIxNHww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1763824391183-931ce7101902?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG9wZW4lMjBwaXQlMjBtaW5lfGVufDF8fHx8MTc5Mzg5MTIxNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by LISK OBE on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@summerobelisk?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/vast-open-pit-mine-with-distant-city-skyline-Xyy85EemEhc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Mirny in Yakutia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mirny_in_Yakutia.jpg/1920px-Mirny_in_Yakutia.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mirny_in_Yakutia.jpg/500px-Mirny_in_Yakutia.jpg",
+   "size": [
+    1920,
+    937
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Staselnik, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Bingham_Canyon_Mine_(2)_-_Salt_Lake_County,_Utah_-_May_11,_2012.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Mirny_in_Yakutia.jpg"
+  },
+  {
+   "shows": "Aerial view of industrial factory",
+   "url": "https://images.unsplash.com/photo-1513257805917-a0da1146eb15?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGluZHVzdHJpYWx8ZW58MXx8fHwxNzk0NjA3NTMyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1513257805917-a0da1146eb15?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGluZHVzdHJpYWx8ZW58MXx8fHwxNzk0NjA3NTMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by CHUTTERSNAP on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chuttersnap?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/aerial-view-of-industrial-factory-_EFvjSgbw1c?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A truck is parked in a field",
+   "url": "https://images.unsplash.com/photo-1667841680566-3007c4f1ca51?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cXVhcnJ5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1667841680566-3007c4f1ca51?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cXVhcnJ5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1798
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pascal Bullan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jetztabertempo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-truck-is-parked-in-a-field-PWT1T5qh0KA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A bulldozer in the middle of a field on a cloudy day",
+   "url": "https://images.unsplash.com/photo-1637669886956-bf0e1cc4f0d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGV4Y2F2YXRvcnxlbnwxfHx8fDE3OTM4ODQzMjd8MA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1637669886956-bf0e1cc4f0d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGV4Y2F2YXRvcnxlbnwxfHx8fDE3OTM4ODQzMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2001,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tobias Kleeb on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tobjvs?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bulldozer-in-the-middle-of-a-field-on-a-cloudy-day-rpP7zWy-Uxc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A construction vehicle on a rocky hillside",
+   "url": "https://images.unsplash.com/photo-1667841686893-4a0b40e178b7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cXVhcnJ5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1667841686893-4a0b40e178b7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cXVhcnJ5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1798
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pascal Bullan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jetztabertempo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-construction-vehicle-on-a-rocky-hillside-FvjTuvw0TjE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A wooden structure with a sky background",
+   "url": "https://images.unsplash.com/photo-1676802540678-2dceb1820113?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHRpbWJlcnxlbnwxfHx8fDE3OTQ2MjkyNjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1676802540678-2dceb1820113?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHRpbWJlcnxlbnwxfHx8fDE3OTQ2MjkyNjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Troy Mortier on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@troyscanon?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-wooden-structure-with-a-sky-background-w6g9DqZUNkI?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

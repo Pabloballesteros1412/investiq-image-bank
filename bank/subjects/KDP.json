@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Dr pepper sign atop a historic brick building",
@@ -132,6 +131,66 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Keurig_K350_Brewer.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dr Pepper · drink, drpepper, soda, sweden, vu00e4steru00e5s",
+   "url": "https://live.staticflickr.com/8032/8061174035_7c0337dd3d_b.jpg",
+   "preview": "https://live.staticflickr.com/8032/8061174035_7c0337dd3d_z.jpg",
+   "size": [
+    683,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by callocx on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/61400543@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/61400543@N04/8061174035",
+   "plain": true
+  },
+  {
+   "shows": "Keurig Coffee Maker · coffee, keurig, maker",
+   "url": "https://live.staticflickr.com/3866/19106726012_131499d684_b.jpg",
+   "preview": "https://live.staticflickr.com/3866/19106726012_131499d684_z.jpg",
+   "size": [
+    1024,
+    632
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/19106726012",
+   "plain": true
+  },
+  {
+   "shows": "Keurig Coffee Maker · coffee, keurig, maker",
+   "url": "https://live.staticflickr.com/3956/19115765431_4717dafce1_b.jpg",
+   "preview": "https://live.staticflickr.com/3956/19115765431_4717dafce1_z.jpg",
+   "size": [
+    1024,
+    488
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/19115765431",
    "plain": true
   }
  ]

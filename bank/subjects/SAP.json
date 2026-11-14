@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Christian Klein, SAP CEO (per Wikidata)",
@@ -167,6 +166,26 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:SAP_building_in_Raanana.jpg",
+   "plain": true
+  },
+  {
+   "shows": "SAP Building 21 · deutschland, germany, sap, walldorf, wdf21",
+   "url": "https://live.staticflickr.com/1171/863449670_f730e46733_b.jpg",
+   "preview": "https://live.staticflickr.com/1171/863449670_f730e46733_z.jpg",
+   "size": [
+    1024,
+    681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by vladislav.bezrukov on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/61747385@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/61747385@N00/863449670",
    "plain": true
   }
  ]

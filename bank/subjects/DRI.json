@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "'Olive Garden' · garden, olive, architecture",
@@ -179,6 +178,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/34236082@N04/3298093107",
+   "plain": true
+  },
+  {
+   "shows": "Olive Garden · garden, olive",
+   "url": "https://live.staticflickr.com/7056/13931131666_453b828b5c_b.jpg",
+   "preview": "https://live.staticflickr.com/7056/13931131666_453b828b5c_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/13931131666",
    "plain": true
   }
  ]

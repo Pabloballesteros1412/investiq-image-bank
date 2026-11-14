@@ -6,24 +6,6 @@
  "target": 50,
  "photos": [
   {
-   "shows": "A large building with columns and a flag on the corner",
-   "url": "https://images.unsplash.com/photo-1633059050703-0f1b50828402?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1633059050703-0f1b50828402?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Joshua Woroniecki on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@joshuaworoniecki?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-large-building-with-columns-and-a-flag-on-the-corner-Skfy8ljB7X4?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
    "shows": "Person using laptop computer holding card",
    "url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y3JlZGl0JTIwY2FyZHN8ZW58MXx8fHwxNzkzODc3OTk5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y3JlZGl0JTIwY2FyZHN8ZW58MXx8fHwxNzkzODc3OTk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -132,21 +114,268 @@
    "source": "https://unsplash.com/photos/a-couple-of-tall-buildings-sitting-next-to-each-other-X30Zi4yEJ-o?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "US Dollar banknotes I",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/US_Dollar_banknotes_I.jpg/1920px-US_Dollar_banknotes_I.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/US_Dollar_banknotes_I.jpg/500px-US_Dollar_banknotes_I.jpg",
+   "shows": "A person writing on a piece of paper next to a computer monitor",
+   "url": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGZpbmFuY2V8ZW58MXx8fHwxNzk0NjA0Mjg3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1707762890671-52ef6d6f51e7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGZpbmFuY2V8ZW58MXx8fHwxNzk0NjA0Mjg3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    1079
+    1200,
+    1799
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Milad Mosapoor, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
+   "credit": "Photo by Jakub Żerdzicki on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-writing-on-a-piece-of-paper-next-to-a-computer-monitor-U4-I4oH4xlg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Bern Cantonal Bank Federal Plaza 23-16",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bern_Cantonal_Bank_Federal_Plaza_2019-09-13_23-16.jpg/1920px-Bern_Cantonal_Bank_Federal_Plaza_2019-09-13_23-16.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bern_Cantonal_Bank_Federal_Plaza_2019-09-13_23-16.jpg/500px-Bern_Cantonal_Bank_Federal_Plaza_2019-09-13_23-16.jpg",
+   "size": [
+    1920,
+    1829
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Axel Tschentscher, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:US_Dollar_banknotes_I.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:Bern_Cantonal_Bank_Federal_Plaza_2019-09-13_23-16.jpg"
+  },
+  {
+   "shows": "money",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Money-2180330_1920.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Money-2180330_1920.jpg/500px-Money-2180330_1920.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "kschneider2991, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Money-2180330_1920.jpg"
+  },
+  {
+   "shows": "A magnifying glass sitting on top of a piece of paper",
+   "url": "https://images.unsplash.com/photo-1637763723578-79a4ca9225f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8aW5zdXJhbmNlfGVufDF8fHx8MTc5NDYwNDMxMnww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1637763723578-79a4ca9225f7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8aW5zdXJhbmNlfGVufDF8fHx8MTc5NDYwNDMxMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vlad Deep on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vladdeep?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-magnifying-glass-sitting-on-top-of-a-piece-of-paper-mCqi3MljC4E?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Financial District Skyline",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Financial_District_Skyline.jpg/1920px-Financial_District_Skyline.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Financial_District_Skyline.jpg/500px-Financial_District_Skyline.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Josh B, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Financial_District_Skyline.jpg"
+  },
+  {
+   "shows": "Wall Street, Manhattan, New York City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wall_Street%2C_Manhattan%2C_New_York_City%2C_20231002_172333.jpg/1920px-Wall_Street%2C_Manhattan%2C_New_York_City%2C_20231002_172333.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Wall_Street%2C_Manhattan%2C_New_York_City%2C_20231002_172333.jpg/500px-Wall_Street%2C_Manhattan%2C_New_York_City%2C_20231002_172333.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wall_Street,_Manhattan,_New_York_City,_20231002_172333.jpg"
+  },
+  {
+   "shows": "A person holding a credit card in front of a machine",
+   "url": "https://images.unsplash.com/photo-1654263937079-f63a3ea4d48b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y3JlZGl0JTIwY2FyZHxlbnwxfHx8fDE3OTM5NDIwMDF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1654263937079-f63a3ea4d48b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y3JlZGl0JTIwY2FyZHxlbnwxfHx8fDE3OTM5NDIwMDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nathana Rebouças on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nathanareboucas?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-credit-card-in-front-of-a-machine-3YSDTzqnVtQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Pile of Cash",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pile_of_Cash.jpg/1920px-Pile_of_Cash.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Pile_of_Cash.jpg/500px-Pile_of_Cash.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "401(K) 2012, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pile_of_Cash.jpg"
+  },
+  {
+   "shows": "Miniature person sitting on stack of coins reading newspaper",
+   "url": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29pbnN8ZW58MXx8fHwxNzk0NjIxOTg0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29pbnN8ZW58MXx8fHwxNzk0NjIxOTg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mathieu Stern on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mathieustern?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/miniature-person-sitting-on-stack-of-coins-reading-newspaper-1zO4O3Z0UJA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Smartphone calculator on desk with financial charts behind",
+   "url": "https://images.unsplash.com/photo-1707761918029-1295034aa31e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c3RvY2slMjBjaGFydHxlbnwxfHx8fDE3OTQ1MzIxNTV8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1707761918029-1295034aa31e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c3RvY2slMjBjaGFydHxlbnwxfHx8fDE3OTQ1MzIxNTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jakub Żerdzicki on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/smartphone-calculator-on-desk-with-financial-charts-behind-ip7GFn5JqX8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person pressing a button on a metallic ATM keypad",
+   "url": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QVRNfGVufDF8fHx8MTc5NDYyMjEzN3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1601597111158-2fceff292cdc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QVRNfGVufDF8fHx8MTc5NDYyMjEzN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Eduardo Soares on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@eduschadesoares?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-pressing-metallic-atm-keypad-utWyPB8_FU8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person holding a smartphone near a contactless payment terminal in a kitchen",
+   "url": "https://images.unsplash.com/photo-1556742521-9713bf272865?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGF5bWVudCUyMHRlcm1pbmFsfGVufDF8fHx8MTc5NDYyMjE3N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1556742521-9713bf272865?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGF5bWVudCUyMHRlcm1pbmFsfGVufDF8fHx8MTc5NDYyMjE3N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nathan Dumlao on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nate_dumlao?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/smartphone-contactless-payment-in-kitchen-oRKF_ZBJYGM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Winona Savings Bank interior 03",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Winona_Savings_Bank_interior_03.jpg/1280px-Winona_Savings_Bank_interior_03.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Winona_Savings_Bank_interior_03.jpg/500px-Winona_Savings_Bank_interior_03.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Winona_Savings_Bank_interior_03.jpg"
+  },
+  {
+   "shows": "A large building with columns and a flag on the corner",
+   "url": "https://images.unsplash.com/photo-1633059050703-0f1b50828402?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1633059050703-0f1b50828402?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Joshua Woroniecki on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@joshuaworoniecki?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-building-with-columns-and-a-flag-on-the-corner-Skfy8ljB7X4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Man's eye view of mansion",
+   "url": "https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Aditya Vyas on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@aditya1702?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/mans-eye-view-of-mansion-6Ih4UoqzaAs?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Toronto Financial District August 2017",
@@ -184,6 +413,114 @@
    "source": "https://unsplash.com/photos/opened-gray-stainless-steel-drawers-zLtXrNXJpKM?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "A person holding a piece of paper over a laptop",
+   "url": "https://images.unsplash.com/photo-1711097383282-28097ae16b1d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGZpbmFuY2V8ZW58MXx8fHwxNzk0NjA0Mjg3fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1711097383282-28097ae16b1d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGZpbmFuY2V8ZW58MXx8fHwxNzk0NjA0Mjg3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2249,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jakub Żerdzicki on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jakubzerdzicki?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-piece-of-paper-over-a-laptop-9PwLeZA-RGc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person holding a credit card over a plate of food",
+   "url": "https://images.unsplash.com/photo-1728044849236-5e8a061e1895?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1728044849236-5e8a061e1895?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by SumUp on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sumup?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-credit-card-over-a-plate-of-food-ieqmC1QlHG0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Pink and black ceramic piggy bank",
+   "url": "https://images.unsplash.com/photo-1607863680151-1da3e60691bb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cGlnZ3klMjBiYW5rfGVufDF8fHx8MTc5NDYyMTkxNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1607863680151-1da3e60691bb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8cGlnZ3klMjBiYW5rfGVufDF8fHx8MTc5NDYyMTkxNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Andre Taissin on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@andretaissin?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/pink-and-black-ceramic-piggy-bank-Dc2SRspMak4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Brown round coins on brown wooden surface",
+   "url": "https://images.unsplash.com/photo-1586974710160-55f48f417990?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y29pbnN8ZW58MXx8fHwxNzk0NjIxOTg0fDA&ixlib=rb-4.1.0&w=2259&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1586974710160-55f48f417990?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y29pbnN8ZW58MXx8fHwxNzk0NjIxOTg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2259,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dan Dennis on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cameramandan83?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/brown-round-coins-on-brown-wooden-surface-pZ56pVKd_6c?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person holding brown leather wallet and banknotes",
+   "url": "https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8QVRNfGVufDF8fHx8MTc5NDYyMjEzN3ww&ixlib=rb-4.1.0&w=2241&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1551260627-fd1b6daa6224?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8QVRNfGVufDF8fHx8MTc5NDYyMjEzN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2241,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nick Pampoukidis on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@pampouks?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-holding-brown-leather-wallet-and-banknotes-t-UV1rZqPuY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Woman holding Android smartphone",
+   "url": "https://images.unsplash.com/photo-1509017174183-0b7e0278f1ec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cGF5bWVudCUyMHRlcm1pbmFsfGVufDF8fHx8MTc5NDYyMjE3N3ww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1509017174183-0b7e0278f1ec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cGF5bWVudCUyMHRlcm1pbmFsfGVufDF8fHx8MTc5NDYyMjE3N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jonas Leupe on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jonasleupe?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/woman-holding-android-smartphone-0IVop5v4MMU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "A man walking down the street in front of a building",
    "url": "https://images.unsplash.com/photo-1674544336371-8ea2ca522121?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1674544336371-8ea2ca522121?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -202,9 +539,45 @@
    "source": "https://unsplash.com/photos/a-man-walking-down-the-street-in-front-of-a-building-1ONZvmUMfhM?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "A person holding a credit card in front of a machine",
-   "url": "https://images.unsplash.com/photo-1654263937079-f63a3ea4d48b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y3JlZGl0JTIwY2FyZHN8ZW58MXx8fHwxNzkzODc3OTk5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1654263937079-f63a3ea4d48b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y3JlZGl0JTIwY2FyZHN8ZW58MXx8fHwxNzkzODc3OTk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "A person stacking coins on top of a table",
+   "url": "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29pbnN8ZW58MXx8fHwxNzk0NjIxOTg0fDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29pbnN8ZW58MXx8fHwxNzk0NjIxOTg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Towfiqu barbhuiya on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@towfiqu999999?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-stacking-coins-on-top-of-a-table-jpqyfK7GB4w?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Grayscale photo of ATM machine",
+   "url": "https://images.unsplash.com/photo-1539622287262-61e066a2c534?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFUTXxlbnwxfHx8fDE3OTQ2MjIxMzd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1539622287262-61e066a2c534?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFUTXxlbnwxfHx8fDE3OTQ2MjIxMzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Johnyvino on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@johnyvino?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/grayscale-photo-of-atm-machine-9f7s4aLatpw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Stacked round gold-colored coins on white surface",
+   "url": "https://images.unsplash.com/photo-1534951009808-766178b47a4f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y29pbnN8ZW58MXx8fHwxNzk0NjIxOTg0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1534951009808-766178b47a4f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y29pbnN8ZW58MXx8fHwxNzk0NjIxOTg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     2250,
     1500
@@ -213,29 +586,29 @@
     0.5,
     0.5
    ],
-   "credit": "Photo by Nathana Rebouças on Unsplash",
+   "credit": "Photo by Ibrahim Rifath on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@nathanareboucas?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@ripey__?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-person-holding-a-credit-card-in-front-of-a-machine-3YSDTzqnVtQ?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/stacked-round-gold-colored-coins-on-white-surface-OApHds2yEGQ?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Man's eye view of mansion",
-   "url": "https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1534469589579-86bd01bc003a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MXx8fHwxNzkzODc4MDAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "A man standing in front of an atm machine",
+   "url": "https://images.unsplash.com/photo-1632044889829-7770c6296ca0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fEFUTXxlbnwxfHx8fDE3OTQ2MjIxMzd8MA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1632044889829-7770c6296ca0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fEFUTXxlbnwxfHx8fDE3OTQ2MjIxMzd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    2251,
-    1501
+    1500,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Aditya Vyas on Unsplash",
+   "credit": "Photo by Mika Baumeister on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@aditya1702?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/mans-eye-view-of-mansion-6Ih4UoqzaAs?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/a-man-standing-in-front-of-an-atm-machine-EPrGM3nTOXg?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

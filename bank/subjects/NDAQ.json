@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "NYC - Midtown Manhattan – Times Square – Broadway by night - panoramio",
@@ -151,6 +150,46 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Nasdaq_tv.jpg",
+   "plain": true
+  },
+  {
+   "shows": "NASDAQ Building · city, nasdaq, new, nyc, square",
+   "url": "https://live.staticflickr.com/1846/43636130134_e064cd9bfd_b.jpg",
+   "preview": "https://live.staticflickr.com/1846/43636130134_e064cd9bfd_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by John A. Montgomery on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/156115884@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/156115884@N03/43636130134",
+   "plain": true
+  },
+  {
+   "shows": "Time Square/New York - IMG_1886",
+   "url": "https://live.staticflickr.com/3334/3217938041_5450d0cb43_b.jpg",
+   "preview": "https://live.staticflickr.com/3334/3217938041_5450d0cb43_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nicola since 1972 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/15216811@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/15216811@N06/3217938041",
    "plain": true
   }
  ]

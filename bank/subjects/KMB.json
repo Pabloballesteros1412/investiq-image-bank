@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Kimberly-Clark Corporation Headquarters - Irving - Texas",
@@ -141,6 +140,66 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/27410581@N07/3975918315",
+   "plain": true
+  },
+  {
+   "shows": "Apple Kleenex Dispenser · airport, apple, basestation, design, dispenser",
+   "url": "https://live.staticflickr.com/98/261781793_4629362ef0_b.jpg",
+   "preview": "https://live.staticflickr.com/98/261781793_4629362ef0_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Daniel Morrison on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/36561624@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/36561624@N00/261781793",
+   "plain": true
+  },
+  {
+   "shows": "Huggies · 11, 111111, baby, delievery, hospital",
+   "url": "https://live.staticflickr.com/6212/6336510236_5943e40124_b.jpg",
+   "preview": "https://live.staticflickr.com/6212/6336510236_5943e40124_z.jpg",
+   "size": [
+    1024,
+    681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by KOMUnews on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/12801018@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/12801018@N00/6336510236",
+   "plain": true
+  },
+  {
+   "shows": "Huggies · huggies",
+   "url": "https://live.staticflickr.com/1346/1438525862_04771c3656_b.jpg",
+   "preview": "https://live.staticflickr.com/1346/1438525862_04771c3656_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ivanlanin on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/81434456@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/81434456@N00/1438525862",
    "plain": true
   }
  ]

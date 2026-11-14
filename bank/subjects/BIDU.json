@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 10,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Baidu Technology Park at ZPark Phase II",
@@ -167,6 +166,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Baidu_Technology_Park_at_ZPark_Phase_II_(20220502113543).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Baidu office in Beijng",
+   "url": "https://live.staticflickr.com/8595/16288605696_9b927aa1d7_b.jpg",
+   "preview": "https://live.staticflickr.com/8595/16288605696_9b927aa1d7_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jonrussell on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/13087003@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/13087003@N02/16288605696",
    "plain": true
   }
  ]

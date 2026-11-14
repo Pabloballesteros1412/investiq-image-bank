@@ -134,6 +134,24 @@
    "plain": true
   },
   {
+   "shows": "Pepsi sign, located at Meeker's Harware store in Danbury, Connecticut",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20200:20226/full/1249,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20200:20226/full/500,/0/default.jpg",
+   "size": [
+    1249,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2012631635/"
+  },
+  {
    "shows": "PepsiCo Headquarters close up 2011",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PepsiCo_Headquarters_close_up_2011.jpg/1920px-PepsiCo_Headquarters_close_up_2011.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PepsiCo_Headquarters_close_up_2011.jpg/500px-PepsiCo_Headquarters_close_up_2011.jpg",
@@ -546,26 +564,6 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/75001512@N00/7663555316",
-   "plain": true
-  },
-  {
-   "shows": "Mountain Dew in Grass · grass, mountaindew, pop, soda, closeup",
-   "url": "https://live.staticflickr.com/1/898231_ca259fd6e0_b.jpg",
-   "preview": "https://live.staticflickr.com/1/898231_ca259fd6e0_z.jpg",
-   "size": [
-    1024,
-    768
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by compujeramey on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/37171504@N00",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/37171504@N00/898231",
    "plain": true
   }
  ]

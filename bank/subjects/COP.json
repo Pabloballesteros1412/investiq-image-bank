@@ -7,7 +7,6 @@
  ],
  "sector": "sector-energy",
  "target": 10,
- "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "Ryan Lance, ConocoPhillips CEO (per Wikidata)",
@@ -167,6 +166,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Conoco-Phillips_Building_Downtown_Anchorage,_AK.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Conoco Phillips Refinery Two",
+   "url": "https://live.staticflickr.com/3273/2785112228_cbcaaedbab_b.jpg",
+   "preview": "https://live.staticflickr.com/3273/2785112228_cbcaaedbab_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by alexismadrigal on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/98485129@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/98485129@N00/2785112228",
    "plain": true
   }
  ]

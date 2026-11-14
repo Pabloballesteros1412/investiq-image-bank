@@ -6,21 +6,22 @@
  "target": 50,
  "photos": [
   {
-   "shows": "MAERSK HANOI Container Ship (Port Koper SIKOP, 2023)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg/1920px-MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg/500px-MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg",
+   "shows": "A massive container ship plies the Savannah River in Savannah, Georgia",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:43900:43977/full/2000,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:43900:43977/full/500,/0/default.jpg",
    "size": [
-    1920,
-    1439
+    2000,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg"
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2017880859/"
   },
   {
    "shows": "A busy shipping port with stacked containers and cranes under a dark cloudy sky",
@@ -184,6 +185,59 @@
    "source": "https://unsplash.com/photos/red-and-blue-cargo-ship-on-body-of-water-during-daytime-NndKt2kF1L4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "A harbor scene features cargo cranes and city buildings",
+   "url": "https://images.unsplash.com/photo-1748381837670-384f5523fe2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cG9ydCUyMGNyYW5lc3xlbnwxfHx8fDE3OTQ1MjExMDV8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1748381837670-384f5523fe2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cG9ydCUyMGNyYW5lc3xlbnwxfHx8fDE3OTQ1MjExMDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zoshua Colah on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-harbor-scene-features-cargo-cranes-and-city-buildings-_9Ihy_8XNck?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Aerial view of city buildings near body of water during daytime",
+   "url": "https://images.unsplash.com/photo-1602066556450-62f988867a31?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y3VzdG9tc3xlbnwxfHx8fDE3OTQ1MjExMDZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1602066556450-62f988867a31?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y3VzdG9tc3xlbnwxfHx8fDE3OTQ1MjExMDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Renaldo Matamoro on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@rmvisuals?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/aerial-view-of-city-buildings-near-body-of-water-during-daytime-DEMrRuvJvqo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "MAERSK HANOI Container Ship (Port Koper SIKOP, 2023)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg/1920px-MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg/500px-MAERSK_HANOI_Container_Ship_%28Port_Koper_SIKOP%2C_2023%29.jpg",
+   "size": [
+    1920,
+    1439
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Petar Milošević, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg"
+  },
+  {
    "shows": "An aerial view of colorful shipping containers stacked in a busy industrial port",
    "url": "https://images.unsplash.com/photo-1494412685616-a5d310fbb07d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHNoaXBwaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTM5Mzg0MDd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1494412685616-a5d310fbb07d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHNoaXBwaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTM5Mzg0MDd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -256,6 +310,24 @@
    "source": "https://unsplash.com/photos/stacked-shipping-containers-in-various-colors-gd8PLJiRTZk?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Aerial view of shipping container yard",
+   "url": "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNoaXBwaW5nJTIwY29udGFpbmVyc3xlbnwxfHx8fDE3OTQ1MjExMDB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNoaXBwaW5nJTIwY29udGFpbmVyc3xlbnwxfHx8fDE3OTQ1MjExMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by CHUTTERSNAP on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chuttersnap?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/aerial-view-of-shipping-container-yard-9cCeS9Sg6nU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Container-Terminal Bremerhaven 02",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Container-Terminal_Bremerhaven_02.jpg/1920px-Container-Terminal_Bremerhaven_02.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Container-Terminal_Bremerhaven_02.jpg/500px-Container-Terminal_Bremerhaven_02.jpg",
@@ -291,40 +363,58 @@
    "source": "https://unsplash.com/photos/aerial-view-of-boat-on-water-1cqIcrWFQBI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Aerial view of city buildings near body of water during daytime",
-   "url": "https://images.unsplash.com/photo-1602066556450-62f988867a31?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y3VzdG9tc3xlbnwxfHx8fDE3OTQ1MjExMDZ8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1602066556450-62f988867a31?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y3VzdG9tc3xlbnwxfHx8fDE3OTQ1MjExMDZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "Woman in green shirt holding white and black short coated dog",
+   "url": "https://images.unsplash.com/photo-1580795478690-5c6afcf4e7c3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGN1c3RvbXN8ZW58MXx8fHwxNzk0NTIxMTA2fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1580795478690-5c6afcf4e7c3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGN1c3RvbXN8ZW58MXx8fHwxNzk0NTIxMTA2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    2400,
-    1350
+    2000,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Renaldo Matamoro on Unsplash",
+   "credit": "Photo by CDC on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@rmvisuals?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@cdc?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/aerial-view-of-city-buildings-near-body-of-water-during-daytime-DEMrRuvJvqo?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/woman-in-green-shirt-holding-white-and-black-short-coated-dog-A82PSKGx9cI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Blue and red cargo ship",
-   "url": "https://images.unsplash.com/photo-1597334948330-38795f25d05d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNvbnRhaW5lciUyMHNoaXB8ZW58MXx8fHwxNzkzODg0MzI1fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1597334948330-38795f25d05d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNvbnRhaW5lciUyMHNoaXB8ZW58MXx8fHwxNzkzODg0MzI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "A large cargo ship with lots of containers on it's back",
+   "url": "https://images.unsplash.com/photo-1699588999949-e25959a59550?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNvbnRhaW5lciUyMHNoaXB8ZW58MXx8fHwxNzkzODg0MzI1fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1699588999949-e25959a59550?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGNvbnRhaW5lciUyMHNoaXB8ZW58MXx8fHwxNzkzODg0MzI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    2251,
-    1501
+    2000,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Dominik Lückmann on Unsplash",
+   "credit": "Photo by Haydn on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@exdigy?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@hgpound?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/blue-and-red-cargo-ship-4aOhA4ptIY4?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/a-large-cargo-ship-with-lots-of-containers-on-its-back-ZT3i-6XW8J8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Shipping containers stacked at a busy port at sunset",
+   "url": "https://images.unsplash.com/photo-1759272840538-ae4b07214c71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNoaXBwaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTM5Mzg0MDd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1759272840538-ae4b07214c71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHNoaXBwaW5nJTIwcG9ydHxlbnwxfHx8fDE3OTM5Mzg0MDd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Haris Illahi on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@harisillahi?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/shipping-containers-stacked-at-a-busy-port-at-sunset-fT4SwA83jH4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Red and white cargo ship at middle of ocean",
@@ -343,6 +433,24 @@
    "author_url": "https://unsplash.com/@chris_pagan?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/red-and-white-cargo-ship-at-middle-of-ocean-sfjS-FglvU4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Stack of cargo trailer",
+   "url": "https://images.unsplash.com/photo-1494961104209-3c223057bd26?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNoaXBwaW5nJTIwY29udGFpbmVyc3xlbnwxfHx8fDE3OTQ1MjExMDB8MA&ixlib=rb-4.1.0&w=2074&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1494961104209-3c223057bd26?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNoaXBwaW5nJTIwY29udGFpbmVyc3xlbnwxfHx8fDE3OTQ1MjExMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2074,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Guillaume Bolduc on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@guibolduc?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/stack-of-cargo-trailer-uBe2mknURG4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Aerial view photo of freight containers",
@@ -379,6 +487,60 @@
    "author_url": "https://unsplash.com/@nessa_rin?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/photo-of-cargo-cru-ship-2vPGGOU-wLA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large body of water filled with lots of cranes",
+   "url": "https://images.unsplash.com/photo-1683331817198-358e0a1be916?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHBvcnQlMjBjcmFuZXN8ZW58MXx8fHwxNzk0NTIxMTA1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1683331817198-358e0a1be916?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHBvcnQlMjBjcmFuZXN8ZW58MXx8fHwxNzk0NTIxMTA1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Chris Linnett on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chrislinnett?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-body-of-water-filled-with-lots-of-cranes-BwI64G-76HA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Blue and red cargo ship",
+   "url": "https://images.unsplash.com/photo-1597334948330-38795f25d05d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNvbnRhaW5lciUyMHNoaXB8ZW58MXx8fHwxNzkzODg0MzI1fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1597334948330-38795f25d05d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNvbnRhaW5lciUyMHNoaXB8ZW58MXx8fHwxNzkzODg0MzI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dominik Lückmann on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@exdigy?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-and-red-cargo-ship-4aOhA4ptIY4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Cargo ship in ocean",
+   "url": "https://images.unsplash.com/photo-1552207802-77bcb0d13122?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNhcmdvJTIwc2hpcHxlbnwxfHx8fDE3OTM5Mzg0MDl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1552207802-77bcb0d13122?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNhcmdvJTIwc2hpcHxlbnwxfHx8fDE3OTM5Mzg0MDl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nate Cheney on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@natecheney?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/cargo-ship-in-ocean-iPrYNHEBieE?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

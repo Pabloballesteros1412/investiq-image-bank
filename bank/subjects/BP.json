@@ -7,7 +7,6 @@
  ],
  "sector": "sector-energy",
  "target": 10,
- "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "Dark blue car at a bp gas station at night",
@@ -171,6 +170,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/87913776@N00/460376214",
+   "plain": true
+  },
+  {
+   "shows": "BP Gas Station British Petroleum Gasoline Station Sign. 5/2014",
+   "url": "https://live.staticflickr.com/5116/14231501312_a744b93289_b.jpg",
+   "preview": "https://live.staticflickr.com/5116/14231501312_a744b93289_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/14231501312",
    "plain": true
   }
  ]

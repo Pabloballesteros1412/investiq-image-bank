@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "A kfc sign with a man's face on it",
@@ -181,6 +180,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/67408512@N03/11516304855",
+   "plain": true
+  },
+  {
+   "shows": "Taco Bell · 2013, brands, pa, restaurant, store",
+   "url": "https://live.staticflickr.com/7306/12526854203_5bbb951f93_b.jpg",
+   "preview": "https://live.staticflickr.com/7306/12526854203_5bbb951f93_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Random Retail on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/67408512@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/67408512@N03/12526854203",
    "plain": true
   }
  ]

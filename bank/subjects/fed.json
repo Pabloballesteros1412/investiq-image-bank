@@ -130,8 +130,8 @@
   },
   {
    "shows": "A close-up of Benjamin Franklin on a United States one hundred dollar bill",
-   "url": "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aHVuZHJlZCUyMGRvbGxhciUyMGJpbGxzfGVufDF8fHx8MTc5MzkzNDc4MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "url": "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1623118176012-9b0c6fa0712d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     2250,
     1500
@@ -147,21 +147,74 @@
    "source": "https://unsplash.com/photos/benjamin-franklin-on-hundred-dollar-bill-wTO6MWpMrJk?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "money stack",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Money-2180330_1920.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Money-2180330_1920.jpg/500px-Money-2180330_1920.jpg",
+   "shows": "A calculator, pen, and money on a table",
+   "url": "https://images.unsplash.com/photo-1631511258193-252ab3da6b8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FsY3VsYXRvciUyMGFuZCUyMG1vbmV5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1631511258193-252ab3da6b8b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FsY3VsYXRvciUyMGFuZCUyMG1vbmV5fGVufDF8fHx8MTc5NDYyOTE1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    1280
+    2250,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "kschneider2991, CC0, via Wikimedia Commons",
-   "licence": "CC0",
+   "credit": "Photo by Sasun Bughdaryan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sasun1990?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-calculator-pen-and-money-on-a-table-X4VwfPzy_2o?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close-up of a United States fifty-dollar bill showing the signature of Rosa Gumataotao Rios.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DollarRiosClose.jpg/1280px-DollarRiosClose.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/DollarRiosClose.jpg/500px-DollarRiosClose.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Caravansera, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Money-2180330_1920.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:DollarRiosClose.jpg"
+  },
+  {
+   "shows": "U.S. Treasury Building and Albert Gallatin Statue",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/U.S._Treasury_Building_and_Albert_Gallatin_Statue.jpg/1920px-U.S._Treasury_Building_and_Albert_Gallatin_Statue.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/U.S._Treasury_Building_and_Albert_Gallatin_Statue.jpg/500px-U.S._Treasury_Building_and_Albert_Gallatin_Statue.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sealy j, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:U.S._Treasury_Building_and_Albert_Gallatin_Statue.jpg"
+  },
+  {
+   "shows": "Washington monument washington dc during daytime",
+   "url": "https://images.unsplash.com/photo-1617293541287-5530026ca9b1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1617293541287-5530026ca9b1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Eric Dekker on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@egdekker?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/washington-monument-washington-dc-during-daytime-7CU2gd2HGrw?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A one hundred dollar bill on a black background",
@@ -182,38 +235,166 @@
    "source": "https://unsplash.com/photos/a-one-hundred-dollar-bill-on-a-black-background-oCKWot5jzIw?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Federal Reserve Building - eagle and pediment",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg/1280px-Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg/500px-Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg",
+   "shows": "us dollar",
+   "url": "https://images.unsplash.com/photo-1665844763064-1d36cfc25d9f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1665844763064-1d36cfc25d9f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1280,
-    1920
+    2256,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Tim Evanson, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Federal_Reserve_Building_-_eagle_and_pediment_-_2012-09-13.jpg"
+   "credit": "Photo by Niconor Brown on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nick876?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/text-snQJLSb3FN4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Front entrance of the Marriner S. Eccles building, built in 1937",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/EA_091807_EC_1268_%2826114164095%29.jpg/1280px-EA_091807_EC_1268_%2826114164095%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/EA_091807_EC_1268_%2826114164095%29.jpg/500px-EA_091807_EC_1268_%2826114164095%29.jpg",
+   "shows": "A picture of a one hundred dollar bill",
+   "url": "https://images.unsplash.com/photo-1671469903526-e1b23254fe41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1671469903526-e1b23254fe41?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGh1bmRyZWQlMjBkb2xsYXIlMjBiaWxsc3xlbnwxfHx8fDE3OTM5MzQ3ODF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1280,
-    1920
+    2251,
+    1501
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Federalreserve, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:EA_091807_EC_1268_(26114164095).jpg"
+   "credit": "Photo by Jonathan Borba on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@jonathanborba?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-picture-of-a-one-hundred-dollar-bill-pPMDbGZe3jo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "100 us dollar bill",
+   "url": "https://images.unsplash.com/photo-1583916011819-e4b81836bb57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1583916011819-e4b81836bb57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Frederick Warren on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@carnations?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/100-us-dollar-bill-lOg_fQLHo7s?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A pattern of us one hundred dollar bills",
+   "url": "https://images.unsplash.com/photo-1768107030187-2bc5f71d59ad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1768107030187-2bc5f71d59ad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBkb2xsYXJ8ZW58MXx8fHwxNzk0NTYxMDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    2133
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Logan Voss on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@loganvoss?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-pattern-of-us-one-hundred-dollar-bills-cnQxICZabFQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "20 us dollar bill",
+   "url": "https://images.unsplash.com/photo-1584271538735-2d9a76c56e7f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1584271538735-2d9a76c56e7f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Avinash Kumar on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@ashishjha?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/20-us-dollar-bill-NwRkpGiW5do?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Calculator, magnifying glass, glasses, and money on white surface",
+   "url": "https://images.unsplash.com/photo-1768839722382-d483ad9b079a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNhbGN1bGF0b3IlMjBhbmQlMjBtb25leXxlbnwxfHx8fDE3OTQ2MjkxNTZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1768839722382-d483ad9b079a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNhbGN1bGF0b3IlMjBhbmQlMjBtb25leXxlbnwxfHx8fDE3OTQ2MjkxNTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sasun Bughdaryan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sasun1990?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/calculator-magnifying-glass-glasses-and-money-on-white-surface-MswXuFp9DzY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "1 us dollar bill",
+   "url": "https://images.unsplash.com/photo-1588696126816-bb7b0a9be563?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1588696126816-bb7b0a9be563?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by omer shahzad on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@omer123?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/1-us-dollar-bill-cjlgQrhk7DI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "1 us dollar bill",
+   "url": "https://images.unsplash.com/photo-1600007283713-001f25558cb0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1600007283713-001f25558cb0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Emilio Takas on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@emiliotakas?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/1-us-dollar-bill-W-fR1UVzGAU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "20 us dollar bill",
+   "url": "https://images.unsplash.com/photo-1591616014190-5cc2ea1e8a49?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1591616014190-5cc2ea1e8a49?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHVzJTIwZG9sbGFyfGVufDF8fHx8MTc5NDU2MTA5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1807
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dan Dennis on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cameramandan83?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/20-us-dollar-bill-u9VFEhrmXSo?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

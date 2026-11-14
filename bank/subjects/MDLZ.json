@@ -7,7 +7,6 @@
  ],
  "sector": "sector-staples",
  "target": 10,
- "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "A cadbury dairy milk roast almond chocolate bar",
@@ -173,6 +172,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/39160147@N03/13963736844",
+   "plain": true
+  },
+  {
+   "shows": "Oreo Cookies Watermelon · oreo, oreocookies, oreocookieswatermelon, watermelon, business",
+   "url": "https://live.staticflickr.com/7209/13885066429_5cabe3a4fb_b.jpg",
+   "preview": "https://live.staticflickr.com/7209/13885066429_5cabe3a4fb_z.jpg",
+   "size": [
+    1024,
+    426
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/13885066429",
    "plain": true
   }
  ]

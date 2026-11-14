@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "TurboTax headquarters",
@@ -156,6 +155,46 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/39160147@N03/16434661251",
+   "plain": true
+  },
+  {
+   "shows": "Turbo Tax Turbotax Intuit, 2/2015 by Mike Mozart of TheToyChannel and JeepersMedia on YouTube #TurboTax #Intuit #Turbo #Tax",
+   "url": "https://live.staticflickr.com/8639/16435485392_fb4f9080bc_b.jpg",
+   "preview": "https://live.staticflickr.com/8639/16435485392_fb4f9080bc_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/16435485392",
+   "plain": true
+  },
+  {
+   "shows": "QuickBooks for eBay - 4",
+   "url": "https://live.staticflickr.com/7111/6875329536_f7ea8854d7_b.jpg",
+   "preview": "https://live.staticflickr.com/7111/6875329536_f7ea8854d7_z.jpg",
+   "size": [
+    1024,
+    928
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by yugenro on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/22651740@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/22651740@N00/6875329536",
    "plain": true
   }
  ]

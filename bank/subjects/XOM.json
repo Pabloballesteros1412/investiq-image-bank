@@ -7,7 +7,6 @@
  ],
  "sector": "sector-energy",
  "target": 30,
- "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "An ExxonMobil gas station in Hiawassee, Georgia",
@@ -530,6 +529,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/88575173@N00/3485817394",
+   "plain": true
+  },
+  {
+   "shows": "View from the 27th-floor observation deck of the Louisiana State Capitol in Baton Rouge, one of America's best-known state capitol buildings",
+   "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/67600/67654v.jpg",
+   "preview": "https://tile.loc.gov/storage-services/service/pnp/highsm/67600/67654r.jpg",
+   "size": [
+    1024,
+    363
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "low_res": true,
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2021755875/",
    "plain": true
   }
  ]

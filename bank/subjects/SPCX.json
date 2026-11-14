@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 30,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "A vertical panorama of Starship SN16 spacecraft taken on 5 September 2021 at SpaceX's Starbase spaceport, which at the time was intended to fly after Starship S",
@@ -294,6 +293,60 @@
    "plain": true
   },
   {
+   "shows": "An aerial photo of SpaceX’s launch pad at NASA’s Kennedy Space Center, with the clear blue Atlantic Ocean in the background. The tall rocket support structure stands in the center.",
+   "url": "https://pd.w.org/2025/12/930693d1d03d8a5c6.08841247.jpg",
+   "preview": "https://pd.w.org/2025/12/930693d1d03d8a5c6.08841247-768x512.jpg",
+   "size": [
+    3936,
+    2624
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nattanon Dungsunenarn on WordPress.org Photos, CC0",
+   "licence": "CC0 1.0",
+   "author_url": "https://wordpress.org/photos/author/nutn0n/",
+   "provider": "wordpress",
+   "source": "https://wordpress.org/photos/photo/930693d1d0/"
+  },
+  {
+   "shows": "A SpaceX Falcon Heavy rocket launches NOAA’s GOES-U satellite from NASA’s Kennedy Space Center. The weather is clear, and the rocket produces massive plumes.",
+   "url": "https://pd.w.org/2025/12/78693d19eea54dc8.09350160.jpeg",
+   "preview": "https://pd.w.org/2025/12/78693d19eea54dc8.09350160-768x512.jpeg",
+   "size": [
+    6000,
+    4000
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nattanon Dungsunenarn on WordPress.org Photos, CC0",
+   "licence": "CC0 1.0",
+   "author_url": "https://wordpress.org/photos/author/nutn0n/",
+   "provider": "wordpress",
+   "source": "https://wordpress.org/photos/photo/78693d19ee/"
+  },
+  {
+   "shows": "A 70-meter-tall SpaceX Falcon 9 rocket with a rounded Dragon spacecraft on top awaits the launch of the Axiom Mission 4 crew. The sky is clear and sunny.",
+   "url": "https://pd.w.org/2025/12/505693d1b78ea9222.70279985.jpg",
+   "preview": "https://pd.w.org/2025/12/505693d1b78ea9222.70279985-768x512.jpg",
+   "size": [
+    6000,
+    4000
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nattanon Dungsunenarn on WordPress.org Photos, CC0",
+   "licence": "CC0 1.0",
+   "author_url": "https://wordpress.org/photos/author/nutn0n/",
+   "provider": "wordpress",
+   "source": "https://wordpress.org/photos/photo/505693d1b7/"
+  },
+  {
    "shows": "Starlink Flat Panel Dish on Roof of Truck",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Starlink_Flat_Panel_Dish_on_Roof_of_Truck_%2853371298608%29.jpg/1920px-Starlink_Flat_Panel_Dish_on_Roof_of_Truck_%2853371298608%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Starlink_Flat_Panel_Dish_on_Roof_of_Truck_%2853371298608%29.jpg/500px-Starlink_Flat_Panel_Dish_on_Roof_of_Truck_%2853371298608%29.jpg",
@@ -493,46 +546,6 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/146566166@N06/52514125112",
-   "plain": true
-  },
-  {
-   "shows": "Falcon 9 booster B1019 and SpaceX HQ",
-   "url": "https://live.staticflickr.com/4309/35943121656_e7286c05f7_b.jpg",
-   "preview": "https://live.staticflickr.com/4309/35943121656_e7286c05f7_z.jpg",
-   "size": [
-    1024,
-    768
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Juan Kulichevsky on Flickr, CC BY-SA 2.0",
-   "licence": "CC BY-SA 2.0",
-   "author_url": "https://www.flickr.com/photos/10644906@N04",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/10644906@N04/35943121656",
-   "plain": true
-  },
-  {
-   "shows": "Falcon 9 booster B1019 · falcon9, falcon9booster, falcon9boosterb1019, falcon9firststage, spacex",
-   "url": "https://live.staticflickr.com/4310/35943121736_8587b482b8_b.jpg",
-   "preview": "https://live.staticflickr.com/4310/35943121736_8587b482b8_z.jpg",
-   "size": [
-    768,
-    1024
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Juan Kulichevsky on Flickr, CC BY-SA 2.0",
-   "licence": "CC BY-SA 2.0",
-   "author_url": "https://www.flickr.com/photos/10644906@N04",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/10644906@N04/35943121736",
    "plain": true
   }
  ]

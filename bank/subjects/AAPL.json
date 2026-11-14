@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 30,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Aerial view of Apple Park dllu",
@@ -239,6 +238,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/14876067@N00/4731413576",
    "plain": true
+  },
+  {
+   "shows": "Apple Store, 5th Avenue, New York, New York",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04302/full/1828,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04302/full/500,/0/default.jpg",
+   "size": [
+    1828,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2010630295/"
   },
   {
    "shows": "Stevens Creek Boulevard",

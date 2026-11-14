@@ -186,6 +186,24 @@
    "plain": true
   },
   {
+   "shows": "Goldman Sachs Tower in Jersey City, New Jersey",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45464/full/2231,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45464/full/500,/0/default.jpg",
+   "size": [
+    2231,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2017882213/"
+  },
+  {
    "shows": "200 West Street (24258p)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/200_West_Street_%2824258p%29.jpg/1280px-200_West_Street_%2824258p%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/200_West_Street_%2824258p%29.jpg/500px-200_West_Street_%2824258p%29.jpg",
@@ -527,26 +545,6 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/19257752@N00/3141757430",
-   "plain": true
-  },
-  {
-   "shows": "Goldman Sachs & Freedom Tower",
-   "url": "https://live.staticflickr.com/7193/6992837213_a36172b530_b.jpg",
-   "preview": "https://live.staticflickr.com/7193/6992837213_a36172b530_z.jpg",
-   "size": [
-    768,
-    1024
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by edenpictures on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/10485077@N06",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/10485077@N06/6992837213",
    "plain": true
   }
  ]

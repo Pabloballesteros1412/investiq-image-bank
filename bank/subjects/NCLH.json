@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Norwegian Cruise Line (NCL) Terminal B at PortMiami (March 11, 2024) 01",
@@ -175,6 +174,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/88883738@N02/50234585112",
+   "plain": true
+  },
+  {
+   "shows": "Norwegian Cruise Line's Norwegian Breakaway departs Manhattan and heads south down the Hudson River.",
+   "url": "https://live.staticflickr.com/5577/30917567310_b0f3180d01_b.jpg",
+   "preview": "https://live.staticflickr.com/5577/30917567310_b0f3180d01_z.jpg",
+   "size": [
+    1024,
+    702
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by apardavila on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/63704136@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/63704136@N00/30917567310",
    "plain": true
   }
  ]
