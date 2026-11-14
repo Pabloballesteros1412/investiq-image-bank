@@ -171108,26 +171108,28 @@
   "photos": [
    {
     "shot": "treasury",
-    "shows": "United States Treasury building 2023",
-    "file": "File:United States Treasury building 2023.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:United_States_Treasury_building_2023.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/1920px-United_States_Treasury_building_2023.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/United_States_Treasury_building_2023.jpg/500px-United_States_Treasury_building_2023.jpg",
+    "shows": "[Northeast Pavilion, The Pavilion of the Seals. Mural of Seal of the Treasury Department. Library of Congress Thomas Jefferson Building, Washington, D.C.]",
+    "file": "loc:2011646867",
+    "page": "https://www.loc.gov/item/2011646867/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:11600:11634/full/1763,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:11600:11634/full/500,/0/default.jpg",
     "size": [
-     1920,
-     1440
+     1763,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Wisneyykarin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Wisneyykarin",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2009,
+    "how": "catalog",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
     "shot": "capitol",
@@ -171179,56 +171181,27 @@
     "how": "catalog"
    },
    {
-    "shot": "government-bonds",
-    "shows": "MinFin Ukraine - government bonds ua",
-    "file": "File:MinFin Ukraine - government bonds ua.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MinFin_Ukraine_-_government_bonds_ua.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MinFin_Ukraine_-_government_bonds_ua.jpg/1920px-MinFin_Ukraine_-_government_bonds_ua.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/MinFin_Ukraine_-_government_bonds_ua.jpg/500px-MinFin_Ukraine_-_government_bonds_ua.jpg",
-    "size": [
-     1920,
-     1079
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ministry of Finance of Ukraine, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Ministry of Finance of Ukraine",
-    "year": 2022,
-    "how": "catalog",
-    "flags": [
-     "restrictions: insignia"
-    ]
-   },
-   {
     "shot": "national-debt",
-    "shows": "Bar chart showing the 2025 national debts of all G20 and EU countries as percentage of their respective gross development products.",
-    "file": "File:G20 EU debt 2025.png",
-    "page": "https://commons.wikimedia.org/wiki/File:G20_EU_debt_2025.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/G20_EU_debt_2025.png/1920px-G20_EU_debt_2025.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/G20_EU_debt_2025.png/500px-G20_EU_debt_2025.png",
+    "shows": "Canadian government debt securities liabilities, 1961 to 2022",
+    "file": "File:Canadian government debt securities liabilities, 1961 to 2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Canadian_government_debt_securities_liabilities,_1961_to_2022.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Canadian_government_debt_securities_liabilities%2C_1961_to_2022.jpg/1920px-Canadian_government_debt_securities_liabilities%2C_1961_to_2022.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Canadian_government_debt_securities_liabilities%2C_1961_to_2022.jpg/500px-Canadian_government_debt_securities_liabilities%2C_1961_to_2022.jpg",
     "size": [
      1920,
-     1133
+     1483
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "ChatGPT, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "ChatGPT",
-    "year": 2026,
-    "how": "catalog",
-    "flags": [
-     "restrictions: ai"
-    ]
+    "credit": "Lukebayy, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Lukebayy",
+    "year": 2023,
+    "how": "catalog"
    },
    {
     "shot": "bessent",
@@ -171282,26 +171255,29 @@
    },
    {
     "shot": "us-congress",
-    "shows": "This is the United States congress building",
-    "file": "File:This is the United States congress building.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:This_is_the_United_States_congress_building.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/This_is_the_United_States_congress_building.jpg/1280px-This_is_the_United_States_congress_building.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/This_is_the_United_States_congress_building.jpg/500px-This_is_the_United_States_congress_building.jpg",
+    "shows": "Doris Matsui - United States House Committee on Rules - 4-22-20",
+    "file": "File:Doris Matsui - United States House Committee on Rules - 4-22-20.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Doris_Matsui_-_United_States_House_Committee_on_Rules_-_4-22-20.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Doris_Matsui_-_United_States_House_Committee_on_Rules_-_4-22-20.jpg/1920px-Doris_Matsui_-_United_States_House_Committee_on_Rules_-_4-22-20.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Doris_Matsui_-_United_States_House_Committee_on_Rules_-_4-22-20.jpg/500px-Doris_Matsui_-_United_States_House_Committee_on_Rules_-_4-22-20.jpg",
     "size": [
-     1280,
-     1705
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Aviation poseidon, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Aviation poseidon",
-    "year": 2024,
-    "how": "catalog"
+    "credit": "Doris Matsui, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Doris Matsui",
+    "year": 2020,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
    },
    {
     "shot": "capitol-building",
@@ -171331,132 +171307,34 @@
    },
    {
     "shot": "money",
-    "shows": "LeFlore County Money Volunteer Fire Department",
-    "file": "File:LeFloreCountyMoneyVolFire.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:LeFloreCountyMoneyVolFire.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/LeFloreCountyMoneyVolFire.JPG/1920px-LeFloreCountyMoneyVolFire.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/LeFloreCountyMoneyVolFire.JPG/500px-LeFloreCountyMoneyVolFire.JPG",
+    "shows": "Gender Equality Index 2017 Money Overview",
+    "file": "File:Gender Equality Index 2017 Money Overview.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gender_Equality_Index_2017_Money_Overview.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gender_Equality_Index_2017_Money_Overview.jpg/1920px-Gender_Equality_Index_2017_Money_Overview.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Gender_Equality_Index_2017_Money_Overview.jpg/500px-Gender_Equality_Index_2017_Money_Overview.jpg",
     "size": [
      1920,
-     1440
+     1281
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "WhisperToMe, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "WhisperToMe",
-    "year": null,
+    "credit": "European Institute for Gender Equality, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "European Institute for Gender Equality",
+    "year": 2017,
     "how": "catalog"
    },
    {
     "shot": "us-capitol",
-    "shows": "The United States Capitol building in Washington DC during the golden hour",
-    "file": "unsplash:6kA9FjqUxhM",
-    "page": "https://unsplash.com/photos/united-states-capitol-in-washington-dc-6kA9FjqUxhM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1594581979864-36977b15d0dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dXMlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDUyODM4MHww&ixlib=rb-4.1.0&w=1697&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1594581979864-36977b15d0dc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dXMlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDUyODM4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1697,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Andy Feliciotti on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Andy Feliciotti",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@someguy?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/6kA9FjqUxhM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dXMlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDUyODM4MHww"
-   },
-   {
-    "shot": "government",
-    "shows": "Tanjay City Government Center",
-    "file": "File:Tanjay City Government Center.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tanjay_City_Government_Center.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tanjay_City_Government_Center.jpg/1920px-Tanjay_City_Government_Center.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tanjay_City_Government_Center.jpg/500px-Tanjay_City_Government_Center.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "🍁🅁🄲 🅁🄰🄼🅉🌼, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "🍁🅁🄲 🅁🄰🄼🅉🌼",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "interest-rates",
-    "shows": "Tasso d'interesse sui bond a 10 anni di Italia-Francia-Germania (2008-2014) - Interest rate on Italy-France-Germany 10Y bonds (2008 - 2014)",
-    "file": "File:Tasso d'interesse sui bond a 10 anni di Italia-Francia-Germania (2008-2014) - Interest rate on Italy-France-Germany 10Y bonds (2008 - 2014).png",
-    "page": "https://commons.wikimedia.org/wiki/File:Tasso_d%27interesse_sui_bond_a_10_anni_di_Italia-Francia-Germania_(2008-2014)_-_Interest_rate_on_Italy-France-Germany_10Y_bonds_(2008_-_2014).png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tasso_d%27interesse_sui_bond_a_10_anni_di_Italia-Francia-Germania_%282008-2014%29_-_Interest_rate_on_Italy-France-Germany_10Y_bonds_%282008_-_2014%29.png/1920px-Tasso_d%27interesse_sui_bond_a_10_anni_di_Italia-Francia-Germania_%282008-2014%29_-_Interest_rate_on_Italy-France-Germany_10Y_bonds_%282008_-_2014%29.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Tasso_d%27interesse_sui_bond_a_10_anni_di_Italia-Francia-Germania_%282008-2014%29_-_Interest_rate_on_Italy-France-Germany_10Y_bonds_%282008_-_2014%29.png/500px-Tasso_d%27interesse_sui_bond_a_10_anni_di_Italia-Francia-Germania_%282008-2014%29_-_Interest_rate_on_Italy-France-Germany_10Y_bonds_%282008_-_2014%29.png",
-    "size": [
-     1920,
-     1285
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "LucaLindholm, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "LucaLindholm",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-government",
-    "shows": "AUS-3b-Commonwealth of Australia-10 Shillings",
-    "file": "File:AUS-3b-Commonwealth of Australia-10 Shillings (1918).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:AUS-3b-Commonwealth_of_Australia-10_Shillings_(1918).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AUS-3b-Commonwealth_of_Australia-10_Shillings_%281918%29.jpg/1920px-AUS-3b-Commonwealth_of_Australia-10_Shillings_%281918%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AUS-3b-Commonwealth_of_Australia-10_Shillings_%281918%29.jpg/500px-AUS-3b-Commonwealth_of_Australia-10_Shillings_%281918%29.jpg",
-    "size": [
-     1920,
-     1731
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "National Museum of American History, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "National Museum of American History",
-    "year": 2015,
-    "how": "catalog",
-    "flags": [
-     "restrictions: currency"
-    ]
-   },
-   {
-    "shot": "congress",
-    "shows": "congress",
-    "file": "unsplash:Q--730ajUcQ",
-    "page": "https://unsplash.com/photos/us-flag-Q--730ajUcQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1567965054272-f4e0619f4145?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvbmdyZXNzfGVufDF8fHx8MTc5NDUyODM4N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1567965054272-f4e0619f4145?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvbmdyZXNzfGVufDF8fHx8MTc5NDUyODM4N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "White concrete building under blue sky during daytime",
+    "file": "unsplash:SfUETerkRKE",
+    "page": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-SfUETerkRKE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1598134115217-a2fd543030f0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDUyODM4MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1598134115217-a2fd543030f0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDUyODM4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -171465,117 +171343,158 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Joseph Chan on Unsplash",
+    "credit": "Photo by Syed F Hashemi on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Joseph Chan",
-    "year": 2019,
+    "author": "Syed F Hashemi",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@yulokchan?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Q--730ajUcQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNvbmdyZXNzfGVufDF8fHx8MTc5NDUyODM4N3ww"
+    "author_url": "https://unsplash.com/@sfhashemi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SfUETerkRKE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDUyODM4MHww",
+    "track_pending": true
    },
    {
-    "shot": "washington",
-    "shows": "People biking on road and different vehicles viewing United States Capitol during daytime screenshot",
-    "file": "unsplash:isg8AL7-6uk",
-    "page": "https://unsplash.com/photos/people-biking-on-road-and-different-vehicles-viewing-united-states-capitol-during-daytime-screenshot-isg8AL7-6uk?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1569328922596-4c04460c91a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8d2FzaGluZ3RvbnxlbnwxfHx8fDE3OTQ1MjgzODh8MA&ixlib=rb-4.1.0&w=2328&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1569328922596-4c04460c91a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8d2FzaGluZ3RvbnxlbnwxfHx8fDE3OTQ1MjgzODh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2328,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Andy Feliciotti on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Andy Feliciotti",
-    "year": 2019,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@someguy?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/isg8AL7-6uk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8d2FzaGluZ3RvbnxlbnwxfHx8fDE3OTQ1MjgzODh8MA"
-   },
-   {
-    "shot": "bonds",
-    "shows": "Bonds Store Carousel, 2026",
-    "file": "File:Bonds Store Carousel, 2026 (01).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bonds_Store_Carousel,_2026_(01).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bonds_Store_Carousel%2C_2026_%2801%29.jpg/1920px-Bonds_Store_Carousel%2C_2026_%2801%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bonds_Store_Carousel%2C_2026_%2801%29.jpg/500px-Bonds_Store_Carousel%2C_2026_%2801%29.jpg",
+    "shot": "government",
+    "shows": "Senegal's government expenditure on education as % of GDP",
+    "file": "File:Senegal's government expenditure on education as % of GDP.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Senegal%27s_government_expenditure_on_education_as_%25_of_GDP.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Senegal%27s_government_expenditure_on_education_as_%25_of_GDP.png/1920px-Senegal%27s_government_expenditure_on_education_as_%25_of_GDP.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Senegal%27s_government_expenditure_on_education_as_%25_of_GDP.png/500px-Senegal%27s_government_expenditure_on_education_as_%25_of_GDP.png",
     "size": [
      1920,
-     1062
+     1314
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bahnfrend",
+    "credit": "Lauren111333, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Lauren111333",
     "year": 2026,
     "how": "catalog"
    },
    {
-    "shot": "debt",
-    "shows": "A note that says pay debt next to a pen and glasses",
-    "file": "unsplash:M8z2SwSwpbg",
-    "page": "https://unsplash.com/photos/a-note-that-says-pay-debt-next-to-a-pen-and-glasses-M8z2SwSwpbg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1634128222187-18eababc763d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGVidHxlbnwxfHx8fDE3OTQ1MjgzOTF8MA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1634128222187-18eababc763d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGVidHxlbnwxfHx8fDE3OTQ1MjgzOTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2249,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Towfiqu barbhuiya on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Towfiqu barbhuiya",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@towfiqu999999?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/M8z2SwSwpbg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGVidHxlbnwxfHx8fDE3OTQ1MjgzOTF8MA"
-   },
-   {
-    "shot": "us-flag-capitol",
-    "shows": "California State Capitol (top), NW view up",
-    "file": "File:California State Capitol (top), NW view up.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:California_State_Capitol_(top),_NW_view_up.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/California_State_Capitol_%28top%29%2C_NW_view_up.jpg/1920px-California_State_Capitol_%28top%29%2C_NW_view_up.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/California_State_Capitol_%28top%29%2C_NW_view_up.jpg/500px-California_State_Capitol_%28top%29%2C_NW_view_up.jpg",
+    "shot": "federal-government",
+    "shows": "Unmarked Jeep Grand Cherokee with U.S. Federal Government License Plate",
+    "file": "File:Unmarked Jeep Grand Cherokee with U.S. Federal Government License Plate.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Unmarked_Jeep_Grand_Cherokee_with_U.S._Federal_Government_License_Plate.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Unmarked_Jeep_Grand_Cherokee_with_U.S._Federal_Government_License_Plate.jpg/1920px-Unmarked_Jeep_Grand_Cherokee_with_U.S._Federal_Government_License_Plate.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Unmarked_Jeep_Grand_Cherokee_with_U.S._Federal_Government_License_Plate.jpg/500px-Unmarked_Jeep_Grand_Cherokee_with_U.S._Federal_Government_License_Plate.jpg",
     "size": [
      1920,
-     1200
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photograph: Radomianin, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Photograph: Radomianin",
+    "credit": "Battlesnake1, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Battlesnake1",
     "year": 2024,
     "how": "catalog"
    },
    {
-    "shot": "capitol",
+    "shot": "congress",
+    "shows": "Congress Community Church, Congress, Ohio",
+    "file": "File:Congress Community Church, Congress, Ohio.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Congress_Community_Church,_Congress,_Ohio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Congress_Community_Church%2C_Congress%2C_Ohio.jpg/1920px-Congress_Community_Church%2C_Congress%2C_Ohio.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Congress_Community_Church%2C_Congress%2C_Ohio.jpg/500px-Congress_Community_Church%2C_Congress%2C_Ohio.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Roseohioresident, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Roseohioresident",
+    "year": 2016,
+    "how": "catalog"
+   },
+   {
+    "shot": "washington",
+    "shows": "Rainier Aerial West Close Washington Mar23 R16",
+    "file": "File:Rainier Aerial West Close Washington Mar23 R16 07149.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rainier_Aerial_West_Close_Washington_Mar23_R16_07149.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rainier_Aerial_West_Close_Washington_Mar23_R16_07149.jpg/1920px-Rainier_Aerial_West_Close_Washington_Mar23_R16_07149.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rainier_Aerial_West_Close_Washington_Mar23_R16_07149.jpg/500px-Rainier_Aerial_West_Close_Washington_Mar23_R16_07149.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract ., CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "This Photo was taken by Timothy A. Gonsalves . Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page , for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved. Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract .",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "bonds",
+    "shows": "Bonds Lane - geograph.org.uk",
+    "file": "File:Bonds Lane - geograph.org.uk - 7212264.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bonds_Lane_-_geograph.org.uk_-_7212264.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bonds_Lane_-_geograph.org.uk_-_7212264.jpg/1920px-Bonds_Lane_-_geograph.org.uk_-_7212264.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Bonds_Lane_-_geograph.org.uk_-_7212264.jpg/500px-Bonds_Lane_-_geograph.org.uk_-_7212264.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Steve Daniels, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Steve Daniels",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "debt",
+    "shows": "1979 $10,000 Treasury Bond",
+    "file": "File:1979 $10,000 Treasury Bond .jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:1979_$10,000_Treasury_Bond_.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1979_%2410%2C000_Treasury_Bond_.jpg/1920px-1979_%2410%2C000_Treasury_Bond_.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/1979_%2410%2C000_Treasury_Bond_.jpg/500px-1979_%2410%2C000_Treasury_Bond_.jpg",
+    "size": [
+     1920,
+     1615
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "JHerbstman, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "JHerbstman",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "us-flag-capitol",
     "shows": "US Capitol dome Jan 2006",
     "file": "File:US Capitol dome Jan 2006.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_dome_Jan_2006.jpg",
@@ -171598,38 +171517,12 @@
     "how": "catalog"
    },
    {
-    "shot": "washington-dc",
-    "shows": "White and brown concrete building",
-    "file": "unsplash:C6zoz9Rw2bk",
-    "page": "https://unsplash.com/photos/white-and-brown-concrete-building-C6zoz9Rw2bk?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1591553161262-0eeddc1f5c23?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1591553161262-0eeddc1f5c23?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2400,
-     1350
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Vlad Tchompalov on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Vlad Tchompalov",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@tchompalov?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/C6zoz9Rw2bk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA"
-   },
-   {
-    "shot": "capitol-building",
-    "shows": "White concrete building under blue sky during daytime",
-    "file": "unsplash:SfUETerkRKE",
-    "page": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-SfUETerkRKE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1598134115217-a2fd543030f0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y2FwaXRvbCUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5MzkzODQxNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1598134115217-a2fd543030f0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y2FwaXRvbCUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5MzkzODQxNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "capitol",
+    "shows": "High-rise buildings",
+    "file": "unsplash:EmSWJzRYxG0",
+    "page": "https://unsplash.com/photos/high-rise-buildings-EmSWJzRYxG0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1574365379583-54937ea00cb8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1574365379583-54937ea00cb8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -171638,274 +171531,17 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Syed F Hashemi on Unsplash",
+    "credit": "Photo by Andy Feliciotti on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Syed F Hashemi",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@sfhashemi?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/SfUETerkRKE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y2FwaXRvbCUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5MzkzODQxNnww",
-    "track_pending": true
-   },
-   {
-    "shot": "us-capitol",
-    "shows": "US Capitol east side",
-    "file": "File:US Capitol east side.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/1920px-US_Capitol_east_side.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/500px-US_Capitol_east_side.JPG",
-    "size": [
-     1920,
-     1019
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Martin Falbisoner, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Martin Falbisoner",
-    "year": 2013,
-    "how": "catalog"
-   },
-   {
-    "shot": "government",
-    "shows": "Government Headquarters in Skopje by night 02",
-    "file": "File:Government Headquarters in Skopje by night 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Government_Headquarters_in_Skopje_by_night_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Government_Headquarters_in_Skopje_by_night_02.jpg/1920px-Government_Headquarters_in_Skopje_by_night_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Government_Headquarters_in_Skopje_by_night_02.jpg/500px-Government_Headquarters_in_Skopje_by_night_02.jpg",
-    "size": [
-     1920,
-     1133
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pudelek, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Pudelek",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-government",
-    "shows": "AUS-4d-Commonwealth of Australia-One Pound",
-    "file": "File:AUS-4d-Commonwealth of Australia-One Pound (1918).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:AUS-4d-Commonwealth_of_Australia-One_Pound_(1918).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/AUS-4d-Commonwealth_of_Australia-One_Pound_%281918%29.jpg/1920px-AUS-4d-Commonwealth_of_Australia-One_Pound_%281918%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/AUS-4d-Commonwealth_of_Australia-One_Pound_%281918%29.jpg/500px-AUS-4d-Commonwealth_of_Australia-One_Pound_%281918%29.jpg",
-    "size": [
-     1920,
-     1956
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "National Museum of American History, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "National Museum of American History",
-    "year": 2015,
-    "how": "catalog",
-    "flags": [
-     "restrictions: currency"
-    ]
-   },
-   {
-    "shot": "congress",
-    "shows": "President Donald Trump",
-    "file": "unsplash:jPN_oglAjOU",
-    "page": "https://unsplash.com/photos/president-donald-trump-jPN_oglAjOU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1580128660010-fd027e1e587a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNvbmdyZXNzfGVufDF8fHx8MTc5NDUyODM4N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1580128660010-fd027e1e587a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNvbmdyZXNzfGVufDF8fHx8MTc5NDUyODM4N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Library of Congress on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Library of Congress",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@libraryofcongress?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/jPN_oglAjOU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNvbmdyZXNzfGVufDF8fHx8MTc5NDUyODM4N3ww",
-    "track_pending": true
-   },
-   {
-    "shot": "washington",
-    "shows": "USA flag hanging in building",
-    "file": "unsplash:TI49JPnDPMs",
-    "page": "https://unsplash.com/photos/usa-flag-hanging-in-building-TI49JPnDPMs?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1562164038-91cfe1d7cbce?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1562164038-91cfe1d7cbce?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2251,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Caleb Fisher on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Caleb Fisher",
+    "author": "Andy Feliciotti",
     "year": 2019,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@calebjamesfisher?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/TI49JPnDPMs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA",
+    "author_url": "https://unsplash.com/@someguy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EmSWJzRYxG0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA",
     "track_pending": true
-   },
-   {
-    "shot": "bonds",
-    "shows": "White and black dog",
-    "file": "unsplash:Y6GZ97S-mcY",
-    "page": "https://unsplash.com/photos/white-and-black-dog-Y6GZ97S-mcY?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1576511934945-2859ac59d8bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1576511934945-2859ac59d8bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2256,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Jorge Salvador on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Jorge Salvador",
-    "year": 2019,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jsshotz?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Y6GZ97S-mcY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww",
-    "track_pending": true
-   },
-   {
-    "shot": "debt",
-    "shows": "Until debt tear us apart printed red brick wall at daytime",
-    "file": "unsplash:Olki5QpHxts",
-    "page": "https://unsplash.com/photos/until-debt-tear-us-apart-printed-red-brick-wall-at-daytime-Olki5QpHxts?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1494797710133-75ad43b1cd95?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZGVidHxlbnwxfHx8fDE3OTQ1MjgzOTF8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1494797710133-75ad43b1cd95?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZGVidHxlbnwxfHx8fDE3OTQ1MjgzOTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2248,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Alice Pasqual on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Alice Pasqual",
-    "year": 2017,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@stri_khedonia?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Olki5QpHxts/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZGVidHxlbnwxfHx8fDE3OTQ1MjgzOTF8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "us-flag-capitol",
-    "shows": "An american flag flying in front of the u s capitol building",
-    "file": "unsplash:hkqP1YCtMgI",
-    "page": "https://unsplash.com/photos/an-american-flag-flying-in-front-of-the-u-s-capitol-building-hkqP1YCtMgI?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1694788847255-f4618ba1bd35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1694788847255-f4618ba1bd35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Pieter Pienaar on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Pieter Pienaar",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@appieter?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/hkqP1YCtMgI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "capitol",
-    "shows": "White dome building under blue sky during daytime",
-    "file": "unsplash:CDsAkr_mBeg",
-    "page": "https://unsplash.com/photos/white-dome-building-under-blue-sky-during-daytime-CDsAkr_mBeg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1597335586198-e31434d3a856?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1597335586198-e31434d3a856?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2400,
-     1242
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Florian Pintar on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Florian Pintar",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@minimouche?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/CDsAkr_mBeg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "washington-dc",
-    "shows": "Washington Dulles International Airport at Dusk",
-    "file": "File:Washington Dulles International Airport at Dusk.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Washington_Dulles_International_Airport_at_Dusk.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Washington_Dulles_International_Airport_at_Dusk.jpg/1920px-Washington_Dulles_International_Airport_at_Dusk.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Washington_Dulles_International_Airport_at_Dusk.jpg/500px-Washington_Dulles_International_Airport_at_Dusk.jpg",
-    "size": [
-     1920,
-     1140
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Joe Ravi ( Shutterstock iStock Dreamstime ), CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Joe Ravi ( Shutterstock iStock Dreamstime )",
-    "year": 2011,
-    "how": "catalog"
    },
    {
     "shot": "capitol-building",
@@ -171936,329 +171572,25 @@
    },
    {
     "shot": "us-capitol",
-    "shows": "A large building with steps leading up to it",
-    "file": "unsplash:LseXGRuWthI",
-    "page": "https://unsplash.com/photos/a-large-building-with-steps-leading-up-to-it-LseXGRuWthI?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1688417486338-0244ba15c45f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1688417486338-0244ba15c45f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "US Capitol east side",
+    "file": "File:US Capitol east side.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/1920px-US_Capitol_east_side.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/US_Capitol_east_side.JPG/500px-US_Capitol_east_side.JPG",
     "size": [
-     1200,
-     1800
+     1920,
+     1019
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Tim Mossholder on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Tim Mossholder",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/LseXGRuWthI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "government",
-    "shows": "Provisional Government of BD",
-    "file": "File:Provisional Government of BD (2).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Provisional_Government_of_BD_(2).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Provisional_Government_of_BD_%282%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Provisional_Government_of_BD_%282%29.jpg/500px-Provisional_Government_of_BD_%282%29.jpg",
-    "size": [
-     1868,
-     1178
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ROCKY, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "Martin Falbisoner, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "ROCKY",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-government",
-    "shows": "Partial view of the Federal District, Brazil seen from space in 2001",
-    "file": "File:Partial view of the Federal District, Brazil seen from space in 2001 (3).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Partial_view_of_the_Federal_District,_Brazil_seen_from_space_in_2001_(3).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Partial_view_of_the_Federal_District%2C_Brazil_seen_from_space_in_2001_%283%29.jpg/1920px-Partial_view_of_the_Federal_District%2C_Brazil_seen_from_space_in_2001_%283%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Partial_view_of_the_Federal_District%2C_Brazil_seen_from_space_in_2001_%283%29.jpg/500px-Partial_view_of_the_Federal_District%2C_Brazil_seen_from_space_in_2001_%283%29.jpg",
-    "size": [
-     1920,
-     1816
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA Earth Observatory image created by Jesse Allen, using EO-1 ALI data provided courtesy of the NASA EO-1 team and the United States Geological Survey., public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA Earth Observatory image created by Jesse Allen, using EO-1 ALI data provided courtesy of the NASA EO-1 team and the United States Geological Survey.",
-    "year": 2001,
-    "how": "catalog"
-   },
-   {
-    "shot": "congress",
-    "shows": "Library Congress October 2016-1",
-    "file": "File:Library Congress October 2016-1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Library_Congress_October_2016-1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Library_Congress_October_2016-1.jpg/1920px-Library_Congress_October_2016-1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Library_Congress_October_2016-1.jpg/500px-Library_Congress_October_2016-1.jpg",
-    "size": [
-     1920,
-     1291
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Alvesgaspar",
-    "year": 2016,
-    "how": "catalog"
-   },
-   {
-    "shot": "washington",
-    "shows": "Washington Monument",
-    "file": "unsplash:tZUq9YPKEuo",
-    "page": "https://unsplash.com/photos/washington-monument-tZUq9YPKEuo?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1565571370459-5c78ebb358de?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1565571370459-5c78ebb358de?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Bob Bowie on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Bob Bowie",
-    "year": 2019,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@connave?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/tZUq9YPKEuo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "bonds",
-    "shows": "Abraham lincoln portrait with \"buy war bonds\" text",
-    "file": "unsplash:qXGlEn8SGSY",
-    "page": "https://unsplash.com/photos/abraham-lincoln-portrait-with-buy-war-bonds-text-qXGlEn8SGSY?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1734547458538-ca2af39f3328?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww&ixlib=rb-4.1.0&w=1208&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1734547458538-ca2af39f3328?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1208,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by The New York Public Library on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "The New York Public Library",
-    "year": 2024,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@nypl?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/qXGlEn8SGSY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww",
-    "track_pending": true
-   },
-   {
-    "shot": "debt",
-    "shows": "Until debt tear us apart brick wall vandal",
-    "file": "unsplash:Ql3ULtlplsQ",
-    "page": "https://unsplash.com/photos/until-debt-tear-us-apart-brick-wall-vandal-Ql3ULtlplsQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1528659882437-b89a74bc157f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGRlYnR8ZW58MXx8fHwxNzk0NTI4MzkxfDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1528659882437-b89a74bc157f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGRlYnR8ZW58MXx8fHwxNzk0NTI4MzkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2248,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Ehud Neuhaus on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Ehud Neuhaus",
-    "year": 2018,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@paramir?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Ql3ULtlplsQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGRlYnR8ZW58MXx8fHwxNzk0NTI4MzkxfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "us-flag-capitol",
-    "shows": "People carrying american flags near the capitol building",
-    "file": "unsplash:WLfRweGtCOM",
-    "page": "https://unsplash.com/photos/people-carrying-american-flags-near-the-capitol-building-WLfRweGtCOM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1757548710292-e969ae2cb1e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1757548710292-e969ae2cb1e9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1600
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Sebastian Schuster on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Sebastian Schuster",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@sschusterphotoart?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/WLfRweGtCOM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "capitol",
-    "shows": "2021 storming of the United States Capitol (retouched)",
-    "file": "File:2021 storming of the United States Capitol DSC09254-2 (50820534063) (retouched).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2021_storming_of_the_United_States_Capitol_DSC09254-2_(50820534063)_(retouched).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg/1920px-2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg/500px-2021_storming_of_the_United_States_Capitol_DSC09254-2_%2850820534063%29_%28retouched%29.jpg",
-    "size": [
-     1920,
-     1178
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tyler Merbler from USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tyler Merbler from USA",
-    "year": 2021,
-    "how": "catalog"
-   },
-   {
-    "shot": "washington-dc",
-    "shows": "City skyline under blue sky during daytime",
-    "file": "unsplash:JbrFSXjST7Q",
-    "page": "https://unsplash.com/photos/city-skyline-under-blue-sky-during-daytime-JbrFSXjST7Q?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1623473775552-61222e3c22ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA&ixlib=rb-4.1.0&w=2257&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1623473775552-61222e3c22ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2257,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Andra C Taylor Jr on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Andra C Taylor Jr",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@taylormadeglobal?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/JbrFSXjST7Q/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHdhc2hpbmd0b24lMjBkY3xlbnwxfHx8fDE3OTM5MzQ3Nzl8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "capitol-building",
-    "shows": "Louisiana State Capitol Building",
-    "file": "File:Louisiana State Capitol Building.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Louisiana_State_Capitol_Building.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Louisiana_State_Capitol_Building.jpg/1920px-Louisiana_State_Capitol_Building.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Louisiana_State_Capitol_Building.jpg/500px-Louisiana_State_Capitol_Building.jpg",
-    "size": [
-     1920,
-     2076
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Chrismiceli, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Chrismiceli",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "us-capitol",
-    "shows": "The capitol building in washington d c is shown",
-    "file": "unsplash:luOHcHUkirA",
-    "page": "https://unsplash.com/photos/the-capitol-building-in-washington-d-c-is-shown-luOHcHUkirA?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1688417486337-b089fa4ee670?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1688417486337-b089fa4ee670?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Tim Mossholder on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Tim Mossholder",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/luOHcHUkirA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "federal-government",
-    "shows": "Moscow - 6-2026 - Prosecutor General’s Office of the Russian Federation (panorama)",
-    "file": "File:Moscow - 6-2026 - Prosecutor General’s Office of the Russian Federation (panorama).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Moscow_-_6-2026_-_Prosecutor_General%E2%80%99s_Office_of_the_Russian_Federation_(panorama).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Moscow_-_6-2026_-_Prosecutor_General%E2%80%99s_Office_of_the_Russian_Federation_%28panorama%29.jpg/1920px-Moscow_-_6-2026_-_Prosecutor_General%E2%80%99s_Office_of_the_Russian_Federation_%28panorama%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Moscow_-_6-2026_-_Prosecutor_General%E2%80%99s_Office_of_the_Russian_Federation_%28panorama%29.jpg/500px-Moscow_-_6-2026_-_Prosecutor_General%E2%80%99s_Office_of_the_Russian_Federation_%28panorama%29.jpg",
-    "size": [
-     1920,
-     1207
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Юрий Д.К., CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Юрий Д.К.",
-    "year": 2026,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Martin Falbisoner",
+    "year": 2013,
     "how": "catalog"
    },
    {
@@ -172290,14 +171622,295 @@
    },
    {
     "shot": "washington",
-    "shows": "Vista de Seattle, Washington, Estados Unidos, , DD 07-08 HDR",
-    "file": "File:Vista de Seattle, Washington, Estados Unidos, 2017-09-02, DD 07-08 HDR.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Vista_de_Seattle,_Washington,_Estados_Unidos,_2017-09-02,_DD_07-08_HDR.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vista_de_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_07-08_HDR.jpg/1920px-Vista_de_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_07-08_HDR.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vista_de_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_07-08_HDR.jpg/500px-Vista_de_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_07-08_HDR.jpg",
+    "shows": "Mount Washington Cog Railway October 2021 015 edit",
+    "file": "File:Mount Washington Cog Railway October 2021 015 edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mount_Washington_Cog_Railway_October_2021_015_edit.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mount_Washington_Cog_Railway_October_2021_015_edit.jpg/1920px-Mount_Washington_Cog_Railway_October_2021_015_edit.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Mount_Washington_Cog_Railway_October_2021_015_edit.jpg/500px-Mount_Washington_Cog_Railway_October_2021_015_edit.jpg",
     "size": [
      1920,
-     1037
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "King of Hearts, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "King of Hearts",
+    "year": 2021,
+    "how": "catalog"
+   },
+   {
+    "shot": "bonds",
+    "shows": "Buy more liberty bonds, must children die",
+    "file": "unsplash:yllnYjzLMgU",
+    "page": "https://unsplash.com/photos/buy-more-liberty-bonds-must-children-die-yllnYjzLMgU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1734547459585-744ad4bc0e2e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1734547459585-744ad4bc0e2e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1628
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by The New York Public Library on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "The New York Public Library",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nypl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yllnYjzLMgU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww",
+    "track_pending": true
+   },
+   {
+    "shot": "us-flag-capitol",
+    "shows": "U.s. capitol building dome with american flag and fountain",
+    "file": "unsplash:efz0OVusML8",
+    "page": "https://unsplash.com/photos/us-capitol-building-dome-with-american-flag-and-fountain-efz0OVusML8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1780884452296-6248c097eb5d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1780884452296-6248c097eb5d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sebastian Schuster on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sebastian Schuster",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sschusterphotoart?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/efz0OVusML8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8dXMlMjBmbGFnJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzOTJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol",
+    "shows": "White dome building under blue sky during daytime",
+    "file": "unsplash:CDsAkr_mBeg",
+    "page": "https://unsplash.com/photos/white-dome-building-under-blue-sky-during-daytime-CDsAkr_mBeg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1597335586198-e31434d3a856?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1597335586198-e31434d3a856?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1242
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Florian Pintar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Florian Pintar",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@minimouche?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CDsAkr_mBeg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8VW5pdGVkJTIwU3RhdGVzJTIwQ2FwaXRvbHxlbnwxfHx8fDE3OTM5MDU3MDV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol-building",
+    "shows": "Beige concrete building",
+    "file": "unsplash:3U-0SEoE0v0",
+    "page": "https://unsplash.com/photos/beige-concrete-building-3U-0SEoE0v0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1573181759662-1c146525b21f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1573181759662-1c146525b21f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Karson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Karson",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@karson_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/3U-0SEoE0v0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "us-capitol",
+    "shows": "A large building with steps leading up to it",
+    "file": "unsplash:LseXGRuWthI",
+    "page": "https://unsplash.com/photos/a-large-building-with-steps-leading-up-to-it-LseXGRuWthI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1688417486338-0244ba15c45f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1688417486338-0244ba15c45f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tim Mossholder on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tim Mossholder",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/LseXGRuWthI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHVzJTIwY2FwaXRvbHxlbnwxfHx8fDE3OTQ1MjgzODB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "washington",
+    "shows": "Rock face, Ruby Beach, Olympic National Park, Washington State, 1992",
+    "file": "File:Rock face, Ruby Beach, Olympic National Park, Washington State, 1992.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Rock_face,_Ruby_Beach,_Olympic_National_Park,_Washington_State,_1992.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rock_face%2C_Ruby_Beach%2C_Olympic_National_Park%2C_Washington_State%2C_1992.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Rock_face%2C_Ruby_Beach%2C_Olympic_National_Park%2C_Washington_State%2C_1992.JPG/500px-Rock_face%2C_Ruby_Beach%2C_Olympic_National_Park%2C_Washington_State%2C_1992.JPG",
+    "size": [
+     1890,
+     1216
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Michael Gäbler, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Michael Gäbler",
+    "year": 1992,
+    "how": "catalog"
+   },
+   {
+    "shot": "us-flag-capitol",
+    "shows": "Black and white u.s. capitol dome with american flag",
+    "file": "unsplash:qJQLA0cuVyA",
+    "page": "https://unsplash.com/photos/black-and-white-us-capitol-dome-with-american-flag-qJQLA0cuVyA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1780794742441-f1f2a792ae94?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHVzJTIwZmxhZyUyMGNhcGl0b2x8ZW58MXx8fHwxNzk0NTI4MzkyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1780794742441-f1f2a792ae94?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHVzJTIwZmxhZyUyMGNhcGl0b2x8ZW58MXx8fHwxNzk0NTI4MzkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sebastian Schuster on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sebastian Schuster",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sschusterphotoart?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qJQLA0cuVyA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHVzJTIwZmxhZyUyMGNhcGl0b2x8ZW58MXx8fHwxNzk0NTI4MzkyfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol",
+    "shows": "A large white building with a dome and a green lawn in front with United States Capitol in the background",
+    "file": "unsplash:BWuhzaWAgAM",
+    "page": "https://unsplash.com/photos/a-large-white-building-with-a-dome-and-a-green-lawn-in-front-with-united-states-capitol-in-the-background-BWuhzaWAgAM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1659832431879-3b14bf6e1568?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1659832431879-3b14bf6e1568?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Lukas Souza on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Lukas Souza",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lukassouza?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/BWuhzaWAgAM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol-building",
+    "shows": "California State Capitol during blue hour-3982",
+    "file": "File:California State Capitol during blue hour-3982.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:California_State_Capitol_during_blue_hour-3982.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/California_State_Capitol_during_blue_hour-3982.jpg/1280px-California_State_Capitol_during_blue_hour-3982.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/California_State_Capitol_during_blue_hour-3982.jpg/500px-California_State_Capitol_during_blue_hour-3982.jpg",
+    "size": [
+     1280,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Frank Schulenburg",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "us-capitol",
+    "shows": "Capitol Building Full View",
+    "file": "File:Capitol Building Full View.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_View.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/1920px-Capitol_Building_Full_View.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Capitol_Building_Full_View.jpg/500px-Capitol_Building_Full_View.jpg",
+    "size": [
+     1920,
+     823
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Noclip, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Noclip",
+    "year": 2007,
+    "how": "catalog"
+   },
+   {
+    "shot": "washington",
+    "shows": "Seattle Great Wheel, Seattle, Washington, Estados Unidos, , DD 16",
+    "file": "File:Seattle Great Wheel, Seattle, Washington, Estados Unidos, 2017-09-02, DD 16.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seattle_Great_Wheel,_Seattle,_Washington,_Estados_Unidos,_2017-09-02,_DD_16.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Seattle_Great_Wheel%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_16.jpg/1280px-Seattle_Great_Wheel%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_16.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Seattle_Great_Wheel%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_16.jpg/500px-Seattle_Great_Wheel%2C_Seattle%2C_Washington%2C_Estados_Unidos%2C_2017-09-02%2C_DD_16.jpg",
+    "size": [
+     1280,
+     1618
     ],
     "focus": [
      0.5,
@@ -172312,61 +171925,300 @@
     "how": "catalog"
    },
    {
-    "shot": "bonds",
-    "shows": "A poster of a little girl holding a bottle of liberty loan",
-    "file": "unsplash:7TW_7IbHA_o",
-    "page": "https://unsplash.com/photos/a-poster-of-a-little-girl-holding-a-bottle-of-liberty-loan-7TW_7IbHA_o?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1709888246853-15465e7723ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1709888246853-15465e7723ae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "us-flag-capitol",
+    "shows": "American flag flying above the u.s. capitol building",
+    "file": "unsplash:gTHU9gTiE4w",
+    "page": "https://unsplash.com/photos/american-flag-flying-above-the-us-capitol-building-gTHU9gTiE4w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1780794742033-c9241794dc26?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHVzJTIwZmxhZyUyMGNhcGl0b2x8ZW58MXx8fHwxNzk0NTI4MzkyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1780794742033-c9241794dc26?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHVzJTIwZmxhZyUyMGNhcGl0b2x8ZW58MXx8fHwxNzk0NTI4MzkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
-     1810
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Boston Public Library on Unsplash",
+    "credit": "Photo by Sebastian Schuster on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Boston Public Library",
-    "year": 2024,
+    "author": "Sebastian Schuster",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@bostonpubliclibrary?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/7TW_7IbHA_o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGJvbmRzfGVufDF8fHx8MTc5NDUyODM4OXww",
+    "author_url": "https://unsplash.com/@sschusterphotoart?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gTHU9gTiE4w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHVzJTIwZmxhZyUyMGNhcGl0b2x8ZW58MXx8fHwxNzk0NTI4MzkyfDA",
     "track_pending": true
    },
    {
-    "shot": "debt",
-    "shows": "A silver credit card sitting on top of a table",
-    "file": "unsplash:YXl2LXviw_Y",
-    "page": "https://unsplash.com/photos/a-silver-credit-card-sitting-on-top-of-a-table-YXl2LXviw_Y?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1687720657052-c026be7f388c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGRlYnR8ZW58MXx8fHwxNzk0NTI4MzkxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1687720657052-c026be7f388c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGRlYnR8ZW58MXx8fHwxNzk0NTI4MzkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "capitol",
+    "shows": "The united states capitol building reflecting in the water",
+    "file": "unsplash:f0wnOeL6PYM",
+    "page": "https://unsplash.com/photos/the-united-states-capitol-building-reflecting-in-the-water-f0wnOeL6PYM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1719947690573-4552fbdc154f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1719947690573-4552fbdc154f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
-     1812
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by JERO SenneGs on Unsplash",
+    "credit": "Photo by Tomasz Zielonka on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "JERO SenneGs",
+    "author": "Tomasz Zielonka",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tzielonka?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/f0wnOeL6PYM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol-building",
+    "shows": "The dome of the u s capitol building",
+    "file": "unsplash:EqrebgG-nHg",
+    "page": "https://unsplash.com/photos/the-dome-of-the-u-s-capitol-building-EqrebgG-nHg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1718243531271-3a7ce8ff15fe?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1718243531271-3a7ce8ff15fe?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Juliana Uribbe on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Juliana Uribbe",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@julianauribbe?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EqrebgG-nHg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "washington",
+    "shows": "Front View of George Washington Masonic National Memorial",
+    "file": "File:Front View of George Washington Masonic National Memorial.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Front_View_of_George_Washington_Masonic_National_Memorial.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Front_View_of_George_Washington_Masonic_National_Memorial.jpg/1280px-Front_View_of_George_Washington_Masonic_National_Memorial.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Front_View_of_George_Washington_Masonic_National_Memorial.jpg/500px-Front_View_of_George_Washington_Masonic_National_Memorial.jpg",
+    "size": [
+     1280,
+     1884
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Joe Ravi ( Shutterstock iStock Dreamstime ), CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Joe Ravi ( Shutterstock iStock Dreamstime )",
+    "year": 2011,
+    "how": "catalog"
+   },
+   {
+    "shot": "capitol",
+    "shows": "White concrete building at nighttime",
+    "file": "unsplash:8cvjI48SFtY",
+    "page": "https://unsplash.com/photos/white-concrete-building-at-nighttime-8cvjI48SFtY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1546375570-2ae6a397bbcd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA&ixlib=rb-4.1.0&w=1875&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1546375570-2ae6a397bbcd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1875,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andy Feliciotti on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andy Feliciotti",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@someguy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8cvjI48SFtY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2x8ZW58MXx8fHwxNzkzOTA1NzA1fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol-building",
+    "shows": "People walking on street near white concrete building during daytime",
+    "file": "unsplash:86mIDmUFeUs",
+    "page": "https://unsplash.com/photos/people-walking-on-street-near-white-concrete-building-during-daytime-86mIDmUFeUs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1608990784403-bbf9ef70014e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=2070&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1608990784403-bbf9ef70014e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2070,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by David Knox on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Knox",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nonamephotography?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/86mIDmUFeUs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "washington",
+    "shows": "Jefferson Memorial with cherry blossoms, Washington, D.C",
+    "file": "unsplash:yNANhWCZG9c",
+    "page": "https://unsplash.com/photos/jefferson-memorial-with-cherry-blossoms-washington-dc-yNANhWCZG9c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1585128993258-8067aec0d956?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA&ixlib=rb-4.1.0&w=1887&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1585128993258-8067aec0d956?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1887,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Library of Congress on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Library of Congress",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@libraryofcongress?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yNANhWCZG9c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fHdhc2hpbmd0b258ZW58MXx8fHwxNzk0NTI4Mzg4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol-building",
+    "shows": "The dome of the u s capitol building under a cloudy sky",
+    "file": "unsplash:SVtBYkvai1M",
+    "page": "https://unsplash.com/photos/the-dome-of-the-u-s-capitol-building-under-a-cloudy-sky-SVtBYkvai1M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1636648522439-a4a00de2561f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1636648522439-a4a00de2561f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by J. Amill Santiago on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "J. Amill Santiago",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@thetaikun?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/SVtBYkvai1M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "washington",
+    "shows": "Mount Ellinor, Mount Washington Panorama",
+    "file": "File:Mount Ellinor, Mount Washington Panorama.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mount_Ellinor%2C_Mount_Washington_Panorama.jpg/1920px-Mount_Ellinor%2C_Mount_Washington_Panorama.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mount_Ellinor%2C_Mount_Washington_Panorama.jpg/500px-Mount_Ellinor%2C_Mount_Washington_Panorama.jpg",
+    "size": [
+     1920,
+     382
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Gregg M. Erickson ( talk · contribs ), CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Gregg M. Erickson ( talk · contribs )",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "capitol-building",
+    "shows": "The capitol building in washington d c is shown",
+    "file": "unsplash:N8Hh23h0CHA",
+    "page": "https://unsplash.com/photos/the-capitol-building-in-washington-d-c-is-shown-N8Hh23h0CHA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1698067858748-b233d0234e8c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1698067858748-b233d0234e8c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Stephen Talas on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Stephen Talas",
     "year": 2023,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jerosennegs?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/YXl2LXviw_Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGRlYnR8ZW58MXx8fHwxNzk0NTI4MzkxfDA",
+    "author_url": "https://unsplash.com/@hunupnorth?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/N8Hh23h0CHA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol-building",
+    "shows": "A view of the capitol building from across the street",
+    "file": "unsplash:XDOaNeIny8A",
+    "page": "https://unsplash.com/photos/a-view-of-the-capitol-building-from-across-the-street-XDOaNeIny8A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1637034199786-5942ff56b480?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1637034199786-5942ff56b480?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Henry A on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Henry A",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@datboi_henry?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/XDOaNeIny8A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNhcGl0b2wlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM5Mzg0MTZ8MA",
     "track_pending": true
    }
   ],
-  "checked": "2026-11-13"
+  "missing": [
+   "government-bonds",
+   "interest-rates"
+  ],
+  "checked": "2026-11-14"
  },
  "housing": {
   "name": "Housing market & mortgages",
