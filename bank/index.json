@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-14",
- "photos": 5454,
+ "photos": 5543,
  "subjects": [
   {
    "id": "MMM",
@@ -8603,7 +8603,7 @@
     "quantum computing",
     "quantum computer"
    ],
-   "photos": 8,
+   "photos": 18,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/quantum.json"
   },
@@ -8618,7 +8618,7 @@
     "automation",
     "humanoid"
    ],
-   "photos": 26,
+   "photos": 41,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/robotics.json"
   },
@@ -8633,7 +8633,7 @@
     "hacking",
     "security"
    ],
-   "photos": 24,
+   "photos": 36,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/cybersecurity.json"
   },
@@ -8649,7 +8649,7 @@
     "nifty",
     "rupee"
    ],
-   "photos": 39,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/india.json"
   },
@@ -8665,7 +8665,7 @@
     "yen",
     "bank of japan"
    ],
-   "photos": 38,
+   "photos": 43,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/japan.json"
   },
@@ -8682,7 +8682,7 @@
     "mining",
     "commodities"
    ],
-   "photos": 22,
+   "photos": 43,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/metals.json"
   },
@@ -8698,7 +8698,7 @@
     "hotels",
     "cruises"
    ],
-   "photos": 41,
+   "photos": 45,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/travel.json"
   },
@@ -8714,7 +8714,7 @@
     "hermes",
     "watches"
    ],
-   "photos": 27,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/luxury.json"
   }

@@ -6,6 +6,24 @@
  "target": 50,
  "photos": [
   {
+   "shows": "The Santa Barbara Biltmore is a luxury hotel located in Montecito, California",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:22000:22068/full/2078,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:22000:22068/full/500,/0/default.jpg",
+   "size": [
+    2078,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2013632525/"
+  },
+  {
    "shows": "A black watch on a white surface",
    "url": "https://images.unsplash.com/photo-1662384197911-e82189f4dc60?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Um9sZXh8ZW58MXx8fHwxNzkzOTMwODk3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1662384197911-e82189f4dc60?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Um9sZXh8ZW58MXx8fHwxNzkzOTMwODk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -76,6 +94,23 @@
    "author_url": "https://unsplash.com/@baleibee?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/white-tissue-paper-in-white-box-omYSP6oYUs4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "HK Central Sotheby's at Chater House Auction preview female luxury handbags September 2025 N13P 04",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HK_Central_Sotheby%27s_at_Chater_House_Auction_preview_female_luxury_handbags_September_2025_N13P_04.jpg/1920px-HK_Central_Sotheby%27s_at_Chater_House_Auction_preview_female_luxury_handbags_September_2025_N13P_04.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HK_Central_Sotheby%27s_at_Chater_House_Auction_preview_female_luxury_handbags_September_2025_N13P_04.jpg/500px-HK_Central_Sotheby%27s_at_Chater_House_Auction_preview_female_luxury_handbags_September_2025_N13P_04.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MATOWU HAUDOSM, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_Central_Sotheby%27s_at_Chater_House_Auction_preview_female_luxury_handbags_September_2025_N13P_04.jpg"
   },
   {
    "shows": "A close up of a person wearing rings and a necklace",
@@ -168,6 +203,24 @@
    "source": "https://unsplash.com/photos/brown-leather-handbag-on-white-surface-tcVH_BwHtrc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Six faceted diamonds arranged in a row on a reflective black surface",
+   "url": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1348
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Edgar Soto on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@edgardo1987?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/diamonds-on-reflective-black-surface-gb0BZGae1Nk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Champagne pouring from a bottle into a group of flutes on a tray",
    "url": "https://images.unsplash.com/photo-1580657274234-7339717f4541?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hhbXBhZ25lfGVufDF8fHx8MTc5NDY0MzY1Nnww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1580657274234-7339717f4541?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hhbXBhZ25lfGVufDF8fHx8MTc5NDY0MzY1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -258,6 +311,42 @@
    "source": "https://unsplash.com/photos/a-display-of-jewelry-on-a-table-in-a-store-kre2WPLykLk?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "A white box with gold jewelry on it",
+   "url": "https://images.unsplash.com/photo-1682823544433-aae34df4e3da?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGpld2Vscnl8ZW58MXx8fHwxNzkzOTQ5MjA1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1682823544433-aae34df4e3da?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGpld2Vscnl8ZW58MXx8fHwxNzkzOTQ5MjA1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1799
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nataliia Hordiiuk on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@whynotnatali?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-white-box-with-gold-jewelry-on-it-MFmHV695pd4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Red and gold christmas tree",
+   "url": "https://images.unsplash.com/photo-1588266837444-103493beb4f4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1588266837444-103493beb4f4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bing HAO on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bingh?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/red-and-gold-christmas-tree-girF2PpeCgI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "Silver and white round analog watch",
    "url": "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8d2F0Y2h8ZW58MXx8fHwxNzk0NjQzNTkxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8d2F0Y2h8ZW58MXx8fHwxNzk0NjQzNTkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -292,6 +381,60 @@
    "author_url": "https://unsplash.com/@arnosenoner?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/red-leather-handbag-on-white-table-oCXVxwTFwqE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A blue and black diamond",
+   "url": "https://images.unsplash.com/photo-1664044020180-b75bfddf9776?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1664044020180-b75bfddf9776?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Viktor Mindt on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vikomio77?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-blue-and-black-diamond-4yWWIEKOBaU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A bottle of champagne sitting on top of ice",
+   "url": "https://images.unsplash.com/photo-1643618829236-a23857519fb6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNoYW1wYWduZXxlbnwxfHx8fDE3OTQ2NDM2NTZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1643618829236-a23857519fb6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNoYW1wYWduZXxlbnwxfHx8fDE3OTQ2NDM2NTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Katya Azimova on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@_katishna_?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bottle-of-champagne-sitting-on-top-of-ice-tEaajGCUyy8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Glass perfume bottle",
+   "url": "https://images.unsplash.com/photo-1543422655-ac1c6ca993ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1543422655-ac1c6ca993ed?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Siora Photography on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@siora18?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/glass-perfume-bottle-LkT5-JCePUY?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "White and black cruise ship",
@@ -330,22 +473,40 @@
    "source": "https://unsplash.com/photos/gold-and-silver-round-analog-watch--0ZHq2f8LAo?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Red and gold christmas tree",
-   "url": "https://images.unsplash.com/photo-1588266837444-103493beb4f4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1588266837444-103493beb4f4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "Modern jewelry store display cases with items",
+   "url": "https://images.unsplash.com/photo-1764512680324-048f158cab2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGpld2VscnklMjBzdG9yZXxlbnwxfHx8fDE3OTM5MzA5MDJ8MA&ixlib=rb-4.1.0&w=2150&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1764512680324-048f158cab2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGpld2VscnklMjBzdG9yZXxlbnwxfHx8fDE3OTM5MzA5MDJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1200,
-    1800
+    2150,
+    1501
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Bing HAO on Unsplash",
+   "credit": "Photo by Huy Phan on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@bingh?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@huyphan2602?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/red-and-gold-christmas-tree-girF2PpeCgI?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/modern-jewelry-store-display-cases-with-items-jPaZgriwcm4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The ceiling of a large building with lots of lights",
+   "url": "https://images.unsplash.com/photo-1732392255302-03361092e14d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1732392255302-03361092e14d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by The Now Time on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@thenowtime?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/the-ceiling-of-a-large-building-with-lots-of-lights-kjGJxXrUarY?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Round silver-colored chronograph watch with brown leather strap",
@@ -384,22 +545,58 @@
    "source": "https://unsplash.com/photos/black-leather-handbag-on-white-bed-CtOA9wbFAdQ?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Six faceted diamonds arranged in a row on a reflective black surface",
-   "url": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "White coated wire on white painted wall",
+   "url": "https://images.unsplash.com/photo-1631013636761-c533d81e96a4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1631013636761-c533d81e96a4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     2400,
-    1348
+    1354
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Edgar Soto on Unsplash",
+   "credit": "Photo by Tahlia Doyle on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@edgardo1987?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@tahliaclaire?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/diamonds-on-reflective-black-surface-gb0BZGae1Nk?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/white-coated-wire-on-white-painted-wall-R13RJX_V42A?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Four clear champagne flutes",
+   "url": "https://images.unsplash.com/photo-1546567075-d7113bee3c4a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGNoYW1wYWduZXxlbnwxfHx8fDE3OTQ2NDM2NTZ8MA&ixlib=rb-4.1.0&w=2059&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1546567075-d7113bee3c4a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGNoYW1wYWduZXxlbnwxfHx8fDE3OTQ2NDM2NTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2059,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Deleece Cook on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@deleece?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/four-clear-champagne-flutes-znXmpb53QJU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A bottle of perfume sitting on top of a table",
+   "url": "https://images.unsplash.com/photo-1723391962154-8a2b6299bc09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1723391962154-8a2b6299bc09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pavlo on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@pavlo_talpa?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bottle-of-perfume-sitting-on-top-of-a-table-x6uDzV1AHRI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "White and gold yacht scenery",
@@ -438,45 +635,27 @@
    "source": "https://unsplash.com/photos/person-wearing-silver-link-bracelet-round-analog-watch-wGeNkndPSn4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Modern jewelry store display cases with items",
-   "url": "https://images.unsplash.com/photo-1764512680324-048f158cab2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGpld2VscnklMjBzdG9yZXxlbnwxfHx8fDE3OTM5MzA5MDJ8MA&ixlib=rb-4.1.0&w=2150&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1764512680324-048f158cab2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGpld2VscnklMjBzdG9yZXxlbnwxfHx8fDE3OTM5MzA5MDJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2150,
-    1501
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Huy Phan on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@huyphan2602?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/modern-jewelry-store-display-cases-with-items-jPaZgriwcm4?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A white box with gold jewelry on it",
-   "url": "https://images.unsplash.com/photo-1682823544433-aae34df4e3da?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGpld2Vscnl8ZW58MXx8fHwxNzkzOTQ5MjA1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1682823544433-aae34df4e3da?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGpld2Vscnl8ZW58MXx8fHwxNzkzOTQ5MjA1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "The ceiling of a building with a glass dome",
+   "url": "https://images.unsplash.com/photo-1728455554036-3a6cdeea9138?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1728455554036-3a6cdeea9138?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     1200,
-    1799
+    1810
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Nataliia Hordiiuk on Unsplash",
+   "credit": "Photo by Kristina Bekher on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@whynotnatali?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@ninjagexly?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-white-box-with-gold-jewelry-on-it-MFmHV695pd4?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/the-ceiling-of-a-building-with-a-glass-dome-0EQUCl5v5-g?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "The ceiling of a large building with lots of lights",
-   "url": "https://images.unsplash.com/photo-1732392255302-03361092e14d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1732392255302-03361092e14d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "Round silver-colored Fossil chronograph watch at 9:22 with brown leather band",
+   "url": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2F0Y2h8ZW58MXx8fHwxNzk0NjQzNTkxfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8d2F0Y2h8ZW58MXx8fHwxNzk0NjQzNTkxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     2250,
     1500
@@ -485,11 +664,137 @@
     0.5,
     0.5
    ],
-   "credit": "Photo by The Now Time on Unsplash",
+   "credit": "Photo by Fabian Heimann on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@thenowtime?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@fabianheimann?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/the-ceiling-of-a-large-building-with-lots-of-lights-kjGJxXrUarY?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/round-silver-colored-fossil-chronograph-watch-at-922-with-brown-leather-band-4R_WEmhx8og?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Brown leather handbag on brown wooden table",
+   "url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aGFuZGJhZ3xlbnwxfHx8fDE3OTQ2NDM2MDN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8aGFuZGJhZ3xlbnwxfHx8fDE3OTQ2NDM2MDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1592
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Arno Senoner on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@arnosenoner?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/brown-leather-handbag-on-brown-wooden-table-ZT16YkAYueo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A diamond on a black background with a reflection",
+   "url": "https://images.unsplash.com/photo-1702149001693-67ca09997ecc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1702149001693-67ca09997ecc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZGlhbW9uZHxlbnwxfHx8fDE3OTQ2NDM2MzB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by A Chosen Soul on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@a_chosensoul?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-diamond-on-a-black-background-with-a-reflection-7HwNaKAFAsw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Wine glasses shallow focus",
+   "url": "https://images.unsplash.com/photo-1446822775955-c34f483b410b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNoYW1wYWduZXxlbnwxfHx8fDE3OTQ2NDM2NTZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1446822775955-c34f483b410b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNoYW1wYWduZXxlbnwxfHx8fDE3OTQ2NDM2NTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Anthony DELANOIX on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@anthonydelanoix?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/wine-glasses-shallow-focus-vmrCxMRdq58?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Clear glass perfume bottle on brown wooden table",
+   "url": "https://images.unsplash.com/photo-1593487568720-92097fb460fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1593487568720-92097fb460fb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHBlcmZ1bWV8ZW58MXx8fHwxNzk0NjQzNjg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by deanna alys on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@deannaalys?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/clear-glass-perfume-bottle-on-brown-wooden-table-xQwRvghauaU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White and blue yacht on sea under blue sky during daytime",
+   "url": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8eWFjaHR8ZW58MXx8fHwxNzk0NjQ3MjM4fDA&ixlib=rb-4.1.0&w=2183&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1605281317010-fe5ffe798166?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8eWFjaHR8ZW58MXx8fHwxNzk0NjQ3MjM4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2183,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Alina Kacharho on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alina_k0906?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-blue-yacht-on-sea-under-blue-sky-during-daytime-86wR5GZJZdQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Green and white UNKs coffee store signage",
+   "url": "https://images.unsplash.com/photo-1625328923319-74cafe485866?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Um9sZXh8ZW58MXx8fHwxNzkzOTMwODk3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1625328923319-74cafe485866?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Um9sZXh8ZW58MXx8fHwxNzkzOTMwODk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nathan Aguirre on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@thenathanaguirre?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/green-and-white-unks-coffee-store-signage-dlJkvGHjaCE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A view of the ceiling of a large building",
+   "url": "https://images.unsplash.com/photo-1684494520878-b3111a36a6dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1684494520878-b3111a36a6dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fEdhbGVyaWVzJTIwTGFmYXlldHRlfGVufDF8fHx8MTc5MzkzMDkwNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Soner Eker on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@sonereker?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-view-of-the-ceiling-of-a-large-building-JOfusLpOS98?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
