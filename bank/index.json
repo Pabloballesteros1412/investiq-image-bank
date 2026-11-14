@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-14",
- "photos": 5495,
+ "photos": 5513,
  "subjects": [
   {
    "id": "MMM",
@@ -8220,7 +8220,7 @@
     "correction",
     "panic"
    ],
-   "photos": 18,
+   "photos": 24,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crash.json"
   },
@@ -8236,7 +8236,7 @@
     "llm",
     "chatbot"
    ],
-   "photos": 16,
+   "photos": 17,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ai.json"
   },
@@ -8379,7 +8379,7 @@
     "deficit",
     "10-year"
    ],
-   "photos": 21,
+   "photos": 24,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bonds.json"
   },
@@ -8411,7 +8411,7 @@
     "guidance",
     "eps"
    ],
-   "photos": 11,
+   "photos": 15,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/earnings.json"
   },
@@ -8426,7 +8426,7 @@
     "initial public offering",
     "going public"
    ],
-   "photos": 13,
+   "photos": 17,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ipo.json"
   },
