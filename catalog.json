@@ -1212,7 +1212,15 @@
    "smartphone app",
    "tech office",
    "server",
-   "fiber optic cables"
+   "fiber optic cables",
+   "circuit board",
+   "semiconductor",
+   "motherboard",
+   "computer screen",
+   "network cables",
+   "tablet computer",
+   "electronics",
+   "programmer"
   ]},
   {"id": "sector-health", "kind": "sector", "name": "Health care sector", "gics": "Health Care", "aliases": ["health care"], "shots": [
    {"id": "hospital", "q": "hospital", "must": ["hospital", "medical center", "medical centre"], "exclude": ["File:Ellis Island hospital window mural (01897).jpg"], "scene": "hospital"},
@@ -1256,7 +1264,15 @@
    "trading",
    "wall street",
    "credit card",
-   "cash"
+   "cash",
+   "piggy bank",
+   "coins",
+   "stock chart",
+   "ATM",
+   "paper money",
+   "payment terminal",
+   "bank interior",
+   "savings"
   ]},
   {"id": "sector-consumer-discretionary", "kind": "sector", "name": "Consumer discretionary sector", "gics": "Consumer Discretionary", "aliases": ["consumer discretionary"], "shots": [
    "shopping mall",
@@ -1278,7 +1294,15 @@
    "online shopping",
    "furniture store",
    "toys",
-   "travel"
+   "travel",
+   "shopping bags",
+   "department store",
+   "hotel room",
+   "cinema",
+   "casino",
+   "clothing rack",
+   "electronics store",
+   "boutique"
   ]},
   {"id": "sector-communication", "kind": "sector", "name": "Communication services sector", "gics": "Communication Services", "aliases": ["communication services"], "shots": [
    {"id": "television-studio", "q": "television studio cameras", "alt": ["TV studio"], "must": ["studio"], "scene": "television studio"},
@@ -1426,7 +1450,15 @@
    "cement",
    "metal",
    "mine",
-   "industrial"
+   "industrial",
+   "quarry",
+   "steel beams",
+   "chemistry lab",
+   "timber",
+   "sawmill",
+   "steel coils",
+   "excavator",
+   "smelter"
   ]}
  ]
 }
