@@ -40,7 +40,8 @@ def commons_photos(m, stock=False):
 
 def preview(p):
     """The photo's 500 px preview as a PIL image (downloaded once into .cache/previews)."""
-    from PIL import Image
+    from PIL import Image, PngImagePlugin
+    PngImagePlugin.MAX_TEXT_CHUNK = 64 * 1024 * 1024  # some Commons PNGs carry huge metadata text chunks
     PREVIEWS.mkdir(parents=True, exist_ok=True)
     f = PREVIEWS / (hashlib.sha1(p["file"].encode()).hexdigest() + ".jpg")
     if not f.exists() or not f.stat().st_size:
