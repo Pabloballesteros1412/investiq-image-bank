@@ -550,6 +550,77 @@
    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/blurred-american-flag-with-stripes--XwXKQvVRSU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The stocks at Historic Cold Spring Village in Cape May, New Jersey",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:44900:44994/full/2250,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:44900:44994/full/500,/0/default.jpg",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2017881808/"
+  },
+  {
+   "shows": "Lower Manhattan from Jersey City November 2014 panorama 3",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg/1920px-Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg/500px-Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg",
+   "size": [
+    1920,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "King of Hearts, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg"
+  },
+  {
+   "shows": "Black high-rise building",
+   "url": "https://images.unsplash.com/photo-1567449303183-ae0d6ed1498e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHNreXNjcmFwZXJzfGVufDF8fHx8MTc5NDcwODg1OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1567449303183-ae0d6ed1498e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fHNreXNjcmFwZXJzfGVufDF8fHx8MTc5NDcwODg1OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Christian Wiediger on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@christianw?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-high-rise-building-ZiAwa7FV3OQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Low-angle photography of fireworks",
+   "url": "https://images.unsplash.com/photo-1549678012-1bff827fced8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGZpcmV3b3Jrc3xlbnwxfHx8fDE3OTQ3MDk4MDF8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1549678012-1bff827fced8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGZpcmV3b3Jrc3xlbnwxfHx8fDE3OTQ3MDk4MDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    2070
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lewis Zhao on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@lewis94?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/low-angle-photography-of-fireworks-jNZerYJNESg?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
