@@ -114,8 +114,8 @@
   },
   {
    "shows": "Gray and black laptop computer on surface",
-   "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bGFwdG9wfGVufDF8fHx8MTc5NDU2MTIwNXww&ixlib=rb-4.1.0&w=2119&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bGFwdG9wfGVufDF8fHx8MTc5NDU2MTIwNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNvbXB1dGVyfGVufDF8fHx8MTc5NDU0Njc1M3ww&ixlib=rb-4.1.0&w=2119&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGNvbXB1dGVyfGVufDF8fHx8MTc5NDU0Njc1M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     2119,
     1500
@@ -129,6 +129,24 @@
    "author_url": "https://unsplash.com/@alesnesetril?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person sitting front of laptop",
+   "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Christin Hume on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@christinhumephoto?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-sitting-front-of-laptop-mfB1B1s4sMc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Virginia Tech - data center",
@@ -201,6 +219,23 @@
    "source": "https://unsplash.com/photos/a-close-up-of-a-computer-chip-on-a-printed-circuit-board-tTurhPw9bwQ?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "RF SAW filter on Quartz",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/RF_SAW_filter_on_Quartz.jpg/1920px-RF_SAW_filter_on_Quartz.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/RF_SAW_filter_on_Quartz.jpg/500px-RF_SAW_filter_on_Quartz.jpg",
+   "size": [
+    1920,
+    1553
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MacroWorld21, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:RF_SAW_filter_on_Quartz.jpg"
+  },
+  {
    "shows": "2023 Płyta główna ASRock A320M-DVS",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2023_P%C5%82yta_g%C5%82%C3%B3wna_ASRock_A320M-DVS.jpg/1920px-2023_P%C5%82yta_g%C5%82%C3%B3wna_ASRock_A320M-DVS.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/2023_P%C5%82yta_g%C5%82%C3%B3wna_ASRock_A320M-DVS.jpg/500px-2023_P%C5%82yta_g%C5%82%C3%B3wna_ASRock_A320M-DVS.jpg",
@@ -234,6 +269,149 @@
    "author_url": "https://unsplash.com/@danielkorpai?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/flat-screen-computer-monitor-turned-on-beside-black-keyboard-8GDCzWrcE3M?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Network cables and switch",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Network_cables_and_switch.jpg/1920px-Network_cables_and_switch.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Network_cables_and_switch.jpg/500px-Network_cables_and_switch.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ProjectManhattan, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Network_cables_and_switch.jpg"
+  },
+  {
+   "shows": "A person is working on a piece of electronics",
+   "url": "https://images.unsplash.com/photo-1721332154191-ba5f1534266e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1721332154191-ba5f1534266e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Samsung Memory on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@samsungmemory?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-is-working-on-a-piece-of-electronics-fxKvHGDICcQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black flat screen computer monitor turned on near black computer keyboard",
+   "url": "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y29tcHV0ZXIlMjBzZXR1cHxlbnwxfHx8fDE3OTQ3MDE2MTd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1603481588273-2f908a9a7a1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y29tcHV0ZXIlMjBzZXR1cHxlbnwxfHx8fDE3OTQ3MDE2MTd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Jack B on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nervum?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-flat-screen-computer-monitor-turned-on-near-black-computer-keyboard-B10AxHKLvnQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black and orange computer keyboard",
+   "url": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8a2V5Ym9hcmR8ZW58MXx8fHwxNzk0NzAxNzcyfDA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8a2V5Ym9hcmR8ZW58MXx8fHwxNzk0NzAxNzcyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1500,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Stefen Tan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@stefentan?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-and-orange-computer-keyboard-KYw1eUx1J7Y?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Flat screen monitor",
+   "url": "https://images.unsplash.com/photo-1570485071395-29b575ea3b4e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bW9uaXRvcnxlbnwxfHx8fDE3OTQ3MDE3ODh8MA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1570485071395-29b575ea3b4e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bW9uaXRvcnxlbnwxfHx8fDE3OTQ3MDE3ODh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1500,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Rohit on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@romiem?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/flat-screen-monitor-KZnfwqi-B0U?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black flat screen computer monitor on brown wooden desk",
+   "url": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGVzayUyMHNldHVwfGVufDF8fHx8MTc5NDcwMTkyMnww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGVzayUyMHNldHVwfGVufDF8fHx8MTc5NDcwMTkyMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Linus Mimietz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@linusmimietz?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-flat-screen-computer-monitor-on-brown-wooden-desk-gvptKmonylk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of a smart watch on a table",
+   "url": "https://images.unsplash.com/photo-1632794716789-42d9995fb5b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNtYXJ0d2F0Y2h8ZW58MXx8fHwxNzk0NzAxOTM1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1632794716789-42d9995fb5b6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNtYXJ0d2F0Y2h8ZW58MXx8fHwxNzk0NzAxOTM1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Al Amin Mir on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@alaminip?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-smart-watch-on-a-table-jRM_bQIb_80?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White tablet computer on gray textile",
+   "url": "https://images.unsplash.com/photo-1625864667534-aa5208d45a87?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dGFibGV0fGVufDF8fHx8MTc5NDcwMTk2OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1625864667534-aa5208d45a87?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8dGFibGV0fGVufDF8fHx8MTc5NDcwMTk2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kelly Sikkema on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kellysikkema?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-tablet-computer-on-gray-textile-ipgtlzD86O4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A close up of a server in a server room",
@@ -326,22 +504,22 @@
    "source": "https://unsplash.com/photos/a-computer-with-a-blue-light-5WJhuXkqCkc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Person sitting front of laptop",
-   "url": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "Person using black laptop computer on brown wooden table",
+   "url": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    2250,
-    1500
+    2248,
+    1501
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Christin Hume on Unsplash",
+   "credit": "Photo by Dell on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@christinhumephoto?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@dell?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/person-sitting-front-of-laptop-mfB1B1s4sMc?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/person-using-black-laptop-computer-on-brown-wooden-table-8pb7Hq539Zw?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Woman in green shirt sitting in front of computer",
@@ -416,94 +594,58 @@
    "source": "https://unsplash.com/photos/black-flat-screen-computer-monitor-cYyqhdbJ9TI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "A person is working on a piece of electronics",
-   "url": "https://images.unsplash.com/photo-1721332154191-ba5f1534266e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1721332154191-ba5f1534266e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGVsZWN0cm9uaWNzfGVufDF8fHx8MTc5NDUxNzQ2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "A keyboard, mouse, controller, and other items on a table",
+   "url": "https://images.unsplash.com/photo-1678851836066-dc27614cc56b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGdhZGdldHN8ZW58MXx8fHwxNzk0NzAxNzA0fDA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1678851836066-dc27614cc56b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fGdhZGdldHN8ZW58MXx8fHwxNzk0NzAxNzA0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1200,
-    1600
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Samsung Memory on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@samsungmemory?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-person-is-working-on-a-piece-of-electronics-fxKvHGDICcQ?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Person using black laptop computer on brown wooden table",
-   "url": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2248,
-    1501
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Dell on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@dell?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/person-using-black-laptop-computer-on-brown-wooden-table-8pb7Hq539Zw?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Blue circuit board",
-   "url": "https://images.unsplash.com/photo-1557701197-2f99da0922dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1557701197-2f99da0922dd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1350
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Yogesh Phuyal on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@yogeshppl?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/blue-circuit-board-mjwGKmwkDDA?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Turned off laptop computer with near wall",
-   "url": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1779
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Dillon Shook on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@dillonjshook?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/turned-off-laptop-computer-with-near-wall-mY3_bvR74fI?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Blue and black circuit board",
-   "url": "https://images.unsplash.com/photo-1603732551681-2e91159b9dc2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1603732551681-2e91159b9dc2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
+    1500,
     1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Sahand Babali on Unsplash",
+   "credit": "Photo by Sayan Majhi on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@sahandbabali?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@minimalsayan?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/blue-and-black-circuit-board-owjrvbyXYyc?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/a-keyboard-mouse-controller-and-other-items-on-a-table-qeICalRUfMU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A home office workspace with a laptop, monitor, and keyboard on a wooden desk",
+   "url": "https://images.unsplash.com/photo-1575318634028-6a0cfcb60c59?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGVzayUyMHNldHVwfGVufDF8fHx8MTc5NDcwMTkyMnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1575318634028-6a0cfcb60c59?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGVzayUyMHNldHVwfGVufDF8fHx8MTc5NDcwMTkyMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1804
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Max Andrey on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@maxandrey?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/home-office-workspace-with-wooden-desk-TlRQin0iwjE?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Close-up view of a complex electronic circuit board",
+   "url": "https://images.unsplash.com/photo-1630163219451-13a7cff121d0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA&ixlib=rb-4.1.0&w=2322&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1630163219451-13a7cff121d0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNpcmN1aXQlMjBib2FyZHxlbnwxfHx8fDE3OTQ1MTc0NjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2322,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Utsav Srestha on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@utsavsrestha?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/close-up-view-of-a-complex-electronic-circuit-board-bAEtENrPjf4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Black flat screen computer monitor",
@@ -522,24 +664,6 @@
    "author_url": "https://unsplash.com/@jdoclot?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/black-flat-screen-computer-monitor--3_WpTWNMbI?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A laptop with a vibrant colorful screen glowing on a dark wooden desk",
-   "url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=2243&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fGxhcHRvcHxlbnwxfHx8fDE3OTQ1NjEyMDV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2243,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Joshua Woroniecki on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@joshuaworoniecki?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/laptop-with-colorful-glowing-screen-lzh3hPtJz9c?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

@@ -232,6 +232,17 @@ Decisions (Pablo, 4 Nov 2026):
 - **Merged into main (14 Nov, PR #5)**: 5,454 published photos (main had 2,337): companies 3,969 (183 of 583 at
   target, 120 with none, the 50 famous ones 25 on average), topics 1,034, sectors 451 (none at 50 yet: quantum 8,
   earnings 11, ipo 13, ai 16 ... most 25-45). 3,158 are `plain` (grade 2 or `low_res`).
+- **Third round of short searches** (14-15 Nov): the second refill was finished, then the 28 topics and sectors still
+  under 40 got new short searches in `catalog.json` and were rebuilt with `--redo` in 2-hour pieces (3-7 topics a
+  piece), every pick graded after each piece (stock by me; Commons by Sonnet subagents or by me). Unsplash ~35-40%
+  grade 3, Commons in topics ~3-10%. Search words that are also sports or games ("race" -> rally cars and podiums,
+  "bell", "barrel") bring word matches: write them with a money or market word next to them.
+  `review.py` fix: some Commons PNGs carry metadata chunks bigger than Pillow's limit (`MAX_TEXT_CHUNK` raised).
+  Then a third refill of all 48 from the cache (graded: stock 31 of 207 grade 3, Commons 14 of 421).
+- **Merged into main (15 Nov, PR #6)**: 5,750 published photos: companies 3,969, topics 1,308, sectors 473 (none at
+  50 yet, average 37; thinnest quantum 13, ai 21, nuclear 24, earnings 27, ipo 27). Each refill pass now adds only
+  ~70. Under way at the merge: 6-8 more short searches for the 12 thinnest topics (`catalog.json`, build in pieces);
+  fed, crash, ai and oil were built but not yet graded (their new picks are in the manifest, not in the index).
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
