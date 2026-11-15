@@ -605,6 +605,20 @@ class Targets(unittest.TestCase):
         ph, _ = B.shot_photos(s, src, set(), target=8)
         self.assertEqual(len(ph), 3)
 
+    def test_published_photos_are_kept_and_new_shots_only_fill_free_places(self):
+        src = Fake()
+        src.search = lambda q: [cand(f"File:{q} {w}.jpg", cats=["Quality images"]) for w in ("dawn", "noon", "dusk")]
+        s = {"id": "t", "kind": "topic", "shots": [B.norm_shot("gold bars"), B.norm_shot("gold coins"),
+                                                    B.norm_shot("gold mine")]}
+        old = [B.photo(cand(f"File:gold bars {w}.jpg"), "gold-bars", "x", "catalog", (0.5, 0.5)) for w in ("noon", "dusk")]
+        used = {p["file"] for p in old}
+        ph, _ = B.shot_photos(s, src, used, target=4, keep=old)
+        self.assertEqual(ph[:2], old)                                                    # kept first, as they are
+        self.assertEqual([p["shot"] for p in ph[2:]], ["gold-coins", "gold-mine"])      # shots without a photo first
+        self.assertEqual(len(ph), 4)
+        ph, _ = B.shot_photos(s, src, set(), target=3, prefer={"File:gold mine dusk.jpg"})
+        self.assertIn("File:gold mine dusk.jpg", [p["file"] for p in ph])               # an approved photo first
+
 
 class PlainReserve(unittest.TestCase):
     def test_plain_photos_fill_a_companys_free_places_and_are_marked(self):
