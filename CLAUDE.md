@@ -243,6 +243,17 @@ Decisions (Pablo, 4 Nov 2026):
   50 yet, average 37; thinnest quantum 13, ai 21, nuclear 24, earnings 27, ipo 27). Each refill pass now adds only
   ~70. Under way at the merge: 6-8 more short searches for the 12 thinnest topics (`catalog.json`, build in pieces);
   fed, crash, ai and oil were built but not yet graded (their new picks are in the manifest, not in the index).
+- **Topics keep what they have** (15 Nov): new short searches added almost nothing (5,750 -> 5,753; fed even fell
+  31 -> 27), because `shot_photos` shares the target over the shots in rounds, so a new shot's ungraded first pick
+  pushed a grade-3 photo of an older shot out of a later round. Fixed: a topic or sector rebuild now keeps its
+  published photos (`keep`, the build's `kept()`), already-approved candidates go first within a shot (`prefer`),
+  and only the free places are filled (test `test_published_photos_are_kept_and_new_shots_only_fill_free_places`).
+  Then a fourth refill of all 48 (two 2-hour pieces) graded by eye (stock by me, Commons by Sonnet subagents with a
+  check of every grade 3: Commons 8 of 386 grade 3, stock 45 of 161). Word matches fixed in `catalog.json`: chips
+  "ram" -> "ram module" (rams), cybersecurity "binary" -> "encryption key" ("nonbinary" blocks, protest signs).
+- **Merged into main (15 Nov, PR #7)**: 5,830 published photos: companies 3,969, topics 1,372 (average 37), sectors
+  489 (average 44.5; industrials at 50). Thinnest: quantum 15, ai 21, earnings 26, nuclear 27, fed 28, crash 31.
+  About 300 Unsplash download counts pending (sent at the start and end of every build, 50 an hour).
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
