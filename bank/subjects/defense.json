@@ -179,6 +179,24 @@
    "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-cloudy-blue-sky-rSHK8P8M-40?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Soldiers Memorial Military Museum, St. Louis, Missouri",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04500:04570/full/2229,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04500:04570/full/500,/0/default.jpg",
+   "size": [
+    2229,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2010630554/"
+  },
+  {
    "shows": "A large military ship in the middle of a body of water",
    "url": "https://images.unsplash.com/photo-1685178362030-9b574eb9ae7c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmF2eSUyMHNoaXB8ZW58MXx8fHwxNzk0NTM1Nzk3fDA&ixlib=rb-4.1.0&w=2326&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1685178362030-9b574eb9ae7c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmF2eSUyMHNoaXB8ZW58MXx8fHwxNzk0NTM1Nzk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -799,6 +817,42 @@
    "author_url": "https://unsplash.com/@matteotiso?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-blue-sky-brTRyBw-xEQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A fighter jet sitting on top of an airport tarmac",
+   "url": "https://images.unsplash.com/photo-1695700440328-088bc97b2db7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZpZ2h0ZXIlMjBqZXR8ZW58MXx8fHwxNzk0NTM1Nzk0fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1695700440328-088bc97b2db7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGZpZ2h0ZXIlMjBqZXR8ZW58MXx8fHwxNzk0NTM1Nzk0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Albert Stoynov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@albertstoynov?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-fighter-jet-sitting-on-top-of-an-airport-tarmac-PlnSc3b3dVI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A large ship in the water",
+   "url": "https://images.unsplash.com/photo-1669393116173-8de16a88a452?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fG5hdnklMjBzaGlwfGVufDF8fHx8MTc5NDUzNTc5N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1669393116173-8de16a88a452?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fG5hdnklMjBzaGlwfGVufDF8fHx8MTc5NDUzNTc5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1266
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vidar Nordli-Mathisen on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vidarnm?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-large-ship-in-the-water-GsuPuCpVcN4?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

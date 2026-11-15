@@ -6,6 +6,24 @@
  "target": 50,
  "photos": [
   {
+   "shows": "Federal Reserve Bank, Cleveland, Ohio",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04395/full/2400,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04395/full/500,/0/default.jpg",
+   "size": [
+    2400,
+    1466
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2010630382/"
+  },
+  {
    "shows": "A large building with a clock on the front of it",
    "url": "https://images.unsplash.com/photo-1723534791930-1dfe85c8d96b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1723534791930-1dfe85c8d96b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGJhbmslMjBidWlsZGluZ3xlbnwxfHx8fDE3OTM4Nzc5OTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -326,6 +344,24 @@
    "source": "https://unsplash.com/photos/hand-using-keypad-on-an-atm-machine-JcSashYYarE?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "An open refrigerator with a lot of food inside of it",
+   "url": "https://images.unsplash.com/photo-1691404814199-02a0a4b0288d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNhZmV8ZW58MXx8fHwxNzk0NzMwNTAzfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1691404814199-02a0a4b0288d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNhZmV8ZW58MXx8fHwxNzk0NzMwNTAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Andrej Sachov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@ansach227?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/an-open-refrigerator-with-a-lot-of-food-inside-of-it-3UanFjfinEg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "The bank of ornate classical columns and facade",
    "url": "https://images.unsplash.com/photo-1764983255241-3768b4df0c57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMGZhY2FkZXxlbnwxfHx8fDE3OTQ3MzA1MjR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1764983255241-3768b4df0c57?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFuayUyMGZhY2FkZXxlbnwxfHx8fDE3OTQ3MzA1MjR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -488,6 +524,24 @@
    "source": "https://unsplash.com/photos/person-holding-fan-of-us-dollars-banknote-rItGZ4vquWk?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "White and black number print textile",
+   "url": "https://images.unsplash.com/photo-1586739051907-cadac873075a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHNhZmV8ZW58MXx8fHwxNzk0NzMwNTAzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1586739051907-cadac873075a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHNhZmV8ZW58MXx8fHwxNzk0NzMwNTAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Clarissa Watson on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@issaphotography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-black-number-print-textile-2dHL__IyDWQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "A person holding a smart phone and a credit card",
    "url": "https://images.unsplash.com/photo-1635950340810-2fb374521a7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1635950340810-2fb374521a7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGNyZWRpdCUyMGNhcmR8ZW58MXx8fHwxNzkzOTQyMDAxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -542,22 +596,58 @@
    "source": "https://unsplash.com/photos/a-person-is-holding-a-wallet-full-of-money-qMEtaR9WnwY?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "An open refrigerator with a lot of food inside of it",
-   "url": "https://images.unsplash.com/photo-1691404814199-02a0a4b0288d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNhZmV8ZW58MXx8fHwxNzk0NzMwNTAzfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1691404814199-02a0a4b0288d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fHNhZmV8ZW58MXx8fHwxNzk0NzMwNTAzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "Man and woman standing in front of a vault door",
+   "url": "https://images.unsplash.com/photo-1775258856091-a276f8469a9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHZhdWx0fGVufDF8fHx8MTc5NDY3Mjc4Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1775258856091-a276f8469a9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fHZhdWx0fGVufDF8fHx8MTc5NDY3Mjc4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    2400,
-    1350
+    1200,
+    1600
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Andrej Sachov on Unsplash",
+   "credit": "Photo by wilson montoya on Unsplash",
    "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@ansach227?utm_source=investiq_image_bank&utm_medium=referral",
+   "author_url": "https://unsplash.com/@dogblack22?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
-   "source": "https://unsplash.com/photos/an-open-refrigerator-with-a-lot-of-food-inside-of-it-3UanFjfinEg?utm_source=investiq_image_bank&utm_medium=referral"
+   "source": "https://unsplash.com/photos/man-and-woman-standing-in-front-of-a-vault-door-NgrY16hwuKA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Modern building with glass facade and stone sections",
+   "url": "https://images.unsplash.com/photo-1779819804599-783368d4338a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmFuayUyMGZhY2FkZXxlbnwxfHx8fDE3OTQ3MzA1MjR8MA&ixlib=rb-4.1.0&w=1999&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1779819804599-783368d4338a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8YmFuayUyMGZhY2FkZXxlbnwxfHx8fDE3OTQ3MzA1MjR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1999,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kacper Korgul on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nettle161?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/modern-building-with-glass-facade-and-stone-sections-Uy5gf9e6MmM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A couple of atm machines sitting next to each other",
+   "url": "https://images.unsplash.com/photo-1682344059600-a869f15f3ace?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFUTSUyMG1hY2hpbmV8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1682344059600-a869f15f3ace?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFUTSUyMG1hY2hpbmV8ZW58MXx8fHwxNzkzOTEzMDUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Keller Chewning on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kellerchewning?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-couple-of-atm-machines-sitting-next-to-each-other-7hPj7Ci6dK0?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
