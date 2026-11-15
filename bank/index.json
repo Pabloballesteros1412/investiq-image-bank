@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-15",
- "photos": 5700,
+ "photos": 5680,
  "subjects": [
   {
    "id": "MMM",
@@ -8618,7 +8618,7 @@
     "automation",
     "humanoid"
    ],
-   "photos": 39,
+   "photos": 35,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/robotics.json"
   },
@@ -8633,7 +8633,7 @@
     "hacking",
     "security"
    ],
-   "photos": 41,
+   "photos": 37,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/cybersecurity.json"
   },
@@ -8682,7 +8682,7 @@
     "mining",
     "commodities"
    ],
-   "photos": 42,
+   "photos": 30,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/metals.json"
   },
