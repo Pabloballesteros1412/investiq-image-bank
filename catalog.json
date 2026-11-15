@@ -438,7 +438,15 @@
     "piggy bank",
     "loan application",
     "economic growth",
-    "money stack close up"
+    "money stack close up",
+    "federal reserve bank",
+    "bank building",
+    "dollar sign",
+    "washington",
+    "interest",
+    "treasury",
+    "neoclassical building",
+    "column"
   ]},
   {"id": "inflation", "kind": "topic", "name": "Inflation & cost of living", "aliases": ["inflation", "cpi", "prices", "cost of living"], "shots": [
    {"id": "cart", "q": "supermarket shopping cart", "alt": ["grocery shopping", "shopping trolley supermarket"], "scene": "A shopping cart full of groceries in a supermarket aisle"},
@@ -621,7 +629,15 @@
     "shipwreck",
     "smoke",
     "fire",
-    "collapse"
+    "collapse",
+    "hurricane",
+    "stormy",
+    "red arrow",
+    "trading screen",
+    "dark sky",
+    "lightning strike",
+    "waves crashing",
+    "rainy city"
   ]},
   {"id": "ai", "kind": "topic", "name": "Artificial intelligence boom", "aliases": ["ai", "artificial intelligence", "generative ai", "llm", "chatbot"], "shots": [
    "artificial intelligence",
@@ -667,7 +683,13 @@
     "data visualization",
     "neon lights",
     "smart home",
-    "voice assistant"
+    "voice assistant",
+    "humanoid robot",
+    "computer screen",
+    "laptop",
+    "processor chip",
+    "electronics",
+    "robotics"
   ]},
   {"id": "datacenters", "kind": "topic", "name": "AI data centers & power demand", "aliases": ["data center", "datacenter", "power demand", "electricity", "grid", "capex"], "shots": [
    {"id": "hall", "q": "data center servers", "alt": ["server room", "server racks"], "must": ["data center", "datacenter", "data centre", "server room", "servers", "server racks"], "exclude": ["File:Data Center 3 (UNC).jpg", "File:Data Center 2 (UNC).jpg"], "scene": "A long data center hall with server racks"},
@@ -843,7 +865,15 @@
     "drilling rig",
     "petrochemical",
     "industrial plant night",
-    "fuel truck"
+    "fuel truck",
+    "oil refinery",
+    "petroleum refinery",
+    "oil platform",
+    "tanker ship",
+    "petrol station",
+    "fuel pump",
+    "factory chimney",
+    "gas tank"
   ]},
   {"id": "tariffs", "kind": "topic", "name": "Tariffs & trade war", "aliases": ["tariffs", "trade war", "trade", "imports", "customs"], "shots": [
    {"id": "container-ship", "q": "container ship", "alt": ["container vessel", "cargo ship containers"], "scene": "A giant container ship at sea"},
@@ -959,7 +989,15 @@
     "pen signing",
     "contract",
     "certificate",
-    "lincoln memorial"
+    "lincoln memorial",
+    "hundred dollar bill",
+    "money stack",
+    "banknotes",
+    "courthouse",
+    "signature",
+    "pen",
+    "neoclassical building",
+    "dollar bills"
   ]},
   {"id": "housing", "kind": "topic", "name": "Housing market & mortgages", "aliases": ["housing", "home market", "mortgages", "home prices", "homebuilders"], "shots": [
    {"id": "suburb", "q": "suburban housing aerial", "alt": ["suburb aerial", "housing development aerial"], "scene": "A suburban housing development from above"},
@@ -1042,7 +1080,13 @@
     "conference call",
     "laptop chart",
     "numbers",
-    "growth chart"
+    "growth chart",
+    "financial chart",
+    "trading screen",
+    "stock graph",
+    "office desk",
+    "business documents",
+    "computer screen"
   ]},
   {"id": "ipo", "kind": "topic", "name": "IPOs", "aliases": ["ipo", "listing", "initial public offering", "going public"], "shots": [
    "new york stock exchange",
@@ -1087,7 +1131,14 @@
     "fireworks",
     "american flags",
     "skyscraper",
-    "startup"
+    "startup",
+    "manhattan skyline",
+    "new york skyline",
+    "champagne",
+    "skyscrapers",
+    "times square",
+    "wall street sign",
+    "one world trade center"
   ]},
   {"id": "ev", "kind": "topic", "name": "Electric vehicles", "aliases": ["ev", "electric vehicles", "electric cars", "batteries"], "shots": [
    {"id": "charging", "q": "electric car charging", "alt": ["electric vehicle charging", "EV charging"], "scene": "An electric car plugged in and charging"},
@@ -1124,7 +1175,15 @@
     "car charging",
     "electric motor",
     "plug in",
-    "hybrid car"
+    "hybrid car",
+    "charging plug",
+    "ev station",
+    "charging car",
+    "car plug",
+    "electric charging",
+    "battery cells",
+    "electric bike",
+    "green energy"
   ]},
   {"id": "nuclear", "kind": "topic", "name": "Nuclear power & uranium", "aliases": ["nuclear", "uranium", "smr", "nuclear power"], "shots": [
    {"id": "cooling-towers", "q": "nuclear power plant cooling towers", "alt": ["cooling tower nuclear", "nuclear power plant"], "scene": "Steaming cooling towers of a nuclear power plant"},
@@ -1167,7 +1226,15 @@
     "power plant control",
     "electric power",
     "radiation warning",
-    "power station night"
+    "power station night",
+    "reactor building",
+    "smokestack",
+    "chimney",
+    "power lines",
+    "electricity pylon",
+    "nuclear facility",
+    "warning sign",
+    "nuclear power"
   ]},
   {"id": "defense", "kind": "topic", "name": "Defense & geopolitics", "aliases": ["defense", "defence", "war", "geopolitics", "military", "nato"], "shots": [
    {"id": "pentagon", "q": "The Pentagon aerial view", "alt": ["Pentagon building Arlington"], "must": ["pentagon"], "exclude": ["File:Aerial view of the Pentagon during rescue operations post-September 11 attack.JPEG"], "scene": "The Pentagon seen from above"},
@@ -1282,7 +1349,15 @@
     "retirement savings",
     "chart laptop",
     "stock app",
-    "nest egg"
+    "nest egg",
+    "dollar bills",
+    "gold coins",
+    "cash",
+    "wallet",
+    "stock chart",
+    "calculator",
+    "money plant",
+    "financial growth"
   ]},
   {"id": "space", "kind": "topic", "name": "Space economy", "aliases": ["space", "satellites", "space economy", "rockets"], "shots": [
    {"id": "rocket-night", "q": "rocket launch night", "alt": ["night launch", "rocket launch long exposure"], "scene": "A rocket launch streaking across the night sky"},
@@ -1353,7 +1428,15 @@
     "podium",
     "rally",
     "flags",
-    "election sign"
+    "election sign",
+    "capitol building",
+    "voter",
+    "election day",
+    "ballot box",
+    "washington dc",
+    "flag",
+    "microphone",
+    "i voted"
   ]},
   {"id": "europe", "kind": "topic", "name": "Europe & the ECB", "aliases": ["europe", "ecb", "eurozone", "euro", "cac 40", "dax", "stoxx"], "shots": [
    {"id": "ecb", "q": "European Central Bank Frankfurt", "alt": ["European Central Bank", "ECB headquarters"], "scene": "The European Central Bank tower in Frankfurt"},
@@ -1419,7 +1502,14 @@
     "light rays",
     "abstract light",
     "laser lab",
-    "glowing"
+    "glowing",
+    "silicon wafer",
+    "circuit board",
+    "motherboard",
+    "gold wires",
+    "copper coil",
+    "microscope",
+    "research laboratory"
   ]},
   {"id": "robotics", "kind": "topic", "name": "Robotics & automation", "aliases": ["robotics", "robots", "automation", "humanoid"], "shots": [
    "industrial robot",
