@@ -6,6 +6,24 @@
  "target": 50,
  "photos": [
   {
+   "shows": "Skieres descend a slope at the Copper Mountain Ski Resort, near Frisco, Colorado",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:36100:36151/full/2250,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:36100:36151/full/500,/0/default.jpg",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2017686634/"
+  },
+  {
    "shows": "A group of power lines sitting on top of a lush green hillside",
    "url": "https://images.unsplash.com/photo-1720986316292-24e26d29b0e2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNvcHBlciUyMG1pbmV8ZW58MXx8fHwxNzkzODg5NDA2fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1720986316292-24e26d29b0e2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGNvcHBlciUyMG1pbmV8ZW58MXx8fHwxNzkzODg5NDA2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -271,6 +289,24 @@
    "source": "https://unsplash.com/photos/welder-working-on-a-piece-of-metal-in-a-factory-enPxH6uqABg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Green trees on snow covered ground during daytime",
+   "url": "https://images.unsplash.com/photo-1630304192178-bf6f14803e0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG9yZXxlbnwxfHx8fDE3OTQ2ODAwMjZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1630304192178-bf6f14803e0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG9yZXxlbnwxfHx8fDE3OTQ2ODAwMjZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Henrik L. on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@henrikladewig?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/green-trees-on-snow-covered-ground-during-daytime-8FfSuJZ4HaQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "A large metal object flying through the air",
    "url": "https://images.unsplash.com/photo-1722695510527-cc033e43be1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2NyYXAlMjBtZXRhbHxlbnwxfHx8fDE3OTQ2ODAwMzZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1722695510527-cc033e43be1b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2NyYXAlMjBtZXRhbHxlbnwxfHx8fDE3OTQ2ODAwMzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -287,6 +323,114 @@
    "author_url": "https://unsplash.com/@yasinb3da?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-large-metal-object-flying-through-the-air-e1RKLvWJk4I?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person holding red and yellow round ornament",
+   "url": "https://images.unsplash.com/photo-1596877455845-97b2030ee305?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29wcGVyJTIwY29pbHxlbnwxfHx8fDE3OTQ3Mzc3NTJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1596877455845-97b2030ee305?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29wcGVyJTIwY29pbHxlbnwxfHx8fDE3OTQ3Mzc3NTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mika Baumeister on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-holding-red-and-yellow-round-ornament-8-ddOX6LSrM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Rusted rebar is stacked horizontally",
+   "url": "https://images.unsplash.com/photo-1745909247906-123b53b70e06?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cmViYXJ8ZW58MXx8fHwxNzk0NzM4NjYyfDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1745909247906-123b53b70e06?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cmViYXJ8ZW58MXx8fHwxNzk0NzM4NjYyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Araf Ibne Alam on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@5milliseconds?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/rusted-rebar-is-stacked-horizontally-KS6YES3Djmc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Close-up of rusty metal rods stacked together",
+   "url": "https://images.unsplash.com/photo-1761479867761-7a8b11f54449?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bWV0YWwlMjByb2RzfGVufDF8fHx8MTc5NDczODY3NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1761479867761-7a8b11f54449?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bWV0YWwlMjByb2RzfGVufDF8fHx8MTc5NDczODY3NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dorothy Ere on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@yurijean?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/close-up-of-rusty-metal-rods-stacked-together-6imHt5Sn69s?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A small metal canister on a white background",
+   "url": "https://images.unsplash.com/photo-1699464884530-de6a7f9b1301?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YWx1bWludW0lMjBjYW5zfGVufDF8fHx8MTc5NDczODY4MHww&ixlib=rb-4.1.0&w=1342&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1699464884530-de6a7f9b1301?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8YWx1bWludW0lMjBjYW5zfGVufDF8fHx8MTc5NDczODY4MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1342,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Septian Kriswinanto on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kriswinantoseptian?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-small-metal-canister-on-a-white-background--h8ElIOECgA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Golden horse sculpture surrounded by festive decorations and gold ingots",
+   "url": "https://images.unsplash.com/photo-1772770176973-1af1089ff373?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aW5nb3R8ZW58MXx8fHwxNzk0NzM4Njg4fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1772770176973-1af1089ff373?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aW5nb3R8ZW58MXx8fHwxNzk0NzM4Njg4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2000,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Andy Wang on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@space_launch_system?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/golden-horse-sculpture-surrounded-by-festive-decorations-and-gold-ingots-KHgG_ymrAeg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close-up of a jar filled with pennies and nickels",
+   "url": "https://images.unsplash.com/photo-1770069083810-e0221cd32d47?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmlja2VsfGVufDF8fHx8MTc5NDczODcwOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1770069083810-e0221cd32d47?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bmlja2VsfGVufDF8fHx8MTc5NDczODcwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Lewis Meyers on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@coollew?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-jar-filled-with-pennies-and-nickels-5sNX3F7_Qzc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Person grinding pipe steel wool photography",
@@ -413,6 +557,24 @@
    "source": "https://unsplash.com/photos/welder-working-on-a-piece-of-metal-in-a-factory-3wn8WH24-7s?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "Brown and white concrete building",
+   "url": "https://images.unsplash.com/photo-1626991161255-95a16ca3ee6d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fG9yZXxlbnwxfHx8fDE3OTQ2ODAwMjZ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1626991161255-95a16ca3ee6d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fG9yZXxlbnwxfHx8fDE3OTQ2ODAwMjZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Gabriele Natali on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@natali_gabriele_?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/brown-and-white-concrete-building-mGKFLlvs-as?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
    "shows": "An excavator working on a pile of scrap metal",
    "url": "https://images.unsplash.com/photo-1722695694560-f452b0919d3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2NyYXAlMjBtZXRhbHxlbnwxfHx8fDE3OTQ2ODAwMzZ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1722695694560-f452b0919d3a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c2NyYXAlMjBtZXRhbHxlbnwxfHx8fDE3OTQ2ODAwMzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -429,6 +591,132 @@
    "author_url": "https://unsplash.com/@yasinb3da?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/an-excavator-working-on-a-pile-of-scrap-metal-lp6CBQSr1Ek?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Stainless steel pipe with gauge",
+   "url": "https://images.unsplash.com/photo-1611757416703-e67b2ca37996?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHN0ZWVsJTIwcGlwZXN8ZW58MXx8fHwxNzk0NzM3Njk3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1611757416703-e67b2ca37996?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fHN0ZWVsJTIwcGlwZXN8ZW58MXx8fHwxNzk0NzM3Njk3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Franck V. on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@possessedphotography?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/stainless-steel-pipe-with-gauge-6Es5BF1_sZ0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White tech device with a copper coil and \"ts-ws\" display",
+   "url": "https://images.unsplash.com/photo-1778854097469-11467fa57afa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNvcHBlciUyMGNvaWx8ZW58MXx8fHwxNzk0NzM3NzUyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1778854097469-11467fa57afa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNvcHBlciUyMGNvaWx8ZW58MXx8fHwxNzk0NzM3NzUyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1598
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by N1CE on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@n1ce?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-tech-device-with-a-copper-coil-and-ts-ws-display-hXhnpFEJB30?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Construction worker inspects rebar on a building site",
+   "url": "https://images.unsplash.com/photo-1768677903496-becc4be07258?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHJlYmFyfGVufDF8fHx8MTc5NDczODY2Mnww&ixlib=rb-4.1.0&w=2259&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1768677903496-becc4be07258?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHJlYmFyfGVufDF8fHx8MTc5NDczODY2Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2259,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Toni  Reed on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@trfotos?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/construction-worker-inspects-rebar-on-a-building-site-dSjrv4w1g1Q?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A group of people standing around a pile of metal rods",
+   "url": "https://images.unsplash.com/photo-1671404910386-8c2a9ae40efd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bWV0YWwlMjByb2RzfGVufDF8fHx8MTc5NDczODY3NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1671404910386-8c2a9ae40efd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bWV0YWwlMjByb2RzfGVufDF8fHx8MTc5NDczODY3NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kasper Gant on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@kaspergant?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-group-of-people-standing-around-a-pile-of-metal-rods-2YXyyg5bLLg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "White and black labeled can on gray concrete floor",
+   "url": "https://images.unsplash.com/photo-1582126924905-7cdf67fab6cb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGFsdW1pbnVtJTIwY2Fuc3xlbnwxfHx8fDE3OTQ3Mzg2ODB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1582126924905-7cdf67fab6cb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGFsdW1pbnVtJTIwY2Fuc3xlbnwxfHx8fDE3OTQ3Mzg2ODB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Nicholas Bartos on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@nickbartos?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-and-black-labeled-can-on-gray-concrete-floor-8OyVnHOFfkA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A bunch of different types of coins on a table",
+   "url": "https://images.unsplash.com/photo-1642092445829-891353085efc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmlja2VsfGVufDF8fHx8MTc5NDczODcwOXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1642092445829-891353085efc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bmlja2VsfGVufDF8fHx8MTc5NDczODcwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by PiggyBank on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@piggybank?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bunch-of-different-types-of-coins-on-a-table-8Wwft7EYzFg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A man working on a machine in a factory",
+   "url": "https://images.unsplash.com/photo-1738162837340-da3e7a323a09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHNoZWV0JTIwbWV0YWx8ZW58MXx8fHwxNzk0NzM4NzM1fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1738162837340-da3e7a323a09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fHNoZWV0JTIwbWV0YWx8ZW58MXx8fHwxNzk0NzM4NzM1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Cemrecan Yurtman on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@cmrcn_?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-man-working-on-a-machine-in-a-factory-RLDjPI-r5fU?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "White and black airplane on brown sand during daytime",
@@ -465,95 +753,6 @@
    "author_url": "https://unsplash.com/@dominik_photography?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/yellow-truck-on-gray-road-during-daytime-1HEDPbH6HIE?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Time lapse photography of welding man",
-   "url": "https://images.unsplash.com/photo-1508465818649-14a170138405?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHdlbGRpbmd8ZW58MXx8fHwxNzkzODg0MzMyfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1508465818649-14a170138405?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHdlbGRpbmd8ZW58MXx8fHwxNzkzODg0MzMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1422
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Glenn Hansen on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@hansenhouse?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/time-lapse-photography-of-welding-man-VW4xiLRr-do?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Zerlegung einer ausgebauten Stahlnietenbrücke in Leipzig Anger-Crottendorf (Dia)",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Zerlegung_einer_ausgebauten_Stahlnietenbr%C3%BCcke_in_Leipzig_Anger-Crottendorf_%28Dia%29.jpg/1920px-Zerlegung_einer_ausgebauten_Stahlnietenbr%C3%BCcke_in_Leipzig_Anger-Crottendorf_%28Dia%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Zerlegung_einer_ausgebauten_Stahlnietenbr%C3%BCcke_in_Leipzig_Anger-Crottendorf_%28Dia%29.jpg/500px-Zerlegung_einer_ausgebauten_Stahlnietenbr%C3%BCcke_in_Leipzig_Anger-Crottendorf_%28Dia%29.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "August Geyler, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Zerlegung_einer_ausgebauten_Stahlnietenbr%C3%BCcke_in_Leipzig_Anger-Crottendorf_(Dia).jpg"
-  },
-  {
-   "shows": "Lighted brown concrete buildings near body of water at nighttime",
-   "url": "https://images.unsplash.com/photo-1524037755327-dc2def03712a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG1pbmluZ3xlbnwxfHx8fDE3OTM5NDU2MzR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1524037755327-dc2def03712a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fG1pbmluZ3xlbnwxfHx8fDE3OTM5NDU2MzR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Dominik Vanyi on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@dominik_photography?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/lighted-brown-concrete-buildings-near-body-of-water-at-nighttime-F1B0-iuAxO4?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Man on ladder welding post",
-   "url": "https://images.unsplash.com/photo-1508188609340-e8068b599193?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHdlbGRpbmd8ZW58MXx8fHwxNzkzODg0MzMyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1508188609340-e8068b599193?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fHdlbGRpbmd8ZW58MXx8fHwxNzkzODg0MzMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Max LaRochelle on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@maxlarochelle?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/man-on-ladder-welding-post-QzP1GcDOSC8?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A person wearing a mask and holding a gun",
-   "url": "https://images.unsplash.com/photo-1665492100272-75508f731649?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHdlbGRpbmd8ZW58MXx8fHwxNzkzODg0MzMyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1665492100272-75508f731649?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fHdlbGRpbmd8ZW58MXx8fHwxNzkzODg0MzMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1800
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Jimmy Nilsson Masth on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@jimmynilssonmasth?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-person-wearing-a-mask-and-holding-a-gun-DoddvAjNACY?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }

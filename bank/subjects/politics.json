@@ -6,21 +6,21 @@
  "target": 50,
  "photos": [
   {
-   "shows": "South facade of the White House, Washington DC, as seen from the Washington Monument",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/South_facade_of_the_White_House%2C_Washington_DC%2C_as_seen_from_the_Washington_Monument.jpg/1280px-South_facade_of_the_White_House%2C_Washington_DC%2C_as_seen_from_the_Washington_Monument.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/South_facade_of_the_White_House%2C_Washington_DC%2C_as_seen_from_the_Washington_Monument.jpg/500px-South_facade_of_the_White_House%2C_Washington_DC%2C_as_seen_from_the_Washington_Monument.jpg",
+   "shows": "North Portico of the White House photo Don Ramey Logan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg/1920px-North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg/500px-North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg",
    "size": [
-    1280,
-    1707
+    1920,
+    1088
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Ad Meskens, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
+   "credit": "Don Ramey Logan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
    "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:South_facade_of_the_White_House,_Washington_DC,_as_seen_from_the_Washington_Monument.jpg"
+   "source": "https://commons.wikimedia.org/wiki/File:North_Portico_of_the_White_House_photo_Don_Ramey_Logan.jpg"
   },
   {
    "shows": "The united states capitol building lit up at night",
@@ -237,6 +237,40 @@
    "source": "https://unsplash.com/photos/blue-and-white-road-sign-VoYhILXi64o?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "South facade of the White House, Washington DC, as seen from the Washington Monument",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/South_facade_of_the_White_House%2C_Washington_DC%2C_as_seen_from_the_Washington_Monument.jpg/1280px-South_facade_of_the_White_House%2C_Washington_DC%2C_as_seen_from_the_Washington_Monument.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/South_facade_of_the_White_House%2C_Washington_DC%2C_as_seen_from_the_Washington_Monument.jpg/500px-South_facade_of_the_White_House%2C_Washington_DC%2C_as_seen_from_the_Washington_Monument.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ad Meskens, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:South_facade_of_the_White_House,_Washington_DC,_as_seen_from_the_Washington_Monument.jpg"
+  },
+  {
+   "shows": "Capitol at Dusk 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Capitol_at_Dusk_2.jpg/1920px-Capitol_at_Dusk_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Capitol_at_Dusk_2.jpg/500px-Capitol_at_Dusk_2.jpg",
+   "size": [
+    1920,
+    963
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Martin Falbisoner, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Capitol_at_Dusk_2.jpg"
+  },
+  {
    "shows": "US Capitol Building at night Jan 2006",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/US_Capitol_Building_at_night_Jan_2006.jpg/1920px-US_Capitol_Building_at_night_Jan_2006.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/US_Capitol_Building_at_night_Jan_2006.jpg/500px-US_Capitol_Building_at_night_Jan_2006.jpg",
@@ -362,6 +396,23 @@
    "source": "https://unsplash.com/photos/an-american-flag-flying-high-in-the-sky-1MkR9ehe9Fg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
+   "shows": "White House lawn",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/White_House_lawn.jpg/1920px-White_House_lawn.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/White_House_lawn.jpg/500px-White_House_lawn.jpg",
+   "size": [
+    1920,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel Schwen, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:White_House_lawn.jpg"
+  },
+  {
    "shows": "United states capitol building at night with light trails",
    "url": "https://images.unsplash.com/photo-1764004657175-11ce991efcca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2wlMjBuaWdodHxlbnwxfHx8fDE3OTM5MTY2NzJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1764004657175-11ce991efcca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFVuaXRlZCUyMFN0YXRlcyUyMENhcGl0b2wlMjBuaWdodHxlbnwxfHx8fDE3OTM5MTY2NzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -434,21 +485,22 @@
    "source": "https://unsplash.com/photos/american-flag-with-red-white-stripes-hPq1nLfLgBY?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Capitol at Dusk 2",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Capitol_at_Dusk_2.jpg/1920px-Capitol_at_Dusk_2.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Capitol_at_Dusk_2.jpg/500px-Capitol_at_Dusk_2.jpg",
+   "shows": "Selective focus photo of U.S.A. flag",
+   "url": "https://images.unsplash.com/photo-1499696562547-dbe51006e1bb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZmxhZ3N8ZW58MXx8fHwxNzk0NzMzNDU3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1499696562547-dbe51006e1bb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZmxhZ3N8ZW58MXx8fHwxNzk0NzMzNDU3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    963
+    1200,
+    1805
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Martin Falbisoner, CC BY-SA 3.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 3.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Capitol_at_Dusk_2.jpg"
+   "credit": "Photo by Andrew Ruiz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@andrewruiz?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/selective-focus-photo-of-usa-flag-vJAhnIlhtk0?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Architectural photo of a beige mansion",
@@ -485,95 +537,6 @@
    "author_url": "https://unsplash.com/@glencarrie?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/text-8lNHkM9URlw?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Pismo Beach (California, USA), US Flag -- 2012 -- 4769",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pismo_Beach_%28California%2C_USA%29%2C_US_Flag_--_2012_--_4769.jpg/1920px-Pismo_Beach_%28California%2C_USA%29%2C_US_Flag_--_2012_--_4769.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Pismo_Beach_%28California%2C_USA%29%2C_US_Flag_--_2012_--_4769.jpg/500px-Pismo_Beach_%28California%2C_USA%29%2C_US_Flag_--_2012_--_4769.jpg",
-   "size": [
-    1920,
-    1920
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Pismo_Beach_(California,_USA),_US_Flag_--_2012_--_4769.jpg"
-  },
-  {
-   "shows": "Grayscale photo of dome building",
-   "url": "https://images.unsplash.com/photo-1597201749396-99a6b0537704?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNhcGl0b2x8ZW58MXx8fHwxNzk0NTQyODkzfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1597201749396-99a6b0537704?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNhcGl0b2x8ZW58MXx8fHwxNzk0NTQyODkzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Cameron Smith on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@cameronksmithphoto?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/grayscale-photo-of-dome-building-9pkMcZpsezI?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A folded American flag with red and white stripes and white stars",
-   "url": "https://images.unsplash.com/photo-1629954844642-bd8bd3fca315?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGFtZXJpY2FuJTIwZmxhZ3xlbnwxfHx8fDE3OTQ1NDM3Mjl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1629954844642-bd8bd3fca315?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGFtZXJpY2FuJTIwZmxhZ3xlbnwxfHx8fDE3OTQ1NDM3Mjl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1800
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Tim Mossholder on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/american-flag-with-red-white-stripes-C9aoKixzhRQ?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "American flag",
-   "url": "https://images.unsplash.com/photo-1561061715-ad0d1ade0b73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGFtZXJpY2FuJTIwZmxhZ3xlbnwxfHx8fDE3OTQ1NDM3Mjl8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1561061715-ad0d1ade0b73?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGFtZXJpY2FuJTIwZmxhZ3xlbnwxfHx8fDE3OTQ1NDM3Mjl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Ben Mater on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@benjmater?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/american-flag-lA-wfuq-7CQ?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A blurred American flag with red white and blue stripes and white stars",
-   "url": "https://images.unsplash.com/photo-1625198692518-4372e517adf1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGFtZXJpY2FuJTIwZmxhZ3xlbnwxfHx8fDE3OTQ1NDM3Mjl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1625198692518-4372e517adf1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGFtZXJpY2FuJTIwZmxhZ3xlbnwxfHx8fDE3OTQ1NDM3Mjl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    1200,
-    1800
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Tim Mossholder on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/blurred-american-flag-with-stripes--XwXKQvVRSU?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
