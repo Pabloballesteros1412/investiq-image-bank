@@ -1044,19 +1044,26 @@ def brand_photos(c, brands, src, used, n, exclude=(), n_queries=BRAND_QUERIES):
     return picks
 
 
-def shot_photos(s, src, used, no_sa=False, exclude=(), target=None):
+def shot_photos(s, src, used, no_sa=False, exclude=(), target=None, keep=(), prefer=()):
     """The photos of a topic or sector: (photos, ids of shots without a photo). Its target (50) is shared out
     over its hand-written shots: the best photo of each shot first, then the second best of each, and so on, at
     most three stock photos by the same photographer and none twice from one shoot (same file stem). After the
     first round a Commons photo needs a quality mark (featured, quality or valued image): only about 7% of the
-    others pass the review."""
+    others pass the review. keep: photos already published (kept first, as they are): new picks only fill the
+    places they leave free, starting with the shots that have fewest, so new searches never push out photos
+    that passed the review. prefer: files that already passed the review go first within their shot."""
     target = target or s.get("target") or TOPIC_TARGET
     per_shot = -(-target // max(1, len(s["shots"])))
     ranked = []
     for sh in s["shots"]:
-        ranked.append((sh, [c for _, c, _ in choose(sh, src.search, used, no_sa, exclude, getattr(src, "stock", ()),
-                                                     enough=2 * per_shot)]))
-    picks, per_author, stems, taken = [], {}, set(), {}
+        cands = [c for _, c, _ in choose(sh, src.search, used, no_sa, exclude, getattr(src, "stock", ()),
+                                         enough=2 * per_shot)]
+        ranked.append((sh, sorted(cands, key=lambda c: c["file"] not in prefer)))  # stable: else best first
+    picks, per_author, stems, taken = list(keep), {}, {stem(p["file"]) for p in keep}, {}
+    for p in keep:
+        if p.get("provider") in STOCK:
+            per_author[p.get("author")] = per_author.get(p.get("author"), 0) + 1
+        taken[p.get("shot")] = taken.get(p.get("shot"), 0) + 1
     for rnd in range(per_shot * 3):  # later rounds let a shot with photos to spare cover one that ran dry
         for sh, cands in ranked:
             if len(picks) >= target or taken.get(sh["id"], 0) > rnd:
@@ -1176,7 +1183,8 @@ def matches(s, keys):
 def pick(s, src, used, no_sa=False, exclude=(), rv=None, keep=None):
     """The photos of a subject: (photos, ids of hand-written shots without a photo). A company gets its Commons
     photos, then brand photos from Unsplash and Pexels for the places its approved Commons photos leave free.
-    With keep (a list of photos), its Commons photos are those and Commons is not searched again."""
+    With keep (a list of photos): a company's Commons photos are those and Commons is not searched again; a
+    topic or sector keeps those and new picks fill the places they leave free."""
     t = s.get("target") or (TARGET if s["kind"] == "company" else TOPIC_TARGET)
     if s["kind"] == "company":
         commons = keep if keep is not None else company_photos(s["company"], s["shots"], src, used, no_sa, exclude, t)
@@ -1184,7 +1192,8 @@ def pick(s, src, used, no_sa=False, exclude=(), rv=None, keep=None):
         approved = sum(1 for p in commons if published(p, rv))
         return commons + brand_photos(s["company"], s.get("brands", []), src, used, t - approved, exclude,
                                       BRAND_QUERIES * max(1, t // TARGET)), []
-    return shot_photos(s, src, used, no_sa, exclude, t)
+    good = {f for f, g in (rv or {}).get("grades", {}).items() if g >= (rv or {}).get("min_grade", 0)}
+    return shot_photos(s, src, used, no_sa, exclude, t, keep or (), good)
 
 
 def look_ahead(s, src, used, no_sa, exclude, rv=None, keep=None):
@@ -1251,10 +1260,14 @@ def build(catalog=None, bank=BANK, src=None, only=None, redo=False, no_sa=False,
         return graded_out | (set(old.get("exclude", [])) if "exclude" in (old.get("manual") or []) else set())
 
     def kept(s):
-        """With stock_only, a company's approved Commons photos (kept as they are)."""
-        if not (stock_only and s["kind"] == "company"):
+        """Photos kept as they are: a topic's or sector's published photos (new picks fill the places left
+        free); with stock_only, a company's approved Commons photos."""
+        old = m.get(s["id"], {}).get("photos", [])
+        if s["kind"] != "company":
+            return [p for p in old if published(p, rv)]
+        if not stock_only:
             return None
-        return [p for p in m.get(s["id"], {}).get("photos", []) if provider_of(p) == "commons" and published(p, rv)]
+        return [p for p in old if provider_of(p) == "commons" and published(p, rv)]
 
     work = [s for s in todo if due(s)]
     ahead = ThreadPoolExecutor(src.workers) if getattr(src, "workers", 0) else None
