@@ -729,6 +729,42 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:DSC03739_Blast_Furnace_1_at_Night,_voestalpine_Donawitz,_2026-02.jpg"
+  },
+  {
+   "shows": "Scene, high above the Copper Mountain Ski Resort near Frisco in Summit County, Colorado",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:37100:37108/full/2265,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:37100:37108/full/500,/0/default.jpg",
+   "size": [
+    2265,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2017687266/"
+  },
+  {
+   "shows": "A bottle of tea sitting on top of a wooden table",
+   "url": "https://images.unsplash.com/photo-1685913314208-49f7a29f34c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8emluY3xlbnwxfHx8fDE3OTQ4MzA3MjF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1685913314208-49f7a29f34c8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8emluY3xlbnwxfHx8fDE3OTQ4MzA3MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Eir Health on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@eirhealth?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-bottle-of-tea-sitting-on-top-of-a-wooden-table-2PHWZeQ5SXE?utm_source=investiq_image_bank&utm_medium=referral"
   }
  ]
 }
