@@ -53,6 +53,9 @@ def preview(p):
                     f.write_bytes(r.read())
                 break
             except urllib.error.HTTPError as e:
+                if e.code == 429 and b"failing image" in e.read():
+                    # Wikimedia cannot render this file's thumbnail: a blank tile (grade it 1), not a dead sheet run
+                    return Image.new("RGB", (TW, TH), "black")
                 if e.code not in (429, 500, 502, 503, 504) or attempt == 5:
                     raise
                 time.sleep(B.wait_for(e, attempt))
