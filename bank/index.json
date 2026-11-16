@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-16",
- "photos": 6075,
+ "photos": 6063,
  "subjects": [
   {
    "id": "MMM",
@@ -8456,7 +8456,7 @@
     "smr",
     "nuclear power"
    ],
-   "photos": 33,
+   "photos": 31,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
   },
@@ -8489,7 +8489,7 @@
     "retail sales",
     "holiday season"
    ],
-   "photos": 45,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/consumer.json"
   },
@@ -8505,7 +8505,7 @@
     "regional banks",
     "credit"
    ],
-   "photos": 42,
+   "photos": 39,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/banks.json"
   },
@@ -8603,7 +8603,7 @@
     "quantum computing",
     "quantum computer"
    ],
-   "photos": 32,
+   "photos": 28,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/quantum.json"
   },
@@ -8682,7 +8682,7 @@
     "mining",
     "commodities"
    ],
-   "photos": 43,
+   "photos": 41,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/metals.json"
   },
