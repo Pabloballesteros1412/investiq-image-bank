@@ -6237,9 +6237,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Blue and black circuit board: Photo by Sahand Babali on Unsplash. [owjrvbyXYyc](https://unsplash.com/photos/blue-and-black-circuit-board-owjrvbyXYyc?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and yellow audio mixer: Photo by Harrison Broadbent on Unsplash. [afZVP8xbbw0](https://unsplash.com/photos/black-and-yellow-audio-mixer-afZVP8xbbw0?utm_source=investiq_image_bank&utm_medium=referral)
 - A pair of black and silver graphics cards: Photo by Nana Dua on Unsplash. [nqCEPrvnLKQ](https://unsplash.com/photos/a-pair-of-black-and-silver-graphics-cards-nqCEPrvnLKQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Micro-chips wafer: Syced, CC0, via Wikimedia Commons. [Micro-chips wafer (83846).jpg](https://commons.wikimedia.org/wiki/File:Micro-chips_wafer_(83846).jpg)
 - A pair of ram modules sitting on top of a white table: Photo by Andrey Matveev on Unsplash. [orDa1I8NN6g](https://unsplash.com/photos/a-pair-of-ram-modules-sitting-on-top-of-a-white-table-orDa1I8NN6g?utm_source=investiq_image_bank&utm_medium=referral)
-- A close up of a pile of wood shavings: Photo by Wyxina Tresse on Unsplash. [lltqYGlY3f8](https://unsplash.com/photos/a-close-up-of-a-pile-of-wood-shavings-lltqYGlY3f8?utm_source=investiq_image_bank&utm_medium=referral)
-- Brown Around computer motherboard: Photo by Harrison Broadbent on Unsplash. [fZB51omnY_Y](https://unsplash.com/photos/brown-around-computer-motherboard-fZB51omnY_Y?utm_source=investiq_image_bank&utm_medium=referral)
+- National's NS87P50D-6 "piggyback" microcontroller Contain the system timing, control logic, plus socket for external ROM, RAM data memory and 27 I/O lines, plus: Mister rf, CC BY-SA 4.0, via Wikimedia Commons. [NS87P50D.jpg](https://commons.wikimedia.org/wiki/File:NS87P50D.jpg)
 
 ## Bitcoin & crypto (crypto)
 
@@ -6277,11 +6277,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A person sitting on a bench in a room: Photo by GENERAL BYTES on Unsplash. [NtvHjru4jdI](https://unsplash.com/photos/a-person-sitting-on-a-bench-in-a-room-NtvHjru4jdI?utm_source=investiq_image_bank&utm_medium=referral)
 - A display in a store with a bitcoin machine in front of it: Photo by GENERAL BYTES on Unsplash. [n0TeMHrPJ38](https://unsplash.com/photos/a-display-in-a-store-with-a-bitcoin-machine-in-front-of-it-n0TeMHrPJ38?utm_source=investiq_image_bank&utm_medium=referral)
 - Bitcoin Cryptocurrency Laws & Regulations: edwinchuen, CC BY 2.0, via Wikimedia Commons. [Bitcoin Cryptocurrency Laws & Regulations.jpg](https://commons.wikimedia.org/wiki/File:Bitcoin_Cryptocurrency_Laws_%26_Regulations.jpg)
-- Lawrence Moss and Nina Pereira beg for money for weed (marijuana) on Venice Beach in California: Photo: Carol M. Highsmith, Library of Congress, public domain. [2013632412](https://www.loc.gov/item/2013632412/)
+- Bitcoin (₿) is a cryptocurrency invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto and started in 2009, when its implement: Jorge Franganillo, CC BY 2.0, via Wikimedia Commons. [Bitcoins - 50799812713.jpg](https://commons.wikimedia.org/wiki/File:Bitcoins_-_50799812713.jpg)
 - Three gold-colored bitcoins on black surface: Photo by Dmytro Demidko on Unsplash. [OG3A-ilG8AY](https://unsplash.com/photos/three-gold-colored-bitcoins-on-black-surface-OG3A-ilG8AY?utm_source=investiq_image_bank&utm_medium=referral)
+- Physical Bitcoin 2011 Casascius 1 Bitcoin Coin Token: Tiberiandusk, CC BY-SA 4.0, via Wikimedia Commons. [Physical Bitcoin 2011 Casascius 1 Bitcoin Coin Token.png](https://commons.wikimedia.org/wiki/File:Physical_Bitcoin_2011_Casascius_1_Bitcoin_Coin_Token.png)
 - Cryptocurrency coins sit on a keyboard: Photo by Jakub Żerdzicki on Unsplash. [OMMnwXYkI_E](https://unsplash.com/photos/cryptocurrency-coins-sit-on-a-keyboard-OMMnwXYkI_E?utm_source=investiq_image_bank&utm_medium=referral)
 - United states of america dollar bill: Photo by Piotr Cichosz on Unsplash. [uo8fBSwxk28](https://unsplash.com/photos/united-states-of-america-dollar-bill-uo8fBSwxk28?utm_source=investiq_image_bank&utm_medium=referral)
-- A shiny bitcoin logo on a black background: Photo by Rostislav Uzunov on Unsplash. [k5gzkq_R-70](https://unsplash.com/photos/a-shiny-bitcoin-logo-on-a-black-background-k5gzkq_R-70?utm_source=investiq_image_bank&utm_medium=referral)
+- Mining Farm of Genesis Mining: Marco Krohn, CC BY-SA 4.0, via Wikimedia Commons. [Mining Farm of Genesis Mining.jpg](https://commons.wikimedia.org/wiki/File:Mining_Farm_of_Genesis_Mining.jpg)
 - A computer screen with a bitcoin chart on it: Photo by Behnam Norouzi on Unsplash. [H1jdfM5jUxM](https://unsplash.com/photos/a-computer-screen-with-a-bitcoin-chart-on-it-H1jdfM5jUxM?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Gold (gold)
@@ -6585,10 +6586,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Aerial view of green trees and brown concrete building: Photo by Lesia on Unsplash. [olFlnjzapjk](https://unsplash.com/photos/aerial-view-of-green-trees-and-brown-concrete-building-olFlnjzapjk?utm_source=investiq_image_bank&utm_medium=referral)
 - White and brown concrete house near green trees during daytime: Photo by Zac Gudakov on Unsplash. [wwqZ8CM21gg](https://unsplash.com/photos/white-and-brown-concrete-house-near-green-trees-during-daytime-wwqZ8CM21gg?utm_source=investiq_image_bank&utm_medium=referral)
 - A door with a green design on it: Photo by Andrea De Santis on Unsplash. [RdxZBtYn2z0](https://unsplash.com/photos/a-door-with-a-green-design-on-it-RdxZBtYn2z0?utm_source=investiq_image_bank&utm_medium=referral)
-- Woman in gray shirt sitting on brown wooden floor: Photo by Andrew Mead on Unsplash. [r_X4YHAlBPo](https://unsplash.com/photos/woman-in-gray-shirt-sitting-on-brown-wooden-floor-r_X4YHAlBPo?utm_source=investiq_image_bank&utm_medium=referral)
-- Sold text: Photo by Eric Prouzet on Unsplash. [D6B4Zm0lIvA](https://unsplash.com/photos/sold-text-D6B4Zm0lIvA?utm_source=investiq_image_bank&utm_medium=referral)
+- Shotgun house for sale Louisiana Avenue New Orleans November 2024: Daniel Hartwig, CC BY 2.0, via Wikimedia Commons. [Shotgun house for sale Louisiana Avenue New Orleans November 2024.jpg](https://commons.wikimedia.org/wiki/File:Shotgun_house_for_sale_Louisiana_Avenue_New_Orleans_November_2024.jpg)
+- Street of terraced housing: User Duncharris on en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Street of terraced housing.jpg](https://commons.wikimedia.org/wiki/File:Street_of_terraced_housing.jpg)
 - A model of a house on a table: Photo by Fernando Andrade on Unsplash. [C-zio8nFBDg](https://unsplash.com/photos/a-model-of-a-house-on-a-table-C-zio8nFBDg?utm_source=investiq_image_bank&utm_medium=referral)
-- A model of a house sitting on top of a table: Photo by Zoshua Colah on Unsplash. [jVDIRYgUuQs](https://unsplash.com/photos/a-model-of-a-house-sitting-on-top-of-a-table-jVDIRYgUuQs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Earnings season (earnings)
 

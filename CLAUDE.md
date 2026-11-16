@@ -254,6 +254,14 @@ Decisions (Pablo, 4 Nov 2026):
 - **Merged into main (15 Nov, PR #7)**: 5,830 published photos: companies 3,969, topics 1,372 (average 37), sectors
   489 (average 44.5; industrials at 50). Thinnest: quantum 15, ai 21, earnings 26, nuclear 27, fed 28, crash 31.
   About 300 Unsplash download counts pending (sent at the start and end of every build, 50 an hour).
+- **Round 5 of short searches** (15-16 Nov): the 20 thinnest topics and sectors got ~320 new short searches in
+  `catalog.json`. Each is appended while a topic has fewer than 50 shots, else it replaces a "dead" plain-string shot
+  (no published photo, oldest first). Built with `--redo` in four 2-hour pieces. Every pick graded by eye:
+  Unsplash 51 of 112 grade 3, Commons 26 of 252. Gains were biggest where the topic was thinnest (crash +9, bonds +10,
+  earnings +7, crypto +7, quantum +6) and smallest where it was already near 40 (inflation +0, materials +2).
+- **Merged into main (16 Nov, PR #8)**: 5,911 published photos: companies 3,969, topics 1,451 (average 39.2),
+  sectors 491 (average 44.6). Thinnest: quantum 21, ai 26, nuclear 30, fed 32, earnings 33, dollar 35, ev 35.
+  273 Unsplash download counts pending.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
