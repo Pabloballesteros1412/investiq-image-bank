@@ -262,6 +262,15 @@ Decisions (Pablo, 4 Nov 2026):
 - **Merged into main (16 Nov, PR #8)**: 5,911 published photos: companies 3,969, topics 1,451 (average 39.2),
   sectors 491 (average 44.6). Thinnest: quantum 21, ai 26, nuclear 30, fed 32, earnings 33, dollar 35, ev 35.
   273 Unsplash download counts pending.
+- **Refill 5, round 6, refill 6** (16 Nov): refill 5 of all 47 thin topics from the cache (stock 31 of 93 grade 3,
+  Commons 12 of 339); round 6 = 84 short searches in 13 thin topics (`replace_shots.py` rules as round 5; stock 7 of
+  32 grade 3, Commons 6 of 156); refill 6 of the 46 below 50 (stock 12 of 67, Commons 9 of 297). `review.py` fix: a
+  Commons file whose thumbnail Wikimedia cannot render ("failing image" 429) gets a black tile (grade it 1) instead of
+  stopping the sheets. Each pass now adds only ~20-45 photos.
+- **Merged into main (16 Nov, PR #9)**: 5,994 published photos: companies 3,969, topics 1,520 (average 41.1), sectors
+  505 (average 45.9). Thinnest: quantum 24, ai 30, nuclear 30, fed 36, earnings 36, ev 36, banks 37. 310 Unsplash
+  download counts pending. Next: round 7 (~330 short searches for the 14 thinnest; glp1 has 20 shots and metals 33,
+  so theirs are appended).
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
