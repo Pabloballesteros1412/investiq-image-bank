@@ -701,6 +701,23 @@
    "author_url": "https://wordpress.org/photos/author/masino1967/",
    "provider": "wordpress",
    "source": "https://wordpress.org/photos/photo/9396a7988b/"
+  },
+  {
+   "shows": "1 dollar bill",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1_dollar_bill.jpg/1920px-1_dollar_bill.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/1_dollar_bill.jpg/500px-1_dollar_bill.jpg",
+   "size": [
+    1920,
+    1079
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pictures of Money, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:1_dollar_bill.jpg"
   }
  ]
 }

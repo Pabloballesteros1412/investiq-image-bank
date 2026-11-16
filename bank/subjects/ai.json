@@ -468,24 +468,6 @@
    "source": "https://commons.wikimedia.org/wiki/File:Client_Project_Hashcat_Testing_With_an_AMD_Epyc_Supermicro_Nvidia_GPU_Server_Using_Proxmox_(Lawrence_Systems)_02.png"
   },
   {
-   "shows": "Programming is just like solving a Rubik’s Cube.",
-   "url": "https://pd.w.org/2022/06/603629b4d12a55153.69800472.jpg",
-   "preview": "https://pd.w.org/2022/06/603629b4d12a55153.69800472-768x432.jpg",
-   "size": [
-    4000,
-    2250
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Keramot UL Islam on WordPress.org Photos, CC0",
-   "licence": "CC0 1.0",
-   "author_url": "https://wordpress.org/photos/author/sourav926/",
-   "provider": "wordpress",
-   "source": "https://wordpress.org/photos/photo/603629b4d1/"
-  },
-  {
    "shows": "A close up of a printed circuit board",
    "url": "https://images.unsplash.com/photo-1631377153566-b294bfd5f9f4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNpcmN1aXR8ZW58MXx8fHwxNzk0NjYxODcxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1631377153566-b294bfd5f9f4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fGNpcmN1aXR8ZW58MXx8fHwxNzk0NjYxODcxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -504,22 +486,21 @@
    "source": "https://unsplash.com/photos/a-close-up-of-a-printed-circuit-board-4dEDeUB4S3M?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Red and white love neon light signage",
-   "url": "https://images.unsplash.com/photo-1631058269796-6ea2654cc78b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG5lb24lMjBsaWdodHN8ZW58MXx8fHwxNzk0NzExODI0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1631058269796-6ea2654cc78b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG5lb24lMjBsaWdodHN8ZW58MXx8fHwxNzk0NzExODI0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "NOIRLab HQ Server Racks (6V6A0404-CC)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NOIRLab_HQ_Server_Racks_%286V6A0404-CC%29.jpg/1920px-NOIRLab_HQ_Server_Racks_%286V6A0404-CC%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NOIRLab_HQ_Server_Racks_%286V6A0404-CC%29.jpg/500px-NOIRLab_HQ_Server_Racks_%286V6A0404-CC%29.jpg",
    "size": [
-    1200,
-    1600
+    1920,
+    1280
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Jérémy Chevallier on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@rarelyjeremy?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/red-and-white-love-neon-light-signage-DzWIZzxisHY?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "NOIRLab/NSF/AURA/T. Slovinský, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0404-CC).jpg"
   }
  ]
 }

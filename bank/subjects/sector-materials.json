@@ -733,22 +733,38 @@
    "source": "https://unsplash.com/photos/bundles-of-rusty-rebar-steel-rods-ARW8QOYR_bI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Man in white jacket and black pants playing on snow",
-   "url": "https://images.unsplash.com/photo-1612668401767-a2196c1c6670?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHVscHxlbnwxfHx8fDE3OTQ4MDI0MTh8MA&ixlib=rb-4.1.0&w=2260&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1612668401767-a2196c1c6670?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cHVscHxlbnwxfHx8fDE3OTQ4MDI0MTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "Kongensbro gravel pit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kongensbro_gravel_pit_2014-09-17.jpg/1920px-Kongensbro_gravel_pit_2014-09-17.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Kongensbro_gravel_pit_2014-09-17.jpg/500px-Kongensbro_gravel_pit_2014-09-17.jpg",
    "size": [
-    2260,
-    1501
+    1920,
+    426
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Artem Labunsky on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@labunsky?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/man-in-white-jacket-and-black-pants-playing-on-snow-miW5lfeiErE?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "Slaunger, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kongensbro_gravel_pit_2014-09-17.jpg"
+  },
+  {
+   "shows": "Enamelled litz copper wire",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enamelled_litz_copper_wire.JPG/1920px-Enamelled_litz_copper_wire.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Enamelled_litz_copper_wire.JPG/500px-Enamelled_litz_copper_wire.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alisdojo, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Enamelled_litz_copper_wire.JPG"
   }
  ]
 }
