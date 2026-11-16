@@ -7091,10 +7091,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A man running on the beach at sunset: Photo by Shengpengpeng Cai on Unsplash. [cpPteaD54nk](https://unsplash.com/photos/a-man-running-on-the-beach-at-sunset-cpPteaD54nk?utm_source=investiq_image_bank&utm_medium=referral)
 - Blue and white tablet in container: Photo by Pawel Czerwinski on Unsplash. [2Y8ol_OBS1I](https://unsplash.com/photos/blue-and-white-tablet-in-container-2Y8ol_OBS1I?utm_source=investiq_image_bank&utm_medium=referral)
 - A pile of white pills sitting on top of a blue table: Photo by Hal Gatewood on Unsplash. [_jbClosDsD4](https://unsplash.com/photos/a-pile-of-white-pills-sitting-on-top-of-a-blue-table-_jbClosDsD4?utm_source=investiq_image_bank&utm_medium=referral)
-- View of downtown Princeton, West Virginia, including an old sign from a time when advertising "drugs and drinks" had a more benign connotation. The drugs at the: Photo: Carol M. Highsmith, Library of Congress, public domain. [2015634376](https://www.loc.gov/item/2015634376/)
 - A bottle filled with pills sitting on top of a wooden table: Photo by Bruno Guerrero on Unsplash. [FDvArkoGyvI](https://unsplash.com/photos/a-bottle-filled-with-pills-sitting-on-top-of-a-wooden-table-FDvArkoGyvI?utm_source=investiq_image_bank&utm_medium=referral)
 - White medication capsules: Photo by The-Lore on Unsplash. [rRBtKW_aw_U](https://unsplash.com/photos/white-medication-capsules-rRBtKW_aw_U?utm_source=investiq_image_bank&utm_medium=referral)
 - A blood glucose meter with a lancing device and test strips on white: Photo by Jane Korsak on Unsplash. [BlgBBf_b_94](https://unsplash.com/photos/blood-glucose-meter-with-test-strips-BlgBBf_b_94?utm_source=investiq_image_bank&utm_medium=referral)
+- Testing Blood Sugar Levels: Reversing Your Diabetes Today, CC0, via Wikimedia Commons. [Testing Blood Sugar Levels.jpg](https://commons.wikimedia.org/wiki/File:Testing_Blood_Sugar_Levels.jpg)
 - White digital device beside white pen: Photo by Towfiqu barbhuiya on Unsplash. [ZJaK9jQXeDA](https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## US politics & markets (politics)
@@ -7137,9 +7137,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large metal bell sitting on top of a table: Photo by Joe Richmond on Unsplash. [ewmbK6hOD0g](https://unsplash.com/photos/a-large-metal-bell-sitting-on-top-of-a-table-ewmbK6hOD0g?utm_source=investiq_image_bank&utm_medium=referral)
 - A pole with a sign that says polling station: Photo by Phil Hearing on Unsplash. [bu27Y0xg7dk](https://unsplash.com/photos/a-pole-with-a-sign-that-says-polling-station-bu27Y0xg7dk?utm_source=investiq_image_bank&utm_medium=referral)
 - Statue of Liberty, New York: Photo by AussieActive on Unsplash. [1brtlzDq-o8](https://unsplash.com/photos/statue-of-liberty-new-york-1brtlzDq-o8?utm_source=investiq_image_bank&utm_medium=referral)
-- A statue of abraham lincoln in front of the lincoln memorial: Photo by Chad Stembridge on Unsplash. [mX9l0uB5IT4](https://unsplash.com/photos/a-statue-of-abraham-lincoln-in-front-of-the-lincoln-memorial-mX9l0uB5IT4?utm_source=investiq_image_bank&utm_medium=referral)
 - A view of the jefferson memorial from across the water: Photo by Rafik Wahba on Unsplash. [x0QoQy55Q6Q](https://unsplash.com/photos/a-view-of-the-jefferson-memorial-from-across-the-water-x0QoQy55Q6Q?utm_source=investiq_image_bank&utm_medium=referral)
-- Two men sitting at a table talking to each other: Photo by Llyfrgell Genedlaethol Cymru / The National Library of Wales on Unsplash. [8ihrJYyMiSc](https://unsplash.com/photos/two-men-sitting-at-a-table-talking-to-each-other-8ihrJYyMiSc?utm_source=investiq_image_bank&utm_medium=referral)
 - American Bald Eagle flying on sky: Photo by Mathew Schwartz on Unsplash. [dJb4w5hy0OA](https://unsplash.com/photos/american-bald-eagle-flying-on-sky-dJb4w5hy0OA?utm_source=investiq_image_bank&utm_medium=referral)
 - A large group of people standing in front of a white building: Photo by Nils Huenerfuerst on Unsplash. [fNXYCoIZ0jA](https://unsplash.com/photos/a-large-group-of-people-standing-in-front-of-a-white-building-fNXYCoIZ0jA?utm_source=investiq_image_bank&utm_medium=referral)
 
@@ -7222,11 +7220,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Optical fiber at INESC TEC: INESC TEC, CC BY 3.0, via Wikimedia Commons. [Optical fiber at INESC TEC.jpg](https://commons.wikimedia.org/wiki/File:Optical_fiber_at_INESC_TEC.jpg)
 - A prism refracts light into a rainbow spectrum: Photo by Artem on Unsplash. [a18lCneoV4E](https://unsplash.com/photos/a-prism-refracts-light-into-a-rainbow-spectrum-a18lCneoV4E?utm_source=investiq_image_bank&utm_medium=referral)
 - White and blue light on dark room: Photo by Denny Müller on Unsplash. [JyRTi3LoQnc](https://unsplash.com/photos/white-and-blue-light-on-dark-room-JyRTi3LoQnc?utm_source=investiq_image_bank&utm_medium=referral)
-- The chemical laboratory where Edison's teams worked on chemicals that were used in batteries, phonograph records and other inventions, at The Thomas Edison Nati: Photo: Carol M. Highsmith, Library of Congress, public domain. [2017882242](https://www.loc.gov/item/2017882242/)
-- Strawberry ice cream in cone: Photo by Karolina Kołodziejczak on Unsplash. [UK7uHdNKLtA](https://unsplash.com/photos/strawberry-ice-cream-in-cone-UK7uHdNKLtA?utm_source=investiq_image_bank&utm_medium=referral)
-- Brass uplight chandelier turned on in room: Photo by Marcos Ferreira on Unsplash. [pIKMAutoksY](https://unsplash.com/photos/brass-uplight-chandelier-turned-on-in-room-pIKMAutoksY?utm_source=investiq_image_bank&utm_medium=referral)
-- A person in white gloves looking through a microscope: Photo by Indra Projects on Unsplash. [L1ip8dEWuzE](https://unsplash.com/photos/a-person-in-white-gloves-looking-through-a-microscope-L1ip8dEWuzE?utm_source=investiq_image_bank&utm_medium=referral)
-- A close up of a machine cutting a piece of metal: Photo by Cemrecan Yurtman on Unsplash. [d0-dqCkmnuk](https://unsplash.com/photos/a-close-up-of-a-machine-cutting-a-piece-of-metal-d0-dqCkmnuk?utm_source=investiq_image_bank&utm_medium=referral)
+- Liquid helium dewars: Adville, CC BY-SA 4.0, via Wikimedia Commons. [Liquid helium dewars.jpg](https://commons.wikimedia.org/wiki/File:Liquid_helium_dewars.jpg)
+- Six commercial lasers in operation, showing the range of different colored light beams that can be produced, from red to violet. From the top, the wavelengths o: 彭家杰, CC BY 2.5, via Wikimedia Commons. [LASER.jpg](https://commons.wikimedia.org/wiki/File:LASER.jpg)
 
 ## Robotics & automation (robotics)
 
@@ -7463,7 +7458,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Metal bars stacked neatly in a warehouse: Photo by Zoshua Colah on Unsplash. [IR93Hx_ybg8](https://unsplash.com/photos/metal-bars-stacked-neatly-in-a-warehouse-IR93Hx_ybg8?utm_source=investiq_image_bank&utm_medium=referral)
 - Mirny in Yakutia: Staselnik, CC BY-SA 3.0, via Wikimedia Commons. [Mirny in Yakutia.jpg](https://commons.wikimedia.org/wiki/File:Mirny_in_Yakutia.jpg)
 - Man on ladder welding post: Photo by Max LaRochelle on Unsplash. [QzP1GcDOSC8](https://unsplash.com/photos/man-on-ladder-welding-post-QzP1GcDOSC8?utm_source=investiq_image_bank&utm_medium=referral)
-- Front facade of Rosenborg Castle in Copenhagen featuring Dutch Renaissance red brick walls, sandstone decorations, and green copper spires under a clear blue sk: Photo by Iker Santos Insua on WordPress.org Photos, CC0. [240027](https://wordpress.org/photos/photo/3686a96f0c/)
+- A coil steel car with the hood removed, displaying the load inside: Wheresmything, CC BY-SA 4.0, via Wikimedia Commons. [BNSF 535253.jpg](https://commons.wikimedia.org/wiki/File:BNSF_535253.jpg)
+- Bundles of cathode copper: ChrisFountain, CC BY-SA 3.0, via Wikimedia Commons. [Bundles of cathode copper.png](https://commons.wikimedia.org/wiki/File:Bundles_of_cathode_copper.png)
 
 ## Travel & airlines (travel)
 

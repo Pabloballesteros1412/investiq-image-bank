@@ -725,24 +725,6 @@
    "source": "https://unsplash.com/photos/a-pile-of-white-pills-sitting-on-top-of-a-blue-table-_jbClosDsD4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "View of downtown Princeton, West Virginia, including an old sign from a time when advertising \"drugs and drinks\" had a more benign connotation. The drugs at the",
-   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:34300:34360/full/2057,/0/default.jpg",
-   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:34300:34360/full/500,/0/default.jpg",
-   "size": [
-    2057,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
-   "provider": "loc",
-   "source": "https://www.loc.gov/item/2015634376/"
-  },
-  {
    "shows": "A bottle filled with pills sitting on top of a wooden table",
    "url": "https://images.unsplash.com/photo-1631669969504-f35518bf96ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGlsbCUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ4MzA0NjB8MA&ixlib=rb-4.1.0&w=1875&q=80&fm=jpg&fit=max",
    "preview": "https://images.unsplash.com/photo-1631669969504-f35518bf96ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGlsbCUyMGJvdHRsZXxlbnwxfHx8fDE3OTQ4MzA0NjB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
@@ -795,6 +777,23 @@
    "author_url": "https://unsplash.com/@jottiko?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/blood-glucose-meter-with-test-strips-BlgBBf_b_94?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Testing Blood Sugar Levels",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Testing_Blood_Sugar_Levels.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Testing_Blood_Sugar_Levels.jpg/500px-Testing_Blood_Sugar_Levels.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Reversing Your Diabetes Today, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Testing_Blood_Sugar_Levels.jpg"
   },
   {
    "shows": "White digital device beside white pen",
