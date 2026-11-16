@@ -5553,6 +5553,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Group of people inside the restaurant: Photo by kayleigh harrington on Unsplash. [yhn4okt6ci0](https://unsplash.com/photos/group-of-people-inside-the-restaurant-yhn4okt6ci0?utm_source=investiq_image_bank&utm_medium=referral)
 - A hotel lobby with a chandelier hanging from the ceiling: Photo by Quang Nguyen Vinh on Unsplash. [WR1bkBstInw](https://unsplash.com/photos/a-hotel-lobby-with-a-chandelier-hanging-from-the-ceiling-WR1bkBstInw?utm_source=investiq_image_bank&utm_medium=referral)
 - Close-up of a car headlight with glowing blue circular rings and red center: Photo by Richard Biros on Unsplash. [pXFDctQsUys](https://unsplash.com/photos/car-headlight-with-blue-glowing-rings-pXFDctQsUys?utm_source=investiq_image_bank&utm_medium=referral)
+- An audience in a dark cinema with red velvet seats facing a bright screen: Photo by Jake Hills on Unsplash. [23LET4Hxj_U](https://unsplash.com/photos/cinema-audience-in-dark-theater-23LET4Hxj_U?utm_source=investiq_image_bank&utm_medium=referral)
+- A casino room filled with lots of slot machines: Photo by Cindy F on Unsplash. [fgwlWRwRf5g](https://unsplash.com/photos/a-casino-room-filled-with-lots-of-slot-machines-fgwlWRwRf5g?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Communication services sector (sector-communication)
 
@@ -5802,6 +5804,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A foggy landscape with power lines in the distance: Photo by Joshua Bayliss on Unsplash. [SPnbfrfLywU](https://unsplash.com/photos/a-foggy-landscape-with-power-lines-in-the-distance-SPnbfrfLywU?utm_source=investiq_image_bank&utm_medium=referral)
 - Water drop on persons hand: Photo by Austin Kehmeier on Unsplash. [k-_7Z5z5--Q](https://unsplash.com/photos/water-drop-on-persons-hand-k-_7Z5z5--Q?utm_source=investiq_image_bank&utm_medium=referral)
 - Solar panels on a roof: Photo by Soren H on Unsplash. [omfN1pW-n2Y](https://unsplash.com/photos/solar-panels-on-a-roof-omfN1pW-n2Y?utm_source=investiq_image_bank&utm_medium=referral)
+- Person opening faucet: Photo by Jacek Dylag on Unsplash. [Vve7XkiUq_Y](https://unsplash.com/photos/person-opening-faucet-Vve7XkiUq_Y?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Real estate sector (sector-real-estate)
 
@@ -5850,6 +5853,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Four white painted buildings: Photo by Valentyn Chernetskyi on Unsplash. [jUP7m4Svtus](https://unsplash.com/photos/four-white-painted-buildings-jUP7m4Svtus?utm_source=investiq_image_bank&utm_medium=referral)
 - Sunset Toronto Skyline Panorama Crop from Snake Island: Jchmrt, CC BY-SA 4.0, via Wikimedia Commons. [Sunset Toronto Skyline Panorama Crop from Snake Island.jpg](https://commons.wikimedia.org/wiki/File:Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg)
 - Chicago September 2016-20: Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons. [Chicago September 2016-20.jpg](https://commons.wikimedia.org/wiki/File:Chicago_September_2016-20.jpg)
+- Aerial view of city under cloudy sky during day time: Photo by Redd Francisco on Unsplash. [Dl_Ya8eNRpk](https://unsplash.com/photos/aerial-view-of-city-under-cloudy-sky-during-day-time-Dl_Ya8eNRpk?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Materials sector (sector-materials)
 
@@ -5936,6 +5940,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - White concrete building: Photo by Suzy Brooks on Unsplash. [BbpEbkAy818](https://unsplash.com/photos/white-concrete-building-BbpEbkAy818?utm_source=investiq_image_bank&utm_medium=referral)
 - One hundred dollar bills scattered on a surface: Photo by Giorgio Trovato on Unsplash. [wt8LQV7kpgg](https://unsplash.com/photos/one-hundred-dollar-bills-scattered-on-a-surface-wt8LQV7kpgg?utm_source=investiq_image_bank&utm_medium=referral)
 - Knowledge Vault, Bank of Thailand Learning Center, December 2024: Paul_012, CC BY-SA 4.0, via Wikimedia Commons. [Knowledge Vault, Bank of Thailand Learning Center, December 2024.jpg](https://commons.wikimedia.org/wiki/File:Knowledge_Vault,_Bank_of_Thailand_Learning_Center,_December_2024.jpg)
+- A view of the capitol building from across the water: Photo by Connor Gan on Unsplash. [R8NnEiKp_Vo](https://unsplash.com/photos/a-view-of-the-capitol-building-from-across-the-water-R8NnEiKp_Vo?utm_source=investiq_image_bank&utm_medium=referral)
+- Three gold bars stacked on top of each other: Photo by Scottsdale Mint on Unsplash. [ktXmcyqYx54](https://unsplash.com/photos/three-gold-bars-stacked-on-top-of-each-other-ktXmcyqYx54?utm_source=investiq_image_bank&utm_medium=referral)
+- 80 1 dollar bills in a homemade banknote strap: BrayLockBoy, CC BY-SA 4.0, via Wikimedia Commons. [80 1 dollar bills in a homemade banknote strap.jpg](https://commons.wikimedia.org/wiki/File:80_1_dollar_bills_in_a_homemade_banknote_strap.jpg)
+- A stack of gold bars sitting on top of a wooden table: Photo by Scottsdale Mint on Unsplash. [2jjc94apOCY](https://unsplash.com/photos/a-stack-of-gold-bars-sitting-on-top-of-a-wooden-table-2jjc94apOCY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Inflation & cost of living (inflation)
 
@@ -5978,6 +5986,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Münster, Domplatz, Wochenmarkt -- 2019 -- 2644: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Münster, Domplatz, Wochenmarkt -- 2019 -- 2644.jpg](https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Domplatz,_Wochenmarkt_--_2019_--_2644.jpg)
 - A man holding a box full of onions and radishes: Photo by Carl Tronders on Unsplash. [6SXMR2hRPB4](https://unsplash.com/photos/a-man-holding-a-box-full-of-onions-and-radishes-6SXMR2hRPB4?utm_source=investiq_image_bank&utm_medium=referral)
 - Corn in a shopping trolley: Nenad Stojkovic, CC BY 2.0, via Wikimedia Commons. [Corn in a shopping trolley. (51964905166).jpg](https://commons.wikimedia.org/wiki/File:Corn_in_a_shopping_trolley._(51964905166).jpg)
+- Sliced breads: Photo by Rodolfo Marques on Unsplash. [GzBO_o0RvEg](https://unsplash.com/photos/sliced-breads-GzBO_o0RvEg?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding wallet and US dollar bills: Photo by Artem Beliaikin on Unsplash. [Dz-Iij3CrpM](https://unsplash.com/photos/person-holding-wallet-and-us-dollar-bills-Dz-Iij3CrpM?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Recession & slowdown (recession)
 
@@ -6189,6 +6199,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - NOIRLab HQ Server Racks (6V6A0404-CC): NOIRLab/NSF/AURA/T. Slovinský, CC BY 4.0, via Wikimedia Commons. [NOIRLab HQ Server Racks (6V6A0404-CC).jpg](https://commons.wikimedia.org/wiki/File:NOIRLab_HQ_Server_Racks_(6V6A0404-CC).jpg)
 - Close-up of a computer processor chip on circuit board: Photo by He Junhui on Unsplash. [cMoE2tU_BbM](https://unsplash.com/photos/close-up-of-a-computer-processor-chip-on-circuit-board-cMoE2tU_BbM?utm_source=investiq_image_bank&utm_medium=referral)
 - Black DJI Mavi quadcopter near body of water: Photo by Karl Greif on Unsplash. [H5IXIH254AU](https://unsplash.com/photos/black-dji-mavi-quadcopter-near-body-of-water-H5IXIH254AU?utm_source=investiq_image_bank&utm_medium=referral)
+- Monitor displaying index.html codes: Photo by Pankaj Patel on Unsplash. [_SgRNwAVNKw](https://unsplash.com/photos/monitor-displaying-indexhtml-codes-_SgRNwAVNKw?utm_source=investiq_image_bank&utm_medium=referral)
+- Black fan device close-up photography: Photo by Christian Wiediger on Unsplash. [u03OCRlSd2M](https://unsplash.com/photos/black-fan-device-close-up-photography-u03OCRlSd2M?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6361,6 +6373,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Gold round coin on white surface: Photo by Derrick Treadwell on Unsplash. [vvAtwDoGZxA](https://unsplash.com/photos/gold-round-coin-on-white-surface-vvAtwDoGZxA?utm_source=investiq_image_bank&utm_medium=referral)
 - Gold and silver beaded necklace: Photo by Vaibhav Nagare on Unsplash. [62sDgpfljOI](https://unsplash.com/photos/gold-and-silver-beaded-necklace-62sDgpfljOI?utm_source=investiq_image_bank&utm_medium=referral)
 - A pile of jewelry sitting on top of a table: Photo by János Venczák on Unsplash. [nK_sN2yorxw](https://unsplash.com/photos/a-pile-of-jewelry-sitting-on-top-of-a-table-nK_sN2yorxw?utm_source=investiq_image_bank&utm_medium=referral)
+- Gold (Element - 79): James St. John, CC BY 2.0, via Wikimedia Commons. [Gold (Element - 79).jpg](https://commons.wikimedia.org/wiki/File:Gold_(Element_-_79).jpg)
 
 ## Oil & energy (oil)
 
@@ -6505,6 +6518,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - People walking on a wet city street under glowing neon signs in Hong Kong: Photo by Nic Low on Unsplash. [DdQkVaQbSsg](https://unsplash.com/photos/neon-signs-on-wet-hong-kong-street-DdQkVaQbSsg?utm_source=investiq_image_bank&utm_medium=referral)
 - Chinese flag with yellow stars hanging outdoors: Photo by Sou Jest on Unsplash. [60RVB5A56VE](https://unsplash.com/photos/chinese-flag-with-yellow-stars-hanging-outdoors-60RVB5A56VE?utm_source=investiq_image_bank&utm_medium=referral)
 - Great Wall of China: Photo by Jamie Street on Unsplash. [zhiQORykuwQ](https://unsplash.com/photos/great-wall-of-china-zhiQORykuwQ?utm_source=investiq_image_bank&utm_medium=referral)
+- City skyline during night time: Photo by Dave Xu on Unsplash. [0vHPFLQqzSs](https://unsplash.com/photos/city-skyline-during-night-time-0vHPFLQqzSs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## US dollar & currencies (dollar)
 
@@ -6550,6 +6564,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - 1 dollar bill: Pictures of Money, CC BY 2.0, via Wikimedia Commons. [1 dollar bill.jpg](https://commons.wikimedia.org/wiki/File:1_dollar_bill.jpg)
 - One stands out 002 2025 01 01: Friedrich Haag, CC BY-SA 4.0, via Wikimedia Commons. [One stands out 002 2025 01 01.jpg](https://commons.wikimedia.org/wiki/File:One_stands_out_002_2025_01_01.jpg)
 - 2013 10 23 Economy Barclays Remittance Money Transfer 006: AMISOM Public Information, CC0, via Wikimedia Commons. [2013 10 23 Economy Barclays Remittance Money Transfer 006 (10470877794).jpg](https://commons.wikimedia.org/wiki/File:2013_10_23_Economy_Barclays_Remittance_Money_Transfer_006_(10470877794).jpg)
+- 10 euro on brown wooden table: Photo by CARTIST on Unsplash. [B5NMSjIJGn4](https://unsplash.com/photos/10-euro-on-brown-wooden-table-B5NMSjIJGn4?utm_source=investiq_image_bank&utm_medium=referral)
+- 20 pounds bank of england: Photo by Colin Watts on Unsplash. [8WRRJ4xJeyg](https://unsplash.com/photos/20-pounds-bank-of-england-8WRRJ4xJeyg?utm_source=investiq_image_bank&utm_medium=referral)
+- A pile of five different british pound notes: Photo by Anthony on Unsplash. [64iJ1Q1TwEM](https://unsplash.com/photos/a-pile-of-five-different-british-pound-notes-64iJ1Q1TwEM?utm_source=investiq_image_bank&utm_medium=referral)
+- Money - Flickr - AMagill: Andrew Magill from Boulder, USA, CC BY 2.0, via Wikimedia Commons. [Money - Flickr - AMagill.jpg](https://commons.wikimedia.org/wiki/File:Money_-_Flickr_-_AMagill.jpg)
 
 ## Treasuries, bonds & national debt (bonds)
 
@@ -6596,6 +6614,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A jar of world coins: Billjones94, CC BY-SA 4.0, via Wikimedia Commons. [A jar of world coins.jpg](https://commons.wikimedia.org/wiki/File:A_jar_of_world_coins.jpg)
 - Sparepenger på Norgesglass: Øyvind Holmstad, CC BY-SA 4.0, via Wikimedia Commons. [Sparepenger på Norgesglass.jpg](https://commons.wikimedia.org/wiki/File:Sparepenger_p%C3%A5_Norgesglass.jpg)
 - A bunch of silver bars sitting on top of each other: Photo by Scottsdale Mint on Unsplash. [Y40F09ajloY](https://unsplash.com/photos/a-bunch-of-silver-bars-sitting-on-top-of-each-other-Y40F09ajloY?utm_source=investiq_image_bank&utm_medium=referral)
+- Cleveland FRB Vault Door - brightened: Spamguy at English Wikipedia, CC BY 2.5, via Wikimedia Commons. [Cleveland FRB Vault Door - brightened.jpg](https://commons.wikimedia.org/wiki/File:Cleveland_FRB_Vault_Door_-_brightened.jpg)
 
 ## Housing market & mortgages (housing)
 
@@ -6640,6 +6659,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A "sold" sign and roses in front of a house: Photo by Bruce Barrow on Unsplash. [OVsy6lfk56M](https://unsplash.com/photos/a-sold-sign-and-roses-in-front-of-a-house-OVsy6lfk56M?utm_source=investiq_image_bank&utm_medium=referral)
 - A miniature wooden house beside a small model tree on a green base: Photo by Albin Biju on Unsplash. [c7GGXZMbkU4](https://unsplash.com/photos/miniature-wooden-house-and-model-tree-c7GGXZMbkU4?utm_source=investiq_image_bank&utm_medium=referral)
 - Aerial view of suburban neighborhood with trees and mountains: Photo by Alex Reynolds on Unsplash. [yfn7NHjBgck](https://unsplash.com/photos/aerial-view-of-suburban-neighborhood-with-trees-and-mountains-yfn7NHjBgck?utm_source=investiq_image_bank&utm_medium=referral)
+- Brown wooden house surrounded by green trees during daytime: Photo by Josh Hild on Unsplash. [6kVGxIHriTA](https://unsplash.com/photos/brown-wooden-house-surrounded-by-green-trees-during-daytime-6kVGxIHriTA?utm_source=investiq_image_bank&utm_medium=referral)
+- A multi-story concrete building under construction with bamboo scaffolding on the exterior: Photo by Design Hills on Unsplash. [hfI0pr6g4yw](https://unsplash.com/photos/concrete-building-under-construction-hfI0pr6g4yw?utm_source=investiq_image_bank&utm_medium=referral)
+- Red and white wooden house on green grass field during daytime: Photo by Zac Gudakov on Unsplash. [-UHyhmRhzrU](https://unsplash.com/photos/red-and-white-wooden-house-on-green-grass-field-during-daytime--UHyhmRhzrU?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Earnings season (earnings)
 
@@ -6679,6 +6701,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Feather quill rests on an old handwritten ledger: Photo by camera obscura on Unsplash. [mAcZ7DXz5QM](https://unsplash.com/photos/feather-quill-rests-on-an-old-handwritten-ledger-mAcZ7DXz5QM?utm_source=investiq_image_bank&utm_medium=referral)
 - Rochaverá Corporate Towers, São Paulo, Brazil: Wilfredor, CC BY-SA 4.0, via Wikimedia Commons. [Rochaverá Corporate Towers, São Paulo, Brazil.jpg](https://commons.wikimedia.org/wiki/File:Rochaver%C3%A1_Corporate_Towers,_S%C3%A3o_Paulo,_Brazil.jpg)
 - A panoramic view of a large city skyline with tall modern skyscrapers overlooking a sprawling green urban park under a clear evening sky: Photo by Joel Peralta on WordPress.org Photos, CC0. [235545](https://wordpress.org/photos/photo/8766a7044c/)
+- Bowling Green td ( ) 06 - 26 Broadway, Charging Bull: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [Bowling Green td (2018-12-13) 06 - 26 Broadway, Charging Bull.jpg](https://commons.wikimedia.org/wiki/File:Bowling_Green_td_(2018-12-13)_06_-_26_Broadway,_Charging_Bull.jpg)
+- Bundle of newspaper on table: Photo by Mr Cup / Fabien Barral on Unsplash. [Mwuod2cm8g4](https://unsplash.com/photos/bundle-of-newspaper-on-table-Mwuod2cm8g4?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
@@ -6763,6 +6787,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - White electric car charging at a station: Photo by smart-me AG on Unsplash. [WZz3bISfJa8](https://unsplash.com/photos/white-electric-car-charging-at-a-station-WZz3bISfJa8?utm_source=investiq_image_bank&utm_medium=referral)
 - Electric car charging point, Wetherby service station (30th November 2019): Mtaylor848, CC BY-SA 4.0, via Wikimedia Commons. [Electric car charging point, Wetherby service station (30th November 2019).jpg](https://commons.wikimedia.org/wiki/File:Electric_car_charging_point,_Wetherby_service_station_(30th_November_2019).jpg)
 - CCS (Type2 Combo) Charging Plug: Danilo Bargen, CC BY-SA 4.0, via Wikimedia Commons. [CCS (Type2 Combo) Charging Plug.jpg](https://commons.wikimedia.org/wiki/File:CCS_(Type2_Combo)_Charging_Plug.jpg)
+- A car parked on the side of the road: Photo by Niko C on Unsplash. [w6UzUaPurFM](https://unsplash.com/photos/a-car-parked-on-the-side-of-the-road-w6UzUaPurFM?utm_source=investiq_image_bank&utm_medium=referral)
+- White bmw m 3 on gray sand: Photo by Craventure Media on Unsplash. [cYWS7QaH9uY](https://unsplash.com/photos/white-bmw-m-3-on-gray-sand-cYWS7QaH9uY?utm_source=investiq_image_bank&utm_medium=referral)
+- A car being built in a large factory: Photo by Martin Geiger on Unsplash. [UL7rV0xKV5E](https://unsplash.com/photos/a-car-being-built-in-a-large-factory-UL7rV0xKV5E?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and red motorcycle parked beside gray wall: Photo by Ather Energy on Unsplash. [1CWvpZIRBXc](https://unsplash.com/photos/black-and-red-motorcycle-parked-beside-gray-wall-1CWvpZIRBXc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Nuclear power & uranium (nuclear)
 
@@ -6796,6 +6824,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large ferris wheel sitting in the middle of a forest: Photo by Mads Eneqvist on Unsplash. [IM4b4ytWetg](https://unsplash.com/photos/a-large-ferris-wheel-sitting-in-the-middle-of-a-forest-IM4b4ytWetg?utm_source=investiq_image_bank&utm_medium=referral)
 - White and red tower under cloudy sky during daytime: Photo by Gregorio Nuti on Unsplash. [LNJWdaEl3rg](https://unsplash.com/photos/white-and-red-tower-under-cloudy-sky-during-daytime-LNJWdaEl3rg?utm_source=investiq_image_bank&utm_medium=referral)
 - Transmission towers at sunset in East Texas: Matthew T Rader, CC BY-SA 4.0, via Wikimedia Commons. [Transmission towers at sunset in East Texas.jpg](https://commons.wikimedia.org/wiki/File:Transmission_towers_at_sunset_in_East_Texas.jpg)
+- Nuclear fuel rods: IAEA Imagebank, CC BY 2.0, via Wikimedia Commons. [Nuclear fuel rods (02011827).jpg](https://commons.wikimedia.org/wiki/File:Nuclear_fuel_rods_(02011827).jpg)
 
 ## Defense & geopolitics (defense)
 
@@ -6932,6 +6961,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Milwaukee July 2022 032 (Loyalty Building vault): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Milwaukee July 2022 032 (Loyalty Building vault).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee_July_2022_032_(Loyalty_Building_vault).jpg)
 - Stack of coins 0214: Dori, public domain, via Wikimedia Commons. [Stack of coins 0214.jpg](https://commons.wikimedia.org/wiki/File:Stack_of_coins_0214.jpg)
 - Vault Door, Federal Hall: Spinklink, CC BY-SA 4.0, via Wikimedia Commons. [Vault Door, Federal Hall.jpg](https://commons.wikimedia.org/wiki/File:Vault_Door,_Federal_Hall.jpg)
+- Customer paying with card at coffee shop counter: Photo by SpotOn on Unsplash. [QzPNnCy_46g](https://unsplash.com/photos/customer-paying-with-card-at-coffee-shop-counter-QzPNnCy_46g?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Investing basics, retirement & index funds (investing)
 
@@ -7072,6 +7102,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A man running on the beach at sunset: Photo by Shengpengpeng Cai on Unsplash. [cpPteaD54nk](https://unsplash.com/photos/a-man-running-on-the-beach-at-sunset-cpPteaD54nk?utm_source=investiq_image_bank&utm_medium=referral)
 - Blue and white tablet in container: Photo by Pawel Czerwinski on Unsplash. [2Y8ol_OBS1I](https://unsplash.com/photos/blue-and-white-tablet-in-container-2Y8ol_OBS1I?utm_source=investiq_image_bank&utm_medium=referral)
 - A pile of white pills sitting on top of a blue table: Photo by Hal Gatewood on Unsplash. [_jbClosDsD4](https://unsplash.com/photos/a-pile-of-white-pills-sitting-on-top-of-a-blue-table-_jbClosDsD4?utm_source=investiq_image_bank&utm_medium=referral)
+- A bottle filled with pills sitting on top of a wooden table: Photo by Bruno Guerrero on Unsplash. [FDvArkoGyvI](https://unsplash.com/photos/a-bottle-filled-with-pills-sitting-on-top-of-a-wooden-table-FDvArkoGyvI?utm_source=investiq_image_bank&utm_medium=referral)
+- White medication capsules: Photo by The-Lore on Unsplash. [rRBtKW_aw_U](https://unsplash.com/photos/white-medication-capsules-rRBtKW_aw_U?utm_source=investiq_image_bank&utm_medium=referral)
+- A blood glucose meter with a lancing device and test strips on white: Photo by Jane Korsak on Unsplash. [BlgBBf_b_94](https://unsplash.com/photos/blood-glucose-meter-with-test-strips-BlgBBf_b_94?utm_source=investiq_image_bank&utm_medium=referral)
+- Testing Blood Sugar Levels: Reversing Your Diabetes Today, CC0, via Wikimedia Commons. [Testing Blood Sugar Levels.jpg](https://commons.wikimedia.org/wiki/File:Testing_Blood_Sugar_Levels.jpg)
+- White digital device beside white pen: Photo by Towfiqu barbhuiya on Unsplash. [ZJaK9jQXeDA](https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## US politics & markets (politics)
 
@@ -7113,6 +7148,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large metal bell sitting on top of a table: Photo by Joe Richmond on Unsplash. [ewmbK6hOD0g](https://unsplash.com/photos/a-large-metal-bell-sitting-on-top-of-a-table-ewmbK6hOD0g?utm_source=investiq_image_bank&utm_medium=referral)
 - A pole with a sign that says polling station: Photo by Phil Hearing on Unsplash. [bu27Y0xg7dk](https://unsplash.com/photos/a-pole-with-a-sign-that-says-polling-station-bu27Y0xg7dk?utm_source=investiq_image_bank&utm_medium=referral)
 - Statue of Liberty, New York: Photo by AussieActive on Unsplash. [1brtlzDq-o8](https://unsplash.com/photos/statue-of-liberty-new-york-1brtlzDq-o8?utm_source=investiq_image_bank&utm_medium=referral)
+- A view of the jefferson memorial from across the water: Photo by Rafik Wahba on Unsplash. [x0QoQy55Q6Q](https://unsplash.com/photos/a-view-of-the-jefferson-memorial-from-across-the-water-x0QoQy55Q6Q?utm_source=investiq_image_bank&utm_medium=referral)
+- American Bald Eagle flying on sky: Photo by Mathew Schwartz on Unsplash. [dJb4w5hy0OA](https://unsplash.com/photos/american-bald-eagle-flying-on-sky-dJb4w5hy0OA?utm_source=investiq_image_bank&utm_medium=referral)
+- A large group of people standing in front of a white building: Photo by Nils Huenerfuerst on Unsplash. [fNXYCoIZ0jA](https://unsplash.com/photos/a-large-group-of-people-standing-in-front-of-a-white-building-fNXYCoIZ0jA?utm_source=investiq_image_bank&utm_medium=referral)
+- Statue of Abraham Lincoln, Lincoln Memorial -L1005511: Frank Schulenburg, CC BY-SA 4.0, via Wikimedia Commons. [Statue of Abraham Lincoln, Lincoln Memorial (2024)-L1005511.jpg](https://commons.wikimedia.org/wiki/File:Statue_of_Abraham_Lincoln,_Lincoln_Memorial_(2024)-L1005511.jpg)
 
 ## Europe & the ECB (europe)
 
@@ -7193,6 +7232,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Optical fiber at INESC TEC: INESC TEC, CC BY 3.0, via Wikimedia Commons. [Optical fiber at INESC TEC.jpg](https://commons.wikimedia.org/wiki/File:Optical_fiber_at_INESC_TEC.jpg)
 - A prism refracts light into a rainbow spectrum: Photo by Artem on Unsplash. [a18lCneoV4E](https://unsplash.com/photos/a-prism-refracts-light-into-a-rainbow-spectrum-a18lCneoV4E?utm_source=investiq_image_bank&utm_medium=referral)
 - White and blue light on dark room: Photo by Denny Müller on Unsplash. [JyRTi3LoQnc](https://unsplash.com/photos/white-and-blue-light-on-dark-room-JyRTi3LoQnc?utm_source=investiq_image_bank&utm_medium=referral)
+- Liquid helium dewars: Adville, CC BY-SA 4.0, via Wikimedia Commons. [Liquid helium dewars.jpg](https://commons.wikimedia.org/wiki/File:Liquid_helium_dewars.jpg)
+- Six commercial lasers in operation, showing the range of different colored light beams that can be produced, from red to violet. From the top, the wavelengths o: 彭家杰, CC BY 2.5, via Wikimedia Commons. [LASER.jpg](https://commons.wikimedia.org/wiki/File:LASER.jpg)
 
 ## Robotics & automation (robotics)
 
@@ -7239,6 +7280,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A toy robot holding a piece of paper: Photo by Theo on Unsplash. [b9o6cPP629o](https://unsplash.com/photos/a-toy-robot-holding-a-piece-of-paper-b9o6cPP629o?utm_source=investiq_image_bank&utm_medium=referral)
 - A robotic vacuum is on the floor next to a couch: Photo by Onur Binay on Unsplash. [GVHu2oJimH4](https://unsplash.com/photos/a-robotic-vacuum-is-on-the-floor-next-to-a-couch-GVHu2oJimH4?utm_source=investiq_image_bank&utm_medium=referral)
 - Connect Robotics Delivery Drone: Eduardofamendes, CC BY-SA 4.0, via Wikimedia Commons. [Connect Robotics Delivery Drone.jpg](https://commons.wikimedia.org/wiki/File:Connect_Robotics_Delivery_Drone.jpg)
+- 231 MNACTEC (Terrassa), exposició temporal Robots, humanoide Mechadroid C3: Enric, CC BY-SA 4.0, via Wikimedia Commons. [231 MNACTEC (Terrassa), exposició temporal Robots, humanoide Mechadroid C3 (2008).jpg](https://commons.wikimedia.org/wiki/File:231_MNACTEC_(Terrassa),_exposici%C3%B3_temporal_Robots,_humanoide_Mechadroid_C3_(2008).jpg)
 
 ## Cybersecurity (cybersecurity)
 
@@ -7285,6 +7327,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Black computer keyboard: Photo by Florian Krumm on Unsplash. [1osIUArK5oA](https://unsplash.com/photos/black-computer-keyboard-1osIUArK5oA?utm_source=investiq_image_bank&utm_medium=referral)
 - White box security camera on wall: Photo by Siarhei Horbach on Unsplash. [xJc--frJbuw](https://unsplash.com/photos/white-box-security-camera-on-wall-xJc--frJbuw?utm_source=investiq_image_bank&utm_medium=referral)
 - White CCTV camera: Photo by Mitchell Luo on Unsplash. [eUuUm_9rARI](https://unsplash.com/photos/white-cctv-camera-eUuUm_9rARI?utm_source=investiq_image_bank&utm_medium=referral)
+- Two women facing security camera above mounted on structure: Photo by Matthew Henry on Unsplash. [fPxOowbR6ls](https://unsplash.com/photos/two-women-facing-security-camera-above-mounted-on-structure-fPxOowbR6ls?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## India economy (india)
 
@@ -7429,6 +7472,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Metal bars stacked neatly in a warehouse: Photo by Zoshua Colah on Unsplash. [IR93Hx_ybg8](https://unsplash.com/photos/metal-bars-stacked-neatly-in-a-warehouse-IR93Hx_ybg8?utm_source=investiq_image_bank&utm_medium=referral)
 - Mirny in Yakutia: Staselnik, CC BY-SA 3.0, via Wikimedia Commons. [Mirny in Yakutia.jpg](https://commons.wikimedia.org/wiki/File:Mirny_in_Yakutia.jpg)
 - Man on ladder welding post: Photo by Max LaRochelle on Unsplash. [QzP1GcDOSC8](https://unsplash.com/photos/man-on-ladder-welding-post-QzP1GcDOSC8?utm_source=investiq_image_bank&utm_medium=referral)
+- A coil steel car with the hood removed, displaying the load inside: Wheresmything, CC BY-SA 4.0, via Wikimedia Commons. [BNSF 535253.jpg](https://commons.wikimedia.org/wiki/File:BNSF_535253.jpg)
+- Bundles of cathode copper: ChrisFountain, CC BY-SA 3.0, via Wikimedia Commons. [Bundles of cathode copper.png](https://commons.wikimedia.org/wiki/File:Bundles_of_cathode_copper.png)
+- Blast Furnace 1 at Night, voestalpine Donawitz, 2026-02: Aciarium, CC BY 4.0, via Wikimedia Commons. [DSC03739 Blast Furnace 1 at Night, voestalpine Donawitz, 2026-02.jpg](https://commons.wikimedia.org/wiki/File:DSC03739_Blast_Furnace_1_at_Night,_voestalpine_Donawitz,_2026-02.jpg)
 
 ## Travel & airlines (travel)
 
@@ -7528,3 +7574,4 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Three bottles of cologne sitting on top of a table: Photo by Beautinow Niche Perfume on Unsplash. [0sHorINihAI](https://unsplash.com/photos/three-bottles-of-cologne-sitting-on-top-of-a-table-0sHorINihAI?utm_source=investiq_image_bank&utm_medium=referral)
 - Pink and silver perfume bottle: Photo by Eve Maier on Unsplash. [M3PWXjCiRbQ](https://unsplash.com/photos/pink-and-silver-perfume-bottle-M3PWXjCiRbQ?utm_source=investiq_image_bank&utm_medium=referral)
 - A close up of a person driving a motorcycle: Photo by César Badilla Miranda on Unsplash. [wMPl_GmJ5GI](https://unsplash.com/photos/a-close-up-of-a-person-driving-a-motorcycle-wMPl_GmJ5GI?utm_source=investiq_image_bank&utm_medium=referral)
+- Woman with black jacket and bag standing outdoors: Shixart1985, CC BY 2.0, via Wikimedia Commons. [Woman with black jacket and bag standing outdoors.jpg](https://commons.wikimedia.org/wiki/File:Woman_with_black_jacket_and_bag_standing_outdoors.jpg)
