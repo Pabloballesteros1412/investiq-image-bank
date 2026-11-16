@@ -278,6 +278,13 @@ Decisions (Pablo, 4 Nov 2026):
 - **Merged into main (17 Nov, PR #10)**: 6,041 published photos: companies 3,969, topics 1,563 (average 42.2), sectors
   509 (average 46.3); 4 of 48 at 50. Thinnest: quantum 26, nuclear 31, ai 32, chips 38, earnings 38, banks 38.
   320 Unsplash download counts pending.
+- **Round 8, refill 8** (17 Nov): 214 short searches in the 15 thinnest topics (three 2-hour pieces); graded stock 9 of
+  47 grade 3, Commons 9 of 129. Then refill 8 of the 44 below 50 from the cache (stock 12 of 56, Commons 5 of 238; a
+  subagent grade 3 that repeated a board already graded 2 was lowered). Word matches seen: "chandelier" again (banks,
+  quantum), "chips" -> Doritos, "nickel" -> an 1884 coin, "copper" -> Copper Mountain, "toast" for IPOs.
+- **Merged into main (17 Nov, PR #11)**: 6,081 published photos: companies 3,969, topics 1,599 (average 43.2), sectors
+  513 (average 46.6); 4 of 48 at 50. Thinnest: quantum 29, nuclear 31, ai 33, earnings 38, banks 40. Each pass now
+  adds only ~20-40. 318 Unsplash download counts pending.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
