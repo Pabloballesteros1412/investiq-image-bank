@@ -156877,15 +156877,191 @@
     "track": "https://api.unsplash.com/photos/2jjc94apOCY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z29sZCUyMGJhcnN8ZW58MXx8fHwxNzkzODc3ODMwfDA"
    },
    {
-    "shot": "washington-dc",
-    "shows": "National Christmas tree and Washington Memorial. From Washington DC, United States",
-    "file": "wordpress:35863",
-    "page": "https://wordpress.org/photos/photo/2164fe92fb/",
-    "url": "https://pd.w.org/2023/09/2164fe92fb8433f9.77376242-2048x1536.jpeg",
-    "preview": "https://pd.w.org/2023/09/2164fe92fb8433f9.77376242-768x576.jpeg",
+    "shot": "us-capitol-dome",
+    "shows": "Intricate dome ceiling with classical fresco artwork",
+    "file": "unsplash:ASS8xSs9WJ8",
+    "page": "https://unsplash.com/photos/intricate-dome-ceiling-with-classical-fresco-artwork-ASS8xSs9WJ8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1775521327758-7ab274506db4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHVzJTIwY2FwaXRvbCUyMGRvbWV8ZW58MXx8fHwxNzk0NzE5NjgxfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1775521327758-7ab274506db4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHVzJTIwY2FwaXRvbCUyMGRvbWV8ZW58MXx8fHwxNzk0NzE5NjgxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2048,
-     1536
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sebastian Schuster on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sebastian Schuster",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sschusterphotoart?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ASS8xSs9WJ8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fHVzJTIwY2FwaXRvbCUyMGRvbWV8ZW58MXx8fHwxNzk0NzE5NjgxfDA"
+   },
+   {
+    "shot": "money-printing",
+    "shows": "Ming Block for Printing Paper Money 02",
+    "file": "File:Ming Block for Printing Paper Money 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ming_Block_for_Printing_Paper_Money_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ming_Block_for_Printing_Paper_Money_02.jpg/1280px-Ming_Block_for_Printing_Paper_Money_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Ming_Block_for_Printing_Paper_Money_02.jpg/500px-Ming_Block_for_Printing_Paper_Money_02.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Gary Lee Todd, Ph.D., CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Gary Lee Todd, Ph.D.",
+    "year": 2008,
+    "how": "catalog"
+   },
+   {
+    "shot": "banknote-printing",
+    "shows": "Fifty denomination banknotes moving along a metal conveyor belt in a printing facility",
+    "file": "unsplash:s99oEoAHsJc",
+    "page": "https://unsplash.com/photos/banknotes-on-metal-conveyor-belt-s99oEoAHsJc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1791220154562-16cb45c38ce8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YmFua25vdGUlMjBwcmludGluZ3xlbnwxfHx8fDE3OTQ4MzgyODR8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1791220154562-16cb45c38ce8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YmFua25vdGUlMjBwcmludGluZ3xlbnwxfHx8fDE3OTQ4MzgyODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brecht Corbeel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brecht Corbeel",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/s99oEoAHsJc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YmFua25vdGUlMjBwcmludGluZ3xlbnwxfHx8fDE3OTQ4MzgyODR8MA"
+   },
+   {
+    "shot": "us-mint",
+    "shows": "A group of four metal buttons sitting on top of a table",
+    "file": "unsplash:nmCmeKTQf2c",
+    "page": "https://unsplash.com/photos/a-group-of-four-metal-buttons-sitting-on-top-of-a-table-nmCmeKTQf2c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1641324115786-fc465925fd9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHVzJTIwbWludHxlbnwxfHx8fDE3OTQ3OTIxMDF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1641324115786-fc465925fd9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHVzJTIwbWludHxlbnwxfHx8fDE3OTQ3OTIxMDF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Scottsdale Mint on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Scottsdale Mint",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@scottsdalemint?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nmCmeKTQf2c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fHVzJTIwbWludHxlbnwxfHx8fDE3OTQ3OTIxMDF8MA"
+   },
+   {
+    "shot": "coins-mint",
+    "shows": "Clear glass round plate on black textile",
+    "file": "unsplash:qcTj4ax3W_g",
+    "page": "https://unsplash.com/photos/clear-glass-round-plate-on-black-textile-qcTj4ax3W_g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1623743558917-37d9ab9e3b34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29pbnMlMjBtaW50fGVufDF8fHx8MTc5NDgzODQwM3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1623743558917-37d9ab9e3b34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29pbnMlMjBtaW50fGVufDF8fHx8MTc5NDgzODQwM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zlaťáky.cz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zlaťáky.cz",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zlataky?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qcTj4ax3W_g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29pbnMlMjBtaW50fGVufDF8fHx8MTc5NDgzODQwM3ww"
+   },
+   {
+    "shot": "eagle-statue",
+    "shows": "A statue of an eagle on top of a building",
+    "file": "unsplash:7BDRS6mnI80",
+    "page": "https://unsplash.com/photos/a-statue-of-an-eagle-on-top-of-a-building-7BDRS6mnI80?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1694529485117-a6300185f709?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZWFnbGUlMjBzdGF0dWV8ZW58MXx8fHwxNzk0ODM4NDMxfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1694529485117-a6300185f709?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZWFnbGUlMjBzdGF0dWV8ZW58MXx8fHwxNzk0ODM4NDMxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Arul pratheep S on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Arul pratheep S",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mydel3542?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/7BDRS6mnI80/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZWFnbGUlMjBzdGF0dWV8ZW58MXx8fHwxNzk0ODM4NDMxfDA"
+   },
+   {
+    "shot": "washington-dc-skyline",
+    "shows": "Capitol Skyline Hotel aerial view, March 2024",
+    "file": "File:Capitol Skyline Hotel aerial view, March 2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Capitol_Skyline_Hotel_aerial_view,_March_2024.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Capitol_Skyline_Hotel_aerial_view%2C_March_2024.jpg/1920px-Capitol_Skyline_Hotel_aerial_view%2C_March_2024.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Capitol_Skyline_Hotel_aerial_view%2C_March_2024.jpg/500px-Capitol_Skyline_Hotel_aerial_view%2C_March_2024.jpg",
+    "size": [
+     1920,
+     1446
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Sdkb, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Sdkb",
+    "year": 2024,
+    "how": "catalog"
+   },
+   {
+    "shot": "marble-building",
+    "shows": "A large, ornate, golden candelabra. It is positioned indoors, likely within a historical building, given the marble columns and brick wall visible in the backgr",
+    "file": "wordpress:113892",
+    "page": "https://wordpress.org/photos/photo/98667d79d5/",
+    "url": "https://pd.w.org/2025/03/98667d79d5a524a01.17854577-1536x2048.jpg",
+    "preview": "https://pd.w.org/2025/03/98667d79d5a524a01.17854577-768x1024.jpg",
+    "size": [
+     1536,
+     2048
     ],
     "focus": [
      0.5,
@@ -156896,222 +157072,44 @@
     "licence_kind": "cc0",
     "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "author": "Bigul Malayi",
-    "year": 2023,
+    "year": 2025,
     "how": "catalog",
     "provider": "wordpress",
     "author_url": "https://wordpress.org/photos/author/mbigul/"
    },
    {
-    "shot": "government-building",
-    "shows": "Abilene June 2019 07 (Federal Building, United States Post Office and Courthouse)",
-    "file": "File:Abilene June 2019 07 (Federal Building, United States Post Office and Courthouse).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Abilene_June_2019_07_(Federal_Building,_United_States_Post_Office_and_Courthouse).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Abilene_June_2019_07_%28Federal_Building%2C_United_States_Post_Office_and_Courthouse%29.jpg/1920px-Abilene_June_2019_07_%28Federal_Building%2C_United_States_Post_Office_and_Courthouse%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Abilene_June_2019_07_%28Federal_Building%2C_United_States_Post_Office_and_Courthouse%29.jpg/500px-Abilene_June_2019_07_%28Federal_Building%2C_United_States_Post_Office_and_Courthouse%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Michael Barera",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "federal-building",
-    "shows": "The E. Barrett Prettyman United States Court House building facade in Washington DC",
-    "file": "unsplash:U-3mEM4ZkDo",
-    "page": "https://unsplash.com/photos/e-barrett-prettyman-united-states-court-house-U-3mEM4ZkDo?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1789422836583-a259361dbdae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZlZGVyYWwlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTQ3MTk3MDl8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1789422836583-a259361dbdae?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZlZGVyYWwlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTQ3MTk3MDl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Isabella SP on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Isabella SP",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@isabellaspdc?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/U-3mEM4ZkDo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGZlZGVyYWwlMjBidWlsZGluZ3xlbnwxfHx8fDE3OTQ3MTk3MDl8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "courthouse",
-    "shows": "A tall building with a sky background",
-    "file": "unsplash:Mmtnk8EAMHI",
-    "page": "https://unsplash.com/photos/a-tall-building-with-a-sky-background-Mmtnk8EAMHI?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1723534042746-f6d1941e6808?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvdXJ0aG91c2V8ZW58MXx8fHwxNzk0NzQ0NTc5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1723534042746-f6d1941e6808?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvdXJ0aG91c2V8ZW58MXx8fHwxNzk0NzQ0NTc5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Zoshua Colah on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Zoshua Colah",
-    "year": 2024,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Mmtnk8EAMHI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fGNvdXJ0aG91c2V8ZW58MXx8fHwxNzk0NzQ0NTc5fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "dome",
-    "shows": "A dome on top of a building surrounded by trees",
-    "file": "unsplash:m1A-loL3jg8",
-    "page": "https://unsplash.com/photos/a-dome-on-top-of-a-building-surrounded-by-trees-m1A-loL3jg8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1649696950895-f454bc7e6f80?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZG9tZXxlbnwxfHx8fDE3OTQ4MjMyNDN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1649696950895-f454bc7e6f80?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZG9tZXxlbnwxfHx8fDE3OTQ4MjMyNDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Levi Meir Clancy on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Levi Meir Clancy",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@levimeirclancy?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/m1A-loL3jg8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8ZG9tZXxlbnwxfHx8fDE3OTQ4MjMyNDN8MA",
-    "track_pending": true
-   },
-   {
-    "shot": "eagle",
-    "shows": "Black and white eagle flying",
-    "file": "unsplash:ID48ekBTlDo",
-    "page": "https://unsplash.com/photos/black-and-white-eagle-flying-ID48ekBTlDo?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1611689342806-0863700ce1e4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZWFnbGV8ZW58MXx8fHwxNzk0ODIzMjUwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1611689342806-0863700ce1e4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZWFnbGV8ZW58MXx8fHwxNzk0ODIzMjUwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "columns-building",
+    "shows": "A building with columns and a clock on the side of it",
+    "file": "unsplash:E7ZqmNZEr6M",
+    "page": "https://unsplash.com/photos/a-building-with-columns-and-a-clock-on-the-side-of-it-E7ZqmNZEr6M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1634135087674-51a2f0af06b3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29sdW1ucyUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5NDgzODUwOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1634135087674-51a2f0af06b3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29sdW1ucyUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5NDgzODUwOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
-     1600
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Philipp Pilz on Unsplash",
+    "credit": "Photo by Bernardo Lorena Ponte on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Philipp Pilz",
+    "author": "Bernardo Lorena Ponte",
     "year": 2021,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@buchstabenhausen?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ID48ekBTlDo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZWFnbGV8ZW58MXx8fHwxNzk0ODIzMjUwfDA",
-    "track_pending": true
+    "author_url": "https://unsplash.com/@pontebernardo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/E7ZqmNZEr6M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8Y29sdW1ucyUyMGJ1aWxkaW5nfGVufDF8fHx8MTc5NDgzODUwOXww"
    },
    {
-    "shot": "american-eagle",
-    "shows": "Bald Eagle - \"Helga\" - Haliaeetus leucocephalus2",
-    "file": "File:Bald Eagle - \"Helga\" - Haliaeetus leucocephalus2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bald_Eagle_-_%22Helga%22_-_Haliaeetus_leucocephalus2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bald_Eagle_-_%22Helga%22_-_Haliaeetus_leucocephalus2.jpg/1280px-Bald_Eagle_-_%22Helga%22_-_Haliaeetus_leucocephalus2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bald_Eagle_-_%22Helga%22_-_Haliaeetus_leucocephalus2.jpg/500px-Bald_Eagle_-_%22Helga%22_-_Haliaeetus_leucocephalus2.jpg",
-    "size": [
-     1280,
-     1925
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Paul Friel, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Paul Friel",
-    "year": 2005,
-    "how": "catalog"
-   },
-   {
-    "shot": "calculator",
-    "shows": "A calculator sitting on top of a piece of paper",
-    "file": "unsplash:ySZdYkPGEbs",
-    "page": "https://unsplash.com/photos/a-calculator-sitting-on-top-of-a-piece-of-paper-ySZdYkPGEbs?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1648201188793-418f2b9b4b32?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNhbGN1bGF0b3J8ZW58MXx8fHwxNzk0NzIyNzM1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1648201188793-418f2b9b4b32?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNhbGN1bGF0b3J8ZW58MXx8fHwxNzk0NzIyNzM1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Aaron Lefler on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Aaron Lefler",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@alefler?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ySZdYkPGEbs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNhbGN1bGF0b3J8ZW58MXx8fHwxNzk0NzIyNzM1fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "bonds",
-    "shows": "Barnacre-with-Bonds , M6 Motorway - geograph.org.uk",
-    "file": "File:Barnacre-with-Bonds , M6 Motorway - geograph.org.uk - 6300467.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Barnacre-with-Bonds_,_M6_Motorway_-_geograph.org.uk_-_6300467.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Barnacre-with-Bonds_%2C_M6_Motorway_-_geograph.org.uk_-_6300467.jpg/1920px-Barnacre-with-Bonds_%2C_M6_Motorway_-_geograph.org.uk_-_6300467.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Barnacre-with-Bonds_%2C_M6_Motorway_-_geograph.org.uk_-_6300467.jpg/500px-Barnacre-with-Bonds_%2C_M6_Motorway_-_geograph.org.uk_-_6300467.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Lewis Clarke, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Lewis Clarke",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "washington",
-    "shows": "Inside Washington State Capital",
-    "file": "File:Inside Washington State Capital.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Inside_Washington_State_Capital.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Inside_Washington_State_Capital.jpg/1920px-Inside_Washington_State_Capital.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Inside_Washington_State_Capital.jpg/500px-Inside_Washington_State_Capital.jpg",
+    "shot": "cash-pile",
+    "shows": "Money - Flickr - Tracy O",
+    "file": "File:Money - Flickr - Tracy O.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Money_-_Flickr_-_Tracy_O.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Money_-_Flickr_-_Tracy_O.jpg/1920px-Money_-_Flickr_-_Tracy_O.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Money_-_Flickr_-_Tracy_O.jpg/500px-Money_-_Flickr_-_Tracy_O.jpg",
     "size": [
      1920,
      1440
@@ -157120,20 +157118,20 @@
      0.5,
      0.5
     ],
-    "credit": "Vacknick, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Vacknick",
-    "year": 2024,
+    "credit": "Tracy O, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Tracy O",
+    "year": 2005,
     "how": "catalog"
    }
   ],
   "missing": [
-   "interest-rate",
-   "money",
-   "cash",
-   "banknotes",
+   "mortgage-rates",
+   "savings",
+   "dollar-printing",
+   "washington",
    "interest",
    "treasury",
    "printing-press",
@@ -159497,34 +159495,34 @@
    },
    {
     "shot": "empty-parking-lot",
-    "shows": "Parking Lot with a View",
-    "file": "File:Parking Lot with a View (424124486).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Parking_Lot_with_a_View_(424124486).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Parking_Lot_with_a_View_%28424124486%29.jpg/1920px-Parking_Lot_with_a_View_%28424124486%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Parking_Lot_with_a_View_%28424124486%29.jpg/500px-Parking_Lot_with_a_View_%28424124486%29.jpg",
+    "shows": "Starr- -7670-Clusia rosea-with Forest near empty parking lot and Covid protective gear-Azeka Mall Kihei-Maui",
+    "file": "File:Starr-200429-7670-Clusia rosea-with Forest near empty parking lot and Covid protective gear-Azeka Mall Kihei-Maui (50336321247).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Starr-200429-7670-Clusia_rosea-with_Forest_near_empty_parking_lot_and_Covid_protective_gear-Azeka_Mall_Kihei-Maui_(50336321247).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starr-200429-7670-Clusia_rosea-with_Forest_near_empty_parking_lot_and_Covid_protective_gear-Azeka_Mall_Kihei-Maui_%2850336321247%29.jpg/1920px-Starr-200429-7670-Clusia_rosea-with_Forest_near_empty_parking_lot_and_Covid_protective_gear-Azeka_Mall_Kihei-Maui_%2850336321247%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starr-200429-7670-Clusia_rosea-with_Forest_near_empty_parking_lot_and_Covid_protective_gear-Azeka_Mall_Kihei-Maui_%2850336321247%29.jpg/500px-Starr-200429-7670-Clusia_rosea-with_Forest_near_empty_parking_lot_and_Covid_protective_gear-Azeka_Mall_Kihei-Maui_%2850336321247%29.jpg",
     "size": [
      1920,
-     1395
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Dennis Sylvester Hurd from Minuwangoda, WP, Sri Lanka, Canada, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Dennis Sylvester Hurd from Minuwangoda, WP, Sri Lanka, Canada",
-    "year": 2007,
+    "credit": "Forest and Kim Starr, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Forest and Kim Starr",
+    "year": 2020,
     "how": "catalog"
    },
    {
     "shot": "falling-stock-market",
-    "shows": "Chemin vers la Baisse de Valmasque",
-    "file": "File:Chemin vers la Baisse de Valmasque.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chemin_vers_la_Baisse_de_Valmasque.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chemin_vers_la_Baisse_de_Valmasque.jpg/1920px-Chemin_vers_la_Baisse_de_Valmasque.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chemin_vers_la_Baisse_de_Valmasque.jpg/500px-Chemin_vers_la_Baisse_de_Valmasque.jpg",
+    "shows": "Vue de la vallée merveilles (Baisse de Valmasque)",
+    "file": "File:Vue de la vallée merveilles (Baisse de Valmasque).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vue_de_la_vall%C3%A9e_merveilles_(Baisse_de_Valmasque).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Vue_de_la_vall%C3%A9e_merveilles_%28Baisse_de_Valmasque%29.jpg/1920px-Vue_de_la_vall%C3%A9e_merveilles_%28Baisse_de_Valmasque%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Vue_de_la_vall%C3%A9e_merveilles_%28Baisse_de_Valmasque%29.jpg/500px-Vue_de_la_vall%C3%A9e_merveilles_%28Baisse_de_Valmasque%29.jpg",
     "size": [
      1920,
      1437
@@ -159543,54 +159541,197 @@
    },
    {
     "shot": "vacant-storefront",
-    "shows": "Vacant storefront with broken windows, Liskwartier, Rotterdam 02",
-    "file": "File:Vacant storefront with broken windows, Liskwartier, Rotterdam (2023) 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Vacant_storefront_with_broken_windows,_Liskwartier,_Rotterdam_(2023)_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Vacant_storefront_with_broken_windows%2C_Liskwartier%2C_Rotterdam_%282023%29_02.jpg/1280px-Vacant_storefront_with_broken_windows%2C_Liskwartier%2C_Rotterdam_%282023%29_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Vacant_storefront_with_broken_windows%2C_Liskwartier%2C_Rotterdam_%282023%29_02.jpg/500px-Vacant_storefront_with_broken_windows%2C_Liskwartier%2C_Rotterdam_%282023%29_02.jpg",
+    "shows": "Vacant Storefronts in Tonopah, Nevada",
+    "file": "File:Vacant Storefronts in Tonopah, Nevada.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vacant_Storefronts_in_Tonopah,_Nevada.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Vacant_Storefronts_in_Tonopah%2C_Nevada.jpg/1920px-Vacant_Storefronts_in_Tonopah%2C_Nevada.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Vacant_Storefronts_in_Tonopah%2C_Nevada.jpg/500px-Vacant_Storefronts_in_Tonopah%2C_Nevada.jpg",
     "size": [
-     1280,
-     2276
+     1920,
+     1080
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 20:10, 13 January 2023 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 20:10, 13 January 2023 (UTC)",
+    "credit": "Rick Obst, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Rick Obst",
     "year": 2023,
     "how": "catalog"
    },
    {
     "shot": "desolate-street",
-    "shows": "Old Desolate MRNP",
-    "file": "File:Old Desolate MRNP.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Old_Desolate_MRNP.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Old_Desolate_MRNP.jpg/1920px-Old_Desolate_MRNP.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Old_Desolate_MRNP.jpg/500px-Old_Desolate_MRNP.jpg",
+    "shows": "Old Desolate from Mystic Lake",
+    "file": "File:Old Desolate from Mystic Lake.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Old_Desolate_from_Mystic_Lake.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Old_Desolate_from_Mystic_Lake.jpg/1920px-Old_Desolate_from_Mystic_Lake.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Old_Desolate_from_Mystic_Lake.jpg/500px-Old_Desolate_from_Mystic_Lake.jpg",
     "size": [
      1920,
-     1211
+     1080
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "brewbooks, CC BY-SA 2.0, via Wikimedia Commons",
+    "credit": "Wilderness trespasser, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Wilderness trespasser",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "closed-for-business",
+    "shows": "Closed for business^ - geograph.org.uk",
+    "file": "File:Closed for business^ - geograph.org.uk - 7842385.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Closed_for_business%5E_-_geograph.org.uk_-_7842385.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Closed_for_business%5E_-_geograph.org.uk_-_7842385.jpg/1920px-Closed_for_business%5E_-_geograph.org.uk_-_7842385.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Closed_for_business%5E_-_geograph.org.uk_-_7842385.jpg/500px-Closed_for_business%5E_-_geograph.org.uk_-_7842385.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Mr Ignavy, CC BY-SA 2.0, via Wikimedia Commons",
     "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "brewbooks",
-    "year": 2006,
+    "author": "Mr Ignavy",
+    "year": 2024,
     "how": "catalog"
+   },
+   {
+    "shot": "store-closing",
+    "shows": "Hudson's Bay - Store closing sale - - 11",
+    "file": "File:Hudson's Bay - Store closing sale - 20250524 - 11.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_11.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_11.jpg/1920px-Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_11.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_11.jpg/500px-Hudson%27s_Bay_-_Store_closing_sale_-_20250524_-_11.jpg",
+    "size": [
+     1920,
+     1446
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Sikander Iqbal, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Sikander Iqbal",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "empty-storefront",
+    "shows": "Grayscale photo of people sitting on street",
+    "file": "unsplash:MhkltvW3T0U",
+    "page": "https://unsplash.com/photos/grayscale-photo-of-people-sitting-on-street-MhkltvW3T0U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1576838202560-a82f1cbe324e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVtcHR5JTIwc3RvcmVmcm9udHxlbnwxfHx8fDE3OTQ4Mzg0NTh8MA&ixlib=rb-4.1.0&w=1902&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1576838202560-a82f1cbe324e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVtcHR5JTIwc3RvcmVmcm9udHxlbnwxfHx8fDE3OTQ4Mzg0NTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1902,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by The New York Public Library on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "The New York Public Library",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nypl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MhkltvW3T0U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGVtcHR5JTIwc3RvcmVmcm9udHxlbnwxfHx8fDE3OTQ4Mzg0NTh8MA"
+   },
+   {
+    "shot": "abandoned-store",
+    "shows": "Brown and white concrete building",
+    "file": "unsplash:YP-K5Talkyg",
+    "page": "https://unsplash.com/photos/brown-and-white-concrete-building-YP-K5Talkyg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1591004835335-0993dcc0944b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGFiYW5kb25lZCUyMHN0b3JlfGVufDF8fHx8MTc5NDgzODQ4Mnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1591004835335-0993dcc0944b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGFiYW5kb25lZCUyMHN0b3JlfGVufDF8fHx8MTc5NDgzODQ4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Cristina Gavrila on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cristina Gavrila",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cristinagavrila?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/YP-K5Talkyg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGFiYW5kb25lZCUyMHN0b3JlfGVufDF8fHx8MTc5NDgzODQ4Mnww",
+    "track_pending": true
+   },
+   {
+    "shot": "empty-office-building",
+    "shows": "Empty office chair reflected in a glass building",
+    "file": "unsplash:ifTgSFVLHJs",
+    "page": "https://unsplash.com/photos/empty-office-chair-reflected-in-a-glass-building-ifTgSFVLHJs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1769594977871-b9e839598742?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVtcHR5JTIwb2ZmaWNlJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0ODM4NTA5fDA&ixlib=rb-4.1.0&w=2001&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1769594977871-b9e839598742?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVtcHR5JTIwb2ZmaWNlJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0ODM4NTA5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2001,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wenzy Wong on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Wenzy Wong",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@wenzywong?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ifTgSFVLHJs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGVtcHR5JTIwb2ZmaWNlJTIwYnVpbGRpbmd8ZW58MXx8fHwxNzk0ODM4NTA5fDA",
+    "track_pending": true
    }
   ],
   "missing": [
    "for-lease-sign",
-   "unemployment-line"
+   "unemployment-line",
+   "layoffs",
+   "job-loss",
+   "empty-piggy-bank",
+   "debt",
+   "eviction-notice",
+   "shuttered",
+   "ghost-town",
+   "storm-clouds",
+   "dark-clouds",
+   "empty-highway",
+   "closed-factory",
+   "empty-warehouse",
+   "clearance-sale",
+   "rusty",
+   "abandoned-house",
+   "empty-parking-garage",
+   "vacant-building"
   ],
   "checked": "2026-11-16"
  },
@@ -160643,14 +160784,14 @@
    },
    {
     "shot": "teacher",
-    "shows": "A public high school teacher in a classroom in the United States 12",
-    "file": "File:A public high school teacher in a classroom in the United States 12.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_public_high_school_teacher_in_a_classroom_in_the_United_States_12.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/A_public_high_school_teacher_in_a_classroom_in_the_United_States_12.jpg/1920px-A_public_high_school_teacher_in_a_classroom_in_the_United_States_12.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/A_public_high_school_teacher_in_a_classroom_in_the_United_States_12.jpg/500px-A_public_high_school_teacher_in_a_classroom_in_the_United_States_12.jpg",
+    "shows": "A public high school teacher in a classroom in the United States 18",
+    "file": "File:A public high school teacher in a classroom in the United States 18.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_public_high_school_teacher_in_a_classroom_in_the_United_States_18.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/A_public_high_school_teacher_in_a_classroom_in_the_United_States_18.jpg/1280px-A_public_high_school_teacher_in_a_classroom_in_the_United_States_18.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/A_public_high_school_teacher_in_a_classroom_in_the_United_States_18.jpg/500px-A_public_high_school_teacher_in_a_classroom_in_the_United_States_18.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1707
     ],
     "focus": [
      0.5,
@@ -160667,10 +160808,10 @@
    {
     "shot": "job-fair",
     "shows": "STEM Career Fair",
-    "file": "File:STEM Career Fair (30078018113).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:STEM_Career_Fair_(30078018113).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/STEM_Career_Fair_%2830078018113%29.jpg/1920px-STEM_Career_Fair_%2830078018113%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/STEM_Career_Fair_%2830078018113%29.jpg/500px-STEM_Career_Fair_%2830078018113%29.jpg",
+    "file": "File:STEM Career Fair (30412048380).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:STEM_Career_Fair_(30412048380).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/STEM_Career_Fair_%2830412048380%29.jpg/1920px-STEM_Career_Fair_%2830412048380%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/STEM_Career_Fair_%2830412048380%29.jpg/500px-STEM_Career_Fair_%2830412048380%29.jpg",
     "size": [
      1920,
      1280
@@ -160689,57 +160830,57 @@
    },
    {
     "shot": "office-team",
-    "shows": "White House Counsel Office Team Photo",
-    "file": "File:White House Counsel Office Team Photo.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:White_House_Counsel_Office_Team_Photo.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/White_House_Counsel_Office_Team_Photo.jpg/1920px-White_House_Counsel_Office_Team_Photo.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/White_House_Counsel_Office_Team_Photo.jpg/500px-White_House_Counsel_Office_Team_Photo.jpg",
+    "shows": "White House COVID-19 Response Team focus image",
+    "file": "File:White House COVID-19 Response Team focus image.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:White_House_COVID-19_Response_Team_focus_image.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/White_House_COVID-19_Response_Team_focus_image.jpg/1920px-White_House_COVID-19_Response_Team_focus_image.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/White_House_COVID-19_Response_Team_focus_image.jpg/500px-White_House_COVID-19_Response_Team_focus_image.jpg",
     "size": [
      1920,
-     1312
+     1082
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Unknown author Unknown author, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Unknown author Unknown author",
-    "year": 2001,
+    "credit": "The White House, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "The White House",
+    "year": 2021,
     "how": "catalog"
    },
    {
     "shot": "remote-work",
-    "shows": "Work from Home",
-    "file": "File:Work from Home (01313933).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Work_from_Home_(01313933).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Work_from_Home_%2801313933%29.jpg/1920px-Work_from_Home_%2801313933%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Work_from_Home_%2801313933%29.jpg/500px-Work_from_Home_%2801313933%29.jpg",
+    "shows": "Remote work GG",
+    "file": "File:Remote work GG.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Remote_work_GG.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Remote_work_GG.jpg/1920px-Remote_work_GG.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Remote_work_GG.jpg/500px-Remote_work_GG.jpg",
     "size": [
      1920,
-     1280
+     950
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "IAEA Imagebank, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
+    "credit": "Claudia Carpinelli, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "IAEA Imagebank",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Claudia Carpinelli",
     "year": 2020,
     "how": "catalog"
    },
    {
     "shot": "coworking-space",
-    "shows": "Toong Coworking Space in Hanoi",
-    "file": "File:Toong Coworking Space in Hanoi.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Toong_Coworking_Space_in_Hanoi.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Toong_Coworking_Space_in_Hanoi.jpg/1920px-Toong_Coworking_Space_in_Hanoi.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Toong_Coworking_Space_in_Hanoi.jpg/500px-Toong_Coworking_Space_in_Hanoi.jpg",
+    "shows": "Openspace wao coworking",
+    "file": "File:Openspace wao coworking.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Openspace_wao_coworking.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Openspace_wao_coworking.jpg/1920px-Openspace_wao_coworking.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Openspace_wao_coworking.jpg/500px-Openspace_wao_coworking.jpg",
     "size": [
      1920,
      1280
@@ -160748,21 +160889,21 @@
      0.5,
      0.5
     ],
-    "credit": "Ann0611, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "WAO Coworking, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ann0611",
-    "year": 2017,
+    "author": "WAO Coworking",
+    "year": 2019,
     "how": "catalog"
    },
    {
     "shot": "warehouse-worker",
-    "shows": "Worker organizes metal hardware in a warehouse",
-    "file": "File:Worker organizes metal hardware in a warehouse.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Worker_organizes_metal_hardware_in_a_warehouse.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Worker_organizes_metal_hardware_in_a_warehouse.jpg/1920px-Worker_organizes_metal_hardware_in_a_warehouse.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Worker_organizes_metal_hardware_in_a_warehouse.jpg/500px-Worker_organizes_metal_hardware_in_a_warehouse.jpg",
+    "shows": "Worker holds metal parts in a warehouse",
+    "file": "File:Worker holds metal parts in a warehouse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Worker_holds_metal_parts_in_a_warehouse.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Worker_holds_metal_parts_in_a_warehouse.jpg/1920px-Worker_holds_metal_parts_in_a_warehouse.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Worker_holds_metal_parts_in_a_warehouse.jpg/500px-Worker_holds_metal_parts_in_a_warehouse.jpg",
     "size": [
      1920,
      1280
@@ -160781,11 +160922,11 @@
    },
    {
     "shot": "employees",
-    "shows": "Wikimedia staff retreat 473",
-    "file": "File:Wikimedia staff retreat 473.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wikimedia_staff_retreat_473.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wikimedia_staff_retreat_473.jpg/1920px-Wikimedia_staff_retreat_473.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wikimedia_staff_retreat_473.jpg/500px-Wikimedia_staff_retreat_473.jpg",
+    "shows": "Wikimedia staff retreat 384",
+    "file": "File:Wikimedia staff retreat 384.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wikimedia_staff_retreat_384.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wikimedia_staff_retreat_384.jpg/1920px-Wikimedia_staff_retreat_384.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Wikimedia_staff_retreat_384.jpg/500px-Wikimedia_staff_retreat_384.jpg",
     "size": [
      1920,
      1282
@@ -160804,34 +160945,34 @@
    },
    {
     "shot": "interview",
-    "shows": "What to Expect at a Job Interview at a Teaching School",
-    "file": "File:What to Expect at a Job Interview at a Teaching School.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:What_to_Expect_at_a_Job_Interview_at_a_Teaching_School.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/What_to_Expect_at_a_Job_Interview_at_a_Teaching_School.jpg/1920px-What_to_Expect_at_a_Job_Interview_at_a_Teaching_School.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/What_to_Expect_at_a_Job_Interview_at_a_Teaching_School.jpg/500px-What_to_Expect_at_a_Job_Interview_at_a_Teaching_School.jpg",
+    "shows": "Skrilla Interview 2025 03",
+    "file": "File:Skrilla Interview 2025 03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Skrilla_Interview_2025_03.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Skrilla_Interview_2025_03.jpg/1280px-Skrilla_Interview_2025_03.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Skrilla_Interview_2025_03.jpg/500px-Skrilla_Interview_2025_03.jpg",
     "size": [
-     1920,
-     1484
+     1280,
+     2276
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "HeatherKatz001, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "HeatherKatz001",
-    "year": 2019,
+    "credit": "Aux Cable Label, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Aux Cable Label",
+    "year": 2025,
     "how": "catalog"
    },
    {
     "shot": "workplace",
-    "shows": "Photography from below (floor level, oblique view) on shelf with hair dye tubes at hairdresser in Germany",
-    "file": "File:Photography from below (floor level, oblique view) on shelf with hair dye tubes at hairdresser in Germany.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Photography_from_below_(floor_level,_oblique_view)_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Photography_from_below_%28floor_level%2C_oblique_view%29_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg/1280px-Photography_from_below_%28floor_level%2C_oblique_view%29_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Photography_from_below_%28floor_level%2C_oblique_view%29_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg/500px-Photography_from_below_%28floor_level%2C_oblique_view%29_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg",
+    "shows": "Photography from below (floor level) on shelf with hair dye tubes at hairdresser in Germany",
+    "file": "File:Photography from below (floor level) on shelf with hair dye tubes at hairdresser in Germany.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Photography_from_below_(floor_level)_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Photography_from_below_%28floor_level%29_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg/1280px-Photography_from_below_%28floor_level%29_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Photography_from_below_%28floor_level%29_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg/500px-Photography_from_below_%28floor_level%29_on_shelf_with_hair_dye_tubes_at_hairdresser_in_Germany.jpg",
     "size": [
      1280,
      1707
@@ -160850,11 +160991,11 @@
    },
    {
     "shot": "delivery-driver",
-    "shows": "Takeout Delivery Driver on a Motorbike",
-    "file": "File:Takeout Delivery Driver on a Motorbike.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Takeout_Delivery_Driver_on_a_Motorbike.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Takeout_Delivery_Driver_on_a_Motorbike.jpg/1920px-Takeout_Delivery_Driver_on_a_Motorbike.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Takeout_Delivery_Driver_on_a_Motorbike.jpg/500px-Takeout_Delivery_Driver_on_a_Motorbike.jpg",
+    "shows": "Food delivery driver delivering online order",
+    "file": "File:Food delivery driver delivering online order.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Food_delivery_driver_delivering_online_order.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Food_delivery_driver_delivering_online_order.jpg/1920px-Food_delivery_driver_delivering_online_order.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Food_delivery_driver_delivering_online_order.jpg/500px-Food_delivery_driver_delivering_online_order.jpg",
     "size": [
      1920,
      1280
@@ -160874,7 +161015,22 @@
   ],
   "missing": [
    "office-workers",
-   "nurse"
+   "nurse",
+   "we-are-hiring",
+   "office-worker",
+   "assembly-line",
+   "warehouse",
+   "chef",
+   "waiter",
+   "farmer",
+   "teamwork",
+   "meeting",
+   "laptop-work",
+   "steel-worker",
+   "welder",
+   "construction-worker",
+   "factory-floor",
+   "hiring-sign"
   ],
   "checked": "2026-11-16"
  },
