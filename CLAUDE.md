@@ -269,8 +269,15 @@ Decisions (Pablo, 4 Nov 2026):
   stopping the sheets. Each pass now adds only ~20-45 photos.
 - **Merged into main (16 Nov, PR #9)**: 5,994 published photos: companies 3,969, topics 1,520 (average 41.1), sectors
   505 (average 45.9). Thinnest: quantum 24, ai 30, nuclear 30, fed 36, earnings 36, ev 36, banks 37. 310 Unsplash
-  download counts pending. Next: round 7 (~330 short searches for the 14 thinnest; glp1 has 20 shots and metals 33,
-  so theirs are appended).
+  download counts pending.
+- **Round 7, refill 7** (16-17 Nov): 203 short searches in the 14 thinnest topics (glp1 and metals appended, the rest
+  replace dead shots; two 2-hour pieces); graded stock 20 of 62 grade 3, Commons 8 of 130. Then refill 7 of the 45
+  below 50 from the cache (stock 9 of 68, Commons 7 of 245; subagent grade 3s with a brand front and centre or a
+  person as the subject were lowered to 2). Word matches seen: "chandelier" (IBM's cryostat nickname) brings real
+  chandeliers, "eagle" for fed is at most 2.
+- **Merged into main (17 Nov, PR #10)**: 6,041 published photos: companies 3,969, topics 1,563 (average 42.2), sectors
+  509 (average 46.3); 4 of 48 at 50. Thinnest: quantum 26, nuclear 31, ai 32, chips 38, earnings 38, banks 38.
+  320 Unsplash download counts pending.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand

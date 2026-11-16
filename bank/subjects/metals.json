@@ -714,40 +714,21 @@
    "source": "https://commons.wikimedia.org/wiki/File:Bundles_of_cathode_copper.png"
   },
   {
-   "shows": "Scene, high above the Copper Mountain Ski Resort near Frisco in Summit County, Colorado",
-   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:37100:37105/full/2250,/0/default.jpg",
-   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:37100:37105/full/500,/0/default.jpg",
+   "shows": "Blast Furnace 1 at Night, voestalpine Donawitz, 2026-02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DSC03739_Blast_Furnace_1_at_Night%2C_voestalpine_Donawitz%2C_2026-02.jpg/1920px-DSC03739_Blast_Furnace_1_at_Night%2C_voestalpine_Donawitz%2C_2026-02.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DSC03739_Blast_Furnace_1_at_Night%2C_voestalpine_Donawitz%2C_2026-02.jpg/500px-DSC03739_Blast_Furnace_1_at_Night%2C_voestalpine_Donawitz%2C_2026-02.jpg",
    "size": [
-    2250,
-    1500
+    1920,
+    1280
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
-   "provider": "loc",
-   "source": "https://www.loc.gov/item/2017687263/"
-  },
-  {
-   "shows": "A bottle of vitamin water sitting on a pink surface",
-   "url": "https://images.unsplash.com/photo-1685913311279-26dfea7134eb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8emluY3xlbnwxfHx8fDE3OTQ4MzA3MjF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1685913311279-26dfea7134eb?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8emluY3xlbnwxfHx8fDE3OTQ4MzA3MjF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2250,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Eir Health on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@eirhealth?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-bottle-of-vitamin-water-sitting-on-a-pink-surface-Ruof7i3JEW4?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "Aciarium, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DSC03739_Blast_Furnace_1_at_Night,_voestalpine_Donawitz,_2026-02.jpg"
   }
  ]
 }
