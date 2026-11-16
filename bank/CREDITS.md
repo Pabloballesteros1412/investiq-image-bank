@@ -5912,6 +5912,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - 100 us dollar bill: Photo by Frederick Warren on Unsplash. [lOg_fQLHo7s](https://unsplash.com/photos/100-us-dollar-bill-lOg_fQLHo7s?utm_source=investiq_image_bank&utm_medium=referral)
 - A group of people standing in front of the washington monument: Photo by Vihan Dalal on Unsplash. [i1uAHbLGY1E](https://unsplash.com/photos/a-group-of-people-standing-in-front-of-the-washington-monument-i1uAHbLGY1E?utm_source=investiq_image_bank&utm_medium=referral)
 - Closeup photo of 100 US dollar banknotes: Photo by Pepi Stojanovski on Unsplash. [MJSFNZ8BAXw](https://unsplash.com/photos/closeup-photo-of-100-us-dollar-banknotes-MJSFNZ8BAXw?utm_source=investiq_image_bank&utm_medium=referral)
+- A white marble elephant sculpture decorated with ornate carved trappings stands on a square plinth at the entrance to Trimandir, Pune, India. A broad marble sta: Photo by Pritam Sonone on WordPress.org Photos, CC0. [204253](https://wordpress.org/photos/photo/3296a00224/)
+- Row of stone columns with strong shadows: Photo by Paolo Chiabrando on Unsplash. [uezooiynnt8](https://unsplash.com/photos/row-of-stone-columns-with-strong-shadows-uezooiynnt8?utm_source=investiq_image_bank&utm_medium=referral)
+- A person holding a bunch of money in their hand: Photo by Jonathan Borba on Unsplash. [9uCmnwC2KR4](https://unsplash.com/photos/a-person-holding-a-bunch-of-money-in-their-hand-9uCmnwC2KR4?utm_source=investiq_image_bank&utm_medium=referral)
+- Industrial printing press with purple ink rollers: Photo by Aleksandr Galichkin on Unsplash. [QRykXu51r_0](https://unsplash.com/photos/industrial-printing-press-with-purple-ink-rollers-QRykXu51r_0?utm_source=investiq_image_bank&utm_medium=referral)
+- A silver Morgan dollar coin dated 1879 with a profile of Lady Liberty: Photo by Coin melter on Unsplash. [cBhS5Iusir8](https://unsplash.com/photos/silver-morgan-dollar-coin-1879-cBhS5Iusir8?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Inflation & cost of living (inflation)
 
@@ -6111,6 +6116,19 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Thunderstorm with dark clouds: Photo by Josep Castells on Unsplash. [5Mh8iz9vqpY](https://unsplash.com/photos/thunderstorm-with-dark-clouds-5Mh8iz9vqpY?utm_source=investiq_image_bank&utm_medium=referral)
 - City skyline under dark clouds: Photo by pure julia on Unsplash. [NChuVFzZeNk](https://unsplash.com/photos/city-skyline-under-dark-clouds-NChuVFzZeNk?utm_source=investiq_image_bank&utm_medium=referral)
 - Ocean waves crashing on shore during daytime: Photo by Photoholgic on Unsplash. [SbEs8c2zVsg](https://unsplash.com/photos/ocean-waves-crashing-on-shore-during-daytime-SbEs8c2zVsg?utm_source=investiq_image_bank&utm_medium=referral)
+- Landscape photography of avalanche: Photo by Krzysztof Kowalik on Unsplash. [PkXThkFaGzo](https://unsplash.com/photos/landscape-photography-of-avalanche-PkXThkFaGzo?utm_source=investiq_image_bank&utm_medium=referral)
+- Arenal Volcano surrounded by green forest and framed by tree branches.: Photo by mhernandez10314 on WordPress.org Photos, CC0. [258984](https://wordpress.org/photos/photo/9126af8a03/)
+- A volcanic eruption with glowing lava flowing down a dark mountain at night: Photo by Alain Bonnardeaux on Unsplash. [tLxGw_ITs7k](https://unsplash.com/photos/volcanic-eruption-with-glowing-lava-tLxGw_ITs7k?utm_source=investiq_image_bank&utm_medium=referral)
+- Green and brown roller coaster under blue sky during daytime: Photo by Jonny Gios on Unsplash. [M6sDLz3MCmE](https://unsplash.com/photos/green-and-brown-roller-coaster-under-blue-sky-during-daytime-M6sDLz3MCmE?utm_source=investiq_image_bank&utm_medium=referral)
+- Body of water surrounded by fog: Photo by JOHN TOWNER on Unsplash. [FD_sabE544U](https://unsplash.com/photos/body-of-water-surrounded-by-fog-FD_sabE544U?utm_source=investiq_image_bank&utm_medium=referral)
+- A bulldozer digging through a demolished building: Photo by Vincenzo Cassano on Unsplash. [MqAiJPYEFrs](https://unsplash.com/photos/a-bulldozer-digging-through-a-demolished-building-MqAiJPYEFrs?utm_source=investiq_image_bank&utm_medium=referral)
+- Wildfire burning across hillside at dusk: Photo by Conservation Commons on Unsplash. [kbTp7dBzHyY](https://unsplash.com/photos/wildfire-burning-across-hillside-at-dusk-kbTp7dBzHyY?utm_source=investiq_image_bank&utm_medium=referral)
+- Three cars partially submerged in a flooded river near a stone bridge: Photo by Chris Gallagher on Unsplash. [4zxp5vlmvnI](https://unsplash.com/photos/cars-submerged-in-flooded-river-4zxp5vlmvnI?utm_source=investiq_image_bank&utm_medium=referral)
+- Shattered glass with a small hole in center: Photo by Pierre Bamin on Unsplash. [QeNRSunb0eQ](https://unsplash.com/photos/shattered-glass-with-a-small-hole-in-center-QeNRSunb0eQ?utm_source=investiq_image_bank&utm_medium=referral)
+- A plant is growing out of the cracks in the ground: Photo by Amy Humphries on Unsplash. [J5mLIEXoGUY](https://unsplash.com/photos/a-plant-is-growing-out-of-the-cracks-in-the-ground-J5mLIEXoGUY?utm_source=investiq_image_bank&utm_medium=referral)
+- Black asphalt road between brown grass field during daytime: Photo by Everett Bartels on Unsplash. [FJMK4VKW-Xw](https://unsplash.com/photos/black-asphalt-road-between-brown-grass-field-during-daytime-FJMK4VKW-Xw?utm_source=investiq_image_bank&utm_medium=referral)
+- A bright white lightning bolt striking down from a dark blue storm cloud: Photo by Brandon Morgan on Unsplash. [3qucB7U2l7I](https://unsplash.com/photos/lightning-bolt-in-dark-storm-3qucB7U2l7I?utm_source=investiq_image_bank&utm_medium=referral)
+- White smoke coming out from brown wood: Photo by Viktor Talashuk on Unsplash. [Zcqw1XnVnDo](https://unsplash.com/photos/white-smoke-coming-out-from-brown-wood-Zcqw1XnVnDo?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Artificial intelligence boom (ai)
 
@@ -6135,6 +6153,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Robotic arm with pincers in a dusty environment: Photo by Akshat Sharma on Unsplash. [Au8NdOftMaI](https://unsplash.com/photos/robotic-arm-with-pincers-in-a-dusty-environment-Au8NdOftMaI?utm_source=investiq_image_bank&utm_medium=referral)
 - White robot: Photo by Arseny Togulev on Unsplash. [MECKPoKJYjM](https://unsplash.com/photos/white-robot-MECKPoKJYjM?utm_source=investiq_image_bank&utm_medium=referral)
 - A car that is sitting in the street: Photo by Remy Gieling on Unsplash. [PkKsHQ5u4g8](https://unsplash.com/photos/a-car-that-is-sitting-in-the-street-PkKsHQ5u4g8?utm_source=investiq_image_bank&utm_medium=referral)
+- White robot vacuum cleaner on area rug: Photo by Kowon vn on Unsplash. [7jMiJmNfkgM](https://unsplash.com/photos/white-robot-vacuum-cleaner-on-area-rug-7jMiJmNfkgM?utm_source=investiq_image_bank&utm_medium=referral)
+- Turned-on drone: Photo by Alessio Soggetti on Unsplash. [rSFxBGpnluw](https://unsplash.com/photos/turned-on-drone-rSFxBGpnluw?utm_source=investiq_image_bank&utm_medium=referral)
+- Car dashboard displaying autonomous driving interface: Photo by Josh Sorenson on Unsplash. [dkEShdYwnZ0](https://unsplash.com/photos/car-dashboard-displaying-autonomous-driving-interface-dkEShdYwnZ0?utm_source=investiq_image_bank&utm_medium=referral)
+- A pile of assorted electronic components sitting on top of each other: Photo by Nathan Cima on Unsplash. [G09BIFdUAGU](https://unsplash.com/photos/a-pile-of-assorted-electronic-components-sitting-on-top-of-each-other-G09BIFdUAGU?utm_source=investiq_image_bank&utm_medium=referral)
+- A brain coral with a beautiful pattern iluminated by sunlight with a sea urchin on the background: Photo by Nahuai Badiola on WordPress.org Photos, CC0. [218733](https://wordpress.org/photos/photo/726a214249/)
+- A panel discussion on a stage in a large auditorium with an audience: Photo by Product School on Unsplash. [dJICd7b_LlE](https://unsplash.com/photos/panel-discussion-in-large-auditorium-dJICd7b_LlE?utm_source=investiq_image_bank&utm_medium=referral)
+- Giant gundam robot head displayed on building entrance: Photo by Kouji Tsuru on Unsplash. [TQuihmQXFsc](https://unsplash.com/photos/giant-gundam-robot-head-displayed-on-building-entrance-TQuihmQXFsc?utm_source=investiq_image_bank&utm_medium=referral)
+- Close-up of an orange robot's face with blue eyes: Photo by Enchanted Tools on Unsplash. [pi3G-PIhaog](https://unsplash.com/photos/close-up-of-an-orange-robots-face-with-blue-eyes-pi3G-PIhaog?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6568,6 +6594,17 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A hand-drawn line graph on paper with a metal ruler and two pens: Photo by Isaac Smith on Unsplash. [6EnTPvPPL6I](https://unsplash.com/photos/line-graph-with-ruler-and-pens-6EnTPvPPL6I?utm_source=investiq_image_bank&utm_medium=referral)
 - A calculator on a table: Photo by Behnam Norouzi on Unsplash. [wBKWM-DLhzg](https://unsplash.com/photos/a-calculator-on-a-table-wBKWM-DLhzg?utm_source=investiq_image_bank&utm_medium=referral)
 - A line graph with rising yellow and flat blue data points on a dark background: Photo by KOBU Agency on Unsplash. [hTtK6tvTRY0](https://unsplash.com/photos/line-graph-with-rising-data-trends-hTtK6tvTRY0?utm_source=investiq_image_bank&utm_medium=referral)
+- Pile of newspapers: Photo by Utsav Srestha on Unsplash. [HeNrEdA4Zp4](https://unsplash.com/photos/pile-of-newspapers-HeNrEdA4Zp4?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a keyboard: Photo by Amjith S on Unsplash. [7vyhymEWs9M](https://unsplash.com/photos/a-close-up-of-a-keyboard-7vyhymEWs9M?utm_source=investiq_image_bank&utm_medium=referral)
+- A man standing in an office holding a box: Photo by Tim van der Kuip on Unsplash. [s-aRz4D_b5I](https://unsplash.com/photos/a-man-standing-in-an-office-holding-a-box-s-aRz4D_b5I?utm_source=investiq_image_bank&utm_medium=referral)
+- Magnifying glass on white table: Photo by Markus Winkler on Unsplash. [afW1hht0NSs](https://unsplash.com/photos/magnifying-glass-on-white-table-afW1hht0NSs?utm_source=investiq_image_bank&utm_medium=referral)
+- Hand holding pen over a blue clipboard: Photo by Phil Hearing on Unsplash. [eXcF6L9pEug](https://unsplash.com/photos/hand-holding-pen-over-a-blue-clipboard-eXcF6L9pEug?utm_source=investiq_image_bank&utm_medium=referral)
+- The Colorado Springs Pioneers Museum in Colorado Springs, Colorado, housed in a granite building with a domed clock tower that was the El Paso County Courthouse: Photo: Carol M. Highsmith, Library of Congress, public domain. [2015633982](https://www.loc.gov/item/2015633982/)
+- A stack of thick folders on a white surface: Photo by Beatriz Pérez Moya on Unsplash. [XN4T2PVUUgk](https://unsplash.com/photos/a-stack-of-thick-folders-on-a-white-surface-XN4T2PVUUgk?utm_source=investiq_image_bank&utm_medium=referral)
+- A computer screen with a bar chart on it: Photo by 1981 Digital on Unsplash. [yqaskj8lQBE](https://unsplash.com/photos/a-computer-screen-with-a-bar-chart-on-it-yqaskj8lQBE?utm_source=investiq_image_bank&utm_medium=referral)
+- A woman holding a tablet with a chart on it: Photo by George Dagerotip on Unsplash. [AUmY7IjqgAs](https://unsplash.com/photos/a-woman-holding-a-tablet-with-a-chart-on-it-AUmY7IjqgAs?utm_source=investiq_image_bank&utm_medium=referral)
+- White and gray office rolling chairs: Photo by Danielle Cerullo on Unsplash. [bIZJRVBLfOM](https://unsplash.com/photos/white-and-gray-office-rolling-chairs-bIZJRVBLfOM?utm_source=investiq_image_bank&utm_medium=referral)
+- Gray concrete building under blue sky during daytime: Photo by Georg Pflueger on Unsplash. [bpLo4aMWfQs](https://unsplash.com/photos/gray-concrete-building-under-blue-sky-during-daytime-bpLo4aMWfQs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
@@ -6668,6 +6705,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Cooling towers of a nuclear power plant: Vsatinet, CC BY-SA 4.0, via Wikimedia Commons. [Cooling towers of a nuclear power plant.jpg](https://commons.wikimedia.org/wiki/File:Cooling_towers_of_a_nuclear_power_plant.jpg)
 - Radiation Warning Sign: Oligopolism, CC0, via Wikimedia Commons. [Radiation Warning Sign.jpg](https://commons.wikimedia.org/wiki/File:Radiation_Warning_Sign.jpg)
 - Red and yellow radioactive signage at the building: Photo by Yves Alarie on Unsplash. [5xA-NZCIl6k](https://unsplash.com/photos/red-and-yellow-radioactive-signage-at-the-building-5xA-NZCIl6k?utm_source=investiq_image_bank&utm_medium=referral)
+- A large ferris wheel sitting in the middle of a forest: Photo by Mads Eneqvist on Unsplash. [IM4b4ytWetg](https://unsplash.com/photos/a-large-ferris-wheel-sitting-in-the-middle-of-a-forest-IM4b4ytWetg?utm_source=investiq_image_bank&utm_medium=referral)
+- White and red tower under cloudy sky during daytime: Photo by Gregorio Nuti on Unsplash. [LNJWdaEl3rg](https://unsplash.com/photos/white-and-red-tower-under-cloudy-sky-during-daytime-LNJWdaEl3rg?utm_source=investiq_image_bank&utm_medium=referral)
+- No smoking no smoking sign: Photo by Tim Mossholder on Unsplash. [itfbQd6Y9UY](https://unsplash.com/photos/no-smoking-no-smoking-sign-itfbQd6Y9UY?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a control panel with buttons and switches: Photo by Karan Suthar on Unsplash. [3gX0VUxKekU](https://unsplash.com/photos/a-close-up-of-a-control-panel-with-buttons-and-switches-3gX0VUxKekU?utm_source=investiq_image_bank&utm_medium=referral)
+- Green metal surface with hazard symbol and number 59: Photo by Alexander Pell on Unsplash. [AqICkuQ9XdQ](https://unsplash.com/photos/green-metal-surface-with-hazard-symbol-and-number-59-AqICkuQ9XdQ?utm_source=investiq_image_bank&utm_medium=referral)
+- A smokestack emits from the top of a building: Photo by chris robert on Unsplash. [KZFgEs-v358](https://unsplash.com/photos/a-smokestack-emits-from-the-top-of-a-building-KZFgEs-v358?utm_source=investiq_image_bank&utm_medium=referral)
+- Houses with different roof colors: Photo by Samuel Han on Unsplash. [NZ_gUWUfOao](https://unsplash.com/photos/houses-with-different-roof-colors-NZ_gUWUfOao?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Defense & geopolitics (defense)
 
@@ -7039,6 +7083,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A close-up of a computer: Photo by Maxence Pira on Unsplash. [aNaq4lbX99E](https://unsplash.com/photos/a-close-up-of-a-computer-aNaq4lbX99E?utm_source=investiq_image_bank&utm_medium=referral)
 - A red and white tower: Photo by Daniele Levis Pelusi on Unsplash. [QcQxZcUwuso](https://unsplash.com/photos/a-red-and-white-tower-QcQxZcUwuso?utm_source=investiq_image_bank&utm_medium=referral)
 - Circuit Board: Tobias Hanf, CC BY-SA 3.0, via Wikimedia Commons. [Circuit Board (260854457).jpeg](https://commons.wikimedia.org/wiki/File:Circuit_Board_(260854457).jpeg)
+- A machine that has a lot of pipes inside of it: Photo by Brandon Style on Unsplash. [LjViI6K6H8g](https://unsplash.com/photos/a-machine-that-has-a-lot-of-pipes-inside-of-it-LjViI6K6H8g?utm_source=investiq_image_bank&utm_medium=referral)
+- A traditional wooden window with thick shutters allows a narrow beam of light to enter the room. The simple design and aged wood reflect the architectural style: Photo by Bigul Malayi on WordPress.org Photos, CC0. [226972](https://wordpress.org/photos/photo/1036a36d02/)
+- Rainbow prism light spectrum on dark surface: Photo by Evie S. on Unsplash. [kBzQNk9AgOg](https://unsplash.com/photos/rainbow-prism-light-spectrum-on-dark-surface-kBzQNk9AgOg?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a red flower: Photo by Stefano Bucciarelli on Unsplash. [59HOF9zHKNs](https://unsplash.com/photos/a-close-up-of-a-red-flower-59HOF9zHKNs?utm_source=investiq_image_bank&utm_medium=referral)
+- A blue refrigerator with magnets and pictures on it: Photo by Walls.io on Unsplash. [Ekgc7KaAFzU](https://unsplash.com/photos/a-blue-refrigerator-with-magnets-and-pictures-on-it-Ekgc7KaAFzU?utm_source=investiq_image_bank&utm_medium=referral)
+- Red and silver round light: Photo by Etienne Desclides on Unsplash. [UlitWCznbIg](https://unsplash.com/photos/red-and-silver-round-light-UlitWCznbIg?utm_source=investiq_image_bank&utm_medium=referral)
+- Brown and black round beads: Photo by ThisisEngineering on Unsplash. [p_v9fjRxUR8](https://unsplash.com/photos/brown-and-black-round-beads-p_v9fjRxUR8?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Robotics & automation (robotics)
 

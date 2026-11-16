@@ -11,8 +11,8 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
- "updated": "2026-11-15",
- "photos": 5830,
+ "updated": "2026-11-16",
+ "photos": 5881,
  "subjects": [
   {
    "id": "MMM",
@@ -8140,7 +8140,7 @@
     "rate cut",
     "rate hike"
    ],
-   "photos": 28,
+   "photos": 33,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/fed.json"
   },
@@ -8220,7 +8220,7 @@
     "correction",
     "panic"
    ],
-   "photos": 31,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crash.json"
   },
@@ -8236,7 +8236,7 @@
     "llm",
     "chatbot"
    ],
-   "photos": 21,
+   "photos": 29,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ai.json"
   },
@@ -8411,7 +8411,7 @@
     "guidance",
     "eps"
    ],
-   "photos": 26,
+   "photos": 37,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/earnings.json"
   },
@@ -8456,7 +8456,7 @@
     "smr",
     "nuclear power"
    ],
-   "photos": 27,
+   "photos": 34,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
   },
@@ -8603,7 +8603,7 @@
     "quantum computing",
     "quantum computer"
    ],
-   "photos": 15,
+   "photos": 22,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/quantum.json"
   },
