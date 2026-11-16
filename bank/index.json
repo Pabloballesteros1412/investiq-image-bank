@@ -11,8 +11,8 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
- "updated": "2026-11-15",
- "photos": 5830,
+ "updated": "2026-11-16",
+ "photos": 5911,
  "subjects": [
   {
    "id": "MMM",
@@ -8124,7 +8124,7 @@
    "aliases": [
     "materials"
    ],
-   "photos": 35,
+   "photos": 37,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-materials.json"
   },
@@ -8140,7 +8140,7 @@
     "rate cut",
     "rate hike"
    ],
-   "photos": 28,
+   "photos": 32,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/fed.json"
   },
@@ -8203,7 +8203,7 @@
     "s&p 500",
     "record high"
    ],
-   "photos": 38,
+   "photos": 40,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bull-market.json"
   },
@@ -8220,7 +8220,7 @@
     "correction",
     "panic"
    ],
-   "photos": 31,
+   "photos": 40,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crash.json"
   },
@@ -8236,7 +8236,7 @@
     "llm",
     "chatbot"
    ],
-   "photos": 21,
+   "photos": 26,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ai.json"
   },
@@ -8253,7 +8253,7 @@
     "grid",
     "capex"
    ],
-   "photos": 38,
+   "photos": 40,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/datacenters.json"
   },
@@ -8268,7 +8268,7 @@
     "chip war",
     "export controls"
    ],
-   "photos": 34,
+   "photos": 37,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/chips.json"
   },
@@ -8284,7 +8284,7 @@
     "ethereum",
     "btc"
    ],
-   "photos": 34,
+   "photos": 41,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crypto.json"
   },
@@ -8314,7 +8314,7 @@
     "brent",
     "wti"
    ],
-   "photos": 37,
+   "photos": 38,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/oil.json"
   },
@@ -8362,7 +8362,7 @@
     "forex",
     "eurusd"
    ],
-   "photos": 33,
+   "photos": 35,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/dollar.json"
   },
@@ -8379,7 +8379,7 @@
     "deficit",
     "10-year"
    ],
-   "photos": 32,
+   "photos": 42,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bonds.json"
   },
@@ -8395,7 +8395,7 @@
     "home prices",
     "homebuilders"
    ],
-   "photos": 34,
+   "photos": 37,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/housing.json"
   },
@@ -8411,7 +8411,7 @@
     "guidance",
     "eps"
    ],
-   "photos": 26,
+   "photos": 33,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/earnings.json"
   },
@@ -8426,7 +8426,7 @@
     "initial public offering",
     "going public"
    ],
-   "photos": 33,
+   "photos": 38,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ipo.json"
   },
@@ -8441,7 +8441,7 @@
     "electric cars",
     "batteries"
    ],
-   "photos": 31,
+   "photos": 35,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ev.json"
   },
@@ -8456,7 +8456,7 @@
     "smr",
     "nuclear power"
    ],
-   "photos": 27,
+   "photos": 30,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
   },
@@ -8505,7 +8505,7 @@
     "regional banks",
     "credit"
    ],
-   "photos": 34,
+   "photos": 36,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/banks.json"
   },
@@ -8572,7 +8572,7 @@
     "president",
     "shutdown"
    ],
-   "photos": 33,
+   "photos": 37,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/politics.json"
   },
@@ -8603,7 +8603,7 @@
     "quantum computing",
     "quantum computer"
    ],
-   "photos": 15,
+   "photos": 21,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/quantum.json"
   },
