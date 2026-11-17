@@ -192178,35 +192178,39 @@
     "how": "catalog"
    },
    {
-    "shot": "white-house-night",
-    "shows": "The White House at night, 2011",
-    "file": "File:The White House at night, 2011.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_White_House_at_night,_2011.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_White_House_at_night%2C_2011.jpg/1920px-The_White_House_at_night%2C_2011.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/The_White_House_at_night%2C_2011.jpg/500px-The_White_House_at_night%2C_2011.jpg",
+    "shot": "campaign-button",
+    "shows": "Dc make a date for '88 button",
+    "file": "unsplash:FrOZ8czlX8Y",
+    "page": "https://unsplash.com/photos/dc-make-a-date-for-88-button-FrOZ8czlX8Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1777564411043-014c4f6e89f0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNhbXBhaWduJTIwYnV0dG9ufGVufDF8fHx8MTc5NDkwMzM2OHww&ixlib=rb-4.1.0&w=1470&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1777564411043-014c4f6e89f0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNhbXBhaWduJTIwYnV0dG9ufGVufDF8fHx8MTc5NDkwMzM2OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1277
+     1470,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Rob Young from United Kingdom, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Rob Young from United Kingdom",
-    "year": 2011,
-    "how": "catalog"
+    "credit": "Photo by Smithsonian on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Smithsonian",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@smithsonian?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/FrOZ8czlX8Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGNhbXBhaWduJTIwYnV0dG9ufGVufDF8fHx8MTc5NDkwMzM2OHww",
+    "track_pending": true
    },
    {
     "shot": "campaign-rally",
-    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3665",
-    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3665.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_3665.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3665.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3665.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3665.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3665.jpg",
+    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 4679",
+    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 4679.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_4679.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4679.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4679.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4679.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4679.jpg",
     "size": [
      1920,
      1440
@@ -192224,12 +192228,39 @@
     "how": "catalog"
    },
    {
-    "shot": "capitol-hill",
-    "shows": "Capitol Hill from crosswalk",
-    "file": "File:Capitol Hill from crosswalk.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Capitol_Hill_from_crosswalk.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Capitol_Hill_from_crosswalk.jpg/1920px-Capitol_Hill_from_crosswalk.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Capitol_Hill_from_crosswalk.jpg/500px-Capitol_Hill_from_crosswalk.jpg",
+    "shot": "state-capitol",
+    "shows": "A black and white photo of the capitol building",
+    "file": "unsplash:vjogmAcJmco",
+    "page": "https://unsplash.com/photos/a-black-and-white-photo-of-the-capitol-building-vjogmAcJmco?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1684651265079-9cda8295ade9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c3RhdGUlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDkwMzQ2Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1684651265079-9cda8295ade9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c3RhdGUlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDkwMzQ2Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jennifer Grismer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jennifer Grismer",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jennifergrismer?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vjogmAcJmco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8c3RhdGUlMjBjYXBpdG9sfGVufDF8fHx8MTc5NDkwMzQ2Mnww",
+    "track_pending": true
+   },
+   {
+    "shot": "capitol-steps",
+    "shows": "Capitol Steps 4342",
+    "file": "File:Capitol Steps 4342.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Capitol_Steps_4342.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Capitol_Steps_4342.jpg/1920px-Capitol_Steps_4342.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Capitol_Steps_4342.jpg/500px-Capitol_Steps_4342.jpg",
     "size": [
      1920,
      1280
@@ -192238,44 +192269,21 @@
      0.5,
      0.5
     ],
-    "credit": "Saka8490, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Saka8490",
-    "year": 2016,
+    "author": "Chris Light",
+    "year": 2025,
     "how": "catalog"
    },
    {
-    "shot": "senate",
-    "shows": "Plenário do Senado",
-    "file": "File:Plenário do Senado (49554207146).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Plen%C3%A1rio_do_Senado_(49554207146).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plen%C3%A1rio_do_Senado_%2849554207146%29.jpg/1920px-Plen%C3%A1rio_do_Senado_%2849554207146%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Plen%C3%A1rio_do_Senado_%2849554207146%29.jpg/500px-Plen%C3%A1rio_do_Senado_%2849554207146%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Senado Federal from Brasilia, Brazil, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Senado Federal from Brasilia, Brazil",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "election-sign",
-    "shows": "Graham Platner for U.S. Senate yard sign U.S. Route 202 Alfred ME June 2026 07",
-    "file": "File:Graham Platner for U.S. Senate yard sign U.S. Route 202 Alfred ME June 2026 07.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Graham_Platner_for_U.S._Senate_yard_sign_U.S._Route_202_Alfred_ME_June_2026_07.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Graham_Platner_for_U.S._Senate_yard_sign_U.S._Route_202_Alfred_ME_June_2026_07.jpg/1280px-Graham_Platner_for_U.S._Senate_yard_sign_U.S._Route_202_Alfred_ME_June_2026_07.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Graham_Platner_for_U.S._Senate_yard_sign_U.S._Route_202_Alfred_ME_June_2026_07.jpg/500px-Graham_Platner_for_U.S._Senate_yard_sign_U.S._Route_202_Alfred_ME_June_2026_07.jpg",
+    "shot": "ballot-paper",
+    "shows": "Ballot paper with parties for the 2026 Saint Petersburg Legislative Assembly election",
+    "file": "File:Ballot paper with parties for the 2026 Saint Petersburg Legislative Assembly election.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ballot_paper_with_parties_for_the_2026_Saint_Petersburg_Legislative_Assembly_election.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ballot_paper_with_parties_for_the_2026_Saint_Petersburg_Legislative_Assembly_election.jpg/1280px-Ballot_paper_with_parties_for_the_2026_Saint_Petersburg_Legislative_Assembly_election.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Ballot_paper_with_parties_for_the_2026_Saint_Petersburg_Legislative_Assembly_election.jpg/500px-Ballot_paper_with_parties_for_the_2026_Saint_Petersburg_Legislative_Assembly_election.jpg",
     "size": [
      1280,
      1707
@@ -192284,43 +192292,43 @@
      0.5,
      0.5
     ],
-    "credit": "Artaxerxes, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Artaxerxes",
+    "credit": "Vityavo, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Vityavo",
     "year": 2026,
     "how": "catalog"
    },
    {
-    "shot": "flag-waving",
-    "shows": "Turkish flag waving in the sky",
-    "file": "File:Turkish flag waving in the sky.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Turkish_flag_waving_in_the_sky.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Turkish_flag_waving_in_the_sky.jpg/1920px-Turkish_flag_waving_in_the_sky.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Turkish_flag_waving_in_the_sky.jpg/500px-Turkish_flag_waving_in_the_sky.jpg",
+    "shot": "early-voting",
+    "shows": "Early voting at New Orleans Arena, October 2020 11",
+    "file": "File:Early voting at New Orleans Arena, October 2020 11.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Early_voting_at_New_Orleans_Arena,_October_2020_11.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Early_voting_at_New_Orleans_Arena%2C_October_2020_11.jpg/1920px-Early_voting_at_New_Orleans_Arena%2C_October_2020_11.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Early_voting_at_New_Orleans_Arena%2C_October_2020_11.jpg/500px-Early_voting_at_New_Orleans_Arena%2C_October_2020_11.jpg",
     "size": [
      1920,
-     1272
+     1348
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kurmanbek, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Kurmanbek",
-    "year": 2014,
+    "credit": "Infrogmation of New Orleans, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Infrogmation of New Orleans",
+    "year": 2020,
     "how": "catalog"
    }
   ],
   "missing": [
-   "us-congress",
-   "us-flags",
-   "patriotic",
-   "democracy",
+   "town-hall",
+   "flag-pole",
+   "political-rally",
+   "voter-registration",
    "uncle-sam",
    "capitol-dome",
    "election-campaign",
@@ -194404,219 +194412,6 @@
     "track": "https://api.unsplash.com/photos/LlQy3Id5XXM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Ymx1ZSUyMGxhc2VyfGVufDF8fHx8MTc5NDg4NTA4NXww"
    },
    {
-    "shot": "laboratory",
-    "shows": "The chemical laboratory where Edison's teams worked on chemicals that were used in batteries, phonograph records and other inventions, at The Thomas Edison Nati",
-    "file": "loc:2017882245",
-    "page": "https://www.loc.gov/item/2017882245/",
-    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45496/full/1200,/0/default.jpg",
-    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45496/full/500,/0/default.jpg",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-    "licence_kind": "pd",
-    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
-    "author": "Carol M. Highsmith",
-    "year": 2017,
-    "how": "catalog",
-    "provider": "loc",
-    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
-   },
-   {
-    "shot": "science-laboratory",
-    "shows": "Mars Science Laboratory Heat Shield PIA12117",
-    "file": "File:Mars Science Laboratory Heat Shield PIA12117.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mars_Science_Laboratory_Heat_Shield_PIA12117.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mars_Science_Laboratory_Heat_Shield_PIA12117.jpg/1280px-Mars_Science_Laboratory_Heat_Shield_PIA12117.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mars_Science_Laboratory_Heat_Shield_PIA12117.jpg/500px-Mars_Science_Laboratory_Heat_Shield_PIA12117.jpg",
-    "size": [
-     1280,
-     1540
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
-    "shot": "physics-lab",
-    "shows": "Dials Of Power Unit In Physics Lab",
-    "file": "File:Dials Of Power Unit In Physics Lab (175076951).jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dials_Of_Power_Unit_In_Physics_Lab_(175076951).jpeg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dials_Of_Power_Unit_In_Physics_Lab_%28175076951%29.jpeg/1920px-Dials_Of_Power_Unit_In_Physics_Lab_%28175076951%29.jpeg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Dials_Of_Power_Unit_In_Physics_Lab_%28175076951%29.jpeg/500px-Dials_Of_Power_Unit_In_Physics_Lab_%28175076951%29.jpeg",
-    "size": [
-     1920,
-     1150
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mathew Schwartz, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Mathew Schwartz",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
-    "shot": "particle-accelerator",
-    "shows": "Particle accelerator",
-    "file": "File:Particle accelerator dsc04485.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Particle_accelerator_dsc04485.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Particle_accelerator_dsc04485.jpg/1920px-Particle_accelerator_dsc04485.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Particle_accelerator_dsc04485.jpg/500px-Particle_accelerator_dsc04485.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "David Monniaux, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "David Monniaux",
-    "year": 2005,
-    "how": "catalog"
-   },
-   {
-    "shot": "synchrotron",
-    "shows": "Sirius Synchrotron Entrance",
-    "file": "File:Sirius Synchrotron Entrance.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sirius_Synchrotron_Entrance.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sirius_Synchrotron_Entrance.jpg/1920px-Sirius_Synchrotron_Entrance.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sirius_Synchrotron_Entrance.jpg/500px-Sirius_Synchrotron_Entrance.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tex.Bold, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tex.Bold",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "cryostat",
-    "shows": "ФС-25ДА military InSb infrared photoresistor with liquid nitrogen cooling, 1970s development",
-    "file": "File:ФС-25ДА охлаждаемый ИК-фоторезистор на основе InSb, завод Сапфир - криостат (07).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%D0%A4%D0%A1-25%D0%94%D0%90_%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%98%D0%9A-%D1%84%D0%BE%D1%82%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_InSb,_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80_-_%D0%BA%D1%80%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82_(07).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%A4%D0%A1-25%D0%94%D0%90_%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%98%D0%9A-%D1%84%D0%BE%D1%82%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_InSb%2C_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80_-_%D0%BA%D1%80%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82_%2807%29.jpg/1920px-%D0%A4%D0%A1-25%D0%94%D0%90_%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%98%D0%9A-%D1%84%D0%BE%D1%82%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_InSb%2C_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80_-_%D0%BA%D1%80%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82_%2807%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%A4%D0%A1-25%D0%94%D0%90_%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%98%D0%9A-%D1%84%D0%BE%D1%82%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_InSb%2C_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80_-_%D0%BA%D1%80%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82_%2807%29.jpg/500px-%D0%A4%D0%A1-25%D0%94%D0%90_%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D0%B0%D0%B5%D0%BC%D1%8B%D0%B9_%D0%98%D0%9A-%D1%84%D0%BE%D1%82%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D1%81%D1%82%D0%BE%D1%80_%D0%BD%D0%B0_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5_InSb%2C_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4_%D0%A1%D0%B0%D0%BF%D1%84%D0%B8%D1%80_-_%D0%BA%D1%80%D0%B8%D0%BE%D1%81%D1%82%D0%B0%D1%82_%2807%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "155LA3, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "155LA3",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
-    "shot": "vacuum-chamber",
-    "shows": "Artemis II Orion Lifted into Vacuum Chamber (KSC- -PH-ALS01 0008)",
-    "file": "File:Artemis II Orion Lifted into Vacuum Chamber (KSC-20240404-PH-ALS01 0008).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Artemis_II_Orion_Lifted_into_Vacuum_Chamber_(KSC-20240404-PH-ALS01_0008).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Artemis_II_Orion_Lifted_into_Vacuum_Chamber_%28KSC-20240404-PH-ALS01_0008%29.jpg/1280px-Artemis_II_Orion_Lifted_into_Vacuum_Chamber_%28KSC-20240404-PH-ALS01_0008%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Artemis_II_Orion_Lifted_into_Vacuum_Chamber_%28KSC-20240404-PH-ALS01_0008%29.jpg/500px-Artemis_II_Orion_Lifted_into_Vacuum_Chamber_%28KSC-20240404-PH-ALS01_0008%29.jpg",
-    "size": [
-     1280,
-     2280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA Kennedy Space Center / NASA/Amanda Stevenson, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA Kennedy Space Center / NASA/Amanda Stevenson",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "laser-experiment",
-    "shows": "Laser Experiment 2",
-    "file": "File:Laser Experiment 2 (102188775).jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Laser_Experiment_2_(102188775).jpeg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Laser_Experiment_2_%28102188775%29.jpeg/1920px-Laser_Experiment_2_%28102188775%29.jpeg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Laser_Experiment_2_%28102188775%29.jpeg/500px-Laser_Experiment_2_%28102188775%29.jpeg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Omar Burgos Dättwyler, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Omar Burgos Dättwyler",
-    "year": 2013,
-    "how": "catalog"
-   },
-   {
-    "shot": "light-beam",
-    "shows": "A person standing on a rocky ledge inside a dark cave with light beams",
-    "file": "unsplash:Hi0bdO0vEfo",
-    "page": "https://unsplash.com/photos/person-in-dark-cave-with-light-Hi0bdO0vEfo?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1532980216874-21f93fa9fd15?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGxpZ2h0JTIwYmVhbXxlbnwxfHx8fDE3OTQ3ODc3MDN8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1532980216874-21f93fa9fd15?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGxpZ2h0JTIwYmVhbXxlbnwxfHx8fDE3OTQ3ODc3MDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Ivana Cajina on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Ivana Cajina",
-    "year": 2018,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@von_co?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Hi0bdO0vEfo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGxpZ2h0JTIwYmVhbXxlbnwxfHx8fDE3OTQ3ODc3MDN8MA",
-    "track_pending": true
-   },
-   {
     "shot": "quantum-chip",
     "shows": "Quantum Computer with Dispersive Background",
     "file": "File:Quantum Computer with Dispersive Background.png",
@@ -194637,194 +194432,6 @@
     "licence_url": "https://creativecommons.org/licenses/by/4.0",
     "author": "OJB Quantum",
     "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "engineering-lab",
-    "shows": "Lords Institute Of Engineering And Technology-Machines Lab",
-    "file": "File:Lords Institute Of Engineering And Technology-Machines Lab (1).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Lords_Institute_Of_Engineering_And_Technology-Machines_Lab_(1).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lords_Institute_Of_Engineering_And_Technology-Machines_Lab_%281%29.jpg/1920px-Lords_Institute_Of_Engineering_And_Technology-Machines_Lab_%281%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lords_Institute_Of_Engineering_And_Technology-Machines_Lab_%281%29.jpg/500px-Lords_Institute_Of_Engineering_And_Technology-Machines_Lab_%281%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Abdur Rahman Bin Salem Baseba, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Abdur Rahman Bin Salem Baseba",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "light-rays",
-    "shows": "Rays of light - geograph.org.uk",
-    "file": "File:Rays of light - geograph.org.uk - 2165180.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rays_of_light_-_geograph.org.uk_-_2165180.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rays_of_light_-_geograph.org.uk_-_2165180.jpg/1920px-Rays_of_light_-_geograph.org.uk_-_2165180.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Rays_of_light_-_geograph.org.uk_-_2165180.jpg/500px-Rays_of_light_-_geograph.org.uk_-_2165180.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pauline E, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Pauline E",
-    "year": 2010,
-    "how": "catalog"
-   },
-   {
-    "shot": "abstract-light",
-    "shows": "Speedometer abstract at night",
-    "file": "File:Speedometer abstract at night.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Speedometer_abstract_at_night.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Speedometer_abstract_at_night.jpg/1920px-Speedometer_abstract_at_night.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Speedometer_abstract_at_night.jpg/500px-Speedometer_abstract_at_night.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "WClarke, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "WClarke",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "glowing",
-    "shows": "Grandiflora Rose MEIzolle Glowing Peace NBG LR",
-    "file": "File:Grandiflora Rose MEIzolle Glowing Peace NBG LR.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Grandiflora_Rose_MEIzolle_Glowing_Peace_NBG_LR.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Grandiflora_Rose_MEIzolle_Glowing_Peace_NBG_LR.jpg/1920px-Grandiflora_Rose_MEIzolle_Glowing_Peace_NBG_LR.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Grandiflora_Rose_MEIzolle_Glowing_Peace_NBG_LR.jpg/500px-Grandiflora_Rose_MEIzolle_Glowing_Peace_NBG_LR.jpg",
-    "size": [
-     1920,
-     2044
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "PumpkinSky, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "PumpkinSky",
-    "year": 2017,
-    "how": "catalog"
-   },
-   {
-    "shot": "motherboard",
-    "shows": "Computer motherboard 10",
-    "file": "File:Computer motherboard 10.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Computer_motherboard_10.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Computer_motherboard_10.jpg/1280px-Computer_motherboard_10.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Computer_motherboard_10.jpg/500px-Computer_motherboard_10.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kurt Kaiser, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Kurt Kaiser",
-    "year": 2013,
-    "how": "catalog"
-   },
-   {
-    "shot": "gold-wires",
-    "shows": "Western Han Jade Burial Suit with Gold Wire and 4248 Jade Pieces - a",
-    "file": "File:Western Han Jade Burial Suit with Gold Wire and 4248 Jade Pieces - a.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_a.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_a.jpg/1920px-Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_a.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_a.jpg/500px-Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_a.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Gary Todd, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Gary Todd",
-    "year": 2011,
-    "how": "catalog"
-   },
-   {
-    "shot": "microscope",
-    "shows": "Man sight on white microscope",
-    "file": "unsplash:9vnACvX2748",
-    "page": "https://unsplash.com/photos/man-sight-on-white-microscope-9vnACvX2748?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1511174511562-5f7f18b874f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fG1pY3Jvc2NvcGV8ZW58MXx8fHwxNzk0NzQ3ODMyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1511174511562-5f7f18b874f8?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fG1pY3Jvc2NvcGV8ZW58MXx8fHwxNzk0NzQ3ODMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Lucas Vasques on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Lucas Vasques",
-    "year": 2017,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@luvqs?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/9vnACvX2748/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fG1pY3Jvc2NvcGV8ZW58MXx8fHwxNzk0NzQ3ODMyfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "research-laboratory",
-    "shows": "US Naval Research Lab",
-    "file": "File:US Naval Research Lab.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:US_Naval_Research_Lab.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/US_Naval_Research_Lab.jpg/1920px-US_Naval_Research_Lab.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/US_Naval_Research_Lab.jpg/500px-US_Naval_Research_Lab.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Reese Brown, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Reese Brown",
-    "year": 2017,
     "how": "catalog"
    },
    {
@@ -194853,12 +194460,425 @@
     "author_url": "https://unsplash.com/@darkersolstice?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/MKkA2KweNM0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cGxhc21hJTIwYmFsbHxlbnwxfHx8fDE3OTQ3ODc3NDl8MA",
     "track_pending": true
+   },
+   {
+    "shot": "oscilloscope",
+    "shows": "White audio mixer",
+    "file": "unsplash:uf4luctGaXI",
+    "page": "https://unsplash.com/photos/white-audio-mixer-uf4luctGaXI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1562568068-ea24dcbf3c78?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8b3NjaWxsb3Njb3BlfGVufDF8fHx8MTc5NDgyMDM1MXww&ixlib=rb-4.1.0&w=2258&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1562568068-ea24dcbf3c78?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8b3NjaWxsb3Njb3BlfGVufDF8fHx8MTc5NDgyMDM1MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2258,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Blaz Erzetic on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Blaz Erzetic",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@www_erzetich_com?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uf4luctGaXI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8b3NjaWxsb3Njb3BlfGVufDF8fHx8MTc5NDgyMDM1MXww",
+    "track_pending": true
+   },
+   {
+    "shot": "liquid-nitrogen",
+    "shows": "Żarówka w ciekłym azocie",
+    "file": "File:Żarówka w ciekłym azocie.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%C5%BBar%C3%B3wka_w_ciek%C5%82ym_azocie.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%C5%BBar%C3%B3wka_w_ciek%C5%82ym_azocie.jpg/1920px-%C5%BBar%C3%B3wka_w_ciek%C5%82ym_azocie.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/%C5%BBar%C3%B3wka_w_ciek%C5%82ym_azocie.jpg/500px-%C5%BBar%C3%B3wka_w_ciek%C5%82ym_azocie.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Edosz2010, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Edosz2010",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "electron-microscope",
+    "shows": "Electron microscope ISP",
+    "file": "File:Electron microscope ISP.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Electron_microscope_ISP.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Electron_microscope_ISP.jpg/1920px-Electron_microscope_ISP.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Electron_microscope_ISP.jpg/500px-Electron_microscope_ISP.jpg",
+    "size": [
+     1920,
+     1277
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Yakovlev Viktor, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Yakovlev Viktor",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "scientist-laboratory",
+    "shows": "Man in white dress shirt holding black binoculars",
+    "file": "unsplash:uxnbYOejXCE",
+    "page": "https://unsplash.com/photos/man-in-white-dress-shirt-holding-black-binoculars-uxnbYOejXCE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1583912267856-1fcdf6e0a1f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHNjaWVudGlzdCUyMGxhYm9yYXRvcnl8ZW58MXx8fHwxNzk0OTAzNDI5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1583912267856-1fcdf6e0a1f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHNjaWVudGlzdCUyMGxhYm9yYXRvcnl8ZW58MXx8fHwxNzk0OTAzNDI5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by National Cancer Institute on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "National Cancer Institute",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nci?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uxnbYOejXCE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fHNjaWVudGlzdCUyMGxhYm9yYXRvcnl8ZW58MXx8fHwxNzk0OTAzNDI5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "physics-experiment",
+    "shows": "COD Physics Students Collaborate in National Cosmic Ray Experiment 2017 13",
+    "file": "File:COD Physics Students Collaborate in National Cosmic Ray Experiment 2017 13 (37260309860).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:COD_Physics_Students_Collaborate_in_National_Cosmic_Ray_Experiment_2017_13_(37260309860).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/COD_Physics_Students_Collaborate_in_National_Cosmic_Ray_Experiment_2017_13_%2837260309860%29.jpg/1920px-COD_Physics_Students_Collaborate_in_National_Cosmic_Ray_Experiment_2017_13_%2837260309860%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/COD_Physics_Students_Collaborate_in_National_Cosmic_Ray_Experiment_2017_13_%2837260309860%29.jpg/500px-COD_Physics_Students_Collaborate_in_National_Cosmic_Ray_Experiment_2017_13_%2837260309860%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "COD Newsroom, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "COD Newsroom",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "blue-circuit-board",
+    "shows": "A close-up view of an electrical distribution board, featuring multiple circuit breakers with labeled switches, organized in rows. Color-coded wires in red, gre",
+    "file": "wordpress:131831",
+    "page": "https://wordpress.org/photos/photo/21368448ed/",
+    "url": "https://pd.w.org/2025/06/21368448ede712f77.42806988-1152x2048.jpg",
+    "preview": "https://pd.w.org/2025/06/21368448ede712f77.42806988-768x1365.jpg",
+    "size": [
+     1152,
+     2048
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Moses Cursor Ssebunya on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Moses Cursor Ssebunya",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/mosescursor/"
+   },
+   {
+    "shot": "vacuum-tube",
+    "shows": "A single vacuum tube sits on a workbench",
+    "file": "unsplash:dUpnF8v_qrU",
+    "page": "https://unsplash.com/photos/a-single-vacuum-tube-sits-on-a-workbench-dUpnF8v_qrU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1769367542930-8e73dff5760e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dmFjdXVtJTIwdHViZXxlbnwxfHx8fDE3OTQ5MDM2NzJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1769367542930-8e73dff5760e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dmFjdXVtJTIwdHViZXxlbnwxfHx8fDE3OTQ5MDM2NzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Madalozzo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Madalozzo",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@madalozzo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dUpnF8v_qrU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dmFjdXVtJTIwdHViZXxlbnwxfHx8fDE3OTQ5MDM2NzJ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "tesla-coil",
+    "shows": "Purple electrical arcs branching out from a central point against a black background",
+    "file": "unsplash:ZZN8eISetpw",
+    "page": "https://unsplash.com/photos/purple-electrical-arcs-on-black-ZZN8eISetpw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1789391347959-98850a7ff7df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGVzbGElMjBjb2lsfGVufDF8fHx8MTc5NDkwMzczOXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1789391347959-98850a7ff7df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGVzbGElMjBjb2lsfGVufDF8fHx8MTc5NDkwMzczOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by GALINA BOGDANOVA on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "GALINA BOGDANOVA",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@galibagi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZZN8eISetpw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGVzbGElMjBjb2lsfGVufDF8fHx8MTc5NDkwMzczOXww",
+    "track_pending": true
+   },
+   {
+    "shot": "cryogenic",
+    "shows": "SM18, Cryogenic Test Facility , CERN Geneva (Ank Kumar) 09",
+    "file": "File:SM18, Cryogenic Test Facility , CERN Geneva (Ank Kumar) 09.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SM18,_Cryogenic_Test_Facility_,_CERN_Geneva_(Ank_Kumar)_09.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/SM18%2C_Cryogenic_Test_Facility_%2C_CERN_Geneva_%28Ank_Kumar%29_09.jpg/1920px-SM18%2C_Cryogenic_Test_Facility_%2C_CERN_Geneva_%28Ank_Kumar%29_09.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/SM18%2C_Cryogenic_Test_Facility_%2C_CERN_Geneva_%28Ank_Kumar%29_09.jpg/500px-SM18%2C_Cryogenic_Test_Facility_%2C_CERN_Geneva_%28Ank_Kumar%29_09.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ank Kumar",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "glowing-cables",
+    "shows": "Exploding E match collage",
+    "file": "File:Exploding E match collage.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Exploding_E_match_collage.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Exploding_E_match_collage.jpg/1920px-Exploding_E_match_collage.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Exploding_E_match_collage.jpg/500px-Exploding_E_match_collage.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Lucasbosch, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Lucasbosch",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "atom-model",
+    "shows": "Atom with Electron in Transition",
+    "file": "File:Atom with Electron in Transition.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Atom_with_Electron_in_Transition.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Atom_with_Electron_in_Transition.png/1920px-Atom_with_Electron_in_Transition.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Atom_with_Electron_in_Transition.png/500px-Atom_with_Electron_in_Transition.png",
+    "size": [
+     1920,
+     1080
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "MattWallac987, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "MattWallac987",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "light-rays",
+    "shows": "Light rays coming through a cloud",
+    "file": "File:Light rays coming through a cloud.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Light_rays_coming_through_a_cloud.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Light_rays_coming_through_a_cloud.jpg/1280px-Light_rays_coming_through_a_cloud.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Light_rays_coming_through_a_cloud.jpg/500px-Light_rays_coming_through_a_cloud.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Maame1Yaa, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Maame1Yaa",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "abstract-light",
+    "shows": "An Olimpic Abstract Image",
+    "file": "File:An Olimpic Abstract Image.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:An_Olimpic_Abstract_Image.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/An_Olimpic_Abstract_Image.jpg/1280px-An_Olimpic_Abstract_Image.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/An_Olimpic_Abstract_Image.jpg/500px-An_Olimpic_Abstract_Image.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Sérgio Valle Duarte .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important} Wikidata has entry Sergio Valle Duarte (Q16269994) with data related to this item., CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Sérgio Valle Duarte .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122);box-sizing:border-box;border-inline-start-width:8px}.mw-parser-output .messagebox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .mbox-warning,.mw-parser-output .mbox-speedy{border:2px solid var(--border-color-error,#b22222);background:var(--background-color-error-subtle,#ffdbdb);border-inline-start-width:8px}.mw-parser-output .mbox-serious,.mw-parser-output .mbox-delete,.mw-parser-output .mbox-stop{border:2px solid var(--border-color-error,#b22222);border-inline-start-width:8px}.mw-parser-output .mbox-issue,.mw-parser-output .mbox-content{border:2px solid #f28500;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-query,.mw-parser-output .mbox-style{border:2px solid #f4c430;background:var(--background-color-warning-subtle,#ffe);border-inline-start-width:8px}.mw-parser-output .mbox-shit{border:2px solid #960;border-inline-start-width:8px}.mw-parser-output .mbox-license{border:2px solid #88a;border-inline-start-width:initial}.mw-parser-output .mbox-legal{border:2px solid var(--border-color-notice,#666);background:var(--background-color-base,#fff);border-inline-start-width:8px}.mw-parser-output .mbox-honor{border:2px solid #ca3;background:var(--background-color-warning-subtle,#fcf4db);border-inline-start-width:8px}.mw-parser-output .mbox-growth{border:2px solid #8d4;background:var(--background-color-success-subtle,#d5fdf4);border-inline-start-width:8px}.mw-parser-output .mbox-move{border:2px solid #93c;border-inline-start-width:8px}.mw-parser-output .mbox-protection,.mw-parser-output .mbox-message{border:2px solid var(--border-color-base,#aaa);border-inline-start-width:8px}.mw-parser-output .messagebox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .messagebox .mbox-image{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0.9em;padding-inline-end:0;text-align:center}.mw-parser-output .messagebox .mbox-imageright{border:none;padding-top:2px;padding-bottom:2px;padding-inline-start:0;padding-inline-end:0.9em;text-align:center}.mw-parser-output .messagebox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .messagebox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .messagebox{margin:4px 10%}.mw-parser-output .messagebox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.messagebox img{max-width:none!important} Wikidata has entry Sergio Valle Duarte (Q16269994) with data related to this item.",
+    "year": 2000,
+    "how": "catalog"
+   },
+   {
+    "shot": "glowing",
+    "shows": "Glowing scarification healing progress - 10 days 02",
+    "file": "File:Glowing scarification healing progress - 10 days 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glowing_scarification_healing_progress_-_10_days_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glowing_scarification_healing_progress_-_10_days_02.jpg/1280px-Glowing_scarification_healing_progress_-_10_days_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Glowing_scarification_healing_progress_-_10_days_02.jpg/500px-Glowing_scarification_healing_progress_-_10_days_02.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": ".viviwords, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": ".viviwords",
+    "year": 2026,
+    "how": "catalog"
+   },
+   {
+    "shot": "motherboard",
+    "shows": "Motherboard Intel 386",
+    "file": "File:Motherboard Intel 386.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Motherboard_Intel_386.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Motherboard_Intel_386.jpg/1920px-Motherboard_Intel_386.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Motherboard_Intel_386.jpg/500px-Motherboard_Intel_386.jpg",
+    "size": [
+     1920,
+     1287
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Drahtlos, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Drahtlos",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "gold-wires",
+    "shows": "St Paul's Cathedral chalice veils - Treasures of Gold and Silver Wire",
+    "file": "File:St Paul's Cathedral chalice veils (1) - Treasures of Gold and Silver Wire.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral_chalice_veils_(1)_-_Treasures_of_Gold_and_Silver_Wire.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/St_Paul%27s_Cathedral_chalice_veils_%281%29_-_Treasures_of_Gold_and_Silver_Wire.jpg/1920px-St_Paul%27s_Cathedral_chalice_veils_%281%29_-_Treasures_of_Gold_and_Silver_Wire.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/St_Paul%27s_Cathedral_chalice_veils_%281%29_-_Treasures_of_Gold_and_Silver_Wire.jpg/500px-St_Paul%27s_Cathedral_chalice_veils_%281%29_-_Treasures_of_Gold_and_Silver_Wire.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "The wub, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "The wub",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "microscope",
+    "shows": "A microscope with a microscope attached to it",
+    "file": "unsplash:a_ldJ0EzbLI",
+    "page": "https://unsplash.com/photos/a-microscope-with-a-microscope-attached-to-it-a_ldJ0EzbLI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1698808342574-2dff997c9995?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG1pY3Jvc2NvcGV8ZW58MXx8fHwxNzk0NzQ3ODMyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1698808342574-2dff997c9995?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG1pY3Jvc2NvcGV8ZW58MXx8fHwxNzk0NzQ3ODMyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Indra Projects on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Indra Projects",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@indraprojects?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/a_ldJ0EzbLI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fG1pY3Jvc2NvcGV8ZW58MXx8fHwxNzk0NzQ3ODMyfDA",
+    "track_pending": true
    }
   ],
   "missing": [
-   "optics",
-   "supercomputer",
-   "copper-coil"
+   "lab-equipment",
+   "copper-coil",
+   "research-laboratory"
   ],
   "checked": "2026-11-17"
  },
