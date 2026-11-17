@@ -167489,58 +167489,35 @@
     "track": "https://api.unsplash.com/photos/kE6NIL-2QWI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGNsZWFucm9vbSUyMHN1aXR8ZW58MXx8fHwxNzk0ODQ1MjE4fDA"
    },
    {
-    "shot": "wafer-fab",
-    "shows": "2008Computex Intel Atom Launch at Grand Hyatt Taipei the Fab",
-    "file": "File:2008Computex Intel Atom Launch at Grand Hyatt Taipei the Fab.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2008Computex_Intel_Atom_Launch_at_Grand_Hyatt_Taipei_the_Fab.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2008Computex_Intel_Atom_Launch_at_Grand_Hyatt_Taipei_the_Fab.jpg/1280px-2008Computex_Intel_Atom_Launch_at_Grand_Hyatt_Taipei_the_Fab.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2008Computex_Intel_Atom_Launch_at_Grand_Hyatt_Taipei_the_Fab.jpg/500px-2008Computex_Intel_Atom_Launch_at_Grand_Hyatt_Taipei_the_Fab.jpg",
+    "shot": "electronic-components",
+    "shows": "Componentes electronicos",
+    "file": "File:Componentes electronicos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Componentes_electronicos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Componentes_electronicos.jpg/1920px-Componentes_electronicos.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Componentes_electronicos.jpg/500px-Componentes_electronicos.jpg",
     "size": [
-     1280,
-     1707
+     1920,
+     1245
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Rico Shen, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "Ivan2010, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Rico Shen",
-    "year": 2008,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Ivan2010",
+    "year": 2014,
     "how": "catalog"
    },
    {
-    "shot": "chip-packaging",
-    "shows": "Paqui One Chip Challenge 7-Eleven",
-    "file": "File:Paqui One Chip Challenge 7-Eleven.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Paqui_One_Chip_Challenge_7-Eleven.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paqui_One_Chip_Challenge_7-Eleven.jpg/1280px-Paqui_One_Chip_Challenge_7-Eleven.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paqui_One_Chip_Challenge_7-Eleven.jpg/500px-Paqui_One_Chip_Challenge_7-Eleven.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Phillip Pessar, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Phillip Pessar",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "electronic-parts",
-    "shows": "Electronic Parts Outlet",
-    "file": "File:Electronic Parts Outlet (35704).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Electronic_Parts_Outlet_(35704).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Electronic_Parts_Outlet_%2835704%29.jpg/1920px-Electronic_Parts_Outlet_%2835704%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Electronic_Parts_Outlet_%2835704%29.jpg/500px-Electronic_Parts_Outlet_%2835704%29.jpg",
+    "shot": "computer-parts",
+    "shows": "Parts of a computer mouse",
+    "file": "File:Parts of a computer mouse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Parts_of_a_computer_mouse.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Parts_of_a_computer_mouse.jpg/1920px-Parts_of_a_computer_mouse.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Parts_of_a_computer_mouse.jpg/500px-Parts_of_a_computer_mouse.jpg",
     "size": [
      1920,
      1440
@@ -167549,160 +167526,182 @@
      0.5,
      0.5
     ],
-    "credit": "EvanCarroll, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Adarshjchandran, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "EvanCarroll",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "microelectronics",
-    "shows": "Jilin Sino-Microelectronics JCS4N65F-2383",
-    "file": "File:Jilin Sino-Microelectronics JCS4N65F-2383.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Jilin_Sino-Microelectronics_JCS4N65F-2383.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Jilin_Sino-Microelectronics_JCS4N65F-2383.jpg/1920px-Jilin_Sino-Microelectronics_JCS4N65F-2383.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Jilin_Sino-Microelectronics_JCS4N65F-2383.jpg/500px-Jilin_Sino-Microelectronics_JCS4N65F-2383.jpg",
-    "size": [
-     1920,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "computer-components",
-    "shows": "Ballistic Computer Scope",
-    "file": "File:Ballistic Computer Scope.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Ballistic_Computer_Scope.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ballistic_Computer_Scope.png/1920px-Ballistic_Computer_Scope.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ballistic_Computer_Scope.png/500px-Ballistic_Computer_Scope.png",
-    "size": [
-     1920,
-     1414
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Romeo505, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Romeo505",
+    "author": "Adarshjchandran",
     "year": 2016,
     "how": "catalog"
    },
    {
-    "shot": "memory-chip",
-    "shows": "Distributed Memory on a Chip Design 1c",
-    "file": "File:Distributed Memory on a Chip Design 1c.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Distributed_Memory_on_a_Chip_Design_1c.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Distributed_Memory_on_a_Chip_Design_1c.jpg/1920px-Distributed_Memory_on_a_Chip_Design_1c.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Distributed_Memory_on_a_Chip_Design_1c.jpg/500px-Distributed_Memory_on_a_Chip_Design_1c.jpg",
+    "shot": "pcb-macro",
+    "shows": "PCB HDR Macro Fisheye",
+    "file": "File:PCB HDR Macro Fisheye (3596077174).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:PCB_HDR_Macro_Fisheye_(3596077174).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/PCB_HDR_Macro_Fisheye_%283596077174%29.jpg/1920px-PCB_HDR_Macro_Fisheye_%283596077174%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/PCB_HDR_Macro_Fisheye_%283596077174%29.jpg/500px-PCB_HDR_Macro_Fisheye_%283596077174%29.jpg",
     "size": [
      1920,
-     1330
+     1374
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jameschilds2026, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Jameschilds2026",
-    "year": 2026,
+    "credit": "bengt-re from Sweden, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "bengt-re from Sweden",
+    "year": 2009,
     "how": "catalog"
    },
    {
-    "shot": "ssd",
-    "shows": "2017 Dysk SSD Plextor M8Pe(Y) 256GB",
-    "file": "File:2017 Dysk SSD Plextor M8Pe(Y) 256GB.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2017_Dysk_SSD_Plextor_M8Pe(Y)_256GB.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2017_Dysk_SSD_Plextor_M8Pe%28Y%29_256GB.jpg/1920px-2017_Dysk_SSD_Plextor_M8Pe%28Y%29_256GB.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/2017_Dysk_SSD_Plextor_M8Pe%28Y%29_256GB.jpg/500px-2017_Dysk_SSD_Plextor_M8Pe%28Y%29_256GB.jpg",
+    "shot": "chip-macro",
+    "shows": "Chcolate Chips macro 2",
+    "file": "File:Chcolate Chips macro 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chcolate_Chips_macro_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chcolate_Chips_macro_2.jpg/1920px-Chcolate_Chips_macro_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chcolate_Chips_macro_2.jpg/500px-Chcolate_Chips_macro_2.jpg",
     "size": [
      1920,
-     1149
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jacek Halicki",
-    "year": 2017,
+    "credit": "Daniel Schwen, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Daniel Schwen",
+    "year": 2013,
     "how": "catalog"
    },
    {
-    "shot": "hard-drive",
-    "shows": "Toshiba MK2326FC - hard disk controller solder side",
-    "file": "File:Toshiba MK2326FC - hard disk controller solder side.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Toshiba_MK2326FC_-_hard_disk_controller_solder_side.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Toshiba_MK2326FC_-_hard_disk_controller_solder_side.jpg/1920px-Toshiba_MK2326FC_-_hard_disk_controller_solder_side.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Toshiba_MK2326FC_-_hard_disk_controller_solder_side.jpg/500px-Toshiba_MK2326FC_-_hard_disk_controller_solder_side.jpg",
+    "shot": "microchip-macro",
+    "shows": "Pier2.3 logic board back",
+    "file": "File:Pier2.3 logic board back.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pier2.3_logic_board_back.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pier2.3_logic_board_back.jpg/1280px-Pier2.3_logic_board_back.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Pier2.3_logic_board_back.jpg/500px-Pier2.3_logic_board_back.jpg",
     "size": [
-     1920,
-     1348
+     1280,
+     2050
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Phiarc, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Mister rf",
+    "author": "Phiarc",
     "year": 2023,
     "how": "catalog"
    },
    {
-    "shot": "hsinchu",
-    "shows": "A long exposure photo of a river flowing over rocks",
-    "file": "unsplash:N_B1NJJo-do",
-    "page": "https://unsplash.com/photos/a-long-exposure-photo-of-a-river-flowing-over-rocks-N_B1NJJo-do?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1634140613493-e39a3b9d871d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhzaW5jaHV8ZW58MXx8fHwxNzk0ODQ1MjAwfDA&ixlib=rb-4.1.0&w=2378&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1634140613493-e39a3b9d871d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhzaW5jaHV8ZW58MXx8fHwxNzk0ODQ1MjAwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "electronics-factory",
+    "shows": "A vintage television screen reflecting an industrial landscape with tall brick chimneys",
+    "file": "unsplash:O190gWUMDIk",
+    "page": "https://unsplash.com/photos/television-reflecting-industrial-brick-chimneys-O190gWUMDIk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1790800295050-39dd98d4d366?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3Ryb25pY3MlMjBmYWN0b3J5fGVufDF8fHx8MTc5NDg3ODEzNXww&ixlib=rb-4.1.0&w=2263&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1790800295050-39dd98d4d366?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3Ryb25pY3MlMjBmYWN0b3J5fGVufDF8fHx8MTc5NDg3ODEzNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2378,
+     2263,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by W il on Unsplash",
+    "credit": "Photo by Evgeny Karpov on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "W il",
-    "year": 2021,
+    "author": "Evgeny Karpov",
+    "year": 2026,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@goodfunlover?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/N_B1NJJo-do/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fGhzaW5jaHV8ZW58MXx8fHwxNzk0ODQ1MjAwfDA",
-    "track_pending": true
+    "author_url": "https://unsplash.com/@evgeny_karp97?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/O190gWUMDIk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8ZWxlY3Ryb25pY3MlMjBmYWN0b3J5fGVufDF8fHx8MTc5NDg3ODEzNXww"
+   },
+   {
+    "shot": "electronics-lab",
+    "shows": "Tin Electronics Lab (open)",
+    "file": "File:Tin Electronics Lab (open).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tin_Electronics_Lab_(open).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tin_Electronics_Lab_%28open%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Tin_Electronics_Lab_%28open%29.jpg/500px-Tin_Electronics_Lab_%28open%29.jpg",
+    "size": [
+     1600,
+     1200
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Nick Ames, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Nick Ames",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "wafer-macro",
+    "shows": "Chocolate Wafer",
+    "file": "File:Chocolate Wafer (167649199).jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chocolate_Wafer_(167649199).jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Chocolate_Wafer_%28167649199%29.jpeg/1920px-Chocolate_Wafer_%28167649199%29.jpeg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Chocolate_Wafer_%28167649199%29.jpeg/500px-Chocolate_Wafer_%28167649199%29.jpeg",
+    "size": [
+     1920,
+     1277
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Technobulka, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Technobulka",
+    "year": 2016,
+    "how": "catalog"
+   },
+   {
+    "shot": "chip-pins",
+    "shows": "Former HSBC branch, now the Chip & Pin micro-pub - geograph.org.uk",
+    "file": "File:Former HSBC branch, now the Chip & Pin micro-pub - geograph.org.uk - 5386138.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Former_HSBC_branch,_now_the_Chip_%26_Pin_micro-pub_-_geograph.org.uk_-_5386138.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Former_HSBC_branch%2C_now_the_Chip_%26_Pin_micro-pub_-_geograph.org.uk_-_5386138.jpg/1280px-Former_HSBC_branch%2C_now_the_Chip_%26_Pin_micro-pub_-_geograph.org.uk_-_5386138.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Former_HSBC_branch%2C_now_the_Chip_%26_Pin_micro-pub_-_geograph.org.uk_-_5386138.jpg/500px-Former_HSBC_branch%2C_now_the_Chip_%26_Pin_micro-pub_-_geograph.org.uk_-_5386138.jpg",
+    "size": [
+     1280,
+     1728
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Chris Morgan, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Chris Morgan",
+    "year": 2017,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "factory-cleanroom",
-   "capacitor",
+   "integrated-circuit",
+   "computer-hardware",
    "resistor",
    "electronic-circuit",
    "smd",
@@ -167713,7 +167712,7 @@
    "nvidia",
    "gpu-chip"
   ],
-  "checked": "2026-11-16"
+  "checked": "2026-11-17"
  },
  "crypto": {
   "name": "Bitcoin & crypto",
@@ -168747,83 +168746,110 @@
     "track": "https://api.unsplash.com/photos/H1jdfM5jUxM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGNyeXB0byUyMGNoYXJ0fGVufDF8fHx8MTc5NDgwNTgwOXww"
    },
    {
-    "shot": "btc",
-    "shows": "BTC 8120 switch",
-    "file": "File:BTC 8120 switch.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:BTC_8120_switch.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/BTC_8120_switch.JPG/1280px-BTC_8120_switch.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/BTC_8120_switch.JPG/500px-BTC_8120_switch.JPG",
+    "shot": "crypto-atm",
+    "shows": "Crypto ATM @ Les Pâquis @ Genève",
+    "file": "File:Crypto ATM @ Les Pâquis @ Genève (52575090231).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crypto_ATM_@_Les_P%C3%A2quis_@_Gen%C3%A8ve_(52575090231).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Crypto_ATM_%40_Les_P%C3%A2quis_%40_Gen%C3%A8ve_%2852575090231%29.jpg/1280px-Crypto_ATM_%40_Les_P%C3%A2quis_%40_Gen%C3%A8ve_%2852575090231%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Crypto_ATM_%40_Les_P%C3%A2quis_%40_Gen%C3%A8ve_%2852575090231%29.jpg/500px-Crypto_ATM_%40_Les_P%C3%A2quis_%40_Gen%C3%A8ve_%2852575090231%29.jpg",
     "size": [
      1280,
-     1505
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "seebart, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "seebart",
-    "year": 2016,
+    "credit": "Guilhem Vellut from Annecy, France, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Guilhem Vellut from Annecy, France",
+    "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "crypto-exchange",
-    "shows": "Monty Metzger, CEO at LCX Exchange, Keynote Speaker at Cardano Summit Conference Dubai 2024 - Blockchain, Crypto and Cryptocurrency",
-    "file": "File:Monty Metzger, CEO at LCX Exchange, Keynote Speaker at Cardano Summit Conference Dubai 2024 - Blockchain, Crypto and Cryptocurrency.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Monty_Metzger,_CEO_at_LCX_Exchange,_Keynote_Speaker_at_Cardano_Summit_Conference_Dubai_2024_-_Blockchain,_Crypto_and_Cryptocurrency.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Monty_Metzger%2C_CEO_at_LCX_Exchange%2C_Keynote_Speaker_at_Cardano_Summit_Conference_Dubai_2024_-_Blockchain%2C_Crypto_and_Cryptocurrency.jpg/1920px-Monty_Metzger%2C_CEO_at_LCX_Exchange%2C_Keynote_Speaker_at_Cardano_Summit_Conference_Dubai_2024_-_Blockchain%2C_Crypto_and_Cryptocurrency.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Monty_Metzger%2C_CEO_at_LCX_Exchange%2C_Keynote_Speaker_at_Cardano_Summit_Conference_Dubai_2024_-_Blockchain%2C_Crypto_and_Cryptocurrency.jpg/500px-Monty_Metzger%2C_CEO_at_LCX_Exchange%2C_Keynote_Speaker_at_Cardano_Summit_Conference_Dubai_2024_-_Blockchain%2C_Crypto_and_Cryptocurrency.jpg",
+    "shot": "ledger-wallet",
+    "shows": "A close-up of a credit card",
+    "file": "unsplash:60i7x5CHOGs",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-credit-card-60i7x5CHOGs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1652020503800-0ed3e0021746?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGVkZ2VyJTIwd2FsbGV0fGVufDF8fHx8MTc5NDg3ODA2N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1652020503800-0ed3e0021746?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGVkZ2VyJTIwd2FsbGV0fGVufDF8fHx8MTc5NDg3ODA2N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2400,
+     1482
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Montymetzger, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Montymetzger",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "digital-money",
-    "shows": "The Carnegie Public Library in Bryan, the oldest existing Carnegie Library in Texas. A Carnegie library is one built with money donated by Scottish-American bus",
-    "file": "loc:2014633924",
-    "page": "https://www.loc.gov/item/2014633924/",
-    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29700:29724/full/2264,/0/default.jpg",
-    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29700:29724/full/500,/0/default.jpg",
-    "size": [
-     2264,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-    "licence_kind": "pd",
-    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
-    "author": "Carol M. Highsmith",
-    "year": 2014,
+    "credit": "Photo by Amjith S on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Amjith S",
+    "year": 2022,
     "how": "catalog",
-    "provider": "loc",
-    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@amjiths?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/60i7x5CHOGs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGVkZ2VyJTIwd2FsbGV0fGVufDF8fHx8MTc5NDg3ODA2N3ww"
    },
    {
-    "shot": "xrp",
-    "shows": "Inverness Formation 008 ripple xlam",
-    "file": "File:Inverness Formation 008 ripple xlam.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Inverness_Formation_008_ripple_xlam.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Inverness_Formation_008_ripple_xlam.jpg/1920px-Inverness_Formation_008_ripple_xlam.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Inverness_Formation_008_ripple_xlam.jpg/500px-Inverness_Formation_008_ripple_xlam.jpg",
+    "shot": "trezor",
+    "shows": "Black Trezor digital device",
+    "file": "unsplash:VvbcDOk5kEA",
+    "page": "https://unsplash.com/photos/black-trezor-digital-device-VvbcDOk5kEA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1564241832533-49e2d87687cd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dHJlem9yfGVufDF8fHx8MTc5NDg3ODE2M3ww&ixlib=rb-4.1.0&w=2247&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1564241832533-49e2d87687cd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dHJlem9yfGVufDF8fHx8MTc5NDg3ODE2M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2247,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jan Antonin Kolar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jan Antonin Kolar",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jankolar?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VvbcDOk5kEA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dHJlem9yfGVufDF8fHx8MTc5NDg3ODE2M3ww"
+   },
+   {
+    "shot": "digital-wallet",
+    "shows": "Design macros and fetch",
+    "file": "File:Design macros and fetch.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Design_macros_and_fetch.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Design_macros_and_fetch.jpg/1280px-Design_macros_and_fetch.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Design_macros_and_fetch.jpg/500px-Design_macros_and_fetch.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Wikidonez, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Wikidonez",
+    "year": null,
+    "how": "catalog"
+   },
+   {
+    "shot": "fintech",
+    "shows": "Fintech Meetup of the Asia-Pacific Executives Forum at Hilton Colombo",
+    "file": "File:Fintech Meetup of the Asia-Pacific Executives Forum at Hilton Colombo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fintech_Meetup_of_the_Asia-Pacific_Executives_Forum_at_Hilton_Colombo.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fintech_Meetup_of_the_Asia-Pacific_Executives_Forum_at_Hilton_Colombo.jpg/1920px-Fintech_Meetup_of_the_Asia-Pacific_Executives_Forum_at_Hilton_Colombo.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fintech_Meetup_of_the_Asia-Pacific_Executives_Forum_at_Hilton_Colombo.jpg/500px-Fintech_Meetup_of_the_Asia-Pacific_Executives_Forum_at_Hilton_Colombo.jpg",
     "size": [
      1920,
      1280
@@ -168832,113 +168858,21 @@
      0.5,
      0.5
     ],
-    "credit": "Rygel, M.C., CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "RajuRagus2018, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Rygel, M.C.",
-    "year": 2006,
+    "author": "RajuRagus2018",
+    "year": 2018,
     "how": "catalog"
    },
    {
-    "shot": "trading-app",
-    "shows": "Platform and Exit info of School of Economics&Trading Station inside Xuzhou Metro Line 3 carriage",
-    "file": "File:Platform and Exit info of School of Economics&Trading Station inside Xuzhou Metro Line 3 carriage.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Platform_and_Exit_info_of_School_of_Economics%26Trading_Station_inside_Xuzhou_Metro_Line_3_carriage.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platform_and_Exit_info_of_School_of_Economics%26Trading_Station_inside_Xuzhou_Metro_Line_3_carriage.jpg/1920px-Platform_and_Exit_info_of_School_of_Economics%26Trading_Station_inside_Xuzhou_Metro_Line_3_carriage.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Platform_and_Exit_info_of_School_of_Economics%26Trading_Station_inside_Xuzhou_Metro_Line_3_carriage.jpg/500px-Platform_and_Exit_info_of_School_of_Economics%26Trading_Station_inside_Xuzhou_Metro_Line_3_carriage.jpg",
-    "size": [
-     1920,
-     1079
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Yh6987tla, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Yh6987tla",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "asic-miner",
-    "shows": "Annual maintenance on the Bitcoin miners today. Stripped each one down to the board level and cleaned it. ASIC temperature dropped by about 10C after blowing a ",
-    "file": "File:Cam 2020-06-27 05-13-59 (50051439498).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cam_2020-06-27_05-13-59_(50051439498).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cam_2020-06-27_05-13-59_%2850051439498%29.jpg/1920px-Cam_2020-06-27_05-13-59_%2850051439498%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cam_2020-06-27_05-13-59_%2850051439498%29.jpg/500px-Cam_2020-06-27_05-13-59_%2850051439498%29.jpg",
-    "size": [
-     1920,
-     1921
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Steve Rainwater from Irving, US, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Steve Rainwater from Irving, US",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "bitcoin-symbol",
-    "shows": "Mainz-Laubenheim - Ladesäule an der Oppenheimer Straße",
-    "file": "File:Mainz-Laubenheim - Ladesäule an der Oppenheimer Straße.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mainz-Laubenheim_-_Lades%C3%A4ule_an_der_Oppenheimer_Stra%C3%9Fe.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mainz-Laubenheim_-_Lades%C3%A4ule_an_der_Oppenheimer_Stra%C3%9Fe.jpg/1920px-Mainz-Laubenheim_-_Lades%C3%A4ule_an_der_Oppenheimer_Stra%C3%9Fe.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mainz-Laubenheim_-_Lades%C3%A4ule_an_der_Oppenheimer_Stra%C3%9Fe.jpg/500px-Mainz-Laubenheim_-_Lades%C3%A4ule_an_der_Oppenheimer_Stra%C3%9Fe.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ManuelB701, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "ManuelB701",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "cardano",
-    "shows": "Via Carlo Galbiati a Cardano",
-    "file": "File:Via Carlo Galbiati a Cardano.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Via_Carlo_Galbiati_a_Cardano.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Via_Carlo_Galbiati_a_Cardano.jpg/1920px-Via_Carlo_Galbiati_a_Cardano.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Via_Carlo_Galbiati_a_Cardano.jpg/500px-Via_Carlo_Galbiati_a_Cardano.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kaitu, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kaitu",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "nft",
-    "shows": "A cage with colorful wire",
-    "file": "unsplash:rq1s45cRsEg",
-    "page": "https://unsplash.com/photos/a-cage-with-colorful-wire-rq1s45cRsEg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1652159043552-6c25eb2ea21d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bmZ0fGVufDF8fHx8MTc5NDgwNTg5MHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1652159043552-6c25eb2ea21d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bmZ0fGVufDF8fHx8MTc5NDgwNTg5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "qr-code-payment",
+    "shows": "Black android smartphone displaying qr code",
+    "file": "unsplash:Q6uqw_Hjye8",
+    "page": "https://unsplash.com/photos/black-android-smartphone-displaying-qr-code-Q6uqw_Hjye8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cXIlMjBjb2RlJTIwcGF5bWVudHxlbnwxfHx8fDE3OTQ4Nzg0NTJ8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cXIlMjBjb2RlJTIwcGF5bWVudHxlbnwxfHx8fDE3OTQ4Nzg0NTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -168947,34 +168881,110 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Coinhako on Unsplash",
+    "credit": "Photo by Markus Winkler on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Coinhako",
-    "year": 2022,
+    "author": "Markus Winkler",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@coinhako_official?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/rq1s45cRsEg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bmZ0fGVufDF8fHx8MTc5NDgwNTg5MHww",
-    "track_pending": true
+    "author_url": "https://unsplash.com/@markuswinkler?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Q6uqw_Hjye8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cXIlMjBjb2RlJTIwcGF5bWVudHxlbnwxfHx8fDE3OTQ4Nzg0NTJ8MA"
+   },
+   {
+    "shot": "token",
+    "shows": "A hand-painted Ganesha face mask mounted on a diamond-shaped lokta paper board labeled “Token of Love,” hung on an exposed brick wall.",
+    "file": "wordpress:222775",
+    "page": "https://wordpress.org/photos/photo/8436a27f55/",
+    "url": "https://pd.w.org/2026/06/8436a27f5574707a0.01505726-1536x2048.jpeg",
+    "preview": "https://pd.w.org/2026/06/8436a27f5574707a0.01505726-768x1024.jpeg",
+    "size": [
+     1536,
+     2048
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Manjil Aryal on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Manjil Aryal",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/manjil2008/"
+   },
+   {
+    "shot": "gold-coin",
+    "shows": "Gold round coins on black surface",
+    "file": "unsplash:Y6bHSF1VCxY",
+    "page": "https://unsplash.com/photos/gold-round-coins-on-black-surface-Y6bHSF1VCxY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1623743587733-469438d17975?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGdvbGQlMjBjb2lufGVufDF8fHx8MTc5NDUyMTA5M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1623743587733-469438d17975?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGdvbGQlMjBjb2lufGVufDF8fHx8MTc5NDUyMTA5M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zlaťáky.cz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zlaťáky.cz",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zlataky?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Y6bHSF1VCxY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGdvbGQlMjBjb2lufGVufDF8fHx8MTc5NDUyMTA5M3ww"
+   },
+   {
+    "shot": "golden-coins",
+    "shows": "A single gold coin floating against a solid light yellow background",
+    "file": "unsplash:uttv3Nulyfo",
+    "page": "https://unsplash.com/photos/gold-coin-on-yellow-background-uttv3Nulyfo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1786830375925-cca0f21ec1bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Z29sZGVuJTIwY29pbnN8ZW58MXx8fHwxNzk0ODc4NjcyfDA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1786830375925-cca0f21ec1bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Z29sZGVuJTIwY29pbnN8ZW58MXx8fHwxNzk0ODc4NjcyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nezih Kosak on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Nezih Kosak",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@nezihvisual?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uttv3Nulyfo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Z29sZGVuJTIwY29pbnN8ZW58MXx8fHwxNzk0ODc4NjcyfDA"
    }
   ],
   "missing": [
    "chart",
-   "hardware-wallet",
-   "bitcoin-accepted-here",
-   "blockchain",
-   "bitcoin-price",
-   "crypto-trading",
-   "bitcoin-mining-rig",
-   "coins",
+   "bitcoin-miner",
+   "crypto-currency",
    "gpu-mining",
+   "trading-app",
    "crypto-mining",
+   "asic-miner",
+   "bitcoin-symbol",
+   "cardano",
+   "nft",
    "web3",
    "ethereum-coins"
   ],
-  "checked": "2026-11-16"
+  "checked": "2026-11-17"
  },
  "gold": {
   "name": "Gold",
@@ -171343,10 +171353,10 @@
    {
     "shot": "opec",
     "shows": "OPEC International Seminar - Vienna - 2018",
-    "file": "File:OPEC International Seminar - Vienna - 2018 (29048041268).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:OPEC_International_Seminar_-_Vienna_-_2018_(29048041268).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/OPEC_International_Seminar_-_Vienna_-_2018_%2829048041268%29.jpg/1920px-OPEC_International_Seminar_-_Vienna_-_2018_%2829048041268%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/OPEC_International_Seminar_-_Vienna_-_2018_%2829048041268%29.jpg/500px-OPEC_International_Seminar_-_Vienna_-_2018_%2829048041268%29.jpg",
+    "file": "File:OPEC International Seminar - Vienna - 2018 (29048040508).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:OPEC_International_Seminar_-_Vienna_-_2018_(29048040508).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/OPEC_International_Seminar_-_Vienna_-_2018_%2829048040508%29.jpg/1920px-OPEC_International_Seminar_-_Vienna_-_2018_%2829048040508%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/OPEC_International_Seminar_-_Vienna_-_2018_%2829048040508%29.jpg/500px-OPEC_International_Seminar_-_Vienna_-_2018_%2829048040508%29.jpg",
     "size": [
      1920,
      1278
@@ -171364,81 +171374,38 @@
     "how": "catalog"
    },
    {
-    "shot": "strait-of-hormuz",
-    "shows": "USCGC Aquidneck in Strait of Hormuz -N-IE405-2219",
-    "file": "File:USCGC Aquidneck in Strait of Hormuz 201202-N-IE405-2219.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:USCGC_Aquidneck_in_Strait_of_Hormuz_201202-N-IE405-2219.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/USCGC_Aquidneck_in_Strait_of_Hormuz_201202-N-IE405-2219.JPG/1920px-USCGC_Aquidneck_in_Strait_of_Hormuz_201202-N-IE405-2219.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/USCGC_Aquidneck_in_Strait_of_Hormuz_201202-N-IE405-2219.JPG/500px-USCGC_Aquidneck_in_Strait_of_Hormuz_201202-N-IE405-2219.JPG",
+    "shot": "oil-pumps",
+    "shows": "A toy figurine of a man working on a house",
+    "file": "unsplash:nM72cd1XjK4",
+    "page": "https://unsplash.com/photos/a-toy-figurine-of-a-man-working-on-a-house-nM72cd1XjK4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1647593094018-804b95a6a5fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG9pbCUyMHB1bXBzfGVufDF8fHx8MTc5NDg3ODA2Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1647593094018-804b95a6a5fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG9pbCUyMHB1bXBzfGVufDF8fHx8MTc5NDg3ODA2Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1173
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "MC2 Indra Beaufort, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "MC2 Indra Beaufort",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "oil-tanker-ship",
-    "shows": "Oil & Chemical Tanker Jo Kari and Crude Oil Tanker SFL Lion at BP Oil Refinery Jetty, Kwinana, October 2022",
-    "file": "File:Oil & Chemical Tanker Jo Kari and Crude Oil Tanker SFL Lion at BP Oil Refinery Jetty, Kwinana, October 2022.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oil_%26_Chemical_Tanker_Jo_Kari_and_Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty,_Kwinana,_October_2022.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Oil_%26_Chemical_Tanker_Jo_Kari_and_Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2022.jpg/1920px-Oil_%26_Chemical_Tanker_Jo_Kari_and_Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2022.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Oil_%26_Chemical_Tanker_Jo_Kari_and_Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2022.jpg/500px-Oil_%26_Chemical_Tanker_Jo_Kari_and_Crude_Oil_Tanker_SFL_Lion_at_BP_Oil_Refinery_Jetty%2C_Kwinana%2C_October_2022.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Calistemon, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Calistemon",
+    "credit": "Photo by Sean Foster on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sean Foster",
     "year": 2022,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fosterious?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nM72cd1XjK4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fG9pbCUyMHB1bXBzfGVufDF8fHx8MTc5NDg3ODA2Nnww"
    },
    {
-    "shot": "oil-drum",
-    "shows": "Deteriorating Oil Drum by the Bridgewater Canal - geograph.org.uk",
-    "file": "File:Deteriorating Oil Drum by the Bridgewater Canal - geograph.org.uk - 6685126.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Deteriorating_Oil_Drum_by_the_Bridgewater_Canal_-_geograph.org.uk_-_6685126.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deteriorating_Oil_Drum_by_the_Bridgewater_Canal_-_geograph.org.uk_-_6685126.jpg/1920px-Deteriorating_Oil_Drum_by_the_Bridgewater_Canal_-_geograph.org.uk_-_6685126.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Deteriorating_Oil_Drum_by_the_Bridgewater_Canal_-_geograph.org.uk_-_6685126.jpg/500px-Deteriorating_Oil_Drum_by_the_Bridgewater_Canal_-_geograph.org.uk_-_6685126.jpg",
-    "size": [
-     1920,
-     865
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Anthony Parkes, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Anthony Parkes",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "pipeline",
-    "shows": "PLUTO pipeline coupling (detail)",
-    "file": "File:PLUTO pipeline coupling (detail).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PLUTO_pipeline_coupling_(detail).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/PLUTO_pipeline_coupling_%28detail%29.jpg/1920px-PLUTO_pipeline_coupling_%28detail%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/PLUTO_pipeline_coupling_%28detail%29.jpg/500px-PLUTO_pipeline_coupling_%28detail%29.jpg",
+    "shot": "oil-field-sunset",
+    "shows": "Sunset over Trommekilen from Norrkila 6",
+    "file": "File:Sunset over Trommekilen from Norrkila 6.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunset_over_Trommekilen_from_Norrkila_6.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sunset_over_Trommekilen_from_Norrkila_6.jpg/1920px-Sunset_over_Trommekilen_from_Norrkila_6.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sunset_over_Trommekilen_from_Norrkila_6.jpg/500px-Sunset_over_Trommekilen_from_Norrkila_6.jpg",
     "size": [
      1920,
      1280
@@ -171447,118 +171414,171 @@
      0.5,
      0.5
     ],
-    "credit": "Gaius Cornelius, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "W.carter, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "W.carter",
+    "year": 2019,
+    "how": "catalog"
+   },
+   {
+    "shot": "refinery-sunset",
+    "shows": "Oil refinery by a river at dusk",
+    "file": "unsplash:EbISsANu3Iw",
+    "page": "https://unsplash.com/photos/oil-refinery-by-a-river-at-dusk-EbISsANu3Iw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1743723180480-243b89c5ebaa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cmVmaW5lcnklMjBzdW5zZXR8ZW58MXx8fHwxNzk0ODcxODU4fDA&ixlib=rb-4.1.0&w=2247&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1743723180480-243b89c5ebaa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cmVmaW5lcnklMjBzdW5zZXR8ZW58MXx8fHwxNzk0ODcxODU4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2247,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Anthony Maw on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Anthony Maw",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anthonymaw?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EbISsANu3Iw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cmVmaW5lcnklMjBzdW5zZXR8ZW58MXx8fHwxNzk0ODcxODU4fDA"
+   },
+   {
+    "shot": "petrochemical-plant",
+    "shows": "Mossmorran Petrochemical Plant - geograph.org.uk",
+    "file": "File:Mossmorran Petrochemical Plant - geograph.org.uk - 7756043.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mossmorran_Petrochemical_Plant_-_geograph.org.uk_-_7756043.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mossmorran_Petrochemical_Plant_-_geograph.org.uk_-_7756043.jpg/1920px-Mossmorran_Petrochemical_Plant_-_geograph.org.uk_-_7756043.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mossmorran_Petrochemical_Plant_-_geograph.org.uk_-_7756043.jpg/500px-Mossmorran_Petrochemical_Plant_-_geograph.org.uk_-_7756043.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Bill Kasman, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Bill Kasman",
+    "year": 2024,
+    "how": "catalog"
+   },
+   {
+    "shot": "oil-storage",
+    "shows": "Ras Markaz Oil Storage Park",
+    "file": "File:Ras Markaz Oil Storage Park.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ras_Markaz_Oil_Storage_Park.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ras_Markaz_Oil_Storage_Park.jpg/1920px-Ras_Markaz_Oil_Storage_Park.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ras_Markaz_Oil_Storage_Park.jpg/500px-Ras_Markaz_Oil_Storage_Park.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "AbdullahAlMaani, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Gaius Cornelius",
+    "author": "AbdullahAlMaani",
     "year": 2021,
     "how": "catalog"
    },
    {
-    "shot": "fuel-truck",
-    "shows": "GAZ-53 fuel tank truck Karachayevsk",
-    "file": "File:GAZ-53 fuel tank truck Karachayevsk.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:GAZ-53_fuel_tank_truck_Karachayevsk.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/GAZ-53_fuel_tank_truck_Karachayevsk.jpg/1920px-GAZ-53_fuel_tank_truck_Karachayevsk.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/GAZ-53_fuel_tank_truck_Karachayevsk.jpg/500px-GAZ-53_fuel_tank_truck_Karachayevsk.jpg",
+    "shot": "crude-oil-tanker",
+    "shows": "Crude Oil Tanker in Port Arthur, Texas",
+    "file": "File:Crude Oil Tanker in Port Arthur, Texas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crude_Oil_Tanker_in_Port_Arthur,_Texas.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Crude_Oil_Tanker_in_Port_Arthur%2C_Texas.jpg/1920px-Crude_Oil_Tanker_in_Port_Arthur%2C_Texas.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Crude_Oil_Tanker_in_Port_Arthur%2C_Texas.jpg/500px-Crude_Oil_Tanker_in_Port_Arthur%2C_Texas.jpg",
     "size": [
      1920,
-     1440
+     1395
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "LukaszKatlewa, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "LukaszKatlewa",
-    "year": 2011,
-    "how": "catalog"
-   },
-   {
-    "shot": "fuel-pump",
-    "shows": "Fuel pump at KBTP",
-    "file": "File:Fuel pump at KBTP.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fuel_pump_at_KBTP.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fuel_pump_at_KBTP.jpg/1920px-Fuel_pump_at_KBTP.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fuel_pump_at_KBTP.jpg/500px-Fuel_pump_at_KBTP.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Designism, CC0, via Wikimedia Commons",
+    "credit": "Quintin Soloviev, CC0, via Wikimedia Commons",
     "licence": "CC0",
     "licence_kind": "cc0",
     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Designism",
+    "author": "Quintin Soloviev",
     "year": 2025,
     "how": "catalog"
    },
    {
-    "shot": "oil-and-gas",
-    "shows": "Cruise ship using fossil fuels coming to Venice, Italy",
-    "file": "File:Cruise ship using fossil fuels coming to Venice, Italy.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cruise_ship_using_fossil_fuels_coming_to_Venice,_Italy.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cruise_ship_using_fossil_fuels_coming_to_Venice%2C_Italy.jpg/1920px-Cruise_ship_using_fossil_fuels_coming_to_Venice%2C_Italy.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cruise_ship_using_fossil_fuels_coming_to_Venice%2C_Italy.jpg/500px-Cruise_ship_using_fossil_fuels_coming_to_Venice%2C_Italy.jpg",
+    "shot": "drilling-platform",
+    "shows": "Refurbishment Platform for Drilling Rigs -- Corpus Christi",
+    "file": "File:Refurbishment Platform for Drilling Rigs -- Corpus Christi.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Refurbishment_Platform_for_Drilling_Rigs_--_Corpus_Christi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Refurbishment_Platform_for_Drilling_Rigs_--_Corpus_Christi.jpg/1920px-Refurbishment_Platform_for_Drilling_Rigs_--_Corpus_Christi.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Refurbishment_Platform_for_Drilling_Rigs_--_Corpus_Christi.jpg/500px-Refurbishment_Platform_for_Drilling_Rigs_--_Corpus_Christi.jpg",
     "size": [
      1920,
-     1280
+     1513
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Marc-Lautenbacher, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Jim Evans, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Marc-Lautenbacher",
-    "year": 2005,
+    "author": "Jim Evans",
+    "year": 2018,
     "how": "catalog"
    },
    {
-    "shot": "oil-terminal",
-    "shows": "Oil depot on Reykjavik port",
-    "file": "File:Oil depot on Reykjavik port.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Oil_depot_on_Reykjavik_port.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Oil_depot_on_Reykjavik_port.jpg/1920px-Oil_depot_on_Reykjavik_port.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Oil_depot_on_Reykjavik_port.jpg/500px-Oil_depot_on_Reykjavik_port.jpg",
+    "shot": "pump-jack",
+    "shows": "Black and orange metal machine on green grass field during daytime",
+    "file": "unsplash:R5Ob28wpWzo",
+    "page": "https://unsplash.com/photos/black-and-orange-metal-machine-on-green-grass-field-during-daytime-R5Ob28wpWzo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1624771002998-4aadfd43e7c4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cHVtcCUyMGphY2t8ZW58MXx8fHwxNzk0ODc4NzQxfDA&ixlib=rb-4.1.0&w=1974&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1624771002998-4aadfd43e7c4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cHVtcCUyMGphY2t8ZW58MXx8fHwxNzk0ODc4NzQxfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1974,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Syced, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Syced",
-    "year": 2006,
-    "how": "catalog"
+    "credit": "Photo by David Thielen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Thielen",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@david_thielen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/R5Ob28wpWzo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cHVtcCUyMGphY2t8ZW58MXx8fHwxNzk0ODc4NzQxfDA"
    }
   ],
   "missing": [
-   "crude-oil",
-   "petroleum",
-   "gasoline",
+   "diesel-pump",
+   "oil-and-gas",
+   "oil-terminal",
    "fuel-nozzle",
    "gas-prices",
    "petrol-pump",
    "offshore-rig",
-   "lng-tanker"
+   "lng-tanker",
+   "oil-derrick"
   ],
-  "checked": "2026-11-16"
+  "checked": "2026-11-17"
  },
  "tariffs": {
   "name": "Tariffs & trade war",
@@ -176647,135 +176667,81 @@
     "how": "catalog"
    },
    {
-    "shot": "fountain-pen",
-    "shows": "Black and silver fountain pen",
-    "file": "unsplash:hjwKMkehBco",
-    "page": "https://unsplash.com/photos/black-and-silver-fountain-pen-hjwKMkehBco?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Zm91bnRhaW4lMjBwZW58ZW58MXx8fHwxNzk0NzkyMDQwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1473186505569-9c61870c11f9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Zm91bnRhaW4lMjBwZW58ZW58MXx8fHwxNzk0NzkyMDQwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Álvaro Serrano on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Álvaro Serrano",
-    "year": 2016,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@alvaroserrano?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/hjwKMkehBco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Zm91bnRhaW4lMjBwZW58ZW58MXx8fHwxNzk0NzkyMDQwfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "alexander-hamilton",
-    "shows": "An aerial view of a park with a red and white umbrella",
-    "file": "unsplash:bgrejCxYFYo",
-    "page": "https://unsplash.com/photos/an-aerial-view-of-a-park-with-a-red-and-white-umbrella-bgrejCxYFYo?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1692007918820-9b5fa4fb9f2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YWxleGFuZGVyJTIwaGFtaWx0b258ZW58MXx8fHwxNzk0Nzk0ODYwfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1692007918820-9b5fa4fb9f2b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YWxleGFuZGVyJTIwaGFtaWx0b258ZW58MXx8fHwxNzk0Nzk0ODYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2000,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Johnny Briggs on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Johnny Briggs",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@johnnyboylee?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/bgrejCxYFYo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8YWxleGFuZGVyJTIwaGFtaWx0b258ZW58MXx8fHwxNzk0Nzk0ODYwfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "signing-contract",
-    "shows": "Signing a contract between partner cities Sanok and Truskavets fff",
-    "file": "File:Signing a contract between partner cities Sanok and Truskavets (2023)fff.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Signing_a_contract_between_partner_cities_Sanok_and_Truskavets_(2023)fff.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Signing_a_contract_between_partner_cities_Sanok_and_Truskavets_%282023%29fff.jpg/1920px-Signing_a_contract_between_partner_cities_Sanok_and_Truskavets_%282023%29fff.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Signing_a_contract_between_partner_cities_Sanok_and_Truskavets_%282023%29fff.jpg/500px-Signing_a_contract_between_partner_cities_Sanok_and_Truskavets_%282023%29fff.jpg",
+    "shot": "treasury-bonds",
+    "shows": "Russian treasury bond - 1914",
+    "file": "File:Russian treasury bond - 1914.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Russian_treasury_bond_-_1914.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Russian_treasury_bond_-_1914.jpg/1920px-Russian_treasury_bond_-_1914.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Russian_treasury_bond_-_1914.jpg/500px-Russian_treasury_bond_-_1914.jpg",
     "size": [
      1920,
-     1280
+     1169
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Lowdown, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Lowdown",
-    "year": 2023,
+    "credit": "Bogunilia, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Bogunilia",
+    "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "pen-signing",
-    "shows": "Pilsdon Pen National Trust sign",
-    "file": "File:Pilsdon Pen National Trust sign.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Pilsdon_Pen_National_Trust_sign.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pilsdon_Pen_National_Trust_sign.jpg/1280px-Pilsdon_Pen_National_Trust_sign.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pilsdon_Pen_National_Trust_sign.jpg/500px-Pilsdon_Pen_National_Trust_sign.jpg",
+    "shot": "government-bond",
+    "shows": "Civil War Red Tape 01 (redeemed CSA bond coupons)",
+    "file": "File:Civil War Red Tape 01 (redeemed CSA bond coupons).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Civil_War_Red_Tape_01_(redeemed_CSA_bond_coupons).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Civil_War_Red_Tape_01_%28redeemed_CSA_bond_coupons%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Civil_War_Red_Tape_01_%28redeemed_CSA_bond_coupons%29.jpg/500px-Civil_War_Red_Tape_01_%28redeemed_CSA_bond_coupons%29.jpg",
     "size": [
-     1280,
-     1707
+     1866,
+     1341
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kingofseals, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Kingofseals",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "certificate",
-    "shows": "Traditional 1 DAN Certificate Vladimir Dashyan",
-    "file": "File:Traditional 1 DAN Certificate Vladimir Dashyan.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Traditional_1_DAN_Certificate_Vladimir_Dashyan.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Traditional_1_DAN_Certificate_Vladimir_Dashyan.jpg/1280px-Traditional_1_DAN_Certificate_Vladimir_Dashyan.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Traditional_1_DAN_Certificate_Vladimir_Dashyan.jpg/500px-Traditional_1_DAN_Certificate_Vladimir_Dashyan.jpg",
-    "size": [
-     1280,
-     1823
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "USNinjakan, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "National Museum of American History, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "USNinjakan",
-    "year": 2017,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "National Museum of American History",
+    "year": 2013,
     "how": "catalog"
    },
    {
-    "shot": "money-stack",
-    "shows": "Piles of 20p and 10p coins on my desk. This image has been used in 13 articles... • <a href=\" http://financialhighway.com/dollar-matters-save-your-money-2/ \" re",
-    "file": "File:Money (4141239030).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Money_(4141239030).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Money_%284141239030%29.jpg/1920px-Money_%284141239030%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Money_%284141239030%29.jpg/500px-Money_%284141239030%29.jpg",
+    "shot": "bond-certificate",
+    "shows": "Pittsburgh, Cincinnati, Chicago, St. Louis Railroad bond, 1920, detail",
+    "file": "File:Pittsburgh, Cincinnati, Chicago, St. Louis Railroad bond, 1920, detail.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Pittsburgh,_Cincinnati,_Chicago,_St._Louis_Railroad_bond,_1920,_detail.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Pittsburgh%2C_Cincinnati%2C_Chicago%2C_St._Louis_Railroad_bond%2C_1920%2C_detail.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Pittsburgh%2C_Cincinnati%2C_Chicago%2C_St._Louis_Railroad_bond%2C_1920%2C_detail.png/500px-Pittsburgh%2C_Cincinnati%2C_Chicago%2C_St._Louis_Railroad_bond%2C_1920%2C_detail.png",
+    "size": [
+     1852,
+     1194
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "PCCStL, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "PCCStL",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "capitol-hill",
+    "shows": "Capitol Hill Seventh-day Adventist Church 01",
+    "file": "File:Capitol Hill Seventh-day Adventist Church 01.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Capitol_Hill_Seventh-day_Adventist_Church_01.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Capitol_Hill_Seventh-day_Adventist_Church_01.JPG/1920px-Capitol_Hill_Seventh-day_Adventist_Church_01.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Capitol_Hill_Seventh-day_Adventist_Church_01.JPG/500px-Capitol_Hill_Seventh-day_Adventist_Church_01.JPG",
     "size": [
      1920,
      1440
@@ -176784,28 +176750,74 @@
      0.5,
      0.5
     ],
-    "credit": "Lee Haywood from Wollaton, Nottingham, England, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
+    "credit": "Farragutful, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Lee Haywood from Wollaton, Nottingham, England",
-    "year": 2005,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Farragutful",
+    "year": 2014,
+    "how": "catalog"
+   },
+   {
+    "shot": "pen-signing",
+    "shows": "Pen Mar county park sign Washington Co MD 1",
+    "file": "File:Pen Mar county park sign Washington Co MD 20251018 142417 1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pen_Mar_county_park_sign_Washington_Co_MD_20251018_142417_1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pen_Mar_county_park_sign_Washington_Co_MD_20251018_142417_1.jpg/1920px-Pen_Mar_county_park_sign_Washington_Co_MD_20251018_142417_1.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Pen_Mar_county_park_sign_Washington_Co_MD_20251018_142417_1.jpg/500px-Pen_Mar_county_park_sign_Washington_Co_MD_20251018_142417_1.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "G. Edward Johnson, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "G. Edward Johnson",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "certificate",
+    "shows": "Kobe beef certificate on frozen box",
+    "file": "File:Kobe beef certificate on frozen box.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kobe_beef_certificate_on_frozen_box.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kobe_beef_certificate_on_frozen_box.jpg/1280px-Kobe_beef_certificate_on_frozen_box.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kobe_beef_certificate_on_frozen_box.jpg/500px-Kobe_beef_certificate_on_frozen_box.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Syced, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Syced",
+    "year": null,
     "how": "catalog"
    }
   ],
   "missing": [
-   "economy",
-   "loan",
-   "interest-rate",
+   "savings-bonds",
+   "interest-rates",
    "paper-money",
    "government-debt",
    "contract",
+   "money-stack",
    "banknotes",
    "courthouse",
    "signature",
    "pen"
   ],
-  "checked": "2026-11-16"
+  "checked": "2026-11-17"
  },
  "housing": {
   "name": "Housing market & mortgages",
@@ -177946,35 +177958,12 @@
     "track": "https://api.unsplash.com/photos/-UHyhmRhzrU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YmFja3lhcmR8ZW58MXx8fHwxNzk0ODI0NjgxfDA"
    },
    {
-    "shot": "construction",
-    "shows": "October 2024, construction of Azabudai Hills residence tower 8",
-    "file": "File:October 2024, construction of Azabudai Hills residence tower 8.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:October_2024,_construction_of_Azabudai_Hills_residence_tower_8.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/October_2024%2C_construction_of_Azabudai_Hills_residence_tower_8.jpg/1280px-October_2024%2C_construction_of_Azabudai_Hills_residence_tower_8.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/October_2024%2C_construction_of_Azabudai_Hills_residence_tower_8.jpg/500px-October_2024%2C_construction_of_Azabudai_Hills_residence_tower_8.jpg",
-    "size": [
-     1280,
-     1700
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Syced, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Syced",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
     "shot": "open-house",
     "shows": "Open House 2013",
-    "file": "File:Open House 2013 (8633012060).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Open_House_2013_(8633012060).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Open_House_2013_%288633012060%29.jpg/1920px-Open_House_2013_%288633012060%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Open_House_2013_%288633012060%29.jpg/500px-Open_House_2013_%288633012060%29.jpg",
+    "file": "File:Open House 2013 (8633039458).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Open_House_2013_(8633039458).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Open_House_2013_%288633039458%29.jpg/1920px-Open_House_2013_%288633039458%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Open_House_2013_%288633039458%29.jpg/500px-Open_House_2013_%288633039458%29.jpg",
     "size": [
      1920,
      1280
@@ -177992,12 +177981,12 @@
     "how": "catalog"
    },
    {
-    "shot": "home-exterior",
-    "shows": "Exterior of Hwacheon KSPO home ground",
-    "file": "File:Exterior of Hwacheon KSPO home ground.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Exterior_of_Hwacheon_KSPO_home_ground.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Exterior_of_Hwacheon_KSPO_home_ground.jpg/1920px-Exterior_of_Hwacheon_KSPO_home_ground.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Exterior_of_Hwacheon_KSPO_home_ground.jpg/500px-Exterior_of_Hwacheon_KSPO_home_ground.jpg",
+    "shot": "home-loan",
+    "shows": "Federal home loan bank Atlanta",
+    "file": "File:Federal home loan bank Atlanta.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Federal_home_loan_bank_Atlanta.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Federal_home_loan_bank_Atlanta.jpg/1920px-Federal_home_loan_bank_Atlanta.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Federal_home_loan_bank_Atlanta.jpg/500px-Federal_home_loan_bank_Atlanta.jpg",
     "size": [
      1920,
      1440
@@ -178006,88 +177995,111 @@
      0.5,
      0.5
     ],
-    "credit": "Haena96, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Haena96",
-    "year": 2024,
+    "credit": "Tyler Lahti, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Tyler Lahti",
+    "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "suburban-house",
-    "shows": "Gorokhovets Moscovskaya43 019 5281",
-    "file": "File:Gorokhovets Moscovskaya43 019 5281.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gorokhovets_Moscovskaya43_019_5281.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gorokhovets_Moscovskaya43_019_5281.jpg/1920px-Gorokhovets_Moscovskaya43_019_5281.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gorokhovets_Moscovskaya43_019_5281.jpg/500px-Gorokhovets_Moscovskaya43_019_5281.jpg",
+    "shot": "real-estate-market",
+    "shows": "Real estate advertisements in Shanghai 2005",
+    "file": "File:Real estate advertisements in Shanghai 2005.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Real_estate_advertisements_in_Shanghai_2005.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Real_estate_advertisements_in_Shanghai_2005.jpg/1920px-Real_estate_advertisements_in_Shanghai_2005.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Real_estate_advertisements_in_Shanghai_2005.jpg/500px-Real_estate_advertisements_in_Shanghai_2005.jpg",
     "size": [
      1920,
-     1280
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Ludvig14, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Eddie Awad, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Eddie Awad",
+    "year": 2005,
+    "how": "catalog"
+   },
+   {
+    "shot": "condo",
+    "shows": "Club Royal Condominium (Original First Design) by Mario Kleff 01",
+    "file": "File:Club Royal Condominium (Original First Design) by Mario Kleff 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Club_Royal_Condominium_(Original_First_Design)_by_Mario_Kleff_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Club_Royal_Condominium_%28Original_First_Design%29_by_Mario_Kleff_01.jpg/1920px-Club_Royal_Condominium_%28Original_First_Design%29_by_Mario_Kleff_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Club_Royal_Condominium_%28Original_First_Design%29_by_Mario_Kleff_01.jpg/500px-Club_Royal_Condominium_%28Original_First_Design%29_by_Mario_Kleff_01.jpg",
+    "size": [
+     1920,
+     1216
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Designer Mario Kleff, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ludvig14",
+    "author": "Designer Mario Kleff",
+    "year": 2008,
+    "how": "catalog"
+   },
+   {
+    "shot": "apartment-building",
+    "shows": "Apartment buildings on the bank of East River, Manhattan, New York City, 1109 1028",
+    "file": "File:Apartment buildings on the bank of East River, Manhattan, New York City, 20231001 1109 1028.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Apartment_buildings_on_the_bank_of_East_River,_Manhattan,_New_York_City,_20231001_1109_1028.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1109_1028.jpg/1920px-Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1109_1028.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1109_1028.jpg/500px-Apartment_buildings_on_the_bank_of_East_River%2C_Manhattan%2C_New_York_City%2C_20231001_1109_1028.jpg",
+    "size": [
+     1920,
+     1991
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jakub Hałun, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Jakub Hałun",
     "year": 2023,
     "how": "catalog"
    },
    {
-    "shot": "construction-crane",
-    "shows": "Crane at Tottenham Hale, Haringey 02",
-    "file": "File:Crane at Tottenham Hale, Haringey 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Crane_at_Tottenham_Hale,_Haringey_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Crane_at_Tottenham_Hale%2C_Haringey_02.jpg/1280px-Crane_at_Tottenham_Hale%2C_Haringey_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Crane_at_Tottenham_Hale%2C_Haringey_02.jpg/500px-Crane_at_Tottenham_Hale%2C_Haringey_02.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Acabashi, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Acabashi",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "real-estate-sign",
-    "shows": "Accantus 'TE HUUR' real estate sign, Winschoten 04",
-    "file": "File:Accantus 'TE HUUR' real estate sign, Winschoten (2019) 04.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Accantus_%27TE_HUUR%27_real_estate_sign,_Winschoten_(2019)_04.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Accantus_%27TE_HUUR%27_real_estate_sign%2C_Winschoten_%282019%29_04.jpg/1920px-Accantus_%27TE_HUUR%27_real_estate_sign%2C_Winschoten_%282019%29_04.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Accantus_%27TE_HUUR%27_real_estate_sign%2C_Winschoten_%282019%29_04.jpg/500px-Accantus_%27TE_HUUR%27_real_estate_sign%2C_Winschoten_%282019%29_04.jpg",
+    "shot": "suburban-street",
+    "shows": "A suburban street in Seaton - geograph.org.uk",
+    "file": "File:A suburban street in Seaton - geograph.org.uk - 4725077.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_suburban_street_in_Seaton_-_geograph.org.uk_-_4725077.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/A_suburban_street_in_Seaton_-_geograph.org.uk_-_4725077.jpg/1920px-A_suburban_street_in_Seaton_-_geograph.org.uk_-_4725077.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/A_suburban_street_in_Seaton_-_geograph.org.uk_-_4725077.jpg/500px-A_suburban_street_in_Seaton_-_geograph.org.uk_-_4725077.jpg",
     "size": [
      1920,
-     1080
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons . ( Want to use this image? ), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "John H Darch, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons . ( Want to use this image? )",
-    "year": 2019,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "John H Darch",
+    "year": 2015,
     "how": "catalog"
    }
   ],
   "missing": [
-   "porch",
-   "housing",
-   "homes",
+   "construction",
+   "mortgage",
+   "house-aerial",
    "front-porch",
    "modern-house",
    "family-home",
@@ -178096,7 +178108,7 @@
    "brick-house",
    "townhouse"
   ],
-  "checked": "2026-11-16"
+  "checked": "2026-11-17"
  },
  "earnings": {
   "name": "Earnings season",
