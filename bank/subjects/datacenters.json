@@ -743,6 +743,40 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Datacenter_Equinix_AM3_%26_AM4_Amsterdam.jpg"
+  },
+  {
+   "shows": "blade server",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/CiscoUCS.JPG/1920px-CiscoUCS.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/CiscoUCS.JPG/500px-CiscoUCS.JPG",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CiscoUCS.JPG"
+  },
+  {
+   "shows": "Reid Gardner BESS",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Reid_Gardner_BESS.jpg/1920px-Reid_Gardner_BESS.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Reid_Gardner_BESS.jpg/500px-Reid_Gardner_BESS.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Sig. Chiocciola, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg"
   }
  ]
 }

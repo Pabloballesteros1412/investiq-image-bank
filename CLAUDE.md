@@ -293,6 +293,14 @@ Decisions (Pablo, 4 Nov 2026):
 - **Merged into main (17 Nov, PR #12)**: 6,135 published photos: companies 3,969, topics 1,647 (average 44.5), sectors
   519 (average 47.2); 5 of 48 at 50. Thinnest: quantum 33, nuclear 34, ai 35, earnings 38, chips 41, datacenters 42.
   324 Unsplash download counts pending. Next: round 10 (212 searches in 18 topics, `new_r10.json` in the scratchpad).
+- **Round 10, refill 10** (17 Nov): 212 short searches in 18 thin topics (three 2-hour pieces); graded stock 24 of 47
+  grade 3, Commons 9 of 99. Then refill 10 of the other 28 below 50 from the cache (stock 8 of 17, Commons 4 of 71).
+  Repeats lowered to 2: another Taj Mahal for india, a second Apollo 11 lander view. Word matches seen: a tsunami sign
+  for nuclear, a USB charger for EV, "launch" -> a Soyuz rocket for IPOs, Spider-Man for "night shift".
+- **Merged into main (17 Nov, PR #13)**: 6,182 published photos: companies 3,969, topics 1,688 (average 45.6), sectors
+  525 (average 47.7); 5 of 48 at 50. Thinnest: ai 35, nuclear 35, quantum 36, earnings 40, chips 44, datacenters 44,
+  ipo 44. 335 Unsplash download counts pending. Next: round 11 (168 searches in 15 topics, already in `catalog.json`;
+  tariffs had only 20 shots and got 20 more).
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
