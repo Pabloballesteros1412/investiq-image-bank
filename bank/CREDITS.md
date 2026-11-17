@@ -5920,6 +5920,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Plastic pellets for injection molding: Teemeah, CC BY-SA 3.0, via Wikimedia Commons. [Plastic pellets for injection molding.jpg](https://commons.wikimedia.org/wiki/File:Plastic_pellets_for_injection_molding.jpg)
 - Four orange, green, blue, and red paint rollers: Photo by David Pisnoy on Unsplash. [46juD4zY1XA](https://unsplash.com/photos/four-orange-green-blue-and-red-paint-rollers-46juD4zY1XA?utm_source=investiq_image_bank&utm_medium=referral)
 - Production of aluminium pot cover (sand mold casting) 1: Kambai Akau, CC BY-SA 4.0, via Wikimedia Commons. [Production of aluminium pot cover (sand mold casting) 1.jpg](https://commons.wikimedia.org/wiki/File:Production_of_aluminium_pot_cover_(sand_mold_casting)_1.jpg)
+- Green leafed plant near glass panel: Photo by Katja-Anna Krug on Unsplash. [qxXXEn8wCVs](https://unsplash.com/photos/green-leafed-plant-near-glass-panel-qxXXEn8wCVs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Federal Reserve & interest rates (fed)
 
@@ -6122,6 +6123,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A typewriter with a job application printed on it: Photo by Markus Winkler on Unsplash. [XKKuY4ottJ0](https://unsplash.com/photos/a-typewriter-with-a-job-application-printed-on-it-XKKuY4ottJ0?utm_source=investiq_image_bank&utm_medium=referral)
 - A white hard hat sitting on top of a solar panel: Photo by Evgeniy Alyoshin on Unsplash. [2ASQyjafflo](https://unsplash.com/photos/a-white-hard-hat-sitting-on-top-of-a-solar-panel-2ASQyjafflo?utm_source=investiq_image_bank&utm_medium=referral)
 - Modern office interior with cubicles and workstations: Photo by blue sky on Unsplash. [IHUzuqnK87g](https://unsplash.com/photos/modern-office-interior-with-cubicles-and-workstations-IHUzuqnK87g?utm_source=investiq_image_bank&utm_medium=referral)
+- Person in black work shoes standing on dirt pathway: Photo by Annie Spratt on Unsplash. [J34M8K1uqs4](https://unsplash.com/photos/person-in-black-work-shoes-standing-on-dirt-pathway-J34M8K1uqs4?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Wall Street & stock market rallies (bull-market)
 
@@ -6174,6 +6176,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Brown cow on green grass field during daytime: Photo by Natilyn Hicks Photography on Unsplash. [-cGLKVuE0nk](https://unsplash.com/photos/brown-cow-on-green-grass-field-during-daytime--cGLKVuE0nk?utm_source=investiq_image_bank&utm_medium=referral)
 - Bull silhouette on a hill against a vibrant orange sunset: Photo by Daryan Shamkhali on Unsplash. [cye6So5v_Y0](https://unsplash.com/photos/bull-silhouette-on-a-hill-against-a-vibrant-orange-sunset-cye6So5v_Y0?utm_source=investiq_image_bank&utm_medium=referral)
 - A close-up of a grey and white bull with a yellow ear tag: Photo by Volodymyr Lymariev on Unsplash. [3t-SEZF0fVo](https://unsplash.com/photos/bull-with-yellow-ear-tag-3t-SEZF0fVo?utm_source=investiq_image_bank&utm_medium=referral)
+- Green sign with white arrow pointing left on brick wall: Photo by Tasha Kostyuk on Unsplash. [UgPP50i3_5c](https://unsplash.com/photos/green-sign-with-white-arrow-pointing-left-on-brick-wall-UgPP50i3_5c?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Market crash & volatility (crash)
 
@@ -6224,6 +6227,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Yellow Dead End sign: Photo by Victória Kubiaki on Unsplash. [7M2c916CxYI](https://unsplash.com/photos/yellow-dead-end-sign-7M2c916CxYI?utm_source=investiq_image_bank&utm_medium=referral)
 - Orange and gray rocks: Photo by Sven Brandsma on Unsplash. [ZUvWsJB4z50](https://unsplash.com/photos/orange-and-gray-rocks-ZUvWsJB4z50?utm_source=investiq_image_bank&utm_medium=referral)
 - Sunken ship: Photo by Olga ga on Unsplash. [8uabPZmXJ4s](https://unsplash.com/photos/sunken-ship-8uabPZmXJ4s?utm_source=investiq_image_bank&utm_medium=referral)
+- Fishing boats grounded on debris in a coastal town after a natural disaster: Photo by NOAA on Unsplash. [rxlx9Yi0298](https://unsplash.com/photos/fishing-boats-grounded-in-coastal-town-rxlx9Yi0298?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Artificial intelligence boom (ai)
 
@@ -6265,6 +6269,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Anatomical model of a human head with brain: Photo by Marek Piwnicki on Unsplash. [lZlWiXaxRZc](https://unsplash.com/photos/anatomical-model-of-a-human-head-with-brain-lZlWiXaxRZc?utm_source=investiq_image_bank&utm_medium=referral)
 - A close up of a plastic brain model: Photo by Lisa Yount on Unsplash. [JkAxfH5ktpw](https://unsplash.com/photos/a-close-up-of-a-plastic-brain-model-JkAxfH5ktpw?utm_source=investiq_image_bank&utm_medium=referral)
 - Black flat screen computer monitor: Photo by Joan Gamell on Unsplash. [ZS67i1HLllo](https://unsplash.com/photos/black-flat-screen-computer-monitor-ZS67i1HLllo?utm_source=investiq_image_bank&utm_medium=referral)
+- A hand holding a black camera with a large zoom lens: Photo by Nathan Dumlao on Unsplash. [McztPB7Uqx8](https://unsplash.com/photos/camera-with-large-zoom-lens-McztPB7Uqx8?utm_source=investiq_image_bank&utm_medium=referral)
+- Small gaming keyboard on a wooden table. RGB lights are glowing at the sides.: Photo by Nilo Velez on WordPress.org Photos, CC0. [76105](https://wordpress.org/photos/photo/365663b592/)
+- A large screen displays "chatgpt atlas" in a dark room: Photo by BoliviaInteligente on Unsplash. [WsM2i0bxvCc](https://unsplash.com/photos/a-large-screen-displays-chatgpt-atlas-in-a-dark-room-WsM2i0bxvCc?utm_source=investiq_image_bank&utm_medium=referral)
+- A room with a tv and chairs: Photo by ACatInABox on Unsplash. [Xgas-gY5byc](https://unsplash.com/photos/a-room-with-a-tv-and-chairs-Xgas-gY5byc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6316,6 +6324,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A white laptop computer sitting on top of a table: Photo by Jakub Żerdzicki on Unsplash. [4kdGXUOKwcI](https://unsplash.com/photos/a-white-laptop-computer-sitting-on-top-of-a-table-4kdGXUOKwcI?utm_source=investiq_image_bank&utm_medium=referral)
 - Viglen blade servers: devopstom, CC BY-SA 2.0, via Wikimedia Commons. [Viglen blade servers.jpg](https://commons.wikimedia.org/wiki/File:Viglen_blade_servers.jpg)
 - A close up of a network tester on a table: Photo by Gavin Allanwood on Unsplash. [-xITpL_gncA](https://unsplash.com/photos/a-close-up-of-a-network-tester-on-a-table--xITpL_gncA?utm_source=investiq_image_bank&utm_medium=referral)
+- A couple of batteries sitting on top of a motherboard: Photo by Axel Richter on Unsplash. [WMuLyKbye8Y](https://unsplash.com/photos/a-couple-of-batteries-sitting-on-top-of-a-motherboard-WMuLyKbye8Y?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Semiconductors & the chip war (chips)
 
@@ -6465,6 +6474,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A gold chain on a black background: Photo by PRAHANT STUDIO on Unsplash. [R_pIyT1KF80](https://unsplash.com/photos/a-gold-chain-on-a-black-background-R_pIyT1KF80?utm_source=investiq_image_bank&utm_medium=referral)
 - A three row diamond ring on a white cloth: Photo by Aniket Sharma on Unsplash. [ts3IgWvhLtU](https://unsplash.com/photos/a-three-row-diamond-ring-on-a-white-cloth-ts3IgWvhLtU?utm_source=investiq_image_bank&utm_medium=referral)
 - University National Bank building - safe deposit boxes 03: Photo by Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [University National Bank building - safe deposit boxes 03.jpg](https://commons.wikimedia.org/wiki/File:University_National_Bank_building_-_safe_deposit_boxes_03.jpg)
+- Background pattern: Photo by Katie Harp on Unsplash. [knjArGOrx0Q](https://unsplash.com/photos/background-pattern-knjArGOrx0Q?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Oil & energy (oil)
 
@@ -6515,6 +6525,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Black and orange metal machine on green grass field during daytime: Photo by David Thielen on Unsplash. [R5Ob28wpWzo](https://unsplash.com/photos/black-and-orange-metal-machine-on-green-grass-field-during-daytime-R5Ob28wpWzo?utm_source=investiq_image_bank&utm_medium=referral)
 - A black and white photo of an oil pump: Photo by Jacob Padilla on Unsplash. [oYcR0FIysss](https://unsplash.com/photos/a-black-and-white-photo-of-an-oil-pump-oYcR0FIysss?utm_source=investiq_image_bank&utm_medium=referral)
 - A gas station lit up at night time: Photo by Michal Hajtas on Unsplash. [j2Ao7oKJIRI](https://unsplash.com/photos/a-gas-station-lit-up-at-night-time-j2Ao7oKJIRI?utm_source=investiq_image_bank&utm_medium=referral)
+- A car is parked in between two rusty barrels: Photo by Cristian Macovei on Unsplash. [7KM7n7ipdVE](https://unsplash.com/photos/a-car-is-parked-in-between-two-rusty-barrels-7KM7n7ipdVE?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Tariffs & trade war (tariffs)
 
@@ -6815,6 +6826,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Laptop computer on glass-top table: Photo by Carlos Muza on Unsplash. [hpjSkU2UYSU](https://unsplash.com/photos/laptop-computer-on-glass-top-table-hpjSkU2UYSU?utm_source=investiq_image_bank&utm_medium=referral)
 - Elegant boardroom (Unsplash): Benjamin Child bchild311, CC0, via Wikimedia Commons. [Elegant boardroom (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Elegant_boardroom_(Unsplash).jpg)
 - A calendar with red push buttons pinned to it: Photo by Towfiqu barbhuiya on Unsplash. [bwOAixLG0uc](https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_source=investiq_image_bank&utm_medium=referral)
+- Open monthly planner on wooden desk: Photo by Eric Rothermel on Unsplash. [FoKO4DpXamQ](https://unsplash.com/photos/open-monthly-planner-on-wooden-desk-FoKO4DpXamQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Colorful sticky notes pinned to board: Photo by Patrick Perkins on Unsplash. [ETRPjvb0KM0](https://unsplash.com/photos/colorful-sticky-notes-pinned-to-board-ETRPjvb0KM0?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
@@ -6957,13 +6970,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A factory with a lot of smoke coming out of it: Photo by Mads Eneqvist on Unsplash. [PpKvtSEiUCE](https://unsplash.com/photos/a-factory-with-a-lot-of-smoke-coming-out-of-it-PpKvtSEiUCE?utm_source=investiq_image_bank&utm_medium=referral)
 - Aerial view of industrial factory: Photo by CHUTTERSNAP on Unsplash. [_EFvjSgbw1c](https://unsplash.com/photos/aerial-view-of-industrial-factory-_EFvjSgbw1c?utm_source=investiq_image_bank&utm_medium=referral)
 - Sunset at Thermal power plant, Barwala ,Hisar: Incredible Indiana, CC BY-SA 3.0, via Wikimedia Commons. [Sunset at Thermal power plant, Barwala ,Hisar.jpg](https://commons.wikimedia.org/wiki/File:Sunset_at_Thermal_power_plant,_Barwala_,Hisar.jpg)
-- Yellow flower in tilt shift lens: Photo by Frankie Lopez on Unsplash. [zUJnzpDqLAY](https://unsplash.com/photos/yellow-flower-in-tilt-shift-lens-zUJnzpDqLAY?utm_source=investiq_image_bank&utm_medium=referral)
-- Old, empty metal containers are depicted in black and white: Photo by Albert Stoynov on Unsplash. [yI9CKuTHgyc](https://unsplash.com/photos/old-empty-metal-containers-are-depicted-in-black-and-white-yI9CKuTHgyc?utm_source=investiq_image_bank&utm_medium=referral)
-- Person wearing white overalls: Photo by CDC on Unsplash. [3ywq86TB7Tg](https://unsplash.com/photos/person-wearing-white-overalls-3ywq86TB7Tg?utm_source=investiq_image_bank&utm_medium=referral)
-- Black and yellow poison sign: Photo by Mikael Seegen on Unsplash. [jX6WXNkvsPs](https://unsplash.com/photos/black-and-yellow-poison-sign-jX6WXNkvsPs?utm_source=investiq_image_bank&utm_medium=referral)
 - Power lines silhouetted at sunset: Photo by Geon George on Unsplash. [Q4CTTc-8lGQ](https://unsplash.com/photos/power-lines-silhouetted-at-sunset-Q4CTTc-8lGQ?utm_source=investiq_image_bank&utm_medium=referral)
-- A factory with a lot of green and white machinery: Photo by Abhijeet Gaikwad on Unsplash. [wUuq69GGLnU](https://unsplash.com/photos/a-factory-with-a-lot-of-green-and-white-machinery-wUuq69GGLnU?utm_source=investiq_image_bank&utm_medium=referral)
-- White clouds over red and white tower: Photo by byshark on Unsplash. [uL21AfyB844](https://unsplash.com/photos/white-clouds-over-red-and-white-tower-uL21AfyB844?utm_source=investiq_image_bank&utm_medium=referral)
+- A street performer playing a steel drum near a palm tree in San Francisco: Photo by Sulav Jung Hamal on Unsplash. [CR1fS3O7mqw](https://unsplash.com/photos/street-performer-playing-steel-drum-san-francisco-CR1fS3O7mqw?utm_source=investiq_image_bank&utm_medium=referral)
+- Beekeeper in protective suit examines honeycomb with bees: Photo by Vitaly Gariev on Unsplash. [mS5SxesPFKU](https://unsplash.com/photos/beekeeper-in-protective-suit-examines-honeycomb-with-bees-mS5SxesPFKU?utm_source=investiq_image_bank&utm_medium=referral)
+- Red and white stop sign: Photo by Kelly Sikkema on Unsplash. [UKM5SNcY84o](https://unsplash.com/photos/red-and-white-stop-sign-UKM5SNcY84o?utm_source=investiq_image_bank&utm_medium=referral)
+- Electricity pylon silhouetted against a vibrant sunset sky: Photo by Eda Ozturkoglu on Unsplash. [PDS6uDkCNBk](https://unsplash.com/photos/electricity-pylon-silhouetted-against-a-vibrant-sunset-sky-PDS6uDkCNBk?utm_source=investiq_image_bank&utm_medium=referral)
+- A large blue box sitting on the side of a road: Photo by Fahim Junaid on Unsplash. [7MjXpkxFseU](https://unsplash.com/photos/a-large-blue-box-sitting-on-the-side-of-a-road-7MjXpkxFseU?utm_source=investiq_image_bank&utm_medium=referral)
+- A water tower, the steam engine, and tender at tiny Osier, Colorado, on the Cumbres & Toltec Scenic Railroad trains’ route: Photo by Carol Highsmith's America on Unsplash. [QuMq-0LNHZg](https://unsplash.com/photos/a-water-tower-the-steam-engine-and-tender-at-tiny-osier-colorado-on-the-cumbres-toltec-scenic-railroad-trains-route-QuMq-0LNHZg?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Defense & geopolitics (defense)
 
@@ -7272,8 +7285,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A purple smoothie in a glass jar with floating strawberries, bananas, and blackberries: Photo by Sara Julie on Unsplash. [9Gz5bMWdGYE](https://unsplash.com/photos/purple-smoothie-with-floating-fruit-9Gz5bMWdGYE?utm_source=investiq_image_bank&utm_medium=referral)
 - Yellow and black measuring tape: Photo by Immo Wegmann on Unsplash. [1abCQ_3g_UY](https://unsplash.com/photos/yellow-and-black-measuring-tape-1abCQ_3g_UY?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver stethoscope on white surface: Photo by Markus Frieauff on Unsplash. [IJ0KiXl4uys](https://unsplash.com/photos/black-and-silver-stethoscope-on-white-surface-IJ0KiXl4uys?utm_source=investiq_image_bank&utm_medium=referral)
-- Pills in a blister pack with green bottoms: Photo by Rapha Wilde on Unsplash. [qqbXxjhPuj8](https://unsplash.com/photos/pills-in-a-blister-pack-with-green-bottoms-qqbXxjhPuj8?utm_source=investiq_image_bank&utm_medium=referral)
 - Vegetable salad on white ceramic plate: Photo by Tania Melnyczuk on Unsplash. [xeTv9N2FjXA](https://unsplash.com/photos/vegetable-salad-on-white-ceramic-plate-xeTv9N2FjXA?utm_source=investiq_image_bank&utm_medium=referral)
+- Orange capsules and empty blister pack on blue: Photo by Jorge Campos on Unsplash. [fbXayXy0Pok](https://unsplash.com/photos/orange-capsules-and-empty-blister-pack-on-blue-fbXayXy0Pok?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## US politics & markets (politics)
 
@@ -7323,7 +7336,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Madison August 2022 099 (Official Absentee Ballot Drop Box): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Madison August 2022 099 (Official Absentee Ballot Drop Box).jpg](https://commons.wikimedia.org/wiki/File:Madison_August_2022_099_(Official_Absentee_Ballot_Drop_Box).jpg)
 - A black and white photo of the capitol building: Photo by Jennifer Grismer on Unsplash. [vjogmAcJmco](https://unsplash.com/photos/a-black-and-white-photo-of-the-capitol-building-vjogmAcJmco?utm_source=investiq_image_bank&utm_medium=referral)
 - Capitol Steps 4342: Chris Light, CC BY-SA 4.0, via Wikimedia Commons. [Capitol Steps 4342.jpg](https://commons.wikimedia.org/wiki/File:Capitol_Steps_4342.jpg)
+- Early voting sign at Madison Parish Courthouse: Ktkvtsh, CC BY 4.0, via Wikimedia Commons. [Early voting sign at Madison Parish Courthouse.jpg](https://commons.wikimedia.org/wiki/File:Early_voting_sign_at_Madison_Parish_Courthouse.jpg)
 - Silhouette of a flag on a pole during sunset: Photo by أخٌ‌في‌الله on Unsplash. [BH026KW6WYE](https://unsplash.com/photos/silhouette-of-a-flag-on-a-pole-during-sunset-BH026KW6WYE?utm_source=investiq_image_bank&utm_medium=referral)
+- Payment and Ballot Drop Box at Southbridge Massachusetts Town Hall: PeterCooperJr, CC0, via Wikimedia Commons. [Payment and Ballot Drop Box at Southbridge Massachusetts Town Hall.jpg](https://commons.wikimedia.org/wiki/File:Payment_and_Ballot_Drop_Box_at_Southbridge_Massachusetts_Town_Hall.jpg)
 
 ## Europe & the ECB (europe)
 
@@ -7421,11 +7436,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Light painting screw: Karsten Loewenstein ( talk · contribs ), CC BY 3.0, via Wikimedia Commons. [Light painting screw.jpg](https://commons.wikimedia.org/wiki/File:Light_painting_screw.jpg)
 - A large group of lights: Photo by superlightingled on Unsplash. [IGPhiyH9t-A](https://unsplash.com/photos/a-large-group-of-lights-IGPhiyH9t-A?utm_source=investiq_image_bank&utm_medium=referral)
 - A tangled knot of gold wire reflecting on a black surface: Photo by Spencer Liao on Unsplash. [q8LZhhs7oBE](https://unsplash.com/photos/tangled-gold-wire-knot-reflection-q8LZhhs7oBE?utm_source=investiq_image_bank&utm_medium=referral)
-- The chemical laboratory where Edison's teams worked on chemicals that were used in batteries, phonograph records and other inventions, at The Thomas Edison Nati: Photo: Carol M. Highsmith, Library of Congress, public domain. [2017882247](https://www.loc.gov/item/2017882247/)
-- Clear glass ball on brown rock: Photo by Jake Willett on Unsplash. [66b8Iowz7NI](https://unsplash.com/photos/clear-glass-ball-on-brown-rock-66b8Iowz7NI?utm_source=investiq_image_bank&utm_medium=referral)
-- Person catching light bulb: Photo by Júnior Ferreira on Unsplash. [7esRPTt38nI](https://unsplash.com/photos/person-catching-light-bulb-7esRPTt38nI?utm_source=investiq_image_bank&utm_medium=referral)
-- Soft pink bokeh lights against gray background: Photo by Alexander Grey on Unsplash. [NkQD-RHhbvY](https://unsplash.com/photos/soft-pink-bokeh-lights-against-gray-background-NkQD-RHhbvY?utm_source=investiq_image_bank&utm_medium=referral)
-- Intricate frost patterns on a window pane with soft light in the background: Photo by Kelly Sikkema on Unsplash. [hSPVuakrJqs](https://unsplash.com/photos/frost-patterns-on-window-pane-hSPVuakrJqs?utm_source=investiq_image_bank&utm_medium=referral)
+- Lissajous-Figur -- 2020 -- 7766: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Lissajous-Figur -- 2020 -- 7766.jpg](https://commons.wikimedia.org/wiki/File:Lissajous-Figur_--_2020_--_7766.jpg)
+- The chemical laboratory where Edison's teams worked on chemicals that were used in batteries, phonograph records and other inventions, at The Thomas Edison Nati: Photo: Carol M. Highsmith, Library of Congress, public domain. [2017882248](https://www.loc.gov/item/2017882248/)
+- A glass ball on top of a white table: Photo by Steven Van Elk on Unsplash. [fP7w9BLhr3E](https://unsplash.com/photos/a-glass-ball-on-top-of-a-white-table-fP7w9BLhr3E?utm_source=investiq_image_bank&utm_medium=referral)
+- Close up photography of light bulb: Photo by Johannes Plenio on Unsplash. [voQ97kezCx0](https://unsplash.com/photos/close-up-photography-of-light-bulb-voQ97kezCx0?utm_source=investiq_image_bank&utm_medium=referral)
+- A blurry photo of a bunch of lights: Photo by Rinck Content Studio on Unsplash. [dovoV_nkJFE](https://unsplash.com/photos/a-blurry-photo-of-a-bunch-of-lights-dovoV_nkJFE?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Robotics & automation (robotics)
 
@@ -7477,6 +7492,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - An orange robot with wheels and hands: Photo by Enchanted Tools on Unsplash. [FkAMKlBzW7A](https://unsplash.com/photos/an-orange-robot-with-wheels-and-hands-FkAMKlBzW7A?utm_source=investiq_image_bank&utm_medium=referral)
 - A couple of toy robots standing on top of a wooden table: Photo by Theo on Unsplash. [kqv37CRVnVc](https://unsplash.com/photos/a-couple-of-toy-robots-standing-on-top-of-a-wooden-table-kqv37CRVnVc?utm_source=investiq_image_bank&utm_medium=referral)
 - Selective focus photography of gray and black quadcopter drone: Photo by Jonathan Lampel on Unsplash. [L9wrEGJjRdo](https://unsplash.com/photos/selective-focus-photography-of-gray-and-black-quadcopter-drone-L9wrEGJjRdo?utm_source=investiq_image_bank&utm_medium=referral)
+- A white robot vacuum cleaner on a grey floor: Photo by Andrey Matveev on Unsplash. [EY7bNpTBv4c](https://unsplash.com/photos/a-white-robot-vacuum-cleaner-on-a-grey-floor-EY7bNpTBv4c?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Cybersecurity (cybersecurity)
 
@@ -7526,7 +7542,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two women facing security camera above mounted on structure: Photo by Matthew Henry on Unsplash. [fPxOowbR6ls](https://unsplash.com/photos/two-women-facing-security-camera-above-mounted-on-structure-fPxOowbR6ls?utm_source=investiq_image_bank&utm_medium=referral)
 - A rusty padlock attached to a chain link fence: Photo by Ower Yonder on Unsplash. [rwqtYBuqPYU](https://unsplash.com/photos/a-rusty-padlock-attached-to-a-chain-link-fence-rwqtYBuqPYU?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver padlock in grayscale photography: Photo by Vanna Phon on Unsplash. [hRXIKdxoaPo](https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral)
-- Architectural art "Cenozoic Codex" at three locations on building exterior of the Census Computer Facility, Bowie, Maryland: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010720346](https://www.loc.gov/item/2010720346/)
+- A close-up image of several banknotes, including a blue 500 Taka note, a green 20 Taka note, and a purple 50 Taka note, arranged on a white surface next to a bl: Photo by Aminul Islam on WordPress.org Photos, CC0. [140092](https://wordpress.org/photos/photo/3396894665/)
 
 ## India economy (india)
 
@@ -7579,6 +7595,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A pile of indian currency sitting on top of a wooden table: Photo by Carl Beech on Unsplash. [GfRO2CGRQ24](https://unsplash.com/photos/a-pile-of-indian-currency-sitting-on-top-of-a-wooden-table-GfRO2CGRQ24?utm_source=investiq_image_bank&utm_medium=referral)
 - White concrete arch during night time: Photo by shubham dhiman on Unsplash. [ykbpWdmF2R8](https://unsplash.com/photos/white-concrete-arch-during-night-time-ykbpWdmF2R8?utm_source=investiq_image_bank&utm_medium=referral)
 - People walking on street during daytime: Photo by Peter Chirkov on Unsplash. [CKhawEhlYLQ](https://unsplash.com/photos/people-walking-on-street-during-daytime-CKhawEhlYLQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Photo of Taj Mahal: Photo by Julian Yu on Unsplash. [_WuPjE-MPHo](https://unsplash.com/photos/photo-of-taj-mahal-_WuPjE-MPHo?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Japan economy (japan)
 
