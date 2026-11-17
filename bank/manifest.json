@@ -159913,58 +159913,39 @@
     "track": "https://api.unsplash.com/photos/IWpd8KixceA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Zm9nJTIwY2l0eXxlbnwxfHx8fDE3OTQ4OTIzNTZ8MA"
    },
    {
-    "shot": "vacant-store",
-    "shows": "Empty interior of Parkdale Dollarama, September 2026",
-    "file": "File:Empty interior of Parkdale Dollarama, September 2026.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Empty_interior_of_Parkdale_Dollarama,_September_2026.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Empty_interior_of_Parkdale_Dollarama%2C_September_2026.jpg/1920px-Empty_interior_of_Parkdale_Dollarama%2C_September_2026.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Empty_interior_of_Parkdale_Dollarama%2C_September_2026.jpg/500px-Empty_interior_of_Parkdale_Dollarama%2C_September_2026.jpg",
+    "shot": "sale-sign",
+    "shows": "Red and white sale LED sign",
+    "file": "unsplash:KcPK_kzqWC8",
+    "page": "https://unsplash.com/photos/red-and-white-sale-led-sign-KcPK_kzqWC8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1577538928305-3807c3993047?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2FsZSUyMHNpZ258ZW58MXx8fHwxNzk0ODAyMzQ2fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1577538928305-3807c3993047?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2FsZSUyMHNpZ258ZW58MXx8fHwxNzk0ODAyMzQ2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2249,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Qviri, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Qviri",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
-    "shot": "vacant-lot",
-    "shows": "Vacant lot, Wakefield Road (A638), Millbridge, Liversedge - geograph.org.uk",
-    "file": "File:Vacant lot, Wakefield Road (A638), Millbridge, Liversedge - geograph.org.uk - 8373786.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Vacant_lot,_Wakefield_Road_(A638),_Millbridge,_Liversedge_-_geograph.org.uk_-_8373786.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vacant_lot%2C_Wakefield_Road_%28A638%29%2C_Millbridge%2C_Liversedge_-_geograph.org.uk_-_8373786.jpg/1920px-Vacant_lot%2C_Wakefield_Road_%28A638%29%2C_Millbridge%2C_Liversedge_-_geograph.org.uk_-_8373786.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vacant_lot%2C_Wakefield_Road_%28A638%29%2C_Millbridge%2C_Liversedge_-_geograph.org.uk_-_8373786.jpg/500px-Vacant_lot%2C_Wakefield_Road_%28A638%29%2C_Millbridge%2C_Liversedge_-_geograph.org.uk_-_8373786.jpg",
-    "size": [
-     1920,
-     1401
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "habiloid, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "habiloid",
-    "year": 2026,
-    "how": "catalog"
+    "credit": "Photo by Claudio Schwarz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Claudio Schwarz",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@purzlbaum?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/KcPK_kzqWC8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2FsZSUyMHNpZ258ZW58MXx8fHwxNzk0ODAyMzQ2fDA",
+    "track_pending": true
    },
    {
     "shot": "declining-chart",
-    "shows": "Arizona’s Declining Groundwater ( - waterstorage grc 2024 lrg)",
-    "file": "File:Arizona’s Declining Groundwater (154567 - waterstorage grc 2024 lrg).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Arizona%E2%80%99s_Declining_Groundwater_(154567_-_waterstorage_grc_2024_lrg).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Arizona%E2%80%99s_Declining_Groundwater_%28154567_-_waterstorage_grc_2024_lrg%29.jpg/1920px-Arizona%E2%80%99s_Declining_Groundwater_%28154567_-_waterstorage_grc_2024_lrg%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Arizona%E2%80%99s_Declining_Groundwater_%28154567_-_waterstorage_grc_2024_lrg%29.jpg/500px-Arizona%E2%80%99s_Declining_Groundwater_%28154567_-_waterstorage_grc_2024_lrg%29.jpg",
+    "shows": "Arizona’s Declining Groundwater ( - waterstorage grc 2014 lrg)",
+    "file": "File:Arizona’s Declining Groundwater (154567 - waterstorage grc 2014 lrg).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arizona%E2%80%99s_Declining_Groundwater_(154567_-_waterstorage_grc_2014_lrg).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arizona%E2%80%99s_Declining_Groundwater_%28154567_-_waterstorage_grc_2014_lrg%29.jpg/1920px-Arizona%E2%80%99s_Declining_Groundwater_%28154567_-_waterstorage_grc_2014_lrg%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Arizona%E2%80%99s_Declining_Groundwater_%28154567_-_waterstorage_grc_2014_lrg%29.jpg/500px-Arizona%E2%80%99s_Declining_Groundwater_%28154567_-_waterstorage_grc_2014_lrg%29.jpg",
     "size": [
      1920,
      1600
@@ -159973,42 +159954,69 @@
      0.5,
      0.5
     ],
-    "credit": "NASA Earth Observatory images by Wanmei Liang, using data from Abdelmohsen, K., et al. (2025), boundary data from Colorado River Basin GIS Open Data Portal, and Landsat data from the U.S. Geological Survey. Story by Adam Voiland., public domain, via Wikimedia Commons",
+    "credit": "NASA Earth Observatory images by Wanmei Liang, using data from Abdelmohsen, K., et al. (2025), boundary data from Colorado River Basin GIS Open Data Portal, and Landsat data from the U.S. Geological Survey. Oceanic Niño Index chart based on data from the Climate Prediction Center at NOAA. Story by Adam Voiland., public domain, via Wikimedia Commons",
     "licence": "Public domain",
     "licence_kind": "pd",
     "licence_url": "",
-    "author": "NASA Earth Observatory images by Wanmei Liang, using data from Abdelmohsen, K., et al. (2025), boundary data from Colorado River Basin GIS Open Data Portal, and Landsat data from the U.S. Geological Survey. Story by Adam Voiland.",
+    "author": "NASA Earth Observatory images by Wanmei Liang, using data from Abdelmohsen, K., et al. (2025), boundary data from Colorado River Basin GIS Open Data Portal, and Landsat data from the U.S. Geological Survey. Oceanic Niño Index chart based on data from the Climate Prediction Center at NOAA. Story by Adam Voiland.",
     "year": 2025,
     "how": "catalog"
    },
    {
     "shot": "pennies",
-    "shows": "Edward I penny (FindID )",
-    "file": "File:Edward I penny (FindID 491318).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Edward_I_penny_(FindID_491318).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Edward_I_penny_%28FindID_491318%29.jpg/1280px-Edward_I_penny_%28FindID_491318%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Edward_I_penny_%28FindID_491318%29.jpg/500px-Edward_I_penny_%28FindID_491318%29.jpg",
+    "shows": "Electrolysis with sodium hydroxide(NaOH) and penny(different angle)",
+    "file": "File:Electrolysis with sodium hydroxide(NaOH) and penny(different angle).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Electrolysis_with_sodium_hydroxide(NaOH)_and_penny(different_angle).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Electrolysis_with_sodium_hydroxide%28NaOH%29_and_penny%28different_angle%29.jpg/1280px-Electrolysis_with_sodium_hydroxide%28NaOH%29_and_penny%28different_angle%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Electrolysis_with_sodium_hydroxide%28NaOH%29_and_penny%28different_angle%29.jpg/500px-Electrolysis_with_sodium_hydroxide%28NaOH%29_and_penny%28different_angle%29.jpg",
     "size": [
      1280,
-     1865
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "The British Museum, Michael Byard, 2012-02-28 17:47:26, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "The British Museum, Michael Byard, 2012-02-28 17:47:26",
-    "year": null,
+    "credit": "Jakewe, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Jakewe",
+    "year": 2019,
     "how": "catalog"
+   },
+   {
+    "shot": "rain-window",
+    "shows": "Rain drops on window glass",
+    "file": "unsplash:HCDugQDdtfc",
+    "page": "https://unsplash.com/photos/rain-drops-on-window-glass-HCDugQDdtfc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1509635022432-0220ac12960b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cmFpbiUyMHdpbmRvd3xlbnwxfHx8fDE3OTQ4OTI0NDB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1509635022432-0220ac12960b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cmFpbiUyMHdpbmRvd3xlbnwxfHx8fDE3OTQ4OTI0NDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1799
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Suhyeon Choi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Suhyeon Choi",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@by_syeoni?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HCDugQDdtfc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cmFpbiUyMHdpbmRvd3xlbnwxfHx8fDE3OTQ4OTI0NDB8MA",
+    "track_pending": true
    }
   ],
   "missing": [
+   "stock-market-crash",
    "red-chart",
    "stock-market-down",
-   "rain-window",
    "dead-mall",
    "empty-parking-lot",
    "falling-arrow",
@@ -164878,310 +164886,6 @@
     "track": "https://api.unsplash.com/photos/lZlWiXaxRZc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YnJhaW4lMjBtb2RlbHxlbnwxfHx8fDE3OTQ5MDYxNjV8MA"
    },
    {
-    "shot": "robot-arm",
-    "shows": "Maker Faire, Berlin (BL7C0006)",
-    "file": "File:Maker Faire, Berlin (BL7C0006).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Maker_Faire,_Berlin_(BL7C0006).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Maker_Faire%2C_Berlin_%28BL7C0006%29.jpg/1280px-Maker_Faire%2C_Berlin_%28BL7C0006%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Maker_Faire%2C_Berlin_%28BL7C0006%29.jpg/500px-Maker_Faire%2C_Berlin_%28BL7C0006%29.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Matti Blume",
-    "year": 2018,
-    "how": "catalog"
-   },
-   {
-    "shot": "android-robot",
-    "shows": "Happy android robot",
-    "file": "File:Happy android robot (49920859421).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Happy_android_robot_(49920859421).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Happy_android_robot_%2849920859421%29.jpg/1920px-Happy_android_robot_%2849920859421%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Happy_android_robot_%2849920859421%29.jpg/500px-Happy_android_robot_%2849920859421%29.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Yuri Samoilov, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Yuri Samoilov",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "smart-glasses",
-    "shows": "WAIC 2025 - Alibaba Quark Glasses 01",
-    "file": "File:WAIC 2025 - Alibaba Quark Glasses 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:WAIC_2025_-_Alibaba_Quark_Glasses_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WAIC_2025_-_Alibaba_Quark_Glasses_01.jpg/1920px-WAIC_2025_-_Alibaba_Quark_Glasses_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WAIC_2025_-_Alibaba_Quark_Glasses_01.jpg/500px-WAIC_2025_-_Alibaba_Quark_Glasses_01.jpg",
-    "size": [
-     1920,
-     1602
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Xuthoria, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Xuthoria",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "futuristic",
-    "shows": "Low-angle view of the futuristic Palau de les Arts Reina Sofía against a clear blue sky.",
-    "file": "wordpress:233273",
-    "page": "https://wordpress.org/photos/photo/9226a67882/",
-    "url": "https://pd.w.org/2026/07/9226a67882febe1f6.59947741.jpg",
-    "preview": "https://pd.w.org/2026/07/9226a67882febe1f6.59947741-768x512.jpg",
-    "size": [
-     3000,
-     2000
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Miguel Ángel Villar on WordPress.org Photos, CC0",
-    "licence": "CC0 1.0",
-    "licence_kind": "cc0",
-    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "author": "Miguel Ángel Villar",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "wordpress",
-    "author_url": "https://wordpress.org/photos/author/mianviru2/"
-   },
-   {
-    "shot": "led-screen",
-    "shows": "A close up of a person's face",
-    "file": "unsplash:ypvD_tOY6O8",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-persons-face-ypvD_tOY6O8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1651675410588-56222dee0ce2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGxlZCUyMHNjcmVlbnxlbnwxfHx8fDE3OTQ5MjA1Nzl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1651675410588-56222dee0ce2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGxlZCUyMHNjcmVlbnxlbnwxfHx8fDE3OTQ5MjA1Nzl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Tim Hüfner on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Tim Hüfner",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@huefnerdesign?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ypvD_tOY6O8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGxlZCUyMHNjcmVlbnxlbnwxfHx8fDE3OTQ5MjA1Nzl8MA"
-   },
-   {
-    "shot": "face-recognition",
-    "shows": "Automatic ticket gate with face recognition system in Osaka Metro Morinomiya Station",
-    "file": "File:Automatic ticket gate with face recognition system in Osaka Metro Morinomiya Station.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Automatic_ticket_gate_with_face_recognition_system_in_Osaka_Metro_Morinomiya_Station.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Automatic_ticket_gate_with_face_recognition_system_in_Osaka_Metro_Morinomiya_Station.jpg/1280px-Automatic_ticket_gate_with_face_recognition_system_in_Osaka_Metro_Morinomiya_Station.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Automatic_ticket_gate_with_face_recognition_system_in_Osaka_Metro_Morinomiya_Station.jpg/500px-Automatic_ticket_gate_with_face_recognition_system_in_Osaka_Metro_Morinomiya_Station.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tokumeigakarinoaoshima",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "drone-delivery",
-    "shows": "FNAF 2 film starship delivery drone",
-    "file": "File:FNAF 2 film starship delivery drone 2025-12-09.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:FNAF_2_film_starship_delivery_drone_2025-12-09.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/FNAF_2_film_starship_delivery_drone_2025-12-09.jpg/1280px-FNAF_2_film_starship_delivery_drone_2025-12-09.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/FNAF_2_film_starship_delivery_drone_2025-12-09.jpg/500px-FNAF_2_film_starship_delivery_drone_2025-12-09.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "GuiltyGearFan37, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "GuiltyGearFan37",
-    "year": 2025,
-    "how": "catalog"
-   },
-   {
-    "shot": "self-checkout",
-    "shows": "Self-service checkout. DM Drogerie Markt, Nowa Sukcesja shopping mall, Al. Politechniki 1, Łódź, Poland",
-    "file": "File:20241220 173828 Self-service checkout. DM Drogerie Markt, Nowa Sukcesja shopping mall, Al. Politechniki 1, Łódź, Poland.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:20241220_173828_Self-service_checkout._DM_Drogerie_Markt,_Nowa_Sukcesja_shopping_mall,_Al._Politechniki_1,_%C5%81%C3%B3d%C5%BA,_Poland.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/20241220_173828_Self-service_checkout._DM_Drogerie_Markt%2C_Nowa_Sukcesja_shopping_mall%2C_Al._Politechniki_1%2C_%C5%81%C3%B3d%C5%BA%2C_Poland.jpg/1920px-20241220_173828_Self-service_checkout._DM_Drogerie_Markt%2C_Nowa_Sukcesja_shopping_mall%2C_Al._Politechniki_1%2C_%C5%81%C3%B3d%C5%BA%2C_Poland.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/20241220_173828_Self-service_checkout._DM_Drogerie_Markt%2C_Nowa_Sukcesja_shopping_mall%2C_Al._Politechniki_1%2C_%C5%81%C3%B3d%C5%BA%2C_Poland.jpg/500px-20241220_173828_Self-service_checkout._DM_Drogerie_Markt%2C_Nowa_Sukcesja_shopping_mall%2C_Al._Politechniki_1%2C_%C5%81%C3%B3d%C5%BA%2C_Poland.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "WrS.tm.pl, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "WrS.tm.pl",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "industrial-robot",
-    "shows": "NTM trallfa industrial robot 7487",
-    "file": "File:NTM trallfa industrial robot IMG 7487.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:NTM_trallfa_industrial_robot_IMG_7487.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/NTM_trallfa_industrial_robot_IMG_7487.JPG/1280px-NTM_trallfa_industrial_robot_IMG_7487.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/NTM_trallfa_industrial_robot_IMG_7487.JPG/500px-NTM_trallfa_industrial_robot_IMG_7487.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bjoertvedt, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bjoertvedt",
-    "year": 2014,
-    "how": "catalog"
-   },
-   {
-    "shot": "voice-assistant",
-    "shows": "Russian Voices Poetry in an Age of Totalitarianism",
-    "file": "File:Russian Voices Poetry in an Age of Totalitarianism (22864395217).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_(22864395217).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_%2822864395217%29.jpg/1280px-Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_%2822864395217%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_%2822864395217%29.jpg/500px-Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_%2822864395217%29.jpg",
-    "size": [
-     1280,
-     1927
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Center for the Study of Europe Boston University from Boston, USA, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Center for the Study of Europe Boston University from Boston, USA",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
-    "shot": "laptop",
-    "shows": "The above picture is a laptop of hp company which has a plenty of feautures in it . It has the 4GB DDR RAM in it . It consists of the latest windows 10",
-    "file": "File:HP Laptop 14S.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HP_Laptop_14S.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HP_Laptop_14S.jpg/1280px-HP_Laptop_14S.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/HP_Laptop_14S.jpg/500px-HP_Laptop_14S.jpg",
-    "size": [
-     1280,
-     2836
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "MayankMurthy0606, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "MayankMurthy0606",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "electronics",
-    "shows": "Electronics Engineering Depratment, UET Taxila",
-    "file": "File:Electronics Engineering Depratment, UET Taxila.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Electronics_Engineering_Depratment,_UET_Taxila.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Electronics_Engineering_Depratment%2C_UET_Taxila.jpg/1920px-Electronics_Engineering_Depratment%2C_UET_Taxila.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Electronics_Engineering_Depratment%2C_UET_Taxila.jpg/500px-Electronics_Engineering_Depratment%2C_UET_Taxila.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Asadwarraich, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Asadwarraich",
-    "year": 2016,
-    "how": "catalog"
-   },
-   {
-    "shot": "robotics",
-    "shows": "Robotics Summer School 2023",
-    "file": "File:Robotics Summer School 2023 (1).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Robotics_Summer_School_2023_(1).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Robotics_Summer_School_2023_%281%29.jpg/1920px-Robotics_Summer_School_2023_%281%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Robotics_Summer_School_2023_%281%29.jpg/500px-Robotics_Summer_School_2023_%281%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Giacomo Alessandroni, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Giacomo Alessandroni",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
     "shot": "brain-model",
     "shows": "A close up of a plastic brain model",
     "file": "unsplash:JkAxfH5ktpw",
@@ -165206,16 +164910,335 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@lisaleo?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/JkAxfH5ktpw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8YnJhaW4lMjBtb2RlbHxlbnwxfHx8fDE3OTQ5MDYxNjV8MA"
+   },
+   {
+    "shot": "smart-city",
+    "shows": "2002 MCC smart city-coupe smart and pulse 0.6 (Front)",
+    "file": "File:2002 MCC smart city-coupe smart and pulse 0.6 (Front).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2002_MCC_smart_city-coupe_smart_and_pulse_0.6_(Front).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2002_MCC_smart_city-coupe_smart_and_pulse_0.6_%28Front%29.jpg/1920px-2002_MCC_smart_city-coupe_smart_and_pulse_0.6_%28Front%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2002_MCC_smart_city-coupe_smart_and_pulse_0.6_%28Front%29.jpg/500px-2002_MCC_smart_city-coupe_smart_and_pulse_0.6_%28Front%29.jpg",
+    "size": [
+     1920,
+     1377
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "DieselFordMondeo, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "DieselFordMondeo",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "camera-lens",
+    "shows": "Cat walking over gravel towards the camera looking into the lens, mouth open tongue out.",
+    "file": "wordpress:233220",
+    "page": "https://wordpress.org/photos/photo/5056a673d7/",
+    "url": "https://pd.w.org/2026/07/5056a673d7f1bd451.99692217.jpg",
+    "preview": "https://pd.w.org/2026/07/5056a673d7f1bd451.99692217-768x512.jpg",
+    "size": [
+     5472,
+     3648
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sadie-Michaela Harris on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Sadie-Michaela Harris",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/smhsmh/"
+   },
+   {
+    "shot": "prosthetic-hand",
+    "shows": "Flickr - The U.S. Army - U.S. Army World Class Athlete Program Paralympic",
+    "file": "File:Flickr - The U.S. Army - U.S. Army World Class Athlete Program Paralympic.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Flickr_-_The_U.S._Army_-_U.S._Army_World_Class_Athlete_Program_Paralympic.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flickr_-_The_U.S._Army_-_U.S._Army_World_Class_Athlete_Program_Paralympic.jpg/1280px-Flickr_-_The_U.S._Army_-_U.S._Army_World_Class_Athlete_Program_Paralympic.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flickr_-_The_U.S._Army_-_U.S._Army_World_Class_Athlete_Program_Paralympic.jpg/500px-Flickr_-_The_U.S._Army_-_U.S._Army_World_Class_Athlete_Program_Paralympic.jpg",
+    "size": [
+     1280,
+     1924
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "The U.S. Army, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "The U.S. Army",
+    "year": 2009,
+    "how": "catalog"
+   },
+   {
+    "shot": "mechanical-hand",
+    "shows": "A close up of a clock on a wall",
+    "file": "unsplash:loUQYOnceXs",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-clock-on-a-wall-loUQYOnceXs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723536997794-9509ed5080c6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG1lY2hhbmljYWwlMjBoYW5kfGVufDF8fHx8MTc5NDkyODQ3MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723536997794-9509ed5080c6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG1lY2hhbmljYWwlMjBoYW5kfGVufDF8fHx8MTc5NDkyODQ3MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Eric Prouzet on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Eric Prouzet",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@eprouzet?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/loUQYOnceXs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fG1lY2hhbmljYWwlMjBoYW5kfGVufDF8fHx8MTc5NDkyODQ3MXww"
+   },
+   {
+    "shot": "rgb-keyboard",
+    "shows": "Black and orange computer keyboard",
+    "file": "unsplash:50uD7HzOLW8",
+    "page": "https://unsplash.com/photos/black-and-orange-computer-keyboard-50uD7HzOLW8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1626958390898-162d3577f293?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cmdiJTIwa2V5Ym9hcmR8ZW58MXx8fHwxNzk0OTI4NTc4fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1626958390898-162d3577f293?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cmdiJTIwa2V5Ym9hcmR8ZW58MXx8fHwxNzk0OTI4NTc4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michelle Ding on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michelle Ding",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@michelleding?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/50uD7HzOLW8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cmdiJTIwa2V5Ym9hcmR8ZW58MXx8fHwxNzk0OTI4NTc4fDA"
+   },
+   {
+    "shot": "python-code",
+    "shows": "Python brongersmai, Brongersma's short-tailed python",
+    "file": "File:Python brongersmai, Brongersma's short-tailed python.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Python_brongersmai,_Brongersma%27s_short-tailed_python.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Python_brongersmai%2C_Brongersma%27s_short-tailed_python.jpg/1920px-Python_brongersmai%2C_Brongersma%27s_short-tailed_python.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Python_brongersmai%2C_Brongersma%27s_short-tailed_python.jpg/500px-Python_brongersmai%2C_Brongersma%27s_short-tailed_python.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Rushenb, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Rushenb",
+    "year": 2018,
+    "how": "catalog"
+   },
+   {
+    "shot": "code-editor",
+    "shows": "Black flat screen computer monitor",
+    "file": "unsplash:ZS67i1HLllo",
+    "page": "https://unsplash.com/photos/black-flat-screen-computer-monitor-ZS67i1HLllo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNvZGUlMjBlZGl0b3J8ZW58MXx8fHwxNzk0OTI4NzEyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNvZGUlMjBlZGl0b3J8ZW58MXx8fHwxNzk0OTI4NzEyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Joan Gamell on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Joan Gamell",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gamell?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ZS67i1HLllo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fGNvZGUlMjBlZGl0b3J8ZW58MXx8fHwxNzk0OTI4NzEyfDA"
+   },
+   {
+    "shot": "digital-screen",
+    "shows": "Blue and pink textile on pink surface",
+    "file": "unsplash:FDtJZDU8kws",
+    "page": "https://unsplash.com/photos/blue-and-pink-textile-on-pink-surface-FDtJZDU8kws?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1604355714851-c1d5990e1696?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGlnaXRhbCUyMHNjcmVlbnxlbnwxfHx8fDE3OTQ5Mjg3MTd8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1604355714851-c1d5990e1696?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGlnaXRhbCUyMHNjcmVlbnxlbnwxfHx8fDE3OTQ5Mjg3MTd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1439
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Arno Senoner on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Arno Senoner",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@arnosenoner?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/FDtJZDU8kws/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGlnaXRhbCUyMHNjcmVlbnxlbnwxfHx8fDE3OTQ5Mjg3MTd8MA"
+   },
+   {
+    "shot": "led-wall",
+    "shows": "A dark room with a large screen in the middle of it",
+    "file": "unsplash:gPBiKvpaEi0",
+    "page": "https://unsplash.com/photos/a-dark-room-with-a-large-screen-in-the-middle-of-it-gPBiKvpaEi0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1632477829576-775f9b8c0e35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGxlZCUyMHdhbGx8ZW58MXx8fHwxNzk0OTI4ODE4fDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1632477829576-775f9b8c0e35?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGxlZCUyMHdhbGx8ZW58MXx8fHwxNzk0OTI4ODE4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Artur Kechter on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Artur Kechter",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rtrkchtr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gPBiKvpaEi0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGxlZCUyMHdhbGx8ZW58MXx8fHwxNzk0OTI4ODE4fDA"
+   },
+   {
+    "shot": "computer-lab",
+    "shows": "A group of people working at computers in a brightly lit university workspace",
+    "file": "unsplash:bK5t_WPETow",
+    "page": "https://unsplash.com/photos/people-working-at-university-computer-workspace-bK5t_WPETow?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1569653402334-2e98fbaa80ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29tcHV0ZXIlMjBsYWJ8ZW58MXx8fHwxNzk0OTI4ODY1fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1569653402334-2e98fbaa80ee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29tcHV0ZXIlMjBsYWJ8ZW58MXx8fHwxNzk0OTI4ODY1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by sunrise University on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "sunrise University",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alwarsunrise?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bK5t_WPETow/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y29tcHV0ZXIlMjBsYWJ8ZW58MXx8fHwxNzk0OTI4ODY1fDA"
+   },
+   {
+    "shot": "cpu-chip",
+    "shows": "HP-HP9000-PARISC-PA7300LC-CPU-Chip 04",
+    "file": "File:HP-HP9000-PARISC-PA7300LC-CPU-Chip 04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:HP-HP9000-PARISC-PA7300LC-CPU-Chip_04.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HP-HP9000-PARISC-PA7300LC-CPU-Chip_04.jpg/1920px-HP-HP9000-PARISC-PA7300LC-CPU-Chip_04.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/HP-HP9000-PARISC-PA7300LC-CPU-Chip_04.jpg/500px-HP-HP9000-PARISC-PA7300LC-CPU-Chip_04.jpg",
+    "size": [
+     1920,
+     1359
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Thomas Schanz, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Thomas Schanz",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "voice-assistant",
+    "shows": "Russian Voices Poetry in an Age of Totalitarianism",
+    "file": "File:Russian Voices Poetry in an Age of Totalitarianism (23252203466).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_(23252203466).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_%2823252203466%29.jpg/1920px-Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_%2823252203466%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_%2823252203466%29.jpg/500px-Russian_Voices_Poetry_in_an_Age_of_Totalitarianism_%2823252203466%29.jpg",
+    "size": [
+     1920,
+     1275
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Center for the Study of Europe Boston University from Boston, USA, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Center for the Study of Europe Boston University from Boston, USA",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "laptop",
+    "shows": "Laptop use in bed in 2000s",
+    "file": "File:Laptop use in bed in 2000s.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Laptop_use_in_bed_in_2000s.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Laptop_use_in_bed_in_2000s.jpg/1920px-Laptop_use_in_bed_in_2000s.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Laptop_use_in_bed_in_2000s.jpg/500px-Laptop_use_in_bed_in_2000s.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Yourusernamewillbepublic2, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Yourusernamewillbepublic2",
+    "year": 2009,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "machine-learning",
-   "tech-office",
-   "data-visualization",
+   "robot-figure",
    "chatgpt",
    "openai",
    "smart-home",
-   "computer-screen"
+   "computer-screen",
+   "electronics",
+   "robotics"
   ],
   "checked": "2026-11-17"
  },
@@ -170242,108 +170265,110 @@
     "track_pending": true
    },
    {
-    "shot": "jewelry",
-    "shows": "Traditional Jewelry and Accessories",
-    "file": "File:Traditional Jewelry and Accessories.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Traditional_Jewelry_and_Accessories.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Traditional_Jewelry_and_Accessories.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Traditional_Jewelry_and_Accessories.jpg/500px-Traditional_Jewelry_and_Accessories.jpg",
+    "shot": "safe-deposit-box",
+    "shows": "University National Bank building - safe deposit boxes 03",
+    "file": "File:University National Bank building - safe deposit boxes 03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:University_National_Bank_building_-_safe_deposit_boxes_03.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/University_National_Bank_building_-_safe_deposit_boxes_03.jpg/1920px-University_National_Bank_building_-_safe_deposit_boxes_03.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/University_National_Bank_building_-_safe_deposit_boxes_03.jpg/500px-University_National_Bank_building_-_safe_deposit_boxes_03.jpg",
     "size": [
-     1600,
-     1200
+     1920,
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "পাপৰি বৰা, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Photo by Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "পাপৰি বৰা",
-    "year": 2026,
+    "author": "Photo by Joe Mabel",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "gold-texture",
+    "shows": "A fine textured surface with a uniform metallic gold finish",
+    "file": "unsplash:k4e9DFVQXvY",
+    "page": "https://unsplash.com/photos/metallic-gold-textured-surface-k4e9DFVQXvY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1656055450593-5f9fc1e88b65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGdvbGQlMjB0ZXh0dXJlfGVufDF8fHx8MTc5NDkyODQyMHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1656055450593-5f9fc1e88b65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGdvbGQlMjB0ZXh0dXJlfGVufDF8fHx8MTc5NDkyODQyMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Katie Harp on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Katie Harp",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kharp?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/k4e9DFVQXvY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGdvbGQlMjB0ZXh0dXJlfGVufDF8fHx8MTc5NDkyODQyMHww"
+   },
+   {
+    "shot": "jewelry",
+    "shows": "Mycenaean jewelry and weapons, AM Naxos",
+    "file": "File:Mycenaean jewelry and weapons, AM Naxos, 190492.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mycenaean_jewelry_and_weapons,_AM_Naxos,_190492.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mycenaean_jewelry_and_weapons%2C_AM_Naxos%2C_190492.jpg/1920px-Mycenaean_jewelry_and_weapons%2C_AM_Naxos%2C_190492.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Mycenaean_jewelry_and_weapons%2C_AM_Naxos%2C_190492.jpg/500px-Mycenaean_jewelry_and_weapons%2C_AM_Naxos%2C_190492.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Zde, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Zde",
+    "year": 2019,
     "how": "catalog"
    },
    {
     "shot": "gold-dust",
-    "shows": "Gold dust day gecko at flower-edit1",
-    "file": "File:Gold dust day gecko at flower-edit1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gold_dust_day_gecko_at_flower-edit1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gold_dust_day_gecko_at_flower-edit1.jpg/1280px-Gold_dust_day_gecko_at_flower-edit1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Gold_dust_day_gecko_at_flower-edit1.jpg/500px-Gold_dust_day_gecko_at_flower-edit1.jpg",
+    "shows": "Body of water across sands",
+    "file": "unsplash:Ef7C4bPDL4A",
+    "page": "https://unsplash.com/photos/body-of-water-across-sands-Ef7C4bPDL4A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1490131681458-a08259e7627d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGdvbGQlMjBkdXN0fGVufDF8fHx8MTc5NDg0NTA5N3ww&ixlib=rb-4.1.0&w=2100&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1490131681458-a08259e7627d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGdvbGQlMjBkdXN0fGVufDF8fHx8MTc5NDg0NTA5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1631
+     2100,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Brocken Inaglory ; Edit by jjron, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Brocken Inaglory ; Edit by jjron",
-    "year": 2007,
-    "how": "catalog"
-   },
-   {
-    "shot": "gold-watch",
-    "shows": "Person wearing silver and gold analog watch",
-    "file": "unsplash:2NIAbGMjdR0",
-    "page": "https://unsplash.com/photos/person-wearing-silver-and-gold-analog-watch-2NIAbGMjdR0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1590736969955-71cc94801759?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z29sZCUyMHdhdGNofGVufDF8fHx8MTc5NDg0NTEyNHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1590736969955-71cc94801759?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z29sZCUyMHdhdGNofGVufDF8fHx8MTc5NDg0NTEyNHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     2133
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Laura Chouette on Unsplash",
+    "credit": "Photo by Khamkéo on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Laura Chouette",
-    "year": 2020,
+    "author": "Khamkéo",
+    "year": 2017,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@laurachouette?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/2NIAbGMjdR0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z29sZCUyMHdhdGNofGVufDF8fHx8MTc5NDg0NTEyNHww",
-    "track_pending": true
-   },
-   {
-    "shot": "jewellery",
-    "shows": "Jos Alukkas jewellery, marthadam, kanyakumari District, tamilnadu",
-    "file": "File:Jos Alukkas jewellery, marthadam, kanyakumari District, tamilnadu..jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Jos_Alukkas_jewellery,_marthadam,_kanyakumari_District,_tamilnadu..jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jos_Alukkas_jewellery%2C_marthadam%2C_kanyakumari_District%2C_tamilnadu..jpg/1280px-Jos_Alukkas_jewellery%2C_marthadam%2C_kanyakumari_District%2C_tamilnadu..jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Jos_Alukkas_jewellery%2C_marthadam%2C_kanyakumari_District%2C_tamilnadu..jpg/500px-Jos_Alukkas_jewellery%2C_marthadam%2C_kanyakumari_District%2C_tamilnadu..jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sujithshivam511, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Sujithshivam511",
-    "year": 2025,
-    "how": "catalog"
+    "author_url": "https://unsplash.com/@mahkeo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Ef7C4bPDL4A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fGdvbGQlMjBkdXN0fGVufDF8fHx8MTc5NDg0NTA5N3ww"
    }
   ],
   "missing": [
    "fort-knox",
-   "gold-ore",
-   "gold-price",
    "gold-jewelry-store",
    "jewelry-store",
+   "gold-watch",
+   "jewellery",
    "gold-mining",
    "gold-ore-rock",
    "precious-metal",
@@ -171536,34 +171561,86 @@
    },
    {
     "shot": "opec",
-    "shows": "OPEC headquarters in Vienna",
-    "file": "File:2009 02 18 Wien 057 (51193942660).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2009_02_18_Wien_057_(51193942660).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/2009_02_18_Wien_057_%2851193942660%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2009_02_18_Wien_057_%2851193942660%29.jpg/500px-2009_02_18_Wien_057_%2851193942660%29.jpg",
+    "shows": "OPEC International Seminar - Vienna - 2018",
+    "file": "File:OPEC International Seminar - Vienna - 2018 (42871442812).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:OPEC_International_Seminar_-_Vienna_-_2018_(42871442812).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/OPEC_International_Seminar_-_Vienna_-_2018_%2842871442812%29.jpg/1920px-OPEC_International_Seminar_-_Vienna_-_2018_%2842871442812%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/OPEC_International_Seminar_-_Vienna_-_2018_%2842871442812%29.jpg/500px-OPEC_International_Seminar_-_Vienna_-_2018_%2842871442812%29.jpg",
     "size": [
-     1624,
-     1221
+     1920,
+     1278
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "János Korom Dr. >17 Million views from Wien, Austria, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "János Korom Dr. >17 Million views from Wien, Austria",
-    "year": 2009,
+    "credit": "Bundesministerium für Europa, Integration und Äußeres, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Bundesministerium für Europa, Integration und Äußeres",
+    "year": 2018,
     "how": "catalog"
    },
    {
-    "shot": "oil-field-sunset",
-    "shows": "Huge steam pipes coming out of the Sunset Cogen plant to steam the Midway-Sunset Oil Field ; note pumping units in the background",
-    "file": "File:SteamPipes.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SteamPipes.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SteamPipes.jpg/1920px-SteamPipes.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SteamPipes.jpg/500px-SteamPipes.jpg",
+    "shot": "oil-barrel",
+    "shows": "Yellow and blue trash bin",
+    "file": "unsplash:0VPsd0NAbKk",
+    "page": "https://unsplash.com/photos/yellow-and-blue-trash-bin-0VPsd0NAbKk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1626103083173-8f178ff1bfad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMGJhcnJlbHxlbnwxfHx8fDE3OTQ5Mjg2NjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1626103083173-8f178ff1bfad?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMGJhcnJlbHxlbnwxfHx8fDE3OTQ5Mjg2NjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Valentina Curini on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Valentina Curini",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@valed978?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0VPsd0NAbKk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMGJhcnJlbHxlbnwxfHx8fDE3OTQ5Mjg2NjV8MA"
+   },
+   {
+    "shot": "gas-station-night",
+    "shows": "A gas station lit up at night time",
+    "file": "unsplash:j2Ao7oKJIRI",
+    "page": "https://unsplash.com/photos/a-gas-station-lit-up-at-night-time-j2Ao7oKJIRI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1649000620030-cebc3f181e5e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Z2FzJTIwc3RhdGlvbiUyMG5pZ2h0fGVufDF8fHx8MTc5NDkyODcxNnww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1649000620030-cebc3f181e5e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Z2FzJTIwc3RhdGlvbiUyMG5pZ2h0fGVufDF8fHx8MTc5NDkyODcxNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Michal Hajtas on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Michal Hajtas",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@michalhajtas?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/j2Ao7oKJIRI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Z2FzJTIwc3RhdGlvbiUyMG5pZ2h0fGVufDF8fHx8MTc5NDkyODcxNnww"
+   },
+   {
+    "shot": "oil-tank",
+    "shows": "Oil depot on Reykjavik port 7",
+    "file": "File:Oil depot on Reykjavik port 7.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oil_depot_on_Reykjavik_port_7.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oil_depot_on_Reykjavik_port_7.jpg/1920px-Oil_depot_on_Reykjavik_port_7.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Oil_depot_on_Reykjavik_port_7.jpg/500px-Oil_depot_on_Reykjavik_port_7.jpg",
     "size": [
      1920,
      1440
@@ -171572,64 +171649,18 @@
      0.5,
      0.5
     ],
-    "credit": "Antandrus at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Antandrus at English Wikipedia",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
-    "shot": "petrochemical-plant",
-    "shows": "Cologne Germany Maintenance-work-in-petrochemical-plant-01",
-    "file": "File:Cologne Germany Maintenance-work-in-petrochemical-plant-01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cologne_Germany_Maintenance-work-in-petrochemical-plant-01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cologne_Germany_Maintenance-work-in-petrochemical-plant-01.jpg/1280px-Cologne_Germany_Maintenance-work-in-petrochemical-plant-01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Cologne_Germany_Maintenance-work-in-petrochemical-plant-01.jpg/500px-Cologne_Germany_Maintenance-work-in-petrochemical-plant-01.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "CEphoto, Uwe Aranas",
-    "year": 2010,
-    "how": "catalog"
-   },
-   {
-    "shot": "crude-oil-tanker",
-    "shows": "WHITE TRADER Crude Oil Tanker, Bosphorus Strait, Istanbul, Turkiye (Ank Kumar, Infosys Limited) 01",
-    "file": "File:WHITE TRADER Crude Oil Tanker, Bosphorus Strait, Istanbul, Turkiye (Ank Kumar, Infosys Limited) 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:WHITE_TRADER_Crude_Oil_Tanker,_Bosphorus_Strait,_Istanbul,_Turkiye_(Ank_Kumar,_Infosys_Limited)_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WHITE_TRADER_Crude_Oil_Tanker%2C_Bosphorus_Strait%2C_Istanbul%2C_Turkiye_%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg/1920px-WHITE_TRADER_Crude_Oil_Tanker%2C_Bosphorus_Strait%2C_Istanbul%2C_Turkiye_%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/WHITE_TRADER_Crude_Oil_Tanker%2C_Bosphorus_Strait%2C_Istanbul%2C_Turkiye_%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg/500px-WHITE_TRADER_Crude_Oil_Tanker%2C_Bosphorus_Strait%2C_Istanbul%2C_Turkiye_%28Ank_Kumar%2C_Infosys_Limited%29_01.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ank Kumar",
-    "year": 2014,
+    "credit": "Syced, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Syced",
+    "year": 2006,
     "how": "catalog"
    }
   ],
   "missing": [
-   "diesel-pump",
-   "oil-and-gas",
+   "gasoline",
+   "pipeline",
    "oil-terminal",
    "fuel-nozzle",
    "gas-prices",
@@ -172840,103 +172871,106 @@
    },
    {
     "shot": "made-in-china",
-    "shows": "Made In China Charger (With Lighting)",
-    "file": "File:Made In China Charger (With Lighting).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Made_In_China_Charger_(With_Lighting).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Made_In_China_Charger_%28With_Lighting%29.jpg/1920px-Made_In_China_Charger_%28With_Lighting%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Made_In_China_Charger_%28With_Lighting%29.jpg/500px-Made_In_China_Charger_%28With_Lighting%29.jpg",
+    "shows": "Infrared forehead thermometer, made in China",
+    "file": "File:Infrared forehead thermometer, made in China.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Infrared_forehead_thermometer,_made_in_China.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Infrared_forehead_thermometer%2C_made_in_China.jpg/1280px-Infrared_forehead_thermometer%2C_made_in_China.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Infrared_forehead_thermometer%2C_made_in_China.jpg/500px-Infrared_forehead_thermometer%2C_made_in_China.jpg",
     "size": [
-     1920,
-     1079
+     1280,
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "RENATO20303, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "RENATO20303",
-    "year": 2020,
+    "credit": "Syced, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Syced",
+    "year": 2022,
     "how": "catalog"
    },
    {
     "shot": "trucks-highway",
-    "shows": "3216Novaliches Quezon City Quirino Highway 14",
-    "file": "File:3216Novaliches Quezon City Quirino Highway 14.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:3216Novaliches_Quezon_City_Quirino_Highway_14.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/3216Novaliches_Quezon_City_Quirino_Highway_14.jpg/1920px-3216Novaliches_Quezon_City_Quirino_Highway_14.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/3216Novaliches_Quezon_City_Quirino_Highway_14.jpg/500px-3216Novaliches_Quezon_City_Quirino_Highway_14.jpg",
+    "shows": "Ford F650 4X4 Truck - Flickr - Highway Patrol Images",
+    "file": "File:Ford F650 4X4 Truck - Flickr - Highway Patrol Images.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ford_F650_4X4_Truck_-_Flickr_-_Highway_Patrol_Images.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Ford_F650_4X4_Truck_-_Flickr_-_Highway_Patrol_Images.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ford_F650_4X4_Truck_-_Flickr_-_Highway_Patrol_Images.jpg/500px-Ford_F650_4X4_Truck_-_Flickr_-_Highway_Patrol_Images.jpg",
     "size": [
-     1920,
-     1440
+     1600,
+     1200
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Judgefloro, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Judgefloro",
-    "year": 2019,
+    "credit": "Highway Patrol Images, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Highway Patrol Images",
+    "year": 2008,
     "how": "catalog"
    },
    {
     "shot": "global-trade",
-    "shows": "Taipei World Trade Center International Trade Building and Keelung Road",
-    "file": "File:Taipei World Trade Center International Trade Building and Keelung Road 20100721.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Taipei_World_Trade_Center_International_Trade_Building_and_Keelung_Road_20100721.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Taipei_World_Trade_Center_International_Trade_Building_and_Keelung_Road_20100721.jpg/1920px-Taipei_World_Trade_Center_International_Trade_Building_and_Keelung_Road_20100721.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Taipei_World_Trade_Center_International_Trade_Building_and_Keelung_Road_20100721.jpg/500px-Taipei_World_Trade_Center_International_Trade_Building_and_Keelung_Road_20100721.jpg",
+    "shows": "2021 Ronald Reagan Building and International Trade Center",
+    "file": "File:2021 Ronald Reagan Building and International Trade Center.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2021_Ronald_Reagan_Building_and_International_Trade_Center.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/2021_Ronald_Reagan_Building_and_International_Trade_Center.jpg/1920px-2021_Ronald_Reagan_Building_and_International_Trade_Center.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/2021_Ronald_Reagan_Building_and_International_Trade_Center.jpg/500px-2021_Ronald_Reagan_Building_and_International_Trade_Center.jpg",
     "size": [
      1920,
-     1279
+     1316
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Lord Koxinga, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
+    "credit": "Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Lord Koxinga",
-    "year": 2010,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Beyond My Ken",
+    "year": 2021,
     "how": "catalog"
    },
    {
     "shot": "import",
-    "shows": "Import Export 0358",
-    "file": "File:Import Export 0358.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Import_Export_0358.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Import_Export_0358.jpg/1920px-Import_Export_0358.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Import_Export_0358.jpg/500px-Import_Export_0358.jpg",
+    "shows": "Egyprische Import doos cigaretten",
+    "file": "File:Egyprische Import doos cigaretten.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Egyprische_Import_doos_cigaretten.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Egyprische_Import_doos_cigaretten.JPG/1920px-Egyprische_Import_doos_cigaretten.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Egyprische_Import_doos_cigaretten.JPG/500px-Egyprische_Import_doos_cigaretten.JPG",
     "size": [
      1920,
-     1280
+     1574
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Henning Schlottmann (User: H-stt), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Henning Schlottmann (User: H-stt)",
-    "year": 2019,
-    "how": "catalog"
+    "credit": "Alf van Beem, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Alf van Beem",
+    "year": 2014,
+    "how": "catalog",
+    "flags": [
+     "restrictions: trademarked"
+    ]
    },
    {
     "shot": "freight",
-    "shows": "Freight transportation by road on truck",
-    "file": "File:Freight transportation by road on truck.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Freight_transportation_by_road_on_truck.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Freight_transportation_by_road_on_truck.jpg/1920px-Freight_transportation_by_road_on_truck.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Freight_transportation_by_road_on_truck.jpg/500px-Freight_transportation_by_road_on_truck.jpg",
+    "shows": "Freight cars going by",
+    "file": "File:Freight cars going by.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Freight_cars_going_by.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Freight_cars_going_by.jpg/1920px-Freight_cars_going_by.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Freight_cars_going_by.jpg/500px-Freight_cars_going_by.jpg",
     "size": [
      1920,
      1285
@@ -172950,7 +172984,7 @@
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Sneha G Gupta",
-    "year": 2015,
+    "year": 2016,
     "how": "catalog"
    }
   ],
@@ -172982,7 +173016,11 @@
    "cargo-port",
    "freight-truck",
    "port-aerial",
-   "cargo-containers"
+   "cargo-containers",
+   "dock",
+   "port-night",
+   "cargo-vessel",
+   "quay"
   ],
   "checked": "2026-11-17"
  },
@@ -179306,152 +179344,6 @@
     "track_pending": true
    },
    {
-    "shot": "coins-stack",
-    "shows": "Stack Mould for Copper Coins 02",
-    "file": "File:Stack Mould for Copper Coins 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stack_Mould_for_Copper_Coins_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stack_Mould_for_Copper_Coins_02.jpg/1920px-Stack_Mould_for_Copper_Coins_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Stack_Mould_for_Copper_Coins_02.jpg/500px-Stack_Mould_for_Copper_Coins_02.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Gary Lee Todd, Ph.D., CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Gary Lee Todd, Ph.D.",
-    "year": 2010,
-    "how": "catalog"
-   },
-   {
-    "shot": "notebook-pen",
-    "shows": "An open notebook with lined pages and a ballpoint pen above it",
-    "file": "unsplash:IZj7vckPGiw",
-    "page": "https://unsplash.com/photos/notebook-and-pen-on-white-IZj7vckPGiw?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1591195852468-03a01d1375d6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bm90ZWJvb2slMjBwZW58ZW58MXx8fHwxNzk0OTIxMDY0fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1591195852468-03a01d1375d6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bm90ZWJvb2slMjBwZW58ZW58MXx8fHwxNzk0OTIxMDY0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2251,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by engin akyurt on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "engin akyurt",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@enginakyurt?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/IZj7vckPGiw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8bm90ZWJvb2slMjBwZW58ZW58MXx8fHwxNzk0OTIxMDY0fDA",
-    "track_pending": true
-   },
-   {
-    "shot": "office-night",
-    "shows": "Man working late at a dimly lit office desk",
-    "file": "unsplash:l12wb6pAzuQ",
-    "page": "https://unsplash.com/photos/man-working-late-at-a-dimly-lit-office-desk-l12wb6pAzuQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1758520145147-c30bc656f314?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8b2ZmaWNlJTIwbmlnaHR8ZW58MXx8fHwxNzk0OTIxMTExfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1758520145147-c30bc656f314?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8b2ZmaWNlJTIwbmlnaHR8ZW58MXx8fHwxNzk0OTIxMTExfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2400,
-     1350
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Vitaly Gariev on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Vitaly Gariev",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@silverkblack?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/l12wb6pAzuQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8b2ZmaWNlJTIwbmlnaHR8ZW58MXx8fHwxNzk0OTIxMTExfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "corporate-office",
-    "shows": "Cummins Corporate Office Building - April 2008 - Holly Higgins 02",
-    "file": "File:Cummins Corporate Office Building - April 2008 - Holly Higgins 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_02.jpg/1920px-Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_02.jpg/500px-Cummins_Corporate_Office_Building_-_April_2008_-_Holly_Higgins_02.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Holly Higgins, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Holly Higgins",
-    "year": 2008,
-    "how": "catalog"
-   },
-   {
-    "shot": "glass-building",
-    "shows": "Saint Mary of the Assumption Parish (Springboro, Ohio) - stained-glass, Adoration by the Shepherds detail 2",
-    "file": "File:Saint Mary of the Assumption Parish (Springboro, Ohio) - stained-glass, Adoration by the Shepherds detail 2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Saint_Mary_of_the_Assumption_Parish_(Springboro,_Ohio)_-_stained-glass,_Adoration_by_the_Shepherds_detail_2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Saint_Mary_of_the_Assumption_Parish_%28Springboro%2C_Ohio%29_-_stained-glass%2C_Adoration_by_the_Shepherds_detail_2.jpg/1920px-Saint_Mary_of_the_Assumption_Parish_%28Springboro%2C_Ohio%29_-_stained-glass%2C_Adoration_by_the_Shepherds_detail_2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Saint_Mary_of_the_Assumption_Parish_%28Springboro%2C_Ohio%29_-_stained-glass%2C_Adoration_by_the_Shepherds_detail_2.jpg/500px-Saint_Mary_of_the_Assumption_Parish_%28Springboro%2C_Ohio%29_-_stained-glass%2C_Adoration_by_the_Shepherds_detail_2.jpg",
-    "size": [
-     1920,
-     1540
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nheyob, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Nheyob",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "calculator-money",
-    "shows": "Euro Changeover Board of Ireland calculator 3",
-    "file": "File:Euro Changeover Board of Ireland calculator 3.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Euro_Changeover_Board_of_Ireland_calculator_3.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Euro_Changeover_Board_of_Ireland_calculator_3.jpg/1920px-Euro_Changeover_Board_of_Ireland_calculator_3.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Euro_Changeover_Board_of_Ireland_calculator_3.jpg/500px-Euro_Changeover_Board_of_Ireland_calculator_3.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ZICO, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "ZICO",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
     "shot": "boardroom-table",
     "shows": "Elegant boardroom (Unsplash)",
     "file": "File:Elegant boardroom (Unsplash).jpg",
@@ -179475,37 +179367,187 @@
     "how": "catalog"
    },
    {
-    "shot": "office-desk",
-    "shows": "Biedermeier Cylinder Desk closed",
-    "file": "File:Biedermeier Cylinder Desk closed.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Biedermeier_Cylinder_Desk_closed.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Biedermeier_Cylinder_Desk_closed.jpg/1920px-Biedermeier_Cylinder_Desk_closed.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Biedermeier_Cylinder_Desk_closed.jpg/500px-Biedermeier_Cylinder_Desk_closed.jpg",
+    "shot": "financial-district",
+    "shows": "Walking in the Financial District",
+    "file": "File:Walking in the Financial District (2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Walking_in_the_Financial_District_(2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Walking_in_the_Financial_District_%282%29.jpg/1280px-Walking_in_the_Financial_District_%282%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Walking_in_the_Financial_District_%282%29.jpg/500px-Walking_in_the_Financial_District_%282%29.jpg",
     "size": [
-     1920,
-     2049
+     1280,
+     1700
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tangerineduel, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Ferfive, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Ferfive",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "dollar",
+    "shows": "Burnside House, Dollar - geograph.org.uk",
+    "file": "File:Burnside House, Dollar - geograph.org.uk - 7164904.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Burnside_House,_Dollar_-_geograph.org.uk_-_7164904.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burnside_House%2C_Dollar_-_geograph.org.uk_-_7164904.jpg/1920px-Burnside_House%2C_Dollar_-_geograph.org.uk_-_7164904.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Burnside_House%2C_Dollar_-_geograph.org.uk_-_7164904.jpg/500px-Burnside_House%2C_Dollar_-_geograph.org.uk_-_7164904.jpg",
+    "size": [
+     1920,
+     1438
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "M J Richardson, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "M J Richardson",
+    "year": 2022,
+    "how": "catalog"
+   },
+   {
+    "shot": "money-stack",
+    "shows": "Stack at Sea",
+    "file": "File:Stack at Sea.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stack_at_Sea.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stack_at_Sea.jpg/1920px-Stack_at_Sea.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Stack_at_Sea.jpg/500px-Stack_at_Sea.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Edward Middleton, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tangerineduel",
-    "year": 2020,
+    "author": "Edward Middleton",
+    "year": 2019,
     "how": "catalog"
+   },
+   {
+    "shot": "calendar",
+    "shows": "A calendar with red push buttons pinned to it",
+    "file": "unsplash:bwOAixLG0uc",
+    "page": "https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXJ8ZW58MXx8fHwxNzk0OTI4OTg2fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1633526543814-9718c8922b7a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXJ8ZW58MXx8fHwxNzk0OTI4OTg2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Towfiqu barbhuiya on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Towfiqu barbhuiya",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@towfiqu999999?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bwOAixLG0uc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2FsZW5kYXJ8ZW58MXx8fHwxNzk0OTI4OTg2fDA"
+   },
+   {
+    "shot": "planner",
+    "shows": "A planner with two pens sitting on top of it",
+    "file": "unsplash:cdDDWLezAJ0",
+    "page": "https://unsplash.com/photos/a-planner-with-two-pens-sitting-on-top-of-it-cdDDWLezAJ0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1632772998001-cc9bf6f7c852?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGxhbm5lcnxlbnwxfHx8fDE3OTQ5MjkwOTF8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1632772998001-cc9bf6f7c852?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGxhbm5lcnxlbnwxfHx8fDE3OTQ5MjkwOTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by 2H Media on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "2H Media",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@2hmedia?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/cdDDWLezAJ0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cGxhbm5lcnxlbnwxfHx8fDE3OTQ5MjkwOTF8MA"
+   },
+   {
+    "shot": "sticky-notes",
+    "shows": "Yellow sticky notes on white wall",
+    "file": "unsplash:Vq1FQ_uNppw",
+    "page": "https://unsplash.com/photos/yellow-sticky-notes-on-white-wall-Vq1FQ_uNppw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1580934174026-8142803ebb5b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RpY2t5JTIwbm90ZXN8ZW58MXx8fHwxNzk0OTI5MTQ3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1580934174026-8142803ebb5b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RpY2t5JTIwbm90ZXN8ZW58MXx8fHwxNzk0OTI5MTQ3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Paper Textures on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Paper Textures",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@inthemakingstudio?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Vq1FQ_uNppw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RpY2t5JTIwbm90ZXN8ZW58MXx8fHwxNzk0OTI5MTQ3fDA"
+   },
+   {
+    "shot": "pen-paper",
+    "shows": "Red pen on white paper",
+    "file": "unsplash:y3Tl-cbU-CU",
+    "page": "https://unsplash.com/photos/red-pen-on-white-paper-y3Tl-cbU-CU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1580127645995-d43fe9598711?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHBlbiUyMHBhcGVyfGVufDF8fHx8MTc5NDkzMTg4Mnww&ixlib=rb-4.1.0&w=2278&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1580127645995-d43fe9598711?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHBlbiUyMHBhcGVyfGVufDF8fHx8MTc5NDkzMTg4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2278,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Digital Content Writers India on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Digital Content Writers India",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@digitalcontentwritersindia?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/y3Tl-cbU-CU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHBlbiUyMHBhcGVyfGVufDF8fHx8MTc5NDkzMTg4Mnww"
    }
   ],
   "missing": [
-   "finance",
-   "budget",
-   "cash",
-   "paperwork",
-   "market-data",
-   "financial-chart",
+   "investment",
+   "hundred-dollar-bills",
+   "ipad-chart",
+   "business",
+   "economy",
    "trading-screen",
+   "office-desk",
    "business-documents",
    "computer-screen"
   ],
