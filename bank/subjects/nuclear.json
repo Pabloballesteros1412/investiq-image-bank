@@ -723,22 +723,38 @@
    "source": "https://unsplash.com/photos/power-lines-silhouetted-at-sunset-Q4CTTc-8lGQ?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Sunlight over clouds",
-   "url": "https://images.unsplash.com/photo-1508012340316-cdf9d309cea0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2F0dGVub218ZW58MXx8fHwxNzk0OTQyNTI2fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1508012340316-cdf9d309cea0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2F0dGVub218ZW58MXx8fHwxNzk0OTQyNTI2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "shows": "De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3862%29.jpg/1920px-De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3862%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3862%29.jpg/500px-De_Molen_%28windmill%29_and_the_nuclear_power_plant_cooling_tower_in_Doel%2C_Belgium_%28DSCF3862%29.jpg",
    "size": [
-    2400,
-    1350
+    1920,
+    1325
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by Johny Goerend on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@johnygoerend?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/sunlight-over-clouds-pbns0n5xt1o?utm_source=investiq_image_bank&utm_medium=referral"
+   "credit": "Trougnouf, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3862).jpg"
+  },
+  {
+   "shows": "Tricastin Nuclear Power Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tricastin_Nuclear_Power_Plant.jpg/1920px-Tricastin_Nuclear_Power_Plant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tricastin_Nuclear_Power_Plant.jpg/500px-Tricastin_Nuclear_Power_Plant.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MeneerTijn, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tricastin_Nuclear_Power_Plant.jpg"
   }
  ]
 }
