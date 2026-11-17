@@ -11,8 +11,8 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
- "updated": "2026-11-16",
- "photos": 6081,
+ "updated": "2026-11-17",
+ "photos": 6135,
  "subjects": [
   {
    "id": "MMM",
@@ -8004,7 +8004,7 @@
    "aliases": [
     "information technology"
    ],
-   "photos": 45,
+   "photos": 46,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-tech.json"
   },
@@ -8028,7 +8028,7 @@
    "aliases": [
     "financials"
    ],
-   "photos": 44,
+   "photos": 45,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-financials.json"
   },
@@ -8088,7 +8088,7 @@
    "aliases": [
     "energy"
    ],
-   "photos": 44,
+   "photos": 48,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-energy.json"
   },
@@ -8140,7 +8140,7 @@
     "rate cut",
     "rate hike"
    ],
-   "photos": 44,
+   "photos": 45,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/fed.json"
   },
@@ -8155,7 +8155,7 @@
     "prices",
     "cost of living"
    ],
-   "photos": 41,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/inflation.json"
   },
@@ -8170,7 +8170,7 @@
     "downturn",
     "gdp"
    ],
-   "photos": 43,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/recession.json"
   },
@@ -8186,7 +8186,7 @@
     "payrolls",
     "labor"
    ],
-   "photos": 44,
+   "photos": 45,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/jobs.json"
   },
@@ -8203,7 +8203,7 @@
     "s&p 500",
     "record high"
    ],
-   "photos": 41,
+   "photos": 45,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bull-market.json"
   },
@@ -8236,7 +8236,7 @@
     "llm",
     "chatbot"
    ],
-   "photos": 33,
+   "photos": 35,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ai.json"
   },
@@ -8253,7 +8253,7 @@
     "grid",
     "capex"
    ],
-   "photos": 41,
+   "photos": 42,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/datacenters.json"
   },
@@ -8284,7 +8284,7 @@
     "ethereum",
     "btc"
    ],
-   "photos": 41,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/crypto.json"
   },
@@ -8314,7 +8314,7 @@
     "brent",
     "wti"
    ],
-   "photos": 41,
+   "photos": 46,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/oil.json"
   },
@@ -8379,7 +8379,7 @@
     "deficit",
     "10-year"
    ],
-   "photos": 44,
+   "photos": 45,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bonds.json"
   },
@@ -8426,7 +8426,7 @@
     "initial public offering",
     "going public"
    ],
-   "photos": 43,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ipo.json"
   },
@@ -8441,7 +8441,7 @@
     "electric cars",
     "batteries"
    ],
-   "photos": 42,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ev.json"
   },
@@ -8456,7 +8456,7 @@
     "smr",
     "nuclear power"
    ],
-   "photos": 31,
+   "photos": 34,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
   },
@@ -8505,7 +8505,7 @@
     "regional banks",
     "credit"
    ],
-   "photos": 40,
+   "photos": 43,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/banks.json"
   },
@@ -8523,7 +8523,7 @@
     "compound interest",
     "401k"
    ],
-   "photos": 43,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/investing.json"
   },
@@ -8572,7 +8572,7 @@
     "president",
     "shutdown"
    ],
-   "photos": 43,
+   "photos": 44,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/politics.json"
   },
@@ -8603,7 +8603,7 @@
     "quantum computing",
     "quantum computer"
    ],
-   "photos": 29,
+   "photos": 33,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/quantum.json"
   },
@@ -8618,7 +8618,7 @@
     "automation",
     "humanoid"
    ],
-   "photos": 46,
+   "photos": 47,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/robotics.json"
   },
@@ -8682,7 +8682,7 @@
     "mining",
     "commodities"
    ],
-   "photos": 41,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/metals.json"
   },
@@ -8698,7 +8698,7 @@
     "hotels",
     "cruises"
    ],
-   "photos": 46,
+   "photos": 47,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/travel.json"
   },

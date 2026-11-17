@@ -285,6 +285,14 @@ Decisions (Pablo, 4 Nov 2026):
 - **Merged into main (17 Nov, PR #11)**: 6,081 published photos: companies 3,969, topics 1,599 (average 43.2), sectors
   513 (average 46.6); 4 of 48 at 50. Thinnest: quantum 29, nuclear 31, ai 33, earnings 38, banks 40. Each pass now
   adds only ~20-40. 318 Unsplash download counts pending.
+- **Round 9, refill 9** (17 Nov): 241 short searches in the 23 thinnest topics (four container restarts cut pieces;
+  nothing lost); graded stock 16 of 60 grade 3, Commons 9 of 148. Then refill 9 of the 44 below 50 from the cache
+  (stock 15 of 54, Commons 8 of 202; subagent grade 3s lowered: orange juice for materials, a pasta shelf with one
+  brand front and centre, a second view of a tower already graded 2). Word matches seen: mint for "fed", a geyser
+  for "steam plume", a Transformers statue, gold coins for crypto, a Botox vial for GLP-1, Old Faithful for nuclear.
+- **Merged into main (17 Nov, PR #12)**: 6,135 published photos: companies 3,969, topics 1,647 (average 44.5), sectors
+  519 (average 47.2); 5 of 48 at 50. Thinnest: quantum 33, nuclear 34, ai 35, earnings 38, chips 41, datacenters 42.
+  324 Unsplash download counts pending. Next: round 10 (212 searches in 18 topics, `new_r10.json` in the scratchpad).
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
