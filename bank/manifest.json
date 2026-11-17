@@ -156094,8 +156094,7 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@juliazolotova?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/KHhhpr8_GAs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGdsYXNzfGVufDF8fHx8MTc5NDcwMTg1Mnww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/KHhhpr8_GAs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fGdsYXNzfGVufDF8fHx8MTc5NDcwMTg1Mnww"
    },
    {
     "shot": "pulp",
@@ -185774,29 +185773,6 @@
     "track_pending": true
    },
    {
-    "shot": "grocery-store",
-    "shows": "Grocery Store display-1979-15",
-    "file": "File:Grocery Store display-1979-15.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Grocery_Store_display-1979-15.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grocery_Store_display-1979-15.jpg/1920px-Grocery_Store_display-1979-15.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Grocery_Store_display-1979-15.jpg/500px-Grocery_Store_display-1979-15.jpg",
-    "size": [
-     1920,
-     1292
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Gary Hoover, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Gary Hoover",
-    "year": 1979,
-    "how": "catalog"
-   },
-   {
     "shot": "cash-register",
     "shows": "Antique cash register with ornate details on display",
     "file": "unsplash:xIjLMMs1n8Y",
@@ -185824,78 +185800,107 @@
     "track_pending": true
    },
    {
-    "shot": "wallet",
-    "shows": "ZNAP Kartenetui (Slimpuro) 04",
-    "file": "File:ZNAP Kartenetui (Slimpuro) 04.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ZNAP_Kartenetui_(Slimpuro)_04.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ZNAP_Kartenetui_%28Slimpuro%29_04.jpg/1920px-ZNAP_Kartenetui_%28Slimpuro%29_04.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/ZNAP_Kartenetui_%28Slimpuro%29_04.jpg/500px-ZNAP_Kartenetui_%28Slimpuro%29_04.jpg",
+    "shot": "shopping-basket",
+    "shows": "Basket of the London Nintendo Pop-Up Store - November 2025",
+    "file": "File:Basket of the London Nintendo Pop-Up Store - November 2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Basket_of_the_London_Nintendo_Pop-Up_Store_-_November_2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Basket_of_the_London_Nintendo_Pop-Up_Store_-_November_2025.jpg/1920px-Basket_of_the_London_Nintendo_Pop-Up_Store_-_November_2025.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Basket_of_the_London_Nintendo_Pop-Up_Store_-_November_2025.jpg/500px-Basket_of_the_London_Nintendo_Pop-Up_Store_-_November_2025.jpg",
     "size": [
      1920,
-     1440
+     1081
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "www.kartenetui.info, CC BY 4.0, via Wikimedia Commons",
+    "credit": "Captain Galaxy, CC BY 4.0, via Wikimedia Commons",
     "licence": "CC BY 4.0",
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "www.kartenetui.info",
-    "year": 2020,
+    "author": "Captain Galaxy",
+    "year": 2025,
     "how": "catalog"
    },
    {
-    "shot": "credit-card",
-    "shows": "Carte bancaire Visa",
-    "file": "File:Carte bancaire Visa.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Carte_bancaire_Visa.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Carte_bancaire_Visa.jpg/1920px-Carte_bancaire_Visa.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Carte_bancaire_Visa.jpg/500px-Carte_bancaire_Visa.jpg",
+    "shot": "store-aisle",
+    "shows": "Self-serve aisle in IKEA Torp Uddevalla - Cinematic edit",
+    "file": "File:Self-serve aisle in IKEA Torp Uddevalla - Cinematic edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Self-serve_aisle_in_IKEA_Torp_Uddevalla_-_Cinematic_edit.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Self-serve_aisle_in_IKEA_Torp_Uddevalla_-_Cinematic_edit.jpg/1280px-Self-serve_aisle_in_IKEA_Torp_Uddevalla_-_Cinematic_edit.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Self-serve_aisle_in_IKEA_Torp_Uddevalla_-_Cinematic_edit.jpg/500px-Self-serve_aisle_in_IKEA_Torp_Uddevalla_-_Cinematic_edit.jpg",
     "size": [
-     1920,
-     1240
+     1280,
+     1779
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Bpierreb, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Bpierreb",
-    "year": 2021,
+    "credit": "W.carter, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "W.carter",
+    "year": 2018,
     "how": "catalog"
    },
    {
-    "shot": "price-tag",
-    "shows": "Münster, Wochenmarkt -- 2017 -- 2358",
-    "file": "File:Münster, Wochenmarkt -- 2017 -- 2358.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Wochenmarkt_--_2017_--_2358.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/M%C3%BCnster%2C_Wochenmarkt_--_2017_--_2358.jpg/1920px-M%C3%BCnster%2C_Wochenmarkt_--_2017_--_2358.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/M%C3%BCnster%2C_Wochenmarkt_--_2017_--_2358.jpg/500px-M%C3%BCnster%2C_Wochenmarkt_--_2017_--_2358.jpg",
+    "shot": "mall-shopping",
+    "shows": "A group of people walking inside of a shopping mall",
+    "file": "unsplash:qq2YzwwH-1U",
+    "page": "https://unsplash.com/photos/a-group-of-people-walking-inside-of-a-shopping-mall-qq2YzwwH-1U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1643841370871-146b51aa4cca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bWFsbCUyMHNob3BwaW5nfGVufDF8fHx8MTc5NDkyNDk0MHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1643841370871-146b51aa4cca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bWFsbCUyMHNob3BwaW5nfGVufDF8fHx8MTc5NDkyNDk0MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dietmar Rabich",
-    "year": 2017,
-    "how": "catalog"
+    "credit": "Photo by Korng Sok on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Korng Sok",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@korng_sok?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qq2YzwwH-1U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8bWFsbCUyMHNob3BwaW5nfGVufDF8fHx8MTc5NDkyNDk0MHww"
+   },
+   {
+    "shot": "retail-shelves",
+    "shows": "Skincare products displayed on shelves in a retail store",
+    "file": "unsplash:8sCPn-RKKNE",
+    "page": "https://unsplash.com/photos/skincare-products-displayed-on-shelves-in-a-retail-store-8sCPn-RKKNE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1757800945999-ed0fa905d0f5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1757800945999-ed0fa905d0f5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1508
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8sCPn-RKKNE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA"
    }
   ],
   "missing": [
-   "groceries",
-   "receipt",
+   "sale-sign",
+   "supermarket-checkout",
    "mall-escalator",
    "fashion",
    "customer",
