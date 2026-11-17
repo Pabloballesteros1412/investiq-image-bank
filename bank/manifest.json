@@ -159936,8 +159936,7 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@purzlbaum?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/KcPK_kzqWC8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2FsZSUyMHNpZ258ZW58MXx8fHwxNzk0ODAyMzQ2fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/KcPK_kzqWC8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c2FsZSUyMHNpZ258ZW58MXx8fHwxNzk0ODAyMzQ2fDA"
    },
    {
     "shot": "declining-chart",
@@ -160009,8 +160008,7 @@
     "how": "catalog",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@by_syeoni?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/HCDugQDdtfc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cmFpbiUyMHdpbmRvd3xlbnwxfHx8fDE3OTQ4OTI0NDB8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/HCDugQDdtfc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8cmFpbiUyMHdpbmRvd3xlbnwxfHx8fDE3OTQ4OTI0NDB8MA"
    }
   ],
   "missing": [
@@ -183097,84 +183095,6 @@
     "track": "https://api.unsplash.com/photos/_EFvjSgbw1c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjl8fGluZHVzdHJpYWx8ZW58MXx8fHwxNzk0NjA3NTMyfDA"
    },
    {
-    "shot": "factory-chimney",
-    "shows": "Grayscale photo of bare trees",
-    "file": "unsplash:jTSWzF0WTnM",
-    "page": "https://unsplash.com/photos/grayscale-photo-of-bare-trees-jTSWzF0WTnM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1630364283279-785bedf8ee1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGZhY3RvcnklMjBjaGltbmV5fGVufDF8fHx8MTc5NDc0MDkxM3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1630364283279-785bedf8ee1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGZhY3RvcnklMjBjaGltbmV5fGVufDF8fHx8MTc5NDc0MDkxM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1804
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Philippe Murray-Pietsch on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Philippe Murray-Pietsch",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@pmpietsch?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/jTSWzF0WTnM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fGZhY3RvcnklMjBjaGltbmV5fGVufDF8fHx8MTc5NDc0MDkxM3ww"
-   },
-   {
-    "shot": "smoke-stack",
-    "shows": "White smoke coming out from brown metal pipe",
-    "file": "unsplash:MQ6KtSsfgIc",
-    "page": "https://unsplash.com/photos/white-smoke-coming-out-from-brown-metal-pipe-MQ6KtSsfgIc?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1517065214538-bf49dffab677?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c21va2UlMjBzdGFja3xlbnwxfHx8fDE3OTQ5MjQ4NjB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1517065214538-bf49dffab677?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c21va2UlMjBzdGFja3xlbnwxfHx8fDE3OTQ5MjQ4NjB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Patrick Hendry on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Patrick Hendry",
-    "year": 2018,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@worldsbetweenlines?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/MQ6KtSsfgIc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8c21va2UlMjBzdGFja3xlbnwxfHx8fDE3OTQ5MjQ4NjB8MA"
-   },
-   {
-    "shot": "concrete-tower",
-    "shows": "Grayscale photography of concrete tower",
-    "file": "unsplash:OjdR0mn9xPA",
-    "page": "https://unsplash.com/photos/grayscale-photography-of-concrete-tower-OjdR0mn9xPA?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1515424408177-7b2c508d6114?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29uY3JldGUlMjB0b3dlcnxlbnwxfHx8fDE3OTQ5MjQ5MTZ8MA&ixlib=rb-4.1.0&w=1826&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1515424408177-7b2c508d6114?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29uY3JldGUlMjB0b3dlcnxlbnwxfHx8fDE3OTQ5MjQ5MTZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1826,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Ian Romie Ona on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Ian Romie Ona",
-    "year": 2018,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@ianplaytheworld?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/OjdR0mn9xPA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29uY3JldGUlMjB0b3dlcnxlbnwxfHx8fDE3OTQ5MjQ5MTZ8MA"
-   },
-   {
     "shot": "power-plant-sunset",
     "shows": "Sunset at Thermal power plant, Barwala ,Hisar",
     "file": "File:Sunset at Thermal power plant, Barwala ,Hisar.jpg",
@@ -183198,173 +183118,260 @@
     "how": "catalog"
    },
    {
-    "shot": "industrial-night",
-    "shows": "Brown and black factory during night time",
-    "file": "unsplash:0tEV0DLlj0s",
-    "page": "https://unsplash.com/photos/brown-and-black-factory-during-night-time-0tEV0DLlj0s?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1629447388369-760612337eff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aW5kdXN0cmlhbCUyMG5pZ2h0fGVufDF8fHx8MTc5NDkyNDk2OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1629447388369-760612337eff?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aW5kdXN0cmlhbCUyMG5pZ2h0fGVufDF8fHx8MTc5NDkyNDk2OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "yellow-barrel",
+    "shows": "Yellow flower in tilt shift lens",
+    "file": "unsplash:zUJnzpDqLAY",
+    "page": "https://unsplash.com/photos/yellow-flower-in-tilt-shift-lens-zUJnzpDqLAY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1599800855810-68563845e6c2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHllbGxvdyUyMGJhcnJlbHxlbnwxfHx8fDE3OTQ5MzE4OTh8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1599800855810-68563845e6c2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHllbGxvdyUyMGJhcnJlbHxlbnwxfHx8fDE3OTQ5MzE4OTh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1200,
-     2133
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Patrick Decker on Unsplash",
+    "credit": "Photo by Frankie Lopez on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Patrick Decker",
+    "author": "Frankie Lopez",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@frankielopez?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zUJnzpDqLAY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fHllbGxvdyUyMGJhcnJlbHxlbnwxfHx8fDE3OTQ5MzE4OTh8MA"
+   },
+   {
+    "shot": "steel-drums",
+    "shows": "Old, empty metal containers are depicted in black and white",
+    "file": "unsplash:yI9CKuTHgyc",
+    "page": "https://unsplash.com/photos/old-empty-metal-containers-are-depicted-in-black-and-white-yI9CKuTHgyc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1743228746138-c8690a2f7ffa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RlZWwlMjBkcnVtc3xlbnwxfHx8fDE3OTQ5MzIwMjJ8MA&ixlib=rb-4.1.0&w=2100&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1743228746138-c8690a2f7ffa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RlZWwlMjBkcnVtc3xlbnwxfHx8fDE3OTQ5MzIwMjJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2100,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Albert Stoynov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Albert Stoynov",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@albertstoynov?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yI9CKuTHgyc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c3RlZWwlMjBkcnVtc3xlbnwxfHx8fDE3OTQ5MzIwMjJ8MA"
+   },
+   {
+    "shot": "protective-suit",
+    "shows": "Person wearing white overalls",
+    "file": "unsplash:3ywq86TB7Tg",
+    "page": "https://unsplash.com/photos/person-wearing-white-overalls-3ywq86TB7Tg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1576765608250-c466ee3327af?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cHJvdGVjdGl2ZSUyMHN1aXR8ZW58MXx8fHwxNzk0OTMyMzAyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1576765608250-c466ee3327af?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cHJvdGVjdGl2ZSUyMHN1aXR8ZW58MXx8fHwxNzk0OTMyMzAyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1830
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by CDC on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "CDC",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cdc?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/3ywq86TB7Tg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cHJvdGVjdGl2ZSUyMHN1aXR8ZW58MXx8fHwxNzk0OTMyMzAyfDA"
+   },
+   {
+    "shot": "danger-sign",
+    "shows": "Black and yellow poison sign",
+    "file": "unsplash:jX6WXNkvsPs",
+    "page": "https://unsplash.com/photos/black-and-yellow-poison-sign-jX6WXNkvsPs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1555699875-5773b06e8ee2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGFuZ2VyJTIwc2lnbnxlbnwxfHx8fDE3OTQ5MzIzNTJ8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1555699875-5773b06e8ee2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGFuZ2VyJTIwc2lnbnxlbnwxfHx8fDE3OTQ5MzIzNTJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mikael Seegen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mikael Seegen",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mikael_seegen?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/jX6WXNkvsPs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGFuZ2VyJTIwc2lnbnxlbnwxfHx8fDE3OTQ5MzIzNTJ8MA"
+   },
+   {
+    "shot": "power-line-sunset",
+    "shows": "Power lines silhouetted at sunset",
+    "file": "unsplash:Q4CTTc-8lGQ",
+    "page": "https://unsplash.com/photos/power-lines-silhouetted-at-sunset-Q4CTTc-8lGQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1742818355579-c6d218315096?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBsaW5lJTIwc3Vuc2V0fGVufDF8fHx8MTc5NDkzMjQzMnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1742818355579-c6d218315096?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBsaW5lJTIwc3Vuc2V0fGVufDF8fHx8MTc5NDkzMjQzMnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Geon George on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Geon George",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@geongeorge?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Q4CTTc-8lGQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8cG93ZXIlMjBsaW5lJTIwc3Vuc2V0fGVufDF8fHx8MTc5NDkzMjQzMnww"
+   },
+   {
+    "shot": "pylon-sunset",
+    "shows": "Sunset and electricity pylon, Rainham",
+    "file": "File:Sunset and electricity pylon, Rainham 2026-10-04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunset_and_electricity_pylon,_Rainham_2026-10-04.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sunset_and_electricity_pylon%2C_Rainham_2026-10-04.jpg/1920px-Sunset_and_electricity_pylon%2C_Rainham_2026-10-04.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sunset_and_electricity_pylon%2C_Rainham_2026-10-04.jpg/500px-Sunset_and_electricity_pylon%2C_Rainham_2026-10-04.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Matt Brown, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Matt Brown",
+    "year": 2026,
+    "how": "catalog"
+   },
+   {
+    "shot": "high-voltage-tower",
+    "shows": "High-voltage tower on Minzu West Road and Yumen Street intersection",
+    "file": "File:High-voltage tower on Minzu West Road and Yumen Street intersection 20110529.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:High-voltage_tower_on_Minzu_West_Road_and_Yumen_Street_intersection_20110529.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/High-voltage_tower_on_Minzu_West_Road_and_Yumen_Street_intersection_20110529.jpg/1280px-High-voltage_tower_on_Minzu_West_Road_and_Yumen_Street_intersection_20110529.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/High-voltage_tower_on_Minzu_West_Road_and_Yumen_Street_intersection_20110529.jpg/500px-High-voltage_tower_on_Minzu_West_Road_and_Yumen_Street_intersection_20110529.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Honmingjun, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Honmingjun",
+    "year": 2011,
+    "how": "catalog"
+   },
+   {
+    "shot": "generator",
+    "shows": "A factory with a lot of green and white machinery",
+    "file": "unsplash:wUuq69GGLnU",
+    "page": "https://unsplash.com/photos/a-factory-with-a-lot-of-green-and-white-machinery-wUuq69GGLnU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1636867759143-c28c1e909bd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2VuZXJhdG9yfGVufDF8fHx8MTc5NDg0MjIzMXww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1636867759143-c28c1e909bd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2VuZXJhdG9yfGVufDF8fHx8MTc5NDg0MjIzMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Abhijeet Gaikwad on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Abhijeet Gaikwad",
     "year": 2021,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@wndrlst_pctrs?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/0tEV0DLlj0s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8aW5kdXN0cmlhbCUyMG5pZ2h0fGVufDF8fHx8MTc5NDkyNDk2OXww"
+    "author_url": "https://unsplash.com/@abhijeetgaikwad10?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/wUuq69GGLnU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Z2VuZXJhdG9yfGVufDF8fHx8MTc5NDg0MjIzMXww"
    },
    {
-    "shot": "mine",
-    "shows": "The mining site in Lin Ma Hang",
-    "file": "File:The mining site in Lin Ma Hang.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_mining_site_in_Lin_Ma_Hang.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_mining_site_in_Lin_Ma_Hang.jpg/1920px-The_mining_site_in_Lin_Ma_Hang.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/The_mining_site_in_Lin_Ma_Hang.jpg/500px-The_mining_site_in_Lin_Ma_Hang.jpg",
+    "shot": "energy-industry",
+    "shows": "GM Energy display at the 2025 Detroit Auto Show",
+    "file": "File:GM Energy display at the 2025 Detroit Auto Show.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:GM_Energy_display_at_the_2025_Detroit_Auto_Show.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GM_Energy_display_at_the_2025_Detroit_Auto_Show.jpg/1920px-GM_Energy_display_at_the_2025_Detroit_Auto_Show.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GM_Energy_display_at_the_2025_Detroit_Auto_Show.jpg/500px-GM_Energy_display_at_the_2025_Detroit_Auto_Show.jpg",
     "size": [
      1920,
-     1280
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "方畢可, CC0, via Wikimedia Commons",
+    "credit": "WMrapids, CC0, via Wikimedia Commons",
     "licence": "CC0",
     "licence_kind": "cc0",
     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "方畢可",
+    "author": "WMrapids",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "steam-tower",
+    "shows": "White clouds over red and white tower",
+    "file": "unsplash:uL21AfyB844",
+    "page": "https://unsplash.com/photos/white-clouds-over-red-and-white-tower-uL21AfyB844?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1610914803160-d161c1482203?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c3RlYW0lMjB0b3dlcnxlbnwxfHx8fDE3OTQ5MzI3ODd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1610914803160-d161c1482203?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c3RlYW0lMjB0b3dlcnxlbnwxfHx8fDE3OTQ5MzI3ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1758
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by byshark on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "byshark",
     "year": 2021,
-    "how": "catalog"
-   },
-   {
-    "shot": "mining-truck",
-    "shows": "Haul truck under repair at Brockman 4, September 2018",
-    "file": "File:Haul truck under repair at Brockman 4, September 2018.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Haul_truck_under_repair_at_Brockman_4,_September_2018.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Haul_truck_under_repair_at_Brockman_4%2C_September_2018.jpg/1920px-Haul_truck_under_repair_at_Brockman_4%2C_September_2018.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Haul_truck_under_repair_at_Brockman_4%2C_September_2018.jpg/500px-Haul_truck_under_repair_at_Brockman_4%2C_September_2018.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Calistemon, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Calistemon",
-    "year": 2018,
-    "how": "catalog"
-   },
-   {
-    "shot": "energy-plant",
-    "shows": "East Rockingham Waste to Energy Plant, November 2024 02",
-    "file": "File:East Rockingham Waste to Energy Plant, November 2024 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:East_Rockingham_Waste_to_Energy_Plant,_November_2024_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/East_Rockingham_Waste_to_Energy_Plant%2C_November_2024_02.jpg/1920px-East_Rockingham_Waste_to_Energy_Plant%2C_November_2024_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/East_Rockingham_Waste_to_Energy_Plant%2C_November_2024_02.jpg/500px-East_Rockingham_Waste_to_Energy_Plant%2C_November_2024_02.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Calistemon, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Calistemon",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "radiation",
-    "shows": "radiation",
-    "file": "File:Radiation (29425861210).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Radiation_(29425861210).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Radiation_%2829425861210%29.jpg/1920px-Radiation_%2829425861210%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Radiation_%2829425861210%29.jpg/500px-Radiation_%2829425861210%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Paul van de Velde from Netherlands, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Paul van de Velde from Netherlands",
-    "year": 2016,
-    "how": "catalog"
-   },
-   {
-    "shot": "atomic",
-    "shows": "Atomic Roundabout , Accra - Ghana. 01",
-    "file": "File:Atomic Roundabout , Accra - Ghana. 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Atomic_Roundabout_,_Accra_-_Ghana._01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Atomic_Roundabout_%2C_Accra_-_Ghana._01.jpg/1920px-Atomic_Roundabout_%2C_Accra_-_Ghana._01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Atomic_Roundabout_%2C_Accra_-_Ghana._01.jpg/500px-Atomic_Roundabout_%2C_Accra_-_Ghana._01.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Queen Murja10, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Queen Murja10",
-    "year": 2023,
-    "how": "catalog"
-   },
-   {
-    "shot": "smokestack",
-    "shows": "Old house with a chimney",
-    "file": "File:Old house with a chimney.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Old_house_with_a_chimney.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Old_house_with_a_chimney.jpg/1920px-Old_house_with_a_chimney.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Old_house_with_a_chimney.jpg/500px-Old_house_with_a_chimney.jpg",
-    "size": [
-     1920,
-     1279
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kwameghana, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kwameghana",
-    "year": 2022,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@byshark?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/uL21AfyB844/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8c3RlYW0lMjB0b3dlcnxlbnwxfHx8fDE3OTQ5MzI3ODd8MA"
    }
   ],
   "missing": [
-   "electric-grid",
-   "chimney",
+   "industrial-complex",
+   "hazard",
    "power-lines",
    "warning-sign"
   ],
@@ -191057,111 +191064,117 @@
     "track_pending": true
    },
    {
-    "shot": "pharmacist",
-    "shows": "A pharmacist in a white coat showing a pill bottle to a woman",
-    "file": "unsplash:NNpo-liY5aU",
-    "page": "https://unsplash.com/photos/pharmacist-showing-pill-bottle-to-woman-NNpo-liY5aU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1576091358783-a212ec293ff3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cGhhcm1hY2lzdHxlbnwxfHx8fDE3OTQ5MTM2NDB8MA&ixlib=rb-4.1.0&w=1875&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1576091358783-a212ec293ff3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cGhhcm1hY2lzdHxlbnwxfHx8fDE3OTQ5MTM2NDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "measuring-tape",
+    "shows": "Yellow and black measuring tape",
+    "file": "unsplash:1abCQ_3g_UY",
+    "page": "https://unsplash.com/photos/yellow-and-black-measuring-tape-1abCQ_3g_UY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1602503497726-dc6cfaab7e17?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bWVhc3VyaW5nJTIwdGFwZXxlbnwxfHx8fDE3OTQ5MzIzMTR8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1602503497726-dc6cfaab7e17?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bWVhc3VyaW5nJTIwdGFwZXxlbnwxfHx8fDE3OTQ5MzIzMTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1875,
+     1200,
+     1812
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Immo Wegmann on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Immo Wegmann",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@tinkerman?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/1abCQ_3g_UY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8bWVhc3VyaW5nJTIwdGFwZXxlbnwxfHx8fDE3OTQ5MzIzMTR8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "stethoscope",
+    "shows": "Black and silver stethoscope on white surface",
+    "file": "unsplash:IJ0KiXl4uys",
+    "page": "https://unsplash.com/photos/black-and-silver-stethoscope-on-white-surface-IJ0KiXl4uys?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1584982751601-97dcc096659c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5NDYwNDMwMXww&ixlib=rb-4.1.0&w=2255&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1584982751601-97dcc096659c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5NDYwNDMwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2255,
      1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by National Cancer Institute on Unsplash",
+    "credit": "Photo by Markus Frieauff on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "National Cancer Institute",
-    "year": 2019,
+    "author": "Markus Frieauff",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@nci?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/NNpo-liY5aU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8cGhhcm1hY2lzdHxlbnwxfHx8fDE3OTQ5MTM2NDB8MA",
+    "author_url": "https://unsplash.com/@frieauffcom?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IJ0KiXl4uys/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHN0ZXRob3Njb3BlfGVufDF8fHx8MTc5NDYwNDMwMXww",
     "track_pending": true
    },
    {
-    "shot": "body-measurement",
-    "shows": "Arm span",
-    "file": "File:Arm span.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Arm_span.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Arm_span.jpg/1280px-Arm_span.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Arm_span.jpg/500px-Arm_span.jpg",
-    "size": [
-     1280,
-     1667
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pajerova 213718, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Pajerova 213718",
-    "year": 2014,
-    "how": "catalog"
-   },
-   {
-    "shot": "walking",
-    "shows": "A golden flower resting on a large rock along a sandy beach, with gentle waves and distant figures walking along the shoreline.",
-    "file": "wordpress:258203",
-    "page": "https://wordpress.org/photos/photo/36af531838/",
-    "url": "https://pd.w.org/2026/11/36af531838534a5.63502578-1536x2048.jpg",
-    "preview": "https://pd.w.org/2026/11/36af531838534a5.63502578-768x1024.jpg",
-    "size": [
-     1536,
-     2048
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by wenmirandav on WordPress.org Photos, CC0",
-    "licence": "CC0 1.0",
-    "licence_kind": "cc0",
-    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "author": "wenmirandav",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "wordpress",
-    "author_url": "https://wordpress.org/photos/author/wenmirandav/"
-   },
-   {
-    "shot": "hiking",
-    "shows": "Four people with backpacks hiking on a grassy mountain trail toward snowy peaks",
-    "file": "unsplash:vIluu0IH6Ps",
-    "page": "https://unsplash.com/photos/people-hiking-on-mountain-trail-vIluu0IH6Ps?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1629185752152-fe65698ddee4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aGlraW5nfGVufDF8fHx8MTc5NDkxNTY0N3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1629185752152-fe65698ddee4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aGlraW5nfGVufDF8fHx8MTc5NDkxNTY0N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "blister-pack",
+    "shows": "Pills in a blister pack with green bottoms",
+    "file": "unsplash:qqbXxjhPuj8",
+    "page": "https://unsplash.com/photos/pills-in-a-blister-pack-with-green-bottoms-qqbXxjhPuj8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1764457197458-d0a14f989cda?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Ymxpc3RlciUyMHBhY2t8ZW58MXx8fHwxNzk0OTMyMzk5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1764457197458-d0a14f989cda?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Ymxpc3RlciUyMHBhY2t8ZW58MXx8fHwxNzk0OTMyMzk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
-     1800
+     1637
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by JUSTIN BUISSON on Unsplash",
+    "credit": "Photo by Rapha Wilde on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "JUSTIN BUISSON",
-    "year": 2021,
+    "author": "Rapha Wilde",
+    "year": 2025,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@justinbuisson?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/vIluu0IH6Ps/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8aGlraW5nfGVufDF8fHx8MTc5NDkxNTY0N3ww",
+    "author_url": "https://unsplash.com/@veloradio?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qqbXxjhPuj8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Ymxpc3RlciUyMHBhY2t8ZW58MXx8fHwxNzk0OTMyMzk5fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "salad",
+    "shows": "Vegetable salad on white ceramic plate",
+    "file": "unsplash:xeTv9N2FjXA",
+    "page": "https://unsplash.com/photos/vegetable-salad-on-white-ceramic-plate-xeTv9N2FjXA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1607532941433-304659e8198a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2FsYWR8ZW58MXx8fHwxNzk0OTMyNDg3fDA&ixlib=rb-4.1.0&w=2011&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1607532941433-304659e8198a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2FsYWR8ZW58MXx8fHwxNzk0OTMyNDg3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2011,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tania Melnyczuk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tania Melnyczuk",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@alphabetania?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/xeTv9N2FjXA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8c2FsYWR8ZW58MXx8fHwxNzk0OTMyNDg3fDA",
     "track_pending": true
    }
   ],
   "missing": [
-   "meal-prep",
-   "diet-food",
+   "weight-scale",
+   "fruit-bowl",
    "vial",
    "medical-syringe",
    "bathroom-scale",
@@ -192374,38 +192387,38 @@
     "how": "catalog"
    },
    {
-    "shot": "washington-dc",
-    "shows": "Northwest Washington, Washington, DC, USA - panoramio",
-    "file": "File:Northwest Washington, Washington, DC, USA - panoramio (73).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Northwest_Washington,_Washington,_DC,_USA_-_panoramio_(73).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Northwest_Washington%2C_Washington%2C_DC%2C_USA_-_panoramio_%2873%29.jpg/1920px-Northwest_Washington%2C_Washington%2C_DC%2C_USA_-_panoramio_%2873%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Northwest_Washington%2C_Washington%2C_DC%2C_USA_-_panoramio_%2873%29.jpg/500px-Northwest_Washington%2C_Washington%2C_DC%2C_USA_-_panoramio_%2873%29.jpg",
+    "shot": "voting-sign",
+    "shows": "Early voting sign at Madison Parish Courthouse",
+    "file": "File:Early voting sign at Madison Parish Courthouse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Early_voting_sign_at_Madison_Parish_Courthouse.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Early_voting_sign_at_Madison_Parish_Courthouse.jpg/1920px-Early_voting_sign_at_Madison_Parish_Courthouse.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Early_voting_sign_at_Madison_Parish_Courthouse.jpg/500px-Early_voting_sign_at_Madison_Parish_Courthouse.jpg",
     "size": [
      1920,
-     1275
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Андрей Бобровский, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
+    "credit": "Ktkvtsh, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Андрей Бобровский",
-    "year": 2014,
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Ktkvtsh",
+    "year": 2026,
     "how": "catalog"
    },
    {
     "shot": "campaign-rally",
-    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 4681",
-    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 4681.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_4681.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4681.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4681.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4681.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4681.jpg",
+    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 4656",
+    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 4656.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_4656.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4656.jpg/1280px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4656.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4656.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_4656.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1707
     ],
     "focus": [
      0.5,
@@ -192420,49 +192433,53 @@
     "how": "catalog"
    },
    {
-    "shot": "capitol-hill",
-    "shows": "St. Peter's on Capitol Hill tower 02",
-    "file": "File:St. Peter's on Capitol Hill tower 02.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:St._Peter%27s_on_Capitol_Hill_tower_02.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Peter%27s_on_Capitol_Hill_tower_02.JPG/1280px-St._Peter%27s_on_Capitol_Hill_tower_02.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/St._Peter%27s_on_Capitol_Hill_tower_02.JPG/500px-St._Peter%27s_on_Capitol_Hill_tower_02.JPG",
+    "shot": "flag-sunset",
+    "shows": "Silhouette of a flag on a pole during sunset",
+    "file": "unsplash:BH026KW6WYE",
+    "page": "https://unsplash.com/photos/silhouette-of-a-flag-on-a-pole-during-sunset-BH026KW6WYE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1598979931139-104e55bcd1e3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZmxhZyUyMHN1bnNldHxlbnwxfHx8fDE3OTQ5MzI4MjV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1598979931139-104e55bcd1e3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZmxhZyUyMHN1bnNldHxlbnwxfHx8fDE3OTQ5MzI4MjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1706
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Farragutful, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Farragutful",
-    "year": 2014,
-    "how": "catalog"
+    "credit": "Photo by أخٌ‌في‌الله on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "أخٌ‌في‌الله",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mhrezaa?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/BH026KW6WYE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZmxhZyUyMHN1bnNldHxlbnwxfHx8fDE3OTQ5MzI4MjV8MA",
+    "track_pending": true
    },
    {
-    "shot": "government-building",
-    "shows": "Abilene June 2019 04 (Federal Building, United States Post Office and Courthouse)",
-    "file": "File:Abilene June 2019 04 (Federal Building, United States Post Office and Courthouse).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Abilene_June_2019_04_(Federal_Building,_United_States_Post_Office_and_Courthouse).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Abilene_June_2019_04_%28Federal_Building%2C_United_States_Post_Office_and_Courthouse%29.jpg/1920px-Abilene_June_2019_04_%28Federal_Building%2C_United_States_Post_Office_and_Courthouse%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Abilene_June_2019_04_%28Federal_Building%2C_United_States_Post_Office_and_Courthouse%29.jpg/500px-Abilene_June_2019_04_%28Federal_Building%2C_United_States_Post_Office_and_Courthouse%29.jpg",
+    "shot": "ballot-drop-box",
+    "shows": "Payment and Ballot Drop Box at Southbridge Massachusetts Town Hall",
+    "file": "File:Payment and Ballot Drop Box at Southbridge Massachusetts Town Hall.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Payment_and_Ballot_Drop_Box_at_Southbridge_Massachusetts_Town_Hall.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Payment_and_Ballot_Drop_Box_at_Southbridge_Massachusetts_Town_Hall.jpg/1920px-Payment_and_Ballot_Drop_Box_at_Southbridge_Massachusetts_Town_Hall.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Payment_and_Ballot_Drop_Box_at_Southbridge_Massachusetts_Town_Hall.jpg/500px-Payment_and_Ballot_Drop_Box_at_Southbridge_Massachusetts_Town_Hall.jpg",
     "size": [
      1920,
-     1280
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Michael Barera",
-    "year": 2019,
+    "credit": "PeterCooperJr, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "PeterCooperJr",
+    "year": 2024,
     "how": "catalog"
    }
   ],
@@ -194685,54 +194702,6 @@
     "track_pending": true
    },
    {
-    "shot": "laboratory",
-    "shows": "The chemical laboratory where Edison's teams worked on chemicals that were used in batteries, phonograph records and other inventions, at The Thomas Edison Nati",
-    "file": "loc:2017882246",
-    "page": "https://www.loc.gov/item/2017882246/",
-    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45497/full/2250,/0/default.jpg",
-    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45497/full/500,/0/default.jpg",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-    "licence_kind": "pd",
-    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
-    "author": "Carol M. Highsmith",
-    "year": 2017,
-    "how": "catalog",
-    "provider": "loc",
-    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
-   },
-   {
-    "shot": "electronics-lab",
-    "shows": "Electronics equipment for demo at Par Lab retreat",
-    "file": "File:Electronics equipment for demo at Par Lab retreat (8443570446).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Electronics_equipment_for_demo_at_Par_Lab_retreat_(8443570446).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Electronics_equipment_for_demo_at_Par_Lab_retreat_%288443570446%29.jpg/1920px-Electronics_equipment_for_demo_at_Par_Lab_retreat_%288443570446%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Electronics_equipment_for_demo_at_Par_Lab_retreat_%288443570446%29.jpg/500px-Electronics_equipment_for_demo_at_Par_Lab_retreat_%288443570446%29.jpg",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Chiara Coetzee from Menlo Park, CA, USA, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Chiara Coetzee from Menlo Park, CA, USA",
-    "year": 2013,
-    "how": "catalog"
-   },
-   {
     "shot": "rainbow-light",
     "shows": "London King's Cross rainbow light tunnel",
     "file": "File:London King's Cross rainbow light tunnel - 2023-06-25.jpg",
@@ -194805,29 +194774,6 @@
     "how": "catalog"
    },
    {
-    "shot": "laser-show",
-    "shows": "Laserbeam laser show during the Lampionfest in Bad Westernkotten 14",
-    "file": "File:Laserbeam laser show during the Lampionfest in Bad Westernkotten 2024-08-17 14.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg/1920px-Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg/500px-Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nakonana, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Nakonana",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
     "shot": "led-strip",
     "shows": "A large group of lights",
     "file": "unsplash:IGPhiyH9t-A",
@@ -194852,58 +194798,6 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@superlightingled?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/IGPhiyH9t-A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGVkJTIwc3RyaXB8ZW58MXx8fHwxNzk0OTI1NDM1fDA"
-   },
-   {
-    "shot": "frost",
-    "shows": "A close up of a grass covered in frost",
-    "file": "unsplash:YuamzIeKlNk",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-grass-covered-in-frost-YuamzIeKlNk?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1675857482662-b813cbd60864?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1675857482662-b813cbd60864?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Michael Held on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Michael Held",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@michaelheld?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/YuamzIeKlNk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA"
-   },
-   {
-    "shot": "ice-crystal",
-    "shows": "White and blue abstract painting",
-    "file": "unsplash:IpYMSnNdYBE",
-    "page": "https://unsplash.com/photos/white-and-blue-abstract-painting-IpYMSnNdYBE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1613753566216-193004e990bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8aWNlJTIwY3J5c3RhbHxlbnwxfHx8fDE3OTQ5MjU1MDN8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1613753566216-193004e990bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8aWNlJTIwY3J5c3RhbHxlbnwxfHx8fDE3OTQ5MjU1MDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2251,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Daniele Levis Pelusi on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Daniele Levis Pelusi",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@yogidan2012?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/IpYMSnNdYBE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8aWNlJTIwY3J5c3RhbHxlbnwxfHx8fDE3OTQ5MjU1MDN8MA"
    },
    {
     "shot": "gold-wire",
@@ -194933,106 +194827,234 @@
     "track_pending": true
    },
    {
-    "shot": "vintage-computer",
-    "shows": "A vintage computer sits on a patterned surface",
-    "file": "unsplash:J1yATCIy4PQ",
-    "page": "https://unsplash.com/photos/a-vintage-computer-sits-on-a-patterned-surface-J1yATCIy4PQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1745006485274-1f62da7ea85a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8dmludGFnZSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5NDkyNTYwMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1745006485274-1f62da7ea85a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8dmludGFnZSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5NDkyNTYwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "laboratory",
+    "shows": "The chemical laboratory where Edison's teams worked on chemicals that were used in batteries, phonograph records and other inventions, at The Thomas Edison Nati",
+    "file": "loc:2017882247",
+    "page": "https://www.loc.gov/item/2017882247/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45498/full/1200,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45498/full/500,/0/default.jpg",
     "size": [
      1200,
-     2133
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Callum Mullin on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Callum Mullin",
-    "year": 2025,
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2017,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@cmbgraphicdesign?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/J1yATCIy4PQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8dmludGFnZSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5NDkyNTYwMXww",
-    "track_pending": true
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
-    "shot": "glowing",
-    "shows": "Glowing orbs 02",
-    "file": "File:Glowing orbs 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Glowing_orbs_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Glowing_orbs_02.jpg/1920px-Glowing_orbs_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Glowing_orbs_02.jpg/500px-Glowing_orbs_02.jpg",
+    "shot": "light-trails",
+    "shows": "Lissajous-Figur -- 2020 -- 7766",
+    "file": "File:Lissajous-Figur -- 2020 -- 7766.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lissajous-Figur_--_2020_--_7766.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lissajous-Figur_--_2020_--_7766.jpg/1920px-Lissajous-Figur_--_2020_--_7766.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Lissajous-Figur_--_2020_--_7766.jpg/500px-Lissajous-Figur_--_2020_--_7766.jpg",
     "size": [
      1920,
-     1434
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jo-Jo Eumerus, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jo-Jo Eumerus",
-    "year": 2016,
+    "author": "Dietmar Rabich",
+    "year": 2020,
     "how": "catalog"
    },
    {
-    "shot": "motherboard",
-    "shows": "Computer motherboard 13",
-    "file": "File:Computer motherboard 13.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Computer_motherboard_13.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Computer_motherboard_13.jpg/1280px-Computer_motherboard_13.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Computer_motherboard_13.jpg/500px-Computer_motherboard_13.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kurt Kaiser, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Kurt Kaiser",
-    "year": 2013,
-    "how": "catalog"
-   },
-   {
-    "shot": "gold-wires",
-    "shows": "Western Han Jade Burial Suit with Gold Wire and 4248 Jade Pieces - d",
-    "file": "File:Western Han Jade Burial Suit with Gold Wire and 4248 Jade Pieces - d.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg/1920px-Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg/500px-Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg",
+    "shot": "neon-light",
+    "shows": "Light in the Dark exhibition at Museum of Neon Art",
+    "file": "File:Light in the Dark exhibition at Museum of Neon Art.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Light_in_the_Dark_exhibition_at_Museum_of_Neon_Art.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Light_in_the_Dark_exhibition_at_Museum_of_Neon_Art.jpg/1920px-Light_in_the_Dark_exhibition_at_Museum_of_Neon_Art.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Light_in_the_Dark_exhibition_at_Museum_of_Neon_Art.jpg/500px-Light_in_the_Dark_exhibition_at_Museum_of_Neon_Art.jpg",
     "size": [
      1920,
-     1280
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Gary Todd, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Gary Todd",
-    "year": 2011,
+    "credit": "SGJ1991, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "SGJ1991",
+    "year": 2023,
+    "how": "catalog"
+   },
+   {
+    "shot": "crystal-ball",
+    "shows": "Clear glass ball on brown rock",
+    "file": "unsplash:66b8Iowz7NI",
+    "page": "https://unsplash.com/photos/clear-glass-ball-on-brown-rock-66b8Iowz7NI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1622879474013-c0a417747ff4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y3J5c3RhbCUyMGJhbGx8ZW58MXx8fHwxNzk0OTM1NDg1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1622879474013-c0a417747ff4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y3J5c3RhbCUyMGJhbGx8ZW58MXx8fHwxNzk0OTM1NDg1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jake Willett on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jake Willett",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jdphoto2000?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/66b8Iowz7NI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y3J5c3RhbCUyMGJhbGx8ZW58MXx8fHwxNzk0OTM1NDg1fDA"
+   },
+   {
+    "shot": "glass-orb",
+    "shows": "Candle light projected through a glass orb",
+    "file": "File:Candle light projected through a glass orb.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Candle_light_projected_through_a_glass_orb.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Candle_light_projected_through_a_glass_orb.jpg/1920px-Candle_light_projected_through_a_glass_orb.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Candle_light_projected_through_a_glass_orb.jpg/500px-Candle_light_projected_through_a_glass_orb.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "W.carter, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "W.carter",
+    "year": 2017,
+    "how": "catalog"
+   },
+   {
+    "shot": "light-bulb",
+    "shows": "Person catching light bulb",
+    "file": "unsplash:7esRPTt38nI",
+    "page": "https://unsplash.com/photos/person-catching-light-bulb-7esRPTt38nI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1531379410502-63bfe8cdaf6f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bGlnaHQlMjBidWxifGVufDF8fHx8MTc5NDkzNTUzMHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1531379410502-63bfe8cdaf6f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bGlnaHQlMjBidWxifGVufDF8fHx8MTc5NDkzNTUzMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Júnior Ferreira on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Júnior Ferreira",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@juniorferreir_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/7esRPTt38nI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8bGlnaHQlMjBidWxifGVufDF8fHx8MTc5NDkzNTUzMHww"
+   },
+   {
+    "shot": "bokeh-lights",
+    "shows": "Soft pink bokeh lights against gray background",
+    "file": "unsplash:NkQD-RHhbvY",
+    "page": "https://unsplash.com/photos/soft-pink-bokeh-lights-against-gray-background-NkQD-RHhbvY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Ym9rZWglMjBsaWdodHN8ZW58MXx8fHwxNzk0OTM1NTQzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Ym9rZWglMjBsaWdodHN8ZW58MXx8fHwxNzk0OTM1NTQzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Alexander Grey on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Alexander Grey",
+    "year": 2018,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sharonmccutcheon?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NkQD-RHhbvY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Ym9rZWglMjBsaWdodHN8ZW58MXx8fHwxNzk0OTM1NTQzfDA"
+   },
+   {
+    "shot": "frost",
+    "shows": "Intricate frost patterns on a window pane with soft light in the background",
+    "file": "unsplash:hSPVuakrJqs",
+    "page": "https://unsplash.com/photos/frost-patterns-on-window-pane-hSPVuakrJqs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1478265409131-1f65c88f965c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1478265409131-1f65c88f965c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kelly Sikkema on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kelly Sikkema",
+    "year": 2016,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kellysikkema?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hSPVuakrJqs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA"
+   },
+   {
+    "shot": "ice-crystal",
+    "shows": "ice crystal",
+    "file": "File:Frostedbubble2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Frostedbubble2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Frostedbubble2.jpg/1920px-Frostedbubble2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Frostedbubble2.jpg/500px-Frostedbubble2.jpg",
+    "size": [
+     1920,
+     1289
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Daniela Rapavá, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Daniela Rapavá",
+    "year": 2014,
     "how": "catalog"
    }
   ],
   "missing": [
-   "physics",
-   "copper-coil",
-   "research-laboratory"
+   "vintage-computer",
+   "blue-light",
+   "clean-room",
+   "semiconductor",
+   "transistor",
+   "cpu"
   ],
   "checked": "2026-11-17"
  },
@@ -197538,14 +197560,14 @@
    },
    {
     "shot": "cybersecurity",
-    "shows": "EU2024BE Brussels Cybersecurity Summit Square JNZT 0017",
-    "file": "File:EU2024BE 240118 Brussels Cybersecurity Summit Square JNZT 0017.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0017.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0017.jpg/1920px-EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0017.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0017.jpg/500px-EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0017.jpg",
+    "shows": "EU2024BE Brussels Cybersecurity Summit Square JNZT 0041",
+    "file": "File:EU2024BE 240118 Brussels Cybersecurity Summit Square JNZT 0041.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0041.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0041.jpg/1280px-EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0041.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0041.jpg/500px-EU2024BE_240118_Brussels_Cybersecurity_Summit_Square_JNZT_0041.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     1920
     ],
     "focus": [
      0.5,
@@ -197561,11 +197583,11 @@
    },
    {
     "shot": "privacy",
-    "shows": "Zürich Stadthaus, Privacy Exhibition( Ank Kumar, Infosys) 08",
-    "file": "File:Zürich Stadthaus, Privacy Exhibition( Ank Kumar, Infosys) 08.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_Stadthaus,_Privacy_Exhibition(_Ank_Kumar,_Infosys)_08.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Z%C3%BCrich_Stadthaus%2C_Privacy_Exhibition%28_Ank_Kumar%2C_Infosys%29_08.jpg/1920px-Z%C3%BCrich_Stadthaus%2C_Privacy_Exhibition%28_Ank_Kumar%2C_Infosys%29_08.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Z%C3%BCrich_Stadthaus%2C_Privacy_Exhibition%28_Ank_Kumar%2C_Infosys%29_08.jpg/500px-Z%C3%BCrich_Stadthaus%2C_Privacy_Exhibition%28_Ank_Kumar%2C_Infosys%29_08.jpg",
+    "shows": "Zürich Stadthaus, Privacy Exhibition( Ank Kumar, Infosys) 16",
+    "file": "File:Zürich Stadthaus, Privacy Exhibition( Ank Kumar, Infosys) 16.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_Stadthaus,_Privacy_Exhibition(_Ank_Kumar,_Infosys)_16.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Z%C3%BCrich_Stadthaus%2C_Privacy_Exhibition%28_Ank_Kumar%2C_Infosys%29_16.jpg/1920px-Z%C3%BCrich_Stadthaus%2C_Privacy_Exhibition%28_Ank_Kumar%2C_Infosys%29_16.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Z%C3%BCrich_Stadthaus%2C_Privacy_Exhibition%28_Ank_Kumar%2C_Infosys%29_16.jpg/500px-Z%C3%BCrich_Stadthaus%2C_Privacy_Exhibition%28_Ank_Kumar%2C_Infosys%29_16.jpg",
     "size": [
      1920,
      1984
@@ -197584,50 +197606,50 @@
    },
    {
     "shot": "computer",
-    "shows": "A person with curly hair is silhouetted against a large computer screen, pointing at a section of a webpage. The screen displays a website in Spanish, featuring",
-    "file": "wordpress:106588",
-    "page": "https://wordpress.org/photos/photo/617678ba0a/",
-    "url": "https://pd.w.org/2025/01/617678ba0af514d72.02356960.jpg",
-    "preview": "https://pd.w.org/2025/01/617678ba0af514d72.02356960-768x512.jpg",
+    "shows": "Architectural art \"Cenozoic Codex\" at three locations on building exterior of the Census Computer Facility, Bowie, Maryland",
+    "file": "loc:2010720346",
+    "page": "https://www.loc.gov/item/2010720346/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03200:03224/full/2326,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03200:03224/full/500,/0/default.jpg",
     "size": [
-     5949,
-     3966
+     2326,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Nilo Velez on WordPress.org Photos, CC0",
-    "licence": "CC0 1.0",
-    "licence_kind": "cc0",
-    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "author": "Nilo Velez",
-    "year": 2025,
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2007,
     "how": "catalog",
-    "provider": "wordpress",
-    "author_url": "https://wordpress.org/photos/author/nilovelez/"
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
     "shot": "network-security",
-    "shows": "USARCENT hosts 'Cyber Bowl,' promotes network security -A-NC823-546",
-    "file": "File:USARCENT hosts 'Cyber Bowl,' promotes network security 150427-A-NC823-546.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:USARCENT_hosts_%27Cyber_Bowl,%27_promotes_network_security_150427-A-NC823-546.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/USARCENT_hosts_%27Cyber_Bowl%2C%27_promotes_network_security_150427-A-NC823-546.jpg/1920px-USARCENT_hosts_%27Cyber_Bowl%2C%27_promotes_network_security_150427-A-NC823-546.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/USARCENT_hosts_%27Cyber_Bowl%2C%27_promotes_network_security_150427-A-NC823-546.jpg/500px-USARCENT_hosts_%27Cyber_Bowl%2C%27_promotes_network_security_150427-A-NC823-546.jpg",
+    "shows": "Null expanding architecture networking",
+    "file": "File:Null expanding architecture networking.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Null_expanding_architecture_networking.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Null_expanding_architecture_networking.jpg/1280px-Null_expanding_architecture_networking.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Null_expanding_architecture_networking.jpg/500px-Null_expanding_architecture_networking.jpg",
     "size": [
-     1920,
-     1555
+     1280,
+     1646
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Staff Sgt. Bryan Dominique, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Staff Sgt. Bryan Dominique",
-    "year": 2015,
+    "credit": "SPiZlE, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "SPiZlE",
+    "year": 2014,
     "how": "catalog"
    }
   ],
@@ -197637,7 +197659,13 @@
    "lock-screen",
    "login",
    "encryption-key",
-   "matrix-code"
+   "matrix-code",
+   "fingerprint",
+   "biometric",
+   "cctv",
+   "server-security",
+   "locked-laptop",
+   "digital-lock"
   ],
   "checked": "2026-11-17"
  },

@@ -827,6 +827,24 @@
    "author_url": "https://unsplash.com/@phonvanna?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Architectural art \"Cenozoic Codex\" at three locations on building exterior of the Census Computer Facility, Bowie, Maryland",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03200:03224/full/2326,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:03200:03224/full/500,/0/default.jpg",
+   "size": [
+    2326,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2010720346/"
   }
  ]
 }
