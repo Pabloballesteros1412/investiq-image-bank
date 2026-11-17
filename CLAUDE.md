@@ -301,6 +301,15 @@ Decisions (Pablo, 4 Nov 2026):
   525 (average 47.7); 5 of 48 at 50. Thinnest: ai 35, nuclear 35, quantum 36, earnings 40, chips 44, datacenters 44,
   ipo 44. 335 Unsplash download counts pending. Next: round 11 (168 searches in 15 topics, already in `catalog.json`;
   tariffs had only 20 shots and got 20 more).
+- **Rounds 11-13, refills 11-12** (17 Nov): round 11 (168 searches, 15 topics; stock 12 of 34 grade 3, Commons 3 of 77),
+  refill 11 (stock 8 of 28, Commons 4 of 144), round 12 (84 searches, 11 topics; stock 12 of 26, Commons 7 of 55),
+  round 13 (77 searches, 11 topics; stock 9 of 35, Commons 4 of 33), refill 12 of the 42 below 50 (stock 2 of 27,
+  Commons 3 of 100: the cache is nearly spent). Searches tried in earlier rounds are kept in the scratchpad's
+  `new_r*.json` and skipped when drafting new ones (a dead search only replays its cached answer). Word matches seen:
+  a cat for "python code", a control-tower for "concrete tower", frost for quantum, a beekeeper for "protective suit".
+- **Merged into main (17 Nov, PR #14)**: 6,247 published photos: companies 3,969, topics 1,750 (average 47.3), sectors
+  528 (average 48.0); 6 of 48 at 50. Thinnest: ai 38, nuclear 41, quantum 42, earnings 45, tariffs 45. 356 Unsplash
+  download counts pending.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
