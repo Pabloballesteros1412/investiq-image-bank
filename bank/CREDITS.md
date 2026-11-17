@@ -5716,6 +5716,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - View of baked bread on jute: Photo by Maria Orlova on Unsplash. [kU7TkW9FIJY](https://unsplash.com/photos/view-of-baked-bread-on-jute-kU7TkW9FIJY?utm_source=investiq_image_bank&utm_medium=referral)
 - A field of wheat under a blue sky with clouds: Photo by James Ahlberg on Unsplash. [dTs-GX8RE6c](https://unsplash.com/photos/a-field-of-wheat-under-a-blue-sky-with-clouds-dTs-GX8RE6c?utm_source=investiq_image_bank&utm_medium=referral)
 - SZ Shenzhen Nanshan Longzhu Blvd Shirble Plaza mall shop Freshippo Supermarket beverage bottles March 2025 R12S 17: MSLONAG BOAKS TEN, CC0, via Wikimedia Commons. [SZ Shenzhen Nanshan Longzhu Blvd Shirble Plaza mall shop Freshippo Supermarket beverage bottles March 2025 R12S 17.jpg](https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Longzhu_Blvd_Shirble_Plaza_mall_shop_Freshippo_Supermarket_beverage_bottles_March_2025_R12S_17.jpg)
+- White toilet paper roll on white table: Photo by Claire Mueller on Unsplash. [3HoHDoFL5gM](https://unsplash.com/photos/white-toilet-paper-roll-on-white-table-3HoHDoFL5gM?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Energy sector (sector-energy)
 
@@ -6072,6 +6073,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Hands holding a broken yellow piggy bank with fragments: Photo by Zuriel Forcades Zf.j.r on Unsplash. [udr6LxPztiY](https://unsplash.com/photos/hands-holding-a-broken-yellow-piggy-bank-with-fragments-udr6LxPztiY?utm_source=investiq_image_bank&utm_medium=referral)
 - City with high-rise building covered with fogs: Photo by Kristen Morith on Unsplash. [IWpd8KixceA](https://unsplash.com/photos/city-with-high-rise-building-covered-with-fogs-IWpd8KixceA?utm_source=investiq_image_bank&utm_medium=referral)
 - Red and white sale LED sign: Photo by Claudio Schwarz on Unsplash. [KcPK_kzqWC8](https://unsplash.com/photos/red-and-white-sale-led-sign-KcPK_kzqWC8?utm_source=investiq_image_bank&utm_medium=referral)
+- Brown and white bread on display counter: Photo by Boris Dunand on Unsplash. [Wa9ibpKst3I](https://unsplash.com/photos/brown-and-white-bread-on-display-counter-Wa9ibpKst3I?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Jobs & labor market (jobs)
 
@@ -6225,6 +6227,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Yellow Dead End sign: Photo by Victória Kubiaki on Unsplash. [7M2c916CxYI](https://unsplash.com/photos/yellow-dead-end-sign-7M2c916CxYI?utm_source=investiq_image_bank&utm_medium=referral)
 - Orange and gray rocks: Photo by Sven Brandsma on Unsplash. [ZUvWsJB4z50](https://unsplash.com/photos/orange-and-gray-rocks-ZUvWsJB4z50?utm_source=investiq_image_bank&utm_medium=referral)
 - Sunken ship: Photo by Olga ga on Unsplash. [8uabPZmXJ4s](https://unsplash.com/photos/sunken-ship-8uabPZmXJ4s?utm_source=investiq_image_bank&utm_medium=referral)
+- Clouds during golden hour: Photo by Tom Barrett on Unsplash. [hgGplX3PFBg](https://unsplash.com/photos/clouds-during-golden-hour-hgGplX3PFBg?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a game of dominos on a table: Photo by Denise Jans on Unsplash. [F2v6_828cfg](https://unsplash.com/photos/a-close-up-of-a-game-of-dominos-on-a-table-F2v6_828cfg?utm_source=investiq_image_bank&utm_medium=referral)
+- A house of cards balanced precariously on a dark surface: Photo by Merrilee Schultz on Unsplash. [Ad9MY4DWCNg](https://unsplash.com/photos/a-house-of-cards-balanced-precariously-on-a-dark-surface-Ad9MY4DWCNg?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Artificial intelligence boom (ai)
 
@@ -6270,6 +6275,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Server-tower hg: Hannes Grobe 21:35, 6 May 2012 (UTC), CC BY 3.0, via Wikimedia Commons. [Server-tower hg.jpg](https://commons.wikimedia.org/wiki/File:Server-tower_hg.jpg)
 - Data storage Centre, CERN: Mramoeba, CC0, via Wikimedia Commons. [Data storage Centre, CERN.jpg](https://commons.wikimedia.org/wiki/File:Data_storage_Centre,_CERN.jpg)
 - Smartphone with ai text in jeans pocket: Photo by Immo Wegmann on Unsplash. [CSb9Ehxb65A](https://unsplash.com/photos/smartphone-with-ai-text-in-jeans-pocket-CSb9Ehxb65A?utm_source=investiq_image_bank&utm_medium=referral)
+- A system administrator’s workstation within a data processing centre with rack cabinets and servers inside.: Photo by Javier Salinas on WordPress.org Photos, CC0. [23430](https://wordpress.org/photos/photo/61563ef3d9/)
+- A close up of a video card on a yellow background: Photo by Andrey Matveev on Unsplash. [ipVMl4H6g6o](https://unsplash.com/photos/a-close-up-of-a-video-card-on-a-yellow-background-ipVMl4H6g6o?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6828,6 +6835,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A calendar with red push buttons pinned to it: Photo by Towfiqu barbhuiya on Unsplash. [bwOAixLG0uc](https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_source=investiq_image_bank&utm_medium=referral)
 - Stacks of Coins: Kevin Schneider, CC0, via Wikimedia Commons. [Stacks of Coins.jpg](https://commons.wikimedia.org/wiki/File:Stacks_of_Coins.jpg)
 - No Known Restrictions New York Stock Exchange (Highsmith LOC): Carol M. Highsmith, public domain, via Wikimedia Commons. [No Known Restrictions New York Stock Exchange (Highsmith LOC) (6718424839).jpg](https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_New_York_Stock_Exchange_(Highsmith_LOC)_(6718424839).jpg)
+- A candle on a stand: Photo by Aurora K on Unsplash. [aH7g0XG2p4U](https://unsplash.com/photos/a-candle-on-a-stand-aH7g0XG2p4U?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
@@ -6974,6 +6982,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Power lines silhouetted at sunset: Photo by Geon George on Unsplash. [Q4CTTc-8lGQ](https://unsplash.com/photos/power-lines-silhouetted-at-sunset-Q4CTTc-8lGQ?utm_source=investiq_image_bank&utm_medium=referral)
 - De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium: Trougnouf, CC BY 4.0, via Wikimedia Commons. [De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium (DSCF3862).jpg](https://commons.wikimedia.org/wiki/File:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3862).jpg)
 - Tricastin Nuclear Power Plant: MeneerTijn, CC BY-SA 4.0, via Wikimedia Commons. [Tricastin Nuclear Power Plant.jpg](https://commons.wikimedia.org/wiki/File:Tricastin_Nuclear_Power_Plant.jpg)
+- White boat on green grass field under gray sky: Photo by Daniel Ian on Unsplash. [qDGsTVSSwxI](https://unsplash.com/photos/white-boat-on-green-grass-field-under-gray-sky-qDGsTVSSwxI?utm_source=investiq_image_bank&utm_medium=referral)
+- Green bush plant beside house: Photo by Zoltan Tasi on Unsplash. [oeo9JeFXPwo](https://unsplash.com/photos/green-bush-plant-beside-house-oeo9JeFXPwo?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Defense & geopolitics (defense)
 
@@ -7178,6 +7188,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A wooden block spelling the word etf on a table: Photo by Markus Winkler on Unsplash. [smW1-JkTsxo](https://unsplash.com/photos/a-wooden-block-spelling-the-word-etf-on-a-table-smW1-JkTsxo?utm_source=investiq_image_bank&utm_medium=referral)
 - A person holding a cell phone with a chart on the screen: Photo by Denise Chan on Unsplash. [KZ-pyx0KLS0](https://unsplash.com/photos/a-person-holding-a-cell-phone-with-a-chart-on-the-screen-KZ-pyx0KLS0?utm_source=investiq_image_bank&utm_medium=referral)
 - A cell phone sitting on top of a table next to a laptop: Photo by PiggyBank on Unsplash. [CBbxr3JgCoo](https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-table-next-to-a-laptop-CBbxr3JgCoo?utm_source=investiq_image_bank&utm_medium=referral)
+- A person holding a cell phone in front of a laptop: Photo by Jean-Luc Picard on Unsplash. [dU_itZ6CKXk](https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-laptop-dU_itZ6CKXk?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Space economy (space)
 
@@ -7433,6 +7444,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large group of lights: Photo by superlightingled on Unsplash. [IGPhiyH9t-A](https://unsplash.com/photos/a-large-group-of-lights-IGPhiyH9t-A?utm_source=investiq_image_bank&utm_medium=referral)
 - A tangled knot of gold wire reflecting on a black surface: Photo by Spencer Liao on Unsplash. [q8LZhhs7oBE](https://unsplash.com/photos/tangled-gold-wire-knot-reflection-q8LZhhs7oBE?utm_source=investiq_image_bank&utm_medium=referral)
 - Lissajous-Figur -- 2020 -- 7766: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Lissajous-Figur -- 2020 -- 7766.jpg](https://commons.wikimedia.org/wiki/File:Lissajous-Figur_--_2020_--_7766.jpg)
+- A purple and red photo of a train station: Photo by Tom Labri on Unsplash. [vqL1B2W8Bvw](https://unsplash.com/photos/a-purple-and-red-photo-of-a-train-station-vqL1B2W8Bvw?utm_source=investiq_image_bank&utm_medium=referral)
+- Railway overhead lines and metal poles silhouetted against a warm orange sky: Photo by Edoardo Bortoli on Unsplash. [f6sDqcs7DfA](https://unsplash.com/photos/railway-overhead-lines-at-dusk-f6sDqcs7DfA?utm_source=investiq_image_bank&utm_medium=referral)
+- Purple and pink plasma ball: Photo by Hal Gatewood on Unsplash. [OgvqXGL7XO4](https://unsplash.com/photos/purple-and-pink-plasma-ball-OgvqXGL7XO4?utm_source=investiq_image_bank&utm_medium=referral)
+- Close-up of a vibrant pink and dark purple tulip with a yellow center and pollen particles on its petals, surrounded by green leaves and soil in the background.: Photo by Josh Pollock on WordPress.org Photos, CC0. [72259](https://wordpress.org/photos/photo/407661c41e/)
+- Stack of metal pipes on a factory line: Photo by xing bowen on Unsplash. [im7unQC9fUQ](https://unsplash.com/photos/stack-of-metal-pipes-on-a-factory-line-im7unQC9fUQ?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Robotics & automation (robotics)
 
@@ -7534,6 +7550,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two women facing security camera above mounted on structure: Photo by Matthew Henry on Unsplash. [fPxOowbR6ls](https://unsplash.com/photos/two-women-facing-security-camera-above-mounted-on-structure-fPxOowbR6ls?utm_source=investiq_image_bank&utm_medium=referral)
 - A rusty padlock attached to a chain link fence: Photo by Ower Yonder on Unsplash. [rwqtYBuqPYU](https://unsplash.com/photos/a-rusty-padlock-attached-to-a-chain-link-fence-rwqtYBuqPYU?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver padlock in grayscale photography: Photo by Vanna Phon on Unsplash. [hRXIKdxoaPo](https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral)
+- An empty auditorium with rows of red chairs. In the foreground, there is a control station with audio mixing equipment and laptop computers on a table.: Photo by Nilo Velez on WordPress.org Photos, CC0. [106012](https://wordpress.org/photos/photo/23667858ea/)
 
 ## India economy (india)
 
