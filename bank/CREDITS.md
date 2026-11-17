@@ -5921,6 +5921,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Plastic pellets for injection molding: Teemeah, CC BY-SA 3.0, via Wikimedia Commons. [Plastic pellets for injection molding.jpg](https://commons.wikimedia.org/wiki/File:Plastic_pellets_for_injection_molding.jpg)
 - Four orange, green, blue, and red paint rollers: Photo by David Pisnoy on Unsplash. [46juD4zY1XA](https://unsplash.com/photos/four-orange-green-blue-and-red-paint-rollers-46juD4zY1XA?utm_source=investiq_image_bank&utm_medium=referral)
 - Production of aluminium pot cover (sand mold casting) 1: Kambai Akau, CC BY-SA 4.0, via Wikimedia Commons. [Production of aluminium pot cover (sand mold casting) 1.jpg](https://commons.wikimedia.org/wiki/File:Production_of_aluminium_pot_cover_(sand_mold_casting)_1.jpg)
+- Soda Cans Pexels Breakingpic 3008: Breakingpic, CC0, via Wikimedia Commons. [Soda Cans Pexels Breakingpic 3008.jpg](https://commons.wikimedia.org/wiki/File:Soda_Cans_Pexels_Breakingpic_3008.jpg)
 
 ## Federal Reserve & interest rates (fed)
 
@@ -5971,6 +5972,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Entrance to the 1920 Federal Reserve Bank building in Dallas, Texas: Photo: Carol M. Highsmith, Library of Congress, public domain. [2014632598](https://www.loc.gov/item/2014632598/)
 - Currency in USD 2: MarkBuckawicki, CC0, via Wikimedia Commons. [Currency in USD 2.jpg](https://commons.wikimedia.org/wiki/File:Currency_in_USD_2.jpg)
 - Main vault door locking mechanism - Marble Room: Tim Evanson from Cleveland Heights, Ohio, USA, CC BY-SA 2.0, via Wikimedia Commons. [Main vault door locking mechanism - Marble Room (43296274614).jpg](https://commons.wikimedia.org/wiki/File:Main_vault_door_locking_mechanism_-_Marble_Room_(43296274614).jpg)
+- 2026 construction Eccles Federal Reserve Building Washington DC 13-38-48 1: G. Edward Johnson, CC BY 4.0, via Wikimedia Commons. [2026 construction Eccles Federal Reserve Building Washington DC 2026-06-08 13-38-48 1.jpg](https://commons.wikimedia.org/wiki/File:2026_construction_Eccles_Federal_Reserve_Building_Washington_DC_2026-06-08_13-38-48_1.jpg)
+- this is stacks of money: geralt, CC0, via Wikimedia Commons. [Dollar-499481.jpg](https://commons.wikimedia.org/wiki/File:Dollar-499481.jpg)
 
 ## Inflation & cost of living (inflation)
 
@@ -6276,7 +6279,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Data storage Centre, CERN: Mramoeba, CC0, via Wikimedia Commons. [Data storage Centre, CERN.jpg](https://commons.wikimedia.org/wiki/File:Data_storage_Centre,_CERN.jpg)
 - Smartphone with ai text in jeans pocket: Photo by Immo Wegmann on Unsplash. [CSb9Ehxb65A](https://unsplash.com/photos/smartphone-with-ai-text-in-jeans-pocket-CSb9Ehxb65A?utm_source=investiq_image_bank&utm_medium=referral)
 - A system administrator’s workstation within a data processing centre with rack cabinets and servers inside.: Photo by Javier Salinas on WordPress.org Photos, CC0. [23430](https://wordpress.org/photos/photo/61563ef3d9/)
-- A close up of a video card on a yellow background: Photo by Andrey Matveev on Unsplash. [ipVMl4H6g6o](https://unsplash.com/photos/a-close-up-of-a-video-card-on-a-yellow-background-ipVMl4H6g6o?utm_source=investiq_image_bank&utm_medium=referral)
+- Printed Circuit Board 9990: Ashley Pomeroy, CC BY 4.0, via Wikimedia Commons. [Printed Circuit Board 9990.jpg](https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg)
+- 5C2A5953R - – Silicon Wafer: Rob Bulmahn, CC BY 2.0, via Wikimedia Commons. [5C2A5953R - 49913961083 – Silicon Wafer 20200519.jpg](https://commons.wikimedia.org/wiki/File:5C2A5953R_-_49913961083_%E2%80%93_Silicon_Wafer_20200519.jpg)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6378,6 +6382,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Electronic-Axial-Lead-Resistors-Array: Evan-Amos, public domain, via Wikimedia Commons. [Electronic-Axial-Lead-Resistors-Array.jpg](https://commons.wikimedia.org/wiki/File:Electronic-Axial-Lead-Resistors-Array.jpg)
 - Blue and black audio mixer: Photo by Harrison Broadbent on Unsplash. [i5z1tvRMrnE](https://unsplash.com/photos/blue-and-black-audio-mixer-i5z1tvRMrnE?utm_source=investiq_image_bank&utm_medium=referral)
 - A close up of a raspberry board on a table: Photo by Jainath Ponnala on Unsplash. [jvHymbpto1E](https://unsplash.com/photos/a-close-up-of-a-raspberry-board-on-a-table-jvHymbpto1E?utm_source=investiq_image_bank&utm_medium=referral)
+- Lithography machine at INESC MN: Misn02, CC BY-SA 4.0, via Wikimedia Commons. [Lithography machine at INESC MN.jpg](https://commons.wikimedia.org/wiki/File:Lithography_machine_at_INESC_MN.jpg)
 
 ## Bitcoin & crypto (crypto)
 
@@ -6735,6 +6740,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - The Dark Side of the Money-1: zeevveez from Jerusalem, Israel, CC BY 2.0, via Wikimedia Commons. [The Dark Side of the Money-1 (6089273407).jpg](https://commons.wikimedia.org/wiki/File:The_Dark_Side_of_the_Money-1_(6089273407).jpg)
 - Beige concrete building during daytime: Photo by John Torcasio on Unsplash. [7NjtuSJUDG0](https://unsplash.com/photos/beige-concrete-building-during-daytime-7NjtuSJUDG0?utm_source=investiq_image_bank&utm_medium=referral)
 - 20 us dollar bill: Photo by Dan Dennis on Unsplash. [u9VFEhrmXSo](https://unsplash.com/photos/20-us-dollar-bill-u9VFEhrmXSo?utm_source=investiq_image_bank&utm_medium=referral)
+- Treasury Building: Erich Robert Joli Weber, CC BY-SA 3.0, via Wikimedia Commons. [Treasury Building (2).jpg](https://commons.wikimedia.org/wiki/File:Treasury_Building_(2).jpg)
 
 ## Housing market & mortgages (housing)
 
@@ -6835,7 +6841,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A calendar with red push buttons pinned to it: Photo by Towfiqu barbhuiya on Unsplash. [bwOAixLG0uc](https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_source=investiq_image_bank&utm_medium=referral)
 - Stacks of Coins: Kevin Schneider, CC0, via Wikimedia Commons. [Stacks of Coins.jpg](https://commons.wikimedia.org/wiki/File:Stacks_of_Coins.jpg)
 - No Known Restrictions New York Stock Exchange (Highsmith LOC): Carol M. Highsmith, public domain, via Wikimedia Commons. [No Known Restrictions New York Stock Exchange (Highsmith LOC) (6718424839).jpg](https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_New_York_Stock_Exchange_(Highsmith_LOC)_(6718424839).jpg)
-- A candle on a stand: Photo by Aurora K on Unsplash. [aH7g0XG2p4U](https://unsplash.com/photos/a-candle-on-a-stand-aH7g0XG2p4U?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
@@ -6886,6 +6891,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Close-up of champagne flutes: Photo by mdburnette on WordPress.org Photos, CC0. [6282](https://wordpress.org/photos/photo/5876212bd3/)
 - Red fireworks: Photo by Paul Morley on Unsplash. [0ALhqKA4XTc](https://unsplash.com/photos/red-fireworks-0ALhqKA4XTc?utm_source=investiq_image_bank&utm_medium=referral)
 - Two person shaking hands near white painted wall: Photo by Chris Liverani on Unsplash. [9cd8qOgeNIY](https://unsplash.com/photos/two-person-shaking-hands-near-white-painted-wall-9cd8qOgeNIY?utm_source=investiq_image_bank&utm_medium=referral)
+- NYSE facade: Ryan Schwark, CC0, via Wikimedia Commons. [NYSE facade.jpg](https://commons.wikimedia.org/wiki/File:NYSE_facade.jpg)
+- times square nasdaq: Erik Drost, CC BY 2.0, via Wikimedia Commons. [NASDAQ (6279257849).jpg](https://commons.wikimedia.org/wiki/File:NASDAQ_(6279257849).jpg)
 
 ## Electric vehicles (ev)
 
@@ -6982,8 +6989,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Power lines silhouetted at sunset: Photo by Geon George on Unsplash. [Q4CTTc-8lGQ](https://unsplash.com/photos/power-lines-silhouetted-at-sunset-Q4CTTc-8lGQ?utm_source=investiq_image_bank&utm_medium=referral)
 - De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium: Trougnouf, CC BY 4.0, via Wikimedia Commons. [De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium (DSCF3862).jpg](https://commons.wikimedia.org/wiki/File:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3862).jpg)
 - Tricastin Nuclear Power Plant: MeneerTijn, CC BY-SA 4.0, via Wikimedia Commons. [Tricastin Nuclear Power Plant.jpg](https://commons.wikimedia.org/wiki/File:Tricastin_Nuclear_Power_Plant.jpg)
-- White boat on green grass field under gray sky: Photo by Daniel Ian on Unsplash. [qDGsTVSSwxI](https://unsplash.com/photos/white-boat-on-green-grass-field-under-gray-sky-qDGsTVSSwxI?utm_source=investiq_image_bank&utm_medium=referral)
-- Green bush plant beside house: Photo by Zoltan Tasi on Unsplash. [oeo9JeFXPwo](https://unsplash.com/photos/green-bush-plant-beside-house-oeo9JeFXPwo?utm_source=investiq_image_bank&utm_medium=referral)
+- KAJ Olkiluoto 2: kallerna, CC BY-SA 4.0, via Wikimedia Commons. [KAJ Olkiluoto 2.jpg](https://commons.wikimedia.org/wiki/File:KAJ_Olkiluoto_2.jpg)
 
 ## Defense & geopolitics (defense)
 
@@ -7444,11 +7450,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large group of lights: Photo by superlightingled on Unsplash. [IGPhiyH9t-A](https://unsplash.com/photos/a-large-group-of-lights-IGPhiyH9t-A?utm_source=investiq_image_bank&utm_medium=referral)
 - A tangled knot of gold wire reflecting on a black surface: Photo by Spencer Liao on Unsplash. [q8LZhhs7oBE](https://unsplash.com/photos/tangled-gold-wire-knot-reflection-q8LZhhs7oBE?utm_source=investiq_image_bank&utm_medium=referral)
 - Lissajous-Figur -- 2020 -- 7766: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Lissajous-Figur -- 2020 -- 7766.jpg](https://commons.wikimedia.org/wiki/File:Lissajous-Figur_--_2020_--_7766.jpg)
-- A purple and red photo of a train station: Photo by Tom Labri on Unsplash. [vqL1B2W8Bvw](https://unsplash.com/photos/a-purple-and-red-photo-of-a-train-station-vqL1B2W8Bvw?utm_source=investiq_image_bank&utm_medium=referral)
-- Railway overhead lines and metal poles silhouetted against a warm orange sky: Photo by Edoardo Bortoli on Unsplash. [f6sDqcs7DfA](https://unsplash.com/photos/railway-overhead-lines-at-dusk-f6sDqcs7DfA?utm_source=investiq_image_bank&utm_medium=referral)
-- Purple and pink plasma ball: Photo by Hal Gatewood on Unsplash. [OgvqXGL7XO4](https://unsplash.com/photos/purple-and-pink-plasma-ball-OgvqXGL7XO4?utm_source=investiq_image_bank&utm_medium=referral)
-- Close-up of a vibrant pink and dark purple tulip with a yellow center and pollen particles on its petals, surrounded by green leaves and soil in the background.: Photo by Josh Pollock on WordPress.org Photos, CC0. [72259](https://wordpress.org/photos/photo/407661c41e/)
-- Stack of metal pipes on a factory line: Photo by xing bowen on Unsplash. [im7unQC9fUQ](https://unsplash.com/photos/stack-of-metal-pipes-on-a-factory-line-im7unQC9fUQ?utm_source=investiq_image_bank&utm_medium=referral)
+- A few optical elements in the transient spectroscopy laser setup I work with.: Maximilian Paradiz from Amsterdam, Netherlands, CC BY 2.0, via Wikimedia Commons. [Optics (36885553313).jpg](https://commons.wikimedia.org/wiki/File:Optics_(36885553313).jpg)
 
 ## Robotics & automation (robotics)
 
@@ -7550,7 +7552,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two women facing security camera above mounted on structure: Photo by Matthew Henry on Unsplash. [fPxOowbR6ls](https://unsplash.com/photos/two-women-facing-security-camera-above-mounted-on-structure-fPxOowbR6ls?utm_source=investiq_image_bank&utm_medium=referral)
 - A rusty padlock attached to a chain link fence: Photo by Ower Yonder on Unsplash. [rwqtYBuqPYU](https://unsplash.com/photos/a-rusty-padlock-attached-to-a-chain-link-fence-rwqtYBuqPYU?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver padlock in grayscale photography: Photo by Vanna Phon on Unsplash. [hRXIKdxoaPo](https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral)
-- An empty auditorium with rows of red chairs. In the foreground, there is a control station with audio mixing equipment and laptop computers on a table.: Photo by Nilo Velez on WordPress.org Photos, CC0. [106012](https://wordpress.org/photos/photo/23667858ea/)
 
 ## India economy (india)
 
