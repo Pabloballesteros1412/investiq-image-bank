@@ -194643,12 +194643,86 @@
     "track_pending": true
    },
    {
-    "shot": "mainframe",
-    "shows": "Recreation of Diagram from 1968 GE-645 System Manual ( http://bitsavers.org/pdf/ge/GE-645/LSB0468_GE-645_System_Manual_Jan1968.pdf ) This shows a potential conf",
-    "file": "File:GE-645-mainframe-1968.png",
-    "page": "https://commons.wikimedia.org/wiki/File:GE-645-mainframe-1968.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/GE-645-mainframe-1968.png/1280px-GE-645-mainframe-1968.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/GE-645-mainframe-1968.png/500px-GE-645-mainframe-1968.png",
+    "shot": "laboratory",
+    "shows": "The chemical laboratory where Edison's teams worked on chemicals that were used in batteries, phonograph records and other inventions, at The Thomas Edison Nati",
+    "file": "loc:2017882246",
+    "page": "https://www.loc.gov/item/2017882246/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45497/full/2250,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:45400:45497/full/500,/0/default.jpg",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "electronics-lab",
+    "shows": "Electronics equipment for demo at Par Lab retreat",
+    "file": "File:Electronics equipment for demo at Par Lab retreat (8443570446).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Electronics_equipment_for_demo_at_Par_Lab_retreat_(8443570446).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Electronics_equipment_for_demo_at_Par_Lab_retreat_%288443570446%29.jpg/1920px-Electronics_equipment_for_demo_at_Par_Lab_retreat_%288443570446%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Electronics_equipment_for_demo_at_Par_Lab_retreat_%288443570446%29.jpg/500px-Electronics_equipment_for_demo_at_Par_Lab_retreat_%288443570446%29.jpg",
+    "size": [
+     1920,
+     1281
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Chiara Coetzee from Menlo Park, CA, USA, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Chiara Coetzee from Menlo Park, CA, USA",
+    "year": 2013,
+    "how": "catalog"
+   },
+   {
+    "shot": "rainbow-light",
+    "shows": "London King's Cross rainbow light tunnel",
+    "file": "File:London King's Cross rainbow light tunnel - 2023-06-25.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:London_King%27s_Cross_rainbow_light_tunnel_-_2023-06-25.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/London_King%27s_Cross_rainbow_light_tunnel_-_2023-06-25.jpg/1920px-London_King%27s_Cross_rainbow_light_tunnel_-_2023-06-25.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/London_King%27s_Cross_rainbow_light_tunnel_-_2023-06-25.jpg/500px-London_King%27s_Cross_rainbow_light_tunnel_-_2023-06-25.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "The wub, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "The wub",
+    "year": 2023,
+    "how": "catalog",
+    "flags": [
+     "restrictions: LGBT"
+    ]
+   },
+   {
+    "shot": "infinity-mirror",
+    "shows": "Infinity mirror dodecahedron",
+    "file": "File:Infinity mirror dodecahedron.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Infinity_mirror_dodecahedron.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Infinity_mirror_dodecahedron.png/1280px-Infinity_mirror_dodecahedron.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Infinity_mirror_dodecahedron.png/500px-Infinity_mirror_dodecahedron.png",
     "size": [
      1280,
      1707
@@ -194657,92 +194731,44 @@
      0.5,
      0.5
     ],
-    "credit": "Dóeltenga, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dóeltenga",
-    "year": 2023,
+    "credit": "The Sophocrat, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "The Sophocrat",
+    "year": 2024,
     "how": "catalog"
    },
    {
-    "shot": "neon-tubes",
-    "shows": "Neon spectrum tube with color spectrum",
-    "file": "File:Neon spectrum tube with color spectrum.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Neon_spectrum_tube_with_color_spectrum.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Neon_spectrum_tube_with_color_spectrum.jpg/1920px-Neon_spectrum_tube_with_color_spectrum.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Neon_spectrum_tube_with_color_spectrum.jpg/500px-Neon_spectrum_tube_with_color_spectrum.jpg",
+    "shot": "light-spiral",
+    "shows": "Light painting screw",
+    "file": "File:Light painting screw.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Light_painting_screw.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Light_painting_screw.jpg/1920px-Light_painting_screw.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Light_painting_screw.jpg/500px-Light_painting_screw.jpg",
     "size": [
      1920,
-     1280
+     1281
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jack D. Gifford, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jack D. Gifford",
-    "year": 2019,
+    "credit": "Karsten Loewenstein ( talk · contribs ), CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Karsten Loewenstein ( talk · contribs )",
+    "year": 2014,
     "how": "catalog"
    },
    {
-    "shot": "light-painting",
-    "shows": "Cozy interior with colorful paintings on a curved brick wall, a gray couch, and natural light from a window.",
-    "file": "wordpress:242569",
-    "page": "https://wordpress.org/photos/photo/8966aacfbb/",
-    "url": "https://pd.w.org/2026/09/8966aacfbba110540.28694832-1663x2048.jpg",
-    "preview": "https://pd.w.org/2026/09/8966aacfbba110540.28694832-768x946.jpg",
-    "size": [
-     1663,
-     2048
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by aashrayapokhrel on WordPress.org Photos, CC0",
-    "licence": "CC0 1.0",
-    "licence_kind": "cc0",
-    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
-    "author": "aashrayapokhrel",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "wordpress",
-    "author_url": "https://wordpress.org/photos/author/aashrayapokhrel/"
-   },
-   {
-    "shot": "fiber-optic-lamp",
-    "shows": "Deuterium lamp 1",
-    "file": "File:Deuterium lamp 1.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Deuterium_lamp_1.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Deuterium_lamp_1.png/1920px-Deuterium_lamp_1.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Deuterium_lamp_1.png/500px-Deuterium_lamp_1.png",
-    "size": [
-     1920,
-     1276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The original uploader was Deglr6328 at English Wikipedia ., CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "The original uploader was Deglr6328 at English Wikipedia .",
-    "year": 2006,
-    "how": "catalog"
-   },
-   {
-    "shot": "copper-wire",
-    "shows": "Copper Wire and Crystals",
-    "file": "File:Copper Wire and Crystals.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Copper_Wire_and_Crystals.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Copper_Wire_and_Crystals.jpg/1920px-Copper_Wire_and_Crystals.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Copper_Wire_and_Crystals.jpg/500px-Copper_Wire_and_Crystals.jpg",
+    "shot": "laser-show",
+    "shows": "Laserbeam laser show during the Lampionfest in Bad Westernkotten 14",
+    "file": "File:Laserbeam laser show during the Lampionfest in Bad Westernkotten 2024-08-17 14.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg/1920px-Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg/500px-Laserbeam_laser_show_during_the_Lampionfest_in_Bad_Westernkotten_2024-08-17_14.jpg",
     "size": [
      1920,
      1440
@@ -194751,21 +194777,47 @@
      0.5,
      0.5
     ],
-    "credit": "Best Sci-Fatcs, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Nakonana, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Best Sci-Fatcs",
-    "year": 2015,
+    "author": "Nakonana",
+    "year": 2024,
     "how": "catalog"
    },
    {
-    "shot": "glass-sphere",
-    "shows": "Clear glass ball with red and yellow light",
-    "file": "unsplash:lIg3uH5r8n4",
-    "page": "https://unsplash.com/photos/clear-glass-ball-with-red-and-yellow-light-lIg3uH5r8n4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1624901344247-1f536781b1b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGdsYXNzJTIwc3BoZXJlfGVufDF8fHx8MTc5NDkxNjk4Mnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1624901344247-1f536781b1b0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGdsYXNzJTIwc3BoZXJlfGVufDF8fHx8MTc5NDkxNjk4Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "led-strip",
+    "shows": "A large group of lights",
+    "file": "unsplash:IGPhiyH9t-A",
+    "page": "https://unsplash.com/photos/a-large-group-of-lights-IGPhiyH9t-A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1659066019874-7a15628cea60?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGVkJTIwc3RyaXB8ZW58MXx8fHwxNzk0OTI1NDM1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1659066019874-7a15628cea60?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGVkJTIwc3RyaXB8ZW58MXx8fHwxNzk0OTI1NDM1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by superlightingled on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "superlightingled",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@superlightingled?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IGPhiyH9t-A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8bGVkJTIwc3RyaXB8ZW58MXx8fHwxNzk0OTI1NDM1fDA"
+   },
+   {
+    "shot": "frost",
+    "shows": "A close up of a grass covered in frost",
+    "file": "unsplash:YuamzIeKlNk",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-grass-covered-in-frost-YuamzIeKlNk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1675857482662-b813cbd60864?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1675857482662-b813cbd60864?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
      1800
@@ -194774,117 +194826,127 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Belinda Fewings on Unsplash",
+    "credit": "Photo by Michael Held on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Belinda Fewings",
+    "author": "Michael Held",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@michaelheld?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/YuamzIeKlNk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8ZnJvc3R8ZW58MXx8fHwxNzk0OTI1NDg5fDA"
+   },
+   {
+    "shot": "ice-crystal",
+    "shows": "White and blue abstract painting",
+    "file": "unsplash:IpYMSnNdYBE",
+    "page": "https://unsplash.com/photos/white-and-blue-abstract-painting-IpYMSnNdYBE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1613753566216-193004e990bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8aWNlJTIwY3J5c3RhbHxlbnwxfHx8fDE3OTQ5MjU1MDN8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1613753566216-193004e990bc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8aWNlJTIwY3J5c3RhbHxlbnwxfHx8fDE3OTQ5MjU1MDN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daniele Levis Pelusi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniele Levis Pelusi",
     "year": 2021,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@bel2000a?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/lIg3uH5r8n4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGdsYXNzJTIwc3BoZXJlfGVufDF8fHx8MTc5NDkxNjk4Mnww",
+    "author_url": "https://unsplash.com/@yogidan2012?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IpYMSnNdYBE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8aWNlJTIwY3J5c3RhbHxlbnwxfHx8fDE3OTQ5MjU1MDN8MA"
+   },
+   {
+    "shot": "gold-wire",
+    "shows": "A tangled knot of gold wire reflecting on a black surface",
+    "file": "unsplash:q8LZhhs7oBE",
+    "page": "https://unsplash.com/photos/tangled-gold-wire-knot-reflection-q8LZhhs7oBE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1786835568747-08c49cf4e826?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Z29sZCUyMHdpcmV8ZW58MXx8fHwxNzk0OTI1NTI1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1786835568747-08c49cf4e826?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Z29sZCUyMHdpcmV8ZW58MXx8fHwxNzk0OTI1NTI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Spencer Liao on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Spencer Liao",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@spencerliao?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/q8LZhhs7oBE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Z29sZCUyMHdpcmV8ZW58MXx8fHwxNzk0OTI1NTI1fDA",
     "track_pending": true
    },
    {
-    "shot": "crystal",
-    "shows": "The chemical element bismuth as a synthetic made crystal. The surface is an iridescent very thin layer of oxidation.",
-    "file": "File:Bi-crystal.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bi-crystal.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bi-crystal.jpg/1280px-Bi-crystal.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bi-crystal.jpg/500px-Bi-crystal.jpg",
+    "shot": "vintage-computer",
+    "shows": "A vintage computer sits on a patterned surface",
+    "file": "unsplash:J1yATCIy4PQ",
+    "page": "https://unsplash.com/photos/a-vintage-computer-sits-on-a-patterned-surface-J1yATCIy4PQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1745006485274-1f62da7ea85a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8dmludGFnZSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5NDkyNTYwMXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1745006485274-1f62da7ea85a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8dmludGFnZSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5NDkyNTYwMXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1683
+     1200,
+     2133
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Alchemist-hp ( www.pse-mendelejew.de ) + Richard Bartz with focus stack., CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Alchemist-hp ( www.pse-mendelejew.de ) + Richard Bartz with focus stack.",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
-    "shot": "science",
-    "shows": "Asian Science Camp 2022 participants with Kim Eunjoon",
-    "file": "File:Asian Science Camp 2022 participants with Kim Eunjoon.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Asian_Science_Camp_2022_participants_with_Kim_Eunjoon.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Asian_Science_Camp_2022_participants_with_Kim_Eunjoon.jpg/1920px-Asian_Science_Camp_2022_participants_with_Kim_Eunjoon.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Asian_Science_Camp_2022_participants_with_Kim_Eunjoon.jpg/500px-Asian_Science_Camp_2022_participants_with_Kim_Eunjoon.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Rickinasia, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Rickinasia",
-    "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "server-lights",
-    "shows": "Lom Stabkirche Lom 14",
-    "file": "File:Lom Stabkirche Lom 14.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Lom_Stabkirche_Lom_14.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lom_Stabkirche_Lom_14.JPG/1280px-Lom_Stabkirche_Lom_14.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lom_Stabkirche_Lom_14.JPG/500px-Lom_Stabkirche_Lom_14.JPG",
-    "size": [
-     1280,
-     1703
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Zairon, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Zairon",
-    "year": 2012,
-    "how": "catalog"
+    "credit": "Photo by Callum Mullin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Callum Mullin",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cmbgraphicdesign?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/J1yATCIy4PQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8dmludGFnZSUyMGNvbXB1dGVyfGVufDF8fHx8MTc5NDkyNTYwMXww",
+    "track_pending": true
    },
    {
     "shot": "glowing",
-    "shows": "Glowing Beauties",
-    "file": "File:Glowing Beauties.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Glowing_Beauties.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Glowing_Beauties.jpg/1920px-Glowing_Beauties.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Glowing_Beauties.jpg/500px-Glowing_Beauties.jpg",
+    "shows": "Glowing orbs 02",
+    "file": "File:Glowing orbs 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glowing_orbs_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Glowing_orbs_02.jpg/1920px-Glowing_orbs_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Glowing_orbs_02.jpg/500px-Glowing_orbs_02.jpg",
     "size": [
      1920,
-     1139
+     1434
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Rob Robinette, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Jo-Jo Eumerus, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Rob Robinette",
-    "year": 2017,
+    "author": "Jo-Jo Eumerus",
+    "year": 2016,
     "how": "catalog"
    },
    {
     "shot": "motherboard",
-    "shows": "Computer motherboard 8",
-    "file": "File:Computer motherboard 8.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Computer_motherboard_8.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Computer_motherboard_8.jpg/1280px-Computer_motherboard_8.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Computer_motherboard_8.jpg/500px-Computer_motherboard_8.jpg",
+    "shows": "Computer motherboard 13",
+    "file": "File:Computer motherboard 13.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Computer_motherboard_13.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Computer_motherboard_13.jpg/1280px-Computer_motherboard_13.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Computer_motherboard_13.jpg/500px-Computer_motherboard_13.jpg",
     "size": [
      1280,
      1707
@@ -194898,16 +194960,16 @@
     "licence_kind": "cc0",
     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
     "author": "Kurt Kaiser",
-    "year": 2014,
+    "year": 2013,
     "how": "catalog"
    },
    {
     "shot": "gold-wires",
-    "shows": "Western Han Jade Burial Suit with Gold Wire and 4248 Jade Pieces - c",
-    "file": "File:Western Han Jade Burial Suit with Gold Wire and 4248 Jade Pieces - c.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_c.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_c.jpg/1920px-Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_c.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_c.jpg/500px-Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_c.jpg",
+    "shows": "Western Han Jade Burial Suit with Gold Wire and 4248 Jade Pieces - d",
+    "file": "File:Western Han Jade Burial Suit with Gold Wire and 4248 Jade Pieces - d.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg/1920px-Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg/500px-Western_Han_Jade_Burial_Suit_with_Gold_Wire_and_4248_Jade_Pieces_-_d.jpg",
     "size": [
      1920,
      1280
@@ -194923,59 +194985,12 @@
     "author": "Gary Todd",
     "year": 2011,
     "how": "catalog"
-   },
-   {
-    "shot": "research-laboratory",
-    "shows": "Naval Research Laboratory dish 2015",
-    "file": "File:Naval Research Laboratory dish 2015.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Naval_Research_Laboratory_dish_2015.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Naval_Research_Laboratory_dish_2015.JPG/1920px-Naval_Research_Laboratory_dish_2015.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Naval_Research_Laboratory_dish_2015.JPG/500px-Naval_Research_Laboratory_dish_2015.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Antony-22, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Antony-22",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
-    "shot": "light-painting",
-    "shows": "Experiment with lens ball and light stick (white light against black background) The lens ball is placed on a glass plate in front of a black background. The li",
-    "file": "File:Glaskugel -- 2022 -- 9849.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Glaskugel_--_2022_--_9849.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Glaskugel_--_2022_--_9849.jpg/1920px-Glaskugel_--_2022_--_9849.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Glaskugel_--_2022_--_9849.jpg/500px-Glaskugel_--_2022_--_9849.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dietmar Rabich",
-    "year": 2022,
-    "how": "catalog"
    }
   ],
   "missing": [
-   "physics-lab",
-   "supercomputer",
-   "cables",
-   "copper-coil"
+   "physics",
+   "copper-coil",
+   "research-laboratory"
   ],
   "checked": "2026-11-17"
  },

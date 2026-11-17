@@ -5767,6 +5767,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Gas flare on top of a flare stack at Preemraff Lysekil 5: W.carter, CC0, via Wikimedia Commons. [Gas flare on top of a flare stack at Preemraff Lysekil 5.jpg](https://commons.wikimedia.org/wiki/File:Gas_flare_on_top_of_a_flare_stack_at_Preemraff_Lysekil_5.jpg)
 - 00 3783 Oil and gas platform in Norway: W. Bulach, CC BY-SA 4.0, via Wikimedia Commons. [00 3783 Oil and gas platform in Norway.jpg](https://commons.wikimedia.org/wiki/File:00_3783_Oil_and_gas_platform_in_Norway.jpg)
 - Irving Oil Refinery - Saint John, NB: Quintin Soloviev, CC BY 4.0, via Wikimedia Commons. [Irving Oil Refinery - Saint John, NB.jpg](https://commons.wikimedia.org/wiki/File:Irving_Oil_Refinery_-_Saint_John,_NB.jpg)
+- Oil Well Derrick - Kettleman North Dome 4-30-11 B1: Armona, CC BY-SA 3.0, via Wikimedia Commons. [Oil Well Derrick - Kettleman North Dome 4-30-11 B1.jpg](https://commons.wikimedia.org/wiki/File:Oil_Well_Derrick_-_Kettleman_North_Dome_4-30-11_B1.jpg)
 
 ## Utilities sector (sector-utilities)
 
@@ -5918,7 +5919,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Enamelled litz copper wire: Alisdojo, CC0, via Wikimedia Commons. [Enamelled litz copper wire.JPG](https://commons.wikimedia.org/wiki/File:Enamelled_litz_copper_wire.JPG)
 - Plastic pellets for injection molding: Teemeah, CC BY-SA 3.0, via Wikimedia Commons. [Plastic pellets for injection molding.jpg](https://commons.wikimedia.org/wiki/File:Plastic_pellets_for_injection_molding.jpg)
 - Four orange, green, blue, and red paint rollers: Photo by David Pisnoy on Unsplash. [46juD4zY1XA](https://unsplash.com/photos/four-orange-green-blue-and-red-paint-rollers-46juD4zY1XA?utm_source=investiq_image_bank&utm_medium=referral)
-- Abstract dark glass shapes with sharp edges and prismatic light refractions: Photo by Nick Levish on Unsplash. [bPk08NaiT9M](https://unsplash.com/photos/abstract-dark-glass-with-light-refractions-bPk08NaiT9M?utm_source=investiq_image_bank&utm_medium=referral)
+- Production of aluminium pot cover (sand mold casting) 1: Kambai Akau, CC BY-SA 4.0, via Wikimedia Commons. [Production of aluminium pot cover (sand mold casting) 1.jpg](https://commons.wikimedia.org/wiki/File:Production_of_aluminium_pot_cover_(sand_mold_casting)_1.jpg)
 
 ## Federal Reserve & interest rates (fed)
 
@@ -5968,6 +5969,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Money - Flickr - Tracy O: Tracy O, CC BY-SA 2.0, via Wikimedia Commons. [Money - Flickr - Tracy O.jpg](https://commons.wikimedia.org/wiki/File:Money_-_Flickr_-_Tracy_O.jpg)
 - Entrance to the 1920 Federal Reserve Bank building in Dallas, Texas: Photo: Carol M. Highsmith, Library of Congress, public domain. [2014632598](https://www.loc.gov/item/2014632598/)
 - Currency in USD 2: MarkBuckawicki, CC0, via Wikimedia Commons. [Currency in USD 2.jpg](https://commons.wikimedia.org/wiki/File:Currency_in_USD_2.jpg)
+- Main vault door locking mechanism - Marble Room: Tim Evanson from Cleveland Heights, Ohio, USA, CC BY-SA 2.0, via Wikimedia Commons. [Main vault door locking mechanism - Marble Room (43296274614).jpg](https://commons.wikimedia.org/wiki/File:Main_vault_door_locking_mechanism_-_Marble_Room_(43296274614).jpg)
 
 ## Inflation & cost of living (inflation)
 
@@ -6117,6 +6119,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Food delivery driver delivering online order: Meanwell Packaging, CC BY 2.0, via Wikimedia Commons. [Food delivery driver delivering online order.jpg](https://commons.wikimedia.org/wiki/File:Food_delivery_driver_delivering_online_order.jpg)
 - A sign that says we are hiring and apply today: Photo by Eric Prouzet on Unsplash. [B3UFXwcVbc4](https://unsplash.com/photos/a-sign-that-says-we-are-hiring-and-apply-today-B3UFXwcVbc4?utm_source=investiq_image_bank&utm_medium=referral)
 - A typewriter with a job application printed on it: Photo by Markus Winkler on Unsplash. [XKKuY4ottJ0](https://unsplash.com/photos/a-typewriter-with-a-job-application-printed-on-it-XKKuY4ottJ0?utm_source=investiq_image_bank&utm_medium=referral)
+- A white hard hat sitting on top of a solar panel: Photo by Evgeniy Alyoshin on Unsplash. [2ASQyjafflo](https://unsplash.com/photos/a-white-hard-hat-sitting-on-top-of-a-solar-panel-2ASQyjafflo?utm_source=investiq_image_bank&utm_medium=referral)
+- Modern office interior with cubicles and workstations: Photo by blue sky on Unsplash. [IHUzuqnK87g](https://unsplash.com/photos/modern-office-interior-with-cubicles-and-workstations-IHUzuqnK87g?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Wall Street & stock market rallies (bull-market)
 
@@ -6169,7 +6173,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Brown cow on green grass field during daytime: Photo by Natilyn Hicks Photography on Unsplash. [-cGLKVuE0nk](https://unsplash.com/photos/brown-cow-on-green-grass-field-during-daytime--cGLKVuE0nk?utm_source=investiq_image_bank&utm_medium=referral)
 - Bull silhouette on a hill against a vibrant orange sunset: Photo by Daryan Shamkhali on Unsplash. [cye6So5v_Y0](https://unsplash.com/photos/bull-silhouette-on-a-hill-against-a-vibrant-orange-sunset-cye6So5v_Y0?utm_source=investiq_image_bank&utm_medium=referral)
 - A close-up of a grey and white bull with a yellow ear tag: Photo by Volodymyr Lymariev on Unsplash. [3t-SEZF0fVo](https://unsplash.com/photos/bull-with-yellow-ear-tag-3t-SEZF0fVo?utm_source=investiq_image_bank&utm_medium=referral)
-- Two arrows pointing right, one green, one yellow: Photo by Jéan Béller on Unsplash. [aW8OWJOyWAs](https://unsplash.com/photos/two-arrows-pointing-right-one-green-one-yellow-aW8OWJOyWAs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Market crash & volatility (crash)
 
@@ -6259,10 +6262,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A wall of electronic equipment in a dark room: Photo by Dan Taylor on Unsplash. [5-0L-kJGQmE](https://unsplash.com/photos/a-wall-of-electronic-equipment-in-a-dark-room-5-0L-kJGQmE?utm_source=investiq_image_bank&utm_medium=referral)
 - Lines of colorful computer code displayed on a dark screen: Photo by Mitchell Luo on Unsplash. [FWoq_ldWlNQ](https://unsplash.com/photos/computer-code-on-dark-screen-FWoq_ldWlNQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Anatomical model of a human head with brain: Photo by Marek Piwnicki on Unsplash. [lZlWiXaxRZc](https://unsplash.com/photos/anatomical-model-of-a-human-head-with-brain-lZlWiXaxRZc?utm_source=investiq_image_bank&utm_medium=referral)
-- Man in black crew neck shirt wearing black headphones: Photo by Minh Pham on Unsplash. [AHCmAX0k_J4](https://unsplash.com/photos/man-in-black-crew-neck-shirt-wearing-black-headphones-AHCmAX0k_J4?utm_source=investiq_image_bank&utm_medium=referral)
-- Software Technology Park Islamabad: Photo by Zeshan Amin on WordPress.org Photos, CC0. [44996](https://wordpress.org/photos/photo/4596561d8b/)
-- Person using stylus on tablet with charts: Photo by Jakub Żerdzicki on Unsplash. [vWkwul5Bpbs](https://unsplash.com/photos/person-using-stylus-on-tablet-with-charts-vWkwul5Bpbs?utm_source=investiq_image_bank&utm_medium=referral)
-- Person typing on laptop computer: Photo by Quilia on Unsplash. [3GZNPBLImWc](https://unsplash.com/photos/person-typing-on-laptop-computer-3GZNPBLImWc?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a plastic brain model: Photo by Lisa Yount on Unsplash. [JkAxfH5ktpw](https://unsplash.com/photos/a-close-up-of-a-plastic-brain-model-JkAxfH5ktpw?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6312,8 +6312,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Reid Gardner BESS: Sig. Chiocciola, CC0, via Wikimedia Commons. [Reid Gardner BESS.jpg](https://commons.wikimedia.org/wiki/File:Reid_Gardner_BESS.jpg)
 - A bunch of blue wires connected to each other: Photo by Scott Rodgerson on Unsplash. [PSpf_XgOM5w](https://unsplash.com/photos/a-bunch-of-blue-wires-connected-to-each-other-PSpf_XgOM5w?utm_source=investiq_image_bank&utm_medium=referral)
 - A white laptop computer sitting on top of a table: Photo by Jakub Żerdzicki on Unsplash. [4kdGXUOKwcI](https://unsplash.com/photos/a-white-laptop-computer-sitting-on-top-of-a-table-4kdGXUOKwcI?utm_source=investiq_image_bank&utm_medium=referral)
-- A samsung power bank sitting on a desk next to a laptop: Photo by Amjith S on Unsplash. [uegsp34Efls](https://unsplash.com/photos/a-samsung-power-bank-sitting-on-a-desk-next-to-a-laptop-uegsp34Efls?utm_source=investiq_image_bank&utm_medium=referral)
-- An air conditioning unit mounted on a wall: Photo by Andrianto Cahyono Putro on Unsplash. [ItJsBJlf5Qw](https://unsplash.com/photos/an-air-conditioning-unit-mounted-on-a-wall-ItJsBJlf5Qw?utm_source=investiq_image_bank&utm_medium=referral)
+- Viglen blade servers: devopstom, CC BY-SA 2.0, via Wikimedia Commons. [Viglen blade servers.jpg](https://commons.wikimedia.org/wiki/File:Viglen_blade_servers.jpg)
+- A close up of a network tester on a table: Photo by Gavin Allanwood on Unsplash. [-xITpL_gncA](https://unsplash.com/photos/a-close-up-of-a-network-tester-on-a-table--xITpL_gncA?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Semiconductors & the chip war (chips)
 
@@ -6412,6 +6412,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Hand holding ledger hardware wallet over keyboard: Photo by CARTIST on Unsplash. [_mrKRTorDkA](https://unsplash.com/photos/hand-holding-ledger-hardware-wallet-over-keyboard-_mrKRTorDkA?utm_source=investiq_image_bank&utm_medium=referral)
 - A trader's desk is lit up with charts: Photo by Jakub Żerdzicki on Unsplash. [aGKspo5OIyg](https://unsplash.com/photos/a-traders-desk-is-lit-up-with-charts-aGKspo5OIyg?utm_source=investiq_image_bank&utm_medium=referral)
 - Stock charts are displayed on multiple screens: Photo by Jakub Żerdzicki on Unsplash. [VM_6EtTAfDQ](https://unsplash.com/photos/stock-charts-are-displayed-on-multiple-screens-VM_6EtTAfDQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Yellow and white round logo: Photo by Vadim Art on Unsplash. [9nqyyLZnNyk](https://unsplash.com/photos/yellow-and-white-round-logo-9nqyyLZnNyk?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Gold (gold)
 
@@ -6461,7 +6462,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Gold Ingots on white background: Szaaman, public domain, via Wikimedia Commons. [Gold Ingots on white background.jpg](https://commons.wikimedia.org/wiki/File:Gold_Ingots_on_white_background.jpg)
 - A gold chain on a black background: Photo by PRAHANT STUDIO on Unsplash. [R_pIyT1KF80](https://unsplash.com/photos/a-gold-chain-on-a-black-background-R_pIyT1KF80?utm_source=investiq_image_bank&utm_medium=referral)
 - A three row diamond ring on a white cloth: Photo by Aniket Sharma on Unsplash. [ts3IgWvhLtU](https://unsplash.com/photos/a-three-row-diamond-ring-on-a-white-cloth-ts3IgWvhLtU?utm_source=investiq_image_bank&utm_medium=referral)
-- Person wearing silver and gold analog watch: Photo by Laura Chouette on Unsplash. [2NIAbGMjdR0](https://unsplash.com/photos/person-wearing-silver-and-gold-analog-watch-2NIAbGMjdR0?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Oil & energy (oil)
 
@@ -6807,8 +6807,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Bundle of newspaper on table: Photo by Mr Cup / Fabien Barral on Unsplash. [Mwuod2cm8g4](https://unsplash.com/photos/bundle-of-newspaper-on-table-Mwuod2cm8g4?utm_source=investiq_image_bank&utm_medium=referral)
 - Two people analyzing a document with green bar charts: Photo by Invest Europe on Unsplash. [k2eh5qyrce4](https://unsplash.com/photos/two-people-analyzing-a-document-with-green-bar-charts-k2eh5qyrce4?utm_source=investiq_image_bank&utm_medium=referral)
 - Hand operating laptop displaying data spreadsheet on a desk: Photo by Gorilla ROI Data Connector on Unsplash. [qLf_ML_Rfq8](https://unsplash.com/photos/hand-operating-laptop-displaying-data-spreadsheet-on-a-desk-qLf_ML_Rfq8?utm_source=investiq_image_bank&utm_medium=referral)
-- A conference table with black chairs and glass water bottles in a modern office meeting room: Photo by David Marquez on Unsplash. [YnqYhUioGRY](https://unsplash.com/photos/conference-table-in-modern-meeting-room-YnqYhUioGRY?utm_source=investiq_image_bank&utm_medium=referral)
-- A cell phone on a bush: Photo by Amjith S on Unsplash. [rvScL8J-XfE](https://unsplash.com/photos/a-cell-phone-on-a-bush-rvScL8J-XfE?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and silver laptop computer: Photo by path digital on Unsplash. [tR0jvlsmCuQ](https://unsplash.com/photos/black-and-silver-laptop-computer-tR0jvlsmCuQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Laptop computer on glass-top table: Photo by Carlos Muza on Unsplash. [hpjSkU2UYSU](https://unsplash.com/photos/laptop-computer-on-glass-top-table-hpjSkU2UYSU?utm_source=investiq_image_bank&utm_medium=referral)
+- Elegant boardroom (Unsplash): Benjamin Child bchild311, CC0, via Wikimedia Commons. [Elegant boardroom (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Elegant_boardroom_(Unsplash).jpg)
 
 ## IPOs (ipo)
 
@@ -6859,7 +6860,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Close-up of champagne flutes: Photo by mdburnette on WordPress.org Photos, CC0. [6282](https://wordpress.org/photos/photo/5876212bd3/)
 - Red fireworks: Photo by Paul Morley on Unsplash. [0ALhqKA4XTc](https://unsplash.com/photos/red-fireworks-0ALhqKA4XTc?utm_source=investiq_image_bank&utm_medium=referral)
 - Two person shaking hands near white painted wall: Photo by Chris Liverani on Unsplash. [9cd8qOgeNIY](https://unsplash.com/photos/two-person-shaking-hands-near-white-painted-wall-9cd8qOgeNIY?utm_source=investiq_image_bank&utm_medium=referral)
-- A rocket ascending into the night sky with a bright orange and blue trail: Photo by SpaceX on Unsplash. [NC37HQXdpZ0](https://unsplash.com/photos/rocket-ascending-with-bright-exhaust-trail-NC37HQXdpZ0?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Electric vehicles (ev)
 
@@ -6908,6 +6908,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A light blue electric suv parked on a gravel road: Photo by Autotrader UK on Unsplash. [5bcCM4lmEVQ](https://unsplash.com/photos/a-light-blue-electric-suv-parked-on-a-gravel-road-5bcCM4lmEVQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Sleek white convertible sports car in modern showroom: Photo by Mick Waanders on Unsplash. [L1oA9Qtp3Ls](https://unsplash.com/photos/sleek-white-convertible-sports-car-in-modern-showroom-L1oA9Qtp3Ls?utm_source=investiq_image_bank&utm_medium=referral)
 - Electrify America electric vehicle charging station, Valdosta: Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons. [Electrify America electric vehicle charging station, Valdosta.jpg](https://commons.wikimedia.org/wiki/File:Electrify_America_electric_vehicle_charging_station,_Valdosta.jpg)
+- A car is parked in front of a gas pump: Photo by Bram Van Oost on Unsplash. [J6005MiIjQk](https://unsplash.com/photos/a-car-is-parked-in-front-of-a-gas-pump-J6005MiIjQk?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Nuclear power & uranium (nuclear)
 
@@ -6949,7 +6950,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Victoreen CD V-700.overview: Roger469, public domain, via Wikimedia Commons. [Victoreen CD V-700.overview.jpg](https://commons.wikimedia.org/wiki/File:Victoreen_CD_V-700.overview.jpg)
 - A control panel in a building at night: Photo by Patrick Konior on Unsplash. [rDyXca1ZGRI](https://unsplash.com/photos/a-control-panel-in-a-building-at-night-rDyXca1ZGRI?utm_source=investiq_image_bank&utm_medium=referral)
 - A factory with a lot of smoke coming out of it: Photo by Mads Eneqvist on Unsplash. [PpKvtSEiUCE](https://unsplash.com/photos/a-factory-with-a-lot-of-smoke-coming-out-of-it-PpKvtSEiUCE?utm_source=investiq_image_bank&utm_medium=referral)
-- Photo of white wind turbine: Photo by Nagy Arnold on Unsplash. [jc5ZUZ_rfZk](https://unsplash.com/photos/photo-of-white-wind-turbine-jc5ZUZ_rfZk?utm_source=investiq_image_bank&utm_medium=referral)
+- Aerial view of industrial factory: Photo by CHUTTERSNAP on Unsplash. [_EFvjSgbw1c](https://unsplash.com/photos/aerial-view-of-industrial-factory-_EFvjSgbw1c?utm_source=investiq_image_bank&utm_medium=referral)
+- Sunset at Thermal power plant, Barwala ,Hisar: Incredible Indiana, CC BY-SA 3.0, via Wikimedia Commons. [Sunset at Thermal power plant, Barwala ,Hisar.jpg](https://commons.wikimedia.org/wiki/File:Sunset_at_Thermal_power_plant,_Barwala_,Hisar.jpg)
 
 ## Defense & geopolitics (defense)
 
@@ -7050,6 +7052,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Aisle in L Intermarche supermarket in Quebec City: Wilfredor, CC BY-SA 4.0, via Wikimedia Commons. [Aisle in L Intermarche supermarket in Quebec City.jpg](https://commons.wikimedia.org/wiki/File:Aisle_in_L_Intermarche_supermarket_in_Quebec_City.jpg)
 - Shelves stocked with beverages and food items in a store: Photo by Rap Dela Rea on Unsplash. [ECMRLse82Pc](https://unsplash.com/photos/shelves-stocked-with-beverages-and-food-items-in-a-store-ECMRLse82Pc?utm_source=investiq_image_bank&utm_medium=referral)
 - Antique cash register with ornate details on display: Photo by Gustavo Alejandro Espinosa Reyes on Unsplash. [xIjLMMs1n8Y](https://unsplash.com/photos/antique-cash-register-with-ornate-details-on-display-xIjLMMs1n8Y?utm_source=investiq_image_bank&utm_medium=referral)
+- A group of people walking inside of a shopping mall: Photo by Korng Sok on Unsplash. [qq2YzwwH-1U](https://unsplash.com/photos/a-group-of-people-walking-inside-of-a-shopping-mall-qq2YzwwH-1U?utm_source=investiq_image_bank&utm_medium=referral)
+- Skincare products displayed on shelves in a retail store: Photo by Zoshua Colah on Unsplash. [8sCPn-RKKNE](https://unsplash.com/photos/skincare-products-displayed-on-shelves-in-a-retail-store-8sCPn-RKKNE?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Banks & the financial system (banks)
 
@@ -7203,6 +7207,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Outer space photography of earth: Photo by ActionVance on Unsplash. [t7EL2iG3jMc](https://unsplash.com/photos/outer-space-photography-of-earth-t7EL2iG3jMc?utm_source=investiq_image_bank&utm_medium=referral)
 - Technicians Lift, Prepare EUS Rocket Hardware for Next Phase of Production at NASA Michoud: Photo: NASA/Eric Bordelon, public domain. [MAF_20230308_EUS_FwdAd_Lring_01](https://images.nasa.gov/details/MAF_20230308_EUS_FwdAd_Lring_01)
 - Buzz Aldrin and Apollo 11 Lunar Lander, AS11-40-5927: Neil Armstrong, public domain, via Wikimedia Commons. [Buzz Aldrin and Apollo 11 Lunar Lander, AS11-40-5927.jpg](https://commons.wikimedia.org/wiki/File:Buzz_Aldrin_and_Apollo_11_Lunar_Lander,_AS11-40-5927.jpg)
+- PIA17218 – A Farewell to Saturn, Brightened Version: NASA / JPL-Caltech / Space Science Institute, public domain, via Wikimedia Commons. [PIA17218 – A Farewell to Saturn, Brightened Version.jpg](https://commons.wikimedia.org/wiki/File:PIA17218_%E2%80%93_A_Farewell_to_Saturn,_Brightened_Version.jpg)
 
 ## Weight-loss drugs (GLP-1) (glp1)
 
@@ -7252,9 +7257,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Testing Blood Sugar Levels: Reversing Your Diabetes Today, CC0, via Wikimedia Commons. [Testing Blood Sugar Levels.jpg](https://commons.wikimedia.org/wiki/File:Testing_Blood_Sugar_Levels.jpg)
 - White digital device beside white pen: Photo by Towfiqu barbhuiya on Unsplash. [ZJaK9jQXeDA](https://unsplash.com/photos/white-digital-device-beside-white-pen-ZJaK9jQXeDA?utm_source=investiq_image_bank&utm_medium=referral)
 - A purple smoothie in a glass jar with floating strawberries, bananas, and blackberries: Photo by Sara Julie on Unsplash. [9Gz5bMWdGYE](https://unsplash.com/photos/purple-smoothie-with-floating-fruit-9Gz5bMWdGYE?utm_source=investiq_image_bank&utm_medium=referral)
-- A pharmacist in a white coat showing a pill bottle to a woman: Photo by National Cancer Institute on Unsplash. [NNpo-liY5aU](https://unsplash.com/photos/pharmacist-showing-pill-bottle-to-woman-NNpo-liY5aU?utm_source=investiq_image_bank&utm_medium=referral)
-- A golden flower resting on a large rock along a sandy beach, with gentle waves and distant figures walking along the shoreline.: Photo by wenmirandav on WordPress.org Photos, CC0. [258203](https://wordpress.org/photos/photo/36af531838/)
-- Four people with backpacks hiking on a grassy mountain trail toward snowy peaks: Photo by JUSTIN BUISSON on Unsplash. [vIluu0IH6Ps](https://unsplash.com/photos/people-hiking-on-mountain-trail-vIluu0IH6Ps?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## US politics & markets (politics)
 
@@ -7396,8 +7398,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A single vacuum tube sits on a workbench: Photo by Madalozzo on Unsplash. [dUpnF8v_qrU](https://unsplash.com/photos/a-single-vacuum-tube-sits-on-a-workbench-dUpnF8v_qrU?utm_source=investiq_image_bank&utm_medium=referral)
 - Purple electrical arcs branching out from a central point against a black background: Photo by GALINA BOGDANOVA on Unsplash. [ZZN8eISetpw](https://unsplash.com/photos/purple-electrical-arcs-on-black-ZZN8eISetpw?utm_source=investiq_image_bank&utm_medium=referral)
 - A microscope with a microscope attached to it: Photo by Indra Projects on Unsplash. [a_ldJ0EzbLI](https://unsplash.com/photos/a-microscope-with-a-microscope-attached-to-it-a_ldJ0EzbLI?utm_source=investiq_image_bank&utm_medium=referral)
-- Cozy interior with colorful paintings on a curved brick wall, a gray couch, and natural light from a window.: Photo by aashrayapokhrel on WordPress.org Photos, CC0. [242569](https://wordpress.org/photos/photo/8966aacfbb/)
-- Clear glass ball with red and yellow light: Photo by Belinda Fewings on Unsplash. [lIg3uH5r8n4](https://unsplash.com/photos/clear-glass-ball-with-red-and-yellow-light-lIg3uH5r8n4?utm_source=investiq_image_bank&utm_medium=referral)
+- The chemical laboratory where Edison's teams worked on chemicals that were used in batteries, phonograph records and other inventions, at The Thomas Edison Nati: Photo: Carol M. Highsmith, Library of Congress, public domain. [2017882246](https://www.loc.gov/item/2017882246/)
+- A large group of lights: Photo by superlightingled on Unsplash. [IGPhiyH9t-A](https://unsplash.com/photos/a-large-group-of-lights-IGPhiyH9t-A?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a grass covered in frost: Photo by Michael Held on Unsplash. [YuamzIeKlNk](https://unsplash.com/photos/a-close-up-of-a-grass-covered-in-frost-YuamzIeKlNk?utm_source=investiq_image_bank&utm_medium=referral)
+- White and blue abstract painting: Photo by Daniele Levis Pelusi on Unsplash. [IpYMSnNdYBE](https://unsplash.com/photos/white-and-blue-abstract-painting-IpYMSnNdYBE?utm_source=investiq_image_bank&utm_medium=referral)
+- A tangled knot of gold wire reflecting on a black surface: Photo by Spencer Liao on Unsplash. [q8LZhhs7oBE](https://unsplash.com/photos/tangled-gold-wire-knot-reflection-q8LZhhs7oBE?utm_source=investiq_image_bank&utm_medium=referral)
+- A vintage computer sits on a patterned surface: Photo by Callum Mullin on Unsplash. [J1yATCIy4PQ](https://unsplash.com/photos/a-vintage-computer-sits-on-a-patterned-surface-J1yATCIy4PQ?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Robotics & automation (robotics)
 
@@ -7449,7 +7455,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - An orange robot with wheels and hands: Photo by Enchanted Tools on Unsplash. [FkAMKlBzW7A](https://unsplash.com/photos/an-orange-robot-with-wheels-and-hands-FkAMKlBzW7A?utm_source=investiq_image_bank&utm_medium=referral)
 - A couple of toy robots standing on top of a wooden table: Photo by Theo on Unsplash. [kqv37CRVnVc](https://unsplash.com/photos/a-couple-of-toy-robots-standing-on-top-of-a-wooden-table-kqv37CRVnVc?utm_source=investiq_image_bank&utm_medium=referral)
 - Selective focus photography of gray and black quadcopter drone: Photo by Jonathan Lampel on Unsplash. [L9wrEGJjRdo](https://unsplash.com/photos/selective-focus-photography-of-gray-and-black-quadcopter-drone-L9wrEGJjRdo?utm_source=investiq_image_bank&utm_medium=referral)
-- A white robot vacuum sitting on top of a wooden floor: Photo by Andrey Matveev on Unsplash. [eb4e-PVDhWY](https://unsplash.com/photos/a-white-robot-vacuum-sitting-on-top-of-a-wooden-floor-eb4e-PVDhWY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Cybersecurity (cybersecurity)
 
@@ -7499,7 +7504,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two women facing security camera above mounted on structure: Photo by Matthew Henry on Unsplash. [fPxOowbR6ls](https://unsplash.com/photos/two-women-facing-security-camera-above-mounted-on-structure-fPxOowbR6ls?utm_source=investiq_image_bank&utm_medium=referral)
 - A rusty padlock attached to a chain link fence: Photo by Ower Yonder on Unsplash. [rwqtYBuqPYU](https://unsplash.com/photos/a-rusty-padlock-attached-to-a-chain-link-fence-rwqtYBuqPYU?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver padlock in grayscale photography: Photo by Vanna Phon on Unsplash. [hRXIKdxoaPo](https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral)
-- A person with curly hair is silhouetted against a large computer screen, pointing at a section of a webpage. The screen displays a website in Spanish, featuring: Photo by Nilo Velez on WordPress.org Photos, CC0. [106588](https://wordpress.org/photos/photo/617678ba0a/)
 
 ## India economy (india)
 
