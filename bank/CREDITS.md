@@ -5509,6 +5509,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Hand entering pin code on atm keypad: Photo by Gizem Nikomedi on Unsplash. [BCP6GrzZ9gk](https://unsplash.com/photos/hand-entering-pin-code-on-atm-keypad-BCP6GrzZ9gk?utm_source=investiq_image_bank&utm_medium=referral)
 - A piggy bank and coins in the snow: Photo by Katie Harp on Unsplash. [vciDA9IcoZQ](https://unsplash.com/photos/a-piggy-bank-and-coins-in-the-snow-vciDA9IcoZQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Vault door - Reserve Bank Museum - Wellington, New Zealand: Buffy May, CC BY-SA 2.0, via Wikimedia Commons. [Vault door - Reserve Bank Museum - Wellington, New Zealand.jpg](https://commons.wikimedia.org/wiki/File:Vault_door_-_Reserve_Bank_Museum_-_Wellington,_New_Zealand.jpg)
+- Chicago Board of Trade Building, LaSalle Street and Jackson Boulevard, Chicago, IL: Warren LeMay from Covington, KY, United States, CC BY-SA 2.0, via Wikimedia Commons. [Chicago Board of Trade Building, LaSalle Street and Jackson Boulevard, Chicago, IL (52901199896).jpg](https://commons.wikimedia.org/wiki/File:Chicago_Board_of_Trade_Building,_LaSalle_Street_and_Jackson_Boulevard,_Chicago,_IL_(52901199896).jpg)
 
 ## Consumer discretionary sector (sector-consumer-discretionary)
 
@@ -5610,7 +5611,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Black wireless headphones: Photo by insung yoon on Unsplash. [N1QwvJDvj4E](https://unsplash.com/photos/black-wireless-headphones-N1QwvJDvj4E?utm_source=investiq_image_bank&utm_medium=referral)
 - Black wireless headphones on black surface: Photo by Jason Leung on Unsplash. [xR4JHzr69Og](https://unsplash.com/photos/black-wireless-headphones-on-black-surface-xR4JHzr69Og?utm_source=investiq_image_bank&utm_medium=referral)
 - A large satellite dish sitting on top of a metal platform: Photo by Bernd 📷 Dittrich on Unsplash. [GQwy-axAHBE](https://unsplash.com/photos/a-large-satellite-dish-sitting-on-top-of-a-metal-platform-GQwy-axAHBE?utm_source=investiq_image_bank&utm_medium=referral)
-- satellite dish: Photo: NASA, public domain. [KSC-2011-2956](https://images.nasa.gov/details/KSC-2011-2956)
 - Black and red corded headphones on white table: Photo by Fausto Sandoval on Unsplash. [w5m3PIGvkqI](https://unsplash.com/photos/black-and-red-corded-headphones-on-white-table-w5m3PIGvkqI?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Industrial sector (sector-industrials)
@@ -5867,6 +5867,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Sunset Toronto Skyline Panorama Crop from Snake Island: Jchmrt, CC BY-SA 4.0, via Wikimedia Commons. [Sunset Toronto Skyline Panorama Crop from Snake Island.jpg](https://commons.wikimedia.org/wiki/File:Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg)
 - Chicago September 2016-20: Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons. [Chicago September 2016-20.jpg](https://commons.wikimedia.org/wiki/File:Chicago_September_2016-20.jpg)
 - Aerial view of city under cloudy sky during day time: Photo by Redd Francisco on Unsplash. [Dl_Ya8eNRpk](https://unsplash.com/photos/aerial-view-of-city-under-cloudy-sky-during-day-time-Dl_Ya8eNRpk?utm_source=investiq_image_bank&utm_medium=referral)
+- Quartier Saint-Michel Beauport 01: Gabriel Picard, CC BY-SA 4.0, via Wikimedia Commons. [Quartier Saint-Michel Beauport 01.jpg](https://commons.wikimedia.org/wiki/File:Quartier_Saint-Michel_Beauport_01.jpg)
 - A large warehouse filled with lots of pallets: Photo by AFINIS Group ® - AFINIS GASKET® Production on Unsplash. [OnbSOhz0oig](https://unsplash.com/photos/a-large-warehouse-filled-with-lots-of-pallets-OnbSOhz0oig?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Materials sector (sector-materials)
@@ -6015,7 +6016,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A grid of brown chicken eggs in a molded cardboard carton: Photo by Erol Ahmed on Unsplash. [leOh1CzRZVQ](https://unsplash.com/photos/brown-chicken-eggs-in-carton-leOh1CzRZVQ?utm_source=investiq_image_bank&utm_medium=referral)
 - A bottle of milk next to a glass of milk: Photo by Mary Skrynnikova 💛💙 on Unsplash. [c6TKtsi8C1k](https://unsplash.com/photos/a-bottle-of-milk-next-to-a-glass-of-milk-c6TKtsi8C1k?utm_source=investiq_image_bank&utm_medium=referral)
 - Customer selects raw meat from butcher display case: Photo by Otto Freijser on Unsplash. [INm-vkwDxwg](https://unsplash.com/photos/customer-selects-raw-meat-from-butcher-display-case-INm-vkwDxwg?utm_source=investiq_image_bank&utm_medium=referral)
-- A person wearing a green fuzzy hat standing at a deli counter with staff: Photo by Annie Spratt on Unsplash. [vF6dty9oBng](https://unsplash.com/photos/deli-counter-with-staff-and-customers-vF6dty9oBng?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Recession & slowdown (recession)
 
@@ -6113,7 +6113,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Food delivery driver delivering online order: Meanwell Packaging, CC BY 2.0, via Wikimedia Commons. [Food delivery driver delivering online order.jpg](https://commons.wikimedia.org/wiki/File:Food_delivery_driver_delivering_online_order.jpg)
 - A sign that says we are hiring and apply today: Photo by Eric Prouzet on Unsplash. [B3UFXwcVbc4](https://unsplash.com/photos/a-sign-that-says-we-are-hiring-and-apply-today-B3UFXwcVbc4?utm_source=investiq_image_bank&utm_medium=referral)
 - A typewriter with a job application printed on it: Photo by Markus Winkler on Unsplash. [XKKuY4ottJ0](https://unsplash.com/photos/a-typewriter-with-a-job-application-printed-on-it-XKKuY4ottJ0?utm_source=investiq_image_bank&utm_medium=referral)
-- Linkedin recruiter lite website on a laptop screen: Photo by Zulfugar Karimov on Unsplash. [Lq7Zkgy43pw](https://unsplash.com/photos/linkedin-recruiter-lite-website-on-a-laptop-screen-Lq7Zkgy43pw?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Wall Street & stock market rallies (bull-market)
 
@@ -6165,8 +6164,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A bull with large horns standing in a field: Photo by Niklas Bischop on Unsplash. [qkwB1XWtkrw](https://unsplash.com/photos/a-bull-with-large-horns-standing-in-a-field-qkwB1XWtkrw?utm_source=investiq_image_bank&utm_medium=referral)
 - Brown cow on green grass field during daytime: Photo by Natilyn Hicks Photography on Unsplash. [-cGLKVuE0nk](https://unsplash.com/photos/brown-cow-on-green-grass-field-during-daytime--cGLKVuE0nk?utm_source=investiq_image_bank&utm_medium=referral)
 - Bull silhouette on a hill against a vibrant orange sunset: Photo by Daryan Shamkhali on Unsplash. [cye6So5v_Y0](https://unsplash.com/photos/bull-silhouette-on-a-hill-against-a-vibrant-orange-sunset-cye6So5v_Y0?utm_source=investiq_image_bank&utm_medium=referral)
-- A brown cow standing on top of a lush green field: Photo by Daniel Sofinet on Unsplash. [MKziQtVwF-k](https://unsplash.com/photos/a-brown-cow-standing-on-top-of-a-lush-green-field-MKziQtVwF-k?utm_source=investiq_image_bank&utm_medium=referral)
-- White and green arrow sign: Photo by Tim Mossholder on Unsplash. [zdV9ngtM0Sw](https://unsplash.com/photos/white-and-green-arrow-sign-zdV9ngtM0Sw?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Market crash & volatility (crash)
 
@@ -6443,7 +6440,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Hands holding gold nuggets and silver jewelry: Photo by Emma Renly on Unsplash. [digDt2zgW-c](https://unsplash.com/photos/hands-holding-gold-nuggets-and-silver-jewelry-digDt2zgW-c?utm_source=investiq_image_bank&utm_medium=referral)
 - Gold Ingots on white background: Szaaman, public domain, via Wikimedia Commons. [Gold Ingots on white background.jpg](https://commons.wikimedia.org/wiki/File:Gold_Ingots_on_white_background.jpg)
 - A gold chain on a black background: Photo by PRAHANT STUDIO on Unsplash. [R_pIyT1KF80](https://unsplash.com/photos/a-gold-chain-on-a-black-background-R_pIyT1KF80?utm_source=investiq_image_bank&utm_medium=referral)
-- Person wearing gold and silver round analog watch: Photo by Huguenot Horology on Unsplash. [QqfAN6Ul_Fg](https://unsplash.com/photos/person-wearing-gold-and-silver-round-analog-watch-QqfAN6Ul_Fg?utm_source=investiq_image_bank&utm_medium=referral)
 - A three row diamond ring on a white cloth: Photo by Aniket Sharma on Unsplash. [ts3IgWvhLtU](https://unsplash.com/photos/a-three-row-diamond-ring-on-a-white-cloth-ts3IgWvhLtU?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Oil & energy (oil)
@@ -6645,6 +6641,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A pile of five different british pound notes: Photo by Anthony on Unsplash. [64iJ1Q1TwEM](https://unsplash.com/photos/a-pile-of-five-different-british-pound-notes-64iJ1Q1TwEM?utm_source=investiq_image_bank&utm_medium=referral)
 - Money - Flickr - AMagill: Andrew Magill from Boulder, USA, CC BY 2.0, via Wikimedia Commons. [Money - Flickr - AMagill.jpg](https://commons.wikimedia.org/wiki/File:Money_-_Flickr_-_AMagill.jpg)
 - US dollar and Chinese yuan banknote lot: Photo by Eric Prouzet on Unsplash. [XBbkrBrkp88](https://unsplash.com/photos/us-dollar-and-chinese-yuan-banknote-lot-XBbkrBrkp88?utm_source=investiq_image_bank&utm_medium=referral)
+- 2014 Tbilisi, Tablica elektroniczna z kursami walut: Marcin Konsek, CC BY-SA 4.0, via Wikimedia Commons. [2014 Tbilisi, Tablica elektroniczna z kursami walut.jpg](https://commons.wikimedia.org/wiki/File:2014_Tbilisi,_Tablica_elektroniczna_z_kursami_walut.jpg)
 - A pile of money sitting on top of a table: Photo by Gio Bartlett on Unsplash. [YRItNaB_HT8](https://unsplash.com/photos/a-pile-of-money-sitting-on-top-of-a-table-YRItNaB_HT8?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Treasuries, bonds & national debt (bonds)
@@ -7070,7 +7067,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Gold and silver round coins: Photo by Zlaťáky.cz on Unsplash. [fqUBQejVYDM](https://unsplash.com/photos/gold-and-silver-round-coins-fqUBQejVYDM?utm_source=investiq_image_bank&utm_medium=referral)
 - Calculator and rolls of pennies with loose coins: Photo by Tuccera LLC on Unsplash. [QX-6LSSMvJk](https://unsplash.com/photos/calculator-and-rolls-of-pennies-with-loose-coins-QX-6LSSMvJk?utm_source=investiq_image_bank&utm_medium=referral)
 - American dollar in stacks Tokyo area - Jan 2020: Nesnad, CC BY 4.0, via Wikimedia Commons. [American dollar in stacks Tokyo area - Jan 2020.jpeg](https://commons.wikimedia.org/wiki/File:American_dollar_in_stacks_Tokyo_area_-_Jan_2020.jpeg)
-- People at a bank entrance, one sitting on stairs: Photo by Mohammadreza Charkhgard on Unsplash. [owmHJ5b7_4c](https://unsplash.com/photos/people-at-a-bank-entrance-one-sitting-on-stairs-owmHJ5b7_4c?utm_source=investiq_image_bank&utm_medium=referral)
 - A person holding a cell phone and a credit card: Photo by SumUp on Unsplash. [R705MXMQMxQ](https://unsplash.com/photos/a-person-holding-a-cell-phone-and-a-credit-card-R705MXMQMxQ?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Investing basics, retirement & index funds (investing)
@@ -7173,6 +7169,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Artemis IV Liquid Hydrogen Tank Completes Proof Testing: Photo: NASA/Justin Robert, public domain. [MAF_20260715_CS4_LH2 move JR14](https://images.nasa.gov/details/MAF_20260715_CS4_LH2%20move%20JR14)
 - Outer space photography of earth: Photo by ActionVance on Unsplash. [t7EL2iG3jMc](https://unsplash.com/photos/outer-space-photography-of-earth-t7EL2iG3jMc?utm_source=investiq_image_bank&utm_medium=referral)
 - Technicians Lift, Prepare EUS Rocket Hardware for Next Phase of Production at NASA Michoud: Photo: NASA/Eric Bordelon, public domain. [MAF_20230308_EUS_FwdAd_Lring_01](https://images.nasa.gov/details/MAF_20230308_EUS_FwdAd_Lring_01)
+- Buzz Aldrin and Apollo 11 Lunar Lander, AS11-40-5927: Neil Armstrong, public domain, via Wikimedia Commons. [Buzz Aldrin and Apollo 11 Lunar Lander, AS11-40-5927.jpg](https://commons.wikimedia.org/wiki/File:Buzz_Aldrin_and_Apollo_11_Lunar_Lander,_AS11-40-5927.jpg)
 
 ## Weight-loss drugs (GLP-1) (glp1)
 
@@ -7461,7 +7458,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two women facing security camera above mounted on structure: Photo by Matthew Henry on Unsplash. [fPxOowbR6ls](https://unsplash.com/photos/two-women-facing-security-camera-above-mounted-on-structure-fPxOowbR6ls?utm_source=investiq_image_bank&utm_medium=referral)
 - A rusty padlock attached to a chain link fence: Photo by Ower Yonder on Unsplash. [rwqtYBuqPYU](https://unsplash.com/photos/a-rusty-padlock-attached-to-a-chain-link-fence-rwqtYBuqPYU?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver padlock in grayscale photography: Photo by Vanna Phon on Unsplash. [hRXIKdxoaPo](https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral)
-- A person stands in front of a computer screen, pressing a virtual reality system against their face.: Photo by Topher on WordPress.org Photos, CC0. [147375](https://wordpress.org/photos/photo/28468b7212/)
 
 ## India economy (india)
 
@@ -7514,7 +7510,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A pile of indian currency sitting on top of a wooden table: Photo by Carl Beech on Unsplash. [GfRO2CGRQ24](https://unsplash.com/photos/a-pile-of-indian-currency-sitting-on-top-of-a-wooden-table-GfRO2CGRQ24?utm_source=investiq_image_bank&utm_medium=referral)
 - White concrete arch during night time: Photo by shubham dhiman on Unsplash. [ykbpWdmF2R8](https://unsplash.com/photos/white-concrete-arch-during-night-time-ykbpWdmF2R8?utm_source=investiq_image_bank&utm_medium=referral)
 - People walking on street during daytime: Photo by Peter Chirkov on Unsplash. [CKhawEhlYLQ](https://unsplash.com/photos/people-walking-on-street-during-daytime-CKhawEhlYLQ?utm_source=investiq_image_bank&utm_medium=referral)
-- People at Taj Mahal, India: Photo by Tim van Kempen on Unsplash. [Axl4311WzQU](https://unsplash.com/photos/people-at-taj-mahal-india-Axl4311WzQU?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Japan economy (japan)
 
