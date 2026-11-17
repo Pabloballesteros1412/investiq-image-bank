@@ -6266,6 +6266,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Anatomical model of a human head with brain: Photo by Marek Piwnicki on Unsplash. [lZlWiXaxRZc](https://unsplash.com/photos/anatomical-model-of-a-human-head-with-brain-lZlWiXaxRZc?utm_source=investiq_image_bank&utm_medium=referral)
 - A close up of a plastic brain model: Photo by Lisa Yount on Unsplash. [JkAxfH5ktpw](https://unsplash.com/photos/a-close-up-of-a-plastic-brain-model-JkAxfH5ktpw?utm_source=investiq_image_bank&utm_medium=referral)
 - Black flat screen computer monitor: Photo by Joan Gamell on Unsplash. [ZS67i1HLllo](https://unsplash.com/photos/black-flat-screen-computer-monitor-ZS67i1HLllo?utm_source=investiq_image_bank&utm_medium=referral)
+- Blue and white logo guessing game: Photo by Brett Jordan on Unsplash. [ZVhbwDfLtYU](https://unsplash.com/photos/blue-and-white-logo-guessing-game-ZVhbwDfLtYU?utm_source=investiq_image_bank&utm_medium=referral)
+- A blue light shines in the middle of a dark room: Photo by Dan Taylor on Unsplash. [ckB5dHbCsCM](https://unsplash.com/photos/a-blue-light-shines-in-the-middle-of-a-dark-room-ckB5dHbCsCM?utm_source=investiq_image_bank&utm_medium=referral)
+- Man with black robotic hands smiling: Photo by Henk Mul on Unsplash. [yoYiEBS4hHs](https://unsplash.com/photos/man-with-black-robotic-hands-smiling-yoYiEBS4hHs?utm_source=investiq_image_bank&utm_medium=referral)
+- Smartphone with ai text in jeans pocket: Photo by Immo Wegmann on Unsplash. [CSb9Ehxb65A](https://unsplash.com/photos/smartphone-with-ai-text-in-jeans-pocket-CSb9Ehxb65A?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6565,6 +6569,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large stack of containers sitting on top of each other: Photo by Anthony Maw on Unsplash. [4kl1fAr6ldU](https://unsplash.com/photos/a-large-stack-of-containers-sitting-on-top-of-each-other-4kl1fAr6ldU?utm_source=investiq_image_bank&utm_medium=referral)
 - White and black truck near mountain at daytime: Photo by Rodrigo Abreu on Unsplash. [lq9PxpwDZUk](https://unsplash.com/photos/white-and-black-truck-near-mountain-at-daytime-lq9PxpwDZUk?utm_source=investiq_image_bank&utm_medium=referral)
 - Red and white truck on road during daytime: Photo by Shay on Unsplash. [5n2EemBYQm4](https://unsplash.com/photos/red-and-white-truck-on-road-during-daytime-5n2EemBYQm4?utm_source=investiq_image_bank&utm_medium=referral)
+- Man in red jacket and brown pants holding brown wooden cart: Photo by LSE Library on Unsplash. [H8pCAJkv9ak](https://unsplash.com/photos/man-in-red-jacket-and-brown-pants-holding-brown-wooden-cart-H8pCAJkv9ak?utm_source=investiq_image_bank&utm_medium=referral)
+- A large boat in a body of water: Photo by Julia Taubitz on Unsplash. [zc4em1u9_Fo](https://unsplash.com/photos/a-large-boat-in-a-body-of-water-zc4em1u9_Fo?utm_source=investiq_image_bank&utm_medium=referral)
+- Large shipping cranes at a container terminal at night with lights reflecting on the water: Photo by Sondre Millstein on Unsplash. [cdm1L4MzCWQ](https://unsplash.com/photos/shipping-cranes-at-night-container-terminal-cdm1L4MzCWQ?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## China economy (china)
 
@@ -6819,6 +6826,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Elegant boardroom (Unsplash): Benjamin Child bchild311, CC0, via Wikimedia Commons. [Elegant boardroom (Unsplash).jpg](https://commons.wikimedia.org/wiki/File:Elegant_boardroom_(Unsplash).jpg)
 - A calendar with red push buttons pinned to it: Photo by Towfiqu barbhuiya on Unsplash. [bwOAixLG0uc](https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_source=investiq_image_bank&utm_medium=referral)
 - Stacks of Coins: Kevin Schneider, CC0, via Wikimedia Commons. [Stacks of Coins.jpg](https://commons.wikimedia.org/wiki/File:Stacks_of_Coins.jpg)
+- Black and gray office rolling chairs: Photo by Petr on Unsplash. [fbFVVhSnxz0](https://unsplash.com/photos/black-and-gray-office-rolling-chairs-fbFVVhSnxz0?utm_source=investiq_image_bank&utm_medium=referral)
+- A white sign sitting on top of a puddle of water: Photo by Declan Sun on Unsplash. [J9Loqcs5PaQ](https://unsplash.com/photos/a-white-sign-sitting-on-top-of-a-puddle-of-water-J9Loqcs5PaQ?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
@@ -6918,6 +6927,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Sleek white convertible sports car in modern showroom: Photo by Mick Waanders on Unsplash. [L1oA9Qtp3Ls](https://unsplash.com/photos/sleek-white-convertible-sports-car-in-modern-showroom-L1oA9Qtp3Ls?utm_source=investiq_image_bank&utm_medium=referral)
 - Electrify America electric vehicle charging station, Valdosta: Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons. [Electrify America electric vehicle charging station, Valdosta.jpg](https://commons.wikimedia.org/wiki/File:Electrify_America_electric_vehicle_charging_station,_Valdosta.jpg)
 - A car is parked in front of a gas pump: Photo by Bram Van Oost on Unsplash. [J6005MiIjQk](https://unsplash.com/photos/a-car-is-parked-in-front-of-a-gas-pump-J6005MiIjQk?utm_source=investiq_image_bank&utm_medium=referral)
+- A green sign that says electric vehicle charging station: Photo by Matt Bloom on Unsplash. [0Xp_MBkkdBo](https://unsplash.com/photos/a-green-sign-that-says-electric-vehicle-charging-station-0Xp_MBkkdBo?utm_source=investiq_image_bank&utm_medium=referral)
+- A die cast module scaled down version of an Electric Vehicle.: Photo by bezils on WordPress.org Photos, CC0. [224693](https://wordpress.org/photos/photo/3956a2a4b4/)
 
 ## Nuclear power & uranium (nuclear)
 
@@ -6962,6 +6973,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Aerial view of industrial factory: Photo by CHUTTERSNAP on Unsplash. [_EFvjSgbw1c](https://unsplash.com/photos/aerial-view-of-industrial-factory-_EFvjSgbw1c?utm_source=investiq_image_bank&utm_medium=referral)
 - Sunset at Thermal power plant, Barwala ,Hisar: Incredible Indiana, CC BY-SA 3.0, via Wikimedia Commons. [Sunset at Thermal power plant, Barwala ,Hisar.jpg](https://commons.wikimedia.org/wiki/File:Sunset_at_Thermal_power_plant,_Barwala_,Hisar.jpg)
 - Power lines silhouetted at sunset: Photo by Geon George on Unsplash. [Q4CTTc-8lGQ](https://unsplash.com/photos/power-lines-silhouetted-at-sunset-Q4CTTc-8lGQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Sunlight over clouds: Photo by Johny Goerend on Unsplash. [pbns0n5xt1o](https://unsplash.com/photos/sunlight-over-clouds-pbns0n5xt1o?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Defense & geopolitics (defense)
 
@@ -7421,6 +7433,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large group of lights: Photo by superlightingled on Unsplash. [IGPhiyH9t-A](https://unsplash.com/photos/a-large-group-of-lights-IGPhiyH9t-A?utm_source=investiq_image_bank&utm_medium=referral)
 - A tangled knot of gold wire reflecting on a black surface: Photo by Spencer Liao on Unsplash. [q8LZhhs7oBE](https://unsplash.com/photos/tangled-gold-wire-knot-reflection-q8LZhhs7oBE?utm_source=investiq_image_bank&utm_medium=referral)
 - Lissajous-Figur -- 2020 -- 7766: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Lissajous-Figur -- 2020 -- 7766.jpg](https://commons.wikimedia.org/wiki/File:Lissajous-Figur_--_2020_--_7766.jpg)
+- Hand holding a coaxial cable connector near device: Photo by Zulfugar Karimov on Unsplash. [YAmlr-6eDMg](https://unsplash.com/photos/hand-holding-a-coaxial-cable-connector-near-device-YAmlr-6eDMg?utm_source=investiq_image_bank&utm_medium=referral)
+- A snow covered ski slope with a ski lift in the background: Photo by Kelsey Booth on Unsplash. [DUbvIt9AuXc](https://unsplash.com/photos/a-snow-covered-ski-slope-with-a-ski-lift-in-the-background-DUbvIt9AuXc?utm_source=investiq_image_bank&utm_medium=referral)
+- Several laptop RAM sticks on a light surface with black memory chips and gold connectors.: Photo by dumanag on WordPress.org Photos, CC0. [232122](https://wordpress.org/photos/photo/6876a60a92/)
+- A view of a snowy mountain from a plane window: Photo by Fredrik Solli Wandem on Unsplash. [wgpRR7eii28](https://unsplash.com/photos/a-view-of-a-snowy-mountain-from-a-plane-window-wgpRR7eii28?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Robotics & automation (robotics)
 
@@ -7522,6 +7538,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two women facing security camera above mounted on structure: Photo by Matthew Henry on Unsplash. [fPxOowbR6ls](https://unsplash.com/photos/two-women-facing-security-camera-above-mounted-on-structure-fPxOowbR6ls?utm_source=investiq_image_bank&utm_medium=referral)
 - A rusty padlock attached to a chain link fence: Photo by Ower Yonder on Unsplash. [rwqtYBuqPYU](https://unsplash.com/photos/a-rusty-padlock-attached-to-a-chain-link-fence-rwqtYBuqPYU?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver padlock in grayscale photography: Photo by Vanna Phon on Unsplash. [hRXIKdxoaPo](https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral)
+- An open desktop computer case showing internal components, including a motherboard, power supply, cables, and a cooling fan.: Photo by Moses Cursor Ssebunya on WordPress.org Photos, CC0. [111679](https://wordpress.org/photos/photo/35667c22e6/)
 
 ## India economy (india)
 
