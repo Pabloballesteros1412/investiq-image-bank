@@ -42,3 +42,31 @@ ajustes de claude.ai permite los dominios `raw.githubusercontent.com`, `upload.w
 
 Cada vez que se rehace el banco (`build` y `git push`), el chat ve los cambios en el siguiente carrusel. No
 hace falta cambiar nada en el proyecto.
+
+## Vídeos (desde el 18 de noviembre de 2026)
+
+El banco también guarda clips de vídeo de los temas y sectores: Pixabay (la fuente principal), Wikimedia Commons
+(solo CC0, dominio público y CC BY, y solo los que tienen nota 3) y la NASA (espacio). Igual que las fotos, se
+enlazan y no se copian, y cada clip se revisa a ojo. Hay clips verticales (Reels, TikTok, Shorts) y horizontales.
+Cuando el índice de vídeos tenga clips, pega también este bloque en las instrucciones del proyecto que haga los
+vídeos (o en el de carruseles):
+
+```
+Banco de vídeos de InvestIQ
+- Índice: https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/index.json
+- Lee el índice y sus reglas ("rules"). Busca el tema o el sector por su "id" (por ejemplo "gold", "oil",
+  "sector-tech") y abre su archivo ("file"): hasta 10 clips por tema y sector.
+- Elige por lo que muestra el clip ("shows", y "poster" para verlo), su orientación ("orientation") y su
+  duración ("duration", en segundos).
+- Para Reels, TikTok o Shorts usa clips "vertical". Un clip horizontal con "vertical_crop_ok": true es 4K y se
+  puede recortar a 9:16 (1080×1920) sin perder calidad; los demás horizontales van en vídeo 16:9 o como franja
+  dentro de un vídeo vertical.
+- Descarga el archivo para editarlo: "url" es el mejor (a menudo 4K) y "url_1080" uno más ligero en 1080p.
+  Quita el sonido original del clip.
+- Son clips genéricos del tema: nunca los presentes como imágenes de una empresa, persona o suceso concreto.
+- Pon el crédito de cada clip ("credit") en el texto del post o en el cierre del vídeo.
+- Si un tema no tiene clips, usa sus fotos (bank/index.json).
+```
+
+Si el chat descarga los clips con código, permite también `cdn.pixabay.com` e `images-assets.nasa.gov`
+(además de `upload.wikimedia.org`, que ya está en la lista de arriba).

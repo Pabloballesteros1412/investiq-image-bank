@@ -184,6 +184,36 @@ python image_bank.py index
   (palabras que tienen que aparecer en el nombre o las categorías de la foto) o `"exclude": ["File:…"]`, y
   ejecuta `python image_bank.py build --only <tema>`.
 
+## Vídeos
+
+Desde el 18 de noviembre de 2026 el banco también guarda clips de vídeo de los 48 temas y sectores: 10 por cada
+uno para empezar, verticales (Reels, TikTok, Shorts) y horizontales. Igual que las fotos, se enlazan y no se
+copian, y cada clip se revisa a ojo. Lo hace `videos.py`:
+
+```
+python videos.py build                      # elige clips para todos los temas y sectores
+python videos.py build --only gold,oil      # solo esos
+python videos.py build --redo --only gold   # rehace uno: guarda los clips publicados y rellena los huecos
+python videos.py sheets revision-videos     # hojas de revisión: 3 fotogramas por clip, 18 clips por hoja
+python videos.py grade notas.json revision-videos   # mismas notas que review.py; rehace el índice
+```
+
+- **Fuentes.** Pixabay es la principal y necesita la clave en la variable de entorno `PIXABAY_API_KEY` (en los
+  ajustes del entorno, en «Environment variables», no en «Network secrets»: Pixabay lleva la clave en la
+  dirección, no en una cabecera). Sin clave, el build usa solo Wikimedia Commons y la NASA, que dan muy poco.
+- **Qué clip vale.** Imagen real (nada de animación, 3D, renders ni IA), al menos 1080p, de 4 a 60 segundos
+  (Commons y NASA hasta 180), y las etiquetas o el nombre del archivo tienen que contener la búsqueda. De
+  Commons quedan fuera las noticias, entrevistas, discursos, actos y sucesos. Cada tema coge primero hasta 3
+  clips verticales; un clip horizontal en 4K lleva `vertical_crop_ok` (se puede recortar a 9:16 sin perder
+  calidad). Como mucho 2 clips del mismo autor por tema, y cada clip se usa una sola vez en todo el banco.
+- **Revisión.** Las notas van a `bank/video_review.json` (aparte de las de las fotos). Los clips de Pixabay y de la NASA se
+  publican salvo que tengan nota 1 o 2; los de Commons, solo con nota 3.
+- **Archivos.** `bank/video_manifest.json` (todo lo elegido) y, para el chat, `bank/videos/index.json` y
+  `bank/videos/<ID>.json` (solo lo publicado). El bloque para pegar en el chat está en `CAROUSEL_CHAT.md`.
+- **Licencias.** Pixabay: uso comercial sin pedir permiso ni citar (el banco cita igual). Commons: solo CC0,
+  dominio público y CC BY; CC BY-SA no, porque un vídeo montado con un clip CC BY-SA tendría que publicarse
+  entero con esa licencia. NASA: dominio público, sin los vídeos de empresas de lanzamiento.
+
 ## Licencias
 
 - **Crédito.** CC BY y CC BY-SA obligan a citar al autor y la licencia. El texto está listo en `credit`,
