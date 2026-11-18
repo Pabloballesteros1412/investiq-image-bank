@@ -204240,11 +204240,11 @@
    },
    {
     "shot": "luxury-hotel",
-    "shows": "Glass door of the library at Amantaka luxury Resort & Hotel in Luang Prabang Laos",
-    "file": "File:Glass door of the library at Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Glass_door_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Glass_door_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Glass_door_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Glass_door_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Glass_door_of_the_library_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "shows": "Spa massage parlor in Amantaka luxury Resort & Hotel in Luang Prabang Laos",
+    "file": "File:Spa massage parlor in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spa_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Spa_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Spa_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Spa_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Spa_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
     "size": [
      1920,
      1280
@@ -204263,28 +204263,37 @@
    },
    {
     "shot": "fashion",
-    "shows": "Supermodel Elza Matiz at Paris Fashion Week",
-    "file": "File:Supermodel Elza Matiz at Paris Fashion Week.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Supermodel_Elza_Matiz_at_Paris_Fashion_Week.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Supermodel_Elza_Matiz_at_Paris_Fashion_Week.jpg/1920px-Supermodel_Elza_Matiz_at_Paris_Fashion_Week.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Supermodel_Elza_Matiz_at_Paris_Fashion_Week.jpg/500px-Supermodel_Elza_Matiz_at_Paris_Fashion_Week.jpg",
+    "shows": "Fashion Runway",
+    "file": "File:Fashion Runway.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fashion_Runway.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fashion_Runway.jpg/1280px-Fashion_Runway.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fashion_Runway.jpg/500px-Fashion_Runway.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "FotoFern, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "Andrew Schutzman, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "FotoFern",
-    "year": 2020,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Andrew Schutzman",
+    "year": 2013,
     "how": "catalog"
    }
   ],
-  "checked": "2026-11-17"
+  "missing": [
+   "diamond-ring",
+   "sports-car",
+   "fashion-boutique",
+   "diamonds",
+   "private-jet",
+   "gold-watch",
+   "designer-store"
+  ],
+  "checked": "2026-11-18"
  }
 }

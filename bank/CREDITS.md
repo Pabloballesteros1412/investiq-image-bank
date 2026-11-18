@@ -5510,6 +5510,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A piggy bank and coins in the snow: Photo by Katie Harp on Unsplash. [vciDA9IcoZQ](https://unsplash.com/photos/a-piggy-bank-and-coins-in-the-snow-vciDA9IcoZQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Vault door - Reserve Bank Museum - Wellington, New Zealand: Buffy May, CC BY-SA 2.0, via Wikimedia Commons. [Vault door - Reserve Bank Museum - Wellington, New Zealand.jpg](https://commons.wikimedia.org/wiki/File:Vault_door_-_Reserve_Bank_Museum_-_Wellington,_New_Zealand.jpg)
 - Chicago Board of Trade Building, LaSalle Street and Jackson Boulevard, Chicago, IL: Warren LeMay from Covington, KY, United States, CC BY-SA 2.0, via Wikimedia Commons. [Chicago Board of Trade Building, LaSalle Street and Jackson Boulevard, Chicago, IL (52901199896).jpg](https://commons.wikimedia.org/wiki/File:Chicago_Board_of_Trade_Building,_LaSalle_Street_and_Jackson_Boulevard,_Chicago,_IL_(52901199896).jpg)
+- A city street filled with lots of tall buildings: Photo by Frans Ruiter on Unsplash. [phNfcr2EH00](https://unsplash.com/photos/a-city-street-filled-with-lots-of-tall-buildings-phNfcr2EH00?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Consumer discretionary sector (sector-consumer-discretionary)
 
@@ -5561,6 +5562,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A casino room filled with lots of slot machines: Photo by Cindy F on Unsplash. [fgwlWRwRf5g](https://unsplash.com/photos/a-casino-room-filled-with-lots-of-slot-machines-fgwlWRwRf5g?utm_source=investiq_image_bank&utm_medium=referral)
 - Orange Lamborghini car: Photo by Marek Pospíšil on Unsplash. [oUBjd22gF6w](https://unsplash.com/photos/orange-lamborghini-car-oUBjd22gF6w?utm_source=investiq_image_bank&utm_medium=referral)
 - People sitting on chair in restaurant: Photo by Simon Karemann on Unsplash. [p85-MG66GRY](https://unsplash.com/photos/people-sitting-on-chair-in-restaurant-p85-MG66GRY?utm_source=investiq_image_bank&utm_medium=referral)
+- White cruise ship on sea under white clouds and blue sky during daytime: Photo by Daniele D'Andreti on Unsplash. [CVvjUrsDIXE](https://unsplash.com/photos/white-cruise-ship-on-sea-under-white-clouds-and-blue-sky-during-daytime-CVvjUrsDIXE?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Communication services sector (sector-communication)
 
@@ -5769,6 +5771,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - 00 3783 Oil and gas platform in Norway: W. Bulach, CC BY-SA 4.0, via Wikimedia Commons. [00 3783 Oil and gas platform in Norway.jpg](https://commons.wikimedia.org/wiki/File:00_3783_Oil_and_gas_platform_in_Norway.jpg)
 - Irving Oil Refinery - Saint John, NB: Quintin Soloviev, CC BY 4.0, via Wikimedia Commons. [Irving Oil Refinery - Saint John, NB.jpg](https://commons.wikimedia.org/wiki/File:Irving_Oil_Refinery_-_Saint_John,_NB.jpg)
 - Oil Well Derrick - Kettleman North Dome 4-30-11 B1: Armona, CC BY-SA 3.0, via Wikimedia Commons. [Oil Well Derrick - Kettleman North Dome 4-30-11 B1.jpg](https://commons.wikimedia.org/wiki/File:Oil_Well_Derrick_-_Kettleman_North_Dome_4-30-11_B1.jpg)
+- Oil pipeline pumping station, northeast Colorado: Greg Goebel from Loveland CO, USA, CC BY-SA 2.0, via Wikimedia Commons. [Oil pipeline pumping station, northeast Colorado.jpg](https://commons.wikimedia.org/wiki/File:Oil_pipeline_pumping_station,_northeast_Colorado.jpg)
 
 ## Utilities sector (sector-utilities)
 
@@ -5872,6 +5875,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Aerial view of city under cloudy sky during day time: Photo by Redd Francisco on Unsplash. [Dl_Ya8eNRpk](https://unsplash.com/photos/aerial-view-of-city-under-cloudy-sky-during-day-time-Dl_Ya8eNRpk?utm_source=investiq_image_bank&utm_medium=referral)
 - Quartier Saint-Michel Beauport 01: Gabriel Picard, CC BY-SA 4.0, via Wikimedia Commons. [Quartier Saint-Michel Beauport 01.jpg](https://commons.wikimedia.org/wiki/File:Quartier_Saint-Michel_Beauport_01.jpg)
 - A large warehouse filled with lots of pallets: Photo by AFINIS Group ® - AFINIS GASKET® Production on Unsplash. [OnbSOhz0oig](https://unsplash.com/photos/a-large-warehouse-filled-with-lots-of-pallets-OnbSOhz0oig?utm_source=investiq_image_bank&utm_medium=referral)
+- Darkened Storage Units: Psychozoia, CC BY-SA 4.0, via Wikimedia Commons. [Darkened Storage Units.jpg](https://commons.wikimedia.org/wiki/File:Darkened_Storage_Units.jpg)
 
 ## Materials sector (sector-materials)
 
@@ -5922,6 +5926,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Four orange, green, blue, and red paint rollers: Photo by David Pisnoy on Unsplash. [46juD4zY1XA](https://unsplash.com/photos/four-orange-green-blue-and-red-paint-rollers-46juD4zY1XA?utm_source=investiq_image_bank&utm_medium=referral)
 - Production of aluminium pot cover (sand mold casting) 1: Kambai Akau, CC BY-SA 4.0, via Wikimedia Commons. [Production of aluminium pot cover (sand mold casting) 1.jpg](https://commons.wikimedia.org/wiki/File:Production_of_aluminium_pot_cover_(sand_mold_casting)_1.jpg)
 - Soda Cans Pexels Breakingpic 3008: Breakingpic, CC0, via Wikimedia Commons. [Soda Cans Pexels Breakingpic 3008.jpg](https://commons.wikimedia.org/wiki/File:Soda_Cans_Pexels_Breakingpic_3008.jpg)
+- Torpedo molten steel carriers - British Steel Appleby-Frodingham Steel Works August 2026: kitmasterbloke, CC BY 4.0, via Wikimedia Commons. [Torpedo molten steel carriers - British Steel Appleby-Frodingham Steel Works August 2026.jpg](https://commons.wikimedia.org/wiki/File:Torpedo_molten_steel_carriers_-_British_Steel_Appleby-Frodingham_Steel_Works_August_2026.jpg)
+- Scrap metal yard: Digitura, CC0, via Wikimedia Commons. [Scrap metal yard.jpg](https://commons.wikimedia.org/wiki/File:Scrap_metal_yard.jpg)
 
 ## Federal Reserve & interest rates (fed)
 
@@ -6281,6 +6287,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A system administrator’s workstation within a data processing centre with rack cabinets and servers inside.: Photo by Javier Salinas on WordPress.org Photos, CC0. [23430](https://wordpress.org/photos/photo/61563ef3d9/)
 - Printed Circuit Board 9990: Ashley Pomeroy, CC BY 4.0, via Wikimedia Commons. [Printed Circuit Board 9990.jpg](https://commons.wikimedia.org/wiki/File:Printed_Circuit_Board_9990.jpg)
 - 5C2A5953R - – Silicon Wafer: Rob Bulmahn, CC BY 2.0, via Wikimedia Commons. [5C2A5953R - 49913961083 – Silicon Wafer 20200519.jpg](https://commons.wikimedia.org/wiki/File:5C2A5953R_-_49913961083_%E2%80%93_Silicon_Wafer_20200519.jpg)
+- A white car is on a assembly line: Photo by Hyundai Motor Group on Unsplash. [mPreSMYIr1E](https://unsplash.com/photos/a-white-car-is-on-a-assembly-line-mPreSMYIr1E?utm_source=investiq_image_bank&utm_medium=referral)
+- Autonomous vehicle driving on a city street: Photo by Victor Svistunov on Unsplash. [WHVn6Qid6Hs](https://unsplash.com/photos/autonomous-vehicle-driving-on-a-city-street-WHVn6Qid6Hs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6841,6 +6849,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A calendar with red push buttons pinned to it: Photo by Towfiqu barbhuiya on Unsplash. [bwOAixLG0uc](https://unsplash.com/photos/a-calendar-with-red-push-buttons-pinned-to-it-bwOAixLG0uc?utm_source=investiq_image_bank&utm_medium=referral)
 - Stacks of Coins: Kevin Schneider, CC0, via Wikimedia Commons. [Stacks of Coins.jpg](https://commons.wikimedia.org/wiki/File:Stacks_of_Coins.jpg)
 - No Known Restrictions New York Stock Exchange (Highsmith LOC): Carol M. Highsmith, public domain, via Wikimedia Commons. [No Known Restrictions New York Stock Exchange (Highsmith LOC) (6718424839).jpg](https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_New_York_Stock_Exchange_(Highsmith_LOC)_(6718424839).jpg)
+- Vintage cash register with nautical background: Photo by Pix Tresa on Unsplash. [aDxK3nTxtAc](https://unsplash.com/photos/vintage-cash-register-with-nautical-background-aDxK3nTxtAc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
@@ -6990,6 +6999,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium: Trougnouf, CC BY 4.0, via Wikimedia Commons. [De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium (DSCF3862).jpg](https://commons.wikimedia.org/wiki/File:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3862).jpg)
 - Tricastin Nuclear Power Plant: MeneerTijn, CC BY-SA 4.0, via Wikimedia Commons. [Tricastin Nuclear Power Plant.jpg](https://commons.wikimedia.org/wiki/File:Tricastin_Nuclear_Power_Plant.jpg)
 - KAJ Olkiluoto 2: kallerna, CC BY-SA 4.0, via Wikimedia Commons. [KAJ Olkiluoto 2.jpg](https://commons.wikimedia.org/wiki/File:KAJ_Olkiluoto_2.jpg)
+- Cooling tower of Dukovany Nuclear Power Station near Dukovany, Třebíč District: Frettie, CC BY 3.0, via Wikimedia Commons. [Cooling tower of Dukovany Nuclear Power Station near Dukovany, Třebíč District.jpg](https://commons.wikimedia.org/wiki/File:Cooling_tower_of_Dukovany_Nuclear_Power_Station_near_Dukovany,_T%C5%99eb%C3%AD%C4%8D_District.jpg)
+- NRC EDO Dan Dorman at the Palo Verde Nuclear Generating Station: Nuclear Regulatory Commission from US, CC BY 2.0, via Wikimedia Commons. [NRC EDO Dan Dorman at the Palo Verde Nuclear Generating Station (52168246443).jpg](https://commons.wikimedia.org/wiki/File:NRC_EDO_Dan_Dorman_at_the_Palo_Verde_Nuclear_Generating_Station_(52168246443).jpg)
+- Kernkraftwerk-Brokdorf-Schleswig-Holstein-1: Gunnar Klack, CC BY-SA 4.0, via Wikimedia Commons. [2020-12-29-Kernkraftwerk-Brokdorf-Schleswig-Holstein-1.jpg](https://commons.wikimedia.org/wiki/File:2020-12-29-Kernkraftwerk-Brokdorf-Schleswig-Holstein-1.jpg)
 
 ## Defense & geopolitics (defense)
 
@@ -7451,6 +7463,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A tangled knot of gold wire reflecting on a black surface: Photo by Spencer Liao on Unsplash. [q8LZhhs7oBE](https://unsplash.com/photos/tangled-gold-wire-knot-reflection-q8LZhhs7oBE?utm_source=investiq_image_bank&utm_medium=referral)
 - Lissajous-Figur -- 2020 -- 7766: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Lissajous-Figur -- 2020 -- 7766.jpg](https://commons.wikimedia.org/wiki/File:Lissajous-Figur_--_2020_--_7766.jpg)
 - A few optical elements in the transient spectroscopy laser setup I work with.: Maximilian Paradiz from Amsterdam, Netherlands, CC BY 2.0, via Wikimedia Commons. [Optics (36885553313).jpg](https://commons.wikimedia.org/wiki/File:Optics_(36885553313).jpg)
+- Labs and facilities in the London Centre for Nanotechnology. Photo: O. Usher (UCL MAPS): UCL Mathematical and Physical Sciences from London, UK, CC BY 2.0, via Wikimedia Commons. [Cleanroom (9150586122).jpg](https://commons.wikimedia.org/wiki/File:Cleanroom_(9150586122).jpg)
+- Gold Ion Trap: National Institute of Standards and Technology, public domain, via Wikimedia Commons. [Gold Ion Trap (6029437325).jpg](https://commons.wikimedia.org/wiki/File:Gold_Ion_Trap_(6029437325).jpg)
+- Turned-on black digital device: Photo by LaserWorld LaserBeam on Unsplash. [Qd_wcM52Z9Y](https://unsplash.com/photos/turned-on-black-digital-device-Qd_wcM52Z9Y?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Robotics & automation (robotics)
 
@@ -7552,6 +7567,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two women facing security camera above mounted on structure: Photo by Matthew Henry on Unsplash. [fPxOowbR6ls](https://unsplash.com/photos/two-women-facing-security-camera-above-mounted-on-structure-fPxOowbR6ls?utm_source=investiq_image_bank&utm_medium=referral)
 - A rusty padlock attached to a chain link fence: Photo by Ower Yonder on Unsplash. [rwqtYBuqPYU](https://unsplash.com/photos/a-rusty-padlock-attached-to-a-chain-link-fence-rwqtYBuqPYU?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver padlock in grayscale photography: Photo by Vanna Phon on Unsplash. [hRXIKdxoaPo](https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral)
+- Black USB flash drive: Photo by Brina Blum on Unsplash. [Bb_X4JgSqIM](https://unsplash.com/photos/black-usb-flash-drive-Bb_X4JgSqIM?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## India economy (india)
 
@@ -7604,6 +7620,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A pile of indian currency sitting on top of a wooden table: Photo by Carl Beech on Unsplash. [GfRO2CGRQ24](https://unsplash.com/photos/a-pile-of-indian-currency-sitting-on-top-of-a-wooden-table-GfRO2CGRQ24?utm_source=investiq_image_bank&utm_medium=referral)
 - White concrete arch during night time: Photo by shubham dhiman on Unsplash. [ykbpWdmF2R8](https://unsplash.com/photos/white-concrete-arch-during-night-time-ykbpWdmF2R8?utm_source=investiq_image_bank&utm_medium=referral)
 - People walking on street during daytime: Photo by Peter Chirkov on Unsplash. [CKhawEhlYLQ](https://unsplash.com/photos/people-walking-on-street-during-daytime-CKhawEhlYLQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Two men riding decorated white horses past Hawa Mahal in Jaipur: Photo by Aditya Siva on Unsplash. [6rDbvXzIVpQ](https://unsplash.com/photos/men-riding-decorated-horses-past-hawa-mahal-6rDbvXzIVpQ?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Japan economy (japan)
 

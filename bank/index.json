@@ -11,8 +11,8 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
- "updated": "2026-11-17",
- "photos": 6277,
+ "updated": "2026-11-18",
+ "photos": 6294,
  "subjects": [
   {
    "id": "MMM",
@@ -8028,7 +8028,7 @@
    "aliases": [
     "financials"
    ],
-   "photos": 46,
+   "photos": 47,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-financials.json"
   },
@@ -8040,7 +8040,7 @@
    "aliases": [
     "consumer discretionary"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-consumer-discretionary.json"
   },
@@ -8088,7 +8088,7 @@
    "aliases": [
     "energy"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-energy.json"
   },
@@ -8112,7 +8112,7 @@
    "aliases": [
     "real estate"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-real-estate.json"
   },
@@ -8124,7 +8124,7 @@
    "aliases": [
     "materials"
    ],
-   "photos": 47,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-materials.json"
   },
@@ -8236,7 +8236,7 @@
     "llm",
     "chatbot"
    ],
-   "photos": 45,
+   "photos": 47,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ai.json"
   },
@@ -8411,7 +8411,7 @@
     "guidance",
     "eps"
    ],
-   "photos": 46,
+   "photos": 47,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/earnings.json"
   },
@@ -8456,7 +8456,7 @@
     "smr",
     "nuclear power"
    ],
-   "photos": 44,
+   "photos": 47,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
   },
@@ -8603,7 +8603,7 @@
     "quantum computing",
     "quantum computer"
    ],
-   "photos": 43,
+   "photos": 46,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/quantum.json"
   },
@@ -8633,7 +8633,7 @@
     "hacking",
     "security"
    ],
-   "photos": 46,
+   "photos": 47,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/cybersecurity.json"
   },
@@ -8649,7 +8649,7 @@
     "nifty",
     "rupee"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/india.json"
   },
