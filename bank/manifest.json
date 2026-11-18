@@ -179552,87 +179552,79 @@
     "track_pending": true
    },
    {
-    "shot": "stopwatch",
-    "shows": "A close up of a stopwatch on a black background",
-    "file": "unsplash:VwqMTcsb0Tg",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-stopwatch-on-a-black-background-VwqMTcsb0Tg?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1704265586142-db3e17d0dea0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c3RvcHdhdGNofGVufDF8fHx8MTc5NDk1NDExMHww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1704265586142-db3e17d0dea0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c3RvcHdhdGNofGVufDF8fHx8MTc5NDk1NDExMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2000,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by William Warby on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "William Warby",
-    "year": 2024,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@wwarby?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/VwqMTcsb0Tg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8c3RvcHdhdGNofGVufDF8fHx8MTc5NDk1NDExMHww",
-    "track_pending": true
-   },
-   {
-    "shot": "times-square",
-    "shows": "Crowds of people walking through Times Square in New York City at dusk",
-    "file": "unsplash:VIhBOwitqu8",
-    "page": "https://unsplash.com/photos/crowds-in-times-square-new-york-VIhBOwitqu8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1582760548598-0bccdf815aa2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dGltZXMlMjBzcXVhcmV8ZW58MXx8fHwxNzk0NzQ0NzQyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1582760548598-0bccdf815aa2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dGltZXMlMjBzcXVhcmV8ZW58MXx8fHwxNzk0NzQ0NzQyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by James Ting on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "James Ting",
-    "year": 2020,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jamesting?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/VIhBOwitqu8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dGltZXMlMjBzcXVhcmV8ZW58MXx8fHwxNzk0NzQ0NzQyfDA",
-    "track_pending": true
-   },
-   {
-    "shot": "stock-exchange-building",
-    "shows": "Montreal Stock Exchange 12",
-    "file": "File:Montreal Stock Exchange 12.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Montreal_Stock_Exchange_12.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Montreal_Stock_Exchange_12.jpg/1920px-Montreal_Stock_Exchange_12.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Montreal_Stock_Exchange_12.jpg/500px-Montreal_Stock_Exchange_12.jpg",
+    "shot": "stock-price",
+    "shows": "Athex Composite Share Price Index",
+    "file": "File:Athex Composite Share Price Index.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Athex_Composite_Share_Price_Index.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Athex_Composite_Share_Price_Index.png/1920px-Athex_Composite_Share_Price_Index.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Athex_Composite_Share_Price_Index.png/500px-Athex_Composite_Share_Price_Index.png",
     "size": [
      1920,
-     1440
+     1357
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jeangagnon, CC BY-SA 3.0, via Wikimedia Commons",
+    "credit": "Jashuah, CC BY-SA 3.0, via Wikimedia Commons",
     "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Jeangagnon",
-    "year": 2014,
+    "author": "Jashuah",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "stock-exchange-building",
+    "shows": "Los Angeles Stock Exchange Building",
+    "file": "File:Los Angeles Stock Exchange Building.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Stock_Exchange_Building.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Los_Angeles_Stock_Exchange_Building.jpg/1280px-Los_Angeles_Stock_Exchange_Building.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Los_Angeles_Stock_Exchange_Building.jpg/500px-Los_Angeles_Stock_Exchange_Building.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Los Angeles, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Los Angeles",
+    "year": 2008,
+    "how": "catalog"
+   },
+   {
+    "shot": "report-cover",
+    "shows": "Cover of the Annual Report 2019 (ann20017a)",
+    "file": "File:Cover of the Annual Report 2019 (ann20017a).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cover_of_the_Annual_Report_2019_(ann20017a).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cover_of_the_Annual_Report_2019_%28ann20017a%29.jpg/1280px-Cover_of_the_Annual_Report_2019_%28ann20017a%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cover_of_the_Annual_Report_2019_%28ann20017a%29.jpg/500px-Cover_of_the_Annual_Report_2019_%28ann20017a%29.jpg",
+    "size": [
+     1280,
+     1810
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "ESO, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "ESO",
+    "year": 2020,
     "how": "catalog"
    }
   ],
   "missing": [
-   "office-tower",
+   "stock-ticker-board",
+   "financial-results",
    "money-growth",
-   "report-cover",
    "business",
    "economy",
    "trading-screen",
@@ -179640,7 +179632,7 @@
    "business-documents",
    "computer-screen"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "ipo": {
   "name": "IPOs",
@@ -180888,12 +180880,12 @@
     "how": "catalog"
    },
    {
-    "shot": "ticker",
-    "shows": "News ticker",
-    "file": "File:News ticker (3142543503).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:News_ticker_(3142543503).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/News_ticker_%283142543503%29.jpg/1920px-News_ticker_%283142543503%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/News_ticker_%283142543503%29.jpg/500px-News_ticker_%283142543503%29.jpg",
+    "shot": "market-debut",
+    "shows": "Crescent City Farmers Market at Ochsener - Debut 9 Jan 2019 23",
+    "file": "File:Crescent City Farmers Market at Ochsener - Debut 9 Jan 2019 23.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crescent_City_Farmers_Market_at_Ochsener_-_Debut_9_Jan_2019_23.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Crescent_City_Farmers_Market_at_Ochsener_-_Debut_9_Jan_2019_23.jpg/1920px-Crescent_City_Farmers_Market_at_Ochsener_-_Debut_9_Jan_2019_23.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Crescent_City_Farmers_Market_at_Ochsener_-_Debut_9_Jan_2019_23.jpg/500px-Crescent_City_Farmers_Market_at_Ochsener_-_Debut_9_Jan_2019_23.jpg",
     "size": [
      1920,
      1440
@@ -180902,23 +180894,23 @@
      0.5,
      0.5
     ],
-    "credit": "Bradley Gordon from Lakewood, Colorado, U.S.A., CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Bradley Gordon from Lakewood, Colorado, U.S.A.",
-    "year": 2008,
+    "credit": "Infrogmation of New Orleans, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Infrogmation of New Orleans",
+    "year": 2019,
     "how": "catalog"
    }
   ],
   "missing": [
-   "nasdaq",
+   "shares",
    "trading-floor",
    "celebrate",
    "cheers",
    "streamers"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "ev": {
   "name": "Electric vehicles",
@@ -182133,75 +182125,77 @@
     "track_pending": true
    },
    {
-    "shot": "nissan-leaf",
-    "shows": "Nissan Leaf, GIMS 2019, Le Grand-Saconnex (GIMS0734)",
-    "file": "File:Nissan Leaf, GIMS 2019, Le Grand-Saconnex (GIMS0734).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nissan_Leaf,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0734).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nissan_Leaf%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0734%29.jpg/1920px-Nissan_Leaf%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0734%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nissan_Leaf%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0734%29.jpg/500px-Nissan_Leaf%2C_GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0734%29.jpg",
+    "shot": "charger",
+    "shows": "Plate of roasted chicken, rice with orange sauce, mashed potatoes, and fresh salad on a decorative glass charger.",
+    "file": "wordpress:255956",
+    "page": "https://wordpress.org/photos/photo/9206aed540/",
+    "url": "https://pd.w.org/2026/11/9206aed540ed969b1.10035906-1536x2048.jpg",
+    "preview": "https://pd.w.org/2026/11/9206aed540ed969b1.10035906-768x1024.jpg",
     "size": [
-     1920,
-     1280
+     1536,
+     2048
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Matti Blume",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
-    "shot": "bmw-i3",
-    "shows": "Nottuln, Stevertal, BMW i3 -- 2019 -- 7523",
-    "file": "File:Nottuln, Stevertal, BMW i3 -- 2019 -- 7523.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nottuln,_Stevertal,_BMW_i3_--_2019_--_7523.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nottuln%2C_Stevertal%2C_BMW_i3_--_2019_--_7523.jpg/1920px-Nottuln%2C_Stevertal%2C_BMW_i3_--_2019_--_7523.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nottuln%2C_Stevertal%2C_BMW_i3_--_2019_--_7523.jpg/500px-Nottuln%2C_Stevertal%2C_BMW_i3_--_2019_--_7523.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dietmar Rabich",
-    "year": 2019,
+    "credit": "Photo by genesisoba on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "genesisoba",
+    "year": 2026,
     "how": "catalog",
-    "flags": [
-     "restrictions: trademarked"
-    ]
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/genesisoba/"
    },
    {
-    "shot": "electric-van",
-    "shows": "TNT electric van",
-    "file": "File:TNT electric van .jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:TNT_electric_van_.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TNT_electric_van_.jpg/1920px-TNT_electric_van_.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TNT_electric_van_.jpg/500px-TNT_electric_van_.jpg",
+    "shot": "charge-point",
+    "shows": "A woman washing a car in a driveway",
+    "file": "unsplash:5eLKOB0Xnpg",
+    "page": "https://unsplash.com/photos/a-woman-washing-a-car-in-a-driveway-5eLKOB0Xnpg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1726471814092-4a8f4e71445d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2hhcmdlJTIwcG9pbnR8ZW58MXx8fHwxNzk0OTcxNTE1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1726471814092-4a8f4e71445d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2hhcmdlJTIwcG9pbnR8ZW58MXx8fHwxNzk0OTcxNTE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1281
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Oc2012, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Oc2012",
-    "year": 2015,
+    "credit": "Photo by Andersen EV on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andersen EV",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@andersen_ev?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/5eLKOB0Xnpg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8Y2hhcmdlJTIwcG9pbnR8ZW58MXx8fHwxNzk0OTcxNTE1fDA"
+   },
+   {
+    "shot": "electric-mobility",
+    "shows": "Tama Electric Vehicle E4S-47 I at the Japan Mobility Show 2025",
+    "file": "File:Tama Electric Vehicle E4S-47 I at the Japan Mobility Show 2025.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tama_Electric_Vehicle_E4S-47_I_at_the_Japan_Mobility_Show_2025.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tama_Electric_Vehicle_E4S-47_I_at_the_Japan_Mobility_Show_2025.jpg/1920px-Tama_Electric_Vehicle_E4S-47_I_at_the_Japan_Mobility_Show_2025.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Tama_Electric_Vehicle_E4S-47_I_at_the_Japan_Mobility_Show_2025.jpg/500px-Tama_Electric_Vehicle_E4S-47_I_at_the_Japan_Mobility_Show_2025.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "SuFlyer, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "SuFlyer",
+    "year": 2025,
     "how": "catalog"
    }
   ],
@@ -182214,7 +182208,7 @@
    "e-bike",
    "supercharger"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "nuclear": {
   "name": "Nuclear power & uranium",
@@ -183327,29 +183321,6 @@
     "how": "catalog"
    },
    {
-    "shot": "nuclear-reactor-building",
-    "shows": "MIT nuclear reactor metropolitan warehouse",
-    "file": "File:MIT nuclear reactor metropolitan warehouse.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MIT_nuclear_reactor_metropolitan_warehouse.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/MIT_nuclear_reactor_metropolitan_warehouse.jpg/1920px-MIT_nuclear_reactor_metropolitan_warehouse.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/MIT_nuclear_reactor_metropolitan_warehouse.jpg/500px-MIT_nuclear_reactor_metropolitan_warehouse.jpg",
-    "size": [
-     1920,
-     1243
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BXu99, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "BXu99",
-    "year": 2019,
-    "how": "catalog"
-   },
-   {
     "shot": "palo-verde-nuclear",
     "shows": "NRC EDO Dan Dorman at the Palo Verde Nuclear Generating Station",
     "file": "File:NRC EDO Dan Dorman at the Palo Verde Nuclear Generating Station (52168246443).jpg",
@@ -183370,52 +183341,6 @@
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
     "author": "Nuclear Regulatory Commission from US",
     "year": 2022,
-    "how": "catalog"
-   },
-   {
-    "shot": "vogtle-nuclear",
-    "shows": "NRC Vogtle 3 Site Visit",
-    "file": "File:NRC Vogtle 3 Site Visit.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NRC_Vogtle_3_Site_Visit.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/NRC_Vogtle_3_Site_Visit.jpg/1920px-NRC_Vogtle_3_Site_Visit.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/NRC_Vogtle_3_Site_Visit.jpg/500px-NRC_Vogtle_3_Site_Visit.jpg",
-    "size": [
-     1920,
-     1661
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Nuclear Regulatory Commission, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Nuclear Regulatory Commission",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "neckarwestheim-nuclear",
-    "shows": "Kernkraftwerk Neckarwestheim September 2013",
-    "file": "File:Kernkraftwerk Neckarwestheim September 2013.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kernkraftwerk_Neckarwestheim_September_2013.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kernkraftwerk_Neckarwestheim_September_2013.jpg/1920px-Kernkraftwerk_Neckarwestheim_September_2013.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kernkraftwerk_Neckarwestheim_September_2013.jpg/500px-Kernkraftwerk_Neckarwestheim_September_2013.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Felix König, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Felix König",
-    "year": 2013,
     "how": "catalog"
    },
    {
@@ -183440,15 +183365,84 @@
     "author": "Gunnar Klack",
     "year": 2020,
     "how": "catalog"
+   },
+   {
+    "shot": "cooling-towers-steam",
+    "shows": "Susquehanna Steam Electric Station cooling towers from Nescopeck",
+    "file": "File:Susquehanna Steam Electric Station cooling towers from Nescopeck.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Susquehanna_Steam_Electric_Station_cooling_towers_from_Nescopeck.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Susquehanna_Steam_Electric_Station_cooling_towers_from_Nescopeck.JPG/1920px-Susquehanna_Steam_Electric_Station_cooling_towers_from_Nescopeck.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Susquehanna_Steam_Electric_Station_cooling_towers_from_Nescopeck.JPG/500px-Susquehanna_Steam_Electric_Station_cooling_towers_from_Nescopeck.JPG",
+    "size": [
+     1920,
+     1278
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Jakec, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jakec",
+    "year": 2015,
+    "how": "catalog"
+   },
+   {
+    "shot": "reactor-hall",
+    "shows": "Decommissioned reactor hall, Sizewell A nuclear power station - geograph.org.uk",
+    "file": "File:Decommissioned reactor hall, Sizewell A nuclear power station - geograph.org.uk - 8137754.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Decommissioned_reactor_hall,_Sizewell_A_nuclear_power_station_-_geograph.org.uk_-_8137754.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Decommissioned_reactor_hall%2C_Sizewell_A_nuclear_power_station_-_geograph.org.uk_-_8137754.jpg/1920px-Decommissioned_reactor_hall%2C_Sizewell_A_nuclear_power_station_-_geograph.org.uk_-_8137754.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Decommissioned_reactor_hall%2C_Sizewell_A_nuclear_power_station_-_geograph.org.uk_-_8137754.jpg/500px-Decommissioned_reactor_hall%2C_Sizewell_A_nuclear_power_station_-_geograph.org.uk_-_8137754.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Simon Mortimer, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Simon Mortimer",
+    "year": 2025,
+    "how": "catalog"
+   },
+   {
+    "shot": "nuclear-fuel",
+    "shows": "Sredica JE Krško med menjavo goriva",
+    "file": "File:Sredica JE Krško med menjavo goriva.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sredica_JE_Kr%C5%A1ko_med_menjavo_goriva.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sredica_JE_Kr%C5%A1ko_med_menjavo_goriva.jpg/1920px-Sredica_JE_Kr%C5%A1ko_med_menjavo_goriva.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sredica_JE_Kr%C5%A1ko_med_menjavo_goriva.jpg/500px-Sredica_JE_Kr%C5%A1ko_med_menjavo_goriva.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Nuklearna elektrarna Krško, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Nuklearna elektrarna Krško",
+    "year": 2009,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "philippsburg-nuclear",
+   "uranium-pellet",
    "chooz-nuclear",
    "flamanville-nuclear",
    "borssele-nuclear"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "defense": {
   "name": "Defense & geopolitics",
@@ -184672,34 +184666,34 @@
    },
    {
     "shot": "military-parade",
-    "shows": "СССР, 1973, Ростов-на-Дону, Советский Союз, Военный парад, Military Parade, Soviet Union",
-    "file": "File:СССР, 1973, Ростов-на-Дону, Советский Союз, Военный парад, Military Parade, Soviet Union.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%A1%D0%A1%D0%A0,_1973,_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83,_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7,_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4,_Military_Parade,_Soviet_Union.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_Soviet_Union.jpg/1920px-%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_Soviet_Union.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_Soviet_Union.jpg/500px-%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_Soviet_Union.jpg",
+    "shows": "СССР, 1986, Ростов-на-Дону, Военный парад, Military Parade, Soviet Union",
+    "file": "File:СССР, 1986, Ростов-на-Дону, Военный парад, Military Parade, Soviet Union.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%A1%D0%A1%D0%A0,_1986,_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83,_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4,_Military_Parade,_Soviet_Union.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%D0%A1%D0%A1%D0%A1%D0%A0%2C_1986%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_Soviet_Union.jpg/1920px-%D0%A1%D0%A1%D0%A1%D0%A0%2C_1986%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_Soviet_Union.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/%D0%A1%D0%A1%D0%A1%D0%A0%2C_1986%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_Soviet_Union.jpg/500px-%D0%A1%D0%A1%D0%A1%D0%A0%2C_1986%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_Soviet_Union.jpg",
     "size": [
      1920,
-     1278
+     1119
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Vyacheslav Argenberg / Transfer from A. S., CC BY 4.0, via Wikimedia Commons",
+    "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
     "licence": "CC BY 4.0",
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Vyacheslav Argenberg / Transfer from A. S.",
-    "year": 1973,
+    "author": "Vyacheslav Argenberg",
+    "year": 1986,
     "how": "catalog"
    },
    {
     "shot": "military-aircraft",
-    "shows": "Blue Impulse Kawasaki T-4 landing Naha Air Show 2018-37",
-    "file": "File:20181208 Blue Impulse Kawasaki T-4 landing Naha Air Show 2018-37.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-37.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-37.jpg/1920px-20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-37.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-37.jpg/500px-20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-37.jpg",
+    "shows": "Blue Impulse Kawasaki T-4 landing Naha Air Show 2018-2",
+    "file": "File:20181208 Blue Impulse Kawasaki T-4 landing Naha Air Show 2018-2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg/1920px-20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg/500px-20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-2.jpg",
     "size": [
      1920,
      1280
@@ -184722,9 +184716,12 @@
    "artillery",
    "f-35",
    "army-truck",
-   "battle-tank"
+   "battle-tank",
+   "warplane",
+   "armored-vehicle",
+   "aircraft-carrier-deck"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "consumer": {
   "name": "Consumer spending & retail",
@@ -186004,30 +186001,27 @@
     "track": "https://api.unsplash.com/photos/8sCPn-RKKNE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA"
    },
    {
-    "shot": "retail",
-    "shows": "Shop of decoration en:Christmas decoration on the en:Christmas market at en:Saint-Étienne .",
-    "file": "File:Noël-Déco.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:No%C3%ABl-D%C3%A9co.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/No%C3%ABl-D%C3%A9co.jpg/1920px-No%C3%ABl-D%C3%A9co.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/No%C3%ABl-D%C3%A9co.jpg/500px-No%C3%ABl-D%C3%A9co.jpg",
+    "shot": "shoppers",
+    "shows": "5033 Hurontario St Shoppers Drug Mart Interior 2023",
+    "file": "File:5033 Hurontario St Shoppers Drug Mart Interior 2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:5033_Hurontario_St_Shoppers_Drug_Mart_Interior_2023.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/5033_Hurontario_St_Shoppers_Drug_Mart_Interior_2023.jpg/1920px-5033_Hurontario_St_Shoppers_Drug_Mart_Interior_2023.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/5033_Hurontario_St_Shoppers_Drug_Mart_Interior_2023.jpg/500px-5033_Hurontario_St_Shoppers_Drug_Mart_Interior_2023.jpg",
     "size": [
      1920,
-     1280
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Touam (Hervé Agnoux), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Touam (Hervé Agnoux)",
-    "year": 2019,
-    "how": "catalog",
-    "flags": [
-     "restrictions: personality"
-    ]
+    "credit": "Canmenwalker, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Canmenwalker",
+    "year": 2023,
+    "how": "catalog"
    }
   ],
   "missing": [
@@ -186057,7 +186051,7 @@
    "shopping-street-night",
    "retail-display"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "banks": {
   "name": "Banks & the financial system",
@@ -187285,54 +187279,58 @@
     "track_pending": true
    },
    {
-    "shot": "bank-teller",
-    "shows": "Overwinningsplein ING Bank automatic teller machine, Groningen 03",
-    "file": "File:Overwinningsplein ING Bank automatic teller machine, Groningen (2020) 03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Overwinningsplein_ING_Bank_automatic_teller_machine,_Groningen_(2020)_03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Overwinningsplein_ING_Bank_automatic_teller_machine%2C_Groningen_%282020%29_03.jpg/1920px-Overwinningsplein_ING_Bank_automatic_teller_machine%2C_Groningen_%282020%29_03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Overwinningsplein_ING_Bank_automatic_teller_machine%2C_Groningen_%282020%29_03.jpg/500px-Overwinningsplein_ING_Bank_automatic_teller_machine%2C_Groningen_%282020%29_03.jpg",
+    "shot": "bank-tower",
+    "shows": "Modern skyscrapers rise against a blue sky",
+    "file": "unsplash:lnHl2VwYGHs",
+    "page": "https://unsplash.com/photos/modern-skyscrapers-rise-against-a-blue-sky-lnHl2VwYGHs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1749296002879-504ec07b0ec7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YmFuayUyMHRvd2VyfGVufDF8fHx8MTc5NDk3MTgxM3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1749296002879-504ec07b0ec7?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YmFuayUyMHRvd2VyfGVufDF8fHx8MTc5NDk3MTgxM3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 15:29, 4 March 2020 (UTC), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons - © CC BY-SA 4.0 International . ( Want to use this image? ) Original publication 📤: -- Donald Trung 『徵國單』 ( No Fake News 💬 ) ( WikiProject Numismatics 💴) ( Articles 📚 ) 15:29, 4 March 2020 (UTC)",
-    "year": 2020,
-    "how": "catalog"
+    "credit": "Photo by Andreas Maier on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andreas Maier",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@shooterstgt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lnHl2VwYGHs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8YmFuayUyMHRvd2VyfGVufDF8fHx8MTc5NDk3MTgxM3ww",
+    "track_pending": true
    },
    {
-    "shot": "money-bag",
-    "shows": "Money-bag-front-clay",
-    "file": "File:Money-bag-front-clay.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Money-bag-front-clay.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Money-bag-front-clay.png/1920px-Money-bag-front-clay.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Money-bag-front-clay.png/500px-Money-bag-front-clay.png",
+    "shot": "bank-headquarters",
+    "shows": "Deutsche Bank Taunusanlage",
+    "file": "File:Deutsche Bank Taunusanlage.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Deutsche_Bank_Taunusanlage.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Deutsche_Bank_Taunusanlage.jpg/1280px-Deutsche_Bank_Taunusanlage.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Deutsche_Bank_Taunusanlage.jpg/500px-Deutsche_Bank_Taunusanlage.jpg",
     "size": [
-     1920,
-     1920
+     1280,
+     1875
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Vijay Verma ( https://vijayverma.co/?ref=3dicons / https://web.archive.org/web/20230821152010/https://vijayverma.co/?ref=3dicons ), CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Vijay Verma ( https://vijayverma.co/?ref=3dicons / https://web.archive.org/web/20230821152010/https://vijayverma.co/?ref=3dicons )",
-    "year": 2020,
+    "credit": "Thomas Wolf , www.foto-tw.de, CC BY-SA 3.0 de, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0 de",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "author": "Thomas Wolf , www.foto-tw.de",
+    "year": 2013,
     "how": "catalog"
    }
   ],
   "missing": [
-   "bank-lobby",
+   "central-bank",
    "historic-bank",
    "old-bank",
    "chip-card",
@@ -187346,7 +187344,7 @@
    "card-reader",
    "safe-deposit"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "investing": {
   "name": "Investing basics, retirement & index funds",
@@ -188598,35 +188596,12 @@
     "track": "https://api.unsplash.com/photos/dU_itZ6CKXk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGl2aWRlbmR8ZW58MXx8fHwxNzk0OTQ5Njk4fDA"
    },
    {
-    "shot": "brokerage",
-    "shows": "GCSC Brokerage Department and Starbucks Zhan Qian Store",
-    "file": "File:GCSC Brokerage Department and Starbucks Zhan Qian Store 20120404.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:GCSC_Brokerage_Department_and_Starbucks_Zhan_Qian_Store_20120404.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/GCSC_Brokerage_Department_and_Starbucks_Zhan_Qian_Store_20120404.jpg/1920px-GCSC_Brokerage_Department_and_Starbucks_Zhan_Qian_Store_20120404.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/GCSC_Brokerage_Department_and_Starbucks_Zhan_Qian_Store_20120404.jpg/500px-GCSC_Brokerage_Department_and_Starbucks_Zhan_Qian_Store_20120404.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "lienyuan lee, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "lienyuan lee",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
     "shot": "savings-goal",
     "shows": "Governor of Minnesota Cost Savings, Creating Jobs",
-    "file": "File:Governor of Minnesota Cost Savings, Creating Jobs (5609369137).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Governor_of_Minnesota_Cost_Savings,_Creating_Jobs_(5609369137).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Governor_of_Minnesota_Cost_Savings%2C_Creating_Jobs_%285609369137%29.jpg/1920px-Governor_of_Minnesota_Cost_Savings%2C_Creating_Jobs_%285609369137%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Governor_of_Minnesota_Cost_Savings%2C_Creating_Jobs_%285609369137%29.jpg/500px-Governor_of_Minnesota_Cost_Savings%2C_Creating_Jobs_%285609369137%29.jpg",
+    "file": "File:Governor of Minnesota Cost Savings, Creating Jobs (5609948442).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Governor_of_Minnesota_Cost_Savings,_Creating_Jobs_(5609948442).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Governor_of_Minnesota_Cost_Savings%2C_Creating_Jobs_%285609948442%29.jpg/1920px-Governor_of_Minnesota_Cost_Savings%2C_Creating_Jobs_%285609948442%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Governor_of_Minnesota_Cost_Savings%2C_Creating_Jobs_%285609948442%29.jpg/500px-Governor_of_Minnesota_Cost_Savings%2C_Creating_Jobs_%285609948442%29.jpg",
     "size": [
      1920,
      1275
@@ -188642,11 +188617,34 @@
     "author": "Office of Governor Mark Dayton & Lt. Governor Tina Smith",
     "year": 2011,
     "how": "catalog"
+   },
+   {
+    "shot": "golden-piggy-bank",
+    "shows": "Golden piggy bank",
+    "file": "File:Golden piggy bank.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Golden_piggy_bank.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Golden_piggy_bank.jpg/1920px-Golden_piggy_bank.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Golden_piggy_bank.jpg/500px-Golden_piggy_bank.jpg",
+    "size": [
+     1920,
+     1152
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "QuinceMedia on Pixabay, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "QuinceMedia on Pixabay",
+    "year": 2018,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "portfolio",
-   "golden-piggy-bank",
+   "stock-trading",
+   "stock-market",
    "money-saving",
    "growth",
    "budget",
@@ -188664,7 +188662,7 @@
    "coin-stack",
    "stack-of-coins"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "space": {
   "name": "Space economy",
@@ -191231,35 +191229,34 @@
     "track_pending": true
    },
    {
-    "shot": "blister-pack",
-    "shows": "Orange capsules and empty blister pack on blue",
-    "file": "unsplash:fbXayXy0Pok",
-    "page": "https://unsplash.com/photos/orange-capsules-and-empty-blister-pack-on-blue-fbXayXy0Pok?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1779923328024-eea5dd1a1e34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Ymxpc3RlciUyMHBhY2t8ZW58MXx8fHwxNzk0OTMyMzk5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1779923328024-eea5dd1a1e34?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Ymxpc3RlciUyMHBhY2t8ZW58MXx8fHwxNzk0OTMyMzk5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "ozempic",
+    "shows": "Rybelsus 3mg box angle view",
+    "file": "File:Rybelsus 3mg box angle view.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rybelsus_3mg_box_angle_view.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rybelsus_3mg_box_angle_view.jpg/1280px-Rybelsus_3mg_box_angle_view.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Rybelsus_3mg_box_angle_view.jpg/500px-Rybelsus_3mg_box_angle_view.jpg",
     "size": [
-     2250,
-     1500
+     1280,
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Jorge Campos on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Jorge Campos",
-    "year": 2026,
+    "credit": "Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Grendelkhan",
+    "year": 2023,
     "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@pelagikus?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/fbXayXy0Pok/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Ymxpc3RlciUyMHBhY2t8ZW58MXx8fHwxNzk0OTMyMzk5fDA",
-    "track_pending": true
+    "flags": [
+     "restrictions: trademarked"
+    ]
    }
   ],
   "missing": [
-   "weight-scale",
+   "injection",
    "fruit-bowl",
    "vial",
    "medical-syringe",
@@ -191286,7 +191283,7 @@
    "health",
    "healthy-eating"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "politics": {
   "name": "US politics & markets",
@@ -192547,11 +192544,11 @@
    },
    {
     "shot": "campaign-rally",
-    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3720",
-    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3720.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_3720.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3720.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3720.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3720.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3720.jpg",
+    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3797",
+    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3797.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_3797.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3797.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3797.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3797.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3797.jpg",
     "size": [
      1920,
      1440
@@ -192570,7 +192567,7 @@
    }
   ],
   "missing": [
-   "courthouse",
+   "politics",
    "parliament",
    "national-mall",
    "washington-monument",
@@ -192582,7 +192579,7 @@
    "i-voted-sticker",
    "polling-place"
   ],
-  "checked": "2026-11-17"
+  "checked": "2026-11-18"
  },
  "europe": {
   "name": "Europe & the ECB",
