@@ -1,0 +1,46 @@
+{
+ "id": "sector-consumer-discretionary",
+ "kind": "sector",
+ "name": "Consumer discretionary sector",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "pool, resort, hotel, building, dominican republic, caribbean",
+   "url": "https://cdn.pixabay.com/video/2024/02/29/202392-918066367_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/02/29/202392-918066367_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/02/29/202392-918066367_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 9.0,
+   "credit": "Video by BernardMedia-DR on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/BernardMedia-DR-42619522/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-202392/"
+  },
+  {
+   "shows": "room, bed, hotel, travel, vacation, reception, apartment, lifestyle, business, resort",
+   "url": "https://cdn.pixabay.com/video/2022/10/16/135141-761273478_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2022/10/16/135141-761273478_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2022/10/16/135141-761273478_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 8.0,
+   "credit": "Video by blackmarketmusic on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/blackmarketmusic-2976878/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-135141/"
+  }
+ ]
+}

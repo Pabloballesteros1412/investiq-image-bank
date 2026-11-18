@@ -1,0 +1,63 @@
+{
+ "id": "luxury",
+ "kind": "topic",
+ "name": "Luxury goods",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "woman, dress, style, modeling, model, fashion model, fashion",
+   "url": "https://cdn.pixabay.com/video/2025/03/21/266436_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2025/03/21/266436_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2025/03/21/266436_medium.jpg",
+   "size": [
+    2160,
+    3840
+   ],
+   "orientation": "vertical",
+   "duration": 14.0,
+   "credit": "Video by Paashuu on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Paashuu-20053659/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-266436/"
+  },
+  {
+   "shows": "champagne, drink, alcohol, glass, luxury, party",
+   "url": "https://cdn.pixabay.com/video/2024/07/29/223694_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/07/29/223694_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/07/29/223694_medium.jpg",
+   "size": [
+    1080,
+    1920
+   ],
+   "orientation": "vertical",
+   "duration": 5.0,
+   "credit": "Video by twmx on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/twmx-27111247/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-223694/"
+  },
+  {
+   "shows": "breakfast, hotel, beautiful wallpaper, holiday, summer, food, delicious, nutrition, fresh, luxury, service, morning, architectural, decoration, design, gastronomy, pool, that, comfortable, relax, mode",
+   "url": "https://cdn.pixabay.com/video/2019/07/30/25639-351374270_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2019/07/30/25639-351374270_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2019/07/30/25639-351374270_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 20.0,
+   "credit": "Video by Engin_Akyurt on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Engin_Akyurt-3656355/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-25639/"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": "cybersecurity",
+ "kind": "topic",
+ "name": "Cybersecurity",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "hacker, computer science, danger, piracy, computer, data, security",
+   "url": "https://cdn.pixabay.com/video/2024/02/23/201748-916318955_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/02/23/201748-916318955_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/02/23/201748-916318955_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 24.0,
+   "credit": "Video by conte_public on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/conte_public-41658361/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-201748/"
+  }
+ ]
+}

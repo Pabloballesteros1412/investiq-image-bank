@@ -1,0 +1,81 @@
+{
+ "id": "consumer",
+ "kind": "topic",
+ "name": "Consumer spending & retail",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "mall, shop, store, department store, people, busy, buy, sell, sale, purchase, customer, live, shopping, escalator, fashion",
+   "url": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2019/06/01/24114-340421422_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 13.0,
+   "credit": "Video by wcw6900 on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/wcw6900-11186673/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-24114/"
+  },
+  {
+   "shows": "crowd, people, many, city, town, downtown, walking, pedestrians, consumers",
+   "url": "https://cdn.pixabay.com/video/2016/06/27/3614-172488336_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2016/06/27/3614-172488336_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2016/06/27/3614-172488336_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 15.0,
+   "credit": "Video by Coverr-Free-Footage on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Coverr-Free-Footage-1281706/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-3614/"
+  },
+  {
+   "shows": "shopping, mall, people, crowd, black friday, discount, sale, offer, promotion, christmas, advertising",
+   "url": "https://cdn.pixabay.com/video/2020/11/23/57128-484330955_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2020/11/23/57128-484330955_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2020/11/23/57128-484330955_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 20.0,
+   "credit": "Video by Hassas_Arts on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Hassas_Arts-12571684/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-57128/"
+  },
+  {
+   "shows": "shopping center, escalators, modern, shopping, consumption, department store, shopping mall, stairs, escalator, passenger transport, rise, purchasing, to buy",
+   "url": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2017/11/10/12876-242487530_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 25.0,
+   "credit": "Video by Werni on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Werni-54897/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-12876/"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "ai",
+ "kind": "topic",
+ "name": "Artificial intelligence boom",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "network, internet, data, switch, router, cabinet, ethernet, equipment, connection, server, cable, rack, networking, lan, technology",
+   "url": "https://cdn.pixabay.com/video/2018/03/09/14900-259623335_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2018/03/09/14900-259623335_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2018/03/09/14900-259623335_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 24.0,
+   "credit": "Video by cipnt on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/cipnt-8130977/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-14900/"
+  },
+  {
+   "shows": "phone, artificial intelligence, chat gpt, technology, bot",
+   "url": "https://cdn.pixabay.com/video/2023/06/23/168485-839220701_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2023/06/23/168485-839220701_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2023/06/23/168485-839220701_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 19.0,
+   "credit": "Video by riaz-baloch on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/riaz-baloch-27092933/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-168485/"
+  }
+ ]
+}

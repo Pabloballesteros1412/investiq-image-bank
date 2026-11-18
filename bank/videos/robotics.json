@@ -1,0 +1,63 @@
+{
+ "id": "robotics",
+ "kind": "topic",
+ "name": "Robotics & automation",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "robot, machine, work, company, business, home",
+   "url": "https://cdn.pixabay.com/video/2021/09/11/88223-606079076_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2021/09/11/88223-606079076_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2021/09/11/88223-606079076_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 20.0,
+   "credit": "Video by Digital_Expert on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Digital_Expert-22525715/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-88223/"
+  },
+  {
+   "shows": "factory, industry, manufacturing, industrial, engineering, production, equipment, metal, manufacture, work, machine, tool, worker, process, automated, engineer",
+   "url": "https://cdn.pixabay.com/video/2016/10/30/6185-189700620_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2016/10/30/6185-189700620_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2016/10/30/6185-189700620_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 15.0,
+   "credit": "Video by jcax2 on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/jcax2-1005551/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-6185/"
+  },
+  {
+   "shows": "lawn mower, lawn, gardening, grass, green, mow, robotic lawnmower, technology, grassy area, lawn robot, garden maintenance, garden, meadow, nature, robot",
+   "url": "https://cdn.pixabay.com/video/2020/06/14/42015-431407098_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2020/06/14/42015-431407098_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2020/06/14/42015-431407098_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 37.0,
+   "credit": "Video by USA-Reiseblogger on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/USA-Reiseblogger-328188/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-42015/"
+  }
+ ]
+}

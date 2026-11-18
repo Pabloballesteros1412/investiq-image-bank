@@ -1,0 +1,45 @@
+{
+ "id": "sector-financials",
+ "kind": "sector",
+ "name": "Financial sector",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "shanghai, building, china, city, landscape, finance, travel, urban, outdoor, sunset, center, asia, architecture, modern, high angle view, commerce, skyline, tourism, financial, sunrise, district, ligh",
+   "url": "https://cdn.pixabay.com/video/2025/03/26/267747_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2025/03/26/267747_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2025/03/26/267747_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 12.0,
+   "credit": "Video by TungArt7 on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/TungArt7-38741244/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-267747/"
+  },
+  {
+   "shows": "card, payment, terminal, contactless, to pay, roses, flowers, crowd, purchase, sale, colorful, nature, florist",
+   "url": "https://cdn.pixabay.com/video/2024/04/25/209456_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/04/25/209456_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/04/25/209456_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 15.0,
+   "credit": "Video by adria_moreno on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/adria_moreno-43570949/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-209456/"
+  }
+ ]
+}

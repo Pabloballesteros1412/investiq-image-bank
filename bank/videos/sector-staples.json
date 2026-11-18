@@ -1,0 +1,83 @@
+{
+ "id": "sector-staples",
+ "kind": "sector",
+ "name": "Consumer staples sector",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "bread, dough, cook, flour, butter, oil, food, bakery products, baker, bakery",
+   "url": "https://cdn.pixabay.com/video/2022/11/29/140931-776453915_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2022/11/29/140931-776453915_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2022/11/29/140931-776453915_medium.jpg",
+   "size": [
+    1080,
+    1920
+   ],
+   "orientation": "vertical",
+   "duration": 10.0,
+   "credit": "Video by Amina_Salim on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Amina_Salim-31659287/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-140931/"
+  },
+  {
+   "shows": "bread, knife, breakfast, healthy, home, bakery, baked, flour, loaf, homemade",
+   "url": "https://cdn.pixabay.com/video/2021/01/27/63066-505518648_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2021/01/27/63066-505518648_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2021/01/27/63066-505518648_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 22.0,
+   "credit": "Video by AlexKopeykin on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/AlexKopeykin-6178059/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-63066/"
+  },
+  {
+   "shows": "cereal, wheat, summer, agriculture, nature, field, seeds, food, farmer, gold, healthy, bread",
+   "url": "https://cdn.pixabay.com/video/2020/08/01/46140-447124546_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2020/08/01/46140-447124546_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2020/08/01/46140-447124546_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 9.0,
+   "credit": "Video by gziku on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/gziku-8033041/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-46140/"
+  },
+  {
+   "shows": "cheese, variety, market, hard cheese, food, tasty, amsterdam, grocery store, cheese lovers, cheese store, cheese factory, tasty food, milk products, taste of holland",
+   "url": "https://cdn.pixabay.com/video/2023/06/05/165976-833909336_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2023/06/05/165976-833909336_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2023/06/05/165976-833909336_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 10.0,
+   "credit": "Video by Ri_Ya on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Ri_Ya-12911237/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-165976/"
+  }
+ ]
+}

@@ -1,0 +1,446 @@
+{
+ "about": "InvestIQ video bank: freely licensed clips of market topics and GICS sectors (Pixabay, Wikimedia Commons, NASA), checked by eye, for Reels, TikTok, Shorts and horizontal video.",
+ "rules": [
+  "Every clip is generic footage of a market topic or sector: never present it as footage of a specific company, person or event, and never say a person in it is anyone in particular.",
+  "Download the file to edit it: 'url' is the best file (often 4K), 'url_1080' a lighter 1080p one. Mute the clip's own sound, or replace it with cleared music.",
+  "orientation 'vertical' fits Reels, TikTok and Shorts as it is. A horizontal clip with vertical_crop_ok is 4K and can be cropped to 9:16 at 1080 x 1920 without upscaling; other horizontal clips are for 16:9 video or a band inside a vertical frame.",
+  "Credit every clip with its 'credit' line where the post's credits go (caption or end card). Pixabay asks for no credit but the bank gives one; Commons clips are CC0, public domain or CC BY (CC BY needs the credit).",
+  "A subject with few or no clips: use its photos (bank/index.json) instead."
+ ],
+ "updated": "2026-11-18",
+ "videos": 173,
+ "subjects": [
+  {
+   "id": "fed",
+   "kind": "topic",
+   "name": "Federal Reserve & interest rates",
+   "videos": 4,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/fed.json"
+  },
+  {
+   "id": "inflation",
+   "kind": "topic",
+   "name": "Inflation & cost of living",
+   "videos": 4,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/inflation.json"
+  },
+  {
+   "id": "recession",
+   "kind": "topic",
+   "name": "Recession & slowdown",
+   "videos": 1,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/recession.json"
+  },
+  {
+   "id": "jobs",
+   "kind": "topic",
+   "name": "Jobs & labor market",
+   "videos": 6,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/jobs.json"
+  },
+  {
+   "id": "bull-market",
+   "kind": "topic",
+   "name": "Wall Street & stock market rallies",
+   "videos": 3,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/bull-market.json"
+  },
+  {
+   "id": "crash",
+   "kind": "topic",
+   "name": "Market crash & volatility",
+   "videos": 4,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/crash.json"
+  },
+  {
+   "id": "ai",
+   "kind": "topic",
+   "name": "Artificial intelligence boom",
+   "videos": 2,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/ai.json"
+  },
+  {
+   "id": "datacenters",
+   "kind": "topic",
+   "name": "AI data centers & power demand",
+   "videos": 4,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/datacenters.json"
+  },
+  {
+   "id": "chips",
+   "kind": "topic",
+   "name": "Semiconductors & the chip war",
+   "videos": 5,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/chips.json"
+  },
+  {
+   "id": "crypto",
+   "kind": "topic",
+   "name": "Bitcoin & crypto",
+   "videos": 5,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/crypto.json"
+  },
+  {
+   "id": "gold",
+   "kind": "topic",
+   "name": "Gold",
+   "videos": 2,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/gold.json"
+  },
+  {
+   "id": "oil",
+   "kind": "topic",
+   "name": "Oil & energy",
+   "videos": 5,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/oil.json"
+  },
+  {
+   "id": "tariffs",
+   "kind": "topic",
+   "name": "Tariffs & trade war",
+   "videos": 5,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/tariffs.json"
+  },
+  {
+   "id": "china",
+   "kind": "topic",
+   "name": "China economy",
+   "videos": 5,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/china.json"
+  },
+  {
+   "id": "dollar",
+   "kind": "topic",
+   "name": "US dollar & currencies",
+   "videos": 5,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/dollar.json"
+  },
+  {
+   "id": "bonds",
+   "kind": "topic",
+   "name": "Treasuries, bonds & national debt",
+   "videos": 1,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/bonds.json"
+  },
+  {
+   "id": "housing",
+   "kind": "topic",
+   "name": "Housing market & mortgages",
+   "videos": 2,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/housing.json"
+  },
+  {
+   "id": "earnings",
+   "kind": "topic",
+   "name": "Earnings season",
+   "videos": 3,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/earnings.json"
+  },
+  {
+   "id": "ipo",
+   "kind": "topic",
+   "name": "IPOs",
+   "videos": 3,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/ipo.json"
+  },
+  {
+   "id": "ev",
+   "kind": "topic",
+   "name": "Electric vehicles",
+   "videos": 0,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/ev.json"
+  },
+  {
+   "id": "nuclear",
+   "kind": "topic",
+   "name": "Nuclear power & uranium",
+   "videos": 1,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/nuclear.json"
+  },
+  {
+   "id": "defense",
+   "kind": "topic",
+   "name": "Defense & geopolitics",
+   "videos": 2,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/defense.json"
+  },
+  {
+   "id": "consumer",
+   "kind": "topic",
+   "name": "Consumer spending & retail",
+   "videos": 4,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/consumer.json"
+  },
+  {
+   "id": "banks",
+   "kind": "topic",
+   "name": "Banks & the financial system",
+   "videos": 4,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/banks.json"
+  },
+  {
+   "id": "investing",
+   "kind": "topic",
+   "name": "Investing basics, retirement & index funds",
+   "videos": 4,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/investing.json"
+  },
+  {
+   "id": "space",
+   "kind": "topic",
+   "name": "Space economy",
+   "videos": 6,
+   "vertical": 2,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/space.json"
+  },
+  {
+   "id": "glp1",
+   "kind": "topic",
+   "name": "Weight-loss drugs (GLP-1)",
+   "videos": 3,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/glp1.json"
+  },
+  {
+   "id": "politics",
+   "kind": "topic",
+   "name": "US politics & markets",
+   "videos": 2,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/politics.json"
+  },
+  {
+   "id": "europe",
+   "kind": "topic",
+   "name": "Europe & the ECB",
+   "videos": 4,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/europe.json"
+  },
+  {
+   "id": "quantum",
+   "kind": "topic",
+   "name": "Quantum computing",
+   "videos": 0,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/quantum.json"
+  },
+  {
+   "id": "robotics",
+   "kind": "topic",
+   "name": "Robotics & automation",
+   "videos": 3,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/robotics.json"
+  },
+  {
+   "id": "cybersecurity",
+   "kind": "topic",
+   "name": "Cybersecurity",
+   "videos": 1,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/cybersecurity.json"
+  },
+  {
+   "id": "india",
+   "kind": "topic",
+   "name": "India economy",
+   "videos": 6,
+   "vertical": 2,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/india.json"
+  },
+  {
+   "id": "japan",
+   "kind": "topic",
+   "name": "Japan economy",
+   "videos": 9,
+   "vertical": 3,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/japan.json"
+  },
+  {
+   "id": "metals",
+   "kind": "topic",
+   "name": "Industrial metals & mining",
+   "videos": 4,
+   "vertical": 2,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/metals.json"
+  },
+  {
+   "id": "travel",
+   "kind": "topic",
+   "name": "Travel & airlines",
+   "videos": 4,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/travel.json"
+  },
+  {
+   "id": "luxury",
+   "kind": "topic",
+   "name": "Luxury goods",
+   "videos": 3,
+   "vertical": 2,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/luxury.json"
+  },
+  {
+   "id": "sector-tech",
+   "kind": "sector",
+   "name": "Technology sector",
+   "videos": 5,
+   "vertical": 2,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-tech.json"
+  },
+  {
+   "id": "sector-health",
+   "kind": "sector",
+   "name": "Health care sector",
+   "videos": 5,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-health.json"
+  },
+  {
+   "id": "sector-financials",
+   "kind": "sector",
+   "name": "Financial sector",
+   "videos": 2,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-financials.json"
+  },
+  {
+   "id": "sector-consumer-discretionary",
+   "kind": "sector",
+   "name": "Consumer discretionary sector",
+   "videos": 2,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-consumer-discretionary.json"
+  },
+  {
+   "id": "sector-communication",
+   "kind": "sector",
+   "name": "Communication services sector",
+   "videos": 4,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-communication.json"
+  },
+  {
+   "id": "sector-industrials",
+   "kind": "sector",
+   "name": "Industrial sector",
+   "videos": 5,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-industrials.json"
+  },
+  {
+   "id": "sector-staples",
+   "kind": "sector",
+   "name": "Consumer staples sector",
+   "videos": 4,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-staples.json"
+  },
+  {
+   "id": "sector-energy",
+   "kind": "sector",
+   "name": "Energy sector",
+   "videos": 3,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-energy.json"
+  },
+  {
+   "id": "sector-utilities",
+   "kind": "sector",
+   "name": "Utilities sector",
+   "videos": 6,
+   "vertical": 2,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-utilities.json"
+  },
+  {
+   "id": "sector-real-estate",
+   "kind": "sector",
+   "name": "Real estate sector",
+   "videos": 6,
+   "vertical": 1,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-real-estate.json"
+  },
+  {
+   "id": "sector-materials",
+   "kind": "sector",
+   "name": "Materials sector",
+   "videos": 2,
+   "vertical": 0,
+   "target": 10,
+   "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-materials.json"
+  }
+ ]
+}

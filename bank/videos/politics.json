@@ -1,0 +1,45 @@
+{
+ "id": "politics",
+ "kind": "topic",
+ "name": "US politics & markets",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "united states, elections, capitol, government, capital city, washington dc, white house, president, usa, washington",
+   "url": "https://cdn.pixabay.com/video/2024/10/31/239282_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/10/31/239282_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/10/31/239282_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 20.0,
+   "credit": "Video by InOldNews on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/InOldNews-30550920/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-239282/"
+  },
+  {
+   "shows": "american flag, flag blowing in the wind, flag against a blue sky, patriotic, american, patriotism, nation, honor, memorial, banner, red, stripes, freedom, glory, july, independence, national, country,",
+   "url": "https://cdn.pixabay.com/video/2016/06/07/3415-169825730_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2016/06/07/3415-169825730_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2016/06/07/3415-169825730_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 17.0,
+   "credit": "Video by JohnSalvatore on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/JohnSalvatore-2137023/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-3415/"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "id": "gold",
+ "kind": "topic",
+ "name": "Gold",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "krugerrand, gold coin, gold, money plant, finance, gold price",
+   "url": "https://cdn.pixabay.com/video/2020/04/18/36529-410610235_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2020/04/18/36529-410610235_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2020/04/18/36529-410610235_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 20.0,
+   "credit": "Video by fielperson on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/fielperson-683780/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-36529/"
+  },
+  {
+   "shows": "gold, gold coin, money plant, finance, real values",
+   "url": "https://cdn.pixabay.com/video/2020/04/18/36528-410610227_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2020/04/18/36528-410610227_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2020/04/18/36528-410610227_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 28.0,
+   "credit": "Video by fielperson on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/fielperson-683780/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-36528/"
+  }
+ ]
+}

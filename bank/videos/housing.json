@@ -1,0 +1,46 @@
+{
+ "id": "housing",
+ "kind": "topic",
+ "name": "Housing market & mortgages",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "house, fireplace, bonfire, firewood, flame, home",
+   "url": "https://cdn.pixabay.com/video/2023/03/10/154140-807166727_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2023/03/10/154140-807166727_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2023/03/10/154140-807166727_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 20.0,
+   "credit": "Video by mrBanerjee6789 on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/mrBanerjee6789-34302488/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-154140/"
+  },
+  {
+   "shows": "business, real estate, home, department, attorney, legal, balance, sale, market",
+   "url": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/02/02/198888-909564511_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 10.0,
+   "credit": "Video by Roque_dg on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Roque_dg-2650631/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-198888/"
+  }
+ ]
+}

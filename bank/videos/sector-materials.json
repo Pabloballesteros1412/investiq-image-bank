@@ -1,0 +1,45 @@
+{
+ "id": "sector-materials",
+ "kind": "sector",
+ "name": "Materials sector",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "industry, industrial area, steel mill, blast furnace, chimney, smoke, emissions, exhaust, air pollution, environment, climate change, energy, production, business, factory, industrial plant, urban lan",
+   "url": "https://cdn.pixabay.com/video/2026/03/03/337950_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2026/03/03/337950_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2026/03/03/337950_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 28.0,
+   "credit": "Video by TPMotion on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/TPMotion-10915387/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-337950/"
+  },
+  {
+   "shows": "digging, coal, machine, machinery, mine, earth, material, rock, energy, power, construction, industrial, heavy, equipment, mining",
+   "url": "https://cdn.pixabay.com/video/2019/09/22/27151-362142232_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2019/09/22/27151-362142232_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2019/09/22/27151-362142232_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 19.0,
+   "credit": "Video by munir92 on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/munir92-13550132/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-27151/"
+  }
+ ]
+}

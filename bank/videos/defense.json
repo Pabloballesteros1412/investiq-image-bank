@@ -1,0 +1,44 @@
+{
+ "id": "defense",
+ "kind": "topic",
+ "name": "Defense & geopolitics",
+ "target": 10,
+ "videos": [
+  {
+   "shows": "helicopter, military, army, czech, fight, flying, sky, prague, transport",
+   "url": "https://cdn.pixabay.com/video/2023/07/06/170295-843059171_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2023/07/06/170295-843059171_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2023/07/06/170295-843059171_medium.jpg",
+   "size": [
+    1080,
+    1920
+   ],
+   "orientation": "vertical",
+   "duration": 24.0,
+   "credit": "Video by Matthias_Groeneveld on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Matthias_Groeneveld-4535957/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-170295/"
+  },
+  {
+   "shows": "sniper, rifle, soldier, war, protection, man, battle, camo, danger, weapon, defense, camouflage, target",
+   "url": "https://cdn.pixabay.com/video/2021/01/07/61418-498529700_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2021/01/07/61418-498529700_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2021/01/07/61418-498529700_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 11.0,
+   "credit": "Video by AlexKopeykin on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/AlexKopeykin-6178059/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-61418/"
+  }
+ ]
+}
