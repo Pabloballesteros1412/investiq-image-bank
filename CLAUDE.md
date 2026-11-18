@@ -327,8 +327,14 @@ Decisions (Pablo, 4 Nov 2026):
   runway, pharma vials, a levitating superconductor, a biometric gate). Word matches seen: chocolate-chip cookies for
   "chips", a disco ball in a bar called "Import Export", Domino Sugar for "refinery", a clock warehouse for robotics.
   Index: 6,323 photos; topics and sectors 2,354 (16 of 48 at 50, the rest 47-49).
-- **Merged into main (18 Nov, PR #15)**. Round 19 (217 searches in the 33 under 50, drafted with `filter_cands.py`:
-  named nuclear plants, "hourglass money", "gantry crane", "food scale", "tokyo station"...) under way.
+- **Merged into main (18 Nov, PR #15)**.
+- **Round 19** (18 Nov): 217 searches in the 33 under 50 (drafted with `filter_cands.py`: named nuclear plants,
+  "hourglass money", "gantry crane", "food scale", "tokyo station"...), five 2-hour pieces. Grade 3: 10 stock (a
+  clothing store, butter, cheese, a boarded window, a toolbox, port cranes, bond tables in a newspaper, a timber house
+  frame, an EV connector, coin binoculars over the sea) and 1 Commons (a luxury resort pool). Lowered to 2: an 11th
+  shopping cart for consumer, a second Cattenom view. Word matches seen: a Qing banknote plate for "dollar", a zipper
+  for IPOs, a snowboarder and radio telescopes for quantum, a Christmas bauble for gold, a wall clock for "clock in".
+  Index: 6,334 photos; topics and sectors 2,365 (19 of 48 at 50, the rest 48-49).
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
