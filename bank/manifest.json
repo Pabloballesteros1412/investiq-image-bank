@@ -143204,29 +143204,6 @@
     "track": "https://api.unsplash.com/photos/01hQvBUC7rI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bW9uaXRvciUyMHNldHVwfGVufDF8fHx8MTc5NDk4MTY0M3ww"
    },
    {
-    "shot": "technology-conference",
-    "shows": "Hermann Winner keynote",
-    "file": "File:Hermann Winner keynote (21302456620).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hermann_Winner_keynote_(21302456620).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Winner_keynote_%2821302456620%29.jpg/1920px-Hermann_Winner_keynote_%2821302456620%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Winner_keynote_%2821302456620%29.jpg/500px-Hermann_Winner_keynote_%2821302456620%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "International Conference Intelligent Transportation, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "International Conference Intelligent Transportation",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
     "shot": "computer-mouse",
     "shows": "Black cordless computer mouse on black surface",
     "file": "unsplash:4PchFKrUw84",
@@ -143251,16 +143228,39 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@toastyraw?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/4PchFKrUw84/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29tcHV0ZXIlMjBtb3VzZXxlbnwxfHx8fDE3OTQ5ODE2OTl8MA"
+   },
+   {
+    "shot": "technology-conference",
+    "shows": "Tsuguo Nobe keynote",
+    "file": "File:Tsuguo Nobe keynote (21277953508).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tsuguo_Nobe_keynote_(21277953508).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tsuguo_Nobe_keynote_%2821277953508%29.jpg/1920px-Tsuguo_Nobe_keynote_%2821277953508%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tsuguo_Nobe_keynote_%2821277953508%29.jpg/500px-Tsuguo_Nobe_keynote_%2821277953508%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "International Conference Intelligent Transportation, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "International Conference Intelligent Transportation",
+    "year": 2015,
+    "how": "catalog"
    }
   ],
   "missing": [
    "office-open-space",
-   "laptop-keyboard",
-   "gaming-setup",
-   "computer-monitor",
-   "fiber-optic-cables",
-   "tablet-computer",
-   "programmer",
+   "camera",
+   "gaming-console",
+   "desktop-computer",
+   "webcam",
+   "drone-camera",
+   "tech-gadgets",
    "tech",
    "circuit",
    "silicon-valley",
@@ -147145,35 +147145,38 @@
     "track": "https://api.unsplash.com/photos/CVvjUrsDIXE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y3J1aXNlJTIwc2hpcHxlbnwxfHx8fDE3OTM5MjczMDh8MA"
    },
    {
-    "shot": "home-improvement-store",
-    "shows": "Worker at the hardware store, Panjim, Goa, circa 2018 16",
-    "file": "File:Worker at the hardware store, Panjim, Goa, circa 2018 16.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Worker_at_the_hardware_store,_Panjim,_Goa,_circa_2018_16.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Worker_at_the_hardware_store%2C_Panjim%2C_Goa%2C_circa_2018_16.jpg/1920px-Worker_at_the_hardware_store%2C_Panjim%2C_Goa%2C_circa_2018_16.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Worker_at_the_hardware_store%2C_Panjim%2C_Goa%2C_circa_2018_16.jpg/500px-Worker_at_the_hardware_store%2C_Panjim%2C_Goa%2C_circa_2018_16.jpg",
+    "shot": "clothing-store",
+    "shows": "A clothing store with clothes and hats on display",
+    "file": "unsplash:2gLL2ZgBlcU",
+    "page": "https://unsplash.com/photos/a-clothing-store-with-clothes-and-hats-on-display-2gLL2ZgBlcU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1718985342149-7178154e0aee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNsb3RoaW5nJTIwc3RvcmV8ZW58MXx8fHwxNzk0ODQ5MTM2fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1718985342149-7178154e0aee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNsb3RoaW5nJTIwc3RvcmV8ZW58MXx8fHwxNzk0ODQ5MTM2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1279
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Fredericknoronha, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Fredericknoronha",
-    "year": 2016,
-    "how": "catalog"
+    "credit": "Photo by Laura Peruchi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Laura Peruchi",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lauraperuchi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2gLL2ZgBlcU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNsb3RoaW5nJTIwc3RvcmV8ZW58MXx8fHwxNzk0ODQ5MTM2fDA"
    }
   ],
   "missing": [
    "parcels-delivery",
    "theme-park",
+   "home-improvement-store",
    "online-shopping",
    "travel",
-   "clothing-store",
    "delivery-box",
    "coffee-shop",
    "amusement-park",
@@ -147182,7 +147185,15 @@
    "shoes",
    "sneaker",
    "department-store-window",
-   "car-showroom"
+   "car-showroom",
+   "fast-food",
+   "bicycle",
+   "video-games",
+   "home-decor",
+   "sofa",
+   "hamburger",
+   "pizza",
+   "streetwear"
   ],
   "checked": "2026-11-18"
  },
@@ -151036,56 +151047,62 @@
     "track": "https://api.unsplash.com/photos/3HoHDoFL5gM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dG9pbGV0JTIwcGFwZXJ8ZW58MXx8fHwxNzk0OTQzMzc1fDA"
    },
    {
-    "shot": "beverages",
-    "shows": "Coconut Drink (Unsplash)",
-    "file": "File:Coconut Drink (Unsplash).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Coconut_Drink_(Unsplash).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coconut_Drink_%28Unsplash%29.jpg/1920px-Coconut_Drink_%28Unsplash%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coconut_Drink_%28Unsplash%29.jpg/500px-Coconut_Drink_%28Unsplash%29.jpg",
+    "shot": "butter",
+    "shows": "Sliced cheese on clear glass plate",
+    "file": "unsplash:094mP_CBdpM",
+    "page": "https://unsplash.com/photos/sliced-cheese-on-clear-glass-plate-094mP_CBdpM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnV0dGVyfGVufDF8fHx8MTc5NTAwMzYwMHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnV0dGVyfGVufDF8fHx8MTc5NTAwMzYwMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Alexander Mils alexandermils, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Alexander Mils alexandermils",
-    "year": 2016,
-    "how": "catalog"
+    "credit": "Photo by Sorin Gheorghita on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sorin Gheorghita",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sxtcxtc?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/094mP_CBdpM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnV0dGVyfGVufDF8fHx8MTc5NTAwMzYwMHww"
    },
    {
-    "shot": "household-products",
-    "shows": "Yog'och likopcha 1",
-    "file": "File:Yog'och likopcha 1.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Yog%27och_likopcha_1.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yog%27och_likopcha_1.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Yog%27och_likopcha_1.png/500px-Yog%27och_likopcha_1.png",
+    "shot": "cheese",
+    "shows": "A couple of pieces of cheese sitting on top of a wooden cutting board",
+    "file": "unsplash:JJcT6VJWDlg",
+    "page": "https://unsplash.com/photos/a-couple-of-pieces-of-cheese-sitting-on-top-of-a-wooden-cutting-board-JJcT6VJWDlg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1683314573422-649a3c6ad784?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlZXNlfGVufDF8fHx8MTc5NTAwMzYxOXww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1683314573422-649a3c6ad784?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlZXNlfGVufDF8fHx8MTc5NTAwMzYxOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     2249,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "AIDEPCUL, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "AIDEPCUL",
-    "year": 2026,
-    "how": "catalog"
+    "credit": "Photo by David Foodphototasty on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Foodphototasty",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@phototastyfood?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JJcT6VJWDlg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlZXNlfGVufDF8fHx8MTc5NTAwMzYxOXww"
    }
   ],
   "missing": [
-   "household-products-shelf",
    "food-processing-plant",
-   "dairy-farm",
+   "yogurt",
+   "household-products",
    "detergent",
    "shampoo",
    "milk",
@@ -151108,7 +151125,13 @@
    "coffee-beans",
    "grocery-aisle",
    "toiletries",
-   "bottled-drinks"
+   "bottled-drinks",
+   "rice",
+   "flour",
+   "cooking-oil",
+   "razor",
+   "deodorant",
+   "pet-food"
   ],
   "checked": "2026-11-18"
  },
@@ -153652,25 +153675,25 @@
    },
    {
     "shot": "water-treatment-plant",
-    "shows": "Wentworth Falls water chlorination plant",
-    "file": "File:Wentworth Falls water chlorination plant.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wentworth_Falls_water_chlorination_plant.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wentworth_Falls_water_chlorination_plant.jpg/1920px-Wentworth_Falls_water_chlorination_plant.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wentworth_Falls_water_chlorination_plant.jpg/500px-Wentworth_Falls_water_chlorination_plant.jpg",
+    "shows": "Wastewater Treatment - Grit Chamber",
+    "file": "File:Wastewater Treatment - Grit Chamber.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wastewater_Treatment_-_Grit_Chamber.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wastewater_Treatment_-_Grit_Chamber.jpg/1920px-Wastewater_Treatment_-_Grit_Chamber.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wastewater_Treatment_-_Grit_Chamber.jpg/500px-Wastewater_Treatment_-_Grit_Chamber.jpg",
     "size": [
      1920,
-     1440
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "2hu4u, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "2hu4u",
-    "year": 2020,
+    "credit": "Ljgdsaa78900, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Ljgdsaa78900",
+    "year": 2024,
     "how": "catalog"
    }
   ],
@@ -153686,7 +153709,15 @@
    "water-treatment",
    "hydro-dam",
    "water-pipe",
-   "gas-meter"
+   "gas-meter",
+   "water-pipes",
+   "electric-pole",
+   "reservoir",
+   "power-outlet",
+   "fire-hydrant",
+   "manhole",
+   "water-faucet",
+   "smart-meter"
   ],
   "checked": "2026-11-18"
  },
@@ -154932,25 +154963,25 @@
    },
    {
     "shot": "shopping-mall",
-    "shows": "Baku Mall Azerbaijan 2",
-    "file": "File:Baku Mall Azerbaijan 2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Baku_Mall_Azerbaijan_2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Baku_Mall_Azerbaijan_2.jpg/1920px-Baku_Mall_Azerbaijan_2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Baku_Mall_Azerbaijan_2.jpg/500px-Baku_Mall_Azerbaijan_2.jpg",
+    "shows": "Shopping mall New Market",
+    "file": "File:Shopping mall New Market.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shopping_mall_New_Market.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shopping_mall_New_Market.jpg/1920px-Shopping_mall_New_Market.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shopping_mall_New_Market.jpg/500px-Shopping_mall_New_Market.jpg",
     "size": [
      1920,
-     1082
+     1259
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Fanti Salms, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Fanti Salms",
-    "year": 2017,
+    "credit": "Roger Gwynn, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Roger Gwynn",
+    "year": 1966,
     "how": "catalog"
    }
   ],
@@ -154969,7 +155000,13 @@
    "residential-building",
    "housing-estate",
    "commercial-real-estate",
-   "property-for-sale"
+   "property-for-sale",
+   "building-facade",
+   "commercial-building",
+   "modern-building",
+   "storage-units",
+   "parking-garage",
+   "strip-mall"
   ],
   "checked": "2026-11-18"
  },
@@ -156202,33 +156239,33 @@
     "how": "catalog"
    },
    {
-    "shot": "fertilizer",
-    "shows": "Cows dung",
-    "file": "File:Cows dung.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cows_dung.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cows_dung.jpg/1920px-Cows_dung.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cows_dung.jpg/500px-Cows_dung.jpg",
+    "shot": "paper-roll",
+    "shows": "Roll of toilet paper with one sheet folded down in front",
+    "file": "File:Roll of toilet paper with one sheet folded down in front.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg/1280px-Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg/500px-Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg",
     "size": [
-     1920,
-     2089
+     1280,
+     1783
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Yahuzaishat, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Yahuzaishat",
-    "year": 2025,
+    "credit": "Derrick Coetzee ( User:Dcoetzee ), CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Derrick Coetzee ( User:Dcoetzee )",
+    "year": 2013,
     "how": "catalog"
    }
   ],
   "missing": [
-   "metal-sheets",
-   "aluminum-coils",
-   "pulp",
+   "coal",
+   "paint-cans",
+   "plastic-bottles",
    "plastic",
    "glass-bottles",
    "packaging",
@@ -160096,34 +160133,37 @@
     "track": "https://api.unsplash.com/photos/9j8k3l9afkc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8YmFua3J1cHRjeXxlbnwxfHx8fDE3OTQ5NjU1MDN8MA"
    },
    {
-    "shot": "shuttered-store",
-    "shows": "Mehrfamilienhaus – Herrnhuter Straße 1 (Leipzig) – Fenster mit historischem Rolladen",
-    "file": "File:Mehrfamilienhaus – Herrnhuter Straße 1 (Leipzig) – Fenster mit historischem Rolladen.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mehrfamilienhaus_%E2%80%93_Herrnhuter_Stra%C3%9Fe_1_(Leipzig)_%E2%80%93_Fenster_mit_historischem_Rolladen.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mehrfamilienhaus_%E2%80%93_Herrnhuter_Stra%C3%9Fe_1_%28Leipzig%29_%E2%80%93_Fenster_mit_historischem_Rolladen.jpg/1920px-Mehrfamilienhaus_%E2%80%93_Herrnhuter_Stra%C3%9Fe_1_%28Leipzig%29_%E2%80%93_Fenster_mit_historischem_Rolladen.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Mehrfamilienhaus_%E2%80%93_Herrnhuter_Stra%C3%9Fe_1_%28Leipzig%29_%E2%80%93_Fenster_mit_historischem_Rolladen.jpg/500px-Mehrfamilienhaus_%E2%80%93_Herrnhuter_Stra%C3%9Fe_1_%28Leipzig%29_%E2%80%93_Fenster_mit_historischem_Rolladen.jpg",
+    "shot": "boarded-window",
+    "shows": "A boarded-up window on a yellow wall",
+    "file": "unsplash:YBFoCd53Ke8",
+    "page": "https://unsplash.com/photos/a-boarded-up-window-on-a-yellow-wall-YBFoCd53Ke8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1769425042596-142202cb84fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGJvYXJkZWQlMjB3aW5kb3d8ZW58MXx8fHwxNzk1MDA0MzQwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1769425042596-142202cb84fd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGJvYXJkZWQlMjB3aW5kb3d8ZW58MXx8fHwxNzk1MDA0MzQwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1460
+     1200,
+     1630
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "August Geyler, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "August Geyler",
-    "year": 2020,
-    "how": "catalog"
+    "credit": "Photo by Mavi Atlas on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mavi Atlas",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@maviatlas?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/YBFoCd53Ke8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGJvYXJkZWQlMjB3aW5kb3d8ZW58MXx8fHwxNzk1MDA0MzQwfDA"
    }
   ],
   "missing": [
-   "for-lease-sign",
-   "economic-crisis",
-   "rain-window",
-   "dead-mall",
+   "rusty-factory",
+   "pawn-shop",
+   "thrift-store",
+   "storm-clouds-city",
    "empty-parking-lot",
    "falling-arrow",
    "eviction-notice",
@@ -161386,58 +161426,64 @@
     "how": "catalog"
    },
    {
-    "shot": "employment",
-    "shows": "Haicut or hair salon in iran, Job and business - Employment 06",
-    "file": "File:Haicut or hair salon in iran, Job and business - Employment 06.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Haicut_or_hair_salon_in_iran,_Job_and_business_-_Employment_06.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haicut_or_hair_salon_in_iran%2C_Job_and_business_-_Employment_06.jpg/1920px-Haicut_or_hair_salon_in_iran%2C_Job_and_business_-_Employment_06.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Haicut_or_hair_salon_in_iran%2C_Job_and_business_-_Employment_06.jpg/500px-Haicut_or_hair_salon_in_iran%2C_Job_and_business_-_Employment_06.jpg",
+    "shot": "toolbox",
+    "shows": "Two rectangular green and red tool cases on white surface",
+    "file": "unsplash:2nSdQEd-Exc",
+    "page": "https://unsplash.com/photos/two-rectangular-green-and-red-tool-cases-on-white-surface-2nSdQEd-Exc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1558906050-d6d6aa390fd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG9vbGJveHxlbnwxfHx8fDE3OTUwMDQ0Nzl8MA&ixlib=rb-4.1.0&w=2230&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1558906050-d6d6aa390fd3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG9vbGJveHxlbnwxfHx8fDE3OTUwMDQ0Nzl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2230,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mostafameraji, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Mostafameraji",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by Susan Holt Simpson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Susan Holt Simpson",
+    "year": 2019,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@shs521?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2nSdQEd-Exc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG9vbGJveHxlbnwxfHx8fDE3OTUwMDQ0Nzl8MA"
    },
    {
-    "shot": "hiring-now-sign",
-    "shows": "Post Office, Now Hiring",
-    "file": "File:Post Office, Now Hiring (50706533883).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Post_Office,_Now_Hiring_(50706533883).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Post_Office%2C_Now_Hiring_%2850706533883%29.jpg/1920px-Post_Office%2C_Now_Hiring_%2850706533883%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Post_Office%2C_Now_Hiring_%2850706533883%29.jpg/500px-Post_Office%2C_Now_Hiring_%2850706533883%29.jpg",
+    "shot": "time-clock",
+    "shows": "White analog wall clock at 11 00",
+    "file": "unsplash:f3nGngsnp3A",
+    "page": "https://unsplash.com/photos/white-analog-wall-clock-at-11-00-f3nGngsnp3A?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1616198814651-e71f960c3180?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGltZSUyMGNsb2NrfGVufDF8fHx8MTc5NTAwNDUxN3ww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1616198814651-e71f960c3180?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGltZSUyMGNsb2NrfGVufDF8fHx8MTc5NTAwNDUxN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Chad Davis, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Chad Davis",
-    "year": 2020,
-    "how": "catalog"
+    "credit": "Photo by Akram Huseyn on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Akram Huseyn",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@akramhuseyn?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/f3nGngsnp3A/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dGltZSUyMGNsb2NrfGVufDF8fHx8MTc5NTAwNDUxN3ww"
    }
   ],
   "missing": [
-   "office-workers",
-   "interview",
-   "workplace",
-   "office-worker",
-   "assembly-line",
+   "lunch-box",
+   "name-badge",
+   "cubicle",
+   "work-uniform",
+   "carpenter",
    "warehouse",
    "chef",
    "waiter",
@@ -165294,29 +165340,6 @@
     "how": "catalog"
    },
    {
-    "shot": "ai-robot",
-    "shows": "Seoul Robot AI Science Museum Sign 2",
-    "file": "File:Seoul Robot AI Science Museum Sign 2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Seoul_Robot_AI_Science_Museum_Sign_2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Seoul_Robot_AI_Science_Museum_Sign_2.jpg/1920px-Seoul_Robot_AI_Science_Museum_Sign_2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Seoul_Robot_AI_Science_Museum_Sign_2.jpg/500px-Seoul_Robot_AI_Science_Museum_Sign_2.jpg",
-    "size": [
-     1920,
-     895
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ox1997cow, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ox1997cow",
-    "year": 2026,
-    "how": "catalog"
-   },
-   {
     "shot": "gpu-cluster",
     "shows": "Tesla-NVIDIA GPU cluster",
     "file": "File:Tesla-NVIDIA GPU cluster (3706444821).jpg",
@@ -165338,12 +165361,38 @@
     "author": "ChrisDag",
     "year": 2009,
     "how": "catalog"
+   },
+   {
+    "shot": "digital-brain",
+    "shows": "A computer circuit board with a brain on it",
+    "file": "unsplash:_jg8xh2SsXQ",
+    "page": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_jg8xh2SsXQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGlnaXRhbCUyMGJyYWlufGVufDF8fHx8MTc5NTAwNzI1N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGlnaXRhbCUyMGJyYWlufGVufDF8fHx8MTc5NTAwNzI1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ecliptic Graphic on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ecliptic Graphic",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@eclipticgraphic?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_jg8xh2SsXQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGlnaXRhbCUyMGJyYWlufGVufDF8fHx8MTc5NTAwNzI1N3ww"
    }
   ],
   "missing": [
-   "terminal-screen",
-   "keyboard-typing",
-   "voice-assistant",
+   "glowing-circuit",
+   "algorithm",
+   "tablet-screen",
    "computer-screen",
    "laptop",
    "electronics",
@@ -166584,35 +166633,35 @@
     "how": "catalog"
    },
    {
-    "shot": "server-hallway",
-    "shows": "Suite Hallway",
-    "file": "File:Suite Hallway.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Suite_Hallway.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Suite_Hallway.jpg/1920px-Suite_Hallway.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Suite_Hallway.jpg/500px-Suite_Hallway.jpg",
+    "shot": "transmission-line",
+    "shows": "High-Voltage Transmission Line - panoramio",
+    "file": "File:High-Voltage Transmission Line - panoramio.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:High-Voltage_Transmission_Line_-_panoramio.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/High-Voltage_Transmission_Line_-_panoramio.jpg/1920px-High-Voltage_Transmission_Line_-_panoramio.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/High-Voltage_Transmission_Line_-_panoramio.jpg/500px-High-Voltage_Transmission_Line_-_panoramio.jpg",
     "size": [
      1920,
-     1280
+     1037
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "GAP, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "GAP",
-    "year": 2008,
+    "credit": "Corey Coyle, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Corey Coyle",
+    "year": 2012,
     "how": "catalog"
    }
   ],
   "missing": [
    "cooling",
-   "server-rack-lights",
-   "electric-substation",
-   "air-conditioning",
-   "industrial-fan",
+   "ethernet-cable",
+   "rack-mount",
+   "diesel-generator",
+   "hard-disk",
    "warehouse",
    "electric-wires",
    "server-farm",
@@ -167844,35 +167893,35 @@
     "how": "catalog"
    },
    {
-    "shot": "chip-closeup",
-    "shows": "Chocolate chip cookies closeup, December 2009",
-    "file": "File:Chocolate chip cookies closeup, December 2009.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chocolate_chip_cookies_closeup,_December_2009.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Chocolate_chip_cookies_closeup%2C_December_2009.jpg/1920px-Chocolate_chip_cookies_closeup%2C_December_2009.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Chocolate_chip_cookies_closeup%2C_December_2009.jpg/500px-Chocolate_chip_cookies_closeup%2C_December_2009.jpg",
+    "shot": "resistors",
+    "shows": "С5-37 Soviet wirewound resistors 02",
+    "file": "File:С5-37 Soviet wirewound resistors 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A15-37_Soviet_wirewound_resistors_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/%D0%A15-37_Soviet_wirewound_resistors_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%D0%A15-37_Soviet_wirewound_resistors_02.jpg/500px-%D0%A15-37_Soviet_wirewound_resistors_02.jpg",
     "size": [
-     1920,
-     1920
+     1634,
+     1634
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Corey Schaffer, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Corey Schaffer",
-    "year": 2009,
+    "credit": "Retired electrician, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Retired electrician",
+    "year": 2023,
     "how": "catalog"
    },
    {
-    "shot": "computer-processor",
-    "shows": "A close up of the cpu board of a computer",
-    "file": "unsplash:c3ZWXOv1Ndc",
-    "page": "https://unsplash.com/photos/a-close-up-of-the-cpu-board-of-a-computer-c3ZWXOv1Ndc?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1568209865332-a15790aed756?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNvbXB1dGVyJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NDk4NTQ5N3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1568209865332-a15790aed756?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNvbXB1dGVyJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NDk4NTQ5N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "led",
+    "shows": "Black and white LED light",
+    "file": "unsplash:lwwM_dotpcs",
+    "page": "https://unsplash.com/photos/black-and-white-led-light-lwwM_dotpcs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1545164415-0fae860defbd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bGVkfGVufDF8fHx8MTc5NTAwNzUxOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1545164415-0fae860defbd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bGVkfGVufDF8fHx8MTc5NTAwNzUxOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -167881,21 +167930,21 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Christian Wiediger on Unsplash",
+    "credit": "Photo by Justin Lane on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Christian Wiediger",
-    "year": 2019,
+    "author": "Justin Lane",
+    "year": 2018,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@christianw?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/c3ZWXOv1Ndc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fGNvbXB1dGVyJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NDk4NTQ5N3ww"
+    "author_url": "https://unsplash.com/@jlane56?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lwwM_dotpcs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bGVkfGVufDF8fHx8MTc5NTAwNzUxOXww"
    }
   ],
   "missing": [
-   "soldering-iron",
-   "computer-parts",
+   "cpu-cooler",
+   "multimeter",
    "pc-build",
    "computer-hardware",
    "hardware",
@@ -169138,12 +169187,12 @@
     "how": "catalog"
    },
    {
-    "shot": "golden-bitcoin",
-    "shows": "Mosaic Virus, Anna Ridler, 2019",
-    "file": "File:Mosaic Virus, Anna Ridler, 2019. (49845086728).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mosaic_Virus,_Anna_Ridler,_2019._(49845086728).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mosaic_Virus%2C_Anna_Ridler%2C_2019._%2849845086728%29.jpg/1920px-Mosaic_Virus%2C_Anna_Ridler%2C_2019._%2849845086728%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mosaic_Virus%2C_Anna_Ridler%2C_2019._%2849845086728%29.jpg/500px-Mosaic_Virus%2C_Anna_Ridler%2C_2019._%2849845086728%29.jpg",
+    "shot": "gpu-rig",
+    "shows": "NVidia G71 GPU",
+    "file": "File:NVidia G71 GPU.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NVidia_G71_GPU.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NVidia_G71_GPU.jpg/1920px-NVidia_G71_GPU.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NVidia_G71_GPU.jpg/500px-NVidia_G71_GPU.jpg",
     "size": [
      1920,
      1440
@@ -169152,22 +169201,22 @@
      0.5,
      0.5
     ],
-    "credit": "art_inthecity from Montréal, CA, CC BY 2.0, via Wikimedia Commons",
+    "credit": "Diego3336, CC BY 2.0, via Wikimedia Commons",
     "licence": "CC BY 2.0",
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "art_inthecity from Montréal, CA",
-    "year": 2019,
+    "author": "Diego3336",
+    "year": 2018,
     "how": "catalog"
    }
   ],
   "missing": [
    "chart",
-   "altcoin",
-   "crypto-trading-screen",
-   "xrp",
-   "crypto-market",
-   "crypto-mining",
+   "cold-wallet",
+   "seed-phrase",
+   "silver-bitcoin",
+   "bitcoin-pile",
+   "ledger-nano",
    "asic-miner",
    "bitcoin-symbol",
    "cardano",
@@ -170423,58 +170472,64 @@
     "track": "https://api.unsplash.com/photos/VNhPJ85ccNo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdvbGQlMjBjb2luJTIwc3RhY2t8ZW58MXx8fHwxNzk0OTY3MzQ5fDA"
    },
    {
-    "shot": "goldsmith",
-    "shows": "Goldsmith in the museum of Albert Hall, Jaipur, India",
-    "file": "File:Goldsmith 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Goldsmith_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Goldsmith_1.jpg/1920px-Goldsmith_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Goldsmith_1.jpg/500px-Goldsmith_1.jpg",
+    "shot": "gold-dome",
+    "shows": "The dome of a building with a clock on it",
+    "file": "unsplash:HmfCHjMLPsU",
+    "page": "https://unsplash.com/photos/the-dome-of-a-building-with-a-clock-on-it-HmfCHjMLPsU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1635264370992-756926084f9f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z29sZCUyMGRvbWV8ZW58MXx8fHwxNzk1MDA3NzM1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1635264370992-756926084f9f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z29sZCUyMGRvbWV8ZW58MXx8fHwxNzk1MDA3NzM1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "कृष्ण कान्त शर्मा, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "कृष्ण कान्त शर्मा",
+    "credit": "Photo by Paul Moody on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Paul Moody",
     "year": 2021,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@pjonesmoody?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HmfCHjMLPsU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z29sZCUyMGRvbWV8ZW58MXx8fHwxNzk1MDA3NzM1fDA"
    },
    {
-    "shot": "bullion-bars",
-    "shows": "Rusty's Bullion Bar 8.23",
-    "file": "File:Rusty's Bullion Bar 8.23 (18).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rusty%27s_Bullion_Bar_8.23_(18).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rusty%27s_Bullion_Bar_8.23_%2818%29.jpg/1920px-Rusty%27s_Bullion_Bar_8.23_%2818%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rusty%27s_Bullion_Bar_8.23_%2818%29.jpg/500px-Rusty%27s_Bullion_Bar_8.23_%2818%29.jpg",
+    "shot": "gold-ornament",
+    "shows": "A close up of a christmas ornament on a tree",
+    "file": "unsplash:Thpv80UYLzE",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-christmas-ornament-on-a-tree-Thpv80UYLzE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1671875405171-c846b8a30c71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMG9ybmFtZW50fGVufDF8fHx8MTc5NTAwNzc4MXww&ixlib=rb-4.1.0&w=2273&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1671875405171-c846b8a30c71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMG9ybmFtZW50fGVufDF8fHx8MTc5NTAwNzc4MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2273,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Eric Golub, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Eric Golub",
-    "year": 2015,
-    "how": "catalog"
+    "credit": "Photo by Cristina Glebova on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cristina Glebova",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cristina_glebova?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Thpv80UYLzE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMG9ybmFtZW50fGVufDF8fHx8MTc5NTAwNzc4MXww"
    }
   ],
   "missing": [
    "fort-knox",
-   "gold-bars-vault",
-   "gold-refinery",
-   "gold-watch",
-   "jewellery",
+   "gold-foil",
+   "golden-crown",
+   "gold-medal",
+   "golden-statue",
    "gold-mining",
    "gold-ore-rock",
    "precious-metal",
@@ -171720,56 +171775,62 @@
    },
    {
     "shot": "opec",
-    "shows": "OPEC International Seminar - Vienna - 2018",
-    "file": "File:OPEC International Seminar - Vienna - 2018 (42871442562).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:OPEC_International_Seminar_-_Vienna_-_2018_(42871442562).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/OPEC_International_Seminar_-_Vienna_-_2018_%2842871442562%29.jpg/1920px-OPEC_International_Seminar_-_Vienna_-_2018_%2842871442562%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/OPEC_International_Seminar_-_Vienna_-_2018_%2842871442562%29.jpg/500px-OPEC_International_Seminar_-_Vienna_-_2018_%2842871442562%29.jpg",
+    "shows": "Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, - MGR3614",
+    "file": "File:Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, 2025-05-05 - MGR3614.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais,_2025-05-05_-_MGR3614.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3614.jpg/1920px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3614.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3614.jpg/500px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3614.jpg",
     "size": [
      1920,
-     1125
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Bundesministerium für Europa, Integration und Äußeres, CC BY 2.0, via Wikimedia Commons",
+    "credit": "Österreichisches Außenministerium, CC BY 2.0, via Wikimedia Commons",
     "licence": "CC BY 2.0",
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Bundesministerium für Europa, Integration und Äußeres",
-    "year": 2018,
-    "how": "catalog"
+    "author": "Österreichisches Außenministerium",
+    "year": 2025,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
    },
    {
-    "shot": "refinery-at-night",
-    "shows": "Domino Refinery at night in 2023",
-    "file": "File:Domino Refinery at night in 2023.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Domino_Refinery_at_night_in_2023.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Domino_Refinery_at_night_in_2023.jpg/1920px-Domino_Refinery_at_night_in_2023.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Domino_Refinery_at_night_in_2023.jpg/500px-Domino_Refinery_at_night_in_2023.jpg",
+    "shot": "motor-oil",
+    "shows": "Man refilling motor oil on car engine bay",
+    "file": "unsplash:V37iTrYZz2E",
+    "page": "https://unsplash.com/photos/man-refilling-motor-oil-on-car-engine-bay-V37iTrYZz2E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bW90b3IlMjBvaWx8ZW58MXx8fHwxNzk1MDEwNjI1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bW90b3IlMjBvaWx8ZW58MXx8fHwxNzk1MDEwNjI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1446
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kevin Payravi, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kevin Payravi",
-    "year": 2023,
-    "how": "catalog"
+    "credit": "Photo by Tim Mossholder on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Tim Mossholder",
+    "year": 2017,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/V37iTrYZz2E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bW90b3IlMjBvaWx8ZW58MXx8fHwxNzk1MDEwNjI1fDA"
    }
   ],
   "missing": [
-   "oil-drums",
-   "oil-tanks",
-   "oil-terminal",
-   "fuel-nozzle",
+   "oil-drum",
+   "fuel-tank",
+   "storage-tanks",
+   "derrick",
    "gas-prices",
    "petrol-pump",
    "offshore-rig",
@@ -173054,58 +173115,62 @@
     "track_pending": true
    },
    {
-    "shot": "truck-convoy",
-    "shows": "Freedom Convoy 2022, Ottawa, February 12",
-    "file": "File:Freedom Convoy 2022, Ottawa, February 12 (52).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Freedom_Convoy_2022,_Ottawa,_February_12_(52).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Freedom_Convoy_2022%2C_Ottawa%2C_February_12_%2852%29.jpg/1920px-Freedom_Convoy_2022%2C_Ottawa%2C_February_12_%2852%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Freedom_Convoy_2022%2C_Ottawa%2C_February_12_%2852%29.jpg/500px-Freedom_Convoy_2022%2C_Ottawa%2C_February_12_%2852%29.jpg",
+    "shot": "port-crane",
+    "shows": "White and blue metal crane under blue sky during daytime",
+    "file": "unsplash:0JRcFvUbGAY",
+    "page": "https://unsplash.com/photos/white-and-blue-metal-crane-under-blue-sky-during-daytime-0JRcFvUbGAY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1615490865201-7e2adc366e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cG9ydCUyMGNyYW5lfGVufDF8fHx8MTc5NTAxMDY0OXww&ixlib=rb-4.1.0&w=2078&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1615490865201-7e2adc366e83?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cG9ydCUyMGNyYW5lfGVufDF8fHx8MTc5NTAxMDY0OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2078,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Maksim Sokolov (Maxergon), CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Maksim Sokolov (Maxergon)",
-    "year": 2022,
-    "how": "catalog"
+    "credit": "Photo by fred crandon on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "fred crandon",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fred_crandon?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0JRcFvUbGAY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cG9ydCUyMGNyYW5lfGVufDF8fHx8MTc5NTAxMDY0OXww",
+    "track_pending": true
    },
    {
-    "shot": "import-export",
-    "shows": "Disco ball in the \"Import Export\", Munich",
-    "file": "File:Disco ball in the \"Import Export\", Munich.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Disco_ball_in_the_%22Import_Export%22,_Munich.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Disco_ball_in_the_%22Import_Export%22%2C_Munich.jpg/1920px-Disco_ball_in_the_%22Import_Export%22%2C_Munich.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Disco_ball_in_the_%22Import_Export%22%2C_Munich.jpg/500px-Disco_ball_in_the_%22Import_Export%22%2C_Munich.jpg",
+    "shot": "gantry-crane",
+    "shows": "Gantry crane, Sète",
+    "file": "File:Gantry crane, Sète.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gantry_crane,_S%C3%A8te.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gantry_crane%2C_S%C3%A8te.jpg/1920px-Gantry_crane%2C_S%C3%A8te.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gantry_crane%2C_S%C3%A8te.jpg/500px-Gantry_crane%2C_S%C3%A8te.jpg",
     "size": [
      1920,
-     1280
+     1273
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kritzolina, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kritzolina",
-    "year": 2020,
+    "credit": "Christian Ferrer, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Christian Ferrer",
+    "year": 2018,
     "how": "catalog"
    }
   ],
   "missing": [
-   "loading-dock",
-   "shipping-container",
-   "container-crane",
-   "steel-mill",
-   "aluminum",
+   "tugboat",
+   "trade-port",
+   "shipping-label",
+   "made-in-china",
+   "import-goods",
    "harbor",
    "container-terminal",
    "crane",
@@ -175733,36 +175798,36 @@
    },
    {
     "shot": "printing",
-    "shows": "Yuan dynasty banknote with its printing plate 1287",
-    "file": "File:Yuan dynasty banknote with its printing plate 1287.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg/1920px-Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg/500px-Yuan_dynasty_banknote_with_its_printing_plate_1287.jpg",
+    "shows": "Bronze Plate for Banknote Printing, Qing Dynasty",
+    "file": "File:20241025 Bronze Plate for Banknote Printing, Qing Dynasty.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:20241025_Bronze_Plate_for_Banknote_Printing,_Qing_Dynasty.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/20241025_Bronze_Plate_for_Banknote_Printing%2C_Qing_Dynasty.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/20241025_Bronze_Plate_for_Banknote_Printing%2C_Qing_Dynasty.jpg/500px-20241025_Bronze_Plate_for_Banknote_Printing%2C_Qing_Dynasty.jpg",
     "size": [
-     1920,
-     1400
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "PHGCOM, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
+    "credit": "Windmemories, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "PHGCOM",
-    "year": 2007,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Windmemories",
+    "year": 2024,
     "how": "catalog"
    }
   ],
   "missing": [
    "currency-exchange-office",
-   "dollar-banknotes",
-   "us-banknotes",
-   "peso",
-   "coins-pile",
-   "wallet-money",
-   "money-counting",
+   "five-dollar-bill",
+   "dollar-note",
+   "us-dollars",
+   "money-wad",
+   "silver-dollar",
+   "currency-board",
    "dollar-bill",
    "dollars",
    "cash",
@@ -177006,56 +177071,59 @@
     "how": "catalog"
    },
    {
-    "shot": "fixed-income",
-    "shows": "Fixed-Income Arbitrage Opportunity",
-    "file": "File:Fixed-Income Arbitrage Opportunity.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fixed-Income_Arbitrage_Opportunity.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fixed-Income_Arbitrage_Opportunity.jpg/1920px-Fixed-Income_Arbitrage_Opportunity.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Fixed-Income_Arbitrage_Opportunity.jpg/500px-Fixed-Income_Arbitrage_Opportunity.jpg",
+    "shot": "newspaper-finance",
+    "shows": "A close up of a paper with numbers on it",
+    "file": "unsplash:tuJ3tXSayco",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-paper-with-numbers-on-it-tuJ3tXSayco?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1579532582937-16c108930bf6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG5ld3NwYXBlciUyMGZpbmFuY2V8ZW58MXx8fHwxNzk1MDE0NDQ3fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1579532582937-16c108930bf6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG5ld3NwYXBlciUyMGZpbmFuY2V8ZW58MXx8fHwxNzk1MDE0NDQ3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Wikiuser78127, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Wikiuser78127",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by Annie Spratt on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Annie Spratt",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anniespratt?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tuJ3tXSayco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG5ld3NwYXBlciUyMGZpbmFuY2V8ZW58MXx8fHwxNzk1MDE0NDQ3fDA"
    },
    {
-    "shot": "bond-yields",
-    "shows": "Graph displaying bond yields over time",
-    "file": "File:NominalBondYield.png",
-    "page": "https://commons.wikimedia.org/wiki/File:NominalBondYield.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NominalBondYield.png/1920px-NominalBondYield.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NominalBondYield.png/500px-NominalBondYield.png",
+    "shot": "signing-document",
+    "shows": "Isabella Lövin signing climate law referral",
+    "file": "File:Isabella Lövin signing climate law referral.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Isabella_L%C3%B6vin_signing_climate_law_referral.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Isabella_L%C3%B6vin_signing_climate_law_referral.jpg/1920px-Isabella_L%C3%B6vin_signing_climate_law_referral.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Isabella_L%C3%B6vin_signing_climate_law_referral.jpg/500px-Isabella_L%C3%B6vin_signing_climate_law_referral.jpg",
     "size": [
      1920,
-     1919
+     1215
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Locksteel888, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Locksteel888",
-    "year": 2021,
+    "credit": "Johan Schiff /Miljöpartiet de gröna, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Johan Schiff /Miljöpartiet de gröna",
+    "year": 2017,
     "how": "catalog"
    }
   ],
   "missing": [
-   "government-bonds",
-   "dollar-sign",
-   "government-building",
+   "columns",
+   "official-document",
+   "national-debt",
    "marble-columns",
    "washington-dc-aerial",
    "certificate",
@@ -178307,34 +178375,34 @@
    },
    {
     "shot": "open-house",
-    "shows": "Romanian Cultural Institute, Open House London 2015 05",
-    "file": "File:Romanian Cultural Institute, Open House London 2015 05.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Romanian_Cultural_Institute,_Open_House_London_2015_05.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Romanian_Cultural_Institute%2C_Open_House_London_2015_05.jpg/1920px-Romanian_Cultural_Institute%2C_Open_House_London_2015_05.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Romanian_Cultural_Institute%2C_Open_House_London_2015_05.jpg/500px-Romanian_Cultural_Institute%2C_Open_House_London_2015_05.jpg",
+    "shows": "Open House Key",
+    "file": "File:Open House Key.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Open_House_Key.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Open_House_Key.png/1920px-Open_House_Key.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Open_House_Key.png/500px-Open_House_Key.png",
     "size": [
      1920,
-     1440
+     837
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Philafrenzy, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "The Architectural Review, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Philafrenzy",
-    "year": 2015,
+    "author": "The Architectural Review",
+    "year": 2020,
     "how": "catalog"
    },
    {
-    "shot": "residential-street",
-    "shows": "Green trees line a peaceful residential street",
-    "file": "unsplash:SkkFuczPylM",
-    "page": "https://unsplash.com/photos/green-trees-line-a-peaceful-residential-street-SkkFuczPylM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1779241883587-21546986f21b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cmVzaWRlbnRpYWwlMjBzdHJlZXR8ZW58MXx8fHwxNzk0OTg5NDc3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1779241883587-21546986f21b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cmVzaWRlbnRpYWwlMjBzdHJlZXR8ZW58MXx8fHwxNzk0OTg5NDc3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "new-construction",
+    "shows": "A building under construction with scaffolding around it",
+    "file": "unsplash:u1KG_wZTnkg",
+    "page": "https://unsplash.com/photos/a-building-under-construction-with-scaffolding-around-it-u1KG_wZTnkg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1639953803381-e9c3f3a38253?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG5ldyUyMGNvbnN0cnVjdGlvbnxlbnwxfHx8fDE3OTUwMTQ0NzV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1639953803381-e9c3f3a38253?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG5ldyUyMGNvbnN0cnVjdGlvbnxlbnwxfHx8fDE3OTUwMTQ0NzV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -178343,25 +178411,25 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Hansheng Zhao on Unsplash",
+    "credit": "Photo by Sandy Millar on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Hansheng Zhao",
-    "year": 2026,
+    "author": "Sandy Millar",
+    "year": 2021,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@co?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/SkkFuczPylM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8cmVzaWRlbnRpYWwlMjBzdHJlZXR8ZW58MXx8fHwxNzk0OTg5NDc3fDA"
+    "author_url": "https://unsplash.com/@sandym10?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/u1KG_wZTnkg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fG5ldyUyMGNvbnN0cnVjdGlvbnxlbnwxfHx8fDE3OTUwMTQ0NzV8MA"
    }
   ],
   "missing": [
    "construction",
-   "new-build",
-   "home-sale",
-   "mortgage-documents",
-   "house-blueprint",
-   "real-estate-sign",
+   "house-frame",
+   "home-construction",
+   "row-houses",
+   "moving-boxes",
+   "house-painting",
    "colorful-houses",
    "house-exterior",
    "brick-house",
@@ -179604,58 +179672,58 @@
     "how": "catalog"
    },
    {
-    "shot": "profit-chart",
-    "shows": "BHT 9 - Aided brand awareness for Wikimedia Foundation and other non-profit organizations across waves",
-    "file": "File:BHT 9 - Aided brand awareness for Wikimedia Foundation and other non-profit organizations across waves.png",
-    "page": "https://commons.wikimedia.org/wiki/File:BHT_9_-_Aided_brand_awareness_for_Wikimedia_Foundation_and_other_non-profit_organizations_across_waves.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BHT_9_-_Aided_brand_awareness_for_Wikimedia_Foundation_and_other_non-profit_organizations_across_waves.png/1920px-BHT_9_-_Aided_brand_awareness_for_Wikimedia_Foundation_and_other_non-profit_organizations_across_waves.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/BHT_9_-_Aided_brand_awareness_for_Wikimedia_Foundation_and_other_non-profit_organizations_across_waves.png/500px-BHT_9_-_Aided_brand_awareness_for_Wikimedia_Foundation_and_other_non-profit_organizations_across_waves.png",
+    "shot": "desk-calculator",
+    "shows": "Citizen SLD-100NR calculator",
+    "file": "File:Citizen SLD-100NR calculator.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Citizen_SLD-100NR_calculator.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Citizen_SLD-100NR_calculator.jpg/1280px-Citizen_SLD-100NR_calculator.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Citizen_SLD-100NR_calculator.jpg/500px-Citizen_SLD-100NR_calculator.jpg",
     "size": [
-     1920,
-     924
+     1280,
+     1565
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "SOworu (WMF), CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "SOworu (WMF)",
-    "year": 2026,
+    "credit": "LoMit, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "LoMit",
+    "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "financial-graph",
-    "shows": "Financial advice users in the UK after RDR",
-    "file": "File:Financial advice users in the UK after RDR.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Financial_advice_users_in_the_UK_after_RDR.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Financial_advice_users_in_the_UK_after_RDR.png/1920px-Financial_advice_users_in_the_UK_after_RDR.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Financial_advice_users_in_the_UK_after_RDR.png/500px-Financial_advice_users_in_the_UK_after_RDR.png",
+    "shot": "adding-machine",
+    "shows": "Remington Adding Machine Model 102 a",
+    "file": "File:Remington Adding Machine Model 102 a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Remington_Adding_Machine_Model_102_a.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Remington_Adding_Machine_Model_102_a.jpg/1920px-Remington_Adding_Machine_Model_102_a.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Remington_Adding_Machine_Model_102_a.jpg/500px-Remington_Adding_Machine_Model_102_a.jpg",
     "size": [
      1920,
-     1234
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Fiksman, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Fiksman",
-    "year": 2026,
+    "credit": "Issac I Navarro, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Issac I Navarro",
+    "year": 2025,
     "how": "catalog"
    }
   ],
   "missing": [
-   "quarterly-results",
-   "stock-graph-screen",
-   "report-cover",
-   "business",
-   "economy",
+   "report-binder",
+   "printed-report",
+   "financial-statements",
+   "tax-return",
+   "office-paperwork",
    "trading-screen",
    "office-desk",
    "business-documents",
@@ -180909,35 +180977,35 @@
     "how": "catalog"
    },
    {
-    "shot": "stock-market-board",
-    "shows": "Nucleo-H755ZI-Q board",
-    "file": "File:Nucleo-H755ZI-Q board.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nucleo-H755ZI-Q_board.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nucleo-H755ZI-Q_board.jpg/1920px-Nucleo-H755ZI-Q_board.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nucleo-H755ZI-Q_board.jpg/500px-Nucleo-H755ZI-Q_board.jpg",
+    "shot": "ticker-display",
+    "shows": "Plastic- and Nylonzipper",
+    "file": "File:Plastic- and Nylonzipper.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Plastic-_and_Nylonzipper.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Plastic-_and_Nylonzipper.jpg/1280px-Plastic-_and_Nylonzipper.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Plastic-_and_Nylonzipper.jpg/500px-Plastic-_and_Nylonzipper.jpg",
     "size": [
-     1920,
-     965
+     1280,
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Frans, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Frans",
-    "year": 2023,
+    "credit": "Rabensteiner - Bearbeitet von Rainer Z, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Rabensteiner - Bearbeitet von Rainer Z",
+    "year": 2007,
     "how": "catalog"
    }
   ],
   "missing": [
-   "stock-certificate",
-   "trading-floor",
-   "celebrate",
-   "cheers",
-   "streamers"
+   "electronic-ticker",
+   "trading-terminal",
+   "financial-screens",
+   "share-certificate",
+   "stock-quote"
   ],
   "checked": "2026-11-18"
  },
@@ -182154,55 +182222,6 @@
     "track_pending": true
    },
    {
-    "shot": "plug-in-car",
-    "shows": "Lamborghini Revuelto 6985",
-    "file": "File:Lamborghini Revuelto DSC 6985.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Lamborghini_Revuelto_DSC_6985.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lamborghini_Revuelto_DSC_6985.jpg/1920px-Lamborghini_Revuelto_DSC_6985.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Lamborghini_Revuelto_DSC_6985.jpg/500px-Lamborghini_Revuelto_DSC_6985.jpg",
-    "size": [
-     1920,
-     1283
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Alexander Migl, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Alexander Migl",
-    "year": 2024,
-    "how": "catalog"
-   },
-   {
-    "shot": "car-battery",
-    "shows": "Close-up of a car engine and battery",
-    "file": "unsplash:YcfXusR1DQ8",
-    "page": "https://unsplash.com/photos/close-up-of-a-car-engine-and-battery-YcfXusR1DQ8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1764122623556-90a7d480df53?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNhciUyMGJhdHRlcnl8ZW58MXx8fHwxNzk0OTg5NzkwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1764122623556-90a7d480df53?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNhciUyMGJhdHRlcnl8ZW58MXx8fHwxNzk0OTg5NzkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by William Liu on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "William Liu",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@willspills?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/YcfXusR1DQ8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fGNhciUyMGJhdHRlcnl8ZW58MXx8fHwxNzk0OTg5NzkwfDA"
-   },
-   {
     "shot": "ev-charging-cable",
     "shows": "EV Charging station, Mothitang",
     "file": "File:EV Charging station, Mothitang.jpg",
@@ -182224,14 +182243,63 @@
     "author": "Christopher J. Fynn",
     "year": 2021,
     "how": "catalog"
+   },
+   {
+    "shot": "type-2-connector",
+    "shows": "Ev charger connector head",
+    "file": "unsplash:ECPML1vHQYQ",
+    "page": "https://unsplash.com/photos/ev-charger-connector-head-ECPML1vHQYQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1751592981628-957a88e13849?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHR5cGUlMjAyJTIwY29ubmVjdG9yfGVufDF8fHx8MTc5NTAxNzg1Nnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1751592981628-957a88e13849?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHR5cGUlMjAyJTIwY29ubmVjdG9yfGVufDF8fHx8MTc5NTAxNzg1Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Miron Huang on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Miron Huang",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chinaevse888?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ECPML1vHQYQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHR5cGUlMjAyJTIwY29ubmVjdG9yfGVufDF8fHx8MTc5NTAxNzg1Nnww"
+   },
+   {
+    "shot": "chevy-bolt",
+    "shows": "Chevy Bolt CRI 04 2021 8236",
+    "file": "File:Chevy Bolt CRI 04 2021 8236.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chevy_Bolt_CRI_04_2021_8236.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Chevy_Bolt_CRI_04_2021_8236.jpg/1920px-Chevy_Bolt_CRI_04_2021_8236.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Chevy_Bolt_CRI_04_2021_8236.jpg/500px-Chevy_Bolt_CRI_04_2021_8236.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mariordo (Mario Roberto Durán Ortiz)",
+    "year": 2021,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "electric-car-parking",
-   "charging-car",
-   "plug-in-hybrid",
-   "tesla-interior",
-   "electric-scooter",
+   "renault-zoe",
+   "audi-e-tron",
+   "ford-mustang-mach-e",
+   "nio",
+   "lithium-mine",
    "e-bike",
    "supercharger"
   ],
@@ -183440,34 +183508,34 @@
     "how": "catalog"
    },
    {
-    "shot": "fukushima-nuclear",
-    "shows": "IAEA Experts at Fukushima",
-    "file": "File:IAEA Experts at Fukushima (02813336).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:IAEA_Experts_at_Fukushima_(02813336).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IAEA_Experts_at_Fukushima_%2802813336%29.jpg/1920px-IAEA_Experts_at_Fukushima_%2802813336%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IAEA_Experts_at_Fukushima_%2802813336%29.jpg/500px-IAEA_Experts_at_Fukushima_%2802813336%29.jpg",
+    "shot": "cattenom-nuclear",
+    "shows": "Cattenom-Kernkraftwerk-10-2013-gje",
+    "file": "File:Cattenom-Kernkraftwerk-10-2013-gje.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cattenom-Kernkraftwerk-10-2013-gje.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cattenom-Kernkraftwerk-10-2013-gje.jpg/1920px-Cattenom-Kernkraftwerk-10-2013-gje.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cattenom-Kernkraftwerk-10-2013-gje.jpg/500px-Cattenom-Kernkraftwerk-10-2013-gje.jpg",
     "size": [
      1920,
-     1275
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "IAEA Imagebank, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "IAEA Imagebank",
+    "credit": "Gerd Eichmann, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Gerd Eichmann",
     "year": 2013,
     "how": "catalog"
    }
   ],
   "missing": [
-   "zaporizhzhia-nuclear",
-   "calvert-cliffs-nuclear",
-   "indian-point-nuclear",
-   "fessenheim-nuclear"
+   "temelin-nuclear",
+   "grafenrheinfeld-nuclear",
+   "golfech-nuclear",
+   "gundremmingen-nuclear"
   ],
   "checked": "2026-11-18"
  },
@@ -184692,29 +184760,6 @@
     "track_pending": true
    },
    {
-    "shot": "military-parade",
-    "shows": "СССР, 1973, Ростов-на-Дону, Советский Союз, Парад военной техники, Military Parade, Soviet Union",
-    "file": "File:СССР, 1973, Ростов-на-Дону, Советский Союз, Парад военной техники, Military Parade, Soviet Union.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%A1%D0%A1%D0%A0,_1973,_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83,_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7,_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8,_Military_Parade,_Soviet_Union.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8%2C_Military_Parade%2C_Soviet_Union.jpg/1920px-%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8%2C_Military_Parade%2C_Soviet_Union.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8%2C_Military_Parade%2C_Soviet_Union.jpg/500px-%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%9F%D0%B0%D1%80%D0%B0%D0%B4_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8%2C_Military_Parade%2C_Soviet_Union.jpg",
-    "size": [
-     1920,
-     1276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Vyacheslav Argenberg / Transfer from A. S., CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Vyacheslav Argenberg / Transfer from A. S.",
-    "year": 1973,
-    "how": "catalog"
-   },
-   {
     "shot": "military-aircraft",
     "shows": "Blue Impulse Kawasaki T-4 landing Naha Air Show 2018-61",
     "file": "File:20181208 Blue Impulse Kawasaki T-4 landing Naha Air Show 2018-61.jpg",
@@ -184736,6 +184781,29 @@
     "author": "Balon Greyjoy",
     "year": 2018,
     "how": "catalog"
+   },
+   {
+    "shot": "military-parade",
+    "shows": "Croatian Patria AMV during the 2025 military parade",
+    "file": "File:Croatian Patria AMV during the 2025 military parade.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Croatian_Patria_AMV_during_the_2025_military_parade.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Croatian_Patria_AMV_during_the_2025_military_parade.jpg/1920px-Croatian_Patria_AMV_during_the_2025_military_parade.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Croatian_Patria_AMV_during_the_2025_military_parade.jpg/500px-Croatian_Patria_AMV_during_the_2025_military_parade.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Koreanovsky, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Koreanovsky",
+    "year": 2025,
+    "how": "catalog"
    }
   ],
   "missing": [
@@ -184753,7 +184821,18 @@
    "air-force",
    "military-vehicle",
    "battleship",
-   "helicopter"
+   "helicopter",
+   "camouflage",
+   "army-helicopter",
+   "f-16",
+   "apache-helicopter",
+   "military-base",
+   "naval-ship",
+   "navy-destroyer",
+   "barbed-wire",
+   "bunker",
+   "military-jet",
+   "air-show"
   ],
   "checked": "2026-11-18"
  },
@@ -186035,40 +186114,40 @@
     "track": "https://api.unsplash.com/photos/8sCPn-RKKNE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA"
    },
    {
-    "shot": "cardboard-boxes",
-    "shows": "A stack of brown cardboard boxes against a solid brown background",
-    "file": "unsplash:DevJkLB3hWE",
-    "page": "https://unsplash.com/photos/cardboard-boxes-against-brown-background-DevJkLB3hWE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1624137527136-66e631bdaa0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y2FyZGJvYXJkJTIwYm94ZXN8ZW58MXx8fHwxNzk0OTkyNjc0fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1624137527136-66e631bdaa0e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y2FyZGJvYXJkJTIwYm94ZXN8ZW58MXx8fHwxNzk0OTkyNjc0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "shopping-trolley",
+    "shows": "Green and gray shopping carts",
+    "file": "unsplash:IYUa6dmUhVw",
+    "page": "https://unsplash.com/photos/green-and-gray-shopping-carts-IYUa6dmUhVw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1600414428654-bdee5b7af614?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwdHJvbGxleXxlbnwxfHx8fDE3OTUwMTgxMDB8MA&ixlib=rb-4.1.0&w=1999&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1600414428654-bdee5b7af614?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwdHJvbGxleXxlbnwxfHx8fDE3OTUwMTgxMDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1200,
-     1800
+     1999,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Kadarius Seegars on Unsplash",
+    "credit": "Photo by the blowup on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Kadarius Seegars",
-    "year": 2021,
+    "author": "the blowup",
+    "year": 2020,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@kseegars?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/DevJkLB3hWE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Y2FyZGJvYXJkJTIwYm94ZXN8ZW58MXx8fHwxNzk0OTkyNjc0fDA"
+    "author_url": "https://unsplash.com/@theblowup?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IYUa6dmUhVw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwdHJvbGxleXxlbnwxfHx8fDE3OTUwMTgxMDB8MA"
    }
   ],
   "missing": [
-   "sale-sign",
-   "supermarket-checkout",
-   "mall-escalator",
-   "fashion",
-   "customer",
-   "shoe-store",
-   "fashion-store",
+   "paper-bag",
+   "sale-rack",
+   "outlet-mall",
+   "gift-cards",
+   "barcode-scanner",
+   "mannequin",
+   "window-display",
    "cashier",
    "point-of-sale",
    "card-payment",
@@ -188633,59 +188712,62 @@
     "track": "https://api.unsplash.com/photos/dU_itZ6CKXk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGl2aWRlbmR8ZW58MXx8fHwxNzk0OTQ5Njk4fDA"
    },
    {
-    "shot": "stock-investment",
-    "shows": "David Schwimmer, CEO, London Stock Exchange, speaking at the UK-Africa Investment Summit, London, 20 January 2020",
-    "file": "File:David Schwimmer, CEO, London Stock Exchange, speaking at the UK-Africa Investment Summit, London, 20 January 2020 (49414224333).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:David_Schwimmer,_CEO,_London_Stock_Exchange,_speaking_at_the_UK-Africa_Investment_Summit,_London,_20_January_2020_(49414224333).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/David_Schwimmer%2C_CEO%2C_London_Stock_Exchange%2C_speaking_at_the_UK-Africa_Investment_Summit%2C_London%2C_20_January_2020_%2849414224333%29.jpg/1920px-David_Schwimmer%2C_CEO%2C_London_Stock_Exchange%2C_speaking_at_the_UK-Africa_Investment_Summit%2C_London%2C_20_January_2020_%2849414224333%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/David_Schwimmer%2C_CEO%2C_London_Stock_Exchange%2C_speaking_at_the_UK-Africa_Investment_Summit%2C_London%2C_20_January_2020_%2849414224333%29.jpg/500px-David_Schwimmer%2C_CEO%2C_London_Stock_Exchange%2C_speaking_at_the_UK-Africa_Investment_Summit%2C_London%2C_20_January_2020_%2849414224333%29.jpg",
+    "shot": "hourglass-money",
+    "shows": "Painting by Mogens Thrane in Horsens Klosterkirke 03",
+    "file": "File:Painting by Mogens Thrane in Horsens Klosterkirke 03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg/1280px-Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg/500px-Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     1944
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "DFID - UK Department for International Development Graham Carlow, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "DFID - UK Department for International Development Graham Carlow",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "money-saving",
-    "shows": "Saving money on car fuel costs",
-    "file": "File:Saving money on car fuel costs.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Saving_money_on_car_fuel_costs.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Saving_money_on_car_fuel_costs.jpg/1920px-Saving_money_on_car_fuel_costs.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Saving_money_on_car_fuel_costs.jpg/500px-Saving_money_on_car_fuel_costs.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Icomparioimages, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "AnnikaHendriksen, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Icomparioimages",
-    "year": 2023,
+    "author": "AnnikaHendriksen",
+    "year": 2018,
     "how": "catalog"
+   },
+   {
+    "shot": "coin-tower",
+    "shows": "Binoculars overlook the vast ocean",
+    "file": "unsplash:bKfuUy-g48Y",
+    "page": "https://unsplash.com/photos/binoculars-overlook-the-vast-ocean-bKfuUy-g48Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1750520281057-ec5b911c0e10?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1750520281057-ec5b911c0e10?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Stephen Harlan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Stephen Harlan",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gogostevie?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bKfuUy-g48Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww"
    }
   ],
   "missing": [
-   "compound-interest",
-   "stock-trader-screen",
-   "golden-piggy-bank",
-   "growth",
-   "budget",
-   "money-tree",
+   "sprout-coins",
+   "stacked-coins",
+   "pocket-watch",
+   "chess-pieces",
+   "compass",
+   "passbook",
    "cash",
    "wallet",
    "stock-chart",
@@ -191290,14 +191372,14 @@
    }
   ],
   "missing": [
-   "weight-loss-scale",
-   "fruit-bowl",
-   "vial",
-   "medical-syringe",
-   "bathroom-scale",
-   "treadmill",
-   "dumbbells",
-   "salad-bowl",
+   "food-scale",
+   "measuring-cup",
+   "calorie-counting",
+   "blood-sugar",
+   "pill-organizer",
+   "lab-vials",
+   "drug-manufacturing",
+   "kettlebell",
    "vegetables",
    "fresh-fruit",
    "nutrition",
@@ -192578,11 +192660,11 @@
    },
    {
     "shot": "campaign-rally",
-    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3718",
-    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3718.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_3718.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3718.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3718.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3718.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3718.jpg",
+    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3673",
+    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3673.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_3673.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3673.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3673.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3673.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3673.jpg",
     "size": [
      1920,
      1440
@@ -192601,14 +192683,14 @@
    }
   ],
   "missing": [
-   "campaign-sign",
-   "parliament",
-   "national-mall",
-   "washington-monument",
-   "gavel",
-   "constitution",
-   "democracy",
-   "city-hall",
+   "voting-machine",
+   "absentee-ballot",
+   "yard-sign",
+   "state-house",
+   "stars-and-stripes",
+   "independence-hall",
+   "us-capitol-night",
+   "capitol-rotunda",
    "vote-here",
    "i-voted-sticker",
    "polling-place"
@@ -195085,52 +195167,6 @@
     "how": "catalog"
    },
    {
-    "shot": "fiber-optic-cable",
-    "shows": "SRNL Fiber Optic Cable Installation",
-    "file": "File:SRNL Fiber Optic Cable Installation (8057286135).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SRNL_Fiber_Optic_Cable_Installation_(8057286135).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SRNL_Fiber_Optic_Cable_Installation_%288057286135%29.jpg/1280px-SRNL_Fiber_Optic_Cable_Installation_%288057286135%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SRNL_Fiber_Optic_Cable_Installation_%288057286135%29.jpg/500px-SRNL_Fiber_Optic_Cable_Installation_%288057286135%29.jpg",
-    "size": [
-     1280,
-     1928
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Savannah River Site, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Savannah River Site",
-    "year": 2010,
-    "how": "catalog"
-   },
-   {
-    "shot": "optical-lens",
-    "shows": "Lens-ring-gaskets-01",
-    "file": "File:Lens-ring-gaskets-01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Lens-ring-gaskets-01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lens-ring-gaskets-01.jpg/1920px-Lens-ring-gaskets-01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lens-ring-gaskets-01.jpg/500px-Lens-ring-gaskets-01.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "CEphoto, Uwe Aranas",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
     "shot": "superconductor-magnet",
     "shows": "Superconductor ring and magnet in levitation",
     "file": "File:Superconductor ring and magnet in levitation.JPG",
@@ -195152,13 +195188,64 @@
     "author": "Julien Bobroff ( user:Jubobroff ), Frederic Bouquet ( user:Fbouquet ), LPS , Orsay, France",
     "year": null,
     "how": "catalog"
+   },
+   {
+    "shot": "helium",
+    "shows": "A person riding a snow board",
+    "file": "unsplash:j4WNKffDuzA",
+    "page": "https://unsplash.com/photos/a-person-riding-a-snow-board-j4WNKffDuzA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1650627405243-e52fd6ef9547?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8aGVsaXVtfGVufDF8fHx8MTc5NTAyMTk5MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1650627405243-e52fd6ef9547?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8aGVsaXVtfGVufDF8fHx8MTc5NTAyMTk5MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Elio Santos on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Elio Santos",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@eliomendes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/j4WNKffDuzA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8aGVsaXVtfGVufDF8fHx8MTc5NTAyMTk5MXww"
+   },
+   {
+    "shot": "interferometer",
+    "shows": "Sunset on the Plateau de Bure and its Interferometers. Human are ready to listen to the Universe.",
+    "file": "wordpress:74537",
+    "page": "https://wordpress.org/photos/photo/311662baba/",
+    "url": "https://pd.w.org/2024/04/311662bababb95d47.59676960.jpg",
+    "preview": "https://pd.w.org/2024/04/311662bababb95d47.59676960-768x512.jpg",
+    "size": [
+     6000,
+     4000
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Thanh Nguyen on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Thanh Nguyen",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/solofr/"
    }
   ],
   "missing": [
-   "lab-instruments",
-   "measurement-instrument",
-   "fiber-light",
-   "microwave-electronics",
+   "magnetic-levitation",
+   "lab-glassware",
+   "sapphire-crystal",
+   "electromagnet",
    "cooling-system-lab",
    "lab-vacuum-pump"
   ],
@@ -196432,25 +196519,25 @@
    },
    {
     "shot": "automated-warehouse",
-    "shows": "The Clock Warehouse - geograph.org.uk",
-    "file": "File:The Clock Warehouse - geograph.org.uk - 7965603.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Clock_Warehouse_-_geograph.org.uk_-_7965603.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/The_Clock_Warehouse_-_geograph.org.uk_-_7965603.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_Clock_Warehouse_-_geograph.org.uk_-_7965603.jpg/500px-The_Clock_Warehouse_-_geograph.org.uk_-_7965603.jpg",
+    "shows": "Telford's Warehouse - geograph.org.uk",
+    "file": "File:Telford's Warehouse - geograph.org.uk - 4537663.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg/1920px-Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg/500px-Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
     "size": [
-     1600,
-     1073
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mat Fascione, CC BY-SA 2.0, via Wikimedia Commons",
+    "credit": "Michael Dibb, CC BY-SA 2.0, via Wikimedia Commons",
     "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Mat Fascione",
-    "year": 2025,
+    "author": "Michael Dibb",
+    "year": 2015,
     "how": "catalog"
    }
   ],
@@ -196468,7 +196555,11 @@
    "welding-robot",
    "production-line",
    "industrial-automation",
-   "pick-and-place-robot"
+   "pick-and-place-robot",
+   "assembly-robot",
+   "conveyor-belt",
+   "automated-factory",
+   "servo-motor"
   ],
   "checked": "2026-11-18"
  },
@@ -197724,29 +197815,6 @@
     "author_url": "https://wordpress.org/photos/author/nilovelez/"
    },
    {
-    "shot": "lock-and-key",
-    "shows": "Machermo, Key, Lock, Nepal",
-    "file": "File:Machermo, Key, Lock, Nepal.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Machermo,_Key,_Lock,_Nepal.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Machermo%2C_Key%2C_Lock%2C_Nepal.jpg/1920px-Machermo%2C_Key%2C_Lock%2C_Nepal.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Machermo%2C_Key%2C_Lock%2C_Nepal.jpg/500px-Machermo%2C_Key%2C_Lock%2C_Nepal.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Vyacheslav Argenberg",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
     "shot": "two-factor",
     "shows": "Physical Multi Factor Authentication",
     "file": "File:Physical Multi Factor Authentication.jpg",
@@ -197768,13 +197836,39 @@
     "author": "MaddalenaCatania",
     "year": 2021,
     "how": "catalog"
+   },
+   {
+    "shot": "face-id",
+    "shows": "Boy Face from Venezuela",
+    "file": "File:Boy Face from Venezuela.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Boy_Face_from_Venezuela.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/1920px-Boy_Face_from_Venezuela.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/500px-Boy_Face_from_Venezuela.jpg",
+    "size": [
+     1920,
+     1542
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Wilfredor, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Wilfredor",
+    "year": 2012,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
    }
   ],
   "missing": [
-   "privacy",
-   "password-screen",
-   "laptop-lock",
-   "keyhole",
+   "dark-room-laptop",
+   "phishing",
+   "malware",
+   "yubikey",
    "security-door",
    "code-screen",
    "fingerprint",
@@ -200371,10 +200465,10 @@
    {
     "shot": "tokyo-stock-exchange",
     "shows": "Bonds at Tokyo Stock Exchange",
-    "file": "File:Bonds at Tokyo Stock Exchange (32026).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bonds_at_Tokyo_Stock_Exchange_(32026).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bonds_at_Tokyo_Stock_Exchange_%2832026%29.jpg/1920px-Bonds_at_Tokyo_Stock_Exchange_%2832026%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bonds_at_Tokyo_Stock_Exchange_%2832026%29.jpg/500px-Bonds_at_Tokyo_Stock_Exchange_%2832026%29.jpg",
+    "file": "File:Bonds at Tokyo Stock Exchange (97326).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bonds_at_Tokyo_Stock_Exchange_(97326).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bonds_at_Tokyo_Stock_Exchange_%2897326%29.jpg/1920px-Bonds_at_Tokyo_Stock_Exchange_%2897326%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bonds_at_Tokyo_Stock_Exchange_%2897326%29.jpg/500px-Bonds_at_Tokyo_Stock_Exchange_%2897326%29.jpg",
     "size": [
      1920,
      1440
@@ -200393,11 +200487,11 @@
    },
    {
     "shot": "japanese-factory",
-    "shows": "Osaka Auto Messe 2022 - Duex Varier Series 21 CROWN Athlete×NUNU FACTORY",
-    "file": "File:Osaka Auto Messe 2022 (436) - Duex Varier Series 21 CROWN Athlete×NUNU FACTORY.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Osaka_Auto_Messe_2022_(436)_-_Duex_Varier_Series_21_CROWN_Athlete%C3%97NUNU_FACTORY.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Osaka_Auto_Messe_2022_%28436%29_-_Duex_Varier_Series_21_CROWN_Athlete%C3%97NUNU_FACTORY.jpg/1920px-Osaka_Auto_Messe_2022_%28436%29_-_Duex_Varier_Series_21_CROWN_Athlete%C3%97NUNU_FACTORY.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Osaka_Auto_Messe_2022_%28436%29_-_Duex_Varier_Series_21_CROWN_Athlete%C3%97NUNU_FACTORY.jpg/500px-Osaka_Auto_Messe_2022_%28436%29_-_Duex_Varier_Series_21_CROWN_Athlete%C3%97NUNU_FACTORY.jpg",
+    "shows": "Ford Model A (Japan made), 1929",
+    "file": "File:Ford Model A (Japan made), 1929 (7864504756).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ford_Model_A_(Japan_made),_1929_(7864504756).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ford_Model_A_%28Japan_made%29%2C_1929_%287864504756%29.jpg/1920px-Ford_Model_A_%28Japan_made%29%2C_1929_%287864504756%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ford_Model_A_%28Japan_made%29%2C_1929_%287864504756%29.jpg/500px-Ford_Model_A_%28Japan_made%29%2C_1929_%287864504756%29.jpg",
     "size": [
      1920,
      1440
@@ -200406,12 +200500,12 @@
      0.5,
      0.5
     ],
-    "credit": "Tokumeigakarinoaoshima, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tokumeigakarinoaoshima",
-    "year": 2022,
+    "credit": "Iwao from Tokyo, Japan, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Iwao from Tokyo, Japan",
+    "year": 2012,
     "how": "catalog"
    }
   ],
@@ -200431,7 +200525,15 @@
    "torii",
    "pagoda",
    "sakura",
-   "japanese-garden"
+   "japanese-garden",
+   "japanese-lanterns",
+   "neon-tokyo",
+   "tokyo-station",
+   "yokohama",
+   "hokkaido",
+   "harajuku",
+   "nara",
+   "hiroshima"
   ],
   "checked": "2026-11-18"
  },
@@ -203014,11 +203116,11 @@
    },
    {
     "shot": "tourists-times-square",
-    "shows": "Why Not Join the Army in Times Square?",
-    "file": "File:Why Not Join the Army in Times Square? (7237736246).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Why_Not_Join_the_Army_in_Times_Square%3F_(7237736246).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Why_Not_Join_the_Army_in_Times_Square%3F_%287237736246%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Why_Not_Join_the_Army_in_Times_Square%3F_%287237736246%29.jpg/500px-Why_Not_Join_the_Army_in_Times_Square%3F_%287237736246%29.jpg",
+    "shows": "They Had Already Lost and Gone Home, 42nd Street, Times Square",
+    "file": "File:They Had Already Lost and Gone Home, 42nd Street, Times Square (7237734560).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:They_Had_Already_Lost_and_Gone_Home,_42nd_Street,_Times_Square_(7237734560).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/They_Had_Already_Lost_and_Gone_Home%2C_42nd_Street%2C_Times_Square_%287237734560%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/They_Had_Already_Lost_and_Gone_Home%2C_42nd_Street%2C_Times_Square_%287237734560%29.jpg/500px-They_Had_Already_Lost_and_Gone_Home%2C_42nd_Street%2C_Times_Square_%287237734560%29.jpg",
     "size": [
      1600,
      1200
@@ -203046,7 +203148,13 @@
    "cruise",
    "airplane-window",
    "plane",
-   "airport-gate"
+   "airport-gate",
+   "departure-board",
+   "plane-wing",
+   "resort-pool",
+   "camper-van",
+   "runway",
+   "airline"
   ],
   "checked": "2026-11-18"
  },
@@ -204313,11 +204421,11 @@
    },
    {
     "shot": "luxury-hotel",
-    "shows": "Spa bathrobes and massage parlor in Amantaka luxury Resort & Hotel in Luang Prabang Laos",
-    "file": "File:Spa bathrobes and massage parlor in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Spa_bathrobes_and_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Spa_bathrobes_and_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Spa_bathrobes_and_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Spa_bathrobes_and_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Spa_bathrobes_and_massage_parlor_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "shows": "Swimming pool and terrasse of Amantaka luxury Resort & Hotel in Luang Prabang Laos",
+    "file": "File:Swimming pool and terrasse of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Swimming_pool_and_terrasse_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Swimming_pool_and_terrasse_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/1920px-Swimming_pool_and_terrasse_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Swimming_pool_and_terrasse_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg/500px-Swimming_pool_and_terrasse_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
     "size": [
      1920,
      1280
@@ -204336,25 +204444,25 @@
    },
    {
     "shot": "fashion",
-    "shows": "By Robert Abi Nader",
-    "file": "File:E1266601 (5398889640).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:E1266601_(5398889640).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/E1266601_%285398889640%29.jpg/1280px-E1266601_%285398889640%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/E1266601_%285398889640%29.jpg/500px-E1266601_%285398889640%29.jpg",
+    "shows": "Tokyo Fashion Week 2010",
+    "file": "File:Tokyo Fashion Week 2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tokyo_Fashion_Week_2010.jpg/1920px-Tokyo_Fashion_Week_2010.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tokyo_Fashion_Week_2010.jpg/500px-Tokyo_Fashion_Week_2010.jpg",
     "size": [
-     1280,
-     2049
+     1920,
+     1317
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "beyrouth, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "beyrouth",
-    "year": 2011,
+    "credit": "Tokyographer, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Tokyographer",
+    "year": 2010,
     "how": "catalog"
    }
   ],
@@ -204368,7 +204476,19 @@
    "designer-store",
    "perfume-bottle",
    "luxury-boutique",
-   "yacht-marina"
+   "yacht-marina",
+   "designer-bag",
+   "high-heels",
+   "leather-bag",
+   "penthouse",
+   "mansion",
+   "silk-scarf",
+   "fragrance",
+   "gemstones",
+   "pearls",
+   "cufflinks",
+   "fine-dining",
+   "caviar"
   ],
   "checked": "2026-11-18"
  }
