@@ -188712,59 +188712,62 @@
     "track": "https://api.unsplash.com/photos/dU_itZ6CKXk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGl2aWRlbmR8ZW58MXx8fHwxNzk0OTQ5Njk4fDA"
    },
    {
-    "shot": "stock-investment",
-    "shows": "David Schwimmer, CEO, London Stock Exchange, speaking at the UK-Africa Investment Summit, London, 20 January 2020",
-    "file": "File:David Schwimmer, CEO, London Stock Exchange, speaking at the UK-Africa Investment Summit, London, 20 January 2020 (49414224333).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:David_Schwimmer,_CEO,_London_Stock_Exchange,_speaking_at_the_UK-Africa_Investment_Summit,_London,_20_January_2020_(49414224333).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/David_Schwimmer%2C_CEO%2C_London_Stock_Exchange%2C_speaking_at_the_UK-Africa_Investment_Summit%2C_London%2C_20_January_2020_%2849414224333%29.jpg/1920px-David_Schwimmer%2C_CEO%2C_London_Stock_Exchange%2C_speaking_at_the_UK-Africa_Investment_Summit%2C_London%2C_20_January_2020_%2849414224333%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/David_Schwimmer%2C_CEO%2C_London_Stock_Exchange%2C_speaking_at_the_UK-Africa_Investment_Summit%2C_London%2C_20_January_2020_%2849414224333%29.jpg/500px-David_Schwimmer%2C_CEO%2C_London_Stock_Exchange%2C_speaking_at_the_UK-Africa_Investment_Summit%2C_London%2C_20_January_2020_%2849414224333%29.jpg",
+    "shot": "hourglass-money",
+    "shows": "Painting by Mogens Thrane in Horsens Klosterkirke 03",
+    "file": "File:Painting by Mogens Thrane in Horsens Klosterkirke 03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg/1280px-Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg/500px-Painting_by_Mogens_Thrane_in_Horsens_Klosterkirke_03.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     1944
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "DFID - UK Department for International Development Graham Carlow, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "DFID - UK Department for International Development Graham Carlow",
-    "year": 2020,
-    "how": "catalog"
-   },
-   {
-    "shot": "money-saving",
-    "shows": "Saving money on car fuel costs",
-    "file": "File:Saving money on car fuel costs.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Saving_money_on_car_fuel_costs.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Saving_money_on_car_fuel_costs.jpg/1920px-Saving_money_on_car_fuel_costs.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Saving_money_on_car_fuel_costs.jpg/500px-Saving_money_on_car_fuel_costs.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Icomparioimages, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "AnnikaHendriksen, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Icomparioimages",
-    "year": 2023,
+    "author": "AnnikaHendriksen",
+    "year": 2018,
     "how": "catalog"
+   },
+   {
+    "shot": "coin-tower",
+    "shows": "Binoculars overlook the vast ocean",
+    "file": "unsplash:bKfuUy-g48Y",
+    "page": "https://unsplash.com/photos/binoculars-overlook-the-vast-ocean-bKfuUy-g48Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1750520281057-ec5b911c0e10?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1750520281057-ec5b911c0e10?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Stephen Harlan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Stephen Harlan",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@gogostevie?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/bKfuUy-g48Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww"
    }
   ],
   "missing": [
-   "compound-interest",
-   "stock-trader-screen",
-   "golden-piggy-bank",
-   "growth",
-   "budget",
-   "money-tree",
+   "sprout-coins",
+   "stacked-coins",
+   "pocket-watch",
+   "chess-pieces",
+   "compass",
+   "passbook",
    "cash",
    "wallet",
    "stock-chart",
@@ -191369,14 +191372,14 @@
    }
   ],
   "missing": [
-   "weight-loss-scale",
-   "fruit-bowl",
-   "vial",
-   "medical-syringe",
-   "bathroom-scale",
-   "treadmill",
-   "dumbbells",
-   "salad-bowl",
+   "food-scale",
+   "measuring-cup",
+   "calorie-counting",
+   "blood-sugar",
+   "pill-organizer",
+   "lab-vials",
+   "drug-manufacturing",
+   "kettlebell",
    "vegetables",
    "fresh-fruit",
    "nutrition",
@@ -192657,11 +192660,11 @@
    },
    {
     "shot": "campaign-rally",
-    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3718",
-    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3718.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_3718.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3718.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3718.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3718.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3718.jpg",
+    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3673",
+    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3673.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_3673.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3673.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3673.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3673.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3673.jpg",
     "size": [
      1920,
      1440
@@ -192680,14 +192683,14 @@
    }
   ],
   "missing": [
-   "campaign-sign",
-   "parliament",
-   "national-mall",
-   "washington-monument",
-   "gavel",
-   "constitution",
-   "democracy",
-   "city-hall",
+   "voting-machine",
+   "absentee-ballot",
+   "yard-sign",
+   "state-house",
+   "stars-and-stripes",
+   "independence-hall",
+   "us-capitol-night",
+   "capitol-rotunda",
    "vote-here",
    "i-voted-sticker",
    "polling-place"
@@ -195164,52 +195167,6 @@
     "how": "catalog"
    },
    {
-    "shot": "fiber-optic-cable",
-    "shows": "SRNL Fiber Optic Cable Installation",
-    "file": "File:SRNL Fiber Optic Cable Installation (8057286135).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SRNL_Fiber_Optic_Cable_Installation_(8057286135).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SRNL_Fiber_Optic_Cable_Installation_%288057286135%29.jpg/1280px-SRNL_Fiber_Optic_Cable_Installation_%288057286135%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/SRNL_Fiber_Optic_Cable_Installation_%288057286135%29.jpg/500px-SRNL_Fiber_Optic_Cable_Installation_%288057286135%29.jpg",
-    "size": [
-     1280,
-     1928
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Savannah River Site, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Savannah River Site",
-    "year": 2010,
-    "how": "catalog"
-   },
-   {
-    "shot": "optical-lens",
-    "shows": "Lens-ring-gaskets-01",
-    "file": "File:Lens-ring-gaskets-01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Lens-ring-gaskets-01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lens-ring-gaskets-01.jpg/1920px-Lens-ring-gaskets-01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Lens-ring-gaskets-01.jpg/500px-Lens-ring-gaskets-01.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "CEphoto, Uwe Aranas, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "CEphoto, Uwe Aranas",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
     "shot": "superconductor-magnet",
     "shows": "Superconductor ring and magnet in levitation",
     "file": "File:Superconductor ring and magnet in levitation.JPG",
@@ -195231,13 +195188,64 @@
     "author": "Julien Bobroff ( user:Jubobroff ), Frederic Bouquet ( user:Fbouquet ), LPS , Orsay, France",
     "year": null,
     "how": "catalog"
+   },
+   {
+    "shot": "helium",
+    "shows": "A person riding a snow board",
+    "file": "unsplash:j4WNKffDuzA",
+    "page": "https://unsplash.com/photos/a-person-riding-a-snow-board-j4WNKffDuzA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1650627405243-e52fd6ef9547?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8aGVsaXVtfGVufDF8fHx8MTc5NTAyMTk5MXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1650627405243-e52fd6ef9547?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8aGVsaXVtfGVufDF8fHx8MTc5NTAyMTk5MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Elio Santos on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Elio Santos",
+    "year": 2022,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@eliomendes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/j4WNKffDuzA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8aGVsaXVtfGVufDF8fHx8MTc5NTAyMTk5MXww"
+   },
+   {
+    "shot": "interferometer",
+    "shows": "Sunset on the Plateau de Bure and its Interferometers. Human are ready to listen to the Universe.",
+    "file": "wordpress:74537",
+    "page": "https://wordpress.org/photos/photo/311662baba/",
+    "url": "https://pd.w.org/2024/04/311662bababb95d47.59676960.jpg",
+    "preview": "https://pd.w.org/2024/04/311662bababb95d47.59676960-768x512.jpg",
+    "size": [
+     6000,
+     4000
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Thanh Nguyen on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Thanh Nguyen",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/solofr/"
    }
   ],
   "missing": [
-   "lab-instruments",
-   "measurement-instrument",
-   "fiber-light",
-   "microwave-electronics",
+   "magnetic-levitation",
+   "lab-glassware",
+   "sapphire-crystal",
+   "electromagnet",
    "cooling-system-lab",
    "lab-vacuum-pump"
   ],
@@ -196511,25 +196519,25 @@
    },
    {
     "shot": "automated-warehouse",
-    "shows": "The Clock Warehouse - geograph.org.uk",
-    "file": "File:The Clock Warehouse - geograph.org.uk - 7965603.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Clock_Warehouse_-_geograph.org.uk_-_7965603.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/The_Clock_Warehouse_-_geograph.org.uk_-_7965603.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/The_Clock_Warehouse_-_geograph.org.uk_-_7965603.jpg/500px-The_Clock_Warehouse_-_geograph.org.uk_-_7965603.jpg",
+    "shows": "Telford's Warehouse - geograph.org.uk",
+    "file": "File:Telford's Warehouse - geograph.org.uk - 4537663.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg/1920px-Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg/500px-Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
     "size": [
-     1600,
-     1073
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mat Fascione, CC BY-SA 2.0, via Wikimedia Commons",
+    "credit": "Michael Dibb, CC BY-SA 2.0, via Wikimedia Commons",
     "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Mat Fascione",
-    "year": 2025,
+    "author": "Michael Dibb",
+    "year": 2015,
     "how": "catalog"
    }
   ],
@@ -196547,7 +196555,11 @@
    "welding-robot",
    "production-line",
    "industrial-automation",
-   "pick-and-place-robot"
+   "pick-and-place-robot",
+   "assembly-robot",
+   "conveyor-belt",
+   "automated-factory",
+   "servo-motor"
   ],
   "checked": "2026-11-18"
  },
@@ -197803,29 +197815,6 @@
     "author_url": "https://wordpress.org/photos/author/nilovelez/"
    },
    {
-    "shot": "lock-and-key",
-    "shows": "Machermo, Key, Lock, Nepal",
-    "file": "File:Machermo, Key, Lock, Nepal.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Machermo,_Key,_Lock,_Nepal.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Machermo%2C_Key%2C_Lock%2C_Nepal.jpg/1920px-Machermo%2C_Key%2C_Lock%2C_Nepal.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Machermo%2C_Key%2C_Lock%2C_Nepal.jpg/500px-Machermo%2C_Key%2C_Lock%2C_Nepal.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Vyacheslav Argenberg, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Vyacheslav Argenberg",
-    "year": 2009,
-    "how": "catalog"
-   },
-   {
     "shot": "two-factor",
     "shows": "Physical Multi Factor Authentication",
     "file": "File:Physical Multi Factor Authentication.jpg",
@@ -197847,13 +197836,39 @@
     "author": "MaddalenaCatania",
     "year": 2021,
     "how": "catalog"
+   },
+   {
+    "shot": "face-id",
+    "shows": "Boy Face from Venezuela",
+    "file": "File:Boy Face from Venezuela.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Boy_Face_from_Venezuela.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/1920px-Boy_Face_from_Venezuela.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/500px-Boy_Face_from_Venezuela.jpg",
+    "size": [
+     1920,
+     1542
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Wilfredor, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Wilfredor",
+    "year": 2012,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
    }
   ],
   "missing": [
-   "privacy",
-   "password-screen",
-   "laptop-lock",
-   "keyhole",
+   "dark-room-laptop",
+   "phishing",
+   "malware",
+   "yubikey",
    "security-door",
    "code-screen",
    "fingerprint",
