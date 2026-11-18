@@ -310,6 +310,25 @@ Decisions (Pablo, 4 Nov 2026):
 - **Merged into main (17 Nov, PR #14)**: 6,247 published photos: companies 3,969, topics 1,750 (average 47.3), sectors
   528 (average 48.0); 6 of 48 at 50. Thinnest: ai 38, nuclear 41, quantum 42, earnings 45, tariffs 45. 356 Unsplash
   download counts pending.
+- **Rounds 14-17** (17-18 Nov): short searches for every topic and sector under 50, drafted with `filter_cands.py`
+  (scratchpad: drops any search already in `catalog.json`, for any subject, or in an earlier `new_r*.json`, since a
+  repeat only replays its cached answer) and applied with `replace_shots.py`. Round 14 +12 photos, round 15 (33
+  searches, plus 10 household goods appended to staples) +18, crash at 50; round 16 (120 searches, 27 subjects, nuclear
+  plants written "<plant> nuclear") +17; round 17 (102 searches, 38 subjects, three 2-hour pieces; stock 7 of 11 grade 3,
+  Commons 10 of 61) +18. Generic words are nearly used up: most new candidates are already in the catalog, so new
+  searches have to be specific (named plants, "lab instruments", "keyhole", "torii"). Word matches seen: James Bond for
+  "bond", a farmers' market for "debut", a mask dance for "house", a Sede Vacante relief for "vacant", lobster traps
+  for "container stack". Apply a new round only after grading the last one: `replace_shots.py` swaps out shots with no
+  published photo, and an ungraded pick is not published yet.
+- Index after round 17: 6,312 published photos; topics and sectors 2,343 (13 of 48 at 50, the rest 46-49: sector-tech
+  46, ev 47, quantum 47).
+- **Round 18** (17-18 Nov): 128 searches in 36 subjects, four 2-hour pieces (a container restart cut one); 57 new picks
+  graded, 11 grade 3 (earbuds, a monitor desk, a mouse, the NYSE, a TV studio, a GPU cluster, an EV charger, a jet on a
+  runway, pharma vials, a levitating superconductor, a biometric gate). Word matches seen: chocolate-chip cookies for
+  "chips", a disco ball in a bar called "Import Export", Domino Sugar for "refinery", a clock warehouse for robotics.
+  Index: 6,323 photos; topics and sectors 2,354 (16 of 48 at 50, the rest 47-49).
+- **Merged into main (18 Nov, PR #15)**. Round 19 (217 searches in the 33 under 50, drafted with `filter_cands.py`:
+  named nuclear plants, "hourglass money", "gantry crane", "food scale", "tokyo station"...) under way.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand

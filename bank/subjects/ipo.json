@@ -835,6 +835,40 @@
    "author_url": "https://unsplash.com/@chrisliverani?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/two-person-shaking-hands-near-white-painted-wall-9cd8qOgeNIY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "NYSE facade",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NYSE_facade.jpg/1920px-NYSE_facade.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NYSE_facade.jpg/500px-NYSE_facade.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ryan Schwark, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NYSE_facade.jpg"
+  },
+  {
+   "shows": "times square nasdaq",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/NASDAQ_%286279257849%29.jpg/1280px-NASDAQ_%286279257849%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/NASDAQ_%286279257849%29.jpg/500px-NASDAQ_%286279257849%29.jpg",
+   "size": [
+    1280,
+    1940
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Erik Drost, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NASDAQ_(6279257849).jpg"
   }
  ]
 }
