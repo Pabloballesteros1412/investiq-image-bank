@@ -143204,29 +143204,6 @@
     "track": "https://api.unsplash.com/photos/01hQvBUC7rI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8bW9uaXRvciUyMHNldHVwfGVufDF8fHx8MTc5NDk4MTY0M3ww"
    },
    {
-    "shot": "technology-conference",
-    "shows": "Hermann Winner keynote",
-    "file": "File:Hermann Winner keynote (21302456620).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hermann_Winner_keynote_(21302456620).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Winner_keynote_%2821302456620%29.jpg/1920px-Hermann_Winner_keynote_%2821302456620%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Hermann_Winner_keynote_%2821302456620%29.jpg/500px-Hermann_Winner_keynote_%2821302456620%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "International Conference Intelligent Transportation, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "International Conference Intelligent Transportation",
-    "year": 2015,
-    "how": "catalog"
-   },
-   {
     "shot": "computer-mouse",
     "shows": "Black cordless computer mouse on black surface",
     "file": "unsplash:4PchFKrUw84",
@@ -143251,16 +143228,39 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@toastyraw?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/4PchFKrUw84/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Y29tcHV0ZXIlMjBtb3VzZXxlbnwxfHx8fDE3OTQ5ODE2OTl8MA"
+   },
+   {
+    "shot": "technology-conference",
+    "shows": "Tsuguo Nobe keynote",
+    "file": "File:Tsuguo Nobe keynote (21277953508).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tsuguo_Nobe_keynote_(21277953508).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tsuguo_Nobe_keynote_%2821277953508%29.jpg/1920px-Tsuguo_Nobe_keynote_%2821277953508%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Tsuguo_Nobe_keynote_%2821277953508%29.jpg/500px-Tsuguo_Nobe_keynote_%2821277953508%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "International Conference Intelligent Transportation, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "International Conference Intelligent Transportation",
+    "year": 2015,
+    "how": "catalog"
    }
   ],
   "missing": [
    "office-open-space",
-   "laptop-keyboard",
-   "gaming-setup",
-   "computer-monitor",
-   "fiber-optic-cables",
-   "tablet-computer",
-   "programmer",
+   "camera",
+   "gaming-console",
+   "desktop-computer",
+   "webcam",
+   "drone-camera",
+   "tech-gadgets",
    "tech",
    "circuit",
    "silicon-valley",
@@ -147145,35 +147145,38 @@
     "track": "https://api.unsplash.com/photos/CVvjUrsDIXE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y3J1aXNlJTIwc2hpcHxlbnwxfHx8fDE3OTM5MjczMDh8MA"
    },
    {
-    "shot": "home-improvement-store",
-    "shows": "Worker at the hardware store, Panjim, Goa, circa 2018 16",
-    "file": "File:Worker at the hardware store, Panjim, Goa, circa 2018 16.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Worker_at_the_hardware_store,_Panjim,_Goa,_circa_2018_16.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Worker_at_the_hardware_store%2C_Panjim%2C_Goa%2C_circa_2018_16.jpg/1920px-Worker_at_the_hardware_store%2C_Panjim%2C_Goa%2C_circa_2018_16.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Worker_at_the_hardware_store%2C_Panjim%2C_Goa%2C_circa_2018_16.jpg/500px-Worker_at_the_hardware_store%2C_Panjim%2C_Goa%2C_circa_2018_16.jpg",
+    "shot": "clothing-store",
+    "shows": "A clothing store with clothes and hats on display",
+    "file": "unsplash:2gLL2ZgBlcU",
+    "page": "https://unsplash.com/photos/a-clothing-store-with-clothes-and-hats-on-display-2gLL2ZgBlcU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1718985342149-7178154e0aee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNsb3RoaW5nJTIwc3RvcmV8ZW58MXx8fHwxNzk0ODQ5MTM2fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1718985342149-7178154e0aee?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNsb3RoaW5nJTIwc3RvcmV8ZW58MXx8fHwxNzk0ODQ5MTM2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1279
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Fredericknoronha, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Fredericknoronha",
-    "year": 2016,
-    "how": "catalog"
+    "credit": "Photo by Laura Peruchi on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Laura Peruchi",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@lauraperuchi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2gLL2ZgBlcU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fGNsb3RoaW5nJTIwc3RvcmV8ZW58MXx8fHwxNzk0ODQ5MTM2fDA"
    }
   ],
   "missing": [
    "parcels-delivery",
    "theme-park",
+   "home-improvement-store",
    "online-shopping",
    "travel",
-   "clothing-store",
    "delivery-box",
    "coffee-shop",
    "amusement-park",
@@ -147182,7 +147185,15 @@
    "shoes",
    "sneaker",
    "department-store-window",
-   "car-showroom"
+   "car-showroom",
+   "fast-food",
+   "bicycle",
+   "video-games",
+   "home-decor",
+   "sofa",
+   "hamburger",
+   "pizza",
+   "streetwear"
   ],
   "checked": "2026-11-18"
  },
@@ -151036,56 +151047,62 @@
     "track": "https://api.unsplash.com/photos/3HoHDoFL5gM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8dG9pbGV0JTIwcGFwZXJ8ZW58MXx8fHwxNzk0OTQzMzc1fDA"
    },
    {
-    "shot": "beverages",
-    "shows": "Coconut Drink (Unsplash)",
-    "file": "File:Coconut Drink (Unsplash).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Coconut_Drink_(Unsplash).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coconut_Drink_%28Unsplash%29.jpg/1920px-Coconut_Drink_%28Unsplash%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Coconut_Drink_%28Unsplash%29.jpg/500px-Coconut_Drink_%28Unsplash%29.jpg",
+    "shot": "butter",
+    "shows": "Sliced cheese on clear glass plate",
+    "file": "unsplash:094mP_CBdpM",
+    "page": "https://unsplash.com/photos/sliced-cheese-on-clear-glass-plate-094mP_CBdpM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnV0dGVyfGVufDF8fHx8MTc5NTAwMzYwMHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1589985270826-4b7bb135bc9d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnV0dGVyfGVufDF8fHx8MTc5NTAwMzYwMHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Alexander Mils alexandermils, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Alexander Mils alexandermils",
-    "year": 2016,
-    "how": "catalog"
+    "credit": "Photo by Sorin Gheorghita on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sorin Gheorghita",
+    "year": 2020,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sxtcxtc?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/094mP_CBdpM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8YnV0dGVyfGVufDF8fHx8MTc5NTAwMzYwMHww"
    },
    {
-    "shot": "household-products",
-    "shows": "Yog'och likopcha 1",
-    "file": "File:Yog'och likopcha 1.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Yog%27och_likopcha_1.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yog%27och_likopcha_1.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Yog%27och_likopcha_1.png/500px-Yog%27och_likopcha_1.png",
+    "shot": "cheese",
+    "shows": "A couple of pieces of cheese sitting on top of a wooden cutting board",
+    "file": "unsplash:JJcT6VJWDlg",
+    "page": "https://unsplash.com/photos/a-couple-of-pieces-of-cheese-sitting-on-top-of-a-wooden-cutting-board-JJcT6VJWDlg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1683314573422-649a3c6ad784?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlZXNlfGVufDF8fHx8MTc5NTAwMzYxOXww&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1683314573422-649a3c6ad784?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlZXNlfGVufDF8fHx8MTc5NTAwMzYxOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1080
+     2249,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "AIDEPCUL, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "AIDEPCUL",
-    "year": 2026,
-    "how": "catalog"
+    "credit": "Photo by David Foodphototasty on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Foodphototasty",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@phototastyfood?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JJcT6VJWDlg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlZXNlfGVufDF8fHx8MTc5NTAwMzYxOXww"
    }
   ],
   "missing": [
-   "household-products-shelf",
    "food-processing-plant",
-   "dairy-farm",
+   "yogurt",
+   "household-products",
    "detergent",
    "shampoo",
    "milk",
@@ -151108,7 +151125,13 @@
    "coffee-beans",
    "grocery-aisle",
    "toiletries",
-   "bottled-drinks"
+   "bottled-drinks",
+   "rice",
+   "flour",
+   "cooking-oil",
+   "razor",
+   "deodorant",
+   "pet-food"
   ],
   "checked": "2026-11-18"
  },
@@ -153652,25 +153675,25 @@
    },
    {
     "shot": "water-treatment-plant",
-    "shows": "Wentworth Falls water chlorination plant",
-    "file": "File:Wentworth Falls water chlorination plant.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wentworth_Falls_water_chlorination_plant.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wentworth_Falls_water_chlorination_plant.jpg/1920px-Wentworth_Falls_water_chlorination_plant.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wentworth_Falls_water_chlorination_plant.jpg/500px-Wentworth_Falls_water_chlorination_plant.jpg",
+    "shows": "Wastewater Treatment - Grit Chamber",
+    "file": "File:Wastewater Treatment - Grit Chamber.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wastewater_Treatment_-_Grit_Chamber.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wastewater_Treatment_-_Grit_Chamber.jpg/1920px-Wastewater_Treatment_-_Grit_Chamber.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Wastewater_Treatment_-_Grit_Chamber.jpg/500px-Wastewater_Treatment_-_Grit_Chamber.jpg",
     "size": [
      1920,
-     1440
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "2hu4u, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "2hu4u",
-    "year": 2020,
+    "credit": "Ljgdsaa78900, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Ljgdsaa78900",
+    "year": 2024,
     "how": "catalog"
    }
   ],
@@ -153686,7 +153709,15 @@
    "water-treatment",
    "hydro-dam",
    "water-pipe",
-   "gas-meter"
+   "gas-meter",
+   "water-pipes",
+   "electric-pole",
+   "reservoir",
+   "power-outlet",
+   "fire-hydrant",
+   "manhole",
+   "water-faucet",
+   "smart-meter"
   ],
   "checked": "2026-11-18"
  },
@@ -154932,25 +154963,25 @@
    },
    {
     "shot": "shopping-mall",
-    "shows": "Baku Mall Azerbaijan 2",
-    "file": "File:Baku Mall Azerbaijan 2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Baku_Mall_Azerbaijan_2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Baku_Mall_Azerbaijan_2.jpg/1920px-Baku_Mall_Azerbaijan_2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Baku_Mall_Azerbaijan_2.jpg/500px-Baku_Mall_Azerbaijan_2.jpg",
+    "shows": "Shopping mall New Market",
+    "file": "File:Shopping mall New Market.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shopping_mall_New_Market.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shopping_mall_New_Market.jpg/1920px-Shopping_mall_New_Market.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shopping_mall_New_Market.jpg/500px-Shopping_mall_New_Market.jpg",
     "size": [
      1920,
-     1082
+     1259
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Fanti Salms, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Fanti Salms",
-    "year": 2017,
+    "credit": "Roger Gwynn, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Roger Gwynn",
+    "year": 1966,
     "how": "catalog"
    }
   ],
@@ -154969,7 +155000,13 @@
    "residential-building",
    "housing-estate",
    "commercial-real-estate",
-   "property-for-sale"
+   "property-for-sale",
+   "building-facade",
+   "commercial-building",
+   "modern-building",
+   "storage-units",
+   "parking-garage",
+   "strip-mall"
   ],
   "checked": "2026-11-18"
  },
@@ -156202,33 +156239,33 @@
     "how": "catalog"
    },
    {
-    "shot": "fertilizer",
-    "shows": "Cows dung",
-    "file": "File:Cows dung.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cows_dung.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cows_dung.jpg/1920px-Cows_dung.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Cows_dung.jpg/500px-Cows_dung.jpg",
+    "shot": "paper-roll",
+    "shows": "Roll of toilet paper with one sheet folded down in front",
+    "file": "File:Roll of toilet paper with one sheet folded down in front.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg/1280px-Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg/500px-Roll_of_toilet_paper_with_one_sheet_folded_down_in_front.jpg",
     "size": [
-     1920,
-     2089
+     1280,
+     1783
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Yahuzaishat, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Yahuzaishat",
-    "year": 2025,
+    "credit": "Derrick Coetzee ( User:Dcoetzee ), CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Derrick Coetzee ( User:Dcoetzee )",
+    "year": 2013,
     "how": "catalog"
    }
   ],
   "missing": [
-   "metal-sheets",
-   "aluminum-coils",
-   "pulp",
+   "coal",
+   "paint-cans",
+   "plastic-bottles",
    "plastic",
    "glass-bottles",
    "packaging",
