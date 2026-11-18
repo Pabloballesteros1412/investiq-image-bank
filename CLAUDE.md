@@ -321,8 +321,14 @@ Decisions (Pablo, 4 Nov 2026):
   for "container stack". Apply a new round only after grading the last one: `replace_shots.py` swaps out shots with no
   published photo, and an ungraded pick is not published yet.
 - Index after round 17: 6,312 published photos; topics and sectors 2,343 (13 of 48 at 50, the rest 46-49: sector-tech
-  46, ev 47, quantum 47). Round 18 (128 searches in 36 subjects; nuclear and ev have no dead shots left to swap) under
-  way.
+  46, ev 47, quantum 47).
+- **Round 18** (17-18 Nov): 128 searches in 36 subjects, four 2-hour pieces (a container restart cut one); 57 new picks
+  graded, 11 grade 3 (earbuds, a monitor desk, a mouse, the NYSE, a TV studio, a GPU cluster, an EV charger, a jet on a
+  runway, pharma vials, a levitating superconductor, a biometric gate). Word matches seen: chocolate-chip cookies for
+  "chips", a disco ball in a bar called "Import Export", Domino Sugar for "refinery", a clock warehouse for robotics.
+  Index: 6,323 photos; topics and sectors 2,354 (16 of 48 at 50, the rest 47-49).
+- **Merged into main (18 Nov, PR #15)**. Round 19 (217 searches in the 33 under 50, drafted with `filter_cands.py`:
+  named nuclear plants, "hourglass money", "gantry crane", "food scale", "tokyo station"...) under way.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
