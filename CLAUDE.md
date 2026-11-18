@@ -336,6 +336,31 @@ Decisions (Pablo, 4 Nov 2026):
   for IPOs, a snowboarder and radio telescopes for quantum, a Christmas bauble for gold, a wall clock for "clock in".
   Index: 6,334 photos; topics and sectors 2,365 (19 of 48 at 50, the rest 48-49).
 
+## Videos (18 Nov 2026, new)
+- Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/
+  TikTok/Shorts and horizontal), **10 clips per topic and sector** to start (~480; companies later), and **Pixabay** as the
+  main source. Pexels still issues no keys, Unsplash has no video, and Commons video is scarce and documentary.
+- `videos.py` (tests: `test_videos.py`, 10, offline). Linked, not copied. Sources: `PixabayVideo` (needs
+  **`PIXABAY_API_KEY` as an environment variable**: the key goes in the query string, so a network secret cannot carry
+  it; Pablo first tried a network secret with host `pixabay.api.com` (wrong host as well) and was told to delete it and
+  use an environment variable, then start a new session), `CommonsVideo` (CC0/PD/CC BY only, no BY-SA: a reel cut from
+  an SA clip would be SA as a whole; the file name must name the search; no news/speeches/events/seizures/crashes)
+  and `NasaVideo` (space shots only, launch providers' footage out). Rules: real footage, >= 1080p, 4-60 s (Commons and
+  NASA 180), every search word in tags/file name, 2 per uploader per subject, a clip used once in the bank, up to 3
+  vertical clips first, `vertical_crop_ok` for 4K horizontals. Searches: the topic's catalog shots, the ones that gave
+  published stock photos first; a subject stops searching at target + 3 shots with candidates and 3 verticals (max 25
+  searches per source).
+- Files: `bank/video_manifest.json`; for the chat `bank/videos/index.json` + `bank/videos/<ID>.json`. Grades in
+  `bank/review.json` (Pixabay/NASA published unless graded < 3, Commons only grade 3). Review: `python videos.py sheets
+  DIR` (3 frames per clip: NASA's own stills, Commons thumbnails with `seek=`, Pixabay via ffmpeg from the tiny file),
+  `python videos.py grade G.json DIR` (same format as review.py; reindexes). `CAROUSEL_CHAT.md` has the chat block.
+- Trial without Pixabay (Commons + NASA, oil/tariffs/space, in a scratch copy of the bank): Commons fills places with
+  word matches and news (a barrel organ for "oil barrel", seized tankers), hence the stricter rules above; good ones
+  exist (Port of Cork aerials, Rotterdam locks). Nothing built in the real bank yet.
+- **Next (in a session that has PIXABAY_API_KEY)**: `python videos.py build` (48 subjects, ~1,000 Pixabay searches at
+  most, paced under its 100/min limit; can run alongside an image build, but both use the Commons API), then
+  `python videos.py sheets DIR`, grade by eye, `grade`, commit, PR. Videos never mix into `bank/index.json`.
+
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
    terms fixed after their first search (Abbott, Cisco, Casey's, Chipotle, McCormick, On, P&G, Qualcomm, Roku)
