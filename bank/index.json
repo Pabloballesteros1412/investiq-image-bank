@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-18",
- "photos": 6323,
+ "photos": 6333,
  "subjects": [
   {
    "id": "MMM",
@@ -8040,7 +8040,7 @@
    "aliases": [
     "consumer discretionary"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-consumer-discretionary.json"
   },
@@ -8076,7 +8076,7 @@
    "aliases": [
     "consumer staples"
    ],
-   "photos": 48,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-staples.json"
   },
@@ -8170,7 +8170,7 @@
     "downturn",
     "gdp"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/recession.json"
   },
@@ -8186,7 +8186,7 @@
     "payrolls",
     "labor"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/jobs.json"
   },
@@ -8330,7 +8330,7 @@
     "imports",
     "customs"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/tariffs.json"
   },
@@ -8379,7 +8379,7 @@
     "deficit",
     "10-year"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/bonds.json"
   },
@@ -8395,7 +8395,7 @@
     "home prices",
     "homebuilders"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/housing.json"
   },
@@ -8441,7 +8441,7 @@
     "electric cars",
     "batteries"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ev.json"
   },
@@ -8523,7 +8523,7 @@
     "compound interest",
     "401k"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/investing.json"
   },

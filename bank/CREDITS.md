@@ -5569,6 +5569,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Orange Lamborghini car: Photo by Marek Pospíšil on Unsplash. [oUBjd22gF6w](https://unsplash.com/photos/orange-lamborghini-car-oUBjd22gF6w?utm_source=investiq_image_bank&utm_medium=referral)
 - People sitting on chair in restaurant: Photo by Simon Karemann on Unsplash. [p85-MG66GRY](https://unsplash.com/photos/people-sitting-on-chair-in-restaurant-p85-MG66GRY?utm_source=investiq_image_bank&utm_medium=referral)
 - White cruise ship on sea under white clouds and blue sky during daytime: Photo by Daniele D'Andreti on Unsplash. [CVvjUrsDIXE](https://unsplash.com/photos/white-cruise-ship-on-sea-under-white-clouds-and-blue-sky-during-daytime-CVvjUrsDIXE?utm_source=investiq_image_bank&utm_medium=referral)
+- A clothing store with clothes and hats on display: Photo by Laura Peruchi on Unsplash. [2gLL2ZgBlcU](https://unsplash.com/photos/a-clothing-store-with-clothes-and-hats-on-display-2gLL2ZgBlcU?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Communication services sector (sector-communication)
 
@@ -5726,6 +5727,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A field of wheat under a blue sky with clouds: Photo by James Ahlberg on Unsplash. [dTs-GX8RE6c](https://unsplash.com/photos/a-field-of-wheat-under-a-blue-sky-with-clouds-dTs-GX8RE6c?utm_source=investiq_image_bank&utm_medium=referral)
 - SZ Shenzhen Nanshan Longzhu Blvd Shirble Plaza mall shop Freshippo Supermarket beverage bottles March 2025 R12S 17: MSLONAG BOAKS TEN, CC0, via Wikimedia Commons. [SZ Shenzhen Nanshan Longzhu Blvd Shirble Plaza mall shop Freshippo Supermarket beverage bottles March 2025 R12S 17.jpg](https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Nanshan_Longzhu_Blvd_Shirble_Plaza_mall_shop_Freshippo_Supermarket_beverage_bottles_March_2025_R12S_17.jpg)
 - White toilet paper roll on white table: Photo by Claire Mueller on Unsplash. [3HoHDoFL5gM](https://unsplash.com/photos/white-toilet-paper-roll-on-white-table-3HoHDoFL5gM?utm_source=investiq_image_bank&utm_medium=referral)
+- Sliced cheese on clear glass plate: Photo by Sorin Gheorghita on Unsplash. [094mP_CBdpM](https://unsplash.com/photos/sliced-cheese-on-clear-glass-plate-094mP_CBdpM?utm_source=investiq_image_bank&utm_medium=referral)
+- A couple of pieces of cheese sitting on top of a wooden cutting board: Photo by David Foodphototasty on Unsplash. [JJcT6VJWDlg](https://unsplash.com/photos/a-couple-of-pieces-of-cheese-sitting-on-top-of-a-wooden-cutting-board-JJcT6VJWDlg?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Energy sector (sector-energy)
 
@@ -6093,6 +6096,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Red and white sale LED sign: Photo by Claudio Schwarz on Unsplash. [KcPK_kzqWC8](https://unsplash.com/photos/red-and-white-sale-led-sign-KcPK_kzqWC8?utm_source=investiq_image_bank&utm_medium=referral)
 - Brown and white bread on display counter: Photo by Boris Dunand on Unsplash. [Wa9ibpKst3I](https://unsplash.com/photos/brown-and-white-bread-on-display-counter-Wa9ibpKst3I?utm_source=investiq_image_bank&utm_medium=referral)
 - Petition to File For Bankruptcy: Photo by Melinda Gimpel on Unsplash. [9j8k3l9afkc](https://unsplash.com/photos/petition-to-file-for-bankruptcy-9j8k3l9afkc?utm_source=investiq_image_bank&utm_medium=referral)
+- A boarded-up window on a yellow wall: Photo by Mavi Atlas on Unsplash. [YBFoCd53Ke8](https://unsplash.com/photos/a-boarded-up-window-on-a-yellow-wall-YBFoCd53Ke8?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Jobs & labor market (jobs)
 
@@ -6144,6 +6148,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A white hard hat sitting on top of a solar panel: Photo by Evgeniy Alyoshin on Unsplash. [2ASQyjafflo](https://unsplash.com/photos/a-white-hard-hat-sitting-on-top-of-a-solar-panel-2ASQyjafflo?utm_source=investiq_image_bank&utm_medium=referral)
 - Modern office interior with cubicles and workstations: Photo by blue sky on Unsplash. [IHUzuqnK87g](https://unsplash.com/photos/modern-office-interior-with-cubicles-and-workstations-IHUzuqnK87g?utm_source=investiq_image_bank&utm_medium=referral)
 - Help Wanted - Nebraska: Bradley Weber, CC BY 2.0, via Wikimedia Commons. [Help Wanted - Nebraska (44113871694).jpg](https://commons.wikimedia.org/wiki/File:Help_Wanted_-_Nebraska_(44113871694).jpg)
+- Two rectangular green and red tool cases on white surface: Photo by Susan Holt Simpson on Unsplash. [2nSdQEd-Exc](https://unsplash.com/photos/two-rectangular-green-and-red-tool-cases-on-white-surface-2nSdQEd-Exc?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Wall Street & stock market rallies (bull-market)
 
@@ -6610,6 +6615,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - View of Port of Los Angeles with container ships: Downtowngal, CC BY-SA 4.0, via Wikimedia Commons. [View of Port of Los Angeles with container ships.jpg](https://commons.wikimedia.org/wiki/File:View_of_Port_of_Los_Angeles_with_container_ships.jpg)
 - A large boat in a body of water: Photo by Julia Taubitz on Unsplash. [zc4em1u9_Fo](https://unsplash.com/photos/a-large-boat-in-a-body-of-water-zc4em1u9_Fo?utm_source=investiq_image_bank&utm_medium=referral)
 - Large shipping cranes at a container terminal at night with lights reflecting on the water: Photo by Sondre Millstein on Unsplash. [cdm1L4MzCWQ](https://unsplash.com/photos/shipping-cranes-at-night-container-terminal-cdm1L4MzCWQ?utm_source=investiq_image_bank&utm_medium=referral)
+- White and blue metal crane under blue sky during daytime: Photo by fred crandon on Unsplash. [0JRcFvUbGAY](https://unsplash.com/photos/white-and-blue-metal-crane-under-blue-sky-during-daytime-0JRcFvUbGAY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## China economy (china)
 
@@ -6766,6 +6772,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Beige concrete building during daytime: Photo by John Torcasio on Unsplash. [7NjtuSJUDG0](https://unsplash.com/photos/beige-concrete-building-during-daytime-7NjtuSJUDG0?utm_source=investiq_image_bank&utm_medium=referral)
 - 20 us dollar bill: Photo by Dan Dennis on Unsplash. [u9VFEhrmXSo](https://unsplash.com/photos/20-us-dollar-bill-u9VFEhrmXSo?utm_source=investiq_image_bank&utm_medium=referral)
 - Treasury Building: Erich Robert Joli Weber, CC BY-SA 3.0, via Wikimedia Commons. [Treasury Building (2).jpg](https://commons.wikimedia.org/wiki/File:Treasury_Building_(2).jpg)
+- A close up of a paper with numbers on it: Photo by Annie Spratt on Unsplash. [tuJ3tXSayco](https://unsplash.com/photos/a-close-up-of-a-paper-with-numbers-on-it-tuJ3tXSayco?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Housing market & mortgages (housing)
 
@@ -6817,6 +6824,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A residential street with two houses and green trees under a clear blue sky: Photo by Josh Lemmon on Unsplash. [UYDW1oDWZtg](https://unsplash.com/photos/residential-street-with-houses-and-trees-UYDW1oDWZtg?utm_source=investiq_image_bank&utm_medium=referral)
 - Aerial photography houses: Photo by Blake Wheeler on Unsplash. [zBHU08hdzhY](https://unsplash.com/photos/aerial-photography-houses-zBHU08hdzhY?utm_source=investiq_image_bank&utm_medium=referral)
 - Cul-de-sac 1: Wikideas1, CC0, via Wikimedia Commons. [Cul-de-sac 1.jpg](https://commons.wikimedia.org/wiki/File:Cul-de-sac_1.jpg)
+- A building under construction with scaffolding around it: Photo by Sandy Millar on Unsplash. [u1KG_wZTnkg](https://unsplash.com/photos/a-building-under-construction-with-scaffolding-around-it-u1KG_wZTnkg?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Earnings season (earnings)
 
@@ -6971,6 +6979,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A car is parked in front of a gas pump: Photo by Bram Van Oost on Unsplash. [J6005MiIjQk](https://unsplash.com/photos/a-car-is-parked-in-front-of-a-gas-pump-J6005MiIjQk?utm_source=investiq_image_bank&utm_medium=referral)
 - A green sign that says electric vehicle charging station: Photo by Matt Bloom on Unsplash. [0Xp_MBkkdBo](https://unsplash.com/photos/a-green-sign-that-says-electric-vehicle-charging-station-0Xp_MBkkdBo?utm_source=investiq_image_bank&utm_medium=referral)
 - EV Charging station, Mothitang: Christopher J. Fynn, CC BY-SA 4.0, via Wikimedia Commons. [EV Charging station, Mothitang.jpg](https://commons.wikimedia.org/wiki/File:EV_Charging_station,_Mothitang.jpg)
+- Ev charger connector head: Photo by Miron Huang on Unsplash. [ECPML1vHQYQ](https://unsplash.com/photos/ev-charger-connector-head-ECPML1vHQYQ?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Nuclear power & uranium (nuclear)
 
@@ -7231,6 +7240,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A person holding a cell phone with a chart on the screen: Photo by Denise Chan on Unsplash. [KZ-pyx0KLS0](https://unsplash.com/photos/a-person-holding-a-cell-phone-with-a-chart-on-the-screen-KZ-pyx0KLS0?utm_source=investiq_image_bank&utm_medium=referral)
 - A cell phone sitting on top of a table next to a laptop: Photo by PiggyBank on Unsplash. [CBbxr3JgCoo](https://unsplash.com/photos/a-cell-phone-sitting-on-top-of-a-table-next-to-a-laptop-CBbxr3JgCoo?utm_source=investiq_image_bank&utm_medium=referral)
 - A person holding a cell phone in front of a laptop: Photo by Jean-Luc Picard on Unsplash. [dU_itZ6CKXk](https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-laptop-dU_itZ6CKXk?utm_source=investiq_image_bank&utm_medium=referral)
+- Binoculars overlook the vast ocean: Photo by Stephen Harlan on Unsplash. [bKfuUy-g48Y](https://unsplash.com/photos/binoculars-overlook-the-vast-ocean-bKfuUy-g48Y?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Space economy (space)
 
