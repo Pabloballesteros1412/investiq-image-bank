@@ -206,7 +206,7 @@ python videos.py grade notas.json revision-videos   # mismas notas que review.py
   Commons quedan fuera las noticias, entrevistas, discursos, actos y sucesos. Cada tema coge primero hasta 3
   clips verticales; un clip horizontal en 4K lleva `vertical_crop_ok` (se puede recortar a 9:16 sin perder
   calidad). Como mucho 2 clips del mismo autor por tema, y cada clip se usa una sola vez en todo el banco.
-- **Revisión.** Las notas van a `bank/review.json` con las de las fotos. Los clips de Pixabay y de la NASA se
+- **Revisión.** Las notas van a `bank/video_review.json` (aparte de las de las fotos). Los clips de Pixabay y de la NASA se
   publican salvo que tengan nota 1 o 2; los de Commons, solo con nota 3.
 - **Archivos.** `bank/video_manifest.json` (todo lo elegido) y, para el chat, `bank/videos/index.json` y
   `bank/videos/<ID>.json` (solo lo publicado). El bloque para pegar en el chat está en `CAROUSEL_CHAT.md`.

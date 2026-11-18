@@ -340,7 +340,7 @@ Decisions (Pablo, 4 Nov 2026):
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/
   TikTok/Shorts and horizontal), **10 clips per topic and sector** to start (~480; companies later), and **Pixabay** as the
   main source. Pexels still issues no keys, Unsplash has no video, and Commons video is scarce and documentary.
-- `videos.py` (tests: `test_videos.py`, 10, offline). Linked, not copied. Sources: `PixabayVideo` (needs
+- `videos.py` (tests: `test_videos.py`, 11, offline). Linked, not copied. Sources: `PixabayVideo` (needs
   **`PIXABAY_API_KEY` as an environment variable**: the key goes in the query string, so a network secret cannot carry
   it; Pablo first tried a network secret with host `pixabay.api.com` (wrong host as well) and was told to delete it and
   use an environment variable, then start a new session), `CommonsVideo` (CC0/PD/CC BY only, no BY-SA: a reel cut from
@@ -351,9 +351,11 @@ Decisions (Pablo, 4 Nov 2026):
   published stock photos first; a subject stops searching at target + 3 shots with candidates and 3 verticals (max 25
   searches per source).
 - Files: `bank/video_manifest.json`; for the chat `bank/videos/index.json` + `bank/videos/<ID>.json`. Grades in
-  `bank/review.json` (Pixabay/NASA published unless graded < 3, Commons only grade 3). Review: `python videos.py sheets
+  `bank/video_review.json`, apart from the photos' `review.json` so a photo session and a video session never edit the
+  same file (Pixabay/NASA published unless graded < 3, Commons only grade 3). Review: `python videos.py sheets
   DIR` (3 frames per clip: NASA's own stills, Commons thumbnails with `seek=`, Pixabay via ffmpeg from the tiny file),
-  `python videos.py grade G.json DIR` (same format as review.py; reindexes). `CAROUSEL_CHAT.md` has the chat block.
+  `python videos.py grade G.json DIR` (same format as review.py; reindexes). A video session touches only `videos.py`,
+  `test_videos.py`, `bank/video_manifest.json`, `bank/video_review.json`, `bank/videos/` and its own CLAUDE.md section. `CAROUSEL_CHAT.md` has the chat block.
 - Trial without Pixabay (Commons + NASA, oil/tariffs/space, in a scratch copy of the bank): Commons fills places with
   word matches and news (a barrel organ for "oil barrel", seized tankers), hence the stricter rules above; good ones
   exist (Port of Cork aerials, Rotterdam locks). Nothing built in the real bank yet.

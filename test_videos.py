@@ -135,15 +135,25 @@ class Picking(unittest.TestCase):
             # a clip graded 2 is hidden at once and replaced on a rebuild; the others stay
             m = V.load(d)
             first = m["gold"]["videos"][0]["file"]
-            rv = B.load_review(d)
+            rv = V.load_review(d)
             rv["grades"][first] = 2
-            B.save_review(rv, d)
+            V.save_review(rv, d)
+            self.assertEqual(json.loads((Path(d) / "review.json").read_text())["grades"], {})   # photos' grades untouched
             self.assertEqual(V.index(d), 3)
             V.build(bank=d, catalog=cat, srcs=[FakeSource(self.hits)], target=4, redo=True, log=lambda *a: None)
             files = [v["file"] for v in V.load(d)["gold"]["videos"]]
             self.assertNotIn(first, files)
             self.assertEqual(len(files), 4)
             self.assertEqual(files[:3], [v["file"] for v in m["gold"]["videos"][1:]])  # kept, in their order
+
+    def test_grades_from_sheets_go_to_their_own_file(self):
+        with tempfile.TemporaryDirectory() as d:
+            (Path(d) / "sheets.json").write_text(json.dumps({"sheet-001": {"1": {"subject": "gold", "file": "pixabay-video:1"},
+                                                                           "2": {"subject": "gold", "file": "File:X.webm"}}}))
+            (Path(d) / "g.json").write_text(json.dumps({"sheet-001": {"3": [2]}}))
+            self.assertEqual(V.grade(Path(d) / "g.json", d, bank=d), {1: 1, 2: 0, 3: 1})
+            self.assertEqual(V.load_review(d)["grades"], {"File:X.webm": 3, "pixabay-video:1": 1})
+            self.assertFalse((Path(d) / "review.json").exists())
 
     def test_commons_clips_need_grade_three(self):
         v = {"file": "File:X.webm", "provider": "commons"}

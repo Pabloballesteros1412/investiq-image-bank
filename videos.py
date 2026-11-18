@@ -24,8 +24,8 @@ marked vertical_crop_ok: a 9:16 crop at 1080 x 1920 needs no upscaling.
 Searches: the topic's own catalog shots (catalog.json), the ones that already gave published stock photos first.
 
 Files: bank/video_manifest.json (every pick, graded or not) and what the chat reads, bank/videos/index.json and
-bank/videos/<ID>.json (published clips only). Grades go to bank/review.json with the photos' (3 best, 2 plain,
-1 reject): Pixabay and NASA clips are published unless graded below 3, Commons clips only with grade 3, and a
+bank/videos/<ID>.json (published clips only). Grades go to bank/video_review.json, apart from the photos' so the
+photo and video work never edit the same file (3 best, 2 plain, 1 reject, as in RUBRIC.md): Pixabay and NASA clips are published unless graded below 3, Commons clips only with grade 3, and a
 clip graded below 3 is never picked again. A rebuild (--redo) keeps a subject's published clips and fills the
 free places. Commands:
 
@@ -54,6 +54,7 @@ SEARCH_ROOM = 3                  # searches with candidates beyond the target be
 GAP = 0.7                        # seconds between uncached Pixabay requests (its limit: 100 a minute)
 FRAMES = (0.15, 0.5, 0.85)       # where the review frames are taken, as a share of the clip's length
 MANIFEST = "video_manifest.json"
+REVIEW = "video_review.json"
 FRAME_CACHE = B.HERE / ".cache" / "video_frames"
 
 BAD = re.compile(r"\b(animation|animated|anime|cartoons?|cgi|motion ?graphics?|3d|renders?|rendered|rendering|"
@@ -336,6 +337,37 @@ def save(m, bank=B.BANK):
     B.write_atomic(Path(bank) / MANIFEST, json.dumps(m, indent=1, ensure_ascii=False))
 
 
+def load_review(bank=B.BANK):
+    p = Path(bank) / REVIEW
+    rv = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+    rv.setdefault("grades", {})
+    return rv
+
+
+def save_review(rv, bank=B.BANK):
+    rv = {"about": "Grades of the video clips checked by eye (videos.py sheets / grade): 3 best, 2 plain, 1 reject. "
+                   "Pixabay and NASA clips are published unless graded below 3, Commons clips only with grade 3; a clip "
+                   "graded below 3 is never picked again.",
+          "updated": date.today().isoformat(), "grades": dict(sorted(rv.get("grades", {}).items()))}
+    B.write_atomic(Path(bank) / REVIEW, json.dumps(rv, indent=1, ensure_ascii=False))
+
+
+def grade(grades_file, sheets_dir, bank=B.BANK):
+    """Merge grades given per sheet tile (review.py's format) into bank/video_review.json; tiles not listed get 1."""
+    idx = json.loads((Path(sheets_dir) / "sheets.json").read_text(encoding="utf-8"))
+    given = json.loads(Path(grades_file).read_text(encoding="utf-8"))
+    rv, count = load_review(bank), {1: 0, 2: 0, 3: 0}
+    for name, tiles in idx.items():
+        if name not in given:
+            continue
+        g = {str(t): int(k) for k, ts in given[name].items() for t in ts}
+        for t, ref in tiles.items():
+            rv["grades"][ref["file"]] = g.get(t, 1)
+            count[g.get(t, 1)] += 1
+    save_review(rv, bank)
+    return count
+
+
 def published(v, grades):
     """Whether a clip reaches the chat: Commons clips with grade 3, the others unless graded below 3."""
     g = grades.get(v["file"])
@@ -348,7 +380,7 @@ def build(bank=B.BANK, catalog=None, srcs=None, only=None, redo=False, target=TA
     srcs = sources(log=log) if srcs is None else srcs
     if not any(s.name == "pixabay" for s in srcs):
         log("  (no PIXABAY_API_KEY: Commons and NASA only)")
-    m, rv = load(bank), B.load_review(bank)
+    m, rv, prv = load(bank), load_review(bank), B.load_review(bank)
     photos = B.load_manifest(bank)
     subjects = [s for s in cat["subjects"] if s.get("kind") in ("topic", "sector") and (not only or s["id"] in only)]
     for i, s in enumerate(subjects, 1):
@@ -358,7 +390,7 @@ def build(bank=B.BANK, catalog=None, srcs=None, only=None, redo=False, target=TA
         keep = [v for v in (old or {}).get("videos", []) if published(v, rv["grades"])]
         used = {v["file"] for sid, e in m.items() if sid != s["id"] for v in e.get("videos", [])}
         log(f"{i:3}/{len(subjects)} {s['id']}")
-        vids = subject_videos(s, srcs, rv["grades"], used, keep, target, photos.get(s["id"]), rv, log)
+        vids = subject_videos(s, srcs, rv["grades"], used, keep, target, photos.get(s["id"]), prv, log)
         m[s["id"]] = {"kind": s["kind"], "name": s["name"], "target": target, "checked": date.today().isoformat(), "videos": vids}
         save(m, bank)
         nv = sum(1 for v in vids if v["orientation"] == "vertical")
@@ -383,7 +415,7 @@ RULES = [
 def index(bank=B.BANK, base_url=B.BASE_URL):
     """bank/videos/index.json and bank/videos/<ID>.json: the published clips, for the chat."""
     bank = Path(bank)
-    m, rv = load(bank), B.load_review(bank)
+    m, rv = load(bank), load_review(bank)
     base = base_url.rstrip("/") + "/videos/"
     out_dir = bank / "videos"
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -467,7 +499,7 @@ def sheets(out, bank=B.BANK, cols=3, rows=6, box=200):
     import review
     out = Path(out)
     out.mkdir(parents=True, exist_ok=True)
-    m, rv = load(bank), B.load_review(bank)
+    m, rv = load(bank), load_review(bank)
     todo = [(sid, v) for sid, e in m.items() for v in e.get("videos", []) if v["file"] not in rv["grades"]]
     per, tw, label = cols * rows, 3 * box + 8, 44
     idx, f_num, f_bold, f_text = {}, review.font(22, True), review.font(13, True), review.font(12)
@@ -508,8 +540,7 @@ if __name__ == "__main__":
     elif a[:1] == ["sheets"] and len(a) > 1:
         print(sheets(a[1]), "sheets")
     elif a[:1] == ["grade"] and len(a) > 2:
-        import review
-        print(review.grade(a[1], a[2]))
+        print(grade(a[1], a[2]))
         print("videos:", index(), "clips published")
     elif a[:1] == ["index"]:
         print("videos:", index(), "clips published")
