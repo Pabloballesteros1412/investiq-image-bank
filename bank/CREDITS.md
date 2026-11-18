@@ -7482,6 +7482,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Labs and facilities in the London Centre for Nanotechnology. Photo: O. Usher (UCL MAPS): UCL Mathematical and Physical Sciences from London, UK, CC BY 2.0, via Wikimedia Commons. [Cleanroom (9150586122).jpg](https://commons.wikimedia.org/wiki/File:Cleanroom_(9150586122).jpg)
 - Gold Ion Trap: National Institute of Standards and Technology, public domain, via Wikimedia Commons. [Gold Ion Trap (6029437325).jpg](https://commons.wikimedia.org/wiki/File:Gold_Ion_Trap_(6029437325).jpg)
 - Turned-on black digital device: Photo by LaserWorld LaserBeam on Unsplash. [Qd_wcM52Z9Y](https://unsplash.com/photos/turned-on-black-digital-device-Qd_wcM52Z9Y?utm_source=investiq_image_bank&utm_medium=referral)
+- Setup laser femtosegundo: Chenilab, CC BY-SA 4.0, via Wikimedia Commons. [Setup laser femtosegundo.jpg](https://commons.wikimedia.org/wiki/File:Setup_laser_femtosegundo.jpg)
 
 ## Robotics & automation (robotics)
 
