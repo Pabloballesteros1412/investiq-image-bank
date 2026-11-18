@@ -5408,6 +5408,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Turned-on black smartwatch on white surface: Photo by Emiliano Cicero on Unsplash. [OKZqs-Vseko](https://unsplash.com/photos/turned-on-black-smartwatch-on-white-surface-OKZqs-Vseko?utm_source=investiq_image_bank&utm_medium=referral)
 - Black flat screen computer monitor on brown wooden desk: Photo by Zachary Nelson on Unsplash. [9856jObeogs](https://unsplash.com/photos/black-flat-screen-computer-monitor-on-brown-wooden-desk-9856jObeogs?utm_source=investiq_image_bank&utm_medium=referral)
 - A computer monitor sitting on top of a desk: Photo by Charles Patterson on Unsplash. [5-LWQapjG_Q](https://unsplash.com/photos/a-computer-monitor-sitting-on-top-of-a-desk-5-LWQapjG_Q?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and blue bluetooth earbuds: Photo by TheRegisti on Unsplash. [qt9_OfTaaeY](https://unsplash.com/photos/black-and-blue-bluetooth-earbuds-qt9_OfTaaeY?utm_source=investiq_image_bank&utm_medium=referral)
+- Black flat screen computer monitor beside black and gray remote control: Photo by Linus Mimietz on Unsplash. [01hQvBUC7rI](https://unsplash.com/photos/black-flat-screen-computer-monitor-beside-black-and-gray-remote-control-01hQvBUC7rI?utm_source=investiq_image_bank&utm_medium=referral)
+- Black cordless computer mouse on black surface: Photo by Pascal M. on Unsplash. [4PchFKrUw84](https://unsplash.com/photos/black-cordless-computer-mouse-on-black-surface-4PchFKrUw84?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Health care sector (sector-health)
 
@@ -5513,6 +5516,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A city street filled with lots of tall buildings: Photo by Frans Ruiter on Unsplash. [phNfcr2EH00](https://unsplash.com/photos/a-city-street-filled-with-lots-of-tall-buildings-phNfcr2EH00?utm_source=investiq_image_bank&utm_medium=referral)
 - Bank of Lithuania, Eastern Facade, Kaunas, Lithuania, 1924 - 1927: Ke an, CC BY-SA 4.0, via Wikimedia Commons. [Bank of Lithuania, Eastern Facade, Kaunas, Lithuania, 1924 - 1927.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_Lithuania,_Eastern_Facade,_Kaunas,_Lithuania,_1924_-_1927.jpg)
 - A large building with a lot of glass doors: Photo by Declan Sun on Unsplash. [qHKmtr6X1tc](https://unsplash.com/photos/a-large-building-with-a-lot-of-glass-doors-qHKmtr6X1tc?utm_source=investiq_image_bank&utm_medium=referral)
+- New York Stock Exchange August 2017 04: Arild Vågen, CC BY-SA 4.0, via Wikimedia Commons. [New York Stock Exchange August 2017 04.jpg](https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_August_2017_04.jpg)
 
 ## Consumer discretionary sector (sector-consumer-discretionary)
 
@@ -5617,6 +5621,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large satellite dish sitting on top of a metal platform: Photo by Bernd 📷 Dittrich on Unsplash. [GQwy-axAHBE](https://unsplash.com/photos/a-large-satellite-dish-sitting-on-top-of-a-metal-platform-GQwy-axAHBE?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and red corded headphones on white table: Photo by Fausto Sandoval on Unsplash. [w5m3PIGvkqI](https://unsplash.com/photos/black-and-red-corded-headphones-on-white-table-w5m3PIGvkqI?utm_source=investiq_image_bank&utm_medium=referral)
 - A large satellite dish sitting on top of a metal structure: Photo by Ambitious Studio* | Rick Barrett on Unsplash. [-SbYbZdp5q8](https://unsplash.com/photos/a-large-satellite-dish-sitting-on-top-of-a-metal-structure--SbYbZdp5q8?utm_source=investiq_image_bank&utm_medium=referral)
+- Television studio HTV: Krish Dulal, CC BY-SA 3.0, via Wikimedia Commons. [Television studio HTV.jpg](https://commons.wikimedia.org/wiki/File:Television_studio_HTV.jpg)
 
 ## Industrial sector (sector-industrials)
 
@@ -6296,6 +6301,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A white car is on a assembly line: Photo by Hyundai Motor Group on Unsplash. [mPreSMYIr1E](https://unsplash.com/photos/a-white-car-is-on-a-assembly-line-mPreSMYIr1E?utm_source=investiq_image_bank&utm_medium=referral)
 - Autonomous vehicle driving on a city street: Photo by Victor Svistunov on Unsplash. [WHVn6Qid6Hs](https://unsplash.com/photos/autonomous-vehicle-driving-on-a-city-street-WHVn6Qid6Hs?utm_source=investiq_image_bank&utm_medium=referral)
 - Programming code: Martin Vorel, CC BY-SA 4.0, via Wikimedia Commons. [Programming code.jpg](https://commons.wikimedia.org/wiki/File:Programming_code.jpg)
+- Tesla-NVIDIA GPU cluster: ChrisDag, CC BY 2.0, via Wikimedia Commons. [Tesla-NVIDIA GPU cluster (3706444821).jpg](https://commons.wikimedia.org/wiki/File:Tesla-NVIDIA_GPU_cluster_(3706444821).jpg)
 
 ## AI data centers & power demand (datacenters)
 
@@ -6964,6 +6970,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Electrify America electric vehicle charging station, Valdosta: Michael Rivera, CC BY-SA 4.0, via Wikimedia Commons. [Electrify America electric vehicle charging station, Valdosta.jpg](https://commons.wikimedia.org/wiki/File:Electrify_America_electric_vehicle_charging_station,_Valdosta.jpg)
 - A car is parked in front of a gas pump: Photo by Bram Van Oost on Unsplash. [J6005MiIjQk](https://unsplash.com/photos/a-car-is-parked-in-front-of-a-gas-pump-J6005MiIjQk?utm_source=investiq_image_bank&utm_medium=referral)
 - A green sign that says electric vehicle charging station: Photo by Matt Bloom on Unsplash. [0Xp_MBkkdBo](https://unsplash.com/photos/a-green-sign-that-says-electric-vehicle-charging-station-0Xp_MBkkdBo?utm_source=investiq_image_bank&utm_medium=referral)
+- EV Charging station, Mothitang: Christopher J. Fynn, CC BY-SA 4.0, via Wikimedia Commons. [EV Charging station, Mothitang.jpg](https://commons.wikimedia.org/wiki/File:EV_Charging_station,_Mothitang.jpg)
 
 ## Nuclear power & uranium (nuclear)
 
@@ -7067,6 +7074,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A fighter jet sitting on top of an airport tarmac: Photo by Albert Stoynov on Unsplash. [PlnSc3b3dVI](https://unsplash.com/photos/a-fighter-jet-sitting-on-top-of-an-airport-tarmac-PlnSc3b3dVI?utm_source=investiq_image_bank&utm_medium=referral)
 - A large ship in the water: Photo by Vidar Nordli-Mathisen on Unsplash. [GsuPuCpVcN4](https://unsplash.com/photos/a-large-ship-in-the-water-GsuPuCpVcN4?utm_source=investiq_image_bank&utm_medium=referral)
 - Pilot stands before a large military helicopter on tarmac: Photo by luke fancher on Unsplash. [5LyTzNf1yt0](https://unsplash.com/photos/pilot-stands-before-a-large-military-helicopter-on-tarmac-5LyTzNf1yt0?utm_source=investiq_image_bank&utm_medium=referral)
+- Blue Impulse Kawasaki T-4 landing Naha Air Show 2018-61: Balon Greyjoy, CC0, via Wikimedia Commons. [20181208 Blue Impulse Kawasaki T-4 landing Naha Air Show 2018-61.jpg](https://commons.wikimedia.org/wiki/File:20181208_Blue_Impulse_Kawasaki_T-4_landing_Naha_Air_Show_2018-61.jpg)
 
 ## Consumer spending & retail (consumer)
 
@@ -7328,6 +7336,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Yellow and black measuring tape: Photo by Immo Wegmann on Unsplash. [1abCQ_3g_UY](https://unsplash.com/photos/yellow-and-black-measuring-tape-1abCQ_3g_UY?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and silver stethoscope on white surface: Photo by Markus Frieauff on Unsplash. [IJ0KiXl4uys](https://unsplash.com/photos/black-and-silver-stethoscope-on-white-surface-IJ0KiXl4uys?utm_source=investiq_image_bank&utm_medium=referral)
 - Vegetable salad on white ceramic plate: Photo by Tania Melnyczuk on Unsplash. [xeTv9N2FjXA](https://unsplash.com/photos/vegetable-salad-on-white-ceramic-plate-xeTv9N2FjXA?utm_source=investiq_image_bank&utm_medium=referral)
+- Vial caps: Epolk, CC BY-SA 4.0, via Wikimedia Commons. [Vial caps.jpg](https://commons.wikimedia.org/wiki/File:Vial_caps.jpg)
 
 ## US politics & markets (politics)
 
@@ -7483,6 +7492,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Gold Ion Trap: National Institute of Standards and Technology, public domain, via Wikimedia Commons. [Gold Ion Trap (6029437325).jpg](https://commons.wikimedia.org/wiki/File:Gold_Ion_Trap_(6029437325).jpg)
 - Turned-on black digital device: Photo by LaserWorld LaserBeam on Unsplash. [Qd_wcM52Z9Y](https://unsplash.com/photos/turned-on-black-digital-device-Qd_wcM52Z9Y?utm_source=investiq_image_bank&utm_medium=referral)
 - Setup laser femtosegundo: Chenilab, CC BY-SA 4.0, via Wikimedia Commons. [Setup laser femtosegundo.jpg](https://commons.wikimedia.org/wiki/File:Setup_laser_femtosegundo.jpg)
+- Superconductor ring and magnet in levitation: Julien Bobroff ( user:Jubobroff ), Frederic Bouquet ( user:Fbouquet ), LPS , Orsay, France, CC BY-SA 3.0, via Wikimedia Commons. [Superconductor ring and magnet in levitation.JPG](https://commons.wikimedia.org/wiki/File:Superconductor_ring_and_magnet_in_levitation.JPG)
 
 ## Robotics & automation (robotics)
 
@@ -7586,6 +7596,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Black and silver padlock in grayscale photography: Photo by Vanna Phon on Unsplash. [hRXIKdxoaPo](https://unsplash.com/photos/black-and-silver-padlock-in-grayscale-photography-hRXIKdxoaPo?utm_source=investiq_image_bank&utm_medium=referral)
 - Black USB flash drive: Photo by Brina Blum on Unsplash. [Bb_X4JgSqIM](https://unsplash.com/photos/black-usb-flash-drive-Bb_X4JgSqIM?utm_source=investiq_image_bank&utm_medium=referral)
 - Aluminium numeric security key on an orange stucco wall: Photo by Nilo Velez on WordPress.org Photos, CC0. [69305](https://wordpress.org/photos/photo/69465f86f9/)
+- Physical Multi Factor Authentication: MaddalenaCatania, CC BY-SA 4.0, via Wikimedia Commons. [Physical Multi Factor Authentication.jpg](https://commons.wikimedia.org/wiki/File:Physical_Multi_Factor_Authentication.jpg)
 
 ## India economy (india)
 

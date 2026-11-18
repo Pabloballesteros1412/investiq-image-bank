@@ -2025,7 +2025,15 @@
     "torii",
     "pagoda",
     "sakura",
-    "japanese garden"
+    "japanese garden",
+    "japanese lanterns",
+    "neon tokyo",
+    "tokyo station",
+    "yokohama",
+    "hokkaido",
+    "harajuku",
+    "nara",
+    "hiroshima"
   ]},
   {"id": "metals", "kind": "topic", "name": "Industrial metals & mining", "aliases": ["metals", "copper", "silver", "lithium", "mining", "commodities"], "shots": [
    "steelworks",
@@ -2108,7 +2116,13 @@
     "cruise",
     "airplane window",
     "plane",
-    "airport gate"
+    "airport gate",
+    "departure board",
+    "plane wing",
+    "resort pool",
+    "camper van",
+    "runway",
+    "airline"
   ]},
   {"id": "luxury", "kind": "topic", "name": "Luxury goods", "aliases": ["luxury", "luxury goods", "lvmh", "hermes", "watches"], "shots": [
    "luxury",
@@ -2139,7 +2153,19 @@
     "designer store",
     "perfume bottle",
     "luxury boutique",
-    "yacht marina"
+    "yacht marina",
+    "designer bag",
+    "high heels",
+    "leather bag",
+    "penthouse",
+    "mansion",
+    "silk scarf",
+    "fragrance",
+    "gemstones",
+    "pearls",
+    "cufflinks",
+    "fine dining",
+    "caviar"
   ]},
   {"id": "sector-tech", "kind": "sector", "name": "Technology sector", "gics": "Information Technology", "aliases": ["information technology"], "shots": [
    "server room",
