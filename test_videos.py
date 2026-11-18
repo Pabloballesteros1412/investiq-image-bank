@@ -93,8 +93,12 @@ class Candidates(unittest.TestCase):
         self.assertEqual(V.credit_line(c), "Video: NASA/Kim Shiflett, public domain")
         self.assertTrue(V.NasaVideo.third({"secondary_creator": "Rocket Lab"}))
         self.assertTrue(V.NasaVideo.third({"description": "Video credit: SpaceX"}))
+        self.assertTrue(V.NasaVideo.third({"title": "Rocket Lab Capstone Live Launch Coverage"}))
         self.assertFalse(V.NasaVideo.third(d))
         self.assertEqual(V.NasaVideo(fetch=lambda u: 1 / 0).search("gold bars"), [])   # not space: never searched
+        spaced = V.NasaVideo.candidate({"nasa_id": "A B", "title": "launch"}, ["http://images-assets.nasa.gov/video/A B/A B~orig.mp4"],
+                                       {"QuickTime:ImageWidth": 1920, "QuickTime:ImageHeight": 1080, "QuickTime:Duration": "0:00:20"})
+        self.assertEqual(spaced["url"], "https://images-assets.nasa.gov/video/A%20B/A%20B~orig.mp4")   # spaces in NASA's names
 
 
 class Picking(unittest.TestCase):

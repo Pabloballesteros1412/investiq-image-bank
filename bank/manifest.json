@@ -165372,38 +165372,35 @@
     "how": "catalog"
    },
    {
-    "shot": "digital-brain",
-    "shows": "A computer circuit board with a brain on it",
-    "file": "unsplash:_jg8xh2SsXQ",
-    "page": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_jg8xh2SsXQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGlnaXRhbCUyMGJyYWlufGVufDF8fHx8MTc5NTAwNzI1N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGlnaXRhbCUyMGJyYWlufGVufDF8fHx8MTc5NTAwNzI1N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "robotic-face",
+    "shows": "Pink or Plum Robot Face With Green Eyes",
+    "file": "File:Pink or Plum Robot Face With Green Eyes.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Pink_or_Plum_Robot_Face_With_Green_Eyes.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pink_or_Plum_Robot_Face_With_Green_Eyes.png/1920px-Pink_or_Plum_Robot_Face_With_Green_Eyes.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Pink_or_Plum_Robot_Face_With_Green_Eyes.png/500px-Pink_or_Plum_Robot_Face_With_Green_Eyes.png",
     "size": [
-     2400,
-     1350
+     1920,
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Ecliptic Graphic on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Ecliptic Graphic",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@eclipticgraphic?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/_jg8xh2SsXQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGlnaXRhbCUyMGJyYWlufGVufDF8fHx8MTc5NTAwNzI1N3ww"
+    "credit": "Bilboq, with color modifications by Singularity Utopia., public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Bilboq, with color modifications by Singularity Utopia.",
+    "year": 2014,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "glowing-circuit",
-   "algorithm",
-   "tablet-screen",
-   "computer-screen",
-   "laptop",
+   "ai-brain",
+   "neural-chip",
+   "machine-vision",
+   "deep-learning",
+   "ai-server",
    "electronics",
    "robotics"
   ],
@@ -166642,34 +166639,34 @@
     "how": "catalog"
    },
    {
-    "shot": "transmission-line",
-    "shows": "High-Voltage Transmission Line - panoramio",
-    "file": "File:High-Voltage Transmission Line - panoramio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:High-Voltage_Transmission_Line_-_panoramio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/High-Voltage_Transmission_Line_-_panoramio.jpg/1920px-High-Voltage_Transmission_Line_-_panoramio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/High-Voltage_Transmission_Line_-_panoramio.jpg/500px-High-Voltage_Transmission_Line_-_panoramio.jpg",
+    "shot": "server-aisle",
+    "shows": "Coast Guard Sector St Petersburg holds change of command ceremony at Port Tampa Bay",
+    "file": "File:Coast Guard Sector St Petersburg holds change of command ceremony at Port Tampa Bay (9110906).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coast_Guard_Sector_St_Petersburg_holds_change_of_command_ceremony_at_Port_Tampa_Bay_(9110906).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coast_Guard_Sector_St_Petersburg_holds_change_of_command_ceremony_at_Port_Tampa_Bay_%289110906%29.jpg/1280px-Coast_Guard_Sector_St_Petersburg_holds_change_of_command_ceremony_at_Port_Tampa_Bay_%289110906%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coast_Guard_Sector_St_Petersburg_holds_change_of_command_ceremony_at_Port_Tampa_Bay_%289110906%29.jpg/500px-Coast_Guard_Sector_St_Petersburg_holds_change_of_command_ceremony_at_Port_Tampa_Bay_%289110906%29.jpg",
     "size": [
-     1920,
-     1037
+     1280,
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Corey Coyle, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Corey Coyle",
-    "year": 2012,
+    "credit": "U.S. Coast Guard photo by Petty Officer 1st Class Riley Perkofski, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "U.S. Coast Guard photo by Petty Officer 1st Class Riley Perkofski",
+    "year": 2025,
     "how": "catalog"
    }
   ],
   "missing": [
    "cooling",
-   "ethernet-cable",
-   "rack-mount",
-   "diesel-generator",
+   "rack-server",
+   "fiber-cable",
+   "colocation",
    "hard-disk",
    "warehouse",
    "electric-wires",
@@ -167902,58 +167899,55 @@
     "how": "catalog"
    },
    {
-    "shot": "resistors",
-    "shows": "С5-37 Soviet wirewound resistors 02",
-    "file": "File:С5-37 Soviet wirewound resistors 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%D0%A15-37_Soviet_wirewound_resistors_02.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/%D0%A15-37_Soviet_wirewound_resistors_02.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/%D0%A15-37_Soviet_wirewound_resistors_02.jpg/500px-%D0%A15-37_Soviet_wirewound_resistors_02.jpg",
+    "shot": "silicon-die",
+    "shows": "2N6282: NPN silicon Darlington power transistor; 60V; 20A; 160W; hFE min: 750; TO-3 packaging; Manufacturer: Motorola",
+    "file": "File:2N6282 die.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2N6282_die.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2N6282_die.jpg/1920px-2N6282_die.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/2N6282_die.jpg/500px-2N6282_die.jpg",
     "size": [
-     1634,
-     1634
+     1920,
+     1536
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Retired electrician, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Retired electrician",
-    "year": 2023,
+    "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Mister rf",
+    "year": 2022,
     "how": "catalog"
    },
    {
-    "shot": "led",
-    "shows": "Black and white LED light",
-    "file": "unsplash:lwwM_dotpcs",
-    "page": "https://unsplash.com/photos/black-and-white-led-light-lwwM_dotpcs?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1545164415-0fae860defbd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bGVkfGVufDF8fHx8MTc5NTAwNzUxOXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1545164415-0fae860defbd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bGVkfGVufDF8fHx8MTc5NTAwNzUxOXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "circuit-traces",
+    "shows": "Circuit de Hanoi",
+    "file": "File:Circuit de Hanoi.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Circuit_de_Hanoi.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Circuit_de_Hanoi.png/1920px-Circuit_de_Hanoi.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Circuit_de_Hanoi.png/500px-Circuit_de_Hanoi.png",
     "size": [
-     2250,
-     1500
+     1920,
+     1497
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Justin Lane on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Justin Lane",
-    "year": 2018,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jlane56?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/lwwM_dotpcs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bGVkfGVufDF8fHx8MTc5NTAwNzUxOXww"
+    "credit": "ImTcheck, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "ImTcheck",
+    "year": 2019,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "cpu-cooler",
-   "multimeter",
+   "chip-socket",
+   "chip-design",
    "pc-build",
    "computer-hardware",
    "hardware",
@@ -169196,26 +169190,26 @@
     "how": "catalog"
    },
    {
-    "shot": "gpu-rig",
-    "shows": "NVidia G71 GPU",
-    "file": "File:NVidia G71 GPU.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NVidia_G71_GPU.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NVidia_G71_GPU.jpg/1920px-NVidia_G71_GPU.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/NVidia_G71_GPU.jpg/500px-NVidia_G71_GPU.jpg",
+    "shot": "trading-chart",
+    "shows": "CFD trading concept image",
+    "file": "File:CFD trading concept image.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CFD_trading_concept_image.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/CFD_trading_concept_image.jpg/1920px-CFD_trading_concept_image.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/CFD_trading_concept_image.jpg/500px-CFD_trading_concept_image.jpg",
     "size": [
      1920,
-     1440
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Diego3336, CC BY 2.0, via Wikimedia Commons",
+    "credit": "forextime.com, CC BY 2.0, via Wikimedia Commons",
     "licence": "CC BY 2.0",
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Diego3336",
-    "year": 2018,
+    "author": "forextime.com",
+    "year": 2021,
     "how": "catalog"
    }
   ],
@@ -170481,12 +170475,38 @@
     "track": "https://api.unsplash.com/photos/VNhPJ85ccNo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdvbGQlMjBjb2luJTIwc3RhY2t8ZW58MXx8fHwxNzk0OTY3MzQ5fDA"
    },
    {
-    "shot": "gold-dome",
-    "shows": "The dome of a building with a clock on it",
-    "file": "unsplash:HmfCHjMLPsU",
-    "page": "https://unsplash.com/photos/the-dome-of-a-building-with-a-clock-on-it-HmfCHjMLPsU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1635264370992-756926084f9f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z29sZCUyMGRvbWV8ZW58MXx8fHwxNzk1MDA3NzM1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1635264370992-756926084f9f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z29sZCUyMGRvbWV8ZW58MXx8fHwxNzk1MDA3NzM1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "gold-glitter",
+    "shows": "A close up of a gold glitter background",
+    "file": "unsplash:ISaqs4jwogA",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-gold-glitter-background-ISaqs4jwogA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1631636507718-f8efdca99602?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdvbGQlMjBnbGl0dGVyfGVufDF8fHx8MTc5NTAzNjU2MXww&ixlib=rb-4.1.0&w=2131&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1631636507718-f8efdca99602?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdvbGQlMjBnbGl0dGVyfGVufDF8fHx8MTc5NTAzNjU2MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2131,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ekaterina Grosheva on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Ekaterina Grosheva",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kitkat93?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ISaqs4jwogA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdvbGQlMjBnbGl0dGVyfGVufDF8fHx8MTc5NTAzNjU2MXww"
+   },
+   {
+    "shot": "gold-pendant",
+    "shows": "Gold floral pendant necklace on blue fabric",
+    "file": "unsplash:AcfG37WxGnA",
+    "page": "https://unsplash.com/photos/gold-floral-pendant-necklace-on-blue-fabric-AcfG37WxGnA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1758995115560-59c10d6cc28f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdvbGQlMjBwZW5kYW50fGVufDF8fHx8MTc5NTAzNjU3NHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1758995115560-59c10d6cc28f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdvbGQlMjBwZW5kYW50fGVufDF8fHx8MTc5NTAzNjU3NHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -170495,49 +170515,23 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Paul Moody on Unsplash",
+    "credit": "Photo by Zayed Ahmed Zadu on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Paul Moody",
-    "year": 2021,
+    "author": "Zayed Ahmed Zadu",
+    "year": 2025,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@pjonesmoody?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/HmfCHjMLPsU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Z29sZCUyMGRvbWV8ZW58MXx8fHwxNzk1MDA3NzM1fDA"
-   },
-   {
-    "shot": "gold-ornament",
-    "shows": "A close up of a christmas ornament on a tree",
-    "file": "unsplash:Thpv80UYLzE",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-christmas-ornament-on-a-tree-Thpv80UYLzE?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1671875405171-c846b8a30c71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMG9ybmFtZW50fGVufDF8fHx8MTc5NTAwNzc4MXww&ixlib=rb-4.1.0&w=2273&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1671875405171-c846b8a30c71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMG9ybmFtZW50fGVufDF8fHx8MTc5NTAwNzc4MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2273,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Cristina Glebova on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Cristina Glebova",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@cristina_glebova?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Thpv80UYLzE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMG9ybmFtZW50fGVufDF8fHx8MTc5NTAwNzc4MXww"
+    "author_url": "https://unsplash.com/@zayed_ahmed_zadu?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/AcfG37WxGnA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdvbGQlMjBwZW5kYW50fGVufDF8fHx8MTc5NTAzNjU3NHww"
    }
   ],
   "missing": [
    "fort-knox",
-   "gold-foil",
-   "golden-crown",
-   "gold-medal",
+   "gold-cufflinks",
+   "gold-scale",
+   "gold-plated",
    "golden-statue",
    "gold-mining",
    "gold-ore-rock",
@@ -171784,11 +171778,11 @@
    },
    {
     "shot": "opec",
-    "shows": "Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, - MGR3614",
-    "file": "File:Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, 2025-05-05 - MGR3614.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais,_2025-05-05_-_MGR3614.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3614.jpg/1920px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3614.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3614.jpg/500px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3614.jpg",
+    "shows": "Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, - MGR3608",
+    "file": "File:Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, 2025-05-05 - MGR3608.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais,_2025-05-05_-_MGR3608.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3608.jpg/1920px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3608.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3608.jpg/500px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3608.jpg",
     "size": [
      1920,
      1280
@@ -171809,37 +171803,37 @@
     ]
    },
    {
-    "shot": "motor-oil",
-    "shows": "Man refilling motor oil on car engine bay",
-    "file": "unsplash:V37iTrYZz2E",
-    "page": "https://unsplash.com/photos/man-refilling-motor-oil-on-car-engine-bay-V37iTrYZz2E?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bW90b3IlMjBvaWx8ZW58MXx8fHwxNzk1MDEwNjI1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bW90b3IlMjBvaWx8ZW58MXx8fHwxNzk1MDEwNjI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "oil-rig-sunset",
+    "shows": "Oil rig at sea during a dramatic sunset",
+    "file": "unsplash:9BOkOMB3Rug",
+    "page": "https://unsplash.com/photos/oil-rig-at-sea-during-a-dramatic-sunset-9BOkOMB3Rug?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1759956214507-af3b18cf292f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMHJpZyUyMHN1bnNldHxlbnwxfHx8fDE3OTUwMzY1ODR8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1759956214507-af3b18cf292f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMHJpZyUyMHN1bnNldHxlbnwxfHx8fDE3OTUwMzY1ODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2250,
-     1500
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Tim Mossholder on Unsplash",
+    "credit": "Photo by Gustavo Sánchez on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Tim Mossholder",
-    "year": 2017,
+    "author": "Gustavo Sánchez",
+    "year": 2025,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@timmossholder?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/V37iTrYZz2E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8bW90b3IlMjBvaWx8ZW58MXx8fHwxNzk1MDEwNjI1fDA"
+    "author_url": "https://unsplash.com/@gustavo0351?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/9BOkOMB3Rug/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMHJpZyUyMHN1bnNldHxlbnwxfHx8fDE3OTUwMzY1ODR8MA"
    }
   ],
   "missing": [
-   "oil-drum",
-   "fuel-tank",
-   "storage-tanks",
-   "derrick",
+   "tank-farm",
+   "oil-storage-tank",
+   "gasoline-nozzle",
+   "jerry-can",
    "gas-prices",
    "petrol-pump",
    "offshore-rig",
@@ -173151,36 +173145,36 @@
     "track_pending": true
    },
    {
-    "shot": "gantry-crane",
-    "shows": "Gantry crane, Sète",
-    "file": "File:Gantry crane, Sète.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gantry_crane,_S%C3%A8te.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gantry_crane%2C_S%C3%A8te.jpg/1920px-Gantry_crane%2C_S%C3%A8te.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gantry_crane%2C_S%C3%A8te.jpg/500px-Gantry_crane%2C_S%C3%A8te.jpg",
+    "shot": "freight",
+    "shows": "Heidenheimer-Hunter Building -- Galveston",
+    "file": "File:Heidenheimer-Hunter Building -- Galveston.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Heidenheimer-Hunter_Building_--_Galveston.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heidenheimer-Hunter_Building_--_Galveston.jpg/1920px-Heidenheimer-Hunter_Building_--_Galveston.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heidenheimer-Hunter_Building_--_Galveston.jpg/500px-Heidenheimer-Hunter_Building_--_Galveston.jpg",
     "size": [
      1920,
-     1273
+     1763
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Christian Ferrer, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Christian Ferrer",
-    "year": 2018,
+    "credit": "Jim Evans, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jim Evans",
+    "year": 2020,
     "how": "catalog"
    }
   ],
   "missing": [
-   "tugboat",
-   "trade-port",
-   "shipping-label",
-   "made-in-china",
-   "import-goods",
-   "harbor",
+   "cargo-container",
+   "steel-import",
+   "customs-border",
+   "truck-border",
+   "forklift-container",
+   "warehouse-pallets",
    "container-terminal",
    "crane",
    "shipping",

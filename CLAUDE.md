@@ -358,7 +358,10 @@ Decisions (Pablo, 4 Nov 2026):
   `test_videos.py`, `bank/video_manifest.json`, `bank/video_review.json`, `bank/videos/` and its own CLAUDE.md section. `CAROUSEL_CHAT.md` has the chat block.
 - Trial without Pixabay (Commons + NASA, oil/tariffs/space, in a scratch copy of the bank): Commons fills places with
   word matches and news (a barrel organ for "oil barrel", seized tankers), hence the stricter rules above; good ones
-  exist (Port of Cork aerials, Rotterdam locks). Nothing built in the real bank yet.
+  exist (Port of Cork aerials, Rotterdam locks). A space trial first hung: NASA lists some asset addresses with raw
+  spaces, and each one cost ~150 s of retries (fixed: `NasaVideo.href`); it then took a few minutes and gave 10 clips,
+  3 of them good (Artemis II with the Moon, vertical; Webb encapsulation; a Mars panorama). NASA titles with
+  trailers, talks, interviews, recruitment or launch providers are now left out. Nothing built in the real bank yet.
 - **Next (in a session that has PIXABAY_API_KEY)**: `python videos.py build` (48 subjects, ~1,000 Pixabay searches at
   most, paced under its 100/min limit; can run alongside an image build, but both use the Commons API), then
   `python videos.py sheets DIR`, grade by eye, `grade`, commit, PR. Videos never mix into `bank/index.json`.

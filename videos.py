@@ -64,7 +64,8 @@ NEWS = re.compile(r"\b(news|interviews?|speech(?:es)?|press conference|briefing|
                   r"debates?|hearings?|lectures?|webinars?|podcasts?|trailers?|parades?|campaign|documentary|"
                   r"explained|episode|tagesschau|cramer|keynote|panel|summit|conference|award|festival|"
                   r"protests?|vlog|tutorial|how to|minecraft|gameplay|seized?|seizure|blockade|crash(?:es)?|cctv|"
-                  r"accidents?|attacks?|explosions?|disasters?|police|voa|actualitatea|newsreel|footage of)\b", re.I)
+                  r"accidents?|attacks?|explosions?|disasters?|police|voa|actualitatea|newsreel|footage of|"
+                  r"discuss(?:es|ing|ion)?|talks?|q ?& ?a|live coverage|countdown|recruit\w*|careers?)\b", re.I)
 
 
 # ---------------------------------------------------------------------------------------------------- sources
@@ -155,15 +156,20 @@ class NasaVideo:
             return []
         url = "https://images-api.nasa.gov/search?" + urllib.parse.urlencode({"q": q, "media_type": "video", "page_size": 20})
         out = []
-        for it in self.fetch(url).get("collection", {}).get("items", [])[:12]:
+        tried = 0
+        for it in self.fetch(url).get("collection", {}).get("items", []):
             d = (it.get("data") or [{}])[0]
             nid = d.get("nasa_id")
-            if not nid or self.third(d):
-                continue
+            text = " ".join([d.get("title") or "", d.get("description") or "", " ".join(d.get("keywords") or [])])
+            if not nid or self.third(d) or not B.stock_match({"description": text}, {}, q):
+                continue  # each clip costs two more requests (its files and its metadata): only likely ones
+            if tried >= 6:
+                break
+            tried += 1
             try:
                 hrefs = [x["href"] for x in self.fetch(f"https://images-api.nasa.gov/asset/{urllib.parse.quote(nid)}")
                          .get("collection", {}).get("items", [])]
-                meta = next((self.fetch(h.replace("http://", "https://")) for h in hrefs if h.endswith("metadata.json")), {})
+                meta = next((self.fetch(self.href(h)) for h in hrefs if h.endswith("metadata.json")), {})
             except Exception:
                 continue
             out.append(self.candidate(d, hrefs, meta))
@@ -172,12 +178,18 @@ class NasaVideo:
     @staticmethod
     def third(d):
         credit = re.search(r"(?:video|footage|image|photo) credit:?\s*([^.;\n]+)", d.get("description") or "", re.I)
-        return bool(stock.Nasa.THIRD.search(" ".join([d.get("photographer") or "", d.get("secondary_creator") or ""]))
+        # a launch provider in the title too: its launch footage is usually the provider's own camera feed
+        return bool(stock.Nasa.THIRD.search(" ".join([d.get("photographer") or "", d.get("secondary_creator") or "", d.get("title") or ""]))
                     or (credit and "nasa" not in credit.group(1).lower()))
 
     @staticmethod
+    def href(h):
+        """An asset address as NASA lists it ('http://', raw spaces in some names) made fetchable."""
+        return urllib.parse.quote(h.replace("http://", "https://", 1), safe=":/%~")
+
+    @staticmethod
     def candidate(d, hrefs, meta):
-        https = [h.replace("http://", "https://") for h in hrefs]
+        https = [NasaVideo.href(h) for h in hrefs]
         get = lambda end: next((h for h in https if h.endswith(end)), None)
         orig, w, h = get("~orig.mp4"), int(meta.get("QuickTime:ImageWidth") or 0), int(meta.get("QuickTime:ImageHeight") or 0)
         if not orig or not w or not h:
@@ -227,6 +239,8 @@ def ok(c, shot, q, grades=None, used=()):
         return False
     if BAD.search(c.get("description", "")) or c.get("type", "film") != "film":
         return False
+    if c["provider"] == "nasa" and NEWS.search(c.get("shows", "")):
+        return False  # NASA's library is full of briefings, interviews and trailers
     if c["provider"] == "commons":
         if B.licence_kind(c) not in ("cc0", "pd", "by") or c.get("restrictions"):
             return False
