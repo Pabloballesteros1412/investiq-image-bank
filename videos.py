@@ -155,11 +155,16 @@ class NasaVideo:
             return []
         url = "https://images-api.nasa.gov/search?" + urllib.parse.urlencode({"q": q, "media_type": "video", "page_size": 20})
         out = []
-        for it in self.fetch(url).get("collection", {}).get("items", [])[:12]:
+        tried = 0
+        for it in self.fetch(url).get("collection", {}).get("items", []):
             d = (it.get("data") or [{}])[0]
             nid = d.get("nasa_id")
-            if not nid or self.third(d):
-                continue
+            text = " ".join([d.get("title") or "", d.get("description") or "", " ".join(d.get("keywords") or [])])
+            if not nid or self.third(d) or not B.stock_match({"description": text}, {}, q):
+                continue  # each clip costs two more requests (its files and its metadata): only likely ones
+            if tried >= 6:
+                break
+            tried += 1
             try:
                 hrefs = [x["href"] for x in self.fetch(f"https://images-api.nasa.gov/asset/{urllib.parse.quote(nid)}")
                          .get("collection", {}).get("items", [])]
