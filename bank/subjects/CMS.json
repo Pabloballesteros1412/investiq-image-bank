@@ -7,7 +7,6 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
   {
    "shows": "Consumers Energy Headquarters, Jackson, Michigan",
@@ -25,6 +24,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Consumers_Energy_Headquarters,_Jackson,_Michigan.jpg"
+  },
+  {
+   "shows": "Consumers Energy Karn/Weadock Plant",
+   "url": "https://live.staticflickr.com/4060/4475664535_e519fb6594_b.jpg",
+   "preview": "https://live.staticflickr.com/4060/4475664535_e519fb6594_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by americaspower on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/29218789@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29218789@N08/4475664535",
+   "plain": true
   },
   {
    "shows": "One Energy Plaza (Jackson, Michigan)",

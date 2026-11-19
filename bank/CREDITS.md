@@ -1297,6 +1297,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## CMS Energy (CMS)
 
 - Consumers Energy Headquarters, Jackson, Michigan: WeaponizingArchitecture, CC BY-SA 4.0, via Wikimedia Commons. [Consumers Energy Headquarters, Jackson, Michigan.jpg](https://commons.wikimedia.org/wiki/File:Consumers_Energy_Headquarters,_Jackson,_Michigan.jpg)
+- Consumers Energy Karn/Weadock Plant: Photo by americaspower on Flickr, CC BY 2.0. [4475664535](https://www.flickr.com/photos/29218789@N08/4475664535)
 - One Energy Plaza (Jackson, Michigan): Phillip L. Hofmeister, CC BY-SA 4.0, via Wikimedia Commons. [One Energy Plaza (Jackson, Michigan).jpg](https://commons.wikimedia.org/wiki/File:One_Energy_Plaza_(Jackson,_Michigan).jpg)
 - Dan E Karn Power Plant - August 2020: Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons. [Dan E Karn Power Plant - August 2020 (2597).jpg](https://commons.wikimedia.org/wiki/File:Dan_E_Karn_Power_Plant_-_August_2020_(2597).jpg)
 - Consumers Energy Karn Weadock Plant: America's Power, CC BY 2.0, via Wikimedia Commons. [Consumers Energy Karn Weadock Plant (4475664535).jpg](https://commons.wikimedia.org/wiki/File:Consumers_Energy_Karn_Weadock_Plant_(4475664535).jpg)
@@ -1770,6 +1771,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Dow Inc. (DOW)
 
+- A Dow Chemical plant in Charleston, West Virginia: Photo: Carol M. Highsmith, Library of Congress, public domain. [2015631788](https://www.loc.gov/item/2015631788/)
 - Westerschelde 2023 DOW-Terneuzen: Dkvtig, CC BY-SA 4.0, via Wikimedia Commons. [Westerschelde 2023 DOW-Terneuzen.jpg](https://commons.wikimedia.org/wiki/File:Westerschelde_2023_DOW-Terneuzen.jpg)
 - St. Charles Parish with Mississippi River, Lake Maurepas, Pass Manchac, Lake Pontchartrain, Bonnet Carré Spillway and LaBranche Wetlands: Spatms, CC BY-SA 4.0, via Wikimedia Commons. [St. Charles Parish with Mississippi River, Lake Maurepas, Pass Manchac, Lake Pontchartrain, Bonnet Carré Spillway and LaBranche Wetlands.jpg](https://commons.wikimedia.org/wiki/File:St._Charles_Parish_with_Mississippi_River,_Lake_Maurepas,_Pass_Manchac,_Lake_Pontchartrain,_Bonnet_Carr%C3%A9_Spillway_and_LaBranche_Wetlands.jpg)
 - Dow Chemical plant and railcars - Freeport TX: Roy Luck, CC BY 2.0, via Wikimedia Commons. [Dow Chemical plant and railcars - Freeport TX.jpg](https://commons.wikimedia.org/wiki/File:Dow_Chemical_plant_and_railcars_-_Freeport_TX.jpg)
@@ -1932,6 +1934,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Evergy HQ, SW corner, Topeka, KS: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [Evergy HQ, SW corner, Topeka, KS 2026-03-27.jpg](https://commons.wikimedia.org/wiki/File:Evergy_HQ,_SW_corner,_Topeka,_KS_2026-03-27.jpg)
 - Evergy HQ, NW corner, Topeka, KS: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [Evergy HQ, NW corner, Topeka, KS 2026-03-27.jpg](https://commons.wikimedia.org/wiki/File:Evergy_HQ,_NW_corner,_Topeka,_KS_2026-03-27.jpg)
+- Kansas City Power & Light: Photo by pasa47 on Flickr, CC BY 2.0. [10365648873](https://www.flickr.com/photos/53301297@N00/10365648873)
 
 ## Eversource Energy (ES)
 
@@ -2127,6 +2130,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - First Energy Building Arkon 2025: Dillguy9, CC0, via Wikimedia Commons. [First Energy Building Arkon 2025.jpg](https://commons.wikimedia.org/wiki/File:First_Energy_Building_Arkon_2025.jpg)
 - First Energy Tower: Dillguy9, CC0, via Wikimedia Commons. [First Energy Tower.jpg](https://commons.wikimedia.org/wiki/File:First_Energy_Tower.jpg)
 - An Interesting Window View: Photo by JL Johnson // User47.com on Flickr, CC BY-SA 2.0. [7145287481](https://www.flickr.com/photos/37569637@N07/7145287481)
+- Ohio Edison · electric, electricity, ohioedison, power, springfieldoh: Photo by Cindy Funk on Flickr, CC BY 2.0. [4094531326](https://www.flickr.com/photos/84858864@N00/4094531326)
+- Ohio Edison · electricity, ohioedison, power, springfield, springfieldoh: Photo by Cindy Funk on Flickr, CC BY 2.0. [4094534834](https://www.flickr.com/photos/84858864@N00/4094534834)
+- Ohio Edison to the rescue: Photo by crimfants on Flickr, CC BY-SA 2.0. [4903594192](https://www.flickr.com/photos/81565156@N00/4903594192)
 
 ## Fiserv (FISV)
 
@@ -2163,6 +2169,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Fortinet exhibition stall: Dev Jadiya, CC BY-SA 4.0, via Wikimedia Commons. [Fortinet exhibition stall.jpg](https://commons.wikimedia.org/wiki/File:Fortinet_exhibition_stall.jpg)
 - Fortinet FortiGate 3810A · 2012, 3810a, amsterdam, canonef12iiextensiontube, canonef50mmf18mkii: Photo by dvanzuijlekom on Flickr, CC BY-SA 2.0. [8183860813](https://www.flickr.com/photos/52365139@N05/8183860813)
 - Fortinet FortiGate 100D · computing, firewall, fortigate, fortinet, it: Photo by webernetz on Flickr, CC BY 2.0. [37855201782](https://www.flickr.com/photos/144534024@N07/37855201782)
+
+## Fortive (FTV)
+
+- Electronics Workbench · electronics, fluke, make, oscilloscope, tektronix: Photo by jamesbastow on Flickr, CC BY-SA 2.0. [159018751](https://www.flickr.com/photos/80758054@N00/159018751)
 
 ## Fox Corporation (FOXA)
 
@@ -2262,6 +2272,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Metastron (Strontium-89), GE Healthcare: IAEA, CC BY-SA 2.0, via Wikimedia Commons. [Metastron (Strontium-89), GE Healthcare.jpg](https://commons.wikimedia.org/wiki/File:Metastron_(Strontium-89),_GE_Healthcare.jpg)
 - GE Healthcare Typhoon 9400 scanner: Photo by jepoirrier on Flickr, CC BY-SA 2.0. [839586263](https://www.flickr.com/photos/57519914@N00/839586263)
 - GE Healthcare Ettan Spot Picker in action: Photo by jepoirrier on Flickr, CC BY-SA 2.0. [358660660](https://www.flickr.com/photos/57519914@N00/358660660)
+
+## GE Vernova (GEV)
+
+- Windturbine Haliade -X · halladex, maasvlakte2, offshore, sif, windenergie: Photo by kees torn on Flickr, CC BY-SA 2.0. [50578901952](https://www.flickr.com/photos/68359921@N08/50578901952)
 
 ## Gen Digital (GEN)
 
@@ -2569,6 +2583,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - HSBC Building, Hongkong (Ank Kumar, Infosys) 03: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons. [HSBC Building, Hongkong (Ank Kumar, Infosys) 03.jpg](https://commons.wikimedia.org/wiki/File:HSBC_Building,_Hongkong_(Ank_Kumar,_Infosys)_03.jpg)
 - HSBC Building, Markham Liberty Square, Markham: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [HSBCMarkhamLibertySquare2.jpg](https://commons.wikimedia.org/wiki/File:HSBCMarkhamLibertySquare2.jpg)
 - HK tram tour view 德輔道西 Des Voeux Road West 西營盤 Sai Ying Pun August 2025 N13P 36: HDISMMSY POON YAU, CC0, via Wikimedia Commons. [HK tram tour view 德輔道西 Des Voeux Road West 西營盤 Sai Ying Pun August 2025 N13P 36.jpg](https://commons.wikimedia.org/wiki/File:HK_tram_tour_view_%E5%BE%B7%E8%BC%94%E9%81%93%E8%A5%BF_Des_Voeux_Road_West_%E8%A5%BF%E7%87%9F%E7%9B%A4_Sai_Ying_Pun_August_2025_N13P_36.jpg)
+
+## Humana (HUM)
+
+- Humana Tower, Louisville 3/11/19: Photo by Sharon Mollerus on Flickr, CC BY 2.0. [46635660374](https://www.flickr.com/photos/38315261@N00/46635660374)
 
 ## Huntington Bancshares (HBAN)
 
@@ -4700,6 +4718,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Snowflake (Snowflake Inc.): Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [SnowflakeBooth.jpg](https://commons.wikimedia.org/wiki/File:SnowflakeBooth.jpg)
 
+## Solventum (SOLV)
+
+- Littmann · medicine, medizin, stethoscope, stethoskop, studies: Photo by Katrin Gilger on Flickr, CC BY-SA 2.0. [4298328221](https://www.flickr.com/photos/26242865@N04/4298328221)
+- Littmann · medicine, medizin, stethoscope, stethoskop, studies: Photo by Katrin Gilger on Flickr, CC BY-SA 2.0. [4299072550](https://www.flickr.com/photos/26242865@N04/4299072550)
+
 ## Sony (SONY)
 
 - A camera sitting in the middle of a field: Photo by cody gallo on Unsplash. [sgXF7Vl3Yek](https://unsplash.com/photos/a-camera-sitting-in-the-middle-of-a-field-sgXF7Vl3Yek?utm_source=investiq_image_bank&utm_medium=referral)
@@ -5101,6 +5124,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - The Travelers Companies, Inc: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [The Travelers Companies, Inc. (55614510202).jpg](https://commons.wikimedia.org/wiki/File:The_Travelers_Companies,_Inc._(55614510202).jpg)
 - Travelers Tower, Hartford, Connecticut: Kenneth C. Zirkel, CC BY 4.0, via Wikimedia Commons. [Travelers Tower, Hartford, Connecticut.jpg](https://commons.wikimedia.org/wiki/File:Travelers_Tower,_Hartford,_Connecticut.jpg)
 - Travelers Tower - Hartford, CT: Daderot, public domain, via Wikimedia Commons. [Travelers Tower - Hartford, CT - DSC04888.jpg](https://commons.wikimedia.org/wiki/File:Travelers_Tower_-_Hartford,_CT_-_DSC04888.jpg)
+- Travelers Tower, Hartford, Connecticut: Photo: Carol M. Highsmith, Library of Congress, public domain. [2012631266](https://www.loc.gov/item/2012631266/)
 - 1000 Windward Concourse, Alpharetta, Georgia March 2017: Thomson200, CC0, via Wikimedia Commons. [1000 Windward Concourse, Alpharetta, Georgia March 2017.jpg](https://commons.wikimedia.org/wiki/File:1000_Windward_Concourse,_Alpharetta,_Georgia_March_2017.jpg)
 - Hartford Travelers Tower Image: N8dthygreatedtfgsgf, CC BY-SA 4.0, via Wikimedia Commons. [Hartford Travelers Tower Image.jpg](https://commons.wikimedia.org/wiki/File:Hartford_Travelers_Tower_Image.jpg)
 - Travelers Companies-St Paul: Michael Hicks from Saint Paul, MN, USA, CC BY 2.0, via Wikimedia Commons. [Travelers Companies-St Paul-20061008.jpg](https://commons.wikimedia.org/wiki/File:Travelers_Companies-St_Paul-20061008.jpg)
@@ -5391,6 +5415,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - 08596 at Bowaters Sittingbourne (Now Wabtec Rail): Photo by kitmasterbloke on Flickr, CC BY 2.0. [54259566097](https://www.flickr.com/photos/58415659@N00/54259566097)
 - img_3279-edit · bilevelcoach, bnsf, bnsfrailway, bombardier, elkriver: Photo by Mulad on Flickr, CC BY 2.0. [5006208262](https://www.flickr.com/photos/28496375@N00/5006208262)
 - img_3278 · bilevelcoach, bnsf, bnsfrailway, bombardier, cabcar: Photo by Mulad on Flickr, CC BY 2.0. [5006208238](https://www.flickr.com/photos/28496375@N00/5006208238)
+- img_3267-edit · biglake, bilevelcoach, bnsf, bnsfrailway, bombardier: Photo by Mulad on Flickr, CC BY 2.0. [5006208174](https://www.flickr.com/photos/28496375@N00/5006208174)
+- 08724 at Doncaster Works · 08, 08724, class08, diesel, don: Photo by TheJRB on Flickr, CC BY-SA 2.0. [15582407195](https://www.flickr.com/photos/52670735@N06/15582407195)
 
 ## Walmart (WMT)
 

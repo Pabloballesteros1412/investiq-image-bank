@@ -391,6 +391,14 @@ Decisions (Pablo, 4 Nov 2026):
   SO 0 -> 8, PPL 0 -> 5, BXP 0 -> 4, FRT 1 -> 10, VICI 1 -> 10. Bank: 6,541 photos; companies 4,171 (196 at target, 97
   with none). Still nothing for AJG and WMB. Most of the remaining 97 zero-photo companies are insurers, REITs, payment
   processors and industrial suppliers whose names are common words.
+- **Two more B2B rounds** (19 Nov): 17 companies got terms for their mines, plants, utilities and old names (CCJ: Cigar
+  Lake; FCX: Morenci, Grasberg; NEM: Boddington; ETR: Grand Gulf, Arkansas Nuclear One; FE: Ohio Edison, JCP&L; ROK:
+  Allen-Bradley Clock Tower; TRV: Travelers Tower; DOW: Dow Chemical; SW: WestRock, Smurfit Kappa...): +9 (Travelers
+  Tower, a Dow plant, Consumers Energy's Karn plant, Ohio Edison). Then 10 zero-photo companies got better terms (da
+  Vinci Surgical System, Comanche Peak, Humana Building, Labcorp, Littmann, Haliade, Fluke and Tektronix; SoFi Stadium
+  dropped: naming rights): Unsplash gave only two Intuitive Surgical logo renders (grade 1), Openverse 20 candidates (2
+  grade 3: a Haliade-X turbine for GE Vernova, a Littmann stethoscope; 3 grade 2). Bank: 6,555 photos; companies 4,185
+  (197 at target, 93 with none). Unsplash and Openverse have next to nothing more for B2B names.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/
