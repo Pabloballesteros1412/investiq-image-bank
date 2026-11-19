@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-19",
- "photos": 6359,
+ "photos": 6364,
  "subjects": [
   {
    "id": "MMM",
@@ -75,7 +75,7 @@
     "ABBV"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ABBV.json",
    "sector": "sector-health",
@@ -3378,7 +3378,7 @@
     "GPC"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/GPC.json",
    "sector": "sector-consumer-discretionary",
@@ -4501,7 +4501,7 @@
     "L"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/L.json",
    "sector": "sector-financials",
@@ -6592,7 +6592,7 @@
     "SOUN"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SOUN.json",
    "sector": "sector-tech",

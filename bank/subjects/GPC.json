@@ -8,5 +8,42 @@
  "sector": "sector-consumer-discretionary",
  "target": 10,
  "fill_from": "sector-consumer-discretionary",
- "photos": []
+ "photos": [
+  {
+   "shows": "A blue NAPA Auto Part store with a yellow and red stripe under a clear blue sky",
+   "url": "https://images.unsplash.com/photo-1791732779047-8c00fe05ec6a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1791732779047-8c00fe05ec6a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Marcus Lenk on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@marcuslenk?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/napa-auto-part-store-exterior-mxEqrCqB-Jo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A blue building with a NAPA sign and a door marked \"BEWARE OF ALLIGATORS\"",
+   "url": "https://images.unsplash.com/photo-1791732779080-abba72089e72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1791732779080-abba72089e72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Marcus Lenk on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@marcuslenk?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-building-with-napa-sign-DDzz9YTviKk?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
 }

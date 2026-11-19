@@ -47,6 +47,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Abbott Freestyle Libre 3 sensor applicator-1149: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Abbott Freestyle Libre 3 sensor applicator-1149.jpg](https://commons.wikimedia.org/wiki/File:Abbott_Freestyle_Libre_3_sensor_applicator-1149.jpg)
 - FreeStyle Libre 2 Reader and LibreLink app: Photo by originaldaniel on Flickr, CC BY-SA 2.0. [49446598708](https://www.flickr.com/photos/184613180@N08/49446598708)
 
+## AbbVie (ABBV)
+
+- Botox injection being administered to a woman: Photo by Mina Rad on Unsplash. [qehqLHZ9toc](https://unsplash.com/photos/botox-injection-being-administered-to-a-woman-qehqLHZ9toc?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Accenture (ACN)
 
 - Accenture (Accenture): ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Accenture (52366713942).jpg](https://commons.wikimedia.org/wiki/File:Accenture_(52366713942).jpg)
@@ -2224,6 +2228,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - General Motors Factory ZERO Detroit plant, 2021: The White House, public domain, via Wikimedia Commons. [General Motors Factory ZERO Detroit plant, 2021 (51845515837).jpg](https://commons.wikimedia.org/wiki/File:General_Motors_Factory_ZERO_Detroit_plant,_2021_(51845515837).jpg)
 - General Motors Building 5th Avenue: Kidfly182, CC BY-SA 4.0, via Wikimedia Commons. [General Motors Building 5th Avenue.jpg](https://commons.wikimedia.org/wiki/File:General_Motors_Building_5th_Avenue.jpg)
 
+## Genuine Parts Company (GPC)
+
+- A blue NAPA Auto Part store with a yellow and red stripe under a clear blue sky: Photo by Marcus Lenk on Unsplash. [mxEqrCqB-Jo](https://unsplash.com/photos/napa-auto-part-store-exterior-mxEqrCqB-Jo?utm_source=investiq_image_bank&utm_medium=referral)
+- A blue building with a NAPA sign and a door marked "BEWARE OF ALLIGATORS": Photo by Marcus Lenk on Unsplash. [DDzz9YTviKk](https://unsplash.com/photos/blue-building-with-napa-sign-DDzz9YTviKk?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Gilead Sciences (GILD)
 
 - 333 Lakeside Drive: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [333 Lakeside Drive.jpg](https://commons.wikimedia.org/wiki/File:333_Lakeside_Drive.jpg)
@@ -2995,6 +3004,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Israel Receives First Two F-35 Fighters: Photo by U.S. Embassy Jerusalem on Flickr, CC BY 2.0. [31524655671](https://www.flickr.com/photos/46886434@N04/31524655671)
 - Lockheed Martin HQ as 'Snowquester' begins: Photo by Matthew Straubmuller on Flickr, CC BY 2.0. [8534548938](https://www.flickr.com/photos/51344631@N06/8534548938)
 - Gov. Malloy and Lockheed Martin reach deal to keep Sikorsky headquarters and jobs in Connecticut: Photo by Office of Governor Dan Malloy on Flickr, CC BY 2.0. [29567473960](https://www.flickr.com/photos/57939039@N08/29567473960)
+
+## Loews Corporation (L)
+
+- A modern mall with loews hotel in the background: Photo by Murali Raju on Unsplash. [CkKEfrnn1sY](https://unsplash.com/photos/a-modern-mall-with-loews-hotel-in-the-background-CkKEfrnn1sY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Lowe's (LOW)
 
@@ -4501,6 +4514,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Sony a7R III Digital Camera Sensor: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Sony a7R III Digital Camera Sensor (29269149548).jpg](https://commons.wikimedia.org/wiki/File:Sony_a7R_III_Digital_Camera_Sensor_(29269149548).jpg)
 - Building that hosts Sony Imaging Products & Solutions Inc. among others: Syced, CC0, via Wikimedia Commons. [Building that hosts Sony Imaging Products & Solutions Inc. among others.jpg](https://commons.wikimedia.org/wiki/File:Building_that_hosts_Sony_Imaging_Products_%26_Solutions_Inc._among_others.jpg)
 - SONY HQ - panoramio: AMANO Jun-ichi, CC BY 3.0, via Wikimedia Commons. [SONY HQ - panoramio.jpg](https://commons.wikimedia.org/wiki/File:SONY_HQ_-_panoramio.jpg)
+
+## SoundHound AI (SOUN)
+
+- Red and blue labeled box: Photo by Brett Jordan on Unsplash. [EoqmTK8QZjM](https://unsplash.com/photos/red-and-blue-labeled-box-EoqmTK8QZjM?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Southwest Airlines (LUV)
 

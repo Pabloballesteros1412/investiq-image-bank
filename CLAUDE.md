@@ -355,7 +355,13 @@ Decisions (Pablo, 4 Nov 2026):
   `brands.json` terms (Botox for AbbVie, NAPA for Genuine Parts, Orkin for Rollins, Thermo King for Trane, Fluke and
   Tektronix for Fortive, Behr for Masco, Ryan Homes for NVR, Littmann for Solventum, Omnipod for Insulet, USDC for Circle);
   left out where the short name is a common word that would pass any photo (Southern, Mosaic, Williams, Affirm, Unity,
-  Coherent, APA) or the brand is a naming-rights stadium (SoFi).
+  Coherent, APA) or the brand is a naming-rights stadium (SoFi). Result: Unsplash has next to nothing of them (0 results
+  for Orkin, Fluke, Behr, Ryan Homes, Labcorp, Trane, Taser, USDC); 5 photos kept (two NAPA stores, a Loews hotel, a Botox
+  injection, the SoundHound app). Companies with no photo: 120 -> 116. A first run showed brand names matched at the start
+  of any word ('Masco' -> ten photos of mascots, 'Nike' -> the Niketan garden): `has_name()` now wants the whole word
+  (plural or possessive allowed); none of the 868 brand photos in the bank relied on the old rule.
+- Bank (19 Nov): 6,364 published photos: companies 3,994 (186 at target, 116 with none; famous average 25.6, 32 of 50 at
+  30), topics 1,823, sectors 547. 343 Unsplash download counts pending.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

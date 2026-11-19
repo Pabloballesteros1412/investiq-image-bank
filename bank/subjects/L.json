@@ -8,5 +8,24 @@
  "sector": "sector-financials",
  "target": 10,
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "A modern mall with loews hotel in the background",
+   "url": "https://images.unsplash.com/photo-1744165036966-dc7dd76b2d1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TG9ld3MlMjBIb3RlbHxlbnwxfHx8fDE3OTUwNjQ0Mjh8MA&ixlib=rb-4.1.0&w=2121&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1744165036966-dc7dd76b2d1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TG9ld3MlMjBIb3RlbHxlbnwxfHx8fDE3OTUwNjQ0Mjh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2121,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Murali Raju on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@muralitx3?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-modern-mall-with-loews-hotel-in-the-background-CkKEfrnn1sY?utm_source=investiq_image_bank&utm_medium=referral"
+  }
+ ]
 }
