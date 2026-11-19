@@ -8,13 +8,13 @@
   "A subject with few or no clips: use its photos (bank/index.json) instead."
  ],
  "updated": "2026-11-19",
- "videos": 339,
+ "videos": 353,
  "subjects": [
   {
    "id": "fed",
    "kind": "topic",
    "name": "Federal Reserve & interest rates",
-   "videos": 4,
+   "videos": 7,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/fed.json"
@@ -32,7 +32,7 @@
    "id": "recession",
    "kind": "topic",
    "name": "Recession & slowdown",
-   "videos": 5,
+   "videos": 9,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/recession.json"
@@ -50,8 +50,8 @@
    "id": "bull-market",
    "kind": "topic",
    "name": "Wall Street & stock market rallies",
-   "videos": 4,
-   "vertical": 0,
+   "videos": 6,
+   "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/bull-market.json"
   },
@@ -68,7 +68,7 @@
    "id": "ai",
    "kind": "topic",
    "name": "Artificial intelligence boom",
-   "videos": 5,
+   "videos": 7,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/ai.json"
@@ -194,7 +194,7 @@
    "id": "nuclear",
    "kind": "topic",
    "name": "Nuclear power & uranium",
-   "videos": 2,
+   "videos": 3,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/nuclear.json"
@@ -257,7 +257,7 @@
    "id": "politics",
    "kind": "topic",
    "name": "US politics & markets",
-   "videos": 4,
+   "videos": 5,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/politics.json"
@@ -275,7 +275,7 @@
    "id": "quantum",
    "kind": "topic",
    "name": "Quantum computing",
-   "videos": 0,
+   "videos": 1,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/quantum.json"

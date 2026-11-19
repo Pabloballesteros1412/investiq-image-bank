@@ -54,6 +54,32 @@ SEARCH_ROOM = 3                  # searches with candidates beyond the target be
 GAP = 0.7                        # seconds between uncached Pixabay requests (its limit: 100 a minute)
 FRAMES = (0.15, 0.5, 0.85)       # where the review frames are taken, as a share of the clip's length
 MANIFEST = "video_manifest.json"
+# Video-only searches for the subjects the catalog's photo searches left thin (19 Nov 2026). They go before the
+# catalog shots and stay out of catalog.json, which belongs to the photos. Each one was tried on Pixabay first and
+# kept only if it returned clips whose tags name it; words that bring look-alikes ("electric" -> guitars) are out.
+VIDEO_SHOTS = {
+    "ev": ["e-scooter", "electric scooter", "charging", "charger", "plug", "battery", "new cars", "car interior"],
+    "quantum": ["laser", "physics", "laboratory research", "scientist laboratory", "science experiment", "plasma",
+                "server room", "atom", "scientist"],
+    "nuclear": ["nuclear power plant", "cooling tower", "cooling towers", "power plant steam", "power station",
+                "atomic", "high voltage", "control room"],
+    "bonds": ["white house", "government building", "capitol building", "dollar bills", "calculator", "paperwork",
+              "accountant", "signature document"],
+    "bull-market": ["wall street", "new york skyline", "financial district", "trading", "trader", "stock exchange",
+                    "manhattan", "champagne toast"],
+    "cybersecurity": ["hacker", "cyber", "password", "surveillance", "server room", "keyboard typing", "login",
+                      "coding"],
+    "fed": ["dollar bills", "cash counting", "piggy bank", "wallet money", "central bank", "banknotes counting",
+            "interest", "mortgage"],
+    "gold": ["gold jewelry", "gold ring", "treasure", "gold watch"],
+    "politics": ["white house", "american flag", "statue of liberty", "capitol building", "lincoln memorial",
+                 "election", "voting"],
+    "ai": ["robot", "circuit board", "server room", "coding"],
+    "recession": ["unemployed", "empty mall", "abandoned factory", "empty store", "shutter", "worried man"],
+    "robotics": ["robot", "factory automation", "conveyor belt", "production line", "assembly line"],
+    "sector-energy": ["refinery", "pipeline", "power plant", "gas flame", "solar panels", "wind turbines",
+                      "power lines"],
+}
 REVIEW = "video_review.json"
 FRAME_CACHE = B.HERE / ".cache" / "video_frames"
 
@@ -308,15 +334,18 @@ def pick(pool, target=TARGET, vertical_min=VERTICAL_MIN, keep=()):
 
 
 def shot_order(s, photo_entry=None, rv=None):
-    """The topic's shots, the ones that gave published stock photos first (proven search words), then the rest
-    in catalog order."""
+    """The subject's video-only searches (VIDEO_SHOTS) first, then its catalog shots: the ones that gave
+    published stock photos first (proven search words), then the rest in catalog order."""
     rv = rv or {"grades": {}}
     good = {}
     for p in (photo_entry or {}).get("photos", []):
         if B.provider_of(p) != "commons" and B.published(p, rv):
             good[p.get("shot")] = good.get(p.get("shot"), 0) + 1
     shots = [B.norm_shot(x) for x in s.get("shots", [])]
-    return sorted(shots, key=lambda sh: (-good.get(sh["id"], 0), shots.index(sh)))
+    ordered = sorted(shots, key=lambda sh: (-good.get(sh["id"], 0), shots.index(sh)))
+    extra = [B.norm_shot(q) for q in s.get("video_shots", VIDEO_SHOTS.get(s.get("id"), []))]
+    ids = {sh["id"] for sh in extra}
+    return extra + [sh for sh in ordered if sh["id"] not in ids]
 
 
 def subject_videos(s, srcs, grades=None, used=(), keep=(), target=TARGET, photo_entry=None, rv=None, log=print,
