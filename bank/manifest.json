@@ -1625,6 +1625,7 @@
    "ADBE"
   ],
   "aliases": [],
+  "target": 30,
   "sector": "sector-tech",
   "photos": [
    {
@@ -1744,37 +1745,11 @@
    },
    {
     "shot": "b1",
-    "shows": "Railroad surrounded by trees at daytime",
-    "file": "unsplash:wqQ4NNG_J28",
-    "page": "https://unsplash.com/photos/railroad-surrounded-by-trees-at-daytime-wqQ4NNG_J28?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1501704163333-86d3832cd4ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8UGhvdG9zaG9wfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=1201&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1501704163333-86d3832cd4ea?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8UGhvdG9zaG9wfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1201,
-     1501
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Tom Barrett on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Tom Barrett",
-    "year": 2017,
-    "how": "unsplash search: Photoshop",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@wistomsin?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/wqQ4NNG_J28/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8UGhvdG9zaG9wfGVufDF8fHx8MTc5Mzk2MDAyNXww"
-   },
-   {
-    "shot": "b2",
-    "shows": "The letter ia is made up of chocolate",
-    "file": "unsplash:93QRBJ_OcHc",
-    "page": "https://unsplash.com/photos/the-letter-ia-is-made-up-of-chocolate-93QRBJ_OcHc?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1705490021082-d445bb3d4762?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBJbGx1c3RyYXRvcnxlbnwxfHx8fDE3OTM5NjAwMjh8MA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1705490021082-d445bb3d4762?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBJbGx1c3RyYXRvcnxlbnwxfHx8fDE3OTM5NjAwMjh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "A blue square button with the word ae on it",
+    "file": "unsplash:rVp7xxDX8r8",
+    "page": "https://unsplash.com/photos/a-blue-square-button-with-the-word-ae-on-it-rVp7xxDX8r8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1705490020987-b4565b36c04d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QWRvYmUlMjBsb2dvfGVufDF8fHx8MTc5NTA1MDQ5MHww&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1705490020987-b4565b36c04d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QWRvYmUlMjBsb2dvfGVufDF8fHx8MTc5NTA1MDQ5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1500,
      1500
@@ -1789,18 +1764,122 @@
     "licence_url": "https://unsplash.com/license",
     "author": "Farhat Altaf",
     "year": 2024,
-    "how": "unsplash search: Adobe Illustrator",
+    "how": "unsplash search: Adobe logo",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@farhat099?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/93QRBJ_OcHc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBJbGx1c3RyYXRvcnxlbnwxfHx8fDE3OTM5NjAwMjh8MA"
+    "track": "https://api.unsplash.com/photos/rVp7xxDX8r8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QWRvYmUlMjBsb2dvfGVufDF8fHx8MTc5NTA1MDQ5MHww"
+   },
+   {
+    "shot": "b2",
+    "shows": "A close up of a computer screen with a bar chart on it",
+    "file": "unsplash:6F4qEDIcY1g",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-a-bar-chart-on-it-6F4qEDIcY1g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1653043586925-cfb4676c69a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QWRvYmUlMjBQcmVtaWVyZXxlbnwxfHx8fDE3OTUwNTA1NDB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1653043586925-cfb4676c69a2?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QWRvYmUlMjBQcmVtaWVyZXxlbnwxfHx8fDE3OTUwNTA1NDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Amjith S on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Amjith S",
+    "year": 2022,
+    "how": "unsplash search: Adobe Premiere",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@amjiths?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/6F4qEDIcY1g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8QWRvYmUlMjBQcmVtaWVyZXxlbnwxfHx8fDE3OTUwNTA1NDB8MA"
    },
    {
     "shot": "b3",
-    "shows": "Turned on MacBook Pro",
-    "file": "unsplash:qmvl6m4Tots",
-    "page": "https://unsplash.com/photos/turned-on-macbook-pro-qmvl6m4Tots?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1560858275-933aa173847b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFBob3Rvc2hvcHxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1560858275-933aa173847b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFBob3Rvc2hvcHxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Adobe logo and slogan on a building",
+    "file": "unsplash:JtIoB86edyU",
+    "page": "https://unsplash.com/photos/adobe-logo-and-slogan-on-a-building-JtIoB86edyU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1764229119403-42059dac36a4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QWRvYmUlMjBsb2dvfGVufDF8fHx8MTc5NTA1MDQ5MHww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1764229119403-42059dac36a4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QWRvYmUlMjBsb2dvfGVufDF8fHx8MTc5NTA1MDQ5MHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by FY Chang on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "FY Chang",
+    "year": 2025,
+    "how": "unsplash search: Adobe logo",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@inviseyefilm?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/JtIoB86edyU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8QWRvYmUlMjBsb2dvfGVufDF8fHx8MTc5NTA1MDQ5MHww"
+   },
+   {
+    "shot": "b4",
+    "shows": "A computer screen with a person holding an umbrella",
+    "file": "unsplash:QAxgIfZd2zY",
+    "page": "https://unsplash.com/photos/a-computer-screen-with-a-person-holding-an-umbrella-QAxgIfZd2zY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1653043967362-12162e8b946d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBQcmVtaWVyZXxlbnwxfHx8fDE3OTUwNTA1NDB8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1653043967362-12162e8b946d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBQcmVtaWVyZXxlbnwxfHx8fDE3OTUwNTA1NDB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Amjith S on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Amjith S",
+    "year": 2022,
+    "how": "unsplash search: Adobe Premiere",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@amjiths?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/QAxgIfZd2zY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBQcmVtaWVyZXxlbnwxfHx8fDE3OTUwNTA1NDB8MA"
+   },
+   {
+    "shot": "b5",
+    "shows": "A man wearing headphones is looking at a computer screen",
+    "file": "unsplash:Tw96AcmN6dQ",
+    "page": "https://unsplash.com/photos/a-man-wearing-headphones-is-looking-at-a-computer-screen-Tw96AcmN6dQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1640165715886-bd607330c46e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1640165715886-bd607330c46e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vladislav Smigelski on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vladislav Smigelski",
+    "year": 2021,
+    "how": "unsplash search: Adobe Premiere",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vladislavsmigelski?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Tw96AcmN6dQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA"
+   },
+   {
+    "shot": "b6",
+    "shows": "MacBook Pro",
+    "file": "unsplash:2yQTxjC01JY",
+    "page": "https://unsplash.com/photos/macbook-pro-2yQTxjC01JY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1560858275-a06a049554f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBDcmVhdGl2ZSUyMENsb3VkfGVufDF8fHx8MTc5NTA1MDYzN3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1560858275-a06a049554f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBDcmVhdGl2ZSUyMENsb3VkfGVufDF8fHx8MTc5NTA1MDYzN3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2400,
      1350
@@ -1815,44 +1894,70 @@
     "licence_url": "https://unsplash.com/license",
     "author": "Szabo Viktor",
     "year": 2019,
-    "how": "unsplash search: Photoshop",
+    "how": "unsplash search: Adobe Creative Cloud",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@vmxhu?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/qmvl6m4Tots/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFBob3Rvc2hvcHxlbnwxfHx8fDE3OTM5NjAwMjV8MA"
+    "track": "https://api.unsplash.com/photos/2yQTxjC01JY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8QWRvYmUlMjBDcmVhdGl2ZSUyMENsb3VkfGVufDF8fHx8MTc5NTA1MDYzN3ww"
    },
    {
-    "shot": "b4",
-    "shows": "Black lenovo laptop computer turned on displaying man in red shirt",
-    "file": "unsplash:wi3xBnWZlvQ",
-    "page": "https://unsplash.com/photos/black-lenovo-laptop-computer-turned-on-displaying-man-in-red-shirt-wi3xBnWZlvQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1620674156044-52b714665d46?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBob3Rvc2hvcHxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1620674156044-52b714665d46?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBob3Rvc2hvcHxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "b7",
+    "shows": "A close up of a computer screen with a keyboard",
+    "file": "unsplash:hY07uZBVrGo",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-computer-screen-with-a-keyboard-hY07uZBVrGo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1695218716405-5b813000e994?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1695218716405-5b813000e994?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     2400,
-     1350
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Onur Binay on Unsplash",
+    "credit": "Photo by Bas Peperzak on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Onur Binay",
+    "author": "Bas Peperzak",
+    "year": 2023,
+    "how": "unsplash search: Adobe Premiere",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bastroloog?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/hY07uZBVrGo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA"
+   },
+   {
+    "shot": "b8",
+    "shows": "A computer monitor sitting on top of a wooden desk",
+    "file": "unsplash:zaF-DNmFHC8",
+    "page": "https://unsplash.com/photos/a-computer-monitor-sitting-on-top-of-a-wooden-desk-zaF-DNmFHC8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1640166023037-039047aa6195?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1640166023037-039047aa6195?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vladislav Smigelski on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vladislav Smigelski",
     "year": 2021,
-    "how": "unsplash search: Photoshop",
+    "how": "unsplash search: Adobe Premiere",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@onurbinay?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/wi3xBnWZlvQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBob3Rvc2hvcHxlbnwxfHx8fDE3OTM5NjAwMjV8MA"
+    "author_url": "https://unsplash.com/@vladislavsmigelski?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zaF-DNmFHC8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjN8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA"
    },
    {
-    "shot": "b5",
-    "shows": "Black acer laptop computer turned on displaying computer file",
-    "file": "unsplash:BO96jNPL8Sk",
-    "page": "https://unsplash.com/photos/black-acer-laptop-computer-turned-on-displaying-computer-file-BO96jNPL8Sk?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1597247044228-91275129344e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEFkb2JlJTIwSWxsdXN0cmF0b3J8ZW58MXx8fHwxNzkzOTYwMDI4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1597247044228-91275129344e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEFkb2JlJTIwSWxsdXN0cmF0b3J8ZW58MXx8fHwxNzkzOTYwMDI4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "b9",
+    "shows": "A screenshot of a computer",
+    "file": "unsplash:Y6oKbxRX0ig",
+    "page": "https://unsplash.com/photos/a-screenshot-of-a-computer-Y6oKbxRX0ig?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1666728451779-85c0bc53d2ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1666728451779-85c0bc53d2ef?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2400,
      1350
@@ -1861,16 +1966,42 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Martin Faure on Unsplash",
+    "credit": "Photo by Ali Abdullah on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Martin Faure",
-    "year": 2020,
-    "how": "unsplash search: Adobe Illustrator",
+    "author": "Ali Abdullah",
+    "year": 2022,
+    "how": "unsplash search: Adobe Premiere",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@faurebien?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/BO96jNPL8Sk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEFkb2JlJTIwSWxsdXN0cmF0b3J8ZW58MXx8fHwxNzkzOTYwMDI4fDA"
+    "author_url": "https://unsplash.com/@4k_wallpaper?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Y6oKbxRX0ig/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA"
+   },
+   {
+    "shot": "b10",
+    "shows": "Black and blue audio mixer",
+    "file": "unsplash:dY8TvpNz72o",
+    "page": "https://unsplash.com/photos/black-and-blue-audio-mixer-dY8TvpNz72o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1582406592664-24b0c8705265?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1582406592664-24b0c8705265?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1797
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Egor Vikhrev on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Egor Vikhrev",
+    "year": 2020,
+    "how": "unsplash search: Adobe Premiere",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@egor_vikhrev?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/dY8TvpNz72o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fEFkb2JlJTIwUHJlbWllcmV8ZW58MXx8fHwxNzk1MDUwNTQwfDA"
    },
    {
     "shot": "leader",
@@ -2228,8 +2359,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-06",
-  "target": 30
+  "checked": "2026-11-19"
  },
  "AMD": {
   "name": "Advanced Micro Devices",
@@ -2238,8 +2368,36 @@
    "AMD"
   ],
   "aliases": [],
+  "target": 30,
   "sector": "sector-tech",
   "photos": [
+   {
+    "shot": "hand",
+    "shows": "AMD Ryzen 7 5800X3D",
+    "file": "flickr:55045896543",
+    "page": "https://www.flickr.com/photos/34923408@N07/55045896543",
+    "url": "https://live.staticflickr.com/65535/55045896543_7950b776fc_b.jpg",
+    "preview": "https://live.staticflickr.com/65535/55045896543_7950b776fc_z.jpg",
+    "size": [
+     1024,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by htomari on Flickr, Public Domain Mark",
+    "licence": "Public Domain Mark",
+    "licence_kind": "pd",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "htomari",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/34923408@N07",
+    "via": "openverse",
+    "low_res": true
+   },
    {
     "shot": "ryzen",
     "shows": "AMD Ryzen 7 1800X",
@@ -2291,6 +2449,29 @@
     ]
    },
    {
+    "shot": "hand",
+    "shows": "AMD Markham Canada - Address: 1 Commerce Valley Drive East, Markham, ON L3T 7X6, Canada",
+    "file": "File:AMDMarkham10.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:AMDMarkham10.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/1920px-AMDMarkham10.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/500px-AMDMarkham10.jpg",
+    "size": [
+     1920,
+     1272
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Raysonho @ Open Grid Scheduler / Grid Engine",
+    "year": 2012,
+    "how": "hand-picked"
+   },
+   {
     "shot": "b1",
     "shows": "A close up of a computer mother board",
     "file": "unsplash:kz2Z3maVaLo",
@@ -2318,58 +2499,6 @@
    },
    {
     "shot": "b2",
-    "shows": "Building a PC with amd radeon rx 7900 xtx",
-    "file": "unsplash:gaRx1rfZq5I",
-    "page": "https://unsplash.com/photos/building-a-pc-with-amd-radeon-rx-7900-xtx-gaRx1rfZq5I?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1741392076269-471898558663?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1741392076269-471898558663?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Brecht Corbeel on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Brecht Corbeel",
-    "year": 2025,
-    "how": "unsplash search: Radeon",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/gaRx1rfZq5I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww"
-   },
-   {
-    "shot": "b3",
-    "shows": "Amd ryzen 6000 series processor on circuit board background",
-    "file": "unsplash:6BQruFsO5as",
-    "page": "https://unsplash.com/photos/amd-ryzen-6000-series-processor-on-circuit-board-background-6BQruFsO5as?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1760539165868-cddc91a8a952?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QU1EJTIwUnl6ZW58ZW58MXx8fHwxNzkzOTYwMDI1fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1760539165868-cddc91a8a952?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QU1EJTIwUnl6ZW58ZW58MXx8fHwxNzkzOTYwMDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2400,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by BoliviaInteligente on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "BoliviaInteligente",
-    "year": 2025,
-    "how": "unsplash search: AMD Ryzen",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/6BQruFsO5as/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8QU1EJTIwUnl6ZW58ZW58MXx8fHwxNzkzOTYwMDI1fDA"
-   },
-   {
-    "shot": "b4",
     "shows": "Black and green lenovo logo",
     "file": "unsplash:nWgpCe-LQa4",
     "page": "https://unsplash.com/photos/black-and-green-lenovo-logo-nWgpCe-LQa4?utm_source=investiq_image_bank&utm_medium=referral",
@@ -2395,59 +2524,7 @@
     "track": "https://api.unsplash.com/photos/nWgpCe-LQa4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8QU1EfGVufDF8fHx8MTc5Mzk2MDAyN3ww"
    },
    {
-    "shot": "b5",
-    "shows": "A computer case with a neon sign on the side of it",
-    "file": "unsplash:5EAVBt3e3wY",
-    "page": "https://unsplash.com/photos/a-computer-case-with-a-neon-sign-on-the-side-of-it-5EAVBt3e3wY?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1589749614931-471bdd9bf370?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1589749614931-471bdd9bf370?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Zii Miller on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Zii Miller",
-    "year": 2020,
-    "how": "unsplash search: Radeon",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@anarchist?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/5EAVBt3e3wY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww"
-   },
-   {
-    "shot": "b6",
-    "shows": "Black and white computer motherboard",
-    "file": "unsplash:zijJwA_RtxY",
-    "page": "https://unsplash.com/photos/black-and-white-computer-motherboard-zijJwA_RtxY?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1613483187550-1458bbdb0996?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QU1EJTIwUnl6ZW58ZW58MXx8fHwxNzkzOTYwMDI1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1613483187550-1458bbdb0996?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QU1EJTIwUnl6ZW58ZW58MXx8fHwxNzkzOTYwMDI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Tomáš Malík on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Tomáš Malík",
-    "year": 2021,
-    "how": "unsplash search: AMD Ryzen",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@malcoo?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/zijJwA_RtxY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8QU1EJTIwUnl6ZW58ZW58MXx8fHwxNzkzOTYwMDI1fDA"
-   },
-   {
-    "shot": "b7",
+    "shot": "b3",
     "shows": "A blue radeon graphics card sits among green leaves",
     "file": "unsplash:l6PLfGcAzZc",
     "page": "https://unsplash.com/photos/a-blue-radeon-graphics-card-sits-among-green-leaves-l6PLfGcAzZc?utm_source=investiq_image_bank&utm_medium=referral",
@@ -2473,80 +2550,327 @@
     "track": "https://api.unsplash.com/photos/l6PLfGcAzZc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww"
    },
    {
-    "shot": "hand",
-    "shows": "AMD Markham Canada - Address: 1 Commerce Valley Drive East, Markham, ON L3T 7X6, Canada",
-    "file": "File:AMDMarkham10.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:AMDMarkham10.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/1920px-AMDMarkham10.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/500px-AMDMarkham10.jpg",
+    "shot": "b4",
+    "shows": "Blue computer graphics card resting in green grass",
+    "file": "unsplash:VFvt6xMkb8g",
+    "page": "https://unsplash.com/photos/blue-computer-graphics-card-resting-in-green-grass-VFvt6xMkb8g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1780962178554-0db6eb17ebec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UmFkZW9uJTIwZ3JhcGhpY3MlMjBjYXJkfGVufDF8fHx8MTc5NTA1MDU5MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1780962178554-0db6eb17ebec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UmFkZW9uJTIwZ3JhcGhpY3MlMjBjYXJkfGVufDF8fHx8MTc5NTA1MDU5MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1272
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Raysonho @ Open Grid Scheduler / Grid Engine",
-    "year": 2012,
-    "how": "hand-picked"
-   },
-   {
-    "shot": "hand",
-    "shows": "AMD Ryzen 7 5800X3D",
-    "file": "flickr:55045896543",
-    "page": "https://www.flickr.com/photos/34923408@N07/55045896543",
-    "url": "https://live.staticflickr.com/65535/55045896543_7950b776fc_b.jpg",
-    "preview": "https://live.staticflickr.com/65535/55045896543_7950b776fc_z.jpg",
-    "size": [
-     1024,
-     1024
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by htomari on Flickr, Public Domain Mark",
-    "licence": "Public Domain Mark",
-    "licence_kind": "pd",
-    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
-    "author": "htomari",
-    "year": null,
-    "how": "hand-picked",
-    "provider": "flickr",
-    "author_url": "https://www.flickr.com/photos/34923408@N07",
-    "via": "openverse",
-    "low_res": true
-   },
-   {
-    "shot": "b8",
-    "shows": "A glowing circular fan and illuminated text reading Radeon RX 6800 XT and Geforce GTX",
-    "file": "unsplash:DPtoF6kCZvQ",
-    "page": "https://unsplash.com/photos/graphics-cards-with-illuminated-branding-DPtoF6kCZvQ?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1789464253964-28101de6ea92?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1789464253964-28101de6ea92?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     1200,
-     1739
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Anna Evans on Unsplash",
+    "credit": "Photo by James Tilden on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Anna Evans",
+    "author": "James Tilden",
     "year": 2026,
-    "how": "unsplash search: Radeon",
+    "how": "unsplash search: Radeon graphics card",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@anevans?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/DPtoF6kCZvQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8UmFkZW9ufGVufDF8fHx8MTc5Mzk2MDAyNnww"
+    "author_url": "https://unsplash.com/@james_tilden?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VFvt6xMkb8g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UmFkZW9uJTIwZ3JhcGhpY3MlMjBjYXJkfGVufDF8fHx8MTc5NTA1MDU5MXww"
+   },
+   {
+    "shot": "b5",
+    "shows": "Blue and green round light",
+    "file": "unsplash:pNpqq8Cwjxw",
+    "page": "https://unsplash.com/photos/blue-and-green-round-light-pNpqq8Cwjxw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1607732667154-ff11e81e5665?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=1968&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1607732667154-ff11e81e5665?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1968,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Maxence Pira on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Maxence Pira",
+    "year": 2020,
+    "how": "unsplash search: AMD",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@maxence_pira?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/pNpqq8Cwjxw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "Ryzen processor",
+    "file": "unsplash:_iSo6Hps2mA",
+    "page": "https://unsplash.com/photos/ryzen-processor-_iSo6Hps2mA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1551642044-b5e65d8a7fac?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1551642044-b5e65d8a7fac?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Vladimir Malyutin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Vladimir Malyutin",
+    "year": 2019,
+    "how": "unsplash search: AMD Ryzen",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vladimir__film?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_iSo6Hps2mA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "A close up of a cpu chip on top of a motherboard",
+    "file": "unsplash:mnMVFdKwSuw",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-cpu-chip-on-top-of-a-motherboard-mnMVFdKwSuw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1670751782084-dffc982dc63b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2101&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1670751782084-dffc982dc63b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2101,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrew Dawes on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Andrew Dawes",
+    "year": 2022,
+    "how": "unsplash search: AMD",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@9andrewd?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/mnMVFdKwSuw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "Purple and pink round light",
+    "file": "unsplash:aFlhBBEVvhs",
+    "page": "https://unsplash.com/photos/purple-and-pink-round-light-aFlhBBEVvhs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1606414759273-d0302bbcadbc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1606414759273-d0302bbcadbc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Timothy Dykes on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Timothy Dykes",
+    "year": 2020,
+    "how": "unsplash search: AMD",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@timothycdykes?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/aFlhBBEVvhs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "Amd ryzen 6000 series processor on circuit board",
+    "file": "unsplash:w7XezKgrPww",
+    "page": "https://unsplash.com/photos/amd-ryzen-6000-series-processor-on-circuit-board-w7XezKgrPww?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1760539165116-b714bc2c6544?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1760539165116-b714bc2c6544?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by BoliviaInteligente on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "BoliviaInteligente",
+    "year": 2025,
+    "how": "unsplash search: AMD Ryzen",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/w7XezKgrPww/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b10",
+    "shows": "Amd logo illuminated on a dark ceiling",
+    "file": "unsplash:DRZ26ZSVTtg",
+    "page": "https://unsplash.com/photos/amd-logo-illuminated-on-a-dark-ceiling-DRZ26ZSVTtg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1759493464618-70b53612ae96?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1759493464618-70b53612ae96?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by LISK OBE on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "LISK OBE",
+    "year": 2025,
+    "how": "unsplash search: AMD",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@summerobelisk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/DRZ26ZSVTtg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b11",
+    "shows": "Amd ryzen 8000 series cpu on circuit board",
+    "file": "unsplash:EbmEJ0Su1hc",
+    "page": "https://unsplash.com/photos/amd-ryzen-8000-series-cpu-on-circuit-board-EbmEJ0Su1hc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1760539165409-46fd286dd7fa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1760539165409-46fd286dd7fa?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by BoliviaInteligente on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "BoliviaInteligente",
+    "year": 2025,
+    "how": "unsplash search: AMD Ryzen",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EbmEJ0Su1hc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b12",
+    "shows": "A desk with a keyboard, mouse, and other electronics",
+    "file": "unsplash:GzSRqeh3Xfs",
+    "page": "https://unsplash.com/photos/a-desk-with-a-keyboard-mouse-and-other-electronics-GzSRqeh3Xfs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1724930384719-7959555c321c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1724930384719-7959555c321c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brandon. on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brandon.",
+    "year": 2024,
+    "how": "unsplash search: AMD",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bokv?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/GzSRqeh3Xfs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b13",
+    "shows": "A new amd ryzen processor sits on a desk",
+    "file": "unsplash:2bJfnIwQvpk",
+    "page": "https://unsplash.com/photos/a-new-amd-ryzen-processor-sits-on-a-desk-2bJfnIwQvpk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1753097617151-b8994eb0bb3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1753097617151-b8994eb0bb3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Đào Hiếu on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Đào Hiếu",
+    "year": 2025,
+    "how": "unsplash search: AMD",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hieu101193?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2bJfnIwQvpk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b14",
+    "shows": "A close up of a cpu on a table",
+    "file": "unsplash:h_ZDeb9taY0",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-cpu-on-a-table-h_ZDeb9taY0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1629725413175-396025477a04?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFJ5emVuJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NTA1MDQ4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1629725413175-396025477a04?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFJ5emVuJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NTA1MDQ4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by benjamin lehman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "benjamin lehman",
+    "year": 2021,
+    "how": "unsplash search: Ryzen processor",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@abject?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/h_ZDeb9taY0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFJ5emVuJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NTA1MDQ4OXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b15",
+    "shows": "An AMD Ryzen processor installed in a black computer motherboard socket",
+    "file": "unsplash:zJiBtoJ1HqE",
+    "page": "https://unsplash.com/photos/amd-ryzen-processor-on-motherboard-zJiBtoJ1HqE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1791749805303-c868fa1bf245?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fFJ5emVuJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NTA1MDQ4OXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1791749805303-c868fa1bf245?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fFJ5emVuJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NTA1MDQ4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Evgeniy Bezkorovayniy on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Evgeniy Bezkorovayniy",
+    "year": 2026,
+    "how": "unsplash search: Ryzen processor",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@korovay?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zJiBtoJ1HqE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fFJ5emVuJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NTA1MDQ4OXww",
+    "track_pending": true
    },
    {
     "shot": "hq",
@@ -3061,8 +3385,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-06",
-  "target": 30
+  "checked": "2026-11-19"
  },
  "AES": {
   "name": "AES Corporation",
@@ -5669,8 +5992,59 @@
    "GOOG"
   ],
   "aliases": [],
+  "target": 30,
   "sector": "sector-communication",
   "photos": [
+   {
+    "shot": "hand",
+    "shows": "Google Headquarters, Mountain View, California",
+    "file": "loc:2013630580",
+    "page": "https://www.loc.gov/item/2013630580/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/1200,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/500,/0/default.jpg",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "hand",
+    "shows": "Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California",
+    "file": "loc:2013630577",
+    "page": "https://www.loc.gov/item/2013630577/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/2250,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/500,/0/default.jpg",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "hand-picked",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
    {
     "shot": "waymo",
     "shows": "Waymo Jaguar I-Pace in San Francisco 2023 dllu",
@@ -5772,110 +6146,6 @@
    },
    {
     "shot": "b3",
-    "shows": "Person using macbook pro on table",
-    "file": "unsplash:31OdWLEQ-78",
-    "page": "https://unsplash.com/photos/person-using-macbook-pro-on-table-31OdWLEQ-78?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1616499452581-cc7f8e3dd3c9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1616499452581-cc7f8e3dd3c9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Firmbee.com on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Firmbee.com",
-    "year": 2021,
-    "how": "unsplash search: Google",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@firmbee?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/31OdWLEQ-78/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww"
-   },
-   {
-    "shot": "b4",
-    "shows": "Youtube application screengrab",
-    "file": "unsplash:NmGzVG5Wsg8",
-    "page": "https://unsplash.com/photos/youtube-application-screengrab-NmGzVG5Wsg8?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1521302200778-33500795e128?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1521302200778-33500795e128?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Christian Wiediger on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Christian Wiediger",
-    "year": 2018,
-    "how": "unsplash search: YouTube",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@christianw?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/NmGzVG5Wsg8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA"
-   },
-   {
-    "shot": "b5",
-    "shows": "Youtube website screengrab",
-    "file": "unsplash:4QmSdCP4bhM",
-    "page": "https://unsplash.com/photos/youtube-website-screengrab-4QmSdCP4bhM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1540655037529-dec987208707?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2381&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1540655037529-dec987208707?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2381,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Szabo Viktor on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Szabo Viktor",
-    "year": 2018,
-    "how": "unsplash search: YouTube",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@vmxhu?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/4QmSdCP4bhM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA"
-   },
-   {
-    "shot": "b6",
-    "shows": "Youtube application",
-    "file": "unsplash:8LfE0Lywyak",
-    "page": "https://unsplash.com/photos/youtube-application-8LfE0Lywyak?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1567443024551-f3e3cc2be870?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1567443024551-f3e3cc2be870?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by NordWood Themes on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "NordWood Themes",
-    "year": 2019,
-    "how": "unsplash search: YouTube",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@nordwood?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/8LfE0Lywyak/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA"
-   },
-   {
-    "shot": "b7",
     "shows": "A waymo self-driving car is seen in the city",
     "file": "unsplash:KDOigAcQ8PE",
     "page": "https://unsplash.com/photos/a-waymo-self-driving-car-is-seen-in-the-city-KDOigAcQ8PE?utm_source=investiq_image_bank&utm_medium=referral",
@@ -5901,12 +6171,633 @@
     "track": "https://api.unsplash.com/photos/KDOigAcQ8PE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8V2F5bW98ZW58MXx8fHwxNzkzOTYwMDI4fDA"
    },
    {
-    "shot": "hand",
-    "shows": "Google Headquarters, Mountain View, California",
-    "file": "loc:2013630580",
-    "page": "https://www.loc.gov/item/2013630580/",
-    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/1200,/0/default.jpg",
-    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/500,/0/default.jpg",
+    "shot": "b4",
+    "shows": "A red play button on a black background",
+    "file": "unsplash:0PbFjeSptx4",
+    "page": "https://unsplash.com/photos/a-red-play-button-on-a-black-background-0PbFjeSptx4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1678329885908-85eb768aa61b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1678329885908-85eb768aa61b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by BoliviaInteligente on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "BoliviaInteligente",
+    "year": 2023,
+    "how": "unsplash search: YouTube",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0PbFjeSptx4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b5",
+    "shows": "A white car is stopped at an intersection",
+    "file": "unsplash:nYMmmrYxISY",
+    "page": "https://unsplash.com/photos/a-white-car-is-stopped-at-an-intersection-nYMmmrYxISY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1735402856128-2baadb82f2d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8V2F5bW98ZW58MXx8fHwxNzkzOTYwMDI4fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1735402856128-2baadb82f2d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8V2F5bW98ZW58MXx8fHwxNzkzOTYwMDI4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2249,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Hoseung Han on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hoseung Han",
+    "year": 2024,
+    "how": "unsplash search: Waymo",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dhs4590?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nYMmmrYxISY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8V2F5bW98ZW58MXx8fHwxNzkzOTYwMDI4fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b6",
+    "shows": "Man browsing tablet sitting in front of TV",
+    "file": "unsplash:N8Pnhrcr73o",
+    "page": "https://unsplash.com/photos/man-browsing-tablet-sitting-in-front-of-tv-N8Pnhrcr73o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1567606404839-dea8cec4d278?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1567606404839-dea8cec4d278?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by CardMapr.nl on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "CardMapr.nl",
+    "year": 2019,
+    "how": "unsplash search: YouTube",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cardmapr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/N8Pnhrcr73o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b7",
+    "shows": "Person using black laptop computer",
+    "file": "unsplash:eMemmpUojlw",
+    "page": "https://unsplash.com/photos/person-using-black-laptop-computer-eMemmpUojlw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1616499370260-485b3e5ed653?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1616499370260-485b3e5ed653?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Firmbee.com on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Firmbee.com",
+    "year": 2021,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@firmbee?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/eMemmpUojlw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b8",
+    "shows": "A close up of a cell phone with the google logo in the background",
+    "file": "unsplash:0uMU42uRw28",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-the-google-logo-in-the-background-0uMU42uRw28?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Shutter Speed on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Shutter Speed",
+    "year": 2023,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@shutter_speed_?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0uMU42uRw28/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b9",
+    "shows": "A man standing in front of a google building",
+    "file": "unsplash:BaQsbDu8Oso",
+    "page": "https://unsplash.com/photos/a-man-standing-in-front-of-a-google-building-BaQsbDu8Oso?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1690983730723-37220d10db46?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1690983730723-37220d10db46?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Karollyne Videira Hubert on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Karollyne Videira Hubert",
+    "year": 2023,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@karohubert?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/BaQsbDu8Oso/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b10",
+    "shows": "The google logo is displayed in front of a black background",
+    "file": "unsplash:V8F_kUzqk0w",
+    "page": "https://unsplash.com/photos/the-google-logo-is-displayed-in-front-of-a-black-background-V8F_kUzqk0w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1678483790053-71367bc7a02c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1678483790053-71367bc7a02c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by BoliviaInteligente on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "BoliviaInteligente",
+    "year": 2023,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/V8F_kUzqk0w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b11",
+    "shows": "Youtube in smartphone",
+    "file": "unsplash:UfseYCHvIH0",
+    "page": "https://unsplash.com/photos/youtube-in-smartphone-UfseYCHvIH0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1541877944-ac82a091518a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1541877944-ac82a091518a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Szabo Viktor on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Szabo Viktor",
+    "year": 2018,
+    "how": "unsplash search: YouTube",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@vmxhu?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/UfseYCHvIH0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8WW91VHViZXxlbnwxfHx8fDE3OTM5NjAwMjd8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b12",
+    "shows": "Google logo neon light signage",
+    "file": "unsplash:jz4ca36oJ_M",
+    "page": "https://unsplash.com/photos/google-logo-neon-light-signage-jz4ca36oJ_M?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2396&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2396,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mitchell Luo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mitchell Luo",
+    "year": 2019,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mitchel3uo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/jz4ca36oJ_M/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b13",
+    "shows": "A person holding a cell phone in their hand",
+    "file": "unsplash:MuGEpHK8S4k",
+    "page": "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-MuGEpHK8S4k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1724322535079-11b08f7f5c88?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwUGl4ZWx8ZW58MXx8fHwxNzk1MDUwNDkwfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1724322535079-11b08f7f5c88?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwUGl4ZWx8ZW58MXx8fHwxNzk1MDUwNDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1349
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Amanz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Amanz",
+    "year": 2024,
+    "how": "unsplash search: Google Pixel",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@amanz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/MuGEpHK8S4k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwUGl4ZWx8ZW58MXx8fHwxNzk1MDUwNDkwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b14",
+    "shows": "The google logo is displayed on the side of a building",
+    "file": "unsplash:r-oebX7qWxM",
+    "page": "https://unsplash.com/photos/the-google-logo-is-displayed-on-the-side-of-a-building-r-oebX7qWxM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1688235142578-c4e1523c6347?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1688235142578-c4e1523c6347?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2400,
+     1350
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Adarsh Chauhan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Adarsh Chauhan",
+    "year": 2023,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dyno8426?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/r-oebX7qWxM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww",
+    "track_pending": true
+   },
+   {
+    "shot": "b15",
+    "shows": "Blue and white logo guessing game",
+    "file": "unsplash:B_j4LJbam5U",
+    "page": "https://unsplash.com/photos/blue-and-white-logo-guessing-game-B_j4LJbam5U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1600783245777-080fd7ff9253?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1600783245777-080fd7ff9253?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brett Jordan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brett Jordan",
+    "year": 2020,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brett_jordan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/B_j4LJbam5U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b16",
+    "shows": "Person holding black smartphone",
+    "file": "unsplash:BJXAxQ1L7dI",
+    "page": "https://unsplash.com/photos/person-holding-black-smartphone-BJXAxQ1L7dI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1548345680-f5475ea5df84?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwTWFwc3xlbnwxfHx8fDE3OTUwNTA2MzZ8MA&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1548345680-f5475ea5df84?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwTWFwc3xlbnwxfHx8fDE3OTUwNTA2MzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2256,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by henry perks on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "henry perks",
+    "year": 2019,
+    "how": "unsplash search: Google Maps",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hjkp?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/BJXAxQ1L7dI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwTWFwc3xlbnwxfHx8fDE3OTUwNTA2MzZ8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b17",
+    "shows": "Youtube logo displayed on a keyboard",
+    "file": "unsplash:HywcR2JY_ks",
+    "page": "https://unsplash.com/photos/youtube-logo-displayed-on-a-keyboard-HywcR2JY_ks?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1746608943026-e56ff017cd71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1746608943026-e56ff017cd71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zulfugar Karimov on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zulfugar Karimov",
+    "year": 2025,
+    "how": "unsplash search: YouTube",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zulfugarkarimov?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/HywcR2JY_ks/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b18",
+    "shows": "White smartphone with google logo and camera array",
+    "file": "unsplash:O6Or-El4hdU",
+    "page": "https://unsplash.com/photos/white-smartphone-with-google-logo-and-camera-array-O6Or-El4hdU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1756517313520-c6c25364ce65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8R29vZ2xlJTIwUGl4ZWx8ZW58MXx8fHwxNzk1MDUwNDkwfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1756517313520-c6c25364ce65?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8R29vZ2xlJTIwUGl4ZWx8ZW58MXx8fHwxNzk1MDUwNDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Samuel Angor on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Samuel Angor",
+    "year": 2025,
+    "how": "unsplash search: Google Pixel",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sammysays___?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/O6Or-El4hdU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8R29vZ2xlJTIwUGl4ZWx8ZW58MXx8fHwxNzk1MDUwNDkwfDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b19",
+    "shows": "A blurry photo of a colorful object",
+    "file": "unsplash:UZqq8Oi7PXk",
+    "page": "https://unsplash.com/photos/a-blurry-photo-of-a-colorful-object-UZqq8Oi7PXk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1577071835592-d5d55ffef660?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1577071835592-d5d55ffef660?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mitchell Luo on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mitchell Luo",
+    "year": 2019,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mitchel3uo?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/UZqq8Oi7PXk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b20",
+    "shows": "Black laptop computer turned on with red light",
+    "file": "unsplash:ooCoR8x0MmY",
+    "page": "https://unsplash.com/photos/black-laptop-computer-turned-on-with-red-light-ooCoR8x0MmY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1603566234384-f5f5b59168cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1603566234384-f5f5b59168cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Azamat E on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Azamat E",
+    "year": 2020,
+    "how": "unsplash search: YouTube",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@esen_aza?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ooCoR8x0MmY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b21",
+    "shows": "Person holding white android smartphone",
+    "file": "unsplash:eKTLh4_u7Ao",
+    "page": "https://unsplash.com/photos/person-holding-white-android-smartphone-eKTLh4_u7Ao?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1628320281190-89b24da58b0f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1628320281190-89b24da58b0f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Arkan Perdana on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Arkan Perdana",
+    "year": 2021,
+    "how": "unsplash search: Google",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@arkanperdana?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/eKTLh4_u7Ao/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b22",
+    "shows": "A close up of a cell phone with a youtube logo on it",
+    "file": "unsplash:usWE9pOuTfE",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-a-youtube-logo-on-it-usWE9pOuTfE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1548328928-34db1c5fcc1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1548328928-34db1c5fcc1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Christian Wiediger on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Christian Wiediger",
+    "year": 2019,
+    "how": "unsplash search: YouTube",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@christianw?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/usWE9pOuTfE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b23",
+    "shows": "A white Waymo autonomous vehicle with roof sensors parked on a city street",
+    "file": "unsplash:zktGhMjNxlY",
+    "page": "https://unsplash.com/photos/white-waymo-autonomous-vehicle-on-street-zktGhMjNxlY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1786683028355-8eee51174e45?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1786683028355-8eee51174e45?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Anil Baki Durmus on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Anil Baki Durmus",
+    "year": 2026,
+    "how": "unsplash search: Waymo",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@anldrms?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zktGhMjNxlY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww",
+    "track_pending": true
+   },
+   {
+    "shot": "b24",
+    "shows": "A phone with a youtube logo on it next to a potted plant",
+    "file": "unsplash:nwCikL2T5qg",
+    "page": "https://unsplash.com/photos/a-phone-with-a-youtube-logo-on-it-next-to-a-potted-plant-nwCikL2T5qg?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1647301710907-f2c679204a68?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1647301710907-f2c679204a68?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Collabstr on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Collabstr",
+    "year": 2022,
+    "how": "unsplash search: YouTube",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@collabstr?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nwCikL2T5qg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b25",
+    "shows": "A white remote control",
+    "file": "unsplash:PpgJZ3mMdq4",
+    "page": "https://unsplash.com/photos/a-white-remote-control-PpgJZ3mMdq4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1664451214549-42c1877dc53c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q2hyb21lY2FzdHxlbnwxfHx8fDE3OTUwNTA2NTN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1664451214549-42c1877dc53c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q2hyb21lY2FzdHxlbnwxfHx8fDE3OTUwNTA2NTN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Victor Carvalho on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Victor Carvalho",
+    "year": 2022,
+    "how": "unsplash search: Chromecast",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chamavito?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PpgJZ3mMdq4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q2hyb21lY2FzdHxlbnwxfHx8fDE3OTUwNTA2NTN8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b26",
+    "shows": "Graphical user interface",
+    "file": "unsplash:IQfzxoMOYgs",
+    "page": "https://unsplash.com/photos/graphical-user-interface-IQfzxoMOYgs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1666890665956-ff34ea13c2cf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1666890665956-ff34ea13c2cf?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Rashidul Islam on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rashidul Islam",
+    "year": 2022,
+    "how": "unsplash search: YouTube",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@uirashid?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IQfzxoMOYgs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA",
+    "track_pending": true
+   },
+   {
+    "shot": "b27",
+    "shows": "A building with a google sign on the front of it",
+    "file": "unsplash:ozxZtcfi7t0",
+    "page": "https://unsplash.com/photos/a-building-with-a-google-sign-on-the-front-of-it-ozxZtcfi7t0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1733703322890-2e9b8cf42bc3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1733703322890-2e9b8cf42bc3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      1200,
      1800
@@ -5915,66 +6806,44 @@
      0.5,
      0.5
     ],
-    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-    "licence_kind": "pd",
-    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
-    "author": "Carol M. Highsmith",
-    "year": 2012,
-    "how": "hand-picked",
-    "provider": "loc",
-    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
-   },
-   {
-    "shot": "hand",
-    "shows": "Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California",
-    "file": "loc:2013630577",
-    "page": "https://www.loc.gov/item/2013630577/",
-    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/2250,/0/default.jpg",
-    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/500,/0/default.jpg",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-    "licence_kind": "pd",
-    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
-    "author": "Carol M. Highsmith",
-    "year": 2012,
-    "how": "hand-picked",
-    "provider": "loc",
-    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
-   },
-   {
-    "shot": "b8",
-    "shows": "Computer screen showing google search",
-    "file": "unsplash:c4aT8MfEzdw",
-    "page": "https://unsplash.com/photos/computer-screen-showing-google-search-c4aT8MfEzdw?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1586125674857-4eb86880905d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1586125674857-4eb86880905d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Nathana Rebouças on Unsplash",
+    "credit": "Photo by Samuel Regan-Asante on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Nathana Rebouças",
-    "year": 2020,
+    "author": "Samuel Regan-Asante",
+    "year": 2024,
     "how": "unsplash search: Google",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@nathanareboucas?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/c4aT8MfEzdw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww"
+    "author_url": "https://unsplash.com/@reganography?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ozxZtcfi7t0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b28",
+    "shows": "A white Waymo autonomous vehicle on a street corner in San Francisco",
+    "file": "unsplash:reRZ2m4dPHE",
+    "page": "https://unsplash.com/photos/waymo-autonomous-vehicle-in-san-francisco-reRZ2m4dPHE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1788201818117-46ab5f82a16b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1788201818117-46ab5f82a16b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sulav Jung Hamal on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sulav Jung Hamal",
+    "year": 2026,
+    "how": "unsplash search: Waymo",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sulavjunghamal?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/reRZ2m4dPHE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww",
+    "track_pending": true
    },
    {
     "shot": "googleplex",
@@ -6546,60 +7415,9 @@
     "author_url": "https://www.flickr.com/photos/7940758@N07",
     "via": "openverse",
     "low_res": true
-   },
-   {
-    "shot": "hand",
-    "shows": "Google Headquarters, Mountain View, California",
-    "file": "loc:2013630578",
-    "page": "https://www.loc.gov/item/2013630578/",
-    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21150/full/1200,/0/default.jpg",
-    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21150/full/500,/0/default.jpg",
-    "size": [
-     1200,
-     1800
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-    "licence_kind": "pd",
-    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
-    "author": "Carol M. Highsmith",
-    "year": 2012,
-    "how": "hand-picked",
-    "provider": "loc",
-    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
-   },
-   {
-    "shot": "hand",
-    "shows": "[Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California]",
-    "file": "loc:2013630576",
-    "page": "https://www.loc.gov/item/2013630576/",
-    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21148/full/2250,/0/default.jpg",
-    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21148/full/500,/0/default.jpg",
-    "size": [
-     2250,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-    "licence_kind": "pd",
-    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
-    "author": "Carol M. Highsmith",
-    "year": 2012,
-    "how": "hand-picked",
-    "provider": "loc",
-    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 30
+  "checked": "2026-11-19"
  },
  "MO": {
   "name": "Altria",
@@ -13090,6 +13908,7 @@
    "ASML"
   ],
   "aliases": [],
+  "target": 30,
   "sector": "sector-tech",
   "photos": [
    {
@@ -13294,8 +14113,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-06",
-  "target": 30
+  "checked": "2026-11-19"
  },
  "AIZ": {
   "name": "Assurant",
