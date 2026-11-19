@@ -7,7 +7,6 @@
  ],
  "sector": "sector-materials",
  "target": 10,
- "fill_from": "sector-materials",
  "photos": [
   {
    "shows": "Smurfit Kappa Lauenburg, Germany",
@@ -167,6 +166,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Smurfit-Kappa_Papierfabrik_in_Hoya.jpg",
+   "plain": true
+  },
+  {
+   "shows": "WestRock Company in Downtown Richmond",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WestRock_Company_in_Downtown_Richmond.jpg/1920px-WestRock_Company_in_Downtown_Richmond.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/WestRock_Company_in_Downtown_Richmond.jpg/500px-WestRock_Company_in_Downtown_Richmond.jpg",
+   "size": [
+    1920,
+    1273
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "phil nunnally, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:WestRock_Company_in_Downtown_Richmond.jpg",
    "plain": true
   }
  ]

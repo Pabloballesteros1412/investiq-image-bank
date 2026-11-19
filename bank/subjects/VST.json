@@ -8,5 +8,40 @@
  "sector": "sector-utilities",
  "target": 10,
  "fill_from": "sector-utilities",
- "photos": []
+ "photos": [
+  {
+   "shows": "Comanche Peak Nuclear Power Plant August 2017 ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Comanche_Peak_Nuclear_Power_Plant_August_2017_%28cropped%29.jpg/1920px-Comanche_Peak_Nuclear_Power_Plant_August_2017_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Comanche_Peak_Nuclear_Power_Plant_August_2017_%28cropped%29.jpg/500px-Comanche_Peak_Nuclear_Power_Plant_August_2017_%28cropped%29.jpg",
+   "size": [
+    1920,
+    906
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Comanche_Peak_Nuclear_Power_Plant_August_2017_(cropped).jpg"
+  },
+  {
+   "shows": "Martin Lake Power Plant Tatum Texas 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Martin_Lake_Power_Plant_Tatum_Texas_2019.jpg/1920px-Martin_Lake_Power_Plant_Tatum_Texas_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Martin_Lake_Power_Plant_Tatum_Texas_2019.jpg/500px-Martin_Lake_Power_Plant_Tatum_Texas_2019.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Larry D. Moore, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Martin_Lake_Power_Plant_Tatum_Texas_2019.jpg"
+  }
+ ]
 }

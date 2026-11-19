@@ -10,6 +10,23 @@
  "fill_from": "sector-health",
  "photos": [
   {
+   "shows": "Thermo Fisher Scientific Markham office - Address: 145 Renfrew Drive, Markham, ON L3R 0N9",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ThermoFisherScientific4.jpg/1920px-ThermoFisherScientific4.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ThermoFisherScientific4.jpg/500px-ThermoFisherScientific4.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ThermoFisherScientific4.jpg"
+  },
+  {
    "shows": "Thermo Fisher headquarters",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thermo_Fisher_headquarters.jpg/1920px-Thermo_Fisher_headquarters.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Thermo_Fisher_headquarters.jpg/500px-Thermo_Fisher_headquarters.jpg",
@@ -65,6 +82,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/22528972@N05/7282284120",
+   "plain": true
+  },
+  {
+   "shows": "Elemental Analyzer System",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Elemental_Analyzer_System.jpg/1920px-Elemental_Analyzer_System.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Elemental_Analyzer_System.jpg/500px-Elemental_Analyzer_System.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TFS.19, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Elemental_Analyzer_System.jpg",
    "plain": true
   }
  ]

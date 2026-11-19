@@ -28,6 +28,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/27466406@N00/2300489153",
    "plain": true
+  },
+  {
+   "shows": "PerkinElmer headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/PerkinElmer_headquarters.jpg/1920px-PerkinElmer_headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/PerkinElmer_headquarters.jpg/500px-PerkinElmer_headquarters.jpg",
+   "size": [
+    1920,
+    1346
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PerkinElmer_headquarters.jpg",
+   "plain": true
+  },
+  {
+   "shows": "PerkinElmer and Wallac facilities in Lauste, Turku, Finland",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PerkinElmer_and_Wallac_facilities_in_Lauste%2C_Turku%2C_Finland.jpg/1920px-PerkinElmer_and_Wallac_facilities_in_Lauste%2C_Turku%2C_Finland.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/PerkinElmer_and_Wallac_facilities_in_Lauste%2C_Turku%2C_Finland.jpg/500px-PerkinElmer_and_Wallac_facilities_in_Lauste%2C_Turku%2C_Finland.jpg",
+   "size": [
+    1920,
+    1569
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kotivalo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PerkinElmer_and_Wallac_facilities_in_Lauste,_Turku,_Finland.jpg",
+   "plain": true
   }
  ]
 }

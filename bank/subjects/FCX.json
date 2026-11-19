@@ -7,7 +7,6 @@
  ],
  "sector": "sector-materials",
  "target": 10,
- "fill_from": "sector-materials",
  "photos": [
   {
    "shows": "Freeport-McMoRan, Phoenix",
@@ -25,6 +24,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Freeport-McMoRan,_Phoenix.jpg"
+  },
+  {
+   "shows": "Morenci Mine 2012",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Morenci_Mine_2012.jpg/1920px-Morenci_Mine_2012.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Morenci_Mine_2012.jpg/500px-Morenci_Mine_2012.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Stephanie Salisbury, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Morenci_Mine_2012.jpg"
   },
   {
    "shows": "Copper Square, Phoenix, Arizona - panoramio",

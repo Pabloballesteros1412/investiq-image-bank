@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "PNC Corporate Headquarters - Pittsburgh",
@@ -180,6 +179,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/136943345@N04/21995734130",
+   "plain": true
+  },
+  {
+   "shows": "PNC Philly 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/PNC_Philly_1.jpg/1280px-PNC_Philly_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/PNC_Philly_1.jpg/500px-PNC_Philly_1.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Smallbones, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PNC_Philly_1.jpg",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Illumina MiSeq · dnasequencer, ngs, business, computer, contemporary",
@@ -28,6 +27,23 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/31166238@N02/8524822521",
    "plain": true
+  },
+  {
+   "shows": "Illumina, Inc.: Illumina",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NovaSeq_6000.jpg/1280px-NovaSeq_6000.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NovaSeq_6000.jpg/500px-NovaSeq_6000.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Magnus Manske, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NovaSeq_6000.jpg"
   },
   {
    "shows": "Illumina Hiseq 2000 sequencers, BGI Hong Kong sequencing room",

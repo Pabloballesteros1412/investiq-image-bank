@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 10,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Charter Spectrum Headquarters ( )",
@@ -45,6 +44,23 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/160344139@N02/50531609316",
    "plain": true
+  },
+  {
+   "shows": "Charter Spectrum Cable Internet Installation Vehicle",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Charter_Spectrum_Cable_Internet_Installation_Vehicle_%2833726014308%29.jpg/1920px-Charter_Spectrum_Cable_Internet_Installation_Vehicle_%2833726014308%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Charter_Spectrum_Cable_Internet_Installation_Vehicle_%2833726014308%29.jpg/500px-Charter_Spectrum_Cable_Internet_Installation_Vehicle_%2833726014308%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Charter_Spectrum_Cable_Internet_Installation_Vehicle_(33726014308).jpg"
   },
   {
    "shows": "Charter Communications HQ Stamford",

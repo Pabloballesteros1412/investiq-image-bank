@@ -120,6 +120,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/17425845@N00/3299330245",
    "plain": true
+  },
+  {
+   "shows": "Atmel-corporate-headquarters San-Jose 2013",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Atmel-corporate-headquarters_San-Jose_2013.jpg/1920px-Atmel-corporate-headquarters_San-Jose_2013.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Atmel-corporate-headquarters_San-Jose_2013.jpg/500px-Atmel-corporate-headquarters_San-Jose_2013.jpg",
+   "size": [
+    1920,
+    1404
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Rako, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Atmel-corporate-headquarters_San-Jose_2013.jpg",
+   "plain": true
   }
  ]
 }

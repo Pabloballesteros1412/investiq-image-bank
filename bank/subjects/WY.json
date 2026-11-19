@@ -156,6 +156,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/41243200@N08/6083653606",
    "plain": true
+  },
+  {
+   "shows": "Weyerhaeuser in Simsboro, LA 3639",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Weyerhaeuser_in_Simsboro%2C_LA_IMG_3639.JPG/1920px-Weyerhaeuser_in_Simsboro%2C_LA_IMG_3639.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Weyerhaeuser_in_Simsboro%2C_LA_IMG_3639.JPG/500px-Weyerhaeuser_in_Simsboro%2C_LA_IMG_3639.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Billy Hathorn, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Weyerhaeuser_in_Simsboro,_LA_IMG_3639.JPG",
+   "plain": true
   }
  ]
 }

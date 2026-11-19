@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Luxor Hotel Feb - 2019",
@@ -169,6 +168,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/83265757@N00/73472750",
+   "plain": true
+  },
+  {
+   "shows": "MGM Grand Sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MGM_Grand_Sign.jpg/1920px-MGM_Grand_Sign.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MGM_Grand_Sign.jpg/500px-MGM_Grand_Sign.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Noah Wulf, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MGM_Grand_Sign.jpg",
    "plain": true
   }
  ]

@@ -66,6 +66,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/164144782@N02/29349772717",
    "plain": true
+  },
+  {
+   "shows": "CAT S60 phone with Flir thermal camera",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CAT_S60_phone_with_Flir_thermal_camera_%2826089237983%29.jpg/1920px-CAT_S60_phone_with_Flir_thermal_camera_%2826089237983%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CAT_S60_phone_with_Flir_thermal_camera_%2826089237983%29.jpg/500px-CAT_S60_phone_with_Flir_thermal_camera_%2826089237983%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Maurizio Pesce from Milan, Italia, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CAT_S60_phone_with_Flir_thermal_camera_(26089237983).jpg",
+   "plain": true
+  },
+  {
+   "shows": "FLIR entrance sign",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FLIR_entrance_sign.JPG/1920px-FLIR_entrance_sign.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/FLIR_entrance_sign.JPG/500px-FLIR_entrance_sign.JPG",
+   "size": [
+    1920,
+    1745
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "M.O. Stevens, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:FLIR_entrance_sign.JPG",
+   "plain": true
   }
  ]
 }
