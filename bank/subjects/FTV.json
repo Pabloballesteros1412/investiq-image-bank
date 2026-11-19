@@ -8,5 +8,26 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Electronics Workbench · electronics, fluke, make, oscilloscope, tektronix",
+   "url": "https://live.staticflickr.com/65/159018751_defc314b83_b.jpg",
+   "preview": "https://live.staticflickr.com/65/159018751_defc314b83_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jamesbastow on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/80758054@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/80758054@N00/159018751",
+   "plain": true
+  }
+ ]
 }

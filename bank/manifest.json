@@ -53133,7 +53133,35 @@
   "aliases": [],
   "target": 10,
   "sector": "sector-industrials",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Electronics Workbench · electronics, fluke, make, oscilloscope, tektronix",
+    "file": "flickr:159018751",
+    "page": "https://www.flickr.com/photos/80758054@N00/159018751",
+    "url": "https://live.staticflickr.com/65/159018751_defc314b83_b.jpg",
+    "preview": "https://live.staticflickr.com/65/159018751_defc314b83_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by jamesbastow on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "jamesbastow",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/80758054@N00",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
   "checked": "2026-11-19"
  },
  "FOXA": {
@@ -55265,7 +55293,35 @@
   "aliases": [],
   "target": 10,
   "sector": "sector-industrials",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Windturbine Haliade -X · halladex, maasvlakte2, offshore, sif, windenergie",
+    "file": "flickr:50578901952",
+    "page": "https://www.flickr.com/photos/68359921@N08/50578901952",
+    "url": "https://live.staticflickr.com/65535/50578901952_106162c110_b.jpg",
+    "preview": "https://live.staticflickr.com/65535/50578901952_106162c110_z.jpg",
+    "size": [
+     698,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by kees torn on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "kees torn",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/68359921@N08",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
   "checked": "2026-11-19"
  },
  "GEN": {
@@ -63230,7 +63286,35 @@
   "aliases": [],
   "target": 10,
   "sector": "sector-health",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Humana Tower, Louisville 3/11/19",
+    "file": "flickr:46635660374",
+    "page": "https://www.flickr.com/photos/38315261@N00/46635660374",
+    "url": "https://live.staticflickr.com/7808/46635660374_182a7c588d_b.jpg",
+    "preview": "https://live.staticflickr.com/7808/46635660374_182a7c588d_z.jpg",
+    "size": [
+     683,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Sharon Mollerus on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Sharon Mollerus",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/38315261@N00",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
   "checked": "2026-11-19"
  },
  "HBAN": {
@@ -67650,8 +67734,7 @@
     "how": "unsplash search: da Vinci surgical robot",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/_G8FVjhnStM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/_G8FVjhnStM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA"
    },
    {
     "shot": "b2",
@@ -67677,8 +67760,7 @@
     "how": "unsplash search: Intuitive Surgical",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ncDB2Sbwvgw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8SW50dWl0aXZlJTIwU3VyZ2ljYWx8ZW58MXx8fHwxNzk0MDA2NjkyfDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/ncDB2Sbwvgw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8SW50dWl0aXZlJTIwU3VyZ2ljYWx8ZW58MXx8fHwxNzk0MDA2NjkyfDA"
    }
   ],
   "checked": "2026-11-19"
@@ -115333,10 +115415,10 @@
    "SOFI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-07",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "SOLV": {
   "name": "Solventum",
@@ -115347,7 +115429,62 @@
   "aliases": [],
   "target": 10,
   "sector": "sector-health",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Littmann · medicine, medizin, stethoscope, stethoskop, studies",
+    "file": "flickr:4298328221",
+    "page": "https://www.flickr.com/photos/26242865@N04/4298328221",
+    "url": "https://live.staticflickr.com/2697/4298328221_89fb150917_b.jpg",
+    "preview": "https://live.staticflickr.com/2697/4298328221_89fb150917_z.jpg",
+    "size": [
+     1024,
+     684
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Katrin Gilger on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Katrin Gilger",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/26242865@N04",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Littmann · medicine, medizin, stethoscope, stethoskop, studies",
+    "file": "flickr:4299072550",
+    "page": "https://www.flickr.com/photos/26242865@N04/4299072550",
+    "url": "https://live.staticflickr.com/4053/4299072550_a18ded827d_b.jpg",
+    "preview": "https://live.staticflickr.com/4053/4299072550_a18ded827d_z.jpg",
+    "size": [
+     684,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Katrin Gilger on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Katrin Gilger",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/26242865@N04",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
   "checked": "2026-11-19"
  },
  "SONY": {

@@ -8,5 +8,26 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Windturbine Haliade -X · halladex, maasvlakte2, offshore, sif, windenergie",
+   "url": "https://live.staticflickr.com/65535/50578901952_106162c110_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/50578901952_106162c110_z.jpg",
+   "size": [
+    698,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kees torn on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/68359921@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/68359921@N08/50578901952",
+   "plain": true
+  }
+ ]
 }

@@ -2170,6 +2170,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Fortinet FortiGate 3810A · 2012, 3810a, amsterdam, canonef12iiextensiontube, canonef50mmf18mkii: Photo by dvanzuijlekom on Flickr, CC BY-SA 2.0. [8183860813](https://www.flickr.com/photos/52365139@N05/8183860813)
 - Fortinet FortiGate 100D · computing, firewall, fortigate, fortinet, it: Photo by webernetz on Flickr, CC BY 2.0. [37855201782](https://www.flickr.com/photos/144534024@N07/37855201782)
 
+## Fortive (FTV)
+
+- Electronics Workbench · electronics, fluke, make, oscilloscope, tektronix: Photo by jamesbastow on Flickr, CC BY-SA 2.0. [159018751](https://www.flickr.com/photos/80758054@N00/159018751)
+
 ## Fox Corporation (FOXA)
 
 - 1211 Avenue of the Americas: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [1211 Avenue of the Americas.jpg](https://commons.wikimedia.org/wiki/File:1211_Avenue_of_the_Americas.jpg)
@@ -2268,6 +2272,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Metastron (Strontium-89), GE Healthcare: IAEA, CC BY-SA 2.0, via Wikimedia Commons. [Metastron (Strontium-89), GE Healthcare.jpg](https://commons.wikimedia.org/wiki/File:Metastron_(Strontium-89),_GE_Healthcare.jpg)
 - GE Healthcare Typhoon 9400 scanner: Photo by jepoirrier on Flickr, CC BY-SA 2.0. [839586263](https://www.flickr.com/photos/57519914@N00/839586263)
 - GE Healthcare Ettan Spot Picker in action: Photo by jepoirrier on Flickr, CC BY-SA 2.0. [358660660](https://www.flickr.com/photos/57519914@N00/358660660)
+
+## GE Vernova (GEV)
+
+- Windturbine Haliade -X · halladex, maasvlakte2, offshore, sif, windenergie: Photo by kees torn on Flickr, CC BY-SA 2.0. [50578901952](https://www.flickr.com/photos/68359921@N08/50578901952)
 
 ## Gen Digital (GEN)
 
@@ -2575,6 +2583,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - HSBC Building, Hongkong (Ank Kumar, Infosys) 03: Ank Kumar, CC BY-SA 4.0, via Wikimedia Commons. [HSBC Building, Hongkong (Ank Kumar, Infosys) 03.jpg](https://commons.wikimedia.org/wiki/File:HSBC_Building,_Hongkong_(Ank_Kumar,_Infosys)_03.jpg)
 - HSBC Building, Markham Liberty Square, Markham: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [HSBCMarkhamLibertySquare2.jpg](https://commons.wikimedia.org/wiki/File:HSBCMarkhamLibertySquare2.jpg)
 - HK tram tour view 德輔道西 Des Voeux Road West 西營盤 Sai Ying Pun August 2025 N13P 36: HDISMMSY POON YAU, CC0, via Wikimedia Commons. [HK tram tour view 德輔道西 Des Voeux Road West 西營盤 Sai Ying Pun August 2025 N13P 36.jpg](https://commons.wikimedia.org/wiki/File:HK_tram_tour_view_%E5%BE%B7%E8%BC%94%E9%81%93%E8%A5%BF_Des_Voeux_Road_West_%E8%A5%BF%E7%87%9F%E7%9B%A4_Sai_Ying_Pun_August_2025_N13P_36.jpg)
+
+## Humana (HUM)
+
+- Humana Tower, Louisville 3/11/19: Photo by Sharon Mollerus on Flickr, CC BY 2.0. [46635660374](https://www.flickr.com/photos/38315261@N00/46635660374)
 
 ## Huntington Bancshares (HBAN)
 
@@ -4705,6 +4717,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Snowflake (SNOW)
 
 - Snowflake (Snowflake Inc.): Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [SnowflakeBooth.jpg](https://commons.wikimedia.org/wiki/File:SnowflakeBooth.jpg)
+
+## Solventum (SOLV)
+
+- Littmann · medicine, medizin, stethoscope, stethoskop, studies: Photo by Katrin Gilger on Flickr, CC BY-SA 2.0. [4298328221](https://www.flickr.com/photos/26242865@N04/4298328221)
+- Littmann · medicine, medizin, stethoscope, stethoskop, studies: Photo by Katrin Gilger on Flickr, CC BY-SA 2.0. [4299072550](https://www.flickr.com/photos/26242865@N04/4299072550)
 
 ## Sony (SONY)
 
