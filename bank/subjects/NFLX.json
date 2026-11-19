@@ -7,8 +7,27 @@
  ],
  "sector": "sector-communication",
  "target": 30,
- "fill_from": "sector-communication",
  "photos": [
+  {
+   "shows": "Adios Senor Netflix · business, document, paper",
+   "url": "https://live.staticflickr.com/3535/3890718857_c021a4d254_b.jpg",
+   "preview": "https://live.staticflickr.com/3535/3890718857_c021a4d254_z.jpg",
+   "size": [
+    1024,
+    681
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by cogdogblog on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/37996646802@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37996646802@N01/3890718857",
+   "plain": true
+  },
   {
    "shows": "Netflix Los Angeles office",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Netflix_Los_Angeles_office.jpg/1920px-Netflix_Los_Angeles_office.jpg",
@@ -63,24 +82,238 @@
    "source": "https://unsplash.com/photos/a-television-with-the-netflix-logo-lit-up-in-the-dark-GrzoKN1aqSg?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Adios Senor Netflix · business, document, paper",
-   "url": "https://live.staticflickr.com/3535/3890718857_c021a4d254_b.jpg",
-   "preview": "https://live.staticflickr.com/3535/3890718857_c021a4d254_z.jpg",
+   "shows": "A flat screen tv sitting on top of a entertainment center",
+   "url": "https://images.unsplash.com/photo-1717295248299-74c084c31184?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TmV0ZmxpeCUyMGxvZ298ZW58MXx8fHwxNzk1MDU0MjU4fDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1717295248299-74c084c31184?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TmV0ZmxpeCUyMGxvZ298ZW58MXx8fHwxNzk1MDU0MjU4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1024,
-    681
+    2400,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by cogdogblog on Flickr, CC0",
-   "licence": "CC0",
-   "author_url": "https://www.flickr.com/photos/37996646802@N01",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/37996646802@N01/3890718857",
-   "plain": true
+   "credit": "Photo by BoliviaInteligente on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-flat-screen-tv-sitting-on-top-of-a-entertainment-center-8KJymJAC9sA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A dark room with a television and a neon netflix sign",
+   "url": "https://images.unsplash.com/photo-1717295248302-543d5a49091f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fE5ldGZsaXglMjBsb2dvfGVufDF8fHx8MTc5NTA1NDI1OHww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1717295248302-543d5a49091f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fE5ldGZsaXglMjBsb2dvfGVufDF8fHx8MTc5NTA1NDI1OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by BoliviaInteligente on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-dark-room-with-a-television-and-a-neon-netflix-sign-0lfV6wbbP20?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A laptop computer sitting on top of a bed",
+   "url": "https://images.unsplash.com/photo-1643208590063-1a3e5b4bf115?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE5ldGZsaXglMjBhcHB8ZW58MXx8fHwxNzk1MDU0MTYzfDA&ixlib=rb-4.1.0&w=2248&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1643208590063-1a3e5b4bf115?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE5ldGZsaXglMjBhcHB8ZW58MXx8fHwxNzk1MDU0MTYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2248,
+    1501
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Thibault Penin on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@thibaultpenin?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-bed-yGcwL8jSxwU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A red netflix sign sitting on top of a desk",
+   "url": "https://images.unsplash.com/photo-1627873959341-905d35362273?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fE5ldGZsaXglMjBhcHB8ZW58MXx8fHwxNzk1MDU0MTYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1627873959341-905d35362273?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjF8fE5ldGZsaXglMjBhcHB8ZW58MXx8fHwxNzk1MDU0MTYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by DCL \"650\" on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dclmister?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-red-netflix-sign-sitting-on-top-of-a-desk-qGUnC07RMIQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black remote control on brown wooden table",
+   "url": "https://images.unsplash.com/photo-1586081467622-7acbbc73da3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE5ldGZsaXglMjBvbiUyMFRWfGVufDF8fHx8MTc5NTA1NDM3M3ww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1586081467622-7acbbc73da3f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTd8fE5ldGZsaXglMjBvbiUyMFRWfGVufDF8fHx8MTc5NTA1NDM3M3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Piotr Cichosz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@ptrc?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-remote-control-on-brown-wooden-table-hiGHXVAgpUo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A red netflix sign with the word netflix on it",
+   "url": "https://images.unsplash.com/photo-1706426622289-0819e32b0035?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fE5ldGZsaXglMjBsb2dvfGVufDF8fHx8MTc5NTA1NDI1OHww&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1706426622289-0819e32b0035?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fE5ldGZsaXglMjBsb2dvfGVufDF8fHx8MTc5NTA1NDI1OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1500,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Farhat Altaf on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@farhat099?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-red-netflix-sign-with-the-word-netflix-on-it-BHTHrmcNhP0?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black and red digital watch",
+   "url": "https://images.unsplash.com/photo-1589567325985-fd5f1bc73ce4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1589567325985-fd5f1bc73ce4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1833
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sayan Ghosh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@7th_verse?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-and-red-digital-watch-V0GSXrRuBA4?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of a laptop with the word netflix on the screen",
+   "url": "https://images.unsplash.com/photo-1588672455574-c4d93ec7e525?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fE5ldGZsaXglMjBhcHB8ZW58MXx8fHwxNzk1MDU0MTYzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1588672455574-c4d93ec7e525?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fE5ldGZsaXglMjBhcHB8ZW58MXx8fHwxNzk1MDU0MTYzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tamas Pap on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tamasp?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-laptop-with-the-word-netflix-on-the-screen-Q9i_GUQjkV8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black digital watch at 12 00",
+   "url": "https://images.unsplash.com/photo-1588776817510-e8410650110d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1588776817510-e8410650110d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1833
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Sayan Ghosh on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@7th_verse?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-digital-watch-at-12-00-L1kAK6mBIrc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of a calculator",
+   "url": "https://images.unsplash.com/photo-1652265932153-03c3c4b475cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1652265932153-03c3c4b475cc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2251,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Denny Müller on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@redaquamedia?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-calculator-P4_y5FuOeGQ?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Computer monitor showing Netflix selection screen",
+   "url": "https://images.unsplash.com/photo-1512070750041-b9479c107194?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fE5ldGZsaXh8ZW58MXx8fHwxNzkzOTcwODc3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1512070750041-b9479c107194?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fE5ldGZsaXh8ZW58MXx8fHwxNzkzOTcwODc3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1719
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by charlesdeluvio on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@charlesdeluvio?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/computer-monitor-showing-netflix-selection-screen-MDUI8XIq6Mc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Black remote control showing netflix, prime video, and disney+ buttons",
+   "url": "https://images.unsplash.com/photo-1779045324559-3b1a5635b910?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1779045324559-3b1a5635b910?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjR8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Anthony Gomez on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@anthonygomez?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/black-remote-control-showing-netflix-prime-video-and-disney-buttons-8kezqNgYNK8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person holding a remote control in their hand",
+   "url": "https://images.unsplash.com/photo-1644253967489-41b8b45a29f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1644253967489-41b8b45a29f6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Travis on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@tvieso?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-remote-control-in-their-hand-dZGQp0LPWf8?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "101 Albright Way",
@@ -317,66 +550,6 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/27519540@N04/2654302987",
-   "plain": true
-  },
-  {
-   "shows": "Netflix envelope · netflix, business, note, office, paper",
-   "url": "https://live.staticflickr.com/3200/2655128664_302f3a5b47_b.jpg",
-   "preview": "https://live.staticflickr.com/3200/2655128664_302f3a5b47_z.jpg",
-   "size": [
-    1024,
-    683
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Marit & Toomas Hinnosaar on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/27519540@N04",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/27519540@N04/2655128664",
-   "plain": true
-  },
-  {
-   "shows": "Orange is the new Black Netflix Ad, Times Square - NYC",
-   "url": "https://live.staticflickr.com/1950/44518215424_f78c6b165d_b.jpg",
-   "preview": "https://live.staticflickr.com/1950/44518215424_f78c6b165d_z.jpg",
-   "size": [
-    1024,
-    768
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by willbuckner on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/160344139@N02",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/160344139@N02/44518215424",
-   "plain": true
-  },
-  {
-   "shows": "Generic Netflix DVD · dvd, business, document, office, paper",
-   "url": "https://live.staticflickr.com/4087/5044329667_97167e62e7_b.jpg",
-   "preview": "https://live.staticflickr.com/4087/5044329667_97167e62e7_z.jpg",
-   "size": [
-    1024,
-    677
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by JoePhoto on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/18474854@N00",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/18474854@N00/5044329667",
    "plain": true
   }
  ]
