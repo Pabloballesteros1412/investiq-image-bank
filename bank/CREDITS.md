@@ -201,6 +201,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Align Technology (ALGN)
 
+- Woman adjusting clear dental aligners on teeth: Photo by Harold Hisona on Unsplash. [uTUsnv_UCSQ](https://unsplash.com/photos/woman-adjusting-clear-dental-aligners-on-teeth-uTUsnv_UCSQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Joseph M. Hogan, Align Technology CEO (per Wikidata): St. Gallen Symposium, CC BY-SA 4.0, via Wikimedia Commons. [39. St.Gallen Symposium-Joseph M. Hogan-HSGN 028-01941.JPG](https://commons.wikimedia.org/wiki/File:39._St.Gallen_Symposium-Joseph_M._Hogan-HSGN_028-01941.JPG)
 
 ## Allegion (ALLE)
@@ -531,6 +532,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Atlassian (TEAM)
 
 - Mike Cannon-Brookes, Atlassian CEO (per Wikidata): Atlassian, CC0, via Wikimedia Commons. [Mike Cannon-Brookes Australian businessman.jpg](https://commons.wikimedia.org/wiki/File:Mike_Cannon-Brookes_Australian_businessman.jpg)
+- Laptop displaying the atlassian logo: Photo by William Liu on Unsplash. [RYticsV2duE](https://unsplash.com/photos/laptop-displaying-the-atlassian-logo-RYticsV2duE?utm_source=investiq_image_bank&utm_medium=referral)
 - Partners Lisbon Web Summit 2017: Web Summit, CC BY 2.0, via Wikimedia Commons. [Partners Lisbon Web Summit 2017 (38218760042).jpg](https://commons.wikimedia.org/wiki/File:Partners_Lisbon_Web_Summit_2017_(38218760042).jpg)
 - Atlassian (Japanese branch office) in Marinos Town: Thirteen-fri, CC BY-SA 3.0, via Wikimedia Commons. [Atlassian (Japanese branch office) in Marinos Town.jpg](https://commons.wikimedia.org/wiki/File:Atlassian_(Japanese_branch_office)_in_Marinos_Town.jpg)
 - Atlassian, Sydney · atlassian, newsouthwales, nsw, sydney: Photo by avlxyz on Flickr, CC BY-SA 2.0. [3730958249](https://www.flickr.com/photos/10559879@N00/3730958249)
@@ -1354,8 +1356,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Consolidated Edison (ED)
 
-- Consolidated Edison Building: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Consolidated Edison Building (54574210764).jpg](https://commons.wikimedia.org/wiki/File:Consolidated_Edison_Building_(54574210764).jpg)
 - Consolidated Edison Building: Photo by ajay_suresh on Flickr, CC BY 2.0. [54574210764](https://www.flickr.com/photos/83136374@N05/54574210764)
+- Consolidated Edison Building: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Consolidated Edison Building (54574210764).jpg](https://commons.wikimedia.org/wiki/File:Consolidated_Edison_Building_(54574210764).jpg)
 - East 74th Street IRT Power Station, New York City, 1109 1026 DxO: Jakub Hałun, CC BY 4.0, via Wikimedia Commons. [East 74th Street IRT Power Station, New York City, 20231001 1109 1026 DxO.jpg](https://commons.wikimedia.org/wiki/File:East_74th_Street_IRT_Power_Station,_New_York_City,_20231001_1109_1026_DxO.jpg)
 - 11 27 34 Consolidated Edison (ConEd) truck along East 138th Street in the Bronx, New York City, New York: Famartin, CC BY-SA 4.0, via Wikimedia Commons. [2024-05-30 11 27 34 Consolidated Edison (ConEd) truck along East 138th Street in the Bronx, New York City, New York.jpg](https://commons.wikimedia.org/wiki/File:2024-05-30_11_27_34_Consolidated_Edison_(ConEd)_truck_along_East_138th_Street_in_the_Bronx,_New_York_City,_New_York.jpg)
 - 57th St 3rd Av td 14 - Gotham Towne House: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [57th St 3rd Av td 14 - Gotham Towne House.jpg](https://commons.wikimedia.org/wiki/File:57th_St_3rd_Av_td_14_-_Gotham_Towne_House.jpg)
@@ -2027,8 +2029,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## First Solar (FSLR)
 
-- 02-09-15 First Solar Desert Sunlight Solar Farm: U.S. Department of the Interior, CC BY-SA 2.0, via Wikimedia Commons. [02-09-15 First Solar Desert Sunlight Solar Farm (15863210084).jpg](https://commons.wikimedia.org/wiki/File:02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_(15863210084).jpg)
 - First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5815934553](https://www.flickr.com/photos/97785072@N00/5815934553)
+- 02-09-15 First Solar Desert Sunlight Solar Farm: U.S. Department of the Interior, CC BY-SA 2.0, via Wikimedia Commons. [02-09-15 First Solar Desert Sunlight Solar Farm (15863210084).jpg](https://commons.wikimedia.org/wiki/File:02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_(15863210084).jpg)
 - First Solar in Frankfurt/Oder.: Hanno Böck, CC0, via Wikimedia Commons. [FirstSolarWerk.jpg](https://commons.wikimedia.org/wiki/File:FirstSolarWerk.jpg)
 - Dornbirn-Montfortstrasse 21-MEW-Dach-FirstSolar-MuenchenSolar-01ASD: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. [Dornbirn-Montfortstrasse 21-MEW-Dach-FirstSolar-MuenchenSolar-01ASD.jpg](https://commons.wikimedia.org/wiki/File:Dornbirn-Montfortstrasse_21-MEW-Dach-FirstSolar-MuenchenSolar-01ASD.jpg)
 - First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5815984067](https://www.flickr.com/photos/97785072@N00/5815984067)
@@ -2357,6 +2359,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Hewlett Packard Enterprise (HPE)
 
+- Brown and white concrete building under blue sky during daytime: Photo by Gene Gallin on Unsplash. [sE01vAlblC0](https://unsplash.com/photos/brown-and-white-concrete-building-under-blue-sky-during-daytime-sE01vAlblC0?utm_source=investiq_image_bank&utm_medium=referral)
 - HPE headquarters: Unknown author, CC0, via Wikimedia Commons. [HPE headquarters.jpg](https://commons.wikimedia.org/wiki/File:HPE_headquarters.jpg)
 - Hewlett Packard (HP) Enterprise Office Building - Omaha, Nebraska: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Hewlett Packard (HP) Enterprise Office Building - Omaha, Nebraska (29991644447).jpg](https://commons.wikimedia.org/wiki/File:Hewlett_Packard_(HP)_Enterprise_Office_Building_-_Omaha,_Nebraska_(29991644447).jpg)
 
@@ -2430,6 +2433,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Hormel Foods (HRL)
 
+- Three jars of skippy creamy peanut butter: Photo by Zoshua Colah on Unsplash. [jgiyGOUO19E](https://unsplash.com/photos/three-jars-of-skippy-creamy-peanut-butter-jgiyGOUO19E?utm_source=investiq_image_bank&utm_medium=referral)
+- A wall of stacked spam cans: Photo by Diwei Zhu on Unsplash. [QnUCnHZrOQk](https://unsplash.com/photos/a-wall-of-stacked-spam-cans-QnUCnHZrOQk?utm_source=investiq_image_bank&utm_medium=referral)
 - Hormel Corporate Headquarters, Austin, Minnesota: Myotus, CC BY-SA 4.0, via Wikimedia Commons. [Hormel Corporate Headquarters, Austin, Minnesota.jpg](https://commons.wikimedia.org/wiki/File:Hormel_Corporate_Headquarters,_Austin,_Minnesota.jpg)
 - Beijing Hormel Foods Co Ltd: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Beijing Hormel Foods Co Ltd (20250408154822).jpg](https://commons.wikimedia.org/wiki/File:Beijing_Hormel_Foods_Co_Ltd_(20250408154822).jpg)
 - Hormel Plant, Austin, Minnesota-01: Myotus, CC BY-SA 4.0, via Wikimedia Commons. [Hormel Plant, Austin, Minnesota-01.jpg](https://commons.wikimedia.org/wiki/File:Hormel_Plant,_Austin,_Minnesota-01.jpg)
@@ -2608,6 +2613,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## International Paper (IP)
 
 - Former International Paper, Bastrop, LA 2806 ( ): Billy Hathorn, CC BY-SA 3.0, via Wikimedia Commons. [Former International Paper, Bastrop, LA IMG 2806 (cropped).JPG](https://commons.wikimedia.org/wiki/File:Former_International_Paper,_Bastrop,_LA_IMG_2806_(cropped).JPG)
+- Smoke billows from an International Paper mill in New Bern, North Carolina: Photo: Carol M. Highsmith, Library of Congress, public domain. [2017881524](https://www.loc.gov/item/2017881524/)
 - International Paper Co., Cullen, LA 5138: Billy Hathorn, CC BY-SA 3.0, via Wikimedia Commons. [International Paper Co., Cullen, LA IMG 5138.JPG](https://commons.wikimedia.org/wiki/File:International_Paper_Co.,_Cullen,_LA_IMG_5138.JPG)
 - Former International Paper, Bastrop, LA 2806: Billy Hathorn, CC BY-SA 3.0, via Wikimedia Commons. [Former International Paper, Bastrop, LA IMG 2806.JPG](https://commons.wikimedia.org/wiki/File:Former_International_Paper,_Bastrop,_LA_IMG_2806.JPG)
 - International Paper - Fábrica de Luiz Antônio - Capacidade de Produção, 360 mil toneladas de papel-ano - panoramio: MARCO AURÉLIO ESPARZ…, CC BY-SA 3.0, via Wikimedia Commons. [International Paper - Fábrica de Luiz Antônio - Capacidade de Produção, 360 mil toneladas de papel-ano - panoramio.jpg](https://commons.wikimedia.org/wiki/File:International_Paper_-_F%C3%A1brica_de_Luiz_Ant%C3%B4nio_-_Capacidade_de_Produ%C3%A7%C3%A3o,_360_mil_toneladas_de_papel-ano_-_panoramio.jpg)
@@ -3423,6 +3429,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Motorola Solutions (MSI)
 
 - Motorola Solutions IL01 tower: CacioPepeLePu, CC BY-SA 4.0, via Wikimedia Commons. [Motorola Solutions IL01 tower.jpg](https://commons.wikimedia.org/wiki/File:Motorola_Solutions_IL01_tower.jpg)
+- Black and gray sony digital device: Photo by Everyday basics on Unsplash. [UD5dKdlrdZk](https://unsplash.com/photos/black-and-gray-sony-digital-device-UD5dKdlrdZk?utm_source=investiq_image_bank&utm_medium=referral)
 - Motorola PRX C451: Bohdan Bazooka, CC0, via Wikimedia Commons. [Motorola PRX C451.jpg](https://commons.wikimedia.org/wiki/File:Motorola_PRX_C451.jpg)
 - Motorola cellular telephone in Rio de Janeiro, Brazil: Wilfredor, CC0, via Wikimedia Commons. [Motorola cellular telephone in Rio de Janeiro, Brazil.jpg](https://commons.wikimedia.org/wiki/File:Motorola_cellular_telephone_in_Rio_de_Janeiro,_Brazil.jpg)
 - Motorola MCR 4500XL: Bohdan Bazooka, CC0, via Wikimedia Commons. [Motorola MCR 4500XL.jpg](https://commons.wikimedia.org/wiki/File:Motorola_MCR_4500XL.jpg)
@@ -4457,6 +4464,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Skydance (SKYD)
 
+- Fountain in the middle of the city during daytime: Photo by Hannah Wernecke on Unsplash. [fisziRQjStc](https://unsplash.com/photos/fountain-in-the-middle-of-the-city-during-daytime-fisziRQjStc?utm_source=investiq_image_bank&utm_medium=referral)
+- Paramount water tower against a clear blue sky: Photo by James A. Molnar on Unsplash. [ulgy4P7xvdQ](https://unsplash.com/photos/paramount-water-tower-against-a-clear-blue-sky-ulgy4P7xvdQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Paramount studios' sign stands against the blue sky: Photo by Romain Malaunay on Unsplash. [ascWelNLO-k](https://unsplash.com/photos/paramount-studios-sign-stands-against-the-blue-sky-ascWelNLO-k?utm_source=investiq_image_bank&utm_medium=referral)
+- Paramount pictures studio entrance with stage 4 sign: Photo by Darien Attridge on Unsplash. [2dsH2khaB8Y](https://unsplash.com/photos/paramount-pictures-studio-entrance-with-stage-4-sign-2dsH2khaB8Y?utm_source=investiq_image_bank&utm_medium=referral)
 - Paramount Skydance One Astor Plaza: Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons. [Paramount Skydance One Astor Plaza.jpg](https://commons.wikimedia.org/wiki/File:Paramount_Skydance_One_Astor_Plaza.jpg)
 - Times Sq Nov 2021 112: Epicgenius, CC BY-SA 4.0, via Wikimedia Commons. [Times Sq Nov 2021 112.jpg](https://commons.wikimedia.org/wiki/File:Times_Sq_Nov_2021_112.jpg)
 
@@ -5135,6 +5146,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Vulcan Materials Company (VMC)
 
+- Vulcan Materials Company limestone quarry, Tuscumbia, Alabama: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010641224](https://www.loc.gov/item/2010641224/)
+- Vulcan Materials Company limestone quarry, Tuscumbia, Alabama: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010641225](https://www.loc.gov/item/2010641225/)
 - Vulcan materials dolcito quarry: Lahti213, CC BY-SA 4.0, via Wikimedia Commons. [Vulcan materials dolcito quarry.jpg](https://commons.wikimedia.org/wiki/File:Vulcan_materials_dolcito_quarry.jpg)
 - vulcan materials pit 3: Photo by valli_mark on Flickr, CC BY 2.0. [9524911616](https://www.flickr.com/photos/39939287@N00/9524911616)
 - Hoover Cement and Vulcan Materials - Huntsville AL: Photo by formulanone on Flickr, CC BY-SA 2.0. [30054001978](https://www.flickr.com/photos/30552029@N00/30054001978)
