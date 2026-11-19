@@ -1930,6 +1930,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Look Up Fondren Entergy substation lit up: Photo by Tate Nations on Flickr, CC BY 2.0. [10987975536](https://www.flickr.com/photos/96247146@N00/10987975536)
 - Entergy Bldg (102.3 miles): Photo by bluepoint951 on Flickr, CC BY-SA 2.0. [394772205](https://www.flickr.com/photos/33494407@N00/394772205)
 
+## EQT Corporation (EQT)
+
+- EQT Plaza, Liberty Avenue, Pittsburgh, PA: Photo by w_lemay on Flickr, CC BY-SA 2.0. [53605984182](https://www.flickr.com/photos/59081381@N03/53605984182)
+- EQT Plaza, Liberty Avenue, 2015-04-23: Photo by Dr. Boli on Flickr, CC BY 2.0. [17073111999](https://www.flickr.com/photos/62947588@N06/17073111999)
+
 ## Equifax (EFX)
 
 - Equifax: Tyler Lahti, CC BY-SA 4.0, via Wikimedia Commons. [Equifax HQ.jpg](https://commons.wikimedia.org/wiki/File:Equifax_HQ.jpg)
@@ -2400,6 +2405,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Gilead Sciences headquarters (Foster City, CA) - 2: Suiren2022, CC BY-SA 4.0, via Wikimedia Commons. [Gilead Sciences headquarters (Foster City, CA) - 2.jpg](https://commons.wikimedia.org/wiki/File:Gilead_Sciences_headquarters_(Foster_City,_CA)_-_2.jpg)
 - Pre-Exposure Prophylaxis (PrEP): NIAID, CC BY 2.0, via Wikimedia Commons. [Pre-Exposure Prophylaxis (PrEP) (32514377531).jpg](https://commons.wikimedia.org/wiki/File:Pre-Exposure_Prophylaxis_(PrEP)_(32514377531).jpg)
 - Gilead Sciences headquarters (Foster City, CA) - 3: Suiren2022, CC BY-SA 4.0, via Wikimedia Commons. [Gilead Sciences headquarters (Foster City, CA) - 3.jpg](https://commons.wikimedia.org/wiki/File:Gilead_Sciences_headquarters_(Foster_City,_CA)_-_3.jpg)
+
+## Global Payments (GPN)
+
+- Muscogee / Fieldcrest Mill - TSYS Campus and Mott House: Photo by Keith Milligan on Flickr, CC BY 2.0. [5302708163](https://www.flickr.com/photos/42167888@N08/5302708163)
+- TSYS (15): Photo by Tiarnán Millar on Flickr, CC BY 2.0. [32483450468](https://www.flickr.com/photos/146876746@N05/32483450468)
+- TSYS (12): Photo by Tiarnán Millar on Flickr, CC BY 2.0. [45632376444](https://www.flickr.com/photos/146876746@N05/45632376444)
 
 ## GoDaddy (GDDY)
 
@@ -3982,6 +3993,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - O'Reilly Auto Parts (Willimantic, Connecticut): Photo by jjbers on Flickr, CC BY 2.0. [28110932178](https://www.flickr.com/photos/148374920@N02/28110932178)
 - O'Reilly Auto Parts - Allegan: Photo by Kzoo Cowboy on Flickr, CC BY 2.0. [50875682968](https://www.flickr.com/photos/92871081@N03/50875682968)
 
+## Occidental Petroleum (OXY)
+
+- OxyChem, Taft Plant, Louisiana: Chad Davis, CC BY-SA 2.0, via Wikimedia Commons. [OxyChem, Taft Plant, Louisiana.jpg](https://commons.wikimedia.org/wiki/File:OxyChem,_Taft_Plant,_Louisiana.jpg)
+- Occidental Chemical Corporation Aerial - Wichita: formulanone, CC BY-SA 2.0, via Wikimedia Commons. [Occidental Chemical Corporation Aerial - Wichita (50902494042).jpg](https://commons.wikimedia.org/wiki/File:Occidental_Chemical_Corporation_Aerial_-_Wichita_(50902494042).jpg)
+- Anadarko Petroleum Corp, The Woodlands TX: Philip G Coman, CC BY-SA 4.0, via Wikimedia Commons. [Anadarko Petroleum Corp, The Woodlands TX.jpg](https://commons.wikimedia.org/wiki/File:Anadarko_Petroleum_Corp,_The_Woodlands_TX.jpg)
+
 ## Old Dominion (ODFL)
 
 - A Volvo tractor operated by ANAZCO Trucking Co., Inc. pulling an Old Dominion trailer pulling up to a light at 14th Street and 7th Avenue in Chelsea / West Vill: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [14th St 7th Av td (2019-07-11) 14 (cropped).jpg](https://commons.wikimedia.org/wiki/File:14th_St_7th_Av_td_(2019-07-11)_14_(cropped).jpg)
@@ -5431,6 +5448,19 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Fuel pumps at a Valero gas station in Greenville, South Carolina 06: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Fuel pumps at a Valero gas station in Greenville, South Carolina 06.jpg](https://commons.wikimedia.org/wiki/File:Fuel_pumps_at_a_Valero_gas_station_in_Greenville,_South_Carolina_06.jpg)
 - Valero Oil Refinery Aruba: Photo by D-Stanley on Flickr, CC BY 2.0. [4901402311](https://www.flickr.com/photos/79721788@N00/4901402311)
 - Fuel pump at a Valero gas station in Greenville, South Carolina 01: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Fuel pump at a Valero gas station in Greenville, South Carolina 01.jpg](https://commons.wikimedia.org/wiki/File:Fuel_pump_at_a_Valero_gas_station_in_Greenville,_South_Carolina_01.jpg)
+
+## Veralto (VLTO)
+
+- Pantone formula guide · calibration, coated, colors, formula, guide: Photo by jepoirrier on Flickr, CC BY-SA 2.0. [349613923](https://www.flickr.com/photos/57519914@N00/349613923)
+- Nuancier Pantone 2 (Cut out): Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen, CC BY-SA 3.0, via Wikimedia Commons. [Nuancier Pantone 2 (Cut out).jpg](https://commons.wikimedia.org/wiki/File:Nuancier_Pantone_2_(Cut_out).jpg)
+- A glass of green paint next to some cards: Photo by Noemí Jiménez on Unsplash. [IqAi-WdcbUw](https://unsplash.com/photos/a-glass-of-green-paint-next-to-some-cards-IqAi-WdcbUw?utm_source=investiq_image_bank&utm_medium=referral)
+- Entity wapuu pictured with Pantone color card, taken in (2022), during sample development.: Photo by Wapuu.com on WordPress.org Photos, CC0. [24292](https://wordpress.org/photos/photo/863640487b/)
+- A fan deck of colorful paper swatches arranged in a spectrum on a surface: Photo by Mika Baumeister on Unsplash. [PtabTe6iJ_8](https://unsplash.com/photos/color-fan-deck-with-paper-swatches-PtabTe6iJ_8?utm_source=investiq_image_bank&utm_medium=referral)
+- Blue white and red paper: Photo by Mika Baumeister on Unsplash. [_Xesb_PEygM](https://unsplash.com/photos/blue-white-and-red-paper-_Xesb_PEygM?utm_source=investiq_image_bank&utm_medium=referral)
+- Blue and black rectangular frame: Photo by Dee on Unsplash. [zeKekb76k-s](https://unsplash.com/photos/blue-and-black-rectangular-frame-zeKekb76k-s?utm_source=investiq_image_bank&utm_medium=referral)
+- A pantone color swatch with a white background: Photo by Fiona Murray-deGraaff on Unsplash. [5Hl03JE699s](https://unsplash.com/photos/a-pantone-color-swatch-with-a-white-background-5Hl03JE699s?utm_source=investiq_image_bank&utm_medium=referral)
+- A stack of pantone papers sitting on top of a yellow table: Photo by Dee on Unsplash. [x5fjOL3kums](https://unsplash.com/photos/a-stack-of-pantone-papers-sitting-on-top-of-a-yellow-table-x5fjOL3kums?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a pan of paint samples: Photo by Mariah Krafft on Unsplash. [ti1-yIZpd0U](https://unsplash.com/photos/a-close-up-of-a-pan-of-paint-samples-ti1-yIZpd0U?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Verisign (VRSN)
 
@@ -7399,7 +7429,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A green sign that says electric vehicle charging station: Photo by Matt Bloom on Unsplash. [0Xp_MBkkdBo](https://unsplash.com/photos/a-green-sign-that-says-electric-vehicle-charging-station-0Xp_MBkkdBo?utm_source=investiq_image_bank&utm_medium=referral)
 - EV Charging station, Mothitang: Christopher J. Fynn, CC BY-SA 4.0, via Wikimedia Commons. [EV Charging station, Mothitang.jpg](https://commons.wikimedia.org/wiki/File:EV_Charging_station,_Mothitang.jpg)
 - Ev charger connector head: Photo by Miron Huang on Unsplash. [ECPML1vHQYQ](https://unsplash.com/photos/ev-charger-connector-head-ECPML1vHQYQ?utm_source=investiq_image_bank&utm_medium=referral)
-- Detail of antique car, Country Classic Cars, Staunton, Illinois: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010630393](https://www.loc.gov/item/2010630393/)
 
 ## Nuclear power & uranium (nuclear)
 
@@ -7925,6 +7954,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Setup laser femtosegundo: Chenilab, CC BY-SA 4.0, via Wikimedia Commons. [Setup laser femtosegundo.jpg](https://commons.wikimedia.org/wiki/File:Setup_laser_femtosegundo.jpg)
 - Superconductor ring and magnet in levitation: Julien Bobroff ( user:Jubobroff ), Frederic Bouquet ( user:Fbouquet ), LPS , Orsay, France, CC BY-SA 3.0, via Wikimedia Commons. [Superconductor ring and magnet in levitation.JPG](https://commons.wikimedia.org/wiki/File:Superconductor_ring_and_magnet_in_levitation.JPG)
 - Optical fiber in protective coating that transports a Laser beam - Laser Physics Lab - NTNU-NT: NTNU, Faculty of Natural Sciences and Technology, CC BY 2.0, via Wikimedia Commons. [Optical fiber in protective coating that transports a Laser beam - Laser Physics Lab - NTNU-NT.jpg](https://commons.wikimedia.org/wiki/File:Optical_fiber_in_protective_coating_that_transports_a_Laser_beam_-_Laser_Physics_Lab_-_NTNU-NT.jpg)
+- PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption: DanielPenfield, CC BY-SA 4.0, via Wikimedia Commons. [PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg](https://commons.wikimedia.org/wiki/File:PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg)
 
 ## Robotics & automation (robotics)
 

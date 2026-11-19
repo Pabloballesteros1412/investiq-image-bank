@@ -11737,10 +11737,10 @@
    "APA"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "APO": {
   "name": "Apollo Global Management",
@@ -18582,10 +18582,10 @@
    "TECH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "BIIB": {
   "name": "Biogen",
@@ -22742,10 +22742,10 @@
    "BRO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "BF-B": {
   "name": "Brown–Forman",
@@ -29947,35 +29947,10 @@
    "CINF"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "The Cincinnati Enquirer page C-6",
-    "file": "File:The Cincinnati Enquirer 1981-04-07 page C-6.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg/1280px-The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg/500px-The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg",
-    "size": [
-     1280,
-     2020
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The Cincinnati Enquirer, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "The Cincinnati Enquirer",
-    "year": 1981,
-    "how": "Commons category",
-    "category": "Cincinnati Financial"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "CTAS": {
   "name": "Cintas",
@@ -33429,10 +33404,10 @@
    "COHR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "COIN": {
   "name": "Coinbase",
@@ -46612,10 +46587,10 @@
    "EME"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "EMR": {
   "name": "Emerson Electric",
@@ -47164,6 +47139,7 @@
    "EQT"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [
    {
@@ -47221,8 +47197,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "EFX": {
   "name": "Equifax",
@@ -47992,10 +47967,10 @@
    "EG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "EVRG": {
   "name": "Evergy",
@@ -48090,10 +48065,10 @@
    "P"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ES": {
   "name": "Eversource Energy",
@@ -58485,6 +58460,7 @@
    "GPN"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -58569,8 +58545,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "GL": {
   "name": "Globe Life",
@@ -114085,34 +114060,10 @@
    "SBAC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "SBA Communications tower, former Dakota Ridge Assembly church tower, Jefferson, Co., CO",
-    "file": "File:SBA Communications tower, former Dakota Ridge Assembly church tower, Jefferson, Co., CO 2023-09-03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SBA_Communications_tower,_former_Dakota_Ridge_Assembly_church_tower,_Jefferson,_Co.,_CO_2023-09-03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/SBA_Communications_tower%2C_former_Dakota_Ridge_Assembly_church_tower%2C_Jefferson%2C_Co.%2C_CO_2023-09-03.jpg/1280px-SBA_Communications_tower%2C_former_Dakota_Ridge_Assembly_church_tower%2C_Jefferson%2C_Co.%2C_CO_2023-09-03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/SBA_Communications_tower%2C_former_Dakota_Ridge_Assembly_church_tower%2C_Jefferson%2C_Co.%2C_CO_2023-09-03.jpg/500px-SBA_Communications_tower%2C_former_Dakota_Ridge_Assembly_church_tower%2C_Jefferson%2C_Co.%2C_CO_2023-09-03.jpg",
-    "size": [
-     1280,
-     2275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Xnatedawgx",
-    "year": 2023,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "SLB": {
   "name": "Schlumberger",
@@ -134291,31 +134242,9 @@
    "VLTO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
-   {
-    "shot": "hand",
-    "shows": "Nuancier Pantone 2 (Cut out)",
-    "file": "File:Nuancier Pantone 2 (Cut out).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nuancier_Pantone_2_(Cut_out).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nuancier_Pantone_2_%28Cut_out%29.jpg/1920px-Nuancier_Pantone_2_%28Cut_out%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nuancier_Pantone_2_%28Cut_out%29.jpg/500px-Nuancier_Pantone_2_%28Cut_out%29.jpg",
-    "size": [
-     1920,
-     1044
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen",
-    "year": 2015,
-    "how": "hand-picked"
-   },
    {
     "shot": "hand",
     "shows": "Pantone formula guide · calibration, coated, colors, formula, guide",
@@ -134342,6 +134271,262 @@
     "author_url": "https://www.flickr.com/photos/57519914@N00",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Nuancier Pantone 2 (Cut out)",
+    "file": "File:Nuancier Pantone 2 (Cut out).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nuancier_Pantone_2_(Cut_out).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nuancier_Pantone_2_%28Cut_out%29.jpg/1920px-Nuancier_Pantone_2_%28Cut_out%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nuancier_Pantone_2_%28Cut_out%29.jpg/500px-Nuancier_Pantone_2_%28Cut_out%29.jpg",
+    "size": [
+     1920,
+     1044
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen",
+    "year": 2015,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "b1",
+    "shows": "A glass of green paint next to some cards",
+    "file": "unsplash:IqAi-WdcbUw",
+    "page": "https://unsplash.com/photos/a-glass-of-green-paint-next-to-some-cards-IqAi-WdcbUw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1635536816492-9a6fb49354d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1635536816492-9a6fb49354d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1843
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Noemí Jiménez on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Noemí Jiménez",
+    "year": 2021,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@noemiji?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IqAi-WdcbUw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA"
+   },
+   {
+    "shot": "b2",
+    "shows": "Entity wapuu pictured with Pantone color card, taken in (2022), during sample development.",
+    "file": "wordpress:24292",
+    "page": "https://wordpress.org/photos/photo/863640487b/",
+    "url": "https://pd.w.org/2023/03/863640487bb9cfac7.98874168-2048x1536.jpg",
+    "preview": "https://pd.w.org/2023/03/863640487bb9cfac7.98874168-768x576.jpg",
+    "size": [
+     2048,
+     1536
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wapuu.com on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Wapuu.com",
+    "year": 2023,
+    "how": "wordpress search: Pantone",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/wapuu/"
+   },
+   {
+    "shot": "b3",
+    "shows": "A fan deck of colorful paper swatches arranged in a spectrum on a surface",
+    "file": "unsplash:PtabTe6iJ_8",
+    "page": "https://unsplash.com/photos/color-fan-deck-with-paper-swatches-PtabTe6iJ_8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581079289196-67865ea83118?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581079289196-67865ea83118?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mika Baumeister on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mika Baumeister",
+    "year": 2020,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PtabTe6iJ_8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA"
+   },
+   {
+    "shot": "b4",
+    "shows": "Blue white and red paper",
+    "file": "unsplash:_Xesb_PEygM",
+    "page": "https://unsplash.com/photos/blue-white-and-red-paper-_Xesb_PEygM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581079288371-ea1d68ec6105?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=1304&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581079288371-ea1d68ec6105?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1304,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mika Baumeister on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mika Baumeister",
+    "year": 2020,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_Xesb_PEygM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA"
+   },
+   {
+    "shot": "b5",
+    "shows": "Blue and black rectangular frame",
+    "file": "unsplash:zeKekb76k-s",
+    "page": "https://unsplash.com/photos/blue-and-black-rectangular-frame-zeKekb76k-s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1580307028391-8051f48e159d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1580307028391-8051f48e159d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dee on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dee",
+    "year": 2020,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@copperandwild?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zeKekb76k-s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA"
+   },
+   {
+    "shot": "b6",
+    "shows": "A pantone color swatch with a white background",
+    "file": "unsplash:5Hl03JE699s",
+    "page": "https://unsplash.com/photos/a-pantone-color-swatch-with-a-white-background-5Hl03JE699s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723220217548-169d91fd1ba3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723220217548-169d91fd1ba3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Fiona Murray-deGraaff on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Fiona Murray-deGraaff",
+    "year": 2024,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fionamurrayphoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/5Hl03JE699s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA"
+   },
+   {
+    "shot": "b7",
+    "shows": "A stack of pantone papers sitting on top of a yellow table",
+    "file": "unsplash:x5fjOL3kums",
+    "page": "https://unsplash.com/photos/a-stack-of-pantone-papers-sitting-on-top-of-a-yellow-table-x5fjOL3kums?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1568808880686-d7f08f37ddfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1568808880686-d7f08f37ddfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dee on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dee",
+    "year": 2019,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@copperandwild?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/x5fjOL3kums/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA"
+   },
+   {
+    "shot": "b8",
+    "shows": "A close up of a pan of paint samples",
+    "file": "unsplash:ti1-yIZpd0U",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-pan-of-paint-samples-ti1-yIZpd0U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1677110497046-96b550bb0853?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1677110497046-96b550bb0853?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mariah Krafft on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mariah Krafft",
+    "year": 2023,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mariahkrafft?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ti1-yIZpd0U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA"
+   },
+   {
+    "shot": "b9",
+    "shows": "A bunch of different colors of paint on a table",
+    "file": "unsplash:m4BWEyDqwCM",
+    "page": "https://unsplash.com/photos/a-bunch-of-different-colors-of-paint-on-a-table-m4BWEyDqwCM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1739145974146-c310088417ca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1739145974146-c310088417ca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bent Van Aeken on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bent Van Aeken",
+    "year": 2025,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bentje?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/m4BWEyDqwCM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA"
    },
    {
     "shot": "hand",
@@ -134529,8 +134714,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "VRSN": {
   "name": "Verisign",

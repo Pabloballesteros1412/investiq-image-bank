@@ -8,5 +8,46 @@
  "sector": "sector-energy",
  "target": 10,
  "fill_from": "sector-energy",
- "photos": []
+ "photos": [
+  {
+   "shows": "EQT Plaza, Liberty Avenue, Pittsburgh, PA",
+   "url": "https://live.staticflickr.com/65535/53605984182_1b32b25d5b_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/53605984182_1b32b25d5b_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/59081381@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/59081381@N03/53605984182",
+   "plain": true
+  },
+  {
+   "shows": "EQT Plaza, Liberty Avenue, 2015-04-23",
+   "url": "https://live.staticflickr.com/7646/17073111999_e4fb72e0b7_b.jpg",
+   "preview": "https://live.staticflickr.com/7646/17073111999_e4fb72e0b7_z.jpg",
+   "size": [
+    370,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Dr. Boli on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/62947588@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/62947588@N06/17073111999",
+   "plain": true
+  }
+ ]
 }
