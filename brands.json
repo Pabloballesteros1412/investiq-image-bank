@@ -421,6 +421,23 @@
   "ARM": ["Arm Holdings", "ARM processor", "ARM chip"],
   "STT": ["State Street Bank", "SPDR", "State Street Corporation"],
   "CNC": ["Ambetter", "WellCare", "Centene"],
-  "CB": ["Chubb insurance"]
+  "CB": ["Chubb insurance"],
+  "MOS": ["Mosaic phosphate", "Mosaic fertilizer", "Mosaic Company"],
+  "EXE": ["Chesapeake Energy", "Southwestern Energy"],
+  "ALB": ["Silver Peak lithium", "Albemarle lithium"],
+  "APTV": ["Delphi Automotive", "Aptiv"],
+  "EVRG": ["Westar Energy", "Kansas City Power & Light", "KCP&L"],
+  "FE": ["Ohio Edison", "JCP&L", "Penelec", "Met-Ed", "Toledo Edison"],
+  "ROK": ["Allen-Bradley", "Allen-Bradley Clock Tower"],
+  "TRV": ["Travelers Insurance", "Travelers Tower"],
+  "WAB": ["Wabtec locomotive"],
+  "AEP": ["Appalachian Power", "AEP Ohio", "Indiana Michigan Power", "SWEPCO"],
+  "CCJ": ["Cigar Lake", "McArthur River mine"],
+  "DOW": ["Dow Chemical", "Dow plant"],
+  "CMS": ["Consumers Energy"],
+  "ETR": ["Grand Gulf Nuclear", "Arkansas Nuclear One", "River Bend Station", "Waterford Steam Electric"],
+  "FCX": ["Morenci mine", "Grasberg mine", "Bagdad copper mine"],
+  "NEM": ["Boddington gold mine", "Newmont mine", "Cadia mine"],
+  "SW": ["WestRock", "Smurfit Kappa"]
  }
 }
