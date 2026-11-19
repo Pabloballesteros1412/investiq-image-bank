@@ -362,6 +362,14 @@ Decisions (Pablo, 4 Nov 2026):
   (plural or possessive allowed); none of the 868 brand photos in the bank relied on the old rule.
 - Bank (19 Nov): 6,364 published photos: companies 3,994 (186 at target, 116 with none; famous average 25.6, 32 of 50 at
   30), topics 1,823, sectors 547. 343 Unsplash download counts pending.
+- **Thin companies, brand pass** (19 Nov): 92 companies with 1-9 photos got `brands.json` terms (Invisalign, Schlage,
+  Moody's, FPL, PSE&G, Skippy, Spam, Keytruda, Paramount Pictures, Universal Robots...) and were rebuilt with
+  `build --kind company --stock-only` in two pieces (a container restart cut the first). 37 picks, 13 grade 3 (an HPE
+  office, Skippy jars, a wall of Spam, Paramount's gate, water tower and sign, Vulcan quarries, a Motorola walkie-talkie,
+  Invisalign aligners). Rejected: name clashes (Dupont Circle, BHP = brake horsepower, other "Citizens" banks), Universal
+  Robots renders, a strike picket, and Moto phones for Motorola Solutions (Motorola phones are Lenovo's; its Commons
+  category "Motorola" is a match key, so such photos can pass: grade them 1). Companies: 3,994 -> 4,007 photos (187 at
+  target, 116 with none); bank 6,377.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

@@ -7,6 +7,7 @@
  ],
  "sector": "sector-staples",
  "target": 10,
+ "fill_from": "sector-staples",
  "photos": [
   {
    "shows": "Three jars of skippy creamy peanut butter",
@@ -25,24 +26,6 @@
    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/three-jars-of-skippy-creamy-peanut-butter-jgiyGOUO19E?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Three jars of skippy creamy peanut butter",
-   "url": "https://images.unsplash.com/photo-1757801602612-30f20d8dd243?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U2tpcHB5JTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8fHx8MTc5NTA3NTQ5Mnww&ixlib=rb-4.1.0&w=2085&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1757801602612-30f20d8dd243?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U2tpcHB5JTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8fHx8MTc5NTA3NTQ5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2085,
-    1501
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Zoshua Colah on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/three-jars-of-skippy-creamy-peanut-butter-vqCV2o0EsfI?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "A wall of stacked spam cans",

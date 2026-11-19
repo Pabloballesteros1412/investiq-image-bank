@@ -2434,7 +2434,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Hormel Foods (HRL)
 
 - Three jars of skippy creamy peanut butter: Photo by Zoshua Colah on Unsplash. [jgiyGOUO19E](https://unsplash.com/photos/three-jars-of-skippy-creamy-peanut-butter-jgiyGOUO19E?utm_source=investiq_image_bank&utm_medium=referral)
-- Three jars of skippy creamy peanut butter: Photo by Zoshua Colah on Unsplash. [vqCV2o0EsfI](https://unsplash.com/photos/three-jars-of-skippy-creamy-peanut-butter-vqCV2o0EsfI?utm_source=investiq_image_bank&utm_medium=referral)
 - A wall of stacked spam cans: Photo by Diwei Zhu on Unsplash. [QnUCnHZrOQk](https://unsplash.com/photos/a-wall-of-stacked-spam-cans-QnUCnHZrOQk?utm_source=investiq_image_bank&utm_medium=referral)
 - Hormel Corporate Headquarters, Austin, Minnesota: Myotus, CC BY-SA 4.0, via Wikimedia Commons. [Hormel Corporate Headquarters, Austin, Minnesota.jpg](https://commons.wikimedia.org/wiki/File:Hormel_Corporate_Headquarters,_Austin,_Minnesota.jpg)
 - Beijing Hormel Foods Co Ltd: N509FZ, CC BY-SA 4.0, via Wikimedia Commons. [Beijing Hormel Foods Co Ltd (20250408154822).jpg](https://commons.wikimedia.org/wiki/File:Beijing_Hormel_Foods_Co_Ltd_(20250408154822).jpg)
@@ -3431,14 +3430,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Motorola Solutions IL01 tower: CacioPepeLePu, CC BY-SA 4.0, via Wikimedia Commons. [Motorola Solutions IL01 tower.jpg](https://commons.wikimedia.org/wiki/File:Motorola_Solutions_IL01_tower.jpg)
 - Black and gray sony digital device: Photo by Everyday basics on Unsplash. [UD5dKdlrdZk](https://unsplash.com/photos/black-and-gray-sony-digital-device-UD5dKdlrdZk?utm_source=investiq_image_bank&utm_medium=referral)
-- A close up of a motorola logo on a fabric: Photo by Akbar Khan on Unsplash. [XMMoaBJeuHY](https://unsplash.com/photos/a-close-up-of-a-motorola-logo-on-a-fabric-XMMoaBJeuHY?utm_source=investiq_image_bank&utm_medium=referral)
-- Motorola logo on a teal square device: Photo by Puru Raj on Unsplash. [NAc5FzkttJQ](https://unsplash.com/photos/motorola-logo-on-a-teal-square-device-NAc5FzkttJQ?utm_source=investiq_image_bank&utm_medium=referral)
-- Black samsung flip phone on persons hand: Photo by Thai Nguyen on Unsplash. [3xezLdRLdHw](https://unsplash.com/photos/black-samsung-flip-phone-on-persons-hand-3xezLdRLdHw?utm_source=investiq_image_bank&utm_medium=referral)
-- A cardboard box sitting on top of a bed: Photo by Akbar Khan on Unsplash. [8LlnnqRRL_o](https://unsplash.com/photos/a-cardboard-box-sitting-on-top-of-a-bed-8LlnnqRRL_o?utm_source=investiq_image_bank&utm_medium=referral)
-- A motorola cell phone sitting on top of a blue table: Photo by Daniel Romero on Unsplash. [nyZaMdmLRX4](https://unsplash.com/photos/a-motorola-cell-phone-sitting-on-top-of-a-blue-table-nyZaMdmLRX4?utm_source=investiq_image_bank&utm_medium=referral)
 - Motorola PRX C451: Bohdan Bazooka, CC0, via Wikimedia Commons. [Motorola PRX C451.jpg](https://commons.wikimedia.org/wiki/File:Motorola_PRX_C451.jpg)
 - Motorola cellular telephone in Rio de Janeiro, Brazil: Wilfredor, CC0, via Wikimedia Commons. [Motorola cellular telephone in Rio de Janeiro, Brazil.jpg](https://commons.wikimedia.org/wiki/File:Motorola_cellular_telephone_in_Rio_de_Janeiro,_Brazil.jpg)
 - Motorola MCR 4500XL: Bohdan Bazooka, CC0, via Wikimedia Commons. [Motorola MCR 4500XL.jpg](https://commons.wikimedia.org/wiki/File:Motorola_MCR_4500XL.jpg)
+- Motorola MTP850 with hamradio Codeplug: Fabian Horst, CC BY 4.0, via Wikimedia Commons. [2021-02-09 - Motorola MTP850 with hamradio Codeplug.jpg](https://commons.wikimedia.org/wiki/File:2021-02-09_-_Motorola_MTP850_with_hamradio_Codeplug.jpg)
+- Motorola Minicall Express Swedish 1990s pager: R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons. [Motorola Minicall Express Swedish 1990s pager.jpg](https://commons.wikimedia.org/wiki/File:Motorola_Minicall_Express_Swedish_1990s_pager.jpg)
+- AFAC17 Exhibitors - Motorola Solutions - 3: Photo by AFAC powered by INTERSCHUTZ on Flickr, CC BY 2.0. [36844444356](https://www.flickr.com/photos/146573429@N03/36844444356)
 
 ## Nasdaq, Inc. (NDAQ)
 
@@ -4469,12 +4466,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Fountain in the middle of the city during daytime: Photo by Hannah Wernecke on Unsplash. [fisziRQjStc](https://unsplash.com/photos/fountain-in-the-middle-of-the-city-during-daytime-fisziRQjStc?utm_source=investiq_image_bank&utm_medium=referral)
 - Paramount water tower against a clear blue sky: Photo by James A. Molnar on Unsplash. [ulgy4P7xvdQ](https://unsplash.com/photos/paramount-water-tower-against-a-clear-blue-sky-ulgy4P7xvdQ?utm_source=investiq_image_bank&utm_medium=referral)
-- A group of people holding signs in front of a building: Photo by Chris Long on Unsplash. [tJATyfmruGs](https://unsplash.com/photos/a-group-of-people-holding-signs-in-front-of-a-building-tJATyfmruGs?utm_source=investiq_image_bank&utm_medium=referral)
 - Paramount studios' sign stands against the blue sky: Photo by Romain Malaunay on Unsplash. [ascWelNLO-k](https://unsplash.com/photos/paramount-studios-sign-stands-against-the-blue-sky-ascWelNLO-k?utm_source=investiq_image_bank&utm_medium=referral)
 - Paramount pictures studio entrance with stage 4 sign: Photo by Darien Attridge on Unsplash. [2dsH2khaB8Y](https://unsplash.com/photos/paramount-pictures-studio-entrance-with-stage-4-sign-2dsH2khaB8Y?utm_source=investiq_image_bank&utm_medium=referral)
-- Paramount Studios back lot with New York City street scene that has been used as a backdrop to several movies and television shows. Los Angeles, California: Photo: Carol M. Highsmith, Library of Congress, public domain. [2013633305](https://www.loc.gov/item/2013633305/)
-- Paramount Pictures back lot sets of New York City streets, headquartered in the Hollywood district of Los Angeles, California: Photo: Carol M. Highsmith, Library of Congress, public domain. [2013632460](https://www.loc.gov/item/2013632460/)
-- A building with a fountain in front of it: Photo by Gary Ruiz on Unsplash. [ThhcvXBFLtQ](https://unsplash.com/photos/a-building-with-a-fountain-in-front-of-it-ThhcvXBFLtQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Paramount Skydance One Astor Plaza: Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons. [Paramount Skydance One Astor Plaza.jpg](https://commons.wikimedia.org/wiki/File:Paramount_Skydance_One_Astor_Plaza.jpg)
 - Times Sq Nov 2021 112: Epicgenius, CC BY-SA 4.0, via Wikimedia Commons. [Times Sq Nov 2021 112.jpg](https://commons.wikimedia.org/wiki/File:Times_Sq_Nov_2021_112.jpg)
 
@@ -4771,8 +4764,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Teradyne (TER)
 
-- Universal robots text with abstract blue glass elements: Photo by Brecht Corbeel on Unsplash. [H5g7M4OgYH8](https://unsplash.com/photos/universal-robots-text-with-abstract-blue-glass-elements-H5g7M4OgYH8?utm_source=investiq_image_bank&utm_medium=referral)
-- Translucent blue ring and geometric shapes with universal robots text: Photo by Brecht Corbeel on Unsplash. [4-wxqVTm83c](https://unsplash.com/photos/translucent-blue-ring-and-geometric-shapes-with-universal-robots-text-4-wxqVTm83c?utm_source=investiq_image_bank&utm_medium=referral)
 - A Teradyne TIger tester, I'm at work again, a different machine, different room: Photo by wbaiv on Flickr, CC BY-SA 2.0. [4684789938](https://www.flickr.com/photos/9998127@N06/4684789938)
 
 ## Tesla, Inc. (TSLA)
@@ -5170,7 +5161,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## W. W. Grainger (GWW)
 
-- People walk towards a tent with 'grainger gallery' sign: Photo by ANGIE BAONGOC on Unsplash. [0tSNqeOChHU](https://unsplash.com/photos/people-walk-towards-a-tent-with-grainger-gallery-sign-0tSNqeOChHU?utm_source=investiq_image_bank&utm_medium=referral)
 - Grainger at Mendenhall Building A, Florida State University: The Bushranger, CC BY-SA 4.0, via Wikimedia Commons. [Grainger at Mendenhall Building A, Florida State University.jpg](https://commons.wikimedia.org/wiki/File:Grainger_at_Mendenhall_Building_A,_Florida_State_University.jpg)
 - W W Grainger Ann Arbor Branch: Dwight Burdette, CC BY 3.0, via Wikimedia Commons. [W W Grainger Ann Arbor Branch.JPG](https://commons.wikimedia.org/wiki/File:W_W_Grainger_Ann_Arbor_Branch.JPG)
 

@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-19",
- "photos": 6387,
+ "photos": 6377,
  "subjects": [
   {
    "id": "MMM",
@@ -3651,10 +3651,11 @@
     "HRL"
    ],
    "aliases": [],
-   "photos": 10,
+   "photos": 9,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HRL.json",
-   "sector": "sector-staples"
+   "sector": "sector-staples",
+   "fill_from": "sector-staples"
   },
   {
    "id": "HST",
@@ -5003,10 +5004,11 @@
     "MSI"
    ],
    "aliases": [],
-   "photos": 10,
+   "photos": 8,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MSI.json",
-   "sector": "sector-tech"
+   "sector": "sector-tech",
+   "fill_from": "sector-tech"
   },
   {
    "id": "MSCI",
@@ -6464,10 +6466,11 @@
     "SKYD"
    ],
    "aliases": [],
-   "photos": 10,
+   "photos": 6,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SKYD.json",
-   "sector": "sector-communication"
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
   },
   {
    "id": "SWKS",
@@ -6928,7 +6931,7 @@
     "TER"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TER.json",
    "sector": "sector-tech",
@@ -7642,7 +7645,7 @@
     "GWW"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/GWW.json",
    "sector": "sector-industrials",

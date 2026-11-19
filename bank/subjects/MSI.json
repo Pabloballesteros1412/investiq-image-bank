@@ -7,6 +7,7 @@
  ],
  "sector": "sector-tech",
  "target": 10,
+ "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Motorola Solutions IL01 tower",
@@ -42,96 +43,6 @@
    "author_url": "https://unsplash.com/@zanardi?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/black-and-gray-sony-digital-device-UD5dKdlrdZk?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A close up of a motorola logo on a fabric",
-   "url": "https://images.unsplash.com/photo-1716930686282-ea19761e78a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1716930686282-ea19761e78a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2000,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Akbar Khan on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@akbardotkhan?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-close-up-of-a-motorola-logo-on-a-fabric-XMMoaBJeuHY?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Motorola logo on a teal square device",
-   "url": "https://images.unsplash.com/photo-1767160378054-8d403ee75814?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1767160378054-8d403ee75814?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2000,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Puru Raj on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@puru_rj?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/motorola-logo-on-a-teal-square-device-NAc5FzkttJQ?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "Black samsung flip phone on persons hand",
-   "url": "https://images.unsplash.com/photo-1599497986334-a17a0d25b76b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1599497986334-a17a0d25b76b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1486
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Thai Nguyen on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@quangthai_itshop?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/black-samsung-flip-phone-on-persons-hand-3xezLdRLdHw?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A cardboard box sitting on top of a bed",
-   "url": "https://images.unsplash.com/photo-1716930519546-af018a40eda6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TW90b3JvbGElMjB0d28lMjB3YXklMjByYWRpb3xlbnwxfHx8fDE3OTUwNzU2OTR8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1716930519546-af018a40eda6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TW90b3JvbGElMjB0d28lMjB3YXklMjByYWRpb3xlbnwxfHx8fDE3OTUwNzU2OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2000,
-    1500
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Akbar Khan on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@akbardotkhan?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-cardboard-box-sitting-on-top-of-a-bed-8LlnnqRRL_o?utm_source=investiq_image_bank&utm_medium=referral"
-  },
-  {
-   "shows": "A motorola cell phone sitting on top of a blue table",
-   "url": "https://images.unsplash.com/photo-1688281366628-4f63eae64395?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-   "preview": "https://images.unsplash.com/photo-1688281366628-4f63eae64395?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-   "size": [
-    2400,
-    1350
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Daniel Romero on Unsplash",
-   "licence": "Unsplash License",
-   "author_url": "https://unsplash.com/@rmrdnl?utm_source=investiq_image_bank&utm_medium=referral",
-   "provider": "unsplash",
-   "source": "https://unsplash.com/photos/a-motorola-cell-phone-sitting-on-top-of-a-blue-table-nyZaMdmLRX4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Motorola PRX C451",
@@ -185,6 +96,62 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Motorola_MCR_4500XL.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Motorola MTP850 with hamradio Codeplug",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2021-02-09_-_Motorola_MTP850_with_hamradio_Codeplug.jpg/1920px-2021-02-09_-_Motorola_MTP850_with_hamradio_Codeplug.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/2021-02-09_-_Motorola_MTP850_with_hamradio_Codeplug.jpg/500px-2021-02-09_-_Motorola_MTP850_with_hamradio_Codeplug.jpg",
+   "size": [
+    1920,
+    1525
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fabian Horst, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2021-02-09_-_Motorola_MTP850_with_hamradio_Codeplug.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Motorola Minicall Express Swedish 1990s pager",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Motorola_Minicall_Express_Swedish_1990s_pager.jpg/1920px-Motorola_Minicall_Express_Swedish_1990s_pager.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Motorola_Minicall_Express_Swedish_1990s_pager.jpg/500px-Motorola_Minicall_Express_Swedish_1990s_pager.jpg",
+   "size": [
+    1920,
+    1236
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Motorola_Minicall_Express_Swedish_1990s_pager.jpg",
+   "plain": true
+  },
+  {
+   "shows": "AFAC17 Exhibitors - Motorola Solutions - 3",
+   "url": "https://live.staticflickr.com/4376/36844444356_f1a67b45a7_b.jpg",
+   "preview": "https://live.staticflickr.com/4376/36844444356_f1a67b45a7_z.jpg",
+   "size": [
+    1024,
+    810
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by AFAC powered by INTERSCHUTZ on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/146573429@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/146573429@N03/36844444356",
    "plain": true
   }
  ]
