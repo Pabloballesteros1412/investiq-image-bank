@@ -6822,6 +6822,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A close up of a raspberry board on a table: Photo by Jainath Ponnala on Unsplash. [jvHymbpto1E](https://unsplash.com/photos/a-close-up-of-a-raspberry-board-on-a-table-jvHymbpto1E?utm_source=investiq_image_bank&utm_medium=referral)
 - Lithography machine at INESC MN: Misn02, CC BY-SA 4.0, via Wikimedia Commons. [Lithography machine at INESC MN.jpg](https://commons.wikimedia.org/wiki/File:Lithography_machine_at_INESC_MN.jpg)
 - 2N6282: NPN silicon Darlington power transistor; 60V; 20A; 160W; hFE min: 750; TO-3 packaging; Manufacturer: Motorola: Mister rf, CC BY-SA 4.0, via Wikimedia Commons. [2N6282 die.jpg](https://commons.wikimedia.org/wiki/File:2N6282_die.jpg)
+- IMac A1173 Motherboard Closeup: Oligopolism, CC0, via Wikimedia Commons. [IMac A1173 Motherboard Closeup.jpg](https://commons.wikimedia.org/wiki/File:IMac_A1173_Motherboard_Closeup.jpg)
 
 ## Bitcoin & crypto (crypto)
 
@@ -7032,6 +7033,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large boat in a body of water: Photo by Julia Taubitz on Unsplash. [zc4em1u9_Fo](https://unsplash.com/photos/a-large-boat-in-a-body-of-water-zc4em1u9_Fo?utm_source=investiq_image_bank&utm_medium=referral)
 - Large shipping cranes at a container terminal at night with lights reflecting on the water: Photo by Sondre Millstein on Unsplash. [cdm1L4MzCWQ](https://unsplash.com/photos/shipping-cranes-at-night-container-terminal-cdm1L4MzCWQ?utm_source=investiq_image_bank&utm_medium=referral)
 - White and blue metal crane under blue sky during daytime: Photo by fred crandon on Unsplash. [0JRcFvUbGAY](https://unsplash.com/photos/white-and-blue-metal-crane-under-blue-sky-during-daytime-0JRcFvUbGAY?utm_source=investiq_image_bank&utm_medium=referral)
+- A large amount of containers are stacked on top of each other: Photo by Fejuz on Unsplash. [q6j5mSRpi50](https://unsplash.com/photos/a-large-amount-of-containers-are-stacked-on-top-of-each-other-q6j5mSRpi50?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## China economy (china)
 
@@ -7397,6 +7399,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A green sign that says electric vehicle charging station: Photo by Matt Bloom on Unsplash. [0Xp_MBkkdBo](https://unsplash.com/photos/a-green-sign-that-says-electric-vehicle-charging-station-0Xp_MBkkdBo?utm_source=investiq_image_bank&utm_medium=referral)
 - EV Charging station, Mothitang: Christopher J. Fynn, CC BY-SA 4.0, via Wikimedia Commons. [EV Charging station, Mothitang.jpg](https://commons.wikimedia.org/wiki/File:EV_Charging_station,_Mothitang.jpg)
 - Ev charger connector head: Photo by Miron Huang on Unsplash. [ECPML1vHQYQ](https://unsplash.com/photos/ev-charger-connector-head-ECPML1vHQYQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Detail of antique car, Country Classic Cars, Staunton, Illinois: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010630393](https://www.loc.gov/item/2010630393/)
 
 ## Nuclear power & uranium (nuclear)
 
