@@ -8,8 +8,43 @@
  ],
  "sector": "sector-communication",
  "target": 30,
- "fill_from": "sector-communication",
  "photos": [
+  {
+   "shows": "Google Headquarters, Mountain View, California",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/1200,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/500,/0/default.jpg",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2013630580/"
+  },
+  {
+   "shows": "Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/2250,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/500,/0/default.jpg",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2013630577/"
+  },
   {
    "shows": "Waymo Jaguar I-Pace in San Francisco 2023 dllu",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg/1920px-Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
@@ -100,27 +135,45 @@
    "source": "https://unsplash.com/photos/a-waymo-self-driving-car-is-seen-in-the-city-KDOigAcQ8PE?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Google Headquarters, Mountain View, California",
-   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/1200,/0/default.jpg",
-   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21152/full/500,/0/default.jpg",
+   "shows": "A white car is stopped at an intersection",
+   "url": "https://images.unsplash.com/photo-1735402856128-2baadb82f2d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8V2F5bW98ZW58MXx8fHwxNzkzOTYwMDI4fDA&ixlib=rb-4.1.0&w=2249&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1735402856128-2baadb82f2d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8V2F5bW98ZW58MXx8fHwxNzkzOTYwMDI4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1200,
-    1800
+    2249,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
-   "provider": "loc",
-   "source": "https://www.loc.gov/item/2013630580/"
+   "credit": "Photo by Hoseung Han on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dhs4590?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-white-car-is-stopped-at-an-intersection-nYMmmrYxISY?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California",
-   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/2250,/0/default.jpg",
-   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:21100:21149/full/500,/0/default.jpg",
+   "shows": "A close up of a cell phone with the google logo in the background",
+   "url": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1675352161828-c07170f1b114?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Shutter Speed on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@shutter_speed_?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-the-google-logo-in-the-background-0uMU42uRw28?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A man standing in front of a google building",
+   "url": "https://images.unsplash.com/photo-1690983730723-37220d10db46?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1690983730723-37220d10db46?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
     2250,
     1500
@@ -129,11 +182,155 @@
     0.5,
     0.5
    ],
-   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
-   "provider": "loc",
-   "source": "https://www.loc.gov/item/2013630577/"
+   "credit": "Photo by Karollyne Videira Hubert on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@karohubert?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-man-standing-in-front-of-a-google-building-BaQsbDu8Oso?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Google logo neon light signage",
+   "url": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=2396&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2396,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Mitchell Luo on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@mitchel3uo?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/google-logo-neon-light-signage-jz4ca36oJ_M?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A person holding a cell phone in their hand",
+   "url": "https://images.unsplash.com/photo-1724322535079-11b08f7f5c88?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwUGl4ZWx8ZW58MXx8fHwxNzk1MDUwNDkwfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1724322535079-11b08f7f5c88?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwUGl4ZWx8ZW58MXx8fHwxNzk1MDUwNDkwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1349
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Amanz on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@amanz?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-MuGEpHK8S4k?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The google logo is displayed on the side of a building",
+   "url": "https://images.unsplash.com/photo-1688235142578-c4e1523c6347?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1688235142578-c4e1523c6347?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8R29vZ2xlfGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Adarsh Chauhan on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@dyno8426?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/the-google-logo-is-displayed-on-the-side-of-a-building-r-oebX7qWxM?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Person holding black smartphone",
+   "url": "https://images.unsplash.com/photo-1548345680-f5475ea5df84?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwTWFwc3xlbnwxfHx8fDE3OTUwNTA2MzZ8MA&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1548345680-f5475ea5df84?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R29vZ2xlJTIwTWFwc3xlbnwxfHx8fDE3OTUwNTA2MzZ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2256,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by henry perks on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hjkp?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/person-holding-black-smartphone-BJXAxQ1L7dI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Youtube logo displayed on a keyboard",
+   "url": "https://images.unsplash.com/photo-1746608943026-e56ff017cd71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1746608943026-e56ff017cd71?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zulfugar Karimov on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zulfugarkarimov?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/youtube-logo-displayed-on-a-keyboard-HywcR2JY_ks?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white Waymo autonomous vehicle with roof sensors parked on a city street",
+   "url": "https://images.unsplash.com/photo-1786683028355-8eee51174e45?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1786683028355-8eee51174e45?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Anil Baki Durmus on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@anldrms?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/white-waymo-autonomous-vehicle-on-street-zktGhMjNxlY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A phone with a youtube logo on it next to a potted plant",
+   "url": "https://images.unsplash.com/photo-1647301710907-f2c679204a68?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1647301710907-f2c679204a68?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFlvdVR1YmV8ZW58MXx8fHwxNzkzOTYwMDI3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Collabstr on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@collabstr?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-phone-with-a-youtube-logo-on-it-next-to-a-potted-plant-nwCikL2T5qg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A white remote control",
+   "url": "https://images.unsplash.com/photo-1664451214549-42c1877dc53c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q2hyb21lY2FzdHxlbnwxfHx8fDE3OTUwNTA2NTN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1664451214549-42c1877dc53c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8Q2hyb21lY2FzdHxlbnwxfHx8fDE3OTUwNTA2NTN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Victor Carvalho on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@chamavito?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-white-remote-control-PpgJZ3mMdq4?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "Mountain View (CA, USA), Charleston Road, Google-Schild -- 2022 -- 2896",
@@ -361,206 +558,6 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/25955895@N03/54503531839",
-   "plain": true
-  },
-  {
-   "shows": "Waymo Car in my Neighborhood",
-   "url": "https://live.staticflickr.com/65535/54457417422_51b6f7dbed_b.jpg",
-   "preview": "https://live.staticflickr.com/65535/54457417422_51b6f7dbed_z.jpg",
-   "size": [
-    1024,
-    768
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Phillip Pessar on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/25955895@N03",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/25955895@N03/54457417422",
-   "plain": true
-  },
-  {
-   "shows": "Waymo self-driving car. · california, sanfrancisco, selfdrivingcar, unitedstates, waymo",
-   "url": "https://live.staticflickr.com/65535/52194843144_120e29533b_b.jpg",
-   "preview": "https://live.staticflickr.com/65535/52194843144_120e29533b_z.jpg",
-   "size": [
-    1024,
-    576
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by jdnx on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/21442511@N08",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/21442511@N08/52194843144",
-   "plain": true
-  },
-  {
-   "shows": "Waymo Car Parked at Wendy's",
-   "url": "https://live.staticflickr.com/65535/54504233900_3e371031e7_b.jpg",
-   "preview": "https://live.staticflickr.com/65535/54504233900_3e371031e7_z.jpg",
-   "size": [
-    1024,
-    768
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Phillip Pessar on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/25955895@N03",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/25955895@N03/54504233900",
-   "plain": true
-  },
-  {
-   "shows": "Waymo at rest · austin, car, factory, future, grafitti",
-   "url": "https://live.staticflickr.com/65535/54031456653_a3b6dbbfa0_b.jpg",
-   "preview": "https://live.staticflickr.com/65535/54031456653_a3b6dbbfa0_z.jpg",
-   "size": [
-    1024,
-    704
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Lars Plougmann on Flickr, CC BY-SA 2.0",
-   "licence": "CC BY-SA 2.0",
-   "author_url": "https://www.flickr.com/photos/75062596@N00",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/75062596@N00/54031456653",
-   "plain": true
-  },
-  {
-   "shows": "Waymo self-driving car training on Austin roads",
-   "url": "https://live.staticflickr.com/65535/53146450909_5f00fa5bec_b.jpg",
-   "preview": "https://live.staticflickr.com/65535/53146450909_5f00fa5bec_z.jpg",
-   "size": [
-    1024,
-    771
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Lars Plougmann on Flickr, CC BY-SA 2.0",
-   "licence": "CC BY-SA 2.0",
-   "author_url": "https://www.flickr.com/photos/75062596@N00",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/75062596@N00/53146450909",
-   "plain": true
-  },
-  {
-   "shows": "Waymo Autonomous Vehicle, 7th Street, Garfield, Phoenix, AZ",
-   "url": "https://live.staticflickr.com/65535/54438142845_961908f1ff_b.jpg",
-   "preview": "https://live.staticflickr.com/65535/54438142845_961908f1ff_z.jpg",
-   "size": [
-    1024,
-    768
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
-   "licence": "CC BY-SA 2.0",
-   "author_url": "https://www.flickr.com/photos/59081381@N03",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/59081381@N03/54438142845",
-   "plain": true
-  },
-  {
-   "shows": "Android Assistant on the Google Pixel XL smartphone",
-   "url": "https://live.staticflickr.com/5491/29526761674_42924b1f20_b.jpg",
-   "preview": "https://live.staticflickr.com/5491/29526761674_42924b1f20_z.jpg",
-   "size": [
-    1024,
-    575
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by pestoverde on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/30364433@N05",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/30364433@N05/29526761674",
-   "plain": true
-  },
-  {
-   "shows": "Google Pixel and Pixel XL smartphones",
-   "url": "https://live.staticflickr.com/5617/30120254046_2fa846e859_b.jpg",
-   "preview": "https://live.staticflickr.com/5617/30120254046_2fa846e859_z.jpg",
-   "size": [
-    1024,
-    575
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by pestoverde on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/30364433@N05",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/30364433@N05/30120254046",
-   "plain": true
-  },
-  {
-   "shows": "Google Pixel 2 XL 64 GB, White (Refurbished)",
-   "url": "https://live.staticflickr.com/4834/46123346772_a81dbca015_b.jpg",
-   "preview": "https://live.staticflickr.com/4834/46123346772_a81dbca015_z.jpg",
-   "size": [
-    1024,
-    1024
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by ekosunaryo on Flickr, CC BY-SA 2.0",
-   "licence": "CC BY-SA 2.0",
-   "author_url": "https://www.flickr.com/photos/149902810@N07",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/149902810@N07/46123346772",
-   "plain": true
-  },
-  {
-   "shows": "The Android attack ! · 3gs, android, google, iphone, smartphone",
-   "url": "https://live.staticflickr.com/5012/5480146781_2337edceb3_b.jpg",
-   "preview": "https://live.staticflickr.com/5012/5480146781_2337edceb3_z.jpg",
-   "size": [
-    768,
-    1024
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by MIKI Yoshihito. (#mikiyoshihito) on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/7940758@N07",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/7940758@N07/5480146781",
    "plain": true
   }
  ]

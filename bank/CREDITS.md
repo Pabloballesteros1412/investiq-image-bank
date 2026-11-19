@@ -47,6 +47,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Abbott Freestyle Libre 3 sensor applicator-1149: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Abbott Freestyle Libre 3 sensor applicator-1149.jpg](https://commons.wikimedia.org/wiki/File:Abbott_Freestyle_Libre_3_sensor_applicator-1149.jpg)
 - FreeStyle Libre 2 Reader and LibreLink app: Photo by originaldaniel on Flickr, CC BY-SA 2.0. [49446598708](https://www.flickr.com/photos/184613180@N08/49446598708)
 
+## AbbVie (ABBV)
+
+- Botox injection being administered to a woman: Photo by Mina Rad on Unsplash. [qehqLHZ9toc](https://unsplash.com/photos/botox-injection-being-administered-to-a-woman-qehqLHZ9toc?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Accenture (ACN)
 
 - Accenture (Accenture): ajay_suresh, CC BY 2.0, via Wikimedia Commons. [Accenture (52366713942).jpg](https://commons.wikimedia.org/wiki/File:Accenture_(52366713942).jpg)
@@ -67,6 +71,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Adobe, Lehi: Chad Davis from Minneapolis, United States, CC BY 2.0, via Wikimedia Commons. [Adobe, Lehi (53560419845).jpg](https://commons.wikimedia.org/wiki/File:Adobe,_Lehi_(53560419845).jpg)
 - Shantanu Narayen - the CEO of Adobe Inc: Brian Cummings Photography, CC BY-SA 4.0, via Wikimedia Commons. [Shantanu Narayen - the CEO of Adobe Inc.jpg](https://commons.wikimedia.org/wiki/File:Shantanu_Narayen_-_the_CEO_of_Adobe_Inc.jpg)
 - Adobe Systems Ottawa office: Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons. [Adobe Systems Ottawa office.jpg](https://commons.wikimedia.org/wiki/File:Adobe_Systems_Ottawa_office.jpg)
+- Adobe logo and slogan on a building: Photo by FY Chang on Unsplash. [JtIoB86edyU](https://unsplash.com/photos/adobe-logo-and-slogan-on-a-building-JtIoB86edyU?utm_source=investiq_image_bank&utm_medium=referral)
+- MacBook Pro: Photo by Szabo Viktor on Unsplash. [2yQTxjC01JY](https://unsplash.com/photos/macbook-pro-2yQTxjC01JY?utm_source=investiq_image_bank&utm_medium=referral)
 - Adobe CEO Shantanu Narayen: Jolie O'Dell, CC BY 2.0, via Wikimedia Commons. [Adobe CEO Shantanu Narayen.jpg](https://commons.wikimedia.org/wiki/File:Adobe_CEO_Shantanu_Narayen.jpg)
 - 1540 Bwy W45 St Adobe entry 2021 jeh: Jim.henderson, CC BY 4.0, via Wikimedia Commons. [1540 Bwy W45 St Adobe entry 2021 jeh.jpg](https://commons.wikimedia.org/wiki/File:1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg)
 - Adobe India office: Rashid Jorvee, CC BY-SA 4.0, via Wikimedia Commons. [Adobe India office.jpg](https://commons.wikimedia.org/wiki/File:Adobe_India_office.jpg)
@@ -85,13 +91,20 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Advanced Micro Devices (AMD)
 
+- AMD Ryzen 7 5800X3D: Photo by htomari on Flickr, Public Domain Mark. [55045896543](https://www.flickr.com/photos/34923408@N07/55045896543)
 - AMD Ryzen 7 1800X: Brian Wong, CC BY-SA 2.0, via Wikimedia Commons. [AMD Ryzen 7 1800X.jpg](https://commons.wikimedia.org/wiki/File:AMD_Ryzen_7_1800X.jpg)
 - SXSW-2024-alih-OB7A0861-Lisa Su: Fuzheado, CC BY 4.0, via Wikimedia Commons. [SXSW-2024-alih-OB7A0861-Lisa Su.jpg](https://commons.wikimedia.org/wiki/File:SXSW-2024-alih-OB7A0861-Lisa_Su.jpg)
+- AMD Markham Canada - Address: 1 Commerce Valley Drive East, Markham, ON L3T 7X6, Canada: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [AMDMarkham10.jpg](https://commons.wikimedia.org/wiki/File:AMDMarkham10.jpg)
 - A close up of a computer mother board: Photo by Zii Miller on Unsplash. [kz2Z3maVaLo](https://unsplash.com/photos/a-close-up-of-a-computer-mother-board-kz2Z3maVaLo?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and green lenovo logo: Photo by Timothy Dykes on Unsplash. [nWgpCe-LQa4](https://unsplash.com/photos/black-and-green-lenovo-logo-nWgpCe-LQa4?utm_source=investiq_image_bank&utm_medium=referral)
 - A blue radeon graphics card sits among green leaves: Photo by James Tilden on Unsplash. [l6PLfGcAzZc](https://unsplash.com/photos/a-blue-radeon-graphics-card-sits-among-green-leaves-l6PLfGcAzZc?utm_source=investiq_image_bank&utm_medium=referral)
-- AMD Markham Canada - Address: 1 Commerce Valley Drive East, Markham, ON L3T 7X6, Canada: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [AMDMarkham10.jpg](https://commons.wikimedia.org/wiki/File:AMDMarkham10.jpg)
-- AMD Ryzen 7 5800X3D: Photo by htomari on Flickr, Public Domain Mark. [55045896543](https://www.flickr.com/photos/34923408@N07/55045896543)
+- Blue computer graphics card resting in green grass: Photo by James Tilden on Unsplash. [VFvt6xMkb8g](https://unsplash.com/photos/blue-computer-graphics-card-resting-in-green-grass-VFvt6xMkb8g?utm_source=investiq_image_bank&utm_medium=referral)
+- Blue and green round light: Photo by Maxence Pira on Unsplash. [pNpqq8Cwjxw](https://unsplash.com/photos/blue-and-green-round-light-pNpqq8Cwjxw?utm_source=investiq_image_bank&utm_medium=referral)
+- Ryzen processor: Photo by Vladimir Malyutin on Unsplash. [_iSo6Hps2mA](https://unsplash.com/photos/ryzen-processor-_iSo6Hps2mA?utm_source=investiq_image_bank&utm_medium=referral)
+- Amd logo illuminated on a dark ceiling: Photo by LISK OBE on Unsplash. [DRZ26ZSVTtg](https://unsplash.com/photos/amd-logo-illuminated-on-a-dark-ceiling-DRZ26ZSVTtg?utm_source=investiq_image_bank&utm_medium=referral)
+- A desk with a keyboard, mouse, and other electronics: Photo by Brandon. on Unsplash. [GzSRqeh3Xfs](https://unsplash.com/photos/a-desk-with-a-keyboard-mouse-and-other-electronics-GzSRqeh3Xfs?utm_source=investiq_image_bank&utm_medium=referral)
+- A new amd ryzen processor sits on a desk: Photo by Đào Hiếu on Unsplash. [2bJfnIwQvpk](https://unsplash.com/photos/a-new-amd-ryzen-processor-sits-on-a-desk-2bJfnIwQvpk?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a cpu on a table: Photo by benjamin lehman on Unsplash. [h_ZDeb9taY0](https://unsplash.com/photos/a-close-up-of-a-cpu-on-a-table-h_ZDeb9taY0?utm_source=investiq_image_bank&utm_medium=referral)
 - 2485 Augustine Drive headquarters in Santa Clara, California: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [2485 Augustine Drive headquarters in Santa Clara, California.jpg](https://commons.wikimedia.org/wiki/File:2485_Augustine_Drive_headquarters_in_Santa_Clara,_California.jpg)
 - AMD Epyc 9754 in Dual-CPU-Socket-Serversystem (极客湾Geekerwan) 10: 极客湾Geekerwan, CC BY 3.0, via Wikimedia Commons. [AMD Epyc 9754 in Dual-CPU-Socket-Serversystem (极客湾Geekerwan) 10.png](https://commons.wikimedia.org/wiki/File:AMD_Epyc_9754_in_Dual-CPU-Socket-Serversystem_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_10.png)
 - Больше не майнинговые Играем на AMD BC-160 и Instinct Mi50 (Мой Компьютер) 50: Мой Компьютер, CC BY 3.0, via Wikimedia Commons. [Больше не майнинговые Играем на AMD BC-160 и Instinct Mi50 (Мой Компьютер) 50.png](https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5_%D0%BD%D0%B5_%D0%BC%D0%B0%D0%B9%D0%BD%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D1%8B%D0%B5_%D0%98%D0%B3%D1%80%D0%B0%D0%B5%D0%BC_%D0%BD%D0%B0_AMD_BC-160_%D0%B8_Instinct_Mi50_(%D0%9C%D0%BE%D0%B9_%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80)_50.png)
@@ -108,12 +121,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - AMD CPU: Daniel Garcia, CC BY-SA 2.0, via Wikimedia Commons. [AMD CPU (49325505733).jpg](https://commons.wikimedia.org/wiki/File:AMD_CPU_(49325505733).jpg)
 - AMD Ryzen 5 1600 processor with Wraith Spire cooler - detail view of cooler: ITEagle Europe - Sebastiaan Broekhoven, CC BY-SA 4.0, via Wikimedia Commons. [AMD Ryzen 5 1600 processor with Wraith Spire cooler - detail view of cooler.jpg](https://commons.wikimedia.org/wiki/File:AMD_Ryzen_5_1600_processor_with_Wraith_Spire_cooler_-_detail_view_of_cooler.jpg)
 - AMD Radeon Memory - 8 GB * 2: Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [AMDRadeonMemory.JPG](https://commons.wikimedia.org/wiki/File:AMDRadeonMemory.JPG)
-- AMD Austin campus: Matthewrutledge, public domain, via Wikimedia Commons. [AMD Austin campus.JPG](https://commons.wikimedia.org/wiki/File:AMD_Austin_campus.JPG)
-- AMD CPU Stock Heatsink: Edmund Tse from Sydney, Australia, CC BY 2.0, via Wikimedia Commons. [AMD CPU Stock Heatsink.jpg](https://commons.wikimedia.org/wiki/File:AMD_CPU_Stock_Heatsink.jpg)
-- AMD booth, Computex Taipei: Quintin Lin, CC BY-SA 2.0, via Wikimedia Commons. [AMD booth, Computex Taipei 20130607.jpg](https://commons.wikimedia.org/wiki/File:AMD_booth,_Computex_Taipei_20130607.jpg)
-- Embedded World 2014 AMD Booth: Ordercrazy, CC0, via Wikimedia Commons. [Embedded World 2014 AMD Booth.jpg](https://commons.wikimedia.org/wiki/File:Embedded_World_2014_AMD_Booth.jpg)
-- E3 2011 - AMD booth: The Conmunity - Pop Culture Geek from Los Angeles, CA, USA, CC BY 2.0, via Wikimedia Commons. [E3 2011 - AMD booth (5822119709).jpg](https://commons.wikimedia.org/wiki/File:E3_2011_-_AMD_booth_(5822119709).jpg)
-- AMD@7nm(12nmIOD)@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062___DSCx1: Photo by FritzchensFritz on Flickr, CC0. [48258240636](https://www.flickr.com/photos/130561288@N04/48258240636)
 
 ## AES Corporation (AES)
 
@@ -227,13 +234,24 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Alphabet Inc. (GOOGL)
 
+- Google Headquarters, Mountain View, California: Photo: Carol M. Highsmith, Library of Congress, public domain. [2013630580](https://www.loc.gov/item/2013630580/)
+- Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California: Photo: Carol M. Highsmith, Library of Congress, public domain. [2013630577](https://www.loc.gov/item/2013630577/)
 - Waymo Jaguar I-Pace in San Francisco 2023 dllu: Dllu, CC BY 4.0, via Wikimedia Commons. [Waymo Jaguar I-Pace in San Francisco 2023 dllu.jpg](https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg)
 - Sundar Pichai - 2023 ( ): Photographer: Lukasz Kobus (European Commission), CC BY 4.0, via Wikimedia Commons. [Sundar Pichai - 2023 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Sundar_Pichai_-_2023_(cropped).jpg)
 - Google sign: Photo by Pawel Czerwinski on Unsplash. [fpZZEV0uQwA](https://unsplash.com/photos/google-sign-fpZZEV0uQwA?utm_source=investiq_image_bank&utm_medium=referral)
 - A hand holding a smartphone displaying the Google search engine homepage: Photo by Solen Feyissa on Unsplash. [UWVJaDvXW_c](https://unsplash.com/photos/smartphone-displaying-google-search-engine-UWVJaDvXW_c?utm_source=investiq_image_bank&utm_medium=referral)
 - A waymo self-driving car is seen in the city: Photo by Aamy Dugiere on Unsplash. [KDOigAcQ8PE](https://unsplash.com/photos/a-waymo-self-driving-car-is-seen-in-the-city-KDOigAcQ8PE?utm_source=investiq_image_bank&utm_medium=referral)
-- Google Headquarters, Mountain View, California: Photo: Carol M. Highsmith, Library of Congress, public domain. [2013630580](https://www.loc.gov/item/2013630580/)
-- Bikes that are used by employees to ride between buildings. Google Headquarters, Mountain View, California: Photo: Carol M. Highsmith, Library of Congress, public domain. [2013630577](https://www.loc.gov/item/2013630577/)
+- A white car is stopped at an intersection: Photo by Hoseung Han on Unsplash. [nYMmmrYxISY](https://unsplash.com/photos/a-white-car-is-stopped-at-an-intersection-nYMmmrYxISY?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a cell phone with the google logo in the background: Photo by Shutter Speed on Unsplash. [0uMU42uRw28](https://unsplash.com/photos/a-close-up-of-a-cell-phone-with-the-google-logo-in-the-background-0uMU42uRw28?utm_source=investiq_image_bank&utm_medium=referral)
+- A man standing in front of a google building: Photo by Karollyne Videira Hubert on Unsplash. [BaQsbDu8Oso](https://unsplash.com/photos/a-man-standing-in-front-of-a-google-building-BaQsbDu8Oso?utm_source=investiq_image_bank&utm_medium=referral)
+- Google logo neon light signage: Photo by Mitchell Luo on Unsplash. [jz4ca36oJ_M](https://unsplash.com/photos/google-logo-neon-light-signage-jz4ca36oJ_M?utm_source=investiq_image_bank&utm_medium=referral)
+- A person holding a cell phone in their hand: Photo by Amanz on Unsplash. [MuGEpHK8S4k](https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-MuGEpHK8S4k?utm_source=investiq_image_bank&utm_medium=referral)
+- The google logo is displayed on the side of a building: Photo by Adarsh Chauhan on Unsplash. [r-oebX7qWxM](https://unsplash.com/photos/the-google-logo-is-displayed-on-the-side-of-a-building-r-oebX7qWxM?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding black smartphone: Photo by henry perks on Unsplash. [BJXAxQ1L7dI](https://unsplash.com/photos/person-holding-black-smartphone-BJXAxQ1L7dI?utm_source=investiq_image_bank&utm_medium=referral)
+- Youtube logo displayed on a keyboard: Photo by Zulfugar Karimov on Unsplash. [HywcR2JY_ks](https://unsplash.com/photos/youtube-logo-displayed-on-a-keyboard-HywcR2JY_ks?utm_source=investiq_image_bank&utm_medium=referral)
+- A white Waymo autonomous vehicle with roof sensors parked on a city street: Photo by Anil Baki Durmus on Unsplash. [zktGhMjNxlY](https://unsplash.com/photos/white-waymo-autonomous-vehicle-on-street-zktGhMjNxlY?utm_source=investiq_image_bank&utm_medium=referral)
+- A phone with a youtube logo on it next to a potted plant: Photo by Collabstr on Unsplash. [nwCikL2T5qg](https://unsplash.com/photos/a-phone-with-a-youtube-logo-on-it-next-to-a-potted-plant-nwCikL2T5qg?utm_source=investiq_image_bank&utm_medium=referral)
+- A white remote control: Photo by Victor Carvalho on Unsplash. [PpgJZ3mMdq4](https://unsplash.com/photos/a-white-remote-control-PpgJZ3mMdq4?utm_source=investiq_image_bank&utm_medium=referral)
 - Mountain View (CA, USA), Charleston Road, Google-Schild -- 2022 -- 2896: Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons. [Mountain View (CA, USA), Charleston Road, Google-Schild -- 2022 -- 2896.jpg](https://commons.wikimedia.org/wiki/File:Mountain_View_(CA,_USA),_Charleston_Road,_Google-Schild_--_2022_--_2896.jpg)
 - Google data center: Lambtron, CC BY-SA 4.0, via Wikimedia Commons. [Google data center.jpg](https://commons.wikimedia.org/wiki/File:Google_data_center.jpg)
 - YouTube Space LA exterior: Scot Byrd, CC BY 2.0, via Wikimedia Commons. [YouTube Space LA exterior.jpg](https://commons.wikimedia.org/wiki/File:YouTube_Space_LA_exterior.jpg)
@@ -246,16 +264,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Waymo Jaguar I-Pace: Photo by elisfkc on Flickr, CC BY-SA 2.0. [40242611745](https://www.flickr.com/photos/127662106@N04/40242611745)
 - Waymo Jaguar I-Pace: Photo by elisfkc on Flickr, CC BY-SA 2.0. [27264541428](https://www.flickr.com/photos/127662106@N04/27264541428)
 - Waymo Self Driving Vehicles Brickell: Photo by Phillip Pessar on Flickr, CC BY 2.0. [54503531839](https://www.flickr.com/photos/25955895@N03/54503531839)
-- Waymo Car in my Neighborhood: Photo by Phillip Pessar on Flickr, CC BY 2.0. [54457417422](https://www.flickr.com/photos/25955895@N03/54457417422)
-- Waymo self-driving car. · california, sanfrancisco, selfdrivingcar, unitedstates, waymo: Photo by jdnx on Flickr, CC BY 2.0. [52194843144](https://www.flickr.com/photos/21442511@N08/52194843144)
-- Waymo Car Parked at Wendy's: Photo by Phillip Pessar on Flickr, CC BY 2.0. [54504233900](https://www.flickr.com/photos/25955895@N03/54504233900)
-- Waymo at rest · austin, car, factory, future, grafitti: Photo by Lars Plougmann on Flickr, CC BY-SA 2.0. [54031456653](https://www.flickr.com/photos/75062596@N00/54031456653)
-- Waymo self-driving car training on Austin roads: Photo by Lars Plougmann on Flickr, CC BY-SA 2.0. [53146450909](https://www.flickr.com/photos/75062596@N00/53146450909)
-- Waymo Autonomous Vehicle, 7th Street, Garfield, Phoenix, AZ: Photo by w_lemay on Flickr, CC BY-SA 2.0. [54438142845](https://www.flickr.com/photos/59081381@N03/54438142845)
-- Android Assistant on the Google Pixel XL smartphone: Photo by pestoverde on Flickr, CC BY 2.0. [29526761674](https://www.flickr.com/photos/30364433@N05/29526761674)
-- Google Pixel and Pixel XL smartphones: Photo by pestoverde on Flickr, CC BY 2.0. [30120254046](https://www.flickr.com/photos/30364433@N05/30120254046)
-- Google Pixel 2 XL 64 GB, White (Refurbished): Photo by ekosunaryo on Flickr, CC BY-SA 2.0. [46123346772](https://www.flickr.com/photos/149902810@N07/46123346772)
-- The Android attack ! · 3gs, android, google, iphone, smartphone: Photo by MIKI Yoshihito. (#mikiyoshihito) on Flickr, CC BY 2.0. [5480146781](https://www.flickr.com/photos/7940758@N07/5480146781)
 
 ## Altria (MO)
 
@@ -593,10 +601,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Bank of America branch in NYC: ishmael daro from New York, CC BY 2.0, via Wikimedia Commons. [Bank of America branch in NYC (52809555987).jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_branch_in_NYC_(52809555987).jpg)
 - Brian Moynihan, official portrait, Homeland Security Council (alt): Benjamin Applebaum, public domain, via Wikimedia Commons. [Brian Moynihan, official portrait, Homeland Security Council (alt).jpg](https://commons.wikimedia.org/wiki/File:Brian_Moynihan,_official_portrait,_Homeland_Security_Council_(alt).jpg)
-- A red sports car is parked in front of a bank of america: Photo by Dmitry Kropachev on Unsplash. [IrXminU6OAs](https://unsplash.com/photos/a-red-sports-car-is-parked-in-front-of-a-bank-of-america-IrXminU6OAs?utm_source=investiq_image_bank&utm_medium=referral)
-- Bank of america building seen through pink blossoms: Photo by Miles Smith on Unsplash. [e4HRCx3Jfqw](https://unsplash.com/photos/bank-of-america-building-seen-through-pink-blossoms-e4HRCx3Jfqw?utm_source=investiq_image_bank&utm_medium=referral)
 - Bank of America Center, Baltimore, MD: Daniel Case, public domain, via Wikimedia Commons. [Bank of America Center, Baltimore, MD.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_Center,_Baltimore,_MD.jpg)
 - Bank of America Corporate Center Charlotte, North Carolina: Kiran891, CC BY-SA 4.0, via Wikimedia Commons. [Bank of America Corporate Center Charlotte, North Carolina.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_Corporate_Center_Charlotte,_North_Carolina.jpg)
+- A red sports car is parked in front of a bank of america: Photo by Dmitry Kropachev on Unsplash. [IrXminU6OAs](https://unsplash.com/photos/a-red-sports-car-is-parked-in-front-of-a-bank-of-america-IrXminU6OAs?utm_source=investiq_image_bank&utm_medium=referral)
+- Red and white UNKs coffee store: Photo by Steve Pancrate on Unsplash. [aHtOyTXLZcw](https://unsplash.com/photos/red-and-white-unks-coffee-store-aHtOyTXLZcw?utm_source=investiq_image_bank&utm_medium=referral)
+- A bank of america building with palm trees in front of it: Photo by Don Stouder on Unsplash. [ehkPnVPbLf8](https://unsplash.com/photos/a-bank-of-america-building-with-palm-trees-in-front-of-it-ehkPnVPbLf8?utm_source=investiq_image_bank&utm_medium=referral)
+- Bank of america building seen through pink blossoms: Photo by Miles Smith on Unsplash. [e4HRCx3Jfqw](https://unsplash.com/photos/bank-of-america-building-seen-through-pink-blossoms-e4HRCx3Jfqw?utm_source=investiq_image_bank&utm_medium=referral)
+- Bank of america building against a blue sky: Photo by Jonah Townsley on Unsplash. [7EGD5DbU0LE](https://unsplash.com/photos/bank-of-america-building-against-a-blue-sky-7EGD5DbU0LE?utm_source=investiq_image_bank&utm_medium=referral)
+- Modern glass skyscrapers against a clear blue sky with a Bank of America sign: Photo by Rada Platt on Unsplash. [-hjF3FGFA0g](https://unsplash.com/photos/bank-of-america-skyscraper-in-city--hjF3FGFA0g?utm_source=investiq_image_bank&utm_medium=referral)
 - Bank of America Corporate Center Charlotte NC: Kiran891, CC BY-SA 4.0, via Wikimedia Commons. [Bank of America Corporate Center Charlotte NC.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_Corporate_Center_Charlotte_NC.jpg)
 - Bank of America ATM in downtown Tallahassee: The Bushranger, CC BY-SA 4.0, via Wikimedia Commons. [Bank of America ATM in downtown Tallahassee.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_ATM_in_downtown_Tallahassee.jpg)
 - Bank of America in Dallas Snow 2021: Matthew T Rader, CC BY-SA 4.0, via Wikimedia Commons. [Bank of America in Dallas Snow 2021.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_in_Dallas_Snow_2021.jpg)
@@ -617,10 +629,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Bank of America tower miami: Windows for Noobies2, CC BY-SA 4.0, via Wikimedia Commons. [Bank of America tower miami.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_tower_miami.jpg)
 - Bank of America ATM at Oak Creek Shopping Center, Niceville, Florida: The Bushranger, CC BY-SA 4.0, via Wikimedia Commons. [Bank of America ATM at Oak Creek Shopping Center, Niceville, Florida.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_ATM_at_Oak_Creek_Shopping_Center,_Niceville,_Florida.jpg)
 - Los angeles bank of america tower usa - panoramio: bynyalcin, CC BY 3.0, via Wikimedia Commons. [Los angeles bank of america tower usa - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Los_angeles_bank_of_america_tower_usa_-_panoramio.jpg)
-- Bank of America Beijing Branch: Zheng Zhou, CC BY-SA 4.0, via Wikimedia Commons. [Bank of America Beijing Branch.jpg](https://commons.wikimedia.org/wiki/File:Bank_of_America_Beijing_Branch.jpg)
-- Ballard - Seafirst Bank Branch: Publichall, CC BY-SA 4.0, via Wikimedia Commons. [Ballard - Seafirst Bank Branch.jpg](https://commons.wikimedia.org/wiki/File:Ballard_-_Seafirst_Bank_Branch.jpg)
-- H_23 Downtown - Bank of America Tower (aka Industrial Trust Tower or The Superman Building) - Looking South-West Toward West End: Photo by CthulhuWho1 (Will Hart) on Flickr, CC BY 2.0. [3822884779](https://www.flickr.com/photos/41340252@N08/3822884779)
-- Columbia Center / Bank of America tower - IMG_1466: Photo by Nicola since 1972 on Flickr, CC BY 2.0. [6647760697](https://www.flickr.com/photos/15216811@N06/6647760697)
 
 ## Baxter International (BAX)
 
@@ -2131,15 +2139,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## GE Aerospace (GE)
 
+- The former General Electric Co. headquarters building, now (in 2018) a research facility, in Schenectady, New York: Photo: Carol M. Highsmith, Library of Congress, public domain. [2018700863](https://www.loc.gov/item/2018700863/)
 - General Electric GE90 right engine on a 773ER: Bernd K, CC BY-SA 4.0, via Wikimedia Commons. [General Electric GE90 right engine on a 773ER.jpg](https://commons.wikimedia.org/wiki/File:General_Electric_GE90_right_engine_on_a_773ER.jpg)
 - General Electric GE90-115B: Alston argodi, CC BY-SA 4.0, via Wikimedia Commons. [General Electric GE90-115B.jpg](https://commons.wikimedia.org/wiki/File:General_Electric_GE90-115B.jpg)
 - General Electric GE90 displayed at Farnborough Air Show 2008: Dysanovic from Reading, United Kingdom, CC BY 2.0, via Wikimedia Commons. [General Electric GE90 displayed at Farnborough Air Show 2008.jpg](https://commons.wikimedia.org/wiki/File:General_Electric_GE90_displayed_at_Farnborough_Air_Show_2008.jpg)
 - 777X Roll-Out: Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons. [777X Roll-Out (46457914075).jpg](https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46457914075).jpg)
 - General Electric GEnx at Paris Air Show 2013: Tangopaso, CC BY-SA 3.0, via Wikimedia Commons. [General Electric GEnx at Paris Air Show 2013.jpg](https://commons.wikimedia.org/wiki/File:General_Electric_GEnx_at_Paris_Air_Show_2013.jpg)
+- N747GF Boeing 747-446 General Electric Farnborough 15.7.26: Colin Cooke Photo, CC BY-SA 4.0, via Wikimedia Commons. [N747GF Boeing 747-446 General Electric Farnborough 15.7.26.jpg](https://commons.wikimedia.org/wiki/File:N747GF_Boeing_747-446_General_Electric_Farnborough_15.7.26.jpg)
 - The blue tail of a GE aircraft with an open door and stairs against a blue sky: Photo by David Syphers on Unsplash. [dISMni1qc_w](https://unsplash.com/photos/ge-aircraft-tail-with-open-door-dISMni1qc_w?utm_source=investiq_image_bank&utm_medium=referral)
 - A large white passenger airplane with GE Aerospace branding on the fuselage and engine: Photo by David Syphers on Unsplash. [VYyvQZCC3a4](https://unsplash.com/photos/passenger-airplane-with-ge-aerospace-branding-VYyvQZCC3a4?utm_source=investiq_image_bank&utm_medium=referral)
-- N747GF Boeing 747-446 General Electric Farnborough 15.7.26: Colin Cooke Photo, CC BY-SA 4.0, via Wikimedia Commons. [N747GF Boeing 747-446 General Electric Farnborough 15.7.26.jpg](https://commons.wikimedia.org/wiki/File:N747GF_Boeing_747-446_General_Electric_Farnborough_15.7.26.jpg)
-- The former General Electric Co. headquarters building, now (in 2018) a research facility, in Schenectady, New York: Photo: Carol M. Highsmith, Library of Congress, public domain. [2018700863](https://www.loc.gov/item/2018700863/)
+- A large white ge jet engine on an airplane: Photo by Henry Möllers on Unsplash. [iPkIVUt9VKY](https://unsplash.com/photos/a-large-white-ge-jet-engine-on-an-airplane-iPkIVUt9VKY?utm_source=investiq_image_bank&utm_medium=referral)
 - 777X Roll-Out (blurred): Dan Nevill from Seattle, WA, United States, CC BY 2.0, via Wikimedia Commons. [777X Roll-Out (46649681164) (blurred).jpg](https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46649681164)_(blurred).jpg)
 - CFM LEAP-1B engine side view: Hugo LUC, CC BY-SA 4.0, via Wikimedia Commons. [CFM LEAP-1B engine side view.jpg](https://commons.wikimedia.org/wiki/File:CFM_LEAP-1B_engine_side_view.jpg)
 - Detail of GEnx turbofan engine core: Olivier Cleynen, CC BY-SA 3.0, via Wikimedia Commons. [Detail of GEnx turbofan engine core.jpg](https://commons.wikimedia.org/wiki/File:Detail_of_GEnx_turbofan_engine_core.jpg)
@@ -2218,6 +2227,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - General Motors Headquarters: victorgrigas, CC BY-SA 3.0, via Wikimedia Commons. [General Motors Headquarters.jpg](https://commons.wikimedia.org/wiki/File:General_Motors_Headquarters.jpg)
 - General Motors Factory ZERO Detroit plant, 2021: The White House, public domain, via Wikimedia Commons. [General Motors Factory ZERO Detroit plant, 2021 (51845515837).jpg](https://commons.wikimedia.org/wiki/File:General_Motors_Factory_ZERO_Detroit_plant,_2021_(51845515837).jpg)
 - General Motors Building 5th Avenue: Kidfly182, CC BY-SA 4.0, via Wikimedia Commons. [General Motors Building 5th Avenue.jpg](https://commons.wikimedia.org/wiki/File:General_Motors_Building_5th_Avenue.jpg)
+
+## Genuine Parts Company (GPC)
+
+- A blue NAPA Auto Part store with a yellow and red stripe under a clear blue sky: Photo by Marcus Lenk on Unsplash. [mxEqrCqB-Jo](https://unsplash.com/photos/napa-auto-part-store-exterior-mxEqrCqB-Jo?utm_source=investiq_image_bank&utm_medium=referral)
+- A blue building with a NAPA sign and a door marked "BEWARE OF ALLIGATORS": Photo by Marcus Lenk on Unsplash. [DDzz9YTviKk](https://unsplash.com/photos/blue-building-with-napa-sign-DDzz9YTviKk?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Gilead Sciences (GILD)
 
@@ -2730,15 +2744,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## JPMorgan Chase (JPM)
 
+- Chase Bank Logo · 14thstreet, bank, chase, greenwichvillage, jpmorganchase: Photo by Neubie on Flickr, CC BY 2.0. [618509465](https://www.flickr.com/photos/45942104@N00/618509465)
 - A Chase Bank branch in Knoxville, Tennessee: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [A Chase Bank branch in Knoxville, Tennessee.jpg](https://commons.wikimedia.org/wiki/File:A_Chase_Bank_branch_in_Knoxville,_Tennessee.jpg)
 - Jamie Dimon, CEO of JPMorgan Chase: Steve Jurvetson, CC BY 2.0, via Wikimedia Commons. [Jamie Dimon, CEO of JPMorgan Chase.jpg](https://commons.wikimedia.org/wiki/File:Jamie_Dimon,_CEO_of_JPMorgan_Chase.jpg)
 - JPMorgan Chase Tower, Houston, Texas: i_am_jim, CC BY-SA 3.0, via Wikimedia Commons. [JPMorgan Chase Tower, Houston, Texas.jpg](https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Tower,_Houston,_Texas.jpg)
+- J.P.Morgan, Sydney: Shkuru Afshar, CC BY-SA 4.0, via Wikimedia Commons. [J.P.Morgan, Sydney.jpg](https://commons.wikimedia.org/wiki/File:J.P.Morgan,_Sydney.jpg)
+- Top of JPMorgan Chase Tower: Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons. [Top of JPMorgan Chase Tower.jpg](https://commons.wikimedia.org/wiki/File:Top_of_JPMorgan_Chase_Tower.jpg)
 - The front of a store: Photo by Frugal Flyer on Unsplash. [pYJSd3D8wSo](https://unsplash.com/photos/the-front-of-a-store-pYJSd3D8wSo?utm_source=investiq_image_bank&utm_medium=referral)
 - A vending machine with a sign: Photo by Frugal Flyer on Unsplash. [x-RA_dKvgOc](https://unsplash.com/photos/a-vending-machine-with-a-sign-x-RA_dKvgOc?utm_source=investiq_image_bank&utm_medium=referral)
 - A lexus sits in front of a chase bank at night: Photo by jacob S on Unsplash. [qu8vr38AXBg](https://unsplash.com/photos/a-lexus-sits-in-front-of-a-chase-bank-at-night-qu8vr38AXBg?utm_source=investiq_image_bank&utm_medium=referral)
-- J.P.Morgan, Sydney: Shkuru Afshar, CC BY-SA 4.0, via Wikimedia Commons. [J.P.Morgan, Sydney.jpg](https://commons.wikimedia.org/wiki/File:J.P.Morgan,_Sydney.jpg)
-- Top of JPMorgan Chase Tower: Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons. [Top of JPMorgan Chase Tower.jpg](https://commons.wikimedia.org/wiki/File:Top_of_JPMorgan_Chase_Tower.jpg)
-- Chase Bank Logo · 14thstreet, bank, chase, greenwichvillage, jpmorganchase: Photo by Neubie on Flickr, CC BY 2.0. [618509465](https://www.flickr.com/photos/45942104@N00/618509465)
+- A car is parked outside a chase bank at night: Photo by jacob S on Unsplash. [iIOBi9Q1INI](https://unsplash.com/photos/a-car-is-parked-outside-a-chase-bank-at-night-iIOBi9Q1INI?utm_source=investiq_image_bank&utm_medium=referral)
 - Chase ATM in Greenwood, Indiana - June 2022 - Sarah Stierch: Missvain, CC BY 4.0, via Wikimedia Commons. [Chase ATM in Greenwood, Indiana - June 2022 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Chase_ATM_in_Greenwood,_Indiana_-_June_2022_-_Sarah_Stierch.jpg)
 - JPMorgan Chase Tower 0: WhisperToMe, CC0, via Wikimedia Commons. [JPMorgan Chase Tower 0.jpg](https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Tower_0.jpg)
 - JPMorgan Chase Building Corner 2021: Dead.rabbit, CC BY-SA 4.0, via Wikimedia Commons. [JPMorgan Chase Building Corner 2021.jpg](https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Building_Corner_2021.jpg)
@@ -2916,6 +2931,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Lilly (Eli) (LLY)
 
+- Eli Lilly & Company 2 · 2011, indiana, indianapolis, architecture, brick: Photo by pasa47 on Flickr, CC BY 2.0. [5469618669](https://www.flickr.com/photos/53301297@N00/5469618669)
 - Eli Lilly Headquarters: Guanaco152003, public domain, via Wikimedia Commons. [2006 0219FirstFUJIFOLDER0012.JPG](https://commons.wikimedia.org/wiki/File:2006_0219FirstFUJIFOLDER0012.JPG)
 - Eli Lilly & Company 2: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Eli Lilly & Company 2.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_%26_Company_2.jpg)
 - American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad: Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons. [American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad.jpg](https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad.jpg)
@@ -2923,7 +2939,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Eli Lilly Corporate Center, Indianapolis, Indiana, USA: Momoneymoproblemz, CC BY-SA 4.0, via Wikimedia Commons. [Eli Lilly Corporate Center, Indianapolis, Indiana, USA.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_Corporate_Center,_Indianapolis,_Indiana,_USA.jpg)
 - Alcobendas - Lilly España 1: Zarateman, CC0, via Wikimedia Commons. [Alcobendas - Lilly España 1.jpg](https://commons.wikimedia.org/wiki/File:Alcobendas_-_Lilly_Espa%C3%B1a_1.jpg)
 - Eli Lilly Corporate Center, side: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Eli Lilly Corporate Center, side.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_Corporate_Center,_side.jpg)
-- Eli Lilly & Company 2 · 2011, indiana, indianapolis, architecture, brick: Photo by pasa47 on Flickr, CC BY 2.0. [5469618669](https://www.flickr.com/photos/53301297@N00/5469618669)
 - Lilly mounjaro KwikPen Tirzepatid 5 mg per dose rate-9442: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Lilly mounjaro KwikPen Tirzepatid 5 mg per dose rate-9442.jpg](https://commons.wikimedia.org/wiki/File:Lilly_mounjaro_KwikPen_Tirzepatid_5_mg_per_dose_rate-9442.jpg)
 - American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad: Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons. [American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad (23040).jpg](https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(23040).jpg)
 - Eli Lilly and Company Indianapolis - Feb 2011: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Eli Lilly and Company Indianapolis - Feb 2011.jpg](https://commons.wikimedia.org/wiki/File:Eli_Lilly_and_Company_Indianapolis_-_Feb_2011.jpg)
@@ -2989,6 +3004,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Israel Receives First Two F-35 Fighters: Photo by U.S. Embassy Jerusalem on Flickr, CC BY 2.0. [31524655671](https://www.flickr.com/photos/46886434@N04/31524655671)
 - Lockheed Martin HQ as 'Snowquester' begins: Photo by Matthew Straubmuller on Flickr, CC BY 2.0. [8534548938](https://www.flickr.com/photos/51344631@N06/8534548938)
 - Gov. Malloy and Lockheed Martin reach deal to keep Sikorsky headquarters and jobs in Connecticut: Photo by Office of Governor Dan Malloy on Flickr, CC BY 2.0. [29567473960](https://www.flickr.com/photos/57939039@N08/29567473960)
+
+## Loews Corporation (L)
+
+- A modern mall with loews hotel in the background: Photo by Murali Raju on Unsplash. [CkKEfrnn1sY](https://unsplash.com/photos/a-modern-mall-with-loews-hotel-in-the-background-CkKEfrnn1sY?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Lowe's (LOW)
 
@@ -3439,10 +3458,17 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Netflix (NFLX)
 
+- Adios Senor Netflix · business, document, paper: Photo by cogdogblog on Flickr, CC0. [3890718857](https://www.flickr.com/photos/37996646802@N01/3890718857)
 - Netflix Los Angeles office: Kstanhope of Netflix, CC BY-SA 4.0, via Wikimedia Commons. [Netflix Los Angeles office.jpg](https://commons.wikimedia.org/wiki/File:Netflix_Los_Angeles_office.jpg)
 - White and black concrete building during night time: Photo by Venti Views on Unsplash. [lI7dlA5VBp8](https://unsplash.com/photos/white-and-black-concrete-building-during-night-time-lI7dlA5VBp8?utm_source=investiq_image_bank&utm_medium=referral)
 - A television with the netflix logo lit up in the dark: Photo by Thibault Penin on Unsplash. [GrzoKN1aqSg](https://unsplash.com/photos/a-television-with-the-netflix-logo-lit-up-in-the-dark-GrzoKN1aqSg?utm_source=investiq_image_bank&utm_medium=referral)
-- Adios Senor Netflix · business, document, paper: Photo by cogdogblog on Flickr, CC0. [3890718857](https://www.flickr.com/photos/37996646802@N01/3890718857)
+- A flat screen tv sitting on top of a entertainment center: Photo by BoliviaInteligente on Unsplash. [8KJymJAC9sA](https://unsplash.com/photos/a-flat-screen-tv-sitting-on-top-of-a-entertainment-center-8KJymJAC9sA?utm_source=investiq_image_bank&utm_medium=referral)
+- A laptop computer sitting on top of a bed: Photo by Thibault Penin on Unsplash. [yGcwL8jSxwU](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-bed-yGcwL8jSxwU?utm_source=investiq_image_bank&utm_medium=referral)
+- A red netflix sign sitting on top of a desk: Photo by DCL "650" on Unsplash. [qGUnC07RMIQ](https://unsplash.com/photos/a-red-netflix-sign-sitting-on-top-of-a-desk-qGUnC07RMIQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and red digital watch: Photo by Sayan Ghosh on Unsplash. [V0GSXrRuBA4](https://unsplash.com/photos/black-and-red-digital-watch-V0GSXrRuBA4?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding black iphone 7: Photo by Sayan Ghosh on Unsplash. [YL12bny5HjE](https://unsplash.com/photos/person-holding-black-iphone-7-YL12bny5HjE?utm_source=investiq_image_bank&utm_medium=referral)
+- A close up of a calculator: Photo by Denny Müller on Unsplash. [P4_y5FuOeGQ](https://unsplash.com/photos/a-close-up-of-a-calculator-P4_y5FuOeGQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Computer monitor showing Netflix selection screen: Photo by charlesdeluvio on Unsplash. [MDUI8XIq6Mc](https://unsplash.com/photos/computer-monitor-showing-netflix-selection-screen-MDUI8XIq6Mc?utm_source=investiq_image_bank&utm_medium=referral)
 - 101 Albright Way: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [101 Albright Way.jpg](https://commons.wikimedia.org/wiki/File:101_Albright_Way.jpg)
 - Netflix button remote: Flickr Stock Catalog, CC BY 2.0, via Wikimedia Commons. [Netflix button remote (40062279010).jpg](https://commons.wikimedia.org/wiki/File:Netflix_button_remote_(40062279010).jpg)
 - SXSW 2016 - Ted Sarandos: Daniel Benavides from Austin, TX, CC BY 2.0, via Wikimedia Commons. [SXSW 2016 - Ted Sarandos (25752599662).jpg](https://commons.wikimedia.org/wiki/File:SXSW_2016_-_Ted_Sarandos_(25752599662).jpg)
@@ -3492,14 +3518,26 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Nike, Inc. (NKE)
 
+- Nike Air Jordan 5 Raging Bull (3M): Photo by chrishimself on Flickr, CC BY 2.0. [3547011472](https://www.flickr.com/photos/29322132@N08/3547011472)
 - 2023 Buty Nike Air Jordan: Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons. [2023 Buty Nike Air Jordan.jpg](https://commons.wikimedia.org/wiki/File:2023_Buty_Nike_Air_Jordan.jpg)
 - NIKE Store Karl Johans gate, Oslo: Ssu, CC BY-SA 4.0, via Wikimedia Commons. [NIKE Store Karl Johans gate, Oslo.jpg](https://commons.wikimedia.org/wiki/File:NIKE_Store_Karl_Johans_gate,_Oslo.jpg)
+- Nike Flagship - NYC: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [Nike Flagship - NYC (48155560636).jpg](https://commons.wikimedia.org/wiki/File:Nike_Flagship_-_NYC_(48155560636).jpg)
+- HK CWB 銅鑼灣 Causeway Bay 加寧街 Cleveland Street April 2021 SS2 04: ORELDANE LSING so, CC BY-SA 4.0, via Wikimedia Commons. [HK CWB 銅鑼灣 Causeway Bay 加寧街 Cleveland Street April 2021 SS2 04.jpg](https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%8A%A0%E5%AF%A7%E8%A1%97_Cleveland_Street_April_2021_SS2_04.jpg)
 - Unpaired red Nike sneaker: Photo by Ryan Waring on Unsplash. [164_6wVEHfI](https://unsplash.com/photos/unpaired-red-nike-sneaker-164_6wVEHfI?utm_source=investiq_image_bank&utm_medium=referral)
 - A white sneaker resting on black and white athletic clothing: Photo by Jeff Tumale on Unsplash. [SD9Jyl1xNQ4](https://unsplash.com/photos/white-sneaker-on-athletic-clothing-SD9Jyl1xNQ4?utm_source=investiq_image_bank&utm_medium=referral)
 - The nike logo is lit up on the side of a building: Photo by Paul Steuber on Unsplash. [SrrFCmYXHLg](https://unsplash.com/photos/the-nike-logo-is-lit-up-on-the-side-of-a-building-SrrFCmYXHLg?utm_source=investiq_image_bank&utm_medium=referral)
-- Nike Flagship - NYC: Ajay Suresh from New York, NY, USA, CC BY 2.0, via Wikimedia Commons. [Nike Flagship - NYC (48155560636).jpg](https://commons.wikimedia.org/wiki/File:Nike_Flagship_-_NYC_(48155560636).jpg)
-- HK CWB 銅鑼灣 Causeway Bay 加寧街 Cleveland Street April 2021 SS2 04: ORELDANE LSING so, CC BY-SA 4.0, via Wikimedia Commons. [HK CWB 銅鑼灣 Causeway Bay 加寧街 Cleveland Street April 2021 SS2 04.jpg](https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%BC%E7%81%A3_Causeway_Bay_%E5%8A%A0%E5%AF%A7%E8%A1%97_Cleveland_Street_April_2021_SS2_04.jpg)
-- Nike Air Jordan 5 Raging Bull (3M): Photo by chrishimself on Flickr, CC BY 2.0. [3547011472](https://www.flickr.com/photos/29322132@N08/3547011472)
+- White and red nike athletic shoe: Photo by Luis Felipe Lins on Unsplash. [J2-wAQDckus](https://unsplash.com/photos/white-and-red-nike-athletic-shoe-J2-wAQDckus?utm_source=investiq_image_bank&utm_medium=referral)
+- A large orange nike logo on the side of a building: Photo by Paul Steuber on Unsplash. [rs11hu-bkTc](https://unsplash.com/photos/a-large-orange-nike-logo-on-the-side-of-a-building-rs11hu-bkTc?utm_source=investiq_image_bank&utm_medium=referral)
+- A large advertisement is displayed in a building: Photo by Craig Lovelidge on Unsplash. [74KgyRNsfvI](https://unsplash.com/photos/a-large-advertisement-is-displayed-in-a-building-74KgyRNsfvI?utm_source=investiq_image_bank&utm_medium=referral)
+- White and red nike basketball shoes on green grass: Photo by Ján Vlačuha on Unsplash. [92_wMoF-yds](https://unsplash.com/photos/white-and-red-nike-basketball-shoes-on-green-grass-92_wMoF-yds?utm_source=investiq_image_bank&utm_medium=referral)
+- Pair of red-and-white Air Jordan 1's: Photo by Travis Essinger on Unsplash. [iOv3CqiZLtE](https://unsplash.com/photos/pair-of-red-and-white-air-jordan-1s-iOv3CqiZLtE?utm_source=investiq_image_bank&utm_medium=referral)
+- Black white and red nike sneakers: Photo by Samuel Lopes on Unsplash. [FUR3LNiI2jc](https://unsplash.com/photos/black-white-and-red-nike-sneakers-FUR3LNiI2jc?utm_source=investiq_image_bank&utm_medium=referral)
+- A pair of white and yellow sneakers on a table: Photo by Peter Albanese on Unsplash. [TRoZdTq8oIg](https://unsplash.com/photos/a-pair-of-white-and-yellow-sneakers-on-a-table-TRoZdTq8oIg?utm_source=investiq_image_bank&utm_medium=referral)
+- A pair of white nike air force sneakers: Photo by Peter Albanese on Unsplash. [7fEgCk-1Hkw](https://unsplash.com/photos/a-pair-of-white-nike-air-force-sneakers-7fEgCk-1Hkw?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and white nike athletic shoe: Photo by Will Breen on Unsplash. [QbDe8JxtUp0](https://unsplash.com/photos/black-and-white-nike-athletic-shoe-QbDe8JxtUp0?utm_source=investiq_image_bank&utm_medium=referral)
+- A red and white flag: Photo by mojtaba mosayebzadeh on Unsplash. [T19fmkzYBwI](https://unsplash.com/photos/a-red-and-white-flag-T19fmkzYBwI?utm_source=investiq_image_bank&utm_medium=referral)
+- Nike garden on building: Photo by Jerome on Unsplash. [iqowgR3bh_0](https://unsplash.com/photos/nike-garden-on-building-iqowgR3bh_0?utm_source=investiq_image_bank&utm_medium=referral)
+- A green and white nike air max sneaker: Photo by Vlad Ciutacu on Unsplash. [lSffwHqXDV8](https://unsplash.com/photos/a-green-and-white-nike-air-max-sneaker-lSffwHqXDV8?utm_source=investiq_image_bank&utm_medium=referral)
 - Nike Headquarters Oregon: Carson, Brandon, CC BY 2.0, via Wikimedia Commons. [Nike Headquarters Oregon.jpg](https://commons.wikimedia.org/wiki/File:Nike_Headquarters_Oregon.jpg)
 - Nike Air Max 90: Mfagoaguna1, CC BY-SA 4.0, via Wikimedia Commons. [Nike Air Max 90.jpg](https://commons.wikimedia.org/wiki/File:Nike_Air_Max_90.jpg)
 - Aime Leon Dore Store Nike Sneakers: Chive Cream Cheese, CC BY-SA 4.0, via Wikimedia Commons. [Aime Leon Dore Store Nike Sneakers.jpg](https://commons.wikimedia.org/wiki/File:Aime_Leon_Dore_Store_Nike_Sneakers.jpg)
@@ -3510,14 +3548,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Football Boot A 2018: RickyBennison, CC0, via Wikimedia Commons. [Football Boot A 2018.jpg](https://commons.wikimedia.org/wiki/File:Football_Boot_A_2018.jpg)
 - Football Boot B 2018: RickyBennison, CC0, via Wikimedia Commons. [Football Boot B 2018.jpg](https://commons.wikimedia.org/wiki/File:Football_Boot_B_2018.jpg)
 - Nike Factory Store at The Outlets ( ): PaulGorduiz106, CC BY-SA 4.0, via Wikimedia Commons. [Nike Factory Store at The Outlets (2023-12-03).jpg](https://commons.wikimedia.org/wiki/File:Nike_Factory_Store_at_The_Outlets_(2023-12-03).jpg)
-- Nike Carousel, 2026: Bahnfrend, CC BY-SA 4.0, via Wikimedia Commons. [Nike Carousel, 2026 (01).jpg](https://commons.wikimedia.org/wiki/File:Nike_Carousel,_2026_(01).jpg)
-- Interior of the Toronto Eaton Centre, May 22 2026: Dillan Payne, CC BY-SA 4.0, via Wikimedia Commons. [Interior of the Toronto Eaton Centre, May 22 2026 (11).jpg](https://commons.wikimedia.org/wiki/File:Interior_of_the_Toronto_Eaton_Centre,_May_22_2026_(11).jpg)
-- HK TKO 將軍澳 Tseung Kwan O PopCorn mall shop Nike February 2022 Px3 11: WOOMENAICHIWACHA9, CC BY-SA 4.0, via Wikimedia Commons. [HK TKO 將軍澳 Tseung Kwan O PopCorn mall shop Nike February 2022 Px3 11.jpg](https://commons.wikimedia.org/wiki/File:HK_TKO_%E5%B0%87%E8%BB%8D%E6%BE%B3_Tseung_Kwan_O_PopCorn_mall_shop_Nike_February_2022_Px3_11.jpg)
-- Nike and Adidas store at Suzhou Center Mall: Shwangtianyuan, CC BY-SA 4.0, via Wikimedia Commons. [Nike and Adidas store at Suzhou Center Mall-20240523.jpg](https://commons.wikimedia.org/wiki/File:Nike_and_Adidas_store_at_Suzhou_Center_Mall-20240523.jpg)
-- Dunhill & Nike Osaka: Mr.ちゅらさん, CC BY-SA 4.0, via Wikimedia Commons. [Dunhill & Nike Osaka.jpg](https://commons.wikimedia.org/wiki/File:Dunhill_%26_Nike_Osaka.jpg)
-- Nike Air Jordan 5 Raging Bull (3M): Photo by chrishimself on Flickr, CC BY 2.0. [3546204553](https://www.flickr.com/photos/29322132@N08/3546204553)
-- Nike Air Jordan 5 Raging Bull (3M): Photo by chrishimself on Flickr, CC BY 2.0. [3546205577](https://www.flickr.com/photos/29322132@N08/3546205577)
-- F/S: Air Jordan 'Flint' VII: Photo by Kid_SBTG on Flickr, CC BY 2.0. [4359549497](https://www.flickr.com/photos/14977223@N04/4359549497)
 
 ## Nio (NIO)
 
@@ -3747,6 +3777,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Oracle Corporation (ORCL)
 
+- Oracle Corporation Headquarters - July 2019 (8267): Photo by varnent on Flickr, CC BY-SA 2.0. [48402803731](https://www.flickr.com/photos/9910730@N08/48402803731)
 - Oracle Campus in Austin 2018: DronePhotographer, CC0, via Wikimedia Commons. [Oracle Campus in Austin 2018.jpg](https://commons.wikimedia.org/wiki/File:Oracle_Campus_in_Austin_2018.jpg)
 - Larry Ellison on stage: Oracle Corporate Communications, CC BY 2.0, via Wikimedia Commons. [Larry Ellison on stage.jpg](https://commons.wikimedia.org/wiki/File:Larry_Ellison_on_stage.jpg)
 - Oracle in San Jose: Siddharth Patil, CC0, via Wikimedia Commons. [Oracle in San Jose.jpg](https://commons.wikimedia.org/wiki/File:Oracle_in_San_Jose.jpg)
@@ -3756,7 +3787,6 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - USA 17 at Oracle Corporation Headquarters - July 2019: Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons. [USA 17 at Oracle Corporation Headquarters - July 2019 (8218).jpg](https://commons.wikimedia.org/wiki/File:USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_(8218).jpg)
 - Fixing the database: Håkan Dahlström from Malmö, Sweden, CC BY 2.0, via Wikimedia Commons. [Fixing the database (4140461901).jpg](https://commons.wikimedia.org/wiki/File:Fixing_the_database_(4140461901).jpg)
 - 500 Oracle Parkway, Oracle HQ: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [500 Oracle Parkway, Oracle HQ.JPG](https://commons.wikimedia.org/wiki/File:500_Oracle_Parkway,_Oracle_HQ.JPG)
-- Oracle Corporation Headquarters - July 2019 (8267): Photo by varnent on Flickr, CC BY-SA 2.0. [48402803731](https://www.flickr.com/photos/9910730@N08/48402803731)
 - Oracle Redwood City May 2011 002: King of Hearts, CC BY-SA 3.0, via Wikimedia Commons. [Oracle Redwood City May 2011 002.jpg](https://commons.wikimedia.org/wiki/File:Oracle_Redwood_City_May_2011_002.jpg)
 - Larry Ellison in Oracle OpenWorld 2010: Ilan Costica, CC BY-SA 3.0, via Wikimedia Commons. [Larry Ellison in Oracle OpenWorld 2010.JPG](https://commons.wikimedia.org/wiki/File:Larry_Ellison_in_Oracle_OpenWorld_2010.JPG)
 - USA 17 at Oracle Corporation Headquarters - July 2019: Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons. [USA 17 at Oracle Corporation Headquarters - July 2019 (8327).jpg](https://commons.wikimedia.org/wiki/File:USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_(8327).jpg)
@@ -3810,6 +3840,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Palantir Technologies (PLTR)
 
 - Palantir logo on a dark background: Photo by Salvador Rios on Unsplash. [U9y_TCFO9TA](https://unsplash.com/photos/palantir-logo-on-a-dark-background-U9y_TCFO9TA?utm_source=investiq_image_bank&utm_medium=referral)
+- Palantir logo on a dark screen: Photo by Salvador Rios on Unsplash. [QatE8blB_1g](https://unsplash.com/photos/palantir-logo-on-a-dark-screen-QatE8blB_1g?utm_source=investiq_image_bank&utm_medium=referral)
 - Palantir office in Palo Alto: F ASTILY, CC BY-SA 4.0, via Wikimedia Commons. [Palantir 1 2018-09-06.jpg](https://commons.wikimedia.org/wiki/File:Palantir_1_2018-09-06.jpg)
 - Peter Thiel by Gage Skidmore: Gage Skidmore, CC BY-SA 3.0, via Wikimedia Commons. [Peter Thiel by Gage Skidmore.jpg](https://commons.wikimedia.org/wiki/File:Peter_Thiel_by_Gage_Skidmore.jpg)
 - Palantir stand at the NHS Confederation conference 2022: Rathfelder, CC BY-SA 4.0, via Wikimedia Commons. [Palantir 2022.jpg](https://commons.wikimedia.org/wiki/File:Palantir_2022.jpg)
@@ -3909,6 +3940,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Pfizer World Headquarters Entrance: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [Pfizer World Headquarters Entrance.jpg](https://commons.wikimedia.org/wiki/File:Pfizer_World_Headquarters_Entrance.jpg)
 - Pfizer-BioNTech COVID-19 vaccine D: U.S. Secretary of Defense, public domain, via Wikimedia Commons. [Pfizer-BioNTech COVID-19 vaccine (2020) D.jpg](https://commons.wikimedia.org/wiki/File:Pfizer-BioNTech_COVID-19_vaccine_(2020)_D.jpg)
 - Black and white labeled bottle: Photo by Mika Baumeister on Unsplash. [JEKUlp6Gi5s](https://unsplash.com/photos/black-and-white-labeled-bottle-JEKUlp6Gi5s?utm_source=investiq_image_bank&utm_medium=referral)
+- White and black labeled bottle: Photo by Mika Baumeister on Unsplash. [RbLF8ksAwsA](https://unsplash.com/photos/white-and-black-labeled-bottle-RbLF8ksAwsA?utm_source=investiq_image_bank&utm_medium=referral)
 - Pfizer Inc Middleton Research Pharmaceutical laboratory - panoramio: Corey Coyle, CC BY 3.0, via Wikimedia Commons. [Pfizer Inc Middleton Research Pharmaceutical laboratory - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Pfizer_Inc_Middleton_Research_Pharmaceutical_laboratory_-_panoramio.jpg)
 - Paxlovid blister pack, partially opened to reveal one Ritonavir tablet and two Nirmatrelvir tablets.: Kches16414, CC BY-SA 4.0, via Wikimedia Commons. [Paxlovid.jpg](https://commons.wikimedia.org/wiki/File:Paxlovid.jpg)
 - Albert Bourla 2: Abhiram Juvvadi, CC BY-SA 4.0, via Wikimedia Commons. [Albert Bourla 2.jpg](https://commons.wikimedia.org/wiki/File:Albert_Bourla_2.jpg)
@@ -4483,6 +4515,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Building that hosts Sony Imaging Products & Solutions Inc. among others: Syced, CC0, via Wikimedia Commons. [Building that hosts Sony Imaging Products & Solutions Inc. among others.jpg](https://commons.wikimedia.org/wiki/File:Building_that_hosts_Sony_Imaging_Products_%26_Solutions_Inc._among_others.jpg)
 - SONY HQ - panoramio: AMANO Jun-ichi, CC BY 3.0, via Wikimedia Commons. [SONY HQ - panoramio.jpg](https://commons.wikimedia.org/wiki/File:SONY_HQ_-_panoramio.jpg)
 
+## SoundHound AI (SOUN)
+
+- Red and blue labeled box: Photo by Brett Jordan on Unsplash. [EoqmTK8QZjM](https://unsplash.com/photos/red-and-blue-labeled-box-EoqmTK8QZjM?utm_source=investiq_image_bank&utm_medium=referral)
+
 ## Southwest Airlines (LUV)
 
 - Bob Jordan, Southwest Airlines CEO (per Wikidata): DHSgov, public domain, via Wikimedia Commons. [Bob Jordan in 2025 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Bob_Jordan_in_2025_(cropped).jpg)
@@ -4867,12 +4903,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## TSMC (TSM)
 
+- tsmc fab12 · fab12, tsmc, u53f0u7a4d, u53f0u7a4d12u5ee0, u65b0u7af9: Photo by 曾成訓 on Flickr, CC BY 2.0. [7999387860](https://www.flickr.com/photos/19359045@N02/7999387860)
 - TSMC Fab 12A 01: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Fab 12A 01.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_12A_01.jpg)
 - TSMC Fab 14B May 2025 2: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 14B May 2025 2.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_14B_May_2025_2.jpg)
 - TSMC Global R＆D Center at night: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Global R＆D Center at night.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center_at_night.jpg)
 - TSMC Fab5: Peellden, CC BY-SA 3.0, via Wikimedia Commons. [TSMC Fab5.JPG](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG)
 - Building of Taiwan Semiconductor Manufacturing Fab 12B at dusk1: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [Building of Taiwan Semiconductor Manufacturing Fab 12B at dusk1.jpg](https://commons.wikimedia.org/wiki/File:Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg)
-- tsmc fab12 · fab12, tsmc, u53f0u7a4d, u53f0u7a4d12u5ee0, u65b0u7af9: Photo by 曾成訓 on Flickr, CC BY 2.0. [7999387860](https://www.flickr.com/photos/19359045@N02/7999387860)
 - TSMC Fab 18 May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 18 May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_May_2025.jpg)
 - 1 TSMC Fab 21 construction: Hunter Trick (TrickHunter), CC BY-SA 4.0, via Wikimedia Commons. [231105-1 TSMC Fab 21 construction.jpg](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg)
 - TSMC Global R＆D Center: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Global R＆D Center.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center.jpg)
@@ -5083,8 +5119,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - 900 Metro Center Boulevard: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [900 Metro Center Boulevard.jpg](https://commons.wikimedia.org/wiki/File:900_Metro_Center_Boulevard.jpg)
 - Ryan McInerney: Malibukenz, CC BY-SA 4.0, via Wikimedia Commons. [Ryan McInerney.jpg](https://commons.wikimedia.org/wiki/File:Ryan_McInerney.jpg)
-- A visa card sitting on top of a white table: Photo by David Dias on Unsplash. [-mAk7Ky36rU](https://unsplash.com/photos/a-visa-card-sitting-on-top-of-a-white-table--mAk7Ky36rU?utm_source=investiq_image_bank&utm_medium=referral)
 - VISA building at Thanksgiving Point: Ben P L from Provo, USA, CC BY-SA 2.0, via Wikimedia Commons. [VISA building at Thanksgiving Point (32595056778).jpg](https://commons.wikimedia.org/wiki/File:VISA_building_at_Thanksgiving_Point_(32595056778).jpg)
+- A visa card sitting on top of a white table: Photo by David Dias on Unsplash. [-mAk7Ky36rU](https://unsplash.com/photos/a-visa-card-sitting-on-top-of-a-white-table--mAk7Ky36rU?utm_source=investiq_image_bank&utm_medium=referral)
+- A visa card sitting on top of a white table: Photo by David Dias on Unsplash. [0prSPe9n2gI](https://unsplash.com/photos/a-visa-card-sitting-on-top-of-a-white-table-0prSPe9n2gI?utm_source=investiq_image_bank&utm_medium=referral)
 - Visa headquarters - August 2025 - Sarah Stierch: Missvain, CC0, via Wikimedia Commons. [Visa headquarters - August 2025 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Visa_headquarters_-_August_2025_-_Sarah_Stierch.jpg)
 - Paying with a Credit Card: Hloom Templates, CC BY 2.0, via Wikimedia Commons. [Paying with a Credit Card (28886645201).jpg](https://commons.wikimedia.org/wiki/File:Paying_with_a_Credit_Card_(28886645201).jpg)
 - 300 Toni Stone Crossing: Coolcaesar, CC BY 4.0, via Wikimedia Commons. [300 Toni Stone Crossing.jpg](https://commons.wikimedia.org/wiki/File:300_Toni_Stone_Crossing.jpg)

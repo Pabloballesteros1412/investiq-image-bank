@@ -540,6 +540,13 @@ class Brands(unittest.TestCase):
         self.assertEqual(B.brand_photos(self.APPLE, [], Fake(), set(), 10), [])        # no stock source, no photos
         self.assertTrue(B.has_term(B.flat("Coca-Cola can"), B.flat("coca cola")))
 
+    def test_brand_names_are_whole_words(self):
+        self.assertTrue(B.has_name(B.flat("Two iPhones on a desk"), "iphone"))
+        self.assertTrue(B.has_name(B.flat("McDonald\u2019s sign at night"), "mcdonald"))
+        self.assertTrue(B.has_name(B.flat("Nike's store"), "nike"))
+        self.assertFalse(B.has_name(B.flat("Wapuu, the WordPress mascot"), "masco"))
+        self.assertFalse(B.has_name(B.flat("Parmarth Niketan garden"), "nike"))
+
     def test_stock_only_keeps_approved_commons_and_fills_with_brands(self):
         with tempfile.TemporaryDirectory() as d:
             bank = Path(d)

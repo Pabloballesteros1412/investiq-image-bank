@@ -7,8 +7,27 @@
  ],
  "sector": "sector-tech",
  "target": 30,
- "fill_from": "sector-tech",
  "photos": [
+  {
+   "shows": "AMD Ryzen 7 5800X3D",
+   "url": "https://live.staticflickr.com/65535/55045896543_7950b776fc_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/55045896543_7950b776fc_z.jpg",
+   "size": [
+    1024,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by htomari on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/34923408@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/34923408@N07/55045896543",
+   "plain": true
+  },
   {
    "shows": "AMD Ryzen 7 1800X",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/AMD_Ryzen_7_1800X.jpg/1920px-AMD_Ryzen_7_1800X.jpg",
@@ -43,6 +62,23 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:SXSW-2024-alih-OB7A0861-Lisa_Su.jpg"
+  },
+  {
+   "shows": "AMD Markham Canada - Address: 1 Commerce Valley Drive East, Markham, ON L3T 7X6, Canada",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/1920px-AMDMarkham10.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/500px-AMDMarkham10.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMDMarkham10.jpg"
   },
   {
    "shows": "A close up of a computer mother board",
@@ -99,41 +135,130 @@
    "source": "https://unsplash.com/photos/a-blue-radeon-graphics-card-sits-among-green-leaves-l6PLfGcAzZc?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "AMD Markham Canada - Address: 1 Commerce Valley Drive East, Markham, ON L3T 7X6, Canada",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/1920px-AMDMarkham10.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/AMDMarkham10.jpg/500px-AMDMarkham10.jpg",
+   "shows": "Blue computer graphics card resting in green grass",
+   "url": "https://images.unsplash.com/photo-1780962178554-0db6eb17ebec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UmFkZW9uJTIwZ3JhcGhpY3MlMjBjYXJkfGVufDF8fHx8MTc5NTA1MDU5MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1780962178554-0db6eb17ebec?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UmFkZW9uJTIwZ3JhcGhpY3MlMjBjYXJkfGVufDF8fHx8MTc5NTA1MDU5MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1920,
-    1272
+    2250,
+    1500
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:AMDMarkham10.jpg"
+   "credit": "Photo by James Tilden on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@james_tilden?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-computer-graphics-card-resting-in-green-grass-VFvt6xMkb8g?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
-   "shows": "AMD Ryzen 7 5800X3D",
-   "url": "https://live.staticflickr.com/65535/55045896543_7950b776fc_b.jpg",
-   "preview": "https://live.staticflickr.com/65535/55045896543_7950b776fc_z.jpg",
+   "shows": "Blue and green round light",
+   "url": "https://images.unsplash.com/photo-1607732667154-ff11e81e5665?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=1968&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1607732667154-ff11e81e5665?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
    "size": [
-    1024,
-    1024
+    1968,
+    1501
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by htomari on Flickr, Public Domain Mark",
-   "licence": "Public Domain Mark",
-   "author_url": "https://www.flickr.com/photos/34923408@N07",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/34923408@N07/55045896543",
-   "plain": true
+   "credit": "Photo by Maxence Pira on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@maxence_pira?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/blue-and-green-round-light-pNpqq8Cwjxw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Ryzen processor",
+   "url": "https://images.unsplash.com/photo-1551642044-b5e65d8a7fac?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1551642044-b5e65d8a7fac?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fEFNRCUyMFJ5emVufGVufDF8fHx8MTc5Mzk2MDAyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2400,
+    1350
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Vladimir Malyutin on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@vladimir__film?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/ryzen-processor-_iSo6Hps2mA?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Amd logo illuminated on a dark ceiling",
+   "url": "https://images.unsplash.com/photo-1759493464618-70b53612ae96?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1759493464618-70b53612ae96?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by LISK OBE on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@summerobelisk?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/amd-logo-illuminated-on-a-dark-ceiling-DRZ26ZSVTtg?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A desk with a keyboard, mouse, and other electronics",
+   "url": "https://images.unsplash.com/photo-1724930384719-7959555c321c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1724930384719-7959555c321c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjB8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Brandon. on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@bokv?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-desk-with-a-keyboard-mouse-and-other-electronics-GzSRqeh3Xfs?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A new amd ryzen processor sits on a desk",
+   "url": "https://images.unsplash.com/photo-1753097617151-b8994eb0bb3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1753097617151-b8994eb0bb3e?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fEFNRHxlbnwxfHx8fDE3OTM5NjAwMjd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Đào Hiếu on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@hieu101193?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-new-amd-ryzen-processor-sits-on-a-desk-2bJfnIwQvpk?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A close up of a cpu on a table",
+   "url": "https://images.unsplash.com/photo-1629725413175-396025477a04?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFJ5emVuJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NTA1MDQ4OXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1629725413175-396025477a04?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjV8fFJ5emVuJTIwcHJvY2Vzc29yfGVufDF8fHx8MTc5NTA1MDQ4OXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by benjamin lehman on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@abject?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-cpu-on-a-table-h_ZDeb9taY0?utm_source=investiq_image_bank&utm_medium=referral"
   },
   {
    "shows": "2485 Augustine Drive headquarters in Santa Clara, California",
@@ -421,116 +546,6 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:AMDRadeonMemory.JPG",
-   "plain": true
-  },
-  {
-   "shows": "AMD Austin campus",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AMD_Austin_campus.JPG/1920px-AMD_Austin_campus.JPG",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/AMD_Austin_campus.JPG/500px-AMD_Austin_campus.JPG",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Matthewrutledge, public domain, via Wikimedia Commons",
-   "licence": "Public domain",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:AMD_Austin_campus.JPG",
-   "plain": true
-  },
-  {
-   "shows": "AMD CPU Stock Heatsink",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AMD_CPU_Stock_Heatsink.jpg/1920px-AMD_CPU_Stock_Heatsink.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/AMD_CPU_Stock_Heatsink.jpg/500px-AMD_CPU_Stock_Heatsink.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Edmund Tse from Sydney, Australia, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:AMD_CPU_Stock_Heatsink.jpg",
-   "plain": true
-  },
-  {
-   "shows": "AMD booth, Computex Taipei",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AMD_booth%2C_Computex_Taipei_20130607.jpg/1920px-AMD_booth%2C_Computex_Taipei_20130607.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/AMD_booth%2C_Computex_Taipei_20130607.jpg/500px-AMD_booth%2C_Computex_Taipei_20130607.jpg",
-   "size": [
-    1920,
-    1280
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Quintin Lin, CC BY-SA 2.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:AMD_booth,_Computex_Taipei_20130607.jpg",
-   "plain": true
-  },
-  {
-   "shows": "Embedded World 2014 AMD Booth",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Embedded_World_2014_AMD_Booth.jpg/1920px-Embedded_World_2014_AMD_Booth.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Embedded_World_2014_AMD_Booth.jpg/500px-Embedded_World_2014_AMD_Booth.jpg",
-   "size": [
-    1920,
-    1440
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Ordercrazy, CC0, via Wikimedia Commons",
-   "licence": "CC0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:Embedded_World_2014_AMD_Booth.jpg",
-   "plain": true
-  },
-  {
-   "shows": "E3 2011 - AMD booth",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/E3_2011_-_AMD_booth_%285822119709%29.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/E3_2011_-_AMD_booth_%285822119709%29.jpg/500px-E3_2011_-_AMD_booth_%285822119709%29.jpg",
-   "size": [
-    1200,
-    1600
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "The Conmunity - Pop Culture Geek from Los Angeles, CA, USA, CC BY 2.0, via Wikimedia Commons",
-   "licence": "CC BY 2.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:E3_2011_-_AMD_booth_(5822119709).jpg",
-   "plain": true
-  },
-  {
-   "shows": "AMD@7nm(12nmIOD)@Zen2@Matisse@Ryzen_5_3600@100-000000031_BF_1923SUT_9HM6935R90062___DSCx1",
-   "url": "https://live.staticflickr.com/65535/48258240636_011e4ca349_b.jpg",
-   "preview": "https://live.staticflickr.com/65535/48258240636_011e4ca349_z.jpg",
-   "size": [
-    1024,
-    1015
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by FritzchensFritz on Flickr, CC0",
-   "licence": "CC0",
-   "author_url": "https://www.flickr.com/photos/130561288@N04",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/130561288@N04/48258240636",
    "plain": true
   }
  ]
