@@ -168916,32 +168916,6 @@
     "track": "https://api.unsplash.com/photos/VNhPJ85ccNo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTh8fGdvbGQlMjBjb2luJTIwc3RhY2t8ZW58MXx8fHwxNzk0OTY3MzQ5fDA"
    },
    {
-    "shot": "gold-glitter",
-    "shows": "A close up of a gold glitter background",
-    "file": "unsplash:ISaqs4jwogA",
-    "page": "https://unsplash.com/photos/a-close-up-of-a-gold-glitter-background-ISaqs4jwogA?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1631636507718-f8efdca99602?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdvbGQlMjBnbGl0dGVyfGVufDF8fHx8MTc5NTAzNjU2MXww&ixlib=rb-4.1.0&w=2131&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1631636507718-f8efdca99602?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdvbGQlMjBnbGl0dGVyfGVufDF8fHx8MTc5NTAzNjU2MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
-    "size": [
-     2131,
-     1500
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Ekaterina Grosheva on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Ekaterina Grosheva",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@kitkat93?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ISaqs4jwogA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fGdvbGQlMjBnbGl0dGVyfGVufDF8fHx8MTc5NTAzNjU2MXww"
-   },
-   {
     "shot": "gold-pendant",
     "shows": "Gold floral pendant necklace on blue fabric",
     "file": "unsplash:AcfG37WxGnA",
@@ -168966,11 +168940,37 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@zayed_ahmed_zadu?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/AcfG37WxGnA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fGdvbGQlMjBwZW5kYW50fGVufDF8fHx8MTc5NTAzNjU3NHww"
+   },
+   {
+    "shot": "gold-bangles",
+    "shows": "A pair of gold bracelets sitting on top of a wooden box",
+    "file": "unsplash:8angSQtYgKc",
+    "page": "https://unsplash.com/photos/a-pair-of-gold-bracelets-sitting-on-top-of-a-wooden-box-8angSQtYgKc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1690175867343-2af70ea57537?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMGJhbmdsZXN8ZW58MXx8fHwxNzk1MDkzODIwfDA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1690175867343-2af70ea57537?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMGJhbmdsZXN8ZW58MXx8fHwxNzk1MDkzODIwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by mansi shah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "mansi shah",
+    "year": 2023,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@shahmansi130?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8angSQtYgKc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Z29sZCUyMGJhbmdsZXN8ZW58MXx8fHwxNzk1MDkzODIwfDA"
    }
   ],
   "missing": [
    "fort-knox",
-   "gold-cufflinks",
+   "gold-jewelry-store",
    "gold-scale",
    "gold-plated",
    "golden-statue",
@@ -168989,7 +168989,7 @@
    "gold-reserve",
    "gold-ingots"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "oil": {
   "name": "Oil & energy",
@@ -170218,32 +170218,6 @@
     "track_pending": true
    },
    {
-    "shot": "opec",
-    "shows": "Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, - MGR3608",
-    "file": "File:Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, 2025-05-05 - MGR3608.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais,_2025-05-05_-_MGR3608.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3608.jpg/1920px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3608.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3608.jpg/500px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3608.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Österreichisches Außenministerium, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Österreichisches Außenministerium",
-    "year": 2025,
-    "how": "catalog",
-    "flags": [
-     "restrictions: personality"
-    ]
-   },
-   {
     "shot": "oil-rig-sunset",
     "shows": "Oil rig at sea during a dramatic sunset",
     "file": "unsplash:9BOkOMB3Rug",
@@ -170268,20 +170242,46 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@gustavo0351?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/9BOkOMB3Rug/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG9pbCUyMHJpZyUyMHN1bnNldHxlbnwxfHx8fDE3OTUwMzY1ODR8MA"
+   },
+   {
+    "shot": "opec",
+    "shows": "Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, - MGR3596",
+    "file": "File:Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, 2025-05-05 - MGR3596.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais,_2025-05-05_-_MGR3596.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3596.jpg/1920px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3596.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3596.jpg/500px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3596.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Österreichisches Außenministerium, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Österreichisches Außenministerium",
+    "year": 2025,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
    }
   ],
   "missing": [
-   "tank-farm",
-   "oil-storage-tank",
-   "gasoline-nozzle",
-   "jerry-can",
-   "gas-prices",
+   "oil-sands",
+   "storage-tank",
+   "diesel",
+   "natural-gas-flare",
+   "fracking",
    "petrol-pump",
    "offshore-rig",
    "lng-tanker",
    "oil-derrick"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "tariffs": {
   "name": "Tariffs & trade war",
@@ -171586,26 +171586,26 @@
     "track_pending": true
    },
    {
-    "shot": "freight",
-    "shows": "Heidenheimer-Hunter Building -- Galveston",
-    "file": "File:Heidenheimer-Hunter Building -- Galveston.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Heidenheimer-Hunter_Building_--_Galveston.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heidenheimer-Hunter_Building_--_Galveston.jpg/1920px-Heidenheimer-Hunter_Building_--_Galveston.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Heidenheimer-Hunter_Building_--_Galveston.jpg/500px-Heidenheimer-Hunter_Building_--_Galveston.jpg",
+    "shot": "truck-freight",
+    "shows": "Estes Express Lines Freight Truck in Parking Lot",
+    "file": "File:Estes Express Lines Freight Truck in Parking Lot - 28792595115.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg/1920px-Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg/500px-Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg",
     "size": [
      1920,
-     1763
+     1214
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jim Evans, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jim Evans",
-    "year": 2020,
+    "credit": "Mike Mozart, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Mike Mozart",
+    "year": 2016,
     "how": "catalog"
    }
   ],
@@ -171643,7 +171643,7 @@
    "cargo-vessel",
    "quay"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "china": {
   "name": "China economy",
@@ -174242,14 +174242,14 @@
    },
    {
     "shot": "printing",
-    "shows": "Inner Mongolia Museum bronze printing plate for banknote",
-    "file": "File:Inner Mongolia Museum bronze printing plate for banknote.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Inner_Mongolia_Museum_bronze_printing_plate_for_banknote.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Inner_Mongolia_Museum_bronze_printing_plate_for_banknote.jpg/1280px-Inner_Mongolia_Museum_bronze_printing_plate_for_banknote.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Inner_Mongolia_Museum_bronze_printing_plate_for_banknote.jpg/500px-Inner_Mongolia_Museum_bronze_printing_plate_for_banknote.jpg",
+    "shows": "Bronze printing plate for Xingding paper currency",
+    "file": "File:Bronze printing plate for Xingding paper currency.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bronze_printing_plate_for_Xingding_paper_currency.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bronze_printing_plate_for_Xingding_paper_currency.jpg/1280px-Bronze_printing_plate_for_Xingding_paper_currency.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bronze_printing_plate_for_Xingding_paper_currency.jpg/500px-Bronze_printing_plate_for_Xingding_paper_currency.jpg",
     "size": [
      1280,
-     1985
+     2112
     ],
     "focus": [
      0.5,
@@ -174260,21 +174260,21 @@
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "author": "BabelStone",
-    "year": 2017,
+    "year": 2011,
     "how": "catalog"
    }
   ],
   "missing": [
    "currency-exchange-office",
-   "quarter-coin",
-   "penny",
-   "dime",
-   "cash-envelope",
-   "bill-counter",
-   "exchange-rate-board",
-   "dollar-bill",
-   "dollars",
-   "cash",
+   "dollar-bill-closeup",
+   "stack-of-hundreds",
+   "federal-reserve-note",
+   "dollar-bills-fan",
+   "cash-in-hand",
+   "washington-dollar",
+   "dollar-exchange",
+   "bills-and-coins",
+   "20-dollar-bill",
    "fifty-dollar",
    "twenty-dollar",
    "dollar-stack",
@@ -174283,7 +174283,7 @@
    "dollar-bills",
    "100-dollar"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "bonds": {
   "name": "Treasuries, bonds & national debt",
@@ -175541,32 +175541,32 @@
     "track": "https://api.unsplash.com/photos/tuJ3tXSayco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG5ld3NwYXBlciUyMGZpbmFuY2V8ZW58MXx8fHwxNzk1MDE0NDQ3fDA"
    },
    {
-    "shot": "treasury-bond",
-    "shows": "1978 $1000 8 3-8% Treasury Bond (reverse)",
-    "file": "File:1978 $1000 8 3-8% Treasury Bond (reverse).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:1978_$1000_8_3-8%25_Treasury_Bond_(reverse).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/1978_%241000_8_3-8%25_Treasury_Bond_%28reverse%29.jpg/1920px-1978_%241000_8_3-8%25_Treasury_Bond_%28reverse%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/1978_%241000_8_3-8%25_Treasury_Bond_%28reverse%29.jpg/500px-1978_%241000_8_3-8%25_Treasury_Bond_%28reverse%29.jpg",
+    "shot": "yield-curve",
+    "shows": "Courbe des taux inversée",
+    "file": "File:Courbe des taux inversée.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Courbe_des_taux_invers%C3%A9e.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Courbe_des_taux_invers%C3%A9e.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Courbe_des_taux_invers%C3%A9e.jpg/500px-Courbe_des_taux_invers%C3%A9e.jpg",
     "size": [
-     1920,
-     2248
+     1684,
+     1189
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "JHerbstman, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "JHerbstman",
-    "year": 2016,
+    "credit": "Original uploader was Htournyol at French Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Original uploader was Htournyol at French Wikipedia",
+    "year": 2005,
     "how": "catalog"
    }
   ],
   "missing": [
-   "bank-statement",
-   "certificate-of-deposit",
+   "certificate-paper",
+   "financial-paper",
    "bank-interest",
    "money-market",
    "pension",
@@ -175576,7 +175576,7 @@
    "signature",
    "pen"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "housing": {
   "name": "Housing market & mortgages",
@@ -178119,64 +178119,64 @@
     "how": "catalog"
    },
    {
-    "shot": "income-statement",
-    "shows": "Income distribution after taxes and transfers",
-    "file": "File:Income distribution after taxes and transfers.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Income_distribution_after_taxes_and_transfers.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Income_distribution_after_taxes_and_transfers.jpg/1920px-Income_distribution_after_taxes_and_transfers.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Income_distribution_after_taxes_and_transfers.jpg/500px-Income_distribution_after_taxes_and_transfers.jpg",
+    "shot": "revenue-graph",
+    "shows": "WMF Support and Revenue, Expenses and Net Assets at Year End",
+    "file": "File:WMF Support and Revenue, Expenses and Net Assets at Year End.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:WMF_Support_and_Revenue,_Expenses_and_Net_Assets_at_Year_End.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/WMF_Support_and_Revenue%2C_Expenses_and_Net_Assets_at_Year_End.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WMF_Support_and_Revenue%2C_Expenses_and_Net_Assets_at_Year_End.jpg/500px-WMF_Support_and_Revenue%2C_Expenses_and_Net_Assets_at_Year_End.jpg",
     "size": [
-     1920,
-     558
+     1664,
+     1248
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Wikideas1, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wikideas1",
-    "year": 2019,
+    "credit": "Jayen466, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Jayen466",
+    "year": 2021,
     "how": "catalog"
    },
    {
-    "shot": "spreadsheet-laptop",
-    "shows": "Students in front of large screen. In the foreground a closed laptop. Most likely qualitative data analysis in a spreadsheet, but it could also be any other kin",
-    "file": "File:DesignEthnographyStudioLifeAnalysis5.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:DesignEthnographyStudioLifeAnalysis5.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DesignEthnographyStudioLifeAnalysis5.jpg/1920px-DesignEthnographyStudioLifeAnalysis5.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/DesignEthnographyStudioLifeAnalysis5.jpg/500px-DesignEthnographyStudioLifeAnalysis5.jpg",
+    "shot": "bar-chart-paper",
+    "shows": "The Adventure Girls at K Bar O - A. L. Burt dust jacket cover",
+    "file": "File:The Adventure Girls at K Bar O - A. L. Burt dust jacket cover.png",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png/1920px-The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png/500px-The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png",
     "size": [
      1920,
-     1440
+     1479
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kalsau, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Kalsau",
-    "year": 2012,
+    "credit": "Clair Blank (author), published by A. L. Burt. Illustrator unknown., public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Clair Blank (author), published by A. L. Burt. Illustrator unknown.",
+    "year": 2026,
     "how": "catalog"
    }
   ],
   "missing": [
-   "accountant-desk",
-   "receipt-pile",
-   "ledger-book",
-   "earnings-call",
+   "sales-chart",
+   "profit-margin",
+   "stock-analyst",
+   "report-folder",
    "office-paperwork",
    "trading-screen",
    "office-desk",
    "business-documents",
    "computer-screen"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "ipo": {
   "name": "IPOs",
@@ -179424,40 +179424,37 @@
     "how": "catalog"
    },
    {
-    "shot": "market-open",
-    "shows": "Fresh produce including blueberries, cherries, tomatoes, yellow peppers, peas, and chanterelle mushrooms at market",
-    "file": "unsplash:u_qsjkedbes",
-    "page": "https://unsplash.com/photos/fresh-market-produce-with-berries-vegetables-u_qsjkedbes?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1788509417568-923547af4430?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWFya2V0JTIwb3BlbnxlbnwxfHx8fDE3OTUwNDAwMjl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1788509417568-923547af4430?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWFya2V0JTIwb3BlbnxlbnwxfHx8fDE3OTUwNDAwMjl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "champagne-celebration",
+    "shows": "Champagne - Triathlon de Lausanne 2010",
+    "file": "File:Champagne - Triathlon de Lausanne 2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Champagne_-_Triathlon_de_Lausanne_2010.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Champagne_-_Triathlon_de_Lausanne_2010.jpg/1920px-Champagne_-_Triathlon_de_Lausanne_2010.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Champagne_-_Triathlon_de_Lausanne_2010.jpg/500px-Champagne_-_Triathlon_de_Lausanne_2010.jpg",
     "size": [
-     1200,
-     1598
+     1920,
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Zoshua Colah on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Zoshua Colah",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/u_qsjkedbes/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8bWFya2V0JTIwb3BlbnxlbnwxfHx8fDE3OTUwNDAwMjl8MA"
+    "credit": "Fanny Schertzer, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Fanny Schertzer",
+    "year": 2010,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "ticker-board",
+   "confetti-celebration",
    "trading-terminal",
    "financial-screens",
    "share-certificate",
    "stock-quote"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "ev": {
   "name": "Electric vehicles",
@@ -181958,26 +181955,26 @@
     "how": "catalog"
    },
    {
-    "shot": "power-plant-steam",
-    "shows": "Shatura steam power plant",
-    "file": "File:Shatura steam power plant (2010).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shatura_steam_power_plant_(2010).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Shatura_steam_power_plant_%282010%29.jpg/1920px-Shatura_steam_power_plant_%282010%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Shatura_steam_power_plant_%282010%29.jpg/500px-Shatura_steam_power_plant_%282010%29.jpg",
+    "shot": "reactor-core",
+    "shows": "Reactor Core",
+    "file": "File:Reactor Core.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Reactor_Core.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Reactor_Core.jpg/1920px-Reactor_Core.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Reactor_Core.jpg/500px-Reactor_Core.jpg",
     "size": [
      1920,
-     1440
+     1325
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Burger, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Burger",
-    "year": null,
+    "credit": "Captain Nuclear 90, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Captain Nuclear 90",
+    "year": 2022,
     "how": "catalog"
    }
   ],
@@ -181987,7 +181984,7 @@
    "golfech-nuclear",
    "gundremmingen-nuclear"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "defense": {
   "name": "Defense & geopolitics",
@@ -183233,31 +183230,34 @@
     "how": "catalog"
    },
    {
-    "shot": "military-parade",
-    "shows": "СССР, 1973, Ростов-на-Дону, Советский Союз, Военный парад, Military Parade, USSR",
-    "file": "File:СССР, 1973, Ростов-на-Дону, Советский Союз, Военный парад, Military Parade, USSR.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%A1%D0%A1%D0%A0,_1973,_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83,_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7,_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4,_Military_Parade,_USSR.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_USSR.jpg/1920px-%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_USSR.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_USSR.jpg/500px-%D0%A1%D0%A1%D0%A1%D0%A0%2C_1973%2C_%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83%2C_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7%2C_%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D0%B0%D0%B4%2C_Military_Parade%2C_USSR.jpg",
+    "shot": "destroyer-ship",
+    "shows": "A large ship in the middle of the ocean",
+    "file": "unsplash:8dJM0LwzsfU",
+    "page": "https://unsplash.com/photos/a-large-ship-in-the-middle-of-the-ocean-8dJM0LwzsfU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1719553946838-1190abdeee92?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGVzdHJveWVyJTIwc2hpcHxlbnwxfHx8fDE3OTUwOTcxOTF8MA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1719553946838-1190abdeee92?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGVzdHJveWVyJTIwc2hpcHxlbnwxfHx8fDE3OTUwOTcxOTF8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1283
+     2400,
+     1495
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Vyacheslav Argenberg / Transfer from A. S., CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Vyacheslav Argenberg / Transfer from A. S.",
-    "year": 1973,
-    "how": "catalog"
+    "credit": "Photo by Abdullah Al Hasan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Abdullah Al Hasan",
+    "year": 2024,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@aa_hasan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8dJM0LwzsfU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGVzdHJveWVyJTIwc2hpcHxlbnwxfHx8fDE3OTUwOTcxOTF8MA"
    }
   ],
   "missing": [
-   "radar",
+   "stealth-bomber",
    "artillery",
    "f-35",
    "army-truck",
@@ -183287,9 +183287,10 @@
    "fighter-aircraft",
    "frigate",
    "howitzer",
-   "air-base"
+   "air-base",
+   "tank"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "consumer": {
   "name": "Consumer spending & retail",
@@ -184569,35 +184570,39 @@
     "track": "https://api.unsplash.com/photos/8sCPn-RKKNE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA"
    },
    {
-    "shot": "checkout-counter",
-    "shows": "Self service checkout counter",
-    "file": "File:Self service checkout counter.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Self_service_checkout_counter.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Self_service_checkout_counter.jpg/1280px-Self_service_checkout_counter.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Self_service_checkout_counter.jpg/500px-Self_service_checkout_counter.jpg",
+    "shot": "bakery-counter",
+    "shows": "Freshly baked croissants and pastries in a bakery with staff working behind the counter",
+    "file": "unsplash:Bbgw0_CxLYs",
+    "page": "https://unsplash.com/photos/bakery-counter-with-fresh-pastries-Bbgw0_CxLYs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1793133350525-4035aab0d3df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGJha2VyeSUyMGNvdW50ZXJ8ZW58MXx8fHwxNzk1MDk3MjYwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1793133350525-4035aab0d3df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGJha2VyeSUyMGNvdW50ZXJ8ZW58MXx8fHwxNzk1MDk3MjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1707
+     1200,
+     1795
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Unnerving duck, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Unnerving duck",
-    "year": 2024,
-    "how": "catalog"
+    "credit": "Photo by Yuliia Martsynkevych on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Yuliia Martsynkevych",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@yumartsy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Bbgw0_CxLYs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGJha2VyeSUyMGNvdW50ZXJ8ZW58MXx8fHwxNzk1MDk3MjYwfDA",
+    "track_pending": true
    }
   ],
   "missing": [
-   "supermarket-shelf",
-   "store-window",
-   "checkout-line",
-   "retail-shelf",
-   "toy-store",
+   "farmers-market-stall",
+   "department-store-escalator",
+   "boutique-window",
+   "coupon",
+   "store-shelf",
    "pharmacy-aisle",
    "convenience-store",
    "cashier",
@@ -184619,7 +184624,7 @@
    "shopping-street-night",
    "retail-display"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "banks": {
   "name": "Banks & the financial system",
