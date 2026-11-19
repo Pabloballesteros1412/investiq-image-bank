@@ -335,6 +335,14 @@ Decisions (Pablo, 4 Nov 2026):
   shopping cart for consumer, a second Cattenom view. Word matches seen: a Qing banknote plate for "dollar", a zipper
   for IPOs, a snowboarder and radio telescopes for quantum, a Christmas bauble for gold, a wall clock for "clock in".
   Index: 6,334 photos; topics and sectors 2,365 (19 of 48 at 50, the rest 48-49).
+- **Merged into main (18 Nov, PR #16)**.
+- **Round 20** (18-19 Nov): 119 searches in the 29 under 50 (generic words are spent: `filter_cands.py` dropped ~75% of
+  the drafted candidates as already tried), three pieces (two container restarts cut them; nothing lost). Grade 3: 3
+  stock (a gold pendant on velvet, an oil rig at sunset, roof shingles) and 2 Commons (a copper nugget, a transistor
+  die). Word matches seen: a farmers' market for "market open", a race-circuit map for "circuit", a BlackBerry on its
+  charging pod, a coal steam plant for "power plant steam", a laser cutter for "lab laser". Index: 6,339 photos; topics
+  and sectors 2,370 (21 of 48 at 50, the rest 48-49). A round now adds ~5 photos: topics are as full as Unsplash's
+  demo search can make them.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/
