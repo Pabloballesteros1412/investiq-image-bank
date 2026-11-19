@@ -343,6 +343,19 @@ Decisions (Pablo, 4 Nov 2026):
   charging pod, a coal steam plant for "power plant steam", a laser cutter for "lab laser". Index: 6,339 photos; topics
   and sectors 2,370 (21 of 48 at 50, the rest 48-49). A round now adds ~5 photos: topics are as full as Unsplash's
   demo search can make them.
+- **Merged into main (19 Nov, PR #20)**.
+- **Famous companies, brand pass 2** (19 Nov): the 22 famous companies under 30 got more brand and product terms in
+  `brands.json` (old terms kept first, so published photos keep priority; Nike Air Max/Dunk/store, Ryzen, Radeon, Google
+  Maps, Chromecast, iShares, Crucial...) and were rebuilt with `build --kind company --stock-only` (up to 9 queries each),
+  then a refill from the cache. Graded by eye: 48 of 102 grade 3 (Bank of America branches and towers, a Chase branch, a GE
+  jet engine, Netflix screens, Nike shoes and a rooftop swoosh, a Visa card, a Pfizer vial). Hidden: Micron logo renders
+  (one photographer uploads many), the Temple of Athena Nike, 3D buttons, repeats. Famous average 25.2 -> 25.6, 32 of 50
+  at 30; still thin: MSTR 2, UNH 3, PLTR 7, ASML 8, MU 9 (Unsplash has nothing else of theirs).
+- **Companies with no photo** (19 Nov): 120 of 583, all B2B or names Commons and Openverse had nothing for. 67 of them got
+  `brands.json` terms (Botox for AbbVie, NAPA for Genuine Parts, Orkin for Rollins, Thermo King for Trane, Fluke and
+  Tektronix for Fortive, Behr for Masco, Ryan Homes for NVR, Littmann for Solventum, Omnipod for Insulet, USDC for Circle);
+  left out where the short name is a common word that would pass any photo (Southern, Mosaic, Williams, Affirm, Unity,
+  Coherent, APA) or the brand is a naming-rights stadium (SoFi).
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/
