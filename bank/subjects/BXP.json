@@ -8,5 +8,86 @@
  "sector": "sector-real-estate",
  "target": 10,
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Embarcadero Center, San Francisco, California",
+   "url": "https://live.staticflickr.com/7364/10753979296_257fc23a6f_b.jpg",
+   "preview": "https://live.staticflickr.com/7364/10753979296_257fc23a6f_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/10753979296",
+   "plain": true
+  },
+  {
+   "shows": "Spirals at Embarcadero Center",
+   "url": "https://live.staticflickr.com/2934/14044477669_e77cd2a013_b.jpg",
+   "preview": "https://live.staticflickr.com/2934/14044477669_e77cd2a013_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by nan palmero on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/97402086@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/97402086@N00/14044477669",
+   "plain": true
+  },
+  {
+   "shows": "Embarcadero Center, San Francisco, California",
+   "url": "https://live.staticflickr.com/3690/10754146785_90ae7ed6a4_b.jpg",
+   "preview": "https://live.staticflickr.com/3690/10754146785_90ae7ed6a4_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/10754146785",
+   "plain": true
+  },
+  {
+   "shows": "embarcadero center ferry building coit tower",
+   "url": "https://live.staticflickr.com/7024/6480604147_b9314e54f8_b.jpg",
+   "preview": "https://live.staticflickr.com/7024/6480604147_b9314e54f8_z.jpg",
+   "size": [
+    1024,
+    682
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Pavel Vanegas on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/39264549@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39264549@N08/6480604147",
+   "plain": true
+  }
+ ]
 }

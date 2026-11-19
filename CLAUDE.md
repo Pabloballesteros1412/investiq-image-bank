@@ -381,6 +381,16 @@ Decisions (Pablo, 4 Nov 2026):
   Blackrock Baths, the Rio Tinto river, Colombian police for "Humana"), events and politicians' visits, naming-rights
   arenas, app screens, an Intel chip for Micron. Merged as hand-picked. Bank: 6,495 photos; companies 4,125 (194 at
   target, 101 with none; famous average 26.0, 34 of 50 at 30).
+- **B2B companies, places they own** (19 Nov): 22 companies below target with no `brands.json` entry got terms for
+  their subsidiaries and the places they own (SO: Georgia Power, Alabama Power, Plant Vogtle; PPL: LG&E, Kentucky
+  Utilities; VICI: Caesars Palace, MGM Grand, Mandalay Bay; FRT: Santana Row, Bethesda Row; BXP: Embarcadero Center;
+  AEE: Ameren Missouri; MCHP: Atmel; NRG: Reliant/Direct Energy; CNC: Ambetter, WellCare...), then an Unsplash brand
+  build and an Openverse pass. Openverse 133 candidates (11 grade 3, 33 grade 2), Unsplash 14 (7 grade 3: Caesars
+  Palace, Mandalay Bay, the Alabama Power sign). Rejected: naming-rights venues (Direct Energy Centre; Reliant Energy
+  Plaza is CenterPoint's), a local "Ferguson Plumbing" that is not Ferguson Enterprises, events, app screens. Gains:
+  SO 0 -> 8, PPL 0 -> 5, BXP 0 -> 4, FRT 1 -> 10, VICI 1 -> 10. Bank: 6,541 photos; companies 4,171 (196 at target, 97
+  with none). Still nothing for AJG and WMB. Most of the remaining 97 zero-photo companies are insurers, REITs, payment
+  processors and industrial suppliers whose names are common words.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

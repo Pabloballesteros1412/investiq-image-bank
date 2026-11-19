@@ -3177,6 +3177,7 @@
    "AES"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
    {
@@ -3230,8 +3231,7 @@
     "how": "Wikidata main image"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "AFRM": {
   "name": "Affirm",
@@ -4764,10 +4764,38 @@
    "ARE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Alexandria Center · architecture, building, manhattan, newyorkcity, nyc",
+    "file": "flickr:35850446053",
+    "page": "https://www.flickr.com/photos/10485077@N06/35850446053",
+    "url": "https://live.staticflickr.com/4414/35850446053_a19b60cf9a_b.jpg",
+    "preview": "https://live.staticflickr.com/4414/35850446053_a19b60cf9a_z.jpg",
+    "size": [
+     768,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by edenpictures on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "edenpictures",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/10485077@N06",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "BABA": {
   "name": "Alibaba",
@@ -9074,31 +9102,35 @@
    "AEE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "Callaway nuclear power plant, Missouri - panoramio",
-    "file": "File:Callaway nuclear power plant, Missouri - panoramio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Callaway_nuclear_power_plant,_Missouri_-_panoramio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Callaway_nuclear_power_plant%2C_Missouri_-_panoramio.jpg/1920px-Callaway_nuclear_power_plant%2C_Missouri_-_panoramio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Callaway_nuclear_power_plant%2C_Missouri_-_panoramio.jpg/500px-Callaway_nuclear_power_plant%2C_Missouri_-_panoramio.jpg",
+    "shot": "hand",
+    "shows": "Ameren passing Arts Center",
+    "file": "flickr:9306109282",
+    "page": "https://www.flickr.com/photos/53301297@N00/9306109282",
+    "url": "https://live.staticflickr.com/3805/9306109282_f8eb61f4b2_b.jpg",
+    "preview": "https://live.staticflickr.com/3805/9306109282_f8eb61f4b2_z.jpg",
     "size": [
-     1920,
-     1277
+     1024,
+     662
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Raymond M. Coveney, …, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Raymond M. Coveney, …",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "Callaway Nuclear Generating Station"
+    "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "pasa47",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/53301297@N00",
+    "via": "openverse",
+    "low_res": true
    },
    {
     "shot": "c2",
@@ -9201,10 +9233,36 @@
     "author_url": "https://www.flickr.com/photos/80270393@N06",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Ameren Worker · 2013, 20130817, august, city, cityofstlouis",
+    "file": "flickr:9534036366",
+    "page": "https://www.flickr.com/photos/53301297@N00/9534036366",
+    "url": "https://live.staticflickr.com/7299/9534036366_345539f867_b.jpg",
+    "preview": "https://live.staticflickr.com/7299/9534036366_345539f867_z.jpg",
+    "size": [
+     682,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "pasa47",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/53301297@N00",
+    "via": "openverse",
+    "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "AEP": {
   "name": "American Electric Power",
@@ -13264,31 +13322,9 @@
    "ARM"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "Cambridge ARM building panorama",
-    "file": "File:Cambridge ARM building panorama.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cambridge_ARM_building_panorama.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cambridge_ARM_building_panorama.jpg/1920px-Cambridge_ARM_building_panorama.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cambridge_ARM_building_panorama.jpg/500px-Cambridge_ARM_building_panorama.jpg",
-    "size": [
-     1920,
-     768
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cmglee, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Cmglee",
-    "year": null,
-    "how": "Wikidata main image"
-   },
    {
     "shot": "leader",
     "shows": "Rene Haas, Arm Holdings CEO (per Wikidata)",
@@ -13315,6 +13351,29 @@
     "flags": [
      "restrictions: personality"
     ]
+   },
+   {
+    "shot": "main",
+    "shows": "Cambridge ARM building panorama",
+    "file": "File:Cambridge ARM building panorama.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cambridge_ARM_building_panorama.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cambridge_ARM_building_panorama.jpg/1920px-Cambridge_ARM_building_panorama.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cambridge_ARM_building_panorama.jpg/500px-Cambridge_ARM_building_panorama.jpg",
+    "size": [
+     1920,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Cmglee, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Cmglee",
+    "year": null,
+    "how": "Wikidata main image"
    },
    {
     "shot": "c3",
@@ -13371,150 +13430,6 @@
     ]
    },
    {
-    "shot": "c5",
-    "shows": "AcornRiscPCARM610full",
-    "file": "File:AcornRiscPCARM610full.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:AcornRiscPCARM610full.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AcornRiscPCARM610full.jpg/1920px-AcornRiscPCARM610full.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AcornRiscPCARM610full.jpg/500px-AcornRiscPCARM610full.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Teewurzler, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Teewurzler",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "ARM microprocessors"
-   },
-   {
-    "shot": "c6",
-    "shows": "Amazon Kindle 4 - board - Freescale MCIMX508CVK8B-7114",
-    "file": "File:Amazon Kindle 4 - board - Freescale MCIMX508CVK8B-7114.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg/1920px-Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg/500px-Amazon_Kindle_4_-_board_-_Freescale_MCIMX508CVK8B-7114.jpg",
-    "size": [
-     1920,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "ARM microprocessors"
-   },
-   {
-    "shot": "c7",
-    "shows": "Macchiatobin-A8040-ARM",
-    "file": "File:Macchiatobin-A8040-ARM.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Macchiatobin-A8040-ARM.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Macchiatobin-A8040-ARM.jpg/1920px-Macchiatobin-A8040-ARM.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Macchiatobin-A8040-ARM.jpg/500px-Macchiatobin-A8040-ARM.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jakednb, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jakednb",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "ARM Cortex-A"
-   },
-   {
-    "shot": "c8",
-    "shows": "ZTE MF165+ - board - Mediatek MT6280A",
-    "file": "File:ZTE MF165+ - board - Mediatek MT6280A-46974.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg/1920px-ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg/500px-ZTE_MF165%2B_-_board_-_Mediatek_MT6280A-46974.jpg",
-    "size": [
-     1920,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "ARM Cortex-R"
-   },
-   {
-    "shot": "c9",
-    "shows": "Amazon Dash Button Somat - board - Atmel SAM G55J19-2346",
-    "file": "File:Amazon Dash Button Somat - board - Atmel SAM G55J19-2346.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg/1920px-Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg/500px-Amazon_Dash_Button_Somat_-_board_-_Atmel_SAM_G55J19-2346.jpg",
-    "size": [
-     1920,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Atmel ARM-based processors"
-   },
-   {
-    "shot": "c10",
-    "shows": "Arduino Due",
-    "file": "File:Arduino Due.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Arduino_Due.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arduino_Due.jpg/1280px-Arduino_Due.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Arduino_Due.jpg/500px-Arduino_Due.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "JackStonePGD, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "JackStonePGD",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Atmel ARM-based processors"
-   },
-   {
     "shot": "hand",
     "shows": "Arm Holdings (ARM Cortex-A57)",
     "file": "File:ARMCortexA57A53 (cropped).jpg",
@@ -13538,8 +13453,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "AJG": {
   "name": "Arthur J. Gallagher & Co.",
@@ -13548,10 +13462,10 @@
    "AJG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ASML": {
   "name": "ASML",
@@ -23600,10 +23514,119 @@
    "BXP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Embarcadero Center, San Francisco, California",
+    "file": "flickr:10753979296",
+    "page": "https://www.flickr.com/photos/75683070@N00/10753979296",
+    "url": "https://live.staticflickr.com/7364/10753979296_257fc23a6f_b.jpg",
+    "preview": "https://live.staticflickr.com/7364/10753979296_257fc23a6f_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Ken Lund",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/75683070@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Spirals at Embarcadero Center",
+    "file": "flickr:14044477669",
+    "page": "https://www.flickr.com/photos/97402086@N00/14044477669",
+    "url": "https://live.staticflickr.com/2934/14044477669_e77cd2a013_b.jpg",
+    "preview": "https://live.staticflickr.com/2934/14044477669_e77cd2a013_z.jpg",
+    "size": [
+     1024,
+     683
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by nan palmero on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "nan palmero",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/97402086@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Embarcadero Center, San Francisco, California",
+    "file": "flickr:10754146785",
+    "page": "https://www.flickr.com/photos/75683070@N00/10754146785",
+    "url": "https://live.staticflickr.com/3690/10754146785_90ae7ed6a4_b.jpg",
+    "preview": "https://live.staticflickr.com/3690/10754146785_90ae7ed6a4_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Ken Lund",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/75683070@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "embarcadero center ferry building coit tower",
+    "file": "flickr:6480604147",
+    "page": "https://www.flickr.com/photos/39264549@N08/6480604147",
+    "url": "https://live.staticflickr.com/7024/6480604147_b9314e54f8_b.jpg",
+    "preview": "https://live.staticflickr.com/7024/6480604147_b9314e54f8_z.jpg",
+    "size": [
+     1024,
+     682
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Pavel Vanegas on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Pavel Vanegas",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/39264549@N08",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "CHRW": {
   "name": "C.H. Robinson",
@@ -27140,32 +27163,9 @@
    "COR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Cencora office, Pontypool - geograph.org.uk",
-    "file": "File:Cencora office, Pontypool - geograph.org.uk - 8326928.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Cencora_office,_Pontypool_-_geograph.org.uk_-_8326928.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cencora_office%2C_Pontypool_-_geograph.org.uk_-_8326928.jpg/1280px-Cencora_office%2C_Pontypool_-_geograph.org.uk_-_8326928.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cencora_office%2C_Pontypool_-_geograph.org.uk_-_8326928.jpg/500px-Cencora_office%2C_Pontypool_-_geograph.org.uk_-_8326928.jpg",
-    "size": [
-     1280,
-     1700
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jaggery, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Jaggery",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Cencora"
-   },
    {
     "shot": "s2",
     "shows": "Cencora World Courier van, Malpas, Newport - geograph.org.uk",
@@ -27213,8 +27213,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CNC": {
   "name": "Centene Corporation",
@@ -27223,8 +27222,36 @@
    "CNC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
+   {
+    "shot": "hand",
+    "shows": "Centene in Clayton · stlouisdecember",
+    "file": "flickr:6556764631",
+    "page": "https://www.flickr.com/photos/53301297@N00/6556764631",
+    "url": "https://live.staticflickr.com/7008/6556764631_aa915cc5e9_b.jpg",
+    "preview": "https://live.staticflickr.com/7008/6556764631_aa915cc5e9_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "pasa47",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/53301297@N00",
+    "via": "openverse",
+    "low_res": true
+   },
    {
     "shot": "s1",
     "shows": "Centene Headquarters from the NE, Clayton, MO",
@@ -27269,52 +27296,6 @@
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
     "author": "Paul Sableman",
     "year": 2018,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s3",
-    "shows": "New Centene Tower and its Parking Garage - Clayton, MO",
-    "file": "File:New Centene Tower and its Parking Garage - Clayton, MO.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:New_Centene_Tower_and_its_Parking_Garage_-_Clayton,_MO.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_Centene_Tower_and_its_Parking_Garage_-_Clayton%2C_MO.jpg/1920px-New_Centene_Tower_and_its_Parking_Garage_-_Clayton%2C_MO.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_Centene_Tower_and_its_Parking_Garage_-_Clayton%2C_MO.jpg/500px-New_Centene_Tower_and_its_Parking_Garage_-_Clayton%2C_MO.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Paul Sableman",
-    "year": 2010,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s4",
-    "shows": "Centene Community Ice Center",
-    "file": "File:Centene Community Ice Center.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Centene_Community_Ice_Center.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Centene_Community_Ice_Center.jpg/1920px-Centene_Community_Ice_Center.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Centene_Community_Ice_Center.jpg/500px-Centene_Community_Ice_Center.jpg",
-    "size": [
-     1920,
-     1107
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tomhol811, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Tomhol811",
-    "year": 2025,
     "how": "Commons search"
    },
    {
@@ -27424,10 +27405,63 @@
     "author_url": "https://www.flickr.com/photos/53301297@N00",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Centene Plaza · clayton, missouri, unitedstates",
+    "file": "flickr:20678341871",
+    "page": "https://www.flickr.com/photos/53301297@N00/20678341871",
+    "url": "https://live.staticflickr.com/563/20678341871_ff40817438_b.jpg",
+    "preview": "https://live.staticflickr.com/563/20678341871_ff40817438_z.jpg",
+    "size": [
+     1024,
+     683
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "pasa47",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/53301297@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Centene Plaza · missouri, saintlouis, unitedstates",
+    "file": "flickr:20048487274",
+    "page": "https://www.flickr.com/photos/53301297@N00/20048487274",
+    "url": "https://live.staticflickr.com/620/20048487274_bcb1a5caee_b.jpg",
+    "preview": "https://live.staticflickr.com/620/20048487274_bcb1a5caee_z.jpg",
+    "size": [
+     1024,
+     683
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by pasa47 on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "pasa47",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/53301297@N00",
+    "via": "openverse",
+    "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CNP": {
   "name": "CenterPoint Energy",
@@ -29356,6 +29390,7 @@
    "CB"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -29383,8 +29418,7 @@
     "category": "Chubb Limited"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CHD": {
   "name": "Church & Dwight",
@@ -50226,6 +50260,7 @@
    "FRT"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -50253,10 +50288,306 @@
     "flags": [
      "restrictions: trademarked"
     ]
+   },
+   {
+    "shot": "hand",
+    "shows": "Santana Row - San Jose, CA",
+    "file": "flickr:2216822280",
+    "page": "https://www.flickr.com/photos/11190696@N02/2216822280",
+    "url": "https://live.staticflickr.com/2247/2216822280_5b2cba484b_b.jpg",
+    "preview": "https://live.staticflickr.com/2247/2216822280_5b2cba484b_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by neighborhoods.org on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "neighborhoods.org",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/11190696@N02",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "2011-09 San Jose 028, Santana Row",
+    "file": "flickr:6161018233",
+    "page": "https://www.flickr.com/photos/28577026@N02/6161018233",
+    "url": "https://live.staticflickr.com/6190/6161018233_991616b0c0_b.jpg",
+    "preview": "https://live.staticflickr.com/6190/6161018233_991616b0c0_z.jpg",
+    "size": [
+     1024,
+     680
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Allie_Caulfield on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Allie_Caulfield",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/28577026@N02",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "20050321 39 Santana Row, San Jose, CA-2",
+    "file": "flickr:9728869864",
+    "page": "https://www.flickr.com/photos/32693718@N07/9728869864",
+    "url": "https://live.staticflickr.com/7413/9728869864_ab5063a444_b.jpg",
+    "preview": "https://live.staticflickr.com/7413/9728869864_ab5063a444_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by davidwilson1949 on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "davidwilson1949",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/32693718@N07",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Childs play, patterns of striped umbrella, squares, people, Santana Row, San Jose, California, USA",
+    "file": "flickr:8922451600",
+    "page": "https://www.flickr.com/photos/71401718@N00/8922451600",
+    "url": "https://live.staticflickr.com/5459/8922451600_d4cd801b8f_b.jpg",
+    "preview": "https://live.staticflickr.com/5459/8922451600_d4cd801b8f_z.jpg",
+    "size": [
+     1024,
+     630
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wonderlane on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Wonderlane",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/71401718@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Kicking back Silicon Valley style, rooftop lounge, umbrella, gas heater, fireplace, benches, women chatting, Cielo, Hotel Valencia, Santana Row, San Jose, California, USA",
+    "file": "flickr:8809039446",
+    "page": "https://www.flickr.com/photos/71401718@N00/8809039446",
+    "url": "https://live.staticflickr.com/7394/8809039446_a11d3aa453_b.jpg",
+    "preview": "https://live.staticflickr.com/7394/8809039446_a11d3aa453_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wonderlane on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Wonderlane",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/71401718@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "20050321 41 Santana Row, San Jose, California",
+    "file": "flickr:9725640219",
+    "page": "https://www.flickr.com/photos/32693718@N07/9725640219",
+    "url": "https://live.staticflickr.com/3684/9725640219_c51076b260_b.jpg",
+    "preview": "https://live.staticflickr.com/3684/9725640219_c51076b260_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by davidwilson1949 on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "davidwilson1949",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/32693718@N07",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Santana Row · 2012, california, sanjose, santanarow",
+    "file": "flickr:14152797343",
+    "page": "https://www.flickr.com/photos/11190696@N02/14152797343",
+    "url": "https://live.staticflickr.com/7354/14152797343_26bdb87507_b.jpg",
+    "preview": "https://live.staticflickr.com/7354/14152797343_26bdb87507_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by neighborhoods.org on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "neighborhoods.org",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/11190696@N02",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Santana Row · 2012, california, sanjose, santanarow",
+    "file": "flickr:14129397101",
+    "page": "https://www.flickr.com/photos/11190696@N02/14129397101",
+    "url": "https://live.staticflickr.com/2934/14129397101_e2c1d19e48_b.jpg",
+    "preview": "https://live.staticflickr.com/2934/14129397101_e2c1d19e48_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by neighborhoods.org on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "neighborhoods.org",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/11190696@N02",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Santana Row · jose, row, san, santana",
+    "file": "flickr:4291121581",
+    "page": "https://www.flickr.com/photos/44572286@N06/4291121581",
+    "url": "https://live.staticflickr.com/4017/4291121581_0da39d860d_b.jpg",
+    "preview": "https://live.staticflickr.com/4017/4291121581_0da39d860d_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by four years on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "four years",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/44572286@N06",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "2009 04 03 - 3213-3217 - Bethesda - Bethesda Row Cinema",
+    "file": "flickr:3594146376",
+    "page": "https://www.flickr.com/photos/25622716@N02/3594146376",
+    "url": "https://live.staticflickr.com/3339/3594146376_849efde593_b.jpg",
+    "preview": "https://live.staticflickr.com/3339/3594146376_849efde593_z.jpg",
+    "size": [
+     1024,
+     785
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by thisisbossi on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "thisisbossi",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/25622716@N02",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Bethesda Row · bethesda, bethesdarow, capital, capitalregion, columbia",
+    "file": "flickr:129137036",
+    "page": "https://www.flickr.com/photos/62518311@N00/129137036",
+    "url": "https://live.staticflickr.com/52/129137036_8669a64962_b.jpg",
+    "preview": "https://live.staticflickr.com/52/129137036_8669a64962_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Daquella manera on Flickr, CC0",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Daquella manera",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/62518311@N00",
+    "via": "openverse",
+    "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "FDX": {
   "name": "FedEx",
@@ -51085,6 +51416,7 @@
    "FERG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -51138,8 +51470,7 @@
     "how": "Wikidata main image"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "RACE": {
   "name": "Ferrari",
@@ -73888,56 +74219,9 @@
    "LHX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "2d TSB hosts Transport and Cloud Forum",
-    "file": "File:2d TSB hosts Transport and Cloud Forum (7829416).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2d_TSB_hosts_Transport_and_Cloud_Forum_(7829416).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2d_TSB_hosts_Transport_and_Cloud_Forum_%287829416%29.jpg/1920px-2d_TSB_hosts_Transport_and_Cloud_Forum_%287829416%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2d_TSB_hosts_Transport_and_Cloud_Forum_%287829416%29.jpg/500px-2d_TSB_hosts_Transport_and_Cloud_Forum_%287829416%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Army photo by Candy C Knight, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Army photo by Candy C Knight",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "L3Harris Technologies"
-   },
-   {
-    "shot": "c2",
-    "shows": "374th Communications Squadron conducts training during Operation Adamantium Shield",
-    "file": "File:374th Communications Squadron conducts training during Operation Adamantium Shield (8613785).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:374th_Communications_Squadron_conducts_training_during_Operation_Adamantium_Shield_(8613785).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/374th_Communications_Squadron_conducts_training_during_Operation_Adamantium_Shield_%288613785%29.jpg/1280px-374th_Communications_Squadron_conducts_training_during_Operation_Adamantium_Shield_%288613785%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/374th_Communications_Squadron_conducts_training_during_Operation_Adamantium_Shield_%288613785%29.jpg/500px-374th_Communications_Squadron_conducts_training_during_Operation_Adamantium_Shield_%288613785%29.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Marine Corps photo by Lance Cpl. Dahkareo Pritchett, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Marine Corps photo by Lance Cpl. Dahkareo Pritchett",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "L3Harris Technologies"
-   },
    {
     "shot": "c3",
     "shows": "Artillery Signal Support for Cobra Gold 2025",
@@ -73961,174 +74245,6 @@
     "year": 2025,
     "how": "Commons category",
     "category": "L3Harris Technologies"
-   },
-   {
-    "shot": "c4",
-    "shows": "Janurary Gator of the Month",
-    "file": "File:Janurary Gator of the Month (9474830).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Janurary_Gator_of_the_Month_(9474830).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Janurary_Gator_of_the_Month_%289474830%29.jpg/1920px-Janurary_Gator_of_the_Month_%289474830%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Janurary_Gator_of_the_Month_%289474830%29.jpg/500px-Janurary_Gator_of_the_Month_%289474830%29.jpg",
-    "size": [
-     1920,
-     1329
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Marines 5MEB by Sgt. Angela Wilcox, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Marines 5MEB by Sgt. Angela Wilcox",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "L3Harris Technologies"
-   },
-   {
-    "shot": "c5",
-    "shows": "Signal Support for Cobra Gold 2025",
-    "file": "File:Signal Support for Cobra Gold 2025 (8888681).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Signal_Support_for_Cobra_Gold_2025_(8888681).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Signal_Support_for_Cobra_Gold_2025_%288888681%29.jpg/1280px-Signal_Support_for_Cobra_Gold_2025_%288888681%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Signal_Support_for_Cobra_Gold_2025_%288888681%29.jpg/500px-Signal_Support_for_Cobra_Gold_2025_%288888681%29.jpg",
-    "size": [
-     1280,
-     1918
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Army photo by Sgt. Sean McCallon, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Army photo by Sgt. Sean McCallon",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "L3Harris Technologies"
-   },
-   {
-    "shot": "c6",
-    "shows": "U S Marines with 1st Marine Division set up communications for Talisman Sabre 23",
-    "file": "File:U S Marines with 1st Marine Division set up communications for Talisman Sabre 23 (7923049).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:U_S_Marines_with_1st_Marine_Division_set_up_communications_for_Talisman_Sabre_23_(7923049).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/U_S_Marines_with_1st_Marine_Division_set_up_communications_for_Talisman_Sabre_23_%287923049%29.jpg/1280px-U_S_Marines_with_1st_Marine_Division_set_up_communications_for_Talisman_Sabre_23_%287923049%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/U_S_Marines_with_1st_Marine_Division_set_up_communications_for_Talisman_Sabre_23_%287923049%29.jpg/500px-U_S_Marines_with_1st_Marine_Division_set_up_communications_for_Talisman_Sabre_23_%287923049%29.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Marine Corps photo by Cpl. Emeline Swyers, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Marine Corps photo by Cpl. Emeline Swyers",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "L3Harris Technologies"
-   },
-   {
-    "shot": "c7",
-    "shows": "Landsat 9 EFS Mate to C29 (KSC- -PH-RNB01 0021)",
-    "file": "File:Landsat 9 EFS Mate to C29 (KSC-20210810-PH-RNB01 0021).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Landsat_9_EFS_Mate_to_C29_(KSC-20210810-PH-RNB01_0021).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Landsat_9_EFS_Mate_to_C29_%28KSC-20210810-PH-RNB01_0021%29.jpg/1920px-Landsat_9_EFS_Mate_to_C29_%28KSC-20210810-PH-RNB01_0021%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Landsat_9_EFS_Mate_to_C29_%28KSC-20210810-PH-RNB01_0021%29.jpg/500px-Landsat_9_EFS_Mate_to_C29_%28KSC-20210810-PH-RNB01_0021%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA Kennedy Space Center / NASA/Randy Beaudoin, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA Kennedy Space Center / NASA/Randy Beaudoin",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Integrated Processing Facility"
-   },
-   {
-    "shot": "c8",
-    "shows": "Landsat 9 EFS Photos - Arrival (KSC- -PH-JNN01 0001)",
-    "file": "File:Landsat 9 EFS Photos - Arrival (KSC-20210614-PH-JNN01 0001).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Landsat_9_EFS_Photos_-_Arrival_(KSC-20210614-PH-JNN01_0001).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landsat_9_EFS_Photos_-_Arrival_%28KSC-20210614-PH-JNN01_0001%29.jpg/1920px-Landsat_9_EFS_Photos_-_Arrival_%28KSC-20210614-PH-JNN01_0001%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Landsat_9_EFS_Photos_-_Arrival_%28KSC-20210614-PH-JNN01_0001%29.jpg/500px-Landsat_9_EFS_Photos_-_Arrival_%28KSC-20210614-PH-JNN01_0001%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA Kennedy Space Center / NASA/Jerry Nagy, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA Kennedy Space Center / NASA/Jerry Nagy",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Integrated Processing Facility"
-   },
-   {
-    "shot": "c9",
-    "shows": "21st Theater Sustainment Command CG Participates in Tactical Fitness Challenge on Baumholder",
-    "file": "File:21st Theater Sustainment Command CG Participates in Tactical Fitness Challenge on Baumholder (9309638).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:21st_Theater_Sustainment_Command_CG_Participates_in_Tactical_Fitness_Challenge_on_Baumholder_(9309638).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/21st_Theater_Sustainment_Command_CG_Participates_in_Tactical_Fitness_Challenge_on_Baumholder_%289309638%29.jpg/1920px-21st_Theater_Sustainment_Command_CG_Participates_in_Tactical_Fitness_Challenge_on_Baumholder_%289309638%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/21st_Theater_Sustainment_Command_CG_Participates_in_Tactical_Fitness_Challenge_on_Baumholder_%289309638%29.jpg/500px-21st_Theater_Sustainment_Command_CG_Participates_in_Tactical_Fitness_Challenge_on_Baumholder_%289309638%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Army photo by 1st Lt. Nahjier Williams, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Army photo by 1st Lt. Nahjier Williams",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "L3Harris (Exelis) SINCGARS RT-1523 series VHF Radio"
-   },
-   {
-    "shot": "c10",
-    "shows": "21st TSC Commanding General Participates in Tactical Fitness Competition on Baumholder",
-    "file": "File:21st TSC Commanding General Participates in Tactical Fitness Competition on Baumholder (9309633).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:21st_TSC_Commanding_General_Participates_in_Tactical_Fitness_Competition_on_Baumholder_(9309633).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/21st_TSC_Commanding_General_Participates_in_Tactical_Fitness_Competition_on_Baumholder_%289309633%29.jpg/1920px-21st_TSC_Commanding_General_Participates_in_Tactical_Fitness_Competition_on_Baumholder_%289309633%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/21st_TSC_Commanding_General_Participates_in_Tactical_Fitness_Competition_on_Baumholder_%289309633%29.jpg/500px-21st_TSC_Commanding_General_Participates_in_Tactical_Fitness_Competition_on_Baumholder_%289309633%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Army photo by 1st Lt. Nahjier Williams, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Army photo by 1st Lt. Nahjier Williams",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "L3Harris (Exelis) SINCGARS RT-1523 series VHF Radio"
    },
    {
     "shot": "hand",
@@ -74183,10 +74299,36 @@
     "author_url": "https://www.flickr.com/photos/62309569@N03",
     "via": "openverse",
     "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "2BCT L3Harris ENVG-B Training, Mar. 8, 2022",
+    "file": "flickr:51929304845",
+    "page": "https://www.flickr.com/photos/62309569@N03/51929304845",
+    "url": "https://live.staticflickr.com/65535/51929304845_bb34207c09_b.jpg",
+    "preview": "https://live.staticflickr.com/65535/51929304845_bb34207c09_z.jpg",
+    "size": [
+     1024,
+     725
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Fort Drum & 10th Mountain Division (LI) on Flickr, Public Domain Mark",
+    "licence": "Public Domain Mark",
+    "licence_kind": "pd",
+    "licence_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "author": "Fort Drum & 10th Mountain Division (LI)",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/62309569@N03",
+    "via": "openverse",
+    "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "LH": {
   "name": "Labcorp",
@@ -80535,6 +80677,7 @@
    "MRSH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -80585,8 +80728,7 @@
     "category": "Marsh McLennan"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "MLM": {
   "name": "Martin Marietta Materials",
@@ -85869,6 +86011,7 @@
    "MCHP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -85896,54 +86039,6 @@
     "category": "Microchip Technology"
    },
    {
-    "shot": "c2",
-    "shows": "Microchip mcmaster mz mit20x2",
-    "file": "File:Microchip 77102 mcmaster mz mit20x2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Microchip_77102_mcmaster_mz_mit20x2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Microchip_77102_mcmaster_mz_mit20x2.jpg/1920px-Microchip_77102_mcmaster_mz_mit20x2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Microchip_77102_mcmaster_mz_mit20x2.jpg/500px-Microchip_77102_mcmaster_mz_mit20x2.jpg",
-    "size": [
-     1920,
-     1648
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John McMaster, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John McMaster",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Microchip Technology integrated circuits"
-   },
-   {
-    "shot": "c3",
-    "shows": "Microchip mcp6022e mcmaster mz mit20x2",
-    "file": "File:Microchip mcp6022e mcmaster mz mit20x2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Microchip_mcp6022e_mcmaster_mz_mit20x2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microchip_mcp6022e_mcmaster_mz_mit20x2.jpg/1920px-Microchip_mcp6022e_mcmaster_mz_mit20x2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microchip_mcp6022e_mcmaster_mz_mit20x2.jpg/500px-Microchip_mcp6022e_mcmaster_mz_mit20x2.jpg",
-    "size": [
-     1920,
-     1217
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John McMaster, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John McMaster",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Microchip Technology integrated circuits"
-   },
-   {
     "shot": "c4",
     "shows": "Microchip 18f24310 mcmaster mz mit20x2",
     "file": "File:Microchip 18f24310 mcmaster mz mit20x2.jpg",
@@ -85966,30 +86061,6 @@
     "year": 2021,
     "how": "Commons category",
     "category": "Microchip 18F24310"
-   },
-   {
-    "shot": "c5",
-    "shows": "Microchip 24lc512 mcmaster mz mit20x2",
-    "file": "File:Microchip 24lc512 mcmaster mz mit20x2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Microchip_24lc512_mcmaster_mz_mit20x2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Microchip_24lc512_mcmaster_mz_mit20x2.jpg/1920px-Microchip_24lc512_mcmaster_mz_mit20x2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Microchip_24lc512_mcmaster_mz_mit20x2.jpg/500px-Microchip_24lc512_mcmaster_mz_mit20x2.jpg",
-    "size": [
-     1920,
-     1996
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John McMaster, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John McMaster",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Microchip 24LC512"
    },
    {
     "shot": "c6",
@@ -86016,78 +86087,6 @@
     "category": "Microchip AY8930/P"
    },
    {
-    "shot": "c7",
-    "shows": "Sample mit20x - Microchip 24LC512 I SM 06412B0 - John McMaster",
-    "file": "File:Sample mit20x - Microchip 24LC512 I SM 06412B0 - John McMaster.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sample_mit20x_-_Microchip_24LC512_I_SM_06412B0_-_John_McMaster.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sample_mit20x_-_Microchip_24LC512_I_SM_06412B0_-_John_McMaster.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Sample_mit20x_-_Microchip_24LC512_I_SM_06412B0_-_John_McMaster.jpg/500px-Sample_mit20x_-_Microchip_24LC512_I_SM_06412B0_-_John_McMaster.jpg",
-    "size": [
-     1632,
-     1271
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John McMaster, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John McMaster",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Microchip 24LC512 I/SM 06412B0"
-   },
-   {
-    "shot": "c8",
-    "shows": "Sample ns50xu - Microchip 24LC512 I SM 06412B0 - John McMaster",
-    "file": "File:Sample ns50xu - Microchip 24LC512 I SM 06412B0 - John McMaster.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sample_ns50xu_-_Microchip_24LC512_I_SM_06412B0_-_John_McMaster.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sample_ns50xu_-_Microchip_24LC512_I_SM_06412B0_-_John_McMaster.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sample_ns50xu_-_Microchip_24LC512_I_SM_06412B0_-_John_McMaster.jpg/500px-Sample_ns50xu_-_Microchip_24LC512_I_SM_06412B0_-_John_McMaster.jpg",
-    "size": [
-     1632,
-     1270
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "John McMaster, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "John McMaster",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Microchip 24LC512 I/SM 06412B0"
-   },
-   {
-    "shot": "c9",
-    "shows": "PowerDsine 3524G 24-Port Gigabit Ethernet PoE Midspan Injector with top cover removed, oblique view",
-    "file": "File:PowerDsine 3524G 24-Port Gigabit Ethernet PoE Midspan Injector with top cover removed, oblique view.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PowerDsine_3524G_24-Port_Gigabit_Ethernet_PoE_Midspan_Injector_with_top_cover_removed,_oblique_view.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PowerDsine_3524G_24-Port_Gigabit_Ethernet_PoE_Midspan_Injector_with_top_cover_removed%2C_oblique_view.jpg/1920px-PowerDsine_3524G_24-Port_Gigabit_Ethernet_PoE_Midspan_Injector_with_top_cover_removed%2C_oblique_view.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/PowerDsine_3524G_24-Port_Gigabit_Ethernet_PoE_Midspan_Injector_with_top_cover_removed%2C_oblique_view.jpg/500px-PowerDsine_3524G_24-Port_Gigabit_Ethernet_PoE_Midspan_Injector_with_top_cover_removed%2C_oblique_view.jpg",
-    "size": [
-     1920,
-     1002
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Phiarc, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Phiarc",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Microchip Technology"
-   },
-   {
     "shot": "hand",
     "shows": "Kyocera FS-C5200DN - controller board - Microchip 24LC128-9025",
     "file": "File:Kyocera FS-C5200DN - controller board - Microchip 24LC128-9025.jpg",
@@ -86109,10 +86108,63 @@
     "author": "Raimond Spekking",
     "year": 2020,
     "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Atmel AVR Butterfly (#4) · avr, electronics, microcontrollers, business, computer",
+    "file": "flickr:35437253",
+    "page": "https://www.flickr.com/photos/41894183508@N01/35437253",
+    "url": "https://live.staticflickr.com/21/35437253_f6423b294f_b.jpg",
+    "preview": "https://live.staticflickr.com/21/35437253_f6423b294f_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by mrbill on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "mrbill",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/41894183508@N01",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Atmel vendor sign · china, shenzhen",
+    "file": "flickr:3299330245",
+    "page": "https://www.flickr.com/photos/17425845@N00/3299330245",
+    "url": "https://live.staticflickr.com/3386/3299330245_03f243a164_b.jpg",
+    "preview": "https://live.staticflickr.com/3386/3299330245_03f243a164_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by oskay on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "oskay",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/17425845@N00",
+    "via": "openverse",
+    "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "MU": {
   "name": "Micron Technology",
@@ -95504,6 +95556,7 @@
    "NRG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
    {
@@ -95611,8 +95664,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "NU": {
   "name": "Nubank",
@@ -104475,10 +104527,146 @@
    "PPL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "88b150: Looking SSW toward LG&E Mill Creek Generating Station, Louisville",
+    "file": "flickr:24190342154",
+    "page": "https://www.flickr.com/photos/70020260@N04/24190342154",
+    "url": "https://live.staticflickr.com/1503/24190342154_2bc3c8daa2_b.jpg",
+    "preview": "https://live.staticflickr.com/1503/24190342154_2bc3c8daa2_z.jpg",
+    "size": [
+     1024,
+     679
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bill Alden on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Bill Alden",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/70020260@N04",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "98k009: LG&E hydroelectric plant at McAlpine Dam",
+    "file": "flickr:6526229987",
+    "page": "https://www.flickr.com/photos/70020260@N04/6526229987",
+    "url": "https://live.staticflickr.com/7014/6526229987_a01a798031_b.jpg",
+    "preview": "https://live.staticflickr.com/7014/6526229987_a01a798031_z.jpg",
+    "size": [
+     1024,
+     680
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bill Alden on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Bill Alden",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/70020260@N04",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "88b149: Looking south toward LG&E Mill Creek Generating Station, Louisville",
+    "file": "flickr:24450849519",
+    "page": "https://www.flickr.com/photos/70020260@N04/24450849519",
+    "url": "https://live.staticflickr.com/1537/24450849519_d9324e13c7_b.jpg",
+    "preview": "https://live.staticflickr.com/1537/24450849519_d9324e13c7_z.jpg",
+    "size": [
+     1024,
+     679
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bill Alden on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Bill Alden",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/70020260@N04",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Kentucky Utilities Company Building, Broadway Street and 2nd Street, Danville, KY",
+    "file": "flickr:51985303843",
+    "page": "https://www.flickr.com/photos/59081381@N03/51985303843",
+    "url": "https://live.staticflickr.com/65535/51985303843_4bc8722bce_b.jpg",
+    "preview": "https://live.staticflickr.com/65535/51985303843_4bc8722bce_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "w_lemay",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/59081381@N03",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Kentucky Utilities Building, Cumberland Avenue and 22nd Street, Middlesboro, KY",
+    "file": "flickr:53662607799",
+    "page": "https://www.flickr.com/photos/59081381@N03/53662607799",
+    "url": "https://live.staticflickr.com/65535/53662607799_d777c9debc_b.jpg",
+    "preview": "https://live.staticflickr.com/65535/53662607799_d777c9debc_z.jpg",
+    "size": [
+     768,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "w_lemay",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/59081381@N03",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "PFG": {
   "name": "Principal Financial Group",
@@ -110675,6 +110863,7 @@
    "SPGI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -110701,30 +110890,6 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "ASA conference 2008 - 16",
-    "file": "File:ASA conference 2008 - 16.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:ASA_conference_2008_-_16.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ASA_conference_2008_-_16.JPG/1920px-ASA_conference_2008_-_16.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/ASA_conference_2008_-_16.JPG/500px-ASA_conference_2008_-_16.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "myself ( User:Piotrus ), CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "myself ( User:Piotrus )",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "McGraw-Hill"
-   },
-   {
     "shot": "c3",
     "shows": "S&P Global (S&P Global Inc.)",
     "file": "File:S&P Global (55312935517).jpg",
@@ -110749,8 +110914,7 @@
     "category": "S&P Global Inc."
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CRM": {
   "name": "Salesforce",
@@ -116744,10 +116908,275 @@
    "SO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "b1",
+    "shows": "A tall electrical pylon against a cloudy sky",
+    "file": "unsplash:tXVfluMh7_4",
+    "page": "https://unsplash.com/photos/a-tall-electrical-pylon-against-a-cloudy-sky-tXVfluMh7_4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1759109391537-ee5aec6f1775?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8R2VvcmdpYSUyMFBvd2VyfGVufDF8fHx8MTc5NTA4Mjk3MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1759109391537-ee5aec6f1775?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8R2VvcmdpYSUyMFBvd2VyfGVufDF8fHx8MTc5NTA4Mjk3MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jacob McGowin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jacob McGowin",
+    "year": 2025,
+    "how": "unsplash search: Georgia Power",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bamaham93?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tXVfluMh7_4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8R2VvcmdpYSUyMFBvd2VyfGVufDF8fHx8MTc5NTA4Mjk3MXww"
+   },
+   {
+    "shot": "b2",
+    "shows": "Power lines and cooling towers against cloudy sky",
+    "file": "unsplash:kOhzjX618tE",
+    "page": "https://unsplash.com/photos/power-lines-and-cooling-towers-against-cloudy-sky-kOhzjX618tE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1759109391527-11b6adf2cc5c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8R2VvcmdpYSUyMFBvd2VyfGVufDF8fHx8MTc5NTA4Mjk3MXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1759109391527-11b6adf2cc5c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8R2VvcmdpYSUyMFBvd2VyfGVufDF8fHx8MTc5NTA4Mjk3MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jacob McGowin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jacob McGowin",
+    "year": 2025,
+    "how": "unsplash search: Georgia Power",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bamaham93?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/kOhzjX618tE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8R2VvcmdpYSUyMFBvd2VyfGVufDF8fHx8MTc5NTA4Mjk3MXww"
+   },
+   {
+    "shot": "b3",
+    "shows": "Historic Alabama Power Company sign, Attalla, Alabama",
+    "file": "loc:2010640595",
+    "page": "https://www.loc.gov/item/2010640595/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:08700:08782/full/2327,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:08700:08782/full/500,/0/default.jpg",
+    "size": [
+     2327,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2010,
+    "how": "loc search: Alabama Power",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "b4",
+    "shows": "Details from the Alabama Power Company building, Birmingham, Alabama",
+    "file": "loc:2010636961",
+    "page": "https://www.loc.gov/item/2010636961/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:05000:05087/full/2138,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:05000:05087/full/500,/0/default.jpg",
+    "size": [
+     2138,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2010,
+    "how": "loc search: Alabama Power",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "hand",
+    "shows": "Georgia Power Sign On Transformer Station",
+    "file": "flickr:5455824671",
+    "page": "https://www.flickr.com/photos/26373139@N08/5455824671",
+    "url": "https://live.staticflickr.com/5178/5455824671_a2e2747e3e_b.jpg",
+    "preview": "https://live.staticflickr.com/5178/5455824671_a2e2747e3e_z.jpg",
+    "size": [
+     1024,
+     548
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by kenteegardin on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "kenteegardin",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/26373139@N08",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Georgia Power Tramsformer Station",
+    "file": "flickr:5455825063",
+    "page": "https://www.flickr.com/photos/26373139@N08/5455825063",
+    "url": "https://live.staticflickr.com/5013/5455825063_255f3cb8e1_b.jpg",
+    "preview": "https://live.staticflickr.com/5013/5455825063_255f3cb8e1_z.jpg",
+    "size": [
+     1024,
+     640
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by kenteegardin on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "kenteegardin",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/26373139@N08",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Georgia Power for the Assist",
+    "file": "flickr:6100172305",
+    "page": "https://www.flickr.com/photos/71645600@N00/6100172305",
+    "url": "https://live.staticflickr.com/6193/6100172305_236bd4816f_b.jpg",
+    "preview": "https://live.staticflickr.com/6193/6100172305_236bd4816f_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by AuthenticEccentric on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "AuthenticEccentric",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/71645600@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Georgia Power plant · brunswick, flight, georgia, jekyll, plane",
+    "file": "flickr:27027207127",
+    "page": "https://www.flickr.com/photos/57903762@N00/27027207127",
+    "url": "https://live.staticflickr.com/908/27027207127_4dc58973c8_b.jpg",
+    "preview": "https://live.staticflickr.com/908/27027207127_4dc58973c8_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by lns1122 on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "lns1122",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/57903762@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Georgia Power crew #2 · outdoors, vehicle",
+    "file": "flickr:7518224024",
+    "page": "https://www.flickr.com/photos/48889038283@N01/7518224024",
+    "url": "https://live.staticflickr.com/7275/7518224024_f11104c665_b.jpg",
+    "preview": "https://live.staticflickr.com/7275/7518224024_f11104c665_z.jpg",
+    "size": [
+     683,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by izik on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "izik",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/48889038283@N01",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Georgia Power Savannah Squircle (30)",
+    "file": "flickr:26435730926",
+    "page": "https://www.flickr.com/photos/46102325@N06/26435730926",
+    "url": "https://live.staticflickr.com/1467/26435730926_fe679e282c_b.jpg",
+    "preview": "https://live.staticflickr.com/1467/26435730926_fe679e282c_z.jpg",
+    "size": [
+     1024,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Mark Morgan Trinidad B",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/46102325@N06",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "LUV": {
   "name": "Southwest Airlines",
@@ -119876,6 +120305,7 @@
    "STT"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -119900,30 +120330,6 @@
     "author": "Daderot",
     "year": 2023,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Boston skyline",
-    "file": "File:Boston skyline (5173948387).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boston_skyline_(5173948387).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Boston_skyline_%285173948387%29.jpg/1920px-Boston_skyline_%285173948387%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Boston_skyline_%285173948387%29.jpg/500px-Boston_skyline_%285173948387%29.jpg",
-    "size": [
-     1920,
-     1438
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bert Kaufmann from Roermond, Netherlands, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Bert Kaufmann from Roermond, Netherlands",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "State Street Bank"
    },
    {
     "shot": "c3",
@@ -120022,56 +120428,34 @@
     "category": "State Street Bank"
    },
    {
-    "shot": "c7",
-    "shows": "Boston Common",
-    "file": "File:Boston Common (7194230690).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boston_Common_(7194230690).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Boston_Common_%287194230690%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Boston_Common_%287194230690%29.jpg/500px-Boston_Common_%287194230690%29.jpg",
+    "shot": "hand",
+    "shows": "State Street Bank München",
+    "file": "flickr:26546054305",
+    "page": "https://www.flickr.com/photos/141574550@N03/26546054305",
+    "url": "https://live.staticflickr.com/1588/26546054305_bbb23b60d1_b.jpg",
+    "preview": "https://live.staticflickr.com/1588/26546054305_bbb23b60d1_z.jpg",
     "size": [
-     1063,
-     1600
+     1024,
+     683
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "InSapphoWeTrust from Los Angeles, California, USA, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "InSapphoWeTrust from Los Angeles, California, USA",
-    "year": 2012,
-    "how": "Commons category",
-    "category": "State Street Bank"
-   },
-   {
-    "shot": "c8",
-    "shows": "Boston skyline crop",
-    "file": "File:Boston skyline (5173948387) crop.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boston_skyline_(5173948387)_crop.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Boston_skyline_%285173948387%29_crop.jpg/1920px-Boston_skyline_%285173948387%29_crop.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Boston_skyline_%285173948387%29_crop.jpg/500px-Boston_skyline_%285173948387%29_crop.jpg",
-    "size": [
-     1920,
-     879
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bert Kaufmann from Roermond, Netherlands; cropped by Beyond My Ken ( talk ) 07:53, 19 February 2017 (UTC), CC BY 2.0, via Wikimedia Commons",
+    "credit": "Photo by laurahoffmann51 on Flickr, CC BY 2.0",
     "licence": "CC BY 2.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Bert Kaufmann from Roermond, Netherlands; cropped by Beyond My Ken ( talk ) 07:53, 19 February 2017 (UTC)",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "State Street Bank"
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "laurahoffmann51",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/141574550@N03",
+    "via": "openverse",
+    "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "STLD": {
   "name": "Steel Dynamics",
@@ -133094,8 +133478,323 @@
    "VICI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "Caesars Palace, Las Vegas, Nevada",
+    "file": "loc:2010630597",
+    "page": "https://www.loc.gov/item/2010630597/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04600:04613/full/2250,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04600:04613/full/500,/0/default.jpg",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2009,
+    "how": "loc search: Caesars Palace",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "b2",
+    "shows": "An aerial view of a city with a lot of tall buildings",
+    "file": "unsplash:oYVncqEpwOo",
+    "page": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-lot-of-tall-buildings-oYVncqEpwOo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1730754028242-cec826618f9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1730754028242-cec826618f9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Flavio Waser on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Flavio Waser",
+    "year": 2024,
+    "how": "unsplash search: Mandalay Bay",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@flawas?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oYVncqEpwOo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA"
+   },
+   {
+    "shot": "b3",
+    "shows": "Mandalay bay resort and casino in las vegas",
+    "file": "unsplash:VBt9_MaRoD8",
+    "page": "https://unsplash.com/photos/mandalay-bay-resort-and-casino-in-las-vegas-VBt9_MaRoD8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1742666081226-c39222fbe0ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1742666081226-c39222fbe0ba?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "unsplash search: Mandalay Bay",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/VBt9_MaRoD8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA"
+   },
+   {
+    "shot": "b4",
+    "shows": "A tall building with columns",
+    "file": "unsplash:NBSBsOfmE2U",
+    "page": "https://unsplash.com/photos/a-tall-building-with-columns-NBSBsOfmE2U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1666538455716-ee7a85f95911?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fENhZXNhcnMlMjBQYWxhY2V8ZW58MXx8fHwxNzk1MDgzMDU3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1666538455716-ee7a85f95911?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fENhZXNhcnMlMjBQYWxhY2V8ZW58MXx8fHwxNzk1MDgzMDU3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Paul Cariou on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Paul Cariou",
+    "year": 2022,
+    "how": "unsplash search: Caesars Palace",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@paulcariou?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NBSBsOfmE2U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fENhZXNhcnMlMjBQYWxhY2V8ZW58MXx8fHwxNzk1MDgzMDU3fDA"
+   },
+   {
+    "shot": "b5",
+    "shows": "The golden facade of the mandalay bay resort",
+    "file": "unsplash:13p7rysRRiw",
+    "page": "https://unsplash.com/photos/the-golden-facade-of-the-mandalay-bay-resort-13p7rysRRiw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1742666081462-73521dba019f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1742666081462-73521dba019f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1929
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "unsplash search: Mandalay Bay",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/13p7rysRRiw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA"
+   },
+   {
+    "shot": "b6",
+    "shows": "A bunch of palm trees that are in front of a building",
+    "file": "unsplash:luUgK6QhMb4",
+    "page": "https://unsplash.com/photos/a-bunch-of-palm-trees-that-are-in-front-of-a-building-luUgK6QhMb4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723586375652-b774d6c23f6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723586375652-b774d6c23f6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Meg von Haartman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Meg von Haartman",
+    "year": 2024,
+    "how": "unsplash search: MGM Grand",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@traveleroohlala?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/luUgK6QhMb4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TUdNJTIwR3JhbmR8ZW58MXx8fHwxNzk0MDEzOTI1fDA"
+   },
+   {
+    "shot": "b7",
+    "shows": "White and blue concrete building near palm trees under blue sky during daytime",
+    "file": "unsplash:oCxCUpheojc",
+    "page": "https://unsplash.com/photos/white-and-blue-concrete-building-near-palm-trees-under-blue-sky-during-daytime-oCxCUpheojc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1584964608514-503fc70b320a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1584964608514-503fc70b320a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1600
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Kevin Walker on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Kevin Walker",
+    "year": 2020,
+    "how": "unsplash search: Mandalay Bay",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kdwalker78?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oCxCUpheojc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA"
+   },
+   {
+    "shot": "b8",
+    "shows": "A very tall building with a very tall entrance",
+    "file": "unsplash:gDQeTwVU2hc",
+    "page": "https://unsplash.com/photos/a-very-tall-building-with-a-very-tall-entrance-gDQeTwVU2hc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1687889158711-a0b2e81ebe9a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fE1hbmRhbGF5JTIwQmF5fGVufDF8fHx8MTc5NTA4MzE0NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1687889158711-a0b2e81ebe9a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fE1hbmRhbGF5JTIwQmF5fGVufDF8fHx8MTc5NTA4MzE0NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Joerg Breuer on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Joerg Breuer",
+    "year": 2023,
+    "how": "unsplash search: Mandalay Bay",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@joebreuer?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/gDQeTwVU2hc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fE1hbmRhbGF5JTIwQmF5fGVufDF8fHx8MTc5NTA4MzE0NXww"
+   },
+   {
+    "shot": "hand",
+    "shows": "Caesars Palace Fountains, Las Vegas, Nevada",
+    "file": "flickr:3355665888",
+    "page": "https://www.flickr.com/photos/75683070@N00/3355665888",
+    "url": "https://live.staticflickr.com/3561/3355665888_30b646fb8d_b.jpg",
+    "preview": "https://live.staticflickr.com/3561/3355665888_30b646fb8d_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Ken Lund",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/75683070@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Caesars Palace Las Vegas.",
+    "file": "flickr:39229935724",
+    "page": "https://www.flickr.com/photos/88123769@N02/39229935724",
+    "url": "https://live.staticflickr.com/4664/39229935724_9b68d6a288_b.jpg",
+    "preview": "https://live.staticflickr.com/4664/39229935724_9b68d6a288_z.jpg",
+    "size": [
+     1024,
+     644
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bernard Spragg on Flickr, CC0",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Bernard Spragg",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/88123769@N02",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "b9",
+    "shows": "A large swimming pool with people in it",
+    "file": "unsplash:Uu-QS2Hye4w",
+    "page": "https://unsplash.com/photos/a-large-swimming-pool-with-people-in-it-Uu-QS2Hye4w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723585891774-ea014ec0aa54?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fE1HTSUyMEdyYW5kfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723585891774-ea014ec0aa54?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fE1HTSUyMEdyYW5kfGVufDF8fHx8MTc5NDAxMzkyNXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Meg von Haartman on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Meg von Haartman",
+    "year": 2024,
+    "how": "unsplash search: MGM Grand",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@traveleroohlala?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Uu-QS2Hye4w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fE1HTSUyMEdyYW5kfGVufDF8fHx8MTc5NDAxMzkyNXww"
+   },
+   {
+    "shot": "b10",
+    "shows": "Caesars palace hotel tower against a blue sky",
+    "file": "unsplash:yv8YByJ7hF8",
+    "page": "https://unsplash.com/photos/caesars-palace-hotel-tower-against-a-blue-sky-yv8YByJ7hF8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1758074013816-ab9735071f6a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fENhZXNhcnMlMjBQYWxhY2V8ZW58MXx8fHwxNzk1MDgzMDU3fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1758074013816-ab9735071f6a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fENhZXNhcnMlMjBQYWxhY2V8ZW58MXx8fHwxNzk1MDgzMDU3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Jadon Johnson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Jadon Johnson",
+    "year": 2025,
+    "how": "unsplash search: Caesars Palace",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jadonjohnson?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/yv8YByJ7hF8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTZ8fENhZXNhcnMlMjBQYWxhY2V8ZW58MXx8fHwxNzk1MDgzMDU3fDA",
+    "track_pending": true
+   },
    {
     "shot": "main",
     "shows": "Caesars Palace Las Vegas",
@@ -133118,10 +133817,144 @@
     "author": "Jeremy Thompson",
     "year": 2017,
     "how": "Wikidata main image"
+   },
+   {
+    "shot": "hand",
+    "shows": "Fountains at Caesars Palace",
+    "file": "flickr:3354866055",
+    "page": "https://www.flickr.com/photos/75683070@N00/3354866055",
+    "url": "https://live.staticflickr.com/3446/3354866055_42e7a20a8e_b.jpg",
+    "preview": "https://live.staticflickr.com/3446/3354866055_42e7a20a8e_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Ken Lund",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/75683070@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Caesars Palace from Bellagio, Las Vegas, Nevada",
+    "file": "flickr:3354841859",
+    "page": "https://www.flickr.com/photos/75683070@N00/3354841859",
+    "url": "https://live.staticflickr.com/3659/3354841859_da0ce685d2_b.jpg",
+    "preview": "https://live.staticflickr.com/3659/3354841859_da0ce685d2_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Ken Lund",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/75683070@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Caesars Palace. Las Vegas.",
+    "file": "flickr:31018453450",
+    "page": "https://www.flickr.com/photos/88123769@N02/31018453450",
+    "url": "https://live.staticflickr.com/5459/31018453450_69aa908016_b.jpg",
+    "preview": "https://live.staticflickr.com/5459/31018453450_69aa908016_z.jpg",
+    "size": [
+     1024,
+     741
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bernard Spragg on Flickr, CC0",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Bernard Spragg",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/88123769@N02",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Caesars Palace, Las Vegas, Nevada",
+    "file": "flickr:3355666672",
+    "page": "https://www.flickr.com/photos/75683070@N00/3355666672",
+    "url": "https://live.staticflickr.com/3645/3355666672_b54b75b346_b.jpg",
+    "preview": "https://live.staticflickr.com/3645/3355666672_b54b75b346_z.jpg",
+    "size": [
+     768,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Ken Lund",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/75683070@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Caesars Palace. Las Vegas.",
+    "file": "flickr:37399855570",
+    "page": "https://www.flickr.com/photos/88123769@N02/37399855570",
+    "url": "https://live.staticflickr.com/4505/37399855570_3ba00dbf09_b.jpg",
+    "preview": "https://live.staticflickr.com/4505/37399855570_3ba00dbf09_z.jpg",
+    "size": [
+     1024,
+     683
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bernard Spragg on Flickr, CC0",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Bernard Spragg",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/88123769@N02",
+    "via": "openverse",
+    "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "V": {
   "name": "Visa Inc.",
@@ -136679,59 +137512,9 @@
    "WEC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "We Energies Fort Atkinson Office - panoramio",
-    "file": "File:We Energies Fort Atkinson Office - panoramio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:We_Energies_Fort_Atkinson_Office_-_panoramio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/We_Energies_Fort_Atkinson_Office_-_panoramio.jpg/1920px-We_Energies_Fort_Atkinson_Office_-_panoramio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/We_Energies_Fort_Atkinson_Office_-_panoramio.jpg/500px-We_Energies_Fort_Atkinson_Office_-_panoramio.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Corey Coyle, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Corey Coyle",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "WEC Energy Group"
-   },
-   {
-    "shot": "c2",
-    "shows": "Doors Open Milwaukee 2023 42 (Public Service Building interior)",
-    "file": "File:Doors Open Milwaukee 2023 42 (Public Service Building interior).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Doors_Open_Milwaukee_2023_42_(Public_Service_Building_interior).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Doors_Open_Milwaukee_2023_42_%28Public_Service_Building_interior%29.jpg/1920px-Doors_Open_Milwaukee_2023_42_%28Public_Service_Building_interior%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Doors_Open_Milwaukee_2023_42_%28Public_Service_Building_interior%29.jpg/500px-Doors_Open_Milwaukee_2023_42_%28Public_Service_Building_interior%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Michael Barera",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Public Service Building (Milwaukee, Wisconsin)",
-    "flags": [
-     "restrictions: personality"
-    ]
-   },
    {
     "shot": "c3",
     "shows": "Milwaukee July 2023 003 (Public Service Building)",
@@ -136828,10 +137611,36 @@
     "author": "Royalbroil",
     "year": 2012,
     "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "We Energies transmission line tower, former TMER&L right-of-way",
+    "file": "flickr:52870750772",
+    "page": "https://www.flickr.com/photos/87297882@N03/52870750772",
+    "url": "https://live.staticflickr.com/65535/52870750772_6774b6b767_b.jpg",
+    "preview": "https://live.staticflickr.com/65535/52870750772_6774b6b767_z.jpg",
+    "size": [
+     768,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Aaron Volkening on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Aaron Volkening",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/87297882@N03",
+    "via": "openverse",
+    "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "WFC": {
   "name": "Wells Fargo",
@@ -137828,10 +138637,10 @@
    "WMB"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "WSM": {
   "name": "Williams-Sonoma, Inc.",

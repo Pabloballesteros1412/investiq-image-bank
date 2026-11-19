@@ -186,6 +186,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Albemarle Corporation Lithium Operation at Silver Peak: formulanone, CC BY-SA 2.0, via Wikimedia Commons. [Albemarle Corporation Lithium Operation at Silver Peak (49810666528).jpg](https://commons.wikimedia.org/wiki/File:Albemarle_Corporation_Lithium_Operation_at_Silver_Peak_(49810666528).jpg)
 - Albemarle Corporation Lithium Operation at Silver Peak: Photo by formulanone on Flickr, CC BY-SA 2.0. [49810666528](https://www.flickr.com/photos/30552029@N00/49810666528)
 
+## Alexandria Real Estate Equities (ARE)
+
+- Alexandria Center · architecture, building, manhattan, newyorkcity, nyc: Photo by edenpictures on Flickr, CC BY 2.0. [35850446053](https://www.flickr.com/photos/10485077@N06/35850446053)
+
 ## Alibaba (BABA)
 
 - Alibaba's headquarters building is seen in the photo: Photo by Ban Daisy on Unsplash. [9fkwZsAqqQE](https://unsplash.com/photos/alibabas-headquarters-building-is-seen-in-the-photo-9fkwZsAqqQE?utm_source=investiq_image_bank&utm_medium=referral)
@@ -336,10 +340,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Ameren (AEE)
 
+- Ameren passing Arts Center: Photo by pasa47 on Flickr, CC BY 2.0. [9306109282](https://www.flickr.com/photos/53301297@N00/9306109282)
 - TaumSaukReservoir underconstruction: KTrimble at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [TaumSaukReservoir underconstruction.jpg](https://commons.wikimedia.org/wiki/File:TaumSaukReservoir_underconstruction.jpg)
 - UserKTrimble-AP Taum Sauk Reservoir UnderConstruction Nov 22 2009 crop1: KTrimble, CC BY-SA 3.0, via Wikimedia Commons. [UserKTrimble-AP Taum Sauk Reservoir UnderConstruction Nov 22 2009 crop1.jpg](https://commons.wikimedia.org/wiki/File:UserKTrimble-AP_Taum_Sauk_Reservoir_UnderConstruction_Nov_22_2009_crop1.jpg)
 - Ameren Portage De Sioux Plant: Photo by pasa47 on Flickr, CC BY 2.0. [24107569613](https://www.flickr.com/photos/53301297@N00/24107569613)
 - Ameren Smokestack: Photo by Wildreturn on Flickr, CC BY 2.0. [32131755587](https://www.flickr.com/photos/80270393@N06/32131755587)
+- Ameren Worker · 2013, 20130817, august, city, cityofstlouis: Photo by pasa47 on Flickr, CC BY 2.0. [9534036366](https://www.flickr.com/photos/53301297@N00/9534036366)
 
 ## American Electric Power (AEP)
 
@@ -926,6 +932,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Bunge terminal, Quebec City (downtown, Quebec province, Canada 03): Wilfredor, CC0, via Wikimedia Commons. [Bunge terminal, Quebec City (downtown, Quebec province, Canada 03).jpg](https://commons.wikimedia.org/wiki/File:Bunge_terminal,_Quebec_City_(downtown,_Quebec_province,_Canada_03).jpg)
 - SDD 3378 Yokosuka: S. DÉNIEL, CC BY-SA 4.0, via Wikimedia Commons. [SDD 3378 Yokosuka.jpg](https://commons.wikimedia.org/wiki/File:SDD_3378_Yokosuka.jpg)
 
+## BXP, Inc. (BXP)
+
+- Embarcadero Center, San Francisco, California: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [10753979296](https://www.flickr.com/photos/75683070@N00/10753979296)
+- Spirals at Embarcadero Center: Photo by nan palmero on Flickr, CC BY 2.0. [14044477669](https://www.flickr.com/photos/97402086@N00/14044477669)
+- Embarcadero Center, San Francisco, California: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [10754146785](https://www.flickr.com/photos/75683070@N00/10754146785)
+- embarcadero center ferry building coit tower: Photo by Pavel Vanegas on Flickr, CC BY-SA 2.0. [6480604147](https://www.flickr.com/photos/39264549@N08/6480604147)
+
 ## C.H. Robinson (CHRW)
 
 - C.H. Robinson HQ entrance: MarkTraceur, CC BY-SA 4.0, via Wikimedia Commons. [C.H. Robinson HQ entrance.JPG](https://commons.wikimedia.org/wiki/File:C.H._Robinson_HQ_entrance.JPG)
@@ -1092,12 +1105,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Centene Corporation (CNC)
 
+- Centene in Clayton · stlouisdecember: Photo by pasa47 on Flickr, CC BY 2.0. [6556764631](https://www.flickr.com/photos/53301297@N00/6556764631)
 - Centene Headquarters from the NE, Clayton, MO: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Centene Headquarters from the NE, Clayton, MO.jpg](https://commons.wikimedia.org/wiki/File:Centene_Headquarters_from_the_NE,_Clayton,_MO.jpg)
 - Centene Centre and The Plaza in Clayton, Downtown Clayton: Paul Sableman, CC BY 2.0, via Wikimedia Commons. [Centene Centre and The Plaza in Clayton, Downtown Clayton.jpg](https://commons.wikimedia.org/wiki/File:Centene_Centre_and_The_Plaza_in_Clayton,_Downtown_Clayton.jpg)
 - Centene Plaza · clayton, missouri, unitedstates: Photo by pasa47 on Flickr, CC BY 2.0. [20671580245](https://www.flickr.com/photos/53301297@N00/20671580245)
 - The Centene Building looks Fake to me: Photo by pasa47 on Flickr, CC BY 2.0. [4692670204](https://www.flickr.com/photos/53301297@N00/4692670204)
 - Centene Building In Clayton: Photo by pasa47 on Flickr, CC BY 2.0. [7891682660](https://www.flickr.com/photos/53301297@N00/7891682660)
 - Centene Plaza · clayton, missouri, unitedstates, architecture, building: Photo by pasa47 on Flickr, CC BY 2.0. [20484301430](https://www.flickr.com/photos/53301297@N00/20484301430)
+- Centene Plaza · clayton, missouri, unitedstates: Photo by pasa47 on Flickr, CC BY 2.0. [20678341871](https://www.flickr.com/photos/53301297@N00/20678341871)
+- Centene Plaza · missouri, saintlouis, unitedstates: Photo by pasa47 on Flickr, CC BY 2.0. [20048487274](https://www.flickr.com/photos/53301297@N00/20048487274)
 
 ## CenterPoint Energy (CNP)
 
@@ -2023,6 +2039,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Federal Realty Investment Trust (FRT)
 
 - Federal Realty HQ roofline North Bethesda MD 19-07-32: G. Edward Johnson, public domain, via Wikimedia Commons. [Federal Realty HQ roofline North Bethesda MD 2024-05-24 19-07-32.jpg](https://commons.wikimedia.org/wiki/File:Federal_Realty_HQ_roofline_North_Bethesda_MD_2024-05-24_19-07-32.jpg)
+- Santana Row - San Jose, CA: Photo by neighborhoods.org on Flickr, CC BY-SA 2.0. [2216822280](https://www.flickr.com/photos/11190696@N02/2216822280)
+- 2011-09 San Jose 028, Santana Row: Photo by Allie_Caulfield on Flickr, CC BY 2.0. [6161018233](https://www.flickr.com/photos/28577026@N02/6161018233)
+- 20050321 39 Santana Row, San Jose, CA-2: Photo by davidwilson1949 on Flickr, CC BY 2.0. [9728869864](https://www.flickr.com/photos/32693718@N07/9728869864)
+- Childs play, patterns of striped umbrella, squares, people, Santana Row, San Jose, California, USA: Photo by Wonderlane on Flickr, CC BY 2.0. [8922451600](https://www.flickr.com/photos/71401718@N00/8922451600)
+- Kicking back Silicon Valley style, rooftop lounge, umbrella, gas heater, fireplace, benches, women chatting, Cielo, Hotel Valencia, Santana Row, San Jose, California, USA: Photo by Wonderlane on Flickr, CC BY 2.0. [8809039446](https://www.flickr.com/photos/71401718@N00/8809039446)
+- 20050321 41 Santana Row, San Jose, California: Photo by davidwilson1949 on Flickr, CC BY 2.0. [9725640219](https://www.flickr.com/photos/32693718@N07/9725640219)
+- Santana Row · 2012, california, sanjose, santanarow: Photo by neighborhoods.org on Flickr, CC BY-SA 2.0. [14152797343](https://www.flickr.com/photos/11190696@N02/14152797343)
+- Santana Row · 2012, california, sanjose, santanarow: Photo by neighborhoods.org on Flickr, CC BY-SA 2.0. [14129397101](https://www.flickr.com/photos/11190696@N02/14129397101)
+- Santana Row · jose, row, san, santana: Photo by four years on Flickr, CC BY 2.0. [4291121581](https://www.flickr.com/photos/44572286@N06/4291121581)
 
 ## FedEx (FDX)
 
@@ -2977,6 +3002,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Artillery Signal Support for Cobra Gold 2025: U.S. Army photo by Sgt. Sean McCallon, public domain, via Wikimedia Commons. [Artillery Signal Support for Cobra Gold 2025 (8888764).jpg](https://commons.wikimedia.org/wiki/File:Artillery_Signal_Support_for_Cobra_Gold_2025_(8888764).jpg)
 - 2BCT L3Harris ENVG-B Training, Mar. 8, 2022: Photo by Fort Drum & 10th Mountain Division (LI) on Flickr, Public Domain Mark. [51928765933](https://www.flickr.com/photos/62309569@N03/51928765933)
 - 2BCT L3Harris ENVG-B Training, Mar. 8, 2022: Photo by Fort Drum & 10th Mountain Division (LI) on Flickr, Public Domain Mark. [51928678021](https://www.flickr.com/photos/62309569@N03/51928678021)
+- 2BCT L3Harris ENVG-B Training, Mar. 8, 2022: Photo by Fort Drum & 10th Mountain Division (LI) on Flickr, Public Domain Mark. [51929304845](https://www.flickr.com/photos/62309569@N03/51929304845)
 
 ## Lam Research (LRCX)
 
@@ -3432,6 +3458,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Microchip 18f24310 mcmaster mz mit20x2: John McMaster, CC BY 4.0, via Wikimedia Commons. [Microchip 18f24310 mcmaster mz mit20x2.jpg](https://commons.wikimedia.org/wiki/File:Microchip_18f24310_mcmaster_mz_mit20x2.jpg)
 - Microchip ay8930 mcmaster mz mit20x: John McMaster, Digshadow, CC BY 4.0, via Wikimedia Commons. [Microchip ay8930 mcmaster mz mit20x.jpg](https://commons.wikimedia.org/wiki/File:Microchip_ay8930_mcmaster_mz_mit20x.jpg)
 - Kyocera FS-C5200DN - controller board - Microchip 24LC128-9025: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Kyocera FS-C5200DN - controller board - Microchip 24LC128-9025.jpg](https://commons.wikimedia.org/wiki/File:Kyocera_FS-C5200DN_-_controller_board_-_Microchip_24LC128-9025.jpg)
+- Atmel AVR Butterfly (#4) · avr, electronics, microcontrollers, business, computer: Photo by mrbill on Flickr, CC BY 2.0. [35437253](https://www.flickr.com/photos/41894183508@N01/35437253)
+- Atmel vendor sign · china, shenzhen: Photo by oskay on Flickr, CC BY 2.0. [3299330245](https://www.flickr.com/photos/17425845@N00/3299330245)
 
 ## Micron Technology (MU)
 
@@ -4172,6 +4200,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Ford City, Pennsylvania: Doug Kerr from Albany, NY, United States, CC BY-SA 2.0, via Wikimedia Commons. [Ford City, Pennsylvania (8482195180).jpg](https://commons.wikimedia.org/wiki/File:Ford_City,_Pennsylvania_(8482195180).jpg)
 - PPG Paints · 2015, autumn, fall, midwest, missouri: Photo by pasa47 on Flickr, CC BY 2.0. [22500308394](https://www.flickr.com/photos/53301297@N00/22500308394)
 
+## PPL Corporation (PPL)
+
+- 88b150: Looking SSW toward LG&E Mill Creek Generating Station, Louisville: Photo by Bill Alden on Flickr, CC BY-SA 2.0. [24190342154](https://www.flickr.com/photos/70020260@N04/24190342154)
+- 98k009: LG&E hydroelectric plant at McAlpine Dam: Photo by Bill Alden on Flickr, CC BY-SA 2.0. [6526229987](https://www.flickr.com/photos/70020260@N04/6526229987)
+- 88b149: Looking south toward LG&E Mill Creek Generating Station, Louisville: Photo by Bill Alden on Flickr, CC BY-SA 2.0. [24450849519](https://www.flickr.com/photos/70020260@N04/24450849519)
+- Kentucky Utilities Company Building, Broadway Street and 2nd Street, Danville, KY: Photo by w_lemay on Flickr, CC BY-SA 2.0. [51985303843](https://www.flickr.com/photos/59081381@N03/51985303843)
+- Kentucky Utilities Building, Cumberland Avenue and 22nd Street, Middlesboro, KY: Photo by w_lemay on Flickr, CC BY-SA 2.0. [53662607799](https://www.flickr.com/photos/59081381@N03/53662607799)
+
 ## Principal Financial Group (PFG)
 
 - Principal Financial Group Corporate One: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [Principal Financial Group Corporate One.jpg](https://commons.wikimedia.org/wiki/File:Principal_Financial_Group_Corporate_One.jpg)
@@ -4681,6 +4717,17 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Red and blue labeled box: Photo by Brett Jordan on Unsplash. [EoqmTK8QZjM](https://unsplash.com/photos/red-and-blue-labeled-box-EoqmTK8QZjM?utm_source=investiq_image_bank&utm_medium=referral)
 
+## Southern Company (SO)
+
+- Historic Alabama Power Company sign, Attalla, Alabama: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010640595](https://www.loc.gov/item/2010640595/)
+- Details from the Alabama Power Company building, Birmingham, Alabama: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010636961](https://www.loc.gov/item/2010636961/)
+- Georgia Power Sign On Transformer Station: Photo by kenteegardin on Flickr, CC BY-SA 2.0. [5455824671](https://www.flickr.com/photos/26373139@N08/5455824671)
+- Georgia Power Tramsformer Station: Photo by kenteegardin on Flickr, CC BY-SA 2.0. [5455825063](https://www.flickr.com/photos/26373139@N08/5455825063)
+- Georgia Power for the Assist: Photo by AuthenticEccentric on Flickr, CC BY-SA 2.0. [6100172305](https://www.flickr.com/photos/71645600@N00/6100172305)
+- Georgia Power plant · brunswick, flight, georgia, jekyll, plane: Photo by lns1122 on Flickr, CC BY 2.0. [27027207127](https://www.flickr.com/photos/57903762@N00/27027207127)
+- Georgia Power crew #2 · outdoors, vehicle: Photo by izik on Flickr, CC BY 2.0. [7518224024](https://www.flickr.com/photos/48889038283@N01/7518224024)
+- Georgia Power Savannah Squircle (30): Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0. [26435730926](https://www.flickr.com/photos/46102325@N06/26435730926)
+
 ## Southwest Airlines (LUV)
 
 - Bob Jordan, Southwest Airlines CEO (per Wikidata): DHSgov, public domain, via Wikimedia Commons. [Bob Jordan in 2025 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Bob_Jordan_in_2025_(cropped).jpg)
@@ -4790,6 +4837,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - State Street Banque: User:Fust, public domain, via Wikimedia Commons. [State Street Banque.jpg](https://commons.wikimedia.org/wiki/File:State_Street_Banque.jpg)
 - 78 Sir John Rogerson's Quay, Dublin 2 1: DXR, CC BY-SA 4.0, via Wikimedia Commons. [78 Sir John Rogerson's Quay, Dublin 2 20150807 1.jpg](https://commons.wikimedia.org/wiki/File:78_Sir_John_Rogerson%27s_Quay,_Dublin_2_20150807_1.jpg)
 - State Street (fcm): Photograph: Frank C. Müller , Baden-Baden, CC BY-SA 4.0, via Wikimedia Commons. [State Street (fcm).jpg](https://commons.wikimedia.org/wiki/File:State_Street_(fcm).jpg)
+- State Street Bank München: Photo by laurahoffmann51 on Flickr, CC BY 2.0. [26546054305](https://www.flickr.com/photos/141574550@N03/26546054305)
 
 ## Strategy (MicroStrategy) (MSTR)
 
@@ -5286,7 +5334,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Vici Properties (VICI)
 
+- Caesars Palace, Las Vegas, Nevada: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010630597](https://www.loc.gov/item/2010630597/)
+- An aerial view of a city with a lot of tall buildings: Photo by Flavio Waser on Unsplash. [oYVncqEpwOo](https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-lot-of-tall-buildings-oYVncqEpwOo?utm_source=investiq_image_bank&utm_medium=referral)
+- A tall building with columns: Photo by Paul Cariou on Unsplash. [NBSBsOfmE2U](https://unsplash.com/photos/a-tall-building-with-columns-NBSBsOfmE2U?utm_source=investiq_image_bank&utm_medium=referral)
+- The golden facade of the mandalay bay resort: Photo by Zoshua Colah on Unsplash. [13p7rysRRiw](https://unsplash.com/photos/the-golden-facade-of-the-mandalay-bay-resort-13p7rysRRiw?utm_source=investiq_image_bank&utm_medium=referral)
+- A very tall building with a very tall entrance: Photo by Joerg Breuer on Unsplash. [gDQeTwVU2hc](https://unsplash.com/photos/a-very-tall-building-with-a-very-tall-entrance-gDQeTwVU2hc?utm_source=investiq_image_bank&utm_medium=referral)
+- Caesars Palace Fountains, Las Vegas, Nevada: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [3355665888](https://www.flickr.com/photos/75683070@N00/3355665888)
+- Caesars Palace Las Vegas.: Photo by Bernard Spragg on Flickr, CC0. [39229935724](https://www.flickr.com/photos/88123769@N02/39229935724)
 - Caesars Palace Las Vegas: Jeremy Thompson, CC BY 2.0, via Wikimedia Commons. [Caesars Palace Las Vegas.jpg](https://commons.wikimedia.org/wiki/File:Caesars_Palace_Las_Vegas.jpg)
+- Fountains at Caesars Palace: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [3354866055](https://www.flickr.com/photos/75683070@N00/3354866055)
+- Caesars Palace from Bellagio, Las Vegas, Nevada: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [3354841859](https://www.flickr.com/photos/75683070@N00/3354841859)
 
 ## Visa Inc. (V)
 
@@ -5421,6 +5478,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Presque Isle Power Plant: Rklawton, CC BY-SA 4.0, via Wikimedia Commons. [Presque Isle Power Plant.jpg](https://commons.wikimedia.org/wiki/File:Presque_Isle_Power_Plant.jpg)
 - Milwaukee July 2023 004 (Public Service Building): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Milwaukee July 2023 004 (Public Service Building).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee_July_2023_004_(Public_Service_Building).jpg)
 - Public Service Building Milwaukee Wisconsin: Royalbroil, CC BY-SA 3.0, via Wikimedia Commons. [Public Service Building Milwaukee Wisconsin.jpg](https://commons.wikimedia.org/wiki/File:Public_Service_Building_Milwaukee_Wisconsin.jpg)
+- We Energies transmission line tower, former TMER&L right-of-way: Photo by Aaron Volkening on Flickr, CC BY 2.0. [52870750772](https://www.flickr.com/photos/87297882@N03/52870750772)
 
 ## Wells Fargo (WFC)
 
