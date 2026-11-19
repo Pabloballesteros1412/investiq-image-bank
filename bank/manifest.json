@@ -196527,36 +196527,36 @@
     "track_pending": true
    },
    {
-    "shot": "automated-warehouse",
-    "shows": "Telford's Warehouse - geograph.org.uk",
-    "file": "File:Telford's Warehouse - geograph.org.uk - 4537663.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg/1920px-Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg/500px-Telford%27s_Warehouse_-_geograph.org.uk_-_4537663.jpg",
+    "shot": "autonomous-robot",
+    "shows": "Autonomous patrol robot in Singapore",
+    "file": "File:Autonomous patrol robot in Singapore.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Autonomous_patrol_robot_in_Singapore.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/1280px-Autonomous_patrol_robot_in_Singapore.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Autonomous_patrol_robot_in_Singapore.jpg/500px-Autonomous_patrol_robot_in_Singapore.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Michael Dibb, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Michael Dibb",
-    "year": 2015,
+    "credit": "Felix Běhavý, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Felix Běhavý",
+    "year": 2025,
     "how": "catalog"
    }
   ],
   "missing": [
-   "surgical-robot",
-   "automation",
+   "robot-kit",
    "machine",
    "factory",
    "android",
    "assembly-line",
+   "automated-warehouse",
    "robotic-arm",
    "robot-hand",
    "factory-robot",
@@ -196568,9 +196568,11 @@
    "assembly-robot",
    "conveyor-belt",
    "automated-factory",
-   "servo-motor"
+   "servo-motor",
+   "pick-and-place",
+   "robot-gripper"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "cybersecurity": {
   "name": "Cybersecurity",
@@ -197847,36 +197849,33 @@
     "how": "catalog"
    },
    {
-    "shot": "face-id",
-    "shows": "Boy Face from Venezuela",
-    "file": "File:Boy Face from Venezuela.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Boy_Face_from_Venezuela.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/1920px-Boy_Face_from_Venezuela.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Boy_Face_from_Venezuela.jpg/500px-Boy_Face_from_Venezuela.jpg",
+    "shot": "password-manager",
+    "shows": "Dashlane desktop",
+    "file": "File:Dashlane desktop.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Dashlane_desktop.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Dashlane_desktop.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dashlane_desktop.png/500px-Dashlane_desktop.png",
     "size": [
      1920,
-     1542
+     1016
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Wilfredor, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wilfredor",
-    "year": 2012,
-    "how": "catalog",
-    "flags": [
-     "restrictions: personality"
-    ]
+    "credit": "Aadenje, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Aadenje",
+    "year": 2020,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "dark-room-laptop",
-   "phishing",
-   "malware",
+   "padlock-keyboard",
+   "hacker-hoodie",
+   "access-control",
    "yubikey",
    "security-door",
    "code-screen",
@@ -197895,7 +197894,7 @@
    "router",
    "shredded-paper"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "india": {
   "name": "India economy",
@@ -200473,14 +200472,14 @@
    },
    {
     "shot": "tokyo-stock-exchange",
-    "shows": "Bonds at Tokyo Stock Exchange",
-    "file": "File:Bonds at Tokyo Stock Exchange (97326).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bonds_at_Tokyo_Stock_Exchange_(97326).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bonds_at_Tokyo_Stock_Exchange_%2897326%29.jpg/1920px-Bonds_at_Tokyo_Stock_Exchange_%2897326%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bonds_at_Tokyo_Stock_Exchange_%2897326%29.jpg/500px-Bonds_at_Tokyo_Stock_Exchange_%2897326%29.jpg",
+    "shows": "Artefacts at Tokyo Stock Exchange",
+    "file": "File:Artefacts at Tokyo Stock Exchange (44027).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Artefacts_at_Tokyo_Stock_Exchange_(44027).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Artefacts_at_Tokyo_Stock_Exchange_%2844027%29.jpg/1280px-Artefacts_at_Tokyo_Stock_Exchange_%2844027%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Artefacts_at_Tokyo_Stock_Exchange_%2844027%29.jpg/500px-Artefacts_at_Tokyo_Stock_Exchange_%2844027%29.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1707
     ],
     "focus": [
      0.5,
@@ -200496,11 +200495,11 @@
    },
    {
     "shot": "japanese-factory",
-    "shows": "Ford Model A (Japan made), 1929",
-    "file": "File:Ford Model A (Japan made), 1929 (7864504756).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ford_Model_A_(Japan_made),_1929_(7864504756).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ford_Model_A_%28Japan_made%29%2C_1929_%287864504756%29.jpg/1920px-Ford_Model_A_%28Japan_made%29%2C_1929_%287864504756%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ford_Model_A_%28Japan_made%29%2C_1929_%287864504756%29.jpg/500px-Ford_Model_A_%28Japan_made%29%2C_1929_%287864504756%29.jpg",
+    "shows": "Japanese factory",
+    "file": "File:AkaikeTown2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:AkaikeTown2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/AkaikeTown2.jpg/1920px-AkaikeTown2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/AkaikeTown2.jpg/500px-AkaikeTown2.jpg",
     "size": [
      1920,
      1440
@@ -200509,12 +200508,12 @@
      0.5,
      0.5
     ],
-    "credit": "Iwao from Tokyo, Japan, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Iwao from Tokyo, Japan",
-    "year": 2012,
+    "credit": "Nryate, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Nryate",
+    "year": 2019,
     "how": "catalog"
    }
   ],
@@ -200542,9 +200541,13 @@
    "hokkaido",
    "harajuku",
    "nara",
-   "hiroshima"
+   "hiroshima",
+   "kyoto-street",
+   "yokohama-port",
+   "tokyo-metro",
+   "nikko"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "metals": {
   "name": "Industrial metals & mining",
@@ -203125,25 +203128,25 @@
    },
    {
     "shot": "tourists-times-square",
-    "shows": "They Had Already Lost and Gone Home, 42nd Street, Times Square",
-    "file": "File:They Had Already Lost and Gone Home, 42nd Street, Times Square (7237734560).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:They_Had_Already_Lost_and_Gone_Home,_42nd_Street,_Times_Square_(7237734560).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/They_Had_Already_Lost_and_Gone_Home%2C_42nd_Street%2C_Times_Square_%287237734560%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/They_Had_Already_Lost_and_Gone_Home%2C_42nd_Street%2C_Times_Square_%287237734560%29.jpg/500px-They_Had_Already_Lost_and_Gone_Home%2C_42nd_Street%2C_Times_Square_%287237734560%29.jpg",
+    "shows": "Basic Tourist",
+    "file": "File:Basic Tourist (8414955577).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Basic_Tourist_(8414955577).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Basic_Tourist_%288414955577%29.jpg/1280px-Basic_Tourist_%288414955577%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Basic_Tourist_%288414955577%29.jpg/500px-Basic_Tourist_%288414955577%29.jpg",
     "size": [
-     1600,
-     1200
+     1280,
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0, via Wikimedia Commons",
+    "credit": "Fernando Mafra from São Paulo, Brasil, CC BY-SA 2.0, via Wikimedia Commons",
     "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Ken Lund from Reno, Nevada, USA",
-    "year": 2012,
+    "author": "Fernando Mafra from São Paulo, Brasil",
+    "year": 2011,
     "how": "catalog"
    }
   ],
@@ -203163,9 +203166,14 @@
    "resort-pool",
    "camper-van",
    "runway",
-   "airline"
+   "airline",
+   "carry-on",
+   "travel-bag",
+   "jet-bridge",
+   "check-in-counter",
+   "airplane-seat"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "luxury": {
   "name": "Luxury goods",
@@ -204453,25 +204461,25 @@
    },
    {
     "shot": "fashion",
-    "shows": "Tokyo Fashion Week 2010",
-    "file": "File:Tokyo Fashion Week 2010.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tokyo_Fashion_Week_2010.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tokyo_Fashion_Week_2010.jpg/1920px-Tokyo_Fashion_Week_2010.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tokyo_Fashion_Week_2010.jpg/500px-Tokyo_Fashion_Week_2010.jpg",
+    "shows": "The 1972 Fashion week opened with an outstanding fashion show (FL45985710)",
+    "file": "File:The 1972 Fashion week opened with an outstanding fashion show (FL45985710).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_1972_Fashion_week_opened_with_an_outstanding_fashion_show_(FL45985710).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_1972_Fashion_week_opened_with_an_outstanding_fashion_show_%28FL45985710%29.jpg/1280px-The_1972_Fashion_week_opened_with_an_outstanding_fashion_show_%28FL45985710%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_1972_Fashion_week_opened_with_an_outstanding_fashion_show_%28FL45985710%29.jpg/500px-The_1972_Fashion_week_opened_with_an_outstanding_fashion_show_%28FL45985710%29.jpg",
     "size": [
-     1920,
-     1317
+     1280,
+     1868
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Tokyographer, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Tokyographer",
-    "year": 2010,
+    "credit": "IPPA photographer, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "IPPA photographer",
+    "year": 1972,
     "how": "catalog"
    }
   ],
@@ -204497,8 +204505,10 @@
    "pearls",
    "cufflinks",
    "fine-dining",
-   "caviar"
+   "caviar",
+   "champagne-glass",
+   "marble-interior"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  }
 }

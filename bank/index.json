@@ -11,8 +11,8 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
- "updated": "2026-11-18",
- "photos": 6334,
+ "updated": "2026-11-19",
+ "photos": 6339,
  "subjects": [
   {
    "id": "MMM",
@@ -8124,7 +8124,7 @@
    "aliases": [
     "materials"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-materials.json"
   },
@@ -8268,7 +8268,7 @@
     "chip war",
     "export controls"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/chips.json"
   },
@@ -8298,7 +8298,7 @@
     "precious metals",
     "bullion"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/gold.json"
   },
@@ -8314,7 +8314,7 @@
     "brent",
     "wti"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/oil.json"
   },
@@ -8395,7 +8395,7 @@
     "home prices",
     "homebuilders"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/housing.json"
   },
