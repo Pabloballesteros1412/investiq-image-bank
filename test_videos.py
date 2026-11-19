@@ -122,8 +122,15 @@ class Picking(unittest.TestCase):
     def test_proven_shots_are_searched_first_and_searching_stops_when_enough(self):
         src = FakeSource(self.hits)
         photos = {"photos": [{"file": "unsplash:x", "provider": "unsplash", "shot": "gold-mine"}]}
-        V.subject_videos(self.s, [src], target=1, photo_entry=photos, log=lambda *a: None, max_searches=1)
+        V.subject_videos(dict(self.s, video_shots=[]), [src], target=1, photo_entry=photos, log=lambda *a: None,
+                         max_searches=1)
         self.assertEqual(src.queries, ["gold mine"])
+
+    def test_video_only_searches_go_first_without_repeats(self):
+        s = dict(self.s, video_shots=["gold mine", "gold nugget"])
+        order = [sh["q"] for sh in V.shot_order(s)]
+        self.assertEqual(order, ["gold mine", "gold nugget", "gold bars", "gold coins"])
+        self.assertEqual(V.shot_order(self.s)[0]["q"], V.VIDEO_SHOTS["gold"][0])   # from the table when not given
 
     def test_build_index_and_review_gate(self):
         with tempfile.TemporaryDirectory() as d:
