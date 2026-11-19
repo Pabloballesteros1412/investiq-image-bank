@@ -47165,7 +47165,62 @@
   ],
   "aliases": [],
   "sector": "sector-energy",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "EQT Plaza, Liberty Avenue, Pittsburgh, PA",
+    "file": "flickr:53605984182",
+    "page": "https://www.flickr.com/photos/59081381@N03/53605984182",
+    "url": "https://live.staticflickr.com/65535/53605984182_1b32b25d5b_b.jpg",
+    "preview": "https://live.staticflickr.com/65535/53605984182_1b32b25d5b_z.jpg",
+    "size": [
+     768,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "w_lemay",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/59081381@N03",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "EQT Plaza, Liberty Avenue, 2015-04-23",
+    "file": "flickr:17073111999",
+    "page": "https://www.flickr.com/photos/62947588@N06/17073111999",
+    "url": "https://live.staticflickr.com/7646/17073111999_e4fb72e0b7_b.jpg",
+    "preview": "https://live.staticflickr.com/7646/17073111999_e4fb72e0b7_z.jpg",
+    "size": [
+     370,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dr. Boli on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Dr. Boli",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/62947588@N06",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
   "checked": "2026-11-04",
   "target": 10
  },
@@ -58431,7 +58486,89 @@
   ],
   "aliases": [],
   "sector": "sector-financials",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Muscogee / Fieldcrest Mill - TSYS Campus and Mott House",
+    "file": "flickr:5302708163",
+    "page": "https://www.flickr.com/photos/42167888@N08/5302708163",
+    "url": "https://live.staticflickr.com/5087/5302708163_bcff745fe9_b.jpg",
+    "preview": "https://live.staticflickr.com/5087/5302708163_bcff745fe9_z.jpg",
+    "size": [
+     1024,
+     683
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Keith Milligan on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Keith Milligan",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/42167888@N08",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "TSYS (15)",
+    "file": "flickr:32483450468",
+    "page": "https://www.flickr.com/photos/146876746@N05/32483450468",
+    "url": "https://live.staticflickr.com/4836/32483450468_24559c3789_b.jpg",
+    "preview": "https://live.staticflickr.com/4836/32483450468_24559c3789_z.jpg",
+    "size": [
+     1024,
+     678
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tiarnán Millar on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Tiarnán Millar",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/146876746@N05",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "TSYS (12)",
+    "file": "flickr:45632376444",
+    "page": "https://www.flickr.com/photos/146876746@N05/45632376444",
+    "url": "https://live.staticflickr.com/4840/45632376444_248226358d_b.jpg",
+    "preview": "https://live.staticflickr.com/4840/45632376444_248226358d_z.jpg",
+    "size": [
+     1024,
+     678
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tiarnán Millar on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Tiarnán Millar",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/146876746@N05",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
   "checked": "2026-11-04",
   "target": 10
  },
@@ -98009,7 +98146,77 @@
   "aliases": [],
   "target": 10,
   "sector": "sector-energy",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "OxyChem, Taft Plant, Louisiana",
+    "file": "File:OxyChem, Taft Plant, Louisiana.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:OxyChem,_Taft_Plant,_Louisiana.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OxyChem%2C_Taft_Plant%2C_Louisiana.jpg/1920px-OxyChem%2C_Taft_Plant%2C_Louisiana.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OxyChem%2C_Taft_Plant%2C_Louisiana.jpg/500px-OxyChem%2C_Taft_Plant%2C_Louisiana.jpg",
+    "size": [
+     1920,
+     1281
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Chad Davis, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Chad Davis",
+    "year": 2019,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Occidental Chemical Corporation Aerial - Wichita",
+    "file": "File:Occidental Chemical Corporation Aerial - Wichita (50902494042).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Occidental_Chemical_Corporation_Aerial_-_Wichita_(50902494042).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg/1920px-Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg/500px-Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "formulanone, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "formulanone",
+    "year": 2016,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Anadarko Petroleum Corp, The Woodlands TX",
+    "file": "File:Anadarko Petroleum Corp, The Woodlands TX.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anadarko_Petroleum_Corp,_The_Woodlands_TX.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg/1920px-Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg/500px-Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Philip G Coman, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Philip G Coman",
+    "year": 2017,
+    "how": "hand-picked"
+   }
+  ],
   "checked": "2026-11-19"
  },
  "OKLO": {
@@ -134085,7 +134292,243 @@
   ],
   "aliases": [],
   "sector": "sector-industrials",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Nuancier Pantone 2 (Cut out)",
+    "file": "File:Nuancier Pantone 2 (Cut out).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nuancier_Pantone_2_(Cut_out).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nuancier_Pantone_2_%28Cut_out%29.jpg/1920px-Nuancier_Pantone_2_%28Cut_out%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nuancier_Pantone_2_%28Cut_out%29.jpg/500px-Nuancier_Pantone_2_%28Cut_out%29.jpg",
+    "size": [
+     1920,
+     1044
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen",
+    "year": 2015,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Pantone formula guide · calibration, coated, colors, formula, guide",
+    "file": "flickr:349613923",
+    "page": "https://www.flickr.com/photos/57519914@N00/349613923",
+    "url": "https://live.staticflickr.com/136/349613923_f836eb6248_b.jpg",
+    "preview": "https://live.staticflickr.com/136/349613923_f836eb6248_z.jpg",
+    "size": [
+     1024,
+     684
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by jepoirrier on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "jepoirrier",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/57519914@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Plant flowers and a X-rite ColorChecker Passport",
+    "file": "File:Plant flowers and a X-rite ColorChecker Passport.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg/1920px-Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg/500px-Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg",
+    "size": [
+     1920,
+     1282
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Yuki Hayashi from TOKYO, JAPAN, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Yuki Hayashi from TOKYO, JAPAN",
+    "year": 2014,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Dopplr in Pantone mugs · dopplr, mugs, pantone, siliconroundabout",
+    "file": "flickr:2695780190",
+    "page": "https://www.flickr.com/photos/51035707449@N01/2695780190",
+    "url": "https://live.staticflickr.com/3162/2695780190_67b17cdc58_b.jpg",
+    "preview": "https://live.staticflickr.com/3162/2695780190_67b17cdc58_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Matt Biddulph on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Matt Biddulph",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/51035707449@N01",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Pantone handbags window display",
+    "file": "flickr:416645229",
+    "page": "https://www.flickr.com/photos/84195101@N00/416645229",
+    "url": "https://live.staticflickr.com/131/416645229_24e549245e_b.jpg",
+    "preview": "https://live.staticflickr.com/131/416645229_24e549245e_z.jpg",
+    "size": [
+     768,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Frankie Roberto on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Frankie Roberto",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/84195101@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "PANTONE UNIVERSE · pantone, popular, singapore, tampines1, universe",
+    "file": "flickr:3478000391",
+    "page": "https://www.flickr.com/photos/77034082@N00/3478000391",
+    "url": "https://live.staticflickr.com/3338/3478000391_1177ebdcb9_b.jpg",
+    "preview": "https://live.staticflickr.com/3338/3478000391_1177ebdcb9_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by chinnian on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "chinnian",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/77034082@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "PANTONE UNIVERSE · pantone, popular, singapore, tampines1, universe",
+    "file": "flickr:3478002805",
+    "page": "https://www.flickr.com/photos/77034082@N00/3478002805",
+    "url": "https://live.staticflickr.com/3619/3478002805_0faf1cbeaa_b.jpg",
+    "preview": "https://live.staticflickr.com/3619/3478002805_0faf1cbeaa_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by chinnian on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "chinnian",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/77034082@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Pantone Swatches and iMac",
+    "file": "flickr:4121638437",
+    "page": "https://www.flickr.com/photos/44664865@N07/4121638437",
+    "url": "https://live.staticflickr.com/2593/4121638437_90d66af703_b.jpg",
+    "preview": "https://live.staticflickr.com/2593/4121638437_90d66af703_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrew Kelsall, Graphic Designer on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Andrew Kelsall, Graphic Designer",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/44664865@N07",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Pantone Swatch · abstract, art, blank, business, card",
+    "file": "flickr:6102521990",
+    "page": "https://www.flickr.com/photos/26752267@N00/6102521990",
+    "url": "https://live.staticflickr.com/6071/6102521990_83546084c6_b.jpg",
+    "preview": "https://live.staticflickr.com/6071/6102521990_83546084c6_z.jpg",
+    "size": [
+     1024,
+     834
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by martinhoward on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "martinhoward",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/26752267@N00",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
   "checked": "2026-11-04",
   "target": 10
  },
