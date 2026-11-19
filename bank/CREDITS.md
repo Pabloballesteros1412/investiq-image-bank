@@ -5938,6 +5938,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Soda Cans Pexels Breakingpic 3008: Breakingpic, CC0, via Wikimedia Commons. [Soda Cans Pexels Breakingpic 3008.jpg](https://commons.wikimedia.org/wiki/File:Soda_Cans_Pexels_Breakingpic_3008.jpg)
 - Torpedo molten steel carriers - British Steel Appleby-Frodingham Steel Works August 2026: kitmasterbloke, CC BY 4.0, via Wikimedia Commons. [Torpedo molten steel carriers - British Steel Appleby-Frodingham Steel Works August 2026.jpg](https://commons.wikimedia.org/wiki/File:Torpedo_molten_steel_carriers_-_British_Steel_Appleby-Frodingham_Steel_Works_August_2026.jpg)
 - Scrap metal yard: Digitura, CC0, via Wikimedia Commons. [Scrap metal yard.jpg](https://commons.wikimedia.org/wiki/File:Scrap_metal_yard.jpg)
+- Natural Copper Ore Macro 1: “Jon Zander ( Digon3 )", CC BY-SA 3.0, via Wikimedia Commons. [Natural Copper Ore Macro 1.JPG](https://commons.wikimedia.org/wiki/File:Natural_Copper_Ore_Macro_1.JPG)
 
 ## Federal Reserve & interest rates (fed)
 
@@ -6410,6 +6411,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Blue and black audio mixer: Photo by Harrison Broadbent on Unsplash. [i5z1tvRMrnE](https://unsplash.com/photos/blue-and-black-audio-mixer-i5z1tvRMrnE?utm_source=investiq_image_bank&utm_medium=referral)
 - A close up of a raspberry board on a table: Photo by Jainath Ponnala on Unsplash. [jvHymbpto1E](https://unsplash.com/photos/a-close-up-of-a-raspberry-board-on-a-table-jvHymbpto1E?utm_source=investiq_image_bank&utm_medium=referral)
 - Lithography machine at INESC MN: Misn02, CC BY-SA 4.0, via Wikimedia Commons. [Lithography machine at INESC MN.jpg](https://commons.wikimedia.org/wiki/File:Lithography_machine_at_INESC_MN.jpg)
+- 2N6282: NPN silicon Darlington power transistor; 60V; 20A; 160W; hFE min: 750; TO-3 packaging; Manufacturer: Motorola: Mister rf, CC BY-SA 4.0, via Wikimedia Commons. [2N6282 die.jpg](https://commons.wikimedia.org/wiki/File:2N6282_die.jpg)
 
 ## Bitcoin & crypto (crypto)
 
@@ -6513,6 +6515,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A three row diamond ring on a white cloth: Photo by Aniket Sharma on Unsplash. [ts3IgWvhLtU](https://unsplash.com/photos/a-three-row-diamond-ring-on-a-white-cloth-ts3IgWvhLtU?utm_source=investiq_image_bank&utm_medium=referral)
 - University National Bank building - safe deposit boxes 03: Photo by Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [University National Bank building - safe deposit boxes 03.jpg](https://commons.wikimedia.org/wiki/File:University_National_Bank_building_-_safe_deposit_boxes_03.jpg)
 - Stacks of gold coins with one coin on top: Photo by Jorge Campos on Unsplash. [VNhPJ85ccNo](https://unsplash.com/photos/stacks-of-gold-coins-with-one-coin-on-top-VNhPJ85ccNo?utm_source=investiq_image_bank&utm_medium=referral)
+- Gold floral pendant necklace on blue fabric: Photo by Zayed Ahmed Zadu on Unsplash. [AcfG37WxGnA](https://unsplash.com/photos/gold-floral-pendant-necklace-on-blue-fabric-AcfG37WxGnA?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Oil & energy (oil)
 
@@ -6564,6 +6567,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A black and white photo of an oil pump: Photo by Jacob Padilla on Unsplash. [oYcR0FIysss](https://unsplash.com/photos/a-black-and-white-photo-of-an-oil-pump-oYcR0FIysss?utm_source=investiq_image_bank&utm_medium=referral)
 - A gas station lit up at night time: Photo by Michal Hajtas on Unsplash. [j2Ao7oKJIRI](https://unsplash.com/photos/a-gas-station-lit-up-at-night-time-j2Ao7oKJIRI?utm_source=investiq_image_bank&utm_medium=referral)
 - A car is parked in between two rusty barrels: Photo by Cristian Macovei on Unsplash. [7KM7n7ipdVE](https://unsplash.com/photos/a-car-is-parked-in-between-two-rusty-barrels-7KM7n7ipdVE?utm_source=investiq_image_bank&utm_medium=referral)
+- Oil rig at sea during a dramatic sunset: Photo by Gustavo Sánchez on Unsplash. [9BOkOMB3Rug](https://unsplash.com/photos/oil-rig-at-sea-during-a-dramatic-sunset-9BOkOMB3Rug?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Tariffs & trade war (tariffs)
 
@@ -6825,6 +6829,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Aerial photography houses: Photo by Blake Wheeler on Unsplash. [zBHU08hdzhY](https://unsplash.com/photos/aerial-photography-houses-zBHU08hdzhY?utm_source=investiq_image_bank&utm_medium=referral)
 - Cul-de-sac 1: Wikideas1, CC0, via Wikimedia Commons. [Cul-de-sac 1.jpg](https://commons.wikimedia.org/wiki/File:Cul-de-sac_1.jpg)
 - A building under construction with scaffolding around it: Photo by Sandy Millar on Unsplash. [u1KG_wZTnkg](https://unsplash.com/photos/a-building-under-construction-with-scaffolding-around-it-u1KG_wZTnkg?utm_source=investiq_image_bank&utm_medium=referral)
+- Black and white roof tiles: Photo by Greg Rosenke on Unsplash. [keFTK0YykFs](https://unsplash.com/photos/black-and-white-roof-tiles-keFTK0YykFs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Earnings season (earnings)
 
