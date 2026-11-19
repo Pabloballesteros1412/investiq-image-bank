@@ -3453,6 +3453,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A laptop computer sitting on top of a bed: Photo by Thibault Penin on Unsplash. [yGcwL8jSxwU](https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-bed-yGcwL8jSxwU?utm_source=investiq_image_bank&utm_medium=referral)
 - A red netflix sign sitting on top of a desk: Photo by DCL "650" on Unsplash. [qGUnC07RMIQ](https://unsplash.com/photos/a-red-netflix-sign-sitting-on-top-of-a-desk-qGUnC07RMIQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Black and red digital watch: Photo by Sayan Ghosh on Unsplash. [V0GSXrRuBA4](https://unsplash.com/photos/black-and-red-digital-watch-V0GSXrRuBA4?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding black iphone 7: Photo by Sayan Ghosh on Unsplash. [YL12bny5HjE](https://unsplash.com/photos/person-holding-black-iphone-7-YL12bny5HjE?utm_source=investiq_image_bank&utm_medium=referral)
 - A close up of a calculator: Photo by Denny Müller on Unsplash. [P4_y5FuOeGQ](https://unsplash.com/photos/a-close-up-of-a-calculator-P4_y5FuOeGQ?utm_source=investiq_image_bank&utm_medium=referral)
 - Computer monitor showing Netflix selection screen: Photo by charlesdeluvio on Unsplash. [MDUI8XIq6Mc](https://unsplash.com/photos/computer-monitor-showing-netflix-selection-screen-MDUI8XIq6Mc?utm_source=investiq_image_bank&utm_medium=referral)
 - 101 Albright Way: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [101 Albright Way.jpg](https://commons.wikimedia.org/wiki/File:101_Albright_Way.jpg)
