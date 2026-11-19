@@ -3,5 +3,25 @@
  "kind": "topic",
  "name": "Quantum computing",
  "target": 10,
- "videos": []
+ "videos": [
+  {
+   "shows": "scientist, laboratory, biology, science, researcher, specimen, experiment, chemistry, research, testing, medical, precision, technology, clinical, investigation, equipment, examine, biological, probe,",
+   "url": "https://cdn.pixabay.com/video/2025/03/03/262188_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2025/03/03/262188_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2025/03/03/262188_medium.jpg",
+   "size": [
+    4096,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 14.0,
+   "credit": "Video by Kost9n4 on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Kost9n4-2105326/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-262188/"
+  }
+ ]
 }

@@ -422,10 +422,16 @@ Decisions (Pablo, 4 Nov 2026):
 - Pixabay searches now ask for 200 results (`per_page`, its maximum) instead of 30: with 30, a search like "electric car
   charging" held no clip whose tags name the search. A container restart cut one pass; nothing lost (the manifest is saved
   per subject, answers are cached in `.cache/stock/`).
-- **Next for videos**: video-only search words for the thin subjects (a `video_shots` list per subject read by
-  `videos.py`, so `catalog.json` stays the photos'): "cooling tower", "nuclear power plant", "electric scooter",
-  "scientist laboratory", "laser". Another source for EVs and quantum if one opens (Pexels has both, but still issues no
-  keys). Companies later. Videos never mix into `bank/index.json`.
+- **Video-only searches** (19 Nov): `VIDEO_SHOTS` in `videos.py` gives the 13 thinnest subjects 4-9 searches of their
+  own (tried on Pixabay first, kept only if they returned clips whose tags name them), searched before the catalog
+  shots; `catalog.json` stays the photos'. A subject can also carry `video_shots`. Rebuilt with `--redo --only` the 13
+  and graded by eye: 83 new picks, 14 grade 3 (cash counting, a money counter, an abandoned mall, shuttered shops, a
+  stressed man with bills, an abandoned factory, Empire State aerials, a circuit board, a server room, cooling towers,
+  a "vote today" banner, a microscope). Bank: **353 clips**. Now: ev 0, quantum 1, nuclear 3, bonds, cybersecurity and
+  gold 4, politics and robotics 5; the rest 6-10. Pixabay brought word matches again: "e-scooter" parks with tiny
+  riders, "plug" -> hemp, "charging" -> laptops, "treasure" -> skull maps and the Treasure Coast, "control room" ->
+  recording studios, "trader" -> a market seller in Lagos, "atom" -> starfields. Pixabay has little more to give for
+  these: EVs and quantum need another source (Pexels, if it issues keys again). Videos never mix into `bank/index.json`.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
