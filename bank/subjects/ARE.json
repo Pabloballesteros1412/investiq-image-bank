@@ -8,5 +8,26 @@
  "sector": "sector-real-estate",
  "target": 10,
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Alexandria Center · architecture, building, manhattan, newyorkcity, nyc",
+   "url": "https://live.staticflickr.com/4414/35850446053_a19b60cf9a_b.jpg",
+   "preview": "https://live.staticflickr.com/4414/35850446053_a19b60cf9a_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by edenpictures on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/10485077@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/10485077@N06/35850446053",
+   "plain": true
+  }
+ ]
 }

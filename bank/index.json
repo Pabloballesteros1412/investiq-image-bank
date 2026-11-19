@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-19",
- "photos": 6495,
+ "photos": 6541,
  "subjects": [
   {
    "id": "MMM",
@@ -239,7 +239,7 @@
     "ARE"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ARE.json",
    "sector": "sector-real-estate",
@@ -389,7 +389,7 @@
     "AEE"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 6,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/AEE.json",
    "sector": "sector-utilities",
@@ -1295,7 +1295,7 @@
     "BXP"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 4,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/BXP.json",
    "sector": "sector-real-estate",
@@ -1557,7 +1557,7 @@
     "CNC"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 9,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/CNC.json",
    "sector": "sector-health",
@@ -2993,11 +2993,10 @@
     "FRT"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/FRT.json",
-   "sector": "sector-real-estate",
-   "fill_from": "sector-real-estate"
+   "sector": "sector-real-estate"
   },
   {
    "id": "FDX",
@@ -4330,7 +4329,7 @@
     "LHX"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 4,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/LHX.json",
    "sector": "sector-industrials",
@@ -4834,7 +4833,7 @@
     "MCHP"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 6,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MCHP.json",
    "sector": "sector-tech",
@@ -5735,7 +5734,7 @@
     "PPL"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 5,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PPL.json",
    "sector": "sector-utilities",
@@ -6598,7 +6597,7 @@
     "SO"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 8,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SO.json",
    "sector": "sector-utilities",
@@ -6678,7 +6677,7 @@
     "STT"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 6,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/STT.json",
    "sector": "sector-financials",
@@ -7540,11 +7539,10 @@
     "VICI"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VICI.json",
-   "sector": "sector-real-estate",
-   "fill_from": "sector-real-estate"
+   "sector": "sector-real-estate"
   },
   {
    "id": "V",
@@ -7720,7 +7718,7 @@
     "WEC"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 5,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/WEC.json",
    "sector": "sector-utilities",

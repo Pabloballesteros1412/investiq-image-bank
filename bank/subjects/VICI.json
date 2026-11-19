@@ -7,8 +7,137 @@
  ],
  "sector": "sector-real-estate",
  "target": 10,
- "fill_from": "sector-real-estate",
  "photos": [
+  {
+   "shows": "Caesars Palace, Las Vegas, Nevada",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04600:04613/full/2250,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04600:04613/full/500,/0/default.jpg",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2010630597/"
+  },
+  {
+   "shows": "An aerial view of a city with a lot of tall buildings",
+   "url": "https://images.unsplash.com/photo-1730754028242-cec826618f9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1730754028242-cec826618f9c?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Flavio Waser on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@flawas?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-a-lot-of-tall-buildings-oYVncqEpwOo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A tall building with columns",
+   "url": "https://images.unsplash.com/photo-1666538455716-ee7a85f95911?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fENhZXNhcnMlMjBQYWxhY2V8ZW58MXx8fHwxNzk1MDgzMDU3fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1666538455716-ee7a85f95911?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fENhZXNhcnMlMjBQYWxhY2V8ZW58MXx8fHwxNzk1MDgzMDU3fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Paul Cariou on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@paulcariou?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-tall-building-with-columns-NBSBsOfmE2U?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The golden facade of the mandalay bay resort",
+   "url": "https://images.unsplash.com/photo-1742666081462-73521dba019f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1742666081462-73521dba019f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8TWFuZGFsYXklMjBCYXl8ZW58MXx8fHwxNzk1MDgzMTQ1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1929
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Zoshua Colah on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/the-golden-facade-of-the-mandalay-bay-resort-13p7rysRRiw?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "A very tall building with a very tall entrance",
+   "url": "https://images.unsplash.com/photo-1687889158711-a0b2e81ebe9a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fE1hbmRhbGF5JTIwQmF5fGVufDF8fHx8MTc5NTA4MzE0NXww&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+   "preview": "https://images.unsplash.com/photo-1687889158711-a0b2e81ebe9a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fE1hbmRhbGF5JTIwQmF5fGVufDF8fHx8MTc5NTA4MzE0NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Joerg Breuer on Unsplash",
+   "licence": "Unsplash License",
+   "author_url": "https://unsplash.com/@joebreuer?utm_source=investiq_image_bank&utm_medium=referral",
+   "provider": "unsplash",
+   "source": "https://unsplash.com/photos/a-very-tall-building-with-a-very-tall-entrance-gDQeTwVU2hc?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Caesars Palace Fountains, Las Vegas, Nevada",
+   "url": "https://live.staticflickr.com/3561/3355665888_30b646fb8d_b.jpg",
+   "preview": "https://live.staticflickr.com/3561/3355665888_30b646fb8d_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/3355665888",
+   "plain": true
+  },
+  {
+   "shows": "Caesars Palace Las Vegas.",
+   "url": "https://live.staticflickr.com/4664/39229935724_9b68d6a288_b.jpg",
+   "preview": "https://live.staticflickr.com/4664/39229935724_9b68d6a288_z.jpg",
+   "size": [
+    1024,
+    644
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bernard Spragg on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/88123769@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/88123769@N02/39229935724",
+   "plain": true
+  },
   {
    "shows": "Caesars Palace Las Vegas",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Caesars_Palace_Las_Vegas.jpg/1920px-Caesars_Palace_Las_Vegas.jpg",
@@ -25,6 +154,46 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Caesars_Palace_Las_Vegas.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Fountains at Caesars Palace",
+   "url": "https://live.staticflickr.com/3446/3354866055_42e7a20a8e_b.jpg",
+   "preview": "https://live.staticflickr.com/3446/3354866055_42e7a20a8e_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/3354866055",
+   "plain": true
+  },
+  {
+   "shows": "Caesars Palace from Bellagio, Las Vegas, Nevada",
+   "url": "https://live.staticflickr.com/3659/3354841859_da0ce685d2_b.jpg",
+   "preview": "https://live.staticflickr.com/3659/3354841859_da0ce685d2_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/3354841859",
    "plain": true
   }
  ]
