@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-19",
- "photos": 6364,
+ "photos": 6387,
  "subjects": [
   {
    "id": "MMM",
@@ -266,7 +266,7 @@
     "ALGN"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ALGN.json",
    "sector": "sector-health",
@@ -804,7 +804,7 @@
     "TEAM"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 7,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TEAM.json",
    "sector": "sector-tech",
@@ -3569,7 +3569,7 @@
     "HPE"
    ],
    "aliases": [],
-   "photos": 2,
+   "photos": 3,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HPE.json",
    "sector": "sector-tech",
@@ -3651,11 +3651,10 @@
     "HRL"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HRL.json",
-   "sector": "sector-staples",
-   "fill_from": "sector-staples"
+   "sector": "sector-staples"
   },
   {
    "id": "HST",
@@ -3940,11 +3939,10 @@
     "IP"
    ],
    "aliases": [],
-   "photos": 9,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/IP.json",
-   "sector": "sector-materials",
-   "fill_from": "sector-materials"
+   "sector": "sector-materials"
   },
   {
    "id": "INTU",
@@ -5005,11 +5003,10 @@
     "MSI"
    ],
    "aliases": [],
-   "photos": 7,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MSI.json",
-   "sector": "sector-tech",
-   "fill_from": "sector-tech"
+   "sector": "sector-tech"
   },
   {
    "id": "MSCI",
@@ -6467,11 +6464,10 @@
     "SKYD"
    ],
    "aliases": [],
-   "photos": 2,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/SKYD.json",
-   "sector": "sector-communication",
-   "fill_from": "sector-communication"
+   "sector": "sector-communication"
   },
   {
    "id": "SWKS",
@@ -6932,7 +6928,7 @@
     "TER"
    ],
    "aliases": [],
-   "photos": 1,
+   "photos": 3,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TER.json",
    "sector": "sector-tech",
@@ -7604,7 +7600,7 @@
     "VMC"
    ],
    "aliases": [],
-   "photos": 5,
+   "photos": 7,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VMC.json",
    "sector": "sector-materials",
@@ -7646,7 +7642,7 @@
     "GWW"
    ],
    "aliases": [],
-   "photos": 2,
+   "photos": 3,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/GWW.json",
    "sector": "sector-industrials",

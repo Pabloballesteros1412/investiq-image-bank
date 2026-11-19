@@ -18131,8 +18131,7 @@
     "how": "unsplash search: BHP",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@john_bearby_images?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/hz3BeXOHCxg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QkhQfGVufDF8fHx8MTc5NTA2ODk0NXww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/hz3BeXOHCxg/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8QkhQfGVufDF8fHx8MTc5NTA2ODk0NXww"
    },
    {
     "shot": "main",
@@ -18470,8 +18469,7 @@
     "how": "unsplash search: BioNTech",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@markusspiske?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ZGCnQJRxh4w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEJpb05UZWNofGVufDF8fHx8MTc5NTA2ODk0N3ww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/ZGCnQJRxh4w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fEJpb05UZWNofGVufDF8fHx8MTc5NTA2ODk0N3ww"
    },
    {
     "shot": "b2",
@@ -18497,8 +18495,7 @@
     "how": "unsplash search: BioNTech",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@markusspiske?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/5KTOzLhNqtM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fEJpb05UZWNofGVufDF8fHx8MTc5NTA2ODk0N3ww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/5KTOzLhNqtM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MzB8fEJpb05UZWNofGVufDF8fHx8MTc5NTA2ODk0N3ww"
    },
    {
     "shot": "main",
@@ -54412,31 +54409,9 @@
    "GEN"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "NortonLifeLock Inc HQ",
-    "file": "File:NortonLifeLock Inc HQ 111519.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NortonLifeLock_Inc_HQ_111519.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NortonLifeLock_Inc_HQ_111519.jpg/1920px-NortonLifeLock_Inc_HQ_111519.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NortonLifeLock_Inc_HQ_111519.jpg/500px-NortonLifeLock_Inc_HQ_111519.jpg",
-    "size": [
-     1920,
-     1104
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Norton LifeLock, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Norton LifeLock",
-    "year": 2019,
-    "how": "Wikidata main image"
-   },
    {
     "shot": "leader",
     "shows": "Vincent Pilette, Gen Digital CEO (per Wikidata)",
@@ -54462,28 +54437,27 @@
     "person": true
    },
    {
-    "shot": "c3",
-    "shows": "Michael A. Brown",
-    "file": "File:Michael A. Brown.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Michael_A._Brown.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Michael_A._Brown.jpg/1280px-Michael_A._Brown.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Michael_A._Brown.jpg/500px-Michael_A._Brown.jpg",
+    "shot": "main",
+    "shows": "NortonLifeLock Inc HQ",
+    "file": "File:NortonLifeLock Inc HQ 111519.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NortonLifeLock_Inc_HQ_111519.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NortonLifeLock_Inc_HQ_111519.jpg/1920px-NortonLifeLock_Inc_HQ_111519.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/NortonLifeLock_Inc_HQ_111519.jpg/500px-NortonLifeLock_Inc_HQ_111519.jpg",
     "size": [
-     1280,
-     1600
+     1920,
+     1104
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "William Pratt, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "William Pratt",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Gen Digital"
+    "credit": "Norton LifeLock, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Norton LifeLock",
+    "year": 2019,
+    "how": "Wikidata main image"
    },
    {
     "shot": "c4",
@@ -54508,106 +54482,9 @@
     "year": 2020,
     "how": "Commons category",
     "category": "Gen Digital"
-   },
-   {
-    "shot": "c5",
-    "shows": "Symantec Headquarters Mountain View",
-    "file": "File:Symantec Headquarters Mountain View.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Symantec_Headquarters_Mountain_View.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Symantec_Headquarters_Mountain_View.jpg/1920px-Symantec_Headquarters_Mountain_View.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Symantec_Headquarters_Mountain_View.jpg/500px-Symantec_Headquarters_Mountain_View.jpg",
-    "size": [
-     1920,
-     1272
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "LPS.1, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "LPS.1",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Gen Digital"
-   },
-   {
-    "shot": "c6",
-    "shows": "Symantec promotional models at Computex",
-    "file": "File:Symantec promotional models at Computex 20140606.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Symantec_promotional_models_at_Computex_20140606.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Symantec_promotional_models_at_Computex_20140606.jpg/1280px-Symantec_promotional_models_at_Computex_20140606.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Symantec_promotional_models_at_Computex_20140606.jpg/500px-Symantec_promotional_models_at_Computex_20140606.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "JΛCK VIΞW, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "JΛCK VIΞW",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Gen Digital"
-   },
-   {
-    "shot": "c7",
-    "shows": "Symantec World Headquarters",
-    "file": "File:Symantec World Headquarters 20091115.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Symantec_World_Headquarters_20091115.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Symantec_World_Headquarters_20091115.jpg/1920px-Symantec_World_Headquarters_20091115.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Symantec_World_Headquarters_20091115.jpg/500px-Symantec_World_Headquarters_20091115.jpg",
-    "size": [
-     1920,
-     1282
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kazuhisa OTSUBO, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Kazuhisa OTSUBO",
-    "year": 2009,
-    "how": "Commons category",
-    "category": "Gen Digital"
-   },
-   {
-    "shot": "c8",
-    "shows": "UnamCert2015 ohs12",
-    "file": "File:UnamCert2015 ohs12.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:UnamCert2015_ohs12.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/UnamCert2015_ohs12.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/UnamCert2015_ohs12.jpg/500px-UnamCert2015_ohs12.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "PetrohsW, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "PetrohsW",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "Gen Digital"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "GNRC": {
   "name": "Generac",
@@ -56143,6 +56020,7 @@
    "GILD"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -56167,33 +56045,6 @@
     "author": "Coolcaesar",
     "year": 2023,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Bottle of Descovy",
-    "file": "File:Bottle of Descovy.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bottle_of_Descovy.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bottle_of_Descovy.jpg/1280px-Bottle_of_Descovy.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bottle_of_Descovy.jpg/500px-Bottle_of_Descovy.jpg",
-    "size": [
-     1280,
-     1600
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "EEJCC, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "EEJCC",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Gilead Sciences",
-    "flags": [
-     "restrictions: trademarked"
-    ]
    },
    {
     "shot": "c3",
@@ -56292,30 +56143,6 @@
     "category": "Gilead Sciences"
    },
    {
-    "shot": "c7",
-    "shows": "Gregg Alton crop 2012 CHF HIV AIDS 058",
-    "file": "File:Gregg Alton crop 2012 CHF HIV AIDS 058.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gregg_Alton_crop_2012_CHF_HIV_AIDS_058.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gregg_Alton_crop_2012_CHF_HIV_AIDS_058.jpg/1280px-Gregg_Alton_crop_2012_CHF_HIV_AIDS_058.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gregg_Alton_crop_2012_CHF_HIV_AIDS_058.jpg/500px-Gregg_Alton_crop_2012_CHF_HIV_AIDS_058.jpg",
-    "size": [
-     1280,
-     1526
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Staff photographer, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Staff photographer",
-    "year": 2012,
-    "how": "Commons category",
-    "category": "Gilead Sciences"
-   },
-   {
     "shot": "hand",
     "shows": "Gilead Sciences headquarters (Foster City, CA) - 3",
     "file": "File:Gilead Sciences headquarters (Foster City, CA) - 3.jpg",
@@ -56339,8 +56166,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "GPN": {
   "name": "Global Payments",
@@ -56397,6 +56223,7 @@
    "GDDY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -56424,8 +56251,7 @@
     "category": "GoDaddy"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "GS": {
   "name": "Goldman Sachs",
@@ -57762,6 +57588,7 @@
    "HAL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [
    {
@@ -57786,54 +57613,6 @@
     "author": "0x0077BE",
     "year": 2015,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "WP Ahoi 2019, Internationales Maritimes Museum, Hamburg",
-    "file": "File:WP Ahoi 2019, Internationales Maritimes Museum, Hamburg (P1080665).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:WP_Ahoi_2019,_Internationales_Maritimes_Museum,_Hamburg_(P1080665).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/WP_Ahoi_2019%2C_Internationales_Maritimes_Museum%2C_Hamburg_%28P1080665%29.jpg/1920px-WP_Ahoi_2019%2C_Internationales_Maritimes_Museum%2C_Hamburg_%28P1080665%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/WP_Ahoi_2019%2C_Internationales_Maritimes_Museum%2C_Hamburg_%28P1080665%29.jpg/500px-WP_Ahoi_2019%2C_Internationales_Maritimes_Museum%2C_Hamburg_%28P1080665%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Matti Blume",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Halliburton"
-   },
-   {
-    "shot": "c3",
-    "shows": "«Los Simpson invaden México» - Protesta contra reforma energética de Felipe Calderón - CDMX 2008",
-    "file": "File:«Los Simpson invaden México» - Protesta contra reforma energética de Felipe Calderón - CDMX 2008.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%C2%ABLos_Simpson_invaden_M%C3%A9xico%C2%BB_-_Protesta_contra_reforma_energ%C3%A9tica_de_Felipe_Calder%C3%B3n_-_CDMX_2008.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%C2%ABLos_Simpson_invaden_M%C3%A9xico%C2%BB_-_Protesta_contra_reforma_energ%C3%A9tica_de_Felipe_Calder%C3%B3n_-_CDMX_2008.jpg/1280px-%C2%ABLos_Simpson_invaden_M%C3%A9xico%C2%BB_-_Protesta_contra_reforma_energ%C3%A9tica_de_Felipe_Calder%C3%B3n_-_CDMX_2008.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%C2%ABLos_Simpson_invaden_M%C3%A9xico%C2%BB_-_Protesta_contra_reforma_energ%C3%A9tica_de_Felipe_Calder%C3%B3n_-_CDMX_2008.jpg/500px-%C2%ABLos_Simpson_invaden_M%C3%A9xico%C2%BB_-_Protesta_contra_reforma_energ%C3%A9tica_de_Felipe_Calder%C3%B3n_-_CDMX_2008.jpg",
-    "size": [
-     1280,
-     1567
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Juan Carlos Fonseca Mata, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Juan Carlos Fonseca Mata",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Halliburton"
    },
    {
     "shot": "c4",
@@ -57955,52 +57734,6 @@
     "how": "Commons search"
    },
    {
-    "shot": "s9",
-    "shows": "Farm buildings at Halliburton - geograph.org.uk",
-    "file": "File:Farm buildings at Halliburton - geograph.org.uk - 7493307.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Farm_buildings_at_Halliburton_-_geograph.org.uk_-_7493307.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Farm_buildings_at_Halliburton_-_geograph.org.uk_-_7493307.jpg/1920px-Farm_buildings_at_Halliburton_-_geograph.org.uk_-_7493307.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Farm_buildings_at_Halliburton_-_geograph.org.uk_-_7493307.jpg/500px-Farm_buildings_at_Halliburton_-_geograph.org.uk_-_7493307.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "M J Richardson, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "M J Richardson",
-    "year": 2023,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Supply vessel Nomand Oceanic at Halliburton in Sandnessjøen",
-    "file": "File:Supply vessel Nomand Oceanic at Halliburton in Sandnessjøen (2015).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Supply_vessel_Nomand_Oceanic_at_Halliburton_in_Sandnessj%C3%B8en_(2015).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Supply_vessel_Nomand_Oceanic_at_Halliburton_in_Sandnessj%C3%B8en_%282015%29.jpg/1920px-Supply_vessel_Nomand_Oceanic_at_Halliburton_in_Sandnessj%C3%B8en_%282015%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Supply_vessel_Nomand_Oceanic_at_Halliburton_in_Sandnessj%C3%B8en_%282015%29.jpg/500px-Supply_vessel_Nomand_Oceanic_at_Halliburton_in_Sandnessj%C3%B8en_%282015%29.jpg",
-    "size": [
-     1920,
-     1200
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "JoachimKohler-HB",
-    "year": 2015,
-    "how": "Commons search"
-   },
-   {
     "shot": "hand",
     "shows": "Halliburton saftey meeting before every shift",
     "file": "File:Halliburton saftey meeting before every shift.JPG",
@@ -58070,8 +57803,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "HIG": {
   "name": "Hartford (The)",
@@ -59070,6 +58802,7 @@
    "HSIC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -59095,34 +58828,9 @@
     "year": 2023,
     "how": "Commons category",
     "category": "Henry Schein"
-   },
-   {
-    "shot": "c2",
-    "shows": "Mikrochirurgischer Nadelhalter 02",
-    "file": "File:Mikrochirurgischer Nadelhalter 02.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Mikrochirurgischer_Nadelhalter_02.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mikrochirurgischer_Nadelhalter_02.JPG/1920px-Mikrochirurgischer_Nadelhalter_02.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Mikrochirurgischer_Nadelhalter_02.JPG/500px-Mikrochirurgischer_Nadelhalter_02.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Werneuchen, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Werneuchen",
-    "year": null,
-    "how": "Commons category",
-    "category": "Henry Schein"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "HSY": {
   "name": "Hershey Company (The)",
@@ -59476,8 +59184,35 @@
    "HPE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "Brown and white concrete building under blue sky during daytime",
+    "file": "unsplash:sE01vAlblC0",
+    "page": "https://unsplash.com/photos/brown-and-white-concrete-building-under-blue-sky-during-daytime-sE01vAlblC0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1623701173792-89aeb410c1a0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8SGV3bGV0dCUyMFBhY2thcmQlMjBFbnRlcnByaXNlfGVufDF8fHx8MTc5NTA3NTQ5MXww&ixlib=rb-4.1.0&w=2387&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1623701173792-89aeb410c1a0?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8SGV3bGV0dCUyMFBhY2thcmQlMjBFbnRlcnByaXNlfGVufDF8fHx8MTc5NTA3NTQ5MXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2387,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gene Gallin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gene Gallin",
+    "year": 2021,
+    "how": "unsplash search: Hewlett Packard Enterprise",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@genefoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/sE01vAlblC0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8SGV3bGV0dCUyMFBhY2thcmQlMjBFbnRlcnByaXNlfGVufDF8fHx8MTc5NTA3NTQ5MXww"
+   },
    {
     "shot": "s1",
     "shows": "HPE headquarters",
@@ -59525,8 +59260,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "HLT": {
   "name": "Hilton Worldwide",
@@ -61307,8 +61041,87 @@
    "HRL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-staples",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "Three jars of skippy creamy peanut butter",
+    "file": "unsplash:jgiyGOUO19E",
+    "page": "https://unsplash.com/photos/three-jars-of-skippy-creamy-peanut-butter-jgiyGOUO19E?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1757801602710-6cbe6b1496b9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U2tpcHB5JTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8fHx8MTc5NTA3NTQ5Mnww&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1757801602710-6cbe6b1496b9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U2tpcHB5JTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8fHx8MTc5NTA3NTQ5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "unsplash search: Skippy peanut butter",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/jgiyGOUO19E/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U2tpcHB5JTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8fHx8MTc5NTA3NTQ5Mnww"
+   },
+   {
+    "shot": "b2",
+    "shows": "Three jars of skippy creamy peanut butter",
+    "file": "unsplash:vqCV2o0EsfI",
+    "page": "https://unsplash.com/photos/three-jars-of-skippy-creamy-peanut-butter-vqCV2o0EsfI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1757801602612-30f20d8dd243?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U2tpcHB5JTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8fHx8MTc5NTA3NTQ5Mnww&ixlib=rb-4.1.0&w=2085&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1757801602612-30f20d8dd243?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U2tpcHB5JTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8fHx8MTc5NTA3NTQ5Mnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2085,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Zoshua Colah on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Zoshua Colah",
+    "year": 2025,
+    "how": "unsplash search: Skippy peanut butter",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zoshuacolah?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/vqCV2o0EsfI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U2tpcHB5JTIwcGVhbnV0JTIwYnV0dGVyfGVufDF8fHx8MTc5NTA3NTQ5Mnww"
+   },
+   {
+    "shot": "b3",
+    "shows": "A wall of stacked spam cans",
+    "file": "unsplash:QnUCnHZrOQk",
+    "page": "https://unsplash.com/photos/a-wall-of-stacked-spam-cans-QnUCnHZrOQk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782141269072-0440b640ae02?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U3BhbSUyMGNhbnxlbnwxfHx8fDE3OTUwNzU1MjN8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782141269072-0440b640ae02?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U3BhbSUyMGNhbnxlbnwxfHx8fDE3OTUwNzU1MjN8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Diwei Zhu on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Diwei Zhu",
+    "year": 2026,
+    "how": "unsplash search: Spam can",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@chwdy?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/QnUCnHZrOQk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8U3BhbSUyMGNhbnxlbnwxfHx8fDE3OTUwNzU1MjN8MA"
+   },
    {
     "shot": "main",
     "shows": "Hormel Corporate Headquarters, Austin, Minnesota",
@@ -61381,78 +61194,6 @@
     "category": "Hormel Foods"
    },
    {
-    "shot": "c4",
-    "shows": "09 46 24 A packet of Planters Salted Cashews in Ewing Township, Mercer County, New Jersey",
-    "file": "File:2019-03-19 09 46 24 A packet of Planters Salted Cashews in Ewing Township, Mercer County, New Jersey.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2019-03-19_09_46_24_A_packet_of_Planters_Salted_Cashews_in_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2019-03-19_09_46_24_A_packet_of_Planters_Salted_Cashews_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1280px-2019-03-19_09_46_24_A_packet_of_Planters_Salted_Cashews_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/2019-03-19_09_46_24_A_packet_of_Planters_Salted_Cashews_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/500px-2019-03-19_09_46_24_A_packet_of_Planters_Salted_Cashews_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Famartin",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Planters (company)"
-   },
-   {
-    "shot": "c5",
-    "shows": "09 46 59 Planters Salted Cashews in Ewing Township, Mercer County, New Jersey",
-    "file": "File:2019-03-19 09 46 59 Planters Salted Cashews in Ewing Township, Mercer County, New Jersey.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2019-03-19_09_46_59_Planters_Salted_Cashews_in_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2019-03-19_09_46_59_Planters_Salted_Cashews_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1920px-2019-03-19_09_46_59_Planters_Salted_Cashews_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/2019-03-19_09_46_59_Planters_Salted_Cashews_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/500px-2019-03-19_09_46_59_Planters_Salted_Cashews_in_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Famartin",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Planters (company)"
-   },
-   {
-    "shot": "c6",
-    "shows": "Two SPAM mascots at the Minnesota Wild game for Mascot Day 2025",
-    "file": "File:Two SPAM mascots at the Minnesota Wild game for Mascot Day 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Two_SPAM_mascots_at_the_Minnesota_Wild_game_for_Mascot_Day_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Two_SPAM_mascots_at_the_Minnesota_Wild_game_for_Mascot_Day_2025.jpg/1920px-Two_SPAM_mascots_at_the_Minnesota_Wild_game_for_Mascot_Day_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Two_SPAM_mascots_at_the_Minnesota_Wild_game_for_Mascot_Day_2025.jpg/500px-Two_SPAM_mascots_at_the_Minnesota_Wild_game_for_Mascot_Day_2025.jpg",
-    "size": [
-     1920,
-     2179
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U193581, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "U193581",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Hormel Historic Home"
-   },
-   {
     "shot": "c7",
     "shows": "9768Spam with Real Hormel Bacon 01",
     "file": "File:9768Spam with Real Hormel Bacon 01.jpg",
@@ -61475,78 +61216,6 @@
     "year": 2017,
     "how": "Commons category",
     "category": "Spam with Real Hormel Bacon"
-   },
-   {
-    "shot": "c8",
-    "shows": "Downtown Austin MN looking south",
-    "file": "File:Downtown Austin MN looking south.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Downtown_Austin_MN_looking_south.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Downtown_Austin_MN_looking_south.jpg/1920px-Downtown_Austin_MN_looking_south.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Downtown_Austin_MN_looking_south.jpg/500px-Downtown_Austin_MN_looking_south.jpg",
-    "size": [
-     1920,
-     1277
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Darb02, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Darb02",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Hormel Foods"
-   },
-   {
-    "shot": "c9",
-    "shows": "Hormel Jellied Consomme Chicken, SPAM Museum, Austin MN",
-    "file": "File:Hormel Jellied Consomme Chicken, SPAM Museum, Austin MN (33527200593).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hormel_Jellied_Consomme_Chicken,_SPAM_Museum,_Austin_MN_(33527200593).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hormel_Jellied_Consomme_Chicken%2C_SPAM_Museum%2C_Austin_MN_%2833527200593%29.jpg/1920px-Hormel_Jellied_Consomme_Chicken%2C_SPAM_Museum%2C_Austin_MN_%2833527200593%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hormel_Jellied_Consomme_Chicken%2C_SPAM_Museum%2C_Austin_MN_%2833527200593%29.jpg/500px-Hormel_Jellied_Consomme_Chicken%2C_SPAM_Museum%2C_Austin_MN_%2833527200593%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Lorie Shaull from Washington, United States, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Lorie Shaull from Washington, United States",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "Hormel Foods"
-   },
-   {
-    "shot": "c10",
-    "shows": "Hormel Luncheon Loaf, SPAM Museum, Austin MN",
-    "file": "File:Hormel Luncheon Loaf, SPAM Museum, Austin MN (34179390752).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hormel_Luncheon_Loaf,_SPAM_Museum,_Austin_MN_(34179390752).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hormel_Luncheon_Loaf%2C_SPAM_Museum%2C_Austin_MN_%2834179390752%29.jpg/1920px-Hormel_Luncheon_Loaf%2C_SPAM_Museum%2C_Austin_MN_%2834179390752%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hormel_Luncheon_Loaf%2C_SPAM_Museum%2C_Austin_MN_%2834179390752%29.jpg/500px-Hormel_Luncheon_Loaf%2C_SPAM_Museum%2C_Austin_MN_%2834179390752%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Lorie Shaull from Washington, United States, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Lorie Shaull from Washington, United States",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "Hormel Foods"
    },
    {
     "shot": "hand",
@@ -61618,8 +61287,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "HST": {
   "name": "Host Hotels & Resorts",
@@ -62719,6 +62387,7 @@
    "HII"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -62798,8 +62467,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "IBM": {
   "name": "IBM",
@@ -63877,32 +63545,9 @@
    "ILMN"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Mikael Kubista was invited to Illumina Genomics Forum and the launch of the NovaSeq X.",
-    "file": "File:NovaSeqX.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NovaSeqX.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NovaSeqX.jpg/1920px-NovaSeqX.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NovaSeqX.jpg/500px-NovaSeqX.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mike the Chimp, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Mike the Chimp",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Illumina (company)"
-   },
    {
     "shot": "c2",
     "shows": "Illumina Hiseq 2000 sequencers, BGI Hong Kong sequencing room",
@@ -63976,30 +63621,6 @@
     "category": "Illumina (company)"
    },
    {
-    "shot": "c5",
-    "shows": "Martín Vázquez",
-    "file": "File:Martín Vázquez.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mart%C3%ADn_V%C3%A1zquez.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mart%C3%ADn_V%C3%A1zquez.jpg/1280px-Mart%C3%ADn_V%C3%A1zquez.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Mart%C3%ADn_V%C3%A1zquez.jpg/500px-Mart%C3%ADn_V%C3%A1zquez.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Diegodemendoza, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Diegodemendoza",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Illumina (company)"
-   },
-   {
     "shot": "c6",
     "shows": "Illumina Genome Analyzer II System",
     "file": "File:Illumina Genome Analyzer II System.jpg",
@@ -64048,78 +63669,6 @@
     "category": "Illumina (company)"
    },
    {
-    "shot": "c8",
-    "shows": "Illumina NextSeq flow cell",
-    "file": "File:Illumina NextSeq flow cell.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Illumina_NextSeq_flow_cell.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Illumina_NextSeq_flow_cell.jpg/1920px-Illumina_NextSeq_flow_cell.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Illumina_NextSeq_flow_cell.jpg/500px-Illumina_NextSeq_flow_cell.jpg",
-    "size": [
-     1920,
-     1115
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cirosantilli2, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Cirosantilli2",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Illumina (company)"
-   },
-   {
-    "shot": "c9",
-    "shows": "Illumina MiSeq flow cell top",
-    "file": "File:Illumina MiSeq flow cell top.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Illumina_MiSeq_flow_cell_top.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Illumina_MiSeq_flow_cell_top.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Illumina_MiSeq_flow_cell_top.jpg/500px-Illumina_MiSeq_flow_cell_top.jpg",
-    "size": [
-     1817,
-     1041
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cirosantilli2, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Cirosantilli2",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Illumina (company)"
-   },
-   {
-    "shot": "c10",
-    "shows": "Illumina NovaSeq 6000 flow cell",
-    "file": "File:Illumina NovaSeq 6000 flow cell.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Illumina_NovaSeq_6000_flow_cell.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Illumina_NovaSeq_6000_flow_cell.jpg/1920px-Illumina_NovaSeq_6000_flow_cell.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Illumina_NovaSeq_6000_flow_cell.jpg/500px-Illumina_NovaSeq_6000_flow_cell.jpg",
-    "size": [
-     1920,
-     898
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cirosantilli2, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Cirosantilli2",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Illumina (company)"
-   },
-   {
     "shot": "hand",
     "shows": "Illumina MiSeq sequencer",
     "file": "File:Illumina MiSeq sequencer.jpg",
@@ -64143,8 +63692,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "INCY": {
   "name": "Incyte",
@@ -65517,6 +65065,7 @@
    "IBKR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -65614,34 +65163,9 @@
     "year": 2014,
     "how": "Commons category",
     "category": "Interactive Brokers"
-   },
-   {
-    "shot": "c5",
-    "shows": "Taken at Interactive Brokers. I took this photo myself, on July 18, 2014, with my Nikon D90 camera.",
-    "file": "File:IBfloor.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:IBfloor.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IBfloor.JPG/1920px-IBfloor.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IBfloor.JPG/500px-IBfloor.JPG",
-    "size": [
-     1920,
-     1160
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ɱ, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ɱ",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Interactive Brokers"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ICE": {
   "name": "Intercontinental Exchange",
@@ -66226,6 +65750,7 @@
    "IP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
    {
@@ -66250,6 +65775,31 @@
     "author": "Billy Hathorn",
     "year": 2011,
     "how": "hand-picked"
+   },
+   {
+    "shot": "b1",
+    "shows": "Smoke billows from an International Paper mill in New Bern, North Carolina",
+    "file": "loc:2017881524",
+    "page": "https://www.loc.gov/item/2017881524/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:44700:44710/full/2251,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:44700:44710/full/500,/0/default.jpg",
+    "size": [
+     2251,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2017,
+    "how": "loc search: International Paper",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    },
    {
     "shot": "main",
@@ -66294,30 +65844,6 @@
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "author": "Billy Hathorn",
-    "year": 2011,
-    "how": "Commons category",
-    "category": "International Paper"
-   },
-   {
-    "shot": "c3",
-    "shows": "Fábrica da International Paper em Luiz Antônio - Construida em 1996 com capacidade de fabricar 360 mil toneladas de papel-ano - panoramio",
-    "file": "File:Fábrica da International Paper em Luiz Antônio - Construida em 1996 com capacidade de fabricar 360 mil toneladas de papel-ano - panoramio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_da_International_Paper_em_Luiz_Ant%C3%B4nio_-_Construida_em_1996_com_capacidade_de_fabricar_360_mil_toneladas_de_papel-ano_-_panoramio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/F%C3%A1brica_da_International_Paper_em_Luiz_Ant%C3%B4nio_-_Construida_em_1996_com_capacidade_de_fabricar_360_mil_toneladas_de_papel-ano_-_panoramio.jpg/1920px-F%C3%A1brica_da_International_Paper_em_Luiz_Ant%C3%B4nio_-_Construida_em_1996_com_capacidade_de_fabricar_360_mil_toneladas_de_papel-ano_-_panoramio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/F%C3%A1brica_da_International_Paper_em_Luiz_Ant%C3%B4nio_-_Construida_em_1996_com_capacidade_de_fabricar_360_mil_toneladas_de_papel-ano_-_panoramio.jpg/500px-F%C3%A1brica_da_International_Paper_em_Luiz_Ant%C3%B4nio_-_Construida_em_1996_com_capacidade_de_fabricar_360_mil_toneladas_de_papel-ano_-_panoramio.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "MARCO AURÉLIO ESPARZ…, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "MARCO AURÉLIO ESPARZ…",
     "year": 2011,
     "how": "Commons category",
     "category": "International Paper"
@@ -66395,53 +65921,6 @@
     "category": "International Paper"
    },
    {
-    "shot": "c7",
-    "shows": "International Paper-Elyo Saillat",
-    "file": "File:International Paper-Elyo Saillat.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:International_Paper-Elyo_Saillat.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/International_Paper-Elyo_Saillat.JPG/1920px-International_Paper-Elyo_Saillat.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/International_Paper-Elyo_Saillat.JPG/500px-International_Paper-Elyo_Saillat.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Babsy, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Babsy",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "International Paper"
-   },
-   {
-    "shot": "s8",
-    "shows": "International Paper global headquarters",
-    "file": "File:International Paper global headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:International_Paper_global_headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/International_Paper_global_headquarters.jpg/1920px-International_Paper_global_headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/International_Paper_global_headquarters.jpg/500px-International_Paper_global_headquarters.jpg",
-    "size": [
-     1920,
-     926
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dclemens1971, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Dclemens1971",
-    "year": 2025,
-    "how": "Commons search"
-   },
-   {
     "shot": "s9",
     "shows": "International Paper facility - Hillsboro, Oregon",
     "file": "File:International Paper facility - Hillsboro, Oregon.JPG",
@@ -66462,29 +65941,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
     "author": "M.O. Stevens",
     "year": 2010,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "International Paper Company Offices Corinth NY",
-    "file": "File:International Paper Company Offices Corinth NY.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:International_Paper_Company_Offices_Corinth_NY.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/International_Paper_Company_Offices_Corinth_NY.jpg/1920px-International_Paper_Company_Offices_Corinth_NY.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/International_Paper_Company_Offices_Corinth_NY.jpg/500px-International_Paper_Company_Offices_Corinth_NY.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Peter Flass, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Peter Flass",
-    "year": 2013,
     "how": "Commons search"
    },
    {
@@ -66538,8 +65994,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "INTU": {
   "name": "Intuit",
@@ -66979,6 +66434,7 @@
    "IONQ"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -67005,8 +66461,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "IQV": {
   "name": "IQVIA",
@@ -70736,6 +70191,7 @@
    "KEY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -70763,54 +70219,6 @@
     "category": "KeyBank branding"
    },
    {
-    "shot": "c2",
-    "shows": "Buffalo Canalside flooding Lake Erie April 4 2018 wind storm day 04",
-    "file": "File:Buffalo Canalside flooding Lake Erie April 4 2018 wind storm day 04.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Buffalo_Canalside_flooding_Lake_Erie_April_4_2018_wind_storm_day_04.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Buffalo_Canalside_flooding_Lake_Erie_April_4_2018_wind_storm_day_04.jpg/1920px-Buffalo_Canalside_flooding_Lake_Erie_April_4_2018_wind_storm_day_04.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Buffalo_Canalside_flooding_Lake_Erie_April_4_2018_wind_storm_day_04.jpg/500px-Buffalo_Canalside_flooding_Lake_Erie_April_4_2018_wind_storm_day_04.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "B137, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "B137",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "KeyBank Center"
-   },
-   {
-    "shot": "c3",
-    "shows": "Buffalo December 2024 22 (KeyBank Center)",
-    "file": "File:Buffalo December 2024 22 (KeyBank Center).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Buffalo_December_2024_22_(KeyBank_Center).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Buffalo_December_2024_22_%28KeyBank_Center%29.jpg/1920px-Buffalo_December_2024_22_%28KeyBank_Center%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Buffalo_December_2024_22_%28KeyBank_Center%29.jpg/500px-Buffalo_December_2024_22_%28KeyBank_Center%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Michael Barera",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "KeyBank Center"
-   },
-   {
     "shot": "c4",
     "shows": "First National Bank, Sodus, New York",
     "file": "File:First National Bank, Sodus, New York - 20200611.jpg",
@@ -70831,30 +70239,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Andre Carrotflower",
     "year": 2020,
-    "how": "Commons category",
-    "category": "KeyBank branches"
-   },
-   {
-    "shot": "c5",
-    "shows": "Seattle - parklet outside Uptown Cinema 01",
-    "file": "File:Seattle - parklet outside Uptown Cinema 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Seattle_-_parklet_outside_Uptown_Cinema_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seattle_-_parklet_outside_Uptown_Cinema_01.jpg/1920px-Seattle_-_parklet_outside_Uptown_Cinema_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seattle_-_parklet_outside_Uptown_Cinema_01.jpg/500px-Seattle_-_parklet_outside_Uptown_Cinema_01.jpg",
-    "size": [
-     1920,
-     1275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Joe Mabel",
-    "year": 2018,
     "how": "Commons category",
     "category": "KeyBank branches"
    },
@@ -70999,8 +70383,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "KEYS": {
   "name": "Keysight Technologies",
@@ -71528,6 +70911,7 @@
    "KMI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [
    {
@@ -71598,78 +70982,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Infrogmation",
     "year": 2026,
-    "how": "Commons category",
-    "category": "Kinder Morgan"
-   },
-   {
-    "shot": "c4",
-    "shows": "Kinder Morgan",
-    "file": "File:Kinder Morgan (30796036034).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kinder_Morgan_(30796036034).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kinder_Morgan_%2830796036034%29.jpg/1920px-Kinder_Morgan_%2830796036034%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Kinder_Morgan_%2830796036034%29.jpg/500px-Kinder_Morgan_%2830796036034%29.jpg",
-    "size": [
-     1920,
-     1388
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Laurel L. Russwurm from Canada, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Laurel L. Russwurm from Canada",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Kinder Morgan"
-   },
-   {
-    "shot": "c5",
-    "shows": "Piles of Blue Stuff - Kinder Morgan CVG",
-    "file": "File:Piles of Blue Stuff - Kinder Morgan CVG (44053155845).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Piles_of_Blue_Stuff_-_Kinder_Morgan_CVG_(44053155845).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Piles_of_Blue_Stuff_-_Kinder_Morgan_CVG_%2844053155845%29.jpg/1920px-Piles_of_Blue_Stuff_-_Kinder_Morgan_CVG_%2844053155845%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Piles_of_Blue_Stuff_-_Kinder_Morgan_CVG_%2844053155845%29.jpg/500px-Piles_of_Blue_Stuff_-_Kinder_Morgan_CVG_%2844053155845%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "formulanone, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "formulanone",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Kinder Morgan"
-   },
-   {
-    "shot": "c6",
-    "shows": "The Carnival Band at a Rally Against the Kinder Morgan Pipeline on September 9th, 2017",
-    "file": "File:The Carnival Band at a Rally Against the Kinder Morgan Pipeline on September 9th, 2017.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Carnival_Band_at_a_Rally_Against_the_Kinder_Morgan_Pipeline_on_September_9th,_2017.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Carnival_Band_at_a_Rally_Against_the_Kinder_Morgan_Pipeline_on_September_9th%2C_2017.jpg/1920px-The_Carnival_Band_at_a_Rally_Against_the_Kinder_Morgan_Pipeline_on_September_9th%2C_2017.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/The_Carnival_Band_at_a_Rally_Against_the_Kinder_Morgan_Pipeline_on_September_9th%2C_2017.jpg/500px-The_Carnival_Band_at_a_Rally_Against_the_Kinder_Morgan_Pipeline_on_September_9th%2C_2017.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "William Chen, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "William Chen",
-    "year": 2017,
     "how": "Commons category",
     "category": "Kinder Morgan"
    },
@@ -71752,8 +71064,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "KKR": {
   "name": "KKR & Co.",
@@ -72918,6 +72229,7 @@
    "LRCX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -72943,34 +72255,9 @@
     "year": 2024,
     "how": "Commons category",
     "category": "Lam Research facilities"
-   },
-   {
-    "shot": "c2",
-    "shows": "Gebäude von Lam Research in Fremont",
-    "file": "File:Gebäude von Lam Research in Fremont.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Geb%C3%A4ude_von_Lam_Research_in_Fremont.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Geb%C3%A4ude_von_Lam_Research_in_Fremont.jpg/1920px-Geb%C3%A4ude_von_Lam_Research_in_Fremont.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Geb%C3%A4ude_von_Lam_Research_in_Fremont.jpg/500px-Geb%C3%A4ude_von_Lam_Research_in_Fremont.jpg",
-    "size": [
-     1920,
-     1200
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Olaf2, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Olaf2",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Lam Research facilities"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "LVS": {
   "name": "Las Vegas Sands",
@@ -73712,31 +72999,9 @@
    "LEN"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-consumer-discretionary",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "Lennar headquarters",
-    "file": "File:Lennar headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Lennar_headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lennar_headquarters.jpg/1920px-Lennar_headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lennar_headquarters.jpg/500px-Lennar_headquarters.jpg",
-    "size": [
-     1920,
-     1451
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Coolcaesar at English Wikipedia",
-    "year": 2008,
-    "how": "Wikidata main image"
-   },
    {
     "shot": "s2",
     "shows": "Lennar Corp San Ramon office",
@@ -73759,10 +73024,32 @@
     "author": "Coolcaesar at English Wikipedia",
     "year": 2008,
     "how": "Commons search"
+   },
+   {
+    "shot": "main",
+    "shows": "Lennar headquarters",
+    "file": "File:Lennar headquarters.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lennar_headquarters.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lennar_headquarters.jpg/1920px-Lennar_headquarters.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Lennar_headquarters.jpg/500px-Lennar_headquarters.jpg",
+    "size": [
+     1920,
+     1451
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Coolcaesar at English Wikipedia",
+    "year": 2008,
+    "how": "Wikidata main image"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "LII": {
   "name": "Lennox International",
@@ -73771,6 +73058,7 @@
    "LII"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -73795,58 +73083,9 @@
     "author": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine",
     "year": 2019,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Praha-Smíchov (GM-00-148)",
-    "file": "File:Praha-Smíchov (GM-00-148).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Praha-Sm%C3%ADchov_(GM-00-148).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Praha-Sm%C3%ADchov_%28GM-00-148%29.jpg/1920px-Praha-Sm%C3%ADchov_%28GM-00-148%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Praha-Sm%C3%ADchov_%28GM-00-148%29.jpg/500px-Praha-Sm%C3%ADchov_%28GM-00-148%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "GoogolManiac, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "GoogolManiac",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Lennox International"
-   },
-   {
-    "shot": "c3",
-    "shows": "Two Firefighters",
-    "file": "File:Two Firefighters (2495197205).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Two_Firefighters_(2495197205).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Two_Firefighters_%282495197205%29.jpg/1920px-Two_Firefighters_%282495197205%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Two_Firefighters_%282495197205%29.jpg/500px-Two_Firefighters_%282495197205%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Rennett Stowe from USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Rennett Stowe from USA",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Lennox International"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "LI": {
   "name": "Li Auto",
@@ -82120,79 +81359,9 @@
    "MRK"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "Merck office Upper Gwynedd Township Montgomery County",
-    "file": "File:Merck office Upper Gwynedd Township Montgomery County.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg/1920px-Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg/500px-Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Montgomery County Planning Commission, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Montgomery County Planning Commission",
-    "year": 2012,
-    "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "Vet Pen Kit",
-    "file": "File:Vet Pen Kit.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Vet_Pen_Kit.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vet_Pen_Kit.jpg/1280px-Vet_Pen_Kit.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vet_Pen_Kit.jpg/500px-Vet_Pen_Kit.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bricetofly, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Bricetofly",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Merck & Co., Inc."
-   },
-   {
-    "shot": "c3",
-    "shows": "Diprosalic ointment tube",
-    "file": "File:Diprosalic ointment tube.jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Diprosalic_ointment_tube.jpeg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Diprosalic_ointment_tube.jpeg/1920px-Diprosalic_ointment_tube.jpeg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Diprosalic_ointment_tube.jpeg/500px-Diprosalic_ointment_tube.jpeg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cnbrb, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Cnbrb",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Merck & Co., Inc."
-   },
    {
     "shot": "c4",
     "shows": "Merck Research Laboratories",
@@ -82216,6 +81385,29 @@
     "year": 2021,
     "how": "Commons category",
     "category": "Merck & Co., Inc."
+   },
+   {
+    "shot": "main",
+    "shows": "Merck office Upper Gwynedd Township Montgomery County",
+    "file": "File:Merck office Upper Gwynedd Township Montgomery County.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg/1920px-Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg/500px-Merck_office_Upper_Gwynedd_Township_Montgomery_County.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Montgomery County Planning Commission, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Montgomery County Planning Commission",
+    "year": 2012,
+    "how": "Wikidata main image"
    },
    {
     "shot": "c5",
@@ -82266,102 +81458,6 @@
     "category": "Merck & Co., Inc."
    },
    {
-    "shot": "c7",
-    "shows": "Concor (bisoprolol) made by Nanolek, Russia with Merck branding, Aug 2025 01",
-    "file": "File:Concor (bisoprolol) made by Nanolek, Russia with Merck branding, Aug 2025 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Concor_(bisoprolol)_made_by_Nanolek,_Russia_with_Merck_branding,_Aug_2025_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Concor_%28bisoprolol%29_made_by_Nanolek%2C_Russia_with_Merck_branding%2C_Aug_2025_01.jpg/1920px-Concor_%28bisoprolol%29_made_by_Nanolek%2C_Russia_with_Merck_branding%2C_Aug_2025_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Concor_%28bisoprolol%29_made_by_Nanolek%2C_Russia_with_Merck_branding%2C_Aug_2025_01.jpg/500px-Concor_%28bisoprolol%29_made_by_Nanolek%2C_Russia_with_Merck_branding%2C_Aug_2025_01.jpg",
-    "size": [
-     1920,
-     1613
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Retired electrician, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Retired electrician",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Merck & Co., Inc."
-   },
-   {
-    "shot": "c8",
-    "shows": "Familiengrab Merck im Jacobipark mini",
-    "file": "File:Familiengrab Merck im Jacobipark mini.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Familiengrab_Merck_im_Jacobipark_mini.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Familiengrab_Merck_im_Jacobipark_mini.jpg/1920px-Familiengrab_Merck_im_Jacobipark_mini.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Familiengrab_Merck_im_Jacobipark_mini.jpg/500px-Familiengrab_Merck_im_Jacobipark_mini.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pauli-Pirat, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Pauli-Pirat",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Familiengrab Merck"
-   },
-   {
-    "shot": "c9",
-    "shows": "Dahlia Merckii Tafel Jacobipark am Familiengrab",
-    "file": "File:Dahlia Merckii Tafel Jacobipark am Familiengrab.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dahlia_Merckii_Tafel_Jacobipark_am_Familiengrab.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dahlia_Merckii_Tafel_Jacobipark_am_Familiengrab.jpg/1920px-Dahlia_Merckii_Tafel_Jacobipark_am_Familiengrab.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dahlia_Merckii_Tafel_Jacobipark_am_Familiengrab.jpg/500px-Dahlia_Merckii_Tafel_Jacobipark_am_Familiengrab.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pauli-Pirat, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Pauli-Pirat",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Familiengrab Merck"
-   },
-   {
-    "shot": "c10",
-    "shows": "J. H. Merck - Goethe-Denkmal by Ludwig Habich in Herrngarten, Darmstadt, Germany",
-    "file": "File:J. H. Merck - Goethe-Denkmal by Ludwig Habich in Herrngarten, Darmstadt, Germany - DSC09794.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:J._H._Merck_-_Goethe-Denkmal_by_Ludwig_Habich_in_Herrngarten,_Darmstadt,_Germany_-_DSC09794.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/J._H._Merck_-_Goethe-Denkmal_by_Ludwig_Habich_in_Herrngarten%2C_Darmstadt%2C_Germany_-_DSC09794.jpg/1280px-J._H._Merck_-_Goethe-Denkmal_by_Ludwig_Habich_in_Herrngarten%2C_Darmstadt%2C_Germany_-_DSC09794.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/J._H._Merck_-_Goethe-Denkmal_by_Ludwig_Habich_in_Herrngarten%2C_Darmstadt%2C_Germany_-_DSC09794.jpg/500px-J._H._Merck_-_Goethe-Denkmal_by_Ludwig_Habich_in_Herrngarten%2C_Darmstadt%2C_Germany_-_DSC09794.jpg",
-    "size": [
-     1280,
-     1772
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daderot, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Daderot",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Johann Heinrich Merck"
-   },
-   {
     "shot": "hand",
     "shows": "HPV-vaccine- Gardasil2016JAPAN-03",
     "file": "File:HPV-vaccine- Gardasil2016JAPAN-03.jpg",
@@ -82385,8 +81481,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "META": {
   "name": "Meta Platforms",
@@ -83694,6 +82789,7 @@
    "MTD"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -83719,30 +82815,6 @@
     "year": 2018,
     "how": "Commons category",
     "category": "Mettler Toledo weighing scales"
-   },
-   {
-    "shot": "c2",
-    "shows": "Titrator Mettler DL 20 Zucker-Museum",
-    "file": "File:Titrator Mettler DL 20 Zucker-Museum.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Titrator_Mettler_DL_20_Zucker-Museum.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Titrator_Mettler_DL_20_Zucker-Museum.jpg/1280px-Titrator_Mettler_DL_20_Zucker-Museum.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Titrator_Mettler_DL_20_Zucker-Museum.jpg/500px-Titrator_Mettler_DL_20_Zucker-Museum.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo: User:FA2010, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Photo: User:FA2010",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Mettler weighing scales"
    },
    {
     "shot": "c3",
@@ -83909,8 +82981,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "MGM": {
   "name": "MGM Resorts",
@@ -86520,8 +85591,33 @@
    "MDB"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
+   {
+    "shot": "c3",
+    "shows": "MongoDB headquarters at night",
+    "file": "File:MongoDB headquarters at night.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MongoDB_headquarters_at_night.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MongoDB_headquarters_at_night.jpg/1280px-MongoDB_headquarters_at_night.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MongoDB_headquarters_at_night.jpg/500px-MongoDB_headquarters_at_night.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Grendelkhan",
+    "year": 2017,
+    "how": "Commons category",
+    "category": "MongoDB"
+   },
    {
     "shot": "main",
     "shows": "MongoDB Palo Alto Office 2",
@@ -86566,54 +85662,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "F ASTILY",
     "year": 2018,
-    "how": "Commons category",
-    "category": "MongoDB"
-   },
-   {
-    "shot": "c3",
-    "shows": "MongoDB headquarters at night",
-    "file": "File:MongoDB headquarters at night.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MongoDB_headquarters_at_night.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MongoDB_headquarters_at_night.jpg/1280px-MongoDB_headquarters_at_night.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/MongoDB_headquarters_at_night.jpg/500px-MongoDB_headquarters_at_night.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Grendelkhan, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Grendelkhan",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "MongoDB"
-   },
-   {
-    "shot": "c4",
-    "shows": "MongoDB replication-н зарчим",
-    "file": "File:MongoDB replication-н зарчим..jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg/1920px-MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg/500px-MongoDB_replication-%D0%BD_%D0%B7%D0%B0%D1%80%D1%87%D0%B8%D0%BC..jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Baagiimgl, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Baagiimgl",
-    "year": 2017,
     "how": "Commons category",
     "category": "MongoDB"
    },
@@ -86664,8 +85712,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "MPWR": {
   "name": "Monolithic Power Systems",
@@ -87120,6 +86167,7 @@
    "MCO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -87146,8 +86194,7 @@
     "how": "Wikidata main image"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "MS": {
   "name": "Morgan Stanley",
@@ -87440,6 +86487,7 @@
    "MSI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -87466,241 +86514,160 @@
     "how": "hand-picked"
    },
    {
-    "shot": "c1",
-    "shows": "07R01 IF Amplifier/Demodulator Integrated Circuit Motorola GM350 transceiver",
-    "file": "File:07R01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:07R01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/07R01.jpg/1920px-07R01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/07R01.jpg/500px-07R01.jpg",
+    "shot": "b1",
+    "shows": "Black and gray sony digital device",
+    "file": "unsplash:UD5dKdlrdZk",
+    "page": "https://unsplash.com/photos/black-and-gray-sony-digital-device-UD5dKdlrdZk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1586374579268-e08642454549?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1586374579268-e08642454549?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1241
+     1200,
+     1881
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Mister rf",
+    "credit": "Photo by Everyday basics on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Everyday basics",
     "year": 2020,
-    "how": "Commons category",
-    "category": "Motorola integrated circuits"
+    "how": "unsplash search: Motorola walkie talkie",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@zanardi?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/UD5dKdlrdZk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA"
    },
    {
-    "shot": "c2",
-    "shows": "3 digital cellular telephones for the DCS 1800 standard. From left to right: Nortel 1822, Nokia 1620, Motorola mr30",
-    "file": "File:DCS 1800.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:DCS_1800.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DCS_1800.jpg/1920px-DCS_1800.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DCS_1800.jpg/500px-DCS_1800.jpg",
+    "shot": "b2",
+    "shows": "A close up of a motorola logo on a fabric",
+    "file": "unsplash:XMMoaBJeuHY",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-motorola-logo-on-a-fabric-XMMoaBJeuHY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1716930686282-ea19761e78a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1716930686282-ea19761e78a5?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1611
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Bohdan Bazooka, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Bohdan Bazooka",
+    "credit": "Photo by Akbar Khan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Akbar Khan",
+    "year": 2024,
+    "how": "unsplash search: Motorola walkie talkie",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@akbardotkhan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/XMMoaBJeuHY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA"
+   },
+   {
+    "shot": "b3",
+    "shows": "Motorola logo on a teal square device",
+    "file": "unsplash:NAc5FzkttJQ",
+    "page": "https://unsplash.com/photos/motorola-logo-on-a-teal-square-device-NAc5FzkttJQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1767160378054-8d403ee75814?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1767160378054-8d403ee75814?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Puru Raj on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Puru Raj",
     "year": 2025,
-    "how": "Commons category",
-    "category": "Motorola"
+    "how": "unsplash search: Motorola walkie talkie",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@puru_rj?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/NAc5FzkttJQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA"
    },
    {
-    "shot": "c3",
-    "shows": "Motorola mr30, a digital cellular telephone for DCS 1800 networks. It is a variant of the Motorola Flare.",
-    "file": "File:Motorola mr30.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Motorola_mr30.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorola_mr30.jpg/1280px-Motorola_mr30.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorola_mr30.jpg/500px-Motorola_mr30.jpg",
+    "shot": "b4",
+    "shows": "Black samsung flip phone on persons hand",
+    "file": "unsplash:3xezLdRLdHw",
+    "page": "https://unsplash.com/photos/black-samsung-flip-phone-on-persons-hand-3xezLdRLdHw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1599497986334-a17a0d25b76b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1599497986334-a17a0d25b76b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1643
+     2400,
+     1486
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Bohdan Bazooka, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Bohdan Bazooka",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Motorola"
+    "credit": "Photo by Thai Nguyen on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Thai Nguyen",
+    "year": 2020,
+    "how": "unsplash search: Motorola walkie talkie",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@quangthai_itshop?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/3xezLdRLdHw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA"
    },
    {
-    "shot": "c4",
-    "shows": "Motorola PRX C451",
-    "file": "File:Motorola PRX C451 (2).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Motorola_PRX_C451_(2).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorola_PRX_C451_%282%29.jpg/1920px-Motorola_PRX_C451_%282%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Motorola_PRX_C451_%282%29.jpg/500px-Motorola_PRX_C451_%282%29.jpg",
+    "shot": "b5",
+    "shows": "A cardboard box sitting on top of a bed",
+    "file": "unsplash:8LlnnqRRL_o",
+    "page": "https://unsplash.com/photos/a-cardboard-box-sitting-on-top-of-a-bed-8LlnnqRRL_o?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1716930519546-af018a40eda6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TW90b3JvbGElMjB0d28lMjB3YXklMjByYWRpb3xlbnwxfHx8fDE3OTUwNzU2OTR8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1716930519546-af018a40eda6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TW90b3JvbGElMjB0d28lMjB3YXklMjByYWRpb3xlbnwxfHx8fDE3OTUwNzU2OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1920
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Bohdan Bazooka, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Bohdan Bazooka",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Motorola"
+    "credit": "Photo by Akbar Khan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Akbar Khan",
+    "year": 2024,
+    "how": "unsplash search: Motorola two way radio",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@akbardotkhan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/8LlnnqRRL_o/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OHx8TW90b3JvbGElMjB0d28lMjB3YXklMjByYWRpb3xlbnwxfHx8fDE3OTUwNzU2OTR8MA"
    },
    {
-    "shot": "c5",
-    "shows": "Circuits intégrés décalottés",
-    "file": "File:Circuits intégrés décalottés (51258135469).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Circuits_int%C3%A9gr%C3%A9s_d%C3%A9calott%C3%A9s_(51258135469).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Circuits_int%C3%A9gr%C3%A9s_d%C3%A9calott%C3%A9s_%2851258135469%29.jpg/1920px-Circuits_int%C3%A9gr%C3%A9s_d%C3%A9calott%C3%A9s_%2851258135469%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Circuits_int%C3%A9gr%C3%A9s_d%C3%A9calott%C3%A9s_%2851258135469%29.jpg/500px-Circuits_int%C3%A9gr%C3%A9s_d%C3%A9calott%C3%A9s_%2851258135469%29.jpg",
+    "shot": "b6",
+    "shows": "A motorola cell phone sitting on top of a blue table",
+    "file": "unsplash:nyZaMdmLRX4",
+    "page": "https://unsplash.com/photos/a-motorola-cell-phone-sitting-on-top-of-a-blue-table-nyZaMdmLRX4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1688281366628-4f63eae64395?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1688281366628-4f63eae64395?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1280
+     2400,
+     1350
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Frédéric BISSON from Rouen, France, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Frédéric BISSON from Rouen, France",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Motorola integrated circuits"
-   },
-   {
-    "shot": "c6",
-    "shows": "\"No smoking within 15 ft of entrance\" sign, courtyard, trees, lawn, curved walkways, building, Motorola Solutions, Schaumburg, Illinois, USA",
-    "file": "File:\"No smoking within 15 ft of entrance\" sign, courtyard, trees, lawn, curved walkways, building, Motorola Solutions, Schaumburg, Illinois, USA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:%22No_smoking_within_15_ft_of_entrance%22_sign,_courtyard,_trees,_lawn,_curved_walkways,_building,_Motorola_Solutions,_Schaumburg,_Illinois,_USA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%22No_smoking_within_15_ft_of_entrance%22_sign%2C_courtyard%2C_trees%2C_lawn%2C_curved_walkways%2C_building%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg/1280px-%22No_smoking_within_15_ft_of_entrance%22_sign%2C_courtyard%2C_trees%2C_lawn%2C_curved_walkways%2C_building%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/%22No_smoking_within_15_ft_of_entrance%22_sign%2C_courtyard%2C_trees%2C_lawn%2C_curved_walkways%2C_building%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg/500px-%22No_smoking_within_15_ft_of_entrance%22_sign%2C_courtyard%2C_trees%2C_lawn%2C_curved_walkways%2C_building%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "size": [
-     1280,
-     1924
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wonderlane, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wonderlane",
-    "year": 2012,
-    "how": "Commons category",
-    "category": "Motorola"
-   },
-   {
-    "shot": "c7",
-    "shows": "Circular courtyard, people talking, trees, lawn, curved walkway, building, Motorola Solutions, Schaumburg, Illinois, USA",
-    "file": "File:Circular courtyard, people talking, trees, lawn, curved walkway, building, Motorola Solutions, Schaumburg, Illinois, USA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Circular_courtyard,_people_talking,_trees,_lawn,_curved_walkway,_building,_Motorola_Solutions,_Schaumburg,_Illinois,_USA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Circular_courtyard%2C_people_talking%2C_trees%2C_lawn%2C_curved_walkway%2C_building%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg/1920px-Circular_courtyard%2C_people_talking%2C_trees%2C_lawn%2C_curved_walkway%2C_building%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Circular_courtyard%2C_people_talking%2C_trees%2C_lawn%2C_curved_walkway%2C_building%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg/500px-Circular_courtyard%2C_people_talking%2C_trees%2C_lawn%2C_curved_walkway%2C_building%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wonderlane, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wonderlane",
-    "year": 2012,
-    "how": "Commons category",
-    "category": "Motorola"
-   },
-   {
-    "shot": "s8",
-    "shows": "Expressions, using Motorola Solutions products on the walls, corporate headquarters, Schaumburg, Illinois, USA",
-    "file": "File:Expressions, using Motorola Solutions products on the walls, corporate headquarters, Schaumburg, Illinois, USA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Expressions,_using_Motorola_Solutions_products_on_the_walls,_corporate_headquarters,_Schaumburg,_Illinois,_USA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Expressions%2C_using_Motorola_Solutions_products_on_the_walls%2C_corporate_headquarters%2C_Schaumburg%2C_Illinois%2C_USA.jpg/1920px-Expressions%2C_using_Motorola_Solutions_products_on_the_walls%2C_corporate_headquarters%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Expressions%2C_using_Motorola_Solutions_products_on_the_walls%2C_corporate_headquarters%2C_Schaumburg%2C_Illinois%2C_USA.jpg/500px-Expressions%2C_using_Motorola_Solutions_products_on_the_walls%2C_corporate_headquarters%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wonderlane, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wonderlane",
-    "year": 2012,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Expressions, being prepared, using Motorola Solutions products on the walls, corporate headquarters, Schaumburg, Illinois, USA",
-    "file": "File:Expressions, being prepared, using Motorola Solutions products on the walls, corporate headquarters, Schaumburg, Illinois, USA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Expressions,_being_prepared,_using_Motorola_Solutions_products_on_the_walls,_corporate_headquarters,_Schaumburg,_Illinois,_USA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Expressions%2C_being_prepared%2C_using_Motorola_Solutions_products_on_the_walls%2C_corporate_headquarters%2C_Schaumburg%2C_Illinois%2C_USA.jpg/1920px-Expressions%2C_being_prepared%2C_using_Motorola_Solutions_products_on_the_walls%2C_corporate_headquarters%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Expressions%2C_being_prepared%2C_using_Motorola_Solutions_products_on_the_walls%2C_corporate_headquarters%2C_Schaumburg%2C_Illinois%2C_USA.jpg/500px-Expressions%2C_being_prepared%2C_using_Motorola_Solutions_products_on_the_walls%2C_corporate_headquarters%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wonderlane, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wonderlane",
-    "year": 2012,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Red Swingline Stapler - \"I Believe You Have My Stapler\" - the pass around \"Office Space\" joke in play, Motorola Solutions, Schaumburg, Illinois, USA",
-    "file": "File:Red Swingline Stapler - \"I Believe You Have My Stapler\" - the pass around \"Office Space\" joke in play, Motorola Solutions, Schaumburg, Illinois, USA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Red_Swingline_Stapler_-_%22I_Believe_You_Have_My_Stapler%22_-_the_pass_around_%22Office_Space%22_joke_in_play,_Motorola_Solutions,_Schaumburg,_Illinois,_USA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Red_Swingline_Stapler_-_%22I_Believe_You_Have_My_Stapler%22_-_the_pass_around_%22Office_Space%22_joke_in_play%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg/1280px-Red_Swingline_Stapler_-_%22I_Believe_You_Have_My_Stapler%22_-_the_pass_around_%22Office_Space%22_joke_in_play%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Red_Swingline_Stapler_-_%22I_Believe_You_Have_My_Stapler%22_-_the_pass_around_%22Office_Space%22_joke_in_play%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg/500px-Red_Swingline_Stapler_-_%22I_Believe_You_Have_My_Stapler%22_-_the_pass_around_%22Office_Space%22_joke_in_play%2C_Motorola_Solutions%2C_Schaumburg%2C_Illinois%2C_USA.jpg",
-    "size": [
-     1280,
-     1924
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wonderlane, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wonderlane",
-    "year": 2012,
-    "how": "Commons search"
+    "credit": "Photo by Daniel Romero on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Daniel Romero",
+    "year": 2023,
+    "how": "unsplash search: Motorola walkie talkie",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@rmrdnl?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/nyZaMdmLRX4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TW90b3JvbGElMjB3YWxraWUlMjB0YWxraWV8ZW58MXx8fHwxNzk1MDc1NjczfDA"
    },
    {
     "shot": "hand",
@@ -87845,8 +86812,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "MSCI": {
   "name": "MSCI",
@@ -89750,6 +88716,7 @@
    "NEE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
    {
@@ -89800,8 +88767,7 @@
     "category": "St. Lucie Nuclear Power Plant"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "NKE": {
   "name": "Nike, Inc.",
@@ -94062,32 +93028,9 @@
    "NUE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Looking into Nucor Steel Seattle entrance from SW Charlestown St. 01",
-    "file": "File:Looking into Nucor Steel Seattle entrance from SW Charlestown St. 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Looking_into_Nucor_Steel_Seattle_entrance_from_SW_Charlestown_St._01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Looking_into_Nucor_Steel_Seattle_entrance_from_SW_Charlestown_St._01.jpg/1920px-Looking_into_Nucor_Steel_Seattle_entrance_from_SW_Charlestown_St._01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Looking_into_Nucor_Steel_Seattle_entrance_from_SW_Charlestown_St._01.jpg/500px-Looking_into_Nucor_Steel_Seattle_entrance_from_SW_Charlestown_St._01.jpg",
-    "size": [
-     1920,
-     1275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Joe Mabel",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Nucor Steel Seattle"
-   },
    {
     "shot": "c2",
     "shows": "Nucor Steel Seattle from Avalon Way SW near SW Spokane St. 01",
@@ -94122,29 +93065,6 @@
     "size": [
      1920,
      1275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Joe Mabel",
-    "year": 2019,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s4",
-    "shows": "Seattle - looking from Jack Block Park across Terminal 5 to Nucor Steel",
-    "file": "File:Seattle - looking from Jack Block Park across Terminal 5 to Nucor Steel.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Seattle_-_looking_from_Jack_Block_Park_across_Terminal_5_to_Nucor_Steel.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Seattle_-_looking_from_Jack_Block_Park_across_Terminal_5_to_Nucor_Steel.jpg/1920px-Seattle_-_looking_from_Jack_Block_Park_across_Terminal_5_to_Nucor_Steel.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Seattle_-_looking_from_Jack_Block_Park_across_Terminal_5_to_Nucor_Steel.jpg/500px-Seattle_-_looking_from_Jack_Block_Park_across_Terminal_5_to_Nucor_Steel.jpg",
-    "size": [
-     1920,
-     1280
     ],
     "focus": [
      0.5,
@@ -94205,8 +93125,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "SMR": {
   "name": "NuScale Power",
@@ -94215,6 +93134,7 @@
    "SMR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -94240,53 +93160,6 @@
     "year": 2020,
     "how": "Commons category",
     "category": "NuScale Power"
-   },
-   {
-    "shot": "c2",
-    "shows": "NuScale Design Certification Application",
-    "file": "File:NuScale Design Certification Application (32122872232).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NuScale_Design_Certification_Application_(32122872232).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NuScale_Design_Certification_Application_%2832122872232%29.jpg/1920px-NuScale_Design_Certification_Application_%2832122872232%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/NuScale_Design_Certification_Application_%2832122872232%29.jpg/500px-NuScale_Design_Certification_Application_%2832122872232%29.jpg",
-    "size": [
-     1920,
-     1516
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nuclear Regulatory Commission from US, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Nuclear Regulatory Commission from US",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "NuScale Power"
-   },
-   {
-    "shot": "s3",
-    "shows": "NuScale Power Plant Design - Eyelevel",
-    "file": "File:NuScale Power Plant Design - Eyelevel.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NuScale_Power_Plant_Design_-_Eyelevel.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NuScale_Power_Plant_Design_-_Eyelevel.jpg/1920px-NuScale_Power_Plant_Design_-_Eyelevel.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/NuScale_Power_Plant_Design_-_Eyelevel.jpg/500px-NuScale_Power_Plant_Design_-_Eyelevel.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Oregon State University, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Oregon State University",
-    "year": 2020,
-    "how": "Commons search"
    },
    {
     "shot": "hand",
@@ -94316,8 +93189,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "NVDA": {
   "name": "Nvidia",
@@ -95849,6 +94721,7 @@
    "ODFL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -95923,8 +94796,7 @@
     "category": "Old Dominion Freight Line"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "OMC": {
   "name": "Omnicom Group",
@@ -98670,6 +97542,7 @@
    "PH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -98720,8 +97593,7 @@
     "category": "Parker Hannifin"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "PAYX": {
   "name": "Paychex",
@@ -98730,6 +97602,7 @@
    "PAYX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -98754,30 +97627,6 @@
     "author": "DanielPenfield",
     "year": 2010,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "RIT building - Golisano Building",
-    "file": "File:RIT building - Golisano Building.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:RIT_building_-_Golisano_Building.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RIT_building_-_Golisano_Building.jpg/1280px-RIT_building_-_Golisano_Building.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RIT_building_-_Golisano_Building.jpg/500px-RIT_building_-_Golisano_Building.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Matthew D. Wilson ( LtPowers ), CC BY-SA 2.5, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.5",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
-    "author": "Matthew D. Wilson ( LtPowers )",
-    "year": 2006,
-    "how": "Commons category",
-    "category": "Paychex, Inc."
    },
    {
     "shot": "hand",
@@ -98807,8 +97656,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "PYPL": {
   "name": "PayPal",
@@ -99217,6 +98065,7 @@
    "PNR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -99239,30 +98088,6 @@
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
     "author": "Tony Webster from Minneapolis, Minnesota, United States",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "Pentair"
-   },
-   {
-    "shot": "c2",
-    "shows": "GASAG Biogas plant in Schwedt",
-    "file": "File:GASAG Biogas plant in Schwedt (053).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:GASAG_Biogas_plant_in_Schwedt_(053).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GASAG_Biogas_plant_in_Schwedt_%28053%29.jpg/1920px-GASAG_Biogas_plant_in_Schwedt_%28053%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GASAG_Biogas_plant_in_Schwedt_%28053%29.jpg/500px-GASAG_Biogas_plant_in_Schwedt_%28053%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Vasyatka1, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Vasyatka1",
     "year": 2017,
     "how": "Commons category",
     "category": "Pentair"
@@ -99349,8 +98174,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "PEP": {
   "name": "PepsiCo",
@@ -101273,6 +100097,7 @@
    "PCG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
    {
@@ -101326,126 +100151,6 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "Glass Fire - - Sarah Stierch 06",
-    "file": "File:Glass Fire - 2021-08-01 - Sarah Stierch 06.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Glass_Fire_-_2021-08-01_-_Sarah_Stierch_06.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Glass_Fire_-_2021-08-01_-_Sarah_Stierch_06.jpg/1920px-Glass_Fire_-_2021-08-01_-_Sarah_Stierch_06.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Glass_Fire_-_2021-08-01_-_Sarah_Stierch_06.jpg/500px-Glass_Fire_-_2021-08-01_-_Sarah_Stierch_06.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Missvain",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Pacific Gas and Electric Company"
-   },
-   {
-    "shot": "c3",
-    "shows": "NRC Commissioner Annie Caputo Visits the Diablo Canyon Nuclear Power Plant",
-    "file": "File:NRC Commissioner Annie Caputo Visits the Diablo Canyon Nuclear Power Plant (52618130385).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NRC_Commissioner_Annie_Caputo_Visits_the_Diablo_Canyon_Nuclear_Power_Plant_(52618130385).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/NRC_Commissioner_Annie_Caputo_Visits_the_Diablo_Canyon_Nuclear_Power_Plant_%2852618130385%29.jpg/1920px-NRC_Commissioner_Annie_Caputo_Visits_the_Diablo_Canyon_Nuclear_Power_Plant_%2852618130385%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/NRC_Commissioner_Annie_Caputo_Visits_the_Diablo_Canyon_Nuclear_Power_Plant_%2852618130385%29.jpg/500px-NRC_Commissioner_Annie_Caputo_Visits_the_Diablo_Canyon_Nuclear_Power_Plant_%2852618130385%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nuclear Regulatory Commission from US, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Nuclear Regulatory Commission from US",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Diablo Canyon Power Plant"
-   },
-   {
-    "shot": "c4",
-    "shows": "NRC Staff meet with residents around Diablo Canyon nuclear power plant",
-    "file": "File:NRC Staff meet with residents around Diablo Canyon nuclear power plant (52884180405).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NRC_Staff_meet_with_residents_around_Diablo_Canyon_nuclear_power_plant_(52884180405).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NRC_Staff_meet_with_residents_around_Diablo_Canyon_nuclear_power_plant_%2852884180405%29.jpg/1920px-NRC_Staff_meet_with_residents_around_Diablo_Canyon_nuclear_power_plant_%2852884180405%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/NRC_Staff_meet_with_residents_around_Diablo_Canyon_nuclear_power_plant_%2852884180405%29.jpg/500px-NRC_Staff_meet_with_residents_around_Diablo_Canyon_nuclear_power_plant_%2852884180405%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nuclear Regulatory Commission from US, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Nuclear Regulatory Commission from US",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Diablo Canyon Power Plant"
-   },
-   {
-    "shot": "c5",
-    "shows": "Wetlands-and-power-substation",
-    "file": "File:Wetlands-and-power-substation.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wetlands-and-power-substation.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wetlands-and-power-substation.jpg/1920px-Wetlands-and-power-substation.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wetlands-and-power-substation.jpg/500px-Wetlands-and-power-substation.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Alfred Twu, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Alfred Twu",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Pacific Gas and Electric Company substations"
-   },
-   {
-    "shot": "c6",
-    "shows": "October 2021 California rainstorm - Sonoma - - Sarah Stierch 04",
-    "file": "File:October 2021 California rainstorm - Sonoma - 2021-10-24 - Sarah Stierch 04.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:October_2021_California_rainstorm_-_Sonoma_-_2021-10-24_-_Sarah_Stierch_04.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/October_2021_California_rainstorm_-_Sonoma_-_2021-10-24_-_Sarah_Stierch_04.jpg/1920px-October_2021_California_rainstorm_-_Sonoma_-_2021-10-24_-_Sarah_Stierch_04.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/October_2021_California_rainstorm_-_Sonoma_-_2021-10-24_-_Sarah_Stierch_04.jpg/500px-October_2021_California_rainstorm_-_Sonoma_-_2021-10-24_-_Sarah_Stierch_04.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Missvain, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Missvain",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "PG&E vehicles"
-   },
-   {
     "shot": "c7",
     "shows": "PG&E Embarcadero Substation - September 2025 - Sarah Stierch 01",
     "file": "File:PG&E Embarcadero Substation - September 2025 - Sarah Stierch 01.jpg",
@@ -101468,52 +100173,6 @@
     "year": 2025,
     "how": "Commons category",
     "category": "PG&E Embarcadero Substation"
-   },
-   {
-    "shot": "s8",
-    "shows": "PG&E building on Market St. lamp",
-    "file": "File:PG&E building on Market St. lamp.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:PG%26E_building_on_Market_St._lamp.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PG%26E_building_on_Market_St._lamp.JPG/1280px-PG%26E_building_on_Market_St._lamp.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/PG%26E_building_on_Market_St._lamp.JPG/500px-PG%26E_building_on_Market_St._lamp.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "BrokenSphere",
-    "year": 2007,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "PG&E Mission substation north bas relief",
-    "file": "File:PG&E Mission substation north bas relief.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PG%26E_Mission_substation_north_bas_relief.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PG%26E_Mission_substation_north_bas_relief.jpg/1280px-PG%26E_Mission_substation_north_bas_relief.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/PG%26E_Mission_substation_north_bas_relief.jpg/500px-PG%26E_Mission_substation_north_bas_relief.jpg",
-    "size": [
-     1280,
-     1653
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Beyond My Ken, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Beyond My Ken",
-    "year": 2017,
-    "how": "Commons search"
    },
    {
     "shot": "s10",
@@ -101658,8 +100317,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "PM": {
   "name": "Philip Morris International",
@@ -102815,103 +101473,9 @@
    "PPG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "One PPG Place, , 01",
-    "file": "File:One PPG Place, 2015-03-10, 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:One_PPG_Place,_2015-03-10,_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/One_PPG_Place%2C_2015-03-10%2C_01.jpg/1280px-One_PPG_Place%2C_2015-03-10%2C_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/One_PPG_Place%2C_2015-03-10%2C_01.jpg/500px-One_PPG_Place%2C_2015-03-10%2C_01.jpg",
-    "size": [
-     1280,
-     2276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Cbaile19, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Cbaile19",
-    "year": 2015,
-    "how": "Wikidata main image"
-   },
-   {
-    "shot": "c2",
-    "shows": "PPG MoonWalk",
-    "file": "File:PPG MoonWalk.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PPG_MoonWalk.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/PPG_MoonWalk.jpg/1920px-PPG_MoonWalk.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/PPG_MoonWalk.jpg/500px-PPG_MoonWalk.jpg",
-    "size": [
-     1920,
-     1265
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "1-Byte, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "1-Byte",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "PPG Industries"
-   },
-   {
-    "shot": "c3",
-    "shows": "Taller Status en José Ingenieros, Provincia de Buenos Aires",
-    "file": "File:Taller Status en José Ingenieros, Provincia de Buenos Aires.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Taller_Status_en_Jos%C3%A9_Ingenieros,_Provincia_de_Buenos_Aires.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Taller_Status_en_Jos%C3%A9_Ingenieros%2C_Provincia_de_Buenos_Aires.jpg/1920px-Taller_Status_en_Jos%C3%A9_Ingenieros%2C_Provincia_de_Buenos_Aires.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Taller_Status_en_Jos%C3%A9_Ingenieros%2C_Provincia_de_Buenos_Aires.jpg/500px-Taller_Status_en_Jos%C3%A9_Ingenieros%2C_Provincia_de_Buenos_Aires.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Just a Man, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Just a Man",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "PPG Industries"
-   },
-   {
-    "shot": "c4",
-    "shows": "Plaques in Pittsburgh - 7580",
-    "file": "File:Plaques in Pittsburgh - IMG 7580.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Plaques_in_Pittsburgh_-_IMG_7580.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Plaques_in_Pittsburgh_-_IMG_7580.JPG/1920px-Plaques_in_Pittsburgh_-_IMG_7580.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Plaques_in_Pittsburgh_-_IMG_7580.JPG/500px-Plaques_in_Pittsburgh_-_IMG_7580.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daderot, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Daderot",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "PPG Industries"
-   },
    {
     "shot": "c5",
     "shows": "PPG Sumaré",
@@ -102937,28 +101501,27 @@
     "category": "PPG Industries"
    },
    {
-    "shot": "c6",
-    "shows": "Canal Crossing clean-up site",
-    "file": "File:Canal Crossing clean-up site.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Canal_Crossing_clean-up_site.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canal_Crossing_clean-up_site.jpg/1280px-Canal_Crossing_clean-up_site.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Canal_Crossing_clean-up_site.jpg/500px-Canal_Crossing_clean-up_site.jpg",
+    "shot": "main",
+    "shows": "One PPG Place, , 01",
+    "file": "File:One PPG Place, 2015-03-10, 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:One_PPG_Place,_2015-03-10,_01.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/One_PPG_Place%2C_2015-03-10%2C_01.jpg/1280px-One_PPG_Place%2C_2015-03-10%2C_01.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/One_PPG_Place%2C_2015-03-10%2C_01.jpg/500px-One_PPG_Place%2C_2015-03-10%2C_01.jpg",
     "size": [
      1280,
-     1707
+     2276
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Hudconja, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Hudconja",
-    "year": 2011,
-    "how": "Commons category",
-    "category": "PPG Industries"
+    "credit": "Cbaile19, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Cbaile19",
+    "year": 2015,
+    "how": "Wikidata main image"
    },
    {
     "shot": "c7",
@@ -102983,54 +101546,6 @@
     "year": 2012,
     "how": "Commons category",
     "category": "Pittsburgh Plate Glass Ford City Works"
-   },
-   {
-    "shot": "c8",
-    "shows": "Pittsburg Plate Glass Warehouse Detroit",
-    "file": "File:Pittsburg Plate Glass Warehouse Detroit.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Pittsburg_Plate_Glass_Warehouse_Detroit.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pittsburg_Plate_Glass_Warehouse_Detroit.jpg/1920px-Pittsburg_Plate_Glass_Warehouse_Detroit.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Pittsburg_Plate_Glass_Warehouse_Detroit.jpg/500px-Pittsburg_Plate_Glass_Warehouse_Detroit.jpg",
-    "size": [
-     1920,
-     961
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Andrew Jameson, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Andrew Jameson",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "PPG Industries"
-   },
-   {
-    "shot": "c9",
-    "shows": "Pittsburgh Plate Glass 2",
-    "file": "File:Pittsburgh Plate Glass 2.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Pittsburgh_Plate_Glass_2.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pittsburgh_Plate_Glass_2.JPG/1920px-Pittsburgh_Plate_Glass_2.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Pittsburgh_Plate_Glass_2.JPG/500px-Pittsburgh_Plate_Glass_2.JPG",
-    "size": [
-     1920,
-     1349
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Elkman, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Elkman",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "PPG Industries"
    },
    {
     "shot": "c10",
@@ -103080,8 +101595,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "PPL": {
   "name": "PPL Corporation",
@@ -103562,6 +102076,7 @@
    "PLD"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -103636,54 +102151,6 @@
     "category": "Prologis"
    },
    {
-    "shot": "c4",
-    "shows": "From the Q113 td ( ) 100 - Rockaway Boulevard-Idlewild Park",
-    "file": "File:From the Q113 td (2018-08-03) 100 - Rockaway Boulevard-Idlewild Park.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:From_the_Q113_td_(2018-08-03)_100_-_Rockaway_Boulevard-Idlewild_Park.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/From_the_Q113_td_%282018-08-03%29_100_-_Rockaway_Boulevard-Idlewild_Park.jpg/1920px-From_the_Q113_td_%282018-08-03%29_100_-_Rockaway_Boulevard-Idlewild_Park.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/From_the_Q113_td_%282018-08-03%29_100_-_Rockaway_Boulevard-Idlewild_Park.jpg/500px-From_the_Q113_td_%282018-08-03%29_100_-_Rockaway_Boulevard-Idlewild_Park.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tdorante10, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Tdorante10",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "JFK Logistics Center"
-   },
-   {
-    "shot": "c5",
-    "shows": "Projekt Heißluftballon-1223",
-    "file": "File:Projekt Heißluftballon-1223.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Projekt_Hei%C3%9Fluftballon-1223.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Projekt_Hei%C3%9Fluftballon-1223.jpg/1920px-Projekt_Hei%C3%9Fluftballon-1223.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Projekt_Hei%C3%9Fluftballon-1223.jpg/500px-Projekt_Hei%C3%9Fluftballon-1223.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jean11, CC BY-SA 3.0 de, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0 de",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-    "author": "Jean11",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Prologis"
-   },
-   {
     "shot": "c6",
     "shows": "Prologis Park Ichikawa 2 from main gate 2021",
     "file": "File:Prologis Park Ichikawa 2 from main gate 2021.jpg",
@@ -103706,99 +102173,6 @@
     "year": 2021,
     "how": "Commons category",
     "category": "Prologis"
-   },
-   {
-    "shot": "c7",
-    "shows": "Keisei Transit Bus M105 Prologis Park Ichikawa 1 Erga Mio",
-    "file": "File:Keisei Transit Bus M105 Prologis Park Ichikawa 1 Erga Mio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Keisei_Transit_Bus_M105_Prologis_Park_Ichikawa_1_Erga_Mio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Keisei_Transit_Bus_M105_Prologis_Park_Ichikawa_1_Erga_Mio.jpg/1920px-Keisei_Transit_Bus_M105_Prologis_Park_Ichikawa_1_Erga_Mio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Keisei_Transit_Bus_M105_Prologis_Park_Ichikawa_1_Erga_Mio.jpg/500px-Keisei_Transit_Bus_M105_Prologis_Park_Ichikawa_1_Erga_Mio.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Comyu, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Comyu",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Prologis"
-   },
-   {
-    "shot": "s8",
-    "shows": "LG warehouse in Prologis Park Ryton - geograph.org.uk",
-    "file": "File:LG warehouse in Prologis Park Ryton - geograph.org.uk - 6141008.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:LG_warehouse_in_Prologis_Park_Ryton_-_geograph.org.uk_-_6141008.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/LG_warehouse_in_Prologis_Park_Ryton_-_geograph.org.uk_-_6141008.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/LG_warehouse_in_Prologis_Park_Ryton_-_geograph.org.uk_-_6141008.jpg/500px-LG_warehouse_in_Prologis_Park_Ryton_-_geograph.org.uk_-_6141008.jpg",
-    "size": [
-     1850,
-     1164
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "David Howard, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "David Howard",
-    "year": 2019,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Monument to the workers at the Coventry Colliery ^ Homefires Plant, Prologis Park, Keresley - geograph.org.uk",
-    "file": "File:Monument to the workers at the Coventry Colliery ^ Homefires Plant, Prologis Park, Keresley - geograph.org.uk - 6956414.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Monument_to_the_workers_at_the_Coventry_Colliery_%5E_Homefires_Plant,_Prologis_Park,_Keresley_-_geograph.org.uk_-_6956414.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Monument_to_the_workers_at_the_Coventry_Colliery_%5E_Homefires_Plant%2C_Prologis_Park%2C_Keresley_-_geograph.org.uk_-_6956414.jpg/1920px-Monument_to_the_workers_at_the_Coventry_Colliery_%5E_Homefires_Plant%2C_Prologis_Park%2C_Keresley_-_geograph.org.uk_-_6956414.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Monument_to_the_workers_at_the_Coventry_Colliery_%5E_Homefires_Plant%2C_Prologis_Park%2C_Keresley_-_geograph.org.uk_-_6956414.jpg/500px-Monument_to_the_workers_at_the_Coventry_Colliery_%5E_Homefires_Plant%2C_Prologis_Park%2C_Keresley_-_geograph.org.uk_-_6956414.jpg",
-    "size": [
-     1920,
-     1434
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "A J Paxton, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "A J Paxton",
-    "year": 2021,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "NCB sign by mineral rail line on perimeter of Prologis Park, Keresley, Coventry - geograph.org.uk",
-    "file": "File:NCB sign by mineral rail line on perimeter of Prologis Park, Keresley, Coventry - geograph.org.uk - 6838865.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:NCB_sign_by_mineral_rail_line_on_perimeter_of_Prologis_Park,_Keresley,_Coventry_-_geograph.org.uk_-_6838865.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/NCB_sign_by_mineral_rail_line_on_perimeter_of_Prologis_Park%2C_Keresley%2C_Coventry_-_geograph.org.uk_-_6838865.jpg/1920px-NCB_sign_by_mineral_rail_line_on_perimeter_of_Prologis_Park%2C_Keresley%2C_Coventry_-_geograph.org.uk_-_6838865.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/NCB_sign_by_mineral_rail_line_on_perimeter_of_Prologis_Park%2C_Keresley%2C_Coventry_-_geograph.org.uk_-_6838865.jpg/500px-NCB_sign_by_mineral_rail_line_on_perimeter_of_Prologis_Park%2C_Keresley%2C_Coventry_-_geograph.org.uk_-_6838865.jpg",
-    "size": [
-     1920,
-     1434
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "A J Paxton, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "A J Paxton",
-    "year": 2021,
-    "how": "Commons search"
    },
    {
     "shot": "hand",
@@ -103924,8 +102298,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "PRU": {
   "name": "Prudential Financial",
@@ -104246,6 +102619,7 @@
    "PEG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
    {
@@ -104272,222 +102646,6 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "15 40 11 Gas pipe along Westwood Drive in the Mountainview section of Ewing Township, Mercer County, New Jersey",
-    "file": "File:2023-09-29 15 40 11 Gas pipe along Westwood Drive in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2023-09-29_15_40_11_Gas_pipe_along_Westwood_Drive_in_the_Mountainview_section_of_Ewing_Township,_Mercer_County,_New_Jersey.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2023-09-29_15_40_11_Gas_pipe_along_Westwood_Drive_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/1920px-2023-09-29_15_40_11_Gas_pipe_along_Westwood_Drive_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2023-09-29_15_40_11_Gas_pipe_along_Westwood_Drive_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg/500px-2023-09-29_15_40_11_Gas_pipe_along_Westwood_Drive_in_the_Mountainview_section_of_Ewing_Township%2C_Mercer_County%2C_New_Jersey.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Famartin, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Famartin",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
-    "shot": "c3",
-    "shows": "Abandoned PSE&G Line",
-    "file": "File:Abandoned PSE&G Line (25973217298).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Abandoned_PSE%26G_Line_(25973217298).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Abandoned_PSE%26G_Line_%2825973217298%29.jpg/1920px-Abandoned_PSE%26G_Line_%2825973217298%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Abandoned_PSE%26G_Line_%2825973217298%29.jpg/500px-Abandoned_PSE%26G_Line_%2825973217298%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tonyglen14, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tonyglen14",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
-    "shot": "c4",
-    "shows": "PSE&G - Elizabeth, NJ",
-    "file": "File:PSE&G - Elizabeth, NJ (38185586034).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PSE%26G_-_Elizabeth,_NJ_(38185586034).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/PSE%26G_-_Elizabeth%2C_NJ_%2838185586034%29.jpg/1920px-PSE%26G_-_Elizabeth%2C_NJ_%2838185586034%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/PSE%26G_-_Elizabeth%2C_NJ_%2838185586034%29.jpg/500px-PSE%26G_-_Elizabeth%2C_NJ_%2838185586034%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tonyglen14, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tonyglen14",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
-    "shot": "c5",
-    "shows": "PSE&G 13.2kV & 4.15kV - Haddon Heights, NJ",
-    "file": "File:PSE&G 13.2kV & 4.15kV - Haddon Heights, NJ (39925055322).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_%26_4.15kV_-_Haddon_Heights,_NJ_(39925055322).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/PSE%26G_13.2kV_%26_4.15kV_-_Haddon_Heights%2C_NJ_%2839925055322%29.jpg/1920px-PSE%26G_13.2kV_%26_4.15kV_-_Haddon_Heights%2C_NJ_%2839925055322%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/PSE%26G_13.2kV_%26_4.15kV_-_Haddon_Heights%2C_NJ_%2839925055322%29.jpg/500px-PSE%26G_13.2kV_%26_4.15kV_-_Haddon_Heights%2C_NJ_%2839925055322%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tonyglen14, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tonyglen14",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
-    "shot": "c6",
-    "shows": "PSE&G 13.2kV - Audubon, NJ",
-    "file": "File:PSE&G 13.2kV - Audubon, NJ (25085829067).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Audubon,_NJ_(25085829067).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PSE%26G_13.2kV_-_Audubon%2C_NJ_%2825085829067%29.jpg/1920px-PSE%26G_13.2kV_-_Audubon%2C_NJ_%2825085829067%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PSE%26G_13.2kV_-_Audubon%2C_NJ_%2825085829067%29.jpg/500px-PSE%26G_13.2kV_-_Audubon%2C_NJ_%2825085829067%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tonyglen14, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tonyglen14",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
-    "shot": "c7",
-    "shows": "PSE&G 13.2kV - Barrington, NJ",
-    "file": "File:PSE&G 13.2kV - Barrington, NJ (25085686467).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Barrington,_NJ_(25085686467).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/PSE%26G_13.2kV_-_Barrington%2C_NJ_%2825085686467%29.jpg/1920px-PSE%26G_13.2kV_-_Barrington%2C_NJ_%2825085686467%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/PSE%26G_13.2kV_-_Barrington%2C_NJ_%2825085686467%29.jpg/500px-PSE%26G_13.2kV_-_Barrington%2C_NJ_%2825085686467%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tonyglen14, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tonyglen14",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
-    "shot": "c8",
-    "shows": "PSE&G 13.2kV - Camden, NJ",
-    "file": "File:PSE&G 13.2kV - Camden, NJ (25049676197).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Camden,_NJ_(25049676197).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/PSE%26G_13.2kV_-_Camden%2C_NJ_%2825049676197%29.jpg/1920px-PSE%26G_13.2kV_-_Camden%2C_NJ_%2825049676197%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/PSE%26G_13.2kV_-_Camden%2C_NJ_%2825049676197%29.jpg/500px-PSE%26G_13.2kV_-_Camden%2C_NJ_%2825049676197%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tonyglen14, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tonyglen14",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
-    "shot": "c9",
-    "shows": "PSE&G 13.2kV - Collingswood, NJ",
-    "file": "File:PSE&G 13.2kV - Collingswood, NJ (26084250378).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Collingswood,_NJ_(26084250378).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PSE%26G_13.2kV_-_Collingswood%2C_NJ_%2826084250378%29.jpg/1920px-PSE%26G_13.2kV_-_Collingswood%2C_NJ_%2826084250378%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PSE%26G_13.2kV_-_Collingswood%2C_NJ_%2826084250378%29.jpg/500px-PSE%26G_13.2kV_-_Collingswood%2C_NJ_%2826084250378%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tonyglen14, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tonyglen14",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
-    "shot": "c10",
-    "shows": "PSE&G 13.2kV - Fort Lee, NJ",
-    "file": "File:PSE&G 13.2kV - Fort Lee, NJ (24976070467).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PSE%26G_13.2kV_-_Fort_Lee,_NJ_(24976070467).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/PSE%26G_13.2kV_-_Fort_Lee%2C_NJ_%2824976070467%29.jpg/1920px-PSE%26G_13.2kV_-_Fort_Lee%2C_NJ_%2824976070467%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/PSE%26G_13.2kV_-_Fort_Lee%2C_NJ_%2824976070467%29.jpg/500px-PSE%26G_13.2kV_-_Fort_Lee%2C_NJ_%2824976070467%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tonyglen14, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tonyglen14",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Public Service Enterprise Group"
-   },
-   {
     "shot": "hand",
     "shows": "PSEG Power Bridgeport Harbor Station Unit 3 power plant",
     "file": "File:PSEG Power Bridgeport Harbor Station Unit 3 power plant.jpg",
@@ -104511,8 +102669,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "PSA": {
   "name": "Public Storage",
@@ -106025,6 +104182,7 @@
    "REGN"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -106051,30 +104209,6 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "Right Hand Skin Regeneration Day 8",
-    "file": "File:Right Hand Skin Regeneration Day 8.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Right_Hand_Skin_Regeneration_Day_8.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Right_Hand_Skin_Regeneration_Day_8.jpg/1280px-Right_Hand_Skin_Regeneration_Day_8.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Right_Hand_Skin_Regeneration_Day_8.jpg/500px-Right_Hand_Skin_Regeneration_Day_8.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bdpepp2, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Bdpepp2",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Regeneron"
-   },
-   {
     "shot": "c3",
     "shows": "George Yancopoulos 2",
     "file": "File:George Yancopoulos 2.jpg",
@@ -106095,30 +104229,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "AbhiramJuvvadi",
     "year": 2024,
-    "how": "Commons category",
-    "category": "Regeneron"
-   },
-   {
-    "shot": "c4",
-    "shows": "Rockwood Hall 2018 03",
-    "file": "File:Rockwood Hall 2018 03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rockwood_Hall_2018_03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rockwood_Hall_2018_03.jpg/1920px-Rockwood_Hall_2018_03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Rockwood_Hall_2018_03.jpg/500px-Rockwood_Hall_2018_03.jpg",
-    "size": [
-     1920,
-     1351
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ɱ, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ɱ",
-    "year": 2018,
     "how": "Commons category",
     "category": "Regeneron"
    },
@@ -106174,8 +104284,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "RF": {
   "name": "Regions Financial Corporation",
@@ -106911,6 +105020,7 @@
    "RIO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
    {
@@ -106957,52 +105067,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Kgbo",
     "year": 2023,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s3",
-    "shows": "Rio Tinto Building 4944",
-    "file": "File:Rio Tinto Building 4944.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rio_Tinto_Building_4944.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rio_Tinto_Building_4944.jpg/1920px-Rio_Tinto_Building_4944.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Rio_Tinto_Building_4944.jpg/500px-Rio_Tinto_Building_4944.jpg",
-    "size": [
-     1920,
-     748
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Chris Light",
-    "year": 2024,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s4",
-    "shows": "Royal Albert Hotel and Rio Tinto building at 123 Albert Street, Brisbane",
-    "file": "File:Royal Albert Hotel and Rio Tinto building at 123 Albert Street, Brisbane.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Royal_Albert_Hotel_and_Rio_Tinto_building_at_123_Albert_Street,_Brisbane.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Royal_Albert_Hotel_and_Rio_Tinto_building_at_123_Albert_Street%2C_Brisbane.jpg/1280px-Royal_Albert_Hotel_and_Rio_Tinto_building_at_123_Albert_Street%2C_Brisbane.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Royal_Albert_Hotel_and_Rio_Tinto_building_at_123_Albert_Street%2C_Brisbane.jpg/500px-Royal_Albert_Hotel_and_Rio_Tinto_building_at_123_Albert_Street%2C_Brisbane.jpg",
-    "size": [
-     1280,
-     2272
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kgbo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Kgbo",
-    "year": 2020,
     "how": "Commons search"
    },
    {
@@ -107075,8 +105139,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "RIVN": {
   "name": "Rivian",
@@ -112407,6 +110470,7 @@
    "SRE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
    {
@@ -112550,8 +110614,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "NOW": {
   "name": "ServiceNow",
@@ -112560,6 +110623,7 @@
    "NOW"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -112590,30 +110654,6 @@
     "low_res": true
    },
    {
-    "shot": "c1",
-    "shows": "ServiceNow meetup event",
-    "file": "File:ServiceNowMeetup.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ServiceNowMeetup.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ServiceNowMeetup.jpg/1920px-ServiceNowMeetup.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ServiceNowMeetup.jpg/500px-ServiceNowMeetup.jpg",
-    "size": [
-     1920,
-     1272
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Raysonho @ Open Grid Scheduler / Grid Engine",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "ServiceNow"
-   },
-   {
     "shot": "s2",
     "shows": "ServiceNow office in Petah-Tikva, Israel",
     "file": "File:ServiceNow office in Petah-Tikva, Israel.jpg",
@@ -112637,8 +110677,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "SHEL": {
   "name": "Shell",
@@ -113917,30 +111956,214 @@
    "SKYD"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-communication",
   "photos": [
    {
-    "shot": "main",
-    "shows": "Times Sq Feb 2022 06",
-    "file": "File:Times Sq Feb 2022 06.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Times_Sq_Feb_2022_06.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Times_Sq_Feb_2022_06.jpg/1280px-Times_Sq_Feb_2022_06.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Times_Sq_Feb_2022_06.jpg/500px-Times_Sq_Feb_2022_06.jpg",
+    "shot": "b1",
+    "shows": "Fountain in the middle of the city during daytime",
+    "file": "unsplash:fisziRQjStc",
+    "page": "https://unsplash.com/photos/fountain-in-the-middle-of-the-city-during-daytime-fisziRQjStc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1604261622543-be7da1e4f520?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1604261622543-be7da1e4f520?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1920
+     2000,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Epicgenius, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Epicgenius",
+    "credit": "Photo by Hannah Wernecke on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Hannah Wernecke",
+    "year": 2020,
+    "how": "unsplash search: Paramount Pictures",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@hannahwernecke?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/fisziRQjStc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA"
+   },
+   {
+    "shot": "b2",
+    "shows": "Paramount water tower against a clear blue sky",
+    "file": "unsplash:ulgy4P7xvdQ",
+    "page": "https://unsplash.com/photos/paramount-water-tower-against-a-clear-blue-sky-ulgy4P7xvdQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1773261437330-6ba56f50bf7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1773261437330-6ba56f50bf7b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by James A. Molnar on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "James A. Molnar",
+    "year": 2026,
+    "how": "unsplash search: Paramount Pictures",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@jamesamolnar?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ulgy4P7xvdQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA"
+   },
+   {
+    "shot": "b3",
+    "shows": "A group of people holding signs in front of a building",
+    "file": "unsplash:tJATyfmruGs",
+    "page": "https://unsplash.com/photos/a-group-of-people-holding-signs-in-front-of-a-building-tJATyfmruGs?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1692310105205-713433fed6d9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA&ixlib=rb-4.1.0&w=2152&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1692310105205-713433fed6d9?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2152,
+     1501
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Chris Long on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Chris Long",
+    "year": 2023,
+    "how": "unsplash search: Paramount Pictures",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@wclong411?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/tJATyfmruGs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA"
+   },
+   {
+    "shot": "b4",
+    "shows": "Paramount studios' sign stands against the blue sky",
+    "file": "unsplash:ascWelNLO-k",
+    "page": "https://unsplash.com/photos/paramount-studios-sign-stands-against-the-blue-sky-ascWelNLO-k?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1741723172193-2985149c1b8f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8UGFyYW1vdW50JTJCfGVufDF8fHx8MTc5NTA3OTQ5OHww&ixlib=rb-4.1.0&w=2256&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1741723172193-2985149c1b8f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8UGFyYW1vdW50JTJCfGVufDF8fHx8MTc5NTA3OTQ5OHww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2256,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Romain Malaunay on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Romain Malaunay",
+    "year": 2025,
+    "how": "unsplash search: Paramount+",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@romainwaay?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ascWelNLO-k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8UGFyYW1vdW50JTJCfGVufDF8fHx8MTc5NTA3OTQ5OHww"
+   },
+   {
+    "shot": "b5",
+    "shows": "Paramount pictures studio entrance with stage 4 sign",
+    "file": "unsplash:2dsH2khaB8Y",
+    "page": "https://unsplash.com/photos/paramount-pictures-studio-entrance-with-stage-4-sign-2dsH2khaB8Y?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1771294224955-862fd9af3f09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1771294224955-862fd9af3f09?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Darien Attridge on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Darien Attridge",
+    "year": 2026,
+    "how": "unsplash search: Paramount Pictures",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dariendesigns?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/2dsH2khaB8Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8UGFyYW1vdW50JTIwUGljdHVyZXN8ZW58MXx8fHwxNzk1MDc5NDgyfDA"
+   },
+   {
+    "shot": "b6",
+    "shows": "Paramount Studios back lot with New York City street scene that has been used as a backdrop to several movies and television shows. Los Angeles, California",
+    "file": "loc:2013633305",
+    "page": "https://www.loc.gov/item/2013633305/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:22800:22848/full/2105,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:22800:22848/full/500,/0/default.jpg",
+    "size": [
+     2105,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "loc search: Paramount studios",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "b7",
+    "shows": "Paramount Pictures back lot sets of New York City streets, headquartered in the Hollywood district of Los Angeles, California",
+    "file": "loc:2013632460",
+    "page": "https://www.loc.gov/item/2013632460/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:22000:22003/full/2021,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:22000:22003/full/500,/0/default.jpg",
+    "size": [
+     2021,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "loc search: Paramount Pictures",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "b8",
+    "shows": "A building with a fountain in front of it",
+    "file": "unsplash:ThhcvXBFLtQ",
+    "page": "https://unsplash.com/photos/a-building-with-a-fountain-in-front-of-it-ThhcvXBFLtQ?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1651896802461-fd2be8d84209?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFyYW1vdW50JTIwc3R1ZGlvc3xlbnwxfHx8fDE3OTUwNzk0ODl8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1651896802461-fd2be8d84209?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFyYW1vdW50JTIwc3R1ZGlvc3xlbnwxfHx8fDE3OTUwNzk0ODl8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     2139
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Gary Ruiz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Gary Ruiz",
     "year": 2022,
-    "how": "Wikidata main image"
+    "how": "unsplash search: Paramount studios",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@iamgaryrdz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ThhcvXBFLtQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFyYW1vdW50JTIwc3R1ZGlvc3xlbnwxfHx8fDE3OTUwNzk0ODl8MA"
    },
    {
     "shot": "c2",
@@ -113989,82 +112212,9 @@
     "year": 2021,
     "how": "Commons category",
     "category": "Skydance Corporation"
-   },
-   {
-    "shot": "c4",
-    "shows": "One Astor Plaza May 2010",
-    "file": "File:One Astor Plaza May 2010.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:One_Astor_Plaza_May_2010.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/One_Astor_Plaza_May_2010.JPG/1280px-One_Astor_Plaza_May_2010.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/One_Astor_Plaza_May_2010.JPG/500px-One_Astor_Plaza_May_2010.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "OptimumPx, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "OptimumPx",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "Skydance Corporation"
-   },
-   {
-    "shot": "c5",
-    "shows": "Corp 9013 1stpg",
-    "file": "File:Corp 9013 1stpg.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Corp_9013_1stpg.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Corp_9013_1stpg.jpg/1280px-Corp_9013_1stpg.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Corp_9013_1stpg.jpg/500px-Corp_9013_1stpg.jpg",
-    "size": [
-     1280,
-     1656
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "9013tv, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "9013tv",
-    "year": 2005,
-    "how": "Commons category",
-    "category": "Skydance Corporation"
-   },
-   {
-    "shot": "c6",
-    "shows": "One Astor Plaza1",
-    "file": "File:One Astor Plaza1.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:One_Astor_Plaza1.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/One_Astor_Plaza1.JPG/1920px-One_Astor_Plaza1.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/One_Astor_Plaza1.JPG/500px-One_Astor_Plaza1.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Trxr4kds at English Wikipedia, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Trxr4kds at English Wikipedia",
-    "year": 2006,
-    "how": "Commons category",
-    "category": "Skydance Corporation"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "SWKS": {
   "name": "Skyworks Solutions",
@@ -118924,59 +117074,9 @@
    "SYK"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "THL Pflichtbereichsübung in Piberschlag 10.04.2018",
-    "file": "File:THL Pflichtbereichsübung in Piberschlag 10.04.2018 (40677379414).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:THL_Pflichtbereichs%C3%BCbung_in_Piberschlag_10.04.2018_(40677379414).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/THL_Pflichtbereichs%C3%BCbung_in_Piberschlag_10.04.2018_%2840677379414%29.jpg/1920px-THL_Pflichtbereichs%C3%BCbung_in_Piberschlag_10.04.2018_%2840677379414%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/THL_Pflichtbereichs%C3%BCbung_in_Piberschlag_10.04.2018_%2840677379414%29.jpg/500px-THL_Pflichtbereichs%C3%BCbung_in_Piberschlag_10.04.2018_%2840677379414%29.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pressestelle BFK Urfahr-Umgebung, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Pressestelle BFK Urfahr-Umgebung",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Stryker stretchers"
-   },
-   {
-    "shot": "c2",
-    "shows": "Media Tour Youth Olympic Village Lausanne (2020 Winter Youth Olympics) by Martin Rulsch 09",
-    "file": "File:2020-01-09 Media Tour Youth Olympic Village Lausanne (2020 Winter Youth Olympics) by Martin Rulsch 09.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2020-01-09_Media_Tour_Youth_Olympic_Village_Lausanne_(2020_Winter_Youth_Olympics)_by_Martin_Rulsch_09.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2020-01-09_Media_Tour_Youth_Olympic_Village_Lausanne_%282020_Winter_Youth_Olympics%29_by_Martin_Rulsch_09.jpg/1920px-2020-01-09_Media_Tour_Youth_Olympic_Village_Lausanne_%282020_Winter_Youth_Olympics%29_by_Martin_Rulsch_09.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2020-01-09_Media_Tour_Youth_Olympic_Village_Lausanne_%282020_Winter_Youth_Olympics%29_by_Martin_Rulsch_09.jpg/500px-2020-01-09_Media_Tour_Youth_Olympic_Village_Lausanne_%282020_Winter_Youth_Olympics%29_by_Martin_Rulsch_09.jpg",
-    "size": [
-     1920,
-     1453
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Martin Rulsch , Wikimedia Commons, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Martin Rulsch , Wikimedia Commons",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Stryker Corporation",
-    "flags": [
-     "restrictions: personality"
-    ]
-   },
    {
     "shot": "c3",
     "shows": "Hospital bed at Pok Oi Hospital",
@@ -118998,54 +117098,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Peachyeung316",
     "year": 2021,
-    "how": "Commons category",
-    "category": "Stryker Corporation"
-   },
-   {
-    "shot": "c4",
-    "shows": "Stryker Hospital bed in Out patient clinic",
-    "file": "File:Stryker Hospital bed in Out patient clinic.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stryker_Hospital_bed_in_Out_patient_clinic.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stryker_Hospital_bed_in_Out_patient_clinic.jpg/1920px-Stryker_Hospital_bed_in_Out_patient_clinic.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Stryker_Hospital_bed_in_Out_patient_clinic.jpg/500px-Stryker_Hospital_bed_in_Out_patient_clinic.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Peachyeung316, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Peachyeung316",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Stryker Corporation"
-   },
-   {
-    "shot": "c5",
-    "shows": "University Medical Center, New Orleans, December 2023 - Rolling bed in corridor",
-    "file": "File:University Medical Center, New Orleans, December 2023 - Rolling bed in corridor.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:University_Medical_Center,_New_Orleans,_December_2023_-_Rolling_bed_in_corridor.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/University_Medical_Center%2C_New_Orleans%2C_December_2023_-_Rolling_bed_in_corridor.jpg/1280px-University_Medical_Center%2C_New_Orleans%2C_December_2023_-_Rolling_bed_in_corridor.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/University_Medical_Center%2C_New_Orleans%2C_December_2023_-_Rolling_bed_in_corridor.jpg/500px-University_Medical_Center%2C_New_Orleans%2C_December_2023_-_Rolling_bed_in_corridor.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Infrogmation of New Orleans, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Infrogmation of New Orleans",
-    "year": 2023,
     "how": "Commons category",
     "category": "Stryker Corporation"
    },
@@ -119121,8 +117173,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "SMCI": {
   "name": "Supermicro",
@@ -120329,6 +118380,7 @@
    "TROW"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -120353,33 +118405,9 @@
     "author": "Wallstreethotrod ( talk )",
     "year": 2008,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "s2",
-    "shows": "Coors Light Roof Deck and T. Rowe Price Videoboard Signs Added At Camden Yards in 2024",
-    "file": "File:Coors Light Roof Deck and T. Rowe Price Videoboard Signs Added At Camden Yards in 2024.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Coors_Light_Roof_Deck_and_T._Rowe_Price_Videoboard_Signs_Added_At_Camden_Yards_in_2024.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Coors_Light_Roof_Deck_and_T._Rowe_Price_Videoboard_Signs_Added_At_Camden_Yards_in_2024.jpg/1920px-Coors_Light_Roof_Deck_and_T._Rowe_Price_Videoboard_Signs_Added_At_Camden_Yards_in_2024.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Coors_Light_Roof_Deck_and_T._Rowe_Price_Videoboard_Signs_Added_At_Camden_Yards_in_2024.jpg/500px-Coors_Light_Roof_Deck_and_T._Rowe_Price_Videoboard_Signs_Added_At_Camden_Yards_in_2024.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Rock & roll is not dead, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Rock & roll is not dead",
-    "year": 2024,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "TTWO": {
   "name": "Take-Two Interactive",
@@ -121541,6 +119569,7 @@
    "TDY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -121566,34 +119595,9 @@
     "year": 2016,
     "how": "Commons category",
     "category": "Teledyne Technologies Incorporated"
-   },
-   {
-    "shot": "c2",
-    "shows": "WP Ahoi 2019, Internationales Maritimes Museum, Hamburg",
-    "file": "File:WP Ahoi 2019, Internationales Maritimes Museum, Hamburg (P1080670).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:WP_Ahoi_2019,_Internationales_Maritimes_Museum,_Hamburg_(P1080670).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WP_Ahoi_2019%2C_Internationales_Maritimes_Museum%2C_Hamburg_%28P1080670%29.jpg/1920px-WP_Ahoi_2019%2C_Internationales_Maritimes_Museum%2C_Hamburg_%28P1080670%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/WP_Ahoi_2019%2C_Internationales_Maritimes_Museum%2C_Hamburg_%28P1080670%29.jpg/500px-WP_Ahoi_2019%2C_Internationales_Maritimes_Museum%2C_Hamburg_%28P1080670%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Matti Blume",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Teledyne Marine"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "TER": {
   "name": "Teradyne",
@@ -121602,31 +119606,60 @@
    "TER"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "Demolition at elevated taken from five story building near Oak Street in Chinatown, looking at Mass Pike and Northampton",
-    "file": "File:Demolition at elevated taken from five story building near Oak Street in Chinatown, looking at Mass Pike and Northampton (15410476443).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Demolition_at_elevated_taken_from_five_story_building_near_Oak_Street_in_Chinatown,_looking_at_Mass_Pike_and_Northampton_(15410476443).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Demolition_at_elevated_taken_from_five_story_building_near_Oak_Street_in_Chinatown%2C_looking_at_Mass_Pike_and_Northampton_%2815410476443%29.jpg/1920px-Demolition_at_elevated_taken_from_five_story_building_near_Oak_Street_in_Chinatown%2C_looking_at_Mass_Pike_and_Northampton_%2815410476443%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Demolition_at_elevated_taken_from_five_story_building_near_Oak_Street_in_Chinatown%2C_looking_at_Mass_Pike_and_Northampton_%2815410476443%29.jpg/500px-Demolition_at_elevated_taken_from_five_story_building_near_Oak_Street_in_Chinatown%2C_looking_at_Mass_Pike_and_Northampton_%2815410476443%29.jpg",
+    "shot": "b1",
+    "shows": "Universal robots text with abstract blue glass elements",
+    "file": "unsplash:H5g7M4OgYH8",
+    "page": "https://unsplash.com/photos/universal-robots-text-with-abstract-blue-glass-elements-H5g7M4OgYH8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782713347947-c9aea11f0164?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VW5pdmVyc2FsJTIwUm9ib3RzfGVufDF8fHx8MTc5NTA3OTU0NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782713347947-c9aea11f0164?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VW5pdmVyc2FsJTIwUm9ib3RzfGVufDF8fHx8MTc5NTA3OTU0NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1541
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Unknown author Unknown author, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Unknown author Unknown author",
-    "year": 1987,
-    "how": "Commons category",
-    "category": "Teradyne"
+    "credit": "Photo by Brecht Corbeel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brecht Corbeel",
+    "year": 2026,
+    "how": "unsplash search: Universal Robots",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/H5g7M4OgYH8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8VW5pdmVyc2FsJTIwUm9ib3RzfGVufDF8fHx8MTc5NTA3OTU0NXww"
+   },
+   {
+    "shot": "b2",
+    "shows": "Translucent blue ring and geometric shapes with universal robots text",
+    "file": "unsplash:4-wxqVTm83c",
+    "page": "https://unsplash.com/photos/translucent-blue-ring-and-geometric-shapes-with-universal-robots-text-4-wxqVTm83c?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782713347916-52e692f29e07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VW5pdmVyc2FsJTIwUm9ib3RzfGVufDF8fHx8MTc5NTA3OTU0NXww&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782713347916-52e692f29e07?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VW5pdmVyc2FsJTIwUm9ib3RzfGVufDF8fHx8MTc5NTA3OTU0NXww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brecht Corbeel on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brecht Corbeel",
+    "year": 2026,
+    "how": "unsplash search: Universal Robots",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/4-wxqVTm83c/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8VW5pdmVyc2FsJTIwUm9ib3RzfGVufDF8fHx8MTc5NTA3OTU0NXww"
    },
    {
     "shot": "hand",
@@ -121656,8 +119689,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "TSLA": {
   "name": "Tesla, Inc.",
@@ -128478,6 +126510,7 @@
    "PATH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -128505,8 +126538,7 @@
     "person": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ULTA": {
   "name": "Ulta Beauty",
@@ -131669,6 +129701,7 @@
    "VRTX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -131696,8 +129729,7 @@
     "category": "Vertex Pharmaceuticals"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "VRT": {
   "name": "Vertiv",
@@ -131718,6 +129750,7 @@
    "VTRS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -131745,8 +129778,7 @@
     "category": "Viatris Inc."
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "VICI": {
   "name": "Vici Properties",
@@ -132193,8 +130225,59 @@
    "VMC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "Vulcan Materials Company limestone quarry, Tuscumbia, Alabama",
+    "file": "loc:2010641224",
+    "page": "https://www.loc.gov/item/2010641224/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09400:09411/full/1200,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09400:09411/full/500,/0/default.jpg",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2010,
+    "how": "loc search: Vulcan Materials",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
+   {
+    "shot": "b2",
+    "shows": "Vulcan Materials Company limestone quarry, Tuscumbia, Alabama",
+    "file": "loc:2010641225",
+    "page": "https://www.loc.gov/item/2010641225/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09400:09412/full/2250,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09400:09412/full/500,/0/default.jpg",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2010,
+    "how": "loc search: Vulcan Materials",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   },
    {
     "shot": "c1",
     "shows": "Vulcan materials dolcito quarry",
@@ -132328,8 +130411,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "VYLR": {
   "name": "Vylor",
@@ -132552,8 +130634,35 @@
    "GWW"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
+   {
+    "shot": "b1",
+    "shows": "People walk towards a tent with 'grainger gallery' sign",
+    "file": "unsplash:0tSNqeOChHU",
+    "page": "https://unsplash.com/photos/people-walk-towards-a-tent-with-grainger-gallery-sign-0tSNqeOChHU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1766018096695-a85812f9bb0a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R3JhaW5nZXJ8ZW58MXx8fHwxNzk1MDc5NTgzfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1766018096695-a85812f9bb0a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R3JhaW5nZXJ8ZW58MXx8fHwxNzk1MDc5NTgzfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by ANGIE BAONGOC on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "ANGIE BAONGOC",
+    "year": 2025,
+    "how": "unsplash search: Grainger",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@angie_baongoc?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/0tSNqeOChHU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8R3JhaW5nZXJ8ZW58MXx8fHwxNzk1MDc5NTgzfDA"
+   },
    {
     "shot": "c1",
     "shows": "Grainger at Mendenhall Building A, Florida State University",
@@ -132603,8 +130712,7 @@
     "category": "W. W. Grainger"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "WAB": {
   "name": "Wabtec",
@@ -136208,6 +134316,7 @@
    "WY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -136238,174 +134347,6 @@
     "low_res": true
    },
    {
-    "shot": "c1",
-    "shows": "700 Emerald Street, St. Paul - Weyerhaeuser International Paper Demolition - Millberry Apartments",
-    "file": "File:700 Emerald Street, St. Paul - Weyerhaeuser International Paper Demolition - Millberry Apartments (43417070614).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:700_Emerald_Street,_St._Paul_-_Weyerhaeuser_International_Paper_Demolition_-_Millberry_Apartments_(43417070614).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/700_Emerald_Street%2C_St._Paul_-_Weyerhaeuser_International_Paper_Demolition_-_Millberry_Apartments_%2843417070614%29.jpg/1920px-700_Emerald_Street%2C_St._Paul_-_Weyerhaeuser_International_Paper_Demolition_-_Millberry_Apartments_%2843417070614%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/700_Emerald_Street%2C_St._Paul_-_Weyerhaeuser_International_Paper_Demolition_-_Millberry_Apartments_%2843417070614%29.jpg/500px-700_Emerald_Street%2C_St._Paul_-_Weyerhaeuser_International_Paper_Demolition_-_Millberry_Apartments_%2843417070614%29.jpg",
-    "size": [
-     1920,
-     1315
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tony Webster from Minneapolis, Minnesota, United States",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Weyerhaeuser Company"
-   },
-   {
-    "shot": "c2",
-    "shows": "Weyerhaeuser Building",
-    "file": "File:Weyerhaeuser Building.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Weyerhaeuser_Building.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Weyerhaeuser_Building.jpg/1920px-Weyerhaeuser_Building.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Weyerhaeuser_Building.jpg/500px-Weyerhaeuser_Building.jpg",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "AUfish, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "AUfish",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Weyerhaeuser Corporate Headquarters (Federal Way, Washington)"
-   },
-   {
-    "shot": "c3",
-    "shows": "Wikipedia Local History Edit-a-thon Central Minnesota-02, Little Falls, MN",
-    "file": "File:Wikipedia Local History Edit-a-thon Central Minnesota-02, Little Falls, MN.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wikipedia_Local_History_Edit-a-thon_Central_Minnesota-02,_Little_Falls,_MN.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wikipedia_Local_History_Edit-a-thon_Central_Minnesota-02%2C_Little_Falls%2C_MN.jpg/1280px-Wikipedia_Local_History_Edit-a-thon_Central_Minnesota-02%2C_Little_Falls%2C_MN.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wikipedia_Local_History_Edit-a-thon_Central_Minnesota-02%2C_Little_Falls%2C_MN.jpg/500px-Wikipedia_Local_History_Edit-a-thon_Central_Minnesota-02%2C_Little_Falls%2C_MN.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Myotus, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Myotus",
-    "year": 2022,
-    "how": "Commons category",
-    "category": "Charles A. Weyerhaeuser Memorial Museum"
-   },
-   {
-    "shot": "c4",
-    "shows": "A railroad bridge along Cowiltz River, Washington State USA",
-    "file": "File:A railroad bridge along Cowiltz River, Washington State USA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_railroad_bridge_along_Cowiltz_River,_Washington_State_USA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/A_railroad_bridge_along_Cowiltz_River%2C_Washington_State_USA.jpg/1920px-A_railroad_bridge_along_Cowiltz_River%2C_Washington_State_USA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/A_railroad_bridge_along_Cowiltz_River%2C_Washington_State_USA.jpg/500px-A_railroad_bridge_along_Cowiltz_River%2C_Washington_State_USA.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bobjgalindo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bobjgalindo",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Weyerhaeuser Company"
-   },
-   {
-    "shot": "c5",
-    "shows": "A trestle bridge along Cowiltz River, Washington State",
-    "file": "File:A trestle bridge along Cowiltz River, Washington State.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_trestle_bridge_along_Cowiltz_River,_Washington_State.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A_trestle_bridge_along_Cowiltz_River%2C_Washington_State.jpg/1920px-A_trestle_bridge_along_Cowiltz_River%2C_Washington_State.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/A_trestle_bridge_along_Cowiltz_River%2C_Washington_State.jpg/500px-A_trestle_bridge_along_Cowiltz_River%2C_Washington_State.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bobjgalindo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bobjgalindo",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Weyerhaeuser Company"
-   },
-   {
-    "shot": "c6",
-    "shows": "Freight train recedes on the Freehold Secondary in Tennent 2024",
-    "file": "File:Freight train recedes on the Freehold Secondary in Tennent 2024.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Freight_train_recedes_on_the_Freehold_Secondary_in_Tennent_2024.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Freight_train_recedes_on_the_Freehold_Secondary_in_Tennent_2024.jpg/1920px-Freight_train_recedes_on_the_Freehold_Secondary_in_Tennent_2024.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Freight_train_recedes_on_the_Freehold_Secondary_in_Tennent_2024.jpg/500px-Freight_train_recedes_on_the_Freehold_Secondary_in_Tennent_2024.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jonathan Schilling, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jonathan Schilling",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Weyerhaeuser Company"
-   },
-   {
-    "shot": "c7",
-    "shows": "Weyerhaeuser campus",
-    "file": "File:Weyerhaeuser campus.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Weyerhaeuser_campus.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Weyerhaeuser_campus.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Weyerhaeuser_campus.jpg/500px-Weyerhaeuser_campus.jpg",
-    "size": [
-     1704,
-     1704
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "PK-WIKI, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "PK-WIKI",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "Weyerhaeuser Company"
-   },
-   {
     "shot": "s8",
     "shows": "Seattle - Weyerhaeuser Building 01",
     "file": "File:Seattle - Weyerhaeuser Building 01.jpg",
@@ -136426,52 +134367,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Joe Mabel",
     "year": 2017,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Weyerhaeuser Company HQ 2015-06 094",
-    "file": "File:Weyerhaeuser Company HQ 2015-06 094.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Weyerhaeuser_Company_HQ_2015-06_094.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Weyerhaeuser_Company_HQ_2015-06_094.jpg/1920px-Weyerhaeuser_Company_HQ_2015-06_094.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Weyerhaeuser_Company_HQ_2015-06_094.jpg/500px-Weyerhaeuser_Company_HQ_2015-06_094.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Chris Light",
-    "year": 2015,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Weyerhaeuser headquarters",
-    "file": "File:Weyerhaeuser HQ.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Weyerhaeuser_HQ.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Weyerhaeuser_HQ.jpg/1920px-Weyerhaeuser_HQ.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Weyerhaeuser_HQ.jpg/500px-Weyerhaeuser_HQ.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Arthur Fellig from Seattle, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Arthur Fellig from Seattle, USA",
-    "year": 2010,
     "how": "Commons search"
    },
    {
@@ -136590,8 +134485,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "WMB": {
   "name": "Williams Companies",
@@ -139074,6 +136968,7 @@
    "ZBH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -139099,34 +136994,9 @@
     "year": null,
     "how": "Commons category",
     "category": "Zimmer Biomet Holdings, Inc."
-   },
-   {
-    "shot": "c2",
-    "shows": "Zimmer Biomet in Winterthur",
-    "file": "File:Zimmer Biomet in Winterthur.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Zimmer_Biomet_in_Winterthur.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zimmer_Biomet_in_Winterthur.jpg/1920px-Zimmer_Biomet_in_Winterthur.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zimmer_Biomet_in_Winterthur.jpg/500px-Zimmer_Biomet_in_Winterthur.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "JoachimKohler-HB",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Zimmer Biomet Holdings, Inc."
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ZTS": {
   "name": "Zoetis",

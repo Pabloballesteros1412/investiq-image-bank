@@ -10,6 +10,42 @@
  "fill_from": "sector-materials",
  "photos": [
   {
+   "shows": "Vulcan Materials Company limestone quarry, Tuscumbia, Alabama",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09400:09411/full/1200,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09400:09411/full/500,/0/default.jpg",
+   "size": [
+    1200,
+    1800
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2010641224/"
+  },
+  {
+   "shows": "Vulcan Materials Company limestone quarry, Tuscumbia, Alabama",
+   "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09400:09412/full/2250,/0/default.jpg",
+   "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:09400:09412/full/500,/0/default.jpg",
+   "size": [
+    2250,
+    1500
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+   "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+   "author_url": "https://www.loc.gov/collections/carol-m-highsmith/",
+   "provider": "loc",
+   "source": "https://www.loc.gov/item/2010641225/"
+  },
+  {
    "shows": "Vulcan materials dolcito quarry",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Vulcan_materials_dolcito_quarry.jpg/1280px-Vulcan_materials_dolcito_quarry.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Vulcan_materials_dolcito_quarry.jpg/500px-Vulcan_materials_dolcito_quarry.jpg",
