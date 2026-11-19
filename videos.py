@@ -83,7 +83,7 @@ class PixabayVideo:
 
     def search(self, q):
         url = "https://pixabay.com/api/videos/?" + urllib.parse.urlencode(
-            {"key": self.key, "q": q[:100], "video_type": "film", "safesearch": "true", "per_page": 30})
+            {"key": self.key, "q": q[:100], "video_type": "film", "safesearch": "true", "per_page": 200})
         stock._throttle(url, GAP)
         try:
             d = stock.fetch(url, {}, log=self.log)
