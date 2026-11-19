@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Centene in Clayton · stlouisdecember",
@@ -183,6 +182,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/53301297@N00/20048487274",
+   "plain": true
+  },
+  {
+   "shows": "Centene in Clayton",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Centene_in_Clayton.jpg/1920px-Centene_in_Clayton.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Centene_in_Clayton.jpg/500px-Centene_in_Clayton.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Paul Sableman, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Centene_in_Clayton.jpg",
    "plain": true
   }
  ]

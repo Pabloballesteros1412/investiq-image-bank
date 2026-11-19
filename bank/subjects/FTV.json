@@ -10,6 +10,23 @@
  "fill_from": "sector-industrials",
  "photos": [
   {
+   "shows": "Tektronix HQ in Beaverton, Oregon - Building 50",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tektronix_HQ_in_Beaverton%2C_Oregon_-_Building_50.jpg/1920px-Tektronix_HQ_in_Beaverton%2C_Oregon_-_Building_50.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Tektronix_HQ_in_Beaverton%2C_Oregon_-_Building_50.jpg/500px-Tektronix_HQ_in_Beaverton%2C_Oregon_-_Building_50.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Steve Morgan, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tektronix_HQ_in_Beaverton,_Oregon_-_Building_50.jpg"
+  },
+  {
    "shows": "Electronics Workbench · electronics, fluke, make, oscilloscope, tektronix",
    "url": "https://live.staticflickr.com/65/159018751_defc314b83_b.jpg",
    "preview": "https://live.staticflickr.com/65/159018751_defc314b83_z.jpg",
@@ -27,6 +44,60 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/80758054@N00/159018751",
+   "plain": true
+  },
+  {
+   "shows": "Tektronix WFM5200",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tektronix_WFM5200.jpg/1920px-Tektronix_WFM5200.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tektronix_WFM5200.jpg/500px-Tektronix_WFM5200.jpg",
+   "size": [
+    1920,
+    1218
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Erreja, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tektronix_WFM5200.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tektronix TDR 1503C",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tektronix_TDR_1503C.jpg/1920px-Tektronix_TDR_1503C.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Tektronix_TDR_1503C.jpg/500px-Tektronix_TDR_1503C.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Arphotog, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tektronix_TDR_1503C.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Triggered Sweep Controls on Tektronix 465 Oscilloscope",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Triggered_Sweep_Controls_on_Tektronix_465_Oscilloscope.jpg/1920px-Triggered_Sweep_Controls_on_Tektronix_465_Oscilloscope.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Triggered_Sweep_Controls_on_Tektronix_465_Oscilloscope.jpg/500px-Triggered_Sweep_Controls_on_Tektronix_465_Oscilloscope.jpg",
+   "size": [
+    1920,
+    1845
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gotanero, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Triggered_Sweep_Controls_on_Tektronix_465_Oscilloscope.jpg",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "A large airplane flying in the sky",
@@ -44,6 +43,23 @@
    "author_url": "https://unsplash.com/@niklasjonasson?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-plane-on-the-runway-cxL6krxE9zU?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Gulfstream V N111 FDK MD1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gulfstream_V_N111_FDK_MD1.jpg/1920px-Gulfstream_V_N111_FDK_MD1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gulfstream_V_N111_FDK_MD1.jpg/500px-Gulfstream_V_N111_FDK_MD1.jpg",
+   "size": [
+    1920,
+    831
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Acroterion, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gulfstream_V_N111_FDK_MD1.jpg"
   },
   {
    "shows": "General Dynamics Headquarters",
@@ -153,6 +169,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/65001151@N03/34804975225",
+   "plain": true
+  },
+  {
+   "shows": "N622PF 2021 GULFSTREAM AEROSPACE CORP GVII-G600 by Don Ramey Logan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/N622PF_2021_GULFSTREAM_AEROSPACE_CORP_GVII-G600_by_Don_Ramey_Logan.jpg/1920px-N622PF_2021_GULFSTREAM_AEROSPACE_CORP_GVII-G600_by_Don_Ramey_Logan.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/N622PF_2021_GULFSTREAM_AEROSPACE_CORP_GVII-G600_by_Don_Ramey_Logan.jpg/500px-N622PF_2021_GULFSTREAM_AEROSPACE_CORP_GVII-G600_by_Don_Ramey_Logan.jpg",
+   "size": [
+    1920,
+    730
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Don Ramey Logan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:N622PF_2021_GULFSTREAM_AEROSPACE_CORP_GVII-G600_by_Don_Ramey_Logan.jpg",
    "plain": true
   }
  ]

@@ -122,6 +122,60 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/37171504@N00/128268200",
    "plain": true
+  },
+  {
+   "shows": "Milwaukee August 2022 049 (U.S. Bank Center)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Milwaukee_August_2022_049_%28U.S._Bank_Center%29.jpg/1280px-Milwaukee_August_2022_049_%28U.S._Bank_Center%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Milwaukee_August_2022_049_%28U.S._Bank_Center%29.jpg/500px-Milwaukee_August_2022_049_%28U.S._Bank_Center%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Barera, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Milwaukee_August_2022_049_(U.S._Bank_Center).jpg",
+   "plain": true
+  },
+  {
+   "shows": "U.S. Bank Center at twilight",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/U.S._Bank_Center_at_twilight.jpg/1280px-U.S._Bank_Center_at_twilight.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/U.S._Bank_Center_at_twilight.jpg/500px-U.S._Bank_Center_at_twilight.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "SidewalkMD, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:U.S._Bank_Center_at_twilight.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Saint Therese Little Flower Church now US Bank",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Saint_Therese_Little_Flower_Church_now_US_Bank.jpg/1920px-Saint_Therese_Little_Flower_Church_now_US_Bank.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Saint_Therese_Little_Flower_Church_now_US_Bank.jpg/500px-Saint_Therese_Little_Flower_Church_now_US_Bank.jpg",
+   "size": [
+    1920,
+    1535
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ExorcisioTe, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Saint_Therese_Little_Flower_Church_now_US_Bank.jpg",
+   "plain": true
   }
  ]
 }

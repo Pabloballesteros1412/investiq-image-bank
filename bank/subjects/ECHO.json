@@ -10,6 +10,40 @@
  "fill_from": "sector-communication",
  "photos": [
   {
+   "shows": "Dish Network Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dish_Network_Headquarters.jpg/1920px-Dish_Network_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dish_Network_Headquarters.jpg/500px-Dish_Network_Headquarters.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Leroyky, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dish_Network_Headquarters.jpg"
+  },
+  {
+   "shows": "Boost Mobile Store - Pittsburgh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Boost_Mobile_Store_-_Pittsburgh_%2848171865312%29.jpg/1920px-Boost_Mobile_Store_-_Pittsburgh_%2848171865312%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Boost_Mobile_Store_-_Pittsburgh_%2848171865312%29.jpg/500px-Boost_Mobile_Store_-_Pittsburgh_%2848171865312%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Boost_Mobile_Store_-_Pittsburgh_(48171865312).jpg"
+  },
+  {
    "shows": "7 seconds: Echostar XXIII launch by SpaceX",
    "url": "https://live.staticflickr.com/3929/33492874295_12df7b7e40_b.jpg",
    "preview": "https://live.staticflickr.com/3929/33492874295_12df7b7e40_z.jpg",
@@ -67,6 +101,42 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/39160147@N03/15449823843",
+   "plain": true
+  },
+  {
+   "shows": "Boost Mobile Store Stockton, California",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boost_Mobile_Store_Stockton%2C_California.jpg/1920px-Boost_Mobile_Store_Stockton%2C_California.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Boost_Mobile_Store_Stockton%2C_California.jpg/500px-Boost_Mobile_Store_Stockton%2C_California.jpg",
+   "size": [
+    1920,
+    1379
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Boost_Mobile_Store_Stockton,_California.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Boost Mobile store Inkster Michigan",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boost_Mobile_store_Inkster_Michigan.JPG/1920px-Boost_Mobile_store_Inkster_Michigan.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Boost_Mobile_store_Inkster_Michigan.JPG/500px-Boost_Mobile_store_Inkster_Michigan.JPG",
+   "size": [
+    1920,
+    735
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dwight Burdette, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Boost_Mobile_store_Inkster_Michigan.JPG",
    "plain": true
   }
  ]

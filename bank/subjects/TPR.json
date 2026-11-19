@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "A brown and black handbag sitting on top of a white table",
@@ -26,6 +25,23 @@
    "author_url": "https://unsplash.com/@henrykobutra?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-brown-and-black-handbag-sitting-on-top-of-a-white-table-Y7C2sWaxf4Q?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "HK STD 沙田 Sha Tin 新城市廣場 New Town Plaza mall shop Kate Spade New York clothing September 2022 Px3 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HK_STD_%E6%B2%99%E7%94%B0_Sha_Tin_%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4_New_Town_Plaza_mall_shop_Kate_Spade_New_York_clothing_September_2022_Px3_01.jpg/1920px-HK_STD_%E6%B2%99%E7%94%B0_Sha_Tin_%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4_New_Town_Plaza_mall_shop_Kate_Spade_New_York_clothing_September_2022_Px3_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/HK_STD_%E6%B2%99%E7%94%B0_Sha_Tin_%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4_New_Town_Plaza_mall_shop_Kate_Spade_New_York_clothing_September_2022_Px3_01.jpg/500px-HK_STD_%E6%B2%99%E7%94%B0_Sha_Tin_%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4_New_Town_Plaza_mall_shop_Kate_Spade_New_York_clothing_September_2022_Px3_01.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Yanghime TADIWODOA BBAEW, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HK_STD_%E6%B2%99%E7%94%B0_Sha_Tin_%E6%96%B0%E5%9F%8E%E5%B8%82%E5%BB%A3%E5%A0%B4_New_Town_Plaza_mall_shop_Kate_Spade_New_York_clothing_September_2022_Px3_01.jpg"
   },
   {
    "shows": "10 Hudson Yard from 9 Av & 30 St 2016 Dec jeh",
@@ -143,6 +159,42 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/7831824@N04/10133921476",
+   "plain": true
+  },
+  {
+   "shows": "MC JW Marriott 澳門銀河 Galaxy Macau mall The Promenade shop Kate Spade New York Jan 2017 IX1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MC_JW_Marriott_%E6%BE%B3%E9%96%80%E9%8A%80%E6%B2%B3_Galaxy_Macau_mall_The_Promenade_shop_Kate_Spade_New_York_Jan_2017_IX1.jpg/1920px-MC_JW_Marriott_%E6%BE%B3%E9%96%80%E9%8A%80%E6%B2%B3_Galaxy_Macau_mall_The_Promenade_shop_Kate_Spade_New_York_Jan_2017_IX1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MC_JW_Marriott_%E6%BE%B3%E9%96%80%E9%8A%80%E6%B2%B3_Galaxy_Macau_mall_The_Promenade_shop_Kate_Spade_New_York_Jan_2017_IX1.jpg/500px-MC_JW_Marriott_%E6%BE%B3%E9%96%80%E9%8A%80%E6%B2%B3_Galaxy_Macau_mall_The_Promenade_shop_Kate_Spade_New_York_Jan_2017_IX1.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Laws Laws ZOIT G, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MC_JW_Marriott_%E6%BE%B3%E9%96%80%E9%8A%80%E6%B2%B3_Galaxy_Macau_mall_The_Promenade_shop_Kate_Spade_New_York_Jan_2017_IX1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kate Spade bag",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kate_Spade_bag.jpg/1280px-Kate_Spade_bag.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kate_Spade_bag.jpg/500px-Kate_Spade_bag.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Caravansera, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kate_Spade_bag.jpg",
    "plain": true
   }
  ]

@@ -17,6 +17,8 @@ point to crop around, and the chat crops it to 4:5 or 1:1 itself.
     python image_bank.py build --no-sa            (no CC BY-SA photos: only CC0, public domain and CC BY)
     python image_bank.py build --kind company --stock-only  (companies: keep their approved Commons photos and
                                                    pick their Unsplash/Pexels brand photos again; brands.json)
+    python image_bank.py build ... --brand-queries 6  (search more brands.json terms per company: 3 by default,
+                                                   times 3 for the famous ones)
     python image_bank.py build --commons-only     (go on without Unsplash/Pexels: otherwise a build of topics,
                                                    sectors or brand photos stops when no stock source answers)
     python image_bank.py index [--base-url URL]   (bank/index.json + bank/subjects/*.json; default: the repo's raw GitHub address)
@@ -1450,6 +1452,7 @@ if __name__ == "__main__":
         build_universe()
         sys.exit()
     if a[0] == "build":
+        BRAND_QUERIES = int(arg("--brand-queries") or BRAND_QUERIES)
         kinds = tuple((arg("--kind") or "company,topic,sector").split(","))
         build(only=arg("--only"), redo="--redo" in a or "--stock-only" in a, no_sa="--no-sa" in a, kinds=kinds,
               stock_only="--stock-only" in a, commons_only="--commons-only" in a)

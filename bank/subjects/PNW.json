@@ -48,6 +48,23 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/193316968@N06/51733847397",
    "plain": true
+  },
+  {
+   "shows": "Aerial view of the Palo Verde nuclear generating station in Arizona",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/PaloVerdeNuclearGeneratingStation.jpg/1920px-PaloVerdeNuclearGeneratingStation.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/PaloVerdeNuclearGeneratingStation.jpg/500px-PaloVerdeNuclearGeneratingStation.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cuhlik, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:PaloVerdeNuclearGeneratingStation.jpg"
   }
  ]
 }

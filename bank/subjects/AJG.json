@@ -8,5 +8,24 @@
  "sector": "sector-financials",
  "target": 10,
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Gallagher Insurance Dunedin building and surroundings, 15 Jun 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gallagher_Insurance_Dunedin_building_and_surroundings%2C_15_Jun_2026.jpg/1920px-Gallagher_Insurance_Dunedin_building_and_surroundings%2C_15_Jun_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gallagher_Insurance_Dunedin_building_and_surroundings%2C_15_Jun_2026.jpg/500px-Gallagher_Insurance_Dunedin_building_and_surroundings%2C_15_Jun_2026.jpg",
+   "size": [
+    1920,
+    1084
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Andykatib, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gallagher_Insurance_Dunedin_building_and_surroundings,_15_Jun_2026.jpg",
+   "plain": true
+  }
+ ]
 }

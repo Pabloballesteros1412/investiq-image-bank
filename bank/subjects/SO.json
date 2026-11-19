@@ -10,6 +10,26 @@
  "fill_from": "sector-utilities",
  "photos": [
   {
+   "shows": "Georgia Power Sign On Transformer Station",
+   "url": "https://live.staticflickr.com/5178/5455824671_a2e2747e3e_b.jpg",
+   "preview": "https://live.staticflickr.com/5178/5455824671_a2e2747e3e_z.jpg",
+   "size": [
+    1024,
+    548
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by kenteegardin on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/26373139@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/26373139@N08/5455824671",
+   "plain": true
+  },
+  {
    "shows": "Historic Alabama Power Company sign, Attalla, Alabama",
    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:08700:08782/full/2327,/0/default.jpg",
    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:08700:08782/full/500,/0/default.jpg",
@@ -46,24 +66,21 @@
    "source": "https://www.loc.gov/item/2010636961/"
   },
   {
-   "shows": "Georgia Power Sign On Transformer Station",
-   "url": "https://live.staticflickr.com/5178/5455824671_a2e2747e3e_b.jpg",
-   "preview": "https://live.staticflickr.com/5178/5455824671_a2e2747e3e_z.jpg",
+   "shows": "Alabama Power building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Alabama_Power_building.jpg/1280px-Alabama_Power_building.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Alabama_Power_building.jpg/500px-Alabama_Power_building.jpg",
    "size": [
-    1024,
-    548
+    1280,
+    1594
    ],
    "focus": [
     0.5,
     0.5
    ],
-   "credit": "Photo by kenteegardin on Flickr, CC BY-SA 2.0",
-   "licence": "CC BY-SA 2.0",
-   "author_url": "https://www.flickr.com/photos/26373139@N08",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/26373139@N08/5455824671",
-   "plain": true
+   "credit": "Lahti213, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Alabama_Power_building.jpg"
   },
   {
    "shows": "Georgia Power Tramsformer Station",

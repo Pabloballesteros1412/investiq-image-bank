@@ -500,6 +500,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/27935720@N00/156023462",
    "plain": true
+  },
+  {
+   "shows": "humatrope somatropina hospital use 144 iu",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Humatrope_144_iu.JPG/1280px-Humatrope_144_iu.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Humatrope_144_iu.JPG/500px-Humatrope_144_iu.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jackdan35, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Humatrope_144_iu.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Lilly Biological Laboratories at Greenfield",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lilly_Biological_Laboratories_at_Greenfield.jpg/1920px-Lilly_Biological_Laboratories_at_Greenfield.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Lilly_Biological_Laboratories_at_Greenfield.jpg/500px-Lilly_Biological_Laboratories_at_Greenfield.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nyttend, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Lilly_Biological_Laboratories_at_Greenfield.jpg",
+   "plain": true
   }
  ]
 }

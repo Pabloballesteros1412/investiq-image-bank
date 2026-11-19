@@ -138,6 +138,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/38865853@N03/6230297905",
    "plain": true
+  },
+  {
+   "shows": "CBRE, Domaniewska 30, Warsaw",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/CBRE%2C_Domaniewska_30%2C_Warsaw.jpg/1920px-CBRE%2C_Domaniewska_30%2C_Warsaw.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/CBRE%2C_Domaniewska_30%2C_Warsaw.jpg/500px-CBRE%2C_Domaniewska_30%2C_Warsaw.jpg",
+   "size": [
+    1920,
+    1413
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wistula, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CBRE,_Domaniewska_30,_Warsaw.jpg",
+   "plain": true
+  },
+  {
+   "shows": "CBRE Birmingham Office",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/CBRE_Birmingham_Office.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CBRE_Birmingham_Office.jpg/500px-CBRE_Birmingham_Office.jpg",
+   "size": [
+    1920,
+    1363
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jpdfive, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CBRE_Birmingham_Office.jpg",
+   "plain": true
   }
  ]
 }

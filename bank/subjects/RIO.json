@@ -118,6 +118,60 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/65749227@N00/14550353297",
    "plain": true
+  },
+  {
+   "shows": "Kennecott Rio Tinto Mine Routes",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kennecott_Rio_Tinto_Mine_Routes_%2850729596036%29.jpg/1920px-Kennecott_Rio_Tinto_Mine_Routes_%2850729596036%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kennecott_Rio_Tinto_Mine_Routes_%2850729596036%29.jpg/500px-Kennecott_Rio_Tinto_Mine_Routes_%2850729596036%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "formulanone, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kennecott_Rio_Tinto_Mine_Routes_(50729596036).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Rio Tinto West Angeles October 2021",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rio_Tinto_West_Angeles_October_2021_-_51648685053.jpg/1280px-Rio_Tinto_West_Angeles_October_2021_-_51648685053.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rio_Tinto_West_Angeles_October_2021_-_51648685053.jpg/500px-Rio_Tinto_West_Angeles_October_2021_-_51648685053.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "U.S. Consulate General Perth, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rio_Tinto_West_Angeles_October_2021_-_51648685053.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Boron mine pit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Boron_mine_pit.jpg/1920px-Boron_mine_pit.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Boron_mine_pit.jpg/500px-Boron_mine_pit.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Marcin Wichary, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Boron_mine_pit.jpg",
+   "plain": true
   }
  ]
 }

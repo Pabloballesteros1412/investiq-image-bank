@@ -7,7 +7,6 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
   {
    "shows": "Entergy Corp, Ninemile 6 power plant, Louisiana, 2019",
@@ -25,6 +24,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Entergy_Corp,_Ninemile_6_power_plant,_Louisiana,_2019.jpg"
+  },
+  {
+   "shows": "Arkansas Nuclear One cooling tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arkansas_Nuclear_One_cooling_tower.jpg/1920px-Arkansas_Nuclear_One_cooling_tower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Arkansas_Nuclear_One_cooling_tower.jpg/500px-Arkansas_Nuclear_One_cooling_tower.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Flickr user: Topato, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Arkansas_Nuclear_One_cooling_tower.jpg"
   },
   {
    "shows": "Entergy Corporation",

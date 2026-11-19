@@ -399,6 +399,21 @@ Decisions (Pablo, 4 Nov 2026):
   dropped: naming rights): Unsplash gave only two Intuitive Surgical logo renders (grade 1), Openverse 20 candidates (2
   grade 3: a Haliade-X turbine for GE Vernova, a Littmann stethoscope; 3 grade 2). Bank: 6,555 photos; companies 4,185
   (197 at target, 93 with none). Unsplash and Openverse have next to nothing more for B2B names.
+- **Commons with the brand terms** (19 Nov): `grow_commons_brands.py` (scratchpad) searched Commons with the first 8
+  `brands.json` terms of the 274 companies below target (up to 4 per term). A hit must hold the term in its file
+  name plus a business word or another of the company's names, or sit in a category named after the term that does
+  ('Comanche Peak Nuclear Power Plant', not the mountain; "Vistra" alone is a Spanish word); visits, ceremonies,
+  protests and events are left out. 195 candidates graded by eye: 34 grade 3 (Palo Verde, Morenci, Arkansas Nuclear
+  One, Travelers Tower, Truist Center, Tektronix HQ, Embarcadero Center, a HOKA store, a Spectrum van, NovaSeq, Dexcom
+  G7, the GE90), 73 grade 2. Rejected: sponsorship (Fortinet's IMOCA sailboats), naming-rights venues (Truist Field,
+  Centene's rink), name clashes (Mount Gilead, Grainger County, Jimmy Dean), AIG's old 70 Pine Street. Merged as
+  hand-picked. `build --brand-queries N` searches more brand terms per company on Unsplash (3 by default, times 3
+  for the famous ones), but only 7 thin companies have more than 3 terms.
+- **Round 21** (19 Nov): 77 searches in 26 topics (two pieces); stock 4 of 6 grade 3 (a warship in fog, gold bangles,
+  Dotonbori, a sapphire ring), Commons 2 of 23 (a Bitcoin coin over a laptop, a fibre optic on a lab bench). Bank:
+  6,665 photos; companies 4,289 (208 at target, 90 with none; famous average 26.2, 35 of 50 at 30), topics 1,829,
+  sectors 547; 23 of 48 still at 48-49. Round 22 drafted (85 searches, 25 subjects, `new_r22.json`): generic words
+  are spent, so they name places and things (Himeji, Senso-ji, debt clock, surgical robot, customs officer).
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

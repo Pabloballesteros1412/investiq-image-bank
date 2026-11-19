@@ -511,6 +511,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/140974729@N05/50575653106",
    "plain": true
+  },
+  {
+   "shows": "VMware HQ campus 3401 Hillview entrance",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/VMware_HQ_campus_3401_Hillview_entrance.JPG/1920px-VMware_HQ_campus_3401_Hillview_entrance.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/VMware_HQ_campus_3401_Hillview_entrance.JPG/500px-VMware_HQ_campus_3401_Hillview_entrance.JPG",
+   "size": [
+    1920,
+    1128
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:VMware_HQ_campus_3401_Hillview_entrance.JPG",
+   "plain": true
+  },
+  {
+   "shows": "VMware HQ campus cafeteria",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/VMware_HQ_campus_cafeteria.JPG/1920px-VMware_HQ_campus_cafeteria.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/VMware_HQ_campus_cafeteria.JPG/500px-VMware_HQ_campus_cafeteria.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:VMware_HQ_campus_cafeteria.JPG",
+   "plain": true
   }
  ]
 }

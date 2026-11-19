@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 30,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "The former General Electric Co. headquarters building, now (in 2018) a research facility, in Schenectady, New York",
@@ -184,6 +183,40 @@
    "author_url": "https://unsplash.com/@henry_moellers1901?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-large-white-ge-jet-engine-on-an-airplane-iPkIVUt9VKY?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "The GE90-115B Turbofan powers the Boeing 787 \"Dreamliner\".",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GE90-115B_Turbofan_9397.jpg/1920px-GE90-115B_Turbofan_9397.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/GE90-115B_Turbofan_9397.jpg/500px-GE90-115B_Turbofan_9397.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chris Light, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GE90-115B_Turbofan_9397.jpg"
+  },
+  {
+   "shows": "Face to Face with the GE90",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Face_to_Face_with_the_GE90_%2814320331929%29.jpg/1920px-Face_to_Face_with_the_GE90_%2814320331929%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Face_to_Face_with_the_GE90_%2814320331929%29.jpg/500px-Face_to_Face_with_the_GE90_%2814320331929%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Maxime ✈ from Le François , Martinique, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Face_to_Face_with_the_GE90_(14320331929).jpg"
   },
   {
    "shows": "777X Roll-Out (blurred)",
@@ -481,6 +514,42 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/90454079@N00/16808010478",
+   "plain": true
+  },
+  {
+   "shows": "GE Aerospace: GE90",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GE90_%2814450613805%29.jpg/1920px-GE90_%2814450613805%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GE90_%2814450613805%29.jpg/500px-GE90_%2814450613805%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Maxime ✈ from Le François , Martinique, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GE90_(14450613805).jpg",
+   "plain": true
+  },
+  {
+   "shows": "The #2 (right-side) engine on an American Airlines Boeing 777-300ER.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GE90_on_an_AA_B773_%283%29.jpg/1920px-GE90_on_an_AA_B773_%283%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GE90_on_an_AA_B773_%283%29.jpg/500px-GE90_on_an_AA_B773_%283%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Olivier Cleynen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GE90_on_an_AA_B773_(3).jpg",
    "plain": true
   }
  ]
