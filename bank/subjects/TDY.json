@@ -26,6 +26,46 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:One_of_the_new_MOONS_detectors.jpg",
    "plain": true
+  },
+  {
+   "shows": "FLIR One Pro Thermal Camera",
+   "url": "https://live.staticflickr.com/1900/30418557488_000ab6a61c_b.jpg",
+   "preview": "https://live.staticflickr.com/1900/30418557488_000ab6a61c_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jcutrer.com on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/164144782@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/164144782@N02/30418557488",
+   "plain": true
+  },
+  {
+   "shows": "FLIR One Pro Thermal Camera",
+   "url": "https://live.staticflickr.com/1895/29349772717_b4f0bb3d10_b.jpg",
+   "preview": "https://live.staticflickr.com/1895/29349772717_b4f0bb3d10_z.jpg",
+   "size": [
+    1024,
+    577
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jcutrer.com on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/164144782@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/164144782@N02/29349772717",
+   "plain": true
   }
  ]
 }

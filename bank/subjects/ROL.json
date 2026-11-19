@@ -8,5 +8,66 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "The Orkin Man Truck",
+   "url": "https://live.staticflickr.com/647/22587905696_8e6441b3e5_b.jpg",
+   "preview": "https://live.staticflickr.com/647/22587905696_8e6441b3e5_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Rusty Clark ~ 100K Photos on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/23206546@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/23206546@N04/22587905696",
+   "plain": true
+  },
+  {
+   "shows": "Orkin · 10millionphotos, corpuschristi, panasonicdmcfz7, texas, vehicle",
+   "url": "https://live.staticflickr.com/3291/2623111554_3d4be9480f_b.jpg",
+   "preview": "https://live.staticflickr.com/3291/2623111554_3d4be9480f_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by qnr on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/78272611@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/78272611@N00/2623111554",
+   "plain": true
+  },
+  {
+   "shows": "The Orkin Man Truck",
+   "url": "https://live.staticflickr.com/620/21992766853_c947f296c4_b.jpg",
+   "preview": "https://live.staticflickr.com/620/21992766853_c947f296c4_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Rusty Clark ~ 100K Photos on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/23206546@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/23206546@N04/21992766853",
+   "plain": true
+  }
+ ]
 }

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 30,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "Chase Bank Logo · 14thstreet, bank, chase, greenwichvillage, jpmorganchase",
@@ -186,6 +185,26 @@
    "author_url": "https://unsplash.com/@jakeisnicee?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-car-is-parked-outside-a-chase-bank-at-night-iIOBi9Q1INI?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Chase Bank · chasebank",
+   "url": "https://live.staticflickr.com/5575/14823055340_91c94d5218_b.jpg",
+   "preview": "https://live.staticflickr.com/5575/14823055340_91c94d5218_z.jpg",
+   "size": [
+    1024,
+    556
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/14823055340",
+   "plain": true
   },
   {
    "shows": "Chase ATM in Greenwood, Indiana - June 2022 - Sarah Stierch",
@@ -521,6 +540,26 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/51526368@N03/5115756961",
+   "plain": true
+  },
+  {
+   "shows": "Chase Bank · chasebank",
+   "url": "https://live.staticflickr.com/5595/15011064995_20ee1a5cc8_b.jpg",
+   "preview": "https://live.staticflickr.com/5595/15011064995_20ee1a5cc8_z.jpg",
+   "size": [
+    799,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by JeepersMedia on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/39160147@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39160147@N03/15011064995",
    "plain": true
   }
  ]

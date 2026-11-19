@@ -8,5 +8,66 @@
  "sector": "sector-materials",
  "target": 10,
  "fill_from": "sector-materials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Martin Marietta - Dallas Aggregate Yard",
+   "url": "https://live.staticflickr.com/65535/50442625971_3d6809c9bd_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/50442625971_3d6809c9bd_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by formulanone on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/30552029@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30552029@N00/50442625971",
+   "plain": true
+  },
+  {
+   "shows": "87l060: Looking N from conveyor belt structure at Martin-Marietta sand yard",
+   "url": "https://live.staticflickr.com/8546/8692277695_f49640d188_b.jpg",
+   "preview": "https://live.staticflickr.com/8546/8692277695_f49640d188_z.jpg",
+   "size": [
+    676,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bill Alden on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/70020260@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/70020260@N04/8692277695",
+   "plain": true
+  },
+  {
+   "shows": "87l057: Looking W from conveyor belt structure at Martin-Marietta sand yard",
+   "url": "https://live.staticflickr.com/8546/8693383320_4ca7ee819c_b.jpg",
+   "preview": "https://live.staticflickr.com/8546/8693383320_4ca7ee819c_z.jpg",
+   "size": [
+    676,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Bill Alden on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/70020260@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/70020260@N04/8693383320",
+   "plain": true
+  }
+ ]
 }

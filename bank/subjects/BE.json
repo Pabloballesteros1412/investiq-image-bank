@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Bloom Energy building sign (Sunnyvale)",
@@ -159,6 +158,46 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/45702277@N04/4404770957",
+   "plain": true
+  },
+  {
+   "shows": "Bloom Energy servers are not hot",
+   "url": "https://live.staticflickr.com/2795/4405536412_c56b461ec5_b.jpg",
+   "preview": "https://live.staticflickr.com/2795/4405536412_c56b461ec5_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by BloomEnergy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/45702277@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/45702277@N04/4405536412",
+   "plain": true
+  },
+  {
+   "shows": "Bloom Energy Servers at eBay HQ",
+   "url": "https://live.staticflickr.com/2703/4405532854_9224f1a289_b.jpg",
+   "preview": "https://live.staticflickr.com/2703/4405532854_9224f1a289_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by BloomEnergy on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/45702277@N04",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/45702277@N04/4405532854",
    "plain": true
   }
  ]

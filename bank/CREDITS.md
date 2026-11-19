@@ -202,11 +202,19 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Align Technology (ALGN)
 
 - Woman adjusting clear dental aligners on teeth: Photo by Harold Hisona on Unsplash. [uTUsnv_UCSQ](https://unsplash.com/photos/woman-adjusting-clear-dental-aligners-on-teeth-uTUsnv_UCSQ?utm_source=investiq_image_bank&utm_medium=referral)
+- invisalign-26: Photo by stellahyc910 on Flickr, CC BY 2.0. [46502788724](https://www.flickr.com/photos/95116426@N07/46502788724)
 - Joseph M. Hogan, Align Technology CEO (per Wikidata): St. Gallen Symposium, CC BY-SA 4.0, via Wikimedia Commons. [39. St.Gallen Symposium-Joseph M. Hogan-HSGN 028-01941.JPG](https://commons.wikimedia.org/wiki/File:39._St.Gallen_Symposium-Joseph_M._Hogan-HSGN_028-01941.JPG)
+- invisalign braces · braces, invisalign: Photo by kinseikun on Flickr, CC0. [39314466255](https://www.flickr.com/photos/162338887@N06/39314466255)
+- Invisalign: Photo by mamamockingbird77 on Flickr, CC BY 2.0. [24307961435](https://www.flickr.com/photos/27353377@N04/24307961435)
+- Invisalign Day Zero: Photo by kennejima on Flickr, CC BY 2.0. [24212864799](https://www.flickr.com/photos/17152247@N00/24212864799)
+- 99of 7th 365: Whoops, cracked Invisalign: Photo by dumbledad on Flickr, CC BY 2.0. [32185523757](https://www.flickr.com/photos/27141279@N00/32185523757)
 
 ## Allegion (ALLE)
 
 - P10419AZS · allegion: Photo by IndyMayorsOffice on Flickr, Public Domain Mark. [48861083601](https://www.flickr.com/photos/155509408@N02/48861083601)
+- Why is Schlage so dominate? Is that my imagination?: Photo by bionicteaching on Flickr, CC BY-SA 2.0. [14064545983](https://www.flickr.com/photos/29096601@N00/14064545983)
+- IMG_3167 · avanti, doorlocks, frontdoor, handle, house: Photo by jmrodri on Flickr, CC BY 2.0. [8056786770](https://www.flickr.com/photos/33205801@N00/8056786770)
+- IMG_3166 · doorlocks, frontdoor, handle, handleset, house: Photo by jmrodri on Flickr, CC BY 2.0. [8056786880](https://www.flickr.com/photos/33205801@N00/8056786880)
 
 ## Alliant Energy (LNT)
 
@@ -361,6 +369,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - AIG Headquarters: Marc Bryan-Brown, public domain, via Wikimedia Commons. [AIG Headquarters.jpg](https://commons.wikimedia.org/wiki/File:AIG_Headquarters.jpg)
 - HK 金鐘 Admiralty 夏慤道 Harcourt Road AIG Tower September 2019 SSG 10: Ho 297 300 885, CC BY-SA 4.0, via Wikimedia Commons. [HK 金鐘 Admiralty 夏慤道 Harcourt Road AIG Tower September 2019 SSG 10.jpg](https://commons.wikimedia.org/wiki/File:HK_%E9%87%91%E9%90%98_Admiralty_%E5%A4%8F%E6%85%A4%E9%81%93_Harcourt_Road_AIG_Tower_September_2019_SSG_10.jpg)
 - Robert Benmosche: AIG, CC BY-SA 3.0, via Wikimedia Commons. [Robert Benmosche.JPG](https://commons.wikimedia.org/wiki/File:Robert_Benmosche.JPG)
+- AIG - New York · aig, american, bw, city, company: Photo by eflon on Flickr, CC BY 2.0. [3372323968](https://www.flickr.com/photos/23094783@N03/3372323968)
 
 ## American Tower (AMT)
 
@@ -377,6 +386,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Ameriprise Financial Center Minneapolis o: Tony Webster, CC BY-SA 3.0, via Wikimedia Commons. [Ameriprise Financial Center Minneapolis 2185640999 o.jpg](https://commons.wikimedia.org/wiki/File:Ameriprise_Financial_Center_Minneapolis_2185640999_o.jpg)
 - Ameriprise Financial Center and Capella Tower, Minneapolis, Minnesota: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [30205721858](https://www.flickr.com/photos/75683070@N00/30205721858)
 - Ameriprise Financial Center, Minneapolis, Minnesota: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [44025378142](https://www.flickr.com/photos/75683070@N00/44025378142)
+- Ameriprise · joebielawa, minneapolis: Photo by Joe Bielawa on Flickr, CC BY 2.0. [3430678528](https://www.flickr.com/photos/88596146@N00/3430678528)
+- Ameriprise · joebielawa, minneapolis, architecture, building, business: Photo by Joe Bielawa on Flickr, CC BY 2.0. [3910717905](https://www.flickr.com/photos/88596146@N00/3910717905)
+- Ameriprise Financial Center, Minneapolis, Minnesota: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [43354986404](https://www.flickr.com/photos/75683070@N00/43354986404)
+- Ameriprise HQ: Photo by TCJazelle on Flickr, CC BY-SA 2.0. [17003453892](https://www.flickr.com/photos/92876820@N07/17003453892)
 
 ## Ametek (AME)
 
@@ -570,6 +583,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - The headquarters of Avery Dennison in Glendale, California as photographed by user Coolcaesar on May 29, 2014.: Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons. [Averydennisonheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Averydennisonheadquarters.jpg)
 - Avery Utrecht: Edoderoo, CC BY-SA 3.0, via Wikimedia Commons. [Avery Utrecht 20121002 172612.jpg](https://commons.wikimedia.org/wiki/File:Avery_Utrecht_20121002_172612.jpg)
+
+## Axon Enterprise (AXON)
+
+- Taser X26 cartridge and coin: Photo by Moriartys on Flickr, CC BY 2.0. [4736544365](https://www.flickr.com/photos/79294591@N00/4736544365)
 
 ## Baidu (BIDU)
 
@@ -766,6 +783,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Bloom Energy Servers at eBay HQ: Photo by BloomEnergy on Flickr, CC BY 2.0. [4404771601](https://www.flickr.com/photos/45702277@N04/4404771601)
 - Bloom Energy Servers at eBay: Photo by BloomEnergy on Flickr, CC BY 2.0. [4404772171](https://www.flickr.com/photos/45702277@N04/4404772171)
 - Bloom Energy Servers at eBay: Photo by BloomEnergy on Flickr, CC BY 2.0. [4404770957](https://www.flickr.com/photos/45702277@N04/4404770957)
+- Bloom Energy servers are not hot: Photo by BloomEnergy on Flickr, CC BY 2.0. [4405536412](https://www.flickr.com/photos/45702277@N04/4405536412)
+- Bloom Energy Servers at eBay HQ: Photo by BloomEnergy on Flickr, CC BY 2.0. [4405532854](https://www.flickr.com/photos/45702277@N04/4405532854)
 
 ## BNY Mellon (BNY)
 
@@ -849,6 +868,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Bristol Myers Squibb at 250 Water Street, Cambridge Crossing: Kenneth C. Zirkel, CC BY-SA 4.0, via Wikimedia Commons. [Bristol Myers Squibb at 250 Water Street, Cambridge Crossing.jpg](https://commons.wikimedia.org/wiki/File:Bristol_Myers_Squibb_at_250_Water_Street,_Cambridge_Crossing.jpg)
 - Bristol-Myers Squibb building at 100 Nassau Park Boulevard 2010: Jonathan Schilling, CC BY-SA 4.0, via Wikimedia Commons. [Bristol-Myers Squibb building at 100 Nassau Park Boulevard 2010.jpg](https://commons.wikimedia.org/wiki/File:Bristol-Myers_Squibb_building_at_100_Nassau_Park_Boulevard_2010.jpg)
 - Bristol Myers Squibb, Moreton, Wirral - 0369: Rept0n1x, CC BY-SA 3.0, via Wikimedia Commons. [Bristol Myers Squibb, Moreton, Wirral - IMG 0369.JPG](https://commons.wikimedia.org/wiki/File:Bristol_Myers_Squibb,_Moreton,_Wirral_-_IMG_0369.JPG)
+- Bristol-Myers Squibb: Photo by A-4 Nieuws.nl on Flickr, CC BY-SA 2.0. [4353113087](https://www.flickr.com/photos/47483923@N07/4353113087)
 
 ## Broadcom (AVGO)
 
@@ -856,6 +876,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Corporate headquarters of Broadcom: Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons. [Broadcomheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Broadcomheadquarters.jpg)
 - Broadcom: SNR NAMBU, CC BY-SA 3.0, via Wikimedia Commons. [Broadcom.jpg](https://commons.wikimedia.org/wiki/File:Broadcom.jpg)
 - Hock Tan 2022: Greg Bezat, d/b/a Bezat Video Group, CC BY-SA 4.0, via Wikimedia Commons. [Hock Tan 2022.png](https://commons.wikimedia.org/wiki/File:Hock_Tan_2022.png)
+- pin numbers - 25 · broadcom, chip, electronics, identification, surfacemount: Photo by oskay on Flickr, CC BY 2.0. [4422313162](https://www.flickr.com/photos/17425845@N00/4422313162)
 - Broadcom BCM92046MPCIE-6969: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Broadcom BCM92046MPCIE-6969.jpg](https://commons.wikimedia.org/wiki/File:Broadcom_BCM92046MPCIE-6969.jpg)
 - VMware HQ 3405 Hillview: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [VMware HQ 3405 Hillview.JPG](https://commons.wikimedia.org/wiki/File:VMware_HQ_3405_Hillview.JPG)
 - Broadcom Inc: Fostera12, CC BY-SA 4.0, via Wikimedia Commons. [Broadcom Inc.jpg](https://commons.wikimedia.org/wiki/File:Broadcom_Inc.jpg)
@@ -875,6 +896,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - My laptop's wireless card Broadcom BCM4311 PCI Express: Photo by Collin Anderson on Flickr, CC BY 2.0. [2224327540](https://www.flickr.com/photos/7852439@N07/2224327540)
 - Raspberry Pi 3 Broadcom BCM2837 Main Processor / SOC: Photo by adlerweb on Flickr, CC BY 2.0. [35761930473](https://www.flickr.com/photos/53792148@N06/35761930473)
 - Broadcom BCM94360CD · bcm94360cd, bluetooth, broadcom, handoff, wifi: Photo by shizo on Flickr, CC BY-SA 2.0. [15906907743](https://www.flickr.com/photos/69501650@N00/15906907743)
+- Broadcom BCM7019 STB SoC die shot: Photo by Martijn Boer on Flickr, Public Domain Mark. [38256087225](https://www.flickr.com/photos/140974729@N05/38256087225)
+- Broadcom BCM2050KMLG Package: Photo by cole8888 on Flickr, Public Domain Mark. [49753276083](https://www.flickr.com/photos/187597251@N05/49753276083)
+- Broadcom SoC based on Sibyte MIPS core (SB1250): Photo by Martijn Boer on Flickr, Public Domain Mark. [50575653106](https://www.flickr.com/photos/140974729@N05/50575653106)
 
 ## Brown–Forman (BF-B)
 
@@ -968,6 +992,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - CARRIER AIR CONDITIONER OUTDOOR UNIT: Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons. [CARRIER AIR CONDITIONER OUTDOOR UNIT (2).jpg](https://commons.wikimedia.org/wiki/File:CARRIER_AIR_CONDITIONER_OUTDOOR_UNIT_(2).jpg)
 - Chiller in a large commercial building, Brisbane: Kgbo, CC BY-SA 4.0, via Wikimedia Commons. [Chiller in a large commercial building, Brisbane.jpg](https://commons.wikimedia.org/wiki/File:Chiller_in_a_large_commercial_building,_Brisbane.jpg)
 - Auflieger Kühlmaschine: selbst, public domain, via Wikimedia Commons. [Auflieger Kühlmaschine.jpg](https://commons.wikimedia.org/wiki/File:Auflieger_K%C3%BChlmaschine.jpg)
+- Carrier Air Conditioners: Photo by FanFan61618 on Flickr, CC BY-SA 2.0. [51884231416](https://www.flickr.com/photos/129344407@N05/51884231416)
+- Carrier HVAC unit: Photo by FanFan61618 on Flickr, CC BY-SA 2.0. [42278611022](https://www.flickr.com/photos/129344407@N05/42278611022)
 
 ## Carvana (CVNA)
 
@@ -1036,6 +1062,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Cava Colada Shop Cabin John Village MD 07-41-45: G. Edward Johnson, CC BY 4.0, via Wikimedia Commons. [Cava Colada Shop Cabin John Village MD 2023-04-18 07-41-45.jpg](https://commons.wikimedia.org/wiki/File:Cava_Colada_Shop_Cabin_John_Village_MD_2023-04-18_07-41-45.jpg)
 - Cava restaurant at Union Station in Washington, D.C. 02: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Cava restaurant at Union Station in Washington, D.C. 02.jpg](https://commons.wikimedia.org/wiki/File:Cava_restaurant_at_Union_Station_in_Washington,_D.C._02.jpg)
 
+## Cboe Global Markets (CBOE)
+
+- The sculpture at the Cboe Futures Exchange: Photo by vlitvinov on Flickr, CC0. [49959909578](https://www.flickr.com/photos/59724445@N07/49959909578)
+
 ## CBRE Group (CBRE)
 
 - CBRE Downtown Glendale Directory Building: Alexis Doine, CC0, via Wikimedia Commons. [CBRE Downtown Glendale Directory Building.JPG](https://commons.wikimedia.org/wiki/File:CBRE_Downtown_Glendale_Directory_Building.JPG)
@@ -1043,6 +1073,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - CBRE, 200 S Civic Center Dr, Columbus, OH 2024-04: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [CBRE, 200 S Civic Center Dr, Columbus, OH 2024-04.jpg](https://commons.wikimedia.org/wiki/File:CBRE,_200_S_Civic_Center_Dr,_Columbus,_OH_2024-04.jpg)
 - Offices for lease on Renfrew Drive in Markham, Ontario - CBRE listing: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [OfficeForLeaseMarkhamCBRE2.jpg](https://commons.wikimedia.org/wiki/File:OfficeForLeaseMarkhamCBRE2.jpg)
 - CBRE LA headquarters: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [CBRE LA headquarters.jpg](https://commons.wikimedia.org/wiki/File:CBRE_LA_headquarters.jpg)
+- CBRE reception · cbre, henriettahouse, london, airport, architecture: Photo by EG Focus on Flickr, CC BY 2.0. [6230831298](https://www.flickr.com/photos/38865853@N03/6230831298)
+- CBRE's new offices · cbre, henriettahouse, london: Photo by EG Focus on Flickr, CC BY 2.0. [6230297905](https://www.flickr.com/photos/38865853@N03/6230297905)
 
 ## CDW Corporation (CDW)
 
@@ -1089,6 +1121,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Charter Communications (CHTR)
 
 - Charter Spectrum Headquarters ( ): AirportExpert, CC0, via Wikimedia Commons. [Charter Spectrum Headquarters (cropped).jpg](https://commons.wikimedia.org/wiki/File:Charter_Spectrum_Headquarters_(cropped).jpg)
+- Charter Spectrum Cable Truck - Austin - Texas: Photo by willbuckner on Flickr, CC BY 2.0. [50531609316](https://www.flickr.com/photos/160344139@N02/50531609316)
 - Charter Communications HQ Stamford: AirportExpert, CC0, via Wikimedia Commons. [Charter Communications HQ Stamford.jpg](https://commons.wikimedia.org/wiki/File:Charter_Communications_HQ_Stamford.jpg)
 - Charter Communications branded Versalift Ford F-450 Super Duty bucket truck in Gillette, Wyoming: Mr. Satterly, CC0, via Wikimedia Commons. [Charter Communications branded Versalift Ford F-450 Super Duty bucket truck in Gillette, Wyoming.jpg](https://commons.wikimedia.org/wiki/File:Charter_Communications_branded_Versalift_Ford_F-450_Super_Duty_bucket_truck_in_Gillette,_Wyoming.jpg)
 - Charter Spectrum Headquarters - Side: AirportExpert, CC0, via Wikimedia Commons. [Charter Spectrum Headquarters - Side.jpg](https://commons.wikimedia.org/wiki/File:Charter_Spectrum_Headquarters_-_Side.jpg)
@@ -1212,6 +1245,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Williamsburg Aug 2026 191: Epicgenius, CC BY-SA 4.0, via Wikimedia Commons. [Williamsburg Aug 2026 191.jpg](https://commons.wikimedia.org/wiki/File:Williamsburg_Aug_2026_191.jpg)
 - One Citizens Plaza entrance: Kenneth C. Zirkel, CC BY-SA 3.0, via Wikimedia Commons. [One Citizens Plaza entrance.jpg](https://commons.wikimedia.org/wiki/File:One_Citizens_Plaza_entrance.jpg)
 - One Citizens Plaza, Providence: dconvertini, CC BY-SA 2.0, via Wikimedia Commons. [One Citizens Plaza, Providence.jpg](https://commons.wikimedia.org/wiki/File:One_Citizens_Plaza,_Providence.jpg)
+- Citizens Bank · atm, bank, citizens, green, olneyville: Photo by Jef Nickerson on Flickr, CC BY-SA 2.0. [78597911](https://www.flickr.com/photos/49368505@N00/78597911)
 
 ## Clorox (CLX)
 
@@ -1383,6 +1417,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Herbert A. Wagner plant MD1: Acroterion, CC BY-SA 4.0, via Wikimedia Commons. [Herbert A. Wagner plant MD1.jpg](https://commons.wikimedia.org/wiki/File:Herbert_A._Wagner_plant_MD1.jpg)
 
+## Cooper Companies (The) (COO)
+
+- Coopervision is 40SGD a box: Photo by Kai Hendry on Flickr, CC BY 2.0. [14924728646](https://www.flickr.com/photos/16105436@N00/14924728646)
+
 ## Copart (CPRT)
 
 - DSC_0082_01 · accident, bigtruc, chevy, collission, copart: Photo by tsuacctnt on Flickr, CC BY 2.0. [4950954457](https://www.flickr.com/photos/8842985@N03/4950954457)
@@ -1522,6 +1560,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - The Flying Saucer and D. R. Horton Tower: Sultry, CC BY 2.0, via Wikimedia Commons. [The Flying Saucer and D. R. Horton Tower.jpg](https://commons.wikimedia.org/wiki/File:The_Flying_Saucer_and_D._R._Horton_Tower.jpg)
 - D. R. Horton Tower, Sundance Square: Josh Berglund from United States, CC BY 2.0, via Wikimedia Commons. [D. R. Horton Tower, Sundance Square.jpg](https://commons.wikimedia.org/wiki/File:D._R._Horton_Tower,_Sundance_Square.jpg)
+- 7-30-22 The DR Horton house in Meridianville, AL that we loved & almost bought!: Photo by ruthdaniel3444 on Flickr, CC BY 2.0. [52372895049](https://www.flickr.com/photos/14935610@N00/52372895049)
+
+## Danaher Corporation (DHR)
+
+- Beckman Coulter Vi-Cell XR Cell Viability Analyzer: Photo by M. Janicki on Flickr, CC BY 2.0. [3815183539](https://www.flickr.com/photos/35203752@N07/3815183539)
+- www.ibomic.com · abbott, adapter, alcon, beam, camera: Photo by ibomic on Flickr, CC BY-SA 2.0. [8249008411](https://www.flickr.com/photos/87701870@N04/8249008411)
 
 ## Darden Restaurants (DRI)
 
@@ -1620,6 +1664,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Dexcom G4 Continuous Glucose Monitor (CGM) receiver showing an error when it has lost the connection with the transmitter on the body.: Photo by continentcontinent.cc on Flickr, CC BY 2.0. [32599134534](https://www.flickr.com/photos/57221817@N07/32599134534)
 - 2024.12.12 Dexcom Stelo 347 12111-HDR: Photo by tedeytan on Flickr, CC BY-SA 2.0. [54257364207](https://www.flickr.com/photos/22526649@N03/54257364207)
 - Dexcom G6 transmitter: Photo by booledozer on Flickr, CC0. [52076618032](https://www.flickr.com/photos/55289779@N00/52076618032)
+- 100 at startup · dexcom, diabetes: Photo by Colcalli on Flickr, Public Domain Mark. [4361239966](https://www.flickr.com/photos/20479006@N05/4361239966)
+- It's a match! · dexcom, diabetes, omnipod: Photo by Colcalli on Flickr, Public Domain Mark. [4335213261](https://www.flickr.com/photos/20479006@N05/4335213261)
 
 ## Diageo (DEO)
 
@@ -1785,6 +1831,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - 7 seconds: Echostar XXIII launch by SpaceX: Photo by Michael Seeley on Flickr, CC BY 2.0. [33492874295](https://www.flickr.com/photos/76093456@N04/33492874295)
 - Echostar XXIII launch by SpaceX: Photo by Michael Seeley on Flickr, CC BY 2.0. [32626261514](https://www.flickr.com/photos/76093456@N04/32626261514)
+- Boost Mobile · boost, mobile: Photo by JeepersMedia on Flickr, CC BY 2.0. [15449823843](https://www.flickr.com/photos/39160147@N03/15449823843)
 
 ## Ecolab (ECL)
 
@@ -1799,6 +1846,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - East Coast Relief Efforts in the wake of Hurricane-Storm "Sandy". -F-RF302-004: Master Sgt. Roy Santana, public domain, via Wikimedia Commons. [East Coast Relief Efforts in the wake of Hurricane-Storm "Sandy". 121101-F-RF302-004.jpg](https://commons.wikimedia.org/wiki/File:East_Coast_Relief_Efforts_in_the_wake_of_Hurricane-Storm_%22Sandy%22._121101-F-RF302-004.jpg)
 - Hurricane Sandy Relief Effort -F-RW714-098: Staff Sgt. Matthew Smith, public domain, via Wikimedia Commons. [Hurricane Sandy Relief Effort 121101-F-RW714-098.jpg](https://commons.wikimedia.org/wiki/File:Hurricane_Sandy_Relief_Effort_121101-F-RW714-098.jpg)
 - SCE Swapping Transmission Towers - panoramio: Steve D, CC BY-SA 3.0, via Wikimedia Commons. [SCE Swapping Transmission Towers - panoramio.jpg](https://commons.wikimedia.org/wiki/File:SCE_Swapping_Transmission_Towers_-_panoramio.jpg)
+- Southern California Edison Company: Photo by Joe Crawford (artlung) on Flickr, CC BY 2.0. [3226545530](https://www.flickr.com/photos/37996599088@N01/3226545530)
+- Southern California Edison Building: Photo by Kent Wang on Flickr, CC BY-SA 2.0. [4419819051](https://www.flickr.com/photos/27454212@N00/4419819051)
+- Southern California Edison Building: Photo by Kent Wang on Flickr, CC BY-SA 2.0. [4419831063](https://www.flickr.com/photos/27454212@N00/4419831063)
+
+## Edwards Lifesciences (EW)
+
+- Edwards Lifesciences Goes Red for Women: Photo by NationalPhilanthropyDayOrangeCounty on Flickr, CC BY 2.0. [9527406244](https://www.flickr.com/photos/66824994@N03/9527406244)
 
 ## Elevance Health (ELV)
 
@@ -2031,10 +2085,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5815934553](https://www.flickr.com/photos/97785072@N00/5815934553)
 - 02-09-15 First Solar Desert Sunlight Solar Farm: U.S. Department of the Interior, CC BY-SA 2.0, via Wikimedia Commons. [02-09-15 First Solar Desert Sunlight Solar Farm (15863210084).jpg](https://commons.wikimedia.org/wiki/File:02-09-15_First_Solar_Desert_Sunlight_Solar_Farm_(15863210084).jpg)
+- First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5816550276](https://www.flickr.com/photos/97785072@N00/5816550276)
 - First Solar in Frankfurt/Oder.: Hanno Böck, CC0, via Wikimedia Commons. [FirstSolarWerk.jpg](https://commons.wikimedia.org/wiki/File:FirstSolarWerk.jpg)
 - Dornbirn-Montfortstrasse 21-MEW-Dach-FirstSolar-MuenchenSolar-01ASD: Asurnipal, CC BY-SA 4.0, via Wikimedia Commons. [Dornbirn-Montfortstrasse 21-MEW-Dach-FirstSolar-MuenchenSolar-01ASD.jpg](https://commons.wikimedia.org/wiki/File:Dornbirn-Montfortstrasse_21-MEW-Dach-FirstSolar-MuenchenSolar-01ASD.jpg)
 - First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5815984067](https://www.flickr.com/photos/97785072@N00/5815984067)
 - First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5816501280](https://www.flickr.com/photos/97785072@N00/5816501280)
+- First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5816549242](https://www.flickr.com/photos/97785072@N00/5816549242)
+- First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5816499688](https://www.flickr.com/photos/97785072@N00/5816499688)
+- First Solar Panel Arrays · alternativeenergy, firstsolar, sanluisobispocounty, slocounty, solarpanels: Photo by russf on Flickr, CC BY-SA 2.0. [5816502898](https://www.flickr.com/photos/97785072@N00/5816502898)
 
 ## FirstEnergy (FE)
 
@@ -2095,6 +2153,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Franklin Templeton Investments HQ building 3: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [Franklin Templeton Investments HQ building 3.JPG](https://commons.wikimedia.org/wiki/File:Franklin_Templeton_Investments_HQ_building_3.JPG)
 - The headquarters of Franklin Templeton Investments at One Franklin Parkway, en:San Mateo, California . Photographed on en:June 29 , en:2007 by user Coolcaesar.: Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Franklintempletonheadquarters.jpg](https://commons.wikimedia.org/wiki/File:Franklintempletonheadquarters.jpg)
 - Franklin Templeton Investments HQ campus 1: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [Franklin Templeton Investments HQ campus 1.JPG](https://commons.wikimedia.org/wiki/File:Franklin_Templeton_Investments_HQ_campus_1.JPG)
+- Franklin Templeton San Mateo: Photo by vicki moore on Flickr, CC BY 2.0. [5105194039](https://www.flickr.com/photos/23564334@N06/5105194039)
+- Franklin Templeton San Mateo: Photo by vicki moore on Flickr, CC BY 2.0. [5105787586](https://www.flickr.com/photos/23564334@N06/5105787586)
 
 ## Freeport-McMoRan (FCX)
 
@@ -2165,6 +2225,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - General Electric AM Transistor Radio: Photo by alexkerhead on Flickr, CC BY 2.0. [3601779057](https://www.flickr.com/photos/26354629@N02/3601779057)
 - General Electric Alarm Clock: Photo by alexkerhead on Flickr, CC BY 2.0. [4055061532](https://www.flickr.com/photos/26354629@N02/4055061532)
 - Vintage General Electric 7-Transistor Cordless Table Radio, Model T-146A (Cocoa), AM Band, Battery-Powered, Made In USA, Circa 1959: Photo by France1978 on Flickr, CC BY 2.0. [14614905750](https://www.flickr.com/photos/51764518@N02/14614905750)
+- General Electric CF6 high-bypass turbofan engine - Smithsonian Air and Space Museum - 2012-05-15: Photo by Tim Evanson on Flickr, CC BY-SA 2.0. [7276904338](https://www.flickr.com/photos/23165290@N00/7276904338)
+- GE90 115B Boeing 777 Engine: Photo by Jun Seita on Flickr, CC BY 2.0. [16808010478](https://www.flickr.com/photos/90454079@N00/16808010478)
 
 ## GE HealthCare (GEHC)
 
@@ -2181,6 +2243,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Vincent Pilette, Gen Digital CEO (per Wikidata): Christophe Testi, CC BY 4.0, via Wikimedia Commons. [Vincent Pilette.jpg](https://commons.wikimedia.org/wiki/File:Vincent_Pilette.jpg)
 - NortonLifeLock Inc HQ: Norton LifeLock, CC BY-SA 4.0, via Wikimedia Commons. [NortonLifeLock Inc HQ 111519.jpg](https://commons.wikimedia.org/wiki/File:NortonLifeLock_Inc_HQ_111519.jpg)
 - NortonLifeLock Office Headquarters - Tempe, Arizona: Tony Webster, CC BY 2.0, via Wikimedia Commons. [NortonLifeLock Office Headquarters - Tempe, Arizona.jpg](https://commons.wikimedia.org/wiki/File:NortonLifeLock_Office_Headquarters_-_Tempe,_Arizona.jpg)
+- Norton Antivirus 4.0 · 40, antivirus, museo, museum, norton: Photo by Luigi Rosa on Flickr, CC BY-SA 2.0. [7864654174](https://www.flickr.com/photos/30571787@N00/7864654174)
+- THE Norton AntiVirus · chm, computerhistorymuseum, mountainview, nav, nortonantivirus: Photo by Michael Dunn~! on Flickr, CC BY 2.0. [31919953265](https://www.flickr.com/photos/20534939@N00/31919953265)
 
 ## Generac (GNRC)
 
@@ -2234,6 +2298,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - A blue NAPA Auto Part store with a yellow and red stripe under a clear blue sky: Photo by Marcus Lenk on Unsplash. [mxEqrCqB-Jo](https://unsplash.com/photos/napa-auto-part-store-exterior-mxEqrCqB-Jo?utm_source=investiq_image_bank&utm_medium=referral)
 - A blue building with a NAPA sign and a door marked "BEWARE OF ALLIGATORS": Photo by Marcus Lenk on Unsplash. [DDzz9YTviKk](https://unsplash.com/photos/blue-building-with-napa-sign-DDzz9YTviKk?utm_source=investiq_image_bank&utm_medium=referral)
+- Napa Auto Parts, Chicago · auto, ave, blassila, chicago, elston: Photo by BRAD_RADICAL on Flickr, Public Domain Mark. [22938129594](https://www.flickr.com/photos/43260274@N04/22938129594)
+- NAPA Auto Parts Store in Atlantic Iowa: Photo by Tony Webster on Flickr, CC BY 2.0. [54558423258](https://www.flickr.com/photos/87296837@N00/54558423258)
+- Napa Auto Parts (Old Saybrook, Connecticut): Photo by jjbers on Flickr, CC BY 2.0. [42025413450](https://www.flickr.com/photos/148374920@N02/42025413450)
+- NAPA Auto Parts: Photo by ICCNS on Flickr, CC BY 2.0. [5911736543](https://www.flickr.com/photos/59530175@N05/5911736543)
+- Napa Auto Parts (Plainfield, Connecticut): Photo by jjbers on Flickr, CC BY 2.0. [37225115614](https://www.flickr.com/photos/148374920@N02/37225115614)
+- Ridge NAPA Auto Parts and Paint - S. Drake Road, Kalamazoo: Photo by Kzoo Cowboy on Flickr, CC BY 2.0. [50589082591](https://www.flickr.com/photos/92871081@N03/50589082591)
+- Mural on Auto Parts Store: Photo by Hugo-90 on Flickr, CC BY 2.0. [51943193556](https://www.flickr.com/photos/32109282@N00/51943193556)
+- NAPA store mural, Monroe, Washington: Photo by Hugo-90 on Flickr, CC BY 2.0. [26469149485](https://www.flickr.com/photos/32109282@N00/26469149485)
 
 ## Gilead Sciences (GILD)
 
@@ -2442,6 +2514,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Hormel Plant, Austin, Minnesota-02: Myotus, CC BY-SA 4.0, via Wikimedia Commons. [Hormel Plant, Austin, Minnesota-02.jpg](https://commons.wikimedia.org/wiki/File:Hormel_Plant,_Austin,_Minnesota-02.jpg)
 - 9768Spam with Real Hormel Bacon 02: Judgefloro, CC0, via Wikimedia Commons. [9768Spam with Real Hormel Bacon 02.jpg](https://commons.wikimedia.org/wiki/File:9768Spam_with_Real_Hormel_Bacon_02.jpg)
 - Hormel Historic Home 2016: Darb02, CC BY-SA 4.0, via Wikimedia Commons. [Hormel Historic Home 2016.jpg](https://commons.wikimedia.org/wiki/File:Hormel_Historic_Home_2016.jpg)
+- Skippy Peanut Butter · butter, peanut, skippy, food, text: Photo by JeepersMedia on Flickr, CC BY 2.0. [14546687275](https://www.flickr.com/photos/39160147@N03/14546687275)
 
 ## Host Hotels & Resorts (HST)
 
@@ -2490,6 +2563,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A crane moves the lower stern into place on the nuclear-powered aircraft carrier USS John F. Kennedy (CVN 79): Official U.S. Navy Page from United States of America John Whalen/U.S. Navy, public domain, via Wikimedia Commons. [A crane moves the lower stern into place on the nuclear-powered aircraft carrier USS John F. Kennedy (CVN 79). (34649699544).jpg](https://commons.wikimedia.org/wiki/File:A_crane_moves_the_lower_stern_into_place_on_the_nuclear-powered_aircraft_carrier_USS_John_F._Kennedy_(CVN_79)._(34649699544).jpg)
 - The Newport News Shipbuilding yard, on Chesapeake Bay in Newport News, Virginia, part of the state's "Tidewater" area where the bay and the James River meet the Atlantic Ocean: Photo: Carol M. Highsmith, Library of Congress, public domain. [2020724706](https://www.loc.gov/item/2020724706/)
 - The Newport News Shipbuilding yard, on Chesapeake Bay in Newport News, Virginia, part of the state's "Tidewater" area where the bay and the James River meet the Atlantic Ocean: Photo: Carol M. Highsmith, Library of Congress, public domain. [2020724707](https://www.loc.gov/item/2020724707/)
+- Newport News Shipbuilding: Photo by Tobyotter on Flickr, CC BY 2.0. [8698935091](https://www.flickr.com/photos/78428166@N00/8698935091)
 
 ## IBM (IBM)
 
@@ -2535,12 +2609,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Illumina, Inc. (ILMN)
 
+- Illumina MiSeq · dnasequencer, ngs, business, computer, contemporary: Photo by konradfoerstner on Flickr, CC BY 2.0. [8524822521](https://www.flickr.com/photos/31166238@N02/8524822521)
 - Illumina Hiseq 2000 sequencers, BGI Hong Kong sequencing room: Scotted400, CC BY 3.0, via Wikimedia Commons. [Illumina Hiseq 2000 sequencers, BGI Hong Kong sequencing room.JPG](https://commons.wikimedia.org/wiki/File:Illumina_Hiseq_2000_sequencers,_BGI_Hong_Kong_sequencing_room.JPG)
 - Illumina MiSeq sequencer 2: Konrad Förstner, CC0, via Wikimedia Commons. [Illumina MiSeq sequencer 2.jpg](https://commons.wikimedia.org/wiki/File:Illumina_MiSeq_sequencer_2.jpg)
 - Illumina iSeq 100 flow cell top: Cirosantilli2, CC BY-SA 4.0, via Wikimedia Commons. [Illumina iSeq 100 flow cell top.jpg](https://commons.wikimedia.org/wiki/File:Illumina_iSeq_100_flow_cell_top.jpg)
 - Illumina Genome Analyzer II System: Jon Callas from San Jose, USA, CC BY 2.0, via Wikimedia Commons. [Illumina Genome Analyzer II System.jpg](https://commons.wikimedia.org/wiki/File:Illumina_Genome_Analyzer_II_System.jpg)
 - Illumina HiSeq 2500: Konrad Förstner, CC0, via Wikimedia Commons. [Illumina HiSeq 2500.jpg](https://commons.wikimedia.org/wiki/File:Illumina_HiSeq_2500.jpg)
 - Illumina MiSeq sequencer: Konrad Förstner, CC0, via Wikimedia Commons. [Illumina MiSeq sequencer.jpg](https://commons.wikimedia.org/wiki/File:Illumina_MiSeq_sequencer.jpg)
+- Illumina MiSeq · dnasequencer, ngs, business, computer, contemporary: Photo by konradfoerstner on Flickr, CC BY 2.0. [8524818115](https://www.flickr.com/photos/31166238@N02/8524818115)
+- Illumina Gene Sequencing machine: Photo by joncallas on Flickr, CC BY 2.0. [2893451412](https://www.flickr.com/photos/19745294@N06/2893451412)
 
 ## Ingersoll Rand (IR)
 
@@ -2551,6 +2628,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - 9599Tambubong Caingin Sampaloc San Rafael, Bulacan Arterial Road Bypass 31: Judgefloro, CC0, via Wikimedia Commons. [9599Tambubong Caingin Sampaloc San Rafael, Bulacan Arterial Road Bypass 31.jpg](https://commons.wikimedia.org/wiki/File:9599Tambubong_Caingin_Sampaloc_San_Rafael,_Bulacan_Arterial_Road_Bypass_31.jpg)
 - Ingersoll Rand SD100 roller: Photo by Asylumkid on Flickr, CC BY-SA 2.0. [22524019084](https://www.flickr.com/photos/46185203@N05/22524019084)
 - cut out of a ingersoll rand screw compressor: Photo by shehal on Flickr, CC BY 2.0. [1673179736](https://www.flickr.com/photos/96739039@N00/1673179736)
+
+## Insulet Corporation (PODD)
+
+- Pretty close to perfection.: Photo by Colcalli on Flickr, Public Domain Mark. [4335197533](https://www.flickr.com/photos/20479006@N05/4335197533)
 
 ## Intel (INTC)
 
@@ -2679,6 +2760,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Milk-Bone factory, Buffalo, New York: André Carrotflower, CC BY-SA 2.0, via Wikimedia Commons. [Milk-Bone factory, Buffalo, New York.jpg](https://commons.wikimedia.org/wiki/File:Milk-Bone_factory,_Buffalo,_New_York.jpg)
 - Jif peanut butter production plant Lexington Kentucky: Dwight Burdette, CC BY 3.0, via Wikimedia Commons. [Jif peanut butter production plant Lexington Kentucky.JPG](https://commons.wikimedia.org/wiki/File:Jif_peanut_butter_production_plant_Lexington_Kentucky.JPG)
 
+## Jabil (JBL)
+
+- Ambassador Pyatt visits Zakarpattya, Jabil manufacturing facility in Uzhgorod, July 20, 2015: Photo by usembassykyiv on Flickr, Public Domain Mark. [19907259312](https://www.flickr.com/photos/58993040@N07/19907259312)
+
 ## Jack Henry & Associates (JKHY)
 
 - Jack Henry & Associates Inc. / Birmingham: Photo by curtis palmer on Flickr, CC BY 2.0. [323144674](https://www.flickr.com/photos/46453719@N00/323144674)
@@ -2760,6 +2845,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A vending machine with a sign: Photo by Frugal Flyer on Unsplash. [x-RA_dKvgOc](https://unsplash.com/photos/a-vending-machine-with-a-sign-x-RA_dKvgOc?utm_source=investiq_image_bank&utm_medium=referral)
 - A lexus sits in front of a chase bank at night: Photo by jacob S on Unsplash. [qu8vr38AXBg](https://unsplash.com/photos/a-lexus-sits-in-front-of-a-chase-bank-at-night-qu8vr38AXBg?utm_source=investiq_image_bank&utm_medium=referral)
 - A car is parked outside a chase bank at night: Photo by jacob S on Unsplash. [iIOBi9Q1INI](https://unsplash.com/photos/a-car-is-parked-outside-a-chase-bank-at-night-iIOBi9Q1INI?utm_source=investiq_image_bank&utm_medium=referral)
+- Chase Bank · chasebank: Photo by JeepersMedia on Flickr, CC BY 2.0. [14823055340](https://www.flickr.com/photos/39160147@N03/14823055340)
 - Chase ATM in Greenwood, Indiana - June 2022 - Sarah Stierch: Missvain, CC BY 4.0, via Wikimedia Commons. [Chase ATM in Greenwood, Indiana - June 2022 - Sarah Stierch.jpg](https://commons.wikimedia.org/wiki/File:Chase_ATM_in_Greenwood,_Indiana_-_June_2022_-_Sarah_Stierch.jpg)
 - JPMorgan Chase Tower 0: WhisperToMe, CC0, via Wikimedia Commons. [JPMorgan Chase Tower 0.jpg](https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Tower_0.jpg)
 - JPMorgan Chase Building Corner 2021: Dead.rabbit, CC BY-SA 4.0, via Wikimedia Commons. [JPMorgan Chase Building Corner 2021.jpg](https://commons.wikimedia.org/wiki/File:JPMorgan_Chase_Building_Corner_2021.jpg)
@@ -2778,6 +2864,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - CHASE Bank Building - Aventura | 130619-4046-jikatu: Photo by jikatu on Flickr, CC BY-SA 2.0. [9093338192](https://www.flickr.com/photos/7221539@N06/9093338192)
 - JPMorgan Chase Tower, Houston, Texas: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [16275905142](https://www.flickr.com/photos/75683070@N00/16275905142)
 - New Chase ATM! · target, business, commerce, container, indoors: Photo by Aranami on Flickr, CC BY 2.0. [5115756961](https://www.flickr.com/photos/51526368@N03/5115756961)
+- Chase Bank · chasebank: Photo by JeepersMedia on Flickr, CC BY 2.0. [15011064995](https://www.flickr.com/photos/39160147@N03/15011064995)
 
 ## Kenvue (KVUE)
 
@@ -2807,6 +2894,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## KeyCorp (KEY)
 
+- KeyBank | 130925-0236-jikatu: Photo by jikatu on Flickr, CC BY-SA 2.0. [9943454723](https://www.flickr.com/photos/7221539@N06/9943454723)
 - February 1, 2023 - Seattle - 23: Another Believer, CC BY-SA 4.0, via Wikimedia Commons. [February 1, 2023 - Seattle - 23.jpg](https://commons.wikimedia.org/wiki/File:February_1,_2023_-_Seattle_-_23.jpg)
 - First National Bank, Sodus, New York: Andre Carrotflower, CC BY-SA 4.0, via Wikimedia Commons. [First National Bank, Sodus, New York - 20200611.jpg](https://commons.wikimedia.org/wiki/File:First_National_Bank,_Sodus,_New_York_-_20200611.jpg)
 - 3600 South Yosemite, Key Bank, Denver, CO: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [3600 South Yosemite, Key Bank, Denver, CO 2020-04-27.jpg](https://commons.wikimedia.org/wiki/File:3600_South_Yosemite,_Key_Bank,_Denver,_CO_2020-04-27.jpg)
@@ -2815,6 +2903,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Keybank building in Cleveland Ohio: Sabre ball, CC BY-SA 4.0, via Wikimedia Commons. [Keybank building in Cleveland Ohio.jpg](https://commons.wikimedia.org/wiki/File:Keybank_building_in_Cleveland_Ohio.jpg)
 - Keybank building Cleveland Ohio in fog 2: Sabre ball, CC BY-SA 4.0, via Wikimedia Commons. [Keybank building Cleveland Ohio in fog 2.jpg](https://commons.wikimedia.org/wiki/File:Keybank_building_Cleveland_Ohio_in_fog_2.jpg)
 - Keybank building Cleveland Ohio in fog 1: Sabre ball, CC BY-SA 4.0, via Wikimedia Commons. [Keybank building Cleveland Ohio in fog 1.jpg](https://commons.wikimedia.org/wiki/File:Keybank_building_Cleveland_Ohio_in_fog_1.jpg)
+- KeyBank near Crossroads in snow: Photo by D Coetzee on Flickr, CC0. [3567233907](https://www.flickr.com/photos/29507259@N02/3567233907)
 
 ## Keysight Technologies (KEYS)
 
@@ -2960,6 +3049,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad: Kavali Chandrakanth KCK, CC BY-SA 4.0, via Wikimedia Commons. [American Pharma Major Eli Lilly Opens its Tech & Innovation Centre in Hyderabad (89506).jpg](https://commons.wikimedia.org/wiki/File:American_Pharma_Major_Eli_Lilly_Opens_its_Tech_%26_Innovation_Centre_in_Hyderabad_(89506).jpg)
 - Autoinjector with Trulicity by Lilly (Dulaglutid)-3129: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Autoinjector with Trulicity by Lilly (Dulaglutid)-3129.jpg](https://commons.wikimedia.org/wiki/File:Autoinjector_with_Trulicity_by_Lilly_(Dulaglutid)-3129.jpg)
 - Eli Lilly & Company · 2011, indiana, indianapolis, architecture, building: Photo by pasa47 on Flickr, CC BY 2.0. [5469616593](https://www.flickr.com/photos/53301297@N00/5469616593)
+- flight-110815-eli-lilly-dsc04663.jpg: Photo by vaxomatic on Flickr, CC BY 2.0. [6050923606](https://www.flickr.com/photos/21881956@N05/6050923606)
+- flight-110815-eli-lilly-dsc04665.jpg: Photo by vaxomatic on Flickr, CC BY 2.0. [6050373665](https://www.flickr.com/photos/21881956@N05/6050373665)
+- flight-110815-eli-lilly-dsc04664.jpg: Photo by vaxomatic on Flickr, CC BY 2.0. [6050373035](https://www.flickr.com/photos/21881956@N05/6050373035)
+- Humalog · betes, crunk, crunkjuice, humalog: Photo by hober on Flickr, CC BY-SA 2.0. [156023462](https://www.flickr.com/photos/27935720@N00/156023462)
 
 ## Linde plc (LIN)
 
@@ -3014,6 +3107,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Loews Corporation (L)
 
 - A modern mall with loews hotel in the background: Photo by Murali Raju on Unsplash. [CkKEfrnn1sY](https://unsplash.com/photos/a-modern-mall-with-loews-hotel-in-the-background-CkKEfrnn1sY?utm_source=investiq_image_bank&utm_medium=referral)
+- Loews Hotel South Beach · architecture, beach, building, florida, hotel: Photo by Phillip Pessar on Flickr, CC BY 2.0. [16335191548](https://www.flickr.com/photos/25955895@N03/16335191548)
+- Loews Hotel Vogue · loewshotelvogue, montreal: Photo by colros on Flickr, CC BY-SA 2.0. [2736691077](https://www.flickr.com/photos/73416633@N00/2736691077)
+- Loews hotel Santa Monica · losangeles, santamonica: Photo by Tamsin Slater on Flickr, CC BY-SA 2.0. [3983776637](https://www.flickr.com/photos/88929378@N00/3983776637)
+- New Loews Hotel · autumn, chicago, chicagoist, fall: Photo by bradhoc on Flickr, CC BY 2.0. [14919591803](https://www.flickr.com/photos/58719682@N07/14919591803)
 
 ## Lowe's (LOW)
 
@@ -3122,6 +3219,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Marsh & McLennan Headquarters at 1166 Avenue of the Americas: Americasroof ( talk ), CC BY-SA 3.0, via Wikimedia Commons. [Marsh & McLennan Headquarters at 1166 Avenue of the Americas.jpg](https://commons.wikimedia.org/wiki/File:Marsh_%26_McLennan_Headquarters_at_1166_Avenue_of_the_Americas.jpg)
 - 1166 Avenue of the Americas: Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [1166 Avenue of the Americas (55283845089).jpg](https://commons.wikimedia.org/wiki/File:1166_Avenue_of_the_Americas_(55283845089).jpg)
 
+## Martin Marietta Materials (MLM)
+
+- Martin Marietta - Dallas Aggregate Yard: Photo by formulanone on Flickr, CC BY-SA 2.0. [50442625971](https://www.flickr.com/photos/30552029@N00/50442625971)
+- 87l060: Looking N from conveyor belt structure at Martin-Marietta sand yard: Photo by Bill Alden on Flickr, CC BY-SA 2.0. [8692277695](https://www.flickr.com/photos/70020260@N04/8692277695)
+- 87l057: Looking W from conveyor belt structure at Martin-Marietta sand yard: Photo by Bill Alden on Flickr, CC BY-SA 2.0. [8693383320](https://www.flickr.com/photos/70020260@N04/8693383320)
+
 ## Marvell Technology (MRVL)
 
 - Crucial CT128M4SSD2 - board - Marvell 88SS9174-BLD2-2890: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Crucial CT128M4SSD2 - board - Marvell 88SS9174-BLD2-2890.jpg](https://commons.wikimedia.org/wiki/File:Crucial_CT128M4SSD2_-_board_-_Marvell_88SS9174-BLD2-2890.jpg)
@@ -3133,6 +3236,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Seagate Cheetah 10K.7 ST373207LC - controller - Marvell 88C7500M-LAE1-2132: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Seagate Cheetah 10K.7 ST373207LC - controller - Marvell 88C7500M-LAE1-2132.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Cheetah_10K.7_ST373207LC_-_controller_-_Marvell_88C7500M-LAE1-2132.jpg)
 - Seagate ST500LT12 - controller - Marvell 88i1064-RAH3-2691: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Seagate ST500LT12 - controller - Marvell 88i1064-RAH3-2691.jpg](https://commons.wikimedia.org/wiki/File:Seagate_ST500LT12_-_controller_-_Marvell_88i1064-RAH3-2691.jpg)
 - Samsung SP0802N - board -Marvell 88i6522-LGO-1763: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Samsung SP0802N - board -Marvell 88i6522-LGO-1763.jpg](https://commons.wikimedia.org/wiki/File:Samsung_SP0802N_-_board_-Marvell_88i6522-LGO-1763.jpg)
+
+## Masco (MAS)
+
+- Behr Paint Can · behr, behrpaint, d7000, macro, nikon40mm: Photo by m01229 on Flickr, CC BY 2.0. [11785023404](https://www.flickr.com/photos/39908901@N06/11785023404)
+- Delta Faucet | Brizo · baths, bloggers, brizo, delta, deltafaucet: Photo by Charles & Hudson on Flickr, CC BY-SA 2.0. [4886774161](https://www.flickr.com/photos/34383603@N03/4886774161)
+- Delta Faucet | Brizo · baths, bloggers, brizo, delta, deltafaucet: Photo by Charles & Hudson on Flickr, CC BY-SA 2.0. [4886773911](https://www.flickr.com/photos/34383603@N03/4886773911)
+- Delta Faucet | Brizo · baths, bloggers, brizo, delta, deltafaucet: Photo by Charles & Hudson on Flickr, CC BY-SA 2.0. [4887377836](https://www.flickr.com/photos/34383603@N03/4887377836)
+- Delta Faucet | Brizo · baths, bloggers, brizo, delta, deltafaucet: Photo by Charles & Hudson on Flickr, CC BY-SA 2.0. [4887377688](https://www.flickr.com/photos/34383603@N03/4887377688)
 
 ## Mastercard (MA)
 
@@ -3163,6 +3274,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - CBA MasterCard Debit IMG_1560: Photo by BeauGiles on Flickr, CC BY 2.0. [5739415010](https://www.flickr.com/photos/8329215@N04/5739415010)
 - Dots Clothing Store Visa MasterCard Credit Card Device Machine Reader, Ingenico: Photo by JeepersMedia on Flickr, CC BY 2.0. [17647019356](https://www.flickr.com/photos/39160147@N03/17647019356)
 - Mastercard · mastercard, mastercardlogo, mobileworldcongress2015, mwc, mwc15: Photo by Janitors on Flickr, CC BY 2.0. [16517307247](https://www.flickr.com/photos/65265630@N03/16517307247)
+- MasterCard (old logo) · bank, banking, card, mastercard, money: Photo by Olgierd (3rd account) on Flickr, CC BY 2.0. [48631016027](https://www.flickr.com/photos/183683740@N04/48631016027)
 
 ## McCormick & Company (MKC)
 
@@ -3324,6 +3436,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Micron Technology (MU)
 
 - Sanjay Mehrotra - Micron: Micron Technology, CC BY-SA 4.0, via Wikimedia Commons. [Sanjay Mehrotra - Micron.png](https://commons.wikimedia.org/wiki/File:Sanjay_Mehrotra_-_Micron.png)
+- Long Time No See · 4gb, assembledinus, assembledinusa, cameraphone, computer: Photo by Diego3336 on Flickr, CC BY 2.0. [39147521871](https://www.flickr.com/photos/31018257@N00/39147521871)
 - Micron Fab in Taichung, Taiwan: Thingreenline4546, CC BY-SA 4.0, via Wikimedia Commons. [Micron Fab in Taichung, Taiwan.jpeg](https://commons.wikimedia.org/wiki/File:Micron_Fab_in_Taichung,_Taiwan.jpeg)
 - Speedport Smart 4 Typ A - board - Micron Technology 29F8G08ABACA-0688: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Speedport Smart 4 Typ A - board - Micron Technology 29F8G08ABACA-0688.jpg](https://commons.wikimedia.org/wiki/File:Speedport_Smart_4_Typ_A_-_board_-_Micron_Technology_29F8G08ABACA-0688.jpg)
 - Crucial CT128M4SSD2 - board - Micron IYDI1 D9LGQ-2887: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Crucial CT128M4SSD2 - board - Micron IYDI1 D9LGQ-2887.jpg](https://commons.wikimedia.org/wiki/File:Crucial_CT128M4SSD2_-_board_-_Micron_IYDI1_D9LGQ-2887.jpg)
@@ -3569,6 +3682,16 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - SZ 深圳 Shenzhen 寶安 BaoAn 萬豐 寶安海岸城 Coastal City mall shop automobile showroom n roadshow July 2024 R12S 17: ZHONG 82035 WANGZ, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 寶安 BaoAn 萬豐 寶安海岸城 Coastal City mall shop automobile showroom n roadshow July 2024 R12S 17.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_17.jpg)
 - SZ 深圳 Shenzhen 寶安 BaoAn 萬豐 寶安海岸城 Coastal City mall shop automobile showroom n roadshow July 2024 R12S 18: ZHONG 82035 WANGZ, CC0, via Wikimedia Commons. [SZ 深圳 Shenzhen 寶安 BaoAn 萬豐 寶安海岸城 Coastal City mall shop automobile showroom n roadshow July 2024 R12S 18.jpg](https://commons.wikimedia.org/wiki/File:SZ_%E6%B7%B1%E5%9C%B3_Shenzhen_%E5%AF%B6%E5%AE%89_BaoAn_%E8%90%AC%E8%B1%90_%E5%AF%B6%E5%AE%89%E6%B5%B7%E5%B2%B8%E5%9F%8E_Coastal_City_mall_shop_automobile_showroom_n_roadshow_July_2024_R12S_18.jpg)
 
+## NiSource (NI)
+
+- NIPSCO plant · coolingtower, indiana, indianadunesnationallakeshore, lakemichigan, michigancitygeneratingstation: Photo by Joe Passe on Flickr, CC BY-SA 2.0. [27168634789](https://www.flickr.com/photos/98623843@N05/27168634789)
+- Nipsco tower: Photo by Valerie Everett on Flickr, CC BY-SA 2.0. [2758409835](https://www.flickr.com/photos/66742614@N00/2758409835)
+- Mount Baldy Trail and NIPSCO plant: Photo by Joe Passe on Flickr, CC BY-SA 2.0. [38945870721](https://www.flickr.com/photos/98623843@N05/38945870721)
+- Nipsco · photodomino643: Photo by Valerie Everett on Flickr, CC BY-SA 2.0. [2759249172](https://www.flickr.com/photos/66742614@N00/2759249172)
+- Oakdale Dam · carrollcounty, geotagged, indiana, lakefreeman, monticello: Photo by Hammer51012 on Flickr, CC BY-SA 2.0. [3151287005](https://www.flickr.com/photos/7365168@N03/3151287005)
+- Norway Dam · geotagged, indiana, monticello, nipsco, norwaydam: Photo by Hammer51012 on Flickr, CC BY-SA 2.0. [3151287015](https://www.flickr.com/photos/7365168@N03/3151287015)
+- 20210717-DSC05039 · america, coalandnaturalgasfiredpowerplant, coolingtower, creativecommons, greatlakes: Photo by Joe K Gage on Flickr, CC BY-SA 2.0. [51319619068](https://www.flickr.com/photos/181920661@N03/51319619068)
+
 ## Nordson Corporation (NDSN)
 
 - DEF-TECH Bharat 2026, KTPO Exhibition and Convention Centre, Bangalore 132: Gpkp, CC BY-SA 4.0, via Wikimedia Commons. [DEF-TECH Bharat 2026, KTPO Exhibition and Convention Centre, Bangalore 132.jpg](https://commons.wikimedia.org/wiki/File:DEF-TECH_Bharat_2026,_KTPO_Exhibition_and_Convention_Centre,_Bangalore_132.jpg)
@@ -3758,6 +3881,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A Volvo tractor operated by ANAZCO Trucking Co., Inc. pulling an Old Dominion trailer pulling up to a light at 14th Street and 7th Avenue in Chelsea / West Vill: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [14th St 7th Av td (2019-07-11) 14 (cropped).jpg](https://commons.wikimedia.org/wiki/File:14th_St_7th_Av_td_(2019-07-11)_14_(cropped).jpg)
 - Old Dominion Freight Line: Wikideas1, CC0, via Wikimedia Commons. [Old Dominion Freight Line.jpg](https://commons.wikimedia.org/wiki/File:Old_Dominion_Freight_Line.jpg)
 - ODFL Mark on trailer: David Cintron, CC BY-SA 2.0, via Wikimedia Commons. [ODFL Mark on trailer.jpg](https://commons.wikimedia.org/wiki/File:ODFL_Mark_on_trailer.jpg)
+- Old Dominion Freight Line: Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0. [8809093958](https://www.flickr.com/photos/46102325@N06/8809093958)
+- Old Dominion Freight Line (2): Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0. [14615630625](https://www.flickr.com/photos/46102325@N06/14615630625)
 
 ## On (ONON)
 
@@ -3794,6 +3919,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - USA 17 at Oracle Corporation Headquarters - July 2019: Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons. [USA 17 at Oracle Corporation Headquarters - July 2019 (8218).jpg](https://commons.wikimedia.org/wiki/File:USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_(8218).jpg)
 - Fixing the database: Håkan Dahlström from Malmö, Sweden, CC BY 2.0, via Wikimedia Commons. [Fixing the database (4140461901).jpg](https://commons.wikimedia.org/wiki/File:Fixing_the_database_(4140461901).jpg)
 - 500 Oracle Parkway, Oracle HQ: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [500 Oracle Parkway, Oracle HQ.JPG](https://commons.wikimedia.org/wiki/File:500_Oracle_Parkway,_Oracle_HQ.JPG)
+- Oracle Corporation Headquarters - July 2019 (8809): Photo by varnent on Flickr, CC BY-SA 2.0. [48403025377](https://www.flickr.com/photos/9910730@N08/48403025377)
 - Oracle Redwood City May 2011 002: King of Hearts, CC BY-SA 3.0, via Wikimedia Commons. [Oracle Redwood City May 2011 002.jpg](https://commons.wikimedia.org/wiki/File:Oracle_Redwood_City_May_2011_002.jpg)
 - Larry Ellison in Oracle OpenWorld 2010: Ilan Costica, CC BY-SA 3.0, via Wikimedia Commons. [Larry Ellison in Oracle OpenWorld 2010.JPG](https://commons.wikimedia.org/wiki/File:Larry_Ellison_in_Oracle_OpenWorld_2010.JPG)
 - USA 17 at Oracle Corporation Headquarters - July 2019: Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons. [USA 17 at Oracle Corporation Headquarters - July 2019 (8327).jpg](https://commons.wikimedia.org/wiki/File:USA_17_at_Oracle_Corporation_Headquarters_-_July_2019_(8327).jpg)
@@ -3812,6 +3938,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Oracle Corporation Headquarters - July 2019 (8632): Photo by varnent on Flickr, CC BY-SA 2.0. [48403000477](https://www.flickr.com/photos/9910730@N08/48403000477)
 - Oracle Corporation Headquarters - July 2019 (8630): Photo by varnent on Flickr, CC BY-SA 2.0. [48402999277](https://www.flickr.com/photos/9910730@N08/48402999277)
 - Oracle Corporation Headquarters - July 2019 (8620): Photo by varnent on Flickr, CC BY-SA 2.0. [48402997837](https://www.flickr.com/photos/9910730@N08/48402997837)
+- Oracle Corporation Headquarters - July 2019 (8792): Photo by varnent on Flickr, CC BY-SA 2.0. [48403019862](https://www.flickr.com/photos/9910730@N08/48403019862)
 
 ## Otis Worldwide (OTIS)
 
@@ -3893,6 +4020,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Sfeerbeeld bedrijfsproces bij Pentair in Enschede: Photo by Provincie Overijssel on Flickr, CC0. [54535488979](https://www.flickr.com/photos/58857837@N04/54535488979)
 - waterbesparende innovatie Pentair Enschede: Photo by Provincie Overijssel on Flickr, CC0. [54535538128](https://www.flickr.com/photos/58857837@N04/54535538128)
 - Sfeerbeeld bedrijfsproces bij Pentair in Enschede: Photo by Provincie Overijssel on Flickr, CC0. [54535647375](https://www.flickr.com/photos/58857837@N04/54535647375)
+- Sfeerbeeld bedrijfsproces bij Pentair in Enschede: Photo by Provincie Overijssel on Flickr, CC0. [54535647405](https://www.flickr.com/photos/58857837@N04/54535647405)
 
 ## PepsiCo (PEP)
 
@@ -4009,6 +4137,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Phillips 66 at Night: formulanone, CC BY-SA 4.0, via Wikimedia Commons. [Phillips 66 at Night (55112373576).jpg](https://commons.wikimedia.org/wiki/File:Phillips_66_at_Night_(55112373576).jpg)
 - 1960 Phillips 66 Gas Station on Route 66 in Eureka, MO: EagleScout2017, CC BY-SA 4.0, via Wikimedia Commons. [1960 Phillips 66 Gas Station on Route 66 in Eureka, MO.jpg](https://commons.wikimedia.org/wiki/File:1960_Phillips_66_Gas_Station_on_Route_66_in_Eureka,_MO.jpg)
 
+## Pinnacle West Capital (PNW)
+
+- Palo Verde Nuclear Generating Station Seen from end of track Union Pacific RR West Phoenix Line: Photo by Clay Gilliland on Flickr, CC BY-SA 2.0. [54058370864](https://www.flickr.com/photos/26781577@N07/54058370864)
+- Arizona Public Service Company tower: Photo by chris.rycroft on Flickr, CC BY 2.0. [51733847397](https://www.flickr.com/photos/193316968@N06/51733847397)
+
 ## Pinterest (PINS)
 
 - Monitor viewing Pinterest: Photo by Szabo Viktor on Unsplash. [KgfInx384fk](https://unsplash.com/photos/monitor-viewing-pinterest-KgfInx384fk?utm_source=investiq_image_bank&utm_medium=referral)
@@ -4037,6 +4170,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Ford City, Pennsylvania: Doug Kerr from Albany, NY, United States, CC BY-SA 2.0, via Wikimedia Commons. [Ford City, Pennsylvania (8481100411).jpg](https://commons.wikimedia.org/wiki/File:Ford_City,_Pennsylvania_(8481100411).jpg)
 - PPG Delfzijl: Zandcee, CC BY-SA 4.0, via Wikimedia Commons. [PPG Delfzijl.jpg](https://commons.wikimedia.org/wiki/File:PPG_Delfzijl.jpg)
 - Ford City, Pennsylvania: Doug Kerr from Albany, NY, United States, CC BY-SA 2.0, via Wikimedia Commons. [Ford City, Pennsylvania (8482195180).jpg](https://commons.wikimedia.org/wiki/File:Ford_City,_Pennsylvania_(8482195180).jpg)
+- PPG Paints · 2015, autumn, fall, midwest, missouri: Photo by pasa47 on Flickr, CC BY 2.0. [22500308394](https://www.flickr.com/photos/53301297@N00/22500308394)
 
 ## Principal Financial Group (PFG)
 
@@ -4103,6 +4237,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Long Island City October 2022 050: Kidfly182, CC BY-SA 4.0, via Wikimedia Commons. [Long Island City October 2022 050.jpg](https://commons.wikimedia.org/wiki/File:Long_Island_City_October_2022_050.jpg)
 - Public Storage - Address: 4120 Finch Ave E, Scarborough, ON: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [PublicStorageToronto.jpg](https://commons.wikimedia.org/wiki/File:PublicStorageToronto.jpg)
 - Long Island City February 2023 042: Kidfly182, CC BY-SA 4.0, via Wikimedia Commons. [Long Island City February 2023 042.jpg](https://commons.wikimedia.org/wiki/File:Long_Island_City_February_2023_042.jpg)
+
+## PulteGroup (PHM)
+
+- Frisco Lakes by Del Webb: Photo by zqhzgrlt59 on Flickr, CC BY 2.0. [51688423002](https://www.flickr.com/photos/194455421@N06/51688423002)
 
 ## Qualcomm (QCOM)
 
@@ -4182,6 +4320,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Republic Services Trash Truck: Photo by joncutrer on Flickr, CC BY 2.0. [50301368081](https://www.flickr.com/photos/47121680@N00/50301368081)
 - Republic Services-stickered BFI Otto Classic: Photo by TheInvertedFan on Flickr, CC BY-SA 2.0. [52102330874](https://www.flickr.com/photos/166828354@N05/52102330874)
 
+## Revvity (RVTY)
+
+- blood spot puncher face · alexandra, anthropomorphism, blood, elmer, equipment: Photo by arripay on Flickr, CC BY-SA 2.0. [2300489153](https://www.flickr.com/photos/27466406@N00/2300489153)
+
 ## Rio Tinto (RIO)
 
 - Rio Tinto Boron mine and plant: Marcin Wichary, CC BY 2.0, via Wikimedia Commons. [Rio Tinto Boron mine and plant.jpg](https://commons.wikimedia.org/wiki/File:Rio_Tinto_Boron_mine_and_plant.jpg)
@@ -4189,6 +4331,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Rio Tinto Building at 155 Charlotte Street, Brisbane City, Queensland, 2023, 01: Kgbo, CC BY-SA 4.0, via Wikimedia Commons. [Rio Tinto Building at 155 Charlotte Street, Brisbane City, Queensland, 2023, 01.jpg](https://commons.wikimedia.org/wiki/File:Rio_Tinto_Building_at_155_Charlotte_Street,_Brisbane_City,_Queensland,_2023,_01.jpg)
 - Central Park Tower (Rio Tinto sign): Uttamstef12, CC BY-SA 3.0, via Wikimedia Commons. [Central Park Tower (Rio Tinto sign).jpg](https://commons.wikimedia.org/wiki/File:Central_Park_Tower_(Rio_Tinto_sign).jpg)
 - Kennecott Rio Tinto Smelting and Refinery UT201 Aerial: formulanone, CC BY-SA 2.0, via Wikimedia Commons. [Kennecott Rio Tinto Smelting and Refinery UT201 Aerial (50728866968).jpg](https://commons.wikimedia.org/wiki/File:Kennecott_Rio_Tinto_Smelting_and_Refinery_UT201_Aerial_(50728866968).jpg)
+- rio tinto mine · australia, geeksgobush, ironore, mine, riotinto: Photo by robynejay on Flickr, CC BY-SA 2.0. [14550353297](https://www.flickr.com/photos/65749227@N00/14550353297)
 
 ## Rivian (RIVN)
 
@@ -4251,6 +4394,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Roku Streaming Stick 4K: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Roku Streaming Stick 4K.jpg](https://commons.wikimedia.org/wiki/File:Roku_Streaming_Stick_4K.jpg)
 - Roku Wire Free Video Doorbell: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Roku Wire Free Video Doorbell.jpg](https://commons.wikimedia.org/wiki/File:Roku_Wire_Free_Video_Doorbell.jpg)
 - Goobye Apple TV, Hello Roku: Photo by kennejima on Flickr, CC BY 2.0. [5350745395](https://www.flickr.com/photos/17152247@N00/5350745395)
+
+## Rollins, Inc. (ROL)
+
+- The Orkin Man Truck: Photo by Rusty Clark ~ 100K Photos on Flickr, CC BY 2.0. [22587905696](https://www.flickr.com/photos/23206546@N04/22587905696)
+- Orkin · 10millionphotos, corpuschristi, panasonicdmcfz7, texas, vehicle: Photo by qnr on Flickr, CC BY-SA 2.0. [2623111554](https://www.flickr.com/photos/78272611@N00/2623111554)
+- The Orkin Man Truck: Photo by Rusty Clark ~ 100K Photos on Flickr, CC BY 2.0. [21992766853](https://www.flickr.com/photos/23206546@N04/21992766853)
 
 ## Ross Stores (ROST)
 
@@ -4412,6 +4561,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Sempra HQ 0003v2 newlogo ( ): Sempra, CC BY-SA 4.0, via Wikimedia Commons. [Sempra HQ 0003v2 newlogo (cropped).jpg](https://commons.wikimedia.org/wiki/File:Sempra_HQ_0003v2_newlogo_(cropped).jpg)
 - Sempra HQ 0013-2-1 newlogo: Ben Friedl, CC BY-SA 4.0, via Wikimedia Commons. [Sempra HQ 0013-2-1 (1) newlogo.jpg](https://commons.wikimedia.org/wiki/File:Sempra_HQ_0013-2-1_(1)_newlogo.jpg)
 - Sempra Energys El Dorado Combined Cycle Power Plant: Doc Searls from Santa Barbara, USA, CC BY 2.0, via Wikimedia Commons. [Sempra Energys El Dorado Combined Cycle Power Plant.jpg](https://commons.wikimedia.org/wiki/File:Sempra_Energys_El_Dorado_Combined_Cycle_Power_Plant.jpg)
+- biogas, escondido, haleavenueresourcerecoveryfacility, harrf, methanegas: Photo by EscoPhotog on Flickr, CC BY-SA 2.0. [8025105302](https://www.flickr.com/photos/87250300@N08/8025105302)
 
 ## ServiceNow (NOW)
 
@@ -4470,6 +4620,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Paramount pictures studio entrance with stage 4 sign: Photo by Darien Attridge on Unsplash. [2dsH2khaB8Y](https://unsplash.com/photos/paramount-pictures-studio-entrance-with-stage-4-sign-2dsH2khaB8Y?utm_source=investiq_image_bank&utm_medium=referral)
 - Paramount Skydance One Astor Plaza: Nielsoncaetanosalmeron, CC BY 4.0, via Wikimedia Commons. [Paramount Skydance One Astor Plaza.jpg](https://commons.wikimedia.org/wiki/File:Paramount_Skydance_One_Astor_Plaza.jpg)
 - Times Sq Nov 2021 112: Epicgenius, CC BY-SA 4.0, via Wikimedia Commons. [Times Sq Nov 2021 112.jpg](https://commons.wikimedia.org/wiki/File:Times_Sq_Nov_2021_112.jpg)
+- Paramount Pictures Studios: Photo by jurvetson on Flickr, CC BY 2.0. [48866695603](https://www.flickr.com/photos/44124348109@N01/48866695603)
 
 ## Skyworks Solutions (SWKS)
 
@@ -4761,6 +4912,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Teledyne Technologies (TDY)
 
 - One of the new MOONS detectors: ESO/M. Zamani, CC BY 4.0, via Wikimedia Commons. [One of the new MOONS detectors.jpg](https://commons.wikimedia.org/wiki/File:One_of_the_new_MOONS_detectors.jpg)
+- FLIR One Pro Thermal Camera: Photo by jcutrer.com on Flickr, CC BY-SA 2.0. [30418557488](https://www.flickr.com/photos/164144782@N02/30418557488)
+- FLIR One Pro Thermal Camera: Photo by jcutrer.com on Flickr, CC BY-SA 2.0. [29349772717](https://www.flickr.com/photos/164144782@N02/29349772717)
 
 ## Teradyne (TER)
 
@@ -4888,6 +5041,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Tractor Supply Company, Quitman: Mjrmtg, CC BY 4.0, via Wikimedia Commons. [Tractor Supply Company, Quitman.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply_Company,_Quitman.jpg)
 - Tractor Supply, Timber Dr, Lowndes County: Michael Rivera, CC0, via Wikimedia Commons. [Tractor Supply, Timber Dr, Lowndes County.jpg](https://commons.wikimedia.org/wiki/File:Tractor_Supply,_Timber_Dr,_Lowndes_County.jpg)
 
+## Trane Technologies (TT)
+
+- Thermo King Smart Reefer 3 By Alang7™: Photo by Alang7™ on Flickr, CC BY 2.0. [22529822954](https://www.flickr.com/photos/99610616@N02/22529822954)
+- Trane VRF/VRV Air Conditioner: Photo by FanFan61618 on Flickr, CC BY-SA 2.0. [52271906697](https://www.flickr.com/photos/129344407@N05/52271906697)
+- Thermo King · 2015, geotagged, greatermanchester, manchesterm3, panasonicdmctz35: Photo by Gene Hunt on Flickr, CC BY 2.0. [19640973785](https://www.flickr.com/photos/90384027@N00/19640973785)
+- Trane Air Conditioner: Photo by FanFan61618 on Flickr, CC BY-SA 2.0. [52272896108](https://www.flickr.com/photos/129344407@N05/52272896108)
+
 ## Travelers Companies (The) (TRV)
 
 - The Travelers Companies, Inc: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [The Travelers Companies, Inc. (55614510202).jpg](https://commons.wikimedia.org/wiki/File:The_Travelers_Companies,_Inc._(55614510202).jpg)
@@ -4920,6 +5080,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - TSMC Global R＆D Center at night: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Global R＆D Center at night.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center_at_night.jpg)
 - TSMC Fab5: Peellden, CC BY-SA 3.0, via Wikimedia Commons. [TSMC Fab5.JPG](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG)
 - Building of Taiwan Semiconductor Manufacturing Fab 12B at dusk1: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [Building of Taiwan Semiconductor Manufacturing Fab 12B at dusk1.jpg](https://commons.wikimedia.org/wiki/File:Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg)
+- tsmc fab12 · fab12, tsmc, u53f0u7a4d, \u53f0\u7a4d, u53f0u7a4d12u5ee0: Photo by 曾成訓 on Flickr, CC BY 2.0. [7999390331](https://www.flickr.com/photos/19359045@N02/7999390331)
 - TSMC Fab 18 May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 18 May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_May_2025.jpg)
 - 1 TSMC Fab 21 construction: Hunter Trick (TrickHunter), CC BY-SA 4.0, via Wikimedia Commons. [231105-1 TSMC Fab 21 construction.jpg](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg)
 - TSMC Global R＆D Center: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Global R＆D Center.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center.jpg)
@@ -5120,6 +5281,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Viatris (VTRS)
 
+- EpiPen · epinephrine, epipen: Photo by stockcatalog on Flickr, CC BY 2.0. [39862187894](https://www.flickr.com/photos/151691693@N02/39862187894)
 - Viatris Pharmaceutical Plant in Istanbul, Ortaköy: Harald the Bard, CC BY-SA 4.0, via Wikimedia Commons. [Viatris Pharmaceutical Plant in Istanbul, Ortaköy.jpg](https://commons.wikimedia.org/wiki/File:Viatris_Pharmaceutical_Plant_in_Istanbul,_Ortak%C3%B6y.jpg)
 
 ## Vici Properties (VICI)
@@ -5299,6 +5461,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Everett - Weyerhaeuser Office Building 01: Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons. [Everett - Weyerhaeuser Office Building 01.jpg](https://commons.wikimedia.org/wiki/File:Everett_-_Weyerhaeuser_Office_Building_01.jpg)
 - Weyerhaeuser Factory, Columbia Falls, MT: w_lemay, CC BY-SA 2.0, via Wikimedia Commons. [Weyerhaeuser Factory, Columbia Falls, MT - 51533178813.jpg](https://commons.wikimedia.org/wiki/File:Weyerhaeuser_Factory,_Columbia_Falls,_MT_-_51533178813.jpg)
 - Raymond, WA - Weyerhaeuser plant 01: Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons. [Raymond, WA - Weyerhaeuser plant 01.jpg](https://commons.wikimedia.org/wiki/File:Raymond,_WA_-_Weyerhaeuser_plant_01.jpg)
+- Weyerhaeuser Tacuarembó · empresarial, forestacion, forestry, lloyd, tacuarembo: Photo by U.S. Embassy Montevideo on Flickr, Public Domain Mark. [6083653606](https://www.flickr.com/photos/41243200@N08/6083653606)
 
 ## Williams-Sonoma, Inc. (WSM)
 

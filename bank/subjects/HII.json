@@ -66,6 +66,26 @@
    "provider": "loc",
    "source": "https://www.loc.gov/item/2020724707/",
    "plain": true
+  },
+  {
+   "shows": "Newport News Shipbuilding",
+   "url": "https://live.staticflickr.com/8547/8698935091_e9f24dc7cb_b.jpg",
+   "preview": "https://live.staticflickr.com/8547/8698935091_e9f24dc7cb_z.jpg",
+   "size": [
+    1024,
+    765
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tobyotter on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/78428166@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/78428166@N00/8698935091",
+   "plain": true
   }
  ]
 }

@@ -8,5 +8,46 @@
  "sector": "sector-utilities",
  "target": 10,
  "fill_from": "sector-utilities",
- "photos": []
+ "photos": [
+  {
+   "shows": "Palo Verde Nuclear Generating Station Seen from end of track Union Pacific RR West Phoenix Line",
+   "url": "https://live.staticflickr.com/65535/54058370864_07c612af32_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/54058370864_07c612af32_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Clay Gilliland on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/26781577@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/26781577@N07/54058370864",
+   "plain": true
+  },
+  {
+   "shows": "Arizona Public Service Company tower",
+   "url": "https://live.staticflickr.com/65535/51733847397_7be1503833_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51733847397_7be1503833_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by chris.rycroft on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/193316968@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/193316968@N06/51733847397",
+   "plain": true
+  }
+ ]
 }
