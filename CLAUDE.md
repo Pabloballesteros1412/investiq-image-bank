@@ -362,9 +362,24 @@ Decisions (Pablo, 4 Nov 2026):
   spaces, and each one cost ~150 s of retries (fixed: `NasaVideo.href`); it then took a few minutes and gave 10 clips,
   3 of them good (Artemis II with the Moon, vertical; Webb encapsulation; a Mars panorama). NASA titles with
   trailers, talks, interviews, recruitment or launch providers are now left out. Nothing built in the real bank yet.
-- **Next (in a session that has PIXABAY_API_KEY)**: `python videos.py build` (48 subjects, ~1,000 Pixabay searches at
-  most, paced under its 100/min limit; can run alongside an image build, but both use the Commons API), then
-  `python videos.py sheets DIR`, grade by eye, `grade`, commit, PR. Videos never mix into `bank/index.json`.
+- **First real build (18-19 Nov, PR #19)**: `PIXABAY_API_KEY` and `WIKIMEDIA_TOKEN` are environment variables now. Four
+  passes (`build`, then `build --redo` three times: a redo keeps the published clips and fills the free places), every
+  pick graded by eye on the sheets: 1,189 clips graded, **339 published** (grade 3; 324 plain, 526 rejected): 330 Pixabay,
+  7 Commons, 2 NASA; 41 vertical, 298 horizontal. 6 subjects at 10, most at 7-9; thin: nuclear 2, bonds, bull-market,
+  cybersecurity, fed, gold and politics 4; **ev and quantum 0** (Pixabay has next to no real footage of EV charging or
+  quantum hardware: "electric" brings guitars, trams and light bulbs; quantum brings light trails and microscopes; Commons
+  has IBM promos and animations). The chat is told to use the photos for a subject with few or no clips.
+- Pixabay's search is loose and its tags are generic, so about 1 pick in 3 is grade 3. Word matches seen: flamingos and
+  eagles for "bill", cattle and yaks for "bull", a bear for "bear market" (kept: it reads as the idea), swans and cats for
+  "bond"/"nest egg", olive oil and gun barrels for oil, waterfalls for "vault", a red-crowned crane for "crane", electric
+  guitars for EVs. Commons still gives news, promos and animations (Trump announcements, IBM shorts): nearly all rejected.
+- Pixabay searches now ask for 200 results (`per_page`, its maximum) instead of 30: with 30, a search like "electric car
+  charging" held no clip whose tags name the search. A container restart cut one pass; nothing lost (the manifest is saved
+  per subject, answers are cached in `.cache/stock/`).
+- **Next for videos**: video-only search words for the thin subjects (a `video_shots` list per subject read by
+  `videos.py`, so `catalog.json` stays the photos'): "cooling tower", "nuclear power plant", "electric scooter",
+  "scientist laboratory", "laser". Another source for EVs and quantum if one opens (Pexels has both, but still issues no
+  keys). Companies later. Videos never mix into `bank/index.json`.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand

@@ -7,8 +7,8 @@
   "Credit every clip with its 'credit' line where the post's credits go (caption or end card). Pixabay asks for no credit but the bank gives one; Commons clips are CC0, public domain or CC BY (CC BY needs the credit).",
   "A subject with few or no clips: use its photos (bank/index.json) instead."
  ],
- "updated": "2026-11-18",
- "videos": 305,
+ "updated": "2026-11-19",
+ "videos": 339,
  "subjects": [
   {
    "id": "fed",
@@ -23,7 +23,7 @@
    "id": "inflation",
    "kind": "topic",
    "name": "Inflation & cost of living",
-   "videos": 7,
+   "videos": 9,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/inflation.json"
@@ -32,7 +32,7 @@
    "id": "recession",
    "kind": "topic",
    "name": "Recession & slowdown",
-   "videos": 4,
+   "videos": 5,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/recession.json"
@@ -59,7 +59,7 @@
    "id": "crash",
    "kind": "topic",
    "name": "Market crash & volatility",
-   "videos": 5,
+   "videos": 7,
    "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/crash.json"
@@ -68,7 +68,7 @@
    "id": "ai",
    "kind": "topic",
    "name": "Artificial intelligence boom",
-   "videos": 4,
+   "videos": 5,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/ai.json"
@@ -77,8 +77,8 @@
    "id": "datacenters",
    "kind": "topic",
    "name": "AI data centers & power demand",
-   "videos": 9,
-   "vertical": 0,
+   "videos": 10,
+   "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/datacenters.json"
   },
@@ -86,7 +86,7 @@
    "id": "chips",
    "kind": "topic",
    "name": "Semiconductors & the chip war",
-   "videos": 9,
+   "videos": 10,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/chips.json"
@@ -122,7 +122,7 @@
    "id": "tariffs",
    "kind": "topic",
    "name": "Tariffs & trade war",
-   "videos": 8,
+   "videos": 9,
    "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/tariffs.json"
@@ -149,7 +149,7 @@
    "id": "bonds",
    "kind": "topic",
    "name": "Treasuries, bonds & national debt",
-   "videos": 3,
+   "videos": 4,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/bonds.json"
@@ -158,8 +158,8 @@
    "id": "housing",
    "kind": "topic",
    "name": "Housing market & mortgages",
-   "videos": 4,
-   "vertical": 0,
+   "videos": 7,
+   "vertical": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/housing.json"
   },
@@ -167,7 +167,7 @@
    "id": "earnings",
    "kind": "topic",
    "name": "Earnings season",
-   "videos": 6,
+   "videos": 7,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/earnings.json"
@@ -203,7 +203,7 @@
    "id": "defense",
    "kind": "topic",
    "name": "Defense & geopolitics",
-   "videos": 6,
+   "videos": 7,
    "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/defense.json"
@@ -230,7 +230,7 @@
    "id": "investing",
    "kind": "topic",
    "name": "Investing basics, retirement & index funds",
-   "videos": 6,
+   "videos": 7,
    "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/investing.json"
@@ -248,8 +248,8 @@
    "id": "glp1",
    "kind": "topic",
    "name": "Weight-loss drugs (GLP-1)",
-   "videos": 6,
-   "vertical": 1,
+   "videos": 9,
+   "vertical": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/glp1.json"
   },
@@ -257,7 +257,7 @@
    "id": "politics",
    "kind": "topic",
    "name": "US politics & markets",
-   "videos": 3,
+   "videos": 4,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/politics.json"
@@ -266,8 +266,8 @@
    "id": "europe",
    "kind": "topic",
    "name": "Europe & the ECB",
-   "videos": 8,
-   "vertical": 0,
+   "videos": 10,
+   "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/europe.json"
   },
@@ -293,7 +293,7 @@
    "id": "cybersecurity",
    "kind": "topic",
    "name": "Cybersecurity",
-   "videos": 3,
+   "videos": 4,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/cybersecurity.json"
@@ -347,7 +347,7 @@
    "id": "sector-tech",
    "kind": "sector",
    "name": "Technology sector",
-   "videos": 8,
+   "videos": 9,
    "vertical": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-tech.json"
@@ -365,7 +365,7 @@
    "id": "sector-financials",
    "kind": "sector",
    "name": "Financial sector",
-   "videos": 7,
+   "videos": 8,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-financials.json"
@@ -374,7 +374,7 @@
    "id": "sector-consumer-discretionary",
    "kind": "sector",
    "name": "Consumer discretionary sector",
-   "videos": 5,
+   "videos": 7,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-consumer-discretionary.json"
@@ -383,7 +383,7 @@
    "id": "sector-communication",
    "kind": "sector",
    "name": "Communication services sector",
-   "videos": 8,
+   "videos": 9,
    "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-communication.json"
@@ -401,7 +401,7 @@
    "id": "sector-staples",
    "kind": "sector",
    "name": "Consumer staples sector",
-   "videos": 7,
+   "videos": 8,
    "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-staples.json"
@@ -410,7 +410,7 @@
    "id": "sector-energy",
    "kind": "sector",
    "name": "Energy sector",
-   "videos": 5,
+   "videos": 6,
    "vertical": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-energy.json"
@@ -419,7 +419,7 @@
    "id": "sector-utilities",
    "kind": "sector",
    "name": "Utilities sector",
-   "videos": 8,
+   "videos": 9,
    "vertical": 3,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-utilities.json"
@@ -428,8 +428,8 @@
    "id": "sector-real-estate",
    "kind": "sector",
    "name": "Real estate sector",
-   "videos": 7,
-   "vertical": 1,
+   "videos": 9,
+   "vertical": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-real-estate.json"
   },
@@ -437,7 +437,7 @@
    "id": "sector-materials",
    "kind": "sector",
    "name": "Materials sector",
-   "videos": 7,
+   "videos": 8,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-materials.json"
