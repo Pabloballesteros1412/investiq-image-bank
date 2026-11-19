@@ -8,5 +8,26 @@
  "sector": "sector-health",
  "target": 10,
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Pretty close to perfection.",
+   "url": "https://live.staticflickr.com/4044/4335197533_358fa3ec84_b.jpg",
+   "preview": "https://live.staticflickr.com/4044/4335197533_358fa3ec84_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Colcalli on Flickr, Public Domain Mark",
+   "licence": "Public Domain Mark",
+   "author_url": "https://www.flickr.com/photos/20479006@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/20479006@N05/4335197533",
+   "plain": true
+  }
+ ]
 }

@@ -370,6 +370,17 @@ Decisions (Pablo, 4 Nov 2026):
   Robots renders, a strike picket, and Moto phones for Motorola Solutions (Motorola phones are Lenovo's; its Commons
   category "Motorola" is a match key, so such photos can pass: grade them 1). Companies: 3,994 -> 4,007 photos (187 at
   target, 116 with none); bank 6,377.
+- **Openverse with the new brand terms** (19 Nov): `grow_openverse_brands.py` (scratchpad) searched Openverse (Flickr,
+  low_res) with the first 6 `brands.json` terms of the 180 companies above (zero-photo, thin, famous under 30); a
+  candidate's description must name a term, the full name or the short name as a whole word (`has_name`). 582
+  candidates, graded (first 146 by me, the rest by 3 Sonnet subagents with `grader_brief.md`, every grade 3 and doubtful
+  2 checked by eye): 26 grade 3 (NAPA stores, Behr cans, Delta faucets with "A Masco Company", Orkin trucks, Palo Verde,
+  APS tower, NIPSCO's plant, Trane and Thermo King units, an EpiPen, Invisalign, a MiSeq, a Spectrum van, Chase, Oracle
+  HQ, TSMC Fab 12, a Broadcom chip, Crucial RAM for Micron), 97 grade 2 (reserve). Rejects: name clashes (a dog called
+  Masco, the X-24 lifting body of Martin Marietta the aerospace firm, Hubbell Trading Post, "Avast!", Grainger Street,
+  Blackrock Baths, the Rio Tinto river, Colombian police for "Humana"), events and politicians' visits, naming-rights
+  arenas, app screens, an Intel chip for Micron. Merged as hand-picked. Bank: 6,495 photos; companies 4,125 (194 at
+  target, 101 with none; famous average 26.0, 34 of 50 at 30).
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

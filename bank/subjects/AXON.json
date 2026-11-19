@@ -8,5 +8,26 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Taser X26 cartridge and coin",
+   "url": "https://live.staticflickr.com/4117/4736544365_1c06309161_b.jpg",
+   "preview": "https://live.staticflickr.com/4117/4736544365_1c06309161_z.jpg",
+   "size": [
+    765,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Moriartys on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/79294591@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/79294591@N00/4736544365",
+   "plain": true
+  }
+ ]
 }

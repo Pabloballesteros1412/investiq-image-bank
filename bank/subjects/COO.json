@@ -8,5 +8,26 @@
  "sector": "sector-health",
  "target": 10,
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Coopervision is 40SGD a box",
+   "url": "https://live.staticflickr.com/3906/14924728646_cbece20720_b.jpg",
+   "preview": "https://live.staticflickr.com/3906/14924728646_cbece20720_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Kai Hendry on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/16105436@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/16105436@N00/14924728646",
+   "plain": true
+  }
+ ]
 }

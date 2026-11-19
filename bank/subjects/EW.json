@@ -8,5 +8,26 @@
  "sector": "sector-health",
  "target": 10,
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Edwards Lifesciences Goes Red for Women",
+   "url": "https://live.staticflickr.com/5457/9527406244_7c754b420c_b.jpg",
+   "preview": "https://live.staticflickr.com/5457/9527406244_7c754b420c_z.jpg",
+   "size": [
+    1024,
+    680
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by NationalPhilanthropyDayOrangeCounty on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/66824994@N03",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/66824994@N03/9527406244",
+   "plain": true
+  }
+ ]
 }

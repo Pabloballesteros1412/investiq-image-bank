@@ -8,5 +8,26 @@
  "sector": "sector-financials",
  "target": 10,
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "The sculpture at the Cboe Futures Exchange",
+   "url": "https://live.staticflickr.com/65535/49959909578_2c696fa2a1_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/49959909578_2c696fa2a1_z.jpg",
+   "size": [
+    1024,
+    589
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by vlitvinov on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/59724445@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/59724445@N07/49959909578",
+   "plain": true
+  }
+ ]
 }

@@ -7,8 +7,27 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
+  {
+   "shows": "KeyBank | 130925-0236-jikatu",
+   "url": "https://live.staticflickr.com/3691/9943454723_b122579cea_b.jpg",
+   "preview": "https://live.staticflickr.com/3691/9943454723_b122579cea_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jikatu on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/7221539@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/7221539@N06/9943454723",
+   "plain": true
+  },
   {
    "shows": "February 1, 2023 - Seattle - 23",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/February_1%2C_2023_-_Seattle_-_23.jpg/1280px-February_1%2C_2023_-_Seattle_-_23.jpg",
@@ -151,6 +170,26 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Keybank_building_Cleveland_Ohio_in_fog_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "KeyBank near Crossroads in snow",
+   "url": "https://live.staticflickr.com/2474/3567233907_5762b3d282_b.jpg",
+   "preview": "https://live.staticflickr.com/2474/3567233907_5762b3d282_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by D Coetzee on Flickr, CC0",
+   "licence": "CC0",
+   "author_url": "https://www.flickr.com/photos/29507259@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/29507259@N02/3567233907",
    "plain": true
   }
  ]
