@@ -1224,35 +1224,37 @@
    "ABBV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
-    "shot": "c1",
-    "shows": "AbbVie (AbbVie Inc.)",
-    "file": "File:AbbVie.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:AbbVie.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/AbbVie.jpg/1920px-AbbVie.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/AbbVie.jpg/500px-AbbVie.jpg",
+    "shot": "b1",
+    "shows": "Botox injection being administered to a woman",
+    "file": "unsplash:qehqLHZ9toc",
+    "page": "https://unsplash.com/photos/botox-injection-being-administered-to-a-woman-qehqLHZ9toc?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1746708810803-722593e53772?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qm90b3h8ZW58MXx8fHwxNzk1MDYxMjM2fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1746708810803-722593e53772?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qm90b3h8ZW58MXx8fHwxNzk1MDYxMjM2fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "LittleT889, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "LittleT889",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "AbbVie Inc."
+    "credit": "Photo by Mina Rad on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mina Rad",
+    "year": 2025,
+    "how": "unsplash search: Botox",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@miinrad?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/qehqLHZ9toc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8Qm90b3h8ZW58MXx8fHwxNzk1MDYxMjM2fDA"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ACN": {
   "name": "Accenture",
@@ -10100,10 +10102,10 @@
    "AWK"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "AMP": {
   "name": "Ameriprise Financial",
@@ -12650,10 +12652,10 @@
    "APP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-communication",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "APTV": {
   "name": "Aptiv",
@@ -12921,10 +12923,10 @@
    "ACHR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-06",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ADM": {
   "name": "Archer Daniels Midland",
@@ -13333,35 +13335,10 @@
    "ANET"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "Distro swtich used under The Gathering 2025",
-    "file": "File:Distro swtich used under The Gathering 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Distro_swtich_used_under_The_Gathering_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Distro_swtich_used_under_The_Gathering_2025.jpg/1920px-Distro_swtich_used_under_The_Gathering_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Distro_swtich_used_under_The_Gathering_2025.jpg/500px-Distro_swtich_used_under_The_Gathering_2025.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Premeditated, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Premeditated",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Arista Networks"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "ARM": {
   "name": "Arm Holdings",
@@ -13892,10 +13869,10 @@
    "ASTS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-communication",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "AZN": {
   "name": "AstraZeneca",
@@ -14781,10 +14758,10 @@
    "ATO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ADSK": {
   "name": "Autodesk",
@@ -15414,10 +15391,10 @@
    "AXON"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "BIDU": {
   "name": "Baidu",
@@ -24243,10 +24220,10 @@
    "AI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CDNS": {
   "name": "Cadence Design Systems",
@@ -27267,10 +27244,10 @@
    "CBOE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CBRE": {
   "name": "CBRE Group",
@@ -28391,10 +28368,10 @@
    "CF"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CRL": {
   "name": "Charles River Laboratories",
@@ -28403,10 +28380,10 @@
    "CRL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "SCHW": {
   "name": "Charles Schwab Corporation",
@@ -30261,10 +30238,10 @@
    "CIEN"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CI": {
   "name": "Cigna",
@@ -30843,241 +30820,10 @@
    "CRCL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "Headquarters for Arctic Circle restaurants",
-    "file": "File:Headquarters for Arctic Circle restaurants.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Headquarters_for_Arctic_Circle_restaurants.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Headquarters_for_Arctic_Circle_restaurants.JPG/1920px-Headquarters_for_Arctic_Circle_restaurants.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Headquarters_for_Arctic_Circle_restaurants.JPG/500px-Headquarters_for_Arctic_Circle_restaurants.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "An Errant Knight, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "An Errant Knight",
-    "year": 2015,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s2",
-    "shows": "Circle contact lenses displayed in a department store in New Taipei City",
-    "file": "File:Circle contact lenses displayed in a department store in New Taipei City.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Circle_contact_lenses_displayed_in_a_department_store_in_New_Taipei_City.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circle_contact_lenses_displayed_in_a_department_store_in_New_Taipei_City.jpg/1280px-Circle_contact_lenses_displayed_in_a_department_store_in_New_Taipei_City.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circle_contact_lenses_displayed_in_a_department_store_in_New_Taipei_City.jpg/500px-Circle_contact_lenses_displayed_in_a_department_store_in_New_Taipei_City.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ThomasYehYeh, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "ThomasYehYeh",
-    "year": 2022,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s3",
-    "shows": "Circle Food Store New Orleans - Pharmacy sign December 2025",
-    "file": "File:Circle Food Store New Orleans - Pharmacy sign December 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Circle_Food_Store_New_Orleans_-_Pharmacy_sign_December_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Circle_Food_Store_New_Orleans_-_Pharmacy_sign_December_2025.jpg/1920px-Circle_Food_Store_New_Orleans_-_Pharmacy_sign_December_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Circle_Food_Store_New_Orleans_-_Pharmacy_sign_December_2025.jpg/500px-Circle_Food_Store_New_Orleans_-_Pharmacy_sign_December_2025.jpg",
-    "size": [
-     1920,
-     1266
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Infrogmation, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Infrogmation",
-    "year": 2025,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s4",
-    "shows": "Shed at the abandoned Circle Factory Outlet Center",
-    "file": "File:Shed at the abandoned Circle Factory Outlet Center.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shed_at_the_abandoned_Circle_Factory_Outlet_Center.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shed_at_the_abandoned_Circle_Factory_Outlet_Center.jpg/1920px-Shed_at_the_abandoned_Circle_Factory_Outlet_Center.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Shed_at_the_abandoned_Circle_Factory_Outlet_Center.jpg/500px-Shed_at_the_abandoned_Circle_Factory_Outlet_Center.jpg",
-    "size": [
-     1920,
-     1446
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ForeverFlying, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "ForeverFlying",
-    "year": 2026,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s5",
-    "shows": "Quarry behind the abandoned Circle Factory Outlet Center",
-    "file": "File:Quarry behind the abandoned Circle Factory Outlet Center.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Quarry_behind_the_abandoned_Circle_Factory_Outlet_Center.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Quarry_behind_the_abandoned_Circle_Factory_Outlet_Center.jpg/1920px-Quarry_behind_the_abandoned_Circle_Factory_Outlet_Center.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Quarry_behind_the_abandoned_Circle_Factory_Outlet_Center.jpg/500px-Quarry_behind_the_abandoned_Circle_Factory_Outlet_Center.jpg",
-    "size": [
-     1920,
-     1446
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ForeverFlying, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "ForeverFlying",
-    "year": 2026,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s6",
-    "shows": "Back door of the Circle Factory Outlet Center",
-    "file": "File:Back door of the Circle Factory Outlet Center.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Back_door_of_the_Circle_Factory_Outlet_Center.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Back_door_of_the_Circle_Factory_Outlet_Center.jpg/1920px-Back_door_of_the_Circle_Factory_Outlet_Center.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Back_door_of_the_Circle_Factory_Outlet_Center.jpg/500px-Back_door_of_the_Circle_Factory_Outlet_Center.jpg",
-    "size": [
-     1920,
-     1446
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "ForeverFlying, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "ForeverFlying",
-    "year": 2026,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s7",
-    "shows": "New Office Block in Victoria Circle - geograph.org.uk",
-    "file": "File:New Office Block in Victoria Circle - geograph.org.uk - 5238688.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:New_Office_Block_in_Victoria_Circle_-_geograph.org.uk_-_5238688.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/New_Office_Block_in_Victoria_Circle_-_geograph.org.uk_-_5238688.jpg/1280px-New_Office_Block_in_Victoria_Circle_-_geograph.org.uk_-_5238688.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/New_Office_Block_in_Victoria_Circle_-_geograph.org.uk_-_5238688.jpg/500px-New_Office_Block_in_Victoria_Circle_-_geograph.org.uk_-_5238688.jpg",
-    "size": [
-     1280,
-     2203
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "PAUL FARMER, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "PAUL FARMER",
-    "year": 2016,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s8",
-    "shows": "Andrade Law PLLC office at 1327 County Road D Circle, Saint Paul, Minnesota",
-    "file": "File:Andrade Law PLLC office at 1327 County Road D Circle, Saint Paul, Minnesota.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Andrade_Law_PLLC_office_at_1327_County_Road_D_Circle,_Saint_Paul,_Minnesota.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Andrade_Law_PLLC_office_at_1327_County_Road_D_Circle%2C_Saint_Paul%2C_Minnesota.jpg/1280px-Andrade_Law_PLLC_office_at_1327_County_Road_D_Circle%2C_Saint_Paul%2C_Minnesota.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Andrade_Law_PLLC_office_at_1327_County_Road_D_Circle%2C_Saint_Paul%2C_Minnesota.jpg/500px-Andrade_Law_PLLC_office_at_1327_County_Road_D_Circle%2C_Saint_Paul%2C_Minnesota.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Andrade Law PLLC, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Andrade Law PLLC",
-    "year": 2026,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s9",
-    "shows": "Office of the circle inspector of police",
-    "file": "File:Office of the circle inspector of police.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Office_of_the_circle_inspector_of_police.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Office_of_the_circle_inspector_of_police.jpg/1920px-Office_of_the_circle_inspector_of_police.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Office_of_the_circle_inspector_of_police.jpg/500px-Office_of_the_circle_inspector_of_police.jpg",
-    "size": [
-     1920,
-     866
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Vijay90814, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Vijay90814",
-    "year": 2024,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s10",
-    "shows": "Basavarajeshwari Bhavan building karnataka pradesha krushika samaaja hudson circle bengaluru",
-    "file": "File:Basavarajeshwari Bhavan building karnataka pradesha krushika samaaja hudson circle bengaluru.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Basavarajeshwari_Bhavan_building_karnataka_pradesha_krushika_samaaja_hudson_circle_bengaluru.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Basavarajeshwari_Bhavan_building_karnataka_pradesha_krushika_samaaja_hudson_circle_bengaluru.jpg/1920px-Basavarajeshwari_Bhavan_building_karnataka_pradesha_krushika_samaaja_hudson_circle_bengaluru.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Basavarajeshwari_Bhavan_building_karnataka_pradesha_krushika_samaaja_hudson_circle_bengaluru.jpg/500px-Basavarajeshwari_Bhavan_building_karnataka_pradesha_krushika_samaaja_hudson_circle_bengaluru.jpg",
-    "size": [
-     1920,
-     1446
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mallikarjunasj, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Mallikarjunasj",
-    "year": 2026,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "CSCO": {
   "name": "Cisco",
@@ -36483,10 +36229,10 @@
    "COO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "CPRT": {
   "name": "Copart",
@@ -36589,35 +36335,10 @@
    "CRWV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "CoreWeave bond yields",
-    "file": "File:CoreWeave bond yields.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CoreWeave_bond_yields.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CoreWeave_bond_yields.jpg/1920px-CoreWeave_bond_yields.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/CoreWeave_bond_yields.jpg/500px-CoreWeave_bond_yields.jpg",
-    "size": [
-     1920,
-     1153
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wikideas1, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wikideas1",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "CoreWeave"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "GLW": {
   "name": "Corning Inc.",
@@ -40059,10 +39780,10 @@
    "DHR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "DRI": {
   "name": "Darden Restaurants",
@@ -43195,10 +42916,10 @@
    "FANG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "DLR": {
   "name": "Digital Realty",
@@ -47662,10 +47383,10 @@
    "EW"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ELV": {
   "name": "Elevance Health",
@@ -48348,10 +48069,10 @@
    "EOG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "EQT": {
   "name": "EQT Corporation",
@@ -48751,10 +48472,10 @@
    "ERIE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ESS": {
   "name": "Essex Property Trust",
@@ -50142,10 +49863,10 @@
    "EXPD"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "EXR": {
   "name": "Extra Space Storage",
@@ -51499,34 +51220,10 @@
    "FDS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [
-   {
-    "shot": "main",
-    "shows": "Xerox headquarters",
-    "file": "File:Xerox headquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Xerox_headquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xerox_headquarters.jpg/1920px-Xerox_headquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Xerox_headquarters.jpg/500px-Xerox_headquarters.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "DanielPenfield, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "DanielPenfield",
-    "year": 2011,
-    "how": "Wikidata main image"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "FICO": {
   "name": "Fair Isaac",
@@ -55265,10 +54962,10 @@
    "FTV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "FOXA": {
   "name": "Fox Corporation",
@@ -57550,10 +57247,10 @@
    "GEV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "GEN": {
   "name": "Gen Digital",
@@ -59203,34 +58900,10 @@
    "GPC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-consumer-discretionary",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "Sanyang Genuine Parts Center 20210328a",
-    "file": "File:Sanyang Genuine Parts Center 20210328a.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sanyang_Genuine_Parts_Center_20210328a.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sanyang_Genuine_Parts_Center_20210328a.jpg/1920px-Sanyang_Genuine_Parts_Center_20210328a.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Sanyang_Genuine_Parts_Center_20210328a.jpg/500px-Sanyang_Genuine_Parts_Center_20210328a.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Solomon203, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Solomon203",
-    "year": 2021,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "GILD": {
   "name": "Gilead Sciences",
@@ -63043,10 +62716,10 @@
    "HIMS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "HD": {
   "name": "Home Depot (The)",
@@ -64783,35 +64456,10 @@
    "HWM"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "Arconic Luftbild bearbeitet",
-    "file": "File:Arconic Luftbild bearbeitet.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Arconic_Luftbild_bearbeitet.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arconic_Luftbild_bearbeitet.jpg/1920px-Arconic_Luftbild_bearbeitet.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arconic_Luftbild_bearbeitet.jpg/500px-Arconic_Luftbild_bearbeitet.jpg",
-    "size": [
-     1920,
-     1428
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "C. Hellermann, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "C. Hellermann",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Arconic"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "HPQ": {
   "name": "HP Inc.",
@@ -65452,10 +65100,10 @@
    "HUBB"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "HUM": {
   "name": "Humana",
@@ -65464,10 +65112,10 @@
    "HUM"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-06",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "HBAN": {
   "name": "Huntington Bancshares",
@@ -67274,10 +66922,10 @@
    "INCY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "IR": {
   "name": "Ingersoll Rand",
@@ -67685,10 +67333,10 @@
    "PODD"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "INTC": {
   "name": "Intel",
@@ -69936,15 +69584,16 @@
    "ISRG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
     "shot": "b1",
-    "shows": "Abstract blue shapes and the text 'intuitive surgical'",
-    "file": "unsplash:rgrJlZXSAZ0",
-    "page": "https://unsplash.com/photos/abstract-blue-shapes-and-the-text-intuitive-surgical-rgrJlZXSAZ0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1782712307248-2370800be12f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1782712307248-2370800be12f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Intuitive surgical logo with abstract blue glass shapes",
+    "file": "unsplash:atcP-r4OPgA",
+    "page": "https://unsplash.com/photos/intuitive-surgical-logo-with-abstract-blue-glass-shapes-atcP-r4OPgA?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782712307148-ea37fb4eb272?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782712307148-ea37fb4eb272?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -69962,15 +69611,15 @@
     "how": "unsplash search: da Vinci surgical robot",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/rgrJlZXSAZ0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA"
+    "track": "https://api.unsplash.com/photos/atcP-r4OPgA/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA"
    },
    {
     "shot": "b2",
-    "shows": "Light blue abstract shapes near 'intuitive surgical' text",
-    "file": "unsplash:j5jWT3pibdM",
-    "page": "https://unsplash.com/photos/light-blue-abstract-shapes-near-intuitive-surgical-text-j5jWT3pibdM?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1782712307185-7fb610aa3608?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1782712307185-7fb610aa3608?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shows": "Intuitive surgical logo within a clear ring and blue shapes",
+    "file": "unsplash:wAxCzw_8WoE",
+    "page": "https://unsplash.com/photos/intuitive-surgical-logo-within-a-clear-ring-and-blue-shapes-wAxCzw_8WoE?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1782712307274-69076c03d3a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1782712307274-69076c03d3a1?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -69988,11 +69637,10 @@
     "how": "unsplash search: da Vinci surgical robot",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/j5jWT3pibdM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA"
+    "track": "https://api.unsplash.com/photos/wAxCzw_8WoE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8ZGElMjBWaW5jaSUyMHN1cmdpY2FsJTIwcm9ib3R8ZW58MXx8fHwxNzk0MDA2NjkyfDA"
    }
   ],
-  "checked": "2026-11-06",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "IVZ": {
   "name": "Invesco",
@@ -70088,10 +69736,10 @@
    "INVH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "IONQ": {
   "name": "IonQ",
@@ -70136,35 +69784,10 @@
    "IQV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "Imperial Tower (Durham, North Carolina)",
-    "file": "File:Imperial Tower (Durham, North Carolina).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Imperial_Tower_(Durham,_North_Carolina).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Imperial_Tower_%28Durham%2C_North_Carolina%29.jpg/1920px-Imperial_Tower_%28Durham%2C_North_Carolina%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Imperial_Tower_%28Durham%2C_North_Carolina%29.jpg/500px-Imperial_Tower_%28Durham%2C_North_Carolina%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Willthacheerleader18, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Willthacheerleader18",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Imperial Tower (Durham, North Carolina)"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "IRM": {
   "name": "Iron Mountain",
@@ -70785,10 +70408,10 @@
    "JBL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "JKHY": {
   "name": "Jack Henry & Associates",
@@ -70837,10 +70460,10 @@
    "J"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "JD": {
   "name": "JD.com",
@@ -76052,35 +75675,10 @@
    "LH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "LabCorp at 6210 John Ryan Drive in Fort Worth Blood Draw Room Supplies",
-    "file": "File:LabCorp at 6210 John Ryan Drive in Fort Worth Blood Draw Room Supplies.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:LabCorp_at_6210_John_Ryan_Drive_in_Fort_Worth_Blood_Draw_Room_Supplies.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LabCorp_at_6210_John_Ryan_Drive_in_Fort_Worth_Blood_Draw_Room_Supplies.jpg/1280px-LabCorp_at_6210_John_Ryan_Drive_in_Fort_Worth_Blood_Draw_Room_Supplies.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/LabCorp_at_6210_John_Ryan_Drive_in_Fort_Worth_Blood_Draw_Room_Supplies.jpg/500px-LabCorp_at_6210_John_Ryan_Drive_in_Fort_Worth_Blood_Draw_Room_Supplies.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Aspensmonster, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Aspensmonster",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "LabCorp at 6210 John Ryan Drive in Fort Worth"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "LRCX": {
   "name": "Lam Research",
@@ -79282,10 +78880,37 @@
    "L"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "b1",
+    "shows": "A modern mall with loews hotel in the background",
+    "file": "unsplash:CkKEfrnn1sY",
+    "page": "https://unsplash.com/photos/a-modern-mall-with-loews-hotel-in-the-background-CkKEfrnn1sY?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1744165036966-dc7dd76b2d1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TG9ld3MlMjBIb3RlbHxlbnwxfHx8fDE3OTUwNjQ0Mjh8MA&ixlib=rb-4.1.0&w=2121&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1744165036966-dc7dd76b2d1f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TG9ld3MlMjBIb3RlbHxlbnwxfHx8fDE3OTUwNjQ0Mjh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2121,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Murali Raju on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Murali Raju",
+    "year": 2025,
+    "how": "unsplash search: Loews Hotel",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@muralitx3?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/CkKEfrnn1sY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TG9ld3MlMjBIb3RlbHxlbnwxfHx8fDE3OTUwNjQ0Mjh8MA"
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "LOW": {
   "name": "Lowe's",
@@ -80338,10 +79963,10 @@
    "LITE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "LYFT": {
   "name": "Lyft",
@@ -82306,10 +81931,10 @@
    "MLM"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "MRVL": {
   "name": "Marvell Technology",
@@ -82570,80 +82195,261 @@
    "MAS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
-    "shot": "s1",
-    "shows": "Masco Headquarters Taylor Michigan",
-    "file": "File:Masco Headquarters Taylor Michigan.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Masco_Headquarters_Taylor_Michigan.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Masco_Headquarters_Taylor_Michigan.JPG/1920px-Masco_Headquarters_Taylor_Michigan.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Masco_Headquarters_Taylor_Michigan.JPG/500px-Masco_Headquarters_Taylor_Michigan.JPG",
+    "shot": "b1",
+    "shows": "Wapuu(mascot of the WordPress open-source project) taking nap in a bed with a striped white and navy blue pillow in the background.",
+    "file": "wordpress:186169",
+    "page": "https://wordpress.org/photos/photo/796699f09c/",
+    "url": "https://pd.w.org/2026/02/796699f09cf754f24.27374338-1365x2048.jpg",
+    "preview": "https://pd.w.org/2026/02/796699f09cf754f24.27374338-768x1152.jpg",
     "size": [
-     1920,
-     777
+     1365,
+     2048
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Dwight Burdette, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Dwight Burdette",
-    "year": 2010,
-    "how": "Commons search"
+    "credit": "Photo by Cameron Garofalo on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Cameron Garofalo",
+    "year": 2026,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/vio2photo/"
    },
    {
-    "shot": "s2",
-    "shows": "Masco Cabinetry headquarters Ann Arbor Township",
-    "file": "File:Masco Cabinetry headquarters Ann Arbor Township.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Masco_Cabinetry_headquarters_Ann_Arbor_Township.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Masco_Cabinetry_headquarters_Ann_Arbor_Township.JPG/1920px-Masco_Cabinetry_headquarters_Ann_Arbor_Township.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Masco_Cabinetry_headquarters_Ann_Arbor_Township.JPG/500px-Masco_Cabinetry_headquarters_Ann_Arbor_Township.JPG",
+    "shot": "b2",
+    "shows": "A small yellow Wapuu mascot hugging a blue ball with the white WordPress “W” logo, sitting on a black tabletop with a blurred event crowd in the background.",
+    "file": "wordpress:159110",
+    "page": "https://wordpress.org/photos/photo/5868fa2f0b/",
+    "url": "https://pd.w.org/2025/10/5868fa2f0b06c785.28696958-2048x1536.jpeg",
+    "preview": "https://pd.w.org/2025/10/5868fa2f0b06c785.28696958-768x576.jpeg",
     "size": [
-     1920,
-     653
+     2048,
+     1536
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Dwight Burdette, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Dwight Burdette",
-    "year": 2010,
-    "how": "Commons search"
+    "credit": "Photo by Jesús Amieiro on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Jesús Amieiro",
+    "year": 2025,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/amieiro/"
    },
    {
-    "shot": "s3",
-    "shows": "MASCO bus at JFK UMass station, January 2019",
-    "file": "File:MASCO bus at JFK UMass station, January 2019.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:MASCO_bus_at_JFK_UMass_station,_January_2019.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MASCO_bus_at_JFK_UMass_station%2C_January_2019.jpg/1920px-MASCO_bus_at_JFK_UMass_station%2C_January_2019.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MASCO_bus_at_JFK_UMass_station%2C_January_2019.jpg/500px-MASCO_bus_at_JFK_UMass_station%2C_January_2019.jpg",
+    "shot": "b3",
+    "shows": "Tahopuu – the official Wapuu mascot for WordCamp Asia 2025.",
+    "file": "wordpress:150549",
+    "page": "https://wordpress.org/photos/photo/21268cbde0/",
+    "url": "https://pd.w.org/2025/09/21268cbde04ee8535.48057547-1536x2048.jpg",
+    "preview": "https://pd.w.org/2025/09/21268cbde04ee8535.48057547-768x1024.jpg",
     "size": [
-     1920,
-     1412
+     1536,
+     2048
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Beantowndude316 from USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Beantowndude316 from USA",
-    "year": 2019,
-    "how": "Commons search"
+    "credit": "Photo by Alina Kakshapati on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Alina Kakshapati",
+    "year": 2025,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/aleenak19/"
+   },
+   {
+    "shot": "b4",
+    "shows": "Cauliflower. Mascot is WordCamp Griñón.",
+    "file": "wordpress:61732",
+    "page": "https://wordpress.org/photos/photo/51165c6001/",
+    "url": "https://pd.w.org/2024/02/51165c6001aa9b239.45596833.jpeg",
+    "preview": "https://pd.w.org/2024/02/51165c6001aa9b239.45596833-768x512.jpeg",
+    "size": [
+     6000,
+     4000
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Nilo Velez on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Nilo Velez",
+    "year": 2024,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/nilovelez/"
+   },
+   {
+    "shot": "b5",
+    "shows": "A baseball field, shaded by evening. There are people all over the field playing lawn games.  There’s a mascot visible on the field as well. Grand Rapids, Michi",
+    "file": "wordpress:157801",
+    "page": "https://wordpress.org/photos/photo/84968ef749/",
+    "url": "https://pd.w.org/2025/10/84968ef749378b6e7.28288373.jpeg",
+    "preview": "https://pd.w.org/2025/10/84968ef749378b6e7.28288373-768x432.jpeg",
+    "size": [
+     5712,
+     3213
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Topher on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Topher",
+    "year": 2025,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/topher1kenobe/"
+   },
+   {
+    "shot": "b6",
+    "shows": "An assortment of colorful stickers and a framed collection related to WordPress, including images of the WordPress logo mascot, Wapuu, displayed on a dual-tone ",
+    "file": "wordpress:72021",
+    "page": "https://wordpress.org/photos/photo/5666619679/",
+    "url": "https://pd.w.org/2024/04/5666619679944f160.20529112.jpg",
+    "preview": "https://pd.w.org/2024/04/5666619679944f160.20529112-768x768.jpg",
+    "size": [
+     2000,
+     2000
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by soycelycruz on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "soycelycruz",
+    "year": 2024,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/soycelycruz/"
+   },
+   {
+    "shot": "b7",
+    "shows": "Singapore’s Merlion Park features a mythical creature with a lion’s head and fish body, serving as a mascot and national symbol.",
+    "file": "wordpress:39440",
+    "page": "https://wordpress.org/photos/photo/215652d0d5/",
+    "url": "https://pd.w.org/2023/10/215652d0d5d457c82.52801088-2048x1536.jpg",
+    "preview": "https://pd.w.org/2023/10/215652d0d5d457c82.52801088-768x576.jpg",
+    "size": [
+     2048,
+     1536
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Faisal Ahammad on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Faisal Ahammad",
+    "year": 2023,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/faisalahammad/"
+   },
+   {
+    "shot": "b8",
+    "shows": "Singapore 58 years celebration mascot.",
+    "file": "wordpress:36895",
+    "page": "https://wordpress.org/photos/photo/496650f769/",
+    "url": "https://pd.w.org/2023/09/496650f769ab3bb01.96873158-2048x1536.jpg",
+    "preview": "https://pd.w.org/2023/09/496650f769ab3bb01.96873158-768x576.jpg",
+    "size": [
+     2048,
+     1536
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Faisal Ahammad on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Faisal Ahammad",
+    "year": 2023,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/faisalahammad/"
+   },
+   {
+    "shot": "b9",
+    "shows": "Close-up of a WordPress “Wapuu” mascotte toy sitting on a dark surface with a blurry background.",
+    "file": "wordpress:81569",
+    "page": "https://wordpress.org/photos/photo/702667f47b/",
+    "url": "https://pd.w.org/2024/06/702667f47b9b27877.38653384-1153x2048.jpg",
+    "preview": "https://pd.w.org/2024/06/702667f47b9b27877.38653384-768x1364.jpg",
+    "size": [
+     1153,
+     2048
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Leticia on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Leticia",
+    "year": 2024,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/menina/"
+   },
+   {
+    "shot": "b10",
+    "shows": "Wapuunder Australia’s official Wapuu mascot.",
+    "file": "wordpress:27949",
+    "page": "https://wordpress.org/photos/photo/65645c7110/",
+    "url": "https://pd.w.org/2023/05/65645c711007dcc8.27445667-1536x2048.jpg",
+    "preview": "https://pd.w.org/2023/05/65645c711007dcc8.27445667-768x1024.jpg",
+    "size": [
+     1536,
+     2048
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by DeveloperWil on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "DeveloperWil",
+    "year": 2023,
+    "how": "wordpress search: Masco",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/developerwil/"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "MA": {
   "name": "Mastercard",
@@ -94388,10 +94194,36 @@
    "NI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "b1",
+    "shows": "Mosaic mural at the Columbia Gas Building in downtown Wheeling, West Virginia",
+    "file": "loc:2015632077",
+    "page": "https://www.loc.gov/item/2015632077/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32000:32002/full/2400,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32000:32002/full/500,/0/default.jpg",
+    "size": [
+     2400,
+     1456
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2015,
+    "how": "loc search: Columbia Gas",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "NDSN": {
   "name": "Nordson Corporation",
@@ -98150,10 +97982,10 @@
    "NVR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-consumer-discretionary",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "NXPI": {
   "name": "NXP Semiconductors",
@@ -98790,59 +98622,10 @@
    "OXY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "Houston, Texas - 04",
-    "file": "File:Houston, Texas (2024) - 04.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Houston,_Texas_(2024)_-_04.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houston%2C_Texas_%282024%29_-_04.jpg/1920px-Houston%2C_Texas_%282024%29_-_04.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Houston%2C_Texas_%282024%29_-_04.jpg/500px-Houston%2C_Texas_%282024%29_-_04.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Another Believer, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Another Believer",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Occidental Petroleum Corporation"
-   },
-   {
-    "shot": "c2",
-    "shows": "110 West 7th Building + Church",
-    "file": "File:110 West 7th Building + Church.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:110_West_7th_Building_%2B_Church.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/110_West_7th_Building_%2B_Church.jpg/1920px-110_West_7th_Building_%2B_Church.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/110_West_7th_Building_%2B_Church.jpg/500px-110_West_7th_Building_%2B_Church.jpg",
-    "size": [
-     1920,
-     1281
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kool Cats Photography over 2 Million Views (flickr.com), CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Kool Cats Photography over 2 Million Views (flickr.com)",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Occidental Petroleum Corporation"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "OKLO": {
   "name": "Oklo",
@@ -98851,10 +98634,10 @@
    "OKLO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ODFL": {
   "name": "Old Dominion",
@@ -98947,34 +98730,10 @@
    "OMC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-communication",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "Tsinghua University School of Journalism and Communication (Omnicom Building)",
-    "file": "File:Tsinghua University School of Journalism and Communication (Omnicom Building).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Tsinghua_University_School_of_Journalism_and_Communication_(Omnicom_Building).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tsinghua_University_School_of_Journalism_and_Communication_%28Omnicom_Building%29.jpg/1920px-Tsinghua_University_School_of_Journalism_and_Communication_%28Omnicom_Building%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tsinghua_University_School_of_Journalism_and_Communication_%28Omnicom_Building%29.jpg/500px-Tsinghua_University_School_of_Journalism_and_Communication_%28Omnicom_Building%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "JULIANISME, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "JULIANISME",
-    "year": 2015,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "ONON": {
   "name": "On",
@@ -105324,10 +105083,10 @@
    "PNW"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "PINS": {
   "name": "Pinterest",
@@ -107971,10 +107730,10 @@
    "PHM"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-consumer-discretionary",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "Q": {
   "name": "Qnity Electronics",
@@ -108301,38 +108060,10 @@
    "PWR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "Quanta Express at 2026 Sheridan WYO Rodeo 01",
-    "file": "File:Quanta Express at 2026 Sheridan WYO Rodeo 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Quanta_Express_at_2026_Sheridan_WYO_Rodeo_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Quanta_Express_at_2026_Sheridan_WYO_Rodeo_01.jpg/1280px-Quanta_Express_at_2026_Sheridan_WYO_Rodeo_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Quanta_Express_at_2026_Sheridan_WYO_Rodeo_01.jpg/500px-Quanta_Express_at_2026_Sheridan_WYO_Rodeo_01.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Runawaymo, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Runawaymo",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Quanta Services",
-    "flags": [
-     "restrictions: personality"
-    ]
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "DGX": {
   "name": "Quest Diagnostics",
@@ -109003,10 +108734,10 @@
    "O"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "RDDT": {
   "name": "Reddit",
@@ -109941,10 +109672,10 @@
    "RMD"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "RVTY": {
   "name": "Revvity",
@@ -109953,10 +109684,10 @@
    "RVTY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "RGTI": {
   "name": "Rigetti Computing",
@@ -109965,10 +109696,10 @@
    "RGTI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "RIO": {
   "name": "Rio Tinto",
@@ -111572,10 +111303,10 @@
    "ROL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ROP": {
   "name": "Roper Technologies",
@@ -118058,10 +117789,10 @@
    "SOLV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "SONY": {
   "name": "Sony",
@@ -118531,10 +118262,37 @@
    "SOUN"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "b1",
+    "shows": "Red and blue labeled box",
+    "file": "unsplash:EoqmTK8QZjM",
+    "page": "https://unsplash.com/photos/red-and-blue-labeled-box-EoqmTK8QZjM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1600783245722-ff4846c17501?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U291bmRIb3VuZHxlbnwxfHx8fDE3OTUwNjQ3Mzh8MA&ixlib=rb-4.1.0&w=2000&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1600783245722-ff4846c17501?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U291bmRIb3VuZHxlbnwxfHx8fDE3OTUwNjQ3Mzh8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2000,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Brett Jordan on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Brett Jordan",
+    "year": 2020,
+    "how": "unsplash search: SoundHound",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@brett_jordan?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/EoqmTK8QZjM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8U291bmRIb3VuZHxlbnwxfHx8fDE3OTUwNjQ3Mzh8MA"
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "SO": {
   "name": "Southern Company",
@@ -121879,34 +121637,10 @@
    "STLD"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "Steel Dynamics Steel Mill, Pittsboro, Indiana",
-    "file": "File:Steel Dynamics Steel Mill, Pittsboro, Indiana.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Steel_Dynamics_Steel_Mill,_Pittsboro,_Indiana.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Steel_Dynamics_Steel_Mill%2C_Pittsboro%2C_Indiana.jpg/1920px-Steel_Dynamics_Steel_Mill%2C_Pittsboro%2C_Indiana.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Steel_Dynamics_Steel_Mill%2C_Pittsboro%2C_Indiana.jpg/500px-Steel_Dynamics_Steel_Mill%2C_Pittsboro%2C_Indiana.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Unknown author, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "",
-    "year": null,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "STE": {
   "name": "Steris",
@@ -121915,59 +121649,10 @@
    "STE"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "Wall-mounted hand sanitizer dispenser",
-    "file": "File:Wall-mounted hand sanitizer dispenser.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Wall-mounted_hand_sanitizer_dispenser.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wall-mounted_hand_sanitizer_dispenser.JPG/1280px-Wall-mounted_hand_sanitizer_dispenser.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wall-mounted_hand_sanitizer_dispenser.JPG/500px-Wall-mounted_hand_sanitizer_dispenser.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "BrokenSphere",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Steris"
-   },
-   {
-    "shot": "c2",
-    "shows": "Wall-mounted medicated lotion soap",
-    "file": "File:Wall-mounted medicated lotion soap.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Wall-mounted_medicated_lotion_soap.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wall-mounted_medicated_lotion_soap.JPG/1280px-Wall-mounted_medicated_lotion_soap.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Wall-mounted_medicated_lotion_soap.JPG/500px-Wall-mounted_medicated_lotion_soap.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "BrokenSphere",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Steris"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "MSTR": {
   "name": "Strategy (MicroStrategy)",
@@ -122559,10 +122244,10 @@
    "SYF"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "SNPS": {
   "name": "Synopsys",
