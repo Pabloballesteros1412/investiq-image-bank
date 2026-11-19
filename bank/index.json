@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-19",
- "photos": 6365,
+ "photos": 6358,
  "subjects": [
   {
    "id": "MMM",
@@ -1900,7 +1900,7 @@
     "COIN"
    ],
    "aliases": [],
-   "photos": 11,
+   "photos": 10,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/COIN.json",
    "sector": "sector-financials",
@@ -4855,7 +4855,7 @@
     "MU"
    ],
    "aliases": [],
-   "photos": 11,
+   "photos": 9,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/MU.json",
    "sector": "sector-tech",
@@ -5059,10 +5059,11 @@
     "NFLX"
    ],
    "aliases": [],
-   "photos": 30,
+   "photos": 26,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NFLX.json",
-   "sector": "sector-communication"
+   "sector": "sector-communication",
+   "fill_from": "sector-communication"
   },
   {
    "id": "NEM",
