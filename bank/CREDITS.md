@@ -4742,9 +4742,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Southern Company (SO)
 
+- Georgia Power Sign On Transformer Station: Photo by kenteegardin on Flickr, CC BY-SA 2.0. [5455824671](https://www.flickr.com/photos/26373139@N08/5455824671)
 - Historic Alabama Power Company sign, Attalla, Alabama: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010640595](https://www.loc.gov/item/2010640595/)
 - Details from the Alabama Power Company building, Birmingham, Alabama: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010636961](https://www.loc.gov/item/2010636961/)
-- Georgia Power Sign On Transformer Station: Photo by kenteegardin on Flickr, CC BY-SA 2.0. [5455824671](https://www.flickr.com/photos/26373139@N08/5455824671)
 - Georgia Power Tramsformer Station: Photo by kenteegardin on Flickr, CC BY-SA 2.0. [5455825063](https://www.flickr.com/photos/26373139@N08/5455825063)
 - Georgia Power for the Assist: Photo by AuthenticEccentric on Flickr, CC BY-SA 2.0. [6100172305](https://www.flickr.com/photos/71645600@N00/6100172305)
 - Georgia Power plant · brunswick, flight, georgia, jekyll, plane: Photo by lns1122 on Flickr, CC BY 2.0. [27027207127](https://www.flickr.com/photos/57903762@N00/27027207127)
