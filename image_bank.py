@@ -685,6 +685,12 @@ def has_term(hay, term):
     return bool(re.search(r"(?<![a-z0-9])" + t, hay))
 
 
+def has_name(hay, name):
+    """Whether a lower-case text names a brand or company as a whole word, plural or possessive allowed
+    ('iPhones', "McDonald's"): a stock photo of a 'mascot' or of the 'Niketan' garden does not name Masco or Nike."""
+    return bool(re.search(r"(?<![a-z0-9])" + re.escape(name.lower()) + r"(?:['\u2019]s|e?s)?(?![a-z0-9])", hay))
+
+
 def score(c, rank, shot, used=(), no_sa=False, exclude=()):
     """Ranking score of a candidate for a shot, or None when it cannot be used."""
     if c["file"] in used or c["file"] in exclude or c["file"] in shot.get("exclude", ()) or c["mime"] not in MIMES or not c.get("orig"):
@@ -1026,7 +1032,7 @@ def brand_photos(c, brands, src, used, n, exclude=(), n_queries=BRAND_QUERIES):
                 if cand["file"] in seen:
                     continue
                 seen.add(cand["file"])
-                if not any(has_term(flat(cand.get("description")), k) for k in keys):
+                if not any(has_name(flat(cand.get("description")), k) for k in keys):
                     continue
                 s = score(cand, rank, {"id": "brand"}, used, False, exclude)
                 if s is not None:

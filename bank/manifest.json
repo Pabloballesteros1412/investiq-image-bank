@@ -6575,8 +6575,7 @@
     "how": "unsplash search: Google",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@reganography?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/ozxZtcfi7t0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/ozxZtcfi7t0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fEdvb2dsZXxlbnwxfHx8fDE3OTM5NjAwMjV8MA"
    },
    {
     "shot": "b28",
@@ -6602,8 +6601,7 @@
     "how": "unsplash search: Waymo",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@sulavjunghamal?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/reRZ2m4dPHE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/reRZ2m4dPHE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFdheW1vfGVufDF8fHx8MTc5Mzk2MDAyOHww"
    },
    {
     "shot": "googleplex",
@@ -58902,7 +58900,87 @@
   "aliases": [],
   "target": 10,
   "sector": "sector-consumer-discretionary",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "b1",
+    "shows": "A blue NAPA Auto Part store with a yellow and red stripe under a clear blue sky",
+    "file": "unsplash:mxEqrCqB-Jo",
+    "page": "https://unsplash.com/photos/napa-auto-part-store-exterior-mxEqrCqB-Jo?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1791732779047-8c00fe05ec6a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1791732779047-8c00fe05ec6a?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Marcus Lenk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Marcus Lenk",
+    "year": 2026,
+    "how": "unsplash search: NAPA Auto Parts",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@marcuslenk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/mxEqrCqB-Jo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b2",
+    "shows": "A blue building with a NAPA sign and a door marked \"BEWARE OF ALLIGATORS\"",
+    "file": "unsplash:DDzz9YTviKk",
+    "page": "https://unsplash.com/photos/blue-building-with-napa-sign-DDzz9YTviKk?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1791732779080-abba72089e72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1791732779080-abba72089e72?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Marcus Lenk on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Marcus Lenk",
+    "year": 2026,
+    "how": "unsplash search: NAPA Auto Parts",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@marcuslenk?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/DDzz9YTviKk/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8TkFQQSUyMEF1dG8lMjBQYXJ0c3xlbnwxfHx8fDE3OTUwNjE1OTB8MA",
+    "track_pending": true
+   },
+   {
+    "shot": "b3",
+    "shows": "Vintage Coca-Cola sign on an outside wall of a grocery store in Oakville, north of Napa in California's Napa Valley",
+    "file": "loc:2013631243",
+    "page": "https://www.loc.gov/item/2013631243/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24065/full/1200,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24065/full/500,/0/default.jpg",
+    "size": [
+     1200,
+     1800
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2012,
+    "how": "loc search: NAPA store",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+   }
+  ],
   "checked": "2026-11-19"
  },
  "GILD": {
@@ -87432,8 +87510,7 @@
     "how": "unsplash search: Micron",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/SMAznuCOZlo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TWljcm9ufGVufDF8fHx8MTc5Mzk3MDg3M3ww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/SMAznuCOZlo/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8TWljcm9ufGVufDF8fHx8MTc5Mzk3MDg3M3ww"
    },
    {
     "shot": "b2",
@@ -87459,8 +87536,7 @@
     "how": "unsplash search: Micron",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@brechtcorbeel?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Zyx82l9sjTU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fE1pY3JvbnxlbnwxfHx8fDE3OTM5NzA4NzN8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/Zyx82l9sjTU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fE1pY3JvbnxlbnwxfHx8fDE3OTM5NzA4NzN8MA"
    },
    {
     "shot": "fab",
@@ -91419,8 +91495,7 @@
     "how": "unsplash search: Netflix logo",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@boliviainteligente?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/O8_sorSPXLY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fE5ldGZsaXglMjBsb2dvfGVufDF8fHx8MTc5NTA1NDI1OHww",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/O8_sorSPXLY/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fE5ldGZsaXglMjBsb2dvfGVufDF8fHx8MTc5NTA1NDI1OHww"
    },
    {
     "shot": "b6",
@@ -91472,8 +91547,7 @@
     "how": "unsplash search: Netflix remote",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@7th_verse?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/V0GSXrRuBA4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/V0GSXrRuBA4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA"
    },
    {
     "shot": "b8",
@@ -91499,8 +91573,7 @@
     "how": "unsplash search: Netflix app",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@7th_verse?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/YL12bny5HjE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fE5ldGZsaXglMjBhcHB8ZW58MXx8fHwxNzk1MDU0MTYzfDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/YL12bny5HjE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjd8fE5ldGZsaXglMjBhcHB8ZW58MXx8fHwxNzk1MDU0MTYzfDA"
    },
    {
     "shot": "b9",
@@ -91526,8 +91599,7 @@
     "how": "unsplash search: Netflix remote",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@redaquamedia?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/P4_y5FuOeGQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/P4_y5FuOeGQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjJ8fE5ldGZsaXglMjByZW1vdGV8ZW58MXx8fHwxNzk1MDU0NDM5fDA"
    },
    {
     "shot": "b10",
@@ -91553,8 +91625,7 @@
     "how": "unsplash search: Netflix",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@charlesdeluvio?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/MDUI8XIq6Mc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fE5ldGZsaXh8ZW58MXx8fHwxNzkzOTcwODc3fDA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/MDUI8XIq6Mc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mjh8fE5ldGZsaXh8ZW58MXx8fHwxNzkzOTcwODc3fDA"
    },
    {
     "shot": "hq",
@@ -92860,8 +92931,7 @@
     "how": "unsplash search: Nike",
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@felipefxo?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/J2-wAQDckus/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TmlrZXxlbnwxfHx8fDE3OTM5NzA4Nzh8MA",
-    "track_pending": true
+    "track": "https://api.unsplash.com/photos/J2-wAQDckus/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8TmlrZXxlbnwxfHx8fDE3OTM5NzA4Nzh8MA"
    },
    {
     "shot": "b7",
