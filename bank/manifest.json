@@ -190295,34 +190295,34 @@
     "track": "https://api.unsplash.com/photos/bKfuUy-g48Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww"
    },
    {
-    "shot": "investment-growth",
-    "shows": "4.3- Investment and Inclusive Growth",
-    "file": "File:4.3- Investment and Inclusive Growth (10070561386).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:4.3-_Investment_and_Inclusive_Growth_(10070561386).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/4.3-_Investment_and_Inclusive_Growth_%2810070561386%29.jpg/1920px-4.3-_Investment_and_Inclusive_Growth_%2810070561386%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/4.3-_Investment_and_Inclusive_Growth_%2810070561386%29.jpg/500px-4.3-_Investment_and_Inclusive_Growth_%2810070561386%29.jpg",
+    "shot": "wealth-management",
+    "shows": "Wealth Court Management Office",
+    "file": "File:Wealth Court Management Office.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wealth_Court_Management_Office.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wealth_Court_Management_Office.jpg/1920px-Wealth_Court_Management_Office.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wealth_Court_Management_Office.jpg/500px-Wealth_Court_Management_Office.jpg",
     "size": [
      1920,
-     1280
+     1446
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "UNU-WIDER from Helsinki, Finland, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "UNU-WIDER from Helsinki, Finland",
-    "year": 2013,
+    "credit": "Ricky36, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Ricky36",
+    "year": 2026,
     "how": "catalog"
    }
   ],
   "missing": [
-   "market-chart",
-   "growth-coins",
-   "jar-of-coins",
-   "financial-news",
+   "stock-chart-laptop",
+   "growth-chart-coins",
+   "portfolio-chart",
+   "401k",
    "mutual-fund",
    "trader-screens",
    "cash",
@@ -190338,7 +190338,7 @@
    "coin-stack",
    "stack-of-coins"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "space": {
   "name": "Space economy",
@@ -194217,11 +194217,11 @@
    },
    {
     "shot": "campaign-rally",
-    "shows": "Rally (crowd leaves at end) 5269",
-    "file": "File:Rally (crowd leaves at end) IMG 5269.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rally_(crowd_leaves_at_end)_IMG_5269.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rally_%28crowd_leaves_at_end%29_IMG_5269.jpg/1920px-Rally_%28crowd_leaves_at_end%29_IMG_5269.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rally_%28crowd_leaves_at_end%29_IMG_5269.jpg/500px-Rally_%28crowd_leaves_at_end%29_IMG_5269.jpg",
+    "shows": "Rally (crowd leaves at end) 5265",
+    "file": "File:Rally (crowd leaves at end) IMG 5265.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rally_(crowd_leaves_at_end)_IMG_5265.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg/1920px-Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg/500px-Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg",
     "size": [
      1920,
      1440
@@ -194240,10 +194240,10 @@
    }
   ],
   "missing": [
-   "vote-sign",
-   "absentee-ballot",
-   "yard-sign",
-   "state-house",
+   "senate-chamber",
+   "presidential-seal",
+   "parliament-building",
+   "mail-in-ballot",
    "stars-and-stripes",
    "independence-hall",
    "us-capitol-night",
@@ -194252,7 +194252,7 @@
    "i-voted-sticker",
    "polling-place"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "europe": {
   "name": "Europe & the ECB",
@@ -196794,14 +196794,14 @@
    }
   ],
   "missing": [
-   "scientist-lab",
-   "silicon-chip-macro",
-   "sapphire-crystal",
+   "cleanroom-wafer",
+   "lab-cryogenics",
+   "optics-bench",
    "electromagnet",
    "cooling-system-lab",
    "lab-vacuum-pump"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "robotics": {
   "name": "Robotics & automation",
@@ -198070,35 +198070,35 @@
     "track_pending": true
    },
    {
-    "shot": "assembly-line-robot",
-    "shows": "Stola Josef Hlubinne Uloziste JO E",
-    "file": "File:Stola Josef Hlubinne Uloziste JO E.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stola_Josef_Hlubinne_Uloziste_JO_E.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stola_Josef_Hlubinne_Uloziste_JO_E.jpg/1280px-Stola_Josef_Hlubinne_Uloziste_JO_E.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Stola_Josef_Hlubinne_Uloziste_JO_E.jpg/500px-Stola_Josef_Hlubinne_Uloziste_JO_E.jpg",
+    "shot": "industrial-robot-arm",
+    "shows": "KUKA industrial robotic arm performing \"The Beach\" by Roy Nachum - 02",
+    "file": "File:KUKA industrial robotic arm performing \"The Beach\" by Roy Nachum - 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/1920px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/500px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
     "size": [
-     1280,
-     1707
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mojmir Churavy, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Mojmir Churavy",
-    "year": 2026,
+    "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Oleg Yunakov",
+    "year": 2025,
     "how": "catalog"
    }
   ],
   "missing": [
-   "surgical-robot",
-   "agv",
-   "robot-competition",
-   "android",
-   "assembly-line",
+   "robotic-welding",
+   "automated-guided-vehicle",
+   "robot-arm-lab",
+   "factory-robots",
+   "robot-welding-sparks",
    "automated-warehouse",
    "robotic-arm",
    "robot-hand",
@@ -198115,7 +198115,7 @@
    "pick-and-place",
    "robot-gripper"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "cybersecurity": {
   "name": "Cybersecurity",
@@ -199392,12 +199392,12 @@
     "how": "catalog"
    },
    {
-    "shot": "keypad",
-    "shows": "Dülmen, Kirchspiel, ehem. Sondermunitionslager Visbeck, Beobachtungsturm der US Army -- 2022 -- 4457",
-    "file": "File:Dülmen, Kirchspiel, ehem. Sondermunitionslager Visbeck, Beobachtungsturm der US Army -- 2022 -- 4457.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_Beobachtungsturm_der_US_Army_--_2022_--_4457.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%C3%BClmen%2C_Kirchspiel%2C_ehem._Sondermunitionslager_Visbeck%2C_Beobachtungsturm_der_US_Army_--_2022_--_4457.jpg/1920px-D%C3%BClmen%2C_Kirchspiel%2C_ehem._Sondermunitionslager_Visbeck%2C_Beobachtungsturm_der_US_Army_--_2022_--_4457.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/D%C3%BClmen%2C_Kirchspiel%2C_ehem._Sondermunitionslager_Visbeck%2C_Beobachtungsturm_der_US_Army_--_2022_--_4457.jpg/500px-D%C3%BClmen%2C_Kirchspiel%2C_ehem._Sondermunitionslager_Visbeck%2C_Beobachtungsturm_der_US_Army_--_2022_--_4457.jpg",
+    "shot": "server-lock",
+    "shows": "SERVER proceeding towards Wilhelmshaven lock",
+    "file": "File:SERVER 7564.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SERVER_7564.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SERVER_7564.jpg/1920px-SERVER_7564.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SERVER_7564.jpg/500px-SERVER_7564.jpg",
     "size": [
      1920,
      1280
@@ -199406,20 +199406,20 @@
      0.5,
      0.5
     ],
-    "credit": "Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Ein Dahmer, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Dietmar Rabich",
-    "year": 2022,
+    "author": "Ein Dahmer",
+    "year": 2026,
     "how": "catalog"
    }
   ],
   "missing": [
-   "secure-server",
-   "password-manager",
-   "access-control",
-   "yubikey",
+   "security-operations-center",
+   "phishing-email",
+   "network-security",
+   "security-badge",
    "security-door",
    "code-screen",
    "fingerprint",
@@ -199437,7 +199437,7 @@
    "router",
    "shredded-paper"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "india": {
   "name": "India economy",
