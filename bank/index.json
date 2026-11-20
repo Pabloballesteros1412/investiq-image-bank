@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-20",
- "photos": 6691,
+ "photos": 6705,
  "subjects": [
   {
    "id": "MMM",
@@ -3776,7 +3776,7 @@
     "IEX"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 4,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/IEX.json",
    "sector": "sector-industrials",
@@ -7360,11 +7360,10 @@
     "UHS"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UHS.json",
-   "sector": "sector-health",
-   "fill_from": "sector-health"
+   "sector": "sector-health"
   },
   {
    "id": "VALE",

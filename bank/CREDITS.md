@@ -2698,6 +2698,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - IBM thinkpad T40 · computer, ibm, ibmthinkpad, laptop, lenovo: Photo by Asim Bijarani on Flickr, CC BY 2.0. [2356361015](https://www.flickr.com/photos/8624431@N08/2356361015)
 - IBM 3279-S3G · 3270, 3279, htpc, ibm, mainframe: Photo by vaxomatic on Flickr, CC BY 2.0. [5625208727](https://www.flickr.com/photos/21881956@N05/5625208727)
 
+## IDEX Corporation (IEX)
+
+- Hale Ferrara pump panel: Reise Reise, CC BY-SA 3.0, via Wikimedia Commons. [Hale Ferrara pump panel.jpg](https://commons.wikimedia.org/wiki/File:Hale_Ferrara_pump_panel.jpg)
+- Corpo de Bombeiros Militar do Distrito Federal: André Gustavo Stumpf from Brasil, CC BY 2.0, via Wikimedia Commons. [CBMDF (9027212934).jpg](https://commons.wikimedia.org/wiki/File:CBMDF_(9027212934).jpg)
+- Kme hapeville engine one (controls): Rjluna2, CC BY-SA 4.0, via Wikimedia Commons. [Kme hapeville engine one (controls).jpg](https://commons.wikimedia.org/wiki/File:Kme_hapeville_engine_one_(controls).jpg)
+- 2000 spartan gladiator quality (control): Rjluna2, CC BY-SA 4.0, via Wikimedia Commons. [2000 spartan gladiator quality (control).jpg](https://commons.wikimedia.org/wiki/File:2000_spartan_gladiator_quality_(control).jpg)
+
 ## Idexx Laboratories (IDXX)
 
 - Idexx Laboratories - Address: 1345 Denison St, Markham, ON L3R 5V2: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [IdexxLaboratoriesMarkham.jpg](https://commons.wikimedia.org/wiki/File:IdexxLaboratoriesMarkham.jpg)
@@ -5432,6 +5439,19 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Stephen Hemsley: Ways and Means Committee of the United States Congress, public domain, via Wikimedia Commons. [Stephen Hemsley.jpg](https://commons.wikimedia.org/wiki/File:Stephen_Hemsley.jpg)
 - UnitedHealthcare Corporate Headquarters, December 8 2024: Chad Davis, CC BY 2.0, via Wikimedia Commons. [UnitedHealthcare Corporate Headquarters, December 8 2024 (54191437643).jpg](https://commons.wikimedia.org/wiki/File:UnitedHealthcare_Corporate_Headquarters,_December_8_2024_(54191437643).jpg)
 - Tunnel under 62 and Optum Hq on Green Line Extension: Gatorpatch, CC0, via Wikimedia Commons. [Tunnel under 62 and Optum Hq on Green Line Extension.jpg](https://commons.wikimedia.org/wiki/File:Tunnel_under_62_and_Optum_Hq_on_Green_Line_Extension.jpg)
+
+## Universal Health Services (UHS)
+
+- The George Washington University Hospital, Washington Circle, Foggy Bottom, Washington, D.C.: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [2716164136](https://www.flickr.com/photos/75683070@N00/2716164136)
+- West Henderson Hospital: TheYearbookTeacher, CC BY 4.0, via Wikimedia Commons. [West Henderson Hospital.jpg](https://commons.wikimedia.org/wiki/File:West_Henderson_Hospital.jpg)
+- Centennial Hills Hospital: Bootlegbaby, CC BY-SA 3.0, via Wikimedia Commons. [Centennial Hills Hospital.jpg](https://commons.wikimedia.org/wiki/File:Centennial_Hills_Hospital.jpg)
+- Texoma Medical Center March 2018: TMC Marketing, CC BY-SA 4.0, via Wikimedia Commons. [Texoma Medical Center March 2018.jpg](https://commons.wikimedia.org/wiki/File:Texoma_Medical_Center_March_2018.jpg)
+- George Washington University Hospital - 2012: Marcus Qwertyus, CC BY-SA 3.0, via Wikimedia Commons. [George Washington University Hospital - 2012.JPG](https://commons.wikimedia.org/wiki/File:George_Washington_University_Hospital_-_2012.JPG)
+- George Washington University hospital Emergence Medical Service ambulance, "GW-1".: G0T0, CC0, via Wikimedia Commons. [GWUEMS.JPG](https://commons.wikimedia.org/wiki/File:GWUEMS.JPG)
+- Western side of Henderson Hospital (Nevada) on August 3, 2026: TheYearbookTeacher, CC BY-SA 4.0, via Wikimedia Commons. [Western side of Henderson Hospital (Nevada) on August 3, 2026.jpg](https://commons.wikimedia.org/wiki/File:Western_side_of_Henderson_Hospital_(Nevada)_on_August_3,_2026.jpg)
+- Texoma Medical Center: Fkbowen, CC BY-SA 4.0, via Wikimedia Commons. [Texoma Medical Center.jpg](https://commons.wikimedia.org/wiki/File:Texoma_Medical_Center.jpg)
+- George Washington University Hospital Entrance (pingnews): Photo by pingnews.com on Flickr, CC BY-SA 2.0. [138005163](https://www.flickr.com/photos/39735679@N00/138005163)
+- The George Washington University Hospital (Washington, D.C.): Photo by tgrauros on Flickr, CC BY-SA 2.0. [15052513828](https://www.flickr.com/photos/27439865@N05/15052513828)
 
 ## Vale (VALE)
 

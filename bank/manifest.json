@@ -36028,10 +36028,10 @@
    "CPAY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "CSGP": {
   "name": "CoStar Group",
@@ -44162,10 +44162,10 @@
    "DOV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "DOW": {
   "name": "Dow Inc.",
@@ -58554,34 +58554,10 @@
    "GL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "Globe Life Field view from center field",
-    "file": "File:Globe Life Field view from center field.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Globe_Life_Field_view_from_center_field.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Globe_Life_Field_view_from_center_field.jpg/1920px-Globe_Life_Field_view_from_center_field.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Globe_Life_Field_view_from_center_field.jpg/500px-Globe_Life_Field_view_from_center_field.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BullDawg2021, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "BullDawg2021",
-    "year": 2025,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-20"
  },
  "GDDY": {
   "name": "GoDaddy",
@@ -65863,6 +65839,7 @@
    "IEX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -65958,8 +65935,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "IDXX": {
   "name": "Idexx Laboratories",
@@ -110866,10 +110842,10 @@
    "ROP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "ROST": {
   "name": "Ross Stores",
@@ -126246,10 +126222,10 @@
    "TPL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "TXT": {
   "name": "Textron",
@@ -133648,8 +133624,36 @@
    "UHS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
+   {
+    "shot": "hand",
+    "shows": "The George Washington University Hospital, Washington Circle, Foggy Bottom, Washington, D.C.",
+    "file": "flickr:2716164136",
+    "page": "https://www.flickr.com/photos/75683070@N00/2716164136",
+    "url": "https://live.staticflickr.com/3077/2716164136_b3c1c2d996_b.jpg",
+    "preview": "https://live.staticflickr.com/3077/2716164136_b3c1c2d996_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Ken Lund",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/75683070@N00",
+    "via": "openverse",
+    "low_res": true
+   },
    {
     "shot": "hand",
     "shows": "West Henderson Hospital",
@@ -133718,33 +133722,6 @@
     "author": "TMC Marketing",
     "year": 2018,
     "how": "hand-picked"
-   },
-   {
-    "shot": "hand",
-    "shows": "The George Washington University Hospital, Washington Circle, Foggy Bottom, Washington, D.C.",
-    "file": "flickr:2716164136",
-    "page": "https://www.flickr.com/photos/75683070@N00/2716164136",
-    "url": "https://live.staticflickr.com/3077/2716164136_b3c1c2d996_b.jpg",
-    "preview": "https://live.staticflickr.com/3077/2716164136_b3c1c2d996_z.jpg",
-    "size": [
-     1024,
-     768
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
-    "author": "Ken Lund",
-    "year": null,
-    "how": "hand-picked",
-    "provider": "flickr",
-    "author_url": "https://www.flickr.com/photos/75683070@N00",
-    "via": "openverse",
-    "low_res": true
    },
    {
     "shot": "hand",
@@ -133920,8 +133897,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "VALE": {
   "name": "Vale",

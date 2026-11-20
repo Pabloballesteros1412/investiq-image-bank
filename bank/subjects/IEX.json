@@ -8,5 +8,77 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Hale Ferrara pump panel",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hale_Ferrara_pump_panel.jpg/1280px-Hale_Ferrara_pump_panel.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hale_Ferrara_pump_panel.jpg/500px-Hale_Ferrara_pump_panel.jpg",
+   "size": [
+    1280,
+    2133
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Reise Reise, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hale_Ferrara_pump_panel.jpg"
+  },
+  {
+   "shows": "Corpo de Bombeiros Militar do Distrito Federal",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CBMDF_%289027212934%29.jpg/1280px-CBMDF_%289027212934%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CBMDF_%289027212934%29.jpg/500px-CBMDF_%289027212934%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "André Gustavo Stumpf from Brasil, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CBMDF_(9027212934).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Kme hapeville engine one (controls)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kme_hapeville_engine_one_%28controls%29.jpg/1280px-Kme_hapeville_engine_one_%28controls%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kme_hapeville_engine_one_%28controls%29.jpg/500px-Kme_hapeville_engine_one_%28controls%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rjluna2, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Kme_hapeville_engine_one_(controls).jpg",
+   "plain": true
+  },
+  {
+   "shows": "2000 spartan gladiator quality (control)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2000_spartan_gladiator_quality_%28control%29.jpg/1280px-2000_spartan_gladiator_quality_%28control%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2000_spartan_gladiator_quality_%28control%29.jpg/500px-2000_spartan_gladiator_quality_%28control%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rjluna2, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2000_spartan_gladiator_quality_(control).jpg",
+   "plain": true
+  }
+ ]
 }
