@@ -7,7 +7,6 @@
  ],
  "sector": "sector-materials",
  "target": 10,
- "fill_from": "sector-materials",
  "photos": [
   {
    "shows": "Oil refinery in Houston 2018a",
@@ -175,6 +174,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/27903549@N02/39634885232",
+   "plain": true
+  },
+  {
+   "shows": "Former LyondellBasell Tower (1 Houston Center)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/LyondellbasellTower.JPG/1920px-LyondellbasellTower.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/LyondellbasellTower.JPG/500px-LyondellbasellTower.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WhisperToMe, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:LyondellbasellTower.JPG",
    "plain": true
   }
  ]

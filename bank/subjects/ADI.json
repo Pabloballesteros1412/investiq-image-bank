@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Asus P5PL2 - Analog Devices AD1986A",
@@ -157,6 +156,42 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/187597251@N05/49899267973",
+   "plain": true
+  },
+  {
+   "shows": "MAX666 Close up",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MAX666_Close_up_%2852223214566%29.jpg/1920px-MAX666_Close_up_%2852223214566%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/MAX666_Close_up_%2852223214566%29.jpg/500px-MAX666_Close_up_%2852223214566%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cole L, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MAX666_Close_up_(52223214566).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Maxim Integrated Dallas Texas September 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Maxim_Integrated_Dallas_Texas_September_2019.jpg/1920px-Maxim_Integrated_Dallas_Texas_September_2019.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Maxim_Integrated_Dallas_Texas_September_2019.jpg/500px-Maxim_Integrated_Dallas_Texas_September_2019.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Crazyblocks, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Maxim_Integrated_Dallas_Texas_September_2019.jpg",
    "plain": true
   }
  ]

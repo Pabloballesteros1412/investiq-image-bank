@@ -64,6 +64,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/29372296@N00/37026322353",
    "plain": true
+  },
+  {
+   "shows": "Towers Watson Southfield MI 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Towers_Watson_Southfield_MI_2.JPG/1920px-Towers_Watson_Southfield_MI_2.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Towers_Watson_Southfield_MI_2.JPG/500px-Towers_Watson_Southfield_MI_2.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cmadler, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Towers_Watson_Southfield_MI_2.JPG",
+   "plain": true
   }
  ]
 }

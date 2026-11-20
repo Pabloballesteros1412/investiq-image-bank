@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Ingersoll Rand Total Air System",
@@ -137,6 +136,62 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/96739039@N00/1673179736",
+   "plain": true
+  },
+  {
+   "shows": "Ingersoll Rand compressor at Collier Memorial State Park",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ingersoll_Rand_compressor_at_Collier_Memorial_State_Park.jpg/1920px-Ingersoll_Rand_compressor_at_Collier_Memorial_State_Park.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ingersoll_Rand_compressor_at_Collier_Memorial_State_Park.jpg/500px-Ingersoll_Rand_compressor_at_Collier_Memorial_State_Park.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bobjgalindo, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ingersoll_Rand_compressor_at_Collier_Memorial_State_Park.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Large-vs-Small-Ingersoll-Rand-Impacts",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Large-vs-Small-Ingersoll-Rand-Impacts.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Large-vs-Small-Ingersoll-Rand-Impacts.jpg/500px-Large-vs-Small-Ingersoll-Rand-Impacts.jpg",
+   "size": [
+    1218,
+    2220
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ichudov, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Large-vs-Small-Ingersoll-Rand-Impacts.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ingersoll-Rand air compressor",
+   "url": "https://live.staticflickr.com/2629/3899827954_fde16487db_b.jpg",
+   "preview": "https://live.staticflickr.com/2629/3899827954_fde16487db_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by BriskersAuto on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/42283367@N07",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/42283367@N07/3899827954",
    "plain": true
   }
  ]

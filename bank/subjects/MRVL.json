@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Crucial CT128M4SSD2 - board - Marvell 88SS9174-BLD2-2890",
@@ -168,6 +167,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Samsung_SP0802N_-_board_-Marvell_88i6522-LGO-1763.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Marvell Santa Clara May 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Marvell_Santa_Clara_May_2011.jpg/1920px-Marvell_Santa_Clara_May_2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Marvell_Santa_Clara_May_2011.jpg/500px-Marvell_Santa_Clara_May_2011.jpg",
+   "size": [
+    1920,
+    480
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "King of Hearts, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marvell_Santa_Clara_May_2011.jpg",
    "plain": true
   }
  ]

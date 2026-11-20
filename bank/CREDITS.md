@@ -343,8 +343,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Amcor (AMCR)
 
+- Parafilm Products: MWMcCarney, CC BY-SA 4.0, via Wikimedia Commons. [Parafilm Products.jpg](https://commons.wikimedia.org/wiki/File:Parafilm_Products.jpg)
 - Amcor Flexibles Kreuzlingen AG: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons. [Amcor Flexibles Kreuzlingen AG.jpg](https://commons.wikimedia.org/wiki/File:Amcor_Flexibles_Kreuzlingen_AG.jpg)
 - Tor Süd Amcor Flexibles Kreuzlingen AG: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons. [Tor Süd Amcor Flexibles Kreuzlingen AG.jpg](https://commons.wikimedia.org/wiki/File:Tor_S%C3%BCd_Amcor_Flexibles_Kreuzlingen_AG.jpg)
+- Bemis Company Seattle Division building Seattle Washington: Guywelch2000, CC BY 4.0, via Wikimedia Commons. [Bemis Company Seattle Division building Seattle Washington.jpg](https://commons.wikimedia.org/wiki/File:Bemis_Company_Seattle_Division_building_Seattle_Washington.jpg)
 
 ## Ameren (AEE)
 
@@ -428,6 +430,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Bahnhof Ybbs an der Donau: GT1976, CC BY-SA 4.0, via Wikimedia Commons. [2017-09-19 (119) Bahnhof Ybbs an der Donau.jpg](https://commons.wikimedia.org/wiki/File:2017-09-19_(119)_Bahnhof_Ybbs_an_der_Donau.jpg)
 - Amphenol connector · amphenol, connector: Photo by rkimpeljr on Flickr, CC BY-SA 2.0. [216581620](https://www.flickr.com/photos/18606128@N00/216581620)
 - amphenol installed · amphenol, connector, panel, wires: Photo by rkimpeljr on Flickr, CC BY-SA 2.0. [216582027](https://www.flickr.com/photos/18606128@N00/216582027)
+- |*\ · amphenol, connector, red: Photo by rkimpeljr on Flickr, CC BY-SA 2.0. [216582469](https://www.flickr.com/photos/18606128@N00/216582469)
 
 ## Analog Devices (ADI)
 
@@ -439,11 +442,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Analog Devices · electronics, elektor, airport, business, city: Photo by elektorlabs on Flickr, CC BY 2.0. [15632554259](https://www.flickr.com/photos/128772740@N08/15632554259)
 - Analog Devices (ADI) ADP3186 Synchronous Buck Controller (Colour Corrected): Photo by cole8888 on Flickr, CC BY-SA 2.0. [49899780366](https://www.flickr.com/photos/187597251@N05/49899780366)
 - Analog Devices (ADI) ADP3186 Package: Photo by cole8888 on Flickr, Public Domain Mark. [49899267973](https://www.flickr.com/photos/187597251@N05/49899267973)
+- MAX666 Close up: Cole L, CC BY-SA 2.0, via Wikimedia Commons. [MAX666 Close up (52223214566).jpg](https://commons.wikimedia.org/wiki/File:MAX666_Close_up_(52223214566).jpg)
+- Maxim Integrated Dallas Texas September 2019: Crazyblocks, CC0, via Wikimedia Commons. [Maxim Integrated Dallas Texas September 2019.jpg](https://commons.wikimedia.org/wiki/File:Maxim_Integrated_Dallas_Texas_September_2019.jpg)
 
 ## Aon plc (AON)
 
 - 4904x7356 chicago aon center: J. Crocker, Attribution, via Wikimedia Commons. [2020-01-01 4904x7356 chicago aon center.jpg](https://commons.wikimedia.org/wiki/File:2020-01-01_4904x7356_chicago_aon_center.jpg)
 - Aon Center Chicago 2020-2446: Paul R. Burley, CC BY-SA 4.0, via Wikimedia Commons. [Aon Center Chicago 2020-2446.jpg](https://commons.wikimedia.org/wiki/File:Aon_Center_Chicago_2020-2446.jpg)
+- The Leadenhall Building from Ground Level: sebastiandoe5, CC BY-SA 2.0, via Wikimedia Commons. [The Leadenhall Building from Ground Level.jpg](https://commons.wikimedia.org/wiki/File:The_Leadenhall_Building_from_Ground_Level.jpg)
 - 122 Leadenhall Street - geograph- -by-Julian-Osley: Julian Osley, CC BY-SA 2.0, via Wikimedia Commons. [122 Leadenhall Street - geograph-3968154-by-Julian-Osley.jpg](https://commons.wikimedia.org/wiki/File:122_Leadenhall_Street_-_geograph-3968154-by-Julian-Osley.jpg)
 - Aon CEO Greg Case Speaking at Event: Colada Creative, CC BY 4.0, via Wikimedia Commons. [Aon CEO Greg Case Speaking at Event.jpg](https://commons.wikimedia.org/wiki/File:Aon_CEO_Greg_Case_Speaking_at_Event.jpg)
 - AON Centre, Wellington: Tom Ackroyd, CC BY-SA 4.0, via Wikimedia Commons. [AON Centre, Wellington.jpg](https://commons.wikimedia.org/wiki/File:AON_Centre,_Wellington.jpg)
@@ -789,6 +795,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Stephen A. Schwarzman, Blackstone Inc. CEO (per Wikidata): UKinUSA, CC BY-SA 2.0, via Wikimedia Commons. [Stephen Schwarzman, 19 March 2024.jpg](https://commons.wikimedia.org/wiki/File:Stephen_Schwarzman,_19_March_2024.jpg)
 - Blackstone Inc. (Blackstone Inc.): Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [Blackstone (55283755213).jpg](https://commons.wikimedia.org/wiki/File:Blackstone_(55283755213).jpg)
+- 345 Park Avenue, New York City, NY: Photo by w_lemay on Flickr, CC0. [48046353151](https://www.flickr.com/photos/59081381@N03/48046353151)
 
 ## Block, Inc. (XYZ)
 
@@ -1499,6 +1506,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## CoStar Group (CSGP)
 
 - CoStar Group HQ in Arlington, VA: Gian Lorenzo Ferretti, CC BY-SA 4.0, via Wikimedia Commons. [CoStar Group HQ in Arlington, VA.jpg](https://commons.wikimedia.org/wiki/File:CoStar_Group_HQ_in_Arlington,_VA.jpg)
+- CoStar Group: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [CoStar Group (53819751837).jpg](https://commons.wikimedia.org/wiki/File:CoStar_Group_(53819751837).jpg)
 
 ## Costco (COST)
 
@@ -1542,9 +1550,14 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## CRH plc (CRH)
 
+- Ash Grove Cement Compay Chanute, KS plant.: Ashgrovecement, CC BY-SA 4.0, via Wikimedia Commons. [ChanutePlant.jpg](https://commons.wikimedia.org/wiki/File:ChanutePlant.jpg)
+- Ash Grove Cement Co. · 2012, building, flare, industrial, lens: Photo by Graf Spee on Flickr, CC BY 2.0. [7920047286](https://www.flickr.com/photos/30901506@N06/7920047286)
 - Kies- und Betonwerk Risi (Jura, CRH): Arkelin, CC BY 4.0, via Wikimedia Commons. [Kies- und Betonwerk Risi (Jura, CRH).jpg](https://commons.wikimedia.org/wiki/File:Kies-_und_Betonwerk_Risi_(Jura,_CRH).jpg)
 - CRH Concrete Plant, Cement mixer trucks, Dunakeszi út, 2017 Rákospalota: Globetrotter19, CC BY-SA 3.0, via Wikimedia Commons. [CRH Concrete Plant, Cement mixer trucks, Dunakeszi út, 2017 Rákospalota.jpg](https://commons.wikimedia.org/wiki/File:CRH_Concrete_Plant,_Cement_mixer_trucks,_Dunakeszi_%C3%BAt,_2017_R%C3%A1kospalota.jpg)
 - CRH Concrete Plant, silos, 2017 Rákospalota: Globetrotter19, CC BY-SA 3.0, via Wikimedia Commons. [CRH Concrete Plant, silos, 2017 Rákospalota.jpg](https://commons.wikimedia.org/wiki/File:CRH_Concrete_Plant,_silos,_2017_R%C3%A1kospalota.jpg)
+- Dalmahoy Hill and Tarmac Quarry buildings - geograph.org.uk: M J Richardson, CC BY-SA 2.0, via Wikimedia Commons. [Dalmahoy Hill and Tarmac Quarry buildings - geograph.org.uk - 2393590.jpg](https://commons.wikimedia.org/wiki/File:Dalmahoy_Hill_and_Tarmac_Quarry_buildings_-_geograph.org.uk_-_2393590.jpg)
+- Ash Grove Cement from Harbor Island 03: Photo by Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [Ash Grove Cement from Harbor Island 03.jpg](https://commons.wikimedia.org/wiki/File:Ash_Grove_Cement_from_Harbor_Island_03.jpg)
+- CRH plc: Ash Grove Cement: Drifty2378, CC BY-SA 4.0, via Wikimedia Commons. [SumtervilleFLAshGrove.jpg](https://commons.wikimedia.org/wiki/File:SumtervilleFLAshGrove.jpg)
 
 ## CrowdStrike (CRWD)
 
@@ -2212,6 +2225,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Flex Bld. 5, 847 Gibralter Dr., Milpitas CA: Chipermc, CC BY-SA 4.0, via Wikimedia Commons. [Flex Bld. 5, 847 Gibralter Dr., Milpitas CA 95035.jpg](https://commons.wikimedia.org/wiki/File:Flex_Bld._5,_847_Gibralter_Dr.,_Milpitas_CA_95035.jpg)
 - Flex Canadian Office - Address: 450 Hood Rd, Markham, ON L3R 9Z3, Canada: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [FlexCanadianOffice2.jpg](https://commons.wikimedia.org/wiki/File:FlexCanadianOffice2.jpg)
 - 2 changi south lane (flex): Earthkingfather, CC BY-SA 4.0, via Wikimedia Commons. [2 changi south lane (flex).jpg](https://commons.wikimedia.org/wiki/File:2_changi_south_lane_(flex).jpg)
+- Flextronics at San Jose Airport: Photo by hyku on Flickr, CC BY 2.0. [107905663](https://www.flickr.com/photos/12734746@N00/107905663)
 
 ## Ford Motor Company (F)
 
@@ -2742,6 +2756,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Bournemouth , ITW Finishing UK - geograph.org.uk: Lewis Clarke, CC BY-SA 2.0, via Wikimedia Commons. [Bournemouth , ITW Finishing UK - geograph.org.uk - 1747157.jpg](https://commons.wikimedia.org/wiki/File:Bournemouth_,_ITW_Finishing_UK_-_geograph.org.uk_-_1747157.jpg)
 - ITW Construction Products, Manor Royal - geograph.org.uk: David Howard, CC BY-SA 2.0, via Wikimedia Commons. [ITW Construction Products, Manor Royal - geograph.org.uk - 5265503.jpg](https://commons.wikimedia.org/wiki/File:ITW_Construction_Products,_Manor_Royal_-_geograph.org.uk_-_5265503.jpg)
+- Old Hobart Mixer · 11, borgå, building, clouds, cloudy: Photo by Rd. Vortex on Flickr, CC BY 2.0. [52757362671](https://www.flickr.com/photos/9000052@N02/52757362671)
+- Old Hobart mixer at Alberta Food Equipment Edmonton: Photo by jasonwoodhead23 on Flickr, CC BY 2.0. [53200487960](https://www.flickr.com/photos/80365963@N00/53200487960)
 
 ## Illumina, Inc. (ILMN)
 
@@ -2765,6 +2781,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - 9599Tambubong Caingin Sampaloc San Rafael, Bulacan Arterial Road Bypass 31: Judgefloro, CC0, via Wikimedia Commons. [9599Tambubong Caingin Sampaloc San Rafael, Bulacan Arterial Road Bypass 31.jpg](https://commons.wikimedia.org/wiki/File:9599Tambubong_Caingin_Sampaloc_San_Rafael,_Bulacan_Arterial_Road_Bypass_31.jpg)
 - Ingersoll Rand SD100 roller: Photo by Asylumkid on Flickr, CC BY-SA 2.0. [22524019084](https://www.flickr.com/photos/46185203@N05/22524019084)
 - cut out of a ingersoll rand screw compressor: Photo by shehal on Flickr, CC BY 2.0. [1673179736](https://www.flickr.com/photos/96739039@N00/1673179736)
+- Ingersoll Rand compressor at Collier Memorial State Park: Bobjgalindo, CC BY 4.0, via Wikimedia Commons. [Ingersoll Rand compressor at Collier Memorial State Park.jpg](https://commons.wikimedia.org/wiki/File:Ingersoll_Rand_compressor_at_Collier_Memorial_State_Park.jpg)
+- Large-vs-Small-Ingersoll-Rand-Impacts: Ichudov, CC BY-SA 3.0, via Wikimedia Commons. [Large-vs-Small-Ingersoll-Rand-Impacts.jpg](https://commons.wikimedia.org/wiki/File:Large-vs-Small-Ingersoll-Rand-Impacts.jpg)
+- Ingersoll-Rand air compressor: Photo by BriskersAuto on Flickr, CC BY-SA 2.0. [3899827954](https://www.flickr.com/photos/42283367@N07/3899827954)
 
 ## Insulet Corporation (PODD)
 
@@ -2877,11 +2896,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Iron Mountain (IRM)
 
 - Iron Mountain EV 2023: Rmayer27310, CC BY-SA 4.0, via Wikimedia Commons. [Iron Mountain EV 2023.jpg](https://commons.wikimedia.org/wiki/File:Iron_Mountain_EV_2023.jpg)
+- Iron Mountain Truck: Rmayer27310, CC BY-SA 4.0, via Wikimedia Commons. [Iron Mountain Truck.jpg](https://commons.wikimedia.org/wiki/File:Iron_Mountain_Truck.jpg)
 - Iron Mountain Truck parked outside of 200 Front Street West, Toronto: Open Grid Scheduler / Grid Engine, CC BY 4.0, via Wikimedia Commons. [IronMountainTruck6.jpg](https://commons.wikimedia.org/wiki/File:IronMountainTruck6.jpg)
 - Secure Destruction You Can Trust: Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons. [Secure Destruction You Can Trust (49858344863).jpg](https://commons.wikimedia.org/wiki/File:Secure_Destruction_You_Can_Trust_(49858344863).jpg)
 - Iron Mountain - Data Pick Up Vehicle, USA - July 2013: User:WestportWiki, CC BY-SA 3.0, via Wikimedia Commons. [Iron Mountain - Data Pick Up Vehicle, USA - July 2013.jpeg](https://commons.wikimedia.org/wiki/File:Iron_Mountain_-_Data_Pick_Up_Vehicle,_USA_-_July_2013.jpeg)
 - Iron Mountain (Iron Mountain Incorporated): Open Grid Scheduler / Grid Engine, CC BY-SA 4.0, via Wikimedia Commons. [IronMountainTruck.JPG](https://commons.wikimedia.org/wiki/File:IronMountainTruck.JPG)
 - Iron Mountain · 1442, alberta, blue, building, canada: Photo by Kurayba on Flickr, CC BY-SA 2.0. [8618249220](https://www.flickr.com/photos/48503330@N08/8618249220)
+- Iron Mountain · ironmountain: Photo by JeepersMedia on Flickr, CC BY 2.0. [49465643353](https://www.flickr.com/photos/39160147@N03/49465643353)
 
 ## J.B. Hunt (JBHT)
 
@@ -2983,6 +3004,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Johnson Controls in Richmond Hill, Ontario: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [JohnsonControlsRichmondHill2.jpg](https://commons.wikimedia.org/wiki/File:JohnsonControlsRichmondHill2.jpg)
 - YORK (BRAND FROM JOHNSON CONTROLS) AIR CONDITIONER OUTDOOR UNIT: Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons. [YORK (BRAND FROM JOHNSON CONTROLS) AIR CONDITIONER OUTDOOR UNIT (2).jpg](https://commons.wikimedia.org/wiki/File:YORK_(BRAND_FROM_JOHNSON_CONTROLS)_AIR_CONDITIONER_OUTDOOR_UNIT_(2).jpg)
 - Johnson Controls - Plant Mandling Automotive Experience: Herzi Pinki, CC BY-SA 4.0, via Wikimedia Commons. [Johnson Controls - Plant Mandling Automotive Experience.jpg](https://commons.wikimedia.org/wiki/File:Johnson_Controls_-_Plant_Mandling_Automotive_Experience.jpg)
+- Overview of Tyco Fire & Security Czech Republic factory in Ráječko, Blansko District: Jiří Sedláček, CC BY-SA 4.0, via Wikimedia Commons. [Overview of Tyco Fire & Security Czech Republic factory in Ráječko, Blansko District.jpg](https://commons.wikimedia.org/wiki/File:Overview_of_Tyco_Fire_%26_Security_Czech_Republic_factory_in_R%C3%A1je%C4%8Dko,_Blansko_District.jpg)
 
 ## JPMorgan Chase (JPM)
 
@@ -3065,6 +3087,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Keysight 34470A Multimeter Teardown: Dave Jones from Australia, CC BY 2.0, via Wikimedia Commons. [Keysight 34470A Multimeter Teardown (16171855543).jpg](https://commons.wikimedia.org/wiki/File:Keysight_34470A_Multimeter_Teardown_(16171855543).jpg)
 - Keysight Technologies · electronics, elektor, airport, business, commerce: Photo by elektorlabs on Flickr, CC BY 2.0. [15641317008](https://www.flickr.com/photos/128772740@N08/15641317008)
 - Keysight Technologies · electronics, elektor: Photo by elektorlabs on Flickr, CC BY 2.0. [15640921669](https://www.flickr.com/photos/128772740@N08/15640921669)
+- Keysight 34470A Multimeter Teardown: Photo by eevblog on Flickr, CC BY 2.0. [16171855543](https://www.flickr.com/photos/58072483@N02/16171855543)
 
 ## Kimberly-Clark (KMB)
 
@@ -3092,6 +3115,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Hudson Yards from Hudson Commons (95131p) (30 Hudson Yards, ): Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons. [Hudson Yards from Hudson Commons (95131p) (30 Hudson Yards, cropped).jpg](https://commons.wikimedia.org/wiki/File:Hudson_Yards_from_Hudson_Commons_(95131p)_(30_Hudson_Yards,_cropped).jpg)
 - Hudson Yards from Hudson Commons (95131p) (30 Hudson Yards): Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons. [Hudson Yards from Hudson Commons (95131p) (30 Hudson Yards).jpg](https://commons.wikimedia.org/wiki/File:Hudson_Yards_from_Hudson_Commons_(95131p)_(30_Hudson_Yards).jpg)
+- 30 Hudson Yards · architecture, building, hudsonyards, manhattan, newyorkcity: Photo by edenpictures on Flickr, CC BY 2.0. [48705211507](https://www.flickr.com/photos/10485077@N06/48705211507)
 
 ## KLA Corporation (KLAC)
 
@@ -3332,6 +3356,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Tarragona: Polígono Petroquímico: Photo by Jorge Franganillo on Flickr, CC BY 2.0. [51402979129](https://www.flickr.com/photos/46191841@N00/51402979129)
 - Refineries@Night10618#6ssview: Photo by 2C2KPhotography on Flickr, CC BY 2.0. [39634884072](https://www.flickr.com/photos/27903549@N02/39634884072)
 - Refineries@Night10618#1lyb@225: Photo by 2C2KPhotography on Flickr, CC BY 2.0. [39634885232](https://www.flickr.com/photos/27903549@N02/39634885232)
+- Former LyondellBasell Tower (1 Houston Center): WhisperToMe, CC0, via Wikimedia Commons. [LyondellbasellTower.JPG](https://commons.wikimedia.org/wiki/File:LyondellbasellTower.JPG)
 
 ## M&T Bank (MTB)
 
@@ -3395,6 +3420,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Seagate Cheetah 10K.7 ST373207LC - controller - Marvell 88C7500M-LAE1-2132: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Seagate Cheetah 10K.7 ST373207LC - controller - Marvell 88C7500M-LAE1-2132.jpg](https://commons.wikimedia.org/wiki/File:Seagate_Cheetah_10K.7_ST373207LC_-_controller_-_Marvell_88C7500M-LAE1-2132.jpg)
 - Seagate ST500LT12 - controller - Marvell 88i1064-RAH3-2691: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Seagate ST500LT12 - controller - Marvell 88i1064-RAH3-2691.jpg](https://commons.wikimedia.org/wiki/File:Seagate_ST500LT12_-_controller_-_Marvell_88i1064-RAH3-2691.jpg)
 - Samsung SP0802N - board -Marvell 88i6522-LGO-1763: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Samsung SP0802N - board -Marvell 88i6522-LGO-1763.jpg](https://commons.wikimedia.org/wiki/File:Samsung_SP0802N_-_board_-Marvell_88i6522-LGO-1763.jpg)
+- Marvell Santa Clara May 2011: King of Hearts, CC BY-SA 3.0, via Wikimedia Commons. [Marvell Santa Clara May 2011.jpg](https://commons.wikimedia.org/wiki/File:Marvell_Santa_Clara_May_2011.jpg)
 
 ## Masco (MAS)
 
@@ -3714,6 +3740,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Motorola MTP850 with hamradio Codeplug: Fabian Horst, CC BY 4.0, via Wikimedia Commons. [2021-02-09 - Motorola MTP850 with hamradio Codeplug.jpg](https://commons.wikimedia.org/wiki/File:2021-02-09_-_Motorola_MTP850_with_hamradio_Codeplug.jpg)
 - Motorola Minicall Express Swedish 1990s pager: R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons. [Motorola Minicall Express Swedish 1990s pager.jpg](https://commons.wikimedia.org/wiki/File:Motorola_Minicall_Express_Swedish_1990s_pager.jpg)
 - AFAC17 Exhibitors - Motorola Solutions - 3: Photo by AFAC powered by INTERSCHUTZ on Flickr, CC BY 2.0. [36844444356](https://www.flickr.com/photos/146573429@N03/36844444356)
+
+## MSCI (MSCI)
+
+- 7 World Trade Center by David Shankbone: David Shankbone, CC BY 2.5, via Wikimedia Commons. [7 World Trade Center by David Shankbone.jpg](https://commons.wikimedia.org/wiki/File:7_World_Trade_Center_by_David_Shankbone.jpg)
+- 7 World Trade Center from 3WTC ( ): wctaiwan, CC BY-SA 4.0, via Wikimedia Commons. [7 World Trade Center from 3WTC (cropped).jpg](https://commons.wikimedia.org/wiki/File:7_World_Trade_Center_from_3WTC_(cropped).jpg)
+- Looking northwest at newly rebuilt 7 World Trade Center. 90 Church Street Post Office on right; Verizon Building on left.: Aude, CC BY-SA 3.0, via Wikimedia Commons. [Wtc7-2006-0911.jpg](https://commons.wikimedia.org/wiki/File:Wtc7-2006-0911.jpg)
+- Lookup up at 7 World Trade Center from West Broadway: Photo by chrisinphilly5448 on Flickr, CC BY-SA 2.0. [2539249436](https://www.flickr.com/photos/21545100@N00/2539249436)
+- Rebuilt 7 World Trade Center tower (on the left): Photo by mbtrama on Flickr, CC BY 2.0. [2738698709](https://www.flickr.com/photos/61412218@N00/2738698709)
+- 7 World Trade Center: Photo by urrrric on Flickr, CC BY 2.0. [2490555177](https://www.flickr.com/photos/23584657@N08/2490555177)
 
 ## Nasdaq, Inc. (NDAQ)
 
@@ -4082,11 +4117,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Auerswald COMfortel DECT 660C - base station - ON Semiconductor LM 317T: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [Auerswald COMfortel DECT 660C - base station - ON Semiconductor LM 317T-93169.jpg](https://commons.wikimedia.org/wiki/File:Auerswald_COMfortel_DECT_660C_-_base_station_-_ON_Semiconductor_LM_317T-93169.jpg)
 - 2N5038: NPN silicon power transistor, 150V, 20A, 140W, TO-3 packaging Manufacturer: ON Semiconductor: Mister rf, CC BY-SA 4.0, via Wikimedia Commons. [2N5038 1.jpg](https://commons.wikimedia.org/wiki/File:2N5038_1.jpg)
 - ON Semiconductor · electronics, elektor: Photo by elektorlabs on Flickr, CC BY 2.0. [15816571001](https://www.flickr.com/photos/128772740@N08/15816571001)
+- MMBT2222A-OnSemi-HD: ZeptoBars, CC BY 3.0, via Wikimedia Commons. [MMBT2222A-OnSemi-HD.jpg](https://commons.wikimedia.org/wiki/File:MMBT2222A-OnSemi-HD.jpg)
 
 ## Oneok (OKE)
 
 - OneOK Plaza, Tulsa, OK, NE corner: Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons. [OneOK Plaza, Tulsa, OK, NE corner 2026-03-23.jpg](https://commons.wikimedia.org/wiki/File:OneOK_Plaza,_Tulsa,_OK,_NE_corner_2026-03-23.jpg)
 - ONEOK Headquarter: Joseph Wingenfeld (flickr.com), CC BY 2.0, via Wikimedia Commons. [ONEOK Headquarter.jpg](https://commons.wikimedia.org/wiki/File:ONEOK_Headquarter.jpg)
+- Petroleum Pipeline - Magellan Midstream Partners: Tony Webster, CC BY 2.0, via Wikimedia Commons. [Petroleum Pipeline - Magellan Midstream Partners.jpg](https://commons.wikimedia.org/wiki/File:Petroleum_Pipeline_-_Magellan_Midstream_Partners.jpg)
 
 ## Oracle Corporation (ORCL)
 
@@ -4151,6 +4188,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Packaging Corporation of America - PCA - Minneapolis: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Packaging Corporation of America - PCA - Minneapolis (25285329737).jpg](https://commons.wikimedia.org/wiki/File:Packaging_Corporation_of_America_-_PCA_-_Minneapolis_(25285329737).jpg)
 - Packaging Corporation of America mill, Clyattville, Georgia: The Bushranger, CC BY-SA 4.0, via Wikimedia Commons. [Packaging Corporation of America mill, Clyattville, Georgia.jpg](https://commons.wikimedia.org/wiki/File:Packaging_Corporation_of_America_mill,_Clyattville,_Georgia.jpg)
+- Packaging Corporation of America: Photo by byzantiumbooks on Flickr, CC BY 2.0. [37231797465](https://www.flickr.com/photos/10688882@N00/37231797465)
+- Packaging Corporation of America Box Certificate: Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0. [51683674935](https://www.flickr.com/photos/46102325@N06/51683674935)
+- Packaging Corporation of America Jackson Fl Box Certificate: Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0. [50557715153](https://www.flickr.com/photos/46102325@N06/50557715153)
 
 ## Palantir Technologies (PLTR)
 
@@ -5517,6 +5557,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Itabira MG Brasil - Mineração da Vale - panoramio: Josue Marinho, CC BY 3.0, via Wikimedia Commons. [Itabira MG Brasil - Mineração da Vale - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_da_Vale_-_panoramio.jpg)
 - Vale S.A. in Vitória (Espírito Santo, Brazil) - 02: Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons. [Vale S.A. in Vitória (Espírito Santo, Brazil) - 02.jpg](https://commons.wikimedia.org/wiki/File:Vale_S.A._in_Vit%C3%B3ria_(Esp%C3%ADrito_Santo,_Brazil)_-_02.jpg)
 - Itabira MG Brasil - Mineração Vale - panoramio: Josue Marinho, CC BY 3.0, via Wikimedia Commons. [Itabira MG Brasil - Mineração Vale - panoramio.jpg](https://commons.wikimedia.org/wiki/File:Itabira_MG_Brasil_-_Minera%C3%A7%C3%A3o_Vale_-_panoramio.jpg)
+- Carajas Mine 432 pan crop 15: Pierre Markuse from Hamm, Germany, CC BY 2.0, via Wikimedia Commons. [Carajas Mine 432 pan crop 15 (26499629594).jpg](https://commons.wikimedia.org/wiki/File:Carajas_Mine_432_pan_crop_15_(26499629594).jpg)
+- mine de fer 'S11D' de l'entreprise Vale, Carajas, Etat du Para, Brésil: Photo by tongeron91 on Flickr, CC BY-SA 2.0. [48944889861](https://www.flickr.com/photos/43646190@N08/48944889861)
+- mine de fer 'S11D' de l'entreprise Vale, Carajas, Etat du Para, Brésil: Photo by tongeron91 on Flickr, CC BY-SA 2.0. [48944344763](https://www.flickr.com/photos/43646190@N08/48944344763)
 
 ## Valero Energy (VLO)
 
@@ -5547,6 +5590,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - VeriSign Mini Token 2008 · securid, indoors, one, still, life: Photo by Travis Goodspeed on Flickr, CC BY 2.0. [5724954715](https://www.flickr.com/photos/27388680@N05/5724954715)
 - Internet Retailer 2010 077: Photo by bobangus on Flickr, CC BY-SA 2.0. [4699998792](https://www.flickr.com/photos/20227536@N07/4699998792)
 - IMG_1568 · bobangus, chicago, ecommerceevangelist, internetretailer, irce2010: Photo by bobangus on Flickr, CC BY-SA 2.0. [4704688048](https://www.flickr.com/photos/20227536@N07/4704688048)
+- VeriSign Mini Token 2008 · securid, business, number, one, technology: Photo by Travis Goodspeed on Flickr, CC BY 2.0. [5724954261](https://www.flickr.com/photos/27388680@N05/5724954261)
+
+## Verisk Analytics (VRSK)
+
+- Verisk Headquarters: Tsah8167, CC BY-SA 4.0, via Wikimedia Commons. [Verisk Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Verisk_Headquarters.jpg)
 
 ## Verizon (VZ)
 
@@ -5786,6 +5834,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Willis Building (London): Colin, CC BY-SA 3.0, via Wikimedia Commons. [Willis Building (London).jpg](https://commons.wikimedia.org/wiki/File:Willis_Building_(London).jpg)
 - The Willis Towers Watson building, Ipswich, Suffolk: John Fielding from Norwich, UK, CC BY 2.0, via Wikimedia Commons. [The Willis Towers Watson building, Ipswich, Suffolk (37026322353).jpg](https://commons.wikimedia.org/wiki/File:The_Willis_Towers_Watson_building,_Ipswich,_Suffolk_(37026322353).jpg)
 - The Willis Towers Watson building in Ipswich - Suffolk aerial view: Photo by John D Fielding on Flickr, CC BY 2.0. [37026322353](https://www.flickr.com/photos/29372296@N00/37026322353)
+- Towers Watson Southfield MI 2: Cmadler, CC BY-SA 3.0, via Wikimedia Commons. [Towers Watson Southfield MI 2.JPG](https://commons.wikimedia.org/wiki/File:Towers_Watson_Southfield_MI_2.JPG)
 
 ## Workday, Inc. (WDAY)
 
@@ -6670,6 +6719,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Modern office interior with cubicles and workstations: Photo by blue sky on Unsplash. [IHUzuqnK87g](https://unsplash.com/photos/modern-office-interior-with-cubicles-and-workstations-IHUzuqnK87g?utm_source=investiq_image_bank&utm_medium=referral)
 - Help Wanted - Nebraska: Bradley Weber, CC BY 2.0, via Wikimedia Commons. [Help Wanted - Nebraska (44113871694).jpg](https://commons.wikimedia.org/wiki/File:Help_Wanted_-_Nebraska_(44113871694).jpg)
 - Two rectangular green and red tool cases on white surface: Photo by Susan Holt Simpson on Unsplash. [2nSdQEd-Exc](https://unsplash.com/photos/two-rectangular-green-and-red-tool-cases-on-white-surface-2nSdQEd-Exc?utm_source=investiq_image_bank&utm_medium=referral)
+- A plumber repairs plumbing in a bathroom: Photo by bhagya laxmi on Unsplash. [jaP5ClBdIyU](https://unsplash.com/photos/a-plumber-repairs-plumbing-in-a-bathroom-jaP5ClBdIyU?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Wall Street & stock market rallies (bull-market)
 

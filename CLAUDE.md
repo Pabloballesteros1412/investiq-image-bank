@@ -446,6 +446,22 @@ Decisions (Pablo, 4 Nov 2026):
   BBDO talks and office dogs, the CH2M Hill Alumni Center, Blackrock in Dublin, Manila Imperial Motor Sales for Mastercard.
 - Bank (20 Nov, evening): 6,743 photos; companies 4,353 (213 at target, 78 with none; famous average 26.5, 38 of 50 at
   30), topics 1,841, sectors 549. 346 Unsplash download counts pending.
+- **Rounds 26-27** (20 Nov): 55 + 71 short searches for the 10, then 8, topics at 49 (two pieces cut by the 2-hour
+  limit). Grade 3: a Christmas shopping crowd on the Meir in Antwerp (consumer), an open lock on a laptop
+  (cybersecurity), a plumber at work (jobs). Commons gave events (GDC registration, OPEC seminars, campaign rallies), a
+  rufous hornero's nest for bonds and college linebackers for "bonds". 41 of 48 at 50, the other 7 at 49.
+- **B2B terms, subsidiaries and old names** (20 Nov): 19 zero-photo companies (MSCI: 7 World Trade Center, its HQ;
+  VRSK: Verisk HQ, 545 Washington Boulevard; Arch, Assurant, Broadridge, Camden, Kimco, Regency, Tyler, Unity, Ventas...)
+  and 70 companies with 1-9 photos and no `brands.json` entry got terms (Amcor: Bemis, Parafilm; CRH: Ash Grove Cement,
+  Oldcastle, Tarmac quarry; ADI: Maxim, Linear Technology; KKR: 30 Hudson Yards; BX: 345 Park Avenue; Aon: Leadenhall
+  Building, Aon Center Chicago; ITW: Hobart mixer, Miller welder; PCA box certificates; Iron Mountain shredding
+  trucks...). Commons + Openverse: 207 candidates, 7 best (Parafilm, Ash Grove's Chanute plant and a night view, an Iron
+  Mountain truck, the Leadenhall Building, 7 WTC, Verisk HQ), 42 reserve. Rejected: name clashes (snowflakes, xylem
+  tissue, "AmCor" blood drives, the Hartford Courant, UK Prudential, Michel-Schlumberger winery, Elizabeth Vale), company
+  picnics, interns' rocket launches, political visits, protests, trade-show booths, the old 7 WTC. Still nothing for
+  Arch, Assurant, Broadridge, Camden, Kimco, Regency, Tyler, Unity, Ventas and the other REITs and insurers.
+- Bank (20 Nov, night): 6,791 photos; companies 4,398 (219 at target, 74 with none; famous average 26.5, 38 of 50 at 30),
+  topics 1,844, sectors 549. 345 Unsplash download counts pending.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/
