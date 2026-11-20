@@ -52509,7 +52509,35 @@
   ],
   "aliases": [],
   "sector": "sector-financials",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Metavante - Headquarters",
+    "file": "flickr:2673205038",
+    "page": "https://www.flickr.com/photos/26414533@N00/2673205038",
+    "url": "https://live.staticflickr.com/3123/2673205038_c60f277a17_b.jpg",
+    "preview": "https://live.staticflickr.com/3123/2673205038_c60f277a17_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by hottholler on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "hottholler",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/26414533@N00",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
   "checked": "2026-11-04",
   "target": 10
  },
@@ -64075,7 +64103,31 @@
   "aliases": [],
   "target": 10,
   "sector": "sector-industrials",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Northwood - Firth Rixson Forgings - office block - geograph.org.uk",
+    "file": "File:Northwood - Firth Rixson Forgings - office block - geograph.org.uk - 3495200.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg/500px-Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg",
+    "size": [
+     1600,
+     1200
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Dave Bevis, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Dave Bevis",
+    "year": 2013,
+    "how": "hand-picked"
+   }
+  ],
   "checked": "2026-11-19"
  },
  "HPQ": {
@@ -164192,38 +164244,35 @@
     "track": "https://api.unsplash.com/photos/2nSdQEd-Exc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG9vbGJveHxlbnwxfHx8fDE3OTUwMDQ0Nzl8MA"
    },
    {
-    "shot": "resume-on-desk",
-    "shows": "Barack Obama in the Oval Office in september 2010",
-    "file": "File:Barack Obama in the Oval Office in september 2010.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Barack_Obama_in_the_Oval_Office_in_september_2010.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barack_Obama_in_the_Oval_Office_in_september_2010.jpg/1920px-Barack_Obama_in_the_Oval_Office_in_september_2010.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barack_Obama_in_the_Oval_Office_in_september_2010.jpg/500px-Barack_Obama_in_the_Oval_Office_in_september_2010.jpg",
+    "shot": "team-meeting",
+    "shows": "WLM international team meeting in Lagos 09",
+    "file": "File:WLM international team meeting in Lagos 09.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:WLM_international_team_meeting_in_Lagos_09.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/WLM_international_team_meeting_in_Lagos_09.jpg/1280px-WLM_international_team_meeting_in_Lagos_09.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/WLM_international_team_meeting_in_Lagos_09.jpg/500px-WLM_international_team_meeting_in_Lagos_09.jpg",
     "size": [
-     1920,
-     1280
+     1280,
+     2276
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "White House ( Pete Souza ) / Maison Blanche ( Pete Souza ), public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "White House ( Pete Souza ) / Maison Blanche ( Pete Souza )",
-    "year": 2010,
-    "how": "catalog",
-    "flags": [
-     "restrictions: personality"
-    ]
+    "credit": "Ndahiro derrick, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Ndahiro derrick",
+    "year": 2026,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "handshake-office",
-   "career-fair",
-   "commute-crowd",
-   "nurse-shift",
-   "barista-working",
+   "job-interview-handshake",
+   "safety-vest-worker",
+   "cashier-at-work",
+   "restaurant-kitchen-staff",
+   "farmer-at-work",
    "assembly-line-worker",
    "resume-paper",
    "interview-handshake",
@@ -168103,37 +168152,37 @@
     "how": "catalog"
    },
    {
-    "shot": "android-robot-face",
-    "shows": "Five extraterrestrial-origin beings in the Utah Data Center",
-    "file": "File:Five extraterrestrial-origin beings in the Utah Data Center.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg/1920px-Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg/500px-Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg",
+    "shot": "robot-with-tablet",
+    "shows": "Robot stand Volkswagen - Mondial de l'Automobile de Paris 2014",
+    "file": "File:Robot stand Volkswagen - Mondial de l'Automobile de Paris 2014.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Robot_stand_Volkswagen_-_Mondial_de_l%27Automobile_de_Paris_2014.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Robot_stand_Volkswagen_-_Mondial_de_l%27Automobile_de_Paris_2014.jpg/1280px-Robot_stand_Volkswagen_-_Mondial_de_l%27Automobile_de_Paris_2014.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Robot_stand_Volkswagen_-_Mondial_de_l%27Automobile_de_Paris_2014.jpg/500px-Robot_stand_Volkswagen_-_Mondial_de_l%27Automobile_de_Paris_2014.jpg",
     "size": [
-     1920,
-     1920
+     1280,
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Prototyperspective, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Prototyperspective",
-    "year": 2023,
+    "credit": "Blood Destructor, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Blood Destructor",
+    "year": 2014,
     "how": "catalog"
    }
   ],
   "missing": [
-   "robot-hand-keyboard",
-   "server-racks-blue-light",
-   "self-driving-car-sensor",
-   "humanoid-robot-hand",
-   "chatbot-on-phone",
-   "laptop-code-dark",
-   "white-robot"
+   "humanoid-robot-standing",
+   "robotic-arm-white",
+   "server-room-corridor",
+   "circuit-chip-closeup",
+   "computer-chip-on-finger",
+   "robot-face-closeup",
+   "robot-in-store"
   ],
   "checked": "2026-11-20"
  },
@@ -174535,32 +174584,32 @@
    },
    {
     "shot": "opec",
-    "shows": "OPEC headquarters in Vienna",
-    "file": "File:2007 032 26 Wien 001 (51102609896).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2007_032_26_Wien_001_(51102609896).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2007_032_26_Wien_001_%2851102609896%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2007_032_26_Wien_001_%2851102609896%29.jpg/500px-2007_032_26_Wien_001_%2851102609896%29.jpg",
+    "shows": "OPEC International Seminar - Vienna - 2018",
+    "file": "File:OPEC International Seminar - Vienna - 2018 (29048040318).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:OPEC_International_Seminar_-_Vienna_-_2018_(29048040318).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/OPEC_International_Seminar_-_Vienna_-_2018_%2829048040318%29.jpg/1920px-OPEC_International_Seminar_-_Vienna_-_2018_%2829048040318%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/OPEC_International_Seminar_-_Vienna_-_2018_%2829048040318%29.jpg/500px-OPEC_International_Seminar_-_Vienna_-_2018_%2829048040318%29.jpg",
     "size": [
-     1624,
-     1221
+     1920,
+     944
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "János Korom Dr. >17 Million views from Wien, Austria, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "János Korom Dr. >17 Million views from Wien, Austria",
-    "year": 2007,
+    "credit": "Bundesministerium für Europa, Integration und Äußeres, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Bundesministerium für Europa, Integration und Äußeres",
+    "year": 2018,
     "how": "catalog"
    }
   ],
   "missing": [
-   "pipeline-desert",
-   "crude-oil-drop",
-   "gas-pump-price",
+   "oil-refinery-smoke",
+   "gas-flare-stack",
+   "storage-tank-farm",
    "oil-barrels-stacked",
    "refinery-smokestack",
    "fracking-site",
@@ -179832,40 +179881,40 @@
     "track": "https://api.unsplash.com/photos/tuJ3tXSayco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG5ld3NwYXBlciUyMGZpbmFuY2V8ZW58MXx8fHwxNzk1MDE0NDQ3fDA"
    },
    {
-    "shot": "interest-rate-sign",
-    "shows": "Interest rate Uganda 2011 okt",
-    "file": "File:Interest rate Uganda 2011 okt.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Interest_rate_Uganda_2011_okt.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Interest_rate_Uganda_2011_okt.jpg/1920px-Interest_rate_Uganda_2011_okt.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Interest_rate_Uganda_2011_okt.jpg/500px-Interest_rate_Uganda_2011_okt.jpg",
+    "shot": "treasury-bill",
+    "shows": "Rufous hornero (Furnarius rufus) at nest Colonia",
+    "file": "File:Rufous hornero (Furnarius rufus) at nest Colonia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rufous_hornero_(Furnarius_rufus)_at_nest_Colonia.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rufous_hornero_%28Furnarius_rufus%29_at_nest_Colonia.jpg/1920px-Rufous_hornero_%28Furnarius_rufus%29_at_nest_Colonia.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Rufous_hornero_%28Furnarius_rufus%29_at_nest_Colonia.jpg/500px-Rufous_hornero_%28Furnarius_rufus%29_at_nest_Colonia.jpg",
     "size": [
      1920,
-     1434
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mobergefinance, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
+    "credit": "Charles J. Sharp, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Mobergefinance",
-    "year": 2011,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Charles J. Sharp",
+    "year": 2025,
     "how": "catalog"
    }
   ],
   "missing": [
-   "us-savings-bond",
-   "old-stock-certificate",
-   "mortgage-papers",
-   "financial-district-fog",
-   "money-order",
-   "neoclassical-bank",
-   "dollar-and-pen",
-   "bond-paper",
-   "treasury-department",
-   "pen"
+   "dollar-bills-on-table",
+   "savings-bond-certificate",
+   "stack-of-documents",
+   "contract-signing-desk",
+   "bank-building-facade",
+   "us-capitol-at-night",
+   "old-bank-building",
+   "financial-contract",
+   "money-and-documents",
+   "legal-documents"
   ],
   "checked": "2026-11-20"
  },
@@ -182410,29 +182459,6 @@
     "how": "catalog"
    },
    {
-    "shot": "profit-chart-paper",
-    "shows": "Collecting Public Opinion through the Master Planning Process (3f3bb6d8-155d-4519-3e2c-8e564e59df1c)",
-    "file": "File:Collecting Public Opinion through the Master Planning Process (3f3bb6d8-155d-4519-3e2c-8e564e59df1c).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Collecting_Public_Opinion_through_the_Master_Planning_Process_(3f3bb6d8-155d-4519-3e2c-8e564e59df1c).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Collecting_Public_Opinion_through_the_Master_Planning_Process_%283f3bb6d8-155d-4519-3e2c-8e564e59df1c%29.jpg/1920px-Collecting_Public_Opinion_through_the_Master_Planning_Process_%283f3bb6d8-155d-4519-3e2c-8e564e59df1c%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Collecting_Public_Opinion_through_the_Master_Planning_Process_%283f3bb6d8-155d-4519-3e2c-8e564e59df1c%29.jpg/500px-Collecting_Public_Opinion_through_the_Master_Planning_Process_%283f3bb6d8-155d-4519-3e2c-8e564e59df1c%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NPS Photo, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NPS Photo",
-    "year": 2012,
-    "how": "catalog"
-   },
-   {
     "shot": "spreadsheet-on-laptop",
     "shows": "Hands typing on a laptop with a spreadsheet on screen",
     "file": "unsplash:iDqNlr1Y1_w",
@@ -182457,16 +182483,39 @@
     "provider": "unsplash",
     "author_url": "https://unsplash.com/@bluestonex_apphaus?utm_source=investiq_image_bank&utm_medium=referral",
     "track": "https://api.unsplash.com/photos/iDqNlr1Y1_w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNwcmVhZHNoZWV0JTIwb24lMjBsYXB0b3B8ZW58MXx8fHwxNzk1MTUzNTg0fDA"
+   },
+   {
+    "shot": "charts-and-graphs-paper",
+    "shows": "Jansky with a rough map of the night sky and pointing to the constellation of Cassiopeia. The wavy lines track the radio emissions he discovered on the chart pa",
+    "file": "File:JanskywGraph.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:JanskywGraph.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JanskywGraph.jpg/1280px-JanskywGraph.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/JanskywGraph.jpg/500px-JanskywGraph.jpg",
+    "size": [
+     1280,
+     1638
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NRAO/AUI/NSF, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "NRAO/AUI/NSF",
+    "year": null,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "accounting-ledger",
-   "receipts-pile",
-   "wall-street-journal",
-   "conference-call-phone",
-   "annual-report-cover",
-   "trading-app-phone",
-   "red-pen-numbers",
+   "calculator-and-documents",
+   "laptop-with-charts",
+   "business-analytics",
+   "pie-chart-paper",
+   "office-desk-documents",
+   "meeting-room-presentation",
+   "presentation-screen",
    "magnifying-glass-document",
    "graph-paper-pen"
   ],
@@ -188867,37 +188916,34 @@
     "track": "https://api.unsplash.com/photos/8sCPn-RKKNE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA"
    },
    {
-    "shot": "shopping-bags-street",
-    "shows": "People with shopping bags on a city street",
-    "file": "unsplash:oUNyuUnU3jU",
-    "page": "https://unsplash.com/photos/people-with-shopping-bags-on-a-city-street-oUNyuUnU3jU?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1763530054704-a2216f342310?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwYmFncyUyMHN0cmVldHxlbnwxfHx8fDE3OTUxNTQ3NDd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1763530054704-a2216f342310?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwYmFncyUyMHN0cmVldHxlbnwxfHx8fDE3OTUxNTQ3NDd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "shopping-street-crowd",
+    "shows": "Christmas shopping crowd on Meir, Antwerp, 2024",
+    "file": "File:Christmas shopping crowd on Meir, Antwerp, 2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Christmas_shopping_crowd_on_Meir,_Antwerp,_2024.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Christmas_shopping_crowd_on_Meir%2C_Antwerp%2C_2024.jpg/1920px-Christmas_shopping_crowd_on_Meir%2C_Antwerp%2C_2024.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Christmas_shopping_crowd_on_Meir%2C_Antwerp%2C_2024.jpg/500px-Christmas_shopping_crowd_on_Meir%2C_Antwerp%2C_2024.jpg",
     "size": [
-     1200,
-     1600
+     1920,
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Rochelle Lee on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Rochelle Lee",
-    "year": 2025,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@bestlifanna?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/oUNyuUnU3jU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwYmFncyUyMHN0cmVldHxlbnwxfHx8fDE3OTUxNTQ3NDd8MA"
+    "credit": "DimiTalen, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "DimiTalen",
+    "year": 2024,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "shopping-cart-aisle",
-   "boutique-interior",
-   "black-friday-sale",
-   "sale-sign-window",
+   "retail-store-interior",
+   "shopping-mall-escalator",
+   "paying-with-card",
+   "cosmetics-shelf",
    "card-payment-terminal",
    "online-shopping-laptop",
    "delivery-boxes-doorstep",
@@ -191491,39 +191537,35 @@
     "track": "https://api.unsplash.com/photos/bKfuUy-g48Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww"
    },
    {
-    "shot": "stock-chart-phone",
-    "shows": "A cell phone displaying a stock chart on the screen",
-    "file": "unsplash:LWD60a5a15I",
-    "page": "https://unsplash.com/photos/a-cell-phone-displaying-a-stock-chart-on-the-screen-LWD60a5a15I?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1639389016105-2fb11199fb6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHN0b2NrJTIwY2hhcnQlMjBwaG9uZXxlbnwxfHx8fDE3OTUxNTQ5ODd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1639389016105-2fb11199fb6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHN0b2NrJTIwY2hhcnQlMjBwaG9uZXxlbnwxfHx8fDE3OTUxNTQ5ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "growing-money",
+    "shows": "Money Grows on Trees - geograph.org.uk",
+    "file": "File:Money Grows on Trees - geograph.org.uk - 7569829.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Money_Grows_on_Trees_-_geograph.org.uk_-_7569829.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Money_Grows_on_Trees_-_geograph.org.uk_-_7569829.jpg/1280px-Money_Grows_on_Trees_-_geograph.org.uk_-_7569829.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Money_Grows_on_Trees_-_geograph.org.uk_-_7569829.jpg/500px-Money_Grows_on_Trees_-_geograph.org.uk_-_7569829.jpg",
     "size": [
-     2250,
-     1500
+     1280,
+     1707
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Sajad Nori on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Sajad Nori",
-    "year": 2021,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@sajadnori?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/LWD60a5a15I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHN0b2NrJTIwY2hhcnQlMjBwaG9uZXxlbnwxfHx8fDE3OTUxNTQ5ODd8MA",
-    "track_pending": true
+    "credit": "Colin Smith, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Colin Smith",
+    "year": 2023,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "retirement-couple",
-   "piggy-bank-growth",
-   "coins-plant-growing",
-   "savings-jar-coins",
-   "dollar-bills-stack",
+   "financial-planning-notebook",
+   "coins-in-jar",
+   "cash-savings",
+   "coins-on-table",
+   "money-box",
    "notebook-budget",
    "calculator-savings",
    "wallet",
@@ -195417,31 +195459,31 @@
    },
    {
     "shot": "campaign-rally",
-    "shows": "Elizabeth Warren campaign rally, Washington Square Park, September, 2019",
-    "file": "File:Elizabeth Warren campaign rally, Washington Square Park, September, 2019.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Warren_campaign_rally,_Washington_Square_Park,_September,_2019.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Elizabeth_Warren_campaign_rally%2C_Washington_Square_Park%2C_September%2C_2019.jpg/1920px-Elizabeth_Warren_campaign_rally%2C_Washington_Square_Park%2C_September%2C_2019.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Elizabeth_Warren_campaign_rally%2C_Washington_Square_Park%2C_September%2C_2019.jpg/500px-Elizabeth_Warren_campaign_rally%2C_Washington_Square_Park%2C_September%2C_2019.jpg",
+    "shows": "September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3717",
+    "file": "File:September 20, 2024, Kamala Harris presidential campaign rally at Alliant Energy Center in Madison, Wisconsin 3717.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:September_20,_2024,_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison,_Wisconsin_3717.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3717.jpg/1920px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3717.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3717.jpg/500px-September_20%2C_2024%2C_Kamala_Harris_presidential_campaign_rally_at_Alliant_Energy_Center_in_Madison%2C_Wisconsin_3717.jpg",
     "size": [
      1920,
-     1920
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "GhostDust, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "GhostDust",
-    "year": 2019,
+    "credit": "SecretName101, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "SecretName101",
+    "year": 2024,
     "how": "catalog"
    }
   ],
   "missing": [
-   "podium-microphones",
-   "press-conference-podium",
+   "supreme-court-building",
+   "lincoln-statue",
    "polling-place-sign",
    "congressional-office-building",
    "statehouse-dome",
