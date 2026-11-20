@@ -11617,5 +11617,2019 @@
     "vertical_crop_ok": true
    }
   ]
+ },
+ "BUD": {
+  "kind": "company",
+  "name": "AB InBev",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-staples"
+ },
+ "ABT": {
+  "kind": "company",
+  "name": "Abbott Laboratories",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "ABBV": {
+  "kind": "company",
+  "name": "AbbVie",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "botox",
+    "shows": "botox, botox treatment, skin, skincare, face, makeup, wellness",
+    "file": "pixabay-video:377834",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-377834/",
+    "url": "https://cdn.pixabay.com/video/2026/09/21/377834_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2026/09/21/377834_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2026/09/21/377834_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2026/09/21/377834_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 18.0,
+    "credit": "Video by SkinClinicISB on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "SkinClinicISB",
+    "author_url": "https://pixabay.com/users/SkinClinicISB-57198194/"
+   }
+  ],
+  "sector": "sector-health"
+ },
+ "ADBE": {
+  "kind": "company",
+  "name": "Adobe Inc.",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "photoshop",
+    "shows": "sunset, country, fun, boat, sea, photoshop, relax",
+    "file": "pixabay-video:113584",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-113584/",
+    "url": "https://cdn.pixabay.com/video/2022/04/11/113584-698386432_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2022/04/11/113584-698386432_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2022/04/11/113584-698386432_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2022/04/11/113584-698386432_medium.jpg",
+    "size": [
+     1080,
+     1920
+    ],
+    "orientation": "vertical",
+    "duration": 15.0,
+    "credit": "Video by Nguyễnduykha on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Nguyễnduykha",
+    "author_url": "https://pixabay.com/users/Nguyễnduykha-26675891/"
+   },
+   {
+    "shot": "photoshop",
+    "shows": "photoshop, editing, ipad, pimples, portrait, composing, face, bearded, man",
+    "file": "pixabay-video:42967",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-42967/",
+    "url": "https://cdn.pixabay.com/video/2020/06/23/42967-434316750_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2020/06/23/42967-434316750_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2020/06/23/42967-434316750_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2020/06/23/42967-434316750_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 12.0,
+    "credit": "Video by MaxMedyk on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "MaxMedyk",
+    "author_url": "https://pixabay.com/users/MaxMedyk-17179520/"
+   },
+   {
+    "shot": "photoshop",
+    "shows": "river, park, nature, landscape, forest, mountain, photoshop, water, scenic, pond, sunset, outdoors, lake, wilderness, tourism, trees, fishing",
+    "file": "pixabay-video:41680",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-41680/",
+    "url": "https://cdn.pixabay.com/video/2020/06/10/41680-429682809_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2020/06/10/41680-429682809_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2020/06/10/41680-429682809_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2020/06/10/41680-429682809_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 13.0,
+    "credit": "Video by FernandoChile on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "FernandoChile",
+    "author_url": "https://pixabay.com/users/FernandoChile-1055491/"
+   },
+   {
+    "shot": "photoshop",
+    "shows": "technology, business, photoshop, computer, ipad, tablet, rotate, fashion, design, creative",
+    "file": "pixabay-video:144400",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-144400/",
+    "url": "https://cdn.pixabay.com/video/2022/12/27/144400-784605562_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2022/12/27/144400-784605562_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2022/12/27/144400-784605562_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2022/12/27/144400-784605562_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 7.0,
+    "credit": "Video by Sketchpad360 on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Sketchpad360",
+    "author_url": "https://pixabay.com/users/Sketchpad360-32389458/"
+   }
+  ],
+  "sector": "sector-tech"
+ },
+ "AMD": {
+  "kind": "company",
+  "name": "Advanced Micro Devices",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "amd-ryzen",
+    "shows": "AMD Ryzen 5 8400F Cinebench R23 w INVADERPC (3840p 50fps VP9) (ohne Ton)",
+    "file": "File:AMD Ryzen 5 8400F Cinebench R23 w INVADERPC (3840p 50fps VP9) (ohne Ton).webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_5_8400F_Cinebench_R23_w_INVADERPC_(3840p_50fps_VP9)_(ohne_Ton).webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/AMD_Ryzen_5_8400F_Cinebench_R23_w_INVADERPC_%283840p_50fps_VP9%29_%28ohne_Ton%29.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/8/88/AMD_Ryzen_5_8400F_Cinebench_R23_w_INVADERPC_%283840p_50fps_VP9%29_%28ohne_Ton%29.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/88/AMD_Ryzen_5_8400F_Cinebench_R23_w_INVADERPC_%283840p_50fps_VP9%29_%28ohne_Ton%29.webm/AMD_Ryzen_5_8400F_Cinebench_R23_w_INVADERPC_%283840p_50fps_VP9%29_%28ohne_Ton%29.webm.1080p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/AMD_Ryzen_5_8400F_Cinebench_R23_w_INVADERPC_%283840p_50fps_VP9%29_%28ohne_Ton%29.webm/960px--AMD_Ryzen_5_8400F_Cinebench_R23_w_INVADERPC_%283840p_50fps_VP9%29_%28ohne_Ton%29.webm.jpg",
+    "size": [
+     2160,
+     3840
+    ],
+    "orientation": "vertical",
+    "duration": 32.7,
+    "credit": "INVADER PC, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "INVADER PC",
+    "author_url": ""
+   },
+   {
+    "shot": "amd",
+    "shows": "processor, amd, fan, technology, pc, hi-tech, motherboard, hardware, electronics, windows, linux, computer, intel, desktop, heatsink, silver",
+    "file": "pixabay-video:16858",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-16858/",
+    "url": "https://cdn.pixabay.com/video/2018/06/18/16858-276488503_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2018/06/18/16858-276488503_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2018/06/18/16858-276488503_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2018/06/18/16858-276488503_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 8.0,
+    "credit": "Video by Alessandro89 on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Alessandro89",
+    "author_url": "https://pixabay.com/users/Alessandro89-817526/"
+   },
+   {
+    "shot": "radeon",
+    "shows": "LA MIGLIOR GPU AMD CONTRO LA MIA LIBRERIA STEAM IN 4K + RT! 🚀",
+    "file": "File:LA MIGLIOR GPU AMD CONTRO LA MIA LIBRERIA STEAM IN 4K + RT! 🚀.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT!_%F0%9F%9A%80.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT%21_%F0%9F%9A%80.webm/LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT%21_%F0%9F%9A%80.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT%21_%F0%9F%9A%80.webm/LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT%21_%F0%9F%9A%80.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/80/LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT%21_%F0%9F%9A%80.webm/LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT%21_%F0%9F%9A%80.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT%21_%F0%9F%9A%80.webm/960px--LA_MIGLIOR_GPU_AMD_CONTRO_LA_MIA_LIBRERIA_STEAM_IN_4K_%2B_RT%21_%F0%9F%9A%80.webm.jpg",
+    "size": [
+     3840,
+     1920
+    ],
+    "orientation": "horizontal",
+    "duration": 17.2,
+    "credit": "MoreThanTech, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "MoreThanTech",
+    "author_url": "",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "amd-ryzen",
+    "shows": "Video zum AMD Ryzen 7 9800X3D (极客湾Geekerwan) 22",
+    "file": "File:Video zum AMD Ryzen 7 9800X3D (极客湾Geekerwan) 22.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Video_zum_AMD_Ryzen_7_9800X3D_(%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan)_22.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Video_zum_AMD_Ryzen_7_9800X3D_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_22.webm/Video_zum_AMD_Ryzen_7_9800X3D_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_22.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Video_zum_AMD_Ryzen_7_9800X3D_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_22.webm/Video_zum_AMD_Ryzen_7_9800X3D_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_22.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e3/Video_zum_AMD_Ryzen_7_9800X3D_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_22.webm/Video_zum_AMD_Ryzen_7_9800X3D_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_22.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Video_zum_AMD_Ryzen_7_9800X3D_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_22.webm/960px--Video_zum_AMD_Ryzen_7_9800X3D_%28%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29_22.webm.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 24.4,
+    "credit": "极客湾Geekerwan, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "极客湾Geekerwan",
+    "author_url": "",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "radeon",
+    "shows": "B-Rolls of ASUS TUF Gaming Radeon RX 9070 XT OC Edition (by 极客湾Geekerwan)",
+    "file": "File:B-Rolls of ASUS TUF Gaming Radeon RX 9070 XT OC Edition (by 极客湾Geekerwan).webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_(by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan).webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_%28by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29.webm/B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_%28by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_%28by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29.webm/B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_%28by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1f/B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_%28by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29.webm/B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_%28by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_%28by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29.webm/960px--B-Rolls_of_ASUS_TUF_Gaming_Radeon_RX_9070_XT_OC_Edition_%28by_%E6%9E%81%E5%AE%A2%E6%B9%BEGeekerwan%29.webm.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 68.9,
+    "credit": "极客湾Geekerwan, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "极客湾Geekerwan",
+    "author_url": "",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "amd",
+    "shows": "Unboxing-Video einer AMD-CPU (MoreThanTech)",
+    "file": "File:Unboxing-Video einer AMD-CPU (MoreThanTech).webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Unboxing-Video_einer_AMD-CPU_(MoreThanTech).webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Unboxing-Video_einer_AMD-CPU_%28MoreThanTech%29.webm/Unboxing-Video_einer_AMD-CPU_%28MoreThanTech%29.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Unboxing-Video_einer_AMD-CPU_%28MoreThanTech%29.webm/Unboxing-Video_einer_AMD-CPU_%28MoreThanTech%29.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/97/Unboxing-Video_einer_AMD-CPU_%28MoreThanTech%29.webm/Unboxing-Video_einer_AMD-CPU_%28MoreThanTech%29.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Unboxing-Video_einer_AMD-CPU_%28MoreThanTech%29.webm/960px--Unboxing-Video_einer_AMD-CPU_%28MoreThanTech%29.webm.jpg",
+    "size": [
+     3840,
+     1920
+    ],
+    "orientation": "horizontal",
+    "duration": 74.7,
+    "credit": "MoreThanTech, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "MoreThanTech",
+    "author_url": "",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "amd-ryzen",
+    "shows": "AMD Ryzen Threadripper 7970X → Ein Rundumblick",
+    "file": "File:AMD Ryzen Threadripper 7970X → Ein Rundumblick.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm/960px--AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm.jpg",
+    "size": [
+     7680,
+     4320
+    ],
+    "orientation": "horizontal",
+    "duration": 36.1,
+    "credit": "PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "PantheraLeo1359531",
+    "author_url": "",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "amd",
+    "shows": "AMD Ryzen 7 7800X3D – Gigabyte AERO RTX4070 Super - MSI PANO M100R Pz White - MASTER Build - INVADERPC",
+    "file": "File:AMD Ryzen 7 7800X3D – Gigabyte AERO RTX4070 Super - MSI PANO M100R Pz White - MASTER Build - INVADERPC.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm/AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm/AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/98/AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm/AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm/960px--AMD_Ryzen_7_7800X3D_%E2%80%93_Gigabyte_AERO_RTX4070_Super_-_MSI_PANO_M100R_Pz_White_-_MASTER_Build_-_INVADERPC.webm.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 137.3,
+    "credit": "INVADER PC, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "INVADER PC",
+    "author_url": "",
+    "vertical_crop_ok": true
+   }
+  ],
+  "sector": "sector-tech"
+ },
+ "AES": {
+  "kind": "company",
+  "name": "AES Corporation",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-utilities"
+ },
+ "AFL": {
+  "kind": "company",
+  "name": "Aflac",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "ABNB": {
+  "kind": "company",
+  "name": "Airbnb",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "ALB": {
+  "kind": "company",
+  "name": "Albemarle Corporation",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-materials"
+ },
+ "ARE": {
+  "kind": "company",
+  "name": "Alexandria Real Estate Equities",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-real-estate"
+ },
+ "BABA": {
+  "kind": "company",
+  "name": "Alibaba",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "ALGN": {
+  "kind": "company",
+  "name": "Align Technology",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "ALLE": {
+  "kind": "company",
+  "name": "Allegion",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-industrials"
+ },
+ "ALL": {
+  "kind": "company",
+  "name": "Allstate",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "GOOGL": {
+  "kind": "company",
+  "name": "Alphabet Inc.",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "waymo",
+    "shows": "Inside Waymo, DTLA, Jan 2026",
+    "file": "File:Inside Waymo, DTLA, Jan 2026.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Inside_Waymo,_DTLA,_Jan_2026.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Inside_Waymo%2C_DTLA%2C_Jan_2026.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/d/db/Inside_Waymo%2C_DTLA%2C_Jan_2026.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/db/Inside_Waymo%2C_DTLA%2C_Jan_2026.webm/Inside_Waymo%2C_DTLA%2C_Jan_2026.webm.1080p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Inside_Waymo%2C_DTLA%2C_Jan_2026.webm/960px--Inside_Waymo%2C_DTLA%2C_Jan_2026.webm.jpg",
+    "size": [
+     1080,
+     1920
+    ],
+    "orientation": "vertical",
+    "duration": 10.8,
+    "credit": "Alexis Doine, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Alexis Doine",
+    "author_url": ""
+   },
+   {
+    "shot": "youtube",
+    "shows": "osaka bay, youtube shorts background, japan night view, rinku town, star gate hotel, high angle shot, vertical video, tiktok background, 60fps, samsung s23 ultra, city traffic night, japan cityscape, ",
+    "file": "pixabay-video:361492",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-361492/",
+    "url": "https://cdn.pixabay.com/video/2026/06/30/361492_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2026/06/30/361492_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2026/06/30/361492_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2026/06/30/361492_medium.jpg",
+    "size": [
+     1440,
+     2603
+    ],
+    "orientation": "vertical",
+    "duration": 25.0,
+    "credit": "Video by Janhom on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Janhom",
+    "author_url": "https://pixabay.com/users/Janhom-56122431/"
+   },
+   {
+    "shot": "google-maps",
+    "shows": "england, london, google, map, earth, gps, technology, location",
+    "file": "pixabay-video:38791",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-38791/",
+    "url": "https://cdn.pixabay.com/video/2020/05/11/38791-418875295_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2020/05/11/38791-418875295_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2020/05/11/38791-418875295_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2020/05/11/38791-418875295_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 28.0,
+    "credit": "Video by NikoJimsheleishvili on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "NikoJimsheleishvili",
+    "author_url": "https://pixabay.com/users/NikoJimsheleishvili-14110960/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "google",
+    "shows": "mapping, google maps, location, map, pin, google, navigation, position, traffic, search, laptop, internet, website, research, online, planning, route, driving, distance",
+    "file": "pixabay-video:29879",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-29879/",
+    "url": "https://cdn.pixabay.com/video/2019/12/06/29879-377759955_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2019/12/06/29879-377759955_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2019/12/06/29879-377759955_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2019/12/06/29879-377759955_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 23.0,
+    "credit": "Video by conolan on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "conolan",
+    "author_url": "https://pixabay.com/users/conolan-4525104/"
+   },
+   {
+    "shot": "android",
+    "shows": "smartphone, scroll, touch, android, touchscreen, ios, iphone, mobile, navigation, phone, communication, electronics, device, communicate, email, app, program, software, development, modern",
+    "file": "pixabay-video:90",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-90/",
+    "url": "https://cdn.pixabay.com/video/2015/08/08/90-135735293_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2015/08/08/90-135735293_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2015/08/08/90-135735293_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2015/08/08/90-135735293_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 13.0,
+    "credit": "Video by Coverr-Free-Footage on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Coverr-Free-Footage",
+    "author_url": "https://pixabay.com/users/Coverr-Free-Footage-1281706/"
+   },
+   {
+    "shot": "google-pixel",
+    "shows": "notebook, mac, computer, macbook, laptop, screen, work, apple, internet, monitor, business, office, google, keyboard, open, pc, presentation",
+    "file": "pixabay-video:22355",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-22355/",
+    "url": "https://cdn.pixabay.com/video/2019/03/26/22355-326843270_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2019/03/26/22355-326843270_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2019/03/26/22355-326843270_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2019/03/26/22355-326843270_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 11.0,
+    "credit": "Video by Viditek on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Viditek",
+    "author_url": "https://pixabay.com/users/Viditek-11911029/"
+   },
+   {
+    "shot": "google-chrome",
+    "shows": "google, internet, technology, search, seo, website, computer, screen, searching, com",
+    "file": "pixabay-video:155163",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-155163/",
+    "url": "https://cdn.pixabay.com/video/2023/03/18/155163-809618950_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2023/03/18/155163-809618950_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2023/03/18/155163-809618950_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2023/03/18/155163-809618950_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 11.0,
+    "credit": "Video by Shahzaib_khan on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Shahzaib_khan",
+    "author_url": "https://pixabay.com/users/Shahzaib_khan-34519999/"
+   },
+   {
+    "shot": "chromecast",
+    "shows": "Introducing Google Chrome Built-in AI Challenge",
+    "file": "File:Introducing Google Chrome Built-in AI Challenge.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Introducing_Google_Chrome_Built-in_AI_Challenge.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/Introducing_Google_Chrome_Built-in_AI_Challenge.webm/Introducing_Google_Chrome_Built-in_AI_Challenge.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/Introducing_Google_Chrome_Built-in_AI_Challenge.webm/Introducing_Google_Chrome_Built-in_AI_Challenge.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/93/Introducing_Google_Chrome_Built-in_AI_Challenge.webm/Introducing_Google_Chrome_Built-in_AI_Challenge.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Introducing_Google_Chrome_Built-in_AI_Challenge.webm/960px--Introducing_Google_Chrome_Built-in_AI_Challenge.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 58.1,
+    "credit": "Chrome for Developers, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Chrome for Developers",
+    "author_url": ""
+   },
+   {
+    "shot": "youtube",
+    "shows": "youtube subscribe, like, share, comment, youtube, subscription, subscribe, social, subscribers, icon, red, button",
+    "file": "pixabay-video:48891",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-48891/",
+    "url": "https://cdn.pixabay.com/video/2020/09/02/48891-454346906_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2020/09/02/48891-454346906_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2020/09/02/48891-454346906_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2020/09/02/48891-454346906_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 13.0,
+    "credit": "Video by Hassas_Arts on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Hassas_Arts",
+    "author_url": "https://pixabay.com/users/Hassas_Arts-12571684/"
+   },
+   {
+    "shot": "android",
+    "shows": "instagram, social media, instagram home screen, app use, application, android",
+    "file": "pixabay-video:145609",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-145609/",
+    "url": "https://cdn.pixabay.com/video/2023/01/07/145609-787247970_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2023/01/07/145609-787247970_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2023/01/07/145609-787247970_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2023/01/07/145609-787247970_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 11.0,
+    "credit": "Video by dearkrishna on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "dearkrishna",
+    "author_url": "https://pixabay.com/users/dearkrishna-32668510/"
+   }
+  ],
+  "sector": "sector-communication"
+ },
+ "MO": {
+  "kind": "company",
+  "name": "Altria",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-staples"
+ },
+ "AMZN": {
+  "kind": "company",
+  "name": "Amazon",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "amazon-prime",
+    "shows": "parrot, bird, animal, feathers, avian, plumage, beak, ornithology, wildlife, colorful, australia, exotic, amazon, nature",
+    "file": "pixabay-video:213100",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-213100/",
+    "url": "https://cdn.pixabay.com/video/2024/05/22/213100_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2024/05/22/213100_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2024/05/22/213100_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2024/05/22/213100_medium.jpg",
+    "size": [
+     2160,
+     4096
+    ],
+    "orientation": "vertical",
+    "duration": 11.0,
+    "credit": "Video by 43413641 on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "43413641",
+    "author_url": "https://pixabay.com/users/43413641-43413641/"
+   },
+   {
+    "shot": "amazon-package",
+    "shows": "Fanuc robot sorting in BRS2 Amazon fulfilment centre in Swindon 02",
+    "file": "File:Fanuc robot sorting in BRS2 Amazon fulfilment centre in Swindon 02.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7a/Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm/Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm.1080p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm/960px--Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm.jpg",
+    "size": [
+     1080,
+     1920
+    ],
+    "orientation": "vertical",
+    "duration": 33.3,
+    "credit": "Marc Auledas Noguera ( Auledas ), CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Marc Auledas Noguera ( Auledas )",
+    "author_url": ""
+   },
+   {
+    "shot": "amazon-go",
+    "shows": "Amazon River Snakes Through the Rainforest (CIRA - nolabels portrait)",
+    "file": "File:Amazon River Snakes Through the Rainforest (CIRA 2026-07-08 - nolabels portrait).webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Amazon_River_Snakes_Through_the_Rainforest_(CIRA_2026-07-08_-_nolabels_portrait).webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Amazon_River_Snakes_Through_the_Rainforest_%28CIRA_2026-07-08_-_nolabels_portrait%29.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/3/38/Amazon_River_Snakes_Through_the_Rainforest_%28CIRA_2026-07-08_-_nolabels_portrait%29.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/38/Amazon_River_Snakes_Through_the_Rainforest_%28CIRA_2026-07-08_-_nolabels_portrait%29.webm/Amazon_River_Snakes_Through_the_Rainforest_%28CIRA_2026-07-08_-_nolabels_portrait%29.webm.1080p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Amazon_River_Snakes_Through_the_Rainforest_%28CIRA_2026-07-08_-_nolabels_portrait%29.webm/960px--Amazon_River_Snakes_Through_the_Rainforest_%28CIRA_2026-07-08_-_nolabels_portrait%29.webm.jpg",
+    "size": [
+     1080,
+     1920
+    ],
+    "orientation": "vertical",
+    "duration": 7.1,
+    "credit": "GOES imagery: CSU/CIRA & NOAA, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "GOES imagery: CSU/CIRA & NOAA",
+    "author_url": ""
+   },
+   {
+    "shot": "amazon-box",
+    "shows": "amazon, forest, rainforest, jungle, brazil, nature",
+    "file": "pixabay-video:148042",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-148042/",
+    "url": "https://cdn.pixabay.com/video/2023/01/26/148042-793525159_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2023/01/26/148042-793525159_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2023/01/26/148042-793525159_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2023/01/26/148042-793525159_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 19.0,
+    "credit": "Video by digifinio on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "digifinio",
+    "author_url": "https://pixabay.com/users/digifinio-33146378/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "amazon-delivery",
+    "shows": "parrot, amazona, amazon parrot, couple, bird, plumage, beak, blue-fronted amazon, nature, fauna, animal, zoo",
+    "file": "pixabay-video:379748",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-379748/",
+    "url": "https://cdn.pixabay.com/video/2026/09/29/379748_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2026/09/29/379748_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2026/09/29/379748_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2026/09/29/379748_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 7.0,
+    "credit": "Video by danydory on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "danydory",
+    "author_url": "https://pixabay.com/users/danydory-9903/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "amazon-echo",
+    "shows": "aquarium, fishes, swarm, freshwater, plants, underwater, lake, africa, amazon, rainforest, malawi",
+    "file": "pixabay-video:108366",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-108366/",
+    "url": "https://cdn.pixabay.com/video/2022/02/20/108366-680178196_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2022/02/20/108366-680178196_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2022/02/20/108366-680178196_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2022/02/20/108366-680178196_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 18.0,
+    "credit": "Video by RoyBuri on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "RoyBuri",
+    "author_url": "https://pixabay.com/users/RoyBuri-3128024/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "amazon-logo",
+    "shows": "drone, drone images, nature, forest, river, landscape, drone footage, aerial view, aerial image, amazon, aerial images, clouds, sky",
+    "file": "pixabay-video:216060",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-216060/",
+    "url": "https://cdn.pixabay.com/video/2024/06/10/216060_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2024/06/10/216060_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2024/06/10/216060_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2024/06/10/216060_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 26.0,
+    "credit": "Video by Drone_Aventura on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Drone_Aventura",
+    "author_url": "https://pixabay.com/users/Drone_Aventura-29856243/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "kindle",
+    "shows": "match, fire, flame, burn, ignition, smoke, sulfur, lighter, match head, hot, wood, light, kindle",
+    "file": "pixabay-video:63519",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-63519/",
+    "url": "https://cdn.pixabay.com/video/2021/01/30/63519-506616366_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2021/01/30/63519-506616366_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2021/01/30/63519-506616366_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2021/01/30/63519-506616366_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 30.0,
+    "credit": "Video by Shutter_Speed on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Shutter_Speed",
+    "author_url": "https://pixabay.com/users/Shutter_Speed-19396765/"
+   },
+   {
+    "shot": "amazon-prime",
+    "shows": "drone, drones, drone images, nature, forest, river, landscape, drone footage, aerial view, aerial image, amazon, aerial images, cloud, sky",
+    "file": "pixabay-video:216057",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-216057/",
+    "url": "https://cdn.pixabay.com/video/2024/06/10/216057_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2024/06/10/216057_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2024/06/10/216057_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2024/06/10/216057_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 18.0,
+    "credit": "Video by Drone_Aventura on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Drone_Aventura",
+    "author_url": "https://pixabay.com/users/Drone_Aventura-29856243/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "amazon-echo",
+    "shows": "jungle, rainforest, forest, rain, trail, path, gravel, garden, botanical, nature, vines, exotic, tropic, vine, ivy, green, leaf, lush, amazon, brazil, borneo",
+    "file": "pixabay-video:39270",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-39270/",
+    "url": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2020/05/17/39270-422620693_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 24.0,
+    "credit": "Video by caelan on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "caelan",
+    "author_url": "https://pixabay.com/users/caelan-12802865/"
+   }
+  ],
+  "sector": "sector-consumer-discretionary"
+ },
+ "AMC": {
+  "kind": "company",
+  "name": "AMC Theatres",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "amc-theatres",
+    "shows": "AMC Theaters Feature Presentation Snippet",
+    "file": "File:AMC Theaters Feature Presentation Snippet (1980).ogv",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:AMC_Theaters_Feature_Presentation_Snippet_(1980).ogv",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/56/AMC_Theaters_Feature_Presentation_Snippet_%281980%29.ogv/AMC_Theaters_Feature_Presentation_Snippet_%281980%29.ogv.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/56/AMC_Theaters_Feature_Presentation_Snippet_%281980%29.ogv/AMC_Theaters_Feature_Presentation_Snippet_%281980%29.ogv.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/56/AMC_Theaters_Feature_Presentation_Snippet_%281980%29.ogv/AMC_Theaters_Feature_Presentation_Snippet_%281980%29.ogv.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/AMC_Theaters_Feature_Presentation_Snippet_%281980%29.ogv/960px--AMC_Theaters_Feature_Presentation_Snippet_%281980%29.ogv.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 26.0,
+    "credit": "AMC Theatres, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "AMC Theatres",
+    "author_url": ""
+   }
+  ],
+  "sector": "sector-communication"
+ },
+ "AEE": {
+  "kind": "company",
+  "name": "Ameren",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-utilities"
+ },
+ "AEP": {
+  "kind": "company",
+  "name": "American Electric Power",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-utilities"
+ },
+ "AXP": {
+  "kind": "company",
+  "name": "American Express",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "AIG": {
+  "kind": "company",
+  "name": "American International Group",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "AWK": {
+  "kind": "company",
+  "name": "American Water Works",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-utilities"
+ },
+ "AMP": {
+  "kind": "company",
+  "name": "Ameriprise Financial",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "AMGN": {
+  "kind": "company",
+  "name": "Amgen",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "APA": {
+  "kind": "company",
+  "name": "APA Corporation",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-energy"
+ },
+ "AAPL": {
+  "kind": "company",
+  "name": "Apple Inc.",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "iphone",
+    "shows": "beach, sea, ocean, sand, summer, rock, nature, cliff, landscape, coast, water, splash, epic, motion, wind, aesthetic, iphone, amateur, stones, autumn, fall, portugal, wet, meditation, zen",
+    "file": "pixabay-video:340245",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-340245/",
+    "url": "https://cdn.pixabay.com/video/2026/03/14/340245_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2026/03/14/340245_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2026/03/14/340245_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2026/03/14/340245_medium.jpg",
+    "size": [
+     2160,
+     3840
+    ],
+    "orientation": "vertical",
+    "duration": 6.0,
+    "credit": "Video by legacy_ofv on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "legacy_ofv",
+    "author_url": "https://pixabay.com/users/legacy_ofv-55017111/"
+   },
+   {
+    "shot": "macbook",
+    "shows": "video, camera, photo, movie, technology, digital, objects, computer, woman, image, macbook, the editing of the video, edition, premiere",
+    "file": "pixabay-video:67825",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-67825/",
+    "url": "https://cdn.pixabay.com/video/2021/03/12/67825-523386992_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2021/03/12/67825-523386992_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2021/03/12/67825-523386992_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2021/03/12/67825-523386992_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 26.0,
+    "credit": "Video by ninosouza on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "ninosouza",
+    "author_url": "https://pixabay.com/users/ninosouza-8385382/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "ipad",
+    "shows": "child, tablet, kid, internet, young, technology, ipad, education, little, home, happy, playing, learning, caucasian, play, device, touchscreen, watching",
+    "file": "pixabay-video:44224",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-44224/",
+    "url": "https://cdn.pixabay.com/video/2020/07/08/44224-438212573_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2020/07/08/44224-438212573_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2020/07/08/44224-438212573_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2020/07/08/44224-438212573_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 14.0,
+    "credit": "Video by fajarbudi86 on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "fajarbudi86",
+    "author_url": "https://pixabay.com/users/fajarbudi86-1126901/"
+   },
+   {
+    "shot": "apple-watch",
+    "shows": "Officers Shoot Man Who fired at Them While Investigating Apple Watch Robbery",
+    "file": "File:Officers Shoot Man Who fired at Them While Investigating Apple Watch Robbery.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm/Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm/Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/54/Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm/Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm/960px--Officers_Shoot_Man_Who_fired_at_Them_While_Investigating_Apple_Watch_Robbery.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 160.1,
+    "credit": "Jacksonville Sheriff's Office, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Jacksonville Sheriff's Office",
+    "author_url": ""
+   },
+   {
+    "shot": "apple-store",
+    "shows": "macbook, apple, macbook air, technology, mac, notebook, office, business, desk, computer, laptop",
+    "file": "pixabay-video:19454",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-19454/",
+    "url": "https://cdn.pixabay.com/video/2018/11/21/19454-302196093_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2018/11/21/19454-302196093_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2018/11/21/19454-302196093_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2018/11/21/19454-302196093_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 20.0,
+    "credit": "Video by andrepazleal on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "andrepazleal",
+    "author_url": "https://pixabay.com/users/andrepazleal-2648738/"
+   },
+   {
+    "shot": "apple-park",
+    "shows": "apple iphone 6, smartphone, scroll, touchscreen, touch, navigation, communication, read, phone, device, electronics, modern, communicate, display, reading, browsing",
+    "file": "pixabay-video:103",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-103/",
+    "url": "https://cdn.pixabay.com/video/2015/08/08/103-135735608_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2015/08/08/103-135735608_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2015/08/08/103-135735608_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2015/08/08/103-135735608_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 14.0,
+    "credit": "Video by Coverr-Free-Footage on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Coverr-Free-Footage",
+    "author_url": "https://pixabay.com/users/Coverr-Free-Footage-1281706/"
+   },
+   {
+    "shot": "iphone",
+    "shows": "mobile, cellular, technology, communications, iphone, talk, friends, message, conversation, smartphone",
+    "file": "pixabay-video:131161",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-131161/",
+    "url": "https://cdn.pixabay.com/video/2022/09/13/131161-749706760_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2022/09/13/131161-749706760_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2022/09/13/131161-749706760_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2022/09/13/131161-749706760_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 24.0,
+    "credit": "Video by Dx21 on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Dx21",
+    "author_url": "https://pixabay.com/users/Dx21-24119034/"
+   },
+   {
+    "shot": "macbook",
+    "shows": "video production, camera, macbook, computer, laptop, technology, apple, screen, event, equipments, professional, focus, photo, lens, image, man, transmission, live, recording",
+    "file": "pixabay-video:26533",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-26533/",
+    "url": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2019/09/04/26533-357855242_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 9.0,
+    "credit": "Video by ninosouza on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "ninosouza",
+    "author_url": "https://pixabay.com/users/ninosouza-8385382/"
+   },
+   {
+    "shot": "ipad",
+    "shows": "子ども向けiPad衝撃吸収クッションケース ケガさせにくい丸みのある形状 Apple 9.7インチiPad 2017用 PDA-IPAD1005BK-BL-R",
+    "file": "File:子ども向けiPad衝撃吸収クッションケース ケガさせにくい丸みのある形状 Apple 9.7インチiPad 2017用 PDA-IPAD1005BK-BL-R.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/02/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm/960px--%E5%AD%90%E3%81%A9%E3%82%82%E5%90%91%E3%81%91iPad%E8%A1%9D%E6%92%83%E5%90%B8%E5%8F%8E%E3%82%AF%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%B9_%E3%82%B1%E3%82%AC%E3%81%95%E3%81%9B%E3%81%AB%E3%81%8F%E3%81%84%E4%B8%B8%E3%81%BF%E3%81%AE%E3%81%82%E3%82%8B%E5%BD%A2%E7%8A%B6_Apple_9.7%E3%82%A4%E3%83%B3%E3%83%81iPad_2017%E7%94%A8_PDA-IPAD1005BK-BL-R.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 46.1,
+    "credit": "サンワサプライ株式会社, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "サンワサプライ株式会社",
+    "author_url": ""
+   },
+   {
+    "shot": "apple-store",
+    "shows": "macbook, notebook, laptop, typing, office, write, keyboard, mobile, modern, startup, apple, device, electronics, technology, hands, man, working, communication, person, internet, gadget",
+    "file": "pixabay-video:3576",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-3576/",
+    "url": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 37.0,
+    "credit": "Video by Pexels on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Pexels",
+    "author_url": "https://pixabay.com/users/Pexels-2286921/"
+   }
+  ],
+  "sector": "sector-tech"
+ },
+ "AMAT": {
+  "kind": "company",
+  "name": "Applied Materials",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "APP": {
+  "kind": "company",
+  "name": "AppLovin",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-communication"
+ },
+ "APTV": {
+  "kind": "company",
+  "name": "Aptiv",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "ACHR": {
+  "kind": "company",
+  "name": "Archer Aviation",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-industrials"
+ },
+ "ANET": {
+  "kind": "company",
+  "name": "Arista Networks",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "ARM": {
+  "kind": "company",
+  "name": "Arm Holdings",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "AJG": {
+  "kind": "company",
+  "name": "Arthur J. Gallagher & Co.",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "ASML": {
+  "kind": "company",
+  "name": "ASML",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "euv-lithography",
+    "shows": "How EUV lithography works",
+    "file": "File:How EUV lithography works.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:How_EUV_lithography_works.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/How_EUV_lithography_works.webm/How_EUV_lithography_works.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/How_EUV_lithography_works.webm/How_EUV_lithography_works.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7e/How_EUV_lithography_works.webm/How_EUV_lithography_works.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/How_EUV_lithography_works.webm/960px--How_EUV_lithography_works.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 96.5,
+    "credit": "IBM Research, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "IBM Research",
+    "author_url": ""
+   }
+  ],
+  "sector": "sector-tech"
+ },
+ "ASTS": {
+  "kind": "company",
+  "name": "AST SpaceMobile",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-communication"
+ },
+ "AZN": {
+  "kind": "company",
+  "name": "AstraZeneca",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "T": {
+  "kind": "company",
+  "name": "AT&T",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-communication"
+ },
+ "TEAM": {
+  "kind": "company",
+  "name": "Atlassian",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "ATO": {
+  "kind": "company",
+  "name": "Atmos Energy",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-utilities"
+ },
+ "ADSK": {
+  "kind": "company",
+  "name": "Autodesk",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "AZO": {
+  "kind": "company",
+  "name": "AutoZone",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "AVY": {
+  "kind": "company",
+  "name": "Avery Dennison",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-materials"
+ },
+ "AXON": {
+  "kind": "company",
+  "name": "Axon Enterprise",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "taser",
+    "shows": "Officers Shoot Suspect Charging with Knife After Failed Taser Deployment",
+    "file": "File:Officers Shoot Suspect Charging with Knife After Failed Taser Deployment.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm/Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm/Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fe/Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm/Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm/960px--Officers_Shoot_Suspect_Charging_with_Knife_After_Failed_Taser_Deployment.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 98.3,
+    "credit": "JSO, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "JSO",
+    "author_url": ""
+   },
+   {
+    "shot": "taser",
+    "shows": "Jacksonville Officer Uses Taser on Shoplifting Suspect",
+    "file": "File:Jacksonville Officer Uses Taser on Shoplifting Suspect.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm/Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm/Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1e/Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm/Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm/960px--Jacksonville_Officer_Uses_Taser_on_Shoplifting_Suspect.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 152.4,
+    "credit": "Jacksonville Sheriff's Office, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Jacksonville Sheriff's Office",
+    "author_url": ""
+   },
+   {
+    "shot": "taser",
+    "shows": "Bodycam Shows Deputies Use Taser To Arrest Florida Highway Shooting Suspect",
+    "file": "File:Bodycam Shows Deputies Use Taser To Arrest Florida Highway Shooting Suspect.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm/Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm/Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c5/Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm/Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm/960px--Bodycam_Shows_Deputies_Use_Taser_To_Arrest_Florida_Highway_Shooting_Suspect.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 85.1,
+    "credit": "SCSO, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "SCSO",
+    "author_url": ""
+   }
+  ],
+  "sector": "sector-industrials"
+ },
+ "BIDU": {
+  "kind": "company",
+  "name": "Baidu",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-communication"
+ },
+ "BKR": {
+  "kind": "company",
+  "name": "Baker Hughes",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-energy"
+ },
+ "BAC": {
+  "kind": "company",
+  "name": "Bank of America",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "BDX": {
+  "kind": "company",
+  "name": "Becton Dickinson",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "BRK-B": {
+  "kind": "company",
+  "name": "Berkshire Hathaway",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "bnsf",
+    "shows": "5- 6-2019 01-24 sb tanks triple BNSF K train",
+    "file": "File:5- 6-2019 01-24 sb tanks triple BNSF K train.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm/5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm/5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm/5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm/960px--5-_6-2019_01-24_sb_tanks_triple_BNSF_K_train.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 33.2,
+    "credit": "BigTrainsTV, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "BigTrainsTV",
+    "author_url": ""
+   },
+   {
+    "shot": "bnsf",
+    "shows": "BNSF Intermodal Passes Great Plains transportation museum (HD)",
+    "file": "File:BNSF Intermodal Passes Great Plains transportation museum (HD).webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:BNSF_Intermodal_Passes_Great_Plains_transportation_museum_(HD).webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/BNSF_Intermodal_Passes_Great_Plains_transportation_museum_%28HD%29.webm/BNSF_Intermodal_Passes_Great_Plains_transportation_museum_%28HD%29.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/BNSF_Intermodal_Passes_Great_Plains_transportation_museum_%28HD%29.webm/BNSF_Intermodal_Passes_Great_Plains_transportation_museum_%28HD%29.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b8/BNSF_Intermodal_Passes_Great_Plains_transportation_museum_%28HD%29.webm/BNSF_Intermodal_Passes_Great_Plains_transportation_museum_%28HD%29.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/BNSF_Intermodal_Passes_Great_Plains_transportation_museum_%28HD%29.webm/960px--BNSF_Intermodal_Passes_Great_Plains_transportation_museum_%28HD%29.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 173.3,
+    "credit": "Matt Reeves, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "Matt Reeves",
+    "author_url": ""
+   },
+   {
+    "shot": "bnsf",
+    "shows": "Chicago Hochbahn Green Line City Metro CTA, S-Bahn Metra Mount Prospect und Güterzug BNSF EMD F40PH",
+    "file": "File:Chicago Hochbahn Green Line City Metro CTA, S-Bahn Metra Mount Prospect und Güterzug BNSF EMD F40PH.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Chicago_Hochbahn_Green_Line_City_Metro_CTA,_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/Chicago_Hochbahn_Green_Line_City_Metro_CTA%2C_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm/Chicago_Hochbahn_Green_Line_City_Metro_CTA%2C_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/Chicago_Hochbahn_Green_Line_City_Metro_CTA%2C_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm/Chicago_Hochbahn_Green_Line_City_Metro_CTA%2C_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/Chicago_Hochbahn_Green_Line_City_Metro_CTA%2C_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm/Chicago_Hochbahn_Green_Line_City_Metro_CTA%2C_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Chicago_Hochbahn_Green_Line_City_Metro_CTA%2C_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm/960px--Chicago_Hochbahn_Green_Line_City_Metro_CTA%2C_S-Bahn_Metra_Mount_Prospect_und_G%C3%BCterzug_BNSF_EMD_F40PH.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 171.8,
+    "credit": "ASOLTEC, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "ASOLTEC",
+    "author_url": ""
+   }
+  ],
+  "sector": "sector-financials"
+ },
+ "BBY": {
+  "kind": "company",
+  "name": "Best Buy",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "BHP": {
+  "kind": "company",
+  "name": "BHP",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-materials"
+ },
+ "TECH": {
+  "kind": "company",
+  "name": "Bio-Techne",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "BNTX": {
+  "kind": "company",
+  "name": "BioNTech",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "biontech",
+    "shows": "Anvisa aprova registro definitivo da vacina da Pfizer-BioNTech",
+    "file": "File:Anvisa aprova registro definitivo da vacina da Pfizer-BioNTech.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm/Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm/Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm/Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm/960px--Anvisa_aprova_registro_definitivo_da_vacina_da_Pfizer-BioNTech.webm.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 106.2,
+    "credit": "TV BrasilGov, CC BY 3.0, via Wikimedia Commons",
+    "licence": "CC BY 3.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/3.0",
+    "author": "TV BrasilGov",
+    "author_url": ""
+   }
+  ],
+  "sector": "sector-health"
+ },
+ "BIRK": {
+  "kind": "company",
+  "name": "Birkenstock",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "BLK": {
+  "kind": "company",
+  "name": "BlackRock",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "XYZ": {
+  "kind": "company",
+  "name": "Block, Inc.",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "BE": {
+  "kind": "company",
+  "name": "Bloom Energy",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-industrials"
+ },
+ "BA": {
+  "kind": "company",
+  "name": "Boeing",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "boeing-737",
+    "shows": "engine, airplane, aircraft, motor, rotate engine, boeing, boeing737, 737, aviation, airlines",
+    "file": "pixabay-video:144323",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-144323/",
+    "url": "https://cdn.pixabay.com/video/2022/12/26/144323-784384603_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2022/12/26/144323-784384603_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2022/12/26/144323-784384603_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2022/12/26/144323-784384603_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 15.0,
+    "credit": "Video by allser on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "allser",
+    "author_url": "https://pixabay.com/users/allser-7791039/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "boeing-787",
+    "shows": "airplane, passenger plane, aircraft, take off, flight, trip, sky, cloud, japan, boeing 787",
+    "file": "pixabay-video:228563",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-228563/",
+    "url": "https://cdn.pixabay.com/video/2024/08/28/228563_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2024/08/28/228563_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2024/08/28/228563_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2024/08/28/228563_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 25.0,
+    "credit": "Video by Kanenori on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Kanenori",
+    "author_url": "https://pixabay.com/users/Kanenori-4749850/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "boeing",
+    "shows": "modelling, miniature, f18, great hornet, plane, jet, handcraft, hobby, plastic, air force, hands, paint brush, airbrush, boeing, time lapse, timelapse",
+    "file": "pixabay-video:136870",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-136870/",
+    "url": "https://cdn.pixabay.com/video/2022/10/28/136870-765145304_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2022/10/28/136870-765145304_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2022/10/28/136870-765145304_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2022/10/28/136870-765145304_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 24.0,
+    "credit": "Video by Matias_Luge on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Matias_Luge",
+    "author_url": "https://pixabay.com/users/Matias_Luge-4388604/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "boeing",
+    "shows": "airport, planes, departure, traffic, runway, rush hour, stuttgart, traffic volume, airliner, passenger aircraft, aircraft, airbus, boeing, airline, air traffic",
+    "file": "pixabay-video:47339",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-47339/",
+    "url": "https://cdn.pixabay.com/video/2020/08/16/47339-451297052_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2020/08/16/47339-451297052_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2020/08/16/47339-451297052_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2020/08/16/47339-451297052_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 44.0,
+    "credit": "Video by mariohagen on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "mariohagen",
+    "author_url": "https://pixabay.com/users/mariohagen-17468991/",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "boeing-737",
+    "shows": "Flughafen BER Andocken Fluggastbrücke Boeing 737-800 Turkish Airlines",
+    "file": "File:Flughafen BER 20260623 Andocken Fluggastbrücke Boeing 737-800 Turkish Airlines.webm",
+    "provider": "commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm/Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm.1080p.vp9.webm",
+    "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm/Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm.1080p.vp9.webm",
+    "preview_mp4": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c3/Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm/Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm.480p.vp9.webm",
+    "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm/960px--Flughafen_BER_20260623_Andocken_Fluggastbr%C3%BCcke_Boeing_737-800_Turkish_Airlines.webm.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 33.0,
+    "credit": "NutzerAusBerlin, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "NutzerAusBerlin",
+    "author_url": "",
+    "vertical_crop_ok": true
+   },
+   {
+    "shot": "boeing-787",
+    "shows": "aircraft, aeroplane, flight, flying, boeing, lufthansa, boeing 747, 747, b747",
+    "file": "pixabay-video:204453",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-204453/",
+    "url": "https://cdn.pixabay.com/video/2024/03/17/204453-924763685_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2024/03/17/204453-924763685_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2024/03/17/204453-924763685_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2024/03/17/204453-924763685_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 19.0,
+    "credit": "Video by phlyingdoctor on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "phlyingdoctor",
+    "author_url": "https://pixabay.com/users/phlyingdoctor-36734661/",
+    "vertical_crop_ok": true
+   }
+  ],
+  "sector": "sector-industrials"
+ },
+ "BKNG": {
+  "kind": "company",
+  "name": "Booking Holdings",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "BSX": {
+  "kind": "company",
+  "name": "Boston Scientific",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "BP": {
+  "kind": "company",
+  "name": "BP",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-energy"
+ },
+ "BMY": {
+  "kind": "company",
+  "name": "Bristol Myers Squibb",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "AVGO": {
+  "kind": "company",
+  "name": "Broadcom",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "BRO": {
+  "kind": "company",
+  "name": "Brown & Brown",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "BF-B": {
+  "kind": "company",
+  "name": "Brown–Forman",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-staples"
+ },
+ "BXP": {
+  "kind": "company",
+  "name": "BXP, Inc.",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-real-estate"
+ },
+ "AI": {
+  "kind": "company",
+  "name": "C3.ai",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "CCJ": {
+  "kind": "company",
+  "name": "Cameco",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-energy"
+ },
+ "COF": {
+  "kind": "company",
+  "name": "Capital One",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "CCL": {
+  "kind": "company",
+  "name": "Carnival Corporation",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "CARR": {
+  "kind": "company",
+  "name": "Carrier Global",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-industrials"
+ },
+ "CVNA": {
+  "kind": "company",
+  "name": "Carvana",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "CASY": {
+  "kind": "company",
+  "name": "Casey's",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-staples"
+ },
+ "CAT": {
+  "kind": "company",
+  "name": "Caterpillar Inc.",
+  "target": 10,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-industrials"
+ },
+ "CAVA": {
+  "kind": "company",
+  "name": "Cava",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [
+   {
+    "shot": "cava-restaurant",
+    "shows": "gonepteryx rhamni, butterfly, butterflies, insect, larksporn, hollow larksporn, corydalis cava, hollow bulbous lark spur, shaggy pants, corydalis, poppy plant, papaveraceae",
+    "file": "pixabay-video:35440",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-35440/",
+    "url": "https://cdn.pixabay.com/video/2020/04/08/35440-406021892_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2020/04/08/35440-406021892_small.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2020/04/08/35440-406021892_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2020/04/08/35440-406021892_medium.jpg",
+    "size": [
+     3840,
+     2160
+    ],
+    "orientation": "horizontal",
+    "duration": 19.0,
+    "credit": "Video by Hans on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "Hans",
+    "author_url": "https://pixabay.com/users/Hans-2/",
+    "vertical_crop_ok": true
+   }
+  ],
+  "sector": "sector-consumer-discretionary"
+ },
+ "CBOE": {
+  "kind": "company",
+  "name": "Cboe Global Markets",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "CBRE": {
+  "kind": "company",
+  "name": "CBRE Group",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-real-estate"
+ },
+ "CELH": {
+  "kind": "company",
+  "name": "Celsius",
+  "target": 5,
+  "checked": "2026-11-20",
+  "videos": [],
+  "sector": "sector-staples"
  }
 }
