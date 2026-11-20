@@ -9,7 +9,7 @@
   "A subject with few or no clips: use its photos (bank/index.json) instead."
  ],
  "updated": "2026-11-20",
- "videos": 389,
+ "videos": 393,
  "subjects": [
   {
    "id": "fed",
@@ -733,7 +733,7 @@
    "id": "AAPL",
    "kind": "company",
    "name": "Apple Inc.",
-   "videos": 2,
+   "videos": 3,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/AAPL.json",
@@ -3725,7 +3725,7 @@
    "id": "NVDA",
    "kind": "company",
    "name": "Nvidia",
-   "videos": 1,
+   "videos": 2,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/NVDA.json",
@@ -4605,7 +4605,7 @@
    "id": "SPCX",
    "kind": "company",
    "name": "SpaceX",
-   "videos": 3,
+   "videos": 5,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/SPCX.json",

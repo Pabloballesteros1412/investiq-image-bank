@@ -498,6 +498,26 @@ Decisions (Pablo, 4 Nov 2026):
   recording studios, "trader" -> a market seller in Lagos, "atom" -> starfields. Pixabay has little more to give for
   these: EVs and quantum need another source (Pexels, if it issues keys again). Videos never mix into `bank/index.json`.
 
+- **Companies** (20 Nov, Pablo: "ahora mete vídeos para las empresas"): `videos.py build --kind company`. Only the
+  companies with `brands.json` terms (457), since stock footage is tagged with brands, not company names; up to 8
+  terms searched each on Pixabay and Commons (NASA leaves providers' footage out). A clip counts only if its tags (Commons:
+  file name) name a brand term or the full name: not the short name, since tags are single words ("Arm" -> arms).
+  Target `COMPANY_TARGET` 5, `FAMOUS_TARGET` 10 for the famous ones (my proposal, not Pablo's: change if he asks). The
+  index gives every company `sector` and, below target, `fill_from` = its sector; a rule tells the chat a company clip
+  shows its brand as the uploader tagged it, never as the company's own footage or an advert. One build plus a refill
+  from the cache, every pick graded by eye: 280 picks (Pixabay 118, Commons 128 in the first pass), **40 published in
+  25 companies** (SpaceX 5; Apple, Microsoft, Disney 3; Nvidia, Google, Boeing, Dell, Las Vegas Sands 2; 16 with 1);
+  432 companies have none. Pixabay tags brand words loosely: "amazon" -> rainforests, parrots, piranhas; "shell" ->
+  snails and turtles; "on" -> anything; "zoom" -> the Moon; "hilton" -> Hilton Head beaches; "napa" -> Napa Valley;
+  "ford" -> rivers; "sony" -> any clip shot on a Sony camera. Commons brings news, bodycam footage ("Taser", "Apple
+  Watch robbery"), politicians (Biden at Costco, a DoorDash order at the White House), adverts and trailers, unboxings
+  with overlays: nearly all rejected. Good ones: Falcon 9 launches, a GeForce RTX card on a turntable, Dell laptops in
+  360°, Xbox controllers, MacBooks, Boeing 787/747 in flight, Delta and United jets, a Coca-Cola bottle, Marina Bay
+  Sands, Disney castles, Monopoly. Bank: **393 clips** (topics and sectors 353, companies 40).
+- Next for company videos: Pixabay has little more; brand terms that are also common words (Amazon, Shell, On, Zoom,
+  Hilton, NAPA, Ford, Sony, Target) need a product word for video searches (a `video_terms` list per company would keep
+  `brands.json` the photos'). Another source with brand footage would help most (Pexels, if it issues keys again).
+
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
    terms fixed after their first search (Abbott, Cisco, Casey's, Chipotle, McCormick, On, P&G, Qualcomm, Roku)
