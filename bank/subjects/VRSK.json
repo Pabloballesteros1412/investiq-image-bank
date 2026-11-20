@@ -8,5 +8,23 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Verisk Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Verisk_Headquarters.jpg/1280px-Verisk_Headquarters.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Verisk_Headquarters.jpg/500px-Verisk_Headquarters.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tsah8167, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Verisk_Headquarters.jpg"
+  }
+ ]
 }

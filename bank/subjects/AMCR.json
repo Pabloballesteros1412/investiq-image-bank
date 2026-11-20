@@ -10,6 +10,23 @@
  "fill_from": "sector-materials",
  "photos": [
   {
+   "shows": "Parafilm Products",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Parafilm_Products.jpg/1920px-Parafilm_Products.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Parafilm_Products.jpg/500px-Parafilm_Products.jpg",
+   "size": [
+    1920,
+    1868
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MWMcCarney, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Parafilm_Products.jpg"
+  },
+  {
    "shows": "Amcor Flexibles Kreuzlingen AG",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amcor_Flexibles_Kreuzlingen_AG.jpg/1280px-Amcor_Flexibles_Kreuzlingen_AG.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Amcor_Flexibles_Kreuzlingen_AG.jpg/500px-Amcor_Flexibles_Kreuzlingen_AG.jpg",
@@ -43,6 +60,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Tor_S%C3%BCd_Amcor_Flexibles_Kreuzlingen_AG.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Bemis Company Seattle Division building Seattle Washington",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bemis_Company_Seattle_Division_building_Seattle_Washington.jpg/1920px-Bemis_Company_Seattle_Division_building_Seattle_Washington.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bemis_Company_Seattle_Division_building_Seattle_Washington.jpg/500px-Bemis_Company_Seattle_Division_building_Seattle_Washington.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Guywelch2000, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Bemis_Company_Seattle_Division_building_Seattle_Washington.jpg",
    "plain": true
   }
  ]

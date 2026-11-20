@@ -8,5 +8,24 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Northwood - Firth Rixson Forgings - office block - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg/500px-Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dave Bevis, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg",
+   "plain": true
+  }
+ ]
 }

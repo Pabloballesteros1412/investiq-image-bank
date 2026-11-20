@@ -10,6 +10,43 @@
  "fill_from": "sector-materials",
  "photos": [
   {
+   "shows": "Ash Grove Cement Compay Chanute, KS plant.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/1920px-ChanutePlant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/500px-ChanutePlant.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ashgrovecement, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ChanutePlant.jpg"
+  },
+  {
+   "shows": "Ash Grove Cement Co. · 2012, building, flare, industrial, lens",
+   "url": "https://live.staticflickr.com/8176/7920047286_3a84b8a03e_b.jpg",
+   "preview": "https://live.staticflickr.com/8176/7920047286_3a84b8a03e_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Graf Spee on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/30901506@N06",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/30901506@N06/7920047286",
+   "plain": true
+  },
+  {
    "shows": "Kies- und Betonwerk Risi (Jura, CRH)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kies-_und_Betonwerk_Risi_%28Jura%2C_CRH%29.jpg/1920px-Kies-_und_Betonwerk_Risi_%28Jura%2C_CRH%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kies-_und_Betonwerk_Risi_%28Jura%2C_CRH%29.jpg/500px-Kies-_und_Betonwerk_Risi_%28Jura%2C_CRH%29.jpg",
@@ -61,6 +98,60 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:CRH_Concrete_Plant,_silos,_2017_R%C3%A1kospalota.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dalmahoy Hill and Tarmac Quarry buildings - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dalmahoy_Hill_and_Tarmac_Quarry_buildings_-_geograph.org.uk_-_2393590.jpg/1920px-Dalmahoy_Hill_and_Tarmac_Quarry_buildings_-_geograph.org.uk_-_2393590.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dalmahoy_Hill_and_Tarmac_Quarry_buildings_-_geograph.org.uk_-_2393590.jpg/500px-Dalmahoy_Hill_and_Tarmac_Quarry_buildings_-_geograph.org.uk_-_2393590.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "M J Richardson, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dalmahoy_Hill_and_Tarmac_Quarry_buildings_-_geograph.org.uk_-_2393590.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ash Grove Cement from Harbor Island 03",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ash_Grove_Cement_from_Harbor_Island_03.jpg/1920px-Ash_Grove_Cement_from_Harbor_Island_03.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ash_Grove_Cement_from_Harbor_Island_03.jpg/500px-Ash_Grove_Cement_from_Harbor_Island_03.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ash_Grove_Cement_from_Harbor_Island_03.jpg",
+   "plain": true
+  },
+  {
+   "shows": "CRH plc: Ash Grove Cement",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SumtervilleFLAshGrove.jpg/1920px-SumtervilleFLAshGrove.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/SumtervilleFLAshGrove.jpg/500px-SumtervilleFLAshGrove.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Drifty2378, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SumtervilleFLAshGrove.jpg",
    "plain": true
   }
  ]

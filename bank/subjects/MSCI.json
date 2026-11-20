@@ -8,5 +8,119 @@
  "sector": "sector-financials",
  "target": 10,
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "7 World Trade Center by David Shankbone",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/7_World_Trade_Center_by_David_Shankbone.jpg/1280px-7_World_Trade_Center_by_David_Shankbone.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/7_World_Trade_Center_by_David_Shankbone.jpg/500px-7_World_Trade_Center_by_David_Shankbone.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "David Shankbone, CC BY 2.5, via Wikimedia Commons",
+   "licence": "CC BY 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:7_World_Trade_Center_by_David_Shankbone.jpg"
+  },
+  {
+   "shows": "7 World Trade Center from 3WTC ( )",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/7_World_Trade_Center_from_3WTC_%28cropped%29.jpg/1280px-7_World_Trade_Center_from_3WTC_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/7_World_Trade_Center_from_3WTC_%28cropped%29.jpg/500px-7_World_Trade_Center_from_3WTC_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1843
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "wctaiwan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:7_World_Trade_Center_from_3WTC_(cropped).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Looking northwest at newly rebuilt 7 World Trade Center. 90 Church Street Post Office on right; Verizon Building on left.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wtc7-2006-0911.jpg/1280px-Wtc7-2006-0911.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wtc7-2006-0911.jpg/500px-Wtc7-2006-0911.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aude, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wtc7-2006-0911.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Lookup up at 7 World Trade Center from West Broadway",
+   "url": "https://live.staticflickr.com/3207/2539249436_bb3e0983fc_b.jpg",
+   "preview": "https://live.staticflickr.com/3207/2539249436_bb3e0983fc_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by chrisinphilly5448 on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/21545100@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/21545100@N00/2539249436",
+   "plain": true
+  },
+  {
+   "shows": "Rebuilt 7 World Trade Center tower (on the left)",
+   "url": "https://live.staticflickr.com/3130/2738698709_f021ccd697_b.jpg",
+   "preview": "https://live.staticflickr.com/3130/2738698709_f021ccd697_z.jpg",
+   "size": [
+    768,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by mbtrama on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/61412218@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/61412218@N00/2738698709",
+   "plain": true
+  },
+  {
+   "shows": "7 World Trade Center",
+   "url": "https://live.staticflickr.com/3075/2490555177_5fc33689a2_b.jpg",
+   "preview": "https://live.staticflickr.com/3075/2490555177_5fc33689a2_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by urrrric on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/23584657@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/23584657@N08/2490555177",
+   "plain": true
+  }
+ ]
 }

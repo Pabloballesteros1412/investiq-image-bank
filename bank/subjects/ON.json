@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Onsemi office in Sunnyvale, CA",
@@ -171,6 +170,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/128772740@N08/15816571001",
+   "plain": true
+  },
+  {
+   "shows": "MMBT2222A-OnSemi-HD",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/MMBT2222A-OnSemi-HD.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/MMBT2222A-OnSemi-HD.jpg/500px-MMBT2222A-OnSemi-HD.jpg",
+   "size": [
+    1689,
+    1686
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ZeptoBars, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MMBT2222A-OnSemi-HD.jpg",
    "plain": true
   }
  ]
