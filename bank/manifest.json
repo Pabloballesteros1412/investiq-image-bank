@@ -11737,10 +11737,10 @@
    "APA"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "APO": {
   "name": "Apollo Global Management",
@@ -18582,10 +18582,10 @@
    "TECH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "BIIB": {
   "name": "Biogen",
@@ -22742,10 +22742,10 @@
    "BRO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "BF-B": {
   "name": "Brown–Forman",
@@ -29947,35 +29947,10 @@
    "CINF"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [
-   {
-    "shot": "c1",
-    "shows": "The Cincinnati Enquirer page C-6",
-    "file": "File:The Cincinnati Enquirer 1981-04-07 page C-6.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg/1280px-The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg/500px-The_Cincinnati_Enquirer_1981-04-07_page_C-6.jpg",
-    "size": [
-     1280,
-     2020
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The Cincinnati Enquirer, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "The Cincinnati Enquirer",
-    "year": 1981,
-    "how": "Commons category",
-    "category": "Cincinnati Financial"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "CTAS": {
   "name": "Cintas",
@@ -33429,10 +33404,10 @@
    "COHR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "COIN": {
   "name": "Coinbase",
@@ -36053,10 +36028,10 @@
    "CPAY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "CSGP": {
   "name": "CoStar Group",
@@ -44187,10 +44162,10 @@
    "DOV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "DOW": {
   "name": "Dow Inc.",
@@ -46612,10 +46587,10 @@
    "EME"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "EMR": {
   "name": "Emerson Electric",
@@ -47164,10 +47139,65 @@
    "EQT"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "EQT Plaza, Liberty Avenue, Pittsburgh, PA",
+    "file": "flickr:53605984182",
+    "page": "https://www.flickr.com/photos/59081381@N03/53605984182",
+    "url": "https://live.staticflickr.com/65535/53605984182_1b32b25d5b_b.jpg",
+    "preview": "https://live.staticflickr.com/65535/53605984182_1b32b25d5b_z.jpg",
+    "size": [
+     768,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by w_lemay on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "w_lemay",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/59081381@N03",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "EQT Plaza, Liberty Avenue, 2015-04-23",
+    "file": "flickr:17073111999",
+    "page": "https://www.flickr.com/photos/62947588@N06/17073111999",
+    "url": "https://live.staticflickr.com/7646/17073111999_e4fb72e0b7_b.jpg",
+    "preview": "https://live.staticflickr.com/7646/17073111999_e4fb72e0b7_z.jpg",
+    "size": [
+     370,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dr. Boli on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Dr. Boli",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/62947588@N06",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "EFX": {
   "name": "Equifax",
@@ -47937,10 +47967,10 @@
    "EG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "EVRG": {
   "name": "Evergy",
@@ -48035,10 +48065,10 @@
    "P"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-19"
  },
  "ES": {
   "name": "Eversource Energy",
@@ -58430,10 +58460,92 @@
    "GPN"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Muscogee / Fieldcrest Mill - TSYS Campus and Mott House",
+    "file": "flickr:5302708163",
+    "page": "https://www.flickr.com/photos/42167888@N08/5302708163",
+    "url": "https://live.staticflickr.com/5087/5302708163_bcff745fe9_b.jpg",
+    "preview": "https://live.staticflickr.com/5087/5302708163_bcff745fe9_z.jpg",
+    "size": [
+     1024,
+     683
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Keith Milligan on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Keith Milligan",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/42167888@N08",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "TSYS (15)",
+    "file": "flickr:32483450468",
+    "page": "https://www.flickr.com/photos/146876746@N05/32483450468",
+    "url": "https://live.staticflickr.com/4836/32483450468_24559c3789_b.jpg",
+    "preview": "https://live.staticflickr.com/4836/32483450468_24559c3789_z.jpg",
+    "size": [
+     1024,
+     678
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tiarnán Millar on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Tiarnán Millar",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/146876746@N05",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "TSYS (12)",
+    "file": "flickr:45632376444",
+    "page": "https://www.flickr.com/photos/146876746@N05/45632376444",
+    "url": "https://live.staticflickr.com/4840/45632376444_248226358d_b.jpg",
+    "preview": "https://live.staticflickr.com/4840/45632376444_248226358d_z.jpg",
+    "size": [
+     1024,
+     678
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Tiarnán Millar on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Tiarnán Millar",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/146876746@N05",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "GL": {
   "name": "Globe Life",
@@ -58442,34 +58554,10 @@
    "GL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "Globe Life Field view from center field",
-    "file": "File:Globe Life Field view from center field.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Globe_Life_Field_view_from_center_field.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Globe_Life_Field_view_from_center_field.jpg/1920px-Globe_Life_Field_view_from_center_field.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Globe_Life_Field_view_from_center_field.jpg/500px-Globe_Life_Field_view_from_center_field.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BullDawg2021, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "BullDawg2021",
-    "year": 2025,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-20"
  },
  "GDDY": {
   "name": "GoDaddy",
@@ -65751,10 +65839,103 @@
    "IEX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Hale Ferrara pump panel",
+    "file": "File:Hale Ferrara pump panel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hale_Ferrara_pump_panel.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hale_Ferrara_pump_panel.jpg/1280px-Hale_Ferrara_pump_panel.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hale_Ferrara_pump_panel.jpg/500px-Hale_Ferrara_pump_panel.jpg",
+    "size": [
+     1280,
+     2133
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Reise Reise, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Reise Reise",
+    "year": 2010,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Corpo de Bombeiros Militar do Distrito Federal",
+    "file": "File:CBMDF (9027212934).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CBMDF_(9027212934).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CBMDF_%289027212934%29.jpg/1280px-CBMDF_%289027212934%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/CBMDF_%289027212934%29.jpg/500px-CBMDF_%289027212934%29.jpg",
+    "size": [
+     1280,
+     1920
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "André Gustavo Stumpf from Brasil, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "André Gustavo Stumpf from Brasil",
+    "year": 2013,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Kme hapeville engine one (controls)",
+    "file": "File:Kme hapeville engine one (controls).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kme_hapeville_engine_one_(controls).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kme_hapeville_engine_one_%28controls%29.jpg/1280px-Kme_hapeville_engine_one_%28controls%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kme_hapeville_engine_one_%28controls%29.jpg/500px-Kme_hapeville_engine_one_%28controls%29.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Rjluna2, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Rjluna2",
+    "year": 2016,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "2000 spartan gladiator quality (control)",
+    "file": "File:2000 spartan gladiator quality (control).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2000_spartan_gladiator_quality_(control).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2000_spartan_gladiator_quality_%28control%29.jpg/1280px-2000_spartan_gladiator_quality_%28control%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2000_spartan_gladiator_quality_%28control%29.jpg/500px-2000_spartan_gladiator_quality_%28control%29.jpg",
+    "size": [
+     1280,
+     1707
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Rjluna2, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Rjluna2",
+    "year": 2016,
+    "how": "hand-picked"
+   }
+  ],
+  "checked": "2026-11-20"
  },
  "IDXX": {
   "name": "Idexx Laboratories",
@@ -98009,7 +98190,77 @@
   "aliases": [],
   "target": 10,
   "sector": "sector-energy",
-  "photos": [],
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "OxyChem, Taft Plant, Louisiana",
+    "file": "File:OxyChem, Taft Plant, Louisiana.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:OxyChem,_Taft_Plant,_Louisiana.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OxyChem%2C_Taft_Plant%2C_Louisiana.jpg/1920px-OxyChem%2C_Taft_Plant%2C_Louisiana.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OxyChem%2C_Taft_Plant%2C_Louisiana.jpg/500px-OxyChem%2C_Taft_Plant%2C_Louisiana.jpg",
+    "size": [
+     1920,
+     1281
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Chad Davis, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Chad Davis",
+    "year": 2019,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Occidental Chemical Corporation Aerial - Wichita",
+    "file": "File:Occidental Chemical Corporation Aerial - Wichita (50902494042).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Occidental_Chemical_Corporation_Aerial_-_Wichita_(50902494042).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg/1920px-Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg/500px-Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "formulanone, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "formulanone",
+    "year": 2016,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Anadarko Petroleum Corp, The Woodlands TX",
+    "file": "File:Anadarko Petroleum Corp, The Woodlands TX.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Anadarko_Petroleum_Corp,_The_Woodlands_TX.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg/1920px-Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg/500px-Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Philip G Coman, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Philip G Coman",
+    "year": 2017,
+    "how": "hand-picked"
+   }
+  ],
   "checked": "2026-11-19"
  },
  "OKLO": {
@@ -110591,10 +110842,10 @@
    "ROP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "ROST": {
   "name": "Ross Stores",
@@ -113878,34 +114129,10 @@
    "SBAC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "SBA Communications tower, former Dakota Ridge Assembly church tower, Jefferson, Co., CO",
-    "file": "File:SBA Communications tower, former Dakota Ridge Assembly church tower, Jefferson, Co., CO 2023-09-03.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:SBA_Communications_tower,_former_Dakota_Ridge_Assembly_church_tower,_Jefferson,_Co.,_CO_2023-09-03.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/SBA_Communications_tower%2C_former_Dakota_Ridge_Assembly_church_tower%2C_Jefferson%2C_Co.%2C_CO_2023-09-03.jpg/1280px-SBA_Communications_tower%2C_former_Dakota_Ridge_Assembly_church_tower%2C_Jefferson%2C_Co.%2C_CO_2023-09-03.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/SBA_Communications_tower%2C_former_Dakota_Ridge_Assembly_church_tower%2C_Jefferson%2C_Co.%2C_CO_2023-09-03.jpg/500px-SBA_Communications_tower%2C_former_Dakota_Ridge_Assembly_church_tower%2C_Jefferson%2C_Co.%2C_CO_2023-09-03.jpg",
-    "size": [
-     1280,
-     2275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Xnatedawgx, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Xnatedawgx",
-    "year": 2023,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-19"
  },
  "SLB": {
   "name": "Schlumberger",
@@ -125995,10 +126222,10 @@
    "TPL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-energy",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-20"
  },
  "TXT": {
   "name": "Textron",
@@ -133397,10 +133624,280 @@
    "UHS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "The George Washington University Hospital, Washington Circle, Foggy Bottom, Washington, D.C.",
+    "file": "flickr:2716164136",
+    "page": "https://www.flickr.com/photos/75683070@N00/2716164136",
+    "url": "https://live.staticflickr.com/3077/2716164136_b3c1c2d996_b.jpg",
+    "preview": "https://live.staticflickr.com/3077/2716164136_b3c1c2d996_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Ken Lund",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/75683070@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "West Henderson Hospital",
+    "file": "File:West Henderson Hospital.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:West_Henderson_Hospital.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/West_Henderson_Hospital.jpg/1920px-West_Henderson_Hospital.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/West_Henderson_Hospital.jpg/500px-West_Henderson_Hospital.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "TheYearbookTeacher, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "TheYearbookTeacher",
+    "year": 2026,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Centennial Hills Hospital",
+    "file": "File:Centennial Hills Hospital.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Centennial_Hills_Hospital.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Centennial_Hills_Hospital.jpg/1920px-Centennial_Hills_Hospital.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Centennial_Hills_Hospital.jpg/500px-Centennial_Hills_Hospital.jpg",
+    "size": [
+     1920,
+     1474
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Bootlegbaby, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Bootlegbaby",
+    "year": null,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Texoma Medical Center March 2018",
+    "file": "File:Texoma Medical Center March 2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Texoma_Medical_Center_March_2018.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Texoma_Medical_Center_March_2018.jpg/1920px-Texoma_Medical_Center_March_2018.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Texoma_Medical_Center_March_2018.jpg/500px-Texoma_Medical_Center_March_2018.jpg",
+    "size": [
+     1920,
+     1278
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "TMC Marketing, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "TMC Marketing",
+    "year": 2018,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "George Washington University Hospital - 2012",
+    "file": "File:George Washington University Hospital - 2012.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:George_Washington_University_Hospital_-_2012.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/George_Washington_University_Hospital_-_2012.JPG/1920px-George_Washington_University_Hospital_-_2012.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/George_Washington_University_Hospital_-_2012.JPG/500px-George_Washington_University_Hospital_-_2012.JPG",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Marcus Qwertyus, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Marcus Qwertyus",
+    "year": 2012,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "George Washington University hospital Emergence Medical Service ambulance, \"GW-1\".",
+    "file": "File:GWUEMS.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:GWUEMS.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GWUEMS.JPG/1920px-GWUEMS.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GWUEMS.JPG/500px-GWUEMS.JPG",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "G0T0, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "G0T0",
+    "year": 2013,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Western side of Henderson Hospital (Nevada) on August 3, 2026",
+    "file": "File:Western side of Henderson Hospital (Nevada) on August 3, 2026.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Western_side_of_Henderson_Hospital_(Nevada)_on_August_3,_2026.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Western_side_of_Henderson_Hospital_%28Nevada%29_on_August_3%2C_2026.jpg/1920px-Western_side_of_Henderson_Hospital_%28Nevada%29_on_August_3%2C_2026.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Western_side_of_Henderson_Hospital_%28Nevada%29_on_August_3%2C_2026.jpg/500px-Western_side_of_Henderson_Hospital_%28Nevada%29_on_August_3%2C_2026.jpg",
+    "size": [
+     1920,
+     1280
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "TheYearbookTeacher, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "TheYearbookTeacher",
+    "year": 2026,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Texoma Medical Center",
+    "file": "File:Texoma Medical Center.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Texoma_Medical_Center.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Texoma_Medical_Center.jpg/1920px-Texoma_Medical_Center.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Texoma_Medical_Center.jpg/500px-Texoma_Medical_Center.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Fkbowen, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Fkbowen",
+    "year": 2016,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "George Washington University Hospital Entrance (pingnews)",
+    "file": "flickr:138005163",
+    "page": "https://www.flickr.com/photos/39735679@N00/138005163",
+    "url": "https://live.staticflickr.com/49/138005163_965e9daf0f_b.jpg",
+    "preview": "https://live.staticflickr.com/49/138005163_965e9daf0f_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by pingnews.com on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "pingnews.com",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/39735679@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "The George Washington University Hospital (Washington, D.C.)",
+    "file": "flickr:15052513828",
+    "page": "https://www.flickr.com/photos/27439865@N05/15052513828",
+    "url": "https://live.staticflickr.com/3856/15052513828_56e96f4abe_b.jpg",
+    "preview": "https://live.staticflickr.com/3856/15052513828_56e96f4abe_z.jpg",
+    "size": [
+     723,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by tgrauros on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "tgrauros",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/27439865@N05",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "George Washington University Hospital Entrance (pingnews)",
+    "file": "flickr:138005142",
+    "page": "https://www.flickr.com/photos/39735679@N00/138005142",
+    "url": "https://live.staticflickr.com/55/138005142_54ca483493_b.jpg",
+    "preview": "https://live.staticflickr.com/55/138005142_54ca483493_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by pingnews.com on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "pingnews.com",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/39735679@N00",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
+  "checked": "2026-11-20"
  },
  "VALE": {
   "name": "Vale",
@@ -134084,10 +134581,479 @@
    "VLTO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
-  "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [
+   {
+    "shot": "hand",
+    "shows": "Pantone formula guide · calibration, coated, colors, formula, guide",
+    "file": "flickr:349613923",
+    "page": "https://www.flickr.com/photos/57519914@N00/349613923",
+    "url": "https://live.staticflickr.com/136/349613923_f836eb6248_b.jpg",
+    "preview": "https://live.staticflickr.com/136/349613923_f836eb6248_z.jpg",
+    "size": [
+     1024,
+     684
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by jepoirrier on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "jepoirrier",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/57519914@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Nuancier Pantone 2 (Cut out)",
+    "file": "File:Nuancier Pantone 2 (Cut out).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nuancier_Pantone_2_(Cut_out).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nuancier_Pantone_2_%28Cut_out%29.jpg/1920px-Nuancier_Pantone_2_%28Cut_out%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nuancier_Pantone_2_%28Cut_out%29.jpg/500px-Nuancier_Pantone_2_%28Cut_out%29.jpg",
+    "size": [
+     1920,
+     1044
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "author": "Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen",
+    "year": 2015,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "b1",
+    "shows": "A glass of green paint next to some cards",
+    "file": "unsplash:IqAi-WdcbUw",
+    "page": "https://unsplash.com/photos/a-glass-of-green-paint-next-to-some-cards-IqAi-WdcbUw?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1635536816492-9a6fb49354d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1635536816492-9a6fb49354d3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1200,
+     1843
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Noemí Jiménez on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Noemí Jiménez",
+    "year": 2021,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@noemiji?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/IqAi-WdcbUw/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Mnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA"
+   },
+   {
+    "shot": "b2",
+    "shows": "Entity wapuu pictured with Pantone color card, taken in (2022), during sample development.",
+    "file": "wordpress:24292",
+    "page": "https://wordpress.org/photos/photo/863640487b/",
+    "url": "https://pd.w.org/2023/03/863640487bb9cfac7.98874168-2048x1536.jpg",
+    "preview": "https://pd.w.org/2023/03/863640487bb9cfac7.98874168-768x576.jpg",
+    "size": [
+     2048,
+     1536
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Wapuu.com on WordPress.org Photos, CC0",
+    "licence": "CC0 1.0",
+    "licence_kind": "cc0",
+    "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "author": "Wapuu.com",
+    "year": 2023,
+    "how": "wordpress search: Pantone",
+    "provider": "wordpress",
+    "author_url": "https://wordpress.org/photos/author/wapuu/"
+   },
+   {
+    "shot": "b3",
+    "shows": "A fan deck of colorful paper swatches arranged in a spectrum on a surface",
+    "file": "unsplash:PtabTe6iJ_8",
+    "page": "https://unsplash.com/photos/color-fan-deck-with-paper-swatches-PtabTe6iJ_8?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581079289196-67865ea83118?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581079289196-67865ea83118?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2246,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mika Baumeister on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mika Baumeister",
+    "year": 2020,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/PtabTe6iJ_8/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA"
+   },
+   {
+    "shot": "b4",
+    "shows": "Blue white and red paper",
+    "file": "unsplash:_Xesb_PEygM",
+    "page": "https://unsplash.com/photos/blue-white-and-red-paper-_Xesb_PEygM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1581079288371-ea1d68ec6105?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=1304&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1581079288371-ea1d68ec6105?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1304,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mika Baumeister on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mika Baumeister",
+    "year": 2020,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@kommumikation?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_Xesb_PEygM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8M3x8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA"
+   },
+   {
+    "shot": "b5",
+    "shows": "Blue and black rectangular frame",
+    "file": "unsplash:zeKekb76k-s",
+    "page": "https://unsplash.com/photos/blue-and-black-rectangular-frame-zeKekb76k-s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1580307028391-8051f48e159d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1580307028391-8051f48e159d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dee on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dee",
+    "year": 2020,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@copperandwild?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/zeKekb76k-s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8UGFudG9uZXxlbnwxfHx8fDE3OTUxMjM2MTV8MA"
+   },
+   {
+    "shot": "b6",
+    "shows": "A pantone color swatch with a white background",
+    "file": "unsplash:5Hl03JE699s",
+    "page": "https://unsplash.com/photos/a-pantone-color-swatch-with-a-white-background-5Hl03JE699s?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1723220217548-169d91fd1ba3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1723220217548-169d91fd1ba3?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Fiona Murray-deGraaff on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Fiona Murray-deGraaff",
+    "year": 2024,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fionamurrayphoto?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/5Hl03JE699s/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA"
+   },
+   {
+    "shot": "b7",
+    "shows": "A stack of pantone papers sitting on top of a yellow table",
+    "file": "unsplash:x5fjOL3kums",
+    "page": "https://unsplash.com/photos/a-stack-of-pantone-papers-sitting-on-top-of-a-yellow-table-x5fjOL3kums?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1568808880686-d7f08f37ddfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=1500&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1568808880686-d7f08f37ddfc?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     1500,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Dee on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Dee",
+    "year": 2019,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@copperandwild?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/x5fjOL3kums/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA"
+   },
+   {
+    "shot": "b8",
+    "shows": "A close up of a pan of paint samples",
+    "file": "unsplash:ti1-yIZpd0U",
+    "page": "https://unsplash.com/photos/a-close-up-of-a-pan-of-paint-samples-ti1-yIZpd0U?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1677110497046-96b550bb0853?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1677110497046-96b550bb0853?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Mariah Krafft on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Mariah Krafft",
+    "year": 2023,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@mariahkrafft?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/ti1-yIZpd0U/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA"
+   },
+   {
+    "shot": "b9",
+    "shows": "A bunch of different colors of paint on a table",
+    "file": "unsplash:m4BWEyDqwCM",
+    "page": "https://unsplash.com/photos/a-bunch-of-different-colors-of-paint-on-a-table-m4BWEyDqwCM?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1739145974146-c310088417ca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1739145974146-c310088417ca?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "size": [
+     2250,
+     1500
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Bent Van Aeken on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Bent Van Aeken",
+    "year": 2025,
+    "how": "unsplash search: Pantone",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bentje?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/m4BWEyDqwCM/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fFBhbnRvbmV8ZW58MXx8fHwxNzk1MTIzNjE1fDA"
+   },
+   {
+    "shot": "hand",
+    "shows": "Plant flowers and a X-rite ColorChecker Passport",
+    "file": "File:Plant flowers and a X-rite ColorChecker Passport.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg/1920px-Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg/500px-Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg",
+    "size": [
+     1920,
+     1282
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Yuki Hayashi from TOKYO, JAPAN, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Yuki Hayashi from TOKYO, JAPAN",
+    "year": 2014,
+    "how": "hand-picked"
+   },
+   {
+    "shot": "hand",
+    "shows": "Dopplr in Pantone mugs · dopplr, mugs, pantone, siliconroundabout",
+    "file": "flickr:2695780190",
+    "page": "https://www.flickr.com/photos/51035707449@N01/2695780190",
+    "url": "https://live.staticflickr.com/3162/2695780190_67b17cdc58_b.jpg",
+    "preview": "https://live.staticflickr.com/3162/2695780190_67b17cdc58_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Matt Biddulph on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "Matt Biddulph",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/51035707449@N01",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Pantone handbags window display",
+    "file": "flickr:416645229",
+    "page": "https://www.flickr.com/photos/84195101@N00/416645229",
+    "url": "https://live.staticflickr.com/131/416645229_24e549245e_b.jpg",
+    "preview": "https://live.staticflickr.com/131/416645229_24e549245e_z.jpg",
+    "size": [
+     768,
+     1024
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Frankie Roberto on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Frankie Roberto",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/84195101@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "PANTONE UNIVERSE · pantone, popular, singapore, tampines1, universe",
+    "file": "flickr:3478000391",
+    "page": "https://www.flickr.com/photos/77034082@N00/3478000391",
+    "url": "https://live.staticflickr.com/3338/3478000391_1177ebdcb9_b.jpg",
+    "preview": "https://live.staticflickr.com/3338/3478000391_1177ebdcb9_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by chinnian on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "chinnian",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/77034082@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "PANTONE UNIVERSE · pantone, popular, singapore, tampines1, universe",
+    "file": "flickr:3478002805",
+    "page": "https://www.flickr.com/photos/77034082@N00/3478002805",
+    "url": "https://live.staticflickr.com/3619/3478002805_0faf1cbeaa_b.jpg",
+    "preview": "https://live.staticflickr.com/3619/3478002805_0faf1cbeaa_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by chinnian on Flickr, CC BY-SA 2.0",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "author": "chinnian",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/77034082@N00",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Pantone Swatches and iMac",
+    "file": "flickr:4121638437",
+    "page": "https://www.flickr.com/photos/44664865@N07/4121638437",
+    "url": "https://live.staticflickr.com/2593/4121638437_90d66af703_b.jpg",
+    "preview": "https://live.staticflickr.com/2593/4121638437_90d66af703_z.jpg",
+    "size": [
+     1024,
+     768
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by Andrew Kelsall, Graphic Designer on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "Andrew Kelsall, Graphic Designer",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/44664865@N07",
+    "via": "openverse",
+    "low_res": true
+   },
+   {
+    "shot": "hand",
+    "shows": "Pantone Swatch · abstract, art, blank, business, card",
+    "file": "flickr:6102521990",
+    "page": "https://www.flickr.com/photos/26752267@N00/6102521990",
+    "url": "https://live.staticflickr.com/6071/6102521990_83546084c6_b.jpg",
+    "preview": "https://live.staticflickr.com/6071/6102521990_83546084c6_z.jpg",
+    "size": [
+     1024,
+     834
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Photo by martinhoward on Flickr, CC BY 2.0",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0/",
+    "author": "martinhoward",
+    "year": null,
+    "how": "hand-picked",
+    "provider": "flickr",
+    "author_url": "https://www.flickr.com/photos/26752267@N00",
+    "via": "openverse",
+    "low_res": true
+   }
+  ],
+  "checked": "2026-11-19"
  },
  "VRSN": {
   "name": "Verisign",
@@ -144132,11 +145098,11 @@
    },
    {
     "shot": "technology-conference",
-    "shows": "Game Developers Conference 2017, Registration 21",
-    "file": "File:Game Developers Conference 2017, Registration 21.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Game_Developers_Conference_2017,_Registration_21.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Game_Developers_Conference_2017%2C_Registration_21.jpg/1920px-Game_Developers_Conference_2017%2C_Registration_21.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Game_Developers_Conference_2017%2C_Registration_21.jpg/500px-Game_Developers_Conference_2017%2C_Registration_21.jpg",
+    "shows": "Game Developers Conference 2017, Registration 30",
+    "file": "File:Game Developers Conference 2017, Registration 30.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Game_Developers_Conference_2017,_Registration_30.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Game_Developers_Conference_2017%2C_Registration_30.jpg/1920px-Game_Developers_Conference_2017%2C_Registration_30.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Game_Developers_Conference_2017%2C_Registration_30.jpg/500px-Game_Developers_Conference_2017%2C_Registration_30.jpg",
     "size": [
      1920,
      1280
@@ -144150,18 +145116,18 @@
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
     "author": "Official GDC",
-    "year": 2017,
+    "year": 2018,
     "how": "catalog"
    }
   ],
   "missing": [
    "office-open-space",
-   "software-developer",
-   "macbook",
-   "earphones",
-   "webcam",
-   "drone-camera",
-   "tech-gadgets",
+   "keyboard-macro",
+   "smartphone-factory",
+   "tech-campus",
+   "usb-drive",
+   "tech-store",
+   "coding-monitor",
    "tech",
    "circuit",
    "silicon-valley",
@@ -154576,25 +155542,25 @@
    },
    {
     "shot": "water-treatment-plant",
-    "shows": "Koblach-wastewater treatment plant-Abwasserverband Vorderland Koblach-01ASD",
-    "file": "File:Koblach-wastewater treatment plant-Abwasserverband Vorderland Koblach-01ASD.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Koblach-wastewater_treatment_plant-Abwasserverband_Vorderland_Koblach-01ASD.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Koblach-wastewater_treatment_plant-Abwasserverband_Vorderland_Koblach-01ASD.jpg/1920px-Koblach-wastewater_treatment_plant-Abwasserverband_Vorderland_Koblach-01ASD.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Koblach-wastewater_treatment_plant-Abwasserverband_Vorderland_Koblach-01ASD.jpg/500px-Koblach-wastewater_treatment_plant-Abwasserverband_Vorderland_Koblach-01ASD.jpg",
+    "shows": "Deer Island Waste Water Treatment Plant from lookout",
+    "file": "File:Deer Island Waste Water Treatment Plant from lookout.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg/1920px-Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg/500px-Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg",
     "size": [
      1920,
-     1440
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Asurnipal, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Asurnipal",
-    "year": 2024,
+    "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "4300streetcar",
+    "year": 2023,
     "how": "catalog"
    }
   ],
@@ -154622,7 +155588,15 @@
    "power-pole",
    "street-light",
    "electricity-tower",
-   "electrical-wires"
+   "electrical-wires",
+   "power-line",
+   "water-main",
+   "power-lines-sunset",
+   "transformer-substation",
+   "power-pylon",
+   "electricity-grid",
+   "natural-gas-pipeline",
+   "water-reservoir"
   ],
   "checked": "2026-11-19"
  },
@@ -155867,35 +156841,35 @@
     "how": "catalog"
    },
    {
-    "shot": "for-sale-sign",
-    "shows": "For Sale Sign in Eugene, Oregon",
-    "file": "File:For Sale Sign in Eugene, Oregon.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:For_Sale_Sign_in_Eugene,_Oregon.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/For_Sale_Sign_in_Eugene%2C_Oregon.jpg/1280px-For_Sale_Sign_in_Eugene%2C_Oregon.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/For_Sale_Sign_in_Eugene%2C_Oregon.jpg/500px-For_Sale_Sign_in_Eugene%2C_Oregon.jpg",
+    "shot": "construction-crane-city",
+    "shows": "Crane at construction site - geograph.org.uk",
+    "file": "File:Crane at construction site - geograph.org.uk - 7593527.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg/1920px-Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg/500px-Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg",
     "size": [
-     1280,
-     1705
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Rick Obst, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Rick Obst",
-    "year": 2021,
+    "credit": "Kevin Waterhouse, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "Kevin Waterhouse",
+    "year": 2023,
     "how": "catalog"
    }
   ],
   "missing": [
-   "commercial-building-construction",
-   "real-estate",
-   "shopping-mall",
-   "condo",
-   "suburb",
+   "condo-balcony",
+   "loft-apartment",
+   "brick-townhouse",
+   "glass-facade",
+   "high-rise-apartments",
    "house-keys",
    "high-rise",
    "modern-house",
@@ -155920,7 +156894,9 @@
    "office-space",
    "house-for-sale",
    "suburban-homes",
-   "luxury-home"
+   "luxury-home",
+   "rental",
+   "warehouse-interior"
   ],
   "checked": "2026-11-19"
  },
@@ -162366,37 +163342,34 @@
     "track": "https://api.unsplash.com/photos/2nSdQEd-Exc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG9vbGJveHxlbnwxfHx8fDE3OTUwMDQ0Nzl8MA"
    },
    {
-    "shot": "employee",
-    "shows": "A man with a beard holding a cup of coffee",
-    "file": "unsplash:5qlq1ZcMQ9k",
-    "page": "https://unsplash.com/photos/a-man-with-a-beard-holding-a-cup-of-coffee-5qlq1ZcMQ9k?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1670851604042-c56a9f5d179f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGVtcGxveWVlfGVufDF8fHx8MTc5NTA5MDg5Nnww&ixlib=rb-4.1.0&w=2246&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1670851604042-c56a9f5d179f?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGVtcGxveWVlfGVufDF8fHx8MTc5NTA5MDg5Nnww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "unemployment-office",
+    "shows": "Elizabeth Warren unemployment insurance roundtable in Worcester 2d1f05b903 h",
+    "file": "File:Elizabeth Warren unemployment insurance roundtable in Worcester 12165461224 2d1f05b903 h.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Warren_unemployment_insurance_roundtable_in_Worcester_12165461224_2d1f05b903_h.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Elizabeth_Warren_unemployment_insurance_roundtable_in_Worcester_12165461224_2d1f05b903_h.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Elizabeth_Warren_unemployment_insurance_roundtable_in_Worcester_12165461224_2d1f05b903_h.jpg/500px-Elizabeth_Warren_unemployment_insurance_roundtable_in_Worcester_12165461224_2d1f05b903_h.jpg",
     "size": [
-     2246,
-     1500
+     1600,
+     1200
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Jotform on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Jotform",
-    "year": 2022,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@jotform?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/5qlq1ZcMQ9k/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MjZ8fGVtcGxveWVlfGVufDF8fHx8MTc5NTA5MDg5Nnww"
+    "credit": "Office of Senator Elizabeth Warren, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Office of Senator Elizabeth Warren",
+    "year": 2014,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "coworkers",
-   "name-badge",
-   "cubicle",
-   "work-uniform",
+   "hard-hat-worker",
+   "office-cubicle",
+   "line-cook",
+   "truck-driver",
    "carpenter",
    "warehouse",
    "chef",
@@ -166277,33 +167250,36 @@
     "how": "catalog"
    },
    {
-    "shot": "futuristic-robot",
-    "shows": "Robot chef cooking with spices",
-    "file": "File:Robot chef cooking with spices.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Robot_chef_cooking_with_spices.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Robot_chef_cooking_with_spices.png/1920px-Robot_chef_cooking_with_spices.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Robot_chef_cooking_with_spices.png/500px-Robot_chef_cooking_with_spices.png",
+    "shot": "circuit-brain",
+    "shows": "A computer circuit board with a brain on it",
+    "file": "unsplash:_0iV9LmPDn0",
+    "page": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJyYWlufGVufDF8fHx8MTc5NTEyNjY3N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJyYWlufGVufDF8fHx8MTc5NTEyNjY3N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1920
+     2400,
+     1350
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Prototyperspective, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Prototyperspective",
+    "credit": "Photo by Steve A Johnson on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Steve A Johnson",
     "year": 2023,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@steve_j?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/_0iV9LmPDn0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJyYWlufGVufDF8fHx8MTc5NTEyNjY3N3ww"
    }
   ],
   "missing": [
-   "ai-brain",
-   "neural-chip",
-   "machine-vision",
+   "lidar-sensor",
+   "digital-twin",
+   "computer-vision-camera",
    "deep-learning",
    "ai-server",
    "electronics",
@@ -167544,35 +168520,35 @@
     "how": "catalog"
    },
    {
-    "shot": "cloud-servers",
-    "shows": "USS Sea Cloud",
-    "file": "File:USS Sea Cloud.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:USS_Sea_Cloud.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/USS_Sea_Cloud.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/USS_Sea_Cloud.jpg/500px-USS_Sea_Cloud.jpg",
+    "shot": "fiber-patch-panel",
+    "shows": "Optical fibre distribution mess in France patch panel",
+    "file": "File:Optical fibre distribution mess in France patch panel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Optical_fibre_distribution_mess_in_France_patch_panel.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Optical_fibre_distribution_mess_in_France_patch_panel.jpg/1280px-Optical_fibre_distribution_mess_in_France_patch_panel.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Optical_fibre_distribution_mess_in_France_patch_panel.jpg/500px-Optical_fibre_distribution_mess_in_France_patch_panel.jpg",
     "size": [
-     1621,
-     1313
+     1280,
+     1706
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "US Coast Guard, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "US Coast Guard",
-    "year": null,
+    "credit": "InfosReseaux, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "InfosReseaux",
+    "year": 2018,
     "how": "catalog"
    }
   ],
   "missing": [
    "cooling",
-   "storage-server",
-   "fiber-cable",
-   "colocation",
-   "hard-disk",
+   "raised-floor",
+   "ethernet-switch",
+   "uninterruptible-power-supply",
+   "chiller-plant",
    "warehouse",
    "electric-wires",
    "server-farm",
@@ -168827,31 +169803,31 @@
     "how": "catalog"
    },
    {
-    "shot": "motherboard-chip",
-    "shows": "1 x MBL80286-8 FUJITSU 16-bit microprocessor chip; CS8220 PC/AT chipset, 5 chip LSI implementation: P82C201, P82C202, P82A203, P82A204 and P82A205 ; 36 x uPD 41",
-    "file": "File:286 AT motherboard.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:286_AT_motherboard.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/286_AT_motherboard.jpg/1920px-286_AT_motherboard.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/286_AT_motherboard.jpg/500px-286_AT_motherboard.jpg",
+    "shot": "motherboard-closeup",
+    "shows": "IMac A1173 Motherboard Closeup",
+    "file": "File:IMac A1173 Motherboard Closeup.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:IMac_A1173_Motherboard_Closeup.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/IMac_A1173_Motherboard_Closeup.jpg/1920px-IMac_A1173_Motherboard_Closeup.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/IMac_A1173_Motherboard_Closeup.jpg/500px-IMac_A1173_Motherboard_Closeup.jpg",
     "size": [
      1920,
-     1267
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mister rf, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Mister rf",
+    "credit": "Oligopolism, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Oligopolism",
     "year": 2021,
     "how": "catalog"
    }
   ],
   "missing": [
-   "chip-socket",
+   "processor-macro",
    "chip-design",
    "pc-build",
    "computer-hardware",
@@ -172709,37 +173685,34 @@
    },
    {
     "shot": "opec",
-    "shows": "Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, - MGR3596",
-    "file": "File:Außenministerin Beate Meinl-Reisinger empfing OPEC-Generalsekretär Haitham Al Ghais, 2025-05-05 - MGR3596.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais,_2025-05-05_-_MGR3596.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3596.jpg/1920px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3596.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3596.jpg/500px-Au%C3%9Fenministerin_Beate_Meinl-Reisinger_empfing_OPEC-Generalsekret%C3%A4r_Haitham_Al_Ghais%2C_2025-05-05_-_MGR3596.jpg",
+    "shows": "Klimaprotest-at - Eröffnung der OPEC Tagung 20",
+    "file": "File:Klimaprotest-at - Eröffnung der OPEC Tagung 20 (49171930058).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_(49171930058).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_%2849171930058%29.jpg/1920px-Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_%2849171930058%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_%2849171930058%29.jpg/500px-Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_%2849171930058%29.jpg",
     "size": [
      1920,
-     1280
+     1724
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Österreichisches Außenministerium, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Österreichisches Außenministerium",
-    "year": 2025,
-    "how": "catalog",
-    "flags": [
-     "restrictions: personality"
-    ]
+    "credit": "System Change not Climate Change, CC BY-SA 2.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 2.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "author": "System Change not Climate Change",
+    "year": 2019,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "oil-sands",
-   "storage-tank",
-   "diesel",
-   "natural-gas-flare",
-   "fracking",
+   "oil-pump-jack",
+   "oil-tanker-ship",
+   "oil-spill",
+   "refinery-flare",
+   "oil-barrel-stack",
    "petrol-pump",
    "offshore-rig",
    "lng-tanker",
@@ -174050,34 +175023,38 @@
     "track_pending": true
    },
    {
-    "shot": "truck-freight",
-    "shows": "Estes Express Lines Freight Truck in Parking Lot",
-    "file": "File:Estes Express Lines Freight Truck in Parking Lot - 28792595115.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg/1920px-Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg/500px-Estes_Express_Lines_Freight_Truck_in_Parking_Lot_-_28792595115.jpg",
+    "shot": "containers",
+    "shows": "A large amount of containers are stacked on top of each other",
+    "file": "unsplash:q6j5mSRpi50",
+    "page": "https://unsplash.com/photos/a-large-amount-of-containers-are-stacked-on-top-of-each-other-q6j5mSRpi50?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1634646809203-f3b4adff9127?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29udGFpbmVyc3xlbnwxfHx8fDE3OTUxMDgxODV8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1634646809203-f3b4adff9127?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29udGFpbmVyc3xlbnwxfHx8fDE3OTUxMDgxODV8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1214
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mike Mozart, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Mike Mozart",
-    "year": 2016,
-    "how": "catalog"
+    "credit": "Photo by Fejuz on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Fejuz",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@fejuz?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/q6j5mSRpi50/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8Nnx8Y29udGFpbmVyc3xlbnwxfHx8fDE3OTUxMDgxODV8MA",
+    "track_pending": true
    }
   ],
   "missing": [
-   "cargo-container",
-   "steel-import",
-   "customs-border",
-   "truck-border",
+   "trade",
+   "import",
+   "export",
+   "customs-officer",
    "forklift-container",
    "warehouse-pallets",
    "container-terminal",
@@ -176705,35 +177682,35 @@
     "track_pending": true
    },
    {
-    "shot": "printing",
-    "shows": "Bronze printing plate for Xingding paper currency",
-    "file": "File:Bronze printing plate for Xingding paper currency.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bronze_printing_plate_for_Xingding_paper_currency.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bronze_printing_plate_for_Xingding_paper_currency.jpg/1280px-Bronze_printing_plate_for_Xingding_paper_currency.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bronze_printing_plate_for_Xingding_paper_currency.jpg/500px-Bronze_printing_plate_for_Xingding_paper_currency.jpg",
+    "shot": "cash-counting",
+    "shows": "Person holding a smartphone while counting cash near a window in a light space",
+    "file": "File:Person holding a smartphone while counting cash near a window in a light space.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Person_holding_a_smartphone_while_counting_cash_near_a_window_in_a_light_space.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Person_holding_a_smartphone_while_counting_cash_near_a_window_in_a_light_space.jpg/1280px-Person_holding_a_smartphone_while_counting_cash_near_a_window_in_a_light_space.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Person_holding_a_smartphone_while_counting_cash_near_a_window_in_a_light_space.jpg/500px-Person_holding_a_smartphone_while_counting_cash_near_a_window_in_a_light_space.jpg",
     "size": [
      1280,
-     2112
+     1917
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "BabelStone, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "BabelStone",
-    "year": 2011,
+    "credit": "Shixart1985, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Shixart1985",
+    "year": 2021,
     "how": "catalog"
    }
   ],
   "missing": [
+   "printing",
    "currency-exchange-office",
-   "dollar-bill-closeup",
-   "stack-of-hundreds",
-   "federal-reserve-note",
-   "dollar-bills-fan",
+   "benjamin-franklin-bill",
+   "cash-register-money",
+   "dollar-exchange-rate",
    "cash-in-hand",
    "washington-dollar",
    "dollar-exchange",
@@ -178005,39 +178982,39 @@
     "track": "https://api.unsplash.com/photos/tuJ3tXSayco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG5ld3NwYXBlciUyMGZpbmFuY2V8ZW58MXx8fHwxNzk1MDE0NDQ3fDA"
    },
    {
-    "shot": "yield-curve",
-    "shows": "Courbe des taux inversée",
-    "file": "File:Courbe des taux inversée.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Courbe_des_taux_invers%C3%A9e.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Courbe_des_taux_invers%C3%A9e.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Courbe_des_taux_invers%C3%A9e.jpg/500px-Courbe_des_taux_invers%C3%A9e.jpg",
+    "shot": "stamped-document",
+    "shows": "Rosa multiflora focus stacked- -RM",
+    "file": "File:Rosa multiflora focus stacked-20220522-RM-124900.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg/1920px-Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg/500px-Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg",
     "size": [
-     1684,
-     1189
+     1920,
+     1373
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Original uploader was Htournyol at French Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
+    "credit": "Ermell, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "Original uploader was Htournyol at French Wikipedia",
-    "year": 2005,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ermell",
+    "year": 2022,
     "how": "catalog"
    }
   ],
   "missing": [
-   "certificate-paper",
-   "financial-paper",
-   "bank-interest",
-   "money-market",
-   "pension",
-   "certificate",
-   "banknotes",
-   "courthouse",
-   "signature",
+   "certificate-seal",
+   "government-bond-certificate",
+   "notary-stamp",
+   "interest-calculator",
+   "loan-agreement",
+   "municipal-building",
+   "debt-ceiling",
+   "bond-yield",
+   "treasury-department",
    "pen"
   ],
   "checked": "2026-11-19"
@@ -180583,61 +181560,61 @@
     "how": "catalog"
    },
    {
-    "shot": "revenue-graph",
-    "shows": "WMF Support and Revenue, Expenses and Net Assets at Year End",
-    "file": "File:WMF Support and Revenue, Expenses and Net Assets at Year End.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:WMF_Support_and_Revenue,_Expenses_and_Net_Assets_at_Year_End.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/WMF_Support_and_Revenue%2C_Expenses_and_Net_Assets_at_Year_End.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/WMF_Support_and_Revenue%2C_Expenses_and_Net_Assets_at_Year_End.jpg/500px-WMF_Support_and_Revenue%2C_Expenses_and_Net_Assets_at_Year_End.jpg",
+    "shot": "spreadsheet-screen",
+    "shows": "ASC Leiden - Rwanda 2021 - 037 - Screen shot of a spreadsheet for books with their price - Kigali",
+    "file": "File:ASC Leiden - Rwanda 2021 - 037 - Screen shot of a spreadsheet for books with their price - Kigali.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg/1920px-ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg/500px-ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg",
     "size": [
-     1664,
-     1248
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Jayen466, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Gerard van de Bruinhorst, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Jayen466",
+    "author": "Gerard van de Bruinhorst",
     "year": 2021,
     "how": "catalog"
    },
    {
-    "shot": "bar-chart-paper",
-    "shows": "The Adventure Girls at K Bar O - A. L. Burt dust jacket cover",
-    "file": "File:The Adventure Girls at K Bar O - A. L. Burt dust jacket cover.png",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png/1920px-The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png/500px-The_Adventure_Girls_at_K_Bar_O_-_A._L._Burt_dust_jacket_cover.png",
+    "shot": "cash-flow",
+    "shows": "PHWC Cash Flows, 2021",
+    "file": "File:PHWC Cash Flows, 2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:PHWC_Cash_Flows,_2021.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PHWC_Cash_Flows%2C_2021.jpg/1280px-PHWC_Cash_Flows%2C_2021.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PHWC_Cash_Flows%2C_2021.jpg/500px-PHWC_Cash_Flows%2C_2021.jpg",
     "size": [
-     1920,
-     1479
+     1280,
+     1921
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Clair Blank (author), published by A. L. Burt. Illustrator unknown., public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Clair Blank (author), published by A. L. Burt. Illustrator unknown.",
-    "year": 2026,
+    "credit": "Irvin Parco Sto. Tomas, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Irvin Parco Sto. Tomas",
+    "year": 2022,
     "how": "catalog"
    }
   ],
   "missing": [
-   "sales-chart",
-   "profit-margin",
-   "stock-analyst",
-   "report-folder",
-   "office-paperwork",
-   "trading-screen",
-   "office-desk",
-   "business-documents",
+   "annual-report-book",
+   "earnings-call-headset",
+   "revenue-chart",
+   "stock-ticker-screen",
+   "finance-desk",
+   "bloomberg-terminal",
+   "analyst-desk",
+   "graph-paper",
    "computer-screen"
   ],
   "checked": "2026-11-19"
@@ -181888,34 +182865,34 @@
     "how": "catalog"
    },
    {
-    "shot": "champagne-celebration",
-    "shows": "Champagne - Triathlon de Lausanne 2010",
-    "file": "File:Champagne - Triathlon de Lausanne 2010.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Champagne_-_Triathlon_de_Lausanne_2010.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Champagne_-_Triathlon_de_Lausanne_2010.jpg/1920px-Champagne_-_Triathlon_de_Lausanne_2010.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Champagne_-_Triathlon_de_Lausanne_2010.jpg/500px-Champagne_-_Triathlon_de_Lausanne_2010.jpg",
+    "shot": "bell-ceremony",
+    "shows": "The Last Bell Ceremony, Uzbek Gymnasium, 2010",
+    "file": "File:The Last Bell Ceremony, Uzbek Gymnasium, 2010.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Last_Bell_Ceremony,_Uzbek_Gymnasium,_2010.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Last_Bell_Ceremony%2C_Uzbek_Gymnasium%2C_2010.JPG/1920px-The_Last_Bell_Ceremony%2C_Uzbek_Gymnasium%2C_2010.JPG",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Last_Bell_Ceremony%2C_Uzbek_Gymnasium%2C_2010.JPG/500px-The_Last_Bell_Ceremony%2C_Uzbek_Gymnasium%2C_2010.JPG",
     "size": [
      1920,
-     1280
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Fanny Schertzer, CC BY-SA 3.0, via Wikimedia Commons",
+    "credit": "Nataev, CC BY-SA 3.0, via Wikimedia Commons",
     "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Fanny Schertzer",
+    "author": "Nataev",
     "year": 2010,
     "how": "catalog"
    }
   ],
   "missing": [
-   "confetti-celebration",
-   "trading-terminal",
-   "financial-screens",
-   "share-certificate",
+   "brokerage-screen",
+   "exchange-facade",
+   "floor-broker",
+   "share-price-board",
    "stock-quote"
   ],
   "checked": "2026-11-19"
@@ -183182,27 +184159,29 @@
     "track": "https://api.unsplash.com/photos/ECPML1vHQYQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHR5cGUlMjAyJTIwY29ubmVjdG9yfGVufDF8fHx8MTc5NTAxNzg1Nnww"
    },
    {
-    "shot": "electric-car-charger",
-    "shows": "BlackBerry Bold 9900 on its Charging Pod",
-    "file": "File:BlackBerry Bold 9900 on its Charging Pod.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:BlackBerry_Bold_9900_on_its_Charging_Pod.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BlackBerry_Bold_9900_on_its_Charging_Pod.jpg/1280px-BlackBerry_Bold_9900_on_its_Charging_Pod.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BlackBerry_Bold_9900_on_its_Charging_Pod.jpg/500px-BlackBerry_Bold_9900_on_its_Charging_Pod.jpg",
+    "shot": "e-car",
+    "shows": "Detail of antique car, Country Classic Cars, Staunton, Illinois",
+    "file": "loc:2010630393",
+    "page": "https://www.loc.gov/item/2010630393/",
+    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04400:04406/full/2141,/0/default.jpg",
+    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04400:04406/full/500,/0/default.jpg",
     "size": [
-     1280,
-     1747
+     2141,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "P2u111, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "P2u111",
-    "year": 2026,
-    "how": "catalog"
+    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
+    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
+    "licence_kind": "pd",
+    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
+    "author": "Carol M. Highsmith",
+    "year": 2009,
+    "how": "catalog",
+    "provider": "loc",
+    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
    }
   ],
   "missing": [
@@ -183214,7 +184193,7 @@
    "e-bike",
    "supercharger"
   ],
-  "checked": "2026-11-18"
+  "checked": "2026-11-19"
  },
  "nuclear": {
   "name": "Nuclear power & uranium",
@@ -184419,34 +185398,34 @@
     "how": "catalog"
    },
    {
-    "shot": "reactor-core",
-    "shows": "Reactor Core",
-    "file": "File:Reactor Core.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Reactor_Core.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Reactor_Core.jpg/1920px-Reactor_Core.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Reactor_Core.jpg/500px-Reactor_Core.jpg",
+    "shot": "nuclear-fuel-rod",
+    "shows": "Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center",
+    "file": "File:Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nuclear_fuel_pellets_at_the_Greifswald_Nuclear_Power_Plant_information_center.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nuclear_fuel_pellets_at_the_Greifswald_Nuclear_Power_Plant_information_center.jpg/1920px-Nuclear_fuel_pellets_at_the_Greifswald_Nuclear_Power_Plant_information_center.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nuclear_fuel_pellets_at_the_Greifswald_Nuclear_Power_Plant_information_center.jpg/500px-Nuclear_fuel_pellets_at_the_Greifswald_Nuclear_Power_Plant_information_center.jpg",
     "size": [
      1920,
-     1325
+     1080
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Captain Nuclear 90, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Siarhei Besarab, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Captain Nuclear 90",
-    "year": 2022,
+    "author": "Siarhei Besarab",
+    "year": 2025,
     "how": "catalog"
    }
   ],
   "missing": [
-   "power-plant-cooling",
-   "grafenrheinfeld-nuclear",
-   "golfech-nuclear",
-   "gundremmingen-nuclear"
+   "control-room-panel",
+   "power-station-steam",
+   "spent-fuel-pool",
+   "uranium-enrichment"
   ],
   "checked": "2026-11-19"
  },
@@ -187034,39 +188013,35 @@
     "track": "https://api.unsplash.com/photos/8sCPn-RKKNE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA"
    },
    {
-    "shot": "bakery-counter",
-    "shows": "Freshly baked croissants and pastries in a bakery with staff working behind the counter",
-    "file": "unsplash:Bbgw0_CxLYs",
-    "page": "https://unsplash.com/photos/bakery-counter-with-fresh-pastries-Bbgw0_CxLYs?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1793133350525-4035aab0d3df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGJha2VyeSUyMGNvdW50ZXJ8ZW58MXx8fHwxNzk1MDk3MjYwfDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1793133350525-4035aab0d3df?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGJha2VyeSUyMGNvdW50ZXJ8ZW58MXx8fHwxNzk1MDk3MjYwfDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "grocery-store-aisle",
+    "shows": "Shampoo aisle - grocery store in Israel",
+    "file": "File:Shampoo aisle - grocery store in Israel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shampoo_aisle_-_grocery_store_in_Israel.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shampoo_aisle_-_grocery_store_in_Israel.jpg/1920px-Shampoo_aisle_-_grocery_store_in_Israel.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shampoo_aisle_-_grocery_store_in_Israel.jpg/500px-Shampoo_aisle_-_grocery_store_in_Israel.jpg",
     "size": [
-     1200,
-     1795
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Yuliia Martsynkevych on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Yuliia Martsynkevych",
-    "year": 2026,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@yumartsy?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/Bbgw0_CxLYs/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTN8fGJha2VyeSUyMGNvdW50ZXJ8ZW58MXx8fHwxNzk1MDk3MjYwfDA",
-    "track_pending": true
+    "credit": "Danielrosehill, CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
+    "licence_kind": "by",
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Danielrosehill",
+    "year": 2025,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "farmers-market-stall",
-   "department-store-escalator",
-   "boutique-window",
-   "coupon",
-   "store-shelf",
+   "bakery-shop",
+   "perfume-counter",
+   "jewelry-store-window",
+   "bookstore",
+   "laundromat",
    "pharmacy-aisle",
    "convenience-store",
    "cashier",
@@ -189659,34 +190634,34 @@
     "track": "https://api.unsplash.com/photos/bKfuUy-g48Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww"
    },
    {
-    "shot": "investing-app",
-    "shows": "Invest and get back desame amount",
-    "file": "File:Invest and get back desame amount..jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Invest_and_get_back_desame_amount..jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Invest_and_get_back_desame_amount..jpg/1280px-Invest_and_get_back_desame_amount..jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Invest_and_get_back_desame_amount..jpg/500px-Invest_and_get_back_desame_amount..jpg",
+    "shot": "wealth-management",
+    "shows": "Wealth Court Management Office",
+    "file": "File:Wealth Court Management Office.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wealth_Court_Management_Office.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wealth_Court_Management_Office.jpg/1920px-Wealth_Court_Management_Office.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wealth_Court_Management_Office.jpg/500px-Wealth_Court_Management_Office.jpg",
     "size": [
-     1280,
-     1707
+     1920,
+     1446
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Notimetall, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Notimetall",
-    "year": 2025,
+    "credit": "Ricky36, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Ricky36",
+    "year": 2026,
     "how": "catalog"
    }
   ],
   "missing": [
-   "stock-portfolio",
-   "growth-coins",
-   "jar-of-coins",
-   "financial-news",
+   "stock-chart-laptop",
+   "growth-chart-coins",
+   "portfolio-chart",
+   "401k",
    "mutual-fund",
    "trader-screens",
    "cash",
@@ -189702,7 +190677,7 @@
    "coin-stack",
    "stack-of-coins"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "space": {
   "name": "Space economy",
@@ -193581,11 +194556,11 @@
    },
    {
     "shot": "campaign-rally",
-    "shows": "Rally (crowd leaves at end) 5269",
-    "file": "File:Rally (crowd leaves at end) IMG 5269.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rally_(crowd_leaves_at_end)_IMG_5269.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rally_%28crowd_leaves_at_end%29_IMG_5269.jpg/1920px-Rally_%28crowd_leaves_at_end%29_IMG_5269.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Rally_%28crowd_leaves_at_end%29_IMG_5269.jpg/500px-Rally_%28crowd_leaves_at_end%29_IMG_5269.jpg",
+    "shows": "Rally (crowd leaves at end) 5265",
+    "file": "File:Rally (crowd leaves at end) IMG 5265.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rally_(crowd_leaves_at_end)_IMG_5265.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg/1920px-Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg/500px-Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg",
     "size": [
      1920,
      1440
@@ -193604,10 +194579,10 @@
    }
   ],
   "missing": [
-   "vote-sign",
-   "absentee-ballot",
-   "yard-sign",
-   "state-house",
+   "senate-chamber",
+   "presidential-seal",
+   "parliament-building",
+   "mail-in-ballot",
    "stars-and-stripes",
    "independence-hall",
    "us-capitol-night",
@@ -193616,7 +194591,7 @@
    "i-voted-sticker",
    "polling-place"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "europe": {
   "name": "Europe & the ECB",
@@ -196134,12 +197109,12 @@
     "how": "catalog"
    },
    {
-    "shot": "laboratory-laser",
-    "shows": "UR Laboratory for Laser Energetics main entrance",
-    "file": "File:UR Laboratory for Laser Energetics main entrance.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:UR_Laboratory_for_Laser_Energetics_main_entrance.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/UR_Laboratory_for_Laser_Energetics_main_entrance.jpg/1920px-UR_Laboratory_for_Laser_Energetics_main_entrance.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/UR_Laboratory_for_Laser_Energetics_main_entrance.jpg/500px-UR_Laboratory_for_Laser_Energetics_main_entrance.jpg",
+    "shot": "photonics-lab",
+    "shows": "PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption",
+    "file": "File:PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg/1920px-PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg/500px-PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg",
     "size": [
      1920,
      1440
@@ -196148,24 +197123,24 @@
      0.5,
      0.5
     ],
-    "credit": "DanielPenfield, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
+    "credit": "DanielPenfield, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "DanielPenfield",
-    "year": 2010,
+    "year": 2019,
     "how": "catalog"
    }
   ],
   "missing": [
-   "magnetic-levitation",
-   "lab-glassware",
-   "sapphire-crystal",
+   "cleanroom-wafer",
+   "lab-cryogenics",
+   "optics-bench",
    "electromagnet",
    "cooling-system-lab",
    "lab-vacuum-pump"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "robotics": {
   "name": "Robotics & automation",
@@ -197434,35 +198409,35 @@
     "track_pending": true
    },
    {
-    "shot": "robot-kitchen",
-    "shows": "Robot chef",
-    "file": "File:Robot chef.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Robot_chef.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Robot_chef.jpg/1920px-Robot_chef.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Robot_chef.jpg/500px-Robot_chef.jpg",
+    "shot": "industrial-robot-arm",
+    "shows": "KUKA industrial robotic arm performing \"The Beach\" by Roy Nachum - 02",
+    "file": "File:KUKA industrial robotic arm performing \"The Beach\" by Roy Nachum - 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/1920px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg/500px-KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg",
     "size": [
      1920,
-     1292
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Sam Howzit (Sam Howzit), CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Sam Howzit (Sam Howzit)",
-    "year": 2013,
+    "credit": "Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Oleg Yunakov",
+    "year": 2025,
     "how": "catalog"
    }
   ],
   "missing": [
-   "robot-waiter",
-   "exoskeleton",
-   "robot-competition",
-   "android",
-   "assembly-line",
+   "robotic-welding",
+   "automated-guided-vehicle",
+   "robot-arm-lab",
+   "factory-robots",
+   "robot-welding-sparks",
    "automated-warehouse",
    "robotic-arm",
    "robot-hand",
@@ -197479,7 +198454,7 @@
    "pick-and-place",
    "robot-gripper"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "cybersecurity": {
   "name": "Cybersecurity",
@@ -198756,34 +199731,34 @@
     "how": "catalog"
    },
    {
-    "shot": "dark-web",
-    "shows": "Dark Matter 27x39 ENGLISH",
-    "file": "File:Dark Matter 27x39 ENGLISH.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Dark_Matter_27x39_ENGLISH.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dark_Matter_27x39_ENGLISH.png/1280px-Dark_Matter_27x39_ENGLISH.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dark_Matter_27x39_ENGLISH.png/500px-Dark_Matter_27x39_ENGLISH.png",
+    "shot": "server-lock",
+    "shows": "SERVER proceeding towards Wilhelmshaven lock",
+    "file": "File:SERVER 7564.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SERVER_7564.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SERVER_7564.jpg/1920px-SERVER_7564.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/SERVER_7564.jpg/500px-SERVER_7564.jpg",
     "size": [
-     1280,
-     1900
+     1920,
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "NASA-JPL/Caltech, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA-JPL/Caltech",
-    "year": 2020,
+    "credit": "Ein Dahmer, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ein Dahmer",
+    "year": 2026,
     "how": "catalog"
    }
   ],
   "missing": [
-   "secure-server",
-   "password-manager",
-   "access-control",
-   "yubikey",
+   "security-operations-center",
+   "phishing-email",
+   "network-security",
+   "security-badge",
    "security-door",
    "code-screen",
    "fingerprint",
@@ -198801,7 +199776,7 @@
    "router",
    "shredded-paper"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "india": {
   "name": "India economy",
@@ -201404,45 +202379,48 @@
     "track": "https://api.unsplash.com/photos/8ZnNLUr3RRc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8b3Nha2ElMjBkb3RvbmJvcml8ZW58MXx8fHwxNzk1MTAxMDg3fDA"
    },
    {
-    "shot": "japanese-factory",
-    "shows": "Japanese factory",
-    "file": "File:AkaikeTown1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:AkaikeTown1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/AkaikeTown1.jpg/1920px-AkaikeTown1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/AkaikeTown1.jpg/500px-AkaikeTown1.jpg",
+    "shot": "cherry-blossom",
+    "shows": "White petaled flower",
+    "file": "unsplash:lFTtQqVfx6g",
+    "page": "https://unsplash.com/photos/white-petaled-flower-lFTtQqVfx6g?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1551829142-d9b8cf2c9232?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlcnJ5JTIwYmxvc3NvbXxlbnwxfHx8fDE3OTUxMzY2OTR8MA&ixlib=rb-4.1.0&w=2251&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1551829142-d9b8cf2c9232?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlcnJ5JTIwYmxvc3NvbXxlbnwxfHx8fDE3OTUxMzY2OTR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2251,
+     1501
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Nryate, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Nryate",
+    "credit": "Photo by David Brooke Martin on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "David Brooke Martin",
     "year": 2019,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@dbmartin00?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/lFTtQqVfx6g/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8Y2hlcnJ5JTIwYmxvc3NvbXxlbnwxfHx8fDE3OTUxMzY2OTR8MA"
    }
   ],
   "missing": [
-   "kanazawa",
-   "fushimi-inari",
-   "japanese-temple",
-   "akihabara",
-   "japan-train",
-   "yen",
-   "tokyo-street",
-   "osaka-castle",
-   "bullet-train",
-   "dotonbori",
-   "kyoto-temple",
-   "japanese-street",
-   "torii",
-   "pagoda",
-   "sakura",
+   "japanese-factory",
+   "shirakawa-go",
+   "kiyomizu-dera",
+   "japanese-vending-machine",
+   "onsen",
+   "ryokan",
+   "nakasendo",
+   "hakone",
+   "miyajima",
+   "okinawa",
+   "matsumoto-castle",
+   "japanese-lantern",
+   "torii-gate",
+   "yen-coins",
+   "nikkei",
    "japanese-garden",
    "japanese-lanterns",
    "neon-tokyo",
@@ -201459,7 +202437,7 @@
    "nara-deer",
    "sapporo"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "metals": {
   "name": "Industrial metals & mining",
@@ -204039,37 +205017,37 @@
     "track_pending": true
    },
    {
-    "shot": "tourists-times-square",
-    "shows": "Dundas Square",
-    "file": "File:Dundas Square (2484018500).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dundas_Square_(2484018500).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Dundas_Square_%282484018500%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dundas_Square_%282484018500%29.jpg/500px-Dundas_Square_%282484018500%29.jpg",
+    "shot": "taxiing-airplane",
+    "shows": "Commonwealth Aircraft Corporation CA-18 Mustang Mk.21 Jersey Jerk 44- Duxford 2024 02",
+    "file": "File:Commonwealth Aircraft Corporation CA-18 Mustang Mk.21 Jersey Jerk 44-15152 Duxford 2024 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Commonwealth_Aircraft_Corporation_CA-18_Mustang_Mk.21_Jersey_Jerk_44-15152_Duxford_2024_02.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Commonwealth_Aircraft_Corporation_CA-18_Mustang_Mk.21_Jersey_Jerk_44-15152_Duxford_2024_02.jpg/1920px-Commonwealth_Aircraft_Corporation_CA-18_Mustang_Mk.21_Jersey_Jerk_44-15152_Duxford_2024_02.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Commonwealth_Aircraft_Corporation_CA-18_Mustang_Mk.21_Jersey_Jerk_44-15152_Duxford_2024_02.jpg/500px-Commonwealth_Aircraft_Corporation_CA-18_Mustang_Mk.21_Jersey_Jerk_44-15152_Duxford_2024_02.jpg",
     "size": [
-     1200,
-     1600
+     1920,
+     1282
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Linda N., CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
+    "credit": "Julian Herzog ( Website ), CC BY 4.0, via Wikimedia Commons",
+    "licence": "CC BY 4.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Linda N.",
-    "year": 2008,
+    "licence_url": "https://creativecommons.org/licenses/by/4.0",
+    "author": "Julian Herzog ( Website )",
+    "year": 2024,
     "how": "catalog"
    }
   ],
   "missing": [
-   "travel",
-   "train-station",
-   "boarding-pass",
-   "plane-window",
-   "road-trip",
-   "tourism",
-   "cruise",
+   "airport-runway",
+   "seaplane",
+   "airport-check-in",
+   "baggage-claim",
+   "hotel-pool",
+   "train-platform",
+   "airport-escalator",
    "airplane-window",
    "plane",
    "airport-gate",
@@ -204085,9 +205063,17 @@
    "check-in-counter",
    "airplane-seat",
    "travel-map",
-   "backpacker"
+   "backpacker",
+   "tourist",
+   "beach",
+   "sightseeing",
+   "map-and-compass",
+   "hostel",
+   "luggage-carousel",
+   "travel-backpack",
+   "airport-lounge"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "luxury": {
   "name": "Luxury goods",

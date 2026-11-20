@@ -8,5 +8,60 @@
  "sector": "sector-energy",
  "target": 10,
  "fill_from": "sector-energy",
- "photos": []
+ "photos": [
+  {
+   "shows": "OxyChem, Taft Plant, Louisiana",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OxyChem%2C_Taft_Plant%2C_Louisiana.jpg/1920px-OxyChem%2C_Taft_Plant%2C_Louisiana.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/OxyChem%2C_Taft_Plant%2C_Louisiana.jpg/500px-OxyChem%2C_Taft_Plant%2C_Louisiana.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chad Davis, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:OxyChem,_Taft_Plant,_Louisiana.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Occidental Chemical Corporation Aerial - Wichita",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg/1920px-Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg/500px-Occidental_Chemical_Corporation_Aerial_-_Wichita_%2850902494042%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "formulanone, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Occidental_Chemical_Corporation_Aerial_-_Wichita_(50902494042).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Anadarko Petroleum Corp, The Woodlands TX",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg/1920px-Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg/500px-Anadarko_Petroleum_Corp%2C_The_Woodlands_TX.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Philip G Coman, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Anadarko_Petroleum_Corp,_The_Woodlands_TX.jpg",
+   "plain": true
+  }
+ ]
 }

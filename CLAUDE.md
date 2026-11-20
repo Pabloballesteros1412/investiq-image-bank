@@ -414,6 +414,21 @@ Decisions (Pablo, 4 Nov 2026):
   6,665 photos; companies 4,289 (208 at target, 90 with none; famous average 26.2, 35 of 50 at 30), topics 1,829,
   sectors 547; 23 of 48 still at 48-49. Round 22 drafted (85 searches, 25 subjects, `new_r22.json`): generic words
   are spent, so they name places and things (Himeji, Senso-ji, debt clock, surgical robot, customs officer).
+- **Round 22, round 23** (19-20 Nov): round 22 (85 searches) gave 1 photo (a photonics lab bench for quantum); round 23
+  (116 searches in the 20 under 50, three pieces, a container restart cut one) gave 5 (a fibre patch panel, hands
+  counting dollars, nuclear fuel pellets, a KUKA arm, cherry blossom). Word matches seen: grocery coupons for "bond
+  coupon", a boat named SERVER, a rose for bonds, the Uzbek "last bell" for IPOs. 33 of 48 at 50, the other 15 at
+  48-49: the demo search has little left for them.
+- **More B2B brand terms** (19-20 Nov): SYF, OXY (OxyChem, Anadarko), AWK (state subsidiaries), STLD, MOS (Esterhazy,
+  Riverview), APA, COHR (II-VI), EQT (EQT Plaza), GPN (TSYS, Heartland), VLTO (Pantone, Videojet, X-Rite), P (Pure
+  Storage: "Everpure" is its new name but the word also names Pentair water filters, so it is not a term), SBAC, BRO,
+  CINF, EME, EG, TECH; then UHS (its hospitals: George Washington University Hospital, Henderson, Centennial Hills,
+  Texoma...), DOV, ROP, CPAY, TPL, GL, IEX (Hale fire pumps). Commons + Openverse: 9 best, 23 reserve (Pantone swatches,
+  EQT Plaza, the TSYS campus, OxyChem plants, UHS hospitals, Hale pump panels); Unsplash: 5 Pantone photos. Rejected:
+  union events for American Income Life, a Toowoomba hospital for "Henderson Hospital". VLTO 0 -> 10, UHS 0 -> 10, IEX
+  0 -> 4. Nothing for Dover, Roper, Corpay, Texas Pacific Land.
+- Bank (20 Nov): 6,705 photos; companies 4,321 (210 at target, 84 with none; famous average 26.2, 35 of 50 at 30),
+  topics 1,837, sectors 547. 345 Unsplash download counts pending.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

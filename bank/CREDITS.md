@@ -1930,6 +1930,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Look Up Fondren Entergy substation lit up: Photo by Tate Nations on Flickr, CC BY 2.0. [10987975536](https://www.flickr.com/photos/96247146@N00/10987975536)
 - Entergy Bldg (102.3 miles): Photo by bluepoint951 on Flickr, CC BY-SA 2.0. [394772205](https://www.flickr.com/photos/33494407@N00/394772205)
 
+## EQT Corporation (EQT)
+
+- EQT Plaza, Liberty Avenue, Pittsburgh, PA: Photo by w_lemay on Flickr, CC BY-SA 2.0. [53605984182](https://www.flickr.com/photos/59081381@N03/53605984182)
+- EQT Plaza, Liberty Avenue, 2015-04-23: Photo by Dr. Boli on Flickr, CC BY 2.0. [17073111999](https://www.flickr.com/photos/62947588@N06/17073111999)
+
 ## Equifax (EFX)
 
 - Equifax: Tyler Lahti, CC BY-SA 4.0, via Wikimedia Commons. [Equifax HQ.jpg](https://commons.wikimedia.org/wiki/File:Equifax_HQ.jpg)
@@ -2401,6 +2406,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Pre-Exposure Prophylaxis (PrEP): NIAID, CC BY 2.0, via Wikimedia Commons. [Pre-Exposure Prophylaxis (PrEP) (32514377531).jpg](https://commons.wikimedia.org/wiki/File:Pre-Exposure_Prophylaxis_(PrEP)_(32514377531).jpg)
 - Gilead Sciences headquarters (Foster City, CA) - 3: Suiren2022, CC BY-SA 4.0, via Wikimedia Commons. [Gilead Sciences headquarters (Foster City, CA) - 3.jpg](https://commons.wikimedia.org/wiki/File:Gilead_Sciences_headquarters_(Foster_City,_CA)_-_3.jpg)
 
+## Global Payments (GPN)
+
+- Muscogee / Fieldcrest Mill - TSYS Campus and Mott House: Photo by Keith Milligan on Flickr, CC BY 2.0. [5302708163](https://www.flickr.com/photos/42167888@N08/5302708163)
+- TSYS (15): Photo by Tiarnán Millar on Flickr, CC BY 2.0. [32483450468](https://www.flickr.com/photos/146876746@N05/32483450468)
+- TSYS (12): Photo by Tiarnán Millar on Flickr, CC BY 2.0. [45632376444](https://www.flickr.com/photos/146876746@N05/45632376444)
+
 ## GoDaddy (GDDY)
 
 - James Bladel: icannphotos, CC BY-SA 2.0, via Wikimedia Commons. [James Bladel (3345225094).jpg](https://commons.wikimedia.org/wiki/File:James_Bladel_(3345225094).jpg)
@@ -2686,6 +2697,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - IBM JX · ibm, ibmpcjr, oldcomputers, retrocomputing, average: Photo by Easterbilby on Flickr, CC BY 2.0. [4871934432](https://www.flickr.com/photos/37796451@N00/4871934432)
 - IBM thinkpad T40 · computer, ibm, ibmthinkpad, laptop, lenovo: Photo by Asim Bijarani on Flickr, CC BY 2.0. [2356361015](https://www.flickr.com/photos/8624431@N08/2356361015)
 - IBM 3279-S3G · 3270, 3279, htpc, ibm, mainframe: Photo by vaxomatic on Flickr, CC BY 2.0. [5625208727](https://www.flickr.com/photos/21881956@N05/5625208727)
+
+## IDEX Corporation (IEX)
+
+- Hale Ferrara pump panel: Reise Reise, CC BY-SA 3.0, via Wikimedia Commons. [Hale Ferrara pump panel.jpg](https://commons.wikimedia.org/wiki/File:Hale_Ferrara_pump_panel.jpg)
+- Corpo de Bombeiros Militar do Distrito Federal: André Gustavo Stumpf from Brasil, CC BY 2.0, via Wikimedia Commons. [CBMDF (9027212934).jpg](https://commons.wikimedia.org/wiki/File:CBMDF_(9027212934).jpg)
+- Kme hapeville engine one (controls): Rjluna2, CC BY-SA 4.0, via Wikimedia Commons. [Kme hapeville engine one (controls).jpg](https://commons.wikimedia.org/wiki/File:Kme_hapeville_engine_one_(controls).jpg)
+- 2000 spartan gladiator quality (control): Rjluna2, CC BY-SA 4.0, via Wikimedia Commons. [2000 spartan gladiator quality (control).jpg](https://commons.wikimedia.org/wiki/File:2000_spartan_gladiator_quality_(control).jpg)
 
 ## Idexx Laboratories (IDXX)
 
@@ -3981,6 +3999,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Commerce March 2017 081 (O'Reilly Auto Parts): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Commerce March 2017 081 (O'Reilly Auto Parts).jpg](https://commons.wikimedia.org/wiki/File:Commerce_March_2017_081_(O%27Reilly_Auto_Parts).jpg)
 - O'Reilly Auto Parts (Willimantic, Connecticut): Photo by jjbers on Flickr, CC BY 2.0. [28110932178](https://www.flickr.com/photos/148374920@N02/28110932178)
 - O'Reilly Auto Parts - Allegan: Photo by Kzoo Cowboy on Flickr, CC BY 2.0. [50875682968](https://www.flickr.com/photos/92871081@N03/50875682968)
+
+## Occidental Petroleum (OXY)
+
+- OxyChem, Taft Plant, Louisiana: Chad Davis, CC BY-SA 2.0, via Wikimedia Commons. [OxyChem, Taft Plant, Louisiana.jpg](https://commons.wikimedia.org/wiki/File:OxyChem,_Taft_Plant,_Louisiana.jpg)
+- Occidental Chemical Corporation Aerial - Wichita: formulanone, CC BY-SA 2.0, via Wikimedia Commons. [Occidental Chemical Corporation Aerial - Wichita (50902494042).jpg](https://commons.wikimedia.org/wiki/File:Occidental_Chemical_Corporation_Aerial_-_Wichita_(50902494042).jpg)
+- Anadarko Petroleum Corp, The Woodlands TX: Philip G Coman, CC BY-SA 4.0, via Wikimedia Commons. [Anadarko Petroleum Corp, The Woodlands TX.jpg](https://commons.wikimedia.org/wiki/File:Anadarko_Petroleum_Corp,_The_Woodlands_TX.jpg)
 
 ## Old Dominion (ODFL)
 
@@ -5416,6 +5440,19 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - UnitedHealthcare Corporate Headquarters, December 8 2024: Chad Davis, CC BY 2.0, via Wikimedia Commons. [UnitedHealthcare Corporate Headquarters, December 8 2024 (54191437643).jpg](https://commons.wikimedia.org/wiki/File:UnitedHealthcare_Corporate_Headquarters,_December_8_2024_(54191437643).jpg)
 - Tunnel under 62 and Optum Hq on Green Line Extension: Gatorpatch, CC0, via Wikimedia Commons. [Tunnel under 62 and Optum Hq on Green Line Extension.jpg](https://commons.wikimedia.org/wiki/File:Tunnel_under_62_and_Optum_Hq_on_Green_Line_Extension.jpg)
 
+## Universal Health Services (UHS)
+
+- The George Washington University Hospital, Washington Circle, Foggy Bottom, Washington, D.C.: Photo by Ken Lund on Flickr, CC BY-SA 2.0. [2716164136](https://www.flickr.com/photos/75683070@N00/2716164136)
+- West Henderson Hospital: TheYearbookTeacher, CC BY 4.0, via Wikimedia Commons. [West Henderson Hospital.jpg](https://commons.wikimedia.org/wiki/File:West_Henderson_Hospital.jpg)
+- Centennial Hills Hospital: Bootlegbaby, CC BY-SA 3.0, via Wikimedia Commons. [Centennial Hills Hospital.jpg](https://commons.wikimedia.org/wiki/File:Centennial_Hills_Hospital.jpg)
+- Texoma Medical Center March 2018: TMC Marketing, CC BY-SA 4.0, via Wikimedia Commons. [Texoma Medical Center March 2018.jpg](https://commons.wikimedia.org/wiki/File:Texoma_Medical_Center_March_2018.jpg)
+- George Washington University Hospital - 2012: Marcus Qwertyus, CC BY-SA 3.0, via Wikimedia Commons. [George Washington University Hospital - 2012.JPG](https://commons.wikimedia.org/wiki/File:George_Washington_University_Hospital_-_2012.JPG)
+- George Washington University hospital Emergence Medical Service ambulance, "GW-1".: G0T0, CC0, via Wikimedia Commons. [GWUEMS.JPG](https://commons.wikimedia.org/wiki/File:GWUEMS.JPG)
+- Western side of Henderson Hospital (Nevada) on August 3, 2026: TheYearbookTeacher, CC BY-SA 4.0, via Wikimedia Commons. [Western side of Henderson Hospital (Nevada) on August 3, 2026.jpg](https://commons.wikimedia.org/wiki/File:Western_side_of_Henderson_Hospital_(Nevada)_on_August_3,_2026.jpg)
+- Texoma Medical Center: Fkbowen, CC BY-SA 4.0, via Wikimedia Commons. [Texoma Medical Center.jpg](https://commons.wikimedia.org/wiki/File:Texoma_Medical_Center.jpg)
+- George Washington University Hospital Entrance (pingnews): Photo by pingnews.com on Flickr, CC BY-SA 2.0. [138005163](https://www.flickr.com/photos/39735679@N00/138005163)
+- The George Washington University Hospital (Washington, D.C.): Photo by tgrauros on Flickr, CC BY-SA 2.0. [15052513828](https://www.flickr.com/photos/27439865@N05/15052513828)
+
 ## Vale (VALE)
 
 - Trem da Vale com minério de ferro na EFVM e BR-381 em Timóteo MG: HVL, CC BY 4.0, via Wikimedia Commons. [Trem da Vale com minério de ferro na EFVM e BR-381 em Timóteo MG.JPG](https://commons.wikimedia.org/wiki/File:Trem_da_Vale_com_min%C3%A9rio_de_ferro_na_EFVM_e_BR-381_em_Tim%C3%B3teo_MG.JPG)
@@ -5431,6 +5468,19 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Fuel pumps at a Valero gas station in Greenville, South Carolina 06: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Fuel pumps at a Valero gas station in Greenville, South Carolina 06.jpg](https://commons.wikimedia.org/wiki/File:Fuel_pumps_at_a_Valero_gas_station_in_Greenville,_South_Carolina_06.jpg)
 - Valero Oil Refinery Aruba: Photo by D-Stanley on Flickr, CC BY 2.0. [4901402311](https://www.flickr.com/photos/79721788@N00/4901402311)
 - Fuel pump at a Valero gas station in Greenville, South Carolina 01: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Fuel pump at a Valero gas station in Greenville, South Carolina 01.jpg](https://commons.wikimedia.org/wiki/File:Fuel_pump_at_a_Valero_gas_station_in_Greenville,_South_Carolina_01.jpg)
+
+## Veralto (VLTO)
+
+- Pantone formula guide · calibration, coated, colors, formula, guide: Photo by jepoirrier on Flickr, CC BY-SA 2.0. [349613923](https://www.flickr.com/photos/57519914@N00/349613923)
+- Nuancier Pantone 2 (Cut out): Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen, CC BY-SA 3.0, via Wikimedia Commons. [Nuancier Pantone 2 (Cut out).jpg](https://commons.wikimedia.org/wiki/File:Nuancier_Pantone_2_(Cut_out).jpg)
+- A glass of green paint next to some cards: Photo by Noemí Jiménez on Unsplash. [IqAi-WdcbUw](https://unsplash.com/photos/a-glass-of-green-paint-next-to-some-cards-IqAi-WdcbUw?utm_source=investiq_image_bank&utm_medium=referral)
+- A fan deck of colorful paper swatches arranged in a spectrum on a surface: Photo by Mika Baumeister on Unsplash. [PtabTe6iJ_8](https://unsplash.com/photos/color-fan-deck-with-paper-swatches-PtabTe6iJ_8?utm_source=investiq_image_bank&utm_medium=referral)
+- Blue white and red paper: Photo by Mika Baumeister on Unsplash. [_Xesb_PEygM](https://unsplash.com/photos/blue-white-and-red-paper-_Xesb_PEygM?utm_source=investiq_image_bank&utm_medium=referral)
+- A pantone color swatch with a white background: Photo by Fiona Murray-deGraaff on Unsplash. [5Hl03JE699s](https://unsplash.com/photos/a-pantone-color-swatch-with-a-white-background-5Hl03JE699s?utm_source=investiq_image_bank&utm_medium=referral)
+- A stack of pantone papers sitting on top of a yellow table: Photo by Dee on Unsplash. [x5fjOL3kums](https://unsplash.com/photos/a-stack-of-pantone-papers-sitting-on-top-of-a-yellow-table-x5fjOL3kums?utm_source=investiq_image_bank&utm_medium=referral)
+- Plant flowers and a X-rite ColorChecker Passport: Yuki Hayashi from TOKYO, JAPAN, CC BY 2.0, via Wikimedia Commons. [Plant flowers and a X-rite ColorChecker Passport.jpg](https://commons.wikimedia.org/wiki/File:Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg)
+- Dopplr in Pantone mugs · dopplr, mugs, pantone, siliconroundabout: Photo by Matt Biddulph on Flickr, CC BY-SA 2.0. [2695780190](https://www.flickr.com/photos/51035707449@N01/2695780190)
+- Pantone handbags window display: Photo by Frankie Roberto on Flickr, CC BY 2.0. [416645229](https://www.flickr.com/photos/84195101@N00/416645229)
 
 ## Verisign (VRSN)
 
@@ -6770,6 +6820,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Viglen blade servers: devopstom, CC BY-SA 2.0, via Wikimedia Commons. [Viglen blade servers.jpg](https://commons.wikimedia.org/wiki/File:Viglen_blade_servers.jpg)
 - A close up of a network tester on a table: Photo by Gavin Allanwood on Unsplash. [-xITpL_gncA](https://unsplash.com/photos/a-close-up-of-a-network-tester-on-a-table--xITpL_gncA?utm_source=investiq_image_bank&utm_medium=referral)
 - Wikimedia Foundation Servers 2015-88: VGrigas (WMF), CC BY-SA 3.0, via Wikimedia Commons. [Wikimedia Foundation Servers 2015-88.jpg](https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers_2015-88.jpg)
+- Optical fibre distribution mess in France patch panel: InfosReseaux, CC BY 4.0, via Wikimedia Commons. [Optical fibre distribution mess in France patch panel.jpg](https://commons.wikimedia.org/wiki/File:Optical_fibre_distribution_mess_in_France_patch_panel.jpg)
 
 ## Semiconductors & the chip war (chips)
 
@@ -6822,6 +6873,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A close up of a raspberry board on a table: Photo by Jainath Ponnala on Unsplash. [jvHymbpto1E](https://unsplash.com/photos/a-close-up-of-a-raspberry-board-on-a-table-jvHymbpto1E?utm_source=investiq_image_bank&utm_medium=referral)
 - Lithography machine at INESC MN: Misn02, CC BY-SA 4.0, via Wikimedia Commons. [Lithography machine at INESC MN.jpg](https://commons.wikimedia.org/wiki/File:Lithography_machine_at_INESC_MN.jpg)
 - 2N6282: NPN silicon Darlington power transistor; 60V; 20A; 160W; hFE min: 750; TO-3 packaging; Manufacturer: Motorola: Mister rf, CC BY-SA 4.0, via Wikimedia Commons. [2N6282 die.jpg](https://commons.wikimedia.org/wiki/File:2N6282_die.jpg)
+- IMac A1173 Motherboard Closeup: Oligopolism, CC0, via Wikimedia Commons. [IMac A1173 Motherboard Closeup.jpg](https://commons.wikimedia.org/wiki/File:IMac_A1173_Motherboard_Closeup.jpg)
 
 ## Bitcoin & crypto (crypto)
 
@@ -7032,6 +7084,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A large boat in a body of water: Photo by Julia Taubitz on Unsplash. [zc4em1u9_Fo](https://unsplash.com/photos/a-large-boat-in-a-body-of-water-zc4em1u9_Fo?utm_source=investiq_image_bank&utm_medium=referral)
 - Large shipping cranes at a container terminal at night with lights reflecting on the water: Photo by Sondre Millstein on Unsplash. [cdm1L4MzCWQ](https://unsplash.com/photos/shipping-cranes-at-night-container-terminal-cdm1L4MzCWQ?utm_source=investiq_image_bank&utm_medium=referral)
 - White and blue metal crane under blue sky during daytime: Photo by fred crandon on Unsplash. [0JRcFvUbGAY](https://unsplash.com/photos/white-and-blue-metal-crane-under-blue-sky-during-daytime-0JRcFvUbGAY?utm_source=investiq_image_bank&utm_medium=referral)
+- A large amount of containers are stacked on top of each other: Photo by Fejuz on Unsplash. [q6j5mSRpi50](https://unsplash.com/photos/a-large-amount-of-containers-are-stacked-on-top-of-each-other-q6j5mSRpi50?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## China economy (china)
 
@@ -7137,6 +7190,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - US dollar and Chinese yuan banknote lot: Photo by Eric Prouzet on Unsplash. [XBbkrBrkp88](https://unsplash.com/photos/us-dollar-and-chinese-yuan-banknote-lot-XBbkrBrkp88?utm_source=investiq_image_bank&utm_medium=referral)
 - 2014 Tbilisi, Tablica elektroniczna z kursami walut: Marcin Konsek, CC BY-SA 4.0, via Wikimedia Commons. [2014 Tbilisi, Tablica elektroniczna z kursami walut.jpg](https://commons.wikimedia.org/wiki/File:2014_Tbilisi,_Tablica_elektroniczna_z_kursami_walut.jpg)
 - A pile of money sitting on top of a table: Photo by Gio Bartlett on Unsplash. [YRItNaB_HT8](https://unsplash.com/photos/a-pile-of-money-sitting-on-top-of-a-table-YRItNaB_HT8?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding a smartphone while counting cash near a window in a light space: Shixart1985, CC BY 2.0, via Wikimedia Commons. [Person holding a smartphone while counting cash near a window in a light space.jpg](https://commons.wikimedia.org/wiki/File:Person_holding_a_smartphone_while_counting_cash_near_a_window_in_a_light_space.jpg)
 
 ## Treasuries, bonds & national debt (bonds)
 
@@ -7449,6 +7503,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Kernkraftwerk-Brokdorf-Schleswig-Holstein-1: Gunnar Klack, CC BY-SA 4.0, via Wikimedia Commons. [2020-12-29-Kernkraftwerk-Brokdorf-Schleswig-Holstein-1.jpg](https://commons.wikimedia.org/wiki/File:2020-12-29-Kernkraftwerk-Brokdorf-Schleswig-Holstein-1.jpg)
 - Susquehanna Steam Electric Station cooling towers from Nescopeck: Jakec, CC BY-SA 4.0, via Wikimedia Commons. [Susquehanna Steam Electric Station cooling towers from Nescopeck.JPG](https://commons.wikimedia.org/wiki/File:Susquehanna_Steam_Electric_Station_cooling_towers_from_Nescopeck.JPG)
 - Sredica JE Krško med menjavo goriva: Nuklearna elektrarna Krško, CC BY-SA 4.0, via Wikimedia Commons. [Sredica JE Krško med menjavo goriva.jpg](https://commons.wikimedia.org/wiki/File:Sredica_JE_Kr%C5%A1ko_med_menjavo_goriva.jpg)
+- Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center: Siarhei Besarab, CC BY-SA 4.0, via Wikimedia Commons. [Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center.jpg](https://commons.wikimedia.org/wiki/File:Nuclear_fuel_pellets_at_the_Greifswald_Nuclear_Power_Plant_information_center.jpg)
 
 ## Defense & geopolitics (defense)
 
@@ -7922,6 +7977,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Setup laser femtosegundo: Chenilab, CC BY-SA 4.0, via Wikimedia Commons. [Setup laser femtosegundo.jpg](https://commons.wikimedia.org/wiki/File:Setup_laser_femtosegundo.jpg)
 - Superconductor ring and magnet in levitation: Julien Bobroff ( user:Jubobroff ), Frederic Bouquet ( user:Fbouquet ), LPS , Orsay, France, CC BY-SA 3.0, via Wikimedia Commons. [Superconductor ring and magnet in levitation.JPG](https://commons.wikimedia.org/wiki/File:Superconductor_ring_and_magnet_in_levitation.JPG)
 - Optical fiber in protective coating that transports a Laser beam - Laser Physics Lab - NTNU-NT: NTNU, Faculty of Natural Sciences and Technology, CC BY 2.0, via Wikimedia Commons. [Optical fiber in protective coating that transports a Laser beam - Laser Physics Lab - NTNU-NT.jpg](https://commons.wikimedia.org/wiki/File:Optical_fiber_in_protective_coating_that_transports_a_Laser_beam_-_Laser_Physics_Lab_-_NTNU-NT.jpg)
+- PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption: DanielPenfield, CC BY-SA 4.0, via Wikimedia Commons. [PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg](https://commons.wikimedia.org/wiki/File:PhotonicsForQuantumWorkshop2019MicroelectronicsEngineeringTourOpticsLabFiberOpticsContraption.jpg)
 
 ## Robotics & automation (robotics)
 
@@ -7974,6 +8030,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A couple of toy robots standing on top of a wooden table: Photo by Theo on Unsplash. [kqv37CRVnVc](https://unsplash.com/photos/a-couple-of-toy-robots-standing-on-top-of-a-wooden-table-kqv37CRVnVc?utm_source=investiq_image_bank&utm_medium=referral)
 - Selective focus photography of gray and black quadcopter drone: Photo by Jonathan Lampel on Unsplash. [L9wrEGJjRdo](https://unsplash.com/photos/selective-focus-photography-of-gray-and-black-quadcopter-drone-L9wrEGJjRdo?utm_source=investiq_image_bank&utm_medium=referral)
 - A white robot vacuum cleaner on a grey floor: Photo by Andrey Matveev on Unsplash. [EY7bNpTBv4c](https://unsplash.com/photos/a-white-robot-vacuum-cleaner-on-a-grey-floor-EY7bNpTBv4c?utm_source=investiq_image_bank&utm_medium=referral)
+- KUKA industrial robotic arm performing "The Beach" by Roy Nachum - 02: Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons. [KUKA industrial robotic arm performing "The Beach" by Roy Nachum - 02.jpg](https://commons.wikimedia.org/wiki/File:KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg)
 
 ## Cybersecurity (cybersecurity)
 
@@ -8131,6 +8188,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Brown wooden house near green trees during daytime: Photo by Roméo A. on Unsplash. [JiMSelyQ_5k](https://unsplash.com/photos/brown-wooden-house-near-green-trees-during-daytime-JiMSelyQ_5k?utm_source=investiq_image_bank&utm_medium=referral)
 - Bank of Japan building: Syced, CC0, via Wikimedia Commons. [Bank of Japan building (14490).jpg](https://commons.wikimedia.org/wiki/File:Bank_of_Japan_building_(14490).jpg)
 - A river running through a city next to tall buildings: Photo by Laura Barry on Unsplash. [8ZnNLUr3RRc](https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-8ZnNLUr3RRc?utm_source=investiq_image_bank&utm_medium=referral)
+- White petaled flower: Photo by David Brooke Martin on Unsplash. [lFTtQqVfx6g](https://unsplash.com/photos/white-petaled-flower-lFTtQqVfx6g?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Industrial metals & mining (metals)
 

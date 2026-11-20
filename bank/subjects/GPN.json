@@ -8,5 +8,66 @@
  "sector": "sector-financials",
  "target": 10,
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Muscogee / Fieldcrest Mill - TSYS Campus and Mott House",
+   "url": "https://live.staticflickr.com/5087/5302708163_bcff745fe9_b.jpg",
+   "preview": "https://live.staticflickr.com/5087/5302708163_bcff745fe9_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Keith Milligan on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/42167888@N08",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/42167888@N08/5302708163",
+   "plain": true
+  },
+  {
+   "shows": "TSYS (15)",
+   "url": "https://live.staticflickr.com/4836/32483450468_24559c3789_b.jpg",
+   "preview": "https://live.staticflickr.com/4836/32483450468_24559c3789_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tiarnán Millar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/146876746@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/146876746@N05/32483450468",
+   "plain": true
+  },
+  {
+   "shows": "TSYS (12)",
+   "url": "https://live.staticflickr.com/4840/45632376444_248226358d_b.jpg",
+   "preview": "https://live.staticflickr.com/4840/45632376444_248226358d_z.jpg",
+   "size": [
+    1024,
+    678
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Tiarnán Millar on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/146876746@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/146876746@N05/45632376444",
+   "plain": true
+  }
+ ]
 }

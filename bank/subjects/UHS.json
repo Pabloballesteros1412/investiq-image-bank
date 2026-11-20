@@ -7,6 +7,189 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "The George Washington University Hospital, Washington Circle, Foggy Bottom, Washington, D.C.",
+   "url": "https://live.staticflickr.com/3077/2716164136_b3c1c2d996_b.jpg",
+   "preview": "https://live.staticflickr.com/3077/2716164136_b3c1c2d996_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by Ken Lund on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/75683070@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/75683070@N00/2716164136",
+   "plain": true
+  },
+  {
+   "shows": "West Henderson Hospital",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/West_Henderson_Hospital.jpg/1920px-West_Henderson_Hospital.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/West_Henderson_Hospital.jpg/500px-West_Henderson_Hospital.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TheYearbookTeacher, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:West_Henderson_Hospital.jpg"
+  },
+  {
+   "shows": "Centennial Hills Hospital",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Centennial_Hills_Hospital.jpg/1920px-Centennial_Hills_Hospital.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Centennial_Hills_Hospital.jpg/500px-Centennial_Hills_Hospital.jpg",
+   "size": [
+    1920,
+    1474
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bootlegbaby, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Centennial_Hills_Hospital.jpg"
+  },
+  {
+   "shows": "Texoma Medical Center March 2018",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Texoma_Medical_Center_March_2018.jpg/1920px-Texoma_Medical_Center_March_2018.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Texoma_Medical_Center_March_2018.jpg/500px-Texoma_Medical_Center_March_2018.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TMC Marketing, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Texoma_Medical_Center_March_2018.jpg"
+  },
+  {
+   "shows": "George Washington University Hospital - 2012",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/George_Washington_University_Hospital_-_2012.JPG/1920px-George_Washington_University_Hospital_-_2012.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/George_Washington_University_Hospital_-_2012.JPG/500px-George_Washington_University_Hospital_-_2012.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Marcus Qwertyus, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:George_Washington_University_Hospital_-_2012.JPG",
+   "plain": true
+  },
+  {
+   "shows": "George Washington University hospital Emergence Medical Service ambulance, \"GW-1\".",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GWUEMS.JPG/1920px-GWUEMS.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/GWUEMS.JPG/500px-GWUEMS.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "G0T0, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GWUEMS.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Western side of Henderson Hospital (Nevada) on August 3, 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Western_side_of_Henderson_Hospital_%28Nevada%29_on_August_3%2C_2026.jpg/1920px-Western_side_of_Henderson_Hospital_%28Nevada%29_on_August_3%2C_2026.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Western_side_of_Henderson_Hospital_%28Nevada%29_on_August_3%2C_2026.jpg/500px-Western_side_of_Henderson_Hospital_%28Nevada%29_on_August_3%2C_2026.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "TheYearbookTeacher, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Western_side_of_Henderson_Hospital_(Nevada)_on_August_3,_2026.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Texoma Medical Center",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Texoma_Medical_Center.jpg/1920px-Texoma_Medical_Center.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Texoma_Medical_Center.jpg/500px-Texoma_Medical_Center.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Fkbowen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Texoma_Medical_Center.jpg",
+   "plain": true
+  },
+  {
+   "shows": "George Washington University Hospital Entrance (pingnews)",
+   "url": "https://live.staticflickr.com/49/138005163_965e9daf0f_b.jpg",
+   "preview": "https://live.staticflickr.com/49/138005163_965e9daf0f_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by pingnews.com on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/39735679@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/39735679@N00/138005163",
+   "plain": true
+  },
+  {
+   "shows": "The George Washington University Hospital (Washington, D.C.)",
+   "url": "https://live.staticflickr.com/3856/15052513828_56e96f4abe_b.jpg",
+   "preview": "https://live.staticflickr.com/3856/15052513828_56e96f4abe_z.jpg",
+   "size": [
+    723,
+    1024
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by tgrauros on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/27439865@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/27439865@N05/15052513828",
+   "plain": true
+  }
+ ]
 }

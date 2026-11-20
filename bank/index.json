@@ -11,8 +11,8 @@
   "Photos with 'plain': true are the company's own but ordinary (a facade with no name, grey light): they come after its other photos. Prefer the others, and for a cover slide its sector's photos, before a plain one.",
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
- "updated": "2026-11-19",
- "photos": 6665,
+ "updated": "2026-11-20",
+ "photos": 6705,
  "subjects": [
   {
    "id": "MMM",
@@ -2714,7 +2714,7 @@
     "EQT"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/EQT.json",
    "sector": "sector-energy",
@@ -3395,7 +3395,7 @@
     "GPN"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 3,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/GPN.json",
    "sector": "sector-financials",
@@ -3776,7 +3776,7 @@
     "IEX"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 4,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/IEX.json",
    "sector": "sector-industrials",
@@ -5340,7 +5340,7 @@
     "OXY"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 3,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/OXY.json",
    "sector": "sector-energy",
@@ -7360,11 +7360,10 @@
     "UHS"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/UHS.json",
-   "sector": "sector-health",
-   "fill_from": "sector-health"
+   "sector": "sector-health"
   },
   {
    "id": "VALE",
@@ -7430,11 +7429,10 @@
     "VLTO"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 10,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/VLTO.json",
-   "sector": "sector-industrials",
-   "fill_from": "sector-industrials"
+   "sector": "sector-industrials"
   },
   {
    "id": "VRSN",
@@ -8228,7 +8226,7 @@
     "grid",
     "capex"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/datacenters.json"
   },
@@ -8243,7 +8241,7 @@
     "chip war",
     "export controls"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/chips.json"
   },
@@ -8305,7 +8303,7 @@
     "imports",
     "customs"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/tariffs.json"
   },
@@ -8337,7 +8335,7 @@
     "forex",
     "eurusd"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/dollar.json"
   },
@@ -8431,7 +8429,7 @@
     "smr",
     "nuclear power"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/nuclear.json"
   },
@@ -8578,7 +8576,7 @@
     "quantum computing",
     "quantum computer"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/quantum.json"
   },
@@ -8593,7 +8591,7 @@
     "automation",
     "humanoid"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/robotics.json"
   },
@@ -8640,7 +8638,7 @@
     "yen",
     "bank of japan"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/japan.json"
   },
