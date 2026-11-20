@@ -145098,11 +145098,11 @@
    },
    {
     "shot": "technology-conference",
-    "shows": "Game Developers Conference 2017, Registration 08",
-    "file": "File:Game Developers Conference 2017, Registration 08.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Game_Developers_Conference_2017,_Registration_08.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Game_Developers_Conference_2017%2C_Registration_08.jpg/1920px-Game_Developers_Conference_2017%2C_Registration_08.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Game_Developers_Conference_2017%2C_Registration_08.jpg/500px-Game_Developers_Conference_2017%2C_Registration_08.jpg",
+    "shows": "Game Developers Conference 2017, Registration 10",
+    "file": "File:Game Developers Conference 2017, Registration 10.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Game_Developers_Conference_2017,_Registration_10.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Game_Developers_Conference_2017%2C_Registration_10.jpg/1920px-Game_Developers_Conference_2017%2C_Registration_10.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Game_Developers_Conference_2017%2C_Registration_10.jpg/500px-Game_Developers_Conference_2017%2C_Registration_10.jpg",
     "size": [
      1920,
      1280
@@ -145122,12 +145122,12 @@
   ],
   "missing": [
    "office-open-space",
-   "smartphone-closeup",
-   "computer-screen-code",
-   "tech-campus",
-   "usb-drive",
-   "tech-store",
-   "coding-monitor",
+   "laptop-on-desk",
+   "smartphone-in-hand",
+   "drone-flying",
+   "keyboard-backlight",
+   "usb-cable",
+   "game-controller",
    "tech",
    "circuit",
    "silicon-valley",
@@ -163345,36 +163345,39 @@
     "track": "https://api.unsplash.com/photos/2nSdQEd-Exc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG9vbGJveHxlbnwxfHx8fDE3OTUwMDQ0Nzl8MA"
    },
    {
-    "shot": "warehouse-staff",
-    "shows": "Fort Huachuca-Building-Hangman's Warehouse-1880",
-    "file": "File:Fort Huachuca-Building-Hangman's Warehouse-1880.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg/1920px-Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg/500px-Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg",
+    "shot": "resume-on-desk",
+    "shows": "Barack Obama in the Oval Office in september 2010",
+    "file": "File:Barack Obama in the Oval Office in september 2010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Barack_Obama_in_the_Oval_Office_in_september_2010.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barack_Obama_in_the_Oval_Office_in_september_2010.jpg/1920px-Barack_Obama_in_the_Oval_Office_in_september_2010.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Barack_Obama_in_the_Oval_Office_in_september_2010.jpg/500px-Barack_Obama_in_the_Oval_Office_in_september_2010.jpg",
     "size": [
      1920,
-     1440
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Marine 69-71, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Marine 69-71",
-    "year": 2020,
-    "how": "catalog"
+    "credit": "White House ( Pete Souza ) / Maison Blanche ( Pete Souza ), public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "White House ( Pete Souza ) / Maison Blanche ( Pete Souza )",
+    "year": 2010,
+    "how": "catalog",
+    "flags": [
+     "restrictions: personality"
+    ]
    }
   ],
   "missing": [
-   "nurse-hospital",
-   "office-team",
-   "laborer",
-   "farm-worker",
-   "chef-kitchen",
-   "teacher-classroom",
+   "handshake-office",
+   "career-fair",
+   "commute-crowd",
+   "nurse-shift",
+   "barista-working",
+   "assembly-line-worker",
    "resume-paper",
    "interview-handshake",
    "hiring-banner",
@@ -167253,37 +167256,37 @@
     "how": "catalog"
    },
    {
-    "shot": "robot-arm-closeup",
-    "shows": "Closeup of robotic arm in StorageTek tape library at NERSC",
-    "file": "File:Closeup of robotic arm in StorageTek tape library at NERSC (1).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_(1).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_%281%29.jpg/1920px-Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_%281%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_%281%29.jpg/500px-Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_%281%29.jpg",
+    "shot": "android-robot-face",
+    "shows": "Five extraterrestrial-origin beings in the Utah Data Center",
+    "file": "File:Five extraterrestrial-origin beings in the Utah Data Center.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg/1920px-Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg/500px-Five_extraterrestrial-origin_beings_in_the_Utah_Data_Center.jpg",
     "size": [
      1920,
-     1276
+     1920
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Derrick Coetzee from Berkeley, CA, USA, CC0, via Wikimedia Commons",
+    "credit": "Prototyperspective, CC0, via Wikimedia Commons",
     "licence": "CC0",
     "licence_kind": "cc0",
     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Derrick Coetzee from Berkeley, CA, USA",
-    "year": 2011,
+    "author": "Prototyperspective",
+    "year": 2023,
     "how": "catalog"
    }
   ],
   "missing": [
-   "robot-portrait",
-   "face-scan",
-   "robotic-hand-touch",
-   "server-gpu",
-   "nvidia-gpu",
-   "electronics",
-   "robotics"
+   "robot-hand-keyboard",
+   "server-racks-blue-light",
+   "self-driving-car-sensor",
+   "humanoid-robot-hand",
+   "chatbot-on-phone",
+   "laptop-code-dark",
+   "white-robot"
   ],
   "checked": "2026-11-20"
  },
@@ -173685,36 +173688,36 @@
    },
    {
     "shot": "opec",
-    "shows": "Klimaprotest-at - Eröffnung der OPEC Tagung 03",
-    "file": "File:Klimaprotest-at - Eröffnung der OPEC Tagung 03 (49172407751).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_(49172407751).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_%2849172407751%29.jpg/1920px-Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_%2849172407751%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_%2849172407751%29.jpg/500px-Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_%2849172407751%29.jpg",
+    "shows": "OPEC headquarters in Vienna",
+    "file": "File:2007 032 26 Wien 001 (51102609896).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2007_032_26_Wien_001_(51102609896).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2007_032_26_Wien_001_%2851102609896%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2007_032_26_Wien_001_%2851102609896%29.jpg/500px-2007_032_26_Wien_001_%2851102609896%29.jpg",
     "size": [
-     1920,
-     1440
+     1624,
+     1221
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "System Change not Climate Change, CC BY-SA 2.0, via Wikimedia Commons",
+    "credit": "János Korom Dr. >17 Million views from Wien, Austria, CC BY-SA 2.0, via Wikimedia Commons",
     "licence": "CC BY-SA 2.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "System Change not Climate Change",
-    "year": 2019,
+    "author": "János Korom Dr. >17 Million views from Wien, Austria",
+    "year": 2007,
     "how": "catalog"
    }
   ],
   "missing": [
-   "offshore-drilling",
-   "crude-oil-barrel",
-   "oilfield",
-   "refinery-towers",
-   "oil-barrel-stack",
-   "petrol-pump",
-   "offshore-rig",
+   "pipeline-desert",
+   "crude-oil-drop",
+   "gas-pump-price",
+   "oil-barrels-stacked",
+   "refinery-smokestack",
+   "fracking-site",
+   "oil-pipeline-valve",
    "lng-tanker",
    "oil-derrick"
   ],
@@ -178982,36 +178985,36 @@
     "track": "https://api.unsplash.com/photos/tuJ3tXSayco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG5ld3NwYXBlciUyMGZpbmFuY2V8ZW58MXx8fHwxNzk1MDE0NDQ3fDA"
    },
    {
-    "shot": "treasury-bills",
-    "shows": "Melbourne Treasury Gardens Bills Horse Trough 001",
-    "file": "File:Melbourne Treasury Gardens Bills Horse Trough 001.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg/1920px-Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg/500px-Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg",
+    "shot": "interest-rate-sign",
+    "shows": "Interest rate Uganda 2011 okt",
+    "file": "File:Interest rate Uganda 2011 okt.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Interest_rate_Uganda_2011_okt.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Interest_rate_Uganda_2011_okt.jpg/1920px-Interest_rate_Uganda_2011_okt.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Interest_rate_Uganda_2011_okt.jpg/500px-Interest_rate_Uganda_2011_okt.jpg",
     "size": [
      1920,
-     1440
+     1434
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Mattinbgn, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
+    "credit": "Mobergefinance, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
     "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Mattinbgn",
-    "year": 2018,
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Mobergefinance",
+    "year": 2011,
     "how": "catalog"
    }
   ],
   "missing": [
-   "savings-certificate",
-   "loan-papers",
-   "signing-contract",
-   "government-building-columns",
-   "capitol-columns",
-   "pen-on-contract",
+   "us-savings-bond",
+   "old-stock-certificate",
+   "mortgage-papers",
+   "financial-district-fog",
+   "money-order",
+   "neoclassical-bank",
    "dollar-and-pen",
    "bond-paper",
    "treasury-department",
@@ -181560,12 +181563,35 @@
     "how": "catalog"
    },
    {
-    "shot": "calculator-and-pen",
-    "shows": "Calculator, glasses, and pens on a white desk",
-    "file": "unsplash:OZ1TJu60Or4",
-    "page": "https://unsplash.com/photos/calculator-glasses-and-pens-on-a-white-desk-OZ1TJu60Or4?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1762318986860-a7b18dd0da02?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2FsY3VsYXRvciUyMGFuZCUyMHBlbnxlbnwxfHx8fDE3OTUxNDQyODR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1762318986860-a7b18dd0da02?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2FsY3VsYXRvciUyMGFuZCUyMHBlbnxlbnwxfHx8fDE3OTUxNDQyODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "profit-chart-paper",
+    "shows": "Collecting Public Opinion through the Master Planning Process (3f3bb6d8-155d-4519-3e2c-8e564e59df1c)",
+    "file": "File:Collecting Public Opinion through the Master Planning Process (3f3bb6d8-155d-4519-3e2c-8e564e59df1c).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Collecting_Public_Opinion_through_the_Master_Planning_Process_(3f3bb6d8-155d-4519-3e2c-8e564e59df1c).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Collecting_Public_Opinion_through_the_Master_Planning_Process_%283f3bb6d8-155d-4519-3e2c-8e564e59df1c%29.jpg/1920px-Collecting_Public_Opinion_through_the_Master_Planning_Process_%283f3bb6d8-155d-4519-3e2c-8e564e59df1c%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Collecting_Public_Opinion_through_the_Master_Planning_Process_%283f3bb6d8-155d-4519-3e2c-8e564e59df1c%29.jpg/500px-Collecting_Public_Opinion_through_the_Master_Planning_Process_%283f3bb6d8-155d-4519-3e2c-8e564e59df1c%29.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "NPS Photo, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "NPS Photo",
+    "year": 2012,
+    "how": "catalog"
+   },
+   {
+    "shot": "spreadsheet-on-laptop",
+    "shows": "Hands typing on a laptop with a spreadsheet on screen",
+    "file": "unsplash:iDqNlr1Y1_w",
+    "page": "https://unsplash.com/photos/hands-typing-on-a-laptop-with-a-spreadsheet-on-screen-iDqNlr1Y1_w?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1759752393975-7ca7b302fcc6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNwcmVhZHNoZWV0JTIwb24lMjBsYXB0b3B8ZW58MXx8fHwxNzk1MTUzNTg0fDA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1759752393975-7ca7b302fcc6?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNwcmVhZHNoZWV0JTIwb24lMjBsYXB0b3B8ZW58MXx8fHwxNzk1MTUzNTg0fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
      2250,
      1500
@@ -181574,51 +181600,28 @@
      0.5,
      0.5
     ],
-    "credit": "Photo by Cht Gsml on Unsplash",
+    "credit": "Photo by Bluestonex on Unsplash",
     "licence": "Unsplash License",
     "licence_kind": "unsplash",
     "licence_url": "https://unsplash.com/license",
-    "author": "Cht Gsml",
+    "author": "Bluestonex",
     "year": 2025,
     "how": "catalog",
     "provider": "unsplash",
-    "author_url": "https://unsplash.com/@karepesinde?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/OZ1TJu60Or4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2FsY3VsYXRvciUyMGFuZCUyMHBlbnxlbnwxfHx8fDE3OTUxNDQyODR8MA"
-   },
-   {
-    "shot": "sales-report",
-    "shows": "Sales Report Oslo Fur Auctions Copenhagen Fur Center September 1997 (cover)",
-    "file": "File:Sales Report Oslo Fur Auctions Copenhagen Fur Center September 1997 (cover).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_(cover).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_%28cover%29.jpg/1280px-Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_%28cover%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_%28cover%29.jpg/500px-Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_%28cover%29.jpg",
-    "size": [
-     1280,
-     1814
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Kürschner ( talk ) 13:15, 2 May 2011 (UTC), public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Kürschner ( talk ) 13:15, 2 May 2011 (UTC)",
-    "year": 1997,
-    "how": "catalog"
+    "author_url": "https://unsplash.com/@bluestonex_apphaus?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/iDqNlr1Y1_w/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTF8fHNwcmVhZHNoZWV0JTIwb24lMjBsYXB0b3B8ZW58MXx8fHwxNzk1MTUzNTg0fDA"
    }
   ],
   "missing": [
-   "business-meeting-chart",
-   "quarter-calendar",
-   "stock-price-screen",
-   "laptop-graph",
-   "finance-desk",
-   "bloomberg-terminal",
-   "analyst-desk",
-   "graph-paper",
-   "computer-screen"
+   "accounting-ledger",
+   "receipts-pile",
+   "wall-street-journal",
+   "conference-call-phone",
+   "annual-report-cover",
+   "trading-app-phone",
+   "red-pen-numbers",
+   "magnifying-glass-document",
+   "graph-paper-pen"
   ],
   "checked": "2026-11-20"
  },
@@ -182868,33 +182871,36 @@
     "how": "catalog"
    },
    {
-    "shot": "trading-floor-screens",
-    "shows": "Chandranathesvara Jain temple, Bhatkal Karnataka",
-    "file": "File:Chandranathesvara Jain temple, Bhatkal Karnataka.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chandranathesvara_Jain_temple,_Bhatkal_Karnataka.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chandranathesvara_Jain_temple%2C_Bhatkal_Karnataka.jpg/1280px-Chandranathesvara_Jain_temple%2C_Bhatkal_Karnataka.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chandranathesvara_Jain_temple%2C_Bhatkal_Karnataka.jpg/500px-Chandranathesvara_Jain_temple%2C_Bhatkal_Karnataka.jpg",
+    "shot": "celebration-toast",
+    "shows": "A group of people raising glasses for a toast against a bright sky",
+    "file": "unsplash:Xm7pCQ0tsV4",
+    "page": "https://unsplash.com/photos/people-raising-glasses-for-toast-Xm7pCQ0tsV4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1792525843771-b1ff5c18e91d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNlbGVicmF0aW9uJTIwdG9hc3R8ZW58MXx8fHwxNzk1MTU0NTQ4fDA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1792525843771-b1ff5c18e91d?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNlbGVicmF0aW9uJTIwdG9hc3R8ZW58MXx8fHwxNzk1MTU0NTQ4fDA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1280,
-     1978
+     1200,
+     1800
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Ms Sarah Welch, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Ms Sarah Welch",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by Enfocus Collective on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Enfocus Collective",
+    "year": 2026,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@enfocuscollective?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/Xm7pCQ0tsV4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTl8fGNlbGVicmF0aW9uJTIwdG9hc3R8ZW58MXx8fHwxNzk1MTU0NTQ4fDA"
    }
   ],
   "missing": [
-   "market-open-bell",
-   "financial-district-street",
-   "exchange-building",
+   "champagne-celebration-office",
+   "confetti-office",
+   "exchange-hall",
    "times-square-screens",
    "market-screens"
   ],
@@ -188014,39 +188020,42 @@
     "track": "https://api.unsplash.com/photos/8sCPn-RKKNE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA"
    },
    {
-    "shot": "shopping-mall-crowd",
-    "shows": "Queen Street Mall crowd Queen Street Mall Brisbane",
-    "file": "File:Queen Street Mall crowd Queen Street Mall Brisbane P1300780.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg/1920px-Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg/500px-Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg",
+    "shot": "shopping-bags-street",
+    "shows": "People with shopping bags on a city street",
+    "file": "unsplash:oUNyuUnU3jU",
+    "page": "https://unsplash.com/photos/people-with-shopping-bags-on-a-city-street-oUNyuUnU3jU?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1763530054704-a2216f342310?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwYmFncyUyMHN0cmVldHxlbnwxfHx8fDE3OTUxNTQ3NDd8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1763530054704-a2216f342310?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwYmFncyUyMHN0cmVldHxlbnwxfHx8fDE3OTUxNTQ3NDd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "John Robert McPherson, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "John Robert McPherson",
-    "year": 2013,
-    "how": "catalog"
+    "credit": "Photo by Rochelle Lee on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Rochelle Lee",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@bestlifanna?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/oUNyuUnU3jU/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTR8fHNob3BwaW5nJTIwYmFncyUyMHN0cmVldHxlbnwxfHx8fDE3OTUxNTQ3NDd8MA"
    }
   ],
   "missing": [
-   "store-window-display",
-   "cosmetics-store",
-   "toy-aisle",
-   "wine-shop",
-   "candy-store",
-   "home-goods-store",
-   "flower-shop",
-   "market-stall-fruit",
-   "point-of-sale",
+   "shopping-cart-aisle",
+   "boutique-interior",
+   "black-friday-sale",
+   "sale-sign-window",
+   "card-payment-terminal",
+   "online-shopping-laptop",
+   "delivery-boxes-doorstep",
+   "coffee-shop-counter",
+   "farmers-market-crowd",
    "card-payment",
    "contactless-payment",
    "online-order",
@@ -190635,37 +190644,41 @@
     "track": "https://api.unsplash.com/photos/bKfuUy-g48Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww"
    },
    {
-    "shot": "investment-chart",
-    "shows": "Foreign Direct Investment by Country",
-    "file": "File:Foreign Direct Investment by Country.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Foreign_Direct_Investment_by_Country.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Foreign_Direct_Investment_by_Country.png/1920px-Foreign_Direct_Investment_by_Country.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Foreign_Direct_Investment_by_Country.png/500px-Foreign_Direct_Investment_by_Country.png",
+    "shot": "stock-chart-phone",
+    "shows": "A cell phone displaying a stock chart on the screen",
+    "file": "unsplash:LWD60a5a15I",
+    "page": "https://unsplash.com/photos/a-cell-phone-displaying-a-stock-chart-on-the-screen-LWD60a5a15I?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1639389016105-2fb11199fb6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHN0b2NrJTIwY2hhcnQlMjBwaG9uZXxlbnwxfHx8fDE3OTUxNTQ5ODd8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1639389016105-2fb11199fb6b?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHN0b2NrJTIwY2hhcnQlMjBwaG9uZXxlbnwxfHx8fDE3OTUxNTQ5ODd8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1249
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Wikideas1, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wikideas1",
-    "year": 2019,
-    "how": "catalog"
+    "credit": "Photo by Sajad Nori on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Sajad Nori",
+    "year": 2021,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@sajadnori?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/LWD60a5a15I/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTV8fHN0b2NrJTIwY2hhcnQlMjBwaG9uZXxlbnwxfHx8fDE3OTUxNTQ5ODd8MA",
+    "track_pending": true
    }
   ],
   "missing": [
-   "coin-stacks",
-   "financial-newspaper-reading",
-   "stock-trading-laptop",
-   "dividend-check",
-   "budget-planner",
-   "trader-screens",
-   "cash",
+   "retirement-couple",
+   "piggy-bank-growth",
+   "coins-plant-growing",
+   "savings-jar-coins",
+   "dollar-bills-stack",
+   "notebook-budget",
+   "calculator-savings",
    "wallet",
    "stock-chart",
    "money-plant",
