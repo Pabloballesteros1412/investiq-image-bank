@@ -1,0 +1,48 @@
+{
+ "id": "NVDA",
+ "kind": "company",
+ "name": "Nvidia",
+ "target": 10,
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "videos": [
+  {
+   "shows": "B-Rolls NVIDIA GeForce RTX 5090 FE (by ZMASLO) 5nj1qLazPlk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/B-Rolls_NVIDIA_GeForce_RTX_5090_FE_%28by_ZMASLO%29_5nj1qLazPlk.webm/B-Rolls_NVIDIA_GeForce_RTX_5090_FE_%28by_ZMASLO%29_5nj1qLazPlk.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/92/B-Rolls_NVIDIA_GeForce_RTX_5090_FE_%28by_ZMASLO%29_5nj1qLazPlk.webm/B-Rolls_NVIDIA_GeForce_RTX_5090_FE_%28by_ZMASLO%29_5nj1qLazPlk.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/B-Rolls_NVIDIA_GeForce_RTX_5090_FE_%28by_ZMASLO%29_5nj1qLazPlk.webm/960px--B-Rolls_NVIDIA_GeForce_RTX_5090_FE_%28by_ZMASLO%29_5nj1qLazPlk.webm.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 100.6,
+   "credit": "ZMASLO, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:B-Rolls_NVIDIA_GeForce_RTX_5090_FE_(by_ZMASLO)_5nj1qLazPlk.webm"
+  },
+  {
+   "shows": "Rundumsicht der Palit GeForce RTX 5090 GameRock C1385 OHNE TON",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/Rundumsicht_der_Palit_GeForce_RTX_5090_GameRock_C1385_OHNE_TON.webm/Rundumsicht_der_Palit_GeForce_RTX_5090_GameRock_C1385_OHNE_TON.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/39/Rundumsicht_der_Palit_GeForce_RTX_5090_GameRock_C1385_OHNE_TON.webm/Rundumsicht_der_Palit_GeForce_RTX_5090_GameRock_C1385_OHNE_TON.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Rundumsicht_der_Palit_GeForce_RTX_5090_GameRock_C1385_OHNE_TON.webm/960px--Rundumsicht_der_Palit_GeForce_RTX_5090_GameRock_C1385_OHNE_TON.webm.jpg",
+   "size": [
+    7680,
+    4320
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 36.1,
+   "credit": "PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rundumsicht_der_Palit_GeForce_RTX_5090_GameRock_C1385_OHNE_TON.webm"
+  }
+ ]
+}

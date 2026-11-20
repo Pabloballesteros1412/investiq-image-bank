@@ -1,0 +1,29 @@
+{
+ "id": "AMD",
+ "kind": "company",
+ "name": "Advanced Micro Devices",
+ "target": 10,
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "videos": [
+  {
+   "shows": "AMD Ryzen Threadripper 7970X → Ein Rundumblick",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/67/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm/960px--AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm.jpg",
+   "size": [
+    7680,
+    4320
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 36.1,
+   "credit": "PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AMD_Ryzen_Threadripper_7970X_%E2%86%92_Ein_Rundumblick.webm"
+  }
+ ]
+}

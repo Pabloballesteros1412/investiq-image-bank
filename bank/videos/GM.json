@@ -1,0 +1,28 @@
+{
+ "id": "GM",
+ "kind": "company",
+ "name": "General Motors",
+ "target": 5,
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "videos": [
+  {
+   "shows": "car, camaro, automobile, v8, classic, legend, convertible, retro, chevrolet",
+   "url": "https://cdn.pixabay.com/video/2022/02/15/107843-679600329_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2022/02/15/107843-679600329_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2022/02/15/107843-679600329_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 13.0,
+   "credit": "Video by edsoncowboy on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/edsoncowboy-8433378/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-107843/"
+  }
+ ]
+}

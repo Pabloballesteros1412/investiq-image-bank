@@ -1,0 +1,28 @@
+{
+ "id": "NOC",
+ "kind": "company",
+ "name": "Northrop Grumman",
+ "target": 5,
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "videos": [
+  {
+   "shows": "B-2 Spirit Stealth Bombers Return From Diego Garcia",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/36/B-2_Spirit_Stealth_Bombers_Return_From_Diego_Garcia.webm/B-2_Spirit_Stealth_Bombers_Return_From_Diego_Garcia.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/36/B-2_Spirit_Stealth_Bombers_Return_From_Diego_Garcia.webm/B-2_Spirit_Stealth_Bombers_Return_From_Diego_Garcia.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/B-2_Spirit_Stealth_Bombers_Return_From_Diego_Garcia.webm/960px--B-2_Spirit_Stealth_Bombers_Return_From_Diego_Garcia.webm.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 58.1,
+   "credit": "Senior Airman Devan Halstead at United States Air Force, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "licence_url": "",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:B-2_Spirit_Stealth_Bombers_Return_From_Diego_Garcia.webm"
+  }
+ ]
+}

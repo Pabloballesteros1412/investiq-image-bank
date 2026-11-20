@@ -22,6 +22,11 @@ clips of any orientation, one per search before a second one. A horizontal clip 
 marked vertical_crop_ok: a 9:16 crop at 1080 x 1920 needs no upscaling.
 
 Searches: the topic's own catalog shots (catalog.json), the ones that already gave published stock photos first.
+Companies (Pablo, 20 Nov 2026): those with brand or product terms in brands.json, COMPANY_TARGET clips each
+(FAMOUS_TARGET for the famous ones); each term is a search, and a clip counts only if its tags (Commons: its file
+name) name one of the company's terms or its full name (not the short name: tags are single words, and 'Arm'
+or 'Target' tag arms and archery). A company below its target gets
+fill_from = its sector in the index, as with the photos.
 
 Files: bank/video_manifest.json (every pick, graded or not) and what the chat reads, bank/videos/index.json and
 bank/videos/<ID>.json (published clips only). Grades go to bank/video_review.json, apart from the photos' so the
@@ -29,7 +34,8 @@ photo and video work never edit the same file (3 best, 2 plain, 1 reject, as in 
 clip graded below 3 is never picked again. A rebuild (--redo) keeps a subject's published clips and fills the
 free places. Commands:
 
-    python videos.py build [--only id,id] [--redo] [--target N]   pick clips for topics and sectors
+    python videos.py build [--kind topic,sector,company] [--only id,id] [--redo] [--target N]
+                                                    pick clips (default: topics and sectors)
     python videos.py sheets OUT_DIR                 contact sheets of the clips without a grade (3 frames each,
                                                     18 clips a sheet) and OUT_DIR/sheets.json
     python videos.py grade GRADES.json OUT_DIR      same format as review.py; then python videos.py index
@@ -49,6 +55,9 @@ MIN_LONG = 1920                  # at least 1080p
 DURATION = (4, 60)               # seconds, stock clips
 DURATION_LONG = 180              # Commons and NASA clips can be longer: documentary footage, the chat trims
 MAX_PER_AUTHOR = 2
+COMPANY_TARGET = 5               # clips per company (Pablo, 20 Nov 2026: "mete vídeos para las empresas")
+FAMOUS_TARGET = 10               # clips for the famous companies (the ones with 30 photos)
+COMPANY_SEARCHES = 8             # brand terms searched per company
 MAX_SEARCHES = 25                # searches per subject and source
 SEARCH_ROOM = 3                  # searches with candidates beyond the target before a subject stops searching
 GAP = 0.7                        # seconds between uncached Pixabay requests (its limit: 100 a minute)
@@ -273,6 +282,9 @@ def ok(c, shot, q, grades=None, used=()):
         hay = " ".join([c["file"], " ".join(c.get("categories", []))])
         if NEWS.search(hay) or B.EVENTS.search(hay) or B.bad_name(c["file"]):
             return False
+    if shot.get("keys"):  # a company's clip must name one of its brands, its full name or its short name
+        hay = B.flat(c.get("description", ""))
+        return any(B.has_name(hay, k) for k in shot["keys"])
     return B.stock_match(c, shot, q)
 
 
@@ -369,6 +381,24 @@ def subject_videos(s, srcs, grades=None, used=(), keep=(), target=TARGET, photo_
     return pick(pool, target, keep=keep)
 
 
+def company_subjects(photos, brands, only=None):
+    """The companies to search: those with brand or product terms in brands.json (stock footage is tagged with
+    brands, not with company names: 'Starbucks', not 'Starbucks Corporation'). Each term is a search, and a clip
+    counts only if its tags name one of the company's terms or its full name."""
+    out = []
+    for cid, e in photos.items():
+        terms = brands.get(cid)
+        if e.get("kind") != "company" or not terms or (only and cid not in only):
+            continue
+        # not the short name: video tags are single words, and 'Arm', 'Ford' or 'Target' tag arms, rivers and archery
+        keys = B.brand_keys({"name": e["name"], "commons_category": e.get("commons_category"), "ambiguous": True}, terms)
+        shots = [{"id": B.slug(t), "q": t, "keys": keys} for t in list(dict.fromkeys(terms))[:COMPANY_SEARCHES]]
+        famous = (e.get("target") or 0) > B.TARGET
+        out.append({"id": cid, "kind": "company", "name": e["name"], "sector": e.get("sector"), "shots": shots,
+                    "target": FAMOUS_TARGET if famous else COMPANY_TARGET})
+    return out
+
+
 # ------------------------------------------------------------------------------------------- manifest & index
 
 def load(bank=B.BANK):
@@ -417,15 +447,19 @@ def published(v, grades):
     return (g or 0) >= 3 if v["provider"] == "commons" else g is None or g >= 3
 
 
-def build(bank=B.BANK, catalog=None, srcs=None, only=None, redo=False, target=TARGET, log=print):
-    """Pick clips for the catalog's topics and sectors; the manifest is saved after every subject."""
+def build(bank=B.BANK, catalog=None, srcs=None, only=None, redo=False, target=None, log=print, kinds=("topic", "sector"),
+          brands=None):
+    """Pick clips for the catalog's topics and sectors and/or the companies; the manifest is saved after every
+    subject."""
     cat = catalog or B.load_catalog()
     srcs = sources(log=log) if srcs is None else srcs
     if not any(s.name == "pixabay" for s in srcs):
         log("  (no PIXABAY_API_KEY: Commons and NASA only)")
     m, rv, prv = load(bank), load_review(bank), B.load_review(bank)
     photos = B.load_manifest(bank)
-    subjects = [s for s in cat["subjects"] if s.get("kind") in ("topic", "sector") and (not only or s["id"] in only)]
+    subjects = [s for s in cat["subjects"] if s.get("kind") in kinds and s.get("kind") != "company" and (not only or s["id"] in only)]
+    if "company" in kinds:
+        subjects += company_subjects(photos, B.load_brands() if brands is None else brands, only)
     for i, s in enumerate(subjects, 1):
         old = m.get(s["id"])
         if old and not redo:
@@ -433,8 +467,12 @@ def build(bank=B.BANK, catalog=None, srcs=None, only=None, redo=False, target=TA
         keep = [v for v in (old or {}).get("videos", []) if published(v, rv["grades"])]
         used = {v["file"] for sid, e in m.items() if sid != s["id"] for v in e.get("videos", [])}
         log(f"{i:3}/{len(subjects)} {s['id']}")
-        vids = subject_videos(s, srcs, rv["grades"], used, keep, target, photos.get(s["id"]), prv, log)
-        m[s["id"]] = {"kind": s["kind"], "name": s["name"], "target": target, "checked": date.today().isoformat(), "videos": vids}
+        t = target or s.get("target") or TARGET
+        src = [x for x in srcs if x.name != "nasa"] if s["kind"] == "company" else srcs  # NASA leaves providers out
+        vids = subject_videos(s, src, rv["grades"], used, keep, t, photos.get(s["id"]), prv, log)
+        m[s["id"]] = {"kind": s["kind"], "name": s["name"], "target": t, "checked": date.today().isoformat(), "videos": vids}
+        if s.get("sector"):
+            m[s["id"]]["sector"] = s["sector"]
         save(m, bank)
         nv = sum(1 for v in vids if v["orientation"] == "vertical")
         log(f"      {len(vids)} clips ({nv} vertical)")
@@ -442,8 +480,12 @@ def build(bank=B.BANK, catalog=None, srcs=None, only=None, redo=False, target=TA
 
 
 RULES = [
-    "Every clip is generic footage of a market topic or sector: never present it as footage of a specific company, "
-    "person or event, and never say a person in it is anyone in particular.",
+    "A topic or sector clip is generic footage: never present it as footage of a specific company, person or event. "
+    "Never say a person in any clip is anyone in particular.",
+    "A company clip shows one of the company's own brands, products, stores or places, as its uploader tagged it "
+    "('a Starbucks cup', 'a Tesla on the road'): describe what it shows, never present it as the company's own footage, "
+    "an advert or a news event. A company with fewer clips than its target has fill_from = its sector: those clips "
+    "are generic and must never be presented as the company's.",
     "Download the file to edit it: 'url' is the best file (often 4K), 'url_1080' a lighter 1080p one. Mute the "
     "clip's own sound, or replace it with cleared music.",
     "orientation 'vertical' fits Reels, TikTok and Shorts as it is. A horizontal clip with vertical_crop_ok is 4K and "
@@ -473,12 +515,16 @@ def index(bank=B.BANK, base_url=B.BASE_URL):
         rec = {"id": sid, "kind": e["kind"], "name": e["name"], "videos": len(vids),
                "vertical": sum(1 for v in vids if v["orientation"] == "vertical"), "target": e.get("target", TARGET),
                "file": f"{base}{B.safe(sid)}.json"}
+        if e.get("sector"):
+            rec["sector"] = e["sector"]
+            if len(vids) < rec["target"]:
+                rec["fill_from"] = e["sector"]
         entries.append(rec)
-        (out_dir / f"{B.safe(sid)}.json").write_text(json.dumps({**{k: rec[k] for k in ("id", "kind", "name", "target")},
+        (out_dir / f"{B.safe(sid)}.json").write_text(json.dumps({**{k: rec[k] for k in ("id", "kind", "name", "target", "sector", "fill_from") if k in rec},
                                                                  "videos": vids}, indent=1, ensure_ascii=False), encoding="utf-8")
     B.write_atomic(out_dir / "index.json", json.dumps(
-        {"about": "InvestIQ video bank: freely licensed clips of market topics and GICS sectors (Pixabay, Wikimedia "
-                  "Commons, NASA), checked by eye, for Reels, TikTok, Shorts and horizontal video.",
+        {"about": "InvestIQ video bank: freely licensed clips of market topics, GICS sectors and companies' brands "
+                  "(Pixabay, Wikimedia Commons, NASA), checked by eye, for Reels, TikTok, Shorts and horizontal video.",
          "rules": RULES, "updated": date.today().isoformat(), "videos": total, "subjects": entries}, indent=1, ensure_ascii=False))
     return total
 
@@ -579,7 +625,9 @@ if __name__ == "__main__":
     if a[:1] == ["build"]:
         only = set(opt("--only").split(",")) if opt("--only") else None
         log = lambda *x: print(*x, flush=True)
-        print("videos.json:", build(only=only, redo="--redo" in a, target=int(opt("--target") or TARGET), log=log), "clips published")
+        kinds = tuple((opt("--kind") or "topic,sector").split(","))
+        tgt = int(opt("--target")) if opt("--target") else None
+        print("videos.json:", build(only=only, redo="--redo" in a, target=tgt, log=log, kinds=kinds), "clips published")
     elif a[:1] == ["sheets"] and len(a) > 1:
         print(sheets(a[1]), "sheets")
     elif a[:1] == ["grade"] and len(a) > 2:

@@ -1,0 +1,64 @@
+{
+ "id": "AAPL",
+ "kind": "company",
+ "name": "Apple Inc.",
+ "target": 10,
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "videos": [
+  {
+   "shows": "macbook, apple, macbook air, technology, mac, notebook, office, business, desk, computer, laptop",
+   "url": "https://cdn.pixabay.com/video/2018/11/21/19454-302196093_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2018/11/21/19454-302196093_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2018/11/21/19454-302196093_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 20.0,
+   "credit": "Video by andrepazleal on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/andrepazleal-2648738/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-19454/"
+  },
+  {
+   "shows": "macbook, notebook, laptop, typing, office, write, keyboard, mobile, modern, startup, apple, device, electronics, technology, hands, man, working, communication, person, internet, gadget",
+   "url": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2016/06/27/3576-172488163_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 37.0,
+   "credit": "Video by Pexels on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Pexels-2286921/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-3576/"
+  },
+  {
+   "shows": "iphone, photo, photography, pictures, smartphone, app, touchscreen, device, electronics, record",
+   "url": "https://cdn.pixabay.com/video/2017/03/08/8255-207598607_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2017/03/08/8255-207598607_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2017/03/08/8255-207598607_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 15.0,
+   "credit": "Video by Coverr-Free-Footage on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Coverr-Free-Footage-1281706/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-8255/"
+  }
+ ]
+}

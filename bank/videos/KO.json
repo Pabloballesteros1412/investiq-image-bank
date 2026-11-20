@@ -1,0 +1,29 @@
+{
+ "id": "KO",
+ "kind": "company",
+ "name": "Coca-Cola Company (The)",
+ "target": 10,
+ "sector": "sector-staples",
+ "fill_from": "sector-staples",
+ "videos": [
+  {
+   "shows": "Rotation einer Coca-Cola-Flasche mit weihnachtlicher Botschaft C1114FIX",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Rotation_einer_Coca-Cola-Flasche_mit_weihnachtlicher_Botschaft_20250129_C1114FIX.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/7/73/Rotation_einer_Coca-Cola-Flasche_mit_weihnachtlicher_Botschaft_20250129_C1114FIX.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Rotation_einer_Coca-Cola-Flasche_mit_weihnachtlicher_Botschaft_20250129_C1114FIX.webm/960px--Rotation_einer_Coca-Cola-Flasche_mit_weihnachtlicher_Botschaft_20250129_C1114FIX.webm.jpg",
+   "size": [
+    5800,
+    4320
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 36.1,
+   "credit": "PantheraLeo1359531, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rotation_einer_Coca-Cola-Flasche_mit_weihnachtlicher_Botschaft_20250129_C1114FIX.webm"
+  }
+ ]
+}

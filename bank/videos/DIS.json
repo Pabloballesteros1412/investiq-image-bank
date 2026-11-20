@@ -1,0 +1,65 @@
+{
+ "id": "DIS",
+ "kind": "company",
+ "name": "Walt Disney Company (The)",
+ "target": 10,
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "videos": [
+  {
+   "shows": "ride, train, disneyland, railway, railroad",
+   "url": "https://cdn.pixabay.com/video/2018/02/23/14450-257376171_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2018/02/23/14450-257376171_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2018/02/23/14450-257376171_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 24.0,
+   "credit": "Video by BestEdmontonMall on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/BestEdmontonMall-8134186/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-14450/"
+  },
+  {
+   "shows": "park, fun, attractions, disney, disney paris, paris, france, disneyland, landscape",
+   "url": "https://cdn.pixabay.com/video/2021/10/26/93411-639359115_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2021/10/26/93411-639359115_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2021/10/26/93411-639359115_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 9.0,
+   "credit": "Video by GAPR86 on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/GAPR86-16627913/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-93411/"
+  },
+  {
+   "shows": "disney, paris, disney paris, eurodisney, france, park, walt disney, disney park, attractions, europe",
+   "url": "https://cdn.pixabay.com/video/2021/11/10/95420-645704443_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2021/11/10/95420-645704443_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2021/11/10/95420-645704443_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 10.0,
+   "credit": "Video by GAPR86 on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/GAPR86-16627913/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-95420/"
+  }
+ ]
+}

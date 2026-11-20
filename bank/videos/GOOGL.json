@@ -1,0 +1,46 @@
+{
+ "id": "GOOGL",
+ "kind": "company",
+ "name": "Alphabet Inc.",
+ "target": 10,
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "videos": [
+  {
+   "shows": "Inside Waymo, DTLA, Jan 2026",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Inside_Waymo%2C_DTLA%2C_Jan_2026.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/d/db/Inside_Waymo%2C_DTLA%2C_Jan_2026.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Inside_Waymo%2C_DTLA%2C_Jan_2026.webm/960px--Inside_Waymo%2C_DTLA%2C_Jan_2026.webm.jpg",
+   "size": [
+    1080,
+    1920
+   ],
+   "orientation": "vertical",
+   "duration": 10.8,
+   "credit": "Alexis Doine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Inside_Waymo,_DTLA,_Jan_2026.webm"
+  },
+  {
+   "shows": "google, internet, technology, search, seo, website, computer, screen, searching, com",
+   "url": "https://cdn.pixabay.com/video/2023/03/18/155163-809618950_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2023/03/18/155163-809618950_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2023/03/18/155163-809618950_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 11.0,
+   "credit": "Video by Shahzaib_khan on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Shahzaib_khan-34519999/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-155163/"
+  }
+ ]
+}

@@ -157,6 +157,26 @@ class Picking(unittest.TestCase):
             self.assertEqual(len(files), 4)
             self.assertEqual(files[:3], [v["file"] for v in m["gold"]["videos"][1:]])  # kept, in their order
 
+    def test_companies_take_clips_that_name_their_brands_and_fall_back_to_their_sector(self):
+        hits = {"Starbucks": [pixabay_hit(70, tags="starbucks, coffee, cup", user="a"),
+                              pixabay_hit(71, tags="coffee, cup, cafe", user="b"),           # names no brand
+                              pixabay_hit(72, tags="starbucksy, mug", user="c")],           # not the whole word
+                "Starbucks cup": [pixabay_hit(73, 1080, 1920, tags="starbucks cup, latte", user="d")]}
+        with tempfile.TemporaryDirectory() as d:
+            (Path(d) / "manifest.json").write_text(json.dumps({
+                "SBUX": {"kind": "company", "name": "Starbucks", "sector": "sector-consumer-discretionary", "target": 10},
+                "ZZZ": {"kind": "company", "name": "Nobrands Inc.", "sector": "sector-industrials", "target": 10}}))
+            brands = {"SBUX": ["Starbucks", "Starbucks cup"]}
+            V.build(bank=d, catalog={"subjects": [self.s]}, srcs=[FakeSource(hits)], kinds=("company",),
+                    brands=brands, log=lambda *a: None)
+            m = V.load(d)
+            self.assertEqual(list(m), ["SBUX"])                                  # only companies with brand terms
+            self.assertEqual(sorted(v["file"] for v in m["SBUX"]["videos"]), ["pixabay-video:70", "pixabay-video:73"])
+            self.assertEqual(m["SBUX"]["target"], V.COMPANY_TARGET)
+            rec = json.loads((Path(d) / "videos" / "index.json").read_text())["subjects"][0]
+            self.assertEqual((rec["kind"], rec["sector"], rec["fill_from"]), ("company", "sector-consumer-discretionary",
+                                                                              "sector-consumer-discretionary"))
+
     def test_grades_from_sheets_go_to_their_own_file(self):
         with tempfile.TemporaryDirectory() as d:
             (Path(d) / "sheets.json").write_text(json.dumps({"sheet-001": {"1": {"subject": "gold", "file": "pixabay-video:1"},

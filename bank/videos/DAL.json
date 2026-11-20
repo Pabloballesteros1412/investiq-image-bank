@@ -1,0 +1,28 @@
+{
+ "id": "DAL",
+ "kind": "company",
+ "name": "Delta Air Lines",
+ "target": 5,
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "videos": [
+  {
+   "shows": "Delta Air Lines N809NW A330-300 Landing Portland Airport (PDX)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Delta_Air_Lines_N809NW_A330-300_Landing_Portland_Airport_%28PDX%29.webm/Delta_Air_Lines_N809NW_A330-300_Landing_Portland_Airport_%28PDX%29.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/6a/Delta_Air_Lines_N809NW_A330-300_Landing_Portland_Airport_%28PDX%29.webm/Delta_Air_Lines_N809NW_A330-300_Landing_Portland_Airport_%28PDX%29.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Delta_Air_Lines_N809NW_A330-300_Landing_Portland_Airport_%28PDX%29.webm/960px--Delta_Air_Lines_N809NW_A330-300_Landing_Portland_Airport_%28PDX%29.webm.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 60.0,
+   "credit": "PDX Aviation - HD(ish) Plane Spotting, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Delta_Air_Lines_N809NW_A330-300_Landing_Portland_Airport_(PDX).webm"
+  }
+ ]
+}

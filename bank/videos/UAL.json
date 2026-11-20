@@ -1,0 +1,28 @@
+{
+ "id": "UAL",
+ "kind": "company",
+ "name": "United Airlines Holdings",
+ "target": 5,
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "videos": [
+  {
+   "shows": "United Airlines N69826 737-900ER Takeoff Portland Airport (PDX)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/United_Airlines_N69826_737-900ER_Takeoff_Portland_Airport_%28PDX%29.webm/United_Airlines_N69826_737-900ER_Takeoff_Portland_Airport_%28PDX%29.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/81/United_Airlines_N69826_737-900ER_Takeoff_Portland_Airport_%28PDX%29.webm/United_Airlines_N69826_737-900ER_Takeoff_Portland_Airport_%28PDX%29.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/United_Airlines_N69826_737-900ER_Takeoff_Portland_Airport_%28PDX%29.webm/960px--United_Airlines_N69826_737-900ER_Takeoff_Portland_Airport_%28PDX%29.webm.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 60.2,
+   "credit": "PDX Aviation - HD(ish) Plane Spotting, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:United_Airlines_N69826_737-900ER_Takeoff_Portland_Airport_(PDX).webm"
+  }
+ ]
+}

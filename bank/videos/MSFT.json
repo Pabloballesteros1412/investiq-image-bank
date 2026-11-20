@@ -1,0 +1,64 @@
+{
+ "id": "MSFT",
+ "kind": "company",
+ "name": "Microsoft",
+ "target": 10,
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "videos": [
+  {
+   "shows": "microsoft, headquarters, bucharest, romania",
+   "url": "https://cdn.pixabay.com/video/2019/08/23/26213-357512380_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2019/08/23/26213-357512380_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2019/08/23/26213-357512380_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 40.0,
+   "credit": "Video by MariodePante on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/MariodePante-13394533/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-26213/"
+  },
+  {
+   "shows": "controller, xbox, gaming, gamepad, play, technology, entertainment, games, gamer, players, button, computer, computer game, video game, joystick, control, nintendo, leisure, kontroller, console",
+   "url": "https://cdn.pixabay.com/video/2021/01/12/61755-500762205_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2021/01/12/61755-500762205_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2021/01/12/61755-500762205_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 26.0,
+   "credit": "Video by HOCKULUS on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/HOCKULUS-11009816/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-61755/"
+  },
+  {
+   "shows": "xbox, xbox controller, controller, joystick, gamepad, xbox gamepad, xbox joystick, gamers, gaming, gaming gamepad, gaming joystick, technology",
+   "url": "https://cdn.pixabay.com/video/2023/11/25/190652-888327709_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2023/11/25/190652-888327709_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2023/11/25/190652-888327709_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 11.0,
+   "credit": "Video by AlexanderRaw on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/AlexanderRaw-40706957/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-190652/"
+  }
+ ]
+}

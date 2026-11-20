@@ -1,0 +1,28 @@
+{
+ "id": "LMT",
+ "kind": "company",
+ "name": "Lockheed Martin",
+ "target": 10,
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "videos": [
+  {
+   "shows": "USS Tripoli F-35 Flight Ops",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/USS_Tripoli_F-35_Flight_Ops_%281003186%29.webm/USS_Tripoli_F-35_Flight_Ops_%281003186%29.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5a/USS_Tripoli_F-35_Flight_Ops_%281003186%29.webm/USS_Tripoli_F-35_Flight_Ops_%281003186%29.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/USS_Tripoli_F-35_Flight_Ops_%281003186%29.webm/960px--USS_Tripoli_F-35_Flight_Ops_%281003186%29.webm.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 37.7,
+   "credit": "NAVCENT Public Affairs, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "licence_url": "",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:USS_Tripoli_F-35_Flight_Ops_(1003186).webm"
+  }
+ ]
+}

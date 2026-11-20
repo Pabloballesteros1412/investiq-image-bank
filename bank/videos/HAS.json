@@ -1,0 +1,28 @@
+{
+ "id": "HAS",
+ "kind": "company",
+ "name": "Hasbro",
+ "target": 5,
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "videos": [
+  {
+   "shows": "monopoly, tabletop game, board game, game board, dice, cards, money, leisure, playing",
+   "url": "https://cdn.pixabay.com/video/2020/06/13/41948-431407013_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2020/06/13/41948-431407013_large.mp4",
+   "poster": "https://cdn.pixabay.com/video/2020/06/13/41948-431407013_medium.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 9.0,
+   "credit": "Video by franganillo on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/franganillo-4407724/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-41948/"
+  }
+ ]
+}

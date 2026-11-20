@@ -1,0 +1,28 @@
+{
+ "id": "CMCSA",
+ "kind": "company",
+ "name": "Comcast",
+ "target": 5,
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "videos": [
+  {
+   "shows": "VIDEO Super Nintendo World (Universal Studios Hollywood) July 2023",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/VIDEO_Super_Nintendo_World_%28Universal_Studios_Hollywood%29_July_2023.webm/VIDEO_Super_Nintendo_World_%28Universal_Studios_Hollywood%29_July_2023.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/VIDEO_Super_Nintendo_World_%28Universal_Studios_Hollywood%29_July_2023.webm/VIDEO_Super_Nintendo_World_%28Universal_Studios_Hollywood%29_July_2023.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/VIDEO_Super_Nintendo_World_%28Universal_Studios_Hollywood%29_July_2023.webm/960px--VIDEO_Super_Nintendo_World_%28Universal_Studios_Hollywood%29_July_2023.webm.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 10.6,
+   "credit": "Benoît Prieur, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:VIDEO_Super_Nintendo_World_(Universal_Studios_Hollywood)_July_2023.webm"
+  }
+ ]
+}
