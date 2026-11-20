@@ -1,0 +1,29 @@
+{
+ "id": "RACE",
+ "kind": "company",
+ "name": "Ferrari",
+ "target": 5,
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "videos": [
+  {
+   "shows": "Ferrari F430 Spider driving as viewed from FPV drone",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/Ferrari_F430_Spider_driving_as_viewed_from_FPV_drone.webm/Ferrari_F430_Spider_driving_as_viewed_from_FPV_drone.webm.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/aa/Ferrari_F430_Spider_driving_as_viewed_from_FPV_drone.webm/Ferrari_F430_Spider_driving_as_viewed_from_FPV_drone.webm.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Ferrari_F430_Spider_driving_as_viewed_from_FPV_drone.webm/960px--Ferrari_F430_Spider_driving_as_viewed_from_FPV_drone.webm.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 43.6,
+   "credit": "SE FPV, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ferrari_F430_Spider_driving_as_viewed_from_FPV_drone.webm"
+  }
+ ]
+}

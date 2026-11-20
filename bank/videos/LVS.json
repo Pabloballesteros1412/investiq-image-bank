@@ -1,0 +1,48 @@
+{
+ "id": "LVS",
+ "kind": "company",
+ "name": "Las Vegas Sands",
+ "target": 5,
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "videos": [
+  {
+   "shows": "light projection, attraction, marina bay sands, travel, tourism, singapore",
+   "url": "https://cdn.pixabay.com/video/2024/04/03/206688_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/04/03/206688_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/04/03/206688_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 6.0,
+   "credit": "Video by ScribblingGeek on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/ScribblingGeek-1818314/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-206688/"
+  },
+  {
+   "shows": "buildings, city view, marinabay, marina bay sands, flyer, moving vehicles, cars, evening, singapore",
+   "url": "https://cdn.pixabay.com/video/2023/05/12/162741-826328393_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2023/05/12/162741-826328393_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2023/05/12/162741-826328393_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 39.0,
+   "credit": "Video by u_n2tj3kc8ys on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/u_n2tj3kc8ys-35461915/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-162741/"
+  }
+ ]
+}

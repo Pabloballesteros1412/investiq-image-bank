@@ -1,0 +1,48 @@
+{
+ "id": "BA",
+ "kind": "company",
+ "name": "Boeing",
+ "target": 10,
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "videos": [
+  {
+   "shows": "engine, airplane, aircraft, motor, rotate engine, boeing, boeing737, 737, aviation, airlines",
+   "url": "https://cdn.pixabay.com/video/2022/12/26/144323-784384603_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2022/12/26/144323-784384603_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2022/12/26/144323-784384603_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 15.0,
+   "credit": "Video by allser on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/allser-7791039/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-144323/"
+  },
+  {
+   "shows": "airplane, passenger plane, aircraft, take off, flight, trip, sky, cloud, japan, boeing 787",
+   "url": "https://cdn.pixabay.com/video/2024/08/28/228563_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/08/28/228563_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/08/28/228563_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 25.0,
+   "credit": "Video by Kanenori on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Kanenori-4749850/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-228563/"
+  }
+ ]
+}

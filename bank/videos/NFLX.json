@@ -1,0 +1,9 @@
+{
+ "id": "NFLX",
+ "kind": "company",
+ "name": "Netflix",
+ "target": 10,
+ "sector": "sector-communication",
+ "fill_from": "sector-communication",
+ "videos": []
+}

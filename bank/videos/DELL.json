@@ -1,0 +1,48 @@
+{
+ "id": "DELL",
+ "kind": "company",
+ "name": "Dell Technologies",
+ "target": 5,
+ "sector": "sector-tech",
+ "fill_from": "sector-tech",
+ "videos": [
+  {
+   "shows": "Dell G7 17 7700 *360 degrees*",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dell_G7_17_7700_%2A360_degrees%2A.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dell_G7_17_7700_%2A360_degrees%2A.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Dell_G7_17_7700_%2A360_degrees%2A.webm/960px--Dell_G7_17_7700_%2A360_degrees%2A.webm.jpg",
+   "size": [
+    2880,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 24.3,
+   "credit": "LaptopMedia, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dell_G7_17_7700_*360_degrees*.webm"
+  },
+  {
+   "shows": "Dell Latitude 14 5410 *360 degrees*",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Dell_Latitude_14_5410_%2A360_degrees%2A.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/5/52/Dell_Latitude_14_5410_%2A360_degrees%2A.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Dell_Latitude_14_5410_%2A360_degrees%2A.webm/960px--Dell_Latitude_14_5410_%2A360_degrees%2A.webm.jpg",
+   "size": [
+    2880,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 24.3,
+   "credit": "LaptopMedia, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dell_Latitude_14_5410_*360_degrees*.webm"
+  }
+ ]
+}

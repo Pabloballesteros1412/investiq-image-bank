@@ -1,0 +1,28 @@
+{
+ "id": "UPS",
+ "kind": "company",
+ "name": "United Parcel Service",
+ "target": 5,
+ "sector": "sector-industrials",
+ "fill_from": "sector-industrials",
+ "videos": [
+  {
+   "shows": "McDonnell Douglas MD-11(F) United Parcel Service N286UP",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/McDonnell_Douglas_MD-11%28F%29_United_Parcel_Service_N286UP.ogv/McDonnell_Douglas_MD-11%28F%29_United_Parcel_Service_N286UP.ogv.1080p.vp9.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/79/McDonnell_Douglas_MD-11%28F%29_United_Parcel_Service_N286UP.ogv/McDonnell_Douglas_MD-11%28F%29_United_Parcel_Service_N286UP.ogv.1080p.vp9.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/McDonnell_Douglas_MD-11%28F%29_United_Parcel_Service_N286UP.ogv/960px--McDonnell_Douglas_MD-11%28F%29_United_Parcel_Service_N286UP.ogv.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "orientation": "horizontal",
+   "duration": 160.5,
+   "credit": "Woj Tas Aviation Movies, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "licence_url": "https://creativecommons.org/licenses/by/3.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-11(F)_United_Parcel_Service_N286UP.ogv"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "AMZN",
+ "kind": "company",
+ "name": "Amazon",
+ "target": 10,
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "videos": [
+  {
+   "shows": "Fanuc robot sorting in BRS2 Amazon fulfilment centre in Swindon 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm",
+   "url_1080": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm",
+   "poster": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm/960px--Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm.jpg",
+   "size": [
+    1080,
+    1920
+   ],
+   "orientation": "vertical",
+   "duration": 33.3,
+   "credit": "Marc Auledas Noguera ( Auledas ), CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "licence_url": "https://creativecommons.org/licenses/by/4.0",
+   "author_url": "",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fanuc_robot_sorting_in_BRS2_Amazon_fulfilment_centre_in_Swindon_02.webm"
+  }
+ ]
+}

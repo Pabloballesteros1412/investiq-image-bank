@@ -1,0 +1,29 @@
+{
+ "id": "HD",
+ "kind": "company",
+ "name": "Home Depot (The)",
+ "target": 10,
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "videos": [
+  {
+   "shows": "metro center, daly city, the home depot, stores, highway, city, bay area",
+   "url": "https://cdn.pixabay.com/video/2025/05/14/279103_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2025/05/14/279103_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2025/05/14/279103_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 18.0,
+   "credit": "Video by BAYHINDTHESCENES on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/BAYHINDTHESCENES-4001179/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-279103/"
+  }
+ ]
+}

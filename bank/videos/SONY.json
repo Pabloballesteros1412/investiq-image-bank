@@ -1,0 +1,29 @@
+{
+ "id": "SONY",
+ "kind": "company",
+ "name": "Sony",
+ "target": 5,
+ "sector": "sector-consumer-discretionary",
+ "fill_from": "sector-consumer-discretionary",
+ "videos": [
+  {
+   "shows": "joystick, game, gamepad, controller, console, playstation, video games",
+   "url": "https://cdn.pixabay.com/video/2024/12/16/246909_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2024/12/16/246909_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2024/12/16/246909_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 8.0,
+   "credit": "Video by Im_kamma on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/Im_kamma-42172810/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-246909/"
+  }
+ ]
+}
