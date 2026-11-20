@@ -8,5 +8,58 @@
  "sector": "sector-health",
  "target": 10,
  "fill_from": "sector-health",
- "photos": []
+ "photos": [
+  {
+   "shows": "Quirófano robótico",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Quir%C3%B3fano_rob%C3%B3tico.jpg/1920px-Quir%C3%B3fano_rob%C3%B3tico.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Quir%C3%B3fano_rob%C3%B3tico.jpg/500px-Quir%C3%B3fano_rob%C3%B3tico.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Hospitalhoms, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Quir%C3%B3fano_rob%C3%B3tico.jpg"
+  },
+  {
+   "shows": "Domo Origato Surgeon Roboto",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Domo_Origato_Surgeon_Roboto_%28230350985%29.jpeg/1280px-Domo_Origato_Surgeon_Roboto_%28230350985%29.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Domo_Origato_Surgeon_Roboto_%28230350985%29.jpeg/500px-Domo_Origato_Surgeon_Roboto_%28230350985%29.jpeg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jason Knauer, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Domo_Origato_Surgeon_Roboto_(230350985).jpeg"
+  },
+  {
+   "shows": "2023-09 - Robot chirurgien Da Vinci Xi - Centre hospitalier de Vesoul - 08",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2023-09_-_Robot_chirurgien_Da_Vinci_Xi_-_Centre_hospitalier_de_Vesoul_-_08.jpg/1920px-2023-09_-_Robot_chirurgien_Da_Vinci_Xi_-_Centre_hospitalier_de_Vesoul_-_08.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2023-09_-_Robot_chirurgien_Da_Vinci_Xi_-_Centre_hospitalier_de_Vesoul_-_08.jpg/500px-2023-09_-_Robot_chirurgien_Da_Vinci_Xi_-_Centre_hospitalier_de_Vesoul_-_08.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "A.BourgeoisP, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2023-09_-_Robot_chirurgien_Da_Vinci_Xi_-_Centre_hospitalier_de_Vesoul_-_08.jpg",
+   "plain": true
+  }
+ ]
 }

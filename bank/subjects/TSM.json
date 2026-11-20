@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 30,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "tsmc fab12 · fab12, tsmc, u53f0u7a4d, u53f0u7a4d12u5ee0, u65b0u7af9",
@@ -132,6 +131,66 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/19359045@N02/7999390331",
+   "plain": true
+  },
+  {
+   "shows": "DSC_4937 · fab, fab12, ic, tsmc, u534au5c0eu9ad4",
+   "url": "https://live.staticflickr.com/469/20056795485_d4d3a6b390_b.jpg",
+   "preview": "https://live.staticflickr.com/469/20056795485_d4d3a6b390_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/20056795485",
+   "plain": true
+  },
+  {
+   "shows": "DSC_2581 · 12, fab, ic, tsmc, u4ee3u5de5",
+   "url": "https://live.staticflickr.com/3716/19361626908_42d55b6378_b.jpg",
+   "preview": "https://live.staticflickr.com/3716/19361626908_42d55b6378_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/19361626908",
+   "plain": true
+  },
+  {
+   "shows": "DSC_4977 · fab, fab12, ic, tsmc, u534au5c0eu9ad4",
+   "url": "https://live.staticflickr.com/302/19898597739_aed796fde4_b.jpg",
+   "preview": "https://live.staticflickr.com/302/19898597739_aed796fde4_z.jpg",
+   "size": [
+    1024,
+    683
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by 曾成訓 on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/19359045@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/19359045@N02/19898597739",
    "plain": true
   },
   {

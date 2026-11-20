@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-20",
- "photos": 6705,
+ "photos": 6743,
  "subjects": [
   {
    "id": "MMM",
@@ -102,7 +102,7 @@
     "ADBE"
    ],
    "aliases": [],
-   "photos": 22,
+   "photos": 25,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ADBE.json",
    "sector": "sector-tech",
@@ -764,7 +764,7 @@
     "ASTS"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ASTS.json",
    "sector": "sector-communication",
@@ -1092,7 +1092,7 @@
     "BLK"
    ],
    "aliases": [],
-   "photos": 12,
+   "photos": 13,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/BLK.json",
    "sector": "sector-financials",
@@ -1227,11 +1227,10 @@
     "AVGO"
    ],
    "aliases": [],
-   "photos": 29,
+   "photos": 30,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/AVGO.json",
-   "sector": "sector-tech",
-   "fill_from": "sector-tech"
+   "sector": "sector-tech"
   },
   {
    "id": "BR",
@@ -1693,7 +1692,7 @@
     "CIEN"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/CIEN.json",
    "sector": "sector-tech",
@@ -1829,7 +1828,7 @@
     "CME"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 5,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/CME.json",
    "sector": "sector-financials",
@@ -2617,7 +2616,7 @@
     "EIX"
    ],
    "aliases": [],
-   "photos": 6,
+   "photos": 9,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/EIX.json",
    "sector": "sector-utilities",
@@ -3558,7 +3557,7 @@
     "HPE"
    ],
    "aliases": [],
-   "photos": 3,
+   "photos": 4,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HPE.json",
    "sector": "sector-tech",
@@ -3749,7 +3748,7 @@
     "HII"
    ],
    "aliases": [],
-   "photos": 4,
+   "photos": 6,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HII.json",
    "sector": "sector-industrials",
@@ -3953,7 +3952,7 @@
     "ISRG"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 3,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ISRG.json",
    "sector": "sector-health",
@@ -4009,7 +4008,7 @@
     "IQV"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/IQV.json",
    "sector": "sector-health",
@@ -4092,7 +4091,7 @@
     "J"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/J.json",
    "sector": "sector-industrials",
@@ -5084,7 +5083,7 @@
     "NEE"
    ],
    "aliases": [],
-   "photos": 2,
+   "photos": 5,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/NEE.json",
    "sector": "sector-utilities",
@@ -5382,7 +5381,7 @@
     "OMC"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 2,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/OMC.json",
    "sector": "sector-communication",
@@ -5615,11 +5614,10 @@
     "PFE"
    ],
    "aliases": [],
-   "photos": 28,
+   "photos": 30,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/PFE.json",
-   "sector": "sector-health",
-   "fill_from": "sector-health"
+   "sector": "sector-health"
   },
   {
    "id": "PCG",
@@ -6232,7 +6230,7 @@
     "RTX"
    ],
    "aliases": [],
-   "photos": 8,
+   "photos": 9,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/RTX.json",
    "sector": "sector-industrials",
@@ -7128,11 +7126,10 @@
     "TSM"
    ],
    "aliases": [],
-   "photos": 27,
+   "photos": 30,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/TSM.json",
-   "sector": "sector-tech",
-   "fill_from": "sector-tech"
+   "sector": "sector-tech"
   },
   {
    "id": "TWLO",
@@ -7538,7 +7535,7 @@
     "V"
    ],
    "aliases": [],
-   "photos": 15,
+   "photos": 16,
    "target": 30,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/V.json",
    "sector": "sector-financials",
@@ -8073,7 +8070,7 @@
    "aliases": [
     "utilities"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-utilities.json"
   },
@@ -8085,7 +8082,7 @@
    "aliases": [
     "real estate"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/sector-real-estate.json"
   },
@@ -8384,7 +8381,7 @@
     "guidance",
     "eps"
    ],
-   "photos": 48,
+   "photos": 49,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/earnings.json"
   },
@@ -8399,7 +8396,7 @@
     "initial public offering",
     "going public"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ipo.json"
   },
@@ -8414,7 +8411,7 @@
     "electric cars",
     "batteries"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/ev.json"
   },
@@ -8671,7 +8668,7 @@
     "hotels",
     "cruises"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/travel.json"
   },

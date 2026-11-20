@@ -8,5 +8,46 @@
  "sector": "sector-communication",
  "target": 10,
  "fill_from": "sector-communication",
- "photos": []
+ "photos": [
+  {
+   "shows": "TBWA / Chiat / Day (+OMD) sign",
+   "url": "https://live.staticflickr.com/4077/4822454528_7e492789b4_b.jpg",
+   "preview": "https://live.staticflickr.com/4077/4822454528_7e492789b4_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by jm3 on Flickr, CC BY-SA 2.0",
+   "licence": "CC BY-SA 2.0",
+   "author_url": "https://www.flickr.com/photos/37996588780@N01",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37996588780@N01/4822454528",
+   "plain": true
+  },
+  {
+   "shows": "TBWA/Chiat/Day · california, losangeles",
+   "url": "https://live.staticflickr.com/2644/4223562746_35f0fea4f5_b.jpg",
+   "preview": "https://live.staticflickr.com/2644/4223562746_35f0fea4f5_z.jpg",
+   "size": [
+    1024,
+    745
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by lavocado@sbcglobal.net on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/90809455@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/90809455@N00/4223562746",
+   "plain": true
+  }
+ ]
 }

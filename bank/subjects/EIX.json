@@ -122,6 +122,60 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/27454212@N00/4419831063",
    "plain": true
+  },
+  {
+   "shows": "Southern California Edison",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Southern_California_Edison.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Southern_California_Edison.jpg/500px-Southern_California_Edison.jpg",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "HighKing, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Southern_California_Edison.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Power lines at Big Creek, CA - Southern California Edison.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Powerlines2.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Powerlines2.JPG/500px-Powerlines2.JPG",
+   "size": [
+    1600,
+    1071
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nateconklin, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Powerlines2.JPG",
+   "plain": true
+  },
+  {
+   "shows": "CalEdison Powerline in the Sierra National Forest",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/CalEdison_Powerline_in_the_Sierra_National_Forest_%2825049523308%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CalEdison_Powerline_in_the_Sierra_National_Forest_%2825049523308%29.jpg/500px-CalEdison_Powerline_in_the_Sierra_National_Forest_%2825049523308%29.jpg",
+   "size": [
+    1632,
+    1224
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pacific Southwest Region 5, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:CalEdison_Powerline_in_the_Sierra_National_Forest_(25049523308).jpg",
+   "plain": true
   }
  ]
 }

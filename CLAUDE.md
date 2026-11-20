@@ -429,6 +429,23 @@ Decisions (Pablo, 4 Nov 2026):
   0 -> 4. Nothing for Dover, Roper, Corpay, Texas Pacific Land.
 - Bank (20 Nov): 6,705 photos; companies 4,321 (210 at target, 84 with none; famous average 26.2, 35 of 50 at 30),
   topics 1,837, sectors 547. 345 Unsplash download counts pending.
+- **Rounds 24-25** (20 Nov): 93 + 92 short searches for the 15, then 12, under 50 (container restarts and the 2-hour limit
+  cut three pieces; nothing lost). Grade 3: a residential tower, a water treatment plant from the air, Electrify America
+  chargers, hands on a spreadsheet, a champagne toast, a passport with miniature travellers. Commons gave events, charts,
+  a fur-auction report for "sales report", the Oval Office for jobs, an AI-generated image of aliens for AI. 38 of 48 at
+  50, the other 10 at 49. Round 26 drafted (65 searches, `new_r26.json` in the scratchpad).
+- **Commons by exact category** (`grow_commons_cat.py`, scratchpad): the brand collector rejected a category named
+  exactly as a 3+ word term when it held no business word (the "Da Vinci Surgical System" category). Now a hit in a
+  category equal to the term passes: 4 best (da Vinci robots, HPE's America Center, a carrier under construction at
+  Newport News), 10 reserve (FP&L lines, SCE, Pratt & Whitney HQ). ISRG 0 -> 3.
+- **HQ, plant and product-line terms** (20 Nov): 19 zero-photo companies (EOG: Heritage Plaza; HWM: Alcoa wheels; VRT:
+  Liebert; OMC: BBDO, TBWA; CIEN: Ciena 6500; IQV: Quintiles; J: CH2M Hill; ASTS: BlueWalker 3...) and the 15 famous ones
+  under 30 (TSMC Fab 12, 50 Hudson Yards for BlackRock, Adobe towers, Pfizer HQ, VMware campus...). The collectors take
+  `TERMS_FROM=<json>` to search only the new terms. 82 candidates: 6 best (a Ciena 6500, 3 TSMC Fab 12 night views,
+  50 Hudson Yards, the Adobe towers), 14 reserve. Rejected: Erie Insurance ceremonies, the Burndy Library (not Burndy),
+  BBDO talks and office dogs, the CH2M Hill Alumni Center, Blackrock in Dublin, Manila Imperial Motor Sales for Mastercard.
+- Bank (20 Nov, evening): 6,743 photos; companies 4,353 (213 at target, 78 with none; famous average 26.5, 38 of 50 at
+  30), topics 1,841, sectors 549. 346 Unsplash download counts pending.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

@@ -73,6 +73,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Adobe Systems Ottawa office: Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons. [Adobe Systems Ottawa office.jpg](https://commons.wikimedia.org/wiki/File:Adobe_Systems_Ottawa_office.jpg)
 - Adobe logo and slogan on a building: Photo by FY Chang on Unsplash. [JtIoB86edyU](https://unsplash.com/photos/adobe-logo-and-slogan-on-a-building-JtIoB86edyU?utm_source=investiq_image_bank&utm_medium=referral)
 - MacBook Pro: Photo by Szabo Viktor on Unsplash. [2yQTxjC01JY](https://unsplash.com/photos/macbook-pro-2yQTxjC01JY?utm_source=investiq_image_bank&utm_medium=referral)
+- The Adobe Towers in San Jose: Photo by Tirch on Flickr, CC BY 2.0. [4850727150](https://www.flickr.com/photos/38799733@N00/4850727150)
 - Adobe CEO Shantanu Narayen: Jolie O'Dell, CC BY 2.0, via Wikimedia Commons. [Adobe CEO Shantanu Narayen.jpg](https://commons.wikimedia.org/wiki/File:Adobe_CEO_Shantanu_Narayen.jpg)
 - 1540 Bwy W45 St Adobe entry 2021 jeh: Jim.henderson, CC BY 4.0, via Wikimedia Commons. [1540 Bwy W45 St Adobe entry 2021 jeh.jpg](https://commons.wikimedia.org/wiki/File:1540_Bwy_W45_St_Adobe_entry_2021_jeh.jpg)
 - Adobe India office: Rashid Jorvee, CC BY-SA 4.0, via Wikimedia Commons. [Adobe India office.jpg](https://commons.wikimedia.org/wiki/File:Adobe_India_office.jpg)
@@ -88,6 +89,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Adobe talk at the 2025 Bild Expo Presented by B&H Photo: Tzim78, CC BY 4.0, via Wikimedia Commons. [Adobe talk at the 2025 Bild Expo Presented by B&H Photo.jpg](https://commons.wikimedia.org/wiki/File:Adobe_talk_at_the_2025_Bild_Expo_Presented_by_B%26H_Photo.jpg)
 - Adobe Logo · adobe, adobecommunitysummit, community, logo, sanjose: Photo by midiman on Flickr, CC BY 2.0. [193513407](https://www.flickr.com/photos/41611970@N00/193513407)
 - Adobe Logo · 2006, adobe, community, logo, summit: Photo by midiman on Flickr, CC BY 2.0. [204550268](https://www.flickr.com/photos/41611970@N00/204550268)
+- Adobe Headquarters in San Jose: Photo by Franco Folini on Flickr, CC BY-SA 2.0. [420778738](https://www.flickr.com/photos/78425154@N00/420778738)
+- Adobe Headquarters in San Jose: Photo by Franco Folini on Flickr, CC BY-SA 2.0. [420776526](https://www.flickr.com/photos/78425154@N00/420776526)
 
 ## Advanced Micro Devices (AMD)
 
@@ -534,6 +537,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - South-Korean state visit to ASML: Photo by Ministerie van Buitenlandse Zaken on Flickr, CC BY-SA 2.0. [53617249722](https://www.flickr.com/photos/78392295@N06/53617249722)
 - building 8 -> building 7 · asml, eindhoven, mobile, n95, netherlands: Photo by tnarik on Flickr, CC BY-SA 2.0. [715504308](https://www.flickr.com/photos/80075387@N00/715504308)
 
+## AST SpaceMobile (ASTS)
+
+- Trail left by BlueWalker 3 over McMath-Pierce Solar Telescope (ann22033f): KPNO/NOIRLab/IAU/SKAO/NSF/AURA/R. Sparks, CC BY 4.0, via Wikimedia Commons. [Trail left by BlueWalker 3 over McMath-Pierce Solar Telescope (ann22033f).jpg](https://commons.wikimedia.org/wiki/File:Trail_left_by_BlueWalker_3_over_McMath-Pierce_Solar_Telescope_(ann22033f).jpg)
+
 ## AstraZeneca (AZN)
 
 - Pascal Soriot, AstraZeneca CEO (per Wikidata): Virginia Office of the Governor, CC BY 4.0, via Wikimedia Commons. [Pascal Soriot 2025.jpg](https://commons.wikimedia.org/wiki/File:Pascal_Soriot_2025.jpg)
@@ -766,6 +773,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - 50 Hudson Yards: Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [50 Hudson Yards (55379880087).jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_(55379880087).jpg)
 - 50 Hudson Yards April 2021: Percival Kestreltail, CC BY-SA 3.0, via Wikimedia Commons. [50 Hudson Yards April 2021.jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_April_2021.jpg)
+- 50 Hudson Yards · highrise, hudsonyards, manhattan, newyorkcity, nyc: Photo by edenpictures on Flickr, CC BY 2.0. [48813271608](https://www.flickr.com/photos/10485077@N06/48813271608)
 - 50 Hudson Yards 003: Kidfly182, CC BY 4.0, via Wikimedia Commons. [50 Hudson Yards 003.jpg](https://commons.wikimedia.org/wiki/File:50_Hudson_Yards_003.jpg)
 - Hudson Yards from Hudson Commons (95131p): Rhododendrites, CC BY-SA 4.0, via Wikimedia Commons. [Hudson Yards from Hudson Commons (95131p).jpg](https://commons.wikimedia.org/wiki/File:Hudson_Yards_from_Hudson_Commons_(95131p).jpg)
 - BlackRock hq51 jeh: Jim.henderson, public domain, via Wikimedia Commons. [BlackRock hq51 jeh.JPG](https://commons.wikimedia.org/wiki/File:BlackRock_hq51_jeh.JPG)
@@ -919,6 +927,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Broadcom SoC based on Sibyte MIPS core (SB1250): Photo by Martijn Boer on Flickr, Public Domain Mark. [50575653106](https://www.flickr.com/photos/140974729@N05/50575653106)
 - VMware HQ campus 3401 Hillview entrance: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [VMware HQ campus 3401 Hillview entrance.JPG](https://commons.wikimedia.org/wiki/File:VMware_HQ_campus_3401_Hillview_entrance.JPG)
 - VMware HQ campus cafeteria: BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons. [VMware HQ campus cafeteria.JPG](https://commons.wikimedia.org/wiki/File:VMware_HQ_campus_cafeteria.JPG)
+- VMWare campus, Palo Alto: Photo by sporst on Flickr, CC BY 2.0. [4103469044](https://www.flickr.com/photos/37799356@N05/4103469044)
 
 ## Brown–Forman (BF-B)
 
@@ -1228,6 +1237,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - P1120573-1 · オキシクリーン, oxiclean, u30aau30adu30b7u30afu30eau30fcu30f3, u6d17u5264, u6d17u6fef: Photo by zunsanzunsan on Flickr, CC BY-SA 2.0. [42255928964](https://www.flickr.com/photos/55213774@N05/42255928964)
 - Arm & Hammer Laundry Detergent with Oxi Clean. 9/2014 by Mike Mozart of TheToyChannel and JeepersMedia on YouTube #Arm #Hammer #Oxiclean: Photo by JeepersMedia on Flickr, CC BY 2.0. [15029867347](https://www.flickr.com/photos/39160147@N03/15029867347)
 
+## Ciena (CIEN)
+
+- Ciena: Ciena: C0pMer, CC BY-SA 4.0, via Wikimedia Commons. [Ciena 6500.jpg](https://commons.wikimedia.org/wiki/File:Ciena_6500.jpg)
+- Ciena 6500 alt: C0pMer, CC BY-SA 4.0, via Wikimedia Commons. [Ciena 6500 alt.jpg](https://commons.wikimedia.org/wiki/File:Ciena_6500_alt.jpg)
+
 ## Cigna (CI)
 
 - Connecticut General Life Insurance Company Headquarters: Sphilbrick, CC BY-SA 3.0, via Wikimedia Commons. [Connecticut General Life Insurance Company Headquarters.JPG](https://commons.wikimedia.org/wiki/File:Connecticut_General_Life_Insurance_Company_Headquarters.JPG)
@@ -1317,6 +1331,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Chicago Mercantile Exchange: Photo by edenpictures on Flickr, CC BY 2.0. [5905560519](https://www.flickr.com/photos/10485077@N06/5905560519)
 - Chicago Mercantile Exchange: Photo by Matthew Black on Flickr, CC BY-SA 2.0. [526514273](https://www.flickr.com/photos/60099286@N00/526514273)
 - Chicago Mercantile Exchange Center: Photo by chris.rycroft on Flickr, CC BY 2.0. [52047852047](https://www.flickr.com/photos/193316968@N06/52047852047)
+- South Branch of Chicago River: Elisa.rolle, CC BY-SA 3.0, via Wikimedia Commons. [South Branch of Chicago River.jpg](https://commons.wikimedia.org/wiki/File:South_Branch_of_Chicago_River.jpg)
 
 ## CMS Energy (CMS)
 
@@ -1899,6 +1914,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Southern California Edison Company: Photo by Joe Crawford (artlung) on Flickr, CC BY 2.0. [3226545530](https://www.flickr.com/photos/37996599088@N01/3226545530)
 - Southern California Edison Building: Photo by Kent Wang on Flickr, CC BY-SA 2.0. [4419819051](https://www.flickr.com/photos/27454212@N00/4419819051)
 - Southern California Edison Building: Photo by Kent Wang on Flickr, CC BY-SA 2.0. [4419831063](https://www.flickr.com/photos/27454212@N00/4419831063)
+- Southern California Edison: HighKing, CC BY-SA 3.0, via Wikimedia Commons. [Southern California Edison.jpg](https://commons.wikimedia.org/wiki/File:Southern_California_Edison.jpg)
+- Power lines at Big Creek, CA - Southern California Edison.: Nateconklin, CC BY-SA 3.0, via Wikimedia Commons. [Powerlines2.JPG](https://commons.wikimedia.org/wiki/File:Powerlines2.JPG)
+- CalEdison Powerline in the Sierra National Forest: Pacific Southwest Region 5, public domain, via Wikimedia Commons. [CalEdison Powerline in the Sierra National Forest (25049523308).jpg](https://commons.wikimedia.org/wiki/File:CalEdison_Powerline_in_the_Sierra_National_Forest_(25049523308).jpg)
 
 ## Edwards Lifesciences (EW)
 
@@ -2528,6 +2546,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Hewlett Packard Enterprise (HPE)
 
 - Brown and white concrete building under blue sky during daytime: Photo by Gene Gallin on Unsplash. [sE01vAlblC0](https://unsplash.com/photos/brown-and-white-concrete-building-under-blue-sky-during-daytime-sE01vAlblC0?utm_source=investiq_image_bank&utm_medium=referral)
+- HP Enterprise America Center: Coolcaesar, CC BY-SA 4.0, via Wikimedia Commons. [HP Enterprise America Center.jpg](https://commons.wikimedia.org/wiki/File:HP_Enterprise_America_Center.jpg)
 - HPE headquarters: Unknown author, CC0, via Wikimedia Commons. [HPE headquarters.jpg](https://commons.wikimedia.org/wiki/File:HPE_headquarters.jpg)
 - Hewlett Packard (HP) Enterprise Office Building - Omaha, Nebraska: Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons. [Hewlett Packard (HP) Enterprise Office Building - Omaha, Nebraska (29991644447).jpg](https://commons.wikimedia.org/wiki/File:Hewlett_Packard_(HP)_Enterprise_Office_Building_-_Omaha,_Nebraska_(29991644447).jpg)
 
@@ -2660,10 +2679,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Huntington Ingalls Industries (HII)
 
+- N-0000D-002 CVN 76 Under Construction: U.S. Navy photo, public domain, via Wikimedia Commons. [001111-N-0000D-002 CVN 76 Under Construction.jpg](https://commons.wikimedia.org/wiki/File:001111-N-0000D-002_CVN_76_Under_Construction.jpg)
 - A crane moves the lower stern into place on the nuclear-powered aircraft carrier USS John F. Kennedy (CVN 79): Official U.S. Navy Page from United States of America John Whalen/U.S. Navy, public domain, via Wikimedia Commons. [A crane moves the lower stern into place on the nuclear-powered aircraft carrier USS John F. Kennedy (CVN 79). (34649699544).jpg](https://commons.wikimedia.org/wiki/File:A_crane_moves_the_lower_stern_into_place_on_the_nuclear-powered_aircraft_carrier_USS_John_F._Kennedy_(CVN_79)._(34649699544).jpg)
 - The Newport News Shipbuilding yard, on Chesapeake Bay in Newport News, Virginia, part of the state's "Tidewater" area where the bay and the James River meet the Atlantic Ocean: Photo: Carol M. Highsmith, Library of Congress, public domain. [2020724706](https://www.loc.gov/item/2020724706/)
 - The Newport News Shipbuilding yard, on Chesapeake Bay in Newport News, Virginia, part of the state's "Tidewater" area where the bay and the James River meet the Atlantic Ocean: Photo: Carol M. Highsmith, Library of Congress, public domain. [2020724707](https://www.loc.gov/item/2020724707/)
 - Newport News Shipbuilding: Photo by Tobyotter on Flickr, CC BY 2.0. [8698935091](https://www.flickr.com/photos/78428166@N00/8698935091)
+- Newport News Shipyard, aerial view, Oct 1994: Don S. Montgomery, public domain, via Wikimedia Commons. [Newport News Shipyard, aerial view, Oct 1994.jpeg](https://commons.wikimedia.org/wiki/File:Newport_News_Shipyard,_aerial_view,_Oct_1994.jpeg)
 
 ## IBM (IBM)
 
@@ -2825,6 +2846,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Turbo Tax Turbotax Intuit, 2/2015 by Mike Mozart of TheToyChannel and JeepersMedia on YouTube #TurboTax #Intuit #Turbo #Tax: Photo by JeepersMedia on Flickr, CC BY 2.0. [16435485392](https://www.flickr.com/photos/39160147@N03/16435485392)
 - QuickBooks for eBay - 4: Photo by yugenro on Flickr, CC BY-SA 2.0. [6875329536](https://www.flickr.com/photos/22651740@N00/6875329536)
 
+## Intuitive Surgical (ISRG)
+
+- Quirófano robótico: Hospitalhoms, CC BY-SA 4.0, via Wikimedia Commons. [Quirófano robótico.jpg](https://commons.wikimedia.org/wiki/File:Quir%C3%B3fano_rob%C3%B3tico.jpg)
+- Domo Origato Surgeon Roboto: Jason Knauer, CC BY 3.0, via Wikimedia Commons. [Domo Origato Surgeon Roboto (230350985).jpeg](https://commons.wikimedia.org/wiki/File:Domo_Origato_Surgeon_Roboto_(230350985).jpeg)
+- 2023-09 - Robot chirurgien Da Vinci Xi - Centre hospitalier de Vesoul - 08: A.BourgeoisP, CC BY-SA 4.0, via Wikimedia Commons. [2023-09 - Robot chirurgien Da Vinci Xi - Centre hospitalier de Vesoul - 08.jpg](https://commons.wikimedia.org/wiki/File:2023-09_-_Robot_chirurgien_Da_Vinci_Xi_-_Centre_hospitalier_de_Vesoul_-_08.jpg)
+
 ## Invesco (IVZ)
 
 - Invesco building: abdallahh from Montréal, Canada, CC BY 2.0, via Wikimedia Commons. [Invesco building (8457673328).jpg](https://commons.wikimedia.org/wiki/File:Invesco_building_(8457673328).jpg)
@@ -2834,6 +2861,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## IonQ (IONQ)
 
 - IonQ headquarters College Park MD: Blacktupelo, CC BY-SA 4.0, via Wikimedia Commons. [IonQ headquarters College Park MD.jpg](https://commons.wikimedia.org/wiki/File:IonQ_headquarters_College_Park_MD.jpg)
+
+## IQVIA (IQV)
+
+- Quintiles building - geograph.org.uk: M J Richardson, CC BY-SA 2.0, via Wikimedia Commons. [Quintiles building - geograph.org.uk - 4590827.jpg](https://commons.wikimedia.org/wiki/File:Quintiles_building_-_geograph.org.uk_-_4590827.jpg)
 
 ## Iron Mountain (IRM)
 
@@ -2875,6 +2906,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Jack Henry & Associates (JKHY)
 
 - Jack Henry & Associates Inc. / Birmingham: Photo by curtis palmer on Flickr, CC BY 2.0. [323144674](https://www.flickr.com/photos/46453719@N00/323144674)
+
+## Jacobs Solutions (J)
+
+- CH2M Hill employees go orange: Photo by OregonDOT on Flickr, CC BY 2.0. [4538261692](https://www.flickr.com/photos/28364885@N02/4538261692)
 
 ## JD.com (JD)
 
@@ -3758,6 +3793,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - St. Lucie Nuclear Power Plant by Don Ramey Logan: Don Ramey Logan, CC BY-SA 4.0, via Wikimedia Commons. [St. Lucie Nuclear Power Plant by Don Ramey Logan.jpg](https://commons.wikimedia.org/wiki/File:St._Lucie_Nuclear_Power_Plant_by_Don_Ramey_Logan.jpg)
 - St. Lucie Nuclear Power Plant - view from Indian River: Pburka, CC BY-SA 4.0, via Wikimedia Commons. [St. Lucie Nuclear Power Plant - view from Indian River.jpg](https://commons.wikimedia.org/wiki/File:St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg)
+- Transition between armless and cross arm construction.: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [FP&L 22.9kV - Bunnell, FL - 25198735787.jpg](https://commons.wikimedia.org/wiki/File:FP%26L_22.9kV_-_Bunnell,_FL_-_25198735787.jpg)
+- FP&L 500kV - Flagler County, FL: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [FP&L 500kV - Flagler County, FL.jpg](https://commons.wikimedia.org/wiki/File:FP%26L_500kV_-_Flagler_County,_FL.jpg)
+- FP&L 230kV & 138kV - Volusia County, FL: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [FP&L 230kV & 138kV - Volusia County, FL.jpg](https://commons.wikimedia.org/wiki/File:FP%26L_230kV_%26_138kV_-_Volusia_County,_FL.jpg)
 
 ## Nike, Inc. (NKE)
 
@@ -4014,6 +4052,11 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Old Dominion Freight Line: Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0. [8809093958](https://www.flickr.com/photos/46102325@N06/8809093958)
 - Old Dominion Freight Line (2): Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0. [14615630625](https://www.flickr.com/photos/46102325@N06/14615630625)
 
+## Omnicom Group (OMC)
+
+- TBWA / Chiat / Day (+OMD) sign: Photo by jm3 on Flickr, CC BY-SA 2.0. [4822454528](https://www.flickr.com/photos/37996588780@N01/4822454528)
+- TBWA/Chiat/Day · california, losangeles: Photo by lavocado@sbcglobal.net on Flickr, CC BY 2.0. [4223562746](https://www.flickr.com/photos/90809455@N00/4223562746)
+
 ## On (ONON)
 
 - OutDoor 2018, Friedrichshafen (1X7A0305): Matti Blume, CC BY-SA 4.0, via Wikimedia Commons. [OutDoor 2018, Friedrichshafen (1X7A0305).jpg](https://commons.wikimedia.org/wiki/File:OutDoor_2018,_Friedrichshafen_(1X7A0305).jpg)
@@ -4228,6 +4271,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Pfizer Viagra mouse · mouse, pfizer, viagra: Photo by matsuyuki on Flickr, CC BY-SA 2.0. [4284099283](https://www.flickr.com/photos/12173213@N00/4284099283)
 - Pfizer Viagra mouse · mouse, pfizer, viagra: Photo by matsuyuki on Flickr, CC BY-SA 2.0. [4284098651](https://www.flickr.com/photos/12173213@N00/4284098651)
 - Pfizer Booth at the CCC 2006 in Vancouver: Photo by colros on Flickr, CC BY 2.0. [313262898](https://www.flickr.com/photos/73416633@N00/313262898)
+- Pfizer: Pfizer building: Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons. [235 E42 St 2025 jeh.jpg](https://commons.wikimedia.org/wiki/File:235_E42_St_2025_jeh.jpg)
+- Pfizer World Headquarters: Photo by ajay_suresh on Flickr, CC BY 2.0. [51921996957](https://www.flickr.com/photos/83136374@N05/51921996957)
 
 ## PG&E Corporation (PCG)
 
@@ -4601,6 +4646,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Pratt & Whitney J58 Engine -2: Photo by hj_west on Flickr, CC BY-SA 2.0. [8653981934](https://www.flickr.com/photos/13813081@N06/8653981934)
 - Pratt & Whitney R-4360 Engine: Photo by hj_west on Flickr, CC BY-SA 2.0. [8652881595](https://www.flickr.com/photos/13813081@N06/8652881595)
 - Raytheon-Cityline-Front: Jpalens, CC BY-SA 4.0, via Wikimedia Commons. [Raytheon-Cityline-Front.jpg](https://commons.wikimedia.org/wiki/File:Raytheon-Cityline-Front.jpg)
+- en:Pratt & Whitney headquarters in en:East Hartford, Connecticut: DanielPenfield, CC BY-SA 3.0, via Wikimedia Commons. [PrattAndWhitneyHeadquarters.JPG](https://commons.wikimedia.org/wiki/File:PrattAndWhitneyHeadquarters.JPG)
 
 ## S&P Global (SPGI)
 
@@ -5277,6 +5323,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - TSMC Fab5: Peellden, CC BY-SA 3.0, via Wikimedia Commons. [TSMC Fab5.JPG](https://commons.wikimedia.org/wiki/File:TSMC_Fab5.JPG)
 - Building of Taiwan Semiconductor Manufacturing Fab 12B at dusk1: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [Building of Taiwan Semiconductor Manufacturing Fab 12B at dusk1.jpg](https://commons.wikimedia.org/wiki/File:Building_of_Taiwan_Semiconductor_Manufacturing_Fab_12B_at_dusk1.jpg)
 - tsmc fab12 · fab12, tsmc, u53f0u7a4d, \u53f0\u7a4d, u53f0u7a4d12u5ee0: Photo by 曾成訓 on Flickr, CC BY 2.0. [7999390331](https://www.flickr.com/photos/19359045@N02/7999390331)
+- DSC_4937 · fab, fab12, ic, tsmc, u534au5c0eu9ad4: Photo by 曾成訓 on Flickr, CC BY 2.0. [20056795485](https://www.flickr.com/photos/19359045@N02/20056795485)
+- DSC_2581 · 12, fab, ic, tsmc, u4ee3u5de5: Photo by 曾成訓 on Flickr, CC BY 2.0. [19361626908](https://www.flickr.com/photos/19359045@N02/19361626908)
+- DSC_4977 · fab, fab12, ic, tsmc, u534au5c0eu9ad4: Photo by 曾成訓 on Flickr, CC BY 2.0. [19898597739](https://www.flickr.com/photos/19359045@N02/19898597739)
 - TSMC Fab 18 May 2025: 4300streetcar, CC BY 4.0, via Wikimedia Commons. [TSMC Fab 18 May 2025.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Fab_18_May_2025.jpg)
 - 1 TSMC Fab 21 construction: Hunter Trick (TrickHunter), CC BY-SA 4.0, via Wikimedia Commons. [231105-1 TSMC Fab 21 construction.jpg](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg)
 - TSMC Global R＆D Center: 曾 成訓, CC BY 2.0, via Wikimedia Commons. [TSMC Global R＆D Center.jpg](https://commons.wikimedia.org/wiki/File:TSMC_Global_R%EF%BC%86D_Center.jpg)
@@ -5543,6 +5592,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - USE YOUR VISA CARD: Photo by Darren Foreman on Flickr, CC BY 2.0. [217613865](https://www.flickr.com/photos/11554355@N00/217613865)
 - VISA credit card · 32sek, american, bank, black, business: Photo by Håkan Dahlström on Flickr, CC BY 2.0. [5532389673](https://www.flickr.com/photos/93755244@N00/5532389673)
 - Visa Credit Card · americanexpress, blackamericanexpress, borrowing, buyingoncredit, consumercredit: Photo by Images_of_Money on Flickr, CC BY 2.0. [5856795621](https://www.flickr.com/photos/59937401@N07/5856795621)
+- Visa headquarters · america, architecture, buildings, california, offices: Photo by sarahstierch on Flickr, CC0. [54770264291](https://www.flickr.com/photos/7633518@N08/54770264291)
 
 ## Vistra Corp (VST)
 
@@ -6294,6 +6344,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Solar panels on a roof: Photo by Soren H on Unsplash. [omfN1pW-n2Y](https://unsplash.com/photos/solar-panels-on-a-roof-omfN1pW-n2Y?utm_source=investiq_image_bank&utm_medium=referral)
 - Person opening faucet: Photo by Jacek Dylag on Unsplash. [Vve7XkiUq_Y](https://unsplash.com/photos/person-opening-faucet-Vve7XkiUq_Y?utm_source=investiq_image_bank&utm_medium=referral)
 - Water ripple: Photo by Terry Vlisidis on Unsplash. [SFEvfN01-ao](https://unsplash.com/photos/water-ripple-SFEvfN01-ao?utm_source=investiq_image_bank&utm_medium=referral)
+- Water treatment plant in Ramadi: Jeremy M. Giacomino, U.S. Marine Corps, public domain, via Wikimedia Commons. [Water treatment plant in Ramadi.jpg](https://commons.wikimedia.org/wiki/File:Water_treatment_plant_in_Ramadi.jpg)
 
 ## Real estate sector (sector-real-estate)
 
@@ -6346,6 +6397,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Quartier Saint-Michel Beauport 01: Gabriel Picard, CC BY-SA 4.0, via Wikimedia Commons. [Quartier Saint-Michel Beauport 01.jpg](https://commons.wikimedia.org/wiki/File:Quartier_Saint-Michel_Beauport_01.jpg)
 - A large warehouse filled with lots of pallets: Photo by AFINIS Group ® - AFINIS GASKET® Production on Unsplash. [OnbSOhz0oig](https://unsplash.com/photos/a-large-warehouse-filled-with-lots-of-pallets-OnbSOhz0oig?utm_source=investiq_image_bank&utm_medium=referral)
 - Darkened Storage Units: Psychozoia, CC BY-SA 4.0, via Wikimedia Commons. [Darkened Storage Units.jpg](https://commons.wikimedia.org/wiki/File:Darkened_Storage_Units.jpg)
+- A very tall building with lots of windows: Photo by CrowN on Unsplash. [1ZEGE8fvPCI](https://unsplash.com/photos/a-very-tall-building-with-lots-of-windows-1ZEGE8fvPCI?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Materials sector (sector-materials)
 
@@ -7347,6 +7399,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - No Known Restrictions New York Stock Exchange (Highsmith LOC): Carol M. Highsmith, public domain, via Wikimedia Commons. [No Known Restrictions New York Stock Exchange (Highsmith LOC) (6718424839).jpg](https://commons.wikimedia.org/wiki/File:No_Known_Restrictions_New_York_Stock_Exchange_(Highsmith_LOC)_(6718424839).jpg)
 - Vintage cash register with nautical background: Photo by Pix Tresa on Unsplash. [aDxK3nTxtAc](https://unsplash.com/photos/vintage-cash-register-with-nautical-background-aDxK3nTxtAc?utm_source=investiq_image_bank&utm_medium=referral)
 - Los Angeles Stock Exchange Building: Los Angeles, CC BY-SA 3.0, via Wikimedia Commons. [Los Angeles Stock Exchange Building.jpg](https://commons.wikimedia.org/wiki/File:Los_Angeles_Stock_Exchange_Building.jpg)
+- Hands typing on a laptop with a spreadsheet on screen: Photo by Bluestonex on Unsplash. [iDqNlr1Y1_w](https://unsplash.com/photos/hands-typing-on-a-laptop-with-a-spreadsheet-on-screen-iDqNlr1Y1_w?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## IPOs (ipo)
 
@@ -7399,6 +7452,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Two person shaking hands near white painted wall: Photo by Chris Liverani on Unsplash. [9cd8qOgeNIY](https://unsplash.com/photos/two-person-shaking-hands-near-white-painted-wall-9cd8qOgeNIY?utm_source=investiq_image_bank&utm_medium=referral)
 - NYSE facade: Ryan Schwark, CC0, via Wikimedia Commons. [NYSE facade.jpg](https://commons.wikimedia.org/wiki/File:NYSE_facade.jpg)
 - times square nasdaq: Erik Drost, CC BY 2.0, via Wikimedia Commons. [NASDAQ (6279257849).jpg](https://commons.wikimedia.org/wiki/File:NASDAQ_(6279257849).jpg)
+- A group of people raising glasses for a toast against a bright sky: Photo by Enfocus Collective on Unsplash. [Xm7pCQ0tsV4](https://unsplash.com/photos/people-raising-glasses-for-toast-Xm7pCQ0tsV4?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Electric vehicles (ev)
 
@@ -7451,6 +7505,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A green sign that says electric vehicle charging station: Photo by Matt Bloom on Unsplash. [0Xp_MBkkdBo](https://unsplash.com/photos/a-green-sign-that-says-electric-vehicle-charging-station-0Xp_MBkkdBo?utm_source=investiq_image_bank&utm_medium=referral)
 - EV Charging station, Mothitang: Christopher J. Fynn, CC BY-SA 4.0, via Wikimedia Commons. [EV Charging station, Mothitang.jpg](https://commons.wikimedia.org/wiki/File:EV_Charging_station,_Mothitang.jpg)
 - Ev charger connector head: Photo by Miron Huang on Unsplash. [ECPML1vHQYQ](https://unsplash.com/photos/ev-charger-connector-head-ECPML1vHQYQ?utm_source=investiq_image_bank&utm_medium=referral)
+- Electrify America EV charger in Nevada 0320: Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons. [Electrify America EV charger in Nevada 0320.jpg](https://commons.wikimedia.org/wiki/File:Electrify_America_EV_charger_in_Nevada_0320.jpg)
 
 ## Nuclear power & uranium (nuclear)
 
@@ -8294,6 +8349,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Shallow focus photography of people inside of passenger plane: Photo by Suhyeon Choi on Unsplash. [tTfDMaRq-FE](https://unsplash.com/photos/shallow-focus-photography-of-people-inside-of-passenger-plane-tTfDMaRq-FE?utm_source=investiq_image_bank&utm_medium=referral)
 - White cruise ship on sea during daytime: Photo by Adam Gonzales on Unsplash. [A2MkCqYrSUw](https://unsplash.com/photos/white-cruise-ship-on-sea-during-daytime-A2MkCqYrSUw?utm_source=investiq_image_bank&utm_medium=referral)
 - Gray and white airplane on flight near clear blue sky: Photo by John McArthur on Unsplash. [PrdNTrIrG8w](https://unsplash.com/photos/gray-and-white-airplane-on-flight-near-clear-blue-sky-PrdNTrIrG8w?utm_source=investiq_image_bank&utm_medium=referral)
+- Two miniature figures with luggage carts on a passport page with travel stamps: Photo by mana5280 on Unsplash. [ivG8LkDrtjs](https://unsplash.com/photos/miniature-figures-on-passport-page-ivG8LkDrtjs?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Luxury goods (luxury)
 

@@ -8,5 +8,41 @@
  "sector": "sector-tech",
  "target": 10,
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "Ciena: Ciena",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ciena_6500.jpg/1280px-Ciena_6500.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ciena_6500.jpg/500px-Ciena_6500.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "C0pMer, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ciena_6500.jpg"
+  },
+  {
+   "shows": "Ciena 6500 alt",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ciena_6500_alt.jpg/1280px-Ciena_6500_alt.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ciena_6500_alt.jpg/500px-Ciena_6500_alt.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "C0pMer, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ciena_6500_alt.jpg",
+   "plain": true
+  }
+ ]
 }
