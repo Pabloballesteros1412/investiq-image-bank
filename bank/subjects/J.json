@@ -8,5 +8,26 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "CH2M Hill employees go orange",
+   "url": "https://live.staticflickr.com/4003/4538261692_140ef21692_b.jpg",
+   "preview": "https://live.staticflickr.com/4003/4538261692_140ef21692_z.jpg",
+   "size": [
+    1024,
+    685
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by OregonDOT on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/28364885@N02",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/28364885@N02/4538261692",
+   "plain": true
+  }
+ ]
 }

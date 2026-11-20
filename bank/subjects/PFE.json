@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 30,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Festival of Lights 2022 - Pfizer Werbung",
@@ -514,6 +513,44 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/73416633@N00/313262898",
+   "plain": true
+  },
+  {
+   "shows": "Pfizer: Pfizer building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/235_E42_St_2025_jeh.jpg/1280px-235_E42_St_2025_jeh.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/235_E42_St_2025_jeh.jpg/500px-235_E42_St_2025_jeh.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:235_E42_St_2025_jeh.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Pfizer World Headquarters",
+   "url": "https://live.staticflickr.com/65535/51921996957_ece95919ab_b.jpg",
+   "preview": "https://live.staticflickr.com/65535/51921996957_ece95919ab_z.jpg",
+   "size": [
+    1024,
+    576
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by ajay_suresh on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/83136374@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/83136374@N05/51921996957",
    "plain": true
   }
  ]

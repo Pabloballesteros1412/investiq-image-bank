@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 30,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Broadcom BCM94331PCIEBT4 - Broadcom BCM4331KML1G-0958",
@@ -546,6 +545,26 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:VMware_HQ_campus_cafeteria.JPG",
+   "plain": true
+  },
+  {
+   "shows": "VMWare campus, Palo Alto",
+   "url": "https://live.staticflickr.com/2537/4103469044_031910776c_b.jpg",
+   "preview": "https://live.staticflickr.com/2537/4103469044_031910776c_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by sporst on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/37799356@N05",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/37799356@N05/4103469044",
    "plain": true
   }
  ]
