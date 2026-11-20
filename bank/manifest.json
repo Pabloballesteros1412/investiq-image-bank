@@ -200634,33 +200634,33 @@
     "how": "catalog"
    },
    {
-    "shot": "hacker-mask",
-    "shows": "Face mask fit hacks Journal.pone. .g001",
-    "file": "File:Face mask fit hacks Journal.pone.0262830.g001.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Face_mask_fit_hacks_Journal.pone.0262830.g001.png",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Face_mask_fit_hacks_Journal.pone.0262830.g001.png/1280px-Face_mask_fit_hacks_Journal.pone.0262830.g001.png",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Face_mask_fit_hacks_Journal.pone.0262830.g001.png/500px-Face_mask_fit_hacks_Journal.pone.0262830.g001.png",
+    "shot": "padlock-on-laptop",
+    "shows": "Open lock on laptop",
+    "file": "File:Open lock on laptop (49919519837).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Open_lock_on_laptop_(49919519837).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Open_lock_on_laptop_%2849919519837%29.jpg/1920px-Open_lock_on_laptop_%2849919519837%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Open_lock_on_laptop_%2849919519837%29.jpg/500px-Open_lock_on_laptop_%2849919519837%29.jpg",
     "size": [
-     1280,
-     1764
+     1920,
+     1280
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "O’Kelly E, Arora A, Pirog S, Pearson C, Ward J, Clarkson PJ (2022) Face mask fit hacks: Improving the fit of KN95 masks and surgical masks with fit alteration techniques. PLoS ONE 17(2): e0262830. doi:10.1371/journal.pone.0262830, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
+    "credit": "Yuri Samoilov, CC BY 2.0, via Wikimedia Commons",
+    "licence": "CC BY 2.0",
     "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "O’Kelly E, Arora A, Pirog S, Pearson C, Ward J, Clarkson PJ (2022) Face mask fit hacks: Improving the fit of KN95 masks and surgical masks with fit alteration techniques. PLoS ONE 17(2): e0262830. doi:10.1371/journal.pone.0262830",
-    "year": 2022,
+    "licence_url": "https://creativecommons.org/licenses/by/2.0",
+    "author": "Yuri Samoilov",
+    "year": 2020,
     "how": "catalog"
    }
   ],
   "missing": [
-   "password-lock-screen",
-   "red-code-screen",
-   "keyboard-lock",
+   "laptop-with-padlock",
+   "keyboard-and-lock",
+   "firewall-appliance",
    "laptop-padlock",
    "secure-login",
    "ethernet-lock",

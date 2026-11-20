@@ -8,5 +8,26 @@
  "sector": "sector-financials",
  "target": 10,
  "fill_from": "sector-financials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Metavante - Headquarters",
+   "url": "https://live.staticflickr.com/3123/2673205038_c60f277a17_b.jpg",
+   "preview": "https://live.staticflickr.com/3123/2673205038_c60f277a17_z.jpg",
+   "size": [
+    1024,
+    768
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photo by hottholler on Flickr, CC BY 2.0",
+   "licence": "CC BY 2.0",
+   "author_url": "https://www.flickr.com/photos/26414533@N00",
+   "low_res": true,
+   "provider": "flickr",
+   "source": "https://www.flickr.com/photos/26414533@N00/2673205038",
+   "plain": true
+  }
+ ]
 }

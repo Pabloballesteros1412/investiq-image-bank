@@ -2154,6 +2154,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Ferrari 250 Monza, chassis 0432M. Photographed at the Casa Ferrari display during the 2023 Pebble Beach Concours d'Elegance.: Prova MO, CC BY 4.0, via Wikimedia Commons. [Ferrari 0432M at CF 20234329.jpg](https://commons.wikimedia.org/wiki/File:Ferrari_0432M_at_CF_20234329.jpg)
 - Ferrari 250 GT SWB, chassis 1759GT. Photographed at the Casa Ferrari display during the 2023 Pebble Beach Concours d'Elegance.: Prova MO, CC BY 4.0, via Wikimedia Commons. [Ferrari 1759GT at CF 20234382.jpg](https://commons.wikimedia.org/wiki/File:Ferrari_1759GT_at_CF_20234382.jpg)
 
+## Fidelity National Information Services (FIS)
+
+- Metavante - Headquarters: Photo by hottholler on Flickr, CC BY 2.0. [2673205038](https://www.flickr.com/photos/26414533@N00/2673205038)
+
 ## Fifth Third Bancorp (FITB)
 
 - Fifth Third Bank Headquarters: EEJCC, CC BY-SA 4.0, via Wikimedia Commons. [Fifth Third Bank Headquarters.jpg](https://commons.wikimedia.org/wiki/File:Fifth_Third_Bank_Headquarters.jpg)
@@ -2635,6 +2639,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Host Hotels HQ Bethesda MD HST 1 crop: G. Edward Johnson, CC BY 4.0, via Wikimedia Commons. [Host Hotels HQ Bethesda MD HST 20210314 181959 1 crop.jpg](https://commons.wikimedia.org/wiki/File:Host_Hotels_HQ_Bethesda_MD_HST_20210314_181959_1_crop.jpg)
 - Host Hotels HQ Bethesda: angela n., CC BY 2.0, via Wikimedia Commons. [Host Hotels HQ Bethesda 2021-11-28.jpg](https://commons.wikimedia.org/wiki/File:Host_Hotels_HQ_Bethesda_2021-11-28.jpg)
+
+## Howmet Aerospace (HWM)
+
+- Northwood - Firth Rixson Forgings - office block - geograph.org.uk: Dave Bevis, CC BY-SA 2.0, via Wikimedia Commons. [Northwood - Firth Rixson Forgings - office block - geograph.org.uk - 3495200.jpg](https://commons.wikimedia.org/wiki/File:Northwood_-_Firth_Rixson_Forgings_-_office_block_-_geograph.org.uk_-_3495200.jpg)
 
 ## HP Inc. (HPQ)
 
@@ -7664,6 +7672,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Self-serve aisle in IKEA Torp Uddevalla - Cinematic edit: W.carter, CC BY 4.0, via Wikimedia Commons. [Self-serve aisle in IKEA Torp Uddevalla - Cinematic edit.jpg](https://commons.wikimedia.org/wiki/File:Self-serve_aisle_in_IKEA_Torp_Uddevalla_-_Cinematic_edit.jpg)
 - A group of people walking inside of a shopping mall: Photo by Korng Sok on Unsplash. [qq2YzwwH-1U](https://unsplash.com/photos/a-group-of-people-walking-inside-of-a-shopping-mall-qq2YzwwH-1U?utm_source=investiq_image_bank&utm_medium=referral)
 - Skincare products displayed on shelves in a retail store: Photo by Zoshua Colah on Unsplash. [8sCPn-RKKNE](https://unsplash.com/photos/skincare-products-displayed-on-shelves-in-a-retail-store-8sCPn-RKKNE?utm_source=investiq_image_bank&utm_medium=referral)
+- Christmas shopping crowd on Meir, Antwerp, 2024: DimiTalen, CC0, via Wikimedia Commons. [Christmas shopping crowd on Meir, Antwerp, 2024.jpg](https://commons.wikimedia.org/wiki/File:Christmas_shopping_crowd_on_Meir,_Antwerp,_2024.jpg)
 
 ## Banks & the financial system (banks)
 
@@ -8138,6 +8147,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Black USB flash drive: Photo by Brina Blum on Unsplash. [Bb_X4JgSqIM](https://unsplash.com/photos/black-usb-flash-drive-Bb_X4JgSqIM?utm_source=investiq_image_bank&utm_medium=referral)
 - Aluminium numeric security key on an orange stucco wall: Photo by Nilo Velez on WordPress.org Photos, CC0. [69305](https://wordpress.org/photos/photo/69465f86f9/)
 - Physical Multi Factor Authentication: MaddalenaCatania, CC BY-SA 4.0, via Wikimedia Commons. [Physical Multi Factor Authentication.jpg](https://commons.wikimedia.org/wiki/File:Physical_Multi_Factor_Authentication.jpg)
+- Open lock on laptop: Yuri Samoilov, CC BY 2.0, via Wikimedia Commons. [Open lock on laptop (49919519837).jpg](https://commons.wikimedia.org/wiki/File:Open_lock_on_laptop_(49919519837).jpg)
 
 ## India economy (india)
 

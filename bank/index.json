@@ -12,7 +12,7 @@
   "Photos with 'low_res': true (Flickr through Openverse) are only 1024 px on their long side and look soft full-bleed: never use one as a cover; use it smaller (half a slide, an inset or a grid) rather than stretched over a whole slide."
  ],
  "updated": "2026-11-20",
- "photos": 6743,
+ "photos": 6747,
  "subjects": [
   {
    "id": "MMM",
@@ -3054,7 +3054,7 @@
     "FIS"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/FIS.json",
    "sector": "sector-financials",
@@ -3666,7 +3666,7 @@
     "HWM"
    ],
    "aliases": [],
-   "photos": 0,
+   "photos": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/HWM.json",
    "sector": "sector-industrials",
@@ -8459,7 +8459,7 @@
     "retail sales",
     "holiday season"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/consumer.json"
   },
@@ -8603,7 +8603,7 @@
     "hacking",
     "security"
    ],
-   "photos": 49,
+   "photos": 50,
    "target": 50,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/subjects/cybersecurity.json"
   },
