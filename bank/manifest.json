@@ -145098,11 +145098,11 @@
    },
    {
     "shot": "technology-conference",
-    "shows": "Game Developers Conference 2017, Registration 30",
-    "file": "File:Game Developers Conference 2017, Registration 30.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Game_Developers_Conference_2017,_Registration_30.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Game_Developers_Conference_2017%2C_Registration_30.jpg/1920px-Game_Developers_Conference_2017%2C_Registration_30.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Game_Developers_Conference_2017%2C_Registration_30.jpg/500px-Game_Developers_Conference_2017%2C_Registration_30.jpg",
+    "shows": "Game Developers Conference 2017, Registration 08",
+    "file": "File:Game Developers Conference 2017, Registration 08.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Game_Developers_Conference_2017,_Registration_08.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Game_Developers_Conference_2017%2C_Registration_08.jpg/1920px-Game_Developers_Conference_2017%2C_Registration_08.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Game_Developers_Conference_2017%2C_Registration_08.jpg/500px-Game_Developers_Conference_2017%2C_Registration_08.jpg",
     "size": [
      1920,
      1280
@@ -145116,14 +145116,14 @@
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/2.0",
     "author": "Official GDC",
-    "year": 2018,
+    "year": 2017,
     "how": "catalog"
    }
   ],
   "missing": [
    "office-open-space",
-   "keyboard-macro",
-   "smartphone-factory",
+   "smartphone-closeup",
+   "computer-screen-code",
    "tech-campus",
    "usb-drive",
    "tech-store",
@@ -145144,7 +145144,7 @@
    "usb",
    "data-screen"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "sector-health": {
   "name": "Health care sector",
@@ -155542,11 +155542,11 @@
    },
    {
     "shot": "water-treatment-plant",
-    "shows": "Deer Island Waste Water Treatment Plant from lookout",
-    "file": "File:Deer Island Waste Water Treatment Plant from lookout.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg/1920px-Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg/500px-Deer_Island_Waste_Water_Treatment_Plant_from_lookout.jpg",
+    "shows": "Water treatment plant in Ramadi",
+    "file": "File:Water treatment plant in Ramadi.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Water_treatment_plant_in_Ramadi.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Water_treatment_plant_in_Ramadi.jpg/1920px-Water_treatment_plant_in_Ramadi.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Water_treatment_plant_in_Ramadi.jpg/500px-Water_treatment_plant_in_Ramadi.jpg",
     "size": [
      1920,
      1280
@@ -155555,20 +155555,20 @@
      0.5,
      0.5
     ],
-    "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "4300streetcar",
-    "year": 2023,
+    "credit": "Jeremy M. Giacomino, U.S. Marine Corps, public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Jeremy M. Giacomino, U.S. Marine Corps",
+    "year": 2008,
     "how": "catalog"
    }
   ],
   "missing": [
-   "energy",
-   "electricity-pylon",
-   "water-tower",
-   "wind-turbine",
+   "water-tank",
+   "utility-worker",
+   "electric-meter-box",
+   "street-lights",
    "hydroelectric",
    "electric-meter",
    "pylon",
@@ -155598,7 +155598,7 @@
    "natural-gas-pipeline",
    "water-reservoir"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "sector-real-estate": {
   "name": "Real estate sector",
@@ -156841,38 +156841,41 @@
     "how": "catalog"
    },
    {
-    "shot": "construction-crane-city",
-    "shows": "Crane at construction site - geograph.org.uk",
-    "file": "File:Crane at construction site - geograph.org.uk - 7593527.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg/1920px-Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg/500px-Crane_at_construction_site_-_geograph.org.uk_-_7593527.jpg",
+    "shot": "residential-tower",
+    "shows": "A very tall building with lots of windows",
+    "file": "unsplash:1ZEGE8fvPCI",
+    "page": "https://unsplash.com/photos/a-very-tall-building-with-lots-of-windows-1ZEGE8fvPCI?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1675754965318-5d31291657d4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cmVzaWRlbnRpYWwlMjB0b3dlcnxlbnwxfHx8fDE3OTUxNDEzMzJ8MA&ixlib=rb-4.1.0&w=1200&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1675754965318-5d31291657d4?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cmVzaWRlbnRpYWwlMjB0b3dlcnxlbnwxfHx8fDE3OTUxNDEzMzJ8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     1200,
+     1600
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Kevin Waterhouse, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Kevin Waterhouse",
+    "credit": "Photo by CrowN on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "CrowN",
     "year": 2023,
-    "how": "catalog"
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@cosmicomicfox?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/1ZEGE8fvPCI/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MXx8cmVzaWRlbnRpYWwlMjB0b3dlcnxlbnwxfHx8fDE3OTUxNDEzMzJ8MA"
    }
   ],
   "missing": [
-   "condo-balcony",
-   "loft-apartment",
-   "brick-townhouse",
-   "glass-facade",
-   "high-rise-apartments",
-   "house-keys",
-   "high-rise",
-   "modern-house",
+   "office-skyscraper",
+   "house-facade",
+   "rental-apartment",
+   "property-keys",
+   "city-apartments",
+   "mortgage-house",
+   "modern-apartment",
+   "office-park",
    "apartments",
    "skyline",
    "city-buildings",
@@ -156898,7 +156901,7 @@
    "rental",
    "warehouse-interior"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "sector-materials": {
   "name": "Materials sector",
@@ -163342,39 +163345,39 @@
     "track": "https://api.unsplash.com/photos/2nSdQEd-Exc/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8dG9vbGJveHxlbnwxfHx8fDE3OTUwMDQ0Nzl8MA"
    },
    {
-    "shot": "unemployment-office",
-    "shows": "Elizabeth Warren unemployment insurance roundtable in Worcester 2d1f05b903 h",
-    "file": "File:Elizabeth Warren unemployment insurance roundtable in Worcester 12165461224 2d1f05b903 h.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Warren_unemployment_insurance_roundtable_in_Worcester_12165461224_2d1f05b903_h.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Elizabeth_Warren_unemployment_insurance_roundtable_in_Worcester_12165461224_2d1f05b903_h.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Elizabeth_Warren_unemployment_insurance_roundtable_in_Worcester_12165461224_2d1f05b903_h.jpg/500px-Elizabeth_Warren_unemployment_insurance_roundtable_in_Worcester_12165461224_2d1f05b903_h.jpg",
+    "shot": "warehouse-staff",
+    "shows": "Fort Huachuca-Building-Hangman's Warehouse-1880",
+    "file": "File:Fort Huachuca-Building-Hangman's Warehouse-1880.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg/1920px-Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg/500px-Fort_Huachuca-Building-Hangman%27s_Warehouse-1880.jpg",
     "size": [
-     1600,
-     1200
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Office of Senator Elizabeth Warren, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Office of Senator Elizabeth Warren",
-    "year": 2014,
+    "credit": "Marine 69-71, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Marine 69-71",
+    "year": 2020,
     "how": "catalog"
    }
   ],
   "missing": [
-   "hard-hat-worker",
-   "office-cubicle",
-   "line-cook",
-   "truck-driver",
-   "carpenter",
-   "warehouse",
-   "chef",
-   "waiter",
-   "farmer",
+   "nurse-hospital",
+   "office-team",
+   "laborer",
+   "farm-worker",
+   "chef-kitchen",
+   "teacher-classroom",
+   "resume-paper",
+   "interview-handshake",
+   "hiring-banner",
    "teamwork",
    "meeting",
    "laptop-work",
@@ -163385,7 +163388,7 @@
    "hiring-sign",
    "now-hiring"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "bull-market": {
   "name": "Wall Street & stock market rallies",
@@ -167250,42 +167253,39 @@
     "how": "catalog"
    },
    {
-    "shot": "circuit-brain",
-    "shows": "A computer circuit board with a brain on it",
-    "file": "unsplash:_0iV9LmPDn0",
-    "page": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0?utm_source=investiq_image_bank&utm_medium=referral",
-    "url": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJyYWlufGVufDF8fHx8MTc5NTEyNjY3N3ww&ixlib=rb-4.1.0&w=2400&q=80&fm=jpg&fit=max",
-    "preview": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJyYWlufGVufDF8fHx8MTc5NTEyNjY3N3ww&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
+    "shot": "robot-arm-closeup",
+    "shows": "Closeup of robotic arm in StorageTek tape library at NERSC",
+    "file": "File:Closeup of robotic arm in StorageTek tape library at NERSC (1).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_(1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_%281%29.jpg/1920px-Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_%281%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_%281%29.jpg/500px-Closeup_of_robotic_arm_in_StorageTek_tape_library_at_NERSC_%281%29.jpg",
     "size": [
-     2400,
-     1350
+     1920,
+     1276
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo by Steve A Johnson on Unsplash",
-    "licence": "Unsplash License",
-    "licence_kind": "unsplash",
-    "licence_url": "https://unsplash.com/license",
-    "author": "Steve A Johnson",
-    "year": 2023,
-    "how": "catalog",
-    "provider": "unsplash",
-    "author_url": "https://unsplash.com/@steve_j?utm_source=investiq_image_bank&utm_medium=referral",
-    "track": "https://api.unsplash.com/photos/_0iV9LmPDn0/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NXx8Y2lyY3VpdCUyMGJyYWlufGVufDF8fHx8MTc5NTEyNjY3N3ww"
+    "credit": "Derrick Coetzee from Berkeley, CA, USA, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Derrick Coetzee from Berkeley, CA, USA",
+    "year": 2011,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "lidar-sensor",
-   "digital-twin",
-   "computer-vision-camera",
-   "deep-learning",
-   "ai-server",
+   "robot-portrait",
+   "face-scan",
+   "robotic-hand-touch",
+   "server-gpu",
+   "nvidia-gpu",
    "electronics",
    "robotics"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "datacenters": {
   "name": "AI data centers & power demand",
@@ -173685,14 +173685,14 @@
    },
    {
     "shot": "opec",
-    "shows": "Klimaprotest-at - Eröffnung der OPEC Tagung 20",
-    "file": "File:Klimaprotest-at - Eröffnung der OPEC Tagung 20 (49171930058).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_(49171930058).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_%2849171930058%29.jpg/1920px-Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_%2849171930058%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_%2849171930058%29.jpg/500px-Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_20_%2849171930058%29.jpg",
+    "shows": "Klimaprotest-at - Eröffnung der OPEC Tagung 03",
+    "file": "File:Klimaprotest-at - Eröffnung der OPEC Tagung 03 (49172407751).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_(49172407751).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_%2849172407751%29.jpg/1920px-Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_%2849172407751%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_%2849172407751%29.jpg/500px-Klimaprotest-at_-_Er%C3%B6ffnung_der_OPEC_Tagung_03_%2849172407751%29.jpg",
     "size": [
      1920,
-     1724
+     1440
     ],
     "focus": [
      0.5,
@@ -173708,17 +173708,17 @@
    }
   ],
   "missing": [
-   "oil-pump-jack",
-   "oil-tanker-ship",
-   "oil-spill",
-   "refinery-flare",
+   "offshore-drilling",
+   "crude-oil-barrel",
+   "oilfield",
+   "refinery-towers",
    "oil-barrel-stack",
    "petrol-pump",
    "offshore-rig",
    "lng-tanker",
    "oil-derrick"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "tariffs": {
   "name": "Tariffs & trade war",
@@ -178982,42 +178982,42 @@
     "track": "https://api.unsplash.com/photos/tuJ3tXSayco/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTJ8fG5ld3NwYXBlciUyMGZpbmFuY2V8ZW58MXx8fHwxNzk1MDE0NDQ3fDA"
    },
    {
-    "shot": "stamped-document",
-    "shows": "Rosa multiflora focus stacked- -RM",
-    "file": "File:Rosa multiflora focus stacked-20220522-RM-124900.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg/1920px-Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg/500px-Rosa_multiflora_focus_stacked-20220522-RM-124900.jpg",
+    "shot": "treasury-bills",
+    "shows": "Melbourne Treasury Gardens Bills Horse Trough 001",
+    "file": "File:Melbourne Treasury Gardens Bills Horse Trough 001.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg/1920px-Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg/500px-Melbourne_Treasury_Gardens_Bills_Horse_Trough_001.jpg",
     "size": [
      1920,
-     1373
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Ermell, CC BY-SA 4.0, via Wikimedia Commons",
+    "credit": "Mattinbgn, CC BY-SA 4.0, via Wikimedia Commons",
     "licence": "CC BY-SA 4.0",
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ermell",
-    "year": 2022,
+    "author": "Mattinbgn",
+    "year": 2018,
     "how": "catalog"
    }
   ],
   "missing": [
-   "certificate-seal",
-   "government-bond-certificate",
-   "notary-stamp",
-   "interest-calculator",
-   "loan-agreement",
-   "municipal-building",
-   "debt-ceiling",
-   "bond-yield",
+   "savings-certificate",
+   "loan-papers",
+   "signing-contract",
+   "government-building-columns",
+   "capitol-columns",
+   "pen-on-contract",
+   "dollar-and-pen",
+   "bond-paper",
    "treasury-department",
    "pen"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "housing": {
   "name": "Housing market & mortgages",
@@ -181560,64 +181560,67 @@
     "how": "catalog"
    },
    {
-    "shot": "spreadsheet-screen",
-    "shows": "ASC Leiden - Rwanda 2021 - 037 - Screen shot of a spreadsheet for books with their price - Kigali",
-    "file": "File:ASC Leiden - Rwanda 2021 - 037 - Screen shot of a spreadsheet for books with their price - Kigali.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg/1920px-ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg/500px-ASC_Leiden_-_Rwanda_2021_-_037_-_Screen_shot_of_a_spreadsheet_for_books_with_their_price_-_Kigali.jpg",
+    "shot": "calculator-and-pen",
+    "shows": "Calculator, glasses, and pens on a white desk",
+    "file": "unsplash:OZ1TJu60Or4",
+    "page": "https://unsplash.com/photos/calculator-glasses-and-pens-on-a-white-desk-OZ1TJu60Or4?utm_source=investiq_image_bank&utm_medium=referral",
+    "url": "https://images.unsplash.com/photo-1762318986860-a7b18dd0da02?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2FsY3VsYXRvciUyMGFuZCUyMHBlbnxlbnwxfHx8fDE3OTUxNDQyODR8MA&ixlib=rb-4.1.0&w=2250&q=80&fm=jpg&fit=max",
+    "preview": "https://images.unsplash.com/photo-1762318986860-a7b18dd0da02?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2FsY3VsYXRvciUyMGFuZCUyMHBlbnxlbnwxfHx8fDE3OTUxNDQyODR8MA&ixlib=rb-4.1.0&w=500&q=80&fm=jpg&fit=max",
     "size": [
-     1920,
-     1440
+     2250,
+     1500
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Gerard van de Bruinhorst, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Gerard van de Bruinhorst",
-    "year": 2021,
-    "how": "catalog"
+    "credit": "Photo by Cht Gsml on Unsplash",
+    "licence": "Unsplash License",
+    "licence_kind": "unsplash",
+    "licence_url": "https://unsplash.com/license",
+    "author": "Cht Gsml",
+    "year": 2025,
+    "how": "catalog",
+    "provider": "unsplash",
+    "author_url": "https://unsplash.com/@karepesinde?utm_source=investiq_image_bank&utm_medium=referral",
+    "track": "https://api.unsplash.com/photos/OZ1TJu60Or4/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8OXx8Y2FsY3VsYXRvciUyMGFuZCUyMHBlbnxlbnwxfHx8fDE3OTUxNDQyODR8MA"
    },
    {
-    "shot": "cash-flow",
-    "shows": "PHWC Cash Flows, 2021",
-    "file": "File:PHWC Cash Flows, 2021.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:PHWC_Cash_Flows,_2021.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PHWC_Cash_Flows%2C_2021.jpg/1280px-PHWC_Cash_Flows%2C_2021.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/PHWC_Cash_Flows%2C_2021.jpg/500px-PHWC_Cash_Flows%2C_2021.jpg",
+    "shot": "sales-report",
+    "shows": "Sales Report Oslo Fur Auctions Copenhagen Fur Center September 1997 (cover)",
+    "file": "File:Sales Report Oslo Fur Auctions Copenhagen Fur Center September 1997 (cover).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_(cover).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_%28cover%29.jpg/1280px-Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_%28cover%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_%28cover%29.jpg/500px-Sales_Report_Oslo_Fur_Auctions_Copenhagen_Fur_Center_September_1997_%28cover%29.jpg",
     "size": [
      1280,
-     1921
+     1814
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Irvin Parco Sto. Tomas, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Irvin Parco Sto. Tomas",
-    "year": 2022,
+    "credit": "Kürschner ( talk ) 13:15, 2 May 2011 (UTC), public domain, via Wikimedia Commons",
+    "licence": "Public domain",
+    "licence_kind": "pd",
+    "licence_url": "",
+    "author": "Kürschner ( talk ) 13:15, 2 May 2011 (UTC)",
+    "year": 1997,
     "how": "catalog"
    }
   ],
   "missing": [
-   "annual-report-book",
-   "earnings-call-headset",
-   "revenue-chart",
-   "stock-ticker-screen",
+   "business-meeting-chart",
+   "quarter-calendar",
+   "stock-price-screen",
+   "laptop-graph",
    "finance-desk",
    "bloomberg-terminal",
    "analyst-desk",
    "graph-paper",
    "computer-screen"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "ipo": {
   "name": "IPOs",
@@ -182865,37 +182868,37 @@
     "how": "catalog"
    },
    {
-    "shot": "bell-ceremony",
-    "shows": "The Last Bell Ceremony, Uzbek Gymnasium, 2010",
-    "file": "File:The Last Bell Ceremony, Uzbek Gymnasium, 2010.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Last_Bell_Ceremony,_Uzbek_Gymnasium,_2010.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Last_Bell_Ceremony%2C_Uzbek_Gymnasium%2C_2010.JPG/1920px-The_Last_Bell_Ceremony%2C_Uzbek_Gymnasium%2C_2010.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Last_Bell_Ceremony%2C_Uzbek_Gymnasium%2C_2010.JPG/500px-The_Last_Bell_Ceremony%2C_Uzbek_Gymnasium%2C_2010.JPG",
+    "shot": "trading-floor-screens",
+    "shows": "Chandranathesvara Jain temple, Bhatkal Karnataka",
+    "file": "File:Chandranathesvara Jain temple, Bhatkal Karnataka.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chandranathesvara_Jain_temple,_Bhatkal_Karnataka.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chandranathesvara_Jain_temple%2C_Bhatkal_Karnataka.jpg/1280px-Chandranathesvara_Jain_temple%2C_Bhatkal_Karnataka.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Chandranathesvara_Jain_temple%2C_Bhatkal_Karnataka.jpg/500px-Chandranathesvara_Jain_temple%2C_Bhatkal_Karnataka.jpg",
     "size": [
-     1920,
-     1440
+     1280,
+     1978
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Nataev, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Nataev",
-    "year": 2010,
+    "credit": "Ms Sarah Welch, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Ms Sarah Welch",
+    "year": 2021,
     "how": "catalog"
    }
   ],
   "missing": [
-   "brokerage-screen",
-   "exchange-facade",
-   "floor-broker",
-   "share-price-board",
-   "stock-quote"
+   "market-open-bell",
+   "financial-district-street",
+   "exchange-building",
+   "times-square-screens",
+   "market-screens"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "ev": {
   "name": "Electric vehicles",
@@ -184159,33 +184162,31 @@
     "track": "https://api.unsplash.com/photos/ECPML1vHQYQ/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8MTB8fHR5cGUlMjAyJTIwY29ubmVjdG9yfGVufDF8fHx8MTc5NTAxNzg1Nnww"
    },
    {
-    "shot": "e-car",
-    "shows": "Detail of antique car, Country Classic Cars, Staunton, Illinois",
-    "file": "loc:2010630393",
-    "page": "https://www.loc.gov/item/2010630393/",
-    "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04400:04406/full/2141,/0/default.jpg",
-    "preview": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04400:04406/full/500,/0/default.jpg",
+    "shot": "ev-charger-station",
+    "shows": "Electrify America EV charger in Nevada 0320",
+    "file": "File:Electrify America EV charger in Nevada 0320.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Electrify_America_EV_charger_in_Nevada_0320.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Electrify_America_EV_charger_in_Nevada_0320.jpg/1920px-Electrify_America_EV_charger_in_Nevada_0320.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Electrify_America_EV_charger_in_Nevada_0320.jpg/500px-Electrify_America_EV_charger_in_Nevada_0320.jpg",
     "size": [
-     2141,
-     1500
+     1920,
+     1440
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Photo: Carol M. Highsmith, Library of Congress, public domain",
-    "licence": "Public domain (Carol M. Highsmith Archive, Library of Congress)",
-    "licence_kind": "pd",
-    "licence_url": "https://www.loc.gov/rr/print/res/482_high.html",
-    "author": "Carol M. Highsmith",
-    "year": 2009,
-    "how": "catalog",
-    "provider": "loc",
-    "author_url": "https://www.loc.gov/collections/carol-m-highsmith/"
+    "credit": "Gregory Varnum, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Gregory Varnum",
+    "year": 2021,
+    "how": "catalog"
    }
   ],
   "missing": [
-   "ev-fleet",
+   "car-charging-port",
    "e-scooter",
    "type-2-plug",
    "nio",
@@ -184193,7 +184194,7 @@
    "e-bike",
    "supercharger"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "nuclear": {
   "name": "Nuclear power & uranium",
@@ -188013,12 +188014,12 @@
     "track": "https://api.unsplash.com/photos/8sCPn-RKKNE/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8N3x8cmV0YWlsJTIwc2hlbHZlc3xlbnwxfHx8fDE3OTQ5MjQ5ODl8MA"
    },
    {
-    "shot": "grocery-store-aisle",
-    "shows": "Shampoo aisle - grocery store in Israel",
-    "file": "File:Shampoo aisle - grocery store in Israel.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Shampoo_aisle_-_grocery_store_in_Israel.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shampoo_aisle_-_grocery_store_in_Israel.jpg/1920px-Shampoo_aisle_-_grocery_store_in_Israel.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shampoo_aisle_-_grocery_store_in_Israel.jpg/500px-Shampoo_aisle_-_grocery_store_in_Israel.jpg",
+    "shot": "shopping-mall-crowd",
+    "shows": "Queen Street Mall crowd Queen Street Mall Brisbane",
+    "file": "File:Queen Street Mall crowd Queen Street Mall Brisbane P1300780.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg/1920px-Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg/500px-Queen_Street_Mall_crowd_Queen_Street_Mall_Brisbane_P1300780.jpg",
     "size": [
      1920,
      1440
@@ -188027,24 +188028,24 @@
      0.5,
      0.5
     ],
-    "credit": "Danielrosehill, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Danielrosehill",
-    "year": 2025,
+    "credit": "John Robert McPherson, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "John Robert McPherson",
+    "year": 2013,
     "how": "catalog"
    }
   ],
   "missing": [
-   "bakery-shop",
-   "perfume-counter",
-   "jewelry-store-window",
-   "bookstore",
-   "laundromat",
-   "pharmacy-aisle",
-   "convenience-store",
-   "cashier",
+   "store-window-display",
+   "cosmetics-store",
+   "toy-aisle",
+   "wine-shop",
+   "candy-store",
+   "home-goods-store",
+   "flower-shop",
+   "market-stall-fruit",
    "point-of-sale",
    "card-payment",
    "contactless-payment",
@@ -188063,7 +188064,7 @@
    "shopping-street-night",
    "retail-display"
   ],
-  "checked": "2026-11-19"
+  "checked": "2026-11-20"
  },
  "banks": {
   "name": "Banks & the financial system",
@@ -190634,35 +190635,35 @@
     "track": "https://api.unsplash.com/photos/bKfuUy-g48Y/download?ixid=M3wxMTI0MTg2fDB8MXxzZWFyY2h8NHx8Y29pbiUyMHRvd2VyfGVufDF8fHx8MTc5NTAxODc1NHww"
    },
    {
-    "shot": "wealth-management",
-    "shows": "Wealth Court Management Office",
-    "file": "File:Wealth Court Management Office.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wealth_Court_Management_Office.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wealth_Court_Management_Office.jpg/1920px-Wealth_Court_Management_Office.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Wealth_Court_Management_Office.jpg/500px-Wealth_Court_Management_Office.jpg",
+    "shot": "investment-chart",
+    "shows": "Foreign Direct Investment by Country",
+    "file": "File:Foreign Direct Investment by Country.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Foreign_Direct_Investment_by_Country.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Foreign_Direct_Investment_by_Country.png/1920px-Foreign_Direct_Investment_by_Country.png",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Foreign_Direct_Investment_by_Country.png/500px-Foreign_Direct_Investment_by_Country.png",
     "size": [
      1920,
-     1446
+     1249
     ],
     "focus": [
      0.5,
      0.5
     ],
-    "credit": "Ricky36, CC0, via Wikimedia Commons",
+    "credit": "Wikideas1, CC0, via Wikimedia Commons",
     "licence": "CC0",
     "licence_kind": "cc0",
     "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Ricky36",
-    "year": 2026,
+    "author": "Wikideas1",
+    "year": 2019,
     "how": "catalog"
    }
   ],
   "missing": [
-   "stock-chart-laptop",
-   "growth-chart-coins",
-   "portfolio-chart",
-   "401k",
-   "mutual-fund",
+   "coin-stacks",
+   "financial-newspaper-reading",
+   "stock-trading-laptop",
+   "dividend-check",
+   "budget-planner",
    "trader-screens",
    "cash",
    "wallet",
@@ -194556,11 +194557,11 @@
    },
    {
     "shot": "campaign-rally",
-    "shows": "Rally (crowd leaves at end) 5265",
-    "file": "File:Rally (crowd leaves at end) IMG 5265.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rally_(crowd_leaves_at_end)_IMG_5265.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg/1920px-Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg/500px-Rally_%28crowd_leaves_at_end%29_IMG_5265.jpg",
+    "shows": "Rally (crowd leaves at end) 5267",
+    "file": "File:Rally (crowd leaves at end) IMG 5267 (1).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rally_(crowd_leaves_at_end)_IMG_5267_(1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rally_%28crowd_leaves_at_end%29_IMG_5267_%281%29.jpg/1920px-Rally_%28crowd_leaves_at_end%29_IMG_5267_%281%29.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Rally_%28crowd_leaves_at_end%29_IMG_5267_%281%29.jpg/500px-Rally_%28crowd_leaves_at_end%29_IMG_5267_%281%29.jpg",
     "size": [
      1920,
      1440
@@ -194579,11 +194580,11 @@
    }
   ],
   "missing": [
-   "senate-chamber",
-   "presidential-seal",
-   "parliament-building",
-   "mail-in-ballot",
-   "stars-and-stripes",
+   "congress-building",
+   "senate-building",
+   "polling-booth",
+   "us-flag-wind",
+   "statehouse-dome",
    "independence-hall",
    "us-capitol-night",
    "capitol-rotunda",
