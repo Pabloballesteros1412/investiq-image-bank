@@ -5454,13 +5454,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Pantone formula guide · calibration, coated, colors, formula, guide: Photo by jepoirrier on Flickr, CC BY-SA 2.0. [349613923](https://www.flickr.com/photos/57519914@N00/349613923)
 - Nuancier Pantone 2 (Cut out): Unknown Unknown origial uploader: Céréales Killer derivative work: MagentaGreen, CC BY-SA 3.0, via Wikimedia Commons. [Nuancier Pantone 2 (Cut out).jpg](https://commons.wikimedia.org/wiki/File:Nuancier_Pantone_2_(Cut_out).jpg)
 - A glass of green paint next to some cards: Photo by Noemí Jiménez on Unsplash. [IqAi-WdcbUw](https://unsplash.com/photos/a-glass-of-green-paint-next-to-some-cards-IqAi-WdcbUw?utm_source=investiq_image_bank&utm_medium=referral)
-- Entity wapuu pictured with Pantone color card, taken in (2022), during sample development.: Photo by Wapuu.com on WordPress.org Photos, CC0. [24292](https://wordpress.org/photos/photo/863640487b/)
 - A fan deck of colorful paper swatches arranged in a spectrum on a surface: Photo by Mika Baumeister on Unsplash. [PtabTe6iJ_8](https://unsplash.com/photos/color-fan-deck-with-paper-swatches-PtabTe6iJ_8?utm_source=investiq_image_bank&utm_medium=referral)
 - Blue white and red paper: Photo by Mika Baumeister on Unsplash. [_Xesb_PEygM](https://unsplash.com/photos/blue-white-and-red-paper-_Xesb_PEygM?utm_source=investiq_image_bank&utm_medium=referral)
-- Blue and black rectangular frame: Photo by Dee on Unsplash. [zeKekb76k-s](https://unsplash.com/photos/blue-and-black-rectangular-frame-zeKekb76k-s?utm_source=investiq_image_bank&utm_medium=referral)
 - A pantone color swatch with a white background: Photo by Fiona Murray-deGraaff on Unsplash. [5Hl03JE699s](https://unsplash.com/photos/a-pantone-color-swatch-with-a-white-background-5Hl03JE699s?utm_source=investiq_image_bank&utm_medium=referral)
 - A stack of pantone papers sitting on top of a yellow table: Photo by Dee on Unsplash. [x5fjOL3kums](https://unsplash.com/photos/a-stack-of-pantone-papers-sitting-on-top-of-a-yellow-table-x5fjOL3kums?utm_source=investiq_image_bank&utm_medium=referral)
-- A close up of a pan of paint samples: Photo by Mariah Krafft on Unsplash. [ti1-yIZpd0U](https://unsplash.com/photos/a-close-up-of-a-pan-of-paint-samples-ti1-yIZpd0U?utm_source=investiq_image_bank&utm_medium=referral)
+- Plant flowers and a X-rite ColorChecker Passport: Yuki Hayashi from TOKYO, JAPAN, CC BY 2.0, via Wikimedia Commons. [Plant flowers and a X-rite ColorChecker Passport.jpg](https://commons.wikimedia.org/wiki/File:Plant_flowers_and_a_X-rite_ColorChecker_Passport.jpg)
+- Dopplr in Pantone mugs · dopplr, mugs, pantone, siliconroundabout: Photo by Matt Biddulph on Flickr, CC BY-SA 2.0. [2695780190](https://www.flickr.com/photos/51035707449@N01/2695780190)
+- Pantone handbags window display: Photo by Frankie Roberto on Flickr, CC BY 2.0. [416645229](https://www.flickr.com/photos/84195101@N00/416645229)
 
 ## Verisign (VRSN)
 
@@ -6800,6 +6800,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Viglen blade servers: devopstom, CC BY-SA 2.0, via Wikimedia Commons. [Viglen blade servers.jpg](https://commons.wikimedia.org/wiki/File:Viglen_blade_servers.jpg)
 - A close up of a network tester on a table: Photo by Gavin Allanwood on Unsplash. [-xITpL_gncA](https://unsplash.com/photos/a-close-up-of-a-network-tester-on-a-table--xITpL_gncA?utm_source=investiq_image_bank&utm_medium=referral)
 - Wikimedia Foundation Servers 2015-88: VGrigas (WMF), CC BY-SA 3.0, via Wikimedia Commons. [Wikimedia Foundation Servers 2015-88.jpg](https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers_2015-88.jpg)
+- Optical fibre distribution mess in France patch panel: InfosReseaux, CC BY 4.0, via Wikimedia Commons. [Optical fibre distribution mess in France patch panel.jpg](https://commons.wikimedia.org/wiki/File:Optical_fibre_distribution_mess_in_France_patch_panel.jpg)
 
 ## Semiconductors & the chip war (chips)
 
@@ -7169,6 +7170,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - US dollar and Chinese yuan banknote lot: Photo by Eric Prouzet on Unsplash. [XBbkrBrkp88](https://unsplash.com/photos/us-dollar-and-chinese-yuan-banknote-lot-XBbkrBrkp88?utm_source=investiq_image_bank&utm_medium=referral)
 - 2014 Tbilisi, Tablica elektroniczna z kursami walut: Marcin Konsek, CC BY-SA 4.0, via Wikimedia Commons. [2014 Tbilisi, Tablica elektroniczna z kursami walut.jpg](https://commons.wikimedia.org/wiki/File:2014_Tbilisi,_Tablica_elektroniczna_z_kursami_walut.jpg)
 - A pile of money sitting on top of a table: Photo by Gio Bartlett on Unsplash. [YRItNaB_HT8](https://unsplash.com/photos/a-pile-of-money-sitting-on-top-of-a-table-YRItNaB_HT8?utm_source=investiq_image_bank&utm_medium=referral)
+- Person holding a smartphone while counting cash near a window in a light space: Shixart1985, CC BY 2.0, via Wikimedia Commons. [Person holding a smartphone while counting cash near a window in a light space.jpg](https://commons.wikimedia.org/wiki/File:Person_holding_a_smartphone_while_counting_cash_near_a_window_in_a_light_space.jpg)
 
 ## Treasuries, bonds & national debt (bonds)
 
@@ -7481,6 +7483,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Kernkraftwerk-Brokdorf-Schleswig-Holstein-1: Gunnar Klack, CC BY-SA 4.0, via Wikimedia Commons. [2020-12-29-Kernkraftwerk-Brokdorf-Schleswig-Holstein-1.jpg](https://commons.wikimedia.org/wiki/File:2020-12-29-Kernkraftwerk-Brokdorf-Schleswig-Holstein-1.jpg)
 - Susquehanna Steam Electric Station cooling towers from Nescopeck: Jakec, CC BY-SA 4.0, via Wikimedia Commons. [Susquehanna Steam Electric Station cooling towers from Nescopeck.JPG](https://commons.wikimedia.org/wiki/File:Susquehanna_Steam_Electric_Station_cooling_towers_from_Nescopeck.JPG)
 - Sredica JE Krško med menjavo goriva: Nuklearna elektrarna Krško, CC BY-SA 4.0, via Wikimedia Commons. [Sredica JE Krško med menjavo goriva.jpg](https://commons.wikimedia.org/wiki/File:Sredica_JE_Kr%C5%A1ko_med_menjavo_goriva.jpg)
+- Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center: Siarhei Besarab, CC BY-SA 4.0, via Wikimedia Commons. [Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center.jpg](https://commons.wikimedia.org/wiki/File:Nuclear_fuel_pellets_at_the_Greifswald_Nuclear_Power_Plant_information_center.jpg)
 
 ## Defense & geopolitics (defense)
 
@@ -8007,6 +8010,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A couple of toy robots standing on top of a wooden table: Photo by Theo on Unsplash. [kqv37CRVnVc](https://unsplash.com/photos/a-couple-of-toy-robots-standing-on-top-of-a-wooden-table-kqv37CRVnVc?utm_source=investiq_image_bank&utm_medium=referral)
 - Selective focus photography of gray and black quadcopter drone: Photo by Jonathan Lampel on Unsplash. [L9wrEGJjRdo](https://unsplash.com/photos/selective-focus-photography-of-gray-and-black-quadcopter-drone-L9wrEGJjRdo?utm_source=investiq_image_bank&utm_medium=referral)
 - A white robot vacuum cleaner on a grey floor: Photo by Andrey Matveev on Unsplash. [EY7bNpTBv4c](https://unsplash.com/photos/a-white-robot-vacuum-cleaner-on-a-grey-floor-EY7bNpTBv4c?utm_source=investiq_image_bank&utm_medium=referral)
+- KUKA industrial robotic arm performing "The Beach" by Roy Nachum - 02: Oleg Yunakov, CC BY-SA 4.0, via Wikimedia Commons. [KUKA industrial robotic arm performing "The Beach" by Roy Nachum - 02.jpg](https://commons.wikimedia.org/wiki/File:KUKA_industrial_robotic_arm_performing_%22The_Beach%22_by_Roy_Nachum_-_02.jpg)
 
 ## Cybersecurity (cybersecurity)
 
@@ -8164,6 +8168,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Brown wooden house near green trees during daytime: Photo by Roméo A. on Unsplash. [JiMSelyQ_5k](https://unsplash.com/photos/brown-wooden-house-near-green-trees-during-daytime-JiMSelyQ_5k?utm_source=investiq_image_bank&utm_medium=referral)
 - Bank of Japan building: Syced, CC0, via Wikimedia Commons. [Bank of Japan building (14490).jpg](https://commons.wikimedia.org/wiki/File:Bank_of_Japan_building_(14490).jpg)
 - A river running through a city next to tall buildings: Photo by Laura Barry on Unsplash. [8ZnNLUr3RRc](https://unsplash.com/photos/a-river-running-through-a-city-next-to-tall-buildings-8ZnNLUr3RRc?utm_source=investiq_image_bank&utm_medium=referral)
+- White petaled flower: Photo by David Brooke Martin on Unsplash. [lFTtQqVfx6g](https://unsplash.com/photos/white-petaled-flower-lFTtQqVfx6g?utm_source=investiq_image_bank&utm_medium=referral)
 
 ## Industrial metals & mining (metals)
 
