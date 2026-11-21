@@ -561,6 +561,14 @@ Decisions (Pablo, 4 Nov 2026):
   Microsoft 3; new: MacBooks, iPhones, Sony G Master lenses in 360°, United and Delta jets, a Norwegian cruise ship deck,
   a Falcon 9 twilight launch). The terms stop look-alikes: Shell's snails, Amazon's rainforests and Zoom's Moon are gone.
   Bank: **406 clips** (topics and sectors 353, companies 53).
+- **Companies without brand terms** (21 Nov, Pablo: "mete vídeos para las empresas sin marcas en brands.json"): by then
+  only 36 companies had no `brands.json` entry (34 in the photo manifest with a name: 3M, Accenture, Air Products,
+  Duke Energy, Exelon, Equinix, Linde, Public Storage, regional banks, Williams-Sonoma...). Each got `VIDEO_TERMS`
+  (full names, products and subsidiaries: "duke energy", "gorilla glass", "pottery barn", "public storage", "fedex
+  freight"; never a bare word: "d-wave" brought sea waves, "eaton" the Eaton wildfire, "cintas" the Indonesian "cinta").
+  Pixabay and Commons had **nothing usable for any of them**: one pick (unbranded sticky notes for 3M, graded 2). They
+  are now in the video index with no clips and `fill_from` = their sector. Bank: 406 clips; all 491 companies in the
+  video index, 26 with clips of their own.
 - Next for company videos: another source with brand footage (Pexels, if it issues keys again). Pixabay and Commons
   have little more.
 
