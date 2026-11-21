@@ -177,6 +177,19 @@ class Picking(unittest.TestCase):
             self.assertEqual((rec["kind"], rec["sector"], rec["fill_from"]), ("company", "sector-consumer-discretionary",
                                                                               "sector-consumer-discretionary"))
 
+    def test_video_terms_replace_ambiguous_brand_words(self):
+        one = V.company_subjects({"SHEL": {"kind": "company", "name": "Shell", "target": 10}}, {"SHEL": ["Shell"]})[0]
+        self.assertEqual(one["shots"][0]["keys"], [])                 # a one-word name is the bare brand word
+        shot = V.company_subjects({"SHEL": {"kind": "company", "name": "Shell plc", "target": 10}},
+                                  {"SHEL": ["Shell", "Shell gas station"]})[0]["shots"][0]
+        self.assertEqual(shot["q"], V.VIDEO_TERMS["SHEL"][0])
+        snail = V.PixabayVideo.candidate(pixabay_hit(80, tags="snail, shell, nature"))
+        station = V.PixabayVideo.candidate(pixabay_hit(81, tags="gas station, shell, fuel, car"))
+        named = V.PixabayVideo.candidate(pixabay_hit(82, tags="shell plc, refinery"))
+        self.assertFalse(V.ok(snail, shot, shot["q"]))               # the bare word is not enough any more
+        self.assertTrue(V.ok(station, shot, shot["q"]))              # every word of a video term
+        self.assertTrue(V.ok(named, shot, shot["q"]))                # or the full name
+
     def test_grades_from_sheets_go_to_their_own_file(self):
         with tempfile.TemporaryDirectory() as d:
             (Path(d) / "sheets.json").write_text(json.dumps({"sheet-001": {"1": {"subject": "gold", "file": "pixabay-video:1"},

@@ -530,9 +530,21 @@ Decisions (Pablo, 4 Nov 2026):
   with overlays: nearly all rejected. Good ones: Falcon 9 launches, a GeForce RTX card on a turntable, Dell laptops in
   360°, Xbox controllers, MacBooks, Boeing 787/747 in flight, Delta and United jets, a Coca-Cola bottle, Marina Bay
   Sands, Disney castles, Monopoly. Bank: **393 clips** (topics and sectors 353, companies 40).
-- Next for company videos: Pixabay has little more; brand terms that are also common words (Amazon, Shell, On, Zoom,
-  Hilton, NAPA, Ford, Sony, Target) need a product word for video searches (a `video_terms` list per company would keep
-  `brands.json` the photos'). Another source with brand footage would help most (Pexels, if it issues keys again).
+- **Video-only terms for ambiguous brands** (20-21 Nov): `VIDEO_TERMS` in `videos.py` gives 27 companies whose brand is
+  a common word in tags (Amazon, Shell, On, Zoom, Hilton, NAPA, Target, Ford, Sony, Toyota, Nike, IBM, GM, Apple, Meta,
+  Google, TKO, SpaceX, Microsoft, Delta, United, Southwest, Norwegian, Constellation, Monster, Yum, Uber) multi-word or
+  product searches ("shell gas station", "amazon box", "iphone", "xbox", "falcon 9 rocket", "united airlines"). For them
+  these replace the `brands.json` terms in video builds, and a clip counts only if its tags hold every word of one term,
+  or the company's full name when that is more than one word ("Shell", "Amazon", "Zoom" and "On" are the bare brand
+  word). A one-word term must be a product nobody else uses: "corvette" brought a warship, now "chevrolet corvette".
+  Tried on Pixabay and Commons first: nearly all return nothing usable (Pixabay has no Shell, Toyota, Nike, Target,
+  Hilton, Starbucks or McDonald's footage; Commons brand clips are mostly CC BY-SA, 720p or over 3 minutes, all
+  excluded). Two rounds graded by eye: company clips 40 -> **53 in 26 companies** (Apple 8, SpaceX 7, Sony 3, United 3,
+  Microsoft 3; new: MacBooks, iPhones, Sony G Master lenses in 360°, United and Delta jets, a Norwegian cruise ship deck,
+  a Falcon 9 twilight launch). The terms stop look-alikes: Shell's snails, Amazon's rainforests and Zoom's Moon are gone.
+  Bank: **406 clips** (topics and sectors 353, companies 53).
+- Next for company videos: another source with brand footage (Pexels, if it issues keys again). Pixabay and Commons
+  have little more.
 
 ## Next work (in order)
 1. Topics, sectors and the brand pass are done. When Unsplash production is approved, a rebuild of the brand
