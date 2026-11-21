@@ -5,5 +5,25 @@
  "target": 5,
  "sector": "sector-consumer-discretionary",
  "fill_from": "sector-consumer-discretionary",
- "videos": []
+ "videos": [
+  {
+   "shows": "cruise, ship, miami, norwegian, breakaway, cityscape, view, sea, ocean, travel, liner, vacation, boarding, reflections, vip, tourism, luxury, leisure, rest, relax, florida, port, embarkation, embark",
+   "url": "https://cdn.pixabay.com/video/2025/02/01/255904_large.mp4",
+   "url_1080": "https://cdn.pixabay.com/video/2025/02/01/255904_small.mp4",
+   "poster": "https://cdn.pixabay.com/video/2025/02/01/255904_medium.jpg",
+   "size": [
+    3840,
+    2160
+   ],
+   "orientation": "horizontal",
+   "vertical_crop_ok": true,
+   "duration": 11.0,
+   "credit": "Video by GreenCardShow on Pixabay",
+   "licence": "Pixabay Content License",
+   "licence_url": "https://pixabay.com/service/license-summary/",
+   "author_url": "https://pixabay.com/users/GreenCardShow-3867243/",
+   "provider": "pixabay",
+   "source": "https://pixabay.com/videos/id-255904/"
+  }
+ ]
 }

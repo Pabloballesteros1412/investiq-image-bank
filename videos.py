@@ -64,6 +64,7 @@ COMPANY_SEARCHES = 8             # brand terms searched per company
 # company listed here these terms replace its brands.json terms (which stay the photos'), and a clip counts only if
 # its tags hold every word of one of them, or the company's full name: the bare brand word is no longer enough.
 # Each list was tried on Pixabay and Commons first (20 Nov); most find nothing yet, but they keep look-alikes out.
+# A term of one word must be a product name nobody else uses ('iphone', 'xbox'): 'corvette' is also a warship.
 VIDEO_TERMS = {
     "AMZN": ["amazon box", "amazon package", "amazon delivery", "amazon prime", "amazon echo", "kindle"],
     "SHEL": ["shell gas station", "shell petrol station", "shell fuel station"],
@@ -77,7 +78,7 @@ VIDEO_TERMS = {
     "TM": ["toyota car", "toyota prius", "toyota corolla", "toyota land cruiser", "toyota logo"],
     "NKE": ["nike shoes", "nike sneakers", "nike logo", "nike store", "air jordan"],
     "IBM": ["ibm logo", "ibm computer", "ibm building"],
-    "GM": ["chevrolet", "chevy", "cadillac", "corvette", "camaro", "gmc truck"],
+    "GM": ["chevrolet", "chevy truck", "cadillac car", "chevrolet corvette", "chevrolet camaro", "gmc truck"],
     "AAPL": ["iphone", "macbook", "apple watch", "ipad", "airpods", "apple store", "imac"],
     "META": ["facebook app", "instagram app", "whatsapp", "meta quest", "oculus"],
     "GOOGL": ["google search", "google logo", "google maps", "google pixel", "android phone", "chrome browser"],
@@ -431,7 +432,8 @@ def company_subjects(photos, brands, only=None):
         # not the short name: video tags are single words, and 'Arm', 'Ford' or 'Target' tag arms, rivers and archery
         vt = VIDEO_TERMS.get(cid)
         if vt:  # its brand is a common word in tags: search and match only the video-only terms (or the full name)
-            keys = [B.flat(e["name"])]
+            # the full name only when it is more than the bare brand word ('Amazon', 'Shell', 'Zoom' and 'On' are both)
+            keys = [B.flat(e["name"])] if len(B.flat(e["name"]).split()) > 1 else []
             shots = [{"id": B.slug(t), "q": t, "terms": vt, "keys": keys} for t in vt[:COMPANY_SEARCHES]]
         else:
             keys = B.brand_keys({"name": e["name"], "commons_category": e.get("commons_category"), "ambiguous": True}, terms)

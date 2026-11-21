@@ -178,6 +178,8 @@ class Picking(unittest.TestCase):
                                                                               "sector-consumer-discretionary"))
 
     def test_video_terms_replace_ambiguous_brand_words(self):
+        one = V.company_subjects({"SHEL": {"kind": "company", "name": "Shell", "target": 10}}, {"SHEL": ["Shell"]})[0]
+        self.assertEqual(one["shots"][0]["keys"], [])                 # a one-word name is the bare brand word
         shot = V.company_subjects({"SHEL": {"kind": "company", "name": "Shell plc", "target": 10}},
                                   {"SHEL": ["Shell", "Shell gas station"]})[0]["shots"][0]
         self.assertEqual(shot["q"], V.VIDEO_TERMS["SHEL"][0])
