@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "chicago mercantile exchange",
@@ -28,6 +27,40 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/19257752@N00/20913194110",
    "plain": true
+  },
+  {
+   "shows": "Board Of Trade Pit Of Craziness",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Board_Of_Trade_Pit_Of_Craziness_%28265184314%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Board_Of_Trade_Pit_Of_Craziness_%28265184314%29.jpg/500px-Board_Of_Trade_Pit_Of_Craziness_%28265184314%29.jpg",
+   "size": [
+    1600,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Richie Diesterheft from Santa Barbara, CA, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Board_Of_Trade_Pit_Of_Craziness_(265184314).jpg"
+  },
+  {
+   "shows": "CME Group: Chicago Board of Trade",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/051608_-_chicago-102_%282498641660%29.jpg/1280px-051608_-_chicago-102_%282498641660%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/051608_-_chicago-102_%282498641660%29.jpg/500px-051608_-_chicago-102_%282498641660%29.jpg",
+   "size": [
+    1280,
+    1907
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "southie3, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:051608_-_chicago-102_(2498641660).jpg"
   },
   {
    "shows": "Chicago Mercantile Exchange",
@@ -105,6 +138,60 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:South_Branch_of_Chicago_River.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chicago (ILL) downtown, S.Wacker Dr",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chicago_%28ILL%29_downtown%2C_S.Wacker_Dr._%284826255550%29.jpg/1920px-Chicago_%28ILL%29_downtown%2C_S.Wacker_Dr._%284826255550%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chicago_%28ILL%29_downtown%2C_S.Wacker_Dr._%284826255550%29.jpg/500px-Chicago_%28ILL%29_downtown%2C_S.Wacker_Dr._%284826255550%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "(vincent desjardins) from Paris, France, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chicago_(ILL)_downtown,_S.Wacker_Dr._(4826255550).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Downtown Chicago-95",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/031508_-_Downtown_Chicago-95_%2859%29_%282335839441%29.jpg/1280px-031508_-_Downtown_Chicago-95_%2859%29_%282335839441%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/031508_-_Downtown_Chicago-95_%2859%29_%282335839441%29.jpg/500px-031508_-_Downtown_Chicago-95_%2859%29_%282335839441%29.jpg",
+   "size": [
+    1280,
+    1907
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "southie3, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:031508_-_Downtown_Chicago-95_(59)_(2335839441).jpg",
+   "plain": true
+  },
+  {
+   "shows": "New York Mercantile Exchange 034",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/New_York_Mercantile_Exchange_034.jpg/1280px-New_York_Mercantile_Exchange_034.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/New_York_Mercantile_Exchange_034.jpg/500px-New_York_Mercantile_Exchange_034.jpg",
+   "size": [
+    1280,
+    2772
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Kidfly182, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:New_York_Mercantile_Exchange_034.jpg",
    "plain": true
   }
  ]

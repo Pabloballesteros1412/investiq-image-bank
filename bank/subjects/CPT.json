@@ -8,5 +8,42 @@
  "sector": "sector-real-estate",
  "target": 10,
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Camden Property Trust: Greenway Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/8greenwayplaza.jpg/1920px-8greenwayplaza.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/8greenwayplaza.jpg/500px-8greenwayplaza.jpg",
+   "size": [
+    1920,
+    2177
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mhtribolet, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:8greenwayplaza.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Greenway Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Greenway_Plaza.jpg/1920px-Greenway_Plaza.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Greenway_Plaza.jpg/500px-Greenway_Plaza.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "WhisperToMe, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Greenway_Plaza.jpg",
+   "plain": true
+  }
+ ]
 }

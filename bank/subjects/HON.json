@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Honeywell Markham Office - Address: Suite 100, 85 Enterprise Blvd, Unionville, ON L6G 0B5",
@@ -165,6 +164,24 @@
    "licence": "CC0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:HoneywellMarkhamOffice2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Seelze - Riedel de Haen - Honeywell - 2005",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/02170027_-_Seelze_-_Riedel_de_Haen_-_Honeywell_-_2005.JPG/1920px-02170027_-_Seelze_-_Riedel_de_Haen_-_Honeywell_-_2005.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/02170027_-_Seelze_-_Riedel_de_Haen_-_Honeywell_-_2005.JPG/500px-02170027_-_Seelze_-_Riedel_de_Haen_-_Honeywell_-_2005.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ricki ; Ingo Rickmann, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:02170027_-_Seelze_-_Riedel_de_Haen_-_Honeywell_-_2005.JPG",
    "plain": true
   }
  ]

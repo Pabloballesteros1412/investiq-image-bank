@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "RBC Building on Wellington, Downtown Toronto, August 30 2025",
@@ -43,6 +42,23 @@
    "author_url": "https://unsplash.com/@frugalflyer?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/a-sign-on-the-front-of-a-building-cJNSHUHyoIo?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Gold Royal Bank Plaza and Blue Sky",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gold_Royal_Bank_Plaza_and_Blue_Sky.jpg/1280px-Gold_Royal_Bank_Plaza_and_Blue_Sky.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gold_Royal_Bank_Plaza_and_Blue_Sky.jpg/500px-Gold_Royal_Bank_Plaza_and_Blue_Sky.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Danielle Scott, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Gold_Royal_Bank_Plaza_and_Blue_Sky.jpg"
   },
   {
    "shows": "L'Édifice de la Banque Royale",

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "HP Headquarters Palo Alto",
@@ -165,6 +164,42 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/83542829@N00/2586296015",
+   "plain": true
+  },
+  {
+   "shows": "Plantronics pc microphone .audio 15 observe",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Plantronics_pc_microphone_.audio_15_observe.jpg/1280px-Plantronics_pc_microphone_.audio_15_observe.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Plantronics_pc_microphone_.audio_15_observe.jpg/500px-Plantronics_pc_microphone_.audio_15_observe.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rjluna2, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Plantronics_pc_microphone_.audio_15_observe.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Plantronics BackBeat PRO 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Plantronics_BackBeat_PRO_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Plantronics_BackBeat_PRO_2.jpg/500px-Plantronics_BackBeat_PRO_2.jpg",
+   "size": [
+    1813,
+    1700
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "StagiaireMGIMO, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Plantronics_BackBeat_PRO_2.jpg",
    "plain": true
   }
  ]

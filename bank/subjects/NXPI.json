@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Nxp pcf8574 mcmaster mz mit20x",
@@ -169,6 +168,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Telekom_Sinus_501_-_base_station_-_board_-_NXP_PHC2300-3140.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Imx6-som",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Imx6-som.jpg/1920px-Imx6-som.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Imx6-som.jpg/500px-Imx6-som.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jakednb, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Imx6-som.jpg",
    "plain": true
   }
  ]

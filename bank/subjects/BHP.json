@@ -7,7 +7,6 @@
  ],
  "sector": "sector-materials",
  "target": 10,
- "fill_from": "sector-materials",
  "photos": [
   {
    "shows": "BHP-Shenzi deepwater offshore production platform",
@@ -25,6 +24,23 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:BHP-Shenzi_deepwater_offshore_production_platform_(51115227966).jpg"
+  },
+  {
+   "shows": "Mina La Escondida",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mina_La_Escondida.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Mina_La_Escondida.jpg/500px-Mina_La_Escondida.jpg",
+   "size": [
+    1600,
+    1067
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Municipalidad de Antofagasta, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mina_La_Escondida.jpg"
   },
   {
    "shows": "Port Hedland, Western Australia",

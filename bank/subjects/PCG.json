@@ -7,7 +7,6 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
   {
    "shows": "PG&E Kenworth Class 8 LNG Truck",
@@ -173,6 +172,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/33917831@N00/308999513",
+   "plain": true
+  },
+  {
+   "shows": "77 Beale Street, San Francisco",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/77_Beale_Street%2C_San_Francisco.jpg/1280px-77_Beale_Street%2C_San_Francisco.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/77_Beale_Street%2C_San_Francisco.jpg/500px-77_Beale_Street%2C_San_Francisco.jpg",
+   "size": [
+    1280,
+    1706
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Minesweeper, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:77_Beale_Street,_San_Francisco.jpg",
    "plain": true
   }
  ]

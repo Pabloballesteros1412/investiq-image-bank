@@ -98,6 +98,60 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:ARMCortexA57A53_(cropped).jpg",
    "plain": true
+  },
+  {
+   "shows": "AcornRiscPCARM610front",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AcornRiscPCARM610front.jpg/1920px-AcornRiscPCARM610front.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/AcornRiscPCARM610front.jpg/500px-AcornRiscPCARM610front.jpg",
+   "size": [
+    1920,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Teewurzler, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AcornRiscPCARM610front.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ARM Juno Development Platform",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ARMJunoDevelopmentPlatform.jpg/1920px-ARMJunoDevelopmentPlatform.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/ARMJunoDevelopmentPlatform.jpg/500px-ARMJunoDevelopmentPlatform.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ARMJunoDevelopmentPlatform.jpg",
+   "plain": true
+  },
+  {
+   "shows": "ARM-HP-PRINTER",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ARM-HP-PRINTER.JPG/1920px-ARM-HP-PRINTER.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/ARM-HP-PRINTER.JPG/500px-ARM-HP-PRINTER.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Socram8888, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ARM-HP-PRINTER.JPG",
+   "plain": true
   }
  ]
 }

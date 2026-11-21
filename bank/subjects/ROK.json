@@ -119,6 +119,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/10058483@N00/5816349438",
    "plain": true
+  },
+  {
+   "shows": "Rockwell Automation: Rockwell Automation Headquarters",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Milwaukee%2C_WI_%2853772761503%29.jpg/1920px-Milwaukee%2C_WI_%2853772761503%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Milwaukee%2C_WI_%2853772761503%29.jpg/500px-Milwaukee%2C_WI_%2853772761503%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "thirdsphoto, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Milwaukee,_WI_(53772761503).jpg",
+   "plain": true
+  },
+  {
+   "shows": "73 Allen Bradley Clock, Milwaukee, Wisconsin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/20111121_73_Allen_Bradley_Clock%2C_Milwaukee%2C_Wisconsin_%286447897993%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20111121_73_Allen_Bradley_Clock%2C_Milwaukee%2C_Wisconsin_%286447897993%29.jpg/500px-20111121_73_Allen_Bradley_Clock%2C_Milwaukee%2C_Wisconsin_%286447897993%29.jpg",
+   "size": [
+    1200,
+    1600
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "David Wilson from Oak Park, Illinois, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:20111121_73_Allen_Bradley_Clock,_Milwaukee,_Wisconsin_(6447897993).jpg",
+   "plain": true
   }
  ]
 }

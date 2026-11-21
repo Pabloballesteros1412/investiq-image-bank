@@ -10,6 +10,23 @@
  "fill_from": "sector-utilities",
  "photos": [
   {
+   "shows": "Fermi NPP-2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Fermi_NPP-2.jpg/1920px-Fermi_NPP-2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Fermi_NPP-2.jpg/500px-Fermi_NPP-2.jpg",
+   "size": [
+    1920,
+    1561
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Nuclear Regulatory Commission, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fermi_NPP-2.jpg"
+  },
+  {
    "shows": "DTE Energy - River Rouge Power Plant from Windsor, Ontario",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DTE_Energy_-_River_Rouge_Power_Plant_from_Windsor%2C_Ontario%2C_2025-06-07.jpg/1920px-DTE_Energy_-_River_Rouge_Power_Plant_from_Windsor%2C_Ontario%2C_2025-06-07.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/DTE_Energy_-_River_Rouge_Power_Plant_from_Windsor%2C_Ontario%2C_2025-06-07.jpg/500px-DTE_Energy_-_River_Rouge_Power_Plant_from_Windsor%2C_Ontario%2C_2025-06-07.jpg",
@@ -81,6 +98,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/32693718@N07/50538676511",
+   "plain": true
+  },
+  {
+   "shows": "Enrico Fermi Nuclear Generating Station, Monroe County, Michigan, 2011 view from Detroit River",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Enrico_Fermi_Nuclear_Generating_Station%2C_Monroe_County%2C_Michigan%2C_2011_view_from_Detroit_River.jpg/1920px-Enrico_Fermi_Nuclear_Generating_Station%2C_Monroe_County%2C_Michigan%2C_2011_view_from_Detroit_River.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Enrico_Fermi_Nuclear_Generating_Station%2C_Monroe_County%2C_Michigan%2C_2011_view_from_Detroit_River.jpg/500px-Enrico_Fermi_Nuclear_Generating_Station%2C_Monroe_County%2C_Michigan%2C_2011_view_from_Detroit_River.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eric Vance, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Enrico_Fermi_Nuclear_Generating_Station,_Monroe_County,_Michigan,_2011_view_from_Detroit_River.jpg",
    "plain": true
   }
  ]

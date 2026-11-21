@@ -7,7 +7,6 @@
  ],
  "sector": "sector-financials",
  "target": 10,
- "fill_from": "sector-financials",
  "photos": [
   {
    "shows": "U.S. Bancorp Tower",
@@ -175,6 +174,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Saint_Therese_Little_Flower_Church_now_US_Bank.jpg",
+   "plain": true
+  },
+  {
+   "shows": "U.S. Bancorp: U.S. Bank Center (Milwaukee)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/A6304702-12_%2850015236548%29.jpg/1920px-A6304702-12_%2850015236548%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/A6304702-12_%2850015236548%29.jpg/500px-A6304702-12_%2850015236548%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Joseph Gage, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:A6304702-12_(50015236548).jpg",
    "plain": true
   }
  ]

@@ -7,8 +7,24 @@
  ],
  "sector": "sector-real-estate",
  "target": 10,
- "fill_from": "sector-real-estate",
  "photos": [
+  {
+   "shows": "New-York-Mariott-Marquis",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2025-05-13-New-York-Mariott-Marquis.jpg/1920px-2025-05-13-New-York-Mariott-Marquis.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2025-05-13-New-York-Mariott-Marquis.jpg/500px-2025-05-13-New-York-Mariott-Marquis.jpg",
+   "size": [
+    1920,
+    1392
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gunnar Klack, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2025-05-13-New-York-Mariott-Marquis.jpg"
+  },
   {
    "shows": "Host Hotels HQ Bethesda MD HST 1 crop",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Host_Hotels_HQ_Bethesda_MD_HST_20210314_181959_1_crop.jpg/1920px-Host_Hotels_HQ_Bethesda_MD_HST_20210314_181959_1_crop.jpg",
@@ -43,6 +59,132 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Host_Hotels_HQ_Bethesda_2021-11-28.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Times Square Marriott by Matthew Bisanz",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Times_Square_Marriott_by_Matthew_Bisanz.JPG/1280px-Times_Square_Marriott_by_Matthew_Bisanz.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Times_Square_Marriott_by_Matthew_Bisanz.JPG/500px-Times_Square_Marriott_by_Matthew_Bisanz.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "MBisanz talk, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Times_Square_Marriott_by_Matthew_Bisanz.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Ny-marriott-marquis",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ny-marriott-marquis.jpg/1280px-Ny-marriott-marquis.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ny-marriott-marquis.jpg/500px-Ny-marriott-marquis.jpg",
+   "size": [
+    1280,
+    1596
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Americasroof ( talk ), CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ny-marriott-marquis.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Downtown San Diego",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Downtown_San_Diego_%282705122621%29.jpg/1920px-Downtown_San_Diego_%282705122621%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Downtown_San_Diego_%282705122621%29.jpg/500px-Downtown_San_Diego_%282705122621%29.jpg",
+   "size": [
+    1920,
+    1688
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rennett Stowe from USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Downtown_San_Diego_(2705122621).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Orlando World Center Marriott - panoramio - Carlo Pelagalli",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Orlando_World_Center_Marriott_-_panoramio_-_Carlo_Pelagalli.jpg/1280px-Orlando_World_Center_Marriott_-_panoramio_-_Carlo_Pelagalli.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Orlando_World_Center_Marriott_-_panoramio_-_Carlo_Pelagalli.jpg/500px-Orlando_World_Center_Marriott_-_panoramio_-_Carlo_Pelagalli.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Carlo Pelagalli, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Orlando_World_Center_Marriott_-_panoramio_-_Carlo_Pelagalli.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Foyer Grand Hyatt Hotel Washington DC",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Foyer_Grand_Hyatt_Hotel_Washington_DC_%2827589521502%29.jpg/1280px-Foyer_Grand_Hyatt_Hotel_Washington_DC_%2827589521502%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Foyer_Grand_Hyatt_Hotel_Washington_DC_%2827589521502%29.jpg/500px-Foyer_Grand_Hyatt_Hotel_Washington_DC_%2827589521502%29.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Hisgett from Birmingham, UK, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Foyer_Grand_Hyatt_Hotel_Washington_DC_(27589521502).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Grand Hyatt DC foyer",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Grand_Hyatt_DC_foyer.jpg/1280px-Grand_Hyatt_DC_foyer.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Grand_Hyatt_DC_foyer.jpg/500px-Grand_Hyatt_DC_foyer.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Baron Maddock, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Grand_Hyatt_DC_foyer.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Grand Hyatt Washington",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grand_Hyatt_Washington_%2855265816062%29.jpg/1920px-Grand_Hyatt_Washington_%2855265816062%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Grand_Hyatt_Washington_%2855265816062%29.jpg/500px-Grand_Hyatt_Washington_%2855265816062%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ajay_suresh, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Grand_Hyatt_Washington_(55265816062).jpg",
    "plain": true
   }
  ]

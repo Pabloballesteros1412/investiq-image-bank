@@ -28,6 +28,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:Stephen_Schwarzman,_19_March_2024.jpg"
   },
   {
+   "shows": "Blackstone Inc.: Willis Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/-i---i-_%289960080954%29.jpg/1920px--i---i-_%289960080954%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/-i---i-_%289960080954%29.jpg/500px--i---i-_%289960080954%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wagner Tamanaha from Sao Paulo, Brazil, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:-i---i-_(9960080954).jpg"
+  },
+  {
    "shows": "Blackstone Inc. (Blackstone Inc.)",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blackstone_%2855283755213%29.jpg/1920px-Blackstone_%2855283755213%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Blackstone_%2855283755213%29.jpg/500px-Blackstone_%2855283755213%29.jpg",
@@ -63,6 +80,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/59081381@N03/48046353151",
+   "plain": true
+  },
+  {
+   "shows": "200 S. Wacker West View",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/200_S._Wacker_West_View.jpg/1280px-200_S._Wacker_West_View.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/200_S._Wacker_West_View.jpg/500px-200_S._Wacker_West_View.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mike Oropeza, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_S._Wacker_West_View.jpg",
    "plain": true
   }
  ]

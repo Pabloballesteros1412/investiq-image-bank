@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Row of blue rental bikes with black seats",
@@ -172,6 +171,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/24236270@N08/9603965456",
+   "plain": true
+  },
+  {
+   "shows": "Capital Bikeshare promotion for the 2014 National Cherry Blossom Festival",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/-bikeinbloom_%2813309613594%29.jpg/1920px--bikeinbloom_%2813309613594%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/-bikeinbloom_%2813309613594%29.jpg/500px--bikeinbloom_%2813309613594%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Euan Fisk from Washington, DC, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:-bikeinbloom_(13309613594).jpg",
    "plain": true
   }
  ]

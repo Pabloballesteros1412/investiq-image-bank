@@ -464,6 +464,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/78425154@N00/420776526",
    "plain": true
+  },
+  {
+   "shows": "The headquarters of Adobe Systems in downtown San Jose, California. Adobe Systems West Tower (left) and Adobe Systems East Tower (right).",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adobe_HQ_-_2.jpg/1920px-Adobe_HQ_-_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adobe_HQ_-_2.jpg/500px-Adobe_HQ_-_2.jpg",
+   "size": [
+    1920,
+    1346
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Coolcaesar, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_HQ_-_2.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Adobe Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Adobe_Building.jpg/1920px-Adobe_Building.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Adobe_Building.jpg/500px-Adobe_Building.jpg",
+   "size": [
+    1920,
+    1079
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mountain, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Adobe_Building.jpg",
+   "plain": true
   }
  ]
 }

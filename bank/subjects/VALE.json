@@ -7,7 +7,6 @@
  ],
  "sector": "sector-materials",
  "target": 10,
- "fill_from": "sector-materials",
  "photos": [
   {
    "shows": "Trem da Vale com minério de ferro na EFVM e BR-381 em Timóteo MG",
@@ -25,6 +24,23 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Trem_da_Vale_com_min%C3%A9rio_de_ferro_na_EFVM_e_BR-381_em_Tim%C3%B3teo_MG.JPG"
+  },
+  {
+   "shows": "Pesquisa CNT de Ferrovias 2011",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pesquisa_CNT_de_Ferrovias_2011_%286512017033%29.jpg/1920px-Pesquisa_CNT_de_Ferrovias_2011_%286512017033%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pesquisa_CNT_de_Ferrovias_2011_%286512017033%29.jpg/500px-Pesquisa_CNT_de_Ferrovias_2011_%286512017033%29.jpg",
+   "size": [
+    1920,
+    1397
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Agencia CNT de Noticias, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pesquisa_CNT_de_Ferrovias_2011_(6512017033).jpg"
   },
   {
    "shows": "Itabira MG Brasil - Mina de Ferro da Vale - panoramio",
@@ -154,6 +170,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/43646190@N08/48944344763",
+   "plain": true
+  },
+  {
+   "shows": "Historic Locomotive at Train Depot",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Historic_Locomotive_at_Train_Depot.jpg/1920px-Historic_Locomotive_at_Train_Depot.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Historic_Locomotive_at_Train_Depot.jpg/500px-Historic_Locomotive_at_Train_Depot.jpg",
+   "size": [
+    1920,
+    1277
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Wekamo79, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Historic_Locomotive_at_Train_Depot.jpg",
    "plain": true
   }
  ]
