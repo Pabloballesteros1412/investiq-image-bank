@@ -7,8 +7,41 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
+  {
+   "shows": "Honeywell International, Boeing 757-225, N757HW",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Honeywell_International%2C_Boeing_757-225%2C_N757HW_%2820122303978%29.jpg/1920px-Honeywell_International%2C_Boeing_757-225%2C_N757HW_%2820122303978%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Honeywell_International%2C_Boeing_757-225%2C_N757HW_%2820122303978%29.jpg/500px-Honeywell_International%2C_Boeing_757-225%2C_N757HW_%2820122303978%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Markus Eigenheer from Genève, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Honeywell_International,_Boeing_757-225,_N757HW_(20122303978).jpg"
+  },
+  {
+   "shows": "Honeywell Test Aircraft",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Honeywell_Test_Aircraft_%2820109685502%29.jpg/1920px-Honeywell_Test_Aircraft_%2820109685502%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Honeywell_Test_Aircraft_%2820109685502%29.jpg/500px-Honeywell_Test_Aircraft_%2820109685502%29.jpg",
+   "size": [
+    1920,
+    1053
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ozz13x, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Honeywell_Test_Aircraft_(20109685502).jpg"
+  },
   {
    "shows": "Honeywell Compact Fly-by-Wire System Workbench",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Honeywell_Compact_Fly-by-Wire_System_Workbench.jpg/1920px-Honeywell_Compact_Fly-by-Wire_System_Workbench.jpg",
@@ -133,6 +166,24 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:T-Hawk_over_KAF_DVIDS359218.jpg",
+   "plain": true
+  },
+  {
+   "shows": "A Flight Data Recorder (left) and Cockpit Voice Recorder (right) mounted in the rear fuselage of an aircraft. Each has an Underwater Locator Beacon mounted in b",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flightrecorders.JPG/1920px-Flightrecorders.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flightrecorders.JPG/500px-Flightrecorders.JPG",
+   "size": [
+    1920,
+    1282
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "YSSYguy, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Flightrecorders.JPG",
    "plain": true
   }
  ]

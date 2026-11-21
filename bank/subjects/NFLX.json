@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 30,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Adios Senor Netflix · business, document, paper",
@@ -521,6 +520,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Netflix_iPhone.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Netflix: Netflix",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Shibuya_%E6%B8%8B%E8%B0%B7_%2851287664344%29.jpg/1280px-Shibuya_%E6%B8%8B%E8%B0%B7_%2851287664344%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Shibuya_%E6%B8%8B%E8%B0%B7_%2851287664344%29.jpg/500px-Shibuya_%E6%B8%8B%E8%B0%B7_%2851287664344%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "nakashi from Chofu, Tokyo, JAPAN, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Shibuya_%E6%B8%8B%E8%B0%B7_(51287664344).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Taro shiba opens his Netflix",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Taro_shiba_opens_his_Netflix.jpg/1920px-Taro_shiba_opens_his_Netflix.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Taro_shiba_opens_his_Netflix.jpg/500px-Taro_shiba_opens_his_Netflix.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Taro the Shiba Inu, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Taro_shiba_opens_his_Netflix.jpg",
    "plain": true
   }
  ]

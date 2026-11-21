@@ -7,7 +7,6 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
   {
    "shows": "AEP building",
@@ -59,6 +58,23 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Indiana_Michigan_Power_Center,_sign_%26_NE_corner,_Fort_Wayne,_IN_2024-04-12.jpg"
+  },
+  {
+   "shows": "John E. Amos Power Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/John_E._Amos_Power_Plant.jpg/1920px-John_E._Amos_Power_Plant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/John_E._Amos_Power_Plant.jpg/500px-John_E._Amos_Power_Plant.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Quintin Soloviev, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:John_E._Amos_Power_Plant.jpg"
   },
   {
    "shows": "Appalachian Power crews Worthington, OH-1",

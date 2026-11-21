@@ -146,6 +146,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/83542829@N00/2451446721",
    "plain": true
+  },
+  {
+   "shows": "Zynga building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Zynga_building.JPG/1920px-Zynga_building.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Zynga_building.JPG/500px-Zynga_building.JPG",
+   "size": [
+    1920,
+    1429
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dreamyshade, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Zynga_building.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Zynga Building, San Francisco at night",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Zynga_Building%2C_San_Francisco_at_night.jpg/1920px-Zynga_Building%2C_San_Francisco_at_night.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Zynga_Building%2C_San_Francisco_at_night.jpg/500px-Zynga_Building%2C_San_Francisco_at_night.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dllu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Zynga_Building,_San_Francisco_at_night.jpg",
+   "plain": true
   }
  ]
 }

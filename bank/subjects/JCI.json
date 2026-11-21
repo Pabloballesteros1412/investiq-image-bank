@@ -7,8 +7,24 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
+  {
+   "shows": "Johnson Controls: Tyco International",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TycoVehicle.jpg/1920px-TycoVehicle.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/TycoVehicle.jpg/500px-TycoVehicle.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:TycoVehicle.jpg"
+  },
   {
    "shows": "Johnson Controls in Richmond Hill",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/JohnsonControlsRichmondHill.jpg/1920px-JohnsonControlsRichmondHill.jpg",

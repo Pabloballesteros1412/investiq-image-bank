@@ -8,5 +8,42 @@
  "sector": "sector-real-estate",
  "target": 10,
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Jacksonville Modis Building Pano",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Jacksonville_Modis_Building_Pano.jpg/1280px-Jacksonville_Modis_Building_Pano.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Jacksonville_Modis_Building_Pano.jpg/500px-Jacksonville_Modis_Building_Pano.jpg",
+   "size": [
+    1280,
+    1847
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "“Jonathan Zander ( Digon3 )”, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Jacksonville_Modis_Building_Pano.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Modis Building 2",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Modis_Building_2.jpg/1920px-Modis_Building_2.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Modis_Building_2.jpg/500px-Modis_Building_2.jpg",
+   "size": [
+    1920,
+    1276
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jeff Wright from Jacksonville, FL, U.S., CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Modis_Building_2.jpg",
+   "plain": true
+  }
+ ]
 }

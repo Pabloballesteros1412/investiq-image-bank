@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Microsemi Microchip Building Garden Grove California 2021",
@@ -137,6 +136,60 @@
    "licence": "CC BY-SA 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Atmel-corporate-headquarters_San-Jose_2013.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Embedded World 2014 Atmel SAM D20 GPS Tracker",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Embedded_World_2014_Atmel_SAM_D20_GPS_Tracker.jpg/1920px-Embedded_World_2014_Atmel_SAM_D20_GPS_Tracker.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Embedded_World_2014_Atmel_SAM_D20_GPS_Tracker.jpg/500px-Embedded_World_2014_Atmel_SAM_D20_GPS_Tracker.jpg",
+   "size": [
+    1920,
+    1921
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ordercrazy, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Embedded_World_2014_Atmel_SAM_D20_GPS_Tracker.jpg",
+   "plain": true
+  },
+  {
+   "shows": "An Atmel ATmega16 microcontroller in a 40 pin DIP package. Mounted in a solderless breadboard.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ATmega16.jpg/1920px-ATmega16.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ATmega16.jpg/500px-ATmega16.jpg",
+   "size": [
+    1920,
+    1062
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Image taken by ianhopkins. No rights reserved., CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ATmega16.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Acer V233H - board 2 - Atmel H852 16B 1 Z8G8143B-6679",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Acer_V233H_-_board_2_-_Atmel_H852_16B_1_Z8G8143B-6679.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Acer_V233H_-_board_2_-_Atmel_H852_16B_1_Z8G8143B-6679.jpg/500px-Acer_V233H_-_board_2_-_Atmel_H852_16B_1_Z8G8143B-6679.jpg",
+   "size": [
+    1611,
+    1611
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Acer_V233H_-_board_2_-_Atmel_H852_16B_1_Z8G8143B-6679.jpg",
    "plain": true
   }
  ]

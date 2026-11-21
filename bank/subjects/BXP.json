@@ -7,7 +7,6 @@
  ],
  "sector": "sector-real-estate",
  "target": 10,
- "fill_from": "sector-real-estate",
  "photos": [
   {
    "shows": "Embarcadero Center, San Francisco, California",
@@ -62,6 +61,23 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Four_Embarcadero_Center_from_Hyatt_Regency_San_Francisco_(2).jpg"
+  },
+  {
+   "shows": "200 Clarendon Street",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/200_Clarendon_Street.jpg/1280px-200_Clarendon_Street.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/200_Clarendon_Street.jpg/500px-200_Clarendon_Street.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gareth123458, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:200_Clarendon_Street.jpg"
   },
   {
    "shows": "Spirals at Embarcadero Center",
@@ -157,6 +173,24 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Four_Embarcadero_Center_Interior_Spiral_Ramp.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Salesforce Tower under construction 2016 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Salesforce_Tower_under_construction_2016_01.jpg/1280px-Salesforce_Tower_under_construction_2016_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Salesforce_Tower_under_construction_2016_01.jpg/500px-Salesforce_Tower_under_construction_2016_01.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cr0codiletL1ger, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_under_construction_2016_01.jpg",
    "plain": true
   }
  ]

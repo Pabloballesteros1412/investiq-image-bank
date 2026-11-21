@@ -122,6 +122,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/53301297@N00/8552384349",
    "plain": true
+  },
+  {
+   "shows": "600 W. 7th St., Los Angeles",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/600_W._7th_St.%2C_Los_Angeles.jpg/1920px-600_W._7th_St.%2C_Los_Angeles.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/600_W._7th_St.%2C_Los_Angeles.jpg/500px-600_W._7th_St.%2C_Los_Angeles.jpg",
+   "size": [
+    1920,
+    1572
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Downtowngal, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:600_W._7th_St.,_Los_Angeles.jpg",
+   "plain": true
   }
  ]
 }

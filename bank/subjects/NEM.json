@@ -7,8 +7,24 @@
  ],
  "sector": "sector-materials",
  "target": 10,
- "fill_from": "sector-materials",
  "photos": [
+  {
+   "shows": "Panorámica de operaciones",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/OperacionesYanacocha.jpg/1920px-OperacionesYanacocha.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/OperacionesYanacocha.jpg/500px-OperacionesYanacocha.jpg",
+   "size": [
+    1920,
+    1222
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Elbuenminero, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:OperacionesYanacocha.jpg"
+  },
   {
    "shows": "Aerial View of Peñasquito Mine",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aerial_View_of_Pe%C3%B1asquito_Mine.jpg/1920px-Aerial_View_of_Pe%C3%B1asquito_Mine.jpg",

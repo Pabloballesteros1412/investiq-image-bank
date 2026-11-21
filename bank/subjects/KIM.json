@@ -8,5 +8,59 @@
  "sector": "sector-real-estate",
  "target": 10,
  "fill_from": "sector-real-estate",
- "photos": []
+ "photos": [
+  {
+   "shows": "Westlake Shopping Center 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Westlake_Shopping_Center_1.JPG/1920px-Westlake_Shopping_Center_1.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Westlake_Shopping_Center_1.JPG/500px-Westlake_Shopping_Center_1.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Westlake_Shopping_Center_1.JPG"
+  },
+  {
+   "shows": "Westlake Center, Daly City",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Westlake_Center%2C_Daly_City_%2843439094901%29.jpg/1920px-Westlake_Center%2C_Daly_City_%2843439094901%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Westlake_Center%2C_Daly_City_%2843439094901%29.jpg/500px-Westlake_Center%2C_Daly_City_%2843439094901%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "mliu92 from San Mateo, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Westlake_Center,_Daly_City_(43439094901).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aerial view of Westlake Shopping Center, San Francisco",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Aerial_view_of_Westlake_Shopping_Center%2C_San_Francisco.jpg/1920px-Aerial_view_of_Westlake_Shopping_Center%2C_San_Francisco.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Aerial_view_of_Westlake_Shopping_Center%2C_San_Francisco.jpg/500px-Aerial_view_of_Westlake_Shopping_Center%2C_San_Francisco.jpg",
+   "size": [
+    1920,
+    904
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Derrick Coetzee ( User:Dcoetzee ), CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Westlake_Shopping_Center,_San_Francisco.jpg",
+   "plain": true
+  }
+ ]
 }

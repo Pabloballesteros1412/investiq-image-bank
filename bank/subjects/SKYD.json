@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 10,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Fountain in the middle of the city during daytime",
@@ -170,6 +169,24 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Paramount_Studios_at_Night.jpg",
+   "plain": true
+  },
+  {
+   "shows": "MTV Times Square studio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MTV_Times_Square_studio.jpg/1920px-MTV_Times_Square_studio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/MTV_Times_Square_studio.jpg/500px-MTV_Times_Square_studio.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cian Ginty at en.wikipedia, Attribution, via Wikimedia Commons",
+   "licence": "Attribution",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:MTV_Times_Square_studio.jpg",
    "plain": true
   }
  ]

@@ -8,5 +8,23 @@
  "sector": "sector-tech",
  "target": 10,
  "fill_from": "sector-tech",
- "photos": []
+ "photos": [
+  {
+   "shows": "SendGrid office - Address: 1801 California Street #500, Denver, CO 80202, United States",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SendGridDenver.jpg/1920px-SendGridDenver.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/SendGridDenver.jpg/500px-SendGridDenver.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SendGridDenver.jpg"
+  }
+ ]
 }

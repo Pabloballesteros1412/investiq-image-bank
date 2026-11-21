@@ -302,6 +302,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/7633518@N08/54770264291",
    "plain": true
+  },
+  {
+   "shows": "Visa Inc.: Visa Debit",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/New_%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E3%83%87%E3%83%93%E3%83%83%E3%83%88_%E8%A1%A8%E9%9D%A2_%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3.jpg/1920px-New_%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E3%83%87%E3%83%93%E3%83%83%E3%83%88_%E8%A1%A8%E9%9D%A2_%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/New_%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E3%83%87%E3%83%93%E3%83%83%E3%83%88_%E8%A1%A8%E9%9D%A2_%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3.jpg/500px-New_%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E3%83%87%E3%83%93%E3%83%83%E3%83%88_%E8%A1%A8%E9%9D%A2_%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3.jpg",
+   "size": [
+    1920,
+    1323
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rory trains, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:New_%E3%82%86%E3%81%86%E3%81%A1%E3%82%87%E3%83%87%E3%83%93%E3%83%83%E3%83%88_%E8%A1%A8%E9%9D%A2_%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Froschmaul an Geldautomat, 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Froschmaul_an_Geldautomat%2C_1.jpeg/1920px-Froschmaul_an_Geldautomat%2C_1.jpeg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Froschmaul_an_Geldautomat%2C_1.jpeg/500px-Froschmaul_an_Geldautomat%2C_1.jpeg",
+   "size": [
+    1920,
+    1646
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aisano, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Froschmaul_an_Geldautomat,_1.jpeg",
+   "plain": true
   }
  ]
 }

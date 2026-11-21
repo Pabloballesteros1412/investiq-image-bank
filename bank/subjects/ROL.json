@@ -68,6 +68,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/23206546@N04/21992766853",
    "plain": true
+  },
+  {
+   "shows": "Ford Ranger Orkin Extended Cab (Sterling Ford)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ford_Ranger_Orkin_Extended_Cab_%28Sterling_Ford%29.JPG/1920px-Ford_Ranger_Orkin_Extended_Cab_%28Sterling_Ford%29.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ford_Ranger_Orkin_Extended_Cab_%28Sterling_Ford%29.JPG/500px-Ford_Ranger_Orkin_Extended_Cab_%28Sterling_Ford%29.JPG",
+   "size": [
+    1920,
+    1505
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bull-Doser, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ford_Ranger_Orkin_Extended_Cab_(Sterling_Ford).JPG",
+   "plain": true
+  },
+  {
+   "shows": "Orkin on Crescent St jeh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Orkin_on_Crescent_St_jeh.jpg/1920px-Orkin_on_Crescent_St_jeh.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Orkin_on_Crescent_St_jeh.jpg/500px-Orkin_on_Crescent_St_jeh.jpg",
+   "size": [
+    1920,
+    1080
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Orkin_on_Crescent_St_jeh.jpg",
+   "plain": true
   }
  ]
 }

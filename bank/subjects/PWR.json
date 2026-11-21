@@ -8,5 +8,42 @@
  "sector": "sector-industrials",
  "target": 10,
  "fill_from": "sector-industrials",
- "photos": []
+ "photos": [
+  {
+   "shows": "Archive williams tower - Flickr - mRio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Archive_williams_tower_-_Flickr_-_mRio.jpg/1920px-Archive_williams_tower_-_Flickr_-_mRio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Archive_williams_tower_-_Flickr_-_mRio.jpg/500px-Archive_williams_tower_-_Flickr_-_mRio.jpg",
+   "size": [
+    1920,
+    1385
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "mario, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Archive_williams_tower_-_Flickr_-_mRio.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Quanta Services: Williams Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HoustonWilliamsTower.jpg/1280px-HoustonWilliamsTower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HoustonWilliamsTower.jpg/500px-HoustonWilliamsTower.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "User:Argos'Dad, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HoustonWilliamsTower.jpg",
+   "plain": true
+  }
+ ]
 }

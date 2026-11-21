@@ -117,6 +117,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/46096359@N00/5088163750",
    "plain": true
+  },
+  {
+   "shows": "Covidien Neustadt(Donau)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Covidien_Neustadt%28Donau%29.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Covidien_Neustadt%28Donau%29.JPG/500px-Covidien_Neustadt%28Donau%29.JPG",
+   "size": [
+    1800,
+    1370
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Dede2, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Covidien_Neustadt(Donau).JPG",
+   "plain": true
   }
  ]
 }

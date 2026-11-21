@@ -462,6 +462,24 @@ Decisions (Pablo, 4 Nov 2026):
   Arch, Assurant, Broadridge, Camden, Kimco, Regency, Tyler, Unity, Ventas and the other REITs and insurers.
 - Bank (20 Nov, night): 6,791 photos; companies 4,398 (219 at target, 74 with none; famous average 26.5, 38 of 50 at 30),
   topics 1,844, sectors 549. 345 Unsplash download counts pending.
+- **Round 28** (21 Nov): 84 searches for the 7 topics at 49 gave nothing (a Financial Times flat-lay and an Amazon packing
+  line, both 2). The demo search has nothing left for them: ai, bonds, earnings, investing, oil, politics, sector-tech.
+- **Companies from Wikidata's links** (21 Nov): two collectors (scratchpad) find a company's Commons categories through
+  Wikidata instead of its name. `wd_linked.py` lists what the company's own item names (subsidiaries P355, things it
+  owns P1830, products P1056, HQ P159); `wd_owned.py` asks the query service (query.wikidata.org; it rate-limits to one
+  request a minute under load) for items naming the company as owner P127, operator P137, parent P749 or maker P176.
+  The categories were chosen by eye (left out: cities, product classes, shareholdings such as BlackRock's, businesses
+  sold since, portfolio companies of KKR and Apollo); `grow_wd_cat.py CATS.json OUT.json` crawls each one level deep
+  through the build's own `score()`. 527 candidates graded by eye: 37 best, 192 reserve. Best: the CBOT trading pit
+  and building (CME), Willis Tower (BX), Frontier (HPE), Limerick (CEG), Westlake Shopping Center (KIM, its first
+  photo), a Twilio SendGrid sign, Waters' Acquity UPLC, Clover Station (Fiserv), the JFK carrier in dry dock and its
+  bow section (HII), Honeywell's 757 test aircraft, a Tyco van (JCI), Royal Bank Plaza, a Snapchat Spectacles vending
+  machine, a Harris Falcon III radio, Cobra Dane, Moderna and BioNTech vials, the Fermi and Hope Creek plants, Sea
+  Hunter (LDOS), a Wolt courier (DASH), an UGG store, a HOKA Bondi, Escondida and Yanacocha, a Vale locomotive.
+  Rejected: wrestling and concerts (TKO, Live Nation venues), soldiers with the products (L3Harris, RTX), PMI's
+  Parliament packs abroad (Altria sells it only in the US), postcards, trade-show booths, people.
+- Bank (21 Nov): 6,955 photos; companies 4,562 (251 at target, 69 with none; famous average 26.6, 39 of 50 at 30),
+  topics 1,844, sectors 549. 345 Unsplash download counts pending.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

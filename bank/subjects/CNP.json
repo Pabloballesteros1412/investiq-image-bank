@@ -138,6 +138,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/64379474@N00/2788556527",
    "plain": true
+  },
+  {
+   "shows": "CenterPoint Energy: CenterPoint Energy Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GiorcesHouston10.JPG/1280px-GiorcesHouston10.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/GiorcesHouston10.JPG/500px-GiorcesHouston10.JPG",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Giorces, CC BY 2.5, via Wikimedia Commons",
+   "licence": "CC BY 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GiorcesHouston10.JPG",
+   "plain": true
   }
  ]
 }

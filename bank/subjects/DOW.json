@@ -7,7 +7,6 @@
  ],
  "sector": "sector-materials",
  "target": 10,
- "fill_from": "sector-materials",
  "photos": [
   {
    "shows": "A Dow Chemical plant in Charleston, West Virginia",
@@ -169,6 +168,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Dow_Corning,_Bay_City.jpg",
+   "plain": true
+  },
+  {
+   "shows": "2012-07 Independence National Historical Park 06",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2012-07_Independence_National_Historical_Park_06.JPG/1920px-2012-07_Independence_National_Historical_Park_06.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2012-07_Independence_National_Historical_Park_06.JPG/500px-2012-07_Independence_National_Historical_Park_06.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ziko van Dijk, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:2012-07_Independence_National_Historical_Park_06.JPG",
    "plain": true
   }
  ]

@@ -10,6 +10,23 @@
  "fill_from": "sector-industrials",
  "photos": [
   {
+   "shows": "AN-PRC-117G FALCON III manpack radio - National Cryptologic Museum",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/AN-PRC-117G_FALCON_III_manpack_radio_-_National_Cryptologic_Museum_-_DSC07959.JPG/1920px-AN-PRC-117G_FALCON_III_manpack_radio_-_National_Cryptologic_Museum_-_DSC07959.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/AN-PRC-117G_FALCON_III_manpack_radio_-_National_Cryptologic_Museum_-_DSC07959.JPG/500px-AN-PRC-117G_FALCON_III_manpack_radio_-_National_Cryptologic_Museum_-_DSC07959.JPG",
+   "size": [
+    1920,
+    1425
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daderot, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AN-PRC-117G_FALCON_III_manpack_radio_-_National_Cryptologic_Museum_-_DSC07959.JPG"
+  },
+  {
    "shows": "Artillery Signal Support for Cobra Gold 2025",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Artillery_Signal_Support_for_Cobra_Gold_2025_%288888764%29.jpg/1920px-Artillery_Signal_Support_for_Cobra_Gold_2025_%288888764%29.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Artillery_Signal_Support_for_Cobra_Gold_2025_%288888764%29.jpg/500px-Artillery_Signal_Support_for_Cobra_Gold_2025_%288888764%29.jpg",
@@ -85,6 +102,60 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/62309569@N03/51929304845",
+   "plain": true
+  },
+  {
+   "shows": "ABI Bench Test",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABI_Bench_Test_%2814520570356%29.jpg/1920px-ABI_Bench_Test_%2814520570356%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABI_Bench_Test_%2814520570356%29.jpg/500px-ABI_Bench_Test_%2814520570356%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NOAASatellites, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ABI_Bench_Test_(14520570356).jpg",
+   "plain": true
+  },
+  {
+   "shows": "ABI Undergoes Vibration Testing",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ABI_Undergoes_Vibration_Testing_%2814402632661%29.jpg/1920px-ABI_Undergoes_Vibration_Testing_%2814402632661%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/ABI_Undergoes_Vibration_Testing_%2814402632661%29.jpg/500px-ABI_Undergoes_Vibration_Testing_%2814402632661%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NOAASatellites, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ABI_Undergoes_Vibration_Testing_(14402632661).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Engineers Load GOES-R ABI for Shipment",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Engineers_Load_GOES-R_ABI_for_Shipment_%2814404874564%29.jpg/1920px-Engineers_Load_GOES-R_ABI_for_Shipment_%2814404874564%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Engineers_Load_GOES-R_ABI_for_Shipment_%2814404874564%29.jpg/500px-Engineers_Load_GOES-R_ABI_for_Shipment_%2814404874564%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NOAASatellites, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Engineers_Load_GOES-R_ABI_for_Shipment_(14404874564).jpg",
    "plain": true
   }
  ]

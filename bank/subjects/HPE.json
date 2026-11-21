@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Brown and white concrete building under blue sky during daytime",
@@ -45,6 +44,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:HP_Enterprise_America_Center.jpg"
   },
   {
+   "shows": "Frontier Supercomputer",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Frontier_Supercomputer_%281%29.jpg/1920px-Frontier_Supercomputer_%281%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Frontier_Supercomputer_%281%29.jpg/500px-Frontier_Supercomputer_%281%29.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "OLCF at ORNL, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Frontier_Supercomputer_(1).jpg"
+  },
+  {
    "shows": "HPE headquarters",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HPE_headquarters.jpg/1920px-HPE_headquarters.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/HPE_headquarters.jpg/500px-HPE_headquarters.jpg",
@@ -78,6 +94,96 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Hewlett_Packard_(HP)_Enterprise_Office_Building_-_Omaha,_Nebraska_(29991644447).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Seymour Cray",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Seymour_Cray.jpg/1920px-Seymour_Cray.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Seymour_Cray.jpg/500px-Seymour_Cray.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Michael Hicks, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Seymour_Cray.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aruba broadband routers",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aruba_broadband_routers.jpg/1920px-Aruba_broadband_routers.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aruba_broadband_routers.jpg/500px-Aruba_broadband_routers.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Christo, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aruba_broadband_routers.jpg",
+   "plain": true
+  },
+  {
+   "shows": "HP 3par 7200 storage array",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/HP_3par_7200-1.jpg/1920px-HP_3par_7200-1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/HP_3par_7200-1.jpg/500px-HP_3par_7200-1.jpg",
+   "size": [
+    1920,
+    397
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Redline, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:HP_3par_7200-1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Compaq ProLiant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Compaq_ProLiant_%2823091292%29.jpg/1920px-Compaq_ProLiant_%2823091292%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Compaq_ProLiant_%2823091292%29.jpg/500px-Compaq_ProLiant_%2823091292%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "aaltonen, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Compaq_ProLiant_(23091292).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Compaq ProLiant ml570",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Compaq_ProLiant_ml570_%280%29.jpg/1920px-Compaq_ProLiant_ml570_%280%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Compaq_ProLiant_ml570_%280%29.jpg/500px-Compaq_ProLiant_ml570_%280%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Robert, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Compaq_ProLiant_ml570_(0).jpg",
    "plain": true
   }
  ]

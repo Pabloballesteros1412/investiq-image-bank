@@ -7,8 +7,24 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
+  {
+   "shows": "Mount Storm Power Plant, Aerial",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mount_Storm_Power_Plant%2C_Aerial.jpg/1920px-Mount_Storm_Power_Plant%2C_Aerial.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mount_Storm_Power_Plant%2C_Aerial.jpg/500px-Mount_Storm_Power_Plant%2C_Aerial.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raeky, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Mount_Storm_Power_Plant,_Aerial.jpg"
+  },
   {
    "shows": "Millstone Nuclear Power Plant",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Millstone_Nuclear_Power_Plant_%2851102030612%29.jpg/1920px-Millstone_Nuclear_Power_Plant_%2851102030612%29.jpg",

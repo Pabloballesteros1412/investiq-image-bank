@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 10,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "Dish Network Headquarters",
@@ -42,6 +41,23 @@
    "licence": "CC BY-SA 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Boost_Mobile_Store_-_Pittsburgh_(48171865312).jpg"
+  },
+  {
+   "shows": "Dish Network HD satellite dish (DISH 1000+) with a western arc Low-noise block downconverter .",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/DISH_1000%2B.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/DISH_1000%2B.jpg/500px-DISH_1000%2B.jpg",
+   "size": [
+    1862,
+    1439
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cody Logan, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:DISH_1000%2B.jpg"
   },
   {
    "shows": "7 seconds: Echostar XXIII launch by SpaceX",
@@ -137,6 +153,42 @@
    "licence": "CC BY 3.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Boost_Mobile_store_Inkster_Michigan.JPG",
+   "plain": true
+  },
+  {
+   "shows": "As American as Satellite TV",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/As_American_as_Satellite_TV_%2825032988927%29.jpg/1920px-As_American_as_Satellite_TV_%2825032988927%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/As_American_as_Satellite_TV_%2825032988927%29.jpg/500px-As_American_as_Satellite_TV_%2825032988927%29.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alan Levine from Archydal, Canada, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:As_American_as_Satellite_TV_(25032988927).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chevrolet Express Wagon Dish Network",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chevrolet_Express_Wagon_Dish_Network.JPG/1920px-Chevrolet_Express_Wagon_Dish_Network.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chevrolet_Express_Wagon_Dish_Network.JPG/500px-Chevrolet_Express_Wagon_Dish_Network.JPG",
+   "size": [
+    1920,
+    1509
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bull-Doser at English Wikipedia, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chevrolet_Express_Wagon_Dish_Network.JPG",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
   {
    "shows": "East Coast Relief Efforts in the wake of Hurricane-Storm \"Sandy\". -F-RF302-004",
@@ -175,6 +174,24 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:CalEdison_Powerline_in_the_Sierra_National_Forest_(25049523308).jpg",
+   "plain": true
+  },
+  {
+   "shows": "SCE Hydro Bishop",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/SCE_Hydro_Bishop.jpg/1920px-SCE_Hydro_Bishop.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/SCE_Hydro_Bishop.jpg/500px-SCE_Hydro_Bishop.jpg",
+   "size": [
+    1920,
+    1437
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Brien Clark ( talk · contribs ), CC BY-SA 2.5, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SCE_Hydro_Bishop.jpg",
    "plain": true
   }
  ]

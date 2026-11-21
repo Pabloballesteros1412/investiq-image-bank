@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Deckers Brands Headquarters Building 1",
@@ -60,6 +59,40 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:HOKA_Flatiron_store_New_York_City.jpg"
+  },
+  {
+   "shows": "Hoka Bondi 8 - chalk violet",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoka_Bondi_8_-_chalk_violet.jpg/1920px-Hoka_Bondi_8_-_chalk_violet.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hoka_Bondi_8_-_chalk_violet.jpg/500px-Hoka_Bondi_8_-_chalk_violet.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ssu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hoka_Bondi_8_-_chalk_violet.jpg"
+  },
+  {
+   "shows": "UGG store at Zhengzhou Shanshan Outlet Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/20220211_UGG_store_at_Zhengzhou_Shanshan_Outlet_Plaza.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/20220211_UGG_store_at_Zhengzhou_Shanshan_Outlet_Plaza.jpg/500px-20220211_UGG_store_at_Zhengzhou_Shanshan_Outlet_Plaza.jpg",
+   "size": [
+    1800,
+    1200
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Windmemories, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:20220211_UGG_store_at_Zhengzhou_Shanshan_Outlet_Plaza.jpg"
   },
   {
    "shows": "In the land of the Ugg boots",
@@ -139,6 +172,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/71401718@N00/17184401078",
+   "plain": true
+  },
+  {
+   "shows": "Hoka Bondi 8 - Cherries Jubilee",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hoka_Bondi_8_-_Cherries_Jubilee.jpg/1920px-Hoka_Bondi_8_-_Cherries_Jubilee.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hoka_Bondi_8_-_Cherries_Jubilee.jpg/500px-Hoka_Bondi_8_-_Cherries_Jubilee.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ssu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Hoka_Bondi_8_-_Cherries_Jubilee.jpg",
    "plain": true
   }
  ]

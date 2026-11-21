@@ -7,7 +7,6 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
   {
    "shows": "Consolidated Edison Building",
@@ -45,6 +44,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Consolidated_Edison_Building_(54574210764).jpg"
+  },
+  {
+   "shows": "Con Ed Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Con_Ed_Building_%2853317344044%29.jpg/1280px-Con_Ed_Building_%2853317344044%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Con_Ed_Building_%2853317344044%29.jpg/500px-Con_Ed_Building_%2853317344044%29.jpg",
+   "size": [
+    1280,
+    2276
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Eden, Janine and Jim from New York City, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Con_Ed_Building_(53317344044).jpg"
   },
   {
    "shows": "East 74th Street IRT Power Station, New York City, 1109 1026 DxO",

@@ -140,6 +140,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/11112304@N00/3307593241",
    "plain": true
+  },
+  {
+   "shows": "341 George Street Sydney 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/341_George_Street_Sydney_01.jpg/1280px-341_George_Street_Sydney_01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/341_George_Street_Sydney_01.jpg/500px-341_George_Street_Sydney_01.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Collywolly, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:341_George_Street_Sydney_01.jpg",
+   "plain": true
   }
  ]
 }

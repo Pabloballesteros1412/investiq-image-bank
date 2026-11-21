@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "TechCrunch Disrupt San Francisco 2018 - day 1",
@@ -59,6 +58,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_San_Francisco_2018_-_day_1_(43784924924).jpg"
+  },
+  {
+   "shows": "Wolt knallert Torvegade Christianshavn Kobenhavn 02",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20210821_Wolt_knallert_Torvegade_Christianshavn_Kobenhavn_02_%2851444529017%29.jpg/1920px-20210821_Wolt_knallert_Torvegade_Christianshavn_Kobenhavn_02_%2851444529017%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/20210821_Wolt_knallert_Torvegade_Christianshavn_Kobenhavn_02_%2851444529017%29.jpg/500px-20210821_Wolt_knallert_Torvegade_Christianshavn_Kobenhavn_02_%2851444529017%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Johan Wessman / News Oresund, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:20210821_Wolt_knallert_Torvegade_Christianshavn_Kobenhavn_02_(51444529017).jpg"
   },
   {
    "shows": "A Street Scene on Granville Street, Downtown, Vancouver during coronavirus pandemic",

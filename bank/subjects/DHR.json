@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Beckman Coulter Vi-Cell XR Cell Viability Analyzer",
@@ -65,6 +64,132 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Danaher_Corporation_(55265815592).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Beckman Coulter CEQ 8800",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Beckman_Coulter_CEQ_8800.jpg/1280px-Beckman_Coulter_CEQ_8800.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Beckman_Coulter_CEQ_8800.jpg/500px-Beckman_Coulter_CEQ_8800.jpg",
+   "size": [
+    1280,
+    1954
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Herodotptlomeu, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beckman_Coulter_CEQ_8800.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Beckman Coulter Ultracentrifuge",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Beckman_Coulter_Ultracentrifuge.jpg/1920px-Beckman_Coulter_Ultracentrifuge.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Beckman_Coulter_Ultracentrifuge.jpg/500px-Beckman_Coulter_Ultracentrifuge.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Karbohut, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beckman_Coulter_Ultracentrifuge.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Beckman-Coulter preparative centrifuge Avanti J25-01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Beckman-Coulter_preparative_centrifuge_Avanti_J25-01.jpg/1280px-Beckman-Coulter_preparative_centrifuge_Avanti_J25-01.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Beckman-Coulter_preparative_centrifuge_Avanti_J25-01.jpg/500px-Beckman-Coulter_preparative_centrifuge_Avanti_J25-01.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "real name: Matylda Sęk pl.wiki: Cygaretka commons: Cygaretka, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Beckman-Coulter_preparative_centrifuge_Avanti_J25-01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Nobel Biocare Canada Inc. - Address: 9133 Leslie St #100, Richmond Hill, ON L4B 4N1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/NobelBiocareRichmondHill.jpg/1920px-NobelBiocareRichmondHill.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/NobelBiocareRichmondHill.jpg/500px-NobelBiocareRichmondHill.jpg",
+   "size": [
+    1920,
+    1272
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NobelBiocareRichmondHill.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Pall Corporation Corporate Office in Houston, Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pall_Corporation_Corporate_Office_in_Houston%2C_Texas_%2846801739654%29.jpg/1920px-Pall_Corporation_Corporate_Office_in_Houston%2C_Texas_%2846801739654%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pall_Corporation_Corporate_Office_in_Houston%2C_Texas_%2846801739654%29.jpg/500px-Pall_Corporation_Corporate_Office_in_Houston%2C_Texas_%2846801739654%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Pall_Corporation_Corporate_Office_in_Houston,_Texas_(46801739654).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ilfracombe , Pall Corporation - geograph.org.uk",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ilfracombe_%2C_Pall_Corporation_-_geograph.org.uk_-_4153214.jpg/1920px-Ilfracombe_%2C_Pall_Corporation_-_geograph.org.uk_-_4153214.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ilfracombe_%2C_Pall_Corporation_-_geograph.org.uk_-_4153214.jpg/500px-Ilfracombe_%2C_Pall_Corporation_-_geograph.org.uk_-_4153214.jpg",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Lewis Clarke, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ilfracombe_,_Pall_Corporation_-_geograph.org.uk_-_4153214.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Marine House (Pall Corporation offices), Southampton Road, Port Solent, Portsmouth (May 2019)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Marine_House_%28Pall_Corporation_offices%29%2C_Southampton_Road%2C_Port_Solent%2C_Portsmouth_%28May_2019%29.JPG/1920px-Marine_House_%28Pall_Corporation_offices%29%2C_Southampton_Road%2C_Port_Solent%2C_Portsmouth_%28May_2019%29.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Marine_House_%28Pall_Corporation_offices%29%2C_Southampton_Road%2C_Port_Solent%2C_Portsmouth_%28May_2019%29.JPG/500px-Marine_House_%28Pall_Corporation_offices%29%2C_Southampton_Road%2C_Port_Solent%2C_Portsmouth_%28May_2019%29.JPG",
+   "size": [
+    1920,
+    1097
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Hassocks5489, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Marine_House_(Pall_Corporation_offices),_Southampton_Road,_Port_Solent,_Portsmouth_(May_2019).JPG",
    "plain": true
   }
  ]

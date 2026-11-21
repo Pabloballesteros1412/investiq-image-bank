@@ -10,6 +10,23 @@
  "fill_from": "sector-financials",
  "photos": [
   {
+   "shows": "Clover Station with receipt printer and cash drawer",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Clover_Station_with_receipt_printer_and_cash_drawer.jpg/1920px-Clover_Station_with_receipt_printer_and_cash_drawer.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Clover_Station_with_receipt_printer_and_cash_drawer.jpg/500px-Clover_Station_with_receipt_printer_and_cash_drawer.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Clover Network, Inc., CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Clover_Station_with_receipt_printer_and_cash_drawer.jpg"
+  },
+  {
    "shows": "Krzysztof Polończyk, prezes zarządu Fiserv Polska S.A., właściciela marki PolCard",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Krzysztof_Polo%C5%84czyk%2C_prezes_zarz%C4%85du_Fiserv_Polska_S.A.%2C_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg/1920px-Krzysztof_Polo%C5%84czyk%2C_prezes_zarz%C4%85du_Fiserv_Polska_S.A.%2C_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Krzysztof_Polo%C5%84czyk%2C_prezes_zarz%C4%85du_Fiserv_Polska_S.A.%2C_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg/500px-Krzysztof_Polo%C5%84czyk%2C_prezes_zarz%C4%85du_Fiserv_Polska_S.A.%2C_w%C5%82a%C5%9Bciciela_marki_PolCard.jpg",
@@ -79,6 +96,24 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Fiserv_Forum_ahead_of_rally_IMG_4489.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Dortelweil, First Data",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dortelweil%2C_First_Data.JPG/1920px-Dortelweil%2C_First_Data.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Dortelweil%2C_First_Data.JPG/500px-Dortelweil%2C_First_Data.JPG",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Karsten11, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Dortelweil,_First_Data.JPG",
    "plain": true
   }
  ]

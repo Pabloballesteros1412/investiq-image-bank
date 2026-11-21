@@ -7,7 +7,6 @@
  ],
  "sector": "sector-communication",
  "target": 10,
- "fill_from": "sector-communication",
  "photos": [
   {
    "shows": "IPhone displaying the snapchat app store page",
@@ -26,6 +25,23 @@
    "author_url": "https://unsplash.com/@getswello?utm_source=investiq_image_bank&utm_medium=referral",
    "provider": "unsplash",
    "source": "https://unsplash.com/photos/iphone-displaying-the-snapchat-app-store-page-jRa50ueevs8?utm_source=investiq_image_bank&utm_medium=referral"
+  },
+  {
+   "shows": "Snapbot at Universal Studios Florida",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Snapbot_%2837966292821%29.jpg/1280px-Snapbot_%2837966292821%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Snapbot_%2837966292821%29.jpg/500px-Snapbot_%2837966292821%29.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "elisfkc from Orlando, FL, United States, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Snapbot_(37966292821).jpg"
   },
   {
    "shows": "Evan Spiegel, Snap Inc. CEO (per Wikidata)",

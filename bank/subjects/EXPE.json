@@ -7,7 +7,6 @@
  ],
  "sector": "sector-consumer-discretionary",
  "target": 10,
- "fill_from": "sector-consumer-discretionary",
  "photos": [
   {
    "shows": "Expedia building in Bellevue, WA",
@@ -159,6 +158,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Expedia_Group_Bridge.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Expedia.co.uk in Sheffield",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Expedia.co.uk_in_Sheffield.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Expedia.co.uk_in_Sheffield.jpg/500px-Expedia.co.uk_in_Sheffield.jpg",
+   "size": [
+    1224,
+    1632
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Bruno Postle, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Expedia.co.uk_in_Sheffield.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Visit Us: <a href=\" http://facebook.com/sgbus \" rel=\"nofollow\">facebook.com/sgbus</a> Like us on our official Facebook Page! Your likes are appreciated. :)",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SBS9826B_on_23_%2815875588452%29.jpg/1920px-SBS9826B_on_23_%2815875588452%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SBS9826B_on_23_%2815875588452%29.jpg/500px-SBS9826B_on_23_%2815875588452%29.jpg",
+   "size": [
+    1920,
+    1079
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Singapore Buses, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:SBS9826B_on_23_(15875588452).jpg",
    "plain": true
   }
  ]

@@ -10,6 +10,23 @@
  "fill_from": "sector-health",
  "photos": [
   {
+   "shows": "A vial of the COVID-19 vaccine is prepared to be administered at Walter Reed National Military Medical Center, Bethesda, Md., Dec. 21, 2020. (DOD Photo by Navy ",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/201221-D-WD757-1248_%2850745582317%29_%28cropped%29_%28cropped%29.jpg/1280px-201221-D-WD757-1248_%2850745582317%29_%28cropped%29_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/201221-D-WD757-1248_%2850745582317%29_%28cropped%29_%28cropped%29.jpg/500px-201221-D-WD757-1248_%2850745582317%29_%28cropped%29_%28cropped%29.jpg",
+   "size": [
+    1280,
+    1536
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Chairman of the Joint Chiefs of Staff from Washington D.C, United States, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:201221-D-WD757-1248_(50745582317)_(cropped)_(cropped).jpg"
+  },
+  {
    "shows": "Mainz.BioNTechSE",
    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mainz.BioNTechSE.20200731.jpg/1920px-Mainz.BioNTechSE.20200731.jpg",
    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mainz.BioNTechSE.20200731.jpg/500px-Mainz.BioNTechSE.20200731.jpg",
@@ -81,6 +98,42 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/7221539@N06/51386048816",
+   "plain": true
+  },
+  {
+   "shows": "Pharmacy employees prepare COVID-19 vaccination syringes for on-going vaccinations at the CW Bill Young VA Medical Center, Bay Pines VA Healthcare System, in Ba",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/201228-O-YB478-140.jpg/1920px-201228-O-YB478-140.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/201228-O-YB478-140.jpg/500px-201228-O-YB478-140.jpg",
+   "size": [
+    1920,
+    1484
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mark DePass, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:201228-O-YB478-140.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Another Saturday, Another Clinic",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Another_Saturday%2C_Another_Clinic._%2850985980338%29.jpg/1920px-Another_Saturday%2C_Another_Clinic._%2850985980338%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Another_Saturday%2C_Another_Clinic._%2850985980338%29.jpg/500px-Another_Saturday%2C_Another_Clinic._%2850985980338%29.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Phil Roeder from Des Moines, IA, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Another_Saturday,_Another_Clinic._(50985980338).jpg",
    "plain": true
   }
  ]

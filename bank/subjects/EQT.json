@@ -48,6 +48,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/62947588@N06/17073111999",
    "plain": true
+  },
+  {
+   "shows": "EQT Tower, Pittsburgh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Eqttower2011.jpg/1280px-Eqttower2011.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Eqttower2011.jpg/500px-Eqttower2011.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mr. Vitale ( talk ), public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Eqttower2011.jpg",
+   "plain": true
+  },
+  {
+   "shows": "EQT Plaza",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/EQT_Plaza%2C_2025-11-04.jpg/1280px-EQT_Plaza%2C_2025-11-04.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/EQT_Plaza%2C_2025-11-04.jpg/500px-EQT_Plaza%2C_2025-11-04.jpg",
+   "size": [
+    1280,
+    2275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cbaile19, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:EQT_Plaza,_2025-11-04.jpg",
+   "plain": true
   }
  ]
 }
