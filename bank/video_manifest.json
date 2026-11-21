@@ -16792,5 +16792,301 @@
   "checked": "2026-11-20",
   "videos": [],
   "sector": "sector-tech"
+ },
+ "MMM": {
+  "kind": "company",
+  "name": "3M",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [
+   {
+    "shot": "post-it-notes",
+    "shows": "post-it, notes, bureau, drink, juice, ping-pong, table",
+    "file": "pixabay-video:87975",
+    "provider": "pixabay",
+    "page": "https://pixabay.com/videos/id-87975/",
+    "url": "https://cdn.pixabay.com/video/2021/09/09/87975-602894777_large.mp4",
+    "url_1080": "https://cdn.pixabay.com/video/2021/09/09/87975-602894777_large.mp4",
+    "preview_mp4": "https://cdn.pixabay.com/video/2021/09/09/87975-602894777_tiny.mp4",
+    "poster": "https://cdn.pixabay.com/video/2021/09/09/87975-602894777_medium.jpg",
+    "size": [
+     1920,
+     1080
+    ],
+    "orientation": "horizontal",
+    "duration": 12.0,
+    "credit": "Video by CycleZyklusCiclo on Pixabay",
+    "licence": "Pixabay Content License",
+    "licence_kind": "pixabay",
+    "licence_url": "https://pixabay.com/service/license-summary/",
+    "author": "CycleZyklusCiclo",
+    "author_url": "https://pixabay.com/users/CycleZyklusCiclo-16343232/"
+   }
+  ],
+  "sector": "sector-industrials"
+ },
+ "ACN": {
+  "kind": "company",
+  "name": "Accenture",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "AFRM": {
+  "kind": "company",
+  "name": "Affirm",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "APD": {
+  "kind": "company",
+  "name": "Air Products",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-materials"
+ },
+ "LNT": {
+  "kind": "company",
+  "name": "Alliant Energy",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-utilities"
+ },
+ "ADM": {
+  "kind": "company",
+  "name": "Archer Daniels Midland",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-staples"
+ },
+ "BNY": {
+  "kind": "company",
+  "name": "BNY Mellon",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "BG": {
+  "kind": "company",
+  "name": "Bunge Global",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-staples"
+ },
+ "CTAS": {
+  "kind": "company",
+  "name": "Cintas",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-industrials"
+ },
+ "CTSH": {
+  "kind": "company",
+  "name": "Cognizant",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "GLW": {
+  "kind": "company",
+  "name": "Corning Inc.",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "QBTS": {
+  "kind": "company",
+  "name": "D-Wave Quantum",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "DVN": {
+  "kind": "company",
+  "name": "Devon Energy",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-energy"
+ },
+ "DUK": {
+  "kind": "company",
+  "name": "Duke Energy",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-utilities"
+ },
+ "ETN": {
+  "kind": "company",
+  "name": "Eaton Corporation",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-industrials"
+ },
+ "EQIX": {
+  "kind": "company",
+  "name": "Equinix",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-real-estate"
+ },
+ "EXC": {
+  "kind": "company",
+  "name": "Exelon",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-utilities"
+ },
+ "EXR": {
+  "kind": "company",
+  "name": "Extra Space Storage",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-real-estate"
+ },
+ "FDXF": {
+  "kind": "company",
+  "name": "FedEx Freight",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-industrials"
+ },
+ "FITB": {
+  "kind": "company",
+  "name": "Fifth Third Bancorp",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "GSK": {
+  "kind": "company",
+  "name": "GSK",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "HCA": {
+  "kind": "company",
+  "name": "HCA Healthcare",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-health"
+ },
+ "HBAN": {
+  "kind": "company",
+  "name": "Huntington Bancshares",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "LIN": {
+  "kind": "company",
+  "name": "Linde plc",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-materials"
+ },
+ "MTB": {
+  "kind": "company",
+  "name": "M&T Bank",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "NTAP": {
+  "kind": "company",
+  "name": "NetApp",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "NTRS": {
+  "kind": "company",
+  "name": "Northern Trust",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "PSA": {
+  "kind": "company",
+  "name": "Public Storage",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-real-estate"
+ },
+ "RF": {
+  "kind": "company",
+  "name": "Regions Financial Corporation",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-financials"
+ },
+ "SAP": {
+  "kind": "company",
+  "name": "SAP",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "SPG": {
+  "kind": "company",
+  "name": "Simon Property Group",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-real-estate"
+ },
+ "SNPS": {
+  "kind": "company",
+  "name": "Synopsys",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-tech"
+ },
+ "WSM": {
+  "kind": "company",
+  "name": "Williams-Sonoma, Inc.",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-consumer-discretionary"
+ },
+ "XEL": {
+  "kind": "company",
+  "name": "Xcel Energy",
+  "target": 5,
+  "checked": "2026-11-21",
+  "videos": [],
+  "sector": "sector-utilities"
  }
 }

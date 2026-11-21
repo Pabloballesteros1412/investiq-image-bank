@@ -93,6 +93,21 @@ VIDEO_TERMS = {
     "MNST": ["monster energy drink"],
     "YUM": ["kfc chicken", "pizza hut", "taco bell restaurant"],
     "UBER": ["uber car", "uber eats", "uber app"],
+    # Companies with no brands.json terms (21 Nov): B2B names, searched in full or by their products. Pixabay and
+    # Commons had nothing usable for any of them when tried; the terms are here so a build lists them (fill_from =
+    # their sector) and finds their footage if a source gets some. Never a bare word: 'd-wave' brought sea waves,
+    # 'eaton' the Eaton wildfire, 'cintas' the Indonesian word 'cinta'.
+    "MMM": ["post-it notes", "scotch tape", "3m logo"], "ACN": ["accenture office"], "AFRM": ["affirm app"],
+    "APD": ["air products plant"], "LNT": ["alliant energy"], "ADM": ["archer daniels midland"],
+    "BNY": ["bny mellon"], "BG": ["bunge grain"], "CTAS": ["cintas uniform", "cintas truck"],
+    "CTSH": ["cognizant office"], "GLW": ["gorilla glass", "corning glass"], "QBTS": ["d-wave quantum computer"],
+    "DVN": ["devon energy"], "DUK": ["duke energy"], "ETN": ["eaton electrical"], "EQIX": ["equinix data center"],
+    "EXC": ["exelon", "comed", "peco energy"], "EXR": ["extra space storage"], "FDXF": ["fedex freight"],
+    "FITB": ["fifth third bank"], "GSK": ["glaxosmithkline"], "HCA": ["hca hospital", "hca healthcare"],
+    "HBAN": ["huntington bank"], "LIN": ["linde gas", "praxair"], "MTB": ["m&t bank"], "NTAP": ["netapp"],
+    "NTRS": ["northern trust"], "PSA": ["public storage"], "RF": ["regions bank"], "SAP": ["sap software"],
+    "SPG": ["simon mall"], "SNPS": ["synopsys"], "WSM": ["williams sonoma", "pottery barn", "west elm"],
+    "XEL": ["xcel energy"],
 }
 MAX_SEARCHES = 25                # searches per subject and source
 SEARCH_ROOM = 3                  # searches with candidates beyond the target before a subject stops searching
