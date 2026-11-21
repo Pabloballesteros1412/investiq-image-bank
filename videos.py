@@ -58,6 +58,41 @@ MAX_PER_AUTHOR = 2
 COMPANY_TARGET = 5               # clips per company (Pablo, 20 Nov 2026: "mete vídeos para las empresas")
 FAMOUS_TARGET = 10               # clips for the famous companies (the ones with 30 photos)
 COMPANY_SEARCHES = 8             # brand terms searched per company
+
+# Video-only searches for companies whose brand is also a common word in video tags (20 Nov 2026). Pixabay tags are
+# single words, so 'amazon' tags rainforests, 'shell' snails, 'zoom' the Moon, 'hilton' Hilton Head beaches. For a
+# company listed here these terms replace its brands.json terms (which stay the photos'), and a clip counts only if
+# its tags hold every word of one of them, or the company's full name: the bare brand word is no longer enough.
+# Each list was tried on Pixabay and Commons first (20 Nov); most find nothing yet, but they keep look-alikes out.
+VIDEO_TERMS = {
+    "AMZN": ["amazon box", "amazon package", "amazon delivery", "amazon prime", "amazon echo", "kindle"],
+    "SHEL": ["shell gas station", "shell petrol station", "shell fuel station"],
+    "ONON": ["on running shoes", "on cloud shoes"],
+    "ZM": ["zoom call", "zoom meeting", "zoom video call"],
+    "HLT": ["hilton hotel", "hilton logo"],
+    "GPC": ["napa auto parts", "napa store"],
+    "TGT": ["target store", "target logo", "target shopping cart"],
+    "F": ["ford mustang", "ford truck", "ford car", "ford bronco", "ford logo"],
+    "SONY": ["playstation", "sony camera", "sony headphones", "sony tv"],
+    "TM": ["toyota car", "toyota prius", "toyota corolla", "toyota land cruiser", "toyota logo"],
+    "NKE": ["nike shoes", "nike sneakers", "nike logo", "nike store", "air jordan"],
+    "IBM": ["ibm logo", "ibm computer", "ibm building"],
+    "GM": ["chevrolet", "chevy", "cadillac", "corvette", "camaro", "gmc truck"],
+    "AAPL": ["iphone", "macbook", "apple watch", "ipad", "airpods", "apple store", "imac"],
+    "META": ["facebook app", "instagram app", "whatsapp", "meta quest", "oculus"],
+    "GOOGL": ["google search", "google logo", "google maps", "google pixel", "android phone", "chrome browser"],
+    "TKO": ["wwe", "ufc octagon", "ufc fight"],
+    "SPCX": ["falcon 9 rocket", "spacex rocket", "spacex launch", "starship rocket", "starlink satellite"],
+    "MSFT": ["xbox", "xbox controller", "microsoft logo", "microsoft surface", "microsoft office"],
+    "DAL": ["delta airlines", "delta plane", "delta air lines"],
+    "UAL": ["united airlines"],
+    "LUV": ["southwest airlines"],
+    "NCLH": ["norwegian cruise"],
+    "STZ": ["corona beer", "corona bottle", "modelo beer"],
+    "MNST": ["monster energy drink"],
+    "YUM": ["kfc chicken", "pizza hut", "taco bell restaurant"],
+    "UBER": ["uber car", "uber eats", "uber app"],
+}
 MAX_SEARCHES = 25                # searches per subject and source
 SEARCH_ROOM = 3                  # searches with candidates beyond the target before a subject stops searching
 GAP = 0.7                        # seconds between uncached Pixabay requests (its limit: 100 a minute)
@@ -282,7 +317,10 @@ def ok(c, shot, q, grades=None, used=()):
         hay = " ".join([c["file"], " ".join(c.get("categories", []))])
         if NEWS.search(hay) or B.EVENTS.search(hay) or B.bad_name(c["file"]):
             return False
-    if shot.get("keys"):  # a company's clip must name one of its brands, its full name or its short name
+    if shot.get("terms"):  # a company with video-only terms: every word of one term, or its full name
+        return (any(B.stock_match(c, {}, t) for t in shot["terms"])
+                or any(B.has_name(B.flat(c.get("description", "")), k) for k in shot.get("keys", ())))
+    if shot.get("keys"):  # a company's clip must name one of its brands or its full name
         hay = B.flat(c.get("description", ""))
         return any(B.has_name(hay, k) for k in shot["keys"])
     return B.stock_match(c, shot, q)
@@ -388,11 +426,16 @@ def company_subjects(photos, brands, only=None):
     out = []
     for cid, e in photos.items():
         terms = brands.get(cid)
-        if e.get("kind") != "company" or not terms or (only and cid not in only):
+        if e.get("kind") != "company" or not (terms or VIDEO_TERMS.get(cid)) or (only and cid not in only):
             continue
         # not the short name: video tags are single words, and 'Arm', 'Ford' or 'Target' tag arms, rivers and archery
-        keys = B.brand_keys({"name": e["name"], "commons_category": e.get("commons_category"), "ambiguous": True}, terms)
-        shots = [{"id": B.slug(t), "q": t, "keys": keys} for t in list(dict.fromkeys(terms))[:COMPANY_SEARCHES]]
+        vt = VIDEO_TERMS.get(cid)
+        if vt:  # its brand is a common word in tags: search and match only the video-only terms (or the full name)
+            keys = [B.flat(e["name"])]
+            shots = [{"id": B.slug(t), "q": t, "terms": vt, "keys": keys} for t in vt[:COMPANY_SEARCHES]]
+        else:
+            keys = B.brand_keys({"name": e["name"], "commons_category": e.get("commons_category"), "ambiguous": True}, terms)
+            shots = [{"id": B.slug(t), "q": t, "keys": keys} for t in list(dict.fromkeys(terms))[:COMPANY_SEARCHES]]
         famous = (e.get("target") or 0) > B.TARGET
         out.append({"id": cid, "kind": "company", "name": e["name"], "sector": e.get("sector"), "shots": shots,
                     "target": FAMOUS_TARGET if famous else COMPANY_TARGET})
