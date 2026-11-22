@@ -569,6 +569,14 @@ Decisions (Pablo, 4 Nov 2026):
   Pixabay and Commons had **nothing usable for any of them**: one pick (unbranded sticky notes for 3M, graded 2). They
   are now in the video index with no clips and `fill_from` = their sector. Bank: 406 clips; all 491 companies in the
   video index, 26 with clips of their own.
+- **Second refill of the thin topics** (22 Nov): `build --redo --only` the 42 topics and sectors under 10 (it keeps the
+  published clips and searches the catalog's newer short searches too). 122 new picks graded by eye: **19 grade 3** (a
+  container ship on a river, the Great Wall, dollar bills and coins, a military pontoon crossing, the Texas capitol,
+  scientists in a lab, a cardboard press and conveyors, an assembly line, a wifi router, a Duisburg steel plant, a copper
+  mine, a cruise ship, an airport apron, a wheat field, a wind farm), 39 grade 2. Word matches again: a church for IPOs,
+  Chernobyl and windmills for nuclear, sea waves for "vault", a disco laser and a golf disc ("atom") for quantum, an
+  Indian flag and a vaccination for US politics, a guitar for EVs. Topics and sectors 353 -> **372 clips** (10 of 48 at
+  10); still thin: ev 0, quantum 2, nuclear 3, gold 4, bonds 5, cybersecurity 5. Bank: **425 clips**.
 - Next for company videos: another source with brand footage (Pexels, if it issues keys again). Pixabay and Commons
   have little more.
 
