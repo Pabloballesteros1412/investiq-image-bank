@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "Moderna Headquarters, December 2020",
@@ -95,6 +94,23 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:201228-F-KG439-1015.jpg"
+  },
+  {
+   "shows": "Moderna COVID-19 vaccine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/b/b0/20210202172736%21Moderna_COVID-19_vaccine.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/b/b0/20210202172736%21Moderna_COVID-19_vaccine.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Photographer: Airman 1st Class Anna Nolte Post-production: Zacharie Grossen, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Moderna_COVID-19_vaccine.jpg"
   },
   {
    "shows": "Moderna Headquarters",

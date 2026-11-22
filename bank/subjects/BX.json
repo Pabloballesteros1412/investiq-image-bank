@@ -99,6 +99,60 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:200_S._Wacker_West_View.jpg",
    "plain": true
+  },
+  {
+   "shows": "Willis Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Willis_Tower.jpg/1280px-Willis_Tower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Willis_Tower.jpg/500px-Willis_Tower.jpg",
+   "size": [
+    1280,
+    2033
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel Schwen, CC BY-SA 2.5, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Willis_Tower.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Chicago Sears Tower",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Chicago_Sears_Tower.jpg/1280px-Chicago_Sears_Tower.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Chicago_Sears_Tower.jpg/500px-Chicago_Sears_Tower.jpg",
+   "size": [
+    1280,
+    1968
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Chicago_Sears_Tower.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Willis Tower, Chicago September 2016-26",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Willis_Tower%2C_Chicago_September_2016-26.jpg/1280px-Willis_Tower%2C_Chicago_September_2016-26.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Willis_Tower%2C_Chicago_September_2016-26.jpg/500px-Willis_Tower%2C_Chicago_September_2016-26.jpg",
+   "size": [
+    1280,
+    1993
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Willis_Tower,_Chicago_September_2016-26.jpg",
+   "plain": true
   }
  ]
 }

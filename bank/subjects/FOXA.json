@@ -101,6 +101,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/38102495@N00/399079800",
    "plain": true
+  },
+  {
+   "shows": "Fox News 6th 48 jeh",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fox_News_6th_48_jeh.JPG/1920px-Fox_News_6th_48_jeh.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fox_News_6th_48_jeh.JPG/500px-Fox_News_6th_48_jeh.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jim.henderson, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fox_News_6th_48_jeh.JPG",
+   "plain": true
   }
  ]
 }

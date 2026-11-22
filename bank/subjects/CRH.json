@@ -10,23 +10,6 @@
  "fill_from": "sector-materials",
  "photos": [
   {
-   "shows": "Ash Grove Cement Compay Chanute, KS plant.",
-   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/1920px-ChanutePlant.jpg",
-   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/500px-ChanutePlant.jpg",
-   "size": [
-    1920,
-    1278
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Ashgrovecement, CC BY-SA 4.0, via Wikimedia Commons",
-   "licence": "CC BY-SA 4.0",
-   "provider": "commons",
-   "source": "https://commons.wikimedia.org/wiki/File:ChanutePlant.jpg"
-  },
-  {
    "shows": "Ash Grove Cement Co. · 2012, building, flare, industrial, lens",
    "url": "https://live.staticflickr.com/8176/7920047286_3a84b8a03e_b.jpg",
    "preview": "https://live.staticflickr.com/8176/7920047286_3a84b8a03e_z.jpg",
@@ -45,6 +28,23 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/30901506@N06/7920047286",
    "plain": true
+  },
+  {
+   "shows": "Ash Grove Cement Compay Chanute, KS plant.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/1920px-ChanutePlant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/500px-ChanutePlant.jpg",
+   "size": [
+    1920,
+    1278
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ashgrovecement, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:ChanutePlant.jpg"
   },
   {
    "shows": "Kies- und Betonwerk Risi (Jura, CRH)",
@@ -152,6 +152,24 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:SumtervilleFLAshGrove.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aerial view of Tilcon Connecticut quarry and Lake Gaillard, July 2019",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard%2C_July_2019.JPG/1920px-Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard%2C_July_2019.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard%2C_July_2019.JPG/500px-Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard%2C_July_2019.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard,_July_2019.JPG",
    "plain": true
   }
  ]

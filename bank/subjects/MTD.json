@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "LCBS Load-cell Based Weighing Systems 500kg triangular",
@@ -151,6 +150,42 @@
    "licence": "Public domain",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Analytical_balance_mettler_ae-260.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ca 1970 Harvard trip balance 2 kg 5 lb by Ohaus Scale Corporation USA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ca_1970_Harvard_trip_balance_2_kg_5_lb_by_Ohaus_Scale_Corporation_USA.jpg/1920px-Ca_1970_Harvard_trip_balance_2_kg_5_lb_by_Ohaus_Scale_Corporation_USA.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ca_1970_Harvard_trip_balance_2_kg_5_lb_by_Ohaus_Scale_Corporation_USA.jpg/500px-Ca_1970_Harvard_trip_balance_2_kg_5_lb_by_Ohaus_Scale_Corporation_USA.jpg",
+   "size": [
+    1920,
+    1142
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ca_1970_Harvard_trip_balance_2_kg_5_lb_by_Ohaus_Scale_Corporation_USA.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Toledo scales, North Carolina",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Toledo_scales%2C_North_Carolina.jpg/1280px-Toledo_scales%2C_North_Carolina.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Toledo_scales%2C_North_Carolina.jpg/500px-Toledo_scales%2C_North_Carolina.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jules Perry, public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Toledo_scales,_North_Carolina.jpg",
    "plain": true
   }
  ]

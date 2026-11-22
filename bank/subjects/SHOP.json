@@ -46,6 +46,24 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/29481208@N08/14097250490",
    "plain": true
+  },
+  {
+   "shows": "Performance Court at 150 Elgin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Performance_Court_at_150_Elgin.jpg/1280px-Performance_Court_at_150_Elgin.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Performance_Court_at_150_Elgin.jpg/500px-Performance_Court_at_150_Elgin.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Performance_Court_at_150_Elgin.jpg",
+   "plain": true
   }
  ]
 }
