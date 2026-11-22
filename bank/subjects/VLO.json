@@ -7,7 +7,6 @@
  ],
  "sector": "sector-energy",
  "target": 10,
- "fill_from": "sector-energy",
  "photos": [
   {
    "shows": "Valero Three Rivers Refinery Texas 2020",
@@ -64,6 +63,23 @@
    "source": "https://commons.wikimedia.org/wiki/File:Fuel_pumps_at_a_Valero_gas_station_in_Greenville,_South_Carolina_06.jpg"
   },
   {
+   "shows": "Raffinerie Jean-Gaulin - Vue aérienne 05-2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025_%282%29.jpg/1920px-Raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025_%282%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025_%282%29.jpg/500px-Raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025_%282%29.jpg",
+   "size": [
+    1920,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gabriel Picard, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025_(2).jpg"
+  },
+  {
    "shows": "Valero Oil Refinery Aruba",
    "url": "https://live.staticflickr.com/4142/4901402311_b38b775d4a_b.jpg",
    "preview": "https://live.staticflickr.com/4142/4901402311_b38b775d4a_z.jpg",
@@ -99,6 +115,78 @@
    "licence": "CC BY 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Fuel_pump_at_a_Valero_gas_station_in_Greenville,_South_Carolina_01.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Terminal maritime de la raffinerie Jean-Gaulin - Vue aérienne 05-2025",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Terminal_maritime_de_la_raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025.jpg/1920px-Terminal_maritime_de_la_raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Terminal_maritime_de_la_raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025.jpg/500px-Terminal_maritime_de_la_raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025.jpg",
+   "size": [
+    1920,
+    1279
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gabriel Picard, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Terminal_maritime_de_la_raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Raffinerie Jean-Gaulin",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Raffinerie_Jean-Gaulin.jpg/1920px-Raffinerie_Jean-Gaulin.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Raffinerie_Jean-Gaulin.jpg/500px-Raffinerie_Jean-Gaulin.jpg",
+   "size": [
+    1920,
+    891
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Gilbert Bochenek, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raffinerie_Jean-Gaulin.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Raffinerie Ultramar, entrée prinicpale",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Raffinerie_Ultramar%2C_entr%C3%A9e_prinicpale.jpg/1920px-Raffinerie_Ultramar%2C_entr%C3%A9e_prinicpale.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Raffinerie_Ultramar%2C_entr%C3%A9e_prinicpale.jpg/500px-Raffinerie_Ultramar%2C_entr%C3%A9e_prinicpale.jpg",
+   "size": [
+    1920,
+    1243
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Muriel Leclerc, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Raffinerie_Ultramar,_entr%C3%A9e_prinicpale.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Ultramar 's Jean-Gaulin Refinery in Lévis , Quebec",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ultramar1.jpg/1920px-Ultramar1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ultramar1.jpg/500px-Ultramar1.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Cephas, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Ultramar1.jpg",
    "plain": true
   }
  ]

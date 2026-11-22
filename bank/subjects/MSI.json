@@ -7,7 +7,6 @@
  ],
  "sector": "sector-tech",
  "target": 10,
- "fill_from": "sector-tech",
  "photos": [
   {
    "shows": "Motorola Solutions IL01 tower",
@@ -152,6 +151,42 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/146573429@N03/36844444356",
+   "plain": true
+  },
+  {
+   "shows": "Duke of Gloucester Street & Compromise Street MOTOROLA ALPR",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Duke_of_Gloucester_Street_%26_Compromise_Street_MOTOROLA_ALPR.jpg/1920px-Duke_of_Gloucester_Street_%26_Compromise_Street_MOTOROLA_ALPR.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Duke_of_Gloucester_Street_%26_Compromise_Street_MOTOROLA_ALPR.jpg/500px-Duke_of_Gloucester_Street_%26_Compromise_Street_MOTOROLA_ALPR.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Varpxt, CC0, via Wikimedia Commons",
+   "licence": "CC0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Duke_of_Gloucester_Street_%26_Compromise_Street_MOTOROLA_ALPR.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Motorola Talkabout T4500",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Motorola_Talkabout_T4500.jpg/1920px-Motorola_Talkabout_T4500.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Motorola_Talkabout_T4500.jpg/500px-Motorola_Talkabout_T4500.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Pravito, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Motorola_Talkabout_T4500.jpg",
    "plain": true
   }
  ]

@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Tektronix HQ in Beaverton, Oregon - Building 50",
@@ -152,6 +151,42 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Gebouw_Fluke_Nederland_-_ingang.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Tektronix TDS 1001B Oscilloscope",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tektronix_TDS_1001B_Oscilloscope.jpg/1920px-Tektronix_TDS_1001B_Oscilloscope.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tektronix_TDS_1001B_Oscilloscope.jpg/500px-Tektronix_TDS_1001B_Oscilloscope.jpg",
+   "size": [
+    1920,
+    951
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Flygklubben, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Tektronix_TDS_1001B_Oscilloscope.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Fluke A no display",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fluke_A_no_display.jpg/1280px-Fluke_A_no_display.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fluke_A_no_display.jpg/500px-Fluke_A_no_display.jpg",
+   "size": [
+    1280,
+    3059
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Christiankral, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Fluke_A_no_display.jpg",
    "plain": true
   }
  ]

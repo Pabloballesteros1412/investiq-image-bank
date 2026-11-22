@@ -480,6 +480,25 @@ Decisions (Pablo, 4 Nov 2026):
   Parliament packs abroad (Altria sells it only in the US), postcards, trade-show booths, people.
 - Bank (21 Nov): 6,955 photos; companies 4,562 (251 at target, 69 with none; famous average 26.6, 39 of 50 at 30),
   topics 1,844, sectors 549. 345 Unsplash download counts pending.
+- **More Wikidata routes, B2B Unsplash pass** (21-22 Nov), all collectors in the scratchpad, every candidate graded by eye:
+  - Unsplash brand build for 78 thin B2B companies with their new terms: not one new photo in the 68 it reached (stopped
+    at the hourly limit before VTR, VRSK, WST, WRB, WAT, WDAY, WTW, XYL, ZBRA, VRSN). Unsplash has nothing for them.
+  - Two hops through subsidiaries (`wd_owned2.py`: items a subsidiary owns or operates): 2 best (Plant Vogtle under
+    construction, a GE Evolution demonstrator for Wabtec), 20 reserve (HQ buildings for EOG and Williams, Moss Landing,
+    the AES Electric Building).
+  - HQ street address from Wikidata (P6375) searched on Commons (`grow_address.py`): 2 reserve of 43 (Apollo's "9" at 9
+    West 57th, Shopify's 150 Elgin). Commons rarely names photos by address, and Wikidata's are often stale (AIG, BMS
+    and T. Rowe Price moved).
+  - Main images (P18) of items a company or its subsidiaries own, operate or make (`wd_p18.py`, `wd_p18_cands.py`; the
+    query service now answers 429 to the shared egress, so it uses the API's `haswbstatement` search), items chosen by
+    eye: 6 best (a Taser X26, BioNTech and Moderna vials, a Dexcom G6, an FPL EVolution charger, Valero's Jean-Gaulin
+    refinery from the air), 26 reserve.
+  - Commons structured data: files that depict (P180) the company or a linked item chosen before (`grow_depicts.py`):
+    4 best of 145 (Thermo Fisher's Vilnius plant, a Tyvek-wrapped house, Georgia Power's tower, Williams Tower's
+    entrance: Williams' first photo, the tower bears its name and houses Transco), 43 reserve. Depicts tags are noisy:
+    concerts, fighters, soldiers with L3Harris kit, sponsored race cars, Zoom calls, a sex toy filed under DuPont.
+- Bank (22 Nov): 7,038 photos; companies 4,645 (263 at target, 67 with none; famous average 26.7, 39 of 50 at 30),
+  topics 1,844, sectors 549. 345 Unsplash download counts pending.
 
 ## Videos (18 Nov 2026, new)
 - Pablo: "vamos a empezar a meter videos tambien en el banco". He chose **both orientations** (vertical for Reels/

@@ -8,5 +8,60 @@
  "sector": "sector-energy",
  "target": 10,
  "fill_from": "sector-energy",
- "photos": []
+ "photos": [
+  {
+   "shows": "Heritage Plaza 01",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Heritage_Plaza_01.JPG/1920px-Heritage_Plaza_01.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Heritage_Plaza_01.JPG/500px-Heritage_Plaza_01.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Taruru ( talk ), public domain, via Wikimedia Commons",
+   "licence": "Public domain",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Heritage_Plaza_01.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Heritage Plaza Building",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Heritage_Plaza_Building.jpg/1280px-Heritage_Plaza_Building.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Heritage_Plaza_Building.jpg/500px-Heritage_Plaza_Building.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Rick Kimpel from Spring, TX, USA, CC BY-SA 2.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Heritage_Plaza_Building.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Heritage Plaza Building Houston Texas",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Heritage_Plaza_Building_Houston_Texas.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Heritage_Plaza_Building_Houston_Texas.jpg/500px-Heritage_Plaza_Building_Houston_Texas.jpg",
+   "size": [
+    1224,
+    2560
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "No machine-readable author provided. W0lfie assumed (based on copyright claims)., CC BY-SA 2.5, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Heritage_Plaza_Building_Houston_Texas.jpg",
+   "plain": true
+  }
+ ]
 }

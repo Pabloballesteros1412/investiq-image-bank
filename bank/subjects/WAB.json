@@ -7,8 +7,24 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
+  {
+   "shows": "GECX 2039, a demonstrator of the ET44AC series of locomotives, leads M337 in Berwyn, IL",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GECX_2039.jpg/1920px-GECX_2039.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GECX_2039.jpg/500px-GECX_2039.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Aquascissors, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:GECX_2039.jpg"
+  },
   {
    "shows": "Wabtec Rail · ayrshire, eastayrshire, killie, kilmarnock, adult",
    "url": "https://live.staticflickr.com/8458/8027467033_2ae797a1da_b.jpg",
@@ -167,6 +183,24 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/52670735@N06/15582407195",
+   "plain": true
+  },
+  {
+   "shows": "Westbound merchandise train on track #2 led by GE ET44AC #3622. The second unit is GE ES44DC #7589.",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/D75_9372-1_%28cropped%29.jpg/1920px-D75_9372-1_%28cropped%29.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/D75_9372-1_%28cropped%29.jpg/500px-D75_9372-1_%28cropped%29.jpg",
+   "size": [
+    1920,
+    1281
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Mark Levisay, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:D75_9372-1_(cropped).jpg",
    "plain": true
   }
  ]

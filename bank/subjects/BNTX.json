@@ -7,7 +7,6 @@
  ],
  "sector": "sector-health",
  "target": 10,
- "fill_from": "sector-health",
  "photos": [
   {
    "shows": "A vial of the COVID-19 vaccine is prepared to be administered at Walter Reed National Military Medical Center, Bethesda, Md., Dec. 21, 2020. (DOD Photo by Navy ",
@@ -25,6 +24,23 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:201221-D-WD757-1248_(50745582317)_(cropped)_(cropped).jpg"
+  },
+  {
+   "shows": "BioNTech COVID-19 Vaccine",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BioNTech_COVID-19_Vaccine.jpg/1920px-BioNTech_COVID-19_Vaccine.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BioNTech_COVID-19_Vaccine.jpg/500px-BioNTech_COVID-19_Vaccine.jpg",
+   "size": [
+    1920,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "BioNTech, CC BY-SA 3.0 de, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0 de",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BioNTech_COVID-19_Vaccine.jpg"
   },
   {
    "shows": "Mainz.BioNTechSE",
@@ -134,6 +150,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Another_Saturday,_Another_Clinic._(50985980338).jpg",
+   "plain": true
+  },
+  {
+   "shows": "COVID 19 box 2024-25",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/COVID_19_box_2024-25.jpg/1920px-COVID_19_box_2024-25.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/COVID_19_box_2024-25.jpg/500px-COVID_19_box_2024-25.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Epolk, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:COVID_19_box_2024-25.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Se inició vacunación al Personal Militar, personal que se encuentra en primera linea luchando contra el Covid-19",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Corminaty_%282021%29_B.jpg/1920px-Corminaty_%282021%29_B.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Corminaty_%282021%29_B.jpg/500px-Corminaty_%282021%29_B.jpg",
+   "size": [
+    1920,
+    1285
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ministerio de Defensa del Perú, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Corminaty_(2021)_B.jpg",
    "plain": true
   }
  ]

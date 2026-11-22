@@ -102,6 +102,42 @@
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/20534939@N00/31919953265",
    "plain": true
+  },
+  {
+   "shows": "D-BW-Tettnang - AVIRA",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-BW-Tettnang_-_AVIRA.JPG/1920px-D-BW-Tettnang_-_AVIRA.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/D-BW-Tettnang_-_AVIRA.JPG/500px-D-BW-Tettnang_-_AVIRA.JPG",
+   "size": [
+    1920,
+    1368
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "ANKAWÜ, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:D-BW-Tettnang_-_AVIRA.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Praha Nusle Pikrtova 1a",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Praha_Nusle_Pikrtova_1a.jpg/1920px-Praha_Nusle_Pikrtova_1a.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Praha_Nusle_Pikrtova_1a.jpg/500px-Praha_Nusle_Pikrtova_1a.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "JiriMatejicek, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Praha_Nusle_Pikrtova_1a.jpg",
+   "plain": true
   }
  ]
 }

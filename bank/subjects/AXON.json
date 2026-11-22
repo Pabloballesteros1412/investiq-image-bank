@@ -10,6 +10,23 @@
  "fill_from": "sector-industrials",
  "photos": [
   {
+   "shows": "Police issue X26 TASER-white",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/archive/d/d1/20241003042035%21Police_issue_X26_TASER-white.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/archive/d/d1/20241003042035%21Police_issue_X26_TASER-white.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Junglecat, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Police_issue_X26_TASER-white.jpg"
+  },
+  {
    "shows": "Taser X26 cartridge and coin",
    "url": "https://live.staticflickr.com/4117/4736544365_1c06309161_b.jpg",
    "preview": "https://live.staticflickr.com/4117/4736544365_1c06309161_z.jpg",
@@ -27,6 +44,42 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/79294591@N00/4736544365",
+   "plain": true
+  },
+  {
+   "shows": "NHP Bodycams Charging",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NHP_Bodycams_Charging.jpg/1920px-NHP_Bodycams_Charging.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/NHP_Bodycams_Charging.jpg/500px-NHP_Bodycams_Charging.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Noah Wulf, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:NHP_Bodycams_Charging.jpg",
+   "plain": true
+  },
+  {
+   "shows": "M26 Taser on Display",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/M26_Taser_on_Display.jpg/1920px-M26_Taser_on_Display.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/M26_Taser_on_Display.jpg/500px-M26_Taser_on_Display.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Noah Wulf, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:M26_Taser_on_Display.jpg",
    "plain": true
   }
  ]

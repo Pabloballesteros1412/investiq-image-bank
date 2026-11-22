@@ -50,6 +50,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## AbbVie (ABBV)
 
 - Botox injection being administered to a woman: Photo by Mina Rad on Unsplash. [qehqLHZ9toc](https://unsplash.com/photos/botox-injection-being-administered-to-a-woman-qehqLHZ9toc?utm_source=investiq_image_bank&utm_medium=referral)
+- Allergan headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Allergan headquarters.jpg](https://commons.wikimedia.org/wiki/File:Allergan_headquarters.jpg)
 
 ## Accenture (ACN)
 
@@ -132,6 +133,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - AES Corporation · aes, aescorporation, americanutilityandpowergenerationcompany, appliedenergyservices, arlington: Photo by ajay_suresh on Flickr, CC BY 2.0. [52368078840](https://www.flickr.com/photos/83136374@N05/52368078840)
 - AES Indiana Building at night: David DeHetre, CC BY 2.0, via Wikimedia Commons. [AES Indiana Building at night.jpg](https://commons.wikimedia.org/wiki/File:AES_Indiana_Building_at_night.jpg)
 - AES Corporation: ajay_suresh, CC BY 2.0, via Wikimedia Commons. [AES Corporation (52368078840).jpg](https://commons.wikimedia.org/wiki/File:AES_Corporation_(52368078840).jpg)
+- Downtown IPL Building, night: _J_D_R_, CC BY 2.0, via Wikimedia Commons. [Downtown IPL Building, night.jpg](https://commons.wikimedia.org/wiki/File:Downtown_IPL_Building,_night.jpg)
+- IPL Building at night 2009: vxla, CC BY 2.0, via Wikimedia Commons. [IPL Building at night 2009.jpg](https://commons.wikimedia.org/wiki/File:IPL_Building_at_night_2009.jpg)
+- Light Flag on the Electric Building - July 2008: Christopher Paulin, CC BY 2.0, via Wikimedia Commons. [Light Flag on the Electric Building - July 2008.jpg](https://commons.wikimedia.org/wiki/File:Light_Flag_on_the_Electric_Building_-_July_2008.jpg)
 
 ## Aflac (AFL)
 
@@ -152,6 +156,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Agilent 6538 Ultra High Definition (UHD) Accurate-Mass Q-TOF: Michael Pereckas from Milwaukee, WI, USA, CC BY 2.0, via Wikimedia Commons. [Agilent 6538 Ultra High Definition (UHD) Accurate-Mass Q-TOF.jpg](https://commons.wikimedia.org/wiki/File:Agilent_6538_Ultra_High_Definition_(UHD)_Accurate-Mass_Q-TOF.jpg)
 - Agilent Technologies showroom, Keisokuki Land (Tōyō Keisokuki) - 1-3-12 Sotokanda, 21.32.31 (by Matt Perreault): Matt Perreault, CC BY-SA 2.0, via Wikimedia Commons. [Agilent Technologies showroom, Keisokuki Land (Tōyō Keisokuki) - 1-3-12 Sotokanda, 2006-11-29 21.32.31 (by Matt Perreault).jpg](https://commons.wikimedia.org/wiki/File:Agilent_Technologies_showroom,_Keisokuki_Land_(T%C5%8Dy%C5%8D_Keisokuki)_-_1-3-12_Sotokanda,_2006-11-29_21.32.31_(by_Matt_Perreault).jpg)
 - Digital Multimeter Agilent U1272A: Medvedev, CC BY-SA 3.0, via Wikimedia Commons. [Digital Multimeter Agilent U1272A.jpg](https://commons.wikimedia.org/wiki/File:Digital_Multimeter_Agilent_U1272A.jpg)
+- BioTek MultiFlo FX Bulk Reagent Dispenser: Photocyte, CC BY-SA 4.0, via Wikimedia Commons. [BioTek MultiFlo FX Bulk Reagent Dispenser.jpg](https://commons.wikimedia.org/wiki/File:BioTek_MultiFlo_FX_Bulk_Reagent_Dispenser.jpg)
 
 ## Air Products (APD)
 
@@ -350,6 +355,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Amcor Flexibles Kreuzlingen AG: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons. [Amcor Flexibles Kreuzlingen AG.jpg](https://commons.wikimedia.org/wiki/File:Amcor_Flexibles_Kreuzlingen_AG.jpg)
 - Tor Süd Amcor Flexibles Kreuzlingen AG: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons. [Tor Süd Amcor Flexibles Kreuzlingen AG.jpg](https://commons.wikimedia.org/wiki/File:Tor_S%C3%BCd_Amcor_Flexibles_Kreuzlingen_AG.jpg)
 - Bemis Company Seattle Division building Seattle Washington: Guywelch2000, CC BY 4.0, via Wikimedia Commons. [Bemis Company Seattle Division building Seattle Washington.jpg](https://commons.wikimedia.org/wiki/File:Bemis_Company_Seattle_Division_building_Seattle_Washington.jpg)
+- Amcor Flexibles Kreuzlingen Fabrikanlagen: JoachimKohler-HB, CC BY-SA 4.0, via Wikimedia Commons. [Amcor Flexibles Kreuzlingen Fabrikanlagen.jpg](https://commons.wikimedia.org/wiki/File:Amcor_Flexibles_Kreuzlingen_Fabrikanlagen.jpg)
 
 ## Ameren (AEE)
 
@@ -467,6 +473,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Solow Building New York August 2012: King of Hearts, CC BY-SA 3.0, via Wikimedia Commons. [Solow Building New York August 2012.jpg](https://commons.wikimedia.org/wiki/File:Solow_Building_New_York_August_2012.jpg)
 - 57th St 5th 6th Avs Mid td ( ) 06 - Solow Building: Tdorante10, CC BY-SA 4.0, via Wikimedia Commons. [57th St 5th 6th Avs Mid td (2018-08-16) 06 - Solow Building.jpg](https://commons.wikimedia.org/wiki/File:57th_St_5th_6th_Avs_Mid_td_(2018-08-16)_06_-_Solow_Building.jpg)
 - Apollo Global Management: Solow Building: Szilas, CC BY-SA 4.0, via Wikimedia Commons. [2008-10-23 in Manhattan 03.jpg](https://commons.wikimedia.org/wiki/File:2008-10-23_in_Manhattan_03.jpg)
+- Manhattan - 9 West 57th Street: C.M. de Talleyrand-Périgord., CC BY-SA 4.0, via Wikimedia Commons. [Manhattan - 9 West 57th Street.JPG](https://commons.wikimedia.org/wiki/File:Manhattan_-_9_West_57th_Street.JPG)
+- Solow Building 001: Kidfly182, CC BY 4.0, via Wikimedia Commons. [Solow Building 001.jpg](https://commons.wikimedia.org/wiki/File:Solow_Building_001.jpg)
+- Solow Building green 9 2025 jeh: Jim.henderson, CC BY-SA 4.0, via Wikimedia Commons. [Solow Building green 9 2025 jeh.jpg](https://commons.wikimedia.org/wiki/File:Solow_Building_green_9_2025_jeh.jpg)
 
 ## Apple Inc. (AAPL)
 
@@ -536,6 +545,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - AcornRiscPCARM610front: Teewurzler, CC BY-SA 4.0, via Wikimedia Commons. [AcornRiscPCARM610front.jpg](https://commons.wikimedia.org/wiki/File:AcornRiscPCARM610front.jpg)
 - ARM Juno Development Platform: Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [ARMJunoDevelopmentPlatform.jpg](https://commons.wikimedia.org/wiki/File:ARMJunoDevelopmentPlatform.jpg)
 - ARM-HP-PRINTER: Socram8888, CC BY 2.0, via Wikimedia Commons. [ARM-HP-PRINTER.JPG](https://commons.wikimedia.org/wiki/File:ARM-HP-PRINTER.JPG)
+- T10 Car Bluetooth FM Transmitter - display part - board - MVSILICON AP8048A-0585: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [T10 Car Bluetooth FM Transmitter - display part - board - MVSILICON AP8048A-0585.jpg](https://commons.wikimedia.org/wiki/File:T10_Car_Bluetooth_FM_Transmitter_-_display_part_-_board_-_MVSILICON_AP8048A-0585.jpg)
 
 ## Arthur J. Gallagher & Co. (AJG)
 
@@ -627,7 +637,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Axon Enterprise (AXON)
 
+- Police issue X26 TASER-white: Junglecat, CC BY-SA 3.0, via Wikimedia Commons. [Police issue X26 TASER-white.jpg](https://commons.wikimedia.org/wiki/File:Police_issue_X26_TASER-white.jpg)
 - Taser X26 cartridge and coin: Photo by Moriartys on Flickr, CC BY 2.0. [4736544365](https://www.flickr.com/photos/79294591@N00/4736544365)
+- NHP Bodycams Charging: Noah Wulf, CC BY-SA 4.0, via Wikimedia Commons. [NHP Bodycams Charging.jpg](https://commons.wikimedia.org/wiki/File:NHP_Bodycams_Charging.jpg)
+- M26 Taser on Display: Noah Wulf, CC BY-SA 4.0, via Wikimedia Commons. [M26 Taser on Display.jpg](https://commons.wikimedia.org/wiki/File:M26_Taser_on_Display.jpg)
 
 ## Baidu (BIDU)
 
@@ -771,12 +784,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## BioNTech (BNTX)
 
 - A vial of the COVID-19 vaccine is prepared to be administered at Walter Reed National Military Medical Center, Bethesda, Md., Dec. 21, 2020. (DOD Photo by Navy : Chairman of the Joint Chiefs of Staff from Washington D.C, United States, CC BY 2.0, via Wikimedia Commons. [201221-D-WD757-1248 (50745582317) (cropped) (cropped).jpg](https://commons.wikimedia.org/wiki/File:201221-D-WD757-1248_(50745582317)_(cropped)_(cropped).jpg)
+- BioNTech COVID-19 Vaccine: BioNTech, CC BY-SA 3.0 de, via Wikimedia Commons. [BioNTech COVID-19 Vaccine.jpg](https://commons.wikimedia.org/wiki/File:BioNTech_COVID-19_Vaccine.jpg)
 - Mainz.BioNTechSE: Epizentrum, CC BY-SA 4.0, via Wikimedia Commons. [Mainz.BioNTechSE.20200731.jpg](https://commons.wikimedia.org/wiki/File:Mainz.BioNTechSE.20200731.jpg)
 - Biontech Idar-Oberstein: Tohma ( talk ), CC BY-SA 4.0, via Wikimedia Commons. [Biontech Idar-Oberstein.jpg](https://commons.wikimedia.org/wiki/File:Biontech_Idar-Oberstein.jpg)
 - Mainz im September 2025 17 27 14: Berlinschneid, CC BY-SA 4.0, via Wikimedia Commons. [Mainz im September 2025 17 27 14 922000.jpeg](https://commons.wikimedia.org/wiki/File:Mainz_im_September_2025_17_27_14_922000.jpeg)
 - Pfizer-BioNTech COVID-19 Vaccine | 210817-0004731-jikatu: Photo by jikatu on Flickr, CC BY-SA 2.0. [51386048816](https://www.flickr.com/photos/7221539@N06/51386048816)
 - Pharmacy employees prepare COVID-19 vaccination syringes for on-going vaccinations at the CW Bill Young VA Medical Center, Bay Pines VA Healthcare System, in Ba: Mark DePass, public domain, via Wikimedia Commons. [201228-O-YB478-140.jpg](https://commons.wikimedia.org/wiki/File:201228-O-YB478-140.jpg)
 - Another Saturday, Another Clinic: Phil Roeder from Des Moines, IA, USA, CC BY 2.0, via Wikimedia Commons. [Another Saturday, Another Clinic. (50985980338).jpg](https://commons.wikimedia.org/wiki/File:Another_Saturday,_Another_Clinic._(50985980338).jpg)
+- COVID 19 box 2024-25: Epolk, CC BY-SA 4.0, via Wikimedia Commons. [COVID 19 box 2024-25.jpg](https://commons.wikimedia.org/wiki/File:COVID_19_box_2024-25.jpg)
+- Se inició vacunación al Personal Militar, personal que se encuentra en primera linea luchando contra el Covid-19: Ministerio de Defensa del Perú, CC BY 2.0, via Wikimedia Commons. [Corminaty (2021) B.jpg](https://commons.wikimedia.org/wiki/File:Corminaty_(2021)_B.jpg)
 
 ## Birkenstock (BIRK)
 
@@ -814,6 +830,9 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Blackstone Inc. (Blackstone Inc.): Ajay Suresh, CC BY 4.0, via Wikimedia Commons. [Blackstone (55283755213).jpg](https://commons.wikimedia.org/wiki/File:Blackstone_(55283755213).jpg)
 - 345 Park Avenue, New York City, NY: Photo by w_lemay on Flickr, CC0. [48046353151](https://www.flickr.com/photos/59081381@N03/48046353151)
 - 200 S. Wacker West View: Mike Oropeza, CC BY-SA 3.0, via Wikimedia Commons. [200 S. Wacker West View.jpg](https://commons.wikimedia.org/wiki/File:200_S._Wacker_West_View.jpg)
+- Willis Tower: Daniel Schwen, CC BY-SA 2.5, via Wikimedia Commons. [Willis Tower.jpg](https://commons.wikimedia.org/wiki/File:Willis_Tower.jpg)
+- Chicago Sears Tower: Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons. [Chicago Sears Tower.jpg](https://commons.wikimedia.org/wiki/File:Chicago_Sears_Tower.jpg)
+- Willis Tower, Chicago September 2016-26: Alvesgaspar, CC BY-SA 4.0, via Wikimedia Commons. [Willis Tower, Chicago September 2016-26.jpg](https://commons.wikimedia.org/wiki/File:Willis_Tower,_Chicago_September_2016-26.jpg)
 
 ## Block, Inc. (XYZ)
 
@@ -823,6 +842,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - square reader · dscrx100, rx100: Photo by [cipher] on Flickr, CC BY-SA 2.0. [8944040321](https://www.flickr.com/photos/36521954194@N01/8944040321)
 - Old Square Reader, New Square Reader: Photo by stephenyeargin on Flickr, CC BY-SA 2.0. [6183843592](https://www.flickr.com/photos/56871496@N00/6183843592)
 - #square reader at the Apple store in Palo Alto: Photo by jonathanfh on Flickr, CC BY 2.0. [5886735556](https://www.flickr.com/photos/93839050@N00/5886735556)
+- Tipflation tablet 2023: InvadingInvader, CC BY-SA 4.0, via Wikimedia Commons. [Tipflation tablet 2023.jpg](https://commons.wikimedia.org/wiki/File:Tipflation_tablet_2023.jpg)
 
 ## Bloom Energy (BE)
 
@@ -1013,6 +1033,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Camden Property Trust: Greenway Plaza: Mhtribolet, CC BY 3.0, via Wikimedia Commons. [8greenwayplaza.jpg](https://commons.wikimedia.org/wiki/File:8greenwayplaza.jpg)
 - Greenway Plaza: WhisperToMe, CC0, via Wikimedia Commons. [Greenway Plaza.jpg](https://commons.wikimedia.org/wiki/File:Greenway_Plaza.jpg)
+- Greenway Plaza Skyline: WhisperToMe, public domain, via Wikimedia Commons. [GreenwayPlazaTowers.JPG](https://commons.wikimedia.org/wiki/File:GreenwayPlazaTowers.JPG)
 
 ## Cameco (CCJ)
 
@@ -1066,6 +1087,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Auflieger Kühlmaschine: selbst, public domain, via Wikimedia Commons. [Auflieger Kühlmaschine.jpg](https://commons.wikimedia.org/wiki/File:Auflieger_K%C3%BChlmaschine.jpg)
 - Carrier Air Conditioners: Photo by FanFan61618 on Flickr, CC BY-SA 2.0. [51884231416](https://www.flickr.com/photos/129344407@N05/51884231416)
 - Carrier HVAC unit: Photo by FanFan61618 on Flickr, CC BY-SA 2.0. [42278611022](https://www.flickr.com/photos/129344407@N05/42278611022)
+- CARRIER AIR CONDITIONER INDOOR UNIT: Dinkun Chen, CC BY-SA 4.0, via Wikimedia Commons. [CARRIER AIR CONDITIONER INDOOR UNIT (2).jpg](https://commons.wikimedia.org/wiki/File:CARRIER_AIR_CONDITIONER_INDOOR_UNIT_(2).jpg)
 
 ## Carvana (CVNA)
 
@@ -1517,6 +1539,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Nine Mile Point ISFSI Pad Expansion: Nuclear Regulatory Commission, public domain, via Wikimedia Commons. [Nine Mile Point ISFSI Pad Expansion.jpg](https://commons.wikimedia.org/wiki/File:Nine_Mile_Point_ISFSI_Pad_Expansion.jpg)
 - Quad Cities Nuclear Generating Station: Farragutful, CC BY-SA 4.0, via Wikimedia Commons. [Quad Cities Nuclear Generating Station.jpg](https://commons.wikimedia.org/wiki/File:Quad_Cities_Nuclear_Generating_Station.jpg)
 - Cordova Nuclear Generating Station: Ben Paulos, CC BY 2.0, via Wikimedia Commons. [Cordova Nuclear Generating Station.jpg](https://commons.wikimedia.org/wiki/File:Cordova_Nuclear_Generating_Station.jpg)
+- Clinton power station pano: Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons. [Clinton power station pano.jpg](https://commons.wikimedia.org/wiki/File:Clinton_power_station_pano.jpg)
+- Aerial photo of nuclear power plant in Limerick, Pennsylvania: Arturo Ramos, CC BY-SA 2.5, via Wikimedia Commons. [LimerickPowerPlant.JPG](https://commons.wikimedia.org/wiki/File:LimerickPowerPlant.JPG)
 
 ## Cooper Companies (The) (COO)
 
@@ -1588,14 +1612,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## CRH plc (CRH)
 
-- Ash Grove Cement Compay Chanute, KS plant.: Ashgrovecement, CC BY-SA 4.0, via Wikimedia Commons. [ChanutePlant.jpg](https://commons.wikimedia.org/wiki/File:ChanutePlant.jpg)
 - Ash Grove Cement Co. · 2012, building, flare, industrial, lens: Photo by Graf Spee on Flickr, CC BY 2.0. [7920047286](https://www.flickr.com/photos/30901506@N06/7920047286)
+- Ash Grove Cement Compay Chanute, KS plant.: Ashgrovecement, CC BY-SA 4.0, via Wikimedia Commons. [ChanutePlant.jpg](https://commons.wikimedia.org/wiki/File:ChanutePlant.jpg)
 - Kies- und Betonwerk Risi (Jura, CRH): Arkelin, CC BY 4.0, via Wikimedia Commons. [Kies- und Betonwerk Risi (Jura, CRH).jpg](https://commons.wikimedia.org/wiki/File:Kies-_und_Betonwerk_Risi_(Jura,_CRH).jpg)
 - CRH Concrete Plant, Cement mixer trucks, Dunakeszi út, 2017 Rákospalota: Globetrotter19, CC BY-SA 3.0, via Wikimedia Commons. [CRH Concrete Plant, Cement mixer trucks, Dunakeszi út, 2017 Rákospalota.jpg](https://commons.wikimedia.org/wiki/File:CRH_Concrete_Plant,_Cement_mixer_trucks,_Dunakeszi_%C3%BAt,_2017_R%C3%A1kospalota.jpg)
 - CRH Concrete Plant, silos, 2017 Rákospalota: Globetrotter19, CC BY-SA 3.0, via Wikimedia Commons. [CRH Concrete Plant, silos, 2017 Rákospalota.jpg](https://commons.wikimedia.org/wiki/File:CRH_Concrete_Plant,_silos,_2017_R%C3%A1kospalota.jpg)
 - Dalmahoy Hill and Tarmac Quarry buildings - geograph.org.uk: M J Richardson, CC BY-SA 2.0, via Wikimedia Commons. [Dalmahoy Hill and Tarmac Quarry buildings - geograph.org.uk - 2393590.jpg](https://commons.wikimedia.org/wiki/File:Dalmahoy_Hill_and_Tarmac_Quarry_buildings_-_geograph.org.uk_-_2393590.jpg)
 - Ash Grove Cement from Harbor Island 03: Photo by Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons. [Ash Grove Cement from Harbor Island 03.jpg](https://commons.wikimedia.org/wiki/File:Ash_Grove_Cement_from_Harbor_Island_03.jpg)
 - CRH plc: Ash Grove Cement: Drifty2378, CC BY-SA 4.0, via Wikimedia Commons. [SumtervilleFLAshGrove.jpg](https://commons.wikimedia.org/wiki/File:SumtervilleFLAshGrove.jpg)
+- Aerial view of Tilcon Connecticut quarry and Lake Gaillard, July 2019: Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons. [Aerial view of Tilcon Connecticut quarry and Lake Gaillard, July 2019.JPG](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Tilcon_Connecticut_quarry_and_Lake_Gaillard,_July_2019.JPG)
 
 ## CrowdStrike (CRWD)
 
@@ -1779,6 +1804,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Dexcom (DXCM)
 
 - Dexcom G7 Applicator: MolBioByte, CC BY-SA 4.0, via Wikimedia Commons. [Dexcom G7 Applicator.jpg](https://commons.wikimedia.org/wiki/File:Dexcom_G7_Applicator.jpg)
+- A dexcom g6 glucose monitor: Geo Swan from Toronto, Canada, CC0, via Wikimedia Commons. [A dexcom g6 glucose monitor (52075092685).jpg](https://commons.wikimedia.org/wiki/File:A_dexcom_g6_glucose_monitor_(52075092685).jpg)
 - Dexcom (Dexcom, Inc.): Leonard Teyssier, CC BY-SA 4.0, via Wikimedia Commons. [Dexcom HQ.jpg](https://commons.wikimedia.org/wiki/File:Dexcom_HQ.jpg)
 - A dexcom g6 glucose monitor: Photo by booledozer on Flickr, CC0. [52075092685](https://www.flickr.com/photos/55289779@N00/52075092685)
 - Dexcom G4 Continuous Glucose Monitor (CGM) receiver showing an error when it has lost the connection with the transmitter on the body.: Photo by continentcontinent.cc on Flickr, CC BY 2.0. [32599134534](https://www.flickr.com/photos/57221817@N07/32599134534)
@@ -1922,6 +1948,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## DuPont (DD)
 
+- Tyvek house: Downtowngal, CC BY-SA 4.0, via Wikimedia Commons. [Tyvek house.jpg](https://commons.wikimedia.org/wiki/File:Tyvek_house.jpg)
 - Auto EV Bharat 4.0, KTPO Exhibition and Convention Centre, Bangalore 08: Gpkp, CC BY-SA 4.0, via Wikimedia Commons. [Auto EV Bharat 4.0, KTPO Exhibition and Convention Centre, Bangalore (2025) 08.jpg](https://commons.wikimedia.org/wiki/File:Auto_EV_Bharat_4.0,_KTPO_Exhibition_and_Convention_Centre,_Bangalore_(2025)_08.jpg)
 - DuPont Finnfeeds Finland factory in Naantali harbour Finland: Kotivalo, CC BY-SA 3.0, via Wikimedia Commons. [DuPont Finnfeeds Finland factory in Naantali harbour Finland.jpg](https://commons.wikimedia.org/wiki/File:DuPont_Finnfeeds_Finland_factory_in_Naantali_harbour_Finland.jpg)
 - Auto EV Bharat 4.0, KTPO Exhibition and Convention Centre, Bangalore 119: Gpkp, CC BY-SA 4.0, via Wikimedia Commons. [Auto EV Bharat 4.0, KTPO Exhibition and Convention Centre, Bangalore (2025) 119.jpg](https://commons.wikimedia.org/wiki/File:Auto_EV_Bharat_4.0,_KTPO_Exhibition_and_Convention_Centre,_Bangalore_(2025)_119.jpg)
@@ -1930,6 +1957,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - DuPont Spruance Plant: Will Fisher, CC BY-SA 2.0, via Wikimedia Commons. [DuPont Spruance Plant.jpg](https://commons.wikimedia.org/wiki/File:DuPont_Spruance_Plant.jpg)
 - Staal van aramidevezel van het merk Kevlar: Industriemuseum Gent, CC0, via Wikimedia Commons. [Staal van aramidevezel van het merk Kevlar.jpg](https://commons.wikimedia.org/wiki/File:Staal_van_aramidevezel_van_het_merk_Kevlar.jpg)
 - Duct Tape and Kapton Tape: DMGualtieri, CC BY-SA 3.0, via Wikimedia Commons. [Duct Tape and Kapton Tape.jpg](https://commons.wikimedia.org/wiki/File:Duct_Tape_and_Kapton_Tape.jpg)
+- Tyvek Suits ( ): Jarek Tuszyński, CC BY-SA 3.0, via Wikimedia Commons. [Tyvek Suits (cropped).jpg](https://commons.wikimedia.org/wiki/File:Tyvek_Suits_(cropped).jpg)
 
 ## Eaton Corporation (ETN)
 
@@ -2006,6 +2034,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Emerson Blue Easy Reader Thermostat: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Emerson Blue Easy Reader Thermostat.jpg](https://commons.wikimedia.org/wiki/File:Emerson_Blue_Easy_Reader_Thermostat.jpg)
 - Emerson Electric Canada - Address: 306 Town Centre Blvd, Markham, ON L3R 0Y6: Raysonho @ Open Grid Scheduler / Grid Engine, CC0, via Wikimedia Commons. [EmersonElectricCanada.jpg](https://commons.wikimedia.org/wiki/File:EmersonElectricCanada.jpg)
 - Emerson 70 Series Digital Termostat: TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons. [Emerson 70 Series Digital Termostat.jpg](https://commons.wikimedia.org/wiki/File:Emerson_70_Series_Digital_Termostat.jpg)
+- Aventics Headquarter Laatzen: Marion Schumacher, CC BY-SA 3.0 de, via Wikimedia Commons. [Aventics Headquarter Laatzen.JPG](https://commons.wikimedia.org/wiki/File:Aventics_Headquarter_Laatzen.JPG)
 
 ## Entergy (ETR)
 
@@ -2019,6 +2048,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Entergy Tower Loyola Avenue: Infrogmation of New Orleans, CC BY-SA 3.0, via Wikimedia Commons. [Entergy Tower Loyola Avenue.JPG](https://commons.wikimedia.org/wiki/File:Entergy_Tower_Loyola_Avenue.JPG)
 - Look Up Fondren Entergy substation lit up: Photo by Tate Nations on Flickr, CC BY 2.0. [10987975536](https://www.flickr.com/photos/96247146@N00/10987975536)
 - Entergy Bldg (102.3 miles): Photo by bluepoint951 on Flickr, CC BY-SA 2.0. [394772205](https://www.flickr.com/photos/33494407@N00/394772205)
+
+## EOG Resources (EOG)
+
+- Heritage Plaza 01: Taruru ( talk ), public domain, via Wikimedia Commons. [Heritage Plaza 01.JPG](https://commons.wikimedia.org/wiki/File:Heritage_Plaza_01.JPG)
+- Heritage Plaza Building: Rick Kimpel from Spring, TX, USA, CC BY-SA 2.0, via Wikimedia Commons. [Heritage Plaza Building.jpg](https://commons.wikimedia.org/wiki/File:Heritage_Plaza_Building.jpg)
+- Heritage Plaza Building Houston Texas: No machine-readable author provided. W0lfie assumed (based on copyright claims)., CC BY-SA 2.5, via Wikimedia Commons. [Heritage Plaza Building Houston Texas.jpg](https://commons.wikimedia.org/wiki/File:Heritage_Plaza_Building_Houston_Texas.jpg)
 
 ## EQT Corporation (EQT)
 
@@ -2321,6 +2356,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Tektronix headquarters in 2015: Steve Morgan, CC BY-SA 3.0, via Wikimedia Commons. [Tektronix headquarters in 2015.jpg](https://commons.wikimedia.org/wiki/File:Tektronix_headquarters_in_2015.jpg)
 - Sony Tektronix 370A Programmable Curve Tracer - School Photos PCC ( 10.36.18 by djhughman): djhughman from Portland, OR, USA, CC BY 2.0, via Wikimedia Commons. [Sony Tektronix 370A Programmable Curve Tracer - School Photos PCC (2014-11-06 10.36.18 by djhughman).jpg](https://commons.wikimedia.org/wiki/File:Sony_Tektronix_370A_Programmable_Curve_Tracer_-_School_Photos_PCC_(2014-11-06_10.36.18_by_djhughman).jpg)
 - Gebouw Fluke Nederland - ingang: Alex P. Kok, CC BY-SA 4.0, via Wikimedia Commons. [Gebouw Fluke Nederland - ingang.jpg](https://commons.wikimedia.org/wiki/File:Gebouw_Fluke_Nederland_-_ingang.jpg)
+- Tektronix TDS 1001B Oscilloscope: Flygklubben, CC BY-SA 4.0, via Wikimedia Commons. [Tektronix TDS 1001B Oscilloscope.jpg](https://commons.wikimedia.org/wiki/File:Tektronix_TDS_1001B_Oscilloscope.jpg)
+- Fluke A no display: Christiankral, CC BY 4.0, via Wikimedia Commons. [Fluke A no display.jpg](https://commons.wikimedia.org/wiki/File:Fluke_A_no_display.jpg)
 
 ## Fox Corporation (FOXA)
 
@@ -2329,6 +2366,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Fox Studios: Tony Hisgett from Birmingham, UK, CC BY 2.0, via Wikimedia Commons. [Fox Studios (15238969174).jpg](https://commons.wikimedia.org/wiki/File:Fox_Studios_(15238969174).jpg)
 - The Fox Broadcasting Company 's Los Angeles studios in 2005: Fox Corporation, public domain, via Wikimedia Commons. [Foxstudios.jpg](https://commons.wikimedia.org/wiki/File:Foxstudios.jpg)
 - FOX NEWS channel (store?): Photo by jasoneppink on Flickr, CC BY 2.0. [399079800](https://www.flickr.com/photos/38102495@N00/399079800)
+- Fox News 6th 48 jeh: Jim.henderson, CC0, via Wikimedia Commons. [Fox News 6th 48 jeh.JPG](https://commons.wikimedia.org/wiki/File:Fox_News_6th_48_jeh.JPG)
 
 ## Franklin Resources (BEN)
 
@@ -2437,6 +2475,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - NortonLifeLock Office Headquarters - Tempe, Arizona: Tony Webster, CC BY 2.0, via Wikimedia Commons. [NortonLifeLock Office Headquarters - Tempe, Arizona.jpg](https://commons.wikimedia.org/wiki/File:NortonLifeLock_Office_Headquarters_-_Tempe,_Arizona.jpg)
 - Norton Antivirus 4.0 · 40, antivirus, museo, museum, norton: Photo by Luigi Rosa on Flickr, CC BY-SA 2.0. [7864654174](https://www.flickr.com/photos/30571787@N00/7864654174)
 - THE Norton AntiVirus · chm, computerhistorymuseum, mountainview, nav, nortonantivirus: Photo by Michael Dunn~! on Flickr, CC BY 2.0. [31919953265](https://www.flickr.com/photos/20534939@N00/31919953265)
+- D-BW-Tettnang - AVIRA: ANKAWÜ, CC BY-SA 3.0, via Wikimedia Commons. [D-BW-Tettnang - AVIRA.JPG](https://commons.wikimedia.org/wiki/File:D-BW-Tettnang_-_AVIRA.JPG)
+- Praha Nusle Pikrtova 1a: JiriMatejicek, CC BY-SA 3.0, via Wikimedia Commons. [Praha Nusle Pikrtova 1a.jpg](https://commons.wikimedia.org/wiki/File:Praha_Nusle_Pikrtova_1a.jpg)
 
 ## Generac (GNRC)
 
@@ -3211,6 +3251,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Aerial view of Kinder Morgan Brisbane Terminal: Derrick Coetzee ( User:Dcoetzee ), CC0, via Wikimedia Commons. [Aerial view of Kinder Morgan Brisbane Terminal.jpg](https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kinder_Morgan_Brisbane_Terminal.jpg)
 - Kinder Morgan Building, Colorado Springs: Photo by lumenwilde on Flickr, CC BY 2.0. [54557269695](https://www.flickr.com/photos/202907574@N04/54557269695)
 - Front of Kinder Morgan head office in Houston, Texas: Photo by coastprotectors on Flickr, Public Domain Mark. [41999247081](https://www.flickr.com/photos/149432924@N07/41999247081)
+- El Paso Energy Building , El Paso Corporation headquarters: WhisperToMe, public domain, via Wikimedia Commons. [ElPasoCorpHQHoustonTX.JPG](https://commons.wikimedia.org/wiki/File:ElPasoCorpHQHoustonTX.JPG)
 
 ## KKR & Co. (KKR)
 
@@ -3258,6 +3299,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - ABI Bench Test: NOAASatellites, public domain, via Wikimedia Commons. [ABI Bench Test (14520570356).jpg](https://commons.wikimedia.org/wiki/File:ABI_Bench_Test_(14520570356).jpg)
 - ABI Undergoes Vibration Testing: NOAASatellites, public domain, via Wikimedia Commons. [ABI Undergoes Vibration Testing (14402632661).jpg](https://commons.wikimedia.org/wiki/File:ABI_Undergoes_Vibration_Testing_(14402632661).jpg)
 - Engineers Load GOES-R ABI for Shipment: NOAASatellites, public domain, via Wikimedia Commons. [Engineers Load GOES-R ABI for Shipment (14404874564).jpg](https://commons.wikimedia.org/wiki/File:Engineers_Load_GOES-R_ABI_for_Shipment_(14404874564).jpg)
+- AN PEQ-15 large: United States Army | Program Executive Office Soldier, public domain, via Wikimedia Commons. [AN PEQ-15 large.jpg](https://commons.wikimedia.org/wiki/File:AN_PEQ-15_large.jpg)
 
 ## Lam Research (LRCX)
 
@@ -3284,6 +3326,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Leidos Headquarters in Reston - 2013: Jarek Tuszyński, CC BY-SA 3.0, via Wikimedia Commons. [Leidos Headquarters in Reston - 2013.JPG](https://commons.wikimedia.org/wiki/File:Leidos_Headquarters_in_Reston_-_2013.JPG)
 - Portal VACIS x-ray: Thufir, CC BY-SA 3.0, via Wikimedia Commons. [Portal VACIS x-ray.JPG](https://commons.wikimedia.org/wiki/File:Portal_VACIS_x-ray.JPG)
 - Rear Adm. Mat Winter, chief of naval research, offers remarks during a christening ceremony for Sea Hunter, an entirely new class of unmanned ocean-going vessel: Office of Naval Research from Arlington, United States, CC BY 2.0, via Wikimedia Commons. [160407-N-PO203-374 (26289990016).jpg](https://commons.wikimedia.org/wiki/File:160407-N-PO203-374_(26289990016).jpg)
+- USV Sea Hunter - RIMPAC 2022 Fleet Sails in Formation: Mass Communication Specialist 3rd Class Aleksandr Freutel, public domain, via Wikimedia Commons. [USV Sea Hunter - RIMPAC 2022 Fleet Sails in Formation.jpg](https://commons.wikimedia.org/wiki/File:USV_Sea_Hunter_-_RIMPAC_2022_Fleet_Sails_in_Formation.jpg)
 
 ## Lennar (LEN)
 
@@ -3362,6 +3405,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Shoreline Amphitheatre, MV California 01: GualdimG, CC BY-SA 4.0, via Wikimedia Commons. [Shoreline Amphitheatre, MV California 01.jpg](https://commons.wikimedia.org/wiki/File:Shoreline_Amphitheatre,_MV_California_01.jpg)
 - Shoreline Amphitheatre Mountain View Ca. - panoramio: Noah_Loverbear, CC BY-SA 3.0, via Wikimedia Commons. [Shoreline Amphitheatre Mountain View Ca. - panoramio (1).jpg](https://commons.wikimedia.org/wiki/File:Shoreline_Amphitheatre_Mountain_View_Ca._-_panoramio_(1).jpg)
 - 20-57-37 NEX-6 5142 DxO: Miguel Discart from Bruxelles, Belgique, CC BY-SA 2.0, via Wikimedia Commons. [2014-04-02 20-57-37 NEX-6 5142 DxO (13923815664).jpg](https://commons.wikimedia.org/wiki/File:2014-04-02_20-57-37_NEX-6_5142_DxO_(13923815664).jpg)
+- House of Blues Back Florida Disney: Yarkob, public domain, via Wikimedia Commons. [House of Blues Back Florida Disney.jpg](https://commons.wikimedia.org/wiki/File:House_of_Blues_Back_Florida_Disney.jpg)
 
 ## Lockheed Martin (LMT)
 
@@ -3406,6 +3450,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - New Loews Hotel · autumn, chicago, chicagoist, fall: Photo by bradhoc on Flickr, CC BY 2.0. [14919591803](https://www.flickr.com/photos/58719682@N07/14919591803)
 - Loews Hotel, Poydras Street, New Orleans August 2021: Infrogmation of New Orleans, CC BY-SA 4.0, via Wikimedia Commons. [Loews Hotel, Poydras Street, New Orleans August 2021.jpg](https://commons.wikimedia.org/wiki/File:Loews_Hotel,_Poydras_Street,_New_Orleans_August_2021.jpg)
 - New Loews Hotel: bradhoc from USA, CC BY 2.0, via Wikimedia Commons. [New Loews Hotel.jpg](https://commons.wikimedia.org/wiki/File:New_Loews_Hotel.jpg)
+- The Madison, a Loews Hotel - Washington, D.C: AgnosticPreachersKid, CC BY-SA 4.0, via Wikimedia Commons. [The Madison, a Loews Hotel - Washington, D.C..jpg](https://commons.wikimedia.org/wiki/File:The_Madison,_a_Loews_Hotel_-_Washington,_D.C..jpg)
 
 ## Lowe's (LOW)
 
@@ -3650,6 +3695,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Camioneta de mercadolibre en el centro de xalapa: Koffermejia, CC0, via Wikimedia Commons. [Camioneta de mercadolibre en el centro de xalapa.jpg](https://commons.wikimedia.org/wiki/File:Camioneta_de_mercadolibre_en_el_centro_de_xalapa.jpg)
 - Camioneta de mercadolibre en xalapa: Koffermejia, CC0, via Wikimedia Commons. [Camioneta de mercadolibre en xalapa.jpg](https://commons.wikimedia.org/wiki/File:Camioneta_de_mercadolibre_en_xalapa.jpg)
 - Camioneta mercadolibre: Koffermejia, CC BY-SA 4.0, via Wikimedia Commons. [Camioneta mercadolibre.jpg](https://commons.wikimedia.org/wiki/File:Camioneta_mercadolibre.jpg)
+- Anúncio de parceria e investimentos com o Mercado Livre: Governo do Estado de São Paulo, CC BY 2.0, via Wikimedia Commons. [Anúncio de parceria e investimentos com o Mercado Livre (51184724372).jpg](https://commons.wikimedia.org/wiki/File:An%C3%BAncio_de_parceria_e_investimentos_com_o_Mercado_Livre_(51184724372).jpg)
 
 ## Merck & Co. (MRK)
 
@@ -3662,6 +3708,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Gardasil (same as Silgard): melvil, CC BY-SA 4.0, via Wikimedia Commons. [Gardasil (same as Silgard).jpg](https://commons.wikimedia.org/wiki/File:Gardasil_(same_as_Silgard).jpg)
 - Gardasil - HPV vaccine types (6, 11, 16, 18) Gardasil® suspension for injection in a pre-filled syringe https://www.medicines.org.uk/emc/product/261/smpc: Whispyhistory, CC BY-SA 4.0, via Wikimedia Commons. [Gardasil.jpg](https://commons.wikimedia.org/wiki/File:Gardasil.jpg)
 - HPV-vaccine- Gardasil-9: Tintin0312, CC BY-SA 4.0, via Wikimedia Commons. [HPV-vaccine- Gardasil-9.jpg](https://commons.wikimedia.org/wiki/File:HPV-vaccine-_Gardasil-9.jpg)
+- Pneumovax 23 by MSD, box and one-dose vial, as sold in South Africa: Waddie96, public domain, via Wikimedia Commons. [Pneumovax 23.jpg](https://commons.wikimedia.org/wiki/File:Pneumovax_23.jpg)
 
 ## Meta Platforms (META)
 
@@ -3719,6 +3766,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Mettler Toledo UV5Nano micro-volume: Lab.uvvis, CC BY-SA 4.0, via Wikimedia Commons. [Mettler Toledo UV5Nano micro-volume.jpg](https://commons.wikimedia.org/wiki/File:Mettler_Toledo_UV5Nano_micro-volume.jpg)
 - Mettler Toledo UV7 Spectrophotometer: Lab.uvvis, CC BY-SA 4.0, via Wikimedia Commons. [Mettler Toledo UV7 Spectrophotometer.jpg](https://commons.wikimedia.org/wiki/File:Mettler_Toledo_UV7_Spectrophotometer.jpg)
 - Analytical balance mettler ae-260: US DEA, public domain, via Wikimedia Commons. [Analytical balance mettler ae-260.jpg](https://commons.wikimedia.org/wiki/File:Analytical_balance_mettler_ae-260.jpg)
+- Ca 1970 Harvard trip balance 2 kg 5 lb by Ohaus Scale Corporation USA: R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons. [Ca 1970 Harvard trip balance 2 kg 5 lb by Ohaus Scale Corporation USA.jpg](https://commons.wikimedia.org/wiki/File:Ca_1970_Harvard_trip_balance_2_kg_5_lb_by_Ohaus_Scale_Corporation_USA.jpg)
+- Toledo scales, North Carolina: Jules Perry, public domain, via Wikimedia Commons. [Toledo scales, North Carolina.jpg](https://commons.wikimedia.org/wiki/File:Toledo_scales,_North_Carolina.jpg)
 
 ## MGM Resorts (MGM)
 
@@ -3762,6 +3811,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Micron mt36asf4g72lz-2g6d1qg-side1 azonenberg mit1x: Andrew Zonenberg, CC BY-SA 4.0, via Wikimedia Commons. [Micron mt36asf4g72lz-2g6d1qg-side1 azonenberg mit1x.jpg](https://commons.wikimedia.org/wiki/File:Micron_mt36asf4g72lz-2g6d1qg-side1_azonenberg_mit1x.jpg)
 - Micron Memory Japan Hiroshima Factory 01: ノボホショコロトソ, CC BY 4.0, via Wikimedia Commons. [Micron Memory Japan Hiroshima Factory 01.jpg](https://commons.wikimedia.org/wiki/File:Micron_Memory_Japan_Hiroshima_Factory_01.jpg)
 - 3G Wi-Fi Router - board - Elpida DS2516APTA-75: Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons. [3G Wi-Fi Router - board - Elpida DS2516APTA-75-49863.jpg](https://commons.wikimedia.org/wiki/File:3G_Wi-Fi_Router_-_board_-_Elpida_DS2516APTA-75-49863.jpg)
+- Crucial 512 MB Gizmo USB 2 pen drive (c 2005) (outside): Multicherry, CC BY-SA 4.0, via Wikimedia Commons. [Crucial 512 MB Gizmo USB 2 pen drive (c 2005) (outside).jpg](https://commons.wikimedia.org/wiki/File:Crucial_512_MB_Gizmo_USB_2_pen_drive_(c_2005)_(outside).jpg)
+- Lenovo ThinkPad X220 Motherboard (FRU 04W3286) with 16GB Crucial RAM: Siarhei Besarab, CC BY-SA 4.0, via Wikimedia Commons. [Lenovo ThinkPad X220 Motherboard (FRU 04W3286) with 16GB Crucial RAM.jpg](https://commons.wikimedia.org/wiki/File:Lenovo_ThinkPad_X220_Motherboard_(FRU_04W3286)_with_16GB_Crucial_RAM.jpg)
 
 ## Microsoft (MSFT)
 
@@ -3803,6 +3854,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - A close up of a bottle of covidd: Photo by Guido Hofmann on Unsplash. [k_5wJQ-q49I](https://unsplash.com/photos/a-close-up-of-a-bottle-of-covidd-k_5wJQ-q49I?utm_source=investiq_image_bank&utm_medium=referral)
 - NYCW 2026 - Stéphane Bancel 08 ( ): Xuthoria, CC BY-SA 4.0, via Wikimedia Commons. [NYCW 2026 - Stéphane Bancel 08 (cropped).jpg](https://commons.wikimedia.org/wiki/File:NYCW_2026_-_St%C3%A9phane_Bancel_08_(cropped).jpg)
 - The Moderna COVID-19 vaccine is used for the first time at Yokota Air Base, Japan, Dec. 28, 2020. Since authorization, the Department of Defense has worked hand: Staff Sgt. Juan Torres, public domain, via Wikimedia Commons. [201228-F-KG439-1015.jpg](https://commons.wikimedia.org/wiki/File:201228-F-KG439-1015.jpg)
+- Moderna COVID-19 vaccine: Photographer: Airman 1st Class Anna Nolte Post-production: Zacharie Grossen, public domain, via Wikimedia Commons. [Moderna COVID-19 vaccine.jpg](https://commons.wikimedia.org/wiki/File:Moderna_COVID-19_vaccine.jpg)
 - Moderna Headquarters: ajay_suresh, CC BY 4.0, via Wikimedia Commons. [Moderna Headquarters (54960816438).jpg](https://commons.wikimedia.org/wiki/File:Moderna_Headquarters_(54960816438).jpg)
 - 31 FW Airmen receive second Moderna COVID-19 vaccine: U.S. Air Force photo by Airman 1st Class Brooke Keisler, public domain, via Wikimedia Commons. [31 FW Airmen receive second Moderna COVID-19 vaccine (6538676).jpg](https://commons.wikimedia.org/wiki/File:31_FW_Airmen_receive_second_Moderna_COVID-19_vaccine_(6538676).jpg)
 - The 501st Combat Support Wing administered its first shipment of COVID-19 vaccines at RAF Alconbury, England, Dec. 28, 2020. 501st CSW personnel will be priorit: Senior Airman Eugene Oliver, public domain, via Wikimedia Commons. [201228-F-VS137-1002.jpg](https://commons.wikimedia.org/wiki/File:201228-F-VS137-1002.jpg)
@@ -3869,10 +3921,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Motorola MTP850 with hamradio Codeplug: Fabian Horst, CC BY 4.0, via Wikimedia Commons. [2021-02-09 - Motorola MTP850 with hamradio Codeplug.jpg](https://commons.wikimedia.org/wiki/File:2021-02-09_-_Motorola_MTP850_with_hamradio_Codeplug.jpg)
 - Motorola Minicall Express Swedish 1990s pager: R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons. [Motorola Minicall Express Swedish 1990s pager.jpg](https://commons.wikimedia.org/wiki/File:Motorola_Minicall_Express_Swedish_1990s_pager.jpg)
 - AFAC17 Exhibitors - Motorola Solutions - 3: Photo by AFAC powered by INTERSCHUTZ on Flickr, CC BY 2.0. [36844444356](https://www.flickr.com/photos/146573429@N03/36844444356)
+- Duke of Gloucester Street & Compromise Street MOTOROLA ALPR: Varpxt, CC0, via Wikimedia Commons. [Duke of Gloucester Street & Compromise Street MOTOROLA ALPR.jpg](https://commons.wikimedia.org/wiki/File:Duke_of_Gloucester_Street_%26_Compromise_Street_MOTOROLA_ALPR.jpg)
+- Motorola Talkabout T4500: Pravito, CC BY-SA 4.0, via Wikimedia Commons. [Motorola Talkabout T4500.jpg](https://commons.wikimedia.org/wiki/File:Motorola_Talkabout_T4500.jpg)
 
 ## MSCI (MSCI)
 
 - 7 World Trade Center by David Shankbone: David Shankbone, CC BY 2.5, via Wikimedia Commons. [7 World Trade Center by David Shankbone.jpg](https://commons.wikimedia.org/wiki/File:7_World_Trade_Center_by_David_Shankbone.jpg)
+- White van parked beside brown building during daytime: Photo by Tomas Martinez on Unsplash. [VTl7o9ptwYA](https://unsplash.com/photos/white-van-parked-beside-brown-building-during-daytime-VTl7o9ptwYA?utm_source=investiq_image_bank&utm_medium=referral)
 - 7 World Trade Center from 3WTC ( ): wctaiwan, CC BY-SA 4.0, via Wikimedia Commons. [7 World Trade Center from 3WTC (cropped).jpg](https://commons.wikimedia.org/wiki/File:7_World_Trade_Center_from_3WTC_(cropped).jpg)
 - Looking northwest at newly rebuilt 7 World Trade Center. 90 Church Street Post Office on right; Verizon Building on left.: Aude, CC BY-SA 3.0, via Wikimedia Commons. [Wtc7-2006-0911.jpg](https://commons.wikimedia.org/wiki/File:Wtc7-2006-0911.jpg)
 - Lookup up at 7 World Trade Center from West Broadway: Photo by chrisinphilly5448 on Flickr, CC BY-SA 2.0. [2539249436](https://www.flickr.com/photos/21545100@N00/2539249436)
@@ -3967,12 +4022,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## NextEra Energy (NEE)
 
 - St. Lucie Nuclear Power Plant by Don Ramey Logan: Don Ramey Logan, CC BY-SA 4.0, via Wikimedia Commons. [St. Lucie Nuclear Power Plant by Don Ramey Logan.jpg](https://commons.wikimedia.org/wiki/File:St._Lucie_Nuclear_Power_Plant_by_Don_Ramey_Logan.jpg)
+- FPL EVolution: GA_Kevin, CC0, via Wikimedia Commons. [FPL EVolution - 20260212-182030.jpeg](https://commons.wikimedia.org/wiki/File:FPL_EVolution_-_20260212-182030.jpeg)
 - St. Lucie Nuclear Power Plant - view from Indian River: Pburka, CC BY-SA 4.0, via Wikimedia Commons. [St. Lucie Nuclear Power Plant - view from Indian River.jpg](https://commons.wikimedia.org/wiki/File:St._Lucie_Nuclear_Power_Plant_-_view_from_Indian_River.jpg)
 - Transition between armless and cross arm construction.: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [FP&L 22.9kV - Bunnell, FL - 25198735787.jpg](https://commons.wikimedia.org/wiki/File:FP%26L_22.9kV_-_Bunnell,_FL_-_25198735787.jpg)
 - FP&L 500kV - Flagler County, FL: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [FP&L 500kV - Flagler County, FL.jpg](https://commons.wikimedia.org/wiki/File:FP%26L_500kV_-_Flagler_County,_FL.jpg)
 - FP&L 230kV & 138kV - Volusia County, FL: Tonyglen14, CC BY 2.0, via Wikimedia Commons. [FP&L 230kV & 138kV - Volusia County, FL.jpg](https://commons.wikimedia.org/wiki/File:FP%26L_230kV_%26_138kV_-_Volusia_County,_FL.jpg)
 - Florida Power & Light, Niceville, Florida: The Bushranger, CC BY-SA 4.0, via Wikimedia Commons. [Florida Power & Light, Niceville, Florida.jpg](https://commons.wikimedia.org/wiki/File:Florida_Power_%26_Light,_Niceville,_Florida.jpg)
 - FPL Car Chargers @ West Palm Beach Service Plaza: DanTD, CC BY 4.0, via Wikimedia Commons. [FPL Car Chargers @ West Palm Beach Service Plaza.jpg](https://commons.wikimedia.org/wiki/File:FPL_Car_Chargers_@_West_Palm_Beach_Service_Plaza.jpg)
+- Seabrook Station from Powwow Hill: ThePessimus, public domain, via Wikimedia Commons. [Seabrook Station from Powwow Hill.JPG](https://commons.wikimedia.org/wiki/File:Seabrook_Station_from_Powwow_Hill.JPG)
+- HFCA 1607 Special Events And VIPS Volume 1 245.jpg (6279a32591c642848daec880492069a4): Cecil W. Stoughton, public domain, via Wikimedia Commons. [HFCA 1607 Special Events And VIPS Volume 1 245.jpg (6279a32591c642848daec880492069a4).jpg](https://commons.wikimedia.org/wiki/File:HFCA_1607_Special_Events_And_VIPS_Volume_1_245.jpg_(6279a32591c642848daec880492069a4).jpg)
 
 ## Nike, Inc. (NKE)
 
@@ -4780,6 +4838,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Rockwell Automation Headquarters: Photo by puroticorico on Flickr, CC BY-SA 2.0. [5816349438](https://www.flickr.com/photos/10058483@N00/5816349438)
 - Rockwell Automation: Rockwell Automation Headquarters: thirdsphoto, CC BY 2.0, via Wikimedia Commons. [Milwaukee, WI (53772761503).jpg](https://commons.wikimedia.org/wiki/File:Milwaukee,_WI_(53772761503).jpg)
 - 73 Allen Bradley Clock, Milwaukee, Wisconsin: David Wilson from Oak Park, Illinois, USA, CC BY 2.0, via Wikimedia Commons. [20111121 73 Allen Bradley Clock, Milwaukee, Wisconsin (6447897993).jpg](https://commons.wikimedia.org/wiki/File:20111121_73_Allen_Bradley_Clock,_Milwaukee,_Wisconsin_(6447897993).jpg)
+- Rockwell Automation Viewed From the Milwaukee River, 2006: Purple Slog from West Allis Wisconsin, USA, CC BY 2.0, via Wikimedia Commons. [Rockwell Automation Viewed From the Milwaukee River, 2006.jpg](https://commons.wikimedia.org/wiki/File:Rockwell_Automation_Viewed_From_the_Milwaukee_River,_2006.jpg)
+- World's Second Largest Four-Sided Clock - panoramio: Corey Coyle, CC BY 3.0, via Wikimedia Commons. [World's Second Largest Four-Sided Clock - panoramio.jpg](https://commons.wikimedia.org/wiki/File:World%27s_Second_Largest_Four-Sided_Clock_-_panoramio.jpg)
 
 ## Roku (ROKU)
 
@@ -4933,6 +4993,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Schlumberger (SLB)
 
+- A large factory building: Photo by Ben Wicks on Unsplash. [7z0TLY9HPp4](https://unsplash.com/photos/a-large-factory-building-7z0TLY9HPp4?utm_source=investiq_image_bank&utm_medium=referral)
 - Schlumberger Solutions Center, the headquarters of Schlumberger: WhisperToMe, public domain, via Wikimedia Commons. [SchlumbergerSolutionsCenterHoustonTX.JPG](https://commons.wikimedia.org/wiki/File:SchlumbergerSolutionsCenterHoustonTX.JPG)
 - Full moon on Schlumberger Cambridge Research at the blue hour: Valerian Guillot from Cambridge, United Kingdom, CC BY 2.0, via Wikimedia Commons. [Full moon on Schlumberger Cambridge Research at the blue hour. (47101649632).jpg](https://commons.wikimedia.org/wiki/File:Full_moon_on_Schlumberger_Cambridge_Research_at_the_blue_hour._(47101649632).jpg)
 - Schlumberger Well Surveying Corporation Building -- Houston: Jim Evans, CC BY-SA 4.0, via Wikimedia Commons. [Schlumberger Well Surveying Corporation Building -- Houston.jpg](https://commons.wikimedia.org/wiki/File:Schlumberger_Well_Surveying_Corporation_Building_--_Houston.jpg)
@@ -5007,6 +5068,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - A laptop screen displaying a website on a wooden desk in an office: Photo by hookle.app on Unsplash. [6Pa7l0unTAY](https://unsplash.com/photos/laptop-displaying-website-in-workspace-6Pa7l0unTAY?utm_source=investiq_image_bank&utm_medium=referral)
 - Shopify Booth · btconf, btconf14, capitol, du00fcsseldorf, düsseldorf: Photo by andreasdantz on Flickr, CC BY 2.0. [14097250490](https://www.flickr.com/photos/29481208@N08/14097250490)
+- Performance Court at 150 Elgin: Jeangagnon, CC BY-SA 4.0, via Wikimedia Commons. [Performance Court at 150 Elgin.jpg](https://commons.wikimedia.org/wiki/File:Performance_Court_at_150_Elgin.jpg)
 
 ## Simon Property Group (SPG)
 
@@ -5108,11 +5170,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Historic Alabama Power Company sign, Attalla, Alabama: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010640595](https://www.loc.gov/item/2010640595/)
 - Details from the Alabama Power Company building, Birmingham, Alabama: Photo: Carol M. Highsmith, Library of Congress, public domain. [2010636961](https://www.loc.gov/item/2010636961/)
 - Alabama Power building: Lahti213, CC BY-SA 4.0, via Wikimedia Commons. [Alabama Power building.jpg](https://commons.wikimedia.org/wiki/File:Alabama_Power_building.jpg)
+- Construction at Vogtle Nuclear Plant: Charles C Watson Jr, CC BY-SA 3.0, via Wikimedia Commons. [Construction at Vogtle Nuclear Plant.jpg](https://commons.wikimedia.org/wiki/File:Construction_at_Vogtle_Nuclear_Plant.jpg)
+- Southern Company: AtlChampion, CC BY-SA 4.0, via Wikimedia Commons. [AGeorgiaPowerDT2511-0868.jpg](https://commons.wikimedia.org/wiki/File:AGeorgiaPowerDT2511-0868.jpg)
 - Georgia Power Tramsformer Station: Photo by kenteegardin on Flickr, CC BY-SA 2.0. [5455825063](https://www.flickr.com/photos/26373139@N08/5455825063)
 - Georgia Power for the Assist: Photo by AuthenticEccentric on Flickr, CC BY-SA 2.0. [6100172305](https://www.flickr.com/photos/71645600@N00/6100172305)
 - Georgia Power plant · brunswick, flight, georgia, jekyll, plane: Photo by lns1122 on Flickr, CC BY 2.0. [27027207127](https://www.flickr.com/photos/57903762@N00/27027207127)
 - Georgia Power crew #2 · outdoors, vehicle: Photo by izik on Flickr, CC BY 2.0. [7518224024](https://www.flickr.com/photos/48889038283@N01/7518224024)
-- Georgia Power Savannah Squircle (30): Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0. [26435730926](https://www.flickr.com/photos/46102325@N06/26435730926)
 
 ## Southwest Airlines (LUV)
 
@@ -5423,10 +5486,12 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 ## Thermo Fisher Scientific (TMO)
 
 - Thermo Fisher Scientific Markham office - Address: 145 Renfrew Drive, Markham, ON L3R 0N9: Raysonho @ Open Grid Scheduler / Scalable Grid Engine, CC0, via Wikimedia Commons. [ThermoFisherScientific4.jpg](https://commons.wikimedia.org/wiki/File:ThermoFisherScientific4.jpg)
+- TFC by Augustas Didzgalvis: Augustas Didžgalvis, CC BY-SA 4.0, via Wikimedia Commons. [TFC by Augustas Didzgalvis.jpg](https://commons.wikimedia.org/wiki/File:TFC_by_Augustas_Didzgalvis.jpg)
 - Thermo Fisher headquarters: Coolcaesar at en.wikipedia, CC BY-SA 3.0, via Wikimedia Commons. [Thermo Fisher headquarters.jpg](https://commons.wikimedia.org/wiki/File:Thermo_Fisher_headquarters.jpg)
 - Thermo Fisher's new gene synthesis chip: Photo by jurvetson on Flickr, CC BY 2.0. [30142485817](https://www.flickr.com/photos/44124348109@N01/30142485817)
 - Thermo Fisher Scientific · 18105mm3556, 2012, bremen, deutschland, germany: Photo by larsjuh on Flickr, CC BY 2.0. [7282284120](https://www.flickr.com/photos/22528972@N05/7282284120)
 - Elemental Analyzer System: TFS.19, CC BY-SA 4.0, via Wikimedia Commons. [Elemental Analyzer System.jpg](https://commons.wikimedia.org/wiki/File:Elemental_Analyzer_System.jpg)
+- FEI Company HQ: M.O. Stevens, CC BY 3.0, via Wikimedia Commons. [FEI Company HQ.JPG](https://commons.wikimedia.org/wiki/File:FEI_Company_HQ.JPG)
 
 ## TJX Companies (TJX)
 
@@ -5510,6 +5575,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Trimble Inc. (TRMB)
 
+- A yellow surveying instrument stands outdoors: Photo by Nasim Uddin on Unsplash. [MK2ZSaI0W2k](https://unsplash.com/photos/a-yellow-surveying-instrument-stands-outdoors-MK2ZSaI0W2k?utm_source=investiq_image_bank&utm_medium=referral)
 - Tracking salmon spawning below Englebright Dam: U.S. Army Corps of Engineers Sacramento District, public domain, via Wikimedia Commons. [Tracking salmon spawning below Englebright Dam (6517185489).jpg](https://commons.wikimedia.org/wiki/File:Tracking_salmon_spawning_below_Englebright_Dam_(6517185489).jpg)
 - EXCON 2025, Bangalore International Exhibition Centre: Gpkp, CC BY-SA 4.0, via Wikimedia Commons. [EXCON 2025, Bangalore International Exhibition Centre (270).jpg](https://commons.wikimedia.org/wiki/File:EXCON_2025,_Bangalore_International_Exhibition_Centre_(270).jpg)
 - Choke ring antenna Trimble 3305 Enhancer: Nevit, CC BY-SA 3.0, via Wikimedia Commons. [Choke ring antenna Trimble 3305 Enhancer.jpg](https://commons.wikimedia.org/wiki/File:Choke_ring_antenna_Trimble_3305_Enhancer.jpg)
@@ -5662,6 +5728,10 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - 0949 Union Pacific RR, near Moab, Utah: David Wilson, CC BY 2.0, via Wikimedia Commons. [20240912 0949 Union Pacific RR, near Moab, Utah.jpg](https://commons.wikimedia.org/wiki/File:20240912_0949_Union_Pacific_RR,_near_Moab,_Utah.jpg)
 - Union Pacific Portland Service Unit headquarters, September 2019: Pi.1415926535, CC BY-SA 3.0, via Wikimedia Commons. [Union Pacific Portland Service Unit headquarters, September 2019.JPG](https://commons.wikimedia.org/wiki/File:Union_Pacific_Portland_Service_Unit_headquarters,_September_2019.JPG)
 - A Union Pacific GP15-1 idling in Denver: Davidellias, CC0, via Wikimedia Commons. [UPY 615 GP15-1.jpg](https://commons.wikimedia.org/wiki/File:UPY_615_GP15-1.jpg)
+- Harriman Dispatch Center G: WiinterU, CC0, via Wikimedia Commons. [Harriman Dispatch Center G.jpg](https://commons.wikimedia.org/wiki/File:Harriman_Dispatch_Center_G.jpg)
+- UP 3054 Leads SB Coal Drag Lenexa, KS 9-16-17: Tyler Silvest from Olathe, Kansas, CC BY 2.0, via Wikimedia Commons. [UP 3054 Leads SB Coal Drag Lenexa, KS 9-16-17 (37377300355).jpg](https://commons.wikimedia.org/wiki/File:UP_3054_Leads_SB_Coal_Drag_Lenexa,_KS_9-16-17_(37377300355).jpg)
+- Union Pacific freight train: Sergey Yarmolyuk, CC BY 4.0, via Wikimedia Commons. [Union Pacific freight train.jpg](https://commons.wikimedia.org/wiki/File:Union_Pacific_freight_train.jpg)
+- Union Pacific diesel train: TheBrick., CC BY 4.0, via Wikimedia Commons. [UnionPacific3025.jpg](https://commons.wikimedia.org/wiki/File:UnionPacific3025.jpg)
 
 ## United Airlines Holdings (UAL)
 
@@ -5737,8 +5807,13 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Valero Three Rivers Refinery Texas 2020: Larry D. Moore, CC BY 4.0, via Wikimedia Commons. [Valero Three Rivers Refinery Texas 2020.jpg](https://commons.wikimedia.org/wiki/File:Valero_Three_Rivers_Refinery_Texas_2020.jpg)
 - Valero Corner Store · antonio, convenience, corner, gas, hollywood: Photo by derrich on Flickr, CC BY 2.0. [6254251134](https://www.flickr.com/photos/39054250@N06/6254251134)
 - Fuel pumps at a Valero gas station in Greenville, South Carolina 06: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Fuel pumps at a Valero gas station in Greenville, South Carolina 06.jpg](https://commons.wikimedia.org/wiki/File:Fuel_pumps_at_a_Valero_gas_station_in_Greenville,_South_Carolina_06.jpg)
+- Raffinerie Jean-Gaulin - Vue aérienne 05-2025: Gabriel Picard, CC BY-SA 4.0, via Wikimedia Commons. [Raffinerie Jean-Gaulin - Vue aérienne 05-2025 (2).jpg](https://commons.wikimedia.org/wiki/File:Raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025_(2).jpg)
 - Valero Oil Refinery Aruba: Photo by D-Stanley on Flickr, CC BY 2.0. [4901402311](https://www.flickr.com/photos/79721788@N00/4901402311)
 - Fuel pump at a Valero gas station in Greenville, South Carolina 01: Harrison Keely, CC BY 4.0, via Wikimedia Commons. [Fuel pump at a Valero gas station in Greenville, South Carolina 01.jpg](https://commons.wikimedia.org/wiki/File:Fuel_pump_at_a_Valero_gas_station_in_Greenville,_South_Carolina_01.jpg)
+- Terminal maritime de la raffinerie Jean-Gaulin - Vue aérienne 05-2025: Gabriel Picard, CC BY-SA 4.0, via Wikimedia Commons. [Terminal maritime de la raffinerie Jean-Gaulin - Vue aérienne 05-2025.jpg](https://commons.wikimedia.org/wiki/File:Terminal_maritime_de_la_raffinerie_Jean-Gaulin_-_Vue_a%C3%A9rienne_05-2025.jpg)
+- Raffinerie Jean-Gaulin: Gilbert Bochenek, CC BY 3.0, via Wikimedia Commons. [Raffinerie Jean-Gaulin.jpg](https://commons.wikimedia.org/wiki/File:Raffinerie_Jean-Gaulin.jpg)
+- Raffinerie Ultramar, entrée prinicpale: Muriel Leclerc, CC BY-SA 3.0, via Wikimedia Commons. [Raffinerie Ultramar, entrée prinicpale.jpg](https://commons.wikimedia.org/wiki/File:Raffinerie_Ultramar,_entr%C3%A9e_prinicpale.jpg)
+- Ultramar 's Jean-Gaulin Refinery in Lévis , Quebec: Cephas, CC BY-SA 3.0, via Wikimedia Commons. [Ultramar1.jpg](https://commons.wikimedia.org/wiki/File:Ultramar1.jpg)
 
 ## Veralto (VLTO)
 
@@ -5791,6 +5866,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - 2023 Duspatalin retard 200 mg: Jacek Halicki, CC BY-SA 4.0, via Wikimedia Commons. [2023 Duspatalin retard 200 mg.jpg](https://commons.wikimedia.org/wiki/File:2023_Duspatalin_retard_200_mg.jpg)
 - Amoxiclav Sandoz Mylan: Barbirossa, CC BY-SA 3.0, via Wikimedia Commons. [Amoxiclav Sandoz Mylan.JPG](https://commons.wikimedia.org/wiki/File:Amoxiclav_Sandoz_Mylan.JPG)
 - De la theorie a la pratique: Gotgot44, CC BY-SA 4.0, via Wikimedia Commons. [De la theorie a la pratique.jpg](https://commons.wikimedia.org/wiki/File:De_la_theorie_a_la_pratique.jpg)
+- Sertraline-50mg-multilab: MChromatique, CC BY-SA 4.0, via Wikimedia Commons. [Sertraline-50mg-multilab.jpg](https://commons.wikimedia.org/wiki/File:Sertraline-50mg-multilab.jpg)
 
 ## Vici Properties (VICI)
 
@@ -5830,6 +5906,8 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 - Comanche Peak Nuclear Power Plant August 2017 ( ): Michael Barera, CC BY-SA 4.0, via Wikimedia Commons. [Comanche Peak Nuclear Power Plant August 2017 (cropped).jpg](https://commons.wikimedia.org/wiki/File:Comanche_Peak_Nuclear_Power_Plant_August_2017_(cropped).jpg)
 - Martin Lake Power Plant Tatum Texas 2019: Larry D. Moore, CC BY 4.0, via Wikimedia Commons. [Martin Lake Power Plant Tatum Texas 2019.jpg](https://commons.wikimedia.org/wiki/File:Martin_Lake_Power_Plant_Tatum_Texas_2019.jpg)
+- Elkhorn Slough 001 Moss Landing stacks: Sgerbic, CC BY-SA 4.0, via Wikimedia Commons. [Elkhorn Slough 001 Moss Landing stacks.jpg](https://commons.wikimedia.org/wiki/File:Elkhorn_Slough_001_Moss_Landing_stacks.jpg)
+- Moss Landing power plant, Aug 2019: Thomson200, CC0, via Wikimedia Commons. [Moss Landing power plant, Aug 2019.jpg](https://commons.wikimedia.org/wiki/File:Moss_Landing_power_plant,_Aug_2019.jpg)
 
 ## Vulcan Materials Company (VMC)
 
@@ -5853,6 +5931,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 
 ## Wabtec (WAB)
 
+- GECX 2039, a demonstrator of the ET44AC series of locomotives, leads M337 in Berwyn, IL: Aquascissors, CC BY-SA 4.0, via Wikimedia Commons. [GECX 2039.jpg](https://commons.wikimedia.org/wiki/File:GECX_2039.jpg)
 - Wabtec Rail · ayrshire, eastayrshire, killie, kilmarnock, adult: Photo by yellow book on Flickr, CC BY 2.0. [8027467033](https://www.flickr.com/photos/57899800@N00/8027467033)
 - Mini XC HST 43301 with MK3 coach 41035 and 43285 working 5V84 Doncaster Works Wabtec to Laira TRSMD passes Bristol Temple Meads 29/08/23: Photo by The Basingstoker on Flickr, CC BY-SA 2.0. [53150021412](https://www.flickr.com/photos/15507655@N05/53150021412)
 - 08724 Wabtec shunter seen at Doncaster: Photo by D.J.H Photography on Flickr, CC BY-SA 2.0. [25266267550](https://www.flickr.com/photos/115567987@N08/25266267550)
@@ -5861,6 +5940,7 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - img_3278 · bilevelcoach, bnsf, bnsfrailway, bombardier, cabcar: Photo by Mulad on Flickr, CC BY 2.0. [5006208238](https://www.flickr.com/photos/28496375@N00/5006208238)
 - img_3267-edit · biglake, bilevelcoach, bnsf, bnsfrailway, bombardier: Photo by Mulad on Flickr, CC BY 2.0. [5006208174](https://www.flickr.com/photos/28496375@N00/5006208174)
 - 08724 at Doncaster Works · 08, 08724, class08, diesel, don: Photo by TheJRB on Flickr, CC BY-SA 2.0. [15582407195](https://www.flickr.com/photos/52670735@N06/15582407195)
+- Westbound merchandise train on track #2 led by GE ET44AC #3622. The second unit is GE ES44DC #7589.: Mark Levisay, CC BY 2.0, via Wikimedia Commons. [D75 9372-1 (cropped).jpg](https://commons.wikimedia.org/wiki/File:D75_9372-1_(cropped).jpg)
 
 ## Walmart (WMT)
 
@@ -5994,6 +6074,15 @@ Photos from Wikimedia Commons, Unsplash and Pexels, linked from there. Credit th
 - Raymond, WA - Weyerhaeuser plant 01: Joe Mabel, CC BY-SA 3.0, via Wikimedia Commons. [Raymond, WA - Weyerhaeuser plant 01.jpg](https://commons.wikimedia.org/wiki/File:Raymond,_WA_-_Weyerhaeuser_plant_01.jpg)
 - Weyerhaeuser Tacuarembó · empresarial, forestacion, forestry, lloyd, tacuarembo: Photo by U.S. Embassy Montevideo on Flickr, Public Domain Mark. [6083653606](https://www.flickr.com/photos/41243200@N08/6083653606)
 - Weyerhaeuser in Simsboro, LA 3639: Billy Hathorn, CC BY-SA 3.0, via Wikimedia Commons. [Weyerhaeuser in Simsboro, LA IMG 3639.JPG](https://commons.wikimedia.org/wiki/File:Weyerhaeuser_in_Simsboro,_LA_IMG_3639.JPG)
+
+## Williams Companies (WMB)
+
+- Williams Tower Front: Ksaziz, CC BY-SA 4.0, via Wikimedia Commons. [Williams Tower Front.jpg](https://commons.wikimedia.org/wiki/File:Williams_Tower_Front.jpg)
+- BOK Tower 360 photo Tulsa OK 13-26-01 1: G. Edward Johnson, CC BY 4.0, via Wikimedia Commons. [BOK Tower 360 photo Tulsa OK 2025-10-23 13-26-01 1.jpg](https://commons.wikimedia.org/wiki/File:BOK_Tower_360_photo_Tulsa_OK_2025-10-23_13-26-01_1.jpg)
+- BOK Tower, Tusla Oklahoma: NevinThompson, CC BY-SA 4.0, via Wikimedia Commons. [BOK Tower, Tusla Oklahoma.jpg](https://commons.wikimedia.org/wiki/File:BOK_Tower,_Tusla_Oklahoma.jpg)
+- Williams Tower in Houston - Dec 2013: Agsftw, CC BY-SA 3.0, via Wikimedia Commons. [Williams Tower in Houston - Dec 2013.JPG](https://commons.wikimedia.org/wiki/File:Williams_Tower_in_Houston_-_Dec_2013.JPG)
+- Williams Tower1: Alex, CC BY 2.0, via Wikimedia Commons. [Williams Tower1.jpg](https://commons.wikimedia.org/wiki/File:Williams_Tower1.jpg)
+- Wiliams Tower Texans: Henry Han, CC BY-SA 3.0, via Wikimedia Commons. [Wiliams Tower Texans.jpg](https://commons.wikimedia.org/wiki/File:Wiliams_Tower_Texans.jpg)
 
 ## Williams-Sonoma, Inc. (WSM)
 

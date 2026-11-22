@@ -7,7 +7,6 @@
  ],
  "sector": "sector-industrials",
  "target": 10,
- "fill_from": "sector-industrials",
  "photos": [
   {
    "shows": "Rockwell Automation Headquarters",
@@ -154,6 +153,42 @@
    "licence": "CC BY 2.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:20111121_73_Allen_Bradley_Clock,_Milwaukee,_Wisconsin_(6447897993).jpg",
+   "plain": true
+  },
+  {
+   "shows": "Rockwell Automation Viewed From the Milwaukee River, 2006",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rockwell_Automation_Viewed_From_the_Milwaukee_River%2C_2006.jpg/1920px-Rockwell_Automation_Viewed_From_the_Milwaukee_River%2C_2006.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Rockwell_Automation_Viewed_From_the_Milwaukee_River%2C_2006.jpg/500px-Rockwell_Automation_Viewed_From_the_Milwaukee_River%2C_2006.jpg",
+   "size": [
+    1920,
+    1196
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Purple Slog from West Allis Wisconsin, USA, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Rockwell_Automation_Viewed_From_the_Milwaukee_River,_2006.jpg",
+   "plain": true
+  },
+  {
+   "shows": "World's Second Largest Four-Sided Clock - panoramio",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/World%27s_Second_Largest_Four-Sided_Clock_-_panoramio.jpg/1920px-World%27s_Second_Largest_Four-Sided_Clock_-_panoramio.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/World%27s_Second_Largest_Four-Sided_Clock_-_panoramio.jpg/500px-World%27s_Second_Largest_Four-Sided_Clock_-_panoramio.jpg",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Corey Coyle, CC BY 3.0, via Wikimedia Commons",
+   "licence": "CC BY 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:World%27s_Second_Largest_Four-Sided_Clock_-_panoramio.jpg",
    "plain": true
   }
  ]

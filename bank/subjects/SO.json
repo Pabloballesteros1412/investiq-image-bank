@@ -7,7 +7,6 @@
  ],
  "sector": "sector-utilities",
  "target": 10,
- "fill_from": "sector-utilities",
  "photos": [
   {
    "shows": "Georgia Power Sign On Transformer Station",
@@ -81,6 +80,40 @@
    "licence": "CC BY-SA 4.0",
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Alabama_Power_building.jpg"
+  },
+  {
+   "shows": "Construction at Vogtle Nuclear Plant",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Construction_at_Vogtle_Nuclear_Plant.jpg/1920px-Construction_at_Vogtle_Nuclear_Plant.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Construction_at_Vogtle_Nuclear_Plant.jpg/500px-Construction_at_Vogtle_Nuclear_Plant.jpg",
+   "size": [
+    1920,
+    1433
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Charles C Watson Jr, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Construction_at_Vogtle_Nuclear_Plant.jpg"
+  },
+  {
+   "shows": "Southern Company",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/AGeorgiaPowerDT2511-0868.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/AGeorgiaPowerDT2511-0868.jpg/500px-AGeorgiaPowerDT2511-0868.jpg",
+   "size": [
+    1100,
+    1956
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "AtlChampion, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:AGeorgiaPowerDT2511-0868.jpg"
   },
   {
    "shows": "Georgia Power Tramsformer Station",
@@ -160,26 +193,6 @@
    "low_res": true,
    "provider": "flickr",
    "source": "https://www.flickr.com/photos/48889038283@N01/7518224024",
-   "plain": true
-  },
-  {
-   "shows": "Georgia Power Savannah Squircle (30)",
-   "url": "https://live.staticflickr.com/1467/26435730926_fe679e282c_b.jpg",
-   "preview": "https://live.staticflickr.com/1467/26435730926_fe679e282c_z.jpg",
-   "size": [
-    1024,
-    1024
-   ],
-   "focus": [
-    0.5,
-    0.5
-   ],
-   "credit": "Photo by Mark Morgan Trinidad B on Flickr, CC BY 2.0",
-   "licence": "CC BY 2.0",
-   "author_url": "https://www.flickr.com/photos/46102325@N06",
-   "low_res": true,
-   "provider": "flickr",
-   "source": "https://www.flickr.com/photos/46102325@N06/26435730926",
    "plain": true
   }
  ]

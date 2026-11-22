@@ -8,5 +8,113 @@
  "sector": "sector-energy",
  "target": 10,
  "fill_from": "sector-energy",
- "photos": []
+ "photos": [
+  {
+   "shows": "Williams Tower Front",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Williams_Tower_Front.jpg/1280px-Williams_Tower_Front.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Williams_Tower_Front.jpg/500px-Williams_Tower_Front.jpg",
+   "size": [
+    1280,
+    1707
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Ksaziz, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Williams_Tower_Front.jpg"
+  },
+  {
+   "shows": "BOK Tower 360 photo Tulsa OK 13-26-01 1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/BOK_Tower_360_photo_Tulsa_OK_2025-10-23_13-26-01_1.jpg/1920px-BOK_Tower_360_photo_Tulsa_OK_2025-10-23_13-26-01_1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/BOK_Tower_360_photo_Tulsa_OK_2025-10-23_13-26-01_1.jpg/500px-BOK_Tower_360_photo_Tulsa_OK_2025-10-23_13-26-01_1.jpg",
+   "size": [
+    1920,
+    960
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "G. Edward Johnson, CC BY 4.0, via Wikimedia Commons",
+   "licence": "CC BY 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BOK_Tower_360_photo_Tulsa_OK_2025-10-23_13-26-01_1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "BOK Tower, Tusla Oklahoma",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BOK_Tower%2C_Tusla_Oklahoma.jpg/1920px-BOK_Tower%2C_Tusla_Oklahoma.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/BOK_Tower%2C_Tusla_Oklahoma.jpg/500px-BOK_Tower%2C_Tusla_Oklahoma.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "NevinThompson, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:BOK_Tower,_Tusla_Oklahoma.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Williams Tower in Houston - Dec 2013",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Williams_Tower_in_Houston_-_Dec_2013.JPG/1920px-Williams_Tower_in_Houston_-_Dec_2013.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Williams_Tower_in_Houston_-_Dec_2013.JPG/500px-Williams_Tower_in_Houston_-_Dec_2013.JPG",
+   "size": [
+    1920,
+    1275
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Agsftw, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Williams_Tower_in_Houston_-_Dec_2013.JPG",
+   "plain": true
+  },
+  {
+   "shows": "Williams Tower1",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Williams_Tower1.jpg/1920px-Williams_Tower1.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Williams_Tower1.jpg/500px-Williams_Tower1.jpg",
+   "size": [
+    1920,
+    1280
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Alex, CC BY 2.0, via Wikimedia Commons",
+   "licence": "CC BY 2.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Williams_Tower1.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Wiliams Tower Texans",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wiliams_Tower_Texans.jpg/1280px-Wiliams_Tower_Texans.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wiliams_Tower_Texans.jpg/500px-Wiliams_Tower_Texans.jpg",
+   "size": [
+    1280,
+    1920
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Henry Han, CC BY-SA 3.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 3.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Wiliams_Tower_Texans.jpg",
+   "plain": true
+  }
+ ]
 }

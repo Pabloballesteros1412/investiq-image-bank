@@ -133,6 +133,42 @@
    "provider": "commons",
    "source": "https://commons.wikimedia.org/wiki/File:Cordova_Nuclear_Generating_Station.jpg",
    "plain": true
+  },
+  {
+   "shows": "Clinton power station pano",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Clinton_power_station_pano.jpg/1920px-Clinton_power_station_pano.jpg",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Clinton_power_station_pano.jpg/500px-Clinton_power_station_pano.jpg",
+   "size": [
+    1920,
+    647
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Daniel Schwen, CC BY-SA 4.0, via Wikimedia Commons",
+   "licence": "CC BY-SA 4.0",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:Clinton_power_station_pano.jpg",
+   "plain": true
+  },
+  {
+   "shows": "Aerial photo of nuclear power plant in Limerick, Pennsylvania",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/LimerickPowerPlant.JPG/1920px-LimerickPowerPlant.JPG",
+   "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/LimerickPowerPlant.JPG/500px-LimerickPowerPlant.JPG",
+   "size": [
+    1920,
+    1440
+   ],
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "credit": "Arturo Ramos, CC BY-SA 2.5, via Wikimedia Commons",
+   "licence": "CC BY-SA 2.5",
+   "provider": "commons",
+   "source": "https://commons.wikimedia.org/wiki/File:LimerickPowerPlant.JPG",
+   "plain": true
   }
  ]
 }
