@@ -27738,80 +27738,9 @@
    "CNP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-utilities",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "I 94 - Minneapolis, MN - panoramio",
-    "file": "File:I 94 - Minneapolis, MN - panoramio (3).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:I_94_-_Minneapolis,_MN_-_panoramio_(3).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/I_94_-_Minneapolis%2C_MN_-_panoramio_%283%29.jpg/1920px-I_94_-_Minneapolis%2C_MN_-_panoramio_%283%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/I_94_-_Minneapolis%2C_MN_-_panoramio_%283%29.jpg/500px-I_94_-_Minneapolis%2C_MN_-_panoramio_%283%29.jpg",
-    "size": [
-     1920,
-     1372
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Gabriel Vanslette, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Gabriel Vanslette",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "CenterPoint Energy"
-   },
-   {
-    "shot": "c2",
-    "shows": "CenterPoint Energy Plaza damaged by Hurricane Ike",
-    "file": "File:CenterPoint Energy Plaza damaged by Hurricane Ike.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CenterPoint_Energy_Plaza_damaged_by_Hurricane_Ike.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CenterPoint_Energy_Plaza_damaged_by_Hurricane_Ike.jpg/1280px-CenterPoint_Energy_Plaza_damaged_by_Hurricane_Ike.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/CenterPoint_Energy_Plaza_damaged_by_Hurricane_Ike.jpg/500px-CenterPoint_Energy_Plaza_damaged_by_Hurricane_Ike.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Hitchster, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Hitchster",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "CenterPoint Energy Plaza"
-   },
-   {
-    "shot": "c3",
-    "shows": "Total Plaza reflecting CenterPoint Energy Plaza, damaged by Hurricane Ike",
-    "file": "File:Total Plaza reflecting CenterPoint Energy Plaza, damaged by Hurricane Ike.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Total_Plaza_reflecting_CenterPoint_Energy_Plaza,_damaged_by_Hurricane_Ike.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Total_Plaza_reflecting_CenterPoint_Energy_Plaza%2C_damaged_by_Hurricane_Ike.jpg/1280px-Total_Plaza_reflecting_CenterPoint_Energy_Plaza%2C_damaged_by_Hurricane_Ike.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Total_Plaza_reflecting_CenterPoint_Energy_Plaza%2C_damaged_by_Hurricane_Ike.jpg/500px-Total_Plaza_reflecting_CenterPoint_Energy_Plaza%2C_damaged_by_Hurricane_Ike.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Hitchster, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Hitchster",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "CenterPoint Energy Plaza"
-   },
    {
     "shot": "c4",
     "shows": "CenterPoint Energy CIMG0887",
@@ -28006,8 +27935,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "CF": {
   "name": "CF Industries",
@@ -34766,10 +34694,10 @@
    "FIX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "COP": {
   "name": "ConocoPhillips",
@@ -36642,6 +36570,7 @@
    "CSGP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -36691,8 +36620,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "COST": {
   "name": "Costco",
@@ -37710,31 +37638,9 @@
    "CRH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
-   {
-    "shot": "hand",
-    "shows": "Ash Grove Cement Compay Chanute, KS plant.",
-    "file": "File:ChanutePlant.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:ChanutePlant.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/1920px-ChanutePlant.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/500px-ChanutePlant.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ashgrovecement, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ashgrovecement",
-    "year": 2016,
-    "how": "hand-picked"
-   },
    {
     "shot": "hand",
     "shows": "Ash Grove Cement Co. · 2012, building, flare, industrial, lens",
@@ -37763,6 +37669,29 @@
     "low_res": true
    },
    {
+    "shot": "hand",
+    "shows": "Ash Grove Cement Compay Chanute, KS plant.",
+    "file": "File:ChanutePlant.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:ChanutePlant.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/1920px-ChanutePlant.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ChanutePlant.jpg/500px-ChanutePlant.jpg",
+    "size": [
+     1920,
+     1278
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Ashgrovecement, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Ashgrovecement",
+    "year": 2016,
+    "how": "hand-picked"
+   },
+   {
     "shot": "c1",
     "shows": "Kies- und Betonwerk Risi (Jura, CRH)",
     "file": "File:Kies- und Betonwerk Risi (Jura, CRH).jpg",
@@ -37772,30 +37701,6 @@
     "size": [
      1920,
      1374
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Arkelin, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Arkelin",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Cement Roadstone Holdings"
-   },
-   {
-    "shot": "c2",
-    "shows": "Risi (CRH) Kies- und Betonwerk",
-    "file": "File:Risi (CRH) Kies- und Betonwerk.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Risi_(CRH)_Kies-_und_Betonwerk.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Risi_%28CRH%29_Kies-_und_Betonwerk.jpg/1920px-Risi_%28CRH%29_Kies-_und_Betonwerk.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Risi_%28CRH%29_Kies-_und_Betonwerk.jpg/500px-Risi_%28CRH%29_Kies-_und_Betonwerk.jpg",
-    "size": [
-     1920,
-     1547
     ],
     "focus": [
      0.5,
@@ -37928,8 +37833,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "CRWD": {
   "name": "CrowdStrike",
@@ -38131,6 +38035,7 @@
    "CCI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -38157,126 +38062,6 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "Crown Castle - Boston, Massachusetts",
-    "file": "File:Crown Castle - Boston, Massachusetts - DSC08942.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Crown_Castle_-_Boston,_Massachusetts_-_DSC08942.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crown_Castle_-_Boston%2C_Massachusetts_-_DSC08942.jpg/1920px-Crown_Castle_-_Boston%2C_Massachusetts_-_DSC08942.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Crown_Castle_-_Boston%2C_Massachusetts_-_DSC08942.jpg/500px-Crown_Castle_-_Boston%2C_Massachusetts_-_DSC08942.jpg",
-    "size": [
-     1920,
-     1207
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daderot, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Daderot",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Crown Castle"
-   },
-   {
-    "shot": "c3",
-    "shows": "Crown Castle - Cambridge, MA",
-    "file": "File:Crown Castle - Cambridge, MA - DSC04732.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Crown_Castle_-_Cambridge,_MA_-_DSC04732.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Crown_Castle_-_Cambridge%2C_MA_-_DSC04732.jpg/1920px-Crown_Castle_-_Cambridge%2C_MA_-_DSC04732.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Crown_Castle_-_Cambridge%2C_MA_-_DSC04732.jpg/500px-Crown_Castle_-_Cambridge%2C_MA_-_DSC04732.jpg",
-    "size": [
-     1920,
-     1910
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daderot, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Daderot",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Crown Castle"
-   },
-   {
-    "shot": "c4",
-    "shows": "Sunesys (Crown Castle)",
-    "file": "File:Sunesys (Crown Castle) - 20200814 083127.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sunesys_(Crown_Castle)_-_20200814_083127.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sunesys_%28Crown_Castle%29_-_20200814_083127.jpg/1280px-Sunesys_%28Crown_Castle%29_-_20200814_083127.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Sunesys_%28Crown_Castle%29_-_20200814_083127.jpg/500px-Sunesys_%28Crown_Castle%29_-_20200814_083127.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daderot, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Daderot",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Crown Castle"
-   },
-   {
-    "shot": "c5",
-    "shows": "Crown Castle Fiber streethole - South Boston, Massachusetts",
-    "file": "File:Crown Castle Fiber streethole - South Boston, Massachusetts - DSC08859.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Crown_Castle_Fiber_streethole_-_South_Boston,_Massachusetts_-_DSC08859.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Crown_Castle_Fiber_streethole_-_South_Boston%2C_Massachusetts_-_DSC08859.jpg/1920px-Crown_Castle_Fiber_streethole_-_South_Boston%2C_Massachusetts_-_DSC08859.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Crown_Castle_Fiber_streethole_-_South_Boston%2C_Massachusetts_-_DSC08859.jpg/500px-Crown_Castle_Fiber_streethole_-_South_Boston%2C_Massachusetts_-_DSC08859.jpg",
-    "size": [
-     1920,
-     1279
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Daderot, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Daderot",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Crown Castle"
-   },
-   {
-    "shot": "c6",
-    "shows": "Antenna & Mobile Tower McKinney, Texas",
-    "file": "File:Antenna & Mobile Tower McKinney, Texas.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Antenna_%26_Mobile_Tower_McKinney,_Texas.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Antenna_%26_Mobile_Tower_McKinney%2C_Texas.jpg/1280px-Antenna_%26_Mobile_Tower_McKinney%2C_Texas.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Antenna_%26_Mobile_Tower_McKinney%2C_Texas.jpg/500px-Antenna_%26_Mobile_Tower_McKinney%2C_Texas.jpg",
-    "size": [
-     1280,
-     2275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ranch9613, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Ranch9613",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Crown Castle"
-   },
-   {
     "shot": "c7",
     "shows": "Cellular Tower Wilmeth Rd Mckinney, Texas - August 2026",
     "file": "File:Cellular Tower Wilmeth Rd Mckinney, Texas - August 2026.jpg",
@@ -38286,30 +38071,6 @@
     "size": [
      1280,
      2275
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ranch9613, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Ranch9613",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Crown Castle"
-   },
-   {
-    "shot": "c8",
-    "shows": "Mobile Station Crown Castle bellow attached tower at PGA Pkwy Frisco, Texas",
-    "file": "File:Mobile Station Crown Castle bellow attached tower at 11101 PGA Pkwy Frisco, Texas.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco,_Texas.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco%2C_Texas.jpg/1920px-Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco%2C_Texas.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco%2C_Texas.jpg/500px-Mobile_Station_Crown_Castle_bellow_attached_tower_at_11101_PGA_Pkwy_Frisco%2C_Texas.jpg",
-    "size": [
-     1920,
-     1080
     ],
     "focus": [
      0.5,
@@ -38376,8 +38137,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "CSX": {
   "name": "CSX Corporation",
@@ -43436,6 +43196,7 @@
    "DLR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -43612,8 +43373,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "DG": {
   "name": "Dollar General",
@@ -48197,6 +47957,7 @@
    "EMR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -48247,30 +48008,6 @@
     "category": "Emerson Electric"
    },
    {
-    "shot": "c2",
-    "shows": "Emerson Northwind table fan, c. 1915 (NMAH 1986.0981.01)",
-    "file": "File:Emerson Northwind table fan, c. 1915 (NMAH 1986.0981.01).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Emerson_Northwind_table_fan,_c._1915_(NMAH_1986.0981.01).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Emerson_Northwind_table_fan%2C_c._1915_%28NMAH_1986.0981.01%29.jpg/1920px-Emerson_Northwind_table_fan%2C_c._1915_%28NMAH_1986.0981.01%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Emerson_Northwind_table_fan%2C_c._1915_%28NMAH_1986.0981.01%29.jpg/500px-Emerson_Northwind_table_fan%2C_c._1915_%28NMAH_1986.0981.01%29.jpg",
-    "size": [
-     1920,
-     2066
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Crawdad Blues, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Crawdad Blues",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Emerson Electric"
-   },
-   {
     "shot": "c3",
     "shows": "Emerson Blue Easy Reader Thermostat",
     "file": "File:Emerson Blue Easy Reader Thermostat.jpg",
@@ -48291,30 +48028,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "TaurusEmerald",
     "year": 2026,
-    "how": "Commons category",
-    "category": "Emerson Electric"
-   },
-   {
-    "shot": "c4",
-    "shows": "Abandoned Art School 57",
-    "file": "File:Abandoned Art School 57 (6343155564).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Abandoned_Art_School_57_(6343155564).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Abandoned_Art_School_57_%286343155564%29.jpg/1280px-Abandoned_Art_School_57_%286343155564%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Abandoned_Art_School_57_%286343155564%29.jpg/500px-Abandoned_Art_School_57_%286343155564%29.jpg",
-    "size": [
-     1280,
-     1925
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Tiffany Bailey from New Orleans, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Tiffany Bailey from New Orleans, USA",
-    "year": 2011,
     "how": "Commons category",
     "category": "Emerson Electric"
    },
@@ -48343,101 +48056,6 @@
     "category": "Emerson Electric"
    },
    {
-    "shot": "c6",
-    "shows": "Air conditioner, Sofia",
-    "file": "File:Air conditioner, Sofia (P1070790).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Air_conditioner,_Sofia_(P1070790).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Air_conditioner%2C_Sofia_%28P1070790%29.jpg/1920px-Air_conditioner%2C_Sofia_%28P1070790%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Air_conditioner%2C_Sofia_%28P1070790%29.jpg/500px-Air_conditioner%2C_Sofia_%28P1070790%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Matti Blume, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Matti Blume",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Emerson Electric air conditioners"
-   },
-   {
-    "shot": "c7",
-    "shows": "Unità di refrigerazione ripetitore Badde Urbara 1",
-    "file": "File:Unità di refrigerazione ripetitore Badde Urbara 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Unit%C3%A0_di_refrigerazione_ripetitore_Badde_Urbara_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Unit%C3%A0_di_refrigerazione_ripetitore_Badde_Urbara_1.jpg/1920px-Unit%C3%A0_di_refrigerazione_ripetitore_Badde_Urbara_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Unit%C3%A0_di_refrigerazione_ripetitore_Badde_Urbara_1.jpg/500px-Unit%C3%A0_di_refrigerazione_ripetitore_Badde_Urbara_1.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Air fans, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Air fans",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Emerson Electric air conditioners"
-   },
-   {
-    "shot": "s8",
-    "shows": "Emerson Electric Company Building",
-    "file": "File:Emerson Electric Company Building.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Emerson_Electric_Company_Building.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Emerson_Electric_Company_Building.jpg/1280px-Emerson_Electric_Company_Building.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Emerson_Electric_Company_Building.jpg/500px-Emerson_Electric_Company_Building.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nyttend, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Nyttend",
-    "year": 2013,
-    "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Electric fan Emerson Junior",
-    "file": "File:Electric fan Emerson Junior.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Electric_fan_Emerson_Junior.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Electric_fan_Emerson_Junior.JPG/1280px-Electric_fan_Emerson_Junior.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Electric_fan_Emerson_Junior.JPG/500px-Electric_fan_Emerson_Junior.JPG",
-    "size": [
-     1280,
-     1521
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Infrogmation of New Orleans, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Infrogmation of New Orleans",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "Emerson Electric"
-   },
-   {
     "shot": "c10",
     "shows": "Emerson 70 Series Digital Termostat",
     "file": "File:Emerson 70 Series Digital Termostat.jpg",
@@ -48462,8 +48080,7 @@
     "category": "Emerson Electric"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "ETR": {
   "name": "Entergy",
@@ -49241,6 +48858,7 @@
    "ESS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -49267,8 +48885,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "EL": {
   "name": "Estée Lauder Companies (The)",
@@ -51751,6 +51368,7 @@
    "FFIV"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -51800,30 +51418,6 @@
     "how": "hand-picked"
    },
    {
-    "shot": "c2",
-    "shows": "F5, Inc. (F5 Networks)",
-    "file": "File:F5 spokane 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:F5_spokane_1.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/F5_spokane_1.jpg/1920px-F5_spokane_1.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/F5_spokane_1.jpg/500px-F5_spokane_1.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "אלון כהן - Alon Cohen, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "אלון כהן - Alon Cohen",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "F5 Networks"
-   },
-   {
     "shot": "c3",
     "shows": "F5, Inc. (F5 Networks)",
     "file": "File:It-sa 2017 (06) f5.jpg",
@@ -51846,54 +51440,6 @@
     "year": 2017,
     "how": "Commons category",
     "category": "F5 Networks"
-   },
-   {
-    "shot": "c4",
-    "shows": "Buiobuione Seattle Buildings 01",
-    "file": "File:Buiobuione Seattle Buildings 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Buiobuione_Seattle_Buildings_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Buiobuione_Seattle_Buildings_01.jpg/1920px-Buiobuione_Seattle_Buildings_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Buiobuione_Seattle_Buildings_01.jpg/500px-Buiobuione_Seattle_Buildings_01.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Buiobuione, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Buiobuione",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "F5 Tower"
-   },
-   {
-    "shot": "c5",
-    "shows": "Seattle - 62-68 S Washington from across Alaskan Way",
-    "file": "File:Seattle - 62-68 S Washington from across Alaskan Way.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Seattle_-_62-68_S_Washington_from_across_Alaskan_Way.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Seattle_-_62-68_S_Washington_from_across_Alaskan_Way.jpg/1920px-Seattle_-_62-68_S_Washington_from_across_Alaskan_Way.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Seattle_-_62-68_S_Washington_from_across_Alaskan_Way.jpg/500px-Seattle_-_62-68_S_Washington_from_across_Alaskan_Way.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Joe Mabel, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Joe Mabel",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "F5 Tower"
    },
    {
     "shot": "hand",
@@ -51965,8 +51511,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "FDS": {
   "name": "FactSet",
@@ -54946,6 +54491,7 @@
    "FLEX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -54997,30 +54543,6 @@
     "category": "Flextronics"
    },
    {
-    "shot": "c3",
-    "shows": "Flex Electronics Suzhou",
-    "file": "File:Flex Electronics Suzhou-20241130.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Flex_Electronics_Suzhou-20241130.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flex_Electronics_Suzhou-20241130.jpg/1920px-Flex_Electronics_Suzhou-20241130.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flex_Electronics_Suzhou-20241130.jpg/500px-Flex_Electronics_Suzhou-20241130.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Shwangtianyuan, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Shwangtianyuan",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Flextronics"
-   },
-   {
     "shot": "c4",
     "shows": "Flex US Headquarters San Jose",
     "file": "File:Flex US Headquarters San Jose.jpg",
@@ -55045,6 +54567,30 @@
     "category": "Flextronics"
    },
    {
+    "shot": "c3",
+    "shows": "Flex Electronics Suzhou",
+    "file": "File:Flex Electronics Suzhou-20241130.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Flex_Electronics_Suzhou-20241130.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flex_Electronics_Suzhou-20241130.jpg/1920px-Flex_Electronics_Suzhou-20241130.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flex_Electronics_Suzhou-20241130.jpg/500px-Flex_Electronics_Suzhou-20241130.jpg",
+    "size": [
+     1920,
+     1440
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Shwangtianyuan, CC BY-SA 4.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 4.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "author": "Shwangtianyuan",
+    "year": 2024,
+    "how": "Commons category",
+    "category": "Flextronics"
+   },
+   {
     "shot": "c5",
     "shows": "Flex Bld. 5, 847 Gibralter Dr., Milpitas CA",
     "file": "File:Flex Bld. 5, 847 Gibralter Dr., Milpitas CA 95035.jpg",
@@ -55064,102 +54610,6 @@
     "licence_kind": "by-sa",
     "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "author": "Chipermc",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Flextronics"
-   },
-   {
-    "shot": "c6",
-    "shows": "Israel CIC Opening Event3",
-    "file": "File:Israel CIC Opening Event3 (370961).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Israel_CIC_Opening_Event3_(370961).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Israel_CIC_Opening_Event3_%28370961%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Israel_CIC_Opening_Event3_%28370961%29.jpg/500px-Israel_CIC_Opening_Event3_%28370961%29.jpg",
-    "size": [
-     1732,
-     1155
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Flextronics, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Flextronics",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Flextronics"
-   },
-   {
-    "shot": "c7",
-    "shows": "Lawrence A. Zimmerman",
-    "file": "File:Lawrence A. Zimmerman.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Lawrence_A._Zimmerman.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lawrence_A._Zimmerman.jpg/1280px-Lawrence_A._Zimmerman.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Lawrence_A._Zimmerman.jpg/500px-Lawrence_A._Zimmerman.jpg",
-    "size": [
-     1280,
-     1792
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ross Wilkers, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Ross Wilkers",
-    "year": 2002,
-    "how": "Commons category",
-    "category": "Flextronics"
-   },
-   {
-    "shot": "c8",
-    "shows": "Budapest-Ujhegy Flextronics Kft 7921",
-    "file": "File:Budapest-Ujhegy Flextronics Kft IMG 7921.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Budapest-Ujhegy_Flextronics_Kft_IMG_7921.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Budapest-Ujhegy_Flextronics_Kft_IMG_7921.JPG/1920px-Budapest-Ujhegy_Flextronics_Kft_IMG_7921.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Budapest-Ujhegy_Flextronics_Kft_IMG_7921.JPG/500px-Budapest-Ujhegy_Flextronics_Kft_IMG_7921.JPG",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Bjoertvedt, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Bjoertvedt",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "Flextronics"
-   },
-   {
-    "shot": "c9",
-    "shows": "Plug-in power adapter USB for Apple, Model A1300, by Flextronics-0812",
-    "file": "File:Plug-in power adapter USB for Apple, Model A1300, by Flextronics-0812.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Plug-in_power_adapter_USB_for_Apple,_Model_A1300,_by_Flextronics-0812.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Plug-in_power_adapter_USB_for_Apple%2C_Model_A1300%2C_by_Flextronics-0812.jpg/1920px-Plug-in_power_adapter_USB_for_Apple%2C_Model_A1300%2C_by_Flextronics-0812.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Plug-in_power_adapter_USB_for_Apple%2C_Model_A1300%2C_by_Flextronics-0812.jpg/500px-Plug-in_power_adapter_USB_for_Apple%2C_Model_A1300%2C_by_Flextronics-0812.jpg",
-    "size": [
-     1920,
-     1080
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
     "year": 2016,
     "how": "Commons category",
     "category": "Flextronics"
@@ -55238,8 +54688,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "F": {
   "name": "Ford Motor Company",
@@ -57192,6 +56641,7 @@
    "IT"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -57218,53 +56668,6 @@
     "how": "Wikidata main image"
    },
    {
-    "shot": "c2",
-    "shows": "Gartner Benjamin Arnulf Data and Analytics Summit",
-    "file": "File:Gartner Benjamin Arnulf Data and Analytics Summit.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Gartner_Benjamin_Arnulf_Data_and_Analytics_Summit.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Gartner_Benjamin_Arnulf_Data_and_Analytics_Summit.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gartner_Benjamin_Arnulf_Data_and_Analytics_Summit.jpg/500px-Gartner_Benjamin_Arnulf_Data_and_Analytics_Summit.jpg",
-    "size": [
-     1832,
-     1031
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "GeneralAB13, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "GeneralAB13",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Gartner"
-   },
-   {
-    "shot": "s3",
-    "shows": "Hillside at the Gartner Site",
-    "file": "File:Hillside at the Gartner Site.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hillside_at_the_Gartner_Site.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hillside_at_the_Gartner_Site.jpg/1920px-Hillside_at_the_Gartner_Site.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hillside_at_the_Gartner_Site.jpg/500px-Hillside_at_the_Gartner_Site.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nyttend, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Nyttend",
-    "year": 2010,
-    "how": "Commons search"
-   },
-   {
     "shot": "hand",
     "shows": "Gartner headquarters",
     "file": "File:Gartner headquarters.jpg",
@@ -57288,8 +56691,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "GE": {
   "name": "GE Aerospace",
@@ -62084,80 +61486,9 @@
    "HIG"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Hartford Plaza 2",
-    "file": "File:Hartford Plaza 2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hartford_Plaza_2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hartford_Plaza_2.jpg/1280px-Hartford_Plaza_2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hartford_Plaza_2.jpg/500px-Hartford_Plaza_2.jpg",
-    "size": [
-     1280,
-     2102
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wobbanight, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "Wobbanight",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "The Hartford"
-   },
-   {
-    "shot": "c2",
-    "shows": "Hartford Fire Insurance Company's home office LCCN2003674240",
-    "file": "File:Hartford Fire Insurance Company's home office LCCN2003674240.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hartford_Fire_Insurance_Company%27s_home_office_LCCN2003674240.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hartford_Fire_Insurance_Company%27s_home_office_LCCN2003674240.jpg/1920px-Hartford_Fire_Insurance_Company%27s_home_office_LCCN2003674240.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hartford_Fire_Insurance_Company%27s_home_office_LCCN2003674240.jpg/500px-Hartford_Fire_Insurance_Company%27s_home_office_LCCN2003674240.jpg",
-    "size": [
-     1920,
-     1343
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Popular Graphic Arts, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Popular Graphic Arts",
-    "year": null,
-    "how": "Commons category",
-    "category": "The Hartford"
-   },
-   {
-    "shot": "c3",
-    "shows": "The Hartford (May, 1875 calendar postcard)",
-    "file": "File:The Hartford (May, 1875 calendar postcard) (14222377016).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Hartford_(May,_1875_calendar_postcard)_(14222377016).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Hartford_%28May%2C_1875_calendar_postcard%29_%2814222377016%29.jpg/1920px-The_Hartford_%28May%2C_1875_calendar_postcard%29_%2814222377016%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/The_Hartford_%28May%2C_1875_calendar_postcard%29_%2814222377016%29.jpg/500px-The_Hartford_%28May%2C_1875_calendar_postcard%29_%2814222377016%29.jpg",
-    "size": [
-     1920,
-     1305
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "UBC Library Digitization Centre, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "UBC Library Digitization Centre",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "The Hartford"
-   },
    {
     "shot": "c4",
     "shows": "The Hartford Fire Insurance Company Building",
@@ -62179,6 +61510,30 @@
     "licence_url": "https://creativecommons.org/licenses/by/4.0",
     "author": "ajay_suresh",
     "year": 2026,
+    "how": "Commons category",
+    "category": "The Hartford"
+   },
+   {
+    "shot": "c1",
+    "shows": "Hartford Plaza 2",
+    "file": "File:Hartford Plaza 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hartford_Plaza_2.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hartford_Plaza_2.jpg/1280px-Hartford_Plaza_2.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hartford_Plaza_2.jpg/500px-Hartford_Plaza_2.jpg",
+    "size": [
+     1280,
+     2102
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Wobbanight, CC0, via Wikimedia Commons",
+    "licence": "CC0",
+    "licence_kind": "cc0",
+    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "Wobbanight",
+    "year": 2025,
     "how": "Commons category",
     "category": "The Hartford"
    },
@@ -62253,8 +61608,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "HAS": {
   "name": "Hasbro",
@@ -63062,10 +62416,10 @@
    "DOC"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "HSIC": {
   "name": "Henry Schein",
@@ -68863,6 +68217,7 @@
    "IDXX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -68890,8 +68245,7 @@
     "category": "Idexx Laboratories"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "ITW": {
   "name": "Illinois Tool Works",
@@ -68900,32 +68254,9 @@
    "ITW"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "1990s Soder Wick Rosin SD desoldering braid size 4 by Chemtronics ITW Contamination Control Electronics Kennesaw Georgia USA",
-    "file": "File:1990s Soder Wick Rosin SD desoldering braid size 4 by Chemtronics ITW Contamination Control Electronics Kennesaw Georgia USA.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:1990s_Soder_Wick_Rosin_SD_desoldering_braid_size_4_by_Chemtronics_ITW_Contamination_Control_Electronics_Kennesaw_Georgia_USA.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/1990s_Soder_Wick_Rosin_SD_desoldering_braid_size_4_by_Chemtronics_ITW_Contamination_Control_Electronics_Kennesaw_Georgia_USA.jpg/1920px-1990s_Soder_Wick_Rosin_SD_desoldering_braid_size_4_by_Chemtronics_ITW_Contamination_Control_Electronics_Kennesaw_Georgia_USA.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/1990s_Soder_Wick_Rosin_SD_desoldering_braid_size_4_by_Chemtronics_ITW_Contamination_Control_Electronics_Kennesaw_Georgia_USA.jpg/500px-1990s_Soder_Wick_Rosin_SD_desoldering_braid_size_4_by_Chemtronics_ITW_Contamination_Control_Electronics_Kennesaw_Georgia_USA.jpg",
-    "size": [
-     1920,
-     1935
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "R. Henrik Nilsson",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Illinois Tool Works"
-   },
    {
     "shot": "c2",
     "shows": "Bournemouth , ITW Finishing UK - geograph.org.uk",
@@ -68947,30 +68278,6 @@
     "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
     "author": "Lewis Clarke",
     "year": 2010,
-    "how": "Commons category",
-    "category": "Illinois Tool Works"
-   },
-   {
-    "shot": "c3",
-    "shows": "1990s Haubold ITW Construction SKN 12-40 C NK 18 gauge brad nails",
-    "file": "File:1990s Haubold ITW Construction SKN 12-40 C NK 18 gauge brad nails.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:1990s_Haubold_ITW_Construction_SKN_12-40_C_NK_18_gauge_brad_nails.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/1990s_Haubold_ITW_Construction_SKN_12-40_C_NK_18_gauge_brad_nails.jpg/1920px-1990s_Haubold_ITW_Construction_SKN_12-40_C_NK_18_gauge_brad_nails.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/1990s_Haubold_ITW_Construction_SKN_12-40_C_NK_18_gauge_brad_nails.jpg/500px-1990s_Haubold_ITW_Construction_SKN_12-40_C_NK_18_gauge_brad_nails.jpg",
-    "size": [
-     1920,
-     965
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "R. Henrik Nilsson, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "R. Henrik Nilsson",
-    "year": 2026,
     "how": "Commons category",
     "category": "Illinois Tool Works"
    },
@@ -69076,8 +68383,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "ILMN": {
   "name": "Illumina, Inc.",
@@ -71436,6 +70742,7 @@
    "IFF"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
    {
@@ -71486,8 +70793,7 @@
     "category": "International Flavors & Fragrances"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "IP": {
   "name": "International Paper",
@@ -72150,6 +71456,7 @@
    "IVZ"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -72227,8 +71534,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "INVH": {
   "name": "Invitation Homes",
@@ -72321,6 +71627,7 @@
    "IRM"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -72520,8 +71827,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "JBHT": {
   "name": "J.B. Hunt",
@@ -73023,6 +72329,7 @@
    "JKHY"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -73053,8 +72360,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "J": {
   "name": "Jacobs Solutions",
@@ -76591,6 +75897,7 @@
    "KEYS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -76640,30 +75947,6 @@
     "year": 2022,
     "how": "Commons category",
     "category": "Keysight products"
-   },
-   {
-    "shot": "c3",
-    "shows": "Digital oscilloscope in use",
-    "file": "File:Digital oscilloscope in use.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Digital_oscilloscope_in_use.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Digital_oscilloscope_in_use.jpg/1920px-Digital_oscilloscope_in_use.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Digital_oscilloscope_in_use.jpg/500px-Digital_oscilloscope_in_use.jpg",
-    "size": [
-     1920,
-     2212
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Radarvector, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Radarvector",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "Keysight digital multimeters"
    },
    {
     "shot": "c4",
@@ -76817,8 +76100,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "KMB": {
   "name": "Kimberly-Clark",
@@ -77125,6 +76407,7 @@
    "KIM"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -77197,8 +76480,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "KMI": {
   "name": "Kinder Morgan",
@@ -77369,6 +76651,7 @@
    "KKR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -77446,8 +76729,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "KLAC": {
   "name": "KLA Corporation",
