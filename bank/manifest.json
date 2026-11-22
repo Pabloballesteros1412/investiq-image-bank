@@ -397,6 +397,7 @@
    "AOS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -451,30 +452,6 @@
     ]
    },
    {
-    "shot": "c3",
-    "shows": "Grave of Arthur Oliver Smith (1859–1913) at Forest Home Cemetery, Milwaukee",
-    "file": "File:Grave of Arthur Oliver Smith (1859–1913) at Forest Home Cemetery, Milwaukee.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Grave_of_Arthur_Oliver_Smith_(1859%E2%80%931913)_at_Forest_Home_Cemetery,_Milwaukee.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Grave_of_Arthur_Oliver_Smith_%281859%E2%80%931913%29_at_Forest_Home_Cemetery%2C_Milwaukee.jpg/1920px-Grave_of_Arthur_Oliver_Smith_%281859%E2%80%931913%29_at_Forest_Home_Cemetery%2C_Milwaukee.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Grave_of_Arthur_Oliver_Smith_%281859%E2%80%931913%29_at_Forest_Home_Cemetery%2C_Milwaukee.jpg/500px-Grave_of_Arthur_Oliver_Smith_%281859%E2%80%931913%29_at_Forest_Home_Cemetery%2C_Milwaukee.jpg",
-    "size": [
-     1920,
-     907
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Nick Number, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Nick Number",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "A. O. Smith Corporation"
-   },
-   {
     "shot": "c4",
     "shows": "Bedrijfspand A.O. Smith Veldhoven",
     "file": "File:Bedrijfspand A.O. Smith Veldhoven.jpg",
@@ -499,8 +476,7 @@
     "category": "A. O. Smith Corporation"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "BUD": {
   "name": "AB InBev",
@@ -3745,6 +3721,7 @@
    "A"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -3796,126 +3773,6 @@
     "category": "Agilent Technologies"
    },
    {
-    "shot": "c3",
-    "shows": "4-FSK used for WSPR",
-    "file": "File:4-FSK used for WSPR.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:4-FSK_used_for_WSPR.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/4-FSK_used_for_WSPR.jpg/1920px-4-FSK_used_for_WSPR.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/4-FSK_used_for_WSPR.jpg/500px-4-FSK_used_for_WSPR.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Louis Taber, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Louis Taber",
-    "year": 2018,
-    "how": "Commons category",
-    "category": "Agilent Technologies oscilloscopes"
-   },
-   {
-    "shot": "c4",
-    "shows": "Space Aggressors test Red Flag Airmen",
-    "file": "File:Space Aggressors test Red Flag Airmen (2743147).jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Space_Aggressors_test_Red_Flag_Airmen_(2743147).jpeg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Space_Aggressors_test_Red_Flag_Airmen_%282743147%29.jpeg/1920px-Space_Aggressors_test_Red_Flag_Airmen_%282743147%29.jpeg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Space_Aggressors_test_Red_Flag_Airmen_%282743147%29.jpeg/500px-Space_Aggressors_test_Red_Flag_Airmen_%282743147%29.jpeg",
-    "size": [
-     1920,
-     1445
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "U.S. Air Force image by Tech. Sgt. David Salanitri, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "U.S. Air Force image by Tech. Sgt. David Salanitri",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Agilent Technologies spectrum analyzers"
-   },
-   {
-    "shot": "c5",
-    "shows": "HST Saphir 2155 - Agilent HFCT-5205B-2326",
-    "file": "File:HST Saphir 2155 - Agilent HFCT-5205B-2326.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:HST_Saphir_2155_-_Agilent_HFCT-5205B-2326.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HST_Saphir_2155_-_Agilent_HFCT-5205B-2326.jpg/1920px-HST_Saphir_2155_-_Agilent_HFCT-5205B-2326.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HST_Saphir_2155_-_Agilent_HFCT-5205B-2326.jpg/500px-HST_Saphir_2155_-_Agilent_HFCT-5205B-2326.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Agilent Technologies"
-   },
-   {
-    "shot": "c6",
-    "shows": "Hartslag- en contractiemonitor",
-    "file": "File:Hartslag- en contractiemonitor.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hartslag-_en_contractiemonitor.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hartslag-_en_contractiemonitor.jpg/1920px-Hartslag-_en_contractiemonitor.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hartslag-_en_contractiemonitor.jpg/500px-Hartslag-_en_contractiemonitor.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Harmid, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Harmid",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Agilent Technologies"
-   },
-   {
-    "shot": "c7",
-    "shows": "Internal components in Agilent DSO3062A",
-    "file": "File:Internal components in Agilent DSO3062A (15088858022).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Internal_components_in_Agilent_DSO3062A_(15088858022).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Internal_components_in_Agilent_DSO3062A_%2815088858022%29.jpg/1920px-Internal_components_in_Agilent_DSO3062A_%2815088858022%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Internal_components_in_Agilent_DSO3062A_%2815088858022%29.jpg/500px-Internal_components_in_Agilent_DSO3062A_%2815088858022%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "htomari, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "htomari",
-    "year": 2014,
-    "how": "Commons category",
-    "category": "Agilent Technologies oscilloscopes"
-   },
-   {
     "shot": "s8",
     "shows": "Agilent Technologies showroom, Keisokuki Land (Tōyō Keisokuki) - 1-3-12 Sotokanda, 21.32.31 (by Matt Perreault)",
     "file": "File:Agilent Technologies showroom, Keisokuki Land (Tōyō Keisokuki) - 1-3-12 Sotokanda, 2006-11-29 21.32.31 (by Matt Perreault).jpg",
@@ -3937,54 +3794,6 @@
     "author": "Matt Perreault",
     "year": 2006,
     "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Spectrum Analyzer",
-    "file": "File:Spectrum Analyzer (5679187224).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Spectrum_Analyzer_(5679187224).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spectrum_Analyzer_%285679187224%29.jpg/1920px-Spectrum_Analyzer_%285679187224%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Spectrum_Analyzer_%285679187224%29.jpg/500px-Spectrum_Analyzer_%285679187224%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Sterling Coffey from Rolla, MO, USA, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Sterling Coffey from Rolla, MO, USA",
-    "year": 2011,
-    "how": "Commons category",
-    "category": "Agilent Technologies spectrum analyzers"
-   },
-   {
-    "shot": "c10",
-    "shows": "Agilent 1290 Infinity II multisampler at Gold Standard Analytics, Houston",
-    "file": "File:Agilent 1290 Infinity II multisampler at Gold Standard Analytics, Houston (2026).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Agilent_1290_Infinity_II_multisampler_at_Gold_Standard_Analytics,_Houston_(2026).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Agilent_1290_Infinity_II_multisampler_at_Gold_Standard_Analytics%2C_Houston_%282026%29.jpg/1280px-Agilent_1290_Infinity_II_multisampler_at_Gold_Standard_Analytics%2C_Houston_%282026%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Agilent_1290_Infinity_II_multisampler_at_Gold_Standard_Analytics%2C_Houston_%282026%29.jpg/500px-Agilent_1290_Infinity_II_multisampler_at_Gold_Standard_Analytics%2C_Houston_%282026%29.jpg",
-    "size": [
-     1280,
-     2276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Gold Standard Analytics LLC, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Gold Standard Analytics LLC",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Agilent Technologies"
    },
    {
     "shot": "hand",
@@ -4010,8 +3819,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "APD": {
   "name": "Air Products",
@@ -4625,31 +4433,9 @@
    "AKAM"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
-   {
-    "shot": "main",
-    "shows": "Akamai Technologies headquarters in Cambridge . Photographed by user Coolcaesar on June 19, 2009.",
-    "file": "File:Akamaiheadquarters.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Akamaiheadquarters.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Akamaiheadquarters.jpg/1280px-Akamaiheadquarters.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Akamaiheadquarters.jpg/500px-Akamaiheadquarters.jpg",
-    "size": [
-     1280,
-     1536
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Coolcaesar at English Wikipedia",
-    "year": 2009,
-    "how": "Wikidata main image"
-   },
    {
     "shot": "leader",
     "shows": "F. Thomson Leighton, Akamai Technologies CEO (per Wikidata)",
@@ -4675,6 +4461,29 @@
     "person": true
    },
    {
+    "shot": "main",
+    "shows": "Akamai Technologies headquarters in Cambridge . Photographed by user Coolcaesar on June 19, 2009.",
+    "file": "File:Akamaiheadquarters.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Akamaiheadquarters.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Akamaiheadquarters.jpg/1280px-Akamaiheadquarters.jpg",
+    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Akamaiheadquarters.jpg/500px-Akamaiheadquarters.jpg",
+    "size": [
+     1280,
+     1536
+    ],
+    "focus": [
+     0.5,
+     0.5
+    ],
+    "credit": "Coolcaesar at English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons",
+    "licence": "CC BY-SA 3.0",
+    "licence_kind": "by-sa",
+    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "author": "Coolcaesar at English Wikipedia",
+    "year": 2009,
+    "how": "Wikidata main image"
+   },
+   {
     "shot": "c3",
     "shows": "Akamai Technologies",
     "file": "File:Akamai Technologies.jpg",
@@ -4694,30 +4503,6 @@
     "licence_kind": "by",
     "licence_url": "https://creativecommons.org/licenses/by/3.0",
     "author": "Tim Pierce",
-    "year": 2009,
-    "how": "Commons category",
-    "category": "Akamai"
-   },
-   {
-    "shot": "c4",
-    "shows": "Rich Salz Sept 2009",
-    "file": "File:Rich Salz Sept 2009.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rich_Salz_Sept_2009.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rich_Salz_Sept_2009.jpg/1920px-Rich_Salz_Sept_2009.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rich_Salz_Sept_2009.jpg/500px-Rich_Salz_Sept_2009.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Paul Downey from Berkhamsted, UK, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Paul Downey from Berkhamsted, UK",
     "year": 2009,
     "how": "Commons category",
     "category": "Akamai"
@@ -4792,8 +4577,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "ALB": {
   "name": "Albemarle Corporation",
@@ -9165,6 +8949,7 @@
    "AMCR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
    {
@@ -9191,30 +8976,6 @@
     "how": "hand-picked"
    },
    {
-    "shot": "c1",
-    "shows": "War memorial and railway station, Zele, 2026",
-    "file": "File:War memorial and railway station, Zele, 2026.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:War_memorial_and_railway_station,_Zele,_2026.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/War_memorial_and_railway_station%2C_Zele%2C_2026.jpg/1920px-War_memorial_and_railway_station%2C_Zele%2C_2026.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/War_memorial_and_railway_station%2C_Zele%2C_2026.jpg/500px-War_memorial_and_railway_station%2C_Zele%2C_2026.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "DimiTalen, CC0, via Wikimedia Commons",
-    "licence": "CC0",
-    "licence_kind": "cc0",
-    "licence_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "author": "DimiTalen",
-    "year": 2026,
-    "how": "Commons category",
-    "category": "Amcor Flexibles"
-   },
-   {
     "shot": "c2",
     "shows": "Amcor Flexibles Kreuzlingen AG",
     "file": "File:Amcor Flexibles Kreuzlingen AG.jpg",
@@ -9237,76 +8998,6 @@
     "year": 2020,
     "how": "Commons category",
     "category": "Amcor Flexibles"
-   },
-   {
-    "shot": "c3",
-    "shows": "Inauguração do Laboratório de Controle Microbiológico Avícola em Descalvado - 02-07-2015 (foto 06)",
-    "file": "File:Inauguração do Laboratório de Controle Microbiológico Avícola em Descalvado - 02-07-2015 (foto 06).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Inaugura%C3%A7%C3%A3o_do_Laborat%C3%B3rio_de_Controle_Microbiol%C3%B3gico_Av%C3%ADcola_em_Descalvado_-_02-07-2015_(foto_06).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Inaugura%C3%A7%C3%A3o_do_Laborat%C3%B3rio_de_Controle_Microbiol%C3%B3gico_Av%C3%ADcola_em_Descalvado_-_02-07-2015_%28foto_06%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Inaugura%C3%A7%C3%A3o_do_Laborat%C3%B3rio_de_Controle_Microbiol%C3%B3gico_Av%C3%ADcola_em_Descalvado_-_02-07-2015_%28foto_06%29.jpg/500px-Inaugura%C3%A7%C3%A3o_do_Laborat%C3%B3rio_de_Controle_Microbiol%C3%B3gico_Av%C3%ADcola_em_Descalvado_-_02-07-2015_%28foto_06%29.jpg",
-    "size": [
-     1600,
-     1060
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Secretaria de Agricultura e Abastecimento, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Secretaria de Agricultura e Abastecimento",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "Amcor plc"
-   },
-   {
-    "shot": "s4",
-    "shows": "Amcor Fibre Packaging Australasia factory - panoramio",
-    "file": "File:Amcor Fibre Packaging Australasia factory - panoramio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Amcor_Fibre_Packaging_Australasia_factory_-_panoramio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amcor_Fibre_Packaging_Australasia_factory_-_panoramio.jpg/1920px-Amcor_Fibre_Packaging_Australasia_factory_-_panoramio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Amcor_Fibre_Packaging_Australasia_factory_-_panoramio.jpg/500px-Amcor_Fibre_Packaging_Australasia_factory_-_panoramio.jpg",
-    "size": [
-     1920,
-     532
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Ché Lydia Xyang, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Ché Lydia Xyang",
-    "year": 2010,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s5",
-    "shows": "Amcor Rigid Plastics plant Manchester Michigan",
-    "file": "File:Amcor Rigid Plastics plant Manchester Michigan.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Amcor_Rigid_Plastics_plant_Manchester_Michigan.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amcor_Rigid_Plastics_plant_Manchester_Michigan.JPG/1920px-Amcor_Rigid_Plastics_plant_Manchester_Michigan.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Amcor_Rigid_Plastics_plant_Manchester_Michigan.JPG/500px-Amcor_Rigid_Plastics_plant_Manchester_Michigan.JPG",
-    "size": [
-     1920,
-     471
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dwight Burdette, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Dwight Burdette",
-    "year": 2011,
-    "how": "Commons search"
    },
    {
     "shot": "hand",
@@ -9355,8 +9046,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "AEE": {
   "name": "Ameren",
@@ -10308,32 +9998,9 @@
    "AMT"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "American Tower antenna site plaque, Arlington, Indiana",
-    "file": "File:American Tower antenna site plaque, Arlington, Indiana.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:American_Tower_antenna_site_plaque,_Arlington,_Indiana.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/American_Tower_antenna_site_plaque%2C_Arlington%2C_Indiana.jpg/1920px-American_Tower_antenna_site_plaque%2C_Arlington%2C_Indiana.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/American_Tower_antenna_site_plaque%2C_Arlington%2C_Indiana.jpg/500px-American_Tower_antenna_site_plaque%2C_Arlington%2C_Indiana.jpg",
-    "size": [
-     1920,
-     1470
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Doc Searls, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Doc Searls",
-    "year": 2021,
-    "how": "Commons category",
-    "category": "American Tower"
-   },
    {
     "shot": "c2",
     "shows": "Communications Antenna Tower in Rural Grantsburg, Wisconsin",
@@ -10359,30 +10026,6 @@
     "category": "American Tower"
    },
    {
-    "shot": "c3",
-    "shows": "WHDH-TV tower and Newton Upper Falls Greenway July 2025",
-    "file": "File:WHDH-TV tower and Newton Upper Falls Greenway July 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:WHDH-TV_tower_and_Newton_Upper_Falls_Greenway_July_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WHDH-TV_tower_and_Newton_Upper_Falls_Greenway_July_2025.jpg/1280px-WHDH-TV_tower_and_Newton_Upper_Falls_Greenway_July_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/WHDH-TV_tower_and_Newton_Upper_Falls_Greenway_July_2025.jpg/500px-WHDH-TV_tower_and_Newton_Upper_Falls_Greenway_July_2025.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "4300streetcar",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "WHDH-TV tower"
-   },
-   {
     "shot": "c4",
     "shows": "WHDH-TV tower August 2025",
     "file": "File:WHDH-TV tower August 2025.jpg",
@@ -10405,54 +10048,6 @@
     "year": 2025,
     "how": "Commons category",
     "category": "WHDH-TV tower"
-   },
-   {
-    "shot": "c5",
-    "shows": "American Tower Lonesome Road gate",
-    "file": "File:American Tower Lonesome Road gate.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:American_Tower_Lonesome_Road_gate.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/American_Tower_Lonesome_Road_gate.jpg/1920px-American_Tower_Lonesome_Road_gate.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/American_Tower_Lonesome_Road_gate.jpg/500px-American_Tower_Lonesome_Road_gate.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "The Bushranger, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "The Bushranger",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "American Tower"
-   },
-   {
-    "shot": "c6",
-    "shows": "Caution signs at base of Mariani Square water tower, San Jose, California",
-    "file": "File:Caution signs at base of Mariani Square water tower, San Jose, California.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Caution_signs_at_base_of_Mariani_Square_water_tower,_San_Jose,_California.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Caution_signs_at_base_of_Mariani_Square_water_tower%2C_San_Jose%2C_California.jpg/1280px-Caution_signs_at_base_of_Mariani_Square_water_tower%2C_San_Jose%2C_California.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Caution_signs_at_base_of_Mariani_Square_water_tower%2C_San_Jose%2C_California.jpg/500px-Caution_signs_at_base_of_Mariani_Square_water_tower%2C_San_Jose%2C_California.jpg",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Mxn, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Mxn",
-    "year": 2023,
-    "how": "Commons category",
-    "category": "American Tower"
    },
    {
     "shot": "c7",
@@ -10502,29 +10097,6 @@
     "how": "Commons search"
    },
    {
-    "shot": "s9",
-    "shows": "American Tower Site - panoramio",
-    "file": "File:American Tower Site 310736 - panoramio.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:American_Tower_Site_310736_-_panoramio.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/American_Tower_Site_310736_-_panoramio.jpg/1920px-American_Tower_Site_310736_-_panoramio.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/American_Tower_Site_310736_-_panoramio.jpg/500px-American_Tower_Site_310736_-_panoramio.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Corey Coyle, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Corey Coyle",
-    "year": 2013,
-    "how": "Commons search"
-   },
-   {
     "shot": "s10",
     "shows": "American Tower on Cougar Mountain",
     "file": "File:American Tower on Cougar Mountain (29980838504).jpg",
@@ -10548,8 +10120,7 @@
     "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "AWK": {
   "name": "American Water Works",
@@ -10818,6 +10389,7 @@
    "AME"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -10874,8 +10446,7 @@
     ]
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "AMGN": {
   "name": "Amgen",
@@ -11042,176 +10613,9 @@
    "APH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Amphenol CAMM2 RAM display",
-    "file": "File:Amphenol CAMM2 RAM display.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Amphenol_CAMM2_RAM_display.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amphenol_CAMM2_RAM_display.jpg/1920px-Amphenol_CAMM2_RAM_display.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Amphenol_CAMM2_RAM_display.jpg/500px-Amphenol_CAMM2_RAM_display.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "4300streetcar",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Amphenol"
-   },
-   {
-    "shot": "c2",
-    "shows": "Amphenol DDR5, PCIe, and CAMM connectors at Computex 2025",
-    "file": "File:Amphenol DDR5, PCIe, and CAMM connectors at Computex 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Amphenol_DDR5,_PCIe,_and_CAMM_connectors_at_Computex_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amphenol_DDR5%2C_PCIe%2C_and_CAMM_connectors_at_Computex_2025.jpg/1920px-Amphenol_DDR5%2C_PCIe%2C_and_CAMM_connectors_at_Computex_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Amphenol_DDR5%2C_PCIe%2C_and_CAMM_connectors_at_Computex_2025.jpg/500px-Amphenol_DDR5%2C_PCIe%2C_and_CAMM_connectors_at_Computex_2025.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "4300streetcar",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Amphenol"
-   },
-   {
-    "shot": "c3",
-    "shows": "Amphenol m.2 connectors at Computex 2025",
-    "file": "File:Amphenol m.2 connectors at Computex 2025.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Amphenol_m.2_connectors_at_Computex_2025.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amphenol_m.2_connectors_at_Computex_2025.jpg/1920px-Amphenol_m.2_connectors_at_Computex_2025.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Amphenol_m.2_connectors_at_Computex_2025.jpg/500px-Amphenol_m.2_connectors_at_Computex_2025.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "4300streetcar, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "4300streetcar",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Amphenol"
-   },
-   {
-    "shot": "c4",
-    "shows": "TDE - Zollfahrzeug Antennen und Lüftung",
-    "file": "File:2019-10-03 - TDE - Zollfahrzeug Antennen und Lüftung.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2019-10-03_-_TDE_-_Zollfahrzeug_Antennen_und_L%C3%BCftung.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2019-10-03_-_TDE_-_Zollfahrzeug_Antennen_und_L%C3%BCftung.jpg/1920px-2019-10-03_-_TDE_-_Zollfahrzeug_Antennen_und_L%C3%BCftung.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/2019-10-03_-_TDE_-_Zollfahrzeug_Antennen_und_L%C3%BCftung.jpg/500px-2019-10-03_-_TDE_-_Zollfahrzeug_Antennen_und_L%C3%BCftung.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Fabian Horst, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Fabian Horst",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Amphenol"
-   },
-   {
-    "shot": "c5",
-    "shows": "Apple AirPort Extreme Base Station (A1408) - case removed - Wi-Fi antenna-0033",
-    "file": "File:Apple AirPort Extreme Base Station (A1408) - case removed - Wi-Fi antenna-0033.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Apple_AirPort_Extreme_Base_Station_(A1408)_-_case_removed_-_Wi-Fi_antenna-0033.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Apple_AirPort_Extreme_Base_Station_%28A1408%29_-_case_removed_-_Wi-Fi_antenna-0033.jpg/1920px-Apple_AirPort_Extreme_Base_Station_%28A1408%29_-_case_removed_-_Wi-Fi_antenna-0033.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Apple_AirPort_Extreme_Base_Station_%28A1408%29_-_case_removed_-_Wi-Fi_antenna-0033.jpg/500px-Apple_AirPort_Extreme_Base_Station_%28A1408%29_-_case_removed_-_Wi-Fi_antenna-0033.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Amphenol"
-   },
-   {
-    "shot": "c6",
-    "shows": "Apple TV, 1st generation - Amphenol WiFi antennas-3121",
-    "file": "File:Apple TV, 1st generation - Amphenol WiFi antennas-3121.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Apple_TV,_1st_generation_-_Amphenol_WiFi_antennas-3121.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Apple_TV%2C_1st_generation_-_Amphenol_WiFi_antennas-3121.jpg/1920px-Apple_TV%2C_1st_generation_-_Amphenol_WiFi_antennas-3121.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Apple_TV%2C_1st_generation_-_Amphenol_WiFi_antennas-3121.jpg/500px-Apple_TV%2C_1st_generation_-_Amphenol_WiFi_antennas-3121.jpg",
-    "size": [
-     1920,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2020,
-    "how": "Commons category",
-    "category": "Amphenol"
-   },
-   {
-    "shot": "c7",
-    "shows": "Motorola cd930 - board - Amphenol Simlock slot-2",
-    "file": "File:Motorola cd930 - board - Amphenol Simlock slot-2.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Motorola_cd930_-_board_-_Amphenol_Simlock_slot-2.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Motorola_cd930_-_board_-_Amphenol_Simlock_slot-2.jpg/1920px-Motorola_cd930_-_board_-_Amphenol_Simlock_slot-2.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Motorola_cd930_-_board_-_Amphenol_Simlock_slot-2.jpg/500px-Motorola_cd930_-_board_-_Amphenol_Simlock_slot-2.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2019,
-    "how": "Commons category",
-    "category": "Amphenol"
-   },
    {
     "shot": "s8",
     "shows": "Amphenol industrial building - geograph.org.uk",
@@ -11234,54 +10638,6 @@
     "author": "David Smith",
     "year": 2017,
     "how": "Commons search"
-   },
-   {
-    "shot": "c9",
-    "shows": "Wi-Fi network card by Askey Computers with Wi-Fi Antenna by Amphenol-9712",
-    "file": "File:Wi-Fi network card by Askey Computers with Wi-Fi Antenna by Amphenol-9712.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wi-Fi_network_card_by_Askey_Computers_with_Wi-Fi_Antenna_by_Amphenol-9712.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wi-Fi_network_card_by_Askey_Computers_with_Wi-Fi_Antenna_by_Amphenol-9712.jpg/1920px-Wi-Fi_network_card_by_Askey_Computers_with_Wi-Fi_Antenna_by_Amphenol-9712.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wi-Fi_network_card_by_Askey_Computers_with_Wi-Fi_Antenna_by_Amphenol-9712.jpg/500px-Wi-Fi_network_card_by_Askey_Computers_with_Wi-Fi_Antenna_by_Amphenol-9712.jpg",
-    "size": [
-     1920,
-     1445
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Raimond Spekking, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Raimond Spekking",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "Amphenol"
-   },
-   {
-    "shot": "c10",
-    "shows": "Intermittent train control systems (500 Hz PZB) at Bahnhof Ybbs an der Donau, Austria",
-    "file": "File:2017-09-19 (118) Intermittent train control systems (500 Hz PZB) at Bahnhof Ybbs an der Donau, Austria.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:2017-09-19_(118)_Intermittent_train_control_systems_(500_Hz_PZB)_at_Bahnhof_Ybbs_an_der_Donau,_Austria.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2017-09-19_%28118%29_Intermittent_train_control_systems_%28500_Hz_PZB%29_at_Bahnhof_Ybbs_an_der_Donau%2C_Austria.jpg/1920px-2017-09-19_%28118%29_Intermittent_train_control_systems_%28500_Hz_PZB%29_at_Bahnhof_Ybbs_an_der_Donau%2C_Austria.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/2017-09-19_%28118%29_Intermittent_train_control_systems_%28500_Hz_PZB%29_at_Bahnhof_Ybbs_an_der_Donau%2C_Austria.jpg/500px-2017-09-19_%28118%29_Intermittent_train_control_systems_%28500_Hz_PZB%29_at_Bahnhof_Ybbs_an_der_Donau%2C_Austria.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "GT1976, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "GT1976",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "Amphenol connectors"
    },
    {
     "shot": "hand",
@@ -11388,8 +10744,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "ADI": {
   "name": "Analog Devices",
@@ -12329,6 +11684,7 @@
    "APO"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -12401,8 +11757,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "AAPL": {
   "name": "Apple Inc.",
@@ -13340,103 +12695,10 @@
    "ACGL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
-  "photos": [
-   {
-    "shot": "s1",
-    "shows": "Bolam, St. Andrew's Church, Tower arch capital - geograph.org.uk",
-    "file": "File:Bolam, St. Andrew's Church, Tower arch capital - geograph.org.uk - 7869979.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bolam,_St._Andrew%27s_Church,_Tower_arch_capital_-_geograph.org.uk_-_7869979.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bolam%2C_St._Andrew%27s_Church%2C_Tower_arch_capital_-_geograph.org.uk_-_7869979.jpg/1920px-Bolam%2C_St._Andrew%27s_Church%2C_Tower_arch_capital_-_geograph.org.uk_-_7869979.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bolam%2C_St._Andrew%27s_Church%2C_Tower_arch_capital_-_geograph.org.uk_-_7869979.jpg/500px-Bolam%2C_St._Andrew%27s_Church%2C_Tower_arch_capital_-_geograph.org.uk_-_7869979.jpg",
-    "size": [
-     1920,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Garlick, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Michael Garlick",
-    "year": 2024,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s2",
-    "shows": "Spelsbury, All Saints Church, Tower arch capital 1 - geograph.org.uk",
-    "file": "File:Spelsbury, All Saints Church, Tower arch capital 1 - geograph.org.uk - 7222616.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Spelsbury,_All_Saints_Church,_Tower_arch_capital_1_-_geograph.org.uk_-_7222616.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Spelsbury%2C_All_Saints_Church%2C_Tower_arch_capital_1_-_geograph.org.uk_-_7222616.jpg/1920px-Spelsbury%2C_All_Saints_Church%2C_Tower_arch_capital_1_-_geograph.org.uk_-_7222616.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Spelsbury%2C_All_Saints_Church%2C_Tower_arch_capital_1_-_geograph.org.uk_-_7222616.jpg/500px-Spelsbury%2C_All_Saints_Church%2C_Tower_arch_capital_1_-_geograph.org.uk_-_7222616.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Garlick, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Michael Garlick",
-    "year": 2022,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s3",
-    "shows": "Stewkley, St. Michael's Church, West tower arch capital 2 - geograph.org.uk",
-    "file": "File:Stewkley, St. Michael's Church, West tower arch capital 2 - geograph.org.uk - 5468731.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stewkley,_St._Michael%27s_Church,_West_tower_arch_capital_2_-_geograph.org.uk_-_5468731.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Stewkley%2C_St._Michael%27s_Church%2C_West_tower_arch_capital_2_-_geograph.org.uk_-_5468731.jpg/1920px-Stewkley%2C_St._Michael%27s_Church%2C_West_tower_arch_capital_2_-_geograph.org.uk_-_5468731.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Stewkley%2C_St._Michael%27s_Church%2C_West_tower_arch_capital_2_-_geograph.org.uk_-_5468731.jpg/500px-Stewkley%2C_St._Michael%27s_Church%2C_West_tower_arch_capital_2_-_geograph.org.uk_-_5468731.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Garlick, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Michael Garlick",
-    "year": 2017,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s4",
-    "shows": "Langford, St. Matthew's Church, Tower arch capital - geograph.org.uk",
-    "file": "File:Langford, St. Matthew's Church, Tower arch capital - geograph.org.uk - 5441819.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Langford,_St._Matthew%27s_Church,_Tower_arch_capital_-_geograph.org.uk_-_5441819.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Langford%2C_St._Matthew%27s_Church%2C_Tower_arch_capital_-_geograph.org.uk_-_5441819.jpg/1920px-Langford%2C_St._Matthew%27s_Church%2C_Tower_arch_capital_-_geograph.org.uk_-_5441819.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Langford%2C_St._Matthew%27s_Church%2C_Tower_arch_capital_-_geograph.org.uk_-_5441819.jpg/500px-Langford%2C_St._Matthew%27s_Church%2C_Tower_arch_capital_-_geograph.org.uk_-_5441819.jpg",
-    "size": [
-     1920,
-     1264
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Garlick, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "Michael Garlick",
-    "year": 2017,
-    "how": "Commons search"
-   }
-  ],
-  "checked": "2026-11-04",
-  "target": 10
+  "photos": [],
+  "checked": "2026-11-22"
  },
  "ACHR": {
   "name": "Archer Aviation",
@@ -13845,10 +13107,10 @@
    "ARES"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "ANET": {
   "name": "Arista Networks",
@@ -14328,10 +13590,10 @@
    "AIZ"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "ASTS": {
   "name": "AST SpaceMobile",
@@ -15371,6 +14633,7 @@
    "ADP"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -15397,8 +14660,7 @@
     "how": "Wikidata main image"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "AZO": {
   "name": "AutoZone",
@@ -16218,176 +15480,9 @@
    "BALL"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-materials",
   "photos": [
-   {
-    "shot": "c1",
-    "shows": "Macro Image of Ball jar",
-    "file": "File:Macro Image of Ball jar.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Macro_Image_of_Ball_jar.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Macro_Image_of_Ball_jar.jpg/1920px-Macro_Image_of_Ball_jar.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Macro_Image_of_Ball_jar.jpg/500px-Macro_Image_of_Ball_jar.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jyncarecat, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Jyncarecat",
-    "year": 2024,
-    "how": "Commons category",
-    "category": "Ball brand jars"
-   },
-   {
-    "shot": "c2",
-    "shows": "Mason jar family",
-    "file": "File:Mason jar family.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Mason_jar_family.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mason_jar_family.jpg/1920px-Mason_jar_family.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Mason_jar_family.jpg/500px-Mason_jar_family.jpg",
-    "size": [
-     1920,
-     1732
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Dvortygirl, CC BY 4.0, via Wikimedia Commons",
-    "licence": "CC BY 4.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/4.0",
-    "author": "Dvortygirl",
-    "year": 2025,
-    "how": "Commons category",
-    "category": "Ball brand jars"
-   },
-   {
-    "shot": "c3",
-    "shows": "Kepler spacecraft being prepped for shipping",
-    "file": "File:Kepler spacecraft being prepped for shipping.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kepler_spacecraft_being_prepped_for_shipping.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kepler_spacecraft_being_prepped_for_shipping.jpg/1280px-Kepler_spacecraft_being_prepped_for_shipping.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kepler_spacecraft_being_prepped_for_shipping.jpg/500px-Kepler_spacecraft_being_prepped_for_shipping.jpg",
-    "size": [
-     1280,
-     1912
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA/JPL/Ball Aerospace & Technologies Corp, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA/JPL/Ball Aerospace & Technologies Corp",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Ball Aerospace & Technologies"
-   },
-   {
-    "shot": "c4",
-    "shows": "James Webb Space Telescope Cryogenic Mirror testing",
-    "file": "File:James Webb Space Telescope Cryogenic Mirror testing (8247194011).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Cryogenic_Mirror_testing_(8247194011).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/James_Webb_Space_Telescope_Cryogenic_Mirror_testing_%288247194011%29.jpg/1920px-James_Webb_Space_Telescope_Cryogenic_Mirror_testing_%288247194011%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/James_Webb_Space_Telescope_Cryogenic_Mirror_testing_%288247194011%29.jpg/500px-James_Webb_Space_Telescope_Cryogenic_Mirror_testing_%288247194011%29.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "NASA's James Webb Space Telescope from Greenbelt, MD, USA, public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "NASA's James Webb Space Telescope from Greenbelt, MD, USA",
-    "year": 2010,
-    "how": "Commons category",
-    "category": "Ball Aerospace & Technologies"
-   },
-   {
-    "shot": "c5",
-    "shows": "Iced White Mocha in a Glass Jug",
-    "file": "File:Iced White Mocha in a Glass Jug.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Iced_White_Mocha_in_a_Glass_Jug.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Iced_White_Mocha_in_a_Glass_Jug.jpg/1280px-Iced_White_Mocha_in_a_Glass_Jug.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Iced_White_Mocha_in_a_Glass_Jug.jpg/500px-Iced_White_Mocha_in_a_Glass_Jug.jpg",
-    "size": [
-     1280,
-     1564
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Michael Scialdone, CC BY 2.0, via Wikimedia Commons",
-    "licence": "CC BY 2.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/2.0",
-    "author": "Michael Scialdone",
-    "year": 2013,
-    "how": "Commons category",
-    "category": "Ball Corporation"
-   },
-   {
-    "shot": "c6",
-    "shows": "Ball Memorial Hospital, Muncie, Indiana (17-04-2007)",
-    "file": "File:Ball Memorial Hospital, Muncie, Indiana (17-04-2007).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ball_Memorial_Hospital,_Muncie,_Indiana_(17-04-2007).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ball_Memorial_Hospital%2C_Muncie%2C_Indiana_%2817-04-2007%29.jpg/1920px-Ball_Memorial_Hospital%2C_Muncie%2C_Indiana_%2817-04-2007%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ball_Memorial_Hospital%2C_Muncie%2C_Indiana_%2817-04-2007%29.jpg/500px-Ball_Memorial_Hospital%2C_Muncie%2C_Indiana_%2817-04-2007%29.jpg",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Jdbrendel ( talk ) ( Uploads ), public domain, via Wikimedia Commons",
-    "licence": "Public domain",
-    "licence_kind": "pd",
-    "licence_url": "",
-    "author": "Jdbrendel ( talk ) ( Uploads )",
-    "year": 2007,
-    "how": "Commons category",
-    "category": "Ball Corporation"
-   },
-   {
-    "shot": "c7",
-    "shows": "One Energy Wind for Industry ( )",
-    "file": "File:One Energy Wind for Industry (cropped).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:One_Energy_Wind_for_Industry_(cropped).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/One_Energy_Wind_for_Industry_%28cropped%29.jpg/1920px-One_Energy_Wind_for_Industry_%28cropped%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/One_Energy_Wind_for_Industry_%28cropped%29.jpg/500px-One_Energy_Wind_for_Industry_%28cropped%29.jpg",
-    "size": [
-     1920,
-     1779
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Eileen at OE, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Eileen at OE",
-    "year": 2017,
-    "how": "Commons category",
-    "category": "Ball Corporation"
-   },
    {
     "shot": "hand",
     "shows": "James Webb Space Telescope Mirror38",
@@ -16481,8 +15576,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "BAC": {
   "name": "Bank of America",
@@ -17417,6 +16511,7 @@
    "BAX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -17492,54 +16587,6 @@
     "category": "Baxter International"
    },
    {
-    "shot": "c4",
-    "shows": "Rosersbergs industriområde 2015 -9",
-    "file": "File:Rosersbergs industriområde 2015 -9.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Rosersbergs_industriomr%C3%A5de_2015_-9.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rosersbergs_industriomr%C3%A5de_2015_-9.JPG/1920px-Rosersbergs_industriomr%C3%A5de_2015_-9.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rosersbergs_industriomr%C3%A5de_2015_-9.JPG/500px-Rosersbergs_industriomr%C3%A5de_2015_-9.JPG",
-    "size": [
-     1920,
-     1440
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "I99pema, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "I99pema",
-    "year": 2015,
-    "how": "Commons category",
-    "category": "Baxter International"
-   },
-   {
-    "shot": "c5",
-    "shows": "Uferstraße Baxter Orth an der Donau 01",
-    "file": "File:Uferstraße Baxter Orth an der Donau 01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Uferstra%C3%9Fe_Baxter_Orth_an_der_Donau_01.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Uferstra%C3%9Fe_Baxter_Orth_an_der_Donau_01.jpg/1920px-Uferstra%C3%9Fe_Baxter_Orth_an_der_Donau_01.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Uferstra%C3%9Fe_Baxter_Orth_an_der_Donau_01.jpg/500px-Uferstra%C3%9Fe_Baxter_Orth_an_der_Donau_01.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Anton-kurt, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "author": "Anton-kurt",
-    "year": 2016,
-    "how": "Commons category",
-    "category": "Baxter Orth an der Donau"
-   },
-   {
     "shot": "c6",
     "shows": "Baxter Colleague CX infusion pump",
     "file": "File:Baxter Colleague CX infusion pump.JPG",
@@ -17560,102 +16607,6 @@
     "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
     "author": "BrokenSphere",
     "year": 2008,
-    "how": "Commons category",
-    "category": "Baxter International"
-   },
-   {
-    "shot": "c7",
-    "shows": "Baxter dextrose and sodium chloride injection USP",
-    "file": "File:Baxter dextrose and sodium chloride injection USP.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Baxter_dextrose_and_sodium_chloride_injection_USP.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Baxter_dextrose_and_sodium_chloride_injection_USP.JPG/1280px-Baxter_dextrose_and_sodium_chloride_injection_USP.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Baxter_dextrose_and_sodium_chloride_injection_USP.JPG/500px-Baxter_dextrose_and_sodium_chloride_injection_USP.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "BrokenSphere",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Baxter International"
-   },
-   {
-    "shot": "c8",
-    "shows": "Baxter sodium chloride irrigation",
-    "file": "File:Baxter sodium chloride irrigation.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Baxter_sodium_chloride_irrigation.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Baxter_sodium_chloride_irrigation.JPG/1280px-Baxter_sodium_chloride_irrigation.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Baxter_sodium_chloride_irrigation.JPG/500px-Baxter_sodium_chloride_irrigation.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "BrokenSphere",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Baxter International"
-   },
-   {
-    "shot": "c9",
-    "shows": "Baxter sterile water for irrigation",
-    "file": "File:Baxter sterile water for irrigation.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Baxter_sterile_water_for_irrigation.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Baxter_sterile_water_for_irrigation.JPG/1280px-Baxter_sterile_water_for_irrigation.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Baxter_sterile_water_for_irrigation.JPG/500px-Baxter_sterile_water_for_irrigation.JPG",
-    "size": [
-     1280,
-     1707
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "BrokenSphere, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "BrokenSphere",
-    "year": 2008,
-    "how": "Commons category",
-    "category": "Baxter International"
-   },
-   {
-    "shot": "c10",
-    "shows": "Faktor-VIII",
-    "file": "File:Faktor-VIII.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Faktor-VIII.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Faktor-VIII.jpg/1920px-Faktor-VIII.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Faktor-VIII.jpg/500px-Faktor-VIII.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "No machine-readable author provided. Zwischenzeit~commonswiki assumed (based on copyright claims)., CC BY-SA 2.5, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.5",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.5",
-    "author": "No machine-readable author provided. Zwischenzeit~commonswiki assumed (based on copyright claims).",
-    "year": 2004,
     "how": "Commons category",
     "category": "Baxter International"
    },
@@ -17729,8 +16680,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "BDX": {
   "name": "Becton Dickinson",
@@ -19450,10 +18400,10 @@
    "BBAI"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "TECH": {
   "name": "Bio-Techne",
@@ -19474,6 +18424,7 @@
    "BIIB"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -19498,29 +18449,6 @@
     "author": "Astrophobe",
     "year": 2022,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "s2",
-    "shows": "Biogen Power Station on Royston Road - geograph.org.uk",
-    "file": "File:Biogen Power Station on Royston Road - geograph.org.uk - 6806596.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Biogen_Power_Station_on_Royston_Road_-_geograph.org.uk_-_6806596.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Biogen_Power_Station_on_Royston_Road_-_geograph.org.uk_-_6806596.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Biogen_Power_Station_on_Royston_Road_-_geograph.org.uk_-_6806596.jpg/500px-Biogen_Power_Station_on_Royston_Road_-_geograph.org.uk_-_6806596.jpg",
-    "size": [
-     1765,
-     1163
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "David Howard, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "David Howard",
-    "year": 2021,
-    "how": "Commons search"
    },
    {
     "shot": "hand",
@@ -19550,8 +18478,7 @@
     "low_res": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "BNTX": {
   "name": "BioNTech",
@@ -20415,6 +19342,7 @@
    "BX"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-financials",
   "photos": [
    {
@@ -20539,8 +19467,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "XYZ": {
   "name": "Block, Inc.",
@@ -23806,10 +22733,10 @@
    "BR"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "BRO": {
   "name": "Brown & Brown",
@@ -25070,6 +23997,7 @@
    "CHRW"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-industrials",
   "photos": [
    {
@@ -25259,8 +24187,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "AI": {
   "name": "C3.ai",
@@ -25281,6 +24208,7 @@
    "CDNS"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -25331,8 +24259,7 @@
     "person": true
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "CPT": {
   "name": "Camden Property Trust",
@@ -25341,6 +24268,7 @@
    "CPT"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-real-estate",
   "photos": [
    {
@@ -25390,8 +24318,7 @@
     "how": "hand-picked"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "CCJ": {
   "name": "Cameco",
@@ -25909,6 +24836,7 @@
    "CAH"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-health",
   "photos": [
    {
@@ -25957,34 +24885,9 @@
     "year": 2022,
     "how": "Commons category",
     "category": "Cardinal Health"
-   },
-   {
-    "shot": "c3",
-    "shows": "US441sUS129sGA24sRoadSigns",
-    "file": "File:US441sUS129sGA24sRoadSigns (42118273681).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:US441sUS129sGA24sRoadSigns_(42118273681).jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/US441sUS129sGA24sRoadSigns_%2842118273681%29.jpg/1920px-US441sUS129sGA24sRoadSigns_%2842118273681%29.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/US441sUS129sGA24sRoadSigns_%2842118273681%29.jpg/500px-US441sUS129sGA24sRoadSigns_%2842118273681%29.jpg",
-    "size": [
-     1920,
-     1280
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "formulanone from Huntsville, United States, CC BY-SA 2.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 2.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/2.0",
-    "author": "formulanone from Huntsville, United States",
-    "year": 2012,
-    "how": "Commons category",
-    "category": "Cardinal Health"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "CCL": {
   "name": "Carnival Corporation",
@@ -28377,6 +27280,7 @@
    "CDW"
   ],
   "aliases": [],
+  "target": 10,
   "sector": "sector-tech",
   "photos": [
    {
@@ -28428,148 +27332,9 @@
     "author": "Raysonho @ Open Grid Scheduler / Grid Engine",
     "year": 2018,
     "how": "Wikidata main image"
-   },
-   {
-    "shot": "s2",
-    "shows": "CDW Building Lobby",
-    "file": "File:CDW Building Lobby 201405.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CDW_Building_Lobby_201405.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/CDW_Building_Lobby_201405.jpg/1920px-CDW_Building_Lobby_201405.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/CDW_Building_Lobby_201405.jpg/500px-CDW_Building_Lobby_201405.jpg",
-    "size": [
-     1920,
-     1278
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wing1990hk, CC BY 3.0, via Wikimedia Commons",
-    "licence": "CC BY 3.0",
-    "licence_kind": "by",
-    "licence_url": "https://creativecommons.org/licenses/by/3.0",
-    "author": "Wing1990hk",
-    "year": 2014,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s3",
-    "shows": "CDW Building after second renovation",
-    "file": "File:CDW Building after second renovation.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CDW_Building_after_second_renovation.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CDW_Building_after_second_renovation.jpg/1280px-CDW_Building_after_second_renovation.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CDW_Building_after_second_renovation.jpg/500px-CDW_Building_after_second_renovation.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Exploringlife, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Exploringlife",
-    "year": 2017,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s4",
-    "shows": "CDW Building",
-    "file": "File:CDW Building 201701.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CDW_Building_201701.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/CDW_Building_201701.jpg/1280px-CDW_Building_201701.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/CDW_Building_201701.jpg/500px-CDW_Building_201701.jpg",
-    "size": [
-     1280,
-     2276
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Pp0912, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Pp0912",
-    "year": 2017,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s5",
-    "shows": "HK Tsuen Wan Sunday CDW Building n CDW Place",
-    "file": "File:HK Tsuen Wan Sunday CDW Building n CDW Place.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_Tsuen_Wan_Sunday_CDW_Building_n_CDW_Place.JPG",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/HK_Tsuen_Wan_Sunday_CDW_Building_n_CDW_Place.JPG",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/HK_Tsuen_Wan_Sunday_CDW_Building_n_CDW_Place.JPG/500px-HK_Tsuen_Wan_Sunday_CDW_Building_n_CDW_Place.JPG",
-    "size": [
-     1600,
-     1200
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Atwanist, CC BY-SA 3.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 3.0",
-    "licence_kind": "by-sa",
-    "licence_url": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "author": "Atwanist",
-    "year": 2009,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s6",
-    "shows": "CDW Building under second renovation in September 2016",
-    "file": "File:CDW Building under second renovation in September 2016.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CDW_Building_under_second_renovation_in_September_2016.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CDW_Building_under_second_renovation_in_September_2016.jpg/1280px-CDW_Building_under_second_renovation_in_September_2016.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CDW_Building_under_second_renovation_in_September_2016.jpg/500px-CDW_Building_under_second_renovation_in_September_2016.jpg",
-    "size": [
-     1280,
-     1920
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Exploringlife, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Exploringlife",
-    "year": 2016,
-    "how": "Commons search"
-   },
-   {
-    "shot": "s7",
-    "shows": "CDW Building Entrance 1 2014",
-    "file": "File:CDW Building Entrance 1 2014.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CDW_Building_Entrance_1_2014.jpg",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CDW_Building_Entrance_1_2014.jpg/1920px-CDW_Building_Entrance_1_2014.jpg",
-    "preview": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/CDW_Building_Entrance_1_2014.jpg/500px-CDW_Building_Entrance_1_2014.jpg",
-    "size": [
-     1920,
-     1437
-    ],
-    "focus": [
-     0.5,
-     0.5
-    ],
-    "credit": "Wpcpey, CC BY-SA 4.0, via Wikimedia Commons",
-    "licence": "CC BY-SA 4.0",
-    "licence_kind": "by-sa",
-    "licence_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "author": "Wpcpey",
-    "year": 2014,
-    "how": "Commons search"
    }
   ],
-  "checked": "2026-11-04",
-  "target": 10
+  "checked": "2026-11-22"
  },
  "CELH": {
   "name": "Celsius",
