@@ -596,6 +596,12 @@ Decisions (Pablo, 4 Nov 2026):
   Chernobyl and windmills for nuclear, sea waves for "vault", a disco laser and a golf disc ("atom") for quantum, an
   Indian flag and a vaccination for US politics, a guitar for EVs. Topics and sectors 353 -> **372 clips** (10 of 48 at
   10); still thin: ev 0, quantum 2, nuclear 3, gold 4, bonds 5, cybersecurity 5. Bank: **425 clips**.
+- **Third refill of the thin topics** (23 Nov): the same `--redo --only` pass for the 38 still under 10. 100 new picks
+  graded by eye, only **10 grade 3** (the Mexican stock exchange, a coin spinning on red, the Hungarian parliament, an
+  office calculator and papers, a man walking in a parking garage, a power-plant pier, a chemistry lab, Portofino's
+  harbour, a shopping mall's dome, Rotterdam's port). Word matches as before (Chernobyl and wind farms for nuclear, a
+  guitar and a drain for EVs, an Indian flag for US politics). Topics and sectors 372 -> **381 clips** (12 of 48 at 10; ev 0, quantum 3, gold 4, nuclear 4); bank **434 clips**. The cache is
+  nearly spent: each refill now adds ~10.
 - Next for company videos: another source with brand footage (Pexels, if it issues keys again). Pixabay and Commons
   have little more.
 

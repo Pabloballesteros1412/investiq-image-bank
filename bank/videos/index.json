@@ -8,8 +8,8 @@
   "Credit every clip with its 'credit' line where the post's credits go (caption or end card). Pixabay asks for no credit but the bank gives one; Commons clips are CC0, public domain or CC BY (CC BY needs the credit).",
   "A subject with few or no clips: use its photos (bank/index.json) instead."
  ],
- "updated": "2026-11-22",
- "videos": 425,
+ "updated": "2026-11-23",
+ "videos": 434,
  "subjects": [
   {
    "id": "fed",
@@ -51,7 +51,7 @@
    "id": "bull-market",
    "kind": "topic",
    "name": "Wall Street & stock market rallies",
-   "videos": 7,
+   "videos": 8,
    "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/bull-market.json"
@@ -141,7 +141,7 @@
    "id": "dollar",
    "kind": "topic",
    "name": "US dollar & currencies",
-   "videos": 9,
+   "videos": 10,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/dollar.json"
@@ -150,7 +150,7 @@
    "id": "bonds",
    "kind": "topic",
    "name": "Treasuries, bonds & national debt",
-   "videos": 5,
+   "videos": 6,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/bonds.json"
@@ -168,7 +168,7 @@
    "id": "earnings",
    "kind": "topic",
    "name": "Earnings season",
-   "videos": 7,
+   "videos": 8,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/earnings.json"
@@ -195,7 +195,7 @@
    "id": "nuclear",
    "kind": "topic",
    "name": "Nuclear power & uranium",
-   "videos": 3,
+   "videos": 4,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/nuclear.json"
@@ -276,7 +276,7 @@
    "id": "quantum",
    "kind": "topic",
    "name": "Quantum computing",
-   "videos": 2,
+   "videos": 3,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/quantum.json"
@@ -339,8 +339,8 @@
    "id": "luxury",
    "kind": "topic",
    "name": "Luxury goods",
-   "videos": 8,
-   "vertical": 2,
+   "videos": 9,
+   "vertical": 3,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/luxury.json"
   },
@@ -402,7 +402,7 @@
    "id": "sector-staples",
    "kind": "sector",
    "name": "Consumer staples sector",
-   "videos": 9,
+   "videos": 10,
    "vertical": 1,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-staples.json"
@@ -438,7 +438,7 @@
    "id": "sector-materials",
    "kind": "sector",
    "name": "Materials sector",
-   "videos": 8,
+   "videos": 9,
    "vertical": 0,
    "target": 10,
    "file": "https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/sector-materials.json"
