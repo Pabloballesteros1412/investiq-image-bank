@@ -600,7 +600,7 @@ Decisions (Pablo, 4 Nov 2026):
   graded by eye, only **10 grade 3** (the Mexican stock exchange, a coin spinning on red, the Hungarian parliament, an
   office calculator and papers, a man walking in a parking garage, a power-plant pier, a chemistry lab, Portofino's
   harbour, a shopping mall's dome, Rotterdam's port). Word matches as before (Chernobyl and wind farms for nuclear, a
-  guitar and a drain for EVs, an Indian flag for US politics). Topics and sectors 372 -> **382 clips**. The cache is
+  guitar and a drain for EVs, an Indian flag for US politics). Topics and sectors 372 -> **381 clips** (12 of 48 at 10; ev 0, quantum 3, gold 4, nuclear 4); bank **434 clips**. The cache is
   nearly spent: each refill now adds ~10.
 - Next for company videos: another source with brand footage (Pexels, if it issues keys again). Pixabay and Commons
   have little more.
