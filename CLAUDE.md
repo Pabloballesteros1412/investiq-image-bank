@@ -519,7 +519,8 @@ Decisions (Pablo, 4 Nov 2026):
   same file (Pixabay/NASA published unless graded < 3, Commons only grade 3). Review: `python videos.py sheets
   DIR` (3 frames per clip: NASA's own stills, Commons thumbnails with `seek=`, Pixabay via ffmpeg from the tiny file),
   `python videos.py grade G.json DIR` (same format as review.py; reindexes). A video session touches only `videos.py`,
-  `test_videos.py`, `bank/video_manifest.json`, `bank/video_review.json`, `bank/videos/` and its own CLAUDE.md section. `CAROUSEL_CHAT.md` has the chat block.
+  `test_videos.py`, `video_gallery.html`, `docs/videos.html`, `bank/video_manifest.json`, `bank/video_review.json`,
+  `bank/videos/`, the Vídeos block of `CAROUSEL_CHAT.md` and its own CLAUDE.md section. `CAROUSEL_CHAT.md` has the chat block.
 - Trial without Pixabay (Commons + NASA, oil/tariffs/space, in a scratch copy of the bank): Commons fills places with
   word matches and news (a barrel organ for "oil barrel", seized tankers), hence the stricter rules above; good ones
   exist (Port of Cork aerials, Rotterdam locks). A space trial first hung: NASA lists some asset addresses with raw
@@ -602,6 +603,14 @@ Decisions (Pablo, 4 Nov 2026):
   harbour, a shopping mall's dome, Rotterdam's port). Word matches as before (Chernobyl and wind farms for nuclear, a
   guitar and a drain for EVs, an Indian flag for US politics). Topics and sectors 372 -> **381 clips** (12 of 48 at 10; ev 0, quantum 3, gold 4, nuclear 4); bank **434 clips**. The cache is
   nearly spent: each refill now adds ~10.
+- **Video gallery** (24 Nov, Pablo asked where to see the clips): `python videos.py index` now also writes
+  `docs/videos.html` from `video_gallery.html` (same tokens as the photo gallery; it is only written where a `docs/`
+  folder sits next to the bank, so test banks get none). GitHub Pages serves it at
+  https://pabloballesteros1412.github.io/investiq-image-bank/videos.html : every topic, sector and company with clips,
+  posters, 9:16 / 16:9 / 4K tags, search, type and orientation filters, and a player with the credit and links. The
+  photo gallery (`docs/index.html`, the photo session's) has no link to it yet; the video page links back to it. The
+  Vídeos block of `CAROUSEL_CHAT.md` now covers companies (brand clips, never the company's own footage; `fill_from`
+  = sector) and gives the gallery's address.
 - Next for company videos: another source with brand footage (Pexels, if it issues keys again). Pixabay and Commons
   have little more.
 

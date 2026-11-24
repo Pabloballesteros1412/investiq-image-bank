@@ -45,17 +45,19 @@ hace falta cambiar nada en el proyecto.
 
 ## Vídeos (desde el 18 de noviembre de 2026)
 
-El banco también guarda clips de vídeo de los temas y sectores: Pixabay (la fuente principal), Wikimedia Commons
-(solo CC0, dominio público y CC BY, y solo los que tienen nota 3) y la NASA (espacio). Igual que las fotos, se
-enlazan y no se copian, y cada clip se revisa a ojo. Hay clips verticales (Reels, TikTok, Shorts) y horizontales.
-Cuando el índice de vídeos tenga clips, pega también este bloque en las instrucciones del proyecto que haga los
-vídeos (o en el de carruseles):
+El banco también guarda clips de vídeo de los temas, los sectores y las empresas: Pixabay (la fuente principal),
+Wikimedia Commons (solo CC0, dominio público y CC BY, y solo los que tienen nota 3) y la NASA (espacio). Igual que
+las fotos, se enlazan y no se copian, y cada clip se revisa a ojo. Hay clips verticales (Reels, TikTok, Shorts) y
+horizontales. Para verlos: https://pabloballesteros1412.github.io/investiq-image-bank/videos.html (la galería de
+fotos está en la misma web). Pega también este bloque en las instrucciones del proyecto que haga los vídeos (o en
+el de carruseles):
 
 ```
 Banco de vídeos de InvestIQ
 - Índice: https://raw.githubusercontent.com/Pabloballesteros1412/investiq-image-bank/main/bank/videos/index.json
-- Lee el índice y sus reglas ("rules"). Busca el tema o el sector por su "id" (por ejemplo "gold", "oil",
-  "sector-tech") y abre su archivo ("file"): hasta 10 clips por tema y sector.
+- Lee el índice y sus reglas ("rules"). Busca el tema, el sector o la empresa por su "id" (por ejemplo "gold",
+  "sector-tech", "AAPL") y abre su archivo ("file"): hasta 10 clips por tema y sector, hasta 5 por empresa
+  (10 las más conocidas).
 - Elige por lo que muestra el clip ("shows", y "poster" para verlo), su orientación ("orientation") y su
   duración ("duration", en segundos).
 - Para Reels, TikTok o Shorts usa clips "vertical". Un clip horizontal con "vertical_crop_ok": true es 4K y se
@@ -63,9 +65,16 @@ Banco de vídeos de InvestIQ
   dentro de un vídeo vertical.
 - Descarga el archivo para editarlo: "url" es el mejor (a menudo 4K) y "url_1080" uno más ligero en 1080p.
   Quita el sonido original del clip.
-- Son clips genéricos del tema: nunca los presentes como imágenes de una empresa, persona o suceso concreto.
+- Los clips de temas y sectores son genéricos: nunca los presentes como imágenes de una empresa, persona o
+  suceso concreto.
+- Un clip de empresa muestra una marca, producto, tienda o avión suyo tal como lo etiquetó quien lo subió
+  (un iPhone, un avión de United): descríbelo por lo que muestra y nunca lo presentes como vídeo de la propia
+  empresa, un anuncio o una noticia.
+- Si una empresa tiene menos clips que su objetivo, su ficha trae "fill_from" = su sector: usa los clips de ese
+  sector, que son genéricos y nunca se presentan como de la empresa. Muchas empresas no tienen ningún clip propio.
+- Nunca digas que una persona que sale en un clip es alguien en concreto.
 - Pon el crédito de cada clip ("credit") en el texto del post o en el cierre del vídeo.
-- Si un tema no tiene clips, usa sus fotos (bank/index.json).
+- Si un tema o empresa no tiene clips, usa sus fotos (bank/index.json).
 ```
 
 Si el chat descarga los clips con código, permite también `cdn.pixabay.com` e `images-assets.nasa.gov`
