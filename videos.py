@@ -39,7 +39,7 @@ free places. Commands:
     python videos.py sheets OUT_DIR                 contact sheets of the clips without a grade (3 frames each,
                                                     18 clips a sheet) and OUT_DIR/sheets.json
     python videos.py grade GRADES.json OUT_DIR      same format as review.py; then python videos.py index
-    python videos.py index                          bank/videos/ for the chat
+    python videos.py index                          bank/videos/ for the chat, and docs/videos.html (the gallery)
 """
 import hashlib, io, json, math, os, re, subprocess, sys, tempfile, textwrap, time, urllib.error, urllib.parse, urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -586,7 +586,30 @@ def index(bank=B.BANK, base_url=B.BASE_URL):
         {"about": "InvestIQ video bank: freely licensed clips of market topics, GICS sectors and companies' brands "
                   "(Pixabay, Wikimedia Commons, NASA), checked by eye, for Reels, TikTok, Shorts and horizontal video.",
          "rules": RULES, "updated": date.today().isoformat(), "videos": total, "subjects": entries}, indent=1, ensure_ascii=False))
+    gallery(bank)
     return total
+
+
+GALLERY_TEMPLATE = B.HERE / "video_gallery.html"
+
+
+def gallery(bank=B.BANK, out=None):
+    """docs/videos.html, the human gallery of the published clips (next to the photo gallery on GitHub Pages),
+    from bank/videos/. Written only where a docs/ folder sits next to the bank, so test banks get none."""
+    bank = Path(bank)
+    out = Path(out) if out else bank.parent / "docs" / "videos.html"
+    if not out.parent.is_dir() or not GALLERY_TEMPLATE.exists():
+        return None
+    idx = json.loads((bank / "videos" / "index.json").read_text(encoding="utf-8"))
+    subjects = []
+    for rec in idx["subjects"]:
+        one = json.loads((bank / "videos" / f"{B.safe(rec['id'])}.json").read_text(encoding="utf-8"))
+        subjects.append({k: rec.get(k) for k in ("id", "kind", "name", "target", "fill_from")} | {"videos": one["videos"]})
+    order = {"topic": 0, "sector": 1, "company": 2}
+    subjects.sort(key=lambda s: (order.get(s["kind"], 3), -len(s["videos"]) if s["kind"] == "company" else 0, s["name"]))
+    data = json.dumps({"updated": idx["updated"], "subjects": subjects}, ensure_ascii=False).replace("</", "<\\/")
+    B.write_atomic(out, GALLERY_TEMPLATE.read_text(encoding="utf-8").replace("__DATA__", data))
+    return out
 
 
 # ------------------------------------------------------------------------------------------------------ review
